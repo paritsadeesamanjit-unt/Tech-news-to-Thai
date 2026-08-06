@@ -1,0 +1,66 @@
+{
+  "generated_at": "2026-08-06T10:38:01.526712+00:00",
+  "count": 6,
+  "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "AI coding startup raises new funding round",
+      "summary_en": "The company says the funding will go toward expanding its engineering team and improving model accuracy.",
+      "title_th": "สตาร์ทอัพ AI ช่วยเขียนโค้ด ระดมทุนรอบใหม่",
+      "summary_th": "บริษัทระบุว่าจะนำเงินทุนไปขยายทีมวิศวกรและพัฒนาความแม่นยำของโมเดล",
+      "link": "https://techcrunch.com/"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Popular app adds on-device AI features for privacy",
+      "summary_en": "The update processes data locally instead of sending it to the cloud.",
+      "title_th": "แอปยอดนิยมเพิ่มฟีเจอร์ AI ประมวลผลในเครื่อง เน้นความเป็นส่วนตัว",
+      "summary_th": "อัปเดตใหม่ประมวลผลข้อมูลในเครื่องแทนการส่งขึ้นคลาวด์",
+      "link": "https://www.theverge.com/"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "flag": "US",
+      "category": "robot",
+      "title_en": "Warehouse robots learn to share floor space efficiently",
+      "summary_en": "A new coordination algorithm reduces collisions between robot fleets.",
+      "title_th": "หุ่นยนต์คลังสินค้าเรียนรู้แบ่งพื้นที่ทำงานอย่างมีประสิทธิภาพ",
+      "summary_th": "อัลกอริทึมใหม่ช่วยลดการชนกันระหว่างฝูงหุ่นยนต์ในคลังสินค้า",
+      "link": "https://spectrum.ieee.org/"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Chipmaker unveils denser packaging for next-gen processors",
+      "summary_en": "The new method stacks circuits vertically to boost compute density.",
+      "title_th": "ผู้ผลิตชิปเปิดตัวเทคนิคแพ็กเกจจิ้งความหนาแน่นสูงสำหรับโปรเซสเซอร์รุ่นใหม่",
+      "summary_th": "เทคนิคใหม่ซ้อนวงจรในแนวตั้งเพื่อเพิ่มความหนาแน่นการประมวลผล",
+      "link": "https://www.engadget.com/"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Researchers test AI model that plans multiple steps ahead",
+      "summary_en": "The model breaks down complex tasks and checks progress before continuing.",
+      "title_th": "นักวิจัยทดสอบโมเดล AI ที่วางแผนล่วงหน้าได้หลายขั้นตอน",
+      "summary_th": "โมเดลนี้แตกงานซับซ้อนเป็นขั้นย่อยและตรวจสอบความคืบหน้าก่อนทำต่อ",
+      "link": "https://www.wired.com/"
+    },
+    {
+      "source": "MIT Technology Review",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Hospitals pilot AI tool to prioritize which scans need review",
+      "summary_en": "The tool flags higher-risk scans for doctors to check first, without making diagnoses itself.",
+      "title_th": "โรงพยาบาลทดลองใช้ AI ช่วยจัดลำดับภาพสแกนที่ควรตรวจก่อน",
+      "summary_th": "เครื่องมือนี้ช่วยชี้ภาพสแกนที่มีความเสี่ยงสูงให้แพทย์ตรวจก่อน โดยไม่วินิจฉัยเอง",
+      "link": "https://www.technologyreview.com/"
+    }
+  ]
+}

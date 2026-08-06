@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>สัญญาณ — ข่าวเทคโนโลยีต่างประเทศ แปลไทย</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Thai:wght@400;500;600;700&family=IBM+Plex+Sans+Thai:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#12161F;
+    --surface:#1A2030;
+    --surface-2:#212840;
+    --line: rgba(255,255,255,0.09);
+    --line-strong: rgba(255,255,255,0.16);
+    --parchment:#F3EEE1;
+    --parchment-ink:#2B2620;
+    --signal:#E3A23B;
+    --signal-dim:#8A6425;
+    --teal:#4FBEB0;
+    --teal-dim:#2C6A62;
+    --text:#EDEBE3;
+    --text-mid:#B7BBC9;
+    --text-muted:#7C8194;
+    --radius:14px;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--ink);
+    color:var(--text);
+    font-family:'IBM Plex Sans Thai', sans-serif;
+    line-height:1.65;
+  }
+  .wrap{max-width:1120px; margin:0 auto; padding:0 28px;}
+
+  header{
+    border-bottom:1px solid var(--line);
+    padding:22px 0 0;
+    position:sticky; top:0;
+    background:rgba(18,22,31,0.92);
+    backdrop-filter: blur(8px);
+    z-index:40;
+  }
+  .header-row{display:flex; align-items:baseline; justify-content:space-between; gap:20px; padding-bottom:18px;}
+  .brand{display:flex; align-items:baseline; gap:12px;}
+  .brand-mark{
+    font-family:'Noto Serif Thai', serif;
+    font-weight:700;
+    font-size:26px;
+    letter-spacing:0.02em;
+    color:var(--text);
+  }
+  .brand-mark span{color:var(--signal);}
+  .brand-sub{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11px;
+    letter-spacing:0.12em;
+    text-transform:uppercase;
+    color:var(--text-muted);
+  }
+  .status{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11px;
+    color:var(--text-muted);
+  }
+  nav{display:flex; gap:26px; font-size:14px; color:var(--text-mid);}
+  nav a{color:inherit; text-decoration:none; cursor:pointer;}
+  nav a:hover{color:var(--text);}
+
+  .ticker-outer{
+    border-top:1px solid var(--line);
+    overflow:hidden;
+    background:var(--surface);
+    white-space:nowrap;
+  }
+  .ticker-track{
+    display:inline-flex;
+    animation: scrollTicker 42s linear infinite;
+    padding:9px 0;
+  }
+  @media (prefers-reduced-motion: reduce){ .ticker-track{animation:none;} }
+  .ticker-item{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12px;
+    color:var(--text-muted);
+    padding:0 26px;
+    display:inline-flex;
+    align-items:center;
+    gap:10px;
+    border-right:1px solid var(--line);
+  }
+  .ticker-item b{color:var(--teal); font-weight:500;}
+  .ticker-item .arrow{color:var(--signal);}
+  @keyframes scrollTicker{
+    from{transform:translateX(0);}
+    to{transform:translateX(-50%);}
+  }
+
+  .hero{
+    padding:64px 0 46px;
+    display:grid;
+    grid-template-columns: 1.15fr 0.85fr;
+    gap:48px;
+    align-items:end;
+    border-bottom:1px solid var(--line);
+  }
+  .hero h1{
+    font-family:'Noto Serif Thai', serif;
+    font-weight:600;
+    font-size:44px;
+    line-height:1.28;
+    margin:0 0 18px;
+    letter-spacing:-0.01em;
+  }
+  .hero h1 em{
+    font-style:normal;
+    color:var(--signal);
+  }
+  .hero p{
+    font-size:15.5px;
+    color:var(--text-mid);
+    max-width:46ch;
+    margin:0;
+  }
+  .hero-panel{
+    background:var(--parchment);
+    color:var(--parchment-ink);
+    border-radius:16px;
+    padding:24px 26px;
+  }
+  .hero-panel .eyebrow{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11px;
+    letter-spacing:0.1em;
+    text-transform:uppercase;
+    color:var(--signal-dim);
+    margin-bottom:10px;
+  }
+  .hero-panel .orig{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:13px;
+    color:#6B6353;
+    margin:0 0 8px;
+  }
+  .hero-panel h2{
+    font-family:'Noto Serif Thai', serif;
+    font-size:21px;
+    font-weight:600;
+    margin:0 0 12px;
+    line-height:1.4;
+  }
+  .hero-panel .meta{
+    font-size:12px;
+    color:#7A7260;
+    display:flex;
+    justify-content:space-between;
+    border-top:1px solid rgba(43,38,32,0.14);
+    padding-top:10px;
+    margin-top:6px;
+  }
+
+  .filters{
+    display:flex;
+    gap:10px;
+    flex-wrap:wrap;
+    padding:26px 0;
+  }
+  .chip{
+    font-family:'IBM Plex Sans Thai', sans-serif;
+    font-size:13.5px;
+    padding:8px 16px;
+    border-radius:999px;
+    border:1px solid var(--line-strong);
+    color:var(--text-mid);
+    cursor:pointer;
+    background:transparent;
+    transition:all 0.15s ease;
+  }
+  .chip:hover{border-color:var(--teal); color:var(--text);}
+  .chip.active{background:var(--teal); border-color:var(--teal); color:#0E2321; font-weight:500;}
+
+  .grid{
+    display:grid;
+    grid-template-columns:repeat(3, 1fr);
+    gap:20px;
+    padding-bottom:60px;
+  }
+  .card{
+    background:var(--surface);
+    border:1px solid var(--line);
+    border-radius:var(--radius);
+    padding:20px 20px 18px;
+    display:flex;
+    flex-direction:column;
+    gap:12px;
+    transition: border-color 0.15s ease, transform 0.15s ease;
+  }
+  .card:hover{border-color:var(--line-strong); transform:translateY(-2px);}
+  .card-top{display:flex; align-items:center; justify-content:space-between; gap:10px;}
+  .source-tag{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:10.5px;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    color:var(--text-muted);
+  }
+  .source-tag b{color:var(--teal); font-weight:500;}
+  .cat-tag{
+    font-size:10.5px;
+    font-family:'IBM Plex Mono', monospace;
+    background:rgba(227,162,59,0.14);
+    color:var(--signal);
+    padding:3px 9px;
+    border-radius:999px;
+  }
+  .flip{
+    position:relative;
+    cursor:pointer;
+    min-height:76px;
+  }
+  .flip-face{
+    transition:opacity 0.25s ease;
+  }
+  .flip-th{
+    font-family:'Noto Serif Thai', serif;
+    font-weight:600;
+    font-size:18px;
+    line-height:1.42;
+    margin:0;
+    color:var(--text);
+  }
+  .flip-orig{
+    display:none;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:13px;
+    line-height:1.55;
+    color:var(--teal);
+    margin:0;
+  }
+  .card.flipped .flip-th{display:none;}
+  .card.flipped .flip-orig{display:block;}
+  .flip-hint{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:10px;
+    color:var(--text-muted);
+    letter-spacing:0.06em;
+  }
+  .flip-hint .arrow{color:var(--signal);}
+  .summary{
+    font-size:13.5px;
+    color:var(--text-mid);
+    margin:0;
+    flex:1;
+  }
+  .card-bottom{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    border-top:1px solid var(--line);
+    padding-top:12px;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11px;
+    color:var(--text-muted);
+  }
+  .card-bottom a{color:var(--text-muted); text-decoration:none;}
+  .card-bottom a:hover{color:var(--teal);}
+
+  .empty-state{
+    padding:60px 20px;
+    text-align:center;
+    color:var(--text-muted);
+    font-family:'IBM Plex Mono', monospace;
+    font-size:13px;
+    border:1px dashed var(--line-strong);
+    border-radius:var(--radius);
+  }
+
+  footer{
+    border-top:1px solid var(--line);
+    padding:26px 0 40px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    font-size:12.5px;
+    color:var(--text-muted);
+  }
+  footer .brand-mark{font-size:16px;}
+
+  @media (max-width:880px){
+    .hero{grid-template-columns:1fr; gap:28px;}
+    .hero h1{font-size:32px;}
+    .grid{grid-template-columns:1fr 1fr;}
+  }
+  @media (max-width:600px){
+    .grid{grid-template-columns:1fr;}
+    nav{display:none;}
+    .wrap{padding:0 18px;}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap header-row">
+    <div class="brand">
+      <div class="brand-mark">สัญญาณ<span>.</span></div>
+      <div class="brand-sub">Foreign tech / signal → Thai</div>
+    </div>
+    <div class="status" id="status">กำลังโหลดข่าว...</div>
+  </div>
+  <div class="ticker-outer">
+    <div class="ticker-track" id="tickerTrack"></div>
+  </div>
+</header>
+
+<div class="wrap">
+
+  <section class="hero">
+    <div>
+      <h1>รับสัญญาณข่าวเทค<br>จากทั่วโลก <em>แปลเป็นไทย</em> ทุกวัน</h1>
+      <p>รวมข่าว AI หุ่นยนต์ ชิป และนวัตกรรมจากสำนักข่าวต่างประเทศ คัดและแปลให้อ่านง่าย พร้อมต้นฉบับให้เทียบทุกชิ้น</p>
+    </div>
+    <div class="hero-panel" id="heroPanel">
+      <div class="eyebrow">ข่าวเด่นวันนี้</div>
+      <p class="orig" id="heroOrig">—</p>
+      <h2 id="heroTh">กำลังโหลดข่าวเด่น...</h2>
+      <div class="meta">
+        <span id="heroSource">—</span>
+        <span id="heroTime">—</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="filters" id="filters">
+    <button class="chip active" data-cat="all">ทั้งหมด</button>
+    <button class="chip" data-cat="ai">AI</button>
+    <button class="chip" data-cat="robot">หุ่นยนต์</button>
+    <button class="chip" data-cat="startup">สตาร์ทอัพ</button>
+    <button class="chip" data-cat="chip">ชิป/ฮาร์ดแวร์</button>
+    <button class="chip" data-cat="software">ซอฟต์แวร์</button>
+  </div>
+
+  <div class="grid" id="grid"></div>
+
+</div>
+
+<footer>
+  <div class="wrap" style="display:flex; justify-content:space-between; width:100%; align-items:center;">
+    <div class="brand-mark">สัญญาณ<span>.</span></div>
+    <div id="footerNote">ข้อมูลข่าวจาก news.json</div>
+  </div>
+</footer>
+
+<script>
+let articles = [];
+
+const CAT_LABEL = {ai:'AI', robot:'หุ่นยนต์', startup:'สตาร์ทอัพ', chip:'ชิป/ฮาร์ดแวร์', software:'ซอฟต์แวร์'};
+
+function estimateReadTime(text){
+  const words = (text || '').split(/\s+/).length;
+  return Math.max(2, Math.round(words / 40));
+}
+
+function renderCards(list){
+  const grid = document.getElementById('grid');
+  grid.innerHTML = '';
+
+  if(list.length === 0){
+    grid.innerHTML = '<div class="empty-state">ยังไม่มีข่าวในหมวดนี้ — ลองรัน build_feed.py เพื่อดึงข่าวใหม่</div>';
+    return;
+  }
+
+  list.forEach((a) => {
+    const card = document.createElement('div');
+    card.className = 'card';
+    card.innerHTML = `
+      <div class="card-top">
+        <span class="source-tag"><b>${a.flag || ''}</b> ${a.source}</span>
+        <span class="cat-tag">${CAT_LABEL[a.category] || a.category}</span>
+      </div>
+      <div class="flip">
+        <p class="flip-th flip-face">${a.title_th}</p>
+        <p class="flip-orig flip-face">${a.title_en}</p>
+      </div>
+      <p class="summary">${a.summary_th}</p>
+      <div class="flip-hint">แตะเพื่อดูต้นฉบับ <span class="arrow">→</span></div>
+      <div class="card-bottom">
+        <span>ต้นฉบับ: ${a.flag || ''}</span>
+        <a href="${a.link || '#'}" target="_blank" rel="noopener">อ่านต้นฉบับ ↗</a>
+      </div>
+    `;
+    card.querySelector('.flip').addEventListener('click', () => card.classList.toggle('flipped'));
+    grid.appendChild(card);
+  });
+}
+
+function setupTicker(list){
+  const track = document.getElementById('tickerTrack');
+  const items = list.map(a => `<span class="ticker-item"><b>${a.flag || ''}</b> ${a.source} <span class="arrow">→</span> ${a.title_th}</span>`).join('');
+  track.innerHTML = items + items;
+}
+
+function setupHero(list){
+  if(list.length === 0) return;
+  const top = list[0];
+  document.getElementById('heroOrig').textContent = `"${top.title_en}"`;
+  document.getElementById('heroTh').textContent = top.title_th;
+  document.getElementById('heroSource').textContent = `${top.source} · ${CAT_LABEL[top.category] || top.category}`;
+  document.getElementById('heroTime').textContent = `อ่าน ${estimateReadTime(top.summary_th)} นาที`;
+}
+
+function setupFilters(){
+  document.querySelectorAll('.chip').forEach(chip => {
+    chip.addEventListener('click', () => {
+      document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+      chip.classList.add('active');
+      const cat = chip.dataset.cat;
+      renderCards(cat === 'all' ? articles : articles.filter(a => a.category === cat));
+    });
+  });
+}
+
+async function loadNews(){
+  try{
+    const res = await fetch('news.json', {cache: 'no-store'});
+    if(!res.ok) throw new Error('news.json not found');
+    const data = await res.json();
+    articles = data.articles || [];
+    const updated = new Date(data.generated_at);
+    document.getElementById('status').textContent = `อัปเดตล่าสุด ${updated.toLocaleString('th-TH')} · ${articles.length} ข่าว`;
+    document.getElementById('footerNote').textContent = `อัปเดตล่าสุด ${updated.toLocaleString('th-TH')}`;
+  }catch(err){
+    document.getElementById('status').textContent = 'ไม่พบ news.json — รัน build_feed.py ก่อน';
+    articles = [];
+  }
+  renderCards(articles);
+  setupTicker(articles);
+  setupHero(articles);
+}
+
+setupFilters();
+loadNews();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,39 @@
+name: Update Thai Tech News
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'   # รันทุก 3 ชั่วโมง (เวลา UTC — ปรับได้ตามต้องการ)
+  workflow_dispatch:        # กดรันเองได้จากแท็บ Actions บน GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch and translate news
+        run: python build_feed.py --backend google
+        # ถ้าอยากใช้ Claude API แทน (คุณภาพแปลดีกว่า):
+        # run: python build_feed.py --backend claude
+        # env:
+        #   ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit updated news.json
+        run: |
+          git config user.name "news-bot"
+          git config user.email "actions@github.com"
+          git add news.json
+          git diff --staged --quiet || git commit -m "อัปเดตข่าว $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
