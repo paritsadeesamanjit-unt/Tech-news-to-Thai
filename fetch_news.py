@@ -58,7 +58,7 @@ def fetch_all(max_per_feed: int = MAX_ITEMS_PER_FEED, filter_keywords: bool = Tr
                 break
             title = clean_html(getattr(entry, "title", ""))
             summary = clean_html(getattr(entry, "summary", "") or getattr(entry, "description", ""))
-            summary = summary[:500]
+            summary = summary[:800]
 
             if filter_keywords and not is_relevant(title, summary):
                 continue

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T10:38:01.526712+00:00",
+  "generated_at": "2026-08-06T11:32:46.255194+00:00",
   "count": 6,
   "articles": [
     {
@@ -7,9 +7,9 @@
       "flag": "US",
       "category": "startup",
       "title_en": "AI coding startup raises new funding round",
-      "summary_en": "The company says the funding will go toward expanding its engineering team and improving model accuracy.",
+      "summary_en": "",
       "title_th": "สตาร์ทอัพ AI ช่วยเขียนโค้ด ระดมทุนรอบใหม่",
-      "summary_th": "บริษัทระบุว่าจะนำเงินทุนไปขยายทีมวิศวกรและพัฒนาความแม่นยำของโมเดล",
+      "summary_th": "บริษัทสตาร์ทอัพที่พัฒนาเครื่องมือ AI ช่วยเขียนโค้ดประกาศระดมทุนรอบใหม่สำเร็จ โดยระบุว่าจะนำเงินทุนไปขยายทีมวิศวกรและพัฒนาความแม่นยำของโมเดลให้ดีขึ้น ทีมผู้ก่อตั้งเผยว่าฟีเจอร์ต่อไปจะเน้นการทำงานร่วมกับทีมพัฒนาขนาดใหญ่ที่มีโค้ดเบสซับซ้อน ซึ่งเป็นกลุ่มลูกค้าที่เติบโตเร็วที่สุดในช่วงปีที่ผ่านมา",
       "link": "https://techcrunch.com/"
     },
     {
@@ -17,9 +17,9 @@
       "flag": "US",
       "category": "software",
       "title_en": "Popular app adds on-device AI features for privacy",
-      "summary_en": "The update processes data locally instead of sending it to the cloud.",
+      "summary_en": "",
       "title_th": "แอปยอดนิยมเพิ่มฟีเจอร์ AI ประมวลผลในเครื่อง เน้นความเป็นส่วนตัว",
-      "summary_th": "อัปเดตใหม่ประมวลผลข้อมูลในเครื่องแทนการส่งขึ้นคลาวด์",
+      "summary_th": "แอปพลิเคชันยอดนิยมอัปเดตฟีเจอร์ใหม่ให้ประมวลผลข้อมูล AI อยู่ในเครื่องผู้ใช้โดยตรง แทนที่จะส่งข้อมูลขึ้นไปประมวลผลบนคลาวด์เหมือนก่อน บริษัทระบุว่าวิธีนี้ช่วยลดความเสี่ยงด้านความเป็นส่วนตัวและทำให้แอปตอบสนองได้เร็วขึ้นแม้ไม่มีอินเทอร์เน็ต ผู้เชี่ยวชาญมองว่าเทรนด์นี้กำลังเป็นทิศทางหลักของอุตสาหกรรมแอปมือถือ",
       "link": "https://www.theverge.com/"
     },
     {
@@ -27,9 +27,9 @@
       "flag": "US",
       "category": "robot",
       "title_en": "Warehouse robots learn to share floor space efficiently",
-      "summary_en": "A new coordination algorithm reduces collisions between robot fleets.",
+      "summary_en": "",
       "title_th": "หุ่นยนต์คลังสินค้าเรียนรู้แบ่งพื้นที่ทำงานอย่างมีประสิทธิภาพ",
-      "summary_th": "อัลกอริทึมใหม่ช่วยลดการชนกันระหว่างฝูงหุ่นยนต์ในคลังสินค้า",
+      "summary_th": "ทีมวิจัยพัฒนาอัลกอริทึมใหม่ที่ช่วยให้ฝูงหุ่นยนต์ในคลังสินค้าแบ่งพื้นที่และเส้นทางเดินกันเองได้แบบกระจายศูนย์ โดยไม่ต้องพึ่งระบบควบคุมกลางที่คอยสั่งการทุกตัว ผลทดสอบพบว่าลดการชนกันและเวลารอคิวได้อย่างชัดเจนเมื่อเทียบกับระบบเดิม และยังปรับตัวตามสภาพคลังสินค้าที่เปลี่ยนแปลงได้ดีกว่า",
       "link": "https://spectrum.ieee.org/"
     },
     {
@@ -37,9 +37,9 @@
       "flag": "US",
       "category": "chip",
       "title_en": "Chipmaker unveils denser packaging for next-gen processors",
-      "summary_en": "The new method stacks circuits vertically to boost compute density.",
+      "summary_en": "",
       "title_th": "ผู้ผลิตชิปเปิดตัวเทคนิคแพ็กเกจจิ้งความหนาแน่นสูงสำหรับโปรเซสเซอร์รุ่นใหม่",
-      "summary_th": "เทคนิคใหม่ซ้อนวงจรในแนวตั้งเพื่อเพิ่มความหนาแน่นการประมวลผล",
+      "summary_th": "ผู้ผลิตชิปรายใหญ่เปิดตัวเทคนิคการแพ็กเกจจิ้งแบบใหม่ที่ซ้อนวงจรในแนวตั้งหลายชั้น ช่วยเพิ่มความหนาแน่นของการประมวลผลโดยไม่ต้องขยายขนาดตัวชิปให้ใหญ่ขึ้น บริษัทระบุว่าเทคนิคนี้จะถูกนำไปใช้ในโปรเซสเซอร์รุ่นถัดไปที่เจาะกลุ่มศูนย์ข้อมูลและอุปกรณ์ AI โดยเฉพาะ",
       "link": "https://www.engadget.com/"
     },
     {
@@ -47,9 +47,9 @@
       "flag": "US",
       "category": "ai",
       "title_en": "Researchers test AI model that plans multiple steps ahead",
-      "summary_en": "The model breaks down complex tasks and checks progress before continuing.",
+      "summary_en": "",
       "title_th": "นักวิจัยทดสอบโมเดล AI ที่วางแผนล่วงหน้าได้หลายขั้นตอน",
-      "summary_th": "โมเดลนี้แตกงานซับซ้อนเป็นขั้นย่อยและตรวจสอบความคืบหน้าก่อนทำต่อ",
+      "summary_th": "ทีมวิจัยเผยผลทดสอบโมเดล AI ทดลองที่สามารถแตกงานที่ซับซ้อนออกเป็นขั้นตอนย่อย และประเมินความคืบหน้าระหว่างทางได้เองก่อนตัดสินใจทำขั้นต่อไป แตกต่างจากโมเดลทั่วไปที่มักตอบคำถามแบบขั้นตอนเดียวจบ ทีมงานระบุว่าแนวทางนี้ช่วยลดข้อผิดพลาดในงานที่ต้องใช้เหตุผลหลายชั้นได้อย่างชัดเจน",
       "link": "https://www.wired.com/"
     },
     {
@@ -57,9 +57,9 @@
       "flag": "US",
       "category": "ai",
       "title_en": "Hospitals pilot AI tool to prioritize which scans need review",
-      "summary_en": "The tool flags higher-risk scans for doctors to check first, without making diagnoses itself.",
+      "summary_en": "",
       "title_th": "โรงพยาบาลทดลองใช้ AI ช่วยจัดลำดับภาพสแกนที่ควรตรวจก่อน",
-      "summary_th": "เครื่องมือนี้ช่วยชี้ภาพสแกนที่มีความเสี่ยงสูงให้แพทย์ตรวจก่อน โดยไม่วินิจฉัยเอง",
+      "summary_th": "โรงพยาบาลหลายแห่งเริ่มทดลองใช้เครื่องมือ AI ที่ช่วยจัดลำดับความสำคัญของภาพสแกนทางการแพทย์ โดยชี้ภาพที่มีความเสี่ยงสูงให้แพทย์ตรวจก่อนภาพอื่น แทนที่จะเรียงตามลำดับเวลาที่เข้ามาเหมือนเดิม ทีมพัฒนาย้ำว่าเครื่องมือนี้ไม่ได้ทำหน้าที่วินิจฉัยแทนแพทย์ แต่ช่วยจัดคิวงานให้มีประสิทธิภาพมากขึ้นเท่านั้น",
       "link": "https://www.technologyreview.com/"
     }
   ]
