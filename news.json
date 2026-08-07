@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-07T15:42:26.004516+00:00",
+  "generated_at": "2026-08-07T18:36:35.858285+00:00",
   "count": 35,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "summary_en": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/kitesurf.webp?resize=1200,640",
+      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "published": "Fri, 07 Aug 2026 16:16:09 +0000",
+      "title_th": "Cloudflare เปิดตัว Kitesurf เบราว์เซอร์ที่สร้างขึ้นสำหรับตัวแทน AI",
+      "summary_th": "Cloudflare ได้เปิดตัว Kitesurf ซึ่งเป็นเบราว์เซอร์ที่โฮสต์บนคลาวด์ที่ออกแบบมาสำหรับตัวแทน AI แทนที่จะเป็นมนุษย์ บริษัทกล่าวว่าเบราว์เซอร์ใช้พลังงานในการประมวลผลน้อยกว่า Chromium สำหรับงานอัตโนมัติทั่วไป ช่วยให้นักพัฒนาสร้างเอเจนต์ AI บนเบราว์เซอร์ได้อย่างมีประสิทธิภาพมากขึ้น"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Computer maker Framework notifies ‘all customers’ of a data breach",
+      "summary_en": "Framework told \"all\" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/Framework-Desktop-2.jpg?resize=1200,900",
+      "link": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
+      "published": "Fri, 07 Aug 2026 16:09:04 +0000",
+      "title_th": "Framework ผู้ผลิตคอมพิวเตอร์แจ้งเตือน 'ลูกค้าทั้งหมด' เกี่ยวกับการละเมิดข้อมูล",
+      "summary_th": "Framework บอกกับลูกค้า \"ทั้งหมด\" ว่าแฮกเกอร์เข้าถึงชื่อ ที่อยู่อีเมล หมายเลขโทรศัพท์ และที่อยู่ทางกายภาพของพวกเขาในการละเมิดข้อมูล"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
+      "summary_en": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
+      "published": "Fri, 07 Aug 2026 15:52:33 +0000",
+      "title_th": "วันนี้เป็นวันสุดท้ายที่จะรับส่วนลดสูงสุดถึง $400 จากตั๋ว TechCrunch Disrupt 2026 ของคุณ",
+      "summary_th": "เริ่มตั้งแต่วันนี้เป็นต้นไป คุณสามารถรับส่วนลดเพิ่มอีก 100 ดอลลาร์จากผู้ก่อตั้ง นักลงทุน หรือผู้เข้าร่วม TechCrunch Disrupt 2026 pass ซึ่งเป็นโบนัสที่ดีนอกเหนือจากราคาส่วนลดปัจจุบันของเรา"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -27,40 +63,40 @@
       "summary_th": "ในการทดสอบ Kimi แซนด์บ็อกซ์ที่ออกแบบมาเพื่อรองรับการทดสอบไม่ได้รับการกำหนดค่าอย่างเหมาะสม"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-      "summary_en": "Airbnb will debut a new AI-powered search experience with a toggle.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/08/brian-chesky-GettyImages-2217178973.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-      "published": "Fri, 07 Aug 2026 14:22:49 +0000",
-      "title_th": "Airbnb กล่าวว่า AI ช่วยให้จัดส่งฟีเจอร์ต่างๆ ได้เร็วขึ้นเมื่อทดสอบฟังก์ชันการค้นหาใหม่",
-      "summary_th": "Airbnb จะเปิดตัวประสบการณ์การค้นหาใหม่ที่ขับเคลื่อนด้วย AI พร้อมการสลับ"
+      "category": "software",
+      "title_en": "Disney Plus tries a new AI-powered search",
+      "summary_en": "Disney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to create a customized row of show and movie recommendations. Disney Plus, like other streaming services, can recommend shows to watch based on your viewing history. But the company says this new […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google-docs-image-4.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "link": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
+      "published": "2026-08-07T13:53:44-04:00",
+      "title_th": "Disney Plus ลองใช้การค้นหาที่ขับเคลื่อนด้วย AI ใหม่",
+      "summary_th": "Disney กำลังทดสอบเครื่องมือที่ขับเคลื่อนด้วย AI ใหม่สำหรับ Disney Plus ซึ่งใช้การค้นหาด้วยภาษาธรรมชาติ ข้อความเสียง หรือข้อความแนะนำเพื่อสร้างแถวคำแนะนำรายการและภาพยนตร์แบบกำหนดเอง Disney Plus เช่นเดียวกับบริการสตรีมมิ่งอื่นๆ สามารถแนะนำรายการให้ดูตามประวัติการดูของคุณได้ แต่บริษัทบอกว่าสิ่งนี้ใหม่ […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
-      "summary_en": "SpaceX and Tesla are building a massive semiconductor fab in Texas that will depend on natural gas power plants, not Tesla solar panels.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/2026_08_05_terafab_01_c491ff0b4d.jpg?resize=1200,675",
-      "link": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
-      "published": "Fri, 07 Aug 2026 14:07:31 +0000",
-      "title_th": "Terafab ของ SpaceX จะใช้โรงไฟฟ้าก๊าซธรรมชาติ ไม่ใช่แผงโซลาร์เซลล์ของ Tesla",
-      "summary_th": "SpaceX และ Tesla กำลังสร้างโรงงานผลิตเซมิคอนดักเตอร์ขนาดใหญ่ในเท็กซัส ซึ่งจะขึ้นอยู่กับโรงไฟฟ้าก๊าซธรรมชาติ ไม่ใช่แผงโซลาร์เซลล์ของ Tesla"
+      "category": "software",
+      "title_en": "What’s behind the Google AI shake-up",
+      "summary_en": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST080726_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "published": "2026-08-07T12:45:14-04:00",
+      "title_th": "เบื้องหลังการเปลี่ยนแปลงของ Google AI คืออะไร",
+      "summary_th": "ชื่อที่ยิ่งใหญ่ที่สุดบางส่วนในทีม AI ของ Google ได้งานใหม่ในสัปดาห์นี้ ในบางกรณี รวมถึง Jeff Dean ชาว Google ในตำนานด้วย งานเหล่านั้นไม่ได้อยู่ที่ Google อีกต่อไป เนื่องจากโมเดลของ Google ดูเหมือนจะอยู่เบื้องหลังสิ่งที่ดีที่สุดของสิ่งที่ออกมาจากมานุษยวิทยาและ OpenAI นี่เป็นสัญญาณของ Google ใน […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-      "summary_en": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/54885169397_78fc033af7_k-1.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-      "published": "Fri, 07 Aug 2026 12:30:00 +0000",
-      "title_th": "คู่มือผู้ก่อตั้ง TechCrunch Disrupt 2026: ทุกสิ่งที่คุณจำเป็นต้องรู้",
-      "summary_th": "TechCrunch Disrupt 2026 สร้างขึ้นจากคำถามเดียว: คุณจะสร้างบริษัทที่ยั่งยืนในยุค AI ได้อย่างไร รายการโปรแกรมและวิทยากรของเราสะท้อนให้เห็นสิ่งนั้น"
+      "category": "software",
+      "title_en": "Birdfy’s smart bird feeder is on sale for just $60",
+      "summary_en": "The Birdfy Feeder Rookie is a good option if you’re new to birdwatching or simply don’t want to spend a lot on a smart feeder, and several configurations are on sale. The standard model is down to $59.99 ($60 off) at Amazon, which is close to its lowest price. It includes seven days of access […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/birdfyfeeder.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/gadgets/976422/birdfy-feeder-rookie-nothing-headphones-deal-sale",
+      "published": "2026-08-07T12:04:03-04:00",
+      "title_th": "เครื่องให้อาหารนกอัจฉริยะของ Birdfy จำหน่ายในราคาเพียง 60 ดอลลาร์",
+      "summary_th": "Birdfy Feeder Rookie เป็นตัวเลือกที่ดีหากคุณยังใหม่กับการดูนกหรือไม่ต้องการจ่ายเงินจำนวนมากกับเครื่องป้อนอัจฉริยะ และมีการกำหนดค่าหลายแบบลดราคา รุ่นมาตรฐานลดราคาที่ Amazon เหลือ 59.99 ดอลลาร์ (ลด 60 ดอลลาร์) ซึ่งใกล้เคียงกับราคาต่ำสุด รวมถึงการเข้าถึงเจ็ดวัน […]"
     },
     {
       "source": "The Verge",
@@ -85,42 +121,6 @@
       "published": "2026-08-07T07:00:00-04:00",
       "title_th": "เหตุใด Apple จึงแบน Telegram ต่อไป แต่ไม่เคย X?",
       "summary_th": "ประมาณหนึ่งชั่วโมงในสัปดาห์นี้ Telegram หายไปจาก App Store ของ Apple แม้แต่ในช่วงเวลาที่เกิดเหตุการณ์ดังกล่าว แอปหลักๆ ดังกล่าวก็ขาดหายไปอย่างน่าทึ่ง ซึ่งเป็นช่องทางการสื่อสารสำหรับผู้ใช้มากกว่า 1 พันล้านคนทั่วโลก ซึ่งใช้เป็นแพลตฟอร์มที่ปลอดภัยสำหรับผู้ที่อาศัยอยู่ในประเทศที่ถูกเซ็นเซอร์อย่างกว้างขวาง แอปเปิ้ลในเวลาต่อมา […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Trying to explain One Night Only’s tech-enforced sex dystopia",
-      "summary_en": "From the omnipresent One Night Only trailer, you'd be forgiven for thinking that the movie glosses over its terrifying and absurd premise - in otherwise normal modern New York, single people can only have sex one night a year - to deliver an entirely traditional romantic comedy. I'm here to report that it does not […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/image-7.png?quality=90&strip=all&crop=0%2C10.76363770124%2C100%2C78.472724597521&w=1200",
-      "link": "https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech",
-      "published": "2026-08-07T06:30:00-04:00",
-      "title_th": "กำลังพยายามอธิบายโทเปียทางเพศที่บังคับใช้เทคโนโลยีของ One Night Only",
-      "summary_th": "จากตัวอย่างภาพยนตร์ One Night Only ที่มีอยู่ทั่วไปทุกหนทุกแห่ง คุณคงได้รับการอภัยที่คิดว่าภาพยนตร์เรื่องนี้คลุมเครือเหนือสถานที่ที่น่าสะพรึงกลัวและไร้สาระของมัน - ในนิวยอร์กสมัยใหม่ที่ปกติธรรมดา คนโสดสามารถมีเซ็กส์ได้เพียงคืนเดียวต่อปี - เพื่อนำเสนอโรแมนติกคอมเมดี้แบบดั้งเดิมโดยสิ้นเชิง ฉันมาที่นี่เพื่อรายงานว่ามันไม่ได้ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Trevor Noah is hosting Google’s Pixel 11 launch event",
-      "summary_en": "Google is set to host its next live Made by Google hardware launch event on August 12th, and the company says in a new video that comedian Trevor Noah will be hosting the show. The video indicates that the event will feature other celebrities and influencers as well, including Call Her Daddy host Alex Cooper […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2259495141.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-      "link": "https://www.theverge.com/tech/976454/made-by-google-2026-event-pixel-11-trevor-noah",
-      "published": "2026-08-06T17:15:47-04:00",
-      "title_th": "Trevor Noah เป็นเจ้าภาพจัดงานเปิดตัว Pixel 11 ของ Google",
-      "summary_th": "Google เตรียมจัดงานเปิดตัวฮาร์ดแวร์ Made by Google ครั้งต่อไปในวันที่ 12 สิงหาคม และบริษัทกล่าวในวิดีโอใหม่ที่นักแสดงตลก Trevor Noah จะเป็นผู้ดำเนินรายการ วิดีโอระบุว่างานนี้จะมีคนดังและผู้มีอิทธิพลคนอื่น ๆ เช่นกัน รวมถึงพิธีกรรายการ Call Her Daddy Alex Cooper […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-      "summary_en": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price over $300, reportedly \"will have a unique look, […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24958946/1421761326.jpg?quality=90&strip=all&crop=21.6%2C28.565551073632%2C78.4%2C61.586077147559&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-      "published": "2026-08-06T16:55:39-04:00",
-      "title_th": "อุปกรณ์ OpenAI เครื่องแรกของ Jony Ive มีรายงานว่าเป็นลำโพงอัจฉริยะขนาดเท่าฮอกกี้",
-      "summary_th": "อุปกรณ์ AI OpenAI กำลังพัฒนาร่วมกับอดีตนักออกแบบ Apple Jony Ive \"โดยพื้นฐานแล้วเป็นลำโพงอัจฉริยะที่ไม่มีจอแสดงผล\" ซึ่งใช้พลังงานจากแบตเตอรี่ รูปโดนัท และมีขนาดประมาณลูกฮอกกี้ ตามรายงานของ Mark Gurman นักข่าวของ Bloomberg อุปกรณ์ดังกล่าวคาดว่าจะเปิดตัวในปี 2570 ในราคามากกว่า 300 ดอลลาร์ มีรายงานว่า \"จะมีรูปลักษณ์ที่เป็นเอกลักษณ์ […]"
     },
     {
       "source": "Ars Technica",
@@ -234,13 +234,13 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "LG Promo Codes and Coupons for August 2026",
-      "summary_en": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
-      "link": "https://www.wired.com/story/lg-promo-code/",
+      "title_en": "B&H Photo Promo Codes and Deals This August 2026",
+      "summary_en": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+      "image": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
+      "link": "https://www.wired.com/story/bh-photo-coupon/",
       "published": "Fri, 07 Aug 2026 05:00:00 +0000",
-      "title_th": "รหัสส่งเสริมการขายและคูปอง LG สำหรับเดือนสิงหาคม 2569",
-      "summary_th": "ประหยัด 20% ด้วยรหัสโปรโมชันของ LG วันนี้ พร้อมส่วนลดเครื่องใช้ไฟฟ้าสูงสุดถึง $1,000 และส่วนลด 40% สำหรับทีวีและจอภาพที่ขายดีที่สุด"
+      "title_th": "รหัสโปรโมชั่นและข้อเสนอภาพถ่าย B&H ในเดือนสิงหาคม 2569 นี้",
+      "summary_th": "เพลิดเพลินกับข้อเสนอสุดพิเศษสำหรับกล้อง คอมพิวเตอร์ และอุปกรณ์เทคโนโลยีที่ B&H Photo"
     },
     {
       "source": "MIT Technology Review",
@@ -306,6 +306,54 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "One of NASA's Mars rovers could find itself promised to the moon instead",
+      "summary_en": "NASA is planning to use elements of existing tech to learn more about all sides of the moon.",
+      "image": "https://www.engadget.com/img/gallery/one-of-nasas-mars-rovers-could-find-itself-promised-to-the-moon-instead/l-intro-1785521981.jpg",
+      "link": "https://www.engadget.com/2230972/nasa-mars-rover-promise-lunar-mission/",
+      "published": "Fri, 07 Aug 2026 18:30:00 +0000",
+      "title_th": "หนึ่งในยานสำรวจดาวอังคารของ NASA พบว่าตัวเองถูกสัญญาไว้กับดวงจันทร์แทน",
+      "summary_th": "NASA กำลังวางแผนที่จะใช้องค์ประกอบของเทคโนโลยีที่มีอยู่เพื่อเรียนรู้เพิ่มเติมเกี่ยวกับทุกด้านของดวงจันทร์"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Sony might be rebooting its 2020 flagship headphones",
+      "summary_en": "Sony might turn back the clock and revive an older model to save potential buyers some cash.",
+      "image": "https://www.engadget.com/img/gallery/sony-might-be-rebooting-its-2020-flagship-headphones/l-intro-1786126971.jpg",
+      "link": "https://www.engadget.com/2232687/sony-might-be-rebooting-its-2020-flagship-headphones/",
+      "published": "Fri, 07 Aug 2026 18:24:20 +0000",
+      "title_th": "Sony อาจจะรีบูตหูฟังรุ่นเรือธงปี 2020",
+      "summary_th": "Sony อาจย้อนเวลากลับไปและฟื้นฟูรุ่นเก่าเพื่อประหยัดเงินให้กับผู้ซื้อที่มีศักยภาพ"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Trump administration spends another $1.2 billion to kill offshore wind farm projects",
+      "summary_en": "This is the fifth such deal in which the president and his team has paid big to cancel a green energy contract.",
+      "image": "https://www.engadget.com/img/gallery/trump-administration-spends-another-1-2-billion-to-kill-offshore-wind-farm-projects/l-intro-1786125677.jpg",
+      "link": "https://www.engadget.com/2232653/trump-administration-spends-another-1-2-billion-to-kill-offshore-wind-farm-projects/",
+      "published": "Fri, 07 Aug 2026 18:04:19 +0000",
+      "title_th": "ฝ่ายบริหารของทรัมป์ทุ่มเงินอีก 1.2 พันล้านดอลลาร์เพื่อยุติโครงการฟาร์มกังหันลมนอกชายฝั่ง",
+      "summary_th": "นี่เป็นข้อตกลงครั้งที่ห้าที่ประธานและทีมงานของเขาได้จ่ายเงินจำนวนมากเพื่อยกเลิกสัญญาพลังงานสีเขียว"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "AI is changing cybersecurity in quick and terrifying ways",
+      "summary_en": "The proliferation of AI has created new vulnerabilities in our software that in turn are exploited by other AI. Can the cybersecurity industry get ahead of it?",
+      "image": "https://www.engadget.com/img/gallery/ai-is-changing-cybersecurity-in-quick-and-terrifying-ways/l-intro-1785782521.jpg",
+      "link": "https://www.engadget.com/2229315/ai-changing-cybersecurity-quick-terrifying-way/",
+      "published": "Fri, 07 Aug 2026 16:30:00 +0000",
+      "title_th": "AI กำลังเปลี่ยนแปลงความปลอดภัยทางไซเบอร์อย่างรวดเร็วและน่ากลัว",
+      "summary_th": "การแพร่กระจายของ AI ได้สร้างช่องโหว่ใหม่ในซอฟต์แวร์ของเรา ซึ่ง AI อื่น ๆ จะถูกนำไปใช้ประโยชน์ในที่สุด อุตสาหกรรมความปลอดภัยทางไซเบอร์สามารถก้าวไปข้างหน้าได้หรือไม่?"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "Are USB flash drives becoming obsolete?",
       "summary_en": "USB drives have outlasted a lot of other tech through the years. Is it time for the industry to move on?",
       "image": "https://www.engadget.com/img/gallery/are-usb-flash-drives-becoming-obsolete/l-intro-1785768706.jpg",
@@ -315,64 +363,28 @@
       "summary_th": "ไดรฟ์ USB มีอายุการใช้งานยาวนานกว่าเทคโนโลยีอื่นๆ มากมายตลอดหลายปีที่ผ่านมา ถึงเวลาแล้วที่อุตสาหกรรมจะเดินหน้าต่อไปหรือไม่?"
     },
     {
-      "source": "Engadget",
+      "source": "IEEE Spectrum",
       "flag": "US",
-      "category": "chip",
-      "title_en": "SK Hynix pledges $38 billion to build two new DRAM and NAND factories",
-      "summary_en": "SK Hynix has announced that it will invest $38.1 billion to build two new memory chip facilities in South Korea.",
-      "image": "https://www.engadget.com/img/gallery/sk-hynix-pledges-38-billion-to-build-two-new-dram-and-nand-factories/l-intro-1786106214.jpg",
-      "link": "https://www.engadget.com/2232279/sk-hynix-pledges-38-billion-to-build-dram-nand-factories/",
-      "published": "Fri, 07 Aug 2026 12:42:43 +0000",
-      "title_th": "SK Hynix ให้คำมั่นว่าจะทุ่มเงิน 38 พันล้านดอลลาร์เพื่อสร้างโรงงาน DRAM และ NAND ใหม่สองแห่ง",
-      "summary_th": "SK Hynix ได้ประกาศว่าจะลงทุน 38.1 พันล้านดอลลาร์เพื่อสร้างโรงงานชิปหน่วยความจำใหม่ 2 แห่งในเกาหลีใต้"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Are Ray-Ban Meta glasses a privacy risk? Here's what you should know",
-      "summary_en": "Not all features are equal when it comes to securing your data.",
-      "image": "https://www.engadget.com/img/gallery/are-ray-ban-meta-glasses-a-privacy-risk-heres-what-you-should-know/l-intro-1786056889.jpg",
-      "link": "https://www.engadget.com/2232153/are-ray-ban-meta-glasses-a-privacy-risk-here-s-what-you-should-know/",
-      "published": "Fri, 07 Aug 2026 12:30:00 +0000",
-      "title_th": "แว่นตา Ray-Ban Meta มีความเสี่ยงด้านความเป็นส่วนตัวหรือไม่? นี่คือสิ่งที่คุณควรรู้",
-      "summary_th": "คุณลักษณะบางอย่างไม่เท่ากันเมื่อพูดถึงการรักษาความปลอดภัยข้อมูลของคุณ"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "PSB iQ2 review: Premium sound meets smart-speaker convenience",
-      "summary_en": "A great app experience turns this wireless stereo setup into a capable hub for your home audio.",
-      "image": "https://www.engadget.com/img/gallery/psb-iq2-review-premium-sound-meets-smart-speaker-convenience/l-intro-1785870758.jpg",
-      "link": "https://www.engadget.com/2230321/psb-iq2-speaker-review/",
-      "published": "Fri, 07 Aug 2026 12:00:00 +0000",
-      "title_th": "รีวิว PSB iQ2: เสียงระดับพรีเมี่ยมพบกับความสะดวกสบายของลำโพงอัจฉริยะ",
-      "summary_th": "ประสบการณ์การใช้งานแอปที่ยอดเยี่ยมจะเปลี่ยนการตั้งค่าสเตอริโอไร้สายนี้ให้กลายเป็นศูนย์กลางที่มีความสามารถสำหรับเครื่องเสียงภายในบ้านของคุณ"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Chinese AI model Moonshot Kimi K3 also escaped its testing environment",
-      "summary_en": "Kimi K3 also found loopholes in its sandbox environment that allowed it to access the internet.",
-      "image": "https://www.engadget.com/img/gallery/chinese-ai-model-moonshot-kimi-k3-also-escaped-its-testing-environment/l-intro-1786099329.jpg",
-      "link": "https://www.engadget.com/2232256/chinese-ai-kimi-k3-also-escaped-containment/",
-      "published": "Fri, 07 Aug 2026 10:44:04 +0000",
-      "title_th": "โมเดล AI ของจีน Moonshot Kimi K3 ก็รอดพ้นจากสภาพแวดล้อมการทดสอบเช่นกัน",
-      "summary_th": "Kimi K3 ยังพบช่องโหว่ในสภาพแวดล้อมแซนด์บ็อกซ์ที่ทำให้สามารถเข้าถึงอินเทอร์เน็ตได้"
+      "category": "robot",
+      "title_en": "Navigating the Pivot From Tech Expert to Organizational Leader",
+      "summary_en": "The transition from a purely technical expert or individual contributor position to a broader leadership role is one of the most challenging phases in a STEM career. It requires moving away from relying solely on technical excellence toward mastering systems thinking, adaptive leadership, and team alignment. To help mid-career professionals navigate the shift, the inaugural IEEE International Leadership Conference is designed to provide attendees with practical tools to step into broader responsibility and champion an entrepreneurial mindset. The ILC event is scheduled for 3 and 4 October in Budapest. Registration is open . Thinking beyond technical contributions To successfully step into a leadership role, technical professionals need to look beyond their individual output and focus on “u",
+      "image": "https://spectrum.ieee.org/media-library/a-young-black-woman-speaking-into-a-microphone-while-seated-in-an-auditorium-crowd.jpg?id=67577640&width=980",
+      "link": "https://spectrum.ieee.org/navigating-pivot-tech-expert-leader",
+      "published": "Fri, 07 Aug 2026 18:00:01 +0000",
+      "title_th": "การนำทาง Pivot จากผู้เชี่ยวชาญด้านเทคโนโลยีไปจนถึงผู้นำองค์กร",
+      "summary_th": "การเปลี่ยนจากผู้เชี่ยวชาญทางเทคนิคล้วนๆ หรือตำแหน่งผู้ร่วมให้ข้อมูลรายบุคคลไปสู่บทบาทผู้นำที่กว้างขึ้นถือเป็นหนึ่งในขั้นตอนที่ท้าทายที่สุดในอาชีพ STEM จำเป็นต้องเปลี่ยนจากการพึ่งพาความเป็นเลิศทางเทคนิคเพียงอย่างเดียวไปสู่การคิดอย่างเป็นระบบ ความเป็นผู้นำที่ปรับเปลี่ยนได้ และการจัดตำแหน่งทีม เพื่อช่วยให้ผู้ประกอบวิชาชีพระดับกลางก้าวผ่านการเปลี่ยนแปลง การประชุม IEEE International Leadership Conference ครั้งแรกได้รับการออกแบบเพื่อให้ผู้เข้าร่วมมีเครื่องมือที่ใช้งานได้จริงเพื่อก้าวเข้าสู่ความรับผิดชอบที่กว้างขึ้นและส่งเสริมกรอบความคิดของผู้ประกอบการ งาน ILC มีกำหนดในวันที่ 3 และ 4 ตุลาคมในบูดาเปสต์ เปิดลงทะเบียนแล้ว คิดให้ไกลกว่าการมีส่วนร่วมทางเทคนิค เพื่อให้ประสบความสำเร็จในการก้าวเข้าสู่บทบาทผู้นำ ผู้เชี่ยวชาญด้านเทคนิคจำเป็นต้องมองข้ามผลงานของตนเองและมุ่งเน้นไปที่ \"คุณ\""
     },
     {
       "source": "IEEE Spectrum",
       "flag": "US",
       "category": "robot",
       "title_en": "Cars Communicating Badly Is an Already-Solved Problem",
-      "summary_en": "The history of networking is full of tools that repurposed solutions to very different kinds of problems first. Wi-Fi’s origins trace back in part to a team of Australian radio astronomers trying to detect signals from evaporating black holes. But the data processing tools they’d developed also proved capable at extracting clean messages from any chaotic, echoing signal environment . Echoes are echoes, after all, whether from distant star systems or from the far corner of the house. I research vehicle communications networks , connecting cars to cars and to transportation infrastructure like traffic lights—for tomorrow’s vehicle-to-everthing (V2X) networks . V2X research has long relied on models that assume “perfect” or “ideal” network conditions. Which is a simplifying assumption that ma",
+      "summary_en": "The history of networking is full of tools that repurposed solutions to very different kinds of problems first. Wi-Fi’s origins trace back , in part, to a team of Australian radio astronomers trying to detect signals from evaporating black holes. But the data-processing tools they’d developed also proved capable at extracting clean messages from any chaotic, echoing signal environment . Echoes are echoes, after all, whether from distant star systems or from the far corner of the house. I research vehicle communications networks , connecting cars to cars and to transportation infrastructure like traffic lights—for tomorrow’s vehicle-to-everthing (V2X) networks . V2X research has long relied on models that assume “perfect” or “ideal” network conditions, which is a simplifying assumption that",
       "image": "https://spectrum.ieee.org/media-library/an-illustration-of-two-cars-with-cell-towers-on-top-communicating-via-speech-bubbles.jpg?id=67571736&width=980",
       "link": "https://spectrum.ieee.org/v2x-technology-5g-open-ran",
       "published": "Fri, 07 Aug 2026 13:00:01 +0000",
       "title_th": "รถยนต์ที่สื่อสารกันไม่ดีคือปัญหาที่ได้รับการแก้ไขแล้ว",
-      "summary_th": "ประวัติความเป็นมาของเครือข่ายเต็มไปด้วยเครื่องมือที่นำวิธีแก้ไขปัญหาประเภทต่างๆ มาใช้ใหม่ก่อน ต้นกำเนิดของ Wi-Fi ส่วนหนึ่งย้อนกลับไปที่ทีมนักดาราศาสตร์วิทยุชาวออสเตรเลียที่พยายามตรวจจับสัญญาณจากการระเหยของหลุมดำ แต่เครื่องมือประมวลผลข้อมูลที่พวกเขาพัฒนาขึ้นยังได้รับการพิสูจน์แล้วว่าสามารถดึงข้อความที่ชัดเจนจากสภาพแวดล้อมสัญญาณสะท้อนที่วุ่นวายได้ เสียงสะท้อนก็คือเสียงสะท้อน ไม่ว่าจะมาจากระบบดาวอันห่างไกลหรือจากมุมไกลของบ้าน ฉันค้นคว้าเครือข่ายการสื่อสารในยานพาหนะ การเชื่อมต่อรถยนต์กับรถยนต์ และโครงสร้างพื้นฐานด้านการคมนาคม เช่น สัญญาณไฟจราจร สำหรับเครือข่าย Vehicle-to-everthing (V2X) ในอนาคต การวิจัย V2X อาศัยโมเดลที่ถือว่าสภาพเครือข่าย \"สมบูรณ์แบบ\" หรือ \"ในอุดมคติ\" มานานแล้ว ซึ่งเป็นข้อสันนิษฐานที่ง่ายขึ้นว่าแม่"
+      "summary_th": "ประวัติความเป็นมาของเครือข่ายเต็มไปด้วยเครื่องมือที่นำวิธีแก้ไขปัญหาประเภทต่างๆ มาใช้ใหม่ก่อน ต้นกำเนิดของ Wi-Fi ส่วนหนึ่งย้อนกลับไปที่ทีมนักดาราศาสตร์วิทยุชาวออสเตรเลียที่พยายามตรวจจับสัญญาณจากการระเหยของหลุมดำ แต่เครื่องมือประมวลผลข้อมูลที่พวกเขาพัฒนาขึ้นยังได้รับการพิสูจน์แล้วว่าสามารถดึงข้อความที่ชัดเจนจากสภาพแวดล้อมของสัญญาณสะท้อนที่วุ่นวายได้ เสียงสะท้อนก็คือเสียงสะท้อน ไม่ว่าจะมาจากระบบดาวอันห่างไกลหรือจากมุมไกลของบ้าน ฉันค้นคว้าเครือข่ายการสื่อสารในยานพาหนะ การเชื่อมต่อรถยนต์กับรถยนต์ และโครงสร้างพื้นฐานด้านการคมนาคม เช่น สัญญาณไฟจราจร สำหรับเครือข่าย Vehicle-to-everthing (V2X) ในอนาคต การวิจัย V2X อาศัยโมเดลที่ถือว่าสภาพเครือข่าย \"สมบูรณ์แบบ\" หรือ \"อุดมคติ\" มานานแล้ว ซึ่งเป็นสมมติฐานที่ทำให้ง่ายขึ้นว่า"
     },
     {
       "source": "IEEE Spectrum",
@@ -409,18 +421,6 @@
       "published": "Mon, 03 Aug 2026 18:00:02 +0000",
       "title_th": "ระบบที่เปลี่ยนแผนภูมิกระดาษให้เป็นเวชระเบียนดิจิทัล",
       "summary_th": "โรงพยาบาลและผู้ให้บริการด้านสุขภาพส่วนใหญ่ใช้บันทึกสุขภาพอิเล็กทรอนิกส์แทนแผนภูมิกระดาษเพื่อบันทึกการฉีดวัคซีน การวินิจฉัย และขั้นตอนการรักษาของผู้ป่วย AthenaOne , Epic และ Oracle Health คือระบบบางส่วนที่ใช้กันทั่วโลก ผู้ป่วยจำนวนมากสามารถเข้าถึงเวชระเบียนอิเล็กทรอนิกส์ได้จากที่บ้าน แพลตฟอร์มดังกล่าวเกิดขึ้นได้ด้วยความพยายามบุกเบิก เช่น ระบบข้อมูลทางการแพทย์ (MIS-I) ระบบคอมพิวเตอร์ทั่วทั้งโรงพยาบาลระบบแรกได้รับการพัฒนาในทศวรรษปี 1960 โดย Lockheed Martin (ซึ่งในขณะนั้นรู้จักกันในชื่อ Lockheed Missiles and Space Co.) โดยความร่วมมือกับโรงพยาบาล El Camino ในเมาเทนวิว แคลิฟอร์เนีย แพทย์และพยาบาลใช้ MIS-I (ออกเสียงว่า miss-ONE) เพื่อรับผู้ป่วย สั่งงานห้องปฏิบัติการและการถ่ายภาพ กำหนดเวลานัดหมายติดตามผล และออกใบเรียกเก็บเงินของโรงพยาบาล ตามที่ระบุไว้ในบทความเผยแพร่เมื่อปี 1973"
-    },
-    {
-      "source": "IEEE Spectrum",
-      "flag": "US",
-      "category": "robot",
-      "title_en": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
-      "summary_en": "This article is brought to you by COMSOL . In pursuit of improved range, greater reliability, and faster charging, electric vehicles are driving the demand for high-voltage electronics. Other applications driving this demand include wind farms, data centers, and server farms, to name a few. As the interest for high-voltage electronics increases, the risks associated with their sudden failure must be considered. Much of what causes high-voltage equipment to malfunction can be linked to the conditions of the climate in which it operates. Specifically, condensation on electronic surfaces caused by humidity can lead to corrosion, which can result in stray leak current and dendrite shorting during Electrochemical Migration (ECM). Predicting, mitigating, and helping proactively design to account",
-      "image": "https://assets.rbl.ms/67522155/origin.png",
-      "link": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
-      "published": "Mon, 03 Aug 2026 11:38:22 +0000",
-      "title_th": "การระบุสาเหตุที่แท้จริงของความล้มเหลวทางอิเล็กทรอนิกส์ด้วยแอปจำลอง",
-      "summary_th": "บทความนี้นำเสนอโดย COMSOL เพื่อแสวงหาระยะที่ดีขึ้น ความน่าเชื่อถือที่มากขึ้น และการชาร์จที่เร็วขึ้น ยานพาหนะไฟฟ้ากำลังขับเคลื่อนความต้องการอุปกรณ์อิเล็กทรอนิกส์ไฟฟ้าแรงสูง แอปพลิเคชันอื่นๆ ที่ขับเคลื่อนความต้องการนี้ ได้แก่ ฟาร์มกังหันลม ศูนย์ข้อมูล และฟาร์มเซิร์ฟเวอร์ และอื่นๆ อีกมากมาย เนื่องจากความสนใจในอุปกรณ์อิเล็กทรอนิกส์ไฟฟ้าแรงสูงเพิ่มขึ้น จึงต้องพิจารณาความเสี่ยงที่เกี่ยวข้องกับความล้มเหลวกะทันหัน สาเหตุที่ทำให้อุปกรณ์ไฟฟ้าแรงสูงทำงานผิดปกติส่วนใหญ่สามารถเชื่อมโยงกับสภาพอากาศที่อุปกรณ์ทำงานอยู่ได้ โดยเฉพาะอย่างยิ่ง การควบแน่นบนพื้นผิวอิเล็กทรอนิกส์ที่เกิดจากความชื้นอาจทำให้เกิดการกัดกร่อน ซึ่งอาจส่งผลให้เกิดกระแสรั่วไหลและเดนไดรต์ลัดวงจรระหว่างการย้ายทางเคมีไฟฟ้า (ECM) คาดการณ์ บรรเทา และช่วยออกแบบบัญชีเชิงรุก"
     }
   ],
   "indices": [
@@ -428,25 +428,25 @@
       "symbol": "^GSPC",
       "name": "S&P 500",
       "market": "US",
-      "price": 7754.63,
-      "change": 44.67,
-      "change_pct": 0.58
+      "price": 7736.88,
+      "change": 26.92,
+      "change_pct": 0.35
     },
     {
       "symbol": "^DJI",
       "name": "Dow Jones",
       "market": "US",
-      "price": 53965.29,
-      "change": 80.19,
-      "change_pct": 0.15
+      "price": 53921.86,
+      "change": 36.76,
+      "change_pct": 0.07
     },
     {
       "symbol": "^IXIC",
       "name": "Nasdaq",
       "market": "US",
-      "price": 26681.28,
-      "change": 332.93,
-      "change_pct": 1.26
+      "price": 26568.84,
+      "change": 220.49,
+      "change_pct": 0.84
     }
   ]
 }
