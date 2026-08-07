@@ -131,6 +131,39 @@
     font-size:14.5px; color:var(--text-mid); max-width:38ch; margin:0; line-height:1.75;
   }
 
+  /* ---------- Stocks strip ---------- */
+  .stocks-strip{
+    display:flex; gap:14px; flex-wrap:wrap;
+    padding:22px 0 4px;
+  }
+  .stock-card{
+    flex:1; min-width:170px;
+    background:var(--surface);
+    border:1px solid var(--line);
+    border-radius:14px;
+    padding:14px 18px;
+    display:flex; flex-direction:column; gap:6px;
+  }
+  .stock-name{
+    font-family:'IBM Plex Mono', monospace; font-size:11px;
+    letter-spacing:0.06em; text-transform:uppercase; color:var(--text-muted);
+    display:flex; align-items:center; gap:6px;
+  }
+  .stock-market{
+    font-size:9.5px; background:var(--surface-2); color:var(--text-mid);
+    padding:2px 6px; border-radius:5px; font-weight:600;
+  }
+  .stock-price{
+    font-family:'Noto Serif Thai', serif; font-weight:600; font-size:21px; color:var(--text);
+  }
+  .stock-change{
+    font-family:'IBM Plex Mono', monospace; font-size:12.5px; font-weight:500;
+    display:flex; align-items:center; gap:4px;
+  }
+  .stock-change.up{ color:#5FCB8E; }
+  .stock-change.down{ color:#E27272; }
+  .stock-change.flat{ color:var(--text-muted); }
+
   /* ---------- Filters ---------- */
   .filters{ display:flex; gap:9px; flex-wrap:wrap; padding:24px 0 30px; }
   .chip{
@@ -341,6 +374,8 @@
     <p>รวมข่าว AI หุ่นยนต์ ชิป และนวัตกรรมจากสำนักข่าวต่างประเทศ คัดและแปลให้อ่านสบาย พร้อมต้นฉบับให้เทียบทุกชิ้น</p>
   </section>
 
+  <section class="stocks-strip" id="stocksStrip"></section>
+
   <div class="filters" id="filters">
     <button class="chip active" data-cat="all">ทั้งหมด</button>
     <button class="chip" data-cat="ai">AI</button>
@@ -476,6 +511,26 @@ function setupTicker(list){
   track.innerHTML = items + items;
 }
 
+function renderStocks(indices){
+  const strip = document.getElementById('stocksStrip');
+  if(!indices || indices.length === 0){
+    strip.innerHTML = '';
+    return;
+  }
+  strip.innerHTML = indices.map(s => {
+    const dir = s.change > 0 ? 'up' : (s.change < 0 ? 'down' : 'flat');
+    const arrow = s.change > 0 ? '▲' : (s.change < 0 ? '▼' : '—');
+    const sign = s.change > 0 ? '+' : '';
+    return `
+      <div class="stock-card">
+        <div class="stock-name">${s.name} <span class="stock-market">${s.market}</span></div>
+        <div class="stock-price">${s.price.toLocaleString('en-US', {minimumFractionDigits:2, maximumFractionDigits:2})}</div>
+        <div class="stock-change ${dir}">${arrow} ${sign}${s.change.toFixed(2)} (${sign}${s.change_pct.toFixed(2)}%)</div>
+      </div>
+    `;
+  }).join('');
+}
+
 function setupFilters(){
   document.querySelectorAll('.chip').forEach(chip => {
     chip.addEventListener('click', () => {
@@ -487,15 +542,25 @@ function setupFilters(){
   });
 }
 
+function formatThaiTime(isoString){
+  const d = new Date(isoString);
+  return d.toLocaleString('th-TH', {
+    timeZone: 'Asia/Bangkok',
+    day: 'numeric', month: 'short', year: 'numeric',
+    hour: '2-digit', minute: '2-digit',
+  }) + ' น.';
+}
+
 async function loadNews(){
   try{
     const res = await fetch('news.json', {cache: 'no-store'});
     if(!res.ok) throw new Error('news.json not found');
     const data = await res.json();
     articles = data.articles || [];
-    const updated = new Date(data.generated_at);
-    document.getElementById('status').textContent = `อัปเดตล่าสุด ${updated.toLocaleString('th-TH')} · ${articles.length} ข่าว`;
-    document.getElementById('footerNote').textContent = `อัปเดตล่าสุด ${updated.toLocaleString('th-TH')}`;
+    const updatedText = formatThaiTime(data.generated_at);
+    document.getElementById('status').textContent = `อัปเดตล่าสุด ${updatedText} · ${articles.length} ข่าว`;
+    document.getElementById('footerNote').textContent = `อัปเดตล่าสุด ${updatedText}`;
+    renderStocks(data.indices);
   }catch(err){
     document.getElementById('status').textContent = 'ไม่พบ news.json — รัน build_feed.py ก่อน';
     articles = [];
