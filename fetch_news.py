@@ -6,6 +6,8 @@
 import re
 import html
 import feedparser
+import urllib.request
+import urllib.error
 
 # name      = ชื่อสำนักข่าว (แสดงบนเว็บ)
 # url       = ที่อยู่ RSS feed
@@ -21,6 +23,13 @@ FEEDS = [
 ]
 
 MAX_ITEMS_PER_FEED = 5
+
+# ดึง og:image / og:description เสริมจากหน้าเว็บต้นฉบับ เมื่อ RSS ให้ข้อมูลมาไม่พอ
+# (ใช้ metadata แบบเดียวกับที่ Facebook/Twitter ใช้ทำ link preview — publisher ตั้งใจ
+# ใส่มาให้บุคคลที่สามแสดงตัวอย่างอยู่แล้ว ไม่ใช่การไปคัดลอกเนื้อข่าวเต็มบทความ)
+FETCH_OG_METADATA = True
+OG_FETCH_TIMEOUT = 6
+_UA = "Mozilla/5.0 (compatible; ThaiTechNewsBot/1.0; +https://github.com/)"
 
 # คำที่ใช้กรองเฉพาะข่าวที่เกี่ยวกับ AI/เทค/นวัตกรรม (กันข่าวหมวดอื่นที่หลุดเข้ามาจาก feed กว้างๆ)
 KEYWORDS = [
@@ -40,7 +49,7 @@ def clean_html(raw: str) -> str:
 
 def extract_image(entry) -> str:
     """ดึง URL ภาพประกอบจาก RSS entry ถ้ามี (media:content, media:thumbnail, หรือ enclosure)
-    คืนค่าว่างถ้าไม่มีภาพ — ฝั่งเว็บจะใช้พื้นหลังไล่สีแทนโดยอัตโนมัติ"""
+    คืนค่าว่างถ้าไม่มีภาพ"""
     media_content = getattr(entry, "media_content", None)
     if media_content:
         for m in media_content:
@@ -64,13 +73,59 @@ def extract_image(entry) -> str:
     return ""
 
 
+_OG_IMAGE_PATTERNS = [
+    r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']',
+    r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']',
+    r'<meta[^>]+name=["\']twitter:image["\'][^>]+content=["\']([^"\']+)["\']',
+]
+_OG_DESC_PATTERNS = [
+    r'<meta[^>]+property=["\']og:description["\'][^>]+content=["\']([^"\']+)["\']',
+    r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:description["\']',
+    r'<meta[^>]+name=["\']description["\'][^>]+content=["\']([^"\']+)["\']',
+]
+
+
+def fetch_og_metadata(url: str) -> dict:
+    """พยายามดึง og:image / og:description จากหน้าเว็บต้นฉบับ — ใช้ metadata ที่สำนักข่าว
+    ตั้งใจใส่ไว้ให้บุคคลที่สามแสดงตัวอย่าง (แบบเดียวกับ Facebook/Twitter link preview)
+    ไม่ใช่การไปโหลดเนื้อข่าวเต็มบทความมาใช้ ถ้าดึงไม่สำเร็จจะคืน dict ว่างเฉยๆ ไม่ทำให้สคริปต์พัง"""
+    if not FETCH_OG_METADATA or not url:
+        return {"image": "", "description": ""}
+
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": _UA})
+        with urllib.request.urlopen(req, timeout=OG_FETCH_TIMEOUT) as resp:
+            raw = resp.read(120_000)  # อ่านแค่ช่วงต้นของหน้า พอให้เจอ <meta> ใน <head>
+        text = raw.decode("utf-8", errors="ignore")
+    except Exception:
+        return {"image": "", "description": ""}
+
+    image = ""
+    for pattern in _OG_IMAGE_PATTERNS:
+        m = re.search(pattern, text, re.IGNORECASE)
+        if m:
+            image = html.unescape(m.group(1))
+            break
+
+    description = ""
+    for pattern in _OG_DESC_PATTERNS:
+        m = re.search(pattern, text, re.IGNORECASE)
+        if m:
+            description = html.unescape(m.group(1)).strip()
+            break
+
+    return {"image": image, "description": description}
+
+
 def is_relevant(title: str, summary: str) -> bool:
     combined = f"{title} {summary}".lower()
     return any(kw in combined for kw in KEYWORDS)
 
 
-def fetch_all(max_per_feed: int = MAX_ITEMS_PER_FEED, filter_keywords: bool = True):
-    """ดึงข่าวจากทุก feed ใน FEEDS แล้วคืนค่าเป็น list ของ dict (ยังเป็นภาษาอังกฤษ/ต้นฉบับ)"""
+def fetch_all(max_per_feed: int = MAX_ITEMS_PER_FEED, filter_keywords: bool = True,
+              fetch_og: bool = True):
+    """ดึงข่าวจากทุก feed ใน FEEDS แล้วคืนค่าเป็น list ของ dict (ยังเป็นภาษาอังกฤษ/ต้นฉบับ)
+    ถ้า fetch_og=True จะพยายามเสริมภาพ/คำอธิบายจากหน้าเว็บต้นฉบับให้ข่าวที่ RSS ให้ข้อมูลมาน้อย"""
     items = []
     for feed in FEEDS:
         parsed = feedparser.parse(feed["url"])
@@ -89,14 +144,27 @@ def fetch_all(max_per_feed: int = MAX_ITEMS_PER_FEED, filter_keywords: bool = Tr
             if filter_keywords and not is_relevant(title, summary):
                 continue
 
+            link = getattr(entry, "link", "")
+            image = extract_image(entry)
+
+            # ถ้า RSS ไม่มีภาพ หรือสรุปสั้นเกินไป (ต่ำกว่า ~120 ตัวอักษร) ลองเสริมจากหน้าเว็บต้นฉบับ
+            need_image = not image
+            need_more_text = len(summary) < 120
+            if fetch_og and (need_image or need_more_text):
+                og = fetch_og_metadata(link)
+                if need_image and og["image"]:
+                    image = og["image"]
+                if need_more_text and og["description"] and len(og["description"]) > len(summary):
+                    summary = og["description"][:800]
+
             items.append({
                 "source": feed["name"],
                 "flag": "",  # เติมทีหลังใน build_feed.py ถ้าต้องการ
                 "category": feed["category"],
                 "title_en": title,
                 "summary_en": summary,
-                "image": extract_image(entry),
-                "link": getattr(entry, "link", ""),
+                "image": image,
+                "link": link,
                 "published": getattr(entry, "published", ""),
             })
             count += 1
