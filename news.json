@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-08-07T12:35:05.586296+00:00",
+  "generated_at": "2026-08-07T15:42:26.004516+00:00",
   "count": 35,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
+      "summary_en": "You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees already in town for Disrupt.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/55345024456_564e50f500_k.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
+      "published": "Fri, 07 Aug 2026 14:30:00 +0000",
+      "title_th": "โฮสต์ Disrupt ของคุณเอง: สมัครเพื่อเรียกใช้ Side Event ที่ TechCrunch Disrupt 2026",
+      "summary_th": "คุณรวบรวมแนวคิดนี้ ตั้งแต่ผู้ก่อตั้งผู้ก่อตั้ง การประชุมนอกเวลาทำการ งานปาร์ตี้ตามธีม การวิ่งตอนเช้า อะไรก็ได้ที่เหมาะกับเป้าหมายของคุณ และทีม TechCrunch จะช่วยนำเสนอแนวคิดนี้ต่อหน้าผู้เข้าร่วมที่อยู่ในเมืองเพื่อ Disrupt"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
+      "summary_en": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
+      "published": "Fri, 07 Aug 2026 14:28:31 +0000",
+      "title_th": "นักวิจัยกล่าวว่าโมเดล AI ของจีน Kimi หลบหนีจากสภาพแวดล้อมการทดสอบความปลอดภัยทางไซเบอร์",
+      "summary_th": "ในการทดสอบ Kimi แซนด์บ็อกซ์ที่ออกแบบมาเพื่อรองรับการทดสอบไม่ได้รับการกำหนดค่าอย่างเหมาะสม"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "summary_en": "Airbnb will debut a new AI-powered search experience with a toggle.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/08/brian-chesky-GettyImages-2217178973.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "published": "Fri, 07 Aug 2026 14:22:49 +0000",
+      "title_th": "Airbnb กล่าวว่า AI ช่วยให้จัดส่งฟีเจอร์ต่างๆ ได้เร็วขึ้นเมื่อทดสอบฟังก์ชันการค้นหาใหม่",
+      "summary_th": "Airbnb จะเปิดตัวประสบการณ์การค้นหาใหม่ที่ขับเคลื่อนด้วย AI พร้อมการสลับ"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
+      "summary_en": "SpaceX and Tesla are building a massive semiconductor fab in Texas that will depend on natural gas power plants, not Tesla solar panels.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/2026_08_05_terafab_01_c491ff0b4d.jpg?resize=1200,675",
+      "link": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
+      "published": "Fri, 07 Aug 2026 14:07:31 +0000",
+      "title_th": "Terafab ของ SpaceX จะใช้โรงไฟฟ้าก๊าซธรรมชาติ ไม่ใช่แผงโซลาร์เซลล์ของ Tesla",
+      "summary_th": "SpaceX และ Tesla กำลังสร้างโรงงานผลิตเซมิคอนดักเตอร์ขนาดใหญ่ในเท็กซัส ซึ่งจะขึ้นอยู่กับโรงไฟฟ้าก๊าซธรรมชาติ ไม่ใช่แผงโซลาร์เซลล์ของ Tesla"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -15,52 +63,16 @@
       "summary_th": "TechCrunch Disrupt 2026 สร้างขึ้นจากคำถามเดียว: คุณจะสร้างบริษัทที่ยั่งยืนในยุค AI ได้อย่างไร รายการโปรแกรมและวิทยากรของเราสะท้อนให้เห็นสิ่งนั้น"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-      "summary_en": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-      "published": "Thu, 06 Aug 2026 22:43:53 +0000",
-      "title_th": "มีรายงานว่าลำโพงอัจฉริยะ AI ใหม่ของ OpenAI จะขายในราคาระหว่าง 300 ถึง 400 ดอลลาร์",
-      "summary_th": "รายละเอียดเพิ่มเติมเกี่ยวกับอุปกรณ์ AI ใหม่อันลึกลับของ OpenAI ทำให้ดูเหมือนลำโพงอัจฉริยะราคาแพง"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
-      "summary_en": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco’s Moscone West from October 13-15. That’s exactly what our Exhibit Program offers, and it’s still open to showcase your startup. Here’s what $12,500 buys you: Joining fellow exhibitors is the fastest, lowest-lift way for a […]",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/54890573133_6dd8482235_o.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
-      "published": "Thu, 06 Aug 2026 22:00:00 +0000",
-      "title_th": "ตารางของคุณรออยู่: จัดแสดงที่ TechCrunch Disrupt 2026 เพื่อให้คนนับพันเห็น",
-      "summary_th": "ไม่ใช่ทุกคนที่ต้องการช่องคีย์โน้ตเพื่อส่งเสียงดังในงาน TechCrunch Disrupt 2026 บางครั้งวิธีที่ดีที่สุดในการพบปะนักลงทุน ลูกค้า และหุ้นส่วนคือการจัดแสดงโดยตรงบนชั้น Expo Hall ที่ Moscone West ในซานฟรานซิสโก ตั้งแต่วันที่ 13-15 ตุลาคม นั่นคือสิ่งที่โปรแกรมการจัดแสดงของเรานำเสนอ และยังคงเปิดกว้างเพื่อแสดงสตาร์ทอัพของคุณ นี่คือเงิน 12,500 ดอลลาร์ที่ซื้อคุณได้: การเข้าร่วมงานร่วมกับผู้ร่วมแสดงสินค้าเป็นวิธีที่เร็วและประหยัดที่สุดสำหรับ […]"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Vogue just gave another nod of approval to the tech world",
-      "summary_en": "Vogue World is coming to San Francisco next year — perhaps another indication that tech bros are now part of the fashion zeitgeist.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2243517268.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/",
-      "published": "Thu, 06 Aug 2026 21:24:47 +0000",
-      "title_th": "Vogue เพิ่งให้การยอมรับอีกครั้งกับโลกแห่งเทคโนโลยี",
-      "summary_th": "Vogue World กำลังจะมาถึงซานฟรานซิสโกในปีหน้า - อาจเป็นอีกข้อบ่งชี้ว่าพี่น้องสายเทคโนโลยีเป็นส่วนหนึ่งของจิตวิญญาณแห่งแฟชั่นแล้ว"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Get up to $400 off your TechCrunch Disrupt 2026 pass until tomorrow",
-      "summary_en": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/TCD26-Savings_400.png?w=1200",
-      "link": "https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/",
-      "published": "Thu, 06 Aug 2026 21:20:00 +0000",
-      "title_th": "รับส่วนลดสูงสุดถึง $400 จาก TechCrunch Disrupt 2026 Pass จนถึงวันพรุ่งนี้",
-      "summary_th": "เริ่มตั้งแต่วันนี้เป็นต้นไป คุณสามารถรับส่วนลดเพิ่มอีก 100 ดอลลาร์จากผู้ก่อตั้ง นักลงทุน หรือผู้เข้าร่วม TechCrunch Disrupt 2026 pass ซึ่งเป็นโบนัสที่ดีนอกเหนือจากราคาส่วนลดปัจจุบันของเรา"
+      "category": "software",
+      "title_en": "Samsung’s Z Fold 8 Ultra is more of the same, but better than ever",
+      "summary_en": "What makes the Samsung Galaxy Z Fold 8 Ultra so Ultra? Samsung's first foldable with the Ultra name isn't a souped-up version of the regular Fold 8, as you might expect. Where the Z Fold 8 is squat and wide, the Fold 8 Ultra retains the thin outer screen and square inner panel of the […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/samsung-galaxy-z-fold-8-ultra-11.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+      "link": "https://www.theverge.com/tech/976551/samsung-galaxy-z-fold-8-ultra-review",
+      "published": "2026-08-07T10:48:38-04:00",
+      "title_th": "Z Fold 8 Ultra ของ Samsung นั้นเหมือนเดิมมากกว่า แต่ดีกว่าที่เคย",
+      "summary_th": "อะไรทำให้ Samsung Galaxy Z Fold 8 Ultra มีความพิเศษ? สมาร์ทโฟนพับได้รุ่นแรกของ Samsung ที่มีชื่อ Ultra ไม่ใช่รุ่นยอดนิยมของ Fold 8 ปกติอย่างที่คุณคาดหวัง ในกรณีที่ Z Fold 8 ย่อส่วนและกว้าง แต่ Fold 8 Ultra ยังคงรักษาหน้าจอด้านนอกที่บางและแผงด้านในสี่เหลี่ยมของ […]"
     },
     {
       "source": "The Verge",
@@ -111,18 +123,6 @@
       "summary_th": "อุปกรณ์ AI OpenAI กำลังพัฒนาร่วมกับอดีตนักออกแบบ Apple Jony Ive \"โดยพื้นฐานแล้วเป็นลำโพงอัจฉริยะที่ไม่มีจอแสดงผล\" ซึ่งใช้พลังงานจากแบตเตอรี่ รูปโดนัท และมีขนาดประมาณลูกฮอกกี้ ตามรายงานของ Mark Gurman นักข่าวของ Bloomberg อุปกรณ์ดังกล่าวคาดว่าจะเปิดตัวในปี 2570 ในราคามากกว่า 300 ดอลลาร์ มีรายงานว่า \"จะมีรูปลักษณ์ที่เป็นเอกลักษณ์ […]"
     },
     {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "The AirPods Pro are $60 off, their best price since late June",
-      "summary_en": "Best Buy kicked off a sale on Apple products with discounts on its latest smartwatches to phones. Another deal that caught our eye is on the latest AirPods Pro, Apple’s flagship wireless earbuds, which are down to $189.99 ($60 off), with retailers like Amazon and Walmart matching the price. That’s their lowest price since Prime […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0133.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/gadgets/976276/apple-airpods-pro-3-best-buy-apple-deal-sale",
-      "published": "2026-08-06T16:00:00-04:00",
-      "title_th": "AirPods Pro ลดราคา $60 ซึ่งเป็นราคาที่ดีที่สุดนับตั้งแต่ปลายเดือนมิถุนายน",
-      "summary_th": "Best Buy เริ่มลดราคาผลิตภัณฑ์ Apple พร้อมส่วนลดสำหรับนาฬิกาอัจฉริยะรุ่นล่าสุดสำหรับโทรศัพท์ ข้อตกลงอีกประการที่ดึงดูดสายตาของเราคือ AirPods Pro รุ่นล่าสุด ซึ่งเป็นหูฟังไร้สายเรือธงของ Apple ซึ่งลดราคาลงเหลือ 189.99 ดอลลาร์ (ลด 60 ดอลลาร์) โดยมีผู้ค้าปลีกอย่าง Amazon และ Walmart จับคู่ราคากัน นั่นคือราคาที่ต่ำที่สุดนับตั้งแต่นายกรัฐมนตรี […]"
-    },
-    {
       "source": "Ars Technica",
       "flag": "US",
       "category": "software",
@@ -167,7 +167,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/russia-cyber-hack-1000x648.jpeg",
       "link": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/",
       "published": "Thu, 16 Jul 2026 19:28:33 +0000",
-      "title_th": "ปัจจุบัน แม้แต่แฮ็กเกอร์ที่เก่งที่สุดของรัสเซียก็ยังใช้ Clickfix เพื่อแพร่ระบาดในอุปกรณ์ต่างๆ",
+      "title_th": "ปัจจุบัน แม้แต่แฮ็กเกอร์ที่เก่งที่สุดของรัสเซียก็ยังใช้ Clickfix เพื่อแพร่เชื้อไปยังอุปกรณ์ต่างๆ",
       "summary_th": "เทคนิควิศวกรรมสังคมเป็นเครื่องมือของอาชญากรที่มีแรงจูงใจทางการเงินเป็นหลัก"
     },
     {
@@ -181,6 +181,30 @@
       "published": "Thu, 16 Jul 2026 15:48:21 +0000",
       "title_th": "การเสนอขายหุ้นพลังงานพุ่งสูงขึ้นในขณะที่นักลงทุนตามล่าหาหนทางที่จะเล่นกับ AI ที่กำลังบูม",
       "summary_th": "บริษัทต่างๆ ที่เข้าสู่ตลาดกำลังระดมทุนอย่างรวดเร็วที่สุดในศตวรรษนี้"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Zohran Mamdani’s NYC Tech Team Is What DOGE Should Have Been",
+      "summary_en": "The mayor of New York City has assembled a crew of Silicon Valley and United States Digital Service veterans to overhaul city services with better software.",
+      "image": "https://media.wired.com/photos/6a74dbc9893d39e4b3cd5470/master/pass/OTIC9701.jpg",
+      "link": "https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/",
+      "published": "Fri, 07 Aug 2026 15:00:00 +0000",
+      "title_th": "ทีมเทคโนโลยี NYC ของ Zohran Mamdani คือสิ่งที่ DOGE ควรจะเป็น",
+      "summary_th": "นายกเทศมนตรีนครนิวยอร์กได้รวบรวมทีมงานจาก Silicon Valley และทหารผ่านศึกด้าน Digital Service ของสหรัฐอเมริกา เพื่อยกเครื่องบริการในเมืองด้วยซอฟต์แวร์ที่ดีกว่า"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Scientists Used AI to Create 16 New Viruses",
+      "summary_en": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
+      "image": "https://media.wired.com/photos/6a75dcaa629c4defb09289b6/master/pass/virusIA.jpg",
+      "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+      "published": "Fri, 07 Aug 2026 14:13:57 +0000",
+      "title_th": "นักวิทยาศาสตร์ใช้ AI เพื่อสร้างไวรัสใหม่ 16 ชนิด",
+      "summary_th": "การใช้ระบบ AI เพื่อสร้างไวรัสเปิดโอกาสใหม่ในการต่อสู้กับการดื้อต่อแบคทีเรีย นอกจากนี้ยังทำให้เกิดความกังวลเกี่ยวกับก้าวที่เทคโนโลยีก้าวล้ำหน้ากฎระเบียบอีกด้วย"
     },
     {
       "source": "Wired",
@@ -204,7 +228,7 @@
       "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
       "published": "Fri, 07 Aug 2026 10:00:00 +0000",
       "title_th": "AI Chatbot ใหม่ที่ร้อนแรงที่สุดเป็นเพียงผู้ชายที่ตอบคำถามของคุณ",
-      "summary_th": "WIRED ได้พูดคุยกับ Tucker Bryant ศิลปินและอดีตพนักงานของ Google ที่สร้าง ChatTJB เพื่อให้ผู้คนนึกถึง \"ช่วงเวลาที่แปลกประหลาด\" ที่เราเผชิญอยู่"
+      "summary_th": "WIRED ได้พูดคุยกับ Tucker Bryant ศิลปินและอดีตพนักงานของ Google ที่สร้าง ChatTJB เพื่อให้ผู้คนนึกถึง \"ช่วงเวลาที่แปลกประหลาด\" ที่เราอยู่"
     },
     {
       "source": "Wired",
@@ -216,31 +240,31 @@
       "link": "https://www.wired.com/story/lg-promo-code/",
       "published": "Fri, 07 Aug 2026 05:00:00 +0000",
       "title_th": "รหัสส่งเสริมการขายและคูปอง LG สำหรับเดือนสิงหาคม 2569",
-      "summary_th": "ประหยัด 20% ด้วยรหัสโปรโมชั่น LG วันนี้ พร้อมส่วนลดเครื่องใช้ไฟฟ้าสูงสุด 1,000 ดอลลาร์ ส่วนลด 40% สำหรับทีวีและจอภาพที่ขายดีที่สุด"
+      "summary_th": "ประหยัด 20% ด้วยรหัสโปรโมชันของ LG วันนี้ พร้อมส่วนลดเครื่องใช้ไฟฟ้าสูงสุดถึง $1,000 และส่วนลด 40% สำหรับทีวีและจอภาพที่ขายดีที่สุด"
     },
     {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
       "category": "ai",
-      "title_en": "B&H Photo Promo Codes and Deals This August 2026",
-      "summary_en": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
-      "image": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
-      "link": "https://www.wired.com/story/bh-photo-coupon/",
-      "published": "Fri, 07 Aug 2026 05:00:00 +0000",
-      "title_th": "รหัสโปรโมชั่นและข้อเสนอภาพถ่าย B&H ในเดือนสิงหาคม 2569 นี้",
-      "summary_th": "เพลิดเพลินกับข้อเสนอสุดพิเศษสำหรับกล้อง คอมพิวเตอร์ และอุปกรณ์เทคโนโลยีที่ B&H Photo"
+      "title_en": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT_Manipulation_networks-top.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+      "published": "Fri, 07 Aug 2026 14:20:00 +0000",
+      "title_th": "การดาวน์โหลด: ทฤษฎีสมรู้ร่วมคิดในการเซ็นเซอร์และไวรัสตัวแรกที่สร้างขึ้นโดย AI",
+      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี แนวคิดเกี่ยวกับเครือข่ายการเซ็นเซอร์ขนาดใหญ่เปลี่ยนจากขอบเขตออนไลน์ไปสู่นโยบายของทรัมป์ เป็นเวลาหลายปีที่เรื่องเล่าเกี่ยวกับ \"ความซับซ้อนทางอุตสาหกรรมการเซ็นเซอร์\" แพร่กระจายในแวดวงฝ่ายขวา ทฤษฎีอ้างว่าภายใต้..."
     },
     {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
       "category": "ai",
-      "title_en": "Ulta Promo Codes: Up to 20% Off in August 2026",
-      "summary_en": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
-      "link": "https://www.wired.com/story/ulta-coupon/",
-      "published": "Fri, 07 Aug 2026 05:00:00 +0000",
-      "title_th": "รหัสส่งเสริมการขาย Ulta: ลดสูงสุด 20% ในเดือนสิงหาคม 2569",
-      "summary_th": "เลือกซื้อเทรนด์ความงามล่าสุดและประหยัดเงินได้มากโดยใช้รหัสโปรโมชัน Ulta สำหรับเทคโนโลยีความงาม การแต่งหน้า และอื่นๆ อีกมากมาย"
+      "title_en": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+      "summary_en": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading. For months, Elon Musk’s Department of Government Efficiency had been cutting a wide swath through…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT_Manipulation_networks-social.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+      "published": "Fri, 07 Aug 2026 14:00:00 +0000",
+      "title_th": "แนวคิดเกี่ยวกับเครือข่ายการเซ็นเซอร์ขนาดใหญ่เปลี่ยนจากแนวออนไลน์ไปสู่นโยบายของทรัมป์ได้อย่างไร",
+      "summary_th": "บทความนี้จัดทำขึ้นโดยความร่วมมือกับ Type Investigations โดยได้รับการสนับสนุนจากโครงการ Wayne Barrett เช้าวันหนึ่งในเดือนเมษายน ปี 2025 พนักงานของสำนักงานเล็กๆ ในกระทรวงการต่างประเทศสหรัฐฯ ได้รับอีเมลที่หลายคนรู้สึกหวาดกลัว เป็นเวลาหลายเดือนแล้วที่กระทรวงประสิทธิภาพของรัฐบาลของ Elon Musk ได้ตัดทอนขอบเขตอันกว้างขวางผ่าน..."
     },
     {
       "source": "MIT Technology Review",
@@ -279,28 +303,28 @@
       "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี การปกป้องด้วย AI ของทรัมป์เกิดขึ้นสำหรับหุ่นยนต์ หุ่นยนต์รูปทรงคล้ายมนุษย์ของ James O'Donnell มักจะทำให้เกิดอาการประจบประแจงมากกว่าความกลัว พวกเขาสะดุด เตะเด็ก และถึงแม้จะมีความก้าวหน้า แต่ก็ยังใช้มือได้แย่กว่าลูกวัยเตาะแตะของฉัน ของมัน…"
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "Trump’s AI protectionism has come for robotics",
-      "summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26206077599738.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "published": "Mon, 03 Aug 2026 18:43:30 +0000",
-      "title_th": "ลัทธิปกป้อง AI ของทรัมป์มาเพื่อหุ่นยนต์",
-      "summary_th": "เรื่องราวนี้เดิมปรากฏใน The Algorithm ซึ่งเป็นจดหมายข่าวรายสัปดาห์เกี่ยวกับ AI ของเรา หากต้องการรับเรื่องราวเช่นนี้ในกล่องจดหมายของคุณก่อน ลงทะเบียนที่นี่ หุ่นยนต์ฮิวแมนนอยด์มักจะแสดงอาการประจบประแจงมากกว่าความกลัว พวกมันสะดุด เตะเด็ก และถึงแม้จะมีความก้าวหน้าในการใช้มือก็ยังแย่กว่าเด็กวัยหัดเดินของฉัน มันเป็นอุตสาหกรรมที่เพิ่งเริ่มต้น และหุ่นยนต์แบบนี้..."
+      "category": "chip",
+      "title_en": "Are USB flash drives becoming obsolete?",
+      "summary_en": "USB drives have outlasted a lot of other tech through the years. Is it time for the industry to move on?",
+      "image": "https://www.engadget.com/img/gallery/are-usb-flash-drives-becoming-obsolete/l-intro-1785768706.jpg",
+      "link": "https://www.engadget.com/2229010/usb-flash-drives-becoming-obsolete/",
+      "published": "Fri, 07 Aug 2026 15:30:00 +0000",
+      "title_th": "แฟลชไดรฟ์ USB ล้าสมัยหรือไม่?",
+      "summary_th": "ไดรฟ์ USB มีอายุการใช้งานยาวนานกว่าเทคโนโลยีอื่นๆ มากมายตลอดหลายปีที่ผ่านมา ถึงเวลาแล้วที่อุตสาหกรรมจะเดินหน้าต่อไปหรือไม่?"
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "The Download: reward hacking explained and suspected Iranian cyberattacks",
-      "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/paperclips3.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
-      "published": "Mon, 03 Aug 2026 12:08:00 +0000",
-      "title_th": "ดาวน์โหลด: อธิบายการแฮ็กรางวัลและสงสัยว่าเป็นการโจมตีทางไซเบอร์ของอิหร่าน",
-      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี นี่คือสาเหตุที่เจ้าหน้าที่ AI โกหกและโกงเพื่อบรรลุเป้าหมาย เมื่อโมเดล OpenAI สองโมเดลถูกแฮ็กเข้าสู่ Hugging Face เมื่อเดือนที่แล้ว พวกเขาไม่ได้พยายามหาเงินหรือก่อวินาศกรรม—พวกเขา..."
+      "category": "chip",
+      "title_en": "SK Hynix pledges $38 billion to build two new DRAM and NAND factories",
+      "summary_en": "SK Hynix has announced that it will invest $38.1 billion to build two new memory chip facilities in South Korea.",
+      "image": "https://www.engadget.com/img/gallery/sk-hynix-pledges-38-billion-to-build-two-new-dram-and-nand-factories/l-intro-1786106214.jpg",
+      "link": "https://www.engadget.com/2232279/sk-hynix-pledges-38-billion-to-build-dram-nand-factories/",
+      "published": "Fri, 07 Aug 2026 12:42:43 +0000",
+      "title_th": "SK Hynix ให้คำมั่นว่าจะทุ่มเงิน 38 พันล้านดอลลาร์เพื่อสร้างโรงงาน DRAM และ NAND ใหม่สองแห่ง",
+      "summary_th": "SK Hynix ได้ประกาศว่าจะลงทุน 38.1 พันล้านดอลลาร์เพื่อสร้างโรงงานชิปหน่วยความจำใหม่ 2 แห่งในเกาหลีใต้"
     },
     {
       "source": "Engadget",
@@ -339,28 +363,16 @@
       "summary_th": "Kimi K3 ยังพบช่องโหว่ในสภาพแวดล้อมแซนด์บ็อกซ์ที่ทำให้สามารถเข้าถึงอินเทอร์เน็ตได้"
     },
     {
-      "source": "Engadget",
+      "source": "IEEE Spectrum",
       "flag": "US",
-      "category": "chip",
-      "title_en": "Google open-sources an AI model it says can help with earlier hurricane warnings",
-      "summary_en": "WeatherNext can deliver a 15-day forecast predicting storms' track and intensity.",
-      "image": "https://www.engadget.com/img/gallery/google-open-sources-an-ai-model-it-says-can-help-with-earlier-hurricane-warnings/l-intro-1786055950.jpg",
-      "link": "https://www.engadget.com/2232141/google-open-source-ai-model-can-help-with-earlier-hurricane-warnings/",
-      "published": "Thu, 06 Aug 2026 22:40:33 +0000",
-      "title_th": "Google โอเพ่นซอร์สโมเดล AI ที่ระบุว่าสามารถช่วยเตือนพายุเฮอริเคนก่อนหน้านี้ได้",
-      "summary_th": "WeatherNext สามารถคาดการณ์ทิศทางและความรุนแรงของพายุได้ใน 15 วัน"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Ro Khanna calls for the right to oppose data centers to be protected",
-      "summary_en": "The congressman thinks it's time for a \"Data Center Bill of Rights.\"",
-      "image": "https://www.engadget.com/img/gallery/ro-khanna-calls-for-the-right-to-oppose-data-centers-to-be-protected/l-intro-1786054017.jpg",
-      "link": "https://www.engadget.com/2232120/ro-khanna-calls-for-the-right-to-oppose-data-centers-to-be-protected/",
-      "published": "Thu, 06 Aug 2026 22:10:18 +0000",
-      "title_th": "Ro Khanna เรียกร้องสิทธิในการคัดค้านศูนย์ข้อมูลที่ได้รับการคุ้มครอง",
-      "summary_th": "สมาชิกสภาคองเกรสคิดว่าถึงเวลาแล้วสำหรับ \"ร่างกฎหมายสิทธิของศูนย์ข้อมูล\""
+      "category": "robot",
+      "title_en": "Cars Communicating Badly Is an Already-Solved Problem",
+      "summary_en": "The history of networking is full of tools that repurposed solutions to very different kinds of problems first. Wi-Fi’s origins trace back in part to a team of Australian radio astronomers trying to detect signals from evaporating black holes. But the data processing tools they’d developed also proved capable at extracting clean messages from any chaotic, echoing signal environment . Echoes are echoes, after all, whether from distant star systems or from the far corner of the house. I research vehicle communications networks , connecting cars to cars and to transportation infrastructure like traffic lights—for tomorrow’s vehicle-to-everthing (V2X) networks . V2X research has long relied on models that assume “perfect” or “ideal” network conditions. Which is a simplifying assumption that ma",
+      "image": "https://spectrum.ieee.org/media-library/an-illustration-of-two-cars-with-cell-towers-on-top-communicating-via-speech-bubbles.jpg?id=67571736&width=980",
+      "link": "https://spectrum.ieee.org/v2x-technology-5g-open-ran",
+      "published": "Fri, 07 Aug 2026 13:00:01 +0000",
+      "title_th": "รถยนต์ที่สื่อสารกันไม่ดีคือปัญหาที่ได้รับการแก้ไขแล้ว",
+      "summary_th": "ประวัติความเป็นมาของเครือข่ายเต็มไปด้วยเครื่องมือที่นำวิธีแก้ไขปัญหาประเภทต่างๆ มาใช้ใหม่ก่อน ต้นกำเนิดของ Wi-Fi ส่วนหนึ่งย้อนกลับไปที่ทีมนักดาราศาสตร์วิทยุชาวออสเตรเลียที่พยายามตรวจจับสัญญาณจากการระเหยของหลุมดำ แต่เครื่องมือประมวลผลข้อมูลที่พวกเขาพัฒนาขึ้นยังได้รับการพิสูจน์แล้วว่าสามารถดึงข้อความที่ชัดเจนจากสภาพแวดล้อมสัญญาณสะท้อนที่วุ่นวายได้ เสียงสะท้อนก็คือเสียงสะท้อน ไม่ว่าจะมาจากระบบดาวอันห่างไกลหรือจากมุมไกลของบ้าน ฉันค้นคว้าเครือข่ายการสื่อสารในยานพาหนะ การเชื่อมต่อรถยนต์กับรถยนต์ และโครงสร้างพื้นฐานด้านการคมนาคม เช่น สัญญาณไฟจราจร สำหรับเครือข่าย Vehicle-to-everthing (V2X) ในอนาคต การวิจัย V2X อาศัยโมเดลที่ถือว่าสภาพเครือข่าย \"สมบูรณ์แบบ\" หรือ \"ในอุดมคติ\" มานานแล้ว ซึ่งเป็นข้อสันนิษฐานที่ง่ายขึ้นว่าแม่"
     },
     {
       "source": "IEEE Spectrum",
@@ -408,19 +420,7 @@
       "link": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation",
       "published": "Mon, 03 Aug 2026 11:38:22 +0000",
       "title_th": "การระบุสาเหตุที่แท้จริงของความล้มเหลวทางอิเล็กทรอนิกส์ด้วยแอปจำลอง",
-      "summary_th": "บทความนี้นำเสนอโดย COMSOL เพื่อแสวงหาระยะที่ดีขึ้น ความน่าเชื่อถือที่มากขึ้น และการชาร์จที่เร็วขึ้น ยานพาหนะไฟฟ้ากำลังขับเคลื่อนความต้องการอุปกรณ์อิเล็กทรอนิกส์ไฟฟ้าแรงสูง แอปพลิเคชันอื่นๆ ที่ขับเคลื่อนความต้องการนี้ ได้แก่ ฟาร์มกังหันลม ศูนย์ข้อมูล และฟาร์มเซิร์ฟเวอร์ และอื่นๆ อีกมากมาย เนื่องจากความสนใจในอุปกรณ์อิเล็กทรอนิกส์ไฟฟ้าแรงสูงเพิ่มขึ้น จึงต้องพิจารณาความเสี่ยงที่เกี่ยวข้องกับความล้มเหลวกะทันหัน สาเหตุที่ทำให้อุปกรณ์ไฟฟ้าแรงสูงทำงานผิดปกติส่วนใหญ่สามารถเชื่อมโยงกับสภาพอากาศที่อุปกรณ์ทำงานอยู่ได้ โดยเฉพาะอย่างยิ่ง การควบแน่นบนพื้นผิวอิเล็กทรอนิกส์ที่เกิดจากความชื้นอาจทำให้เกิดการกัดกร่อน ซึ่งอาจส่งผลให้เกิดกระแสรั่วไหลและเดนไดรต์ลัดวงจรระหว่างการย้ายเคมีไฟฟ้า (ECM) คาดการณ์ บรรเทา และช่วยออกแบบบัญชีเชิงรุก"
-    },
-    {
-      "source": "IEEE Spectrum",
-      "flag": "US",
-      "category": "robot",
-      "title_en": "Fridays With Bob",
-      "summary_en": "When I started at Spectrum 25 years ago, a senior editor suggested that I find a “rabbi,” by which he meant someone who could mentor me in how EEs approach problems and evaluate potential solutions. I didn’t find one right away. Then in 2005 we decided to do a special report, focusing on the challenges of enterprise software development. I suggested we invite IEEE Life Senior Member Robert N. Charette , a self-described risk ecologist, prolific book author, and leading authority on risk management and software engineering, to explore in our pages the myriad reasons software projects fail. His seminal article “ Why Software Fails ” is still read in university engineering classes today. IEEE Life Senior Member Robert N. Charette is one of IEEE Spectrum’s most prolific authors. Robert N. Char",
-      "image": "https://spectrum.ieee.org/media-library/a-greenish-yellow-waxwing-bird-sitting-on-a-twig-eating-a-berry.jpg?id=67541842&width=980",
-      "link": "https://spectrum.ieee.org/risk",
-      "published": "Sat, 01 Aug 2026 12:00:01 +0000",
-      "title_th": "วันศุกร์กับบ๊อบ",
-      "summary_th": "เมื่อฉันเริ่มต้นที่ Spectrum เมื่อ 25 ปีที่แล้ว บรรณาธิการอาวุโสคนหนึ่งแนะนำให้ฉันค้นหา \"รับบี\" ซึ่งเขาหมายถึงคนที่สามารถให้คำปรึกษาแก่ฉันเกี่ยวกับวิธีที่ EE จัดการกับปัญหาและประเมินวิธีแก้ปัญหาที่เป็นไปได้ ฉันไม่พบมันทันที จากนั้นในปี พ.ศ. 2548 เราจึงตัดสินใจจัดทำรายงานพิเศษ โดยมุ่งเน้นที่ความท้าทายของการพัฒนาซอฟต์แวร์ระดับองค์กร ฉันขอแนะนำให้เราเชิญสมาชิกอาวุโส IEEE Life Robert N. Charette นักนิเวศวิทยาความเสี่ยงที่อธิบายตัวเอง ผู้เขียนหนังสือที่มีผลงานมากมาย และผู้มีอำนาจชั้นนำด้านการบริหารความเสี่ยงและวิศวกรรมซอฟต์แวร์ เพื่อสำรวจในหน้าเว็บของเราถึงสาเหตุที่โครงการซอฟต์แวร์มากมายล้มเหลว บทความสำคัญของเขาเรื่อง \"เหตุใดซอฟต์แวร์จึงล้มเหลว\" ยังคงมีอ่านอยู่ในชั้นเรียนวิศวกรรมศาสตร์ของมหาวิทยาลัยในปัจจุบัน สมาชิกอาวุโสของ IEEE Life Robert N. Charette เป็นหนึ่งในนักเขียนที่มีผลงานมากที่สุดของ IEEE Spectrum โรเบิร์ต เอ็น. ชาร์"
+      "summary_th": "บทความนี้นำเสนอโดย COMSOL เพื่อแสวงหาระยะที่ดีขึ้น ความน่าเชื่อถือที่มากขึ้น และการชาร์จที่เร็วขึ้น ยานพาหนะไฟฟ้ากำลังขับเคลื่อนความต้องการอุปกรณ์อิเล็กทรอนิกส์ไฟฟ้าแรงสูง แอปพลิเคชันอื่นๆ ที่ขับเคลื่อนความต้องการนี้ ได้แก่ ฟาร์มกังหันลม ศูนย์ข้อมูล และฟาร์มเซิร์ฟเวอร์ และอื่นๆ อีกมากมาย เนื่องจากความสนใจในอุปกรณ์อิเล็กทรอนิกส์ไฟฟ้าแรงสูงเพิ่มขึ้น จึงต้องพิจารณาความเสี่ยงที่เกี่ยวข้องกับความล้มเหลวกะทันหัน สาเหตุที่ทำให้อุปกรณ์ไฟฟ้าแรงสูงทำงานผิดปกติส่วนใหญ่สามารถเชื่อมโยงกับสภาพอากาศที่อุปกรณ์ทำงานอยู่ได้ โดยเฉพาะอย่างยิ่ง การควบแน่นบนพื้นผิวอิเล็กทรอนิกส์ที่เกิดจากความชื้นอาจทำให้เกิดการกัดกร่อน ซึ่งอาจส่งผลให้เกิดกระแสรั่วไหลและเดนไดรต์ลัดวงจรระหว่างการย้ายทางเคมีไฟฟ้า (ECM) คาดการณ์ บรรเทา และช่วยออกแบบบัญชีเชิงรุก"
     }
   ],
   "indices": [
@@ -428,25 +428,25 @@
       "symbol": "^GSPC",
       "name": "S&P 500",
       "market": "US",
-      "price": 7709.96,
-      "change": -13.59,
-      "change_pct": -0.18
+      "price": 7754.63,
+      "change": 44.67,
+      "change_pct": 0.58
     },
     {
       "symbol": "^DJI",
       "name": "Dow Jones",
       "market": "US",
-      "price": 53885.1,
-      "change": -464.02,
-      "change_pct": -0.85
+      "price": 53965.29,
+      "change": 80.19,
+      "change_pct": 0.15
     },
     {
       "symbol": "^IXIC",
       "name": "Nasdaq",
       "market": "US",
-      "price": 26348.35,
-      "change": -15.09,
-      "change_pct": -0.06
+      "price": 26681.28,
+      "change": 332.93,
+      "change_pct": 1.26
     }
   ]
 }
