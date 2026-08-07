@@ -12,13 +12,44 @@ import os
 import json
 import time
 
+# ข้อความที่มักหลุดมาตอน Google Translate โดน rate limit / บล็อกชั่วคราว
+# (ไลบรารีฟรีตัวนี้บางทีไม่ raise exception แต่คืนหน้า error กลับมาแทนคำแปลเฉยๆ)
+_BAD_SIGNATURES = [
+    "error 500", "server error", "that's all we know", "error 404",
+    "<!doctype", "<html", "bad request", "too many requests",
+    "we're sorry", "service unavailable",
+]
 
-def translate_google(title_en: str, summary_en: str) -> dict:
+
+def _looks_broken(text: str) -> bool:
+    if not text or not text.strip():
+        return True
+    lowered = text.lower()
+    return any(sig in lowered for sig in _BAD_SIGNATURES)
+
+
+def translate_google(title_en: str, summary_en: str, max_retries: int = 3) -> dict:
     from deep_translator import GoogleTranslator
 
     translator = GoogleTranslator(source="auto", target="th")
-    title_th = translator.translate(title_en) if title_en else ""
-    summary_th = translator.translate(summary_en) if summary_en else ""
+
+    def _safe_translate(text: str) -> str:
+        if not text:
+            return ""
+        for attempt in range(max_retries):
+            try:
+                result = translator.translate(text)
+            except Exception:
+                result = None
+            if result and not _looks_broken(result):
+                return result
+            time.sleep(1.5 * (attempt + 1))  # รอนานขึ้นเรื่อยๆ ก่อนลองใหม่
+        # แปลไม่สำเร็จจริงๆ หลังลองครบทุกครั้ง — เก็บข้อความอังกฤษเดิมไว้ดีกว่าเอาข้อความ error มาโชว์
+        return text
+
+    title_th = _safe_translate(title_en)
+    time.sleep(0.6)  # เว้นจังหวะระหว่างแปลหัวข้อกับสรุป กันยิงรัวเกินไป
+    summary_th = _safe_translate(summary_en)
     return {"title_th": title_th, "summary_th": summary_th}
 
 
@@ -73,8 +104,8 @@ def translate_item(item: dict, backend: str = "google") -> dict:
     return item
 
 
-def translate_all(items: list, backend: str = "google", delay_seconds: float = 0.3) -> list:
-    """แปลข่าวทั้งหมดทีละชิ้น พร้อมหน่วงเวลาเล็กน้อยกันโดน rate limit"""
+def translate_all(items: list, backend: str = "google", delay_seconds: float = 1.2) -> list:
+    """แปลข่าวทั้งหมดทีละชิ้น พร้อมหน่วงเวลาให้พอกันโดน rate limit"""
     translated = []
     for i, item in enumerate(items, 1):
         print(f"  แปล [{i}/{len(items)}] {item['title_en'][:60]}...")
