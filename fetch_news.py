@@ -38,6 +38,32 @@ def clean_html(raw: str) -> str:
     return text
 
 
+def extract_image(entry) -> str:
+    """ดึง URL ภาพประกอบจาก RSS entry ถ้ามี (media:content, media:thumbnail, หรือ enclosure)
+    คืนค่าว่างถ้าไม่มีภาพ — ฝั่งเว็บจะใช้พื้นหลังไล่สีแทนโดยอัตโนมัติ"""
+    media_content = getattr(entry, "media_content", None)
+    if media_content:
+        for m in media_content:
+            url = m.get("url")
+            if url:
+                return url
+
+    media_thumbnail = getattr(entry, "media_thumbnail", None)
+    if media_thumbnail:
+        for m in media_thumbnail:
+            url = m.get("url")
+            if url:
+                return url
+
+    for link in getattr(entry, "links", []) or []:
+        if str(link.get("type", "")).startswith("image"):
+            href = link.get("href")
+            if href:
+                return href
+
+    return ""
+
+
 def is_relevant(title: str, summary: str) -> bool:
     combined = f"{title} {summary}".lower()
     return any(kw in combined for kw in KEYWORDS)
@@ -69,6 +95,7 @@ def fetch_all(max_per_feed: int = MAX_ITEMS_PER_FEED, filter_keywords: bool = Tr
                 "category": feed["category"],
                 "title_en": title,
                 "summary_en": summary,
+                "image": extract_image(entry),
                 "link": getattr(entry, "link", ""),
                 "published": getattr(entry, "published", ""),
             })
