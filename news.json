@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-07T18:36:35.858285+00:00",
+  "generated_at": "2026-08-07T21:27:41.657114+00:00",
   "count": 35,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+      "summary_en": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/poland-cyber-internet-1232657831.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+      "published": "Fri, 07 Aug 2026 21:00:08 +0000",
+      "title_th": "นักวิจัยด้านความปลอดภัยสแกนเว็บของโปแลนด์และพบว่าศาล โรงพยาบาล และสนามบินมีความเสี่ยงที่จะถูกแฮ็ก",
+      "summary_th": "นักวิจัยพบว่าจุดที่พบบ่อยของความล้มเหลว เช่น ซอฟต์แวร์ที่ใช้ในการจัดระเบียบและแสดงเนื้อหาเว็บ อาจทำให้แฮกเกอร์สามารถก่อจลาจลผ่านเว็บไซต์ของรัฐบาลได้"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -24,7 +36,7 @@
       "link": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
       "published": "Fri, 07 Aug 2026 16:09:04 +0000",
       "title_th": "Framework ผู้ผลิตคอมพิวเตอร์แจ้งเตือน 'ลูกค้าทั้งหมด' เกี่ยวกับการละเมิดข้อมูล",
-      "summary_th": "Framework บอกกับลูกค้า \"ทั้งหมด\" ว่าแฮกเกอร์เข้าถึงชื่อ ที่อยู่อีเมล หมายเลขโทรศัพท์ และที่อยู่ทางกายภาพของพวกเขาในการละเมิดข้อมูล"
+      "summary_th": "Framework แจ้งลูกค้า \"ทั้งหมด\" ว่าแฮกเกอร์เข้าถึงชื่อ ที่อยู่อีเมล หมายเลขโทรศัพท์ และที่อยู่ทางกายภาพของตนในการละเมิดข้อมูล"
     },
     {
       "source": "TechCrunch",
@@ -48,19 +60,55 @@
       "link": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
       "published": "Fri, 07 Aug 2026 14:30:00 +0000",
       "title_th": "โฮสต์ Disrupt ของคุณเอง: สมัครเพื่อเรียกใช้ Side Event ที่ TechCrunch Disrupt 2026",
-      "summary_th": "คุณรวบรวมแนวคิดนี้ ตั้งแต่ผู้ก่อตั้งผู้ก่อตั้ง การประชุมนอกเวลาทำการ งานปาร์ตี้ตามธีม การวิ่งตอนเช้า อะไรก็ได้ที่เหมาะกับเป้าหมายของคุณ และทีม TechCrunch จะช่วยนำเสนอแนวคิดนี้ต่อหน้าผู้เข้าร่วมที่อยู่ในเมืองเพื่อ Disrupt"
+      "summary_th": "คุณรวบรวมแนวคิดนี้ ตั้งแต่ผู้ก่อตั้งผู้ก่อตั้ง การอภิปรายนอกเวลาทำการ งานปาร์ตี้ที่มีธีม การวิ่งตอนเช้า อะไรก็ได้ที่เหมาะกับเป้าหมายของคุณ และทีม TechCrunch จะช่วยนำเสนอแนวคิดนี้ต่อหน้าผู้เข้าร่วมที่อยู่ในเมืองเพื่อ Disrupt"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
-      "summary_en": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
-      "published": "Fri, 07 Aug 2026 14:28:31 +0000",
-      "title_th": "นักวิจัยกล่าวว่าโมเดล AI ของจีน Kimi หลบหนีจากสภาพแวดล้อมการทดสอบความปลอดภัยทางไซเบอร์",
-      "summary_th": "ในการทดสอบ Kimi แซนด์บ็อกซ์ที่ออกแบบมาเพื่อรองรับการทดสอบไม่ได้รับการกำหนดค่าอย่างเหมาะสม"
+      "category": "software",
+      "title_en": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+      "summary_en": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI detector that identifies it […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&strip=all&crop=0,23.821989528796,100,52.356020942408",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+      "published": "2026-08-07T16:01:51-04:00",
+      "title_th": "Fenix ​​Flexin ไม่ได้ปฏิเสธด้วยซ้ำว่าการใช้ AI เพื่อสร้าง 'Rubberz' อีกต่อไป",
+      "summary_th": "ใช้เวลานานพอสมควร แต่ตอนนี้แร็ปเปอร์จาก LA Fenix ​​Flexin ดูเหมือนจะยอมรับว่าใช้ AI สำหรับเพลงซินธ์ป๊อปแนวซินธ์ป๊อปยุค 80 \"Rubberz\" ความคิดเห็นของเขาเป็นไปตามวิดีโอของโปรดิวเซอร์ Medasin โดยอ้างว่ามีการใช้เครื่องมือ AI ชื่อ Treblo (เดิมชื่อ Sonauto) ในการสร้างเพลง และบริษัทได้ปล่อยเครื่องตรวจจับ AI ที่ระบุ […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Watching Roku’s AI channel is like eating from a trough",
+      "summary_en": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers access to a constant source of AI-generated content. […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-07-at-2.40.34-PM.png?quality=90&strip=all&crop=0%2C2.3735501218774%2C100%2C95.252899756245&w=1200",
+      "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "published": "2026-08-07T14:59:46-04:00",
+      "title_th": "การดูช่อง AI ของ Roku ก็เหมือนกับการกินจากรางน้ำ",
+      "summary_th": "ความน่าดึงดูดใจของช่องทีวีสตรีมมิ่งที่รองรับโฆษณาฟรี (FAST) เป็นวิธีที่ช่วยให้ค้นพบภาพยนตร์และซีรีส์คลาสสิกได้ง่ายขึ้น แต่การทดลองล่าสุดของโรคุในพื้นที่ FAST ไม่ได้เกี่ยวข้องกับความบันเทิงที่ผลิตแบบดั้งเดิม และมุ่งเน้นไปที่การให้ผู้ชมเข้าถึงแหล่งเนื้อหาที่สร้างโดย AI อย่างต่อเนื่อง […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+      "summary_en": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "published": "2026-08-07T14:40:34-04:00",
+      "title_th": "OpenAI ทำการเบรกโมเดลใหม่เพราะมันมีพลังมากเกินไป",
+      "summary_th": "OpenAI กล่าวว่ากำลังหยุด \"กิจกรรมภายใน\" เกี่ยวกับโมเดล AI ที่อยู่ระหว่างการพัฒนาอย่าง Astra เนื่องจากยังไม่เป็นไปตามมาตรฐานความปลอดภัยใหม่ที่บริษัทกำหนดไว้ การประกาศดังกล่าวเกิดขึ้นหลังจากการเปิดเผยล่าสุดว่าโมเดล OpenAI แฮ็ก Hugging Face โดยไม่ได้ตั้งใจ ตั้งแต่นั้นมา Anthropic และ Meta ก็ยอมรับว่าพวกเขามีโมเดล AI ที่โกง […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "The only instant cameras worth your money",
+      "summary_en": "There’s something magical about using instant cameras that smartphones can’t match. You can capture a moment, print it out, and then give the photo as a gift or hold onto it. Image quality won’t be all that good, but imperfections are part of the allure. We tested instant camera models from popular brands and landed […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268681_The_best_instant_cameras_you_can_buy_right_now_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
+      "published": "2026-08-07T14:04:08-04:00",
+      "title_th": "กล้องอินสแตนท์หนึ่งเดียวที่คุ้มค่าเงินของคุณ",
+      "summary_th": "มีบางสิ่งที่มหัศจรรย์เกี่ยวกับการใช้กล้องทันใจที่สมาร์ทโฟนไม่สามารถเทียบได้ คุณสามารถจับภาพช่วงเวลาสำคัญ พิมพ์ออกมา จากนั้นให้รูปถ่ายเป็นของขวัญหรือถือไว้ก็ได้ คุณภาพของภาพอาจไม่ดีนัก แต่ความไม่สมบูรณ์เป็นส่วนหนึ่งของเสน่ห์ เราทดสอบกล้องอินสแตนท์รุ่นต่างๆ จากแบรนด์ยอดนิยมและได้ […]"
     },
     {
       "source": "The Verge",
@@ -73,54 +121,6 @@
       "published": "2026-08-07T13:53:44-04:00",
       "title_th": "Disney Plus ลองใช้การค้นหาที่ขับเคลื่อนด้วย AI ใหม่",
       "summary_th": "Disney กำลังทดสอบเครื่องมือที่ขับเคลื่อนด้วย AI ใหม่สำหรับ Disney Plus ซึ่งใช้การค้นหาด้วยภาษาธรรมชาติ ข้อความเสียง หรือข้อความแนะนำเพื่อสร้างแถวคำแนะนำรายการและภาพยนตร์แบบกำหนดเอง Disney Plus เช่นเดียวกับบริการสตรีมมิ่งอื่นๆ สามารถแนะนำรายการให้ดูตามประวัติการดูของคุณได้ แต่บริษัทบอกว่าสิ่งนี้ใหม่ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "What’s behind the Google AI shake-up",
-      "summary_en": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST080726_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-      "published": "2026-08-07T12:45:14-04:00",
-      "title_th": "เบื้องหลังการเปลี่ยนแปลงของ Google AI คืออะไร",
-      "summary_th": "ชื่อที่ยิ่งใหญ่ที่สุดบางส่วนในทีม AI ของ Google ได้งานใหม่ในสัปดาห์นี้ ในบางกรณี รวมถึง Jeff Dean ชาว Google ในตำนานด้วย งานเหล่านั้นไม่ได้อยู่ที่ Google อีกต่อไป เนื่องจากโมเดลของ Google ดูเหมือนจะอยู่เบื้องหลังสิ่งที่ดีที่สุดของสิ่งที่ออกมาจากมานุษยวิทยาและ OpenAI นี่เป็นสัญญาณของ Google ใน […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Birdfy’s smart bird feeder is on sale for just $60",
-      "summary_en": "The Birdfy Feeder Rookie is a good option if you’re new to birdwatching or simply don’t want to spend a lot on a smart feeder, and several configurations are on sale. The standard model is down to $59.99 ($60 off) at Amazon, which is close to its lowest price. It includes seven days of access […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/birdfyfeeder.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/gadgets/976422/birdfy-feeder-rookie-nothing-headphones-deal-sale",
-      "published": "2026-08-07T12:04:03-04:00",
-      "title_th": "เครื่องให้อาหารนกอัจฉริยะของ Birdfy จำหน่ายในราคาเพียง 60 ดอลลาร์",
-      "summary_th": "Birdfy Feeder Rookie เป็นตัวเลือกที่ดีหากคุณยังใหม่กับการดูนกหรือไม่ต้องการจ่ายเงินจำนวนมากกับเครื่องป้อนอัจฉริยะ และมีการกำหนดค่าหลายแบบลดราคา รุ่นมาตรฐานลดราคาที่ Amazon เหลือ 59.99 ดอลลาร์ (ลด 60 ดอลลาร์) ซึ่งใกล้เคียงกับราคาต่ำสุด รวมถึงการเข้าถึงเจ็ดวัน […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Samsung’s Z Fold 8 Ultra is more of the same, but better than ever",
-      "summary_en": "What makes the Samsung Galaxy Z Fold 8 Ultra so Ultra? Samsung's first foldable with the Ultra name isn't a souped-up version of the regular Fold 8, as you might expect. Where the Z Fold 8 is squat and wide, the Fold 8 Ultra retains the thin outer screen and square inner panel of the […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/samsung-galaxy-z-fold-8-ultra-11.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-      "link": "https://www.theverge.com/tech/976551/samsung-galaxy-z-fold-8-ultra-review",
-      "published": "2026-08-07T10:48:38-04:00",
-      "title_th": "Z Fold 8 Ultra ของ Samsung นั้นเหมือนเดิมมากกว่า แต่ดีกว่าที่เคย",
-      "summary_th": "อะไรทำให้ Samsung Galaxy Z Fold 8 Ultra มีความพิเศษ? สมาร์ทโฟนพับได้รุ่นแรกของ Samsung ที่มีชื่อ Ultra ไม่ใช่รุ่นยอดนิยมของ Fold 8 ปกติอย่างที่คุณคาดหวัง ในกรณีที่ Z Fold 8 ย่อส่วนและกว้าง แต่ Fold 8 Ultra ยังคงรักษาหน้าจอด้านนอกที่บางและแผงด้านในสี่เหลี่ยมของ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Why does Apple keep banning Telegram, but never X?",
-      "summary_en": "For roughly an hour this week, Telegram vanished from Apple's App Store. Even during that blip, it was a stunning absence for such a major app: an avenue of communication for more than 1 billion users around the world, used widely as a secure platform for people who live in countries under censorship. Apple later […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2217854935.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/976405/apple-telegram-ban-x-app-store-violations",
-      "published": "2026-08-07T07:00:00-04:00",
-      "title_th": "เหตุใด Apple จึงแบน Telegram ต่อไป แต่ไม่เคย X?",
-      "summary_th": "ประมาณหนึ่งชั่วโมงในสัปดาห์นี้ Telegram หายไปจาก App Store ของ Apple แม้แต่ในช่วงเวลาที่เกิดเหตุการณ์ดังกล่าว แอปหลักๆ ดังกล่าวก็ขาดหายไปอย่างน่าทึ่ง ซึ่งเป็นช่องทางการสื่อสารสำหรับผู้ใช้มากกว่า 1 พันล้านคนทั่วโลก ซึ่งใช้เป็นแพลตฟอร์มที่ปลอดภัยสำหรับผู้ที่อาศัยอยู่ในประเทศที่ถูกเซ็นเซอร์อย่างกว้างขวาง แอปเปิ้ลในเวลาต่อมา […]"
     },
     {
       "source": "Ars Technica",
@@ -167,7 +167,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/russia-cyber-hack-1000x648.jpeg",
       "link": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/",
       "published": "Thu, 16 Jul 2026 19:28:33 +0000",
-      "title_th": "ปัจจุบัน แม้แต่แฮ็กเกอร์ที่เก่งที่สุดของรัสเซียก็ยังใช้ Clickfix เพื่อแพร่เชื้อไปยังอุปกรณ์ต่างๆ",
+      "title_th": "ปัจจุบัน แม้แต่แฮ็กเกอร์ที่เก่งที่สุดของรัสเซียก็ยังใช้ Clickfix เพื่อแพร่ระบาดในอุปกรณ์ต่างๆ",
       "summary_th": "เทคนิควิศวกรรมสังคมเป็นเครื่องมือของอาชญากรที่มีแรงจูงใจทางการเงินเป็นหลัก"
     },
     {
@@ -204,7 +204,7 @@
       "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
       "published": "Fri, 07 Aug 2026 14:13:57 +0000",
       "title_th": "นักวิทยาศาสตร์ใช้ AI เพื่อสร้างไวรัสใหม่ 16 ชนิด",
-      "summary_th": "การใช้ระบบ AI เพื่อสร้างไวรัสเปิดโอกาสใหม่ในการต่อสู้กับการดื้อต่อแบคทีเรีย นอกจากนี้ยังทำให้เกิดความกังวลเกี่ยวกับก้าวที่เทคโนโลยีก้าวล้ำหน้ากฎระเบียบอีกด้วย"
+      "summary_th": "การใช้ระบบ AI เพื่อสร้างไวรัสเปิดโอกาสใหม่ในการต่อสู้กับการดื้อต่อแบคทีเรีย นอกจากนี้ยังก่อให้เกิดความกังวลเกี่ยวกับก้าวที่เทคโนโลยีก้าวล้ำหน้ากฎระเบียบอีกด้วย"
     },
     {
       "source": "Wired",
@@ -228,7 +228,7 @@
       "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
       "published": "Fri, 07 Aug 2026 10:00:00 +0000",
       "title_th": "AI Chatbot ใหม่ที่ร้อนแรงที่สุดเป็นเพียงผู้ชายที่ตอบคำถามของคุณ",
-      "summary_th": "WIRED ได้พูดคุยกับ Tucker Bryant ศิลปินและอดีตพนักงานของ Google ที่สร้าง ChatTJB เพื่อให้ผู้คนนึกถึง \"ช่วงเวลาที่แปลกประหลาด\" ที่เราอยู่"
+      "summary_th": "WIRED ได้พูดคุยกับ Tucker Bryant ศิลปินและอดีตพนักงานของ Google ที่สร้าง ChatTJB เพื่อให้ผู้คนนึกถึง \"ช่วงเวลาที่แปลกประหลาด\" ที่เราเผชิญอยู่"
     },
     {
       "source": "Wired",
@@ -306,12 +306,24 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "Framework customer information was accessed as part of a data breach",
+      "summary_en": "Framework's customer database was accessed, but no payment info was released.",
+      "image": "https://www.engadget.com/img/gallery/framework-customer-information-was-accessed-as-part-of-a-data-breach/l-intro-1786127789.jpg",
+      "link": "https://www.engadget.com/2232708/framework-customer-information-was-accessed-as-part-of-a-data-breach/",
+      "published": "Fri, 07 Aug 2026 18:37:26 +0000",
+      "title_th": "มีการเข้าถึงข้อมูลลูกค้ากรอบงานโดยเป็นส่วนหนึ่งของการละเมิดข้อมูล",
+      "summary_th": "มีการเข้าถึงฐานข้อมูลลูกค้าของ Framework แต่ไม่มีการเปิดเผยข้อมูลการชำระเงิน"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "One of NASA's Mars rovers could find itself promised to the moon instead",
       "summary_en": "NASA is planning to use elements of existing tech to learn more about all sides of the moon.",
       "image": "https://www.engadget.com/img/gallery/one-of-nasas-mars-rovers-could-find-itself-promised-to-the-moon-instead/l-intro-1785521981.jpg",
       "link": "https://www.engadget.com/2230972/nasa-mars-rover-promise-lunar-mission/",
       "published": "Fri, 07 Aug 2026 18:30:00 +0000",
-      "title_th": "หนึ่งในยานสำรวจดาวอังคารของ NASA พบว่าตัวเองถูกสัญญาไว้กับดวงจันทร์แทน",
+      "title_th": "หนึ่งในยานสำรวจดาวอังคารของ NASA สามารถพบว่าตัวเองถูกสัญญาไว้กับดวงจันทร์แทน",
       "summary_th": "NASA กำลังวางแผนที่จะใช้องค์ประกอบของเทคโนโลยีที่มีอยู่เพื่อเรียนรู้เพิ่มเติมเกี่ยวกับทุกด้านของดวงจันทร์"
     },
     {
@@ -351,18 +363,6 @@
       "summary_th": "การแพร่กระจายของ AI ได้สร้างช่องโหว่ใหม่ในซอฟต์แวร์ของเรา ซึ่ง AI อื่น ๆ จะถูกนำไปใช้ประโยชน์ในที่สุด อุตสาหกรรมความปลอดภัยทางไซเบอร์สามารถก้าวไปข้างหน้าได้หรือไม่?"
     },
     {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Are USB flash drives becoming obsolete?",
-      "summary_en": "USB drives have outlasted a lot of other tech through the years. Is it time for the industry to move on?",
-      "image": "https://www.engadget.com/img/gallery/are-usb-flash-drives-becoming-obsolete/l-intro-1785768706.jpg",
-      "link": "https://www.engadget.com/2229010/usb-flash-drives-becoming-obsolete/",
-      "published": "Fri, 07 Aug 2026 15:30:00 +0000",
-      "title_th": "แฟลชไดรฟ์ USB ล้าสมัยหรือไม่?",
-      "summary_th": "ไดรฟ์ USB มีอายุการใช้งานยาวนานกว่าเทคโนโลยีอื่นๆ มากมายตลอดหลายปีที่ผ่านมา ถึงเวลาแล้วที่อุตสาหกรรมจะเดินหน้าต่อไปหรือไม่?"
-    },
-    {
       "source": "IEEE Spectrum",
       "flag": "US",
       "category": "robot",
@@ -384,7 +384,7 @@
       "link": "https://spectrum.ieee.org/v2x-technology-5g-open-ran",
       "published": "Fri, 07 Aug 2026 13:00:01 +0000",
       "title_th": "รถยนต์ที่สื่อสารกันไม่ดีคือปัญหาที่ได้รับการแก้ไขแล้ว",
-      "summary_th": "ประวัติความเป็นมาของเครือข่ายเต็มไปด้วยเครื่องมือที่นำวิธีแก้ไขปัญหาประเภทต่างๆ มาใช้ใหม่ก่อน ต้นกำเนิดของ Wi-Fi ส่วนหนึ่งย้อนกลับไปที่ทีมนักดาราศาสตร์วิทยุชาวออสเตรเลียที่พยายามตรวจจับสัญญาณจากการระเหยของหลุมดำ แต่เครื่องมือประมวลผลข้อมูลที่พวกเขาพัฒนาขึ้นยังได้รับการพิสูจน์แล้วว่าสามารถดึงข้อความที่ชัดเจนจากสภาพแวดล้อมของสัญญาณสะท้อนที่วุ่นวายได้ เสียงสะท้อนก็คือเสียงสะท้อน ไม่ว่าจะมาจากระบบดาวอันห่างไกลหรือจากมุมไกลของบ้าน ฉันค้นคว้าเครือข่ายการสื่อสารในยานพาหนะ การเชื่อมต่อรถยนต์กับรถยนต์ และโครงสร้างพื้นฐานด้านการคมนาคม เช่น สัญญาณไฟจราจร สำหรับเครือข่าย Vehicle-to-everthing (V2X) ในอนาคต การวิจัย V2X อาศัยโมเดลที่ถือว่าสภาพเครือข่าย \"สมบูรณ์แบบ\" หรือ \"อุดมคติ\" มานานแล้ว ซึ่งเป็นสมมติฐานที่ทำให้ง่ายขึ้นว่า"
+      "summary_th": "ประวัติความเป็นมาของเครือข่ายเต็มไปด้วยเครื่องมือที่นำวิธีแก้ไขปัญหาประเภทต่างๆ มาใช้ใหม่ก่อน ต้นกำเนิดของ Wi-Fi ส่วนหนึ่งย้อนกลับไปที่ทีมนักดาราศาสตร์วิทยุชาวออสเตรเลียที่พยายามตรวจจับสัญญาณจากการระเหยของหลุมดำ แต่เครื่องมือประมวลผลข้อมูลที่พวกเขาพัฒนาขึ้นยังได้รับการพิสูจน์แล้วว่าสามารถดึงข้อความที่ชัดเจนจากสภาพแวดล้อมของสัญญาณสะท้อนที่วุ่นวายได้ เสียงสะท้อนก็คือเสียงสะท้อน ไม่ว่าจะมาจากระบบดาวอันห่างไกลหรือจากมุมไกลของบ้าน ฉันค้นคว้าเครือข่ายการสื่อสารของยานพาหนะ การเชื่อมต่อรถยนต์กับรถยนต์ และโครงสร้างพื้นฐานด้านการคมนาคม เช่น สัญญาณไฟจราจร สำหรับเครือข่าย Vehicle-to-everthing (V2X) ในอนาคต การวิจัย V2X อาศัยโมเดลที่ถือว่าสภาพเครือข่าย \"สมบูรณ์แบบ\" หรือ \"อุดมคติ\" มานานแล้ว ซึ่งเป็นสมมติฐานที่ทำให้ง่ายขึ้นว่า"
     },
     {
       "source": "IEEE Spectrum",
@@ -428,25 +428,25 @@
       "symbol": "^GSPC",
       "name": "S&P 500",
       "market": "US",
-      "price": 7736.88,
-      "change": 26.92,
-      "change_pct": 0.35
+      "price": 7757.64,
+      "change": 47.68,
+      "change_pct": 0.62
     },
     {
       "symbol": "^DJI",
       "name": "Dow Jones",
       "market": "US",
-      "price": 53921.86,
-      "change": 36.76,
-      "change_pct": 0.07
+      "price": 54036.93,
+      "change": 151.83,
+      "change_pct": 0.28
     },
     {
       "symbol": "^IXIC",
       "name": "Nasdaq",
       "market": "US",
-      "price": 26568.84,
-      "change": 220.49,
-      "change_pct": 0.84
+      "price": 26690.62,
+      "change": 342.27,
+      "change_pct": 1.3
     }
   ]
 }
