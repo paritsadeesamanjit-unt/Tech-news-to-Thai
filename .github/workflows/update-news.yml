@@ -36,4 +36,7 @@ jobs:
           git config user.email "actions@github.com"
           git add news.json
           git diff --staged --quiet || git commit -m "อัปเดตข่าว $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          # ดึงการเปลี่ยนแปลงล่าสุดจาก remote มารวมก่อน push กัน error
+          # กรณีมีคน push ไฟล์อื่นเข้า repo ระหว่างที่ job นี้กำลังรันอยู่
+          git pull --rebase origin main
           git push
