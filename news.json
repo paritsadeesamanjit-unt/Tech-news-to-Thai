@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-07T09:47:32.134345+00:00",
+  "generated_at": "2026-08-07T12:35:05.586296+00:00",
   "count": 35,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "summary_en": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/54885169397_78fc033af7_k-1.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "published": "Fri, 07 Aug 2026 12:30:00 +0000",
+      "title_th": "คู่มือผู้ก่อตั้ง TechCrunch Disrupt 2026: ทุกสิ่งที่คุณจำเป็นต้องรู้",
+      "summary_th": "TechCrunch Disrupt 2026 สร้างขึ้นจากคำถามเดียว: คุณจะสร้างบริษัทที่ยั่งยืนในยุค AI ได้อย่างไร รายการโปรแกรมและวิทยากรของเราสะท้อนให้เห็นสิ่งนั้น"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -51,16 +63,28 @@
       "summary_th": "เริ่มตั้งแต่วันนี้เป็นต้นไป คุณสามารถรับส่วนลดเพิ่มอีก 100 ดอลลาร์จากผู้ก่อตั้ง นักลงทุน หรือผู้เข้าร่วม TechCrunch Disrupt 2026 pass ซึ่งเป็นโบนัสที่ดีนอกเหนือจากราคาส่วนลดปัจจุบันของเรา"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Google says hackers are calling financial firm employees to hack and extort victims",
-      "summary_en": "Groups of hackers are breaking into large U.S. financial firms to steal sensitive data and extort victims, Google’s security researchers report.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/blackstone-wall-street.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/",
-      "published": "Thu, 06 Aug 2026 19:40:46 +0000",
-      "title_th": "Google กล่าวว่าแฮกเกอร์กำลังเรียกพนักงานบริษัททางการเงินให้แฮ็กและขู่กรรโชกเหยื่อ",
-      "summary_th": "นักวิจัยด้านความปลอดภัยของ Google รายงานกลุ่มแฮกเกอร์บุกเข้าไปในบริษัทการเงินขนาดใหญ่ของสหรัฐฯ เพื่อขโมยข้อมูลที่ละเอียดอ่อนและขู่กรรโชกเหยื่อ"
+      "category": "software",
+      "title_en": "Why does Apple keep banning Telegram, but never X?",
+      "summary_en": "For roughly an hour this week, Telegram vanished from Apple's App Store. Even during that blip, it was a stunning absence for such a major app: an avenue of communication for more than 1 billion users around the world, used widely as a secure platform for people who live in countries under censorship. Apple later […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2217854935.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/976405/apple-telegram-ban-x-app-store-violations",
+      "published": "2026-08-07T07:00:00-04:00",
+      "title_th": "เหตุใด Apple จึงแบน Telegram ต่อไป แต่ไม่เคย X?",
+      "summary_th": "ประมาณหนึ่งชั่วโมงในสัปดาห์นี้ Telegram หายไปจาก App Store ของ Apple แม้แต่ในช่วงเวลาที่เกิดเหตุการณ์ดังกล่าว แอปหลักๆ ดังกล่าวก็ขาดหายไปอย่างน่าทึ่ง ซึ่งเป็นช่องทางการสื่อสารสำหรับผู้ใช้มากกว่า 1 พันล้านคนทั่วโลก ซึ่งใช้เป็นแพลตฟอร์มที่ปลอดภัยสำหรับผู้ที่อาศัยอยู่ในประเทศที่ถูกเซ็นเซอร์อย่างกว้างขวาง แอปเปิ้ลในเวลาต่อมา […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Trying to explain One Night Only’s tech-enforced sex dystopia",
+      "summary_en": "From the omnipresent One Night Only trailer, you'd be forgiven for thinking that the movie glosses over its terrifying and absurd premise - in otherwise normal modern New York, single people can only have sex one night a year - to deliver an entirely traditional romantic comedy. I'm here to report that it does not […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/image-7.png?quality=90&strip=all&crop=0%2C10.76363770124%2C100%2C78.472724597521&w=1200",
+      "link": "https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech",
+      "published": "2026-08-07T06:30:00-04:00",
+      "title_th": "กำลังพยายามอธิบายโทเปียทางเพศที่บังคับใช้เทคโนโลยีของ One Night Only",
+      "summary_th": "จากตัวอย่างภาพยนตร์ One Night Only ที่มีอยู่ทั่วไปทุกหนทุกแห่ง คุณคงได้รับการอภัยที่คิดว่าภาพยนตร์เรื่องนี้คลุมเครือเหนือสถานที่ที่น่าสะพรึงกลัวและไร้สาระของมัน - ในนิวยอร์กสมัยใหม่ที่ปกติธรรมดา คนโสดสามารถมีเซ็กส์ได้เพียงคืนเดียวต่อปี - เพื่อนำเสนอโรแมนติกคอมเมดี้แบบดั้งเดิมโดยสิ้นเชิง ฉันมาที่นี่เพื่อรายงานว่ามันไม่ได้ […]"
     },
     {
       "source": "The Verge",
@@ -97,30 +121,6 @@
       "published": "2026-08-06T16:00:00-04:00",
       "title_th": "AirPods Pro ลดราคา $60 ซึ่งเป็นราคาที่ดีที่สุดนับตั้งแต่ปลายเดือนมิถุนายน",
       "summary_th": "Best Buy เริ่มลดราคาผลิตภัณฑ์ Apple พร้อมส่วนลดสำหรับนาฬิกาอัจฉริยะรุ่นล่าสุดสำหรับโทรศัพท์ ข้อตกลงอีกประการที่ดึงดูดสายตาของเราคือ AirPods Pro รุ่นล่าสุด ซึ่งเป็นหูฟังไร้สายเรือธงของ Apple ซึ่งลดราคาลงเหลือ 189.99 ดอลลาร์ (ลด 60 ดอลลาร์) โดยมีผู้ค้าปลีกอย่าง Amazon และ Walmart จับคู่ราคากัน นั่นคือราคาที่ต่ำที่สุดนับตั้งแต่นายกรัฐมนตรี […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "The Zelda movie’s Ganondorf casting hints at more movies",
-      "summary_en": "Deadline reported Thursday that the upcoming The Legend of Zelda movie will feature Australian actor Uli Latukefu as the villain Ganondorf, and the publication notes that \"We hear Latukefu inked a multi-picture deal.\" Nintendo or Sony haven't formally confirmed that there's more than one movie in the works, though it's been rumored that Nintendo and […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2220152710.jpg?quality=90&strip=all&crop=0%2C10.719022687609%2C100%2C78.561954624782&w=1200",
-      "link": "https://www.theverge.com/entertainment/976337/the-legend-of-zelda-movie-ganondorf-multi-picture-deal",
-      "published": "2026-08-06T14:31:57-04:00",
-      "title_th": "Ganondorf ในภาพยนตร์ The Zelda บอกใบ้ถึงภาพยนตร์เพิ่มเติม",
-      "summary_th": "Deadline รายงานเมื่อวันพฤหัสบดีว่าภาพยนตร์ The Legend of Zelda ที่กำลังจะเข้าฉายจะมีนักแสดงชาวออสเตรเลีย Uli Latukefu รับบทเป็น Ganondorf จอมวายร้าย และสิ่งพิมพ์ตั้งข้อสังเกตว่า \"เราได้ยินมาว่า Latukefu ได้ลงนามในข้อตกลงหลายภาพ\" Nintendo หรือ Sony ยังไม่ได้ยืนยันอย่างเป็นทางการว่ามีภาพยนตร์มากกว่าหนึ่งเรื่องอยู่ในผลงาน แม้ว่าจะมีข่าวลือว่า Nintendo และ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Suno shares plans to combat spammy AI music",
-      "summary_en": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey Shulman laid out the company's principles and the next steps for the company as it seeks legitimacy. The company is rolling out new […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-      "published": "2026-08-06T13:39:43-04:00",
-      "title_th": "Suno แบ่งปันแผนการต่อสู้กับเพลง AI ที่เป็นสแปม",
-      "summary_th": "Suno ประกาศแผนการใช้เทคโนโลยีลายน้ำใหม่และนโยบายการดาวน์โหลดเพื่อจำกัดการแพร่กระจายของแทร็ก AI ที่เป็นสแปมและเพิ่มความโปร่งใส ในบล็อกโพสต์ที่มีความยาว Mikey Shulman ซีอีโอและผู้ร่วมก่อตั้งได้กล่าวถึงหลักการของบริษัทและขั้นตอนต่อไปของบริษัทในขณะที่แสวงหาความชอบธรรม บริษัท กำลังเปิดตัวผลิตภัณฑ์ใหม่ […]"
     },
     {
       "source": "Ars Technica",
@@ -186,13 +186,25 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Ulta Promo Codes: Up to 20% Off in August 2026",
-      "summary_en": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
-      "link": "https://www.wired.com/story/ulta-coupon/",
-      "published": "Fri, 07 Aug 2026 05:00:00 +0000",
-      "title_th": "รหัสส่งเสริมการขาย Ulta: ลดสูงสุด 20% ในเดือนสิงหาคม 2569",
-      "summary_th": "เลือกซื้อเทรนด์ความงามล่าสุดและประหยัดเงินได้มากโดยใช้รหัสโปรโมชัน Ulta สำหรับเทคโนโลยีความงาม การแต่งหน้า และอื่นๆ อีกมากมาย"
+      "title_en": "Ranking the Best Smart Glasses: Meta, Viture, & More (2026)",
+      "summary_en": "This burgeoning wearable tech lets you talk to an AI assistant, listen to music, or check out a display screen from the comfort of your very own face.",
+      "image": "https://media.wired.com/photos/6a74ce6cc44a52857403bf0a/master/pass/The-Best-Smart-Glasses-That-Aren%E2%80%99t-Just-a-Gimmick.jpg",
+      "link": "https://www.wired.com/gallery/best-smart-glasses/",
+      "published": "Fri, 07 Aug 2026 10:30:00 +0000",
+      "title_th": "การจัดอันดับแว่นตาอัจฉริยะที่ดีที่สุด: Meta, Viture และอื่นๆ (2026)",
+      "summary_th": "เทคโนโลยีอุปกรณ์สวมใส่ที่กำลังขยายตัวนี้ช่วยให้คุณสามารถพูดคุยกับผู้ช่วย AI ฟังเพลง หรือดูหน้าจอแสดงผลได้อย่างสะดวกสบายด้วยใบหน้าของคุณเอง"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+      "summary_en": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
+      "image": "https://media.wired.com/photos/6a74accfee5313e488f8fb05/master/pass/080726-Guy-Running-Chatbot-By-Hand-Business.jpg",
+      "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+      "published": "Fri, 07 Aug 2026 10:00:00 +0000",
+      "title_th": "AI Chatbot ใหม่ที่ร้อนแรงที่สุดเป็นเพียงผู้ชายที่ตอบคำถามของคุณ",
+      "summary_th": "WIRED ได้พูดคุยกับ Tucker Bryant ศิลปินและอดีตพนักงานของ Google ที่สร้าง ChatTJB เพื่อให้ผู้คนนึกถึง \"ช่วงเวลาที่แปลกประหลาด\" ที่เราเผชิญอยู่"
     },
     {
       "source": "Wired",
@@ -222,25 +234,13 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "HP Coupon Codes and Deals August 2026",
-      "summary_en": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
-      "image": "https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png",
-      "link": "https://www.wired.com/story/hp-coupon-code/",
+      "title_en": "Ulta Promo Codes: Up to 20% Off in August 2026",
+      "summary_en": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
+      "link": "https://www.wired.com/story/ulta-coupon/",
       "published": "Fri, 07 Aug 2026 05:00:00 +0000",
-      "title_th": "รหัสคูปองและข้อเสนอของ HP สิงหาคม 2569",
-      "summary_th": "ประหยัดสูงสุดถึง 60% พร้อมส่วนลดพิเศษอีก 20% ด้วยรหัสโปรโมชันของ HP สำหรับแล็ปท็อป เครื่องพิมพ์ พีซี และเทคโนโลยีอื่นๆ"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Dyson Promo Codes: 25% Off in August 2026",
-      "summary_en": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
-      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
-      "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
-      "published": "Fri, 07 Aug 2026 05:00:00 +0000",
-      "title_th": "รหัสส่งเสริมการขาย Dyson: ลด 25% ในเดือนสิงหาคม 2026",
-      "summary_th": "รับส่วนลด 25% ด้วยรหัสคูปอง Dyson พร้อมรับส่วนลดสูงสุดถึง 600 ดอลลาร์สำหรับเครื่องดูดฝุ่น ส่วนลด 150 ดอลลาร์สำหรับ Airwraps และอื่นๆ อีกมากมาย"
+      "title_th": "รหัสส่งเสริมการขาย Ulta: ลดสูงสุด 20% ในเดือนสิงหาคม 2569",
+      "summary_th": "เลือกซื้อเทรนด์ความงามล่าสุดและประหยัดเงินได้มากโดยใช้รหัสโปรโมชัน Ulta สำหรับเทคโนโลยีความงาม การแต่งหน้า และอื่นๆ อีกมากมาย"
     },
     {
       "source": "MIT Technology Review",
@@ -306,6 +306,42 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "Are Ray-Ban Meta glasses a privacy risk? Here's what you should know",
+      "summary_en": "Not all features are equal when it comes to securing your data.",
+      "image": "https://www.engadget.com/img/gallery/are-ray-ban-meta-glasses-a-privacy-risk-heres-what-you-should-know/l-intro-1786056889.jpg",
+      "link": "https://www.engadget.com/2232153/are-ray-ban-meta-glasses-a-privacy-risk-here-s-what-you-should-know/",
+      "published": "Fri, 07 Aug 2026 12:30:00 +0000",
+      "title_th": "แว่นตา Ray-Ban Meta มีความเสี่ยงด้านความเป็นส่วนตัวหรือไม่? นี่คือสิ่งที่คุณควรรู้",
+      "summary_th": "คุณลักษณะบางอย่างไม่เท่ากันเมื่อพูดถึงการรักษาความปลอดภัยข้อมูลของคุณ"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "PSB iQ2 review: Premium sound meets smart-speaker convenience",
+      "summary_en": "A great app experience turns this wireless stereo setup into a capable hub for your home audio.",
+      "image": "https://www.engadget.com/img/gallery/psb-iq2-review-premium-sound-meets-smart-speaker-convenience/l-intro-1785870758.jpg",
+      "link": "https://www.engadget.com/2230321/psb-iq2-speaker-review/",
+      "published": "Fri, 07 Aug 2026 12:00:00 +0000",
+      "title_th": "รีวิว PSB iQ2: เสียงระดับพรีเมี่ยมพบกับความสะดวกสบายของลำโพงอัจฉริยะ",
+      "summary_th": "ประสบการณ์การใช้งานแอปที่ยอดเยี่ยมจะเปลี่ยนการตั้งค่าสเตอริโอไร้สายนี้ให้กลายเป็นศูนย์กลางที่มีความสามารถสำหรับเครื่องเสียงภายในบ้านของคุณ"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Chinese AI model Moonshot Kimi K3 also escaped its testing environment",
+      "summary_en": "Kimi K3 also found loopholes in its sandbox environment that allowed it to access the internet.",
+      "image": "https://www.engadget.com/img/gallery/chinese-ai-model-moonshot-kimi-k3-also-escaped-its-testing-environment/l-intro-1786099329.jpg",
+      "link": "https://www.engadget.com/2232256/chinese-ai-kimi-k3-also-escaped-containment/",
+      "published": "Fri, 07 Aug 2026 10:44:04 +0000",
+      "title_th": "โมเดล AI ของจีน Moonshot Kimi K3 ก็รอดพ้นจากสภาพแวดล้อมการทดสอบเช่นกัน",
+      "summary_th": "Kimi K3 ยังพบช่องโหว่ในสภาพแวดล้อมแซนด์บ็อกซ์ที่ทำให้สามารถเข้าถึงอินเทอร์เน็ตได้"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "Google open-sources an AI model it says can help with earlier hurricane warnings",
       "summary_en": "WeatherNext can deliver a 15-day forecast predicting storms' track and intensity.",
       "image": "https://www.engadget.com/img/gallery/google-open-sources-an-ai-model-it-says-can-help-with-earlier-hurricane-warnings/l-intro-1786055950.jpg",
@@ -325,42 +361,6 @@
       "published": "Thu, 06 Aug 2026 22:10:18 +0000",
       "title_th": "Ro Khanna เรียกร้องสิทธิในการคัดค้านศูนย์ข้อมูลที่ได้รับการคุ้มครอง",
       "summary_th": "สมาชิกสภาคองเกรสคิดว่าถึงเวลาแล้วสำหรับ \"ร่างกฎหมายสิทธิของศูนย์ข้อมูล\""
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "OpenAI's ring-shaped smart speaker will reportedly cost between $300 and $400",
-      "summary_en": "It would be an ambitiously high price for the AI-powered hardware pivot.",
-      "image": "https://www.engadget.com/img/gallery/openais-ring-shaped-smart-speaker-will-reportedly-cost-between-300-and-400/l-intro-1786052707.jpg",
-      "link": "https://www.engadget.com/2232108/openai-s-ring-shaped-smart-speaker-will-reportedly-cost-between-300-and-400/",
-      "published": "Thu, 06 Aug 2026 21:46:26 +0000",
-      "title_th": "ลำโพงอัจฉริยะรูปวงแหวนของ OpenAI มีรายงานว่ามีราคาอยู่ระหว่าง 300 ถึง 400 เหรียญสหรัฐ",
-      "summary_th": "มันจะเป็นราคาที่สูงอย่างทะเยอทะยานสำหรับเดือยฮาร์ดแวร์ที่ขับเคลื่อนด้วย AI"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Quake celebrates its 30th anniversary with a new free episode",
-      "summary_en": "The Dawn of the Machine expansion was made by MachineGames in collaboration with id Software.",
-      "image": "https://www.engadget.com/img/gallery/quake-celebrates-its-30th-anniversary-with-a-new-free-episode/l-intro-1786046645.jpg",
-      "link": "https://www.engadget.com/2232022/quake-30th-anniversary-new-free-episode/",
-      "published": "Thu, 06 Aug 2026 20:05:13 +0000",
-      "title_th": "Quake ฉลองครบรอบ 30 ปีด้วยตอนใหม่ฟรี",
-      "summary_th": "ส่วนเสริม Dawn of the Machine สร้างขึ้นโดย MachineGames ร่วมกับซอฟต์แวร์ id"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "AI is now making new viruses",
-      "summary_en": "What could possibly go wrong?",
-      "image": "https://www.engadget.com/img/gallery/ai-is-now-making-new-viruses/l-intro-1786045921.jpg",
-      "link": "https://www.engadget.com/2232014/ai-is-now-making-new-viruses/",
-      "published": "Thu, 06 Aug 2026 19:57:14 +0000",
-      "title_th": "AI กำลังสร้างไวรัสตัวใหม่",
-      "summary_th": "มีอะไรผิดพลาดไปได้?"
     },
     {
       "source": "IEEE Spectrum",
