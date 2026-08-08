@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-08T12:20:40.698391+00:00",
+  "generated_at": "2026-08-08T15:18:01.752843+00:00",
   "count": 35,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Google’s top hacker hunter explains why hacking groups get codenames",
+      "summary_en": "Google recently changed how it refers and assigns names to hacking groups. TechCrunch spoke with one of the world’s foremost experts on tracking hackers to understand why companies give hackers codenames.",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1337404394.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+      "published": "Sat, 08 Aug 2026 15:00:00 +0000",
+      "title_th": "นักล่าแฮ็กเกอร์อันดับต้นๆ ของ Google อธิบายว่าทำไมกลุ่มแฮ็กเกอร์ถึงได้ชื่อรหัส",
+      "summary_th": "Google เพิ่งเปลี่ยนวิธีการอ้างอิงและกำหนดชื่อให้กับกลุ่มแฮ็ก TechCrunch ได้พูดคุยกับหนึ่งในผู้เชี่ยวชาญชั้นแนวหน้าของโลกในการติดตามแฮกเกอร์เพื่อทำความเข้าใจว่าทำไมบริษัทต่างๆ ถึงตั้งชื่อรหัสให้แฮ็กเกอร์"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -36,7 +48,7 @@
       "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
       "published": "Fri, 07 Aug 2026 21:00:08 +0000",
       "title_th": "นักวิจัยด้านความปลอดภัยสแกนเว็บของโปแลนด์และพบว่าศาล โรงพยาบาล และสนามบินมีความเสี่ยงที่จะถูกแฮ็ก",
-      "summary_th": "นักวิจัยพบว่าจุดที่พบบ่อยของความล้มเหลว เช่น ซอฟต์แวร์ที่ใช้ในการจัดระเบียบและแสดงเนื้อหาเว็บ อาจทำให้แฮกเกอร์ก่อจลาจลผ่านเว็บไซต์ของรัฐบาลได้"
+      "summary_th": "นักวิจัยพบว่าจุดที่พบบ่อยของความล้มเหลว เช่น ซอฟต์แวร์ที่ใช้ในการจัดระเบียบและแสดงเนื้อหาเว็บ อาจทำให้แฮกเกอร์สามารถก่อจลาจลผ่านเว็บไซต์ของรัฐบาลได้"
     },
     {
       "source": "TechCrunch",
@@ -48,19 +60,19 @@
       "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "published": "Fri, 07 Aug 2026 16:16:09 +0000",
       "title_th": "Cloudflare เปิดตัว Kitesurf เบราว์เซอร์ที่สร้างขึ้นสำหรับตัวแทน AI",
-      "summary_th": "Kitesurf เป็นเบราว์เซอร์ที่โฮสต์บนคลาวด์ที่ออกแบบมาสำหรับตัวแทน AI แทนที่จะเป็นมนุษย์ โดยใช้พลังงานการประมวลผลน้อยกว่า Chromium สำหรับงานระบบอัตโนมัติทั่วไป ช่วยให้นักพัฒนาสร้างเอเจนต์ AI บนเบราว์เซอร์ได้อย่างมีประสิทธิภาพมากขึ้น"
+      "summary_th": "Kitesurf เป็นเบราว์เซอร์ที่โฮสต์บนคลาวด์ที่ออกแบบมาสำหรับตัวแทน AI แทนที่จะเป็นมนุษย์ โดยใช้พลังงานการประมวลผลน้อยกว่า Chromium สำหรับงานอัตโนมัติทั่วไป ช่วยให้นักพัฒนาสร้างเอเจนต์ AI บนเบราว์เซอร์ได้อย่างมีประสิทธิภาพมากขึ้น"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Computer maker Framework notifies ‘all customers’ of a data breach",
-      "summary_en": "Framework told \"all\" of its customers that hackers accessed their names, email addresses, phone numbers, and physical addresses in a data breach.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/Framework-Desktop-2.jpg?resize=1200,900",
-      "link": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
-      "published": "Fri, 07 Aug 2026 16:09:04 +0000",
-      "title_th": "ผู้ผลิตคอมพิวเตอร์ Framework แจ้งเตือน 'ลูกค้าทั้งหมด' เกี่ยวกับการละเมิดข้อมูล",
-      "summary_th": "Framework แจ้งลูกค้า \"ทั้งหมด\" ว่าแฮกเกอร์เข้าถึงชื่อ ที่อยู่อีเมล หมายเลขโทรศัพท์ และที่อยู่ทางกายภาพของตนในการละเมิดข้อมูล"
+      "category": "software",
+      "title_en": "Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro",
+      "summary_en": "Tom Vek burst onto the scene in 2005 with his album We Have Sound, which garnered a solid 7.6 from the tastemakers of the day over at Pitchfork. His undeniably catchy brand of dancy indietronica landed him an appearance on The OC and placement on the Grand Theft Auto IV soundtrack. His follow-up, Leisure Seizure, […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/P1120126.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview",
+      "published": "2026-08-08T11:00:00-04:00",
+      "title_th": "นักดนตรีและผู้ประกอบการ Tom Vek กำลังสร้างเครื่องเล่นเพลงดิจิทัล แต่อย่าเรียกว่าย้อนยุค",
+      "summary_th": "Tom Vek โด่งดังในปี 2548 ด้วยอัลบั้ม We Have Sound ซึ่งได้คะแนน 7.6 จากนักชิมประจำวันที่ Pitchfork แบรนด์อินดี้ทรอนิกาอันโด่งดังที่ไม่อาจปฏิเสธได้ของเขาทำให้เขาปรากฏตัวบน The OC และได้รับการบรรจุลงในเพลงประกอบ Grand Theft Auto IV การติดตามผลของเขา Leisure Seizure, […]"
     },
     {
       "source": "The Verge",
@@ -107,20 +119,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&strip=all&crop=0,23.821989528796,100,52.356020942408",
       "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
       "published": "2026-08-07T16:01:51-04:00",
-      "title_th": "Fenix ​​Flexin ไม่ได้ปฏิเสธแม้แต่การใช้ AI เพื่อสร้าง 'Rubberz' อีกต่อไป",
+      "title_th": "Fenix ​​Flexin ไม่ได้ปฏิเสธด้วยซ้ำว่าการใช้ AI เพื่อสร้าง 'Rubberz' อีกต่อไป",
       "summary_th": "ใช้เวลานานพอสมควร แต่ตอนนี้แร็ปเปอร์จาก LA Fenix ​​Flexin ดูเหมือนจะยอมรับว่าใช้ AI สำหรับเพลงซินธ์ป๊อปแนวซินธ์ป๊อปยุค 80 \"Rubberz\" ความคิดเห็นของเขาเป็นไปตามวิดีโอของโปรดิวเซอร์ Medasin โดยอ้างว่ามีการใช้เครื่องมือ AI ชื่อ Treblo (เดิมชื่อ Sonauto) ในการสร้างเพลง และบริษัทได้ปล่อยเครื่องตรวจจับ AI ที่ระบุ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Watching Roku’s AI channel is like eating from a trough",
-      "summary_en": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers access to a constant source of AI-generated content. […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-07-at-2.40.34-PM.png?quality=90&strip=all&crop=0%2C2.3735501218774%2C100%2C95.252899756245&w=1200",
-      "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-      "published": "2026-08-07T14:59:46-04:00",
-      "title_th": "การดูช่อง AI ของ Roku ก็เหมือนกับการกินจากรางน้ำ",
-      "summary_th": "ความน่าดึงดูดใจของช่องทีวีสตรีมมิ่งที่รองรับโฆษณาฟรี (FAST) เป็นวิธีที่ช่วยให้ค้นพบภาพยนตร์และซีรีส์คลาสสิกได้ง่ายขึ้น แต่การทดลองล่าสุดของโรคุในพื้นที่ FAST ไม่ได้เกี่ยวข้องกับความบันเทิงที่ผลิตแบบดั้งเดิม และมุ่งเน้นไปที่การให้ผู้ชมเข้าถึงแหล่งเนื้อหาที่สร้างโดย AI อย่างต่อเนื่อง […]"
     },
     {
       "source": "Ars Technica",
@@ -186,6 +186,18 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
+      "title_en": "Census Proposal Would Stop Counting Undocumented Immigrants—and Ignore Race and Sexual Orientation",
+      "summary_en": "A draft rule reviewed by WIRED would prevent the census from counting undocumented immigrants. To protect against “distortions,” it would also bar questions about race and sexual orientation.",
+      "image": "https://media.wired.com/photos/6a7630b55d2ebc1c5247b509/master/pass/GettyImages-157580450-edited.jpg",
+      "link": "https://www.wired.com/story/census-proposal-would-stop-counting-undocumented-immigrants-and-ignore-race-and-sexual-orientation/",
+      "published": "Sat, 08 Aug 2026 14:03:58 +0000",
+      "title_th": "ข้อเสนอการสำรวจสำมะโนประชากรจะหยุดนับผู้อพยพที่ไม่มีเอกสาร—และเพิกเฉยต่อเชื้อชาติและรสนิยมทางเพศ",
+      "summary_th": "ร่างกฎที่ได้รับการตรวจสอบโดย WIRED จะป้องกันไม่ให้การสำรวจสำมะโนประชากรนับผู้อพยพที่ไม่มีเอกสาร เพื่อป้องกัน \"การบิดเบือน\" จะมีการระงับคำถามเกี่ยวกับเชื้อชาติและรสนิยมทางเพศด้วย"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
       "title_en": "The Excellent HP OmniBook 5 Is $550 Off Its Retail Price Today",
       "summary_en": "My favorite budget laptop, the HP OmniBook 5, has an OLED screen and gets great battery life, despite being just $750 right now.",
       "image": "https://media.wired.com/photos/6a757061b127f3f26cdccecc/master/pass/My-Favorite-Budget-Laptop-Is-50-Percent-Off-Its-Retail-Price.jpg",
@@ -229,18 +241,6 @@
       "published": "Sat, 08 Aug 2026 10:00:00 +0000",
       "title_th": "ข้อมูลที่ละเอียดอ่อนจะเข้าสู่อีเมล 'ไม่ตอบกลับ' อย่างต่อเนื่อง ผู้ชายคนนี้เห็นทุกอย่าง",
       "summary_th": "นักวิจัยด้านความปลอดภัยสองคนซื้อโดเมนราคาถูก รวมถึง noreply.net และ Deleteuser.com และตั้งค่าบริการฟังอีเมล บริษัทหลายร้อยแห่งกำลังส่งความลับขององค์กรไปให้พวกเขา"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Hairmax LaserBand 82 ComfortFlex Review: Putting Down New Roots",
-      "summary_en": "Hairmax’s LaserBand 82 ComfortFlex took only 90 seconds per treatment, and it produced visible results along my widening part.",
-      "image": "https://media.wired.com/photos/6a7699d523a3ccec78db5ea6/master/pass/Review--Hairmax-LaserBand-82-ComfortFlex.jpg",
-      "link": "https://www.wired.com/review/hairmax-laserband-82-comfortflex/",
-      "published": "Sat, 08 Aug 2026 09:31:00 +0000",
-      "title_th": "Hairmax LaserBand 82 ComfortFlex รีวิว: วางรากฐานใหม่",
-      "summary_th": "LaserBand 82 ComfortFlex ของ Hairmax ใช้เวลาเพียง 90 วินาทีต่อการรักษา และให้ผลลัพธ์ที่มองเห็นได้ตลอดส่วนที่ขยับขยายของฉัน"
     },
     {
       "source": "MIT Technology Review",
@@ -306,6 +306,42 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "Your phone's USB-C port does a lot more than just charge - Here's what else it can do",
+      "summary_en": "A USB-C port presents a lot of options for data transfer and connecting to accessories. Let's talk about some of the most useful ways to employ your USB-C port.",
+      "image": "https://www.engadget.com/img/gallery/your-phones-usb-c-port-does-a-lot-more-than-just-charge-heres-what-else-it-can-do/l-intro-1785851122.jpg",
+      "link": "https://www.engadget.com/2229985/phone-usb-c-port-what-else-it-can-do-not-charging/",
+      "published": "Sat, 08 Aug 2026 14:30:00 +0000",
+      "title_th": "พอร์ต USB-C ของโทรศัพท์ของคุณทำได้มากกว่าแค่การชาร์จ และยังมีอย่างอื่นอีกที่สามารถทำได้",
+      "summary_th": "พอร์ต USB-C มีตัวเลือกมากมายสำหรับการถ่ายโอนข้อมูลและการเชื่อมต่อกับอุปกรณ์เสริม เรามาพูดถึงวิธีที่มีประโยชน์ที่สุดในการใช้พอร์ต USB-C กัน"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "The Apple Watch heart rate feature you probably didn't realize existed",
+      "summary_en": "Apple has a not-so-obvious heart rate feature that's worth checking out. Here's what it does and how to use it.",
+      "image": "https://www.engadget.com/img/gallery/the-apple-watch-heart-rate-feature-you-probably-didnt-realize-existed/l-intro-1785855914.jpg",
+      "link": "https://www.engadget.com/2229979/apple-watch-heart-rate-app-feature-didnt-realize-existed/",
+      "published": "Sat, 08 Aug 2026 13:30:00 +0000",
+      "title_th": "ฟีเจอร์วัดอัตราการเต้นของหัวใจของ Apple Watch ที่คุณอาจไม่รู้ว่ามีอยู่จริง",
+      "summary_th": "Apple มีคุณสมบัติอัตราการเต้นของหัวใจที่ไม่ชัดเจนซึ่งควรค่าแก่การตรวจสอบ นี่คือสิ่งที่มันทำและวิธีการใช้งาน"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Supernatural's head of fitness on rebooting the VR exercise app after leaving Meta",
+      "summary_en": "We chatted with Supernatural's Head of Fitness about the company's plans for its VR exercise app.",
+      "image": "https://www.engadget.com/img/gallery/supernaturals-head-of-fitness-on-rebooting-the-vr-exercise-app-after-leaving-meta/l-intro-1786128253.jpg",
+      "link": "https://www.engadget.com/2232716/supernatural-head-of-fitness-on-rebooting-the-vr-exercise-app-after-leaving-meta/",
+      "published": "Sat, 08 Aug 2026 13:00:00 +0000",
+      "title_th": "หัวหน้าฝ่ายฟิตเนสของ Supernatural ในการรีบูตแอปออกกำลังกาย VR หลังจากออกจาก Meta",
+      "summary_th": "เราได้พูดคุยกับหัวหน้าฝ่ายฟิตเนสของ Supernatural เกี่ยวกับแผนของบริษัทสำหรับแอปออกกำลังกาย VR"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "Big Walk, retro electronic repairs and other new indie games worth checking out",
       "summary_en": "We're looking forward to Big Walk, ReStory: Chill Electronics Repairs, Pigeon: A Love Story and several others this week.",
       "image": "https://www.engadget.com/img/gallery/big-walk-retro-electronic-repairs-and-other-new-indie-games-worth-checking-out/l-intro-1786122249.jpg",
@@ -327,42 +363,6 @@
       "summary_th": "มีการเข้าถึงฐานข้อมูลลูกค้าของ Framework แต่ไม่มีการเปิดเผยข้อมูลการชำระเงิน"
     },
     {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "One of NASA's Mars rovers could find itself promised to the moon instead",
-      "summary_en": "NASA is planning to use elements of existing tech to learn more about all sides of the moon.",
-      "image": "https://www.engadget.com/img/gallery/one-of-nasas-mars-rovers-could-find-itself-promised-to-the-moon-instead/l-intro-1785521981.jpg",
-      "link": "https://www.engadget.com/2230972/nasa-mars-rover-promise-lunar-mission/",
-      "published": "Fri, 07 Aug 2026 18:30:00 +0000",
-      "title_th": "หนึ่งในยานสำรวจดาวอังคารของ NASA พบว่าตัวเองถูกสัญญาไว้กับดวงจันทร์แทน",
-      "summary_th": "NASA กำลังวางแผนที่จะใช้องค์ประกอบของเทคโนโลยีที่มีอยู่เพื่อเรียนรู้เพิ่มเติมเกี่ยวกับทุกด้านของดวงจันทร์"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Sony might be rebooting its 2020 flagship headphones",
-      "summary_en": "Sony might turn back the clock and revive an older model to save potential buyers some cash.",
-      "image": "https://www.engadget.com/img/gallery/sony-might-be-rebooting-its-2020-flagship-headphones/l-intro-1786126971.jpg",
-      "link": "https://www.engadget.com/2232687/sony-might-be-rebooting-its-2020-flagship-headphones/",
-      "published": "Fri, 07 Aug 2026 18:24:20 +0000",
-      "title_th": "Sony อาจจะรีบูตหูฟังรุ่นเรือธงปี 2020",
-      "summary_th": "Sony อาจย้อนเวลากลับไปและฟื้นฟูรุ่นเก่าเพื่อประหยัดเงินให้กับผู้ซื้อที่มีศักยภาพ"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Trump administration spends another $1.2 billion to kill offshore wind farm projects",
-      "summary_en": "This is the fifth such deal in which the president and his team has paid big to cancel a green energy contract.",
-      "image": "https://www.engadget.com/img/gallery/trump-administration-spends-another-1-2-billion-to-kill-offshore-wind-farm-projects/l-intro-1786125677.jpg",
-      "link": "https://www.engadget.com/2232653/trump-administration-spends-another-1-2-billion-to-kill-offshore-wind-farm-projects/",
-      "published": "Fri, 07 Aug 2026 18:04:19 +0000",
-      "title_th": "ฝ่ายบริหารของทรัมป์ทุ่มเงินอีก 1.2 พันล้านดอลลาร์เพื่อยุติโครงการฟาร์มกังหันลมนอกชายฝั่ง",
-      "summary_th": "นี่เป็นข้อตกลงครั้งที่ห้าที่ประธานและทีมงานของเขาได้จ่ายเงินจำนวนมากเพื่อยกเลิกสัญญาพลังงานสีเขียว"
-    },
-    {
       "source": "IEEE Spectrum",
       "flag": "US",
       "category": "robot",
@@ -372,7 +372,7 @@
       "link": "https://spectrum.ieee.org/navigating-pivot-tech-expert-leader",
       "published": "Fri, 07 Aug 2026 18:00:01 +0000",
       "title_th": "การนำทาง Pivot จากผู้เชี่ยวชาญด้านเทคโนโลยีไปจนถึงผู้นำองค์กร",
-      "summary_th": "การเปลี่ยนจากผู้เชี่ยวชาญทางเทคนิคล้วนๆ หรือตำแหน่งผู้ร่วมให้ข้อมูลรายบุคคลไปสู่บทบาทผู้นำที่กว้างขึ้นถือเป็นหนึ่งในขั้นตอนที่ท้าทายที่สุดในอาชีพ STEM จำเป็นต้องเปลี่ยนจากการพึ่งพาความเป็นเลิศทางเทคนิคเพียงอย่างเดียวไปสู่การคิดอย่างเป็นระบบ ความเป็นผู้นำที่ปรับเปลี่ยนได้ และการจัดตำแหน่งทีม เพื่อช่วยให้ผู้ประกอบอาชีพระดับกลางก้าวผ่านการเปลี่ยนแปลง การประชุม IEEE International Leadership Conference ครั้งแรก ได้รับการออกแบบมาเพื่อมอบเครื่องมือที่ใช้งานได้จริงแก่ผู้เข้าร่วมเพื่อก้าวเข้าสู่ความรับผิดชอบที่กว้างขึ้นและส่งเสริมกรอบความคิดของผู้ประกอบการ งาน ILC มีกำหนดในวันที่ 3 และ 4 ตุลาคมในบูดาเปสต์ เปิดลงทะเบียนแล้ว คิดให้ไกลกว่าการมีส่วนร่วมทางเทคนิค เพื่อประสบความสำเร็จในการก้าวเข้าสู่บทบาทผู้นำ ผู้เชี่ยวชาญด้านเทคนิคจำเป็นต้องมองข้ามผลงานของตนเองและมุ่งเน้นไปที่ \"คุณ\""
+      "summary_th": "การเปลี่ยนจากผู้เชี่ยวชาญทางเทคนิคล้วนๆ หรือตำแหน่งผู้ร่วมให้ข้อมูลรายบุคคลไปสู่บทบาทผู้นำที่กว้างขึ้นถือเป็นหนึ่งในขั้นตอนที่ท้าทายที่สุดในอาชีพ STEM จำเป็นต้องเปลี่ยนจากการพึ่งพาความเป็นเลิศทางเทคนิคเพียงอย่างเดียวไปสู่การคิดอย่างเป็นระบบ ความเป็นผู้นำที่ปรับเปลี่ยนได้ และการจัดตำแหน่งทีม เพื่อช่วยให้ผู้ประกอบวิชาชีพระดับกลางก้าวผ่านการเปลี่ยนแปลง การประชุม IEEE International Leadership Conference ครั้งแรกได้รับการออกแบบเพื่อให้ผู้เข้าร่วมมีเครื่องมือที่ใช้งานได้จริงเพื่อก้าวเข้าสู่ความรับผิดชอบที่กว้างขึ้นและส่งเสริมกรอบความคิดของผู้ประกอบการ งาน ILC มีกำหนดในวันที่ 3 และ 4 ตุลาคมในบูดาเปสต์ เปิดลงทะเบียนแล้ว คิดให้ไกลกว่าการมีส่วนร่วมทางเทคนิค เพื่อให้ประสบความสำเร็จในการก้าวเข้าสู่บทบาทผู้นำ ผู้เชี่ยวชาญด้านเทคนิคจำเป็นต้องมองข้ามผลงานของตนเองและมุ่งเน้นไปที่ \"คุณ\""
     },
     {
       "source": "IEEE Spectrum",
@@ -384,7 +384,7 @@
       "link": "https://spectrum.ieee.org/v2x-technology-5g-open-ran",
       "published": "Fri, 07 Aug 2026 13:00:01 +0000",
       "title_th": "รถยนต์ที่สื่อสารกันไม่ดีคือปัญหาที่ได้รับการแก้ไขแล้ว",
-      "summary_th": "ประวัติความเป็นมาของเครือข่ายเต็มไปด้วยเครื่องมือที่นำวิธีแก้ไขปัญหาประเภทต่างๆ มาใช้ใหม่ก่อน ต้นกำเนิดของ Wi-Fi ส่วนหนึ่งย้อนกลับไปที่ทีมนักดาราศาสตร์วิทยุชาวออสเตรเลียที่พยายามตรวจจับสัญญาณจากการระเหยของหลุมดำ แต่เครื่องมือประมวลผลข้อมูลที่พวกเขาพัฒนาขึ้นยังได้รับการพิสูจน์แล้วว่าสามารถดึงข้อความที่ชัดเจนจากสภาพแวดล้อมของสัญญาณสะท้อนที่วุ่นวายได้ เสียงสะท้อนก็คือเสียงสะท้อน ไม่ว่าจะมาจากระบบดาวอันห่างไกลหรือจากมุมไกลของบ้าน ฉันค้นคว้าเครือข่ายการสื่อสารของยานพาหนะ การเชื่อมต่อรถยนต์กับรถยนต์ และโครงสร้างพื้นฐานด้านการขนส่ง เช่น สัญญาณไฟจราจร สำหรับเครือข่าย Vehicle-to-everthing (V2X) ในอนาคต การวิจัย V2X อาศัยโมเดลที่ถือว่าสภาพเครือข่าย \"สมบูรณ์แบบ\" หรือ \"อุดมคติ\" มานานแล้ว ซึ่งเป็นสมมติฐานที่ทำให้ง่ายขึ้นว่า"
+      "summary_th": "ประวัติความเป็นมาของเครือข่ายเต็มไปด้วยเครื่องมือที่นำวิธีแก้ไขปัญหาประเภทต่างๆ มาใช้ใหม่ก่อน ต้นกำเนิดของ Wi-Fi ส่วนหนึ่งย้อนกลับไปที่ทีมนักดาราศาสตร์วิทยุชาวออสเตรเลียที่พยายามตรวจจับสัญญาณจากการระเหยของหลุมดำ แต่เครื่องมือประมวลผลข้อมูลที่พวกเขาพัฒนาขึ้นยังได้รับการพิสูจน์แล้วว่าสามารถดึงข้อความที่ชัดเจนจากสภาพแวดล้อมของสัญญาณสะท้อนที่วุ่นวายได้ เสียงสะท้อนก็คือเสียงสะท้อน ไม่ว่าจะมาจากระบบดาวอันห่างไกลหรือจากมุมไกลของบ้าน ฉันค้นคว้าเครือข่ายการสื่อสารในยานพาหนะ การเชื่อมต่อรถยนต์กับรถยนต์ และโครงสร้างพื้นฐานด้านการคมนาคม เช่น สัญญาณไฟจราจร สำหรับเครือข่าย Vehicle-to-everthing (V2X) ในอนาคต การวิจัย V2X อาศัยโมเดลที่ถือว่าสภาพเครือข่าย \"สมบูรณ์แบบ\" หรือ \"อุดมคติ\" มานานแล้ว ซึ่งเป็นสมมติฐานที่ทำให้ง่ายขึ้นว่า"
     },
     {
       "source": "IEEE Spectrum",
