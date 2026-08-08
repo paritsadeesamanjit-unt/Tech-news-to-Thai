@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T09:26:00.272231+00:00",
+  "generated_at": "2026-08-08T12:20:40.698391+00:00",
   "count": 35,
   "articles": [
     {
@@ -36,7 +36,7 @@
       "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
       "published": "Fri, 07 Aug 2026 21:00:08 +0000",
       "title_th": "นักวิจัยด้านความปลอดภัยสแกนเว็บของโปแลนด์และพบว่าศาล โรงพยาบาล และสนามบินมีความเสี่ยงที่จะถูกแฮ็ก",
-      "summary_th": "นักวิจัยพบว่าจุดที่พบบ่อยของความล้มเหลว เช่น ซอฟต์แวร์ที่ใช้ในการจัดระเบียบและแสดงเนื้อหาเว็บ อาจทำให้แฮกเกอร์สามารถก่อจลาจลผ่านเว็บไซต์ของรัฐบาลได้"
+      "summary_th": "นักวิจัยพบว่าจุดที่พบบ่อยของความล้มเหลว เช่น ซอฟต์แวร์ที่ใช้ในการจัดระเบียบและแสดงเนื้อหาเว็บ อาจทำให้แฮกเกอร์ก่อจลาจลผ่านเว็บไซต์ของรัฐบาลได้"
     },
     {
       "source": "TechCrunch",
@@ -59,8 +59,20 @@
       "image": "https://techcrunch.com/wp-content/uploads/2025/02/Framework-Desktop-2.jpg?resize=1200,900",
       "link": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
       "published": "Fri, 07 Aug 2026 16:09:04 +0000",
-      "title_th": "Framework ผู้ผลิตคอมพิวเตอร์แจ้งเตือน 'ลูกค้าทั้งหมด' เกี่ยวกับการละเมิดข้อมูล",
+      "title_th": "ผู้ผลิตคอมพิวเตอร์ Framework แจ้งเตือน 'ลูกค้าทั้งหมด' เกี่ยวกับการละเมิดข้อมูล",
       "summary_th": "Framework แจ้งลูกค้า \"ทั้งหมด\" ว่าแฮกเกอร์เข้าถึงชื่อ ที่อยู่อีเมล หมายเลขโทรศัพท์ และที่อยู่ทางกายภาพของตนในการละเมิดข้อมูล"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Is this $450 laptop from an unknown brand too good to be true?",
+      "summary_en": "Finding a good laptop under $500 was hard enough before RAMageddon. They nearly always had cheap hardware and underpowered, often outdated chips. That's what made the MacBook Neo so disruptive: It offered great build quality and good-enough performance starting at $599. Windows laptops couldn't touch it. Even though it's gone up to $699, it's still […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268691_Chuwi_UniBook_laptop_review_ADiBenedetto_0015.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
+      "published": "2026-08-08T08:00:00-04:00",
+      "title_th": "แล็ปท็อปราคา 450 ดอลลาร์จากแบรนด์ที่ไม่รู้จักนี้ดีเกินจริงหรือไม่",
+      "summary_th": "การค้นหาแล็ปท็อปดีๆ ราคาต่ำกว่า 500 ดอลลาร์นั้นยากพอก่อน RAMageddon พวกเขาเกือบจะมีฮาร์ดแวร์ราคาถูกและมีชิปที่ล้าสมัยและมักล้าสมัย นั่นคือสิ่งที่ทำให้ MacBook Neo พลิกโฉม: ให้คุณภาพการสร้างที่ยอดเยี่ยมและประสิทธิภาพที่ดีเพียงพอเริ่มต้นที่ 599 ดอลลาร์ แล็ปท็อป Windows ไม่สามารถสัมผัสได้ แม้ว่ามันจะขึ้นไปถึง $699 แต่ก็ยัง […]"
     },
     {
       "source": "The Verge",
@@ -95,7 +107,7 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&strip=all&crop=0,23.821989528796,100,52.356020942408",
       "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
       "published": "2026-08-07T16:01:51-04:00",
-      "title_th": "Fenix ​​Flexin ไม่ได้ปฏิเสธด้วยซ้ำว่าการใช้ AI เพื่อสร้าง 'Rubberz' อีกต่อไป",
+      "title_th": "Fenix ​​Flexin ไม่ได้ปฏิเสธแม้แต่การใช้ AI เพื่อสร้าง 'Rubberz' อีกต่อไป",
       "summary_th": "ใช้เวลานานพอสมควร แต่ตอนนี้แร็ปเปอร์จาก LA Fenix ​​Flexin ดูเหมือนจะยอมรับว่าใช้ AI สำหรับเพลงซินธ์ป๊อปแนวซินธ์ป๊อปยุค 80 \"Rubberz\" ความคิดเห็นของเขาเป็นไปตามวิดีโอของโปรดิวเซอร์ Medasin โดยอ้างว่ามีการใช้เครื่องมือ AI ชื่อ Treblo (เดิมชื่อ Sonauto) ในการสร้างเพลง และบริษัทได้ปล่อยเครื่องตรวจจับ AI ที่ระบุ […]"
     },
     {
@@ -109,18 +121,6 @@
       "published": "2026-08-07T14:59:46-04:00",
       "title_th": "การดูช่อง AI ของ Roku ก็เหมือนกับการกินจากรางน้ำ",
       "summary_th": "ความน่าดึงดูดใจของช่องทีวีสตรีมมิ่งที่รองรับโฆษณาฟรี (FAST) เป็นวิธีที่ช่วยให้ค้นพบภาพยนตร์และซีรีส์คลาสสิกได้ง่ายขึ้น แต่การทดลองล่าสุดของโรคุในพื้นที่ FAST ไม่ได้เกี่ยวข้องกับความบันเทิงที่ผลิตแบบดั้งเดิม และมุ่งเน้นไปที่การให้ผู้ชมเข้าถึงแหล่งเนื้อหาที่สร้างโดย AI อย่างต่อเนื่อง […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-      "summary_en": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Anthropic and Meta have also since admitted that they had AI models that went rogue […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "published": "2026-08-07T14:40:34-04:00",
-      "title_th": "OpenAI ทำการเบรกโมเดลใหม่เพราะมันมีพลังมากเกินไป",
-      "summary_th": "OpenAI กล่าวว่ากำลังหยุด \"กิจกรรมภายใน\" เกี่ยวกับโมเดล AI ที่อยู่ระหว่างการพัฒนาอย่าง Astra เนื่องจากยังไม่เป็นไปตามมาตรฐานความปลอดภัยใหม่ที่บริษัทกำหนดไว้ การประกาศดังกล่าวเกิดขึ้นหลังจากการเปิดเผยล่าสุดว่าโมเดล OpenAI แฮ็ก Hugging Face โดยไม่ได้ตั้งใจ ตั้งแต่นั้นมา Anthropic และ Meta ก็ยอมรับว่าพวกเขามีโมเดล AI ที่โกง […]"
     },
     {
       "source": "Ars Technica",
@@ -167,7 +167,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/russia-cyber-hack-1000x648.jpeg",
       "link": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/",
       "published": "Thu, 16 Jul 2026 19:28:33 +0000",
-      "title_th": "ปัจจุบัน แม้แต่แฮ็กเกอร์ที่เก่งที่สุดของรัสเซียก็ยังใช้ Clickfix เพื่อแพร่ระบาดในอุปกรณ์ต่างๆ",
+      "title_th": "ปัจจุบัน แม้แต่แฮ็กเกอร์ที่เก่งที่สุดของรัสเซียก็ยังใช้ Clickfix เพื่อแพร่เชื้อไปยังอุปกรณ์ต่างๆ",
       "summary_th": "เทคนิควิศวกรรมสังคมเป็นเครื่องมือของอาชญากรที่มีแรงจูงใจทางการเงินเป็นหลัก"
     },
     {
@@ -186,61 +186,61 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "WhatsApp Gets a Handy @all Feature for Group Chats",
-      "summary_en": "A new software update builds on WhatsApp’s group chat chops by adding anonymous polls and introducing an easier way to start a smaller private chat away from the larger group.",
-      "image": "https://media.wired.com/photos/6a7514f3c44a52857403c1d1/master/pass/English_WhatsApp_better-polls-and-@all.png",
-      "link": "https://www.wired.com/story/whatsapp-gets-a-handy-all-feature-for-group-chats/",
-      "published": "Sat, 08 Aug 2026 09:00:00 +0000",
-      "title_th": "WhatsApp ได้รับฟีเจอร์ @all ที่มีประโยชน์สำหรับการแชทเป็นกลุ่ม",
-      "summary_th": "การอัปเดตซอฟต์แวร์ใหม่สร้างขึ้นจากการแชทกลุ่มของ WhatsApp โดยการเพิ่มโพลที่ไม่ระบุชื่อและแนะนำวิธีที่ง่ายกว่าในการเริ่มการแชทส่วนตัวที่มีขนาดเล็กลงจากกลุ่มใหญ่"
+      "title_en": "The Excellent HP OmniBook 5 Is $550 Off Its Retail Price Today",
+      "summary_en": "My favorite budget laptop, the HP OmniBook 5, has an OLED screen and gets great battery life, despite being just $750 right now.",
+      "image": "https://media.wired.com/photos/6a757061b127f3f26cdccecc/master/pass/My-Favorite-Budget-Laptop-Is-50-Percent-Off-Its-Retail-Price.jpg",
+      "link": "https://www.wired.com/story/hp-omnibook-5-50-percent-off/",
+      "published": "Sat, 08 Aug 2026 11:34:00 +0000",
+      "title_th": "HP OmniBook 5 ที่ยอดเยี่ยมลดราคาขายปลีกวันนี้อยู่ที่ 550 ดอลลาร์",
+      "summary_th": "แล็ปท็อปราคาประหยัดที่ฉันชื่นชอบ HP OmniBook 5 มีหน้าจอ OLED และอายุการใช้งานแบตเตอรี่ที่ยาวนาน แม้ว่าตอนนี้จะมีราคาเพียง 750 ดอลลาร์ก็ตาม"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Zohran Mamdani’s NYC Tech Team Is What DOGE Should Have Been",
-      "summary_en": "The mayor of New York City has assembled a crew of Silicon Valley and United States Digital Service veterans to overhaul city services with better software.",
-      "image": "https://media.wired.com/photos/6a74dbc9893d39e4b3cd5470/master/pass/OTIC9701.jpg",
-      "link": "https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/",
-      "published": "Fri, 07 Aug 2026 15:00:00 +0000",
-      "title_th": "ทีมเทคโนโลยี NYC ของ Zohran Mamdani คือสิ่งที่ DOGE ควรจะเป็น",
-      "summary_th": "นายกเทศมนตรีนครนิวยอร์กได้รวบรวมทีมงานจาก Silicon Valley และทหารผ่านศึกด้าน Digital Service ของสหรัฐอเมริกา เพื่อยกเครื่องบริการในเมืองด้วยซอฟต์แวร์ที่ดีกว่า"
+      "title_en": "Flock’s Plans for Rideshare Dashcams and Coaching Police, Revealed",
+      "summary_en": "Plus: A judge rules cell tower dumps unconstitutional, water utility hacks spread to a dozen states, a phishing email opens a missile-parts supplier’s inbox, and a ransomware boss gets 16 years.",
+      "image": "https://media.wired.com/photos/6a761d7874fba122f8d7a913/master/pass/Security-News-Flock-Rideshare-Spies-Security.jpg",
+      "link": "https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/",
+      "published": "Sat, 08 Aug 2026 10:30:00 +0000",
+      "title_th": "เปิดเผยแผนของ Flock สำหรับ Rideshare Dashcams และการฝึกสอนตำรวจ",
+      "summary_th": "นอกจากนี้: ผู้พิพากษาตัดสินว่าหอเซลล์ทิ้งสิ่งผิดกฎหมาย การแฮ็กระบบสาธารณูปโภคทางน้ำแพร่กระจายไปยังหลายสิบรัฐ อีเมลฟิชชิ่งเปิดกล่องจดหมายของซัพพลายเออร์ชิ้นส่วนขีปนาวุธ และหัวหน้าแรนซัมแวร์ได้รับโทษจำคุก 16 ปี"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Scientists Used AI to Create 16 New Viruses",
-      "summary_en": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
-      "image": "https://media.wired.com/photos/6a75dcaa629c4defb09289b6/master/pass/virusIA.jpg",
-      "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
-      "published": "Fri, 07 Aug 2026 14:13:57 +0000",
-      "title_th": "นักวิทยาศาสตร์ใช้ AI เพื่อสร้างไวรัสใหม่ 16 ชนิด",
-      "summary_th": "การใช้ระบบ AI เพื่อสร้างไวรัสเปิดโอกาสใหม่ในการต่อสู้กับการดื้อต่อแบคทีเรีย นอกจากนี้ยังก่อให้เกิดความกังวลเกี่ยวกับก้าวที่เทคโนโลยีก้าวล้ำหน้ากฎระเบียบอีกด้วย"
+      "title_en": "How to Disable Gemini in Gmail and Google Docs",
+      "summary_en": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
+      "image": "https://media.wired.com/photos/6a75b644a7eaec3ecd711279/master/pass/GoolgeNoAI.jpg",
+      "link": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+      "published": "Sat, 08 Aug 2026 10:00:00 +0000",
+      "title_th": "วิธีปิดการใช้งานราศีเมถุนใน Gmail และ Google เอกสาร",
+      "summary_th": "แถบเครื่องมือ AI และข้อความแจ้งใหม่ปรากฏใน Google เอกสารและ Gmail หากคุณไม่ต้องการความช่วยเหลือจาก Gemini ในการเขียนเอกสารและอีเมล ต่อไปนี้คือวิธีปิดสิ่งเหล่านี้"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Ranking the Best Smart Glasses: Meta, Viture, & More (2026)",
-      "summary_en": "This burgeoning wearable tech lets you talk to an AI assistant, listen to music, or check out a display screen from the comfort of your very own face.",
-      "image": "https://media.wired.com/photos/6a74ce6cc44a52857403bf0a/master/pass/The-Best-Smart-Glasses-That-Aren%E2%80%99t-Just-a-Gimmick.jpg",
-      "link": "https://www.wired.com/gallery/best-smart-glasses/",
-      "published": "Fri, 07 Aug 2026 10:30:00 +0000",
-      "title_th": "การจัดอันดับแว่นตาอัจฉริยะที่ดีที่สุด: Meta, Viture และอื่นๆ (2026)",
-      "summary_th": "เทคโนโลยีอุปกรณ์สวมใส่ที่กำลังขยายตัวนี้ช่วยให้คุณสามารถพูดคุยกับผู้ช่วย AI ฟังเพลง หรือดูหน้าจอแสดงผลได้อย่างสะดวกสบายด้วยใบหน้าของคุณเอง"
+      "title_en": "Sensitive Info Goes Into ‘No Reply’ Emails Constantly. This Guy Sees It All",
+      "summary_en": "Two security researchers bought cheap domains—including noreply.net and deleteduser.com—and set up email listening services. Hundreds of companies are sending them corporate secrets.",
+      "image": "https://media.wired.com/photos/6a760fe8a02e6ace8c74de98/master/pass/Security_CompaniesAreLeakingSensitiveData.gif",
+      "link": "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/",
+      "published": "Sat, 08 Aug 2026 10:00:00 +0000",
+      "title_th": "ข้อมูลที่ละเอียดอ่อนจะเข้าสู่อีเมล 'ไม่ตอบกลับ' อย่างต่อเนื่อง ผู้ชายคนนี้เห็นทุกอย่าง",
+      "summary_th": "นักวิจัยด้านความปลอดภัยสองคนซื้อโดเมนราคาถูก รวมถึง noreply.net และ Deleteuser.com และตั้งค่าบริการฟังอีเมล บริษัทหลายร้อยแห่งกำลังส่งความลับขององค์กรไปให้พวกเขา"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-      "summary_en": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
-      "image": "https://media.wired.com/photos/6a74accfee5313e488f8fb05/master/pass/080726-Guy-Running-Chatbot-By-Hand-Business.jpg",
-      "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
-      "published": "Fri, 07 Aug 2026 10:00:00 +0000",
-      "title_th": "AI Chatbot ใหม่ที่ร้อนแรงที่สุดเป็นเพียงผู้ชายที่ตอบคำถามของคุณ",
-      "summary_th": "WIRED ได้พูดคุยกับ Tucker Bryant ศิลปินและอดีตพนักงานของ Google ที่สร้าง ChatTJB เพื่อให้ผู้คนนึกถึง \"ช่วงเวลาที่แปลกประหลาด\" ที่เราเผชิญอยู่"
+      "title_en": "Hairmax LaserBand 82 ComfortFlex Review: Putting Down New Roots",
+      "summary_en": "Hairmax’s LaserBand 82 ComfortFlex took only 90 seconds per treatment, and it produced visible results along my widening part.",
+      "image": "https://media.wired.com/photos/6a7699d523a3ccec78db5ea6/master/pass/Review--Hairmax-LaserBand-82-ComfortFlex.jpg",
+      "link": "https://www.wired.com/review/hairmax-laserband-82-comfortflex/",
+      "published": "Sat, 08 Aug 2026 09:31:00 +0000",
+      "title_th": "Hairmax LaserBand 82 ComfortFlex รีวิว: วางรากฐานใหม่",
+      "summary_th": "LaserBand 82 ComfortFlex ของ Hairmax ใช้เวลาเพียง 90 วินาทีต่อการรักษา และให้ผลลัพธ์ที่มองเห็นได้ตลอดส่วนที่ขยับขยายของฉัน"
     },
     {
       "source": "MIT Technology Review",
@@ -306,6 +306,18 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "Big Walk, retro electronic repairs and other new indie games worth checking out",
+      "summary_en": "We're looking forward to Big Walk, ReStory: Chill Electronics Repairs, Pigeon: A Love Story and several others this week.",
+      "image": "https://www.engadget.com/img/gallery/big-walk-retro-electronic-repairs-and-other-new-indie-games-worth-checking-out/l-intro-1786122249.jpg",
+      "link": "https://www.engadget.com/2232571/big-walk-retro-electronic-repairs-and-other-new-indie-games-worth-checking-out/",
+      "published": "Sat, 08 Aug 2026 11:30:00 +0000",
+      "title_th": "Big Walk การซ่อมอุปกรณ์อิเล็กทรอนิกส์ย้อนยุค และเกมอินดี้ใหม่อื่นๆ ที่ควรค่าแก่การลองเล่น",
+      "summary_th": "เรากำลังรอคอย Big Walk, ReStory: Chill Electronics Repairs, Pigeon: A Love Story และอื่นๆ อีกมากมายในสัปดาห์นี้"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "Framework customer information was accessed as part of a data breach",
       "summary_en": "Framework's customer database was accessed, but no payment info was released.",
       "image": "https://www.engadget.com/img/gallery/framework-customer-information-was-accessed-as-part-of-a-data-breach/l-intro-1786127789.jpg",
@@ -323,7 +335,7 @@
       "image": "https://www.engadget.com/img/gallery/one-of-nasas-mars-rovers-could-find-itself-promised-to-the-moon-instead/l-intro-1785521981.jpg",
       "link": "https://www.engadget.com/2230972/nasa-mars-rover-promise-lunar-mission/",
       "published": "Fri, 07 Aug 2026 18:30:00 +0000",
-      "title_th": "หนึ่งในยานสำรวจดาวอังคารของ NASA สามารถพบว่าตัวเองถูกสัญญาไว้กับดวงจันทร์แทน",
+      "title_th": "หนึ่งในยานสำรวจดาวอังคารของ NASA พบว่าตัวเองถูกสัญญาไว้กับดวงจันทร์แทน",
       "summary_th": "NASA กำลังวางแผนที่จะใช้องค์ประกอบของเทคโนโลยีที่มีอยู่เพื่อเรียนรู้เพิ่มเติมเกี่ยวกับทุกด้านของดวงจันทร์"
     },
     {
@@ -351,18 +363,6 @@
       "summary_th": "นี่เป็นข้อตกลงครั้งที่ห้าที่ประธานและทีมงานของเขาได้จ่ายเงินจำนวนมากเพื่อยกเลิกสัญญาพลังงานสีเขียว"
     },
     {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "AI is changing cybersecurity in quick and terrifying ways",
-      "summary_en": "The proliferation of AI has created new vulnerabilities in our software that in turn are exploited by other AI. Can the cybersecurity industry get ahead of it?",
-      "image": "https://www.engadget.com/img/gallery/ai-is-changing-cybersecurity-in-quick-and-terrifying-ways/l-intro-1785782521.jpg",
-      "link": "https://www.engadget.com/2229315/ai-changing-cybersecurity-quick-terrifying-way/",
-      "published": "Fri, 07 Aug 2026 16:30:00 +0000",
-      "title_th": "AI กำลังเปลี่ยนแปลงความปลอดภัยทางไซเบอร์อย่างรวดเร็วและน่ากลัว",
-      "summary_th": "การแพร่กระจายของ AI ได้สร้างช่องโหว่ใหม่ในซอฟต์แวร์ของเรา ซึ่ง AI อื่น ๆ จะถูกนำไปใช้ประโยชน์ในที่สุด อุตสาหกรรมความปลอดภัยทางไซเบอร์สามารถก้าวไปข้างหน้าได้หรือไม่?"
-    },
-    {
       "source": "IEEE Spectrum",
       "flag": "US",
       "category": "robot",
@@ -372,7 +372,7 @@
       "link": "https://spectrum.ieee.org/navigating-pivot-tech-expert-leader",
       "published": "Fri, 07 Aug 2026 18:00:01 +0000",
       "title_th": "การนำทาง Pivot จากผู้เชี่ยวชาญด้านเทคโนโลยีไปจนถึงผู้นำองค์กร",
-      "summary_th": "การเปลี่ยนจากผู้เชี่ยวชาญทางเทคนิคล้วนๆ หรือตำแหน่งผู้ร่วมให้ข้อมูลรายบุคคลไปสู่บทบาทผู้นำที่กว้างขึ้นถือเป็นหนึ่งในขั้นตอนที่ท้าทายที่สุดในอาชีพ STEM จำเป็นต้องเปลี่ยนจากการพึ่งพาความเป็นเลิศทางเทคนิคเพียงอย่างเดียวไปสู่การคิดอย่างเป็นระบบ ความเป็นผู้นำที่ปรับเปลี่ยนได้ และการจัดตำแหน่งทีม เพื่อช่วยให้ผู้ประกอบวิชาชีพระดับกลางก้าวผ่านการเปลี่ยนแปลง การประชุม IEEE International Leadership Conference ครั้งแรกได้รับการออกแบบเพื่อให้ผู้เข้าร่วมมีเครื่องมือที่ใช้งานได้จริงเพื่อก้าวเข้าสู่ความรับผิดชอบที่กว้างขึ้นและส่งเสริมกรอบความคิดของผู้ประกอบการ งาน ILC มีกำหนดในวันที่ 3 และ 4 ตุลาคมในบูดาเปสต์ เปิดลงทะเบียนแล้ว คิดให้ไกลกว่าการมีส่วนร่วมทางเทคนิค เพื่อให้ประสบความสำเร็จในการก้าวเข้าสู่บทบาทผู้นำ ผู้เชี่ยวชาญด้านเทคนิคจำเป็นต้องมองข้ามผลงานของตนเองและมุ่งเน้นไปที่ \"คุณ\""
+      "summary_th": "การเปลี่ยนจากผู้เชี่ยวชาญทางเทคนิคล้วนๆ หรือตำแหน่งผู้ร่วมให้ข้อมูลรายบุคคลไปสู่บทบาทผู้นำที่กว้างขึ้นถือเป็นหนึ่งในขั้นตอนที่ท้าทายที่สุดในอาชีพ STEM จำเป็นต้องเปลี่ยนจากการพึ่งพาความเป็นเลิศทางเทคนิคเพียงอย่างเดียวไปสู่การคิดอย่างเป็นระบบ ความเป็นผู้นำที่ปรับเปลี่ยนได้ และการจัดตำแหน่งทีม เพื่อช่วยให้ผู้ประกอบอาชีพระดับกลางก้าวผ่านการเปลี่ยนแปลง การประชุม IEEE International Leadership Conference ครั้งแรก ได้รับการออกแบบมาเพื่อมอบเครื่องมือที่ใช้งานได้จริงแก่ผู้เข้าร่วมเพื่อก้าวเข้าสู่ความรับผิดชอบที่กว้างขึ้นและส่งเสริมกรอบความคิดของผู้ประกอบการ งาน ILC มีกำหนดในวันที่ 3 และ 4 ตุลาคมในบูดาเปสต์ เปิดลงทะเบียนแล้ว คิดให้ไกลกว่าการมีส่วนร่วมทางเทคนิค เพื่อประสบความสำเร็จในการก้าวเข้าสู่บทบาทผู้นำ ผู้เชี่ยวชาญด้านเทคนิคจำเป็นต้องมองข้ามผลงานของตนเองและมุ่งเน้นไปที่ \"คุณ\""
     },
     {
       "source": "IEEE Spectrum",
@@ -384,7 +384,7 @@
       "link": "https://spectrum.ieee.org/v2x-technology-5g-open-ran",
       "published": "Fri, 07 Aug 2026 13:00:01 +0000",
       "title_th": "รถยนต์ที่สื่อสารกันไม่ดีคือปัญหาที่ได้รับการแก้ไขแล้ว",
-      "summary_th": "ประวัติความเป็นมาของเครือข่ายเต็มไปด้วยเครื่องมือที่นำวิธีแก้ไขปัญหาประเภทต่างๆ มาใช้ใหม่ก่อน ต้นกำเนิดของ Wi-Fi ส่วนหนึ่งย้อนกลับไปที่ทีมนักดาราศาสตร์วิทยุชาวออสเตรเลียที่พยายามตรวจจับสัญญาณจากการระเหยของหลุมดำ แต่เครื่องมือประมวลผลข้อมูลที่พวกเขาพัฒนาขึ้นยังได้รับการพิสูจน์แล้วว่าสามารถดึงข้อความที่ชัดเจนจากสภาพแวดล้อมของสัญญาณสะท้อนที่วุ่นวายได้ เสียงสะท้อนก็คือเสียงสะท้อน ไม่ว่าจะมาจากระบบดาวอันห่างไกลหรือจากมุมไกลของบ้าน ฉันค้นคว้าเครือข่ายการสื่อสารของยานพาหนะ การเชื่อมต่อรถยนต์กับรถยนต์ และโครงสร้างพื้นฐานด้านการคมนาคม เช่น สัญญาณไฟจราจร สำหรับเครือข่าย Vehicle-to-everthing (V2X) ในอนาคต การวิจัย V2X อาศัยโมเดลที่ถือว่าสภาพเครือข่าย \"สมบูรณ์แบบ\" หรือ \"อุดมคติ\" มานานแล้ว ซึ่งเป็นสมมติฐานที่ทำให้ง่ายขึ้นว่า"
+      "summary_th": "ประวัติความเป็นมาของเครือข่ายเต็มไปด้วยเครื่องมือที่นำวิธีแก้ไขปัญหาประเภทต่างๆ มาใช้ใหม่ก่อน ต้นกำเนิดของ Wi-Fi ส่วนหนึ่งย้อนกลับไปที่ทีมนักดาราศาสตร์วิทยุชาวออสเตรเลียที่พยายามตรวจจับสัญญาณจากการระเหยของหลุมดำ แต่เครื่องมือประมวลผลข้อมูลที่พวกเขาพัฒนาขึ้นยังได้รับการพิสูจน์แล้วว่าสามารถดึงข้อความที่ชัดเจนจากสภาพแวดล้อมของสัญญาณสะท้อนที่วุ่นวายได้ เสียงสะท้อนก็คือเสียงสะท้อน ไม่ว่าจะมาจากระบบดาวอันห่างไกลหรือจากมุมไกลของบ้าน ฉันค้นคว้าเครือข่ายการสื่อสารของยานพาหนะ การเชื่อมต่อรถยนต์กับรถยนต์ และโครงสร้างพื้นฐานด้านการขนส่ง เช่น สัญญาณไฟจราจร สำหรับเครือข่าย Vehicle-to-everthing (V2X) ในอนาคต การวิจัย V2X อาศัยโมเดลที่ถือว่าสภาพเครือข่าย \"สมบูรณ์แบบ\" หรือ \"อุดมคติ\" มานานแล้ว ซึ่งเป็นสมมติฐานที่ทำให้ง่ายขึ้นว่า"
     },
     {
       "source": "IEEE Spectrum",
