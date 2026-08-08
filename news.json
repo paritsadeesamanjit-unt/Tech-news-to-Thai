@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-07T21:27:41.657114+00:00",
+  "generated_at": "2026-08-08T00:39:03.887278+00:00",
   "count": 35,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "OpenAI says it slowed Astra model development over security concerns",
+      "summary_en": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "published": "Fri, 07 Aug 2026 22:48:24 +0000",
+      "title_th": "OpenAI กล่าวว่าการพัฒนาโมเดล Astra ช้าลงเนื่องจากข้อกังวลด้านความปลอดภัย",
+      "summary_th": "OpenAI กล่าวว่าโมเดลนี้ซึ่งยังอยู่ในระหว่างการพัฒนา ได้ถึง \"เกณฑ์ความปลอดภัยทางไซเบอร์ที่สำคัญ\" ซึ่งหมายความว่าสามารถระบุและดำเนินการโจมตีทางไซเบอร์ต่อระบบในโลกแห่งความเป็นจริงที่มีการป้องกันอย่างดีแบบดั้งเดิมได้อย่างอิสระ"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "summary_en": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Rippling-AI-Spend-Console.png?resize=1200,717",
+      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "published": "Fri, 07 Aug 2026 21:30:11 +0000",
+      "title_th": "หลังจากที่ Rippling ระเบิด AI นับล้านในช่วงหลายเดือน บริษัทได้สร้างเครื่องมือ ROI ของพนักงาน",
+      "summary_th": "หลังจากการปลุกการใช้ AI ของตัวเอง Rippling ในสัปดาห์นี้ได้เปิดตัว AI Spread Console ซึ่งเป็นผลิตภัณฑ์ที่ติดตามการใช้จ่าย AI ของพนักงานแต่ละคนและพนักงานในทีม"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -19,12 +43,12 @@
       "flag": "US",
       "category": "startup",
       "title_en": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "summary_en": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+      "summary_en": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/kitesurf.webp?resize=1200,640",
       "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "published": "Fri, 07 Aug 2026 16:16:09 +0000",
       "title_th": "Cloudflare เปิดตัว Kitesurf เบราว์เซอร์ที่สร้างขึ้นสำหรับตัวแทน AI",
-      "summary_th": "Cloudflare ได้เปิดตัว Kitesurf ซึ่งเป็นเบราว์เซอร์ที่โฮสต์บนคลาวด์ที่ออกแบบมาสำหรับตัวแทน AI แทนที่จะเป็นมนุษย์ บริษัทกล่าวว่าเบราว์เซอร์ใช้พลังงานในการประมวลผลน้อยกว่า Chromium สำหรับงานอัตโนมัติทั่วไป ช่วยให้นักพัฒนาสร้างเอเจนต์ AI บนเบราว์เซอร์ได้อย่างมีประสิทธิภาพมากขึ้น"
+      "summary_th": "Kitesurf เป็นเบราว์เซอร์ที่โฮสต์บนคลาวด์ที่ออกแบบมาสำหรับตัวแทน AI แทนที่จะเป็นมนุษย์ โดยใช้พลังงานการประมวลผลน้อยกว่า Chromium สำหรับงานระบบอัตโนมัติทั่วไป ช่วยให้นักพัฒนาสร้างเอเจนต์ AI บนเบราว์เซอร์ได้อย่างมีประสิทธิภาพมากขึ้น"
     },
     {
       "source": "TechCrunch",
@@ -39,28 +63,16 @@
       "summary_th": "Framework แจ้งลูกค้า \"ทั้งหมด\" ว่าแฮกเกอร์เข้าถึงชื่อ ที่อยู่อีเมล หมายเลขโทรศัพท์ และที่อยู่ทางกายภาพของตนในการละเมิดข้อมูล"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket",
-      "summary_en": "Starting today, you can take an additional $100 off your founder, investor, or attendee TechCrunch Disrupt 2026 pass, which is a nice bonus on top of our current discounted pricing.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/",
-      "published": "Fri, 07 Aug 2026 15:52:33 +0000",
-      "title_th": "วันนี้เป็นวันสุดท้ายที่จะรับส่วนลดสูงสุดถึง $400 จากตั๋ว TechCrunch Disrupt 2026 ของคุณ",
-      "summary_th": "เริ่มตั้งแต่วันนี้เป็นต้นไป คุณสามารถรับส่วนลดเพิ่มอีก 100 ดอลลาร์จากผู้ก่อตั้ง นักลงทุน หรือผู้เข้าร่วม TechCrunch Disrupt 2026 pass ซึ่งเป็นโบนัสที่ดีนอกเหนือจากราคาส่วนลดปัจจุบันของเรา"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Host your own piece of Disrupt: Apply to run a Side Event at TechCrunch Disrupt 2026",
-      "summary_en": "You put together the concept — from a founder mixer, an after-hours panel, a themed party, a morning run, whatever fits your goal — and the TechCrunch team helps put it in front of the attendees already in town for Disrupt.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/55345024456_564e50f500_k.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/07/host-your-own-piece-of-disrupt-apply-to-run-a-side-event-at-techcrunch-disrupt-2026/",
-      "published": "Fri, 07 Aug 2026 14:30:00 +0000",
-      "title_th": "โฮสต์ Disrupt ของคุณเอง: สมัครเพื่อเรียกใช้ Side Event ที่ TechCrunch Disrupt 2026",
-      "summary_th": "คุณรวบรวมแนวคิดนี้ ตั้งแต่ผู้ก่อตั้งผู้ก่อตั้ง การอภิปรายนอกเวลาทำการ งานปาร์ตี้ที่มีธีม การวิ่งตอนเช้า อะไรก็ได้ที่เหมาะกับเป้าหมายของคุณ และทีม TechCrunch จะช่วยนำเสนอแนวคิดนี้ต่อหน้าผู้เข้าร่วมที่อยู่ในเมืองเพื่อ Disrupt"
+      "category": "software",
+      "title_en": "The gaming site sponsored by Walmart lays off its editorial staff",
+      "summary_en": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former editor-in-chief. Other staffers have also posted about being laid off. Restart is operated by Moonrock, a content marketing agency, though its editorial mission […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK465_VIDEO_GAMES_EMULATOR__CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
+      "published": "2026-08-07T18:05:08-04:00",
+      "title_th": "เว็บไซต์เกมที่ได้รับการสนับสนุนจาก Walmart เลิกจ้างกองบรรณาธิการ",
+      "summary_th": "Restart เว็บไซต์สื่อเกมที่เปิดตัวในช่วงปลายปี 2024 ซึ่งได้รับการสนับสนุนโดย Walmart ได้เลิกจ้าง \"ทีมบรรณาธิการทั้งหมด\" ตามโพสต์เมื่อวันศุกร์จาก Brandy Berthelson อดีตบรรณาธิการบริหารของเว็บไซต์ เจ้าหน้าที่คนอื่นๆ ยังได้โพสต์เกี่ยวกับการถูกเลิกจ้างด้วย Restart ดำเนินการโดย Moonrock ซึ่งเป็นเอเจนซี่การตลาดเนื้อหา แม้ว่าภารกิจด้านบรรณาธิการ […]"
     },
     {
       "source": "The Verge",
@@ -109,18 +121,6 @@
       "published": "2026-08-07T14:04:08-04:00",
       "title_th": "กล้องอินสแตนท์หนึ่งเดียวที่คุ้มค่าเงินของคุณ",
       "summary_th": "มีบางสิ่งที่มหัศจรรย์เกี่ยวกับการใช้กล้องทันใจที่สมาร์ทโฟนไม่สามารถเทียบได้ คุณสามารถจับภาพช่วงเวลาสำคัญ พิมพ์ออกมา จากนั้นให้รูปถ่ายเป็นของขวัญหรือถือไว้ก็ได้ คุณภาพของภาพอาจไม่ดีนัก แต่ความไม่สมบูรณ์เป็นส่วนหนึ่งของเสน่ห์ เราทดสอบกล้องอินสแตนท์รุ่นต่างๆ จากแบรนด์ยอดนิยมและได้ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Disney Plus tries a new AI-powered search",
-      "summary_en": "Disney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to create a customized row of show and movie recommendations. Disney Plus, like other streaming services, can recommend shows to watch based on your viewing history. But the company says this new […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google-docs-image-4.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "link": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
-      "published": "2026-08-07T13:53:44-04:00",
-      "title_th": "Disney Plus ลองใช้การค้นหาที่ขับเคลื่อนด้วย AI ใหม่",
-      "summary_th": "Disney กำลังทดสอบเครื่องมือที่ขับเคลื่อนด้วย AI ใหม่สำหรับ Disney Plus ซึ่งใช้การค้นหาด้วยภาษาธรรมชาติ ข้อความเสียง หรือข้อความแนะนำเพื่อสร้างแถวคำแนะนำรายการและภาพยนตร์แบบกำหนดเอง Disney Plus เช่นเดียวกับบริการสตรีมมิ่งอื่นๆ สามารถแนะนำรายการให้ดูตามประวัติการดูของคุณได้ แต่บริษัทบอกว่าสิ่งนี้ใหม่ […]"
     },
     {
       "source": "Ars Technica",
@@ -234,13 +234,13 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "B&H Photo Promo Codes and Deals This August 2026",
-      "summary_en": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
-      "image": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
-      "link": "https://www.wired.com/story/bh-photo-coupon/",
+      "title_en": "LG Promo Codes and Coupons for August 2026",
+      "summary_en": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
+      "link": "https://www.wired.com/story/lg-promo-code/",
       "published": "Fri, 07 Aug 2026 05:00:00 +0000",
-      "title_th": "รหัสโปรโมชั่นและข้อเสนอภาพถ่าย B&H ในเดือนสิงหาคม 2569 นี้",
-      "summary_th": "เพลิดเพลินกับข้อเสนอสุดพิเศษสำหรับกล้อง คอมพิวเตอร์ และอุปกรณ์เทคโนโลยีที่ B&H Photo"
+      "title_th": "รหัสส่งเสริมการขายและคูปอง LG สำหรับเดือนสิงหาคม 2569",
+      "summary_th": "ประหยัด 20% ด้วยรหัสโปรโมชั่น LG วันนี้ พร้อมส่วนลดเครื่องใช้ไฟฟ้าสูงสุด 1,000 ดอลลาร์ ส่วนลด 40% สำหรับทีวีและจอภาพที่ขายดีที่สุด"
     },
     {
       "source": "MIT Technology Review",
