@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T15:18:01.752843+00:00",
+  "generated_at": "2026-08-08T18:19:19.687095+00:00",
   "count": 35,
   "articles": [
     {
@@ -12,7 +12,7 @@
       "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
       "published": "Sat, 08 Aug 2026 15:00:00 +0000",
       "title_th": "นักล่าแฮ็กเกอร์อันดับต้นๆ ของ Google อธิบายว่าทำไมกลุ่มแฮ็กเกอร์ถึงได้ชื่อรหัส",
-      "summary_th": "Google เพิ่งเปลี่ยนวิธีการอ้างอิงและกำหนดชื่อให้กับกลุ่มแฮ็ก TechCrunch ได้พูดคุยกับหนึ่งในผู้เชี่ยวชาญชั้นแนวหน้าของโลกในการติดตามแฮกเกอร์เพื่อทำความเข้าใจว่าทำไมบริษัทต่างๆ ถึงตั้งชื่อรหัสให้แฮ็กเกอร์"
+      "summary_th": "Google เพิ่งเปลี่ยนวิธีอ้างอิงและกำหนดชื่อให้กับกลุ่มแฮ็ก TechCrunch พูดคุยกับหนึ่งในผู้เชี่ยวชาญชั้นแนวหน้าของโลกในการติดตามแฮกเกอร์เพื่อทำความเข้าใจว่าทำไมบริษัทต่างๆ ถึงตั้งชื่อรหัสให้แฮ็กเกอร์"
     },
     {
       "source": "TechCrunch",
@@ -60,7 +60,19 @@
       "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "published": "Fri, 07 Aug 2026 16:16:09 +0000",
       "title_th": "Cloudflare เปิดตัว Kitesurf เบราว์เซอร์ที่สร้างขึ้นสำหรับตัวแทน AI",
-      "summary_th": "Kitesurf เป็นเบราว์เซอร์ที่โฮสต์บนคลาวด์ที่ออกแบบมาสำหรับตัวแทน AI แทนที่จะเป็นมนุษย์ โดยใช้พลังงานการประมวลผลน้อยกว่า Chromium สำหรับงานอัตโนมัติทั่วไป ช่วยให้นักพัฒนาสร้างเอเจนต์ AI บนเบราว์เซอร์ได้อย่างมีประสิทธิภาพมากขึ้น"
+      "summary_th": "Kitesurf เป็นเบราว์เซอร์ที่โฮสต์บนคลาวด์ที่ออกแบบมาสำหรับตัวแทน AI แทนที่จะเป็นมนุษย์ โดยใช้พลังงานการประมวลผลน้อยกว่า Chromium สำหรับงานระบบอัตโนมัติทั่วไป ช่วยให้นักพัฒนาสร้างเอเจนต์ AI บนเบราว์เซอร์ได้อย่างมีประสิทธิภาพมากขึ้น"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "An Amazon data center could have the worst polluting power plant in the country",
+      "summary_en": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "published": "2026-08-08T13:53:34-04:00",
+      "title_th": "ศูนย์ข้อมูลของ Amazon อาจมีโรงไฟฟ้าที่สร้างมลพิษที่เลวร้ายที่สุดในประเทศ",
+      "summary_th": "เพื่อขับเคลื่อนศูนย์ข้อมูล West Texas แห่งใหม่ Amazon กำลังลงทุนในการก่อสร้างโรงไฟฟ้าแห่งใหม่ซึ่งอาจเป็นหนึ่งในผู้ผลิตก๊าซเรือนกระจกรายเดียวรายใหญ่ที่สุดในสหรัฐฯ ตามรายงานของ New York Times โรงงานเผาไหม้ก๊าซแห่งใหม่ใน Pecos County รัฐเท็กซัสได้รับการลงทุนจำนวนมากจาก Amazon และ […]"
     },
     {
       "source": "The Verge",
@@ -111,18 +123,6 @@
       "summary_th": "Restart เว็บไซต์สื่อเกมที่เปิดตัวในช่วงปลายปี 2024 ซึ่งได้รับการสนับสนุนโดย Walmart ได้เลิกจ้าง \"ทีมบรรณาธิการทั้งหมด\" ตามโพสต์เมื่อวันศุกร์จาก Brandy Berthelson อดีตบรรณาธิการบริหารของเว็บไซต์ เจ้าหน้าที่คนอื่นๆ ยังได้โพสต์เกี่ยวกับการถูกเลิกจ้างด้วย Restart ดำเนินการโดย Moonrock ซึ่งเป็นเอเจนซี่การตลาดเนื้อหา แม้ว่าภารกิจด้านบรรณาธิการ […]"
     },
     {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-      "summary_en": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the company releasing an AI detector that identifies it […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&strip=all&crop=0,23.821989528796,100,52.356020942408",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-      "published": "2026-08-07T16:01:51-04:00",
-      "title_th": "Fenix ​​Flexin ไม่ได้ปฏิเสธด้วยซ้ำว่าการใช้ AI เพื่อสร้าง 'Rubberz' อีกต่อไป",
-      "summary_th": "ใช้เวลานานพอสมควร แต่ตอนนี้แร็ปเปอร์จาก LA Fenix ​​Flexin ดูเหมือนจะยอมรับว่าใช้ AI สำหรับเพลงซินธ์ป๊อปแนวซินธ์ป๊อปยุค 80 \"Rubberz\" ความคิดเห็นของเขาเป็นไปตามวิดีโอของโปรดิวเซอร์ Medasin โดยอ้างว่ามีการใช้เครื่องมือ AI ชื่อ Treblo (เดิมชื่อ Sonauto) ในการสร้างเพลง และบริษัทได้ปล่อยเครื่องตรวจจับ AI ที่ระบุ […]"
-    },
-    {
       "source": "Ars Technica",
       "flag": "US",
       "category": "software",
@@ -167,7 +167,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/russia-cyber-hack-1000x648.jpeg",
       "link": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/",
       "published": "Thu, 16 Jul 2026 19:28:33 +0000",
-      "title_th": "ปัจจุบัน แม้แต่แฮ็กเกอร์ที่เก่งที่สุดของรัสเซียก็ยังใช้ Clickfix เพื่อแพร่เชื้อไปยังอุปกรณ์ต่างๆ",
+      "title_th": "ปัจจุบัน แม้แต่แฮ็กเกอร์ที่เก่งที่สุดของรัสเซียก็ยังใช้ Clickfix เพื่อแพร่ระบาดในอุปกรณ์ต่างๆ",
       "summary_th": "เทคนิควิศวกรรมสังคมเป็นเครื่องมือของอาชญากรที่มีแรงจูงใจทางการเงินเป็นหลัก"
     },
     {
@@ -228,7 +228,7 @@
       "link": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
       "published": "Sat, 08 Aug 2026 10:00:00 +0000",
       "title_th": "วิธีปิดการใช้งานราศีเมถุนใน Gmail และ Google เอกสาร",
-      "summary_th": "แถบเครื่องมือ AI และข้อความแจ้งใหม่ปรากฏใน Google เอกสารและ Gmail หากคุณไม่ต้องการความช่วยเหลือจาก Gemini ในการเขียนเอกสารและอีเมล ต่อไปนี้คือวิธีปิดสิ่งเหล่านี้"
+      "summary_th": "แถบเครื่องมือ AI และข้อความแจ้งใหม่ปรากฏใน Google เอกสารและ Gmail หากคุณไม่ต้องการความช่วยเหลือจาก Gemini ในการเขียนเอกสารและอีเมล ต่อไปนี้เป็นวิธีปิดสิ่งเหล่านี้"
     },
     {
       "source": "Wired",
@@ -306,6 +306,18 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "Claude Vs ChatGPT: How These AI Assistants Differ",
+      "summary_en": "In a practical breakdown of how Claude and ChatGPT AI models differ, one tends to fall short when it comes to quality responses and overall user experience.",
+      "image": "https://www.engadget.com/img/gallery/claude-vs-chatgpt-how-these-ai-assistants-differ/l-intro-1785856350.jpg",
+      "link": "https://www.engadget.com/2229993/claude-vs-chatgpt-how-ai-assistants-differ/",
+      "published": "Sat, 08 Aug 2026 15:30:00 +0000",
+      "title_th": "Claude Vs ChatGPT: ผู้ช่วย AI เหล่านี้แตกต่างกันอย่างไร",
+      "summary_th": "ในการแจกแจงเชิงปฏิบัติว่าโมเดล AI ของ Claude และ ChatGPT แตกต่างกันอย่างไร มักมีข้อบกพร่องในเรื่องของการตอบกลับที่มีคุณภาพและประสบการณ์ผู้ใช้โดยรวม"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "Your phone's USB-C port does a lot more than just charge - Here's what else it can do",
       "summary_en": "A USB-C port presents a lot of options for data transfer and connecting to accessories. Let's talk about some of the most useful ways to employ your USB-C port.",
       "image": "https://www.engadget.com/img/gallery/your-phones-usb-c-port-does-a-lot-more-than-just-charge-heres-what-else-it-can-do/l-intro-1785851122.jpg",
@@ -351,18 +363,6 @@
       "summary_th": "เรากำลังรอคอย Big Walk, ReStory: Chill Electronics Repairs, Pigeon: A Love Story และอื่นๆ อีกมากมายในสัปดาห์นี้"
     },
     {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Framework customer information was accessed as part of a data breach",
-      "summary_en": "Framework's customer database was accessed, but no payment info was released.",
-      "image": "https://www.engadget.com/img/gallery/framework-customer-information-was-accessed-as-part-of-a-data-breach/l-intro-1786127789.jpg",
-      "link": "https://www.engadget.com/2232708/framework-customer-information-was-accessed-as-part-of-a-data-breach/",
-      "published": "Fri, 07 Aug 2026 18:37:26 +0000",
-      "title_th": "มีการเข้าถึงข้อมูลลูกค้ากรอบงานโดยเป็นส่วนหนึ่งของการละเมิดข้อมูล",
-      "summary_th": "มีการเข้าถึงฐานข้อมูลลูกค้าของ Framework แต่ไม่มีการเปิดเผยข้อมูลการชำระเงิน"
-    },
-    {
       "source": "IEEE Spectrum",
       "flag": "US",
       "category": "robot",
@@ -384,7 +384,7 @@
       "link": "https://spectrum.ieee.org/v2x-technology-5g-open-ran",
       "published": "Fri, 07 Aug 2026 13:00:01 +0000",
       "title_th": "รถยนต์ที่สื่อสารกันไม่ดีคือปัญหาที่ได้รับการแก้ไขแล้ว",
-      "summary_th": "ประวัติความเป็นมาของเครือข่ายเต็มไปด้วยเครื่องมือที่นำวิธีแก้ไขปัญหาประเภทต่างๆ มาใช้ใหม่ก่อน ต้นกำเนิดของ Wi-Fi ส่วนหนึ่งย้อนกลับไปที่ทีมนักดาราศาสตร์วิทยุชาวออสเตรเลียที่พยายามตรวจจับสัญญาณจากการระเหยของหลุมดำ แต่เครื่องมือประมวลผลข้อมูลที่พวกเขาพัฒนาขึ้นยังได้รับการพิสูจน์แล้วว่าสามารถดึงข้อความที่ชัดเจนจากสภาพแวดล้อมของสัญญาณสะท้อนที่วุ่นวายได้ เสียงสะท้อนก็คือเสียงสะท้อน ไม่ว่าจะมาจากระบบดาวอันห่างไกลหรือจากมุมไกลของบ้าน ฉันค้นคว้าเครือข่ายการสื่อสารในยานพาหนะ การเชื่อมต่อรถยนต์กับรถยนต์ และโครงสร้างพื้นฐานด้านการคมนาคม เช่น สัญญาณไฟจราจร สำหรับเครือข่าย Vehicle-to-everthing (V2X) ในอนาคต การวิจัย V2X อาศัยโมเดลที่ถือว่าสภาพเครือข่าย \"สมบูรณ์แบบ\" หรือ \"อุดมคติ\" มานานแล้ว ซึ่งเป็นสมมติฐานที่ทำให้ง่ายขึ้นว่า"
+      "summary_th": "ประวัติความเป็นมาของเครือข่ายเต็มไปด้วยเครื่องมือที่นำวิธีแก้ไขปัญหาประเภทต่างๆ มาใช้ใหม่ก่อน ต้นกำเนิดของ Wi-Fi ส่วนหนึ่งย้อนกลับไปที่ทีมนักดาราศาสตร์วิทยุชาวออสเตรเลียที่พยายามตรวจจับสัญญาณจากการระเหยของหลุมดำ แต่เครื่องมือประมวลผลข้อมูลที่พวกเขาพัฒนาขึ้นยังได้รับการพิสูจน์แล้วว่าสามารถดึงข้อความที่ชัดเจนจากสภาพแวดล้อมของสัญญาณสะท้อนที่วุ่นวายได้ เสียงสะท้อนก็คือเสียงสะท้อน ไม่ว่าจะมาจากระบบดาวอันห่างไกลหรือจากมุมไกลของบ้าน ฉันค้นคว้าเครือข่ายการสื่อสารของยานพาหนะ การเชื่อมต่อรถยนต์กับรถยนต์ และโครงสร้างพื้นฐานด้านการคมนาคม เช่น สัญญาณไฟจราจร สำหรับเครือข่าย Vehicle-to-everthing (V2X) ในอนาคต การวิจัย V2X อาศัยโมเดลที่ถือว่าสภาพเครือข่าย \"สมบูรณ์แบบ\" หรือ \"อุดมคติ\" มานานแล้ว ซึ่งเป็นสมมติฐานที่ทำให้ง่ายขึ้นว่า"
     },
     {
       "source": "IEEE Spectrum",
