@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-08T18:19:19.687095+00:00",
+  "generated_at": "2026-08-08T21:18:29.744718+00:00",
   "count": 35,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "OpenAI acquires presentation startup NextSlide",
+      "summary_en": "NextSlide says its team members are now working on ChatGPT.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2259148891.jpg?resize=1200,686",
+      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "published": "Sat, 08 Aug 2026 19:41:13 +0000",
+      "title_th": "OpenAI เข้าซื้อกิจการสตาร์ทอัพการนำเสนอ NextSlide",
+      "summary_th": "NextSlide กล่าวว่าสมาชิกในทีมกำลังทำงานบน ChatGPT"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -12,7 +24,7 @@
       "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
       "published": "Sat, 08 Aug 2026 15:00:00 +0000",
       "title_th": "นักล่าแฮ็กเกอร์อันดับต้นๆ ของ Google อธิบายว่าทำไมกลุ่มแฮ็กเกอร์ถึงได้ชื่อรหัส",
-      "summary_th": "Google เพิ่งเปลี่ยนวิธีอ้างอิงและกำหนดชื่อให้กับกลุ่มแฮ็ก TechCrunch พูดคุยกับหนึ่งในผู้เชี่ยวชาญชั้นแนวหน้าของโลกในการติดตามแฮกเกอร์เพื่อทำความเข้าใจว่าทำไมบริษัทต่างๆ ถึงตั้งชื่อรหัสให้แฮ็กเกอร์"
+      "summary_th": "Google เพิ่งเปลี่ยนวิธีการอ้างอิงและกำหนดชื่อให้กับกลุ่มแฮ็ก TechCrunch ได้พูดคุยกับหนึ่งในผู้เชี่ยวชาญชั้นแนวหน้าของโลกในการติดตามแฮกเกอร์เพื่อทำความเข้าใจว่าทำไมบริษัทต่างๆ ถึงตั้งชื่อรหัสให้แฮ็กเกอร์"
     },
     {
       "source": "TechCrunch",
@@ -51,18 +63,6 @@
       "summary_th": "นักวิจัยพบว่าจุดที่พบบ่อยของความล้มเหลว เช่น ซอฟต์แวร์ที่ใช้ในการจัดระเบียบและแสดงเนื้อหาเว็บ อาจทำให้แฮกเกอร์สามารถก่อจลาจลผ่านเว็บไซต์ของรัฐบาลได้"
     },
     {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "summary_en": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/kitesurf.webp?resize=1200,640",
-      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "published": "Fri, 07 Aug 2026 16:16:09 +0000",
-      "title_th": "Cloudflare เปิดตัว Kitesurf เบราว์เซอร์ที่สร้างขึ้นสำหรับตัวแทน AI",
-      "summary_th": "Kitesurf เป็นเบราว์เซอร์ที่โฮสต์บนคลาวด์ที่ออกแบบมาสำหรับตัวแทน AI แทนที่จะเป็นมนุษย์ โดยใช้พลังงานการประมวลผลน้อยกว่า Chromium สำหรับงานระบบอัตโนมัติทั่วไป ช่วยให้นักพัฒนาสร้างเอเจนต์ AI บนเบราว์เซอร์ได้อย่างมีประสิทธิภาพมากขึ้น"
-    },
-    {
       "source": "The Verge",
       "flag": "US",
       "category": "software",
@@ -72,7 +72,7 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
       "published": "2026-08-08T13:53:34-04:00",
       "title_th": "ศูนย์ข้อมูลของ Amazon อาจมีโรงไฟฟ้าที่สร้างมลพิษที่เลวร้ายที่สุดในประเทศ",
-      "summary_th": "เพื่อขับเคลื่อนศูนย์ข้อมูล West Texas แห่งใหม่ Amazon กำลังลงทุนในการก่อสร้างโรงไฟฟ้าแห่งใหม่ซึ่งอาจเป็นหนึ่งในผู้ผลิตก๊าซเรือนกระจกรายเดียวรายใหญ่ที่สุดในสหรัฐฯ ตามรายงานของ New York Times โรงงานเผาไหม้ก๊าซแห่งใหม่ใน Pecos County รัฐเท็กซัสได้รับการลงทุนจำนวนมากจาก Amazon และ […]"
+      "summary_th": "เพื่อขับเคลื่อนศูนย์ข้อมูล West Texas แห่งใหม่ Amazon กำลังลงทุนในการก่อสร้างโรงไฟฟ้าแห่งใหม่ซึ่งอาจเป็นหนึ่งในผู้ผลิตก๊าซเรือนกระจกรายเดียวรายใหญ่ที่สุดในสหรัฐฯ ตามรายงานของ New York Times โรงงานเผาไหม้ก๊าซแห่งใหม่ในเมือง Pecos County รัฐเท็กซัสได้รับการลงทุนจำนวนมากจาก Amazon และ […]"
     },
     {
       "source": "The Verge",
@@ -167,7 +167,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/russia-cyber-hack-1000x648.jpeg",
       "link": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/",
       "published": "Thu, 16 Jul 2026 19:28:33 +0000",
-      "title_th": "ปัจจุบัน แม้แต่แฮ็กเกอร์ที่เก่งที่สุดของรัสเซียก็ยังใช้ Clickfix เพื่อแพร่ระบาดในอุปกรณ์ต่างๆ",
+      "title_th": "ปัจจุบัน แม้แต่แฮ็กเกอร์ที่เก่งที่สุดของรัสเซียก็ยังใช้ Clickfix เพื่อแพร่เชื้อไปยังอุปกรณ์ต่างๆ",
       "summary_th": "เทคนิควิศวกรรมสังคมเป็นเครื่องมือของอาชญากรที่มีแรงจูงใจทางการเงินเป็นหลัก"
     },
     {
@@ -228,7 +228,7 @@
       "link": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
       "published": "Sat, 08 Aug 2026 10:00:00 +0000",
       "title_th": "วิธีปิดการใช้งานราศีเมถุนใน Gmail และ Google เอกสาร",
-      "summary_th": "แถบเครื่องมือ AI และข้อความแจ้งใหม่ปรากฏใน Google เอกสารและ Gmail หากคุณไม่ต้องการความช่วยเหลือจาก Gemini ในการเขียนเอกสารและอีเมล ต่อไปนี้เป็นวิธีปิดสิ่งเหล่านี้"
+      "summary_th": "แถบเครื่องมือ AI และข้อความแจ้งใหม่ปรากฏใน Google เอกสารและ Gmail หากคุณไม่ต้องการความช่วยเหลือจาก Gemini ในการเขียนเอกสารและอีเมล ต่อไปนี้คือวิธีปิดสิ่งเหล่านี้"
     },
     {
       "source": "Wired",
@@ -312,7 +312,7 @@
       "link": "https://www.engadget.com/2229993/claude-vs-chatgpt-how-ai-assistants-differ/",
       "published": "Sat, 08 Aug 2026 15:30:00 +0000",
       "title_th": "Claude Vs ChatGPT: ผู้ช่วย AI เหล่านี้แตกต่างกันอย่างไร",
-      "summary_th": "ในการแจกแจงเชิงปฏิบัติว่าโมเดล AI ของ Claude และ ChatGPT แตกต่างกันอย่างไร มักมีข้อบกพร่องในเรื่องของการตอบกลับที่มีคุณภาพและประสบการณ์ผู้ใช้โดยรวม"
+      "summary_th": "ในการแจกแจงเชิงปฏิบัติว่าโมเดล AI ของ Claude และ ChatGPT AI แตกต่างกันอย่างไร มักมีข้อบกพร่องในเรื่องของการตอบกลับที่มีคุณภาพและประสบการณ์ผู้ใช้โดยรวม"
     },
     {
       "source": "Engadget",
@@ -384,7 +384,7 @@
       "link": "https://spectrum.ieee.org/v2x-technology-5g-open-ran",
       "published": "Fri, 07 Aug 2026 13:00:01 +0000",
       "title_th": "รถยนต์ที่สื่อสารกันไม่ดีคือปัญหาที่ได้รับการแก้ไขแล้ว",
-      "summary_th": "ประวัติความเป็นมาของเครือข่ายเต็มไปด้วยเครื่องมือที่นำวิธีแก้ไขปัญหาประเภทต่างๆ มาใช้ใหม่ก่อน ต้นกำเนิดของ Wi-Fi ส่วนหนึ่งย้อนกลับไปที่ทีมนักดาราศาสตร์วิทยุชาวออสเตรเลียที่พยายามตรวจจับสัญญาณจากการระเหยของหลุมดำ แต่เครื่องมือประมวลผลข้อมูลที่พวกเขาพัฒนาขึ้นยังได้รับการพิสูจน์แล้วว่าสามารถดึงข้อความที่ชัดเจนจากสภาพแวดล้อมของสัญญาณสะท้อนที่วุ่นวายได้ เสียงสะท้อนก็คือเสียงสะท้อน ไม่ว่าจะมาจากระบบดาวอันห่างไกลหรือจากมุมไกลของบ้าน ฉันค้นคว้าเครือข่ายการสื่อสารของยานพาหนะ การเชื่อมต่อรถยนต์กับรถยนต์ และโครงสร้างพื้นฐานด้านการคมนาคม เช่น สัญญาณไฟจราจร สำหรับเครือข่าย Vehicle-to-everthing (V2X) ในอนาคต การวิจัย V2X อาศัยโมเดลที่ถือว่าสภาพเครือข่าย \"สมบูรณ์แบบ\" หรือ \"อุดมคติ\" มานานแล้ว ซึ่งเป็นสมมติฐานที่ทำให้ง่ายขึ้นว่า"
+      "summary_th": "ประวัติความเป็นมาของเครือข่ายเต็มไปด้วยเครื่องมือที่นำวิธีแก้ไขปัญหาประเภทต่างๆ มาใช้ใหม่ก่อน ต้นกำเนิดของ Wi-Fi ส่วนหนึ่งย้อนกลับไปที่ทีมนักดาราศาสตร์วิทยุชาวออสเตรเลียที่พยายามตรวจจับสัญญาณจากการระเหยของหลุมดำ แต่เครื่องมือประมวลผลข้อมูลที่พวกเขาพัฒนาขึ้นยังได้รับการพิสูจน์แล้วว่าสามารถดึงข้อความที่ชัดเจนจากสภาพแวดล้อมของสัญญาณสะท้อนที่วุ่นวายได้ เสียงสะท้อนก็คือเสียงสะท้อน ไม่ว่าจะมาจากระบบดาวอันห่างไกลหรือจากมุมไกลของบ้าน ฉันค้นคว้าเครือข่ายการสื่อสารในยานพาหนะ การเชื่อมต่อรถยนต์กับรถยนต์ และโครงสร้างพื้นฐานด้านการคมนาคม เช่น สัญญาณไฟจราจร สำหรับเครือข่าย Vehicle-to-everthing (V2X) ในอนาคต การวิจัย V2X อาศัยโมเดลที่ถือว่าสภาพเครือข่าย \"สมบูรณ์แบบ\" หรือ \"อุดมคติ\" มานานแล้ว ซึ่งเป็นสมมติฐานที่ทำให้ง่ายขึ้นว่า"
     },
     {
       "source": "IEEE Spectrum",
