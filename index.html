@@ -133,15 +133,16 @@
 
   /* ---------- Stocks strip ---------- */
   .stocks-strip{
-    display:flex; gap:14px; flex-wrap:wrap;
+    display:grid;
+    grid-template-columns:repeat(4, 1fr);
+    gap:14px;
     padding:22px 0 4px;
   }
   .stock-card{
-    flex:1; min-width:170px;
     background:var(--surface);
     border:1px solid var(--line);
     border-radius:14px;
-    padding:14px 18px;
+    padding:14px 16px;
     display:flex; flex-direction:column; gap:6px;
   }
   .stock-name{
@@ -333,9 +334,11 @@
   @media (max-width:880px){
     .intro h1{ font-size:27px; }
     .bento{ grid-template-columns:1fr 1fr; }
+    .stocks-strip{ grid-template-columns:repeat(2, 1fr); }
   }
   @media (max-width:600px){
     .bento{ grid-template-columns:1fr; }
+    .stocks-strip{ grid-template-columns:1fr 1fr; }
     .wrap{ padding:0 18px; }
     .header-row{ flex-wrap:wrap; }
     .status{ text-align:left; }
