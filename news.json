@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-09T12:21:59.459755+00:00",
+  "generated_at": "2026-08-09T15:19:36.150447+00:00",
   "count": 35,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "The AI safety test is becoming a safety risk",
+      "summary_en": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2255991416.jpg?resize=1200,795",
+      "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "published": "Sun, 09 Aug 2026 14:30:00 +0000",
+      "title_th": "การทดสอบความปลอดภัยของ AI กำลังกลายเป็นความเสี่ยงด้านความปลอดภัย",
+      "summary_th": "เจ้าหน้าที่ AI กำลังหลบหนีสภาพแวดล้อมการทดสอบความปลอดภัยทางไซเบอร์และเข้าถึงระบบในโลกแห่งความเป็นจริง ทำให้เกิดคำถามว่าโครงสร้างพื้นฐานด้านความปลอดภัย มาตรฐานอุตสาหกรรม และกฎระเบียบสามารถตามทันโมเดลที่ทรงพลังมากขึ้นได้หรือไม่"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "This former notorious red-light district is now one of the world’s top AI hubs",
+      "summary_en": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/VladSt.jpg?resize=1200,737",
+      "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+      "published": "Sun, 09 Aug 2026 13:00:00 +0000",
+      "title_th": "อดีตย่านโคมแดงที่โด่งดังแห่งนี้ ปัจจุบันกลายเป็นศูนย์กลาง AI ชั้นนำของโลก",
+      "summary_th": "เมื่อกว่า 20 ปีที่แล้ว King's Cross เป็นหนึ่งในพื้นที่ที่มีเมล็ดพันธุ์มากที่สุดในลอนดอน ตอนนี้มันกำลังงอกขึ้นมาใหม่"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -39,28 +63,16 @@
       "summary_th": "Google เพิ่งเปลี่ยนวิธีอ้างอิงและกำหนดชื่อให้กับกลุ่มแฮ็ก TechCrunch พูดคุยกับหนึ่งในผู้เชี่ยวชาญชั้นแนวหน้าของโลกในการติดตามแฮกเกอร์เพื่อทำความเข้าใจว่าทำไมบริษัทต่างๆ ถึงตั้งชื่อรหัสให้แฮ็กเกอร์"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "OpenAI says it slowed Astra model development over security concerns",
-      "summary_en": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "published": "Fri, 07 Aug 2026 22:48:24 +0000",
-      "title_th": "OpenAI กล่าวว่าการพัฒนาโมเดล Astra ช้าลงเนื่องจากข้อกังวลด้านความปลอดภัย",
-      "summary_th": "OpenAI กล่าวว่าโมเดลนี้ซึ่งยังอยู่ในระหว่างการพัฒนา ได้ถึง \"เกณฑ์ความปลอดภัยทางไซเบอร์ที่สำคัญ\" ซึ่งหมายความว่าสามารถระบุและดำเนินการโจมตีทางไซเบอร์ต่อระบบในโลกแห่งความเป็นจริงที่มีการป้องกันอย่างดีแบบดั้งเดิมได้อย่างอิสระ"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "summary_en": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Rippling-AI-Spend-Console.png?resize=1200,717",
-      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "published": "Fri, 07 Aug 2026 21:30:11 +0000",
-      "title_th": "หลังจากที่ Rippling ระเบิด AI นับล้านในช่วงหลายเดือน บริษัทได้สร้างเครื่องมือ ROI ของพนักงาน",
-      "summary_th": "หลังจากการปลุกการใช้ AI ของตัวเอง Rippling ในสัปดาห์นี้ได้เปิดตัว AI Spread Console ซึ่งเป็นผลิตภัณฑ์ที่ติดตามการใช้จ่าย AI ของพนักงานแต่ละคนและพนักงานในทีม"
+      "category": "software",
+      "title_en": "Dropbox is a PC builder’s best friend",
+      "summary_en": "In 2018 I bet my reputation and self-worth on a huge crowdfunded game design project. It could have been a failure for many reasons, but the one I became most worried about was losing all of the work that was stored locally on my home-built PC - a scenario that would have left a lot […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup",
+      "published": "2026-08-09T09:00:00-04:00",
+      "title_th": "Dropbox เป็นเพื่อนที่ดีที่สุดของผู้สร้างพีซี",
+      "summary_th": "ในปี 2018 ฉันเดิมพันชื่อเสียงและความคุ้มค่าในตัวเองกับโปรเจ็กต์ออกแบบเกมขนาดใหญ่ที่ได้รับทุนสนับสนุนจากมวลชน มันอาจเป็นความล้มเหลวได้จากหลายสาเหตุ แต่สิ่งหนึ่งที่ฉันกังวลมากที่สุดก็คือการสูญเสียงานทั้งหมดที่จัดเก็บไว้ในเครื่องพีซีที่บ้านของฉัน ซึ่งเป็นสถานการณ์ที่คงเหลืออะไรไว้มากมาย […]"
     },
     {
       "source": "The Verge",
@@ -109,18 +121,6 @@
       "published": "2026-08-08T08:00:00-04:00",
       "title_th": "แล็ปท็อปราคา 450 ดอลลาร์จากแบรนด์ที่ไม่รู้จักนี้ดีเกินจริงหรือไม่",
       "summary_th": "การค้นหาแล็ปท็อปดีๆ ราคาต่ำกว่า 500 ดอลลาร์นั้นยากพอก่อน RAMageddon พวกเขาเกือบจะมีฮาร์ดแวร์ราคาถูกและมีชิปที่ล้าสมัยและมักล้าสมัย นั่นคือสิ่งที่ทำให้ MacBook Neo พลิกโฉม: ให้คุณภาพการสร้างที่ยอดเยี่ยมและประสิทธิภาพที่ดีเพียงพอเริ่มต้นที่ 599 ดอลลาร์ แล็ปท็อป Windows ไม่สามารถสัมผัสได้ แม้ว่ามันจะขึ้นไปถึง $699 แต่ก็ยัง […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Nitecore’s latest power bank is the lightest and most compact yet",
-      "summary_en": "There's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the gear I carry when backpacking, bikepacking, and trail running. So imagine my delight when Nitecore released a new generation of its ultralight NB10000 battery. After a few […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_3219.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-      "link": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
-      "published": "2026-08-08T03:00:00-04:00",
-      "title_th": "พาวเวอร์แบงค์รุ่นล่าสุดของ Nitecore มีน้ำหนักเบาและกะทัดรัดที่สุดเท่าที่เคยมีมา",
-      "summary_th": "มีสองสิ่งที่คุณควรรู้เกี่ยวกับฉัน นักวิจารณ์ที่กล้าหาญของคุณ: ฉันเกลียดคุณสมบัติที่เกี่ยวข้องกับพาวเวอร์แบงค์สมัยใหม่ และฉันชอบที่จะโกนน้ำหนักออกจากอุปกรณ์ที่ฉันพกติดตัวเมื่อสะพายเป้ ปั่นจักรยาน และวิ่งเทรล ลองจินตนาการถึงความยินดีของฉันเมื่อ Nitecore เปิดตัวแบตเตอรี่ ultralight NB10000 เจเนอเรชั่นใหม่ หลังจากนั้นไม่กี่ […]"
     },
     {
       "source": "Ars Technica",
