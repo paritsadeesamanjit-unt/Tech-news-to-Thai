@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T09:27:04.914844+00:00",
+  "generated_at": "2026-08-09T12:21:59.459755+00:00",
   "count": 35,
   "articles": [
     {
@@ -36,7 +36,7 @@
       "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
       "published": "Sat, 08 Aug 2026 15:00:00 +0000",
       "title_th": "นักล่าแฮ็กเกอร์อันดับต้นๆ ของ Google อธิบายว่าทำไมกลุ่มแฮ็กเกอร์ถึงได้ชื่อรหัส",
-      "summary_th": "Google เพิ่งเปลี่ยนวิธีการอ้างอิงและกำหนดชื่อให้กับกลุ่มแฮ็ก TechCrunch ได้พูดคุยกับหนึ่งในผู้เชี่ยวชาญชั้นแนวหน้าของโลกในการติดตามแฮกเกอร์เพื่อทำความเข้าใจว่าทำไมบริษัทต่างๆ ถึงตั้งชื่อรหัสให้แฮ็กเกอร์"
+      "summary_th": "Google เพิ่งเปลี่ยนวิธีอ้างอิงและกำหนดชื่อให้กับกลุ่มแฮ็ก TechCrunch พูดคุยกับหนึ่งในผู้เชี่ยวชาญชั้นแนวหน้าของโลกในการติดตามแฮกเกอร์เพื่อทำความเข้าใจว่าทำไมบริษัทต่างๆ ถึงตั้งชื่อรหัสให้แฮ็กเกอร์"
     },
     {
       "source": "TechCrunch",
@@ -66,13 +66,25 @@
       "source": "The Verge",
       "flag": "US",
       "category": "software",
+      "title_en": "AI detectors are creating a new era of distrust",
+      "summary_en": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before ChatGPT became a thing, […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "published": "2026-08-09T08:00:00-04:00",
+      "title_th": "เครื่องตรวจจับ AI กำลังสร้างยุคใหม่ของความไม่ไว้วางใจ",
+      "summary_th": "นี่คือ The Stepback ซึ่งเป็นจดหมายข่าวรายสัปดาห์ที่แจกแจงเรื่องราวสำคัญหนึ่งเรื่องจากโลกแห่งเทคโนโลยี ติดตามข่าวสารเพิ่มเติมเกี่ยวกับวิธีที่ AI เปลี่ยนแปลงชีวิตประจำวันของเรา ติดตาม Emma Roth Stepback มาถึงกล่องจดหมายของสมาชิกของเราเวลา 8.00 น. ET เลือกใช้ The Stepback ที่นี่ มันเริ่มต้นอย่างไร นานก่อนที่ ChatGPT จะกลายเป็นเรื่อง […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
       "title_en": "An Amazon data center could have the worst polluting power plant in the country",
       "summary_en": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the New York Times. The new gas-burning plant in Pecos County, Texas has received significant investment from Amazon and, […]",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
       "published": "2026-08-08T13:53:34-04:00",
       "title_th": "ศูนย์ข้อมูลของ Amazon อาจมีโรงไฟฟ้าที่สร้างมลพิษที่เลวร้ายที่สุดในประเทศ",
-      "summary_th": "เพื่อขับเคลื่อนศูนย์ข้อมูล West Texas แห่งใหม่ Amazon กำลังลงทุนในการก่อสร้างโรงไฟฟ้าแห่งใหม่ซึ่งอาจเป็นหนึ่งในผู้ผลิตก๊าซเรือนกระจกรายเดียวรายใหญ่ที่สุดในสหรัฐฯ ตามรายงานของ New York Times โรงงานเผาไหม้ก๊าซแห่งใหม่ในเมือง Pecos County รัฐเท็กซัสได้รับการลงทุนจำนวนมากจาก Amazon และ […]"
+      "summary_th": "เพื่อขับเคลื่อนศูนย์ข้อมูล West Texas แห่งใหม่ Amazon กำลังลงทุนในการก่อสร้างโรงไฟฟ้าแห่งใหม่ซึ่งอาจเป็นหนึ่งในผู้ผลิตก๊าซเรือนกระจกรายเดียวรายใหญ่ที่สุดในสหรัฐฯ ตามรายงานของ New York Times โรงงานเผาไหม้ก๊าซแห่งใหม่ใน Pecos County รัฐเท็กซัสได้รับการลงทุนจำนวนมากจาก Amazon และ […]"
     },
     {
       "source": "The Verge",
@@ -109,18 +121,6 @@
       "published": "2026-08-08T03:00:00-04:00",
       "title_th": "พาวเวอร์แบงค์รุ่นล่าสุดของ Nitecore มีน้ำหนักเบาและกะทัดรัดที่สุดเท่าที่เคยมีมา",
       "summary_th": "มีสองสิ่งที่คุณควรรู้เกี่ยวกับฉัน นักวิจารณ์ที่กล้าหาญของคุณ: ฉันเกลียดคุณสมบัติที่เกี่ยวข้องกับพาวเวอร์แบงค์สมัยใหม่ และฉันชอบที่จะโกนน้ำหนักออกจากอุปกรณ์ที่ฉันพกติดตัวเมื่อสะพายเป้ ปั่นจักรยาน และวิ่งเทรล ลองจินตนาการถึงความยินดีของฉันเมื่อ Nitecore เปิดตัวแบตเตอรี่ ultralight NB10000 เจเนอเรชั่นใหม่ หลังจากนั้นไม่กี่ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "The gaming site sponsored by Walmart lays off its editorial staff",
-      "summary_en": "Restart, a games media website launched in late 2024 that was sponsored by Walmart, has laid off its \"entire editorial team,\" according to a Friday post from Brandy Berthelson, the site's former editor-in-chief. Other staffers have also posted about being laid off. Restart is operated by Moonrock, a content marketing agency, though its editorial mission […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK465_VIDEO_GAMES_EMULATOR__CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
-      "published": "2026-08-07T18:05:08-04:00",
-      "title_th": "เว็บไซต์เกมที่ได้รับการสนับสนุนจาก Walmart เลิกจ้างกองบรรณาธิการ",
-      "summary_th": "Restart เว็บไซต์สื่อเกมที่เปิดตัวในช่วงปลายปี 2024 ซึ่งได้รับการสนับสนุนโดย Walmart ได้เลิกจ้าง \"ทีมบรรณาธิการทั้งหมด\" ตามโพสต์เมื่อวันศุกร์จาก Brandy Berthelson อดีตบรรณาธิการบริหารของเว็บไซต์ เจ้าหน้าที่คนอื่นๆ ยังได้โพสต์เกี่ยวกับการถูกเลิกจ้างด้วย Restart ดำเนินการโดย Moonrock ซึ่งเป็นเอเจนซี่การตลาดเนื้อหา แม้ว่าภารกิจด้านบรรณาธิการ […]"
     },
     {
       "source": "Ars Technica",
@@ -167,7 +167,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/russia-cyber-hack-1000x648.jpeg",
       "link": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/",
       "published": "Thu, 16 Jul 2026 19:28:33 +0000",
-      "title_th": "ปัจจุบัน แม้แต่แฮ็กเกอร์ที่เก่งที่สุดของรัสเซียก็ยังใช้ Clickfix เพื่อแพร่เชื้อไปยังอุปกรณ์ต่างๆ",
+      "title_th": "ปัจจุบัน แม้แต่แฮ็กเกอร์ที่เก่งที่สุดของรัสเซียก็ยังใช้ Clickfix เพื่อแพร่ระบาดในอุปกรณ์ต่างๆ",
       "summary_th": "เทคนิควิศวกรรมสังคมเป็นเครื่องมือของอาชญากรที่มีแรงจูงใจทางการเงินเป็นหลัก"
     },
     {
@@ -186,6 +186,54 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
+      "title_en": "4 Best Compression Boots: Therabody, Hyperice, and More (2026)",
+      "summary_en": "Whether you’re training hard, traveling often, or dealing with poor circulation, these are the best compression boots for anyone looking for better muscle recovery.",
+      "image": "https://media.wired.com/photos/6a7774047a4971962ec860c9/master/pass/The-Best-Compression-Boots-Could-Be-the-Missing-Piece-in-Your-Fitness-Routine.jpg",
+      "link": "https://www.wired.com/story/best-compression-boots/",
+      "published": "Sun, 09 Aug 2026 11:04:00 +0000",
+      "title_th": "4 รองเท้าบู๊ทบีบอัดที่ดีที่สุด: Therabody, Hyperice และอีกมากมาย (2026)",
+      "summary_th": "ไม่ว่าคุณจะฝึกซ้อมหนัก เดินทางบ่อย หรือต้องรับมือกับปัญหาการไหลเวียนโลหิต รองเท้าเหล่านี้เป็นรองเท้าคอมเพรสชันที่ดีที่สุดสำหรับทุกคนที่กำลังมองหาการฟื้นฟูกล้ามเนื้อที่ดีขึ้น"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
+      "summary_en": "There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open source.",
+      "image": "https://media.wired.com/photos/6a7602d8d223b2324a2ea7e7/master/pass/FreeTranscribe.jpg",
+      "link": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
+      "published": "Sun, 09 Aug 2026 10:30:00 +0000",
+      "title_th": "Meetily ให้คุณถอดเสียงและสรุปการประชุมโดยไม่ต้องสมัครสมาชิก ด้วยวิธีดังต่อไปนี้",
+      "summary_th": "มีหลายวิธีในการบันทึกและถอดเสียงการประชุมเสมือนของคุณด้วย AI นี่คือตัวเลือกที่ฟรีและโอเพ่นซอร์ส"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "8 Best Workout Headphones & Earbuds: Beats, Bose, Apple (2026)",
+      "summary_en": "Not every great pair of headphones belongs in the gym. These do, thanks to their secure fit, durable design, and impeccable sound.",
+      "image": "https://media.wired.com/photos/6a7774ae9524e31475152b8b/master/pass/The-Best-Workout-Headphones-and-Earbuds-for-Your-Sweatiest-Training-Sessions.jpg",
+      "link": "https://www.wired.com/story/the-best-workout-headphones-and-earbuds/",
+      "published": "Sun, 09 Aug 2026 09:37:00 +0000",
+      "title_th": "8 หูฟังและหูฟังออกกำลังกายที่ดีที่สุด: Beats, Bose, Apple (2026)",
+      "summary_th": "หูฟังดีๆ ไม่ใช่ทุกคู่ที่จะอยู่ในยิม สิ่งเหล่านี้เกิดขึ้นได้เนื่องมาจากความกระชับพอดี การออกแบบที่ทนทาน และเสียงที่ไร้ที่ติ"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "These AI Barons Are Ready to Give Away Their Fortunes",
+      "summary_en": "A new generation of philanthropists made rich by artificial intelligence are preparing to give away their vast wealth. What should we make of a multi-billion-dollar pinky promise?",
+      "image": "https://media.wired.com/photos/6a724999f2d8472b4d0de644/master/pass/AI-Barons-Business.gif",
+      "link": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+      "published": "Sun, 09 Aug 2026 09:30:00 +0000",
+      "title_th": "AI Barons เหล่านี้พร้อมที่จะสละโชคลาภของพวกเขาแล้ว",
+      "summary_th": "ผู้ใจบุญรุ่นใหม่ที่ร่ำรวยด้วยปัญญาประดิษฐ์กำลังเตรียมที่จะมอบความมั่งคั่งอันมหาศาลให้กับพวกเขา เราควรทำอย่างไรกับสัญญาพิ้งกี้มูลค่าหลายพันล้านดอลลาร์?"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
       "title_en": "Census Proposal Would Stop Counting Undocumented Immigrants—and Ignore Race and Sexual Orientation",
       "summary_en": "A draft rule reviewed by WIRED would prevent the census from counting undocumented immigrants. To protect against “distortions,” it would also bar questions about race and sexual orientation.",
       "image": "https://media.wired.com/photos/6a7630b55d2ebc1c5247b509/master/pass/GettyImages-157580450-edited.jpg",
@@ -193,54 +241,6 @@
       "published": "Sat, 08 Aug 2026 14:03:58 +0000",
       "title_th": "ข้อเสนอการสำรวจสำมะโนประชากรจะหยุดนับผู้อพยพที่ไม่มีเอกสาร—และเพิกเฉยต่อเชื้อชาติและรสนิยมทางเพศ",
       "summary_th": "ร่างกฎที่ได้รับการตรวจสอบโดย WIRED จะป้องกันไม่ให้การสำรวจสำมะโนประชากรนับผู้อพยพที่ไม่มีเอกสาร เพื่อป้องกัน \"การบิดเบือน\" จะมีการระงับคำถามเกี่ยวกับเชื้อชาติและรสนิยมทางเพศด้วย"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "The Excellent HP OmniBook 5 Is $550 Off Its Retail Price Today",
-      "summary_en": "My favorite budget laptop, the HP OmniBook 5, has an OLED screen and gets great battery life, despite being just $750 right now.",
-      "image": "https://media.wired.com/photos/6a757061b127f3f26cdccecc/master/pass/My-Favorite-Budget-Laptop-Is-50-Percent-Off-Its-Retail-Price.jpg",
-      "link": "https://www.wired.com/story/hp-omnibook-5-50-percent-off/",
-      "published": "Sat, 08 Aug 2026 11:34:00 +0000",
-      "title_th": "HP OmniBook 5 ที่ยอดเยี่ยมลดราคาขายปลีกวันนี้อยู่ที่ 550 ดอลลาร์",
-      "summary_th": "แล็ปท็อปราคาประหยัดที่ฉันชื่นชอบ HP OmniBook 5 มีหน้าจอ OLED และอายุการใช้งานแบตเตอรี่ที่ยาวนาน แม้ว่าตอนนี้จะมีราคาเพียง 750 ดอลลาร์ก็ตาม"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Flock’s Plans for Rideshare Dashcams and Coaching Police, Revealed",
-      "summary_en": "Plus: A judge rules cell tower dumps unconstitutional, water utility hacks spread to a dozen states, a phishing email opens a missile-parts supplier’s inbox, and a ransomware boss gets 16 years.",
-      "image": "https://media.wired.com/photos/6a761d7874fba122f8d7a913/master/pass/Security-News-Flock-Rideshare-Spies-Security.jpg",
-      "link": "https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/",
-      "published": "Sat, 08 Aug 2026 10:30:00 +0000",
-      "title_th": "เปิดเผยแผนของ Flock สำหรับ Rideshare Dashcams และการฝึกสอนตำรวจ",
-      "summary_th": "นอกจากนี้: ผู้พิพากษาตัดสินว่าหอเซลล์ทิ้งสิ่งผิดกฎหมาย การแฮ็กระบบสาธารณูปโภคทางน้ำแพร่กระจายไปยังหลายสิบรัฐ อีเมลฟิชชิ่งเปิดกล่องจดหมายของซัพพลายเออร์ชิ้นส่วนขีปนาวุธ และหัวหน้าแรนซัมแวร์ได้รับโทษจำคุก 16 ปี"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "How to Disable Gemini in Gmail and Google Docs",
-      "summary_en": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
-      "image": "https://media.wired.com/photos/6a75b644a7eaec3ecd711279/master/pass/GoolgeNoAI.jpg",
-      "link": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
-      "published": "Sat, 08 Aug 2026 10:00:00 +0000",
-      "title_th": "วิธีปิดการใช้งานราศีเมถุนใน Gmail และ Google เอกสาร",
-      "summary_th": "แถบเครื่องมือ AI และข้อความแจ้งใหม่ปรากฏใน Google เอกสารและ Gmail หากคุณไม่ต้องการความช่วยเหลือจาก Gemini ในการเขียนเอกสารและอีเมล ต่อไปนี้คือวิธีปิดสิ่งเหล่านี้"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Sensitive Info Goes Into ‘No Reply’ Emails Constantly. This Guy Sees It All",
-      "summary_en": "Two security researchers bought cheap domains—including noreply.net and deleteduser.com—and set up email listening services. Hundreds of companies are sending them corporate secrets.",
-      "image": "https://media.wired.com/photos/6a760fe8a02e6ace8c74de98/master/pass/Security_CompaniesAreLeakingSensitiveData.gif",
-      "link": "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/",
-      "published": "Sat, 08 Aug 2026 10:00:00 +0000",
-      "title_th": "ข้อมูลที่ละเอียดอ่อนจะเข้าสู่อีเมล 'ไม่ตอบกลับ' อย่างต่อเนื่อง ผู้ชายคนนี้เห็นทุกอย่าง",
-      "summary_th": "นักวิจัยด้านความปลอดภัยสองคนซื้อโดเมนราคาถูก รวมถึง noreply.net และ Deleteuser.com และตั้งค่าบริการฟังอีเมล บริษัทหลายร้อยแห่งกำลังส่งความลับขององค์กรไปให้พวกเขา"
     },
     {
       "source": "MIT Technology Review",
@@ -312,7 +312,7 @@
       "link": "https://www.engadget.com/2229993/claude-vs-chatgpt-how-ai-assistants-differ/",
       "published": "Sat, 08 Aug 2026 15:30:00 +0000",
       "title_th": "Claude Vs ChatGPT: ผู้ช่วย AI เหล่านี้แตกต่างกันอย่างไร",
-      "summary_th": "ในการแจกแจงเชิงปฏิบัติว่าโมเดล AI ของ Claude และ ChatGPT AI แตกต่างกันอย่างไร มักมีข้อบกพร่องในเรื่องของการตอบกลับที่มีคุณภาพและประสบการณ์ผู้ใช้โดยรวม"
+      "summary_th": "ในการแจกแจงเชิงปฏิบัติว่าโมเดล AI ของ Claude และ ChatGPT แตกต่างกันอย่างไร มักมีข้อบกพร่องในเรื่องของการตอบกลับที่มีคุณภาพและประสบการณ์ผู้ใช้โดยรวม"
     },
     {
       "source": "Engadget",
@@ -384,7 +384,7 @@
       "link": "https://spectrum.ieee.org/v2x-technology-5g-open-ran",
       "published": "Fri, 07 Aug 2026 13:00:01 +0000",
       "title_th": "รถยนต์ที่สื่อสารกันไม่ดีคือปัญหาที่ได้รับการแก้ไขแล้ว",
-      "summary_th": "ประวัติความเป็นมาของเครือข่ายเต็มไปด้วยเครื่องมือที่นำวิธีแก้ไขปัญหาประเภทต่างๆ มาใช้ใหม่ก่อน ต้นกำเนิดของ Wi-Fi ส่วนหนึ่งย้อนกลับไปที่ทีมนักดาราศาสตร์วิทยุชาวออสเตรเลียที่พยายามตรวจจับสัญญาณจากการระเหยของหลุมดำ แต่เครื่องมือประมวลผลข้อมูลที่พวกเขาพัฒนาขึ้นยังได้รับการพิสูจน์แล้วว่าสามารถดึงข้อความที่ชัดเจนจากสภาพแวดล้อมของสัญญาณสะท้อนที่วุ่นวายได้ เสียงสะท้อนก็คือเสียงสะท้อน ไม่ว่าจะมาจากระบบดาวอันห่างไกลหรือจากมุมไกลของบ้าน ฉันค้นคว้าเครือข่ายการสื่อสารในยานพาหนะ การเชื่อมต่อรถยนต์กับรถยนต์ และโครงสร้างพื้นฐานด้านการคมนาคม เช่น สัญญาณไฟจราจร สำหรับเครือข่าย Vehicle-to-everthing (V2X) ในอนาคต การวิจัย V2X อาศัยโมเดลที่ถือว่าสภาพเครือข่าย \"สมบูรณ์แบบ\" หรือ \"อุดมคติ\" มานานแล้ว ซึ่งเป็นสมมติฐานที่ทำให้ง่ายขึ้นว่า"
+      "summary_th": "ประวัติความเป็นมาของเครือข่ายเต็มไปด้วยเครื่องมือที่นำวิธีแก้ไขปัญหาประเภทต่างๆ มาใช้ใหม่ก่อน ต้นกำเนิดของ Wi-Fi ส่วนหนึ่งย้อนกลับไปที่ทีมนักดาราศาสตร์วิทยุชาวออสเตรเลียที่พยายามตรวจจับสัญญาณจากการระเหยของหลุมดำ แต่เครื่องมือประมวลผลข้อมูลที่พวกเขาพัฒนาขึ้นยังได้รับการพิสูจน์แล้วว่าสามารถดึงข้อความที่ชัดเจนจากสภาพแวดล้อมของสัญญาณสะท้อนที่วุ่นวายได้ เสียงสะท้อนก็คือเสียงสะท้อน ไม่ว่าจะมาจากระบบดาวอันห่างไกลหรือจากมุมไกลของบ้าน ฉันค้นคว้าเครือข่ายการสื่อสารของยานพาหนะ การเชื่อมต่อรถยนต์กับรถยนต์ และโครงสร้างพื้นฐานด้านการคมนาคม เช่น สัญญาณไฟจราจร สำหรับเครือข่าย Vehicle-to-everthing (V2X) ในอนาคต การวิจัย V2X อาศัยโมเดลที่ถือว่าสภาพเครือข่าย \"สมบูรณ์แบบ\" หรือ \"อุดมคติ\" มานานแล้ว ซึ่งเป็นสมมติฐานที่ทำให้ง่ายขึ้นว่า"
     },
     {
       "source": "IEEE Spectrum",
@@ -396,7 +396,7 @@
       "link": "https://spectrum.ieee.org/ieee-course-ai-power-grids",
       "published": "Wed, 05 Aug 2026 18:00:03 +0000",
       "title_th": "หลักสูตร IEEE สอนวิธีใช้ AI เพื่อปรับปรุงระบบส่งกำลังให้ทันสมัย",
-      "summary_th": "โครงข่ายไฟฟ้าของสหรัฐอเมริกาในปัจจุบัน ซึ่งเป็นหนึ่งในระบบที่ใหญ่ที่สุดและซับซ้อนที่สุดเท่าที่เคยสร้างมา กำลังดำเนินการถึงขีดจำกัด กระทรวงพลังงานของสหรัฐฯ ระบุว่า การรวมกันของการเติบโตทางอุตสาหกรรมอย่างรวดเร็ว สภาพอากาศสุดขั้วที่เกิดขึ้นบ่อยครั้งมากขึ้น และการใช้ไฟฟ้าที่เพิ่มขึ้นเป็นประวัติการณ์ ได้ผลักดันให้โครงข่ายไฟฟ้าถึงจุดแตกหัก สร้างขึ้นเมื่อหลายทศวรรษก่อนเพื่อให้โลกที่คาดเดาได้มากขึ้น ซึ่งพลังงานส่วนใหญ่มาจากโรงไฟฟ้าถ่านหินหรือก๊าซแบบรวมศูนย์ และการใช้ไฟฟ้าก็เพิ่มขึ้นในอัตราคงที่ โครงข่ายไฟฟ้าต้องเผชิญกับความตึงเครียดที่ไม่คาดคิด เนื่องจากส่วนหนึ่งมาจากความต้องการที่เพิ่มขึ้นจากศูนย์ข้อมูล งานของมืออาชีพในการจัดการโครงสร้างพื้นฐานได้พัฒนาจากงานวิศวกรรมแบบดั้งเดิมไปสู่ความท้าทายที่ซับซ้อนและเปลี่ยนแปลงอย่างรวดเร็ว รายงานอุตสาหกรรมแสดงให้เห็นว่าเซ็นเซอร์ดิจิทัลสมัยใหม่ มิเตอร์อัจฉริยะ และมอนิเตอร์แบบกริดสมัยใหม่หลายล้านตัวกำลังสร้างกระแสไฟฟ้าที่ไม่ใช่"
+      "summary_th": "โครงข่ายไฟฟ้าของสหรัฐอเมริกาในปัจจุบัน ซึ่งเป็นหนึ่งในระบบที่ใหญ่ที่สุดและซับซ้อนที่สุดเท่าที่เคยสร้างมา กำลังดำเนินการถึงขีดจำกัด กระทรวงพลังงานของสหรัฐฯ ระบุว่า การรวมกันของการเติบโตทางอุตสาหกรรมอย่างรวดเร็ว สภาพอากาศสุดขั้วที่เกิดขึ้นบ่อยครั้งมากขึ้น และการใช้ไฟฟ้าที่เพิ่มขึ้นเป็นประวัติการณ์ ได้ผลักดันให้โครงข่ายไฟฟ้าถึงจุดแตกหัก สร้างขึ้นเมื่อหลายทศวรรษก่อนเพื่อให้โลกที่คาดเดาได้มากขึ้น ซึ่งพลังงานส่วนใหญ่มาจากโรงไฟฟ้าถ่านหินหรือก๊าซแบบรวมศูนย์ และการใช้ไฟฟ้าก็เพิ่มขึ้นในอัตราคงที่ โครงข่ายไฟฟ้าต้องเผชิญกับความตึงเครียดที่ไม่คาดคิด เนื่องจากส่วนหนึ่งมาจากความต้องการที่เพิ่มขึ้นจากศูนย์ข้อมูล งานของมืออาชีพในการจัดการโครงสร้างพื้นฐานได้พัฒนาจากงานวิศวกรรมแบบดั้งเดิมไปสู่ความท้าทายที่ซับซ้อนและเปลี่ยนแปลงอย่างรวดเร็ว รายงานอุตสาหกรรมแสดงให้เห็นว่าเซ็นเซอร์ดิจิทัลที่ทันสมัย ​​มิเตอร์อัจฉริยะ และมอนิเตอร์แบบกริดหลายล้านตัวกำลังสร้างกระแสไฟฟ้าที่ไม่ใช่"
     },
     {
       "source": "IEEE Spectrum",
@@ -408,7 +408,7 @@
       "link": "https://content.knowledgehub.wiley.com/the-2026-rd-benchmark-report-waste-ai-and-the-race-to-market/",
       "published": "Tue, 04 Aug 2026 14:51:55 +0000",
       "title_th": "เหตุใดของเสียจากการวิจัยและพัฒนายังคงมีอยู่แม้จะมีการนำ AI ไปใช้อย่างกว้างขวาง",
-      "summary_th": "รายงานนี้จะตรวจสอบการสูญเสียจากการวิจัยและพัฒนา และการนำ AI มาใช้นั้นเหนือกว่าความชาญฉลาดที่จำเป็นในการตัดสินใจที่เป็นผลสืบเนื่องได้ดีอย่างไร สิ่งที่ผู้เข้าร่วมจะได้เรียนรู้ในกรณีที่งบประมาณด้านการวิจัยและพัฒนาสูญเสียไป องค์กรมากกว่าหนึ่งในสามใช้งบประมาณด้านการวิจัยและพัฒนา 25 ถึง 40 เปอร์เซ็นต์ในโครงการที่ไม่เคยเข้าถึงตลาด เหตุใดโครงการจึงล้มเหลวล่าช้า เกือบครึ่งหนึ่งของทีมประเมินว่าสูญเสียการลงทุนมากกว่าหนึ่งล้านดอลลาร์สำหรับแต่ละโครงการที่ถูกฆ่าระหว่างการพัฒนาหรือการทดสอบ เหตุใดการนำ AI มาใช้จึงไม่ปิดช่องว่าง องค์กรส่วนใหญ่ใช้ AI ในการปฏิบัติงาน เช่น การวิเคราะห์ข้อมูลและการสร้างแบบจำลอง แทนที่จะใช้สนับสนุนการตัดสินใจ ที่ซึ่งความฉลาดมีความสำคัญที่สุด ผู้ตอบแบบสอบถามกล่าวว่าการเข้าถึงข่าวกรองที่ดีขึ้นนั้นมีคุณค่าสูงสุดในการคิดและความเป็นไปได้ตั้งแต่เนิ่นๆ ก่อนที่จะลงทุนจำนวนมาก ดาวน์โหลดได้ฟรีนี้"
+      "summary_th": "รายงานนี้จะตรวจสอบการสูญเสียจากการวิจัยและพัฒนา และการนำ AI มาใช้นั้นเหนือกว่าความชาญฉลาดที่จำเป็นในการตัดสินใจที่เป็นผลสืบเนื่องได้ดีอย่างไร สิ่งที่ผู้เข้าร่วมจะได้เรียนรู้ในกรณีที่งบประมาณด้านการวิจัยและพัฒนาสูญเสียไป องค์กรมากกว่าหนึ่งในสามใช้งบประมาณด้านการวิจัยและพัฒนา 25 ถึง 40 เปอร์เซ็นต์ในโครงการที่ไม่เคยเข้าถึงตลาด เหตุใดโครงการจึงล้มเหลวล่าช้า เกือบครึ่งหนึ่งของทีมประเมินว่าสูญเสียการลงทุนมากกว่าหนึ่งล้านดอลลาร์สำหรับแต่ละโครงการที่ถูกฆ่าระหว่างการพัฒนาหรือการทดสอบ เหตุใดการนำ AI มาใช้จึงไม่ปิดช่องว่าง องค์กรส่วนใหญ่ใช้ AI กับการปฏิบัติงาน เช่น การวิเคราะห์ข้อมูลและการสร้างแบบจำลอง แทนที่จะใช้สนับสนุนการตัดสินใจ ที่ซึ่งความฉลาดมีความสำคัญที่สุด ผู้ตอบแบบสอบถามกล่าวว่าการเข้าถึงข่าวกรองที่ดีขึ้นนั้นมีคุณค่าสูงสุดในการคิดและความเป็นไปได้ตั้งแต่เนิ่นๆ ก่อนที่จะลงทุนจำนวนมาก ดาวน์โหลดได้ฟรีนี้"
     },
     {
       "source": "IEEE Spectrum",
