@@ -1,13 +1,49 @@
 {
-  "generated_at": "2026-08-10T15:48:14.527724+00:00",
+  "generated_at": "2026-08-10T18:40:11.288141+00:00",
   "count": 35,
   "articles": [
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
+      "title_en": "Aptoide becomes the first rival app store to return to Google Play in the US",
+      "summary_en": "Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/07/google-play-store.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
+      "published": "Mon, 10 Aug 2026 18:31:54 +0000",
+      "title_th": "Aptoide กลายเป็นร้านแอปคู่แข่งแห่งแรกที่กลับมาสู่ Google Play ในสหรัฐอเมริกา",
+      "summary_th": "Aptoide ได้นำร้านเกมกลับมาที่ Google Play อีกครั้งหลังจากผ่านไปกว่าทศวรรษ เนื่องจากคำสั่งศาลเปลี่ยนแปลงให้เปิด Android ไปยัง App Store ของคู่แข่ง"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
+      "summary_en": "Platforms like Meta, TikTok, Snapchat, and Google are facing a long road of litigation.",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/06/social-media-icons.jpg?resize=1200,798",
+      "link": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
+      "published": "Mon, 10 Aug 2026 18:30:33 +0000",
+      "title_th": "แพลตฟอร์มโซเชียลมีเดียยังคงเผชิญกับคดีความเรื่องการติดยาเสพติดของผู้ใช้นับพันราย หลังจากการอุทธรณ์ล้มเหลว",
+      "summary_th": "แพลตฟอร์มเช่น Meta, TikTok, Snapchat และ Google กำลังเผชิญกับการดำเนินคดีที่ยาวนาน"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "summary_en": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access.",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?resize=1200,799",
+      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "published": "Mon, 10 Aug 2026 16:20:13 +0000",
+      "title_th": "โมเดล Glimmer AI ใหม่ของ Meta เสนอคำแนะนำเกี่ยวกับวิสัยทัศน์ส่วนบุคคลของ Zuckerberg",
+      "summary_th": "โมเดล Muse Glimmer แบบเปิดใหม่ของ Meta นำเสนอวิสัยทัศน์อันชาญฉลาดส่วนบุคคลของ Mark Zuckerberg รวมถึงการแบ่งแยกที่เกิดขึ้นระหว่างผู้ใช้ AI ที่สามารถเข้าถึงและเป็นเจ้าของได้"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
       "title_en": "Sila lands $1.4B Pentagon loan as militaries demand more batteries",
-      "summary_en": "Battery materials startup Sila will use a $1.4 billion loan from the U.S. Department of Defense to scale production at its factory in Washington State.",
+      "summary_en": "Battery materials startup Sila will use a $1.4 billion loan from the U.S. Department of Defense to scale production at its factory in Washington state.",
       "image": "https://techcrunch.com/wp-content/uploads/2024/06/Sila_KAshton-01.jpg?resize=1200,800",
       "link": "https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/",
       "published": "Mon, 10 Aug 2026 15:22:42 +0000",
@@ -27,40 +63,16 @@
       "summary_th": "บริษัทต่างๆ ที่ไว้วางใจ Ceva Logistics ในการขนส่งสินค้าทางกายภาพให้กับลูกค้ากล่าวว่าข้อมูลส่วนบุคคลของพวกเขาถูกนำไปใช้ในระหว่างการโจมตีทางไซเบอร์ครั้งล่าสุด"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Signed up for Klaviyo? Dozens of advertisers may have seen your password",
-      "summary_en": "A bug in the tech giant's website the logo of US marketing automation company Klaviyo Inc. is seen displayed on a smartphone in front of an abstract background on a computer screen..",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/klaviyo-2283003642.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/10/signed-up-for-klaviyo-dozens-of-advertisers-may-have-seen-your-password/",
-      "published": "Mon, 10 Aug 2026 14:14:43 +0000",
-      "title_th": "สมัคร Klaviyo หรือยัง? ผู้ลงโฆษณาหลายสิบรายอาจเห็นรหัสผ่านของคุณ",
-      "summary_th": "เกิดข้อผิดพลาดในเว็บไซต์ของยักษ์ใหญ่ด้านเทคโนโลยี โดยโลโก้ของบริษัทการตลาดอัตโนมัติของสหรัฐฯ Klaviyo Inc. ปรากฏบนสมาร์ทโฟนโดยมีพื้นหลังแบบนามธรรมบนหน้าจอคอมพิวเตอร์"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-      "summary_en": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/discoverd-materials.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-      "published": "Mon, 10 Aug 2026 12:00:00 +0000",
-      "title_th": "วัสดุที่ค้นพบกำลังเล่น AI ตีตัวตุ่นเพื่อตามล่าชิปที่เย็นกว่า",
-      "summary_th": "Discovered Materials ระดมทุนได้ 9 ล้านดอลลาร์เพื่อสนับสนุนการค้นหาวัสดุใหม่เพิ่มเติมเพื่อสร้างชิปที่มีประสิทธิภาพมากขึ้น"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Google Play adds Venmo as a payment option",
-      "summary_en": "The ability to add Venmo to Google Play comes as people are spending more money on apps and games.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1240125020.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/10/google-play-adds-venmo-as-a-payment-option/",
-      "published": "Mon, 10 Aug 2026 12:00:00 +0000",
-      "title_th": "Google Play เพิ่ม Venmo เป็นตัวเลือกการชำระเงิน",
-      "summary_th": "ความสามารถในการเพิ่ม Venmo ลงใน Google Play เกิดขึ้นเมื่อผู้คนใช้จ่ายเงินกับแอปและเกมมากขึ้น"
+      "category": "software",
+      "title_en": "What to expect from Google’s 2026 Pixel hardware launch event",
+      "summary_en": "It's that time of year: On Wednesday, Google is set to host its annual Made by Google hardware launch event for Pixel gadgets. Google itself has already teased new slab-style and foldable Pixel smartphones, but leaks also indicate that the company could announce updated watches, a new color for familiar earbuds, and perhaps a brand […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/videoframe_17597.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "link": "https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event",
+      "published": "2026-08-10T13:30:00-04:00",
+      "title_th": "สิ่งที่คาดหวังจากงานเปิดตัวฮาร์ดแวร์ Pixel ของ Google ในปี 2569",
+      "summary_th": "ถึงเวลานั้นของปี: ในวันพุธ Google จะจัดงานเปิดตัวฮาร์ดแวร์ Made by Google ประจำปีสำหรับอุปกรณ์ Pixel Google เองได้ล้อเล่นสมาร์ทโฟน Pixel ในรูปแบบแผ่นและพับได้รุ่นใหม่แล้ว แต่การรั่วไหลยังบ่งชี้ว่าบริษัทอาจประกาศนาฬิกาที่อัปเดต สีใหม่สำหรับหูฟังที่คุ้นเคย และบางทีอาจจะเป็นแบรนด์ [...]"
     },
     {
       "source": "The Verge",
@@ -83,19 +95,19 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Apple-Friday-Night-Immersive-Baseball.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
       "link": "https://www.theverge.com/tech/977199/apple-will-stream-friday-night-baseball-live-in-vision-pro",
       "published": "2026-08-10T11:00:00-04:00",
-      "title_th": "Apple จะสตรีม Friday Night Baseball แบบถ่ายทอดสดใน Vision Pro",
-      "summary_th": "เริ่มตั้งแต่วันศุกร์ที่ 28 สิงหาคม Apple จะเริ่มสตรีม Friday Night Baseball ในวิดีโอที่สมจริงบน Apple Vision Pro สตรีมจะมีการวิจารณ์จากนักวิเคราะห์และนักข่าวต่างๆ และกราฟิกสดจะถูกยึดไว้รอบๆ พื้นที่ของผู้ชมในระหว่างเกม หลังจากเกมจบลง จะมีการเล่นย้อนหลังใน Apple TV […]"
+      "title_th": "Apple จะสตรีม Friday Night Baseball แบบสดๆ ใน Vision Pro",
+      "summary_th": "เริ่มตั้งแต่วันศุกร์ที่ 28 สิงหาคม Apple จะเริ่มสตรีม Friday Night Baseball ในวิดีโอที่สมจริงบน Apple Vision Pro สตรีมจะมีการวิจารณ์จากนักวิเคราะห์และนักข่าวต่างๆ และกราฟิกสดจะยึดไว้รอบๆ พื้นที่ของผู้ชมในระหว่างเกม หลังจากเกมจบลง จะมีการเล่นย้อนหลังใน Apple TV […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "software",
-      "title_en": "Bose CEO Lila Snyder on the fight for high-quality audio",
+      "title_en": "What happens to Bose when headphones become AI?",
       "summary_en": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research and development has led it to be a leader in both […]",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD-Lila-Snyder.jpg?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
       "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
       "published": "2026-08-10T10:00:00-04:00",
-      "title_th": "Lila Snyder ซีอีโอ Bose ต่อสู้เพื่อเสียงคุณภาพสูง",
+      "title_th": "จะเกิดอะไรขึ้นกับ Bose เมื่อหูฟังกลายเป็น AI?",
       "summary_th": "วันนี้ฉันกำลังพูดคุยกับ Lila Snyder ซึ่งเป็น CEO ของ Bose คุณคงรู้จัก Bose เป็นอย่างดี เพราะเป็นหนึ่งในแบรนด์ที่มีชื่อเสียงที่สุดในแวดวงเทคโนโลยีเพื่อผู้บริโภค บริษัทเริ่มต้นเมื่อ 60 ปีที่แล้วโดยจำหน่ายวิทยากรให้กับผู้บริโภค และการมุ่งเน้นไปที่การวิจัยและพัฒนาทำให้เป็นผู้นำในทั้ง […]"
     },
     {
@@ -109,18 +121,6 @@
       "published": "2026-08-10T09:51:46-04:00",
       "title_th": "Boeing ขายสตาร์ทอัพแท็กซี่อากาศให้กับ Archer Aviation",
       "summary_th": "Boeing ขายบริษัทในเครือในการบินขึ้นและลงจอดในแนวตั้งด้วยไฟฟ้า (eVTOL) สามแห่งให้กับ Archer Aviation นอกเหนือจากการเข้าถือหุ้นที่ไม่เปิดเผยในบริษัทที่ตั้งอยู่ในซานโฮเซ บริษัท Archer จะได้รับเงินอุดหนุน ได้แก่ Wisk Aero ซึ่งกำลังพัฒนาเครื่องบินไฟฟ้าขับเคลื่อนอัตโนมัติ; SkyGrid ซึ่งกำลังสร้างระบบจัดการจราจรทางอากาศเพื่อ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Steam hardware shipper breach leaks customer data, including names and addresses",
-      "summary_en": "Valve says a data breach may have exposed the personal information of customers who ordered its Steam hardware in Europe. In an email sent to users, Valve says its European shipping partner, CEVA Logistics, suffered a data breach that may have included customer names, addresses, phone numbers, and email addresses. The breach at CEVA occurred […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach",
-      "published": "2026-08-10T08:48:12-04:00",
-      "title_th": "ผู้จัดส่งฮาร์ดแวร์ Steam ละเมิดข้อมูลลูกค้ารั่วไหล รวมถึงชื่อและที่อยู่",
-      "summary_th": "Valve กล่าวว่าการละเมิดข้อมูลอาจเปิดเผยข้อมูลส่วนบุคคลของลูกค้าที่สั่งซื้อฮาร์ดแวร์ Steam ในยุโรป ในอีเมลที่ส่งถึงผู้ใช้ Valve กล่าวว่า CEVA Logistics ซึ่งเป็นพันธมิตรด้านการขนส่งในยุโรป ประสบปัญหาการละเมิดข้อมูลซึ่งอาจรวมถึงชื่อลูกค้า ที่อยู่ หมายเลขโทรศัพท์ และที่อยู่อีเมล การละเมิดที่ CEVA เกิดขึ้น […]"
     },
     {
       "source": "Ars Technica",
@@ -187,12 +187,12 @@
       "flag": "US",
       "category": "ai",
       "title_en": "Orange Crush: TAG Heuer Drops a Bright Revamp of the Original Metal F1 Watch",
-      "summary_en": "The solar-powered limited edition may be here to mark the final Dutch Grand Prix taking place in Zandvoort, but it's the juicy iconic colorway WIRED's been waiting for.",
+      "summary_en": "The solar-powered limited edition may be here to mark the final Dutch Grand Prix taking place in Zandvoort, but it’s the juicy iconic colorway WIRED’s been waiting for.",
       "image": "https://media.wired.com/photos/6a79b172b19caad303cc1768/master/pass/081026_Orange-TAG-Release-01.jpg",
       "link": "https://www.wired.com/story/orange-crush-tag-heuer-drops-a-bright-revamp-of-the-original-metal-f1-watch/",
       "published": "Mon, 10 Aug 2026 14:47:52 +0000",
       "title_th": "Orange Crush: TAG Heuer ปล่อยการปรับปรุงที่สดใสของนาฬิกา Metal F1 ดั้งเดิม",
-      "summary_th": "รุ่นลิมิเต็ดที่ใช้พลังงานแสงอาทิตย์อาจมาที่นี่เพื่อทำเครื่องหมายการแข่งขัน Dutch Grand Prix ครั้งสุดท้ายที่จะจัดขึ้นที่เมือง Zandvoort แต่เป็นสีอันเป็นเอกลักษณ์ที่ WIRED กำลังรอคอย"
+      "summary_th": "รุ่นลิมิเต็ดที่ขับเคลื่อนด้วยพลังงานแสงอาทิตย์อาจมาที่นี่เพื่อทำเครื่องหมายการแข่งขัน Dutch Grand Prix ครั้งสุดท้ายที่จะจัดขึ้นที่เมือง Zandvoort แต่เป็นสีอันเป็นเอกลักษณ์ที่ WIRED กำลังรอคอย"
     },
     {
       "source": "Wired",
@@ -276,7 +276,7 @@
       "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
       "published": "Mon, 10 Aug 2026 09:00:00 +0000",
       "title_th": "สตาร์ทอัพเหล่านี้กำลังไล่ตามสิ่งที่ยิ่งใหญ่ต่อไปใน LLM",
-      "summary_th": "ซีรีส์ What's Next ของ MIT Technology Review จะเจาะลึกอุตสาหกรรม เทรนด์ และเทคโนโลยีเพื่อให้คุณมองเห็นอนาคตได้ก่อนใคร คุณสามารถอ่านส่วนที่เหลือได้ที่นี่ ย้อนกลับไปในช่วงฤดูร้อนปี 2560 นักวิจัย AI ของ Google ได้ตีพิมพ์บทความชื่อ \"Attention Is All You Need\" ซึ่งพวกเขาอธิบายใหม่..."
+      "summary_th": "ซีรีส์ What's Next ของ MIT Technology Review ครอบคลุมอุตสาหกรรม แนวโน้ม และเทคโนโลยีเพื่อให้คุณมองเห็นอนาคตได้ก่อนใคร คุณสามารถอ่านส่วนที่เหลือได้ที่นี่ ย้อนกลับไปในช่วงฤดูร้อนปี 2560 นักวิจัย AI ของ Google ได้ตีพิมพ์บทความชื่อ \"Attention Is All You Need\" ซึ่งพวกเขาอธิบายใหม่..."
     },
     {
       "source": "MIT Technology Review",
@@ -301,6 +301,18 @@
       "published": "Fri, 07 Aug 2026 14:00:00 +0000",
       "title_th": "แนวคิดเกี่ยวกับเครือข่ายการเซ็นเซอร์ขนาดใหญ่เปลี่ยนจากแนวออนไลน์ไปสู่นโยบายของทรัมป์ได้อย่างไร",
       "summary_th": "บทความนี้จัดทำขึ้นโดยความร่วมมือกับ Type Investigations โดยได้รับการสนับสนุนจากโครงการ Wayne Barrett เช้าวันหนึ่งในเดือนเมษายน ปี 2025 พนักงานของสำนักงานเล็กๆ ในกระทรวงการต่างประเทศสหรัฐฯ ได้รับอีเมลที่หลายคนรู้สึกหวาดกลัว เป็นเวลาหลายเดือนแล้วที่กระทรวงประสิทธิภาพของรัฐบาลของ Elon Musk ได้ตัดทอนขอบเขตอันกว้างขวางผ่าน..."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "An OpenClaw agent reportedly hacked a gym's booking system and kicked someone off a waiting list",
+      "summary_en": "This is just the latest story of an AI agent going rogue.",
+      "image": "https://www.engadget.com/img/gallery/an-openclaw-agent-reportedly-hacked-a-gyms-booking-system-and-kicked-someone-off-a-waiting-list/l-intro-1786378374.jpg",
+      "link": "https://www.engadget.com/2233656/an-openclaw-agent-reportedly-hacked-a-gym-booking-system-and-kicked-soemone-off-a-waiting-list/",
+      "published": "Mon, 10 Aug 2026 16:18:14 +0000",
+      "title_th": "มีรายงานว่าตัวแทนของ OpenClaw แฮ็กระบบจองยิมและไล่ใครบางคนออกจากรายการรอ",
+      "summary_th": "นี่เป็นเพียงเรื่องราวล่าสุดของเจ้าหน้าที่ AI ที่กำลังโกง"
     },
     {
       "source": "Engadget",
@@ -351,18 +363,6 @@
       "summary_th": "AirTags จะติดอยู่กับสิ่งของสำคัญทุกประเภท และบางครั้งสิ่งของเหล่านั้นอาจเปียกได้ มาคุยกันถึงสิ่งที่คาดหวัง"
     },
     {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Meta's 'open source' Muse Glimmer model can run on a single computer",
-      "summary_en": "Meta has released a new slimmed down 'open source' AI model that's light enough to run on a single computer.",
-      "image": "https://www.engadget.com/img/gallery/metas-open-source-muse-glimmer-model-can-run-on-a-single-computer/l-intro-1786364909.jpg",
-      "link": "https://www.engadget.com/2233312/metas-open-source-muse-glimmer-model-can-run-on-a-single-computer/",
-      "published": "Mon, 10 Aug 2026 12:29:38 +0000",
-      "title_th": "โมเดล Muse Glimmer 'โอเพ่นซอร์ส' ของ Meta สามารถทำงานได้บนคอมพิวเตอร์เครื่องเดียว",
-      "summary_th": "Meta ได้เปิดตัวโมเดล AI 'โอเพ่นซอร์ส' ใหม่ที่เพรียวบางลงซึ่งเบาพอที่จะทำงานบนคอมพิวเตอร์เครื่องเดียว"
-    },
-    {
       "source": "IEEE Spectrum",
       "flag": "US",
       "category": "robot",
@@ -384,7 +384,7 @@
       "link": "https://spectrum.ieee.org/v2x-technology-5g-open-ran",
       "published": "Fri, 07 Aug 2026 13:00:01 +0000",
       "title_th": "รถยนต์ที่สื่อสารกันไม่ดีคือปัญหาที่ได้รับการแก้ไขแล้ว",
-      "summary_th": "ประวัติความเป็นมาของเครือข่ายเต็มไปด้วยเครื่องมือที่นำวิธีแก้ไขปัญหาประเภทต่างๆ มาใช้ใหม่ก่อน ต้นกำเนิดของ Wi-Fi ส่วนหนึ่งย้อนกลับไปที่ทีมนักดาราศาสตร์วิทยุชาวออสเตรเลียที่พยายามตรวจจับสัญญาณจากการระเหยของหลุมดำ แต่เครื่องมือประมวลผลข้อมูลที่พวกเขาพัฒนาขึ้นยังได้รับการพิสูจน์แล้วว่าสามารถดึงข้อความที่ชัดเจนจากสภาพแวดล้อมของสัญญาณสะท้อนที่วุ่นวายได้ เสียงสะท้อนก็คือเสียงสะท้อน ไม่ว่าจะมาจากระบบดาวอันห่างไกลหรือจากมุมไกลของบ้าน ฉันค้นคว้าเครือข่ายการสื่อสารของยานพาหนะ การเชื่อมต่อรถยนต์กับรถยนต์ และโครงสร้างพื้นฐานด้านการคมนาคม เช่น สัญญาณไฟจราจร สำหรับเครือข่าย Vehicle-to-everthing (V2X) ในอนาคต การวิจัย V2X อาศัยโมเดลที่ถือว่าสภาพเครือข่าย \"สมบูรณ์แบบ\" หรือ \"อุดมคติ\" มานานแล้ว ซึ่งเป็นสมมติฐานที่ทำให้ง่ายขึ้นว่า"
+      "summary_th": "ประวัติความเป็นมาของเครือข่ายเต็มไปด้วยเครื่องมือที่นำวิธีแก้ไขปัญหาประเภทต่างๆ มาใช้ใหม่ก่อน ต้นกำเนิดของ Wi-Fi ส่วนหนึ่งย้อนกลับไปที่ทีมนักดาราศาสตร์วิทยุชาวออสเตรเลียที่พยายามตรวจจับสัญญาณจากการระเหยของหลุมดำ แต่เครื่องมือประมวลผลข้อมูลที่พวกเขาพัฒนาขึ้นยังได้รับการพิสูจน์แล้วว่าสามารถดึงข้อความที่ชัดเจนจากสภาพแวดล้อมของสัญญาณสะท้อนที่วุ่นวายได้ เสียงสะท้อนก็คือเสียงสะท้อน ไม่ว่าจะมาจากระบบดาวอันห่างไกลหรือจากมุมไกลของบ้าน ฉันค้นคว้าเครือข่ายการสื่อสารในยานพาหนะ การเชื่อมต่อรถยนต์กับรถยนต์ และโครงสร้างพื้นฐานด้านการคมนาคม เช่น สัญญาณไฟจราจร สำหรับเครือข่าย Vehicle-to-everthing (V2X) ในอนาคต การวิจัย V2X อาศัยโมเดลที่ถือว่าสภาพเครือข่าย \"สมบูรณ์แบบ\" หรือ \"อุดมคติ\" มานานแล้ว ซึ่งเป็นสมมติฐานที่ทำให้ง่ายขึ้นว่า"
     },
     {
       "source": "IEEE Spectrum",
@@ -428,65 +428,65 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 219.22,
-      "change": -4.74,
-      "change_pct": -2.12
+      "price": 218.61,
+      "change": -5.35,
+      "change_pct": -2.39
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 329.79,
-      "change": 1.21,
-      "change_pct": 0.37
+      "price": 328.61,
+      "change": 0.03,
+      "change_pct": 0.01
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 353.46,
-      "change": -0.83,
-      "change_pct": -0.24
+      "price": 354.62,
+      "change": 0.32,
+      "change_pct": 0.09
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 509.86,
-      "change": 9.88,
-      "change_pct": 1.98
+      "price": 505.17,
+      "change": 5.18,
+      "change_pct": 1.04
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 306.58,
-      "change": -6.75,
-      "change_pct": -2.15
+      "price": 306.72,
+      "change": -6.61,
+      "change_pct": -2.11
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 279.15,
-      "change": 4.67,
-      "change_pct": 1.7
+      "price": 276.4,
+      "change": 1.92,
+      "change_pct": 0.7
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 599.85,
-      "change": 7.76,
-      "change_pct": 1.31
+      "price": 593.19,
+      "change": 1.09,
+      "change_pct": 0.18
     },
     {
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 279.0,
-      "change": 17.0,
-      "change_pct": 6.49
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     }
   ]
 }
