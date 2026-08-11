@@ -105,6 +105,20 @@ def translate_item(item: dict, backend: str = "google") -> dict:
     return item
 
 
+def translate_title(title: str, backend: str = "google") -> str:
+    """แปลเฉพาะหัวข้อสั้นๆ (ใช้กับหัวข้อวิดีโอรีวิวจาก YouTube)
+    ถ้าเป็นภาษาไทยอยู่แล้วจะคืนค่าเดิมไปเลย ไม่แปลซ้ำ"""
+    if not title:
+        return ""
+    if any("\u0e00" <= ch <= "\u0e7f" for ch in title):
+        return title
+    if backend == "claude":
+        result = translate_claude(title, "")
+        return result.get("title_th") or title
+    result = translate_google(title, "")
+    return result.get("title_th") or title
+
+
 def translate_all(items: list, backend: str = "google", delay_seconds: float = 1.2) -> list:
     """แปลข่าวทั้งหมดทีละชิ้น พร้อมหน่วงเวลาให้พอกันโดน rate limit"""
     translated = []
