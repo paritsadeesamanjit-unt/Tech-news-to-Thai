@@ -136,6 +136,28 @@ def is_relevant(title: str, summary: str) -> bool:
     return any(kw in combined for kw in KEYWORDS)
 
 
+# ถ้าหัวข้อ/สรุปข่าวมีคำที่บ่งชี้ชัดว่าเป็นรีวิว/EV/เปิดตัวสินค้า ให้จัดหมวดตามเนื้อหาจริง
+# แทนที่จะยึดตามหมวดของ feed เพียงอย่างเดียว — กันปัญหาถ้า feed เฉพาะทาง (เช่น CNET Reviews)
+# ดึงไม่ได้ในบางรอบ ข่าวหมวดนั้นๆ จาก feed อื่นก็ยังโผล่มาได้
+_REVIEW_HINTS = ["review", "hands-on", "hands on", "we tested", "verdict"]
+_EV_HINTS = ["electric vehicle", "electric car", "tesla", "byd", "ev charging", "ev battery", " ev "]
+_GADGET_HINTS = [
+    "unveils", "unveil", "launch", "announces", "debut", "iphone", "macbook",
+    "galaxy", "pixel", "ipad", "smartphone", "laptop", "notebook", "wearable",
+]
+
+
+def refine_category(title: str, summary: str, base_category: str) -> str:
+    text = f" {title} {summary} ".lower()
+    if any(h in text for h in _REVIEW_HINTS):
+        return "review"
+    if any(h in text for h in _EV_HINTS):
+        return "ev"
+    if any(h in text for h in _GADGET_HINTS):
+        return "gadget"
+    return base_category
+
+
 def fetch_all(max_per_feed: int = MAX_ITEMS_PER_FEED, filter_keywords: bool = True,
               fetch_og: bool = True):
     """ดึงข่าวจากทุก feed ใน FEEDS แล้วคืนค่าเป็น list ของ dict (ยังเป็นภาษาอังกฤษ/ต้นฉบับ)
@@ -174,7 +196,7 @@ def fetch_all(max_per_feed: int = MAX_ITEMS_PER_FEED, filter_keywords: bool = Tr
             items.append({
                 "source": feed["name"],
                 "flag": "",  # เติมทีหลังใน build_feed.py ถ้าต้องการ
-                "category": feed["category"],
+                "category": refine_category(title, summary, feed["category"]),
                 "title_en": title,
                 "summary_en": summary,
                 "image": image,
