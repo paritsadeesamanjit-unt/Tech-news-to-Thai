@@ -11,7 +11,7 @@ import urllib.error
 
 # name      = ชื่อสำนักข่าว (แสดงบนเว็บ)
 # url       = ที่อยู่ RSS feed
-# category  = ต้องตรงกับหมวดที่หน้าเว็บใช้กรอง: ai, robot, startup, chip, software
+# category  = ต้องตรงกับหมวดที่หน้าเว็บใช้กรอง: ai, robot, startup, chip, software, gadget, ev, review
 FEEDS = [
     {"name": "TechCrunch", "url": "https://techcrunch.com/feed/", "category": "startup"},
     {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "category": "software"},
@@ -20,9 +20,14 @@ FEEDS = [
     {"name": "MIT Technology Review", "url": "https://www.technologyreview.com/feed/", "category": "ai"},
     {"name": "Engadget", "url": "https://www.engadget.com/rss.xml", "category": "chip"},
     {"name": "IEEE Spectrum", "url": "https://spectrum.ieee.org/rss/fulltext", "category": "robot"},
+    # เพิ่มสาย "เปิดตัวสินค้า" (มือถือ/โน้ตบุ๊ก) และ "รถยนต์ไฟฟ้า" และ "รีวิว" โดยเฉพาะ
+    {"name": "9to5Mac", "url": "https://9to5mac.com/feed/", "category": "gadget"},
+    {"name": "9to5Google", "url": "https://9to5google.com/feed/", "category": "gadget"},
+    {"name": "Electrek", "url": "https://electrek.co/feed/", "category": "ev"},
+    {"name": "CNET Reviews", "url": "https://www.cnet.com/rss/reviews/", "category": "review"},
 ]
 
-MAX_ITEMS_PER_FEED = 5
+MAX_ITEMS_PER_FEED = 6
 
 # ดึง og:image / og:description เสริมจากหน้าเว็บต้นฉบับ เมื่อ RSS ให้ข้อมูลมาไม่พอ
 # (ใช้ metadata แบบเดียวกับที่ Facebook/Twitter ใช้ทำ link preview — publisher ตั้งใจ
@@ -36,6 +41,15 @@ KEYWORDS = [
     "ai", "artificial intelligence", "robot", "chip", "semiconductor",
     "startup", "software", "app", "machine learning", "model", "tech",
     "data", "cloud", "quantum", "automation", "hardware", "innovation",
+    # เปิดตัวสินค้า: มือถือ/โน้ตบุ๊ก
+    "smartphone", "iphone", "android", "galaxy", "pixel", "macbook",
+    "laptop", "notebook", "tablet", "ipad", "wearable", "launch", "unveil",
+    "unveils", "announces", "debut",
+    # รถยนต์ไฟฟ้า
+    "ev", "electric vehicle", "electric car", "tesla", "byd", "battery",
+    "charging",
+    # รีวิว
+    "review", "hands-on", "hands on", "benchmark",
 ]
 
 

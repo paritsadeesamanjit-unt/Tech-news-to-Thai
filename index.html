@@ -42,6 +42,9 @@
   .cat-startup{ --cat: #E27272; }
   .cat-chip{ --cat: #9C93EE; }
   .cat-software{ --cat: #5FAEEB; }
+  .cat-gadget{ --cat: #F08FB0; }
+  .cat-ev{ --cat: #6FCF7A; }
+  .cat-review{ --cat: #F2C14E; }
 
   /* ---------- Header ---------- */
   header{
@@ -83,6 +86,11 @@
     color:var(--text-muted);
     text-align:right;
   }
+  .nav-link{
+    font-family:'IBM Plex Sans Thai', sans-serif; font-size:13.5px; font-weight:600;
+    color:var(--teal); text-decoration:none; white-space:nowrap;
+  }
+  .nav-link:hover{ color:var(--signal); }
 
   .ticker-outer{
     border-top:1px solid var(--line);
@@ -131,39 +139,7 @@
     font-size:14.5px; color:var(--text-mid); max-width:38ch; margin:0; line-height:1.75;
   }
 
-  /* ---------- Stocks strip ---------- */
-  .stocks-strip{
-    display:grid;
-    grid-template-columns:repeat(4, 1fr);
-    gap:14px;
-    padding:22px 0 4px;
-  }
-  .stock-card{
-    background:var(--surface);
-    border:1px solid var(--line);
-    border-radius:14px;
-    padding:14px 16px;
-    display:flex; flex-direction:column; gap:6px;
-  }
-  .stock-name{
-    font-family:'IBM Plex Mono', monospace; font-size:11px;
-    letter-spacing:0.06em; text-transform:uppercase; color:var(--text-muted);
-    display:flex; align-items:center; gap:6px;
-  }
-  .stock-market{
-    font-size:9.5px; background:var(--surface-2); color:var(--text-mid);
-    padding:2px 6px; border-radius:5px; font-weight:600;
-  }
-  .stock-price{
-    font-family:'Noto Serif Thai', serif; font-weight:600; font-size:21px; color:var(--text);
-  }
-  .stock-change{
-    font-family:'IBM Plex Mono', monospace; font-size:12.5px; font-weight:500;
-    display:flex; align-items:center; gap:4px;
-  }
-  .stock-change.up{ color:#5FCB8E; }
-  .stock-change.down{ color:#E27272; }
-  .stock-change.flat{ color:var(--text-muted); }
+  /* ---------- Stocks page nav ---------- */
 
   /* ---------- Filters ---------- */
   .filters{ display:flex; gap:9px; flex-wrap:wrap; padding:24px 0 30px; }
@@ -334,11 +310,9 @@
   @media (max-width:880px){
     .intro h1{ font-size:27px; }
     .bento{ grid-template-columns:1fr 1fr; }
-    .stocks-strip{ grid-template-columns:repeat(2, 1fr); }
   }
   @media (max-width:600px){
     .bento{ grid-template-columns:1fr; }
-    .stocks-strip{ grid-template-columns:1fr 1fr; }
     .wrap{ padding:0 18px; }
     .header-row{ flex-wrap:wrap; }
     .status{ text-align:left; }
@@ -363,7 +337,10 @@
         <div class="brand-sub">Foreign tech news, translated daily</div>
       </div>
     </div>
-    <div class="status" id="status">กำลังโหลดข่าว...</div>
+    <div style="display:flex; align-items:center; gap:20px;">
+      <a href="stocks.html" class="nav-link">หุ้นเทค ↗</a>
+      <div class="status" id="status">กำลังโหลดข่าว...</div>
+    </div>
   </div>
   <div class="ticker-outer">
     <div class="ticker-track" id="tickerTrack"></div>
@@ -374,10 +351,8 @@
 
   <section class="intro">
     <h1>ข่าวเทคจากทั่วโลก <em>แปลไทย</em> อ่านง่าย ทันทุกวัน</h1>
-    <p>รวมข่าว AI หุ่นยนต์ ชิป และนวัตกรรมจากสำนักข่าวต่างประเทศ คัดและแปลให้อ่านสบาย พร้อมต้นฉบับให้เทียบทุกชิ้น</p>
+    <p>รวมข่าว AI หุ่นยนต์ ชิป เปิดตัวสินค้า รถยนต์ไฟฟ้า และรีวิวจากสำนักข่าวต่างประเทศ คัดและแปลให้อ่านสบาย พร้อมต้นฉบับให้เทียบทุกชิ้น</p>
   </section>
-
-  <section class="stocks-strip" id="stocksStrip"></section>
 
   <div class="filters" id="filters">
     <button class="chip active" data-cat="all">ทั้งหมด</button>
@@ -386,6 +361,9 @@
     <button class="chip" data-cat="startup">สตาร์ทอัพ</button>
     <button class="chip" data-cat="chip">ชิป/ฮาร์ดแวร์</button>
     <button class="chip" data-cat="software">ซอฟต์แวร์</button>
+    <button class="chip" data-cat="gadget">เปิดตัวสินค้า</button>
+    <button class="chip" data-cat="ev">รถยนต์ไฟฟ้า</button>
+    <button class="chip" data-cat="review">รีวิว</button>
   </div>
 
   <div class="bento" id="grid"></div>
@@ -418,8 +396,8 @@
 <script>
 let articles = [];
 
-const CAT_LABEL = {ai:'AI', robot:'หุ่นยนต์', startup:'สตาร์ทอัพ', chip:'ชิป/ฮาร์ดแวร์', software:'ซอฟต์แวร์'};
-const CAT_CLASS = {ai:'cat-ai', robot:'cat-robot', startup:'cat-startup', chip:'cat-chip', software:'cat-software'};
+const CAT_LABEL = {ai:'AI', robot:'หุ่นยนต์', startup:'สตาร์ทอัพ', chip:'ชิป/ฮาร์ดแวร์', software:'ซอฟต์แวร์', gadget:'เปิดตัวสินค้า', ev:'รถยนต์ไฟฟ้า', review:'รีวิว'};
+const CAT_CLASS = {ai:'cat-ai', robot:'cat-robot', startup:'cat-startup', chip:'cat-chip', software:'cat-software', gadget:'cat-gadget', ev:'cat-ev', review:'cat-review'};
 
 function estimateReadTime(text){
   const words = (text || '').split(/\s+/).length;
@@ -514,26 +492,6 @@ function setupTicker(list){
   track.innerHTML = items + items;
 }
 
-function renderStocks(indices){
-  const strip = document.getElementById('stocksStrip');
-  if(!indices || indices.length === 0){
-    strip.innerHTML = '';
-    return;
-  }
-  strip.innerHTML = indices.map(s => {
-    const dir = s.change > 0 ? 'up' : (s.change < 0 ? 'down' : 'flat');
-    const arrow = s.change > 0 ? '▲' : (s.change < 0 ? '▼' : '—');
-    const sign = s.change > 0 ? '+' : '';
-    return `
-      <div class="stock-card">
-        <div class="stock-name">${s.name} <span class="stock-market">${s.market}</span></div>
-        <div class="stock-price">${s.price.toLocaleString('en-US', {minimumFractionDigits:2, maximumFractionDigits:2})}</div>
-        <div class="stock-change ${dir}">${arrow} ${sign}${s.change.toFixed(2)} (${sign}${s.change_pct.toFixed(2)}%)</div>
-      </div>
-    `;
-  }).join('');
-}
-
 function setupFilters(){
   document.querySelectorAll('.chip').forEach(chip => {
     chip.addEventListener('click', () => {
@@ -563,7 +521,6 @@ async function loadNews(){
     const updatedText = formatThaiTime(data.generated_at);
     document.getElementById('status').textContent = `อัปเดตล่าสุด ${updatedText} · ${articles.length} ข่าว`;
     document.getElementById('footerNote').textContent = `อัปเดตล่าสุด ${updatedText}`;
-    renderStocks(data.indices);
   }catch(err){
     document.getElementById('status').textContent = 'ไม่พบ news.json — รัน build_feed.py ก่อน';
     articles = [];
