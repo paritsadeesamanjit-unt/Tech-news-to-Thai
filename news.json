@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-12T00:50:38.156277+00:00",
+  "generated_at": "2026-08-12T04:33:19.990888+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
+      "summary_en": "Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/yulu.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
+      "published": "Wed, 12 Aug 2026 04:30:00 +0000",
+      "title_th": "Yulu ของอินเดียระดมทุนได้ 93 ล้านดอลลาร์ เนื่องจากการเติบโตอย่างรวดเร็วของการค้าขายช่วยกระตุ้นความต้องการจักรยานไฟฟ้า",
+      "summary_th": "Yulu ตั้งเป้าที่จะมีจักรยาน 200,000 คันในอีกสองปีข้างหน้า และรถสองล้อไฟฟ้าที่เร็วขึ้น โดยมีเป้าหมายที่กรณีการใช้งานด้านโลจิสติกส์ใหม่ๆ"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -49,18 +61,6 @@
       "published": "Tue, 11 Aug 2026 19:38:23 +0000",
       "title_th": "FBI กล่าวว่าอาชญากรไซเบอร์กำลังเจาะเข้าสู่บัญชีออนไลน์ของเหยื่อเพื่อขโมยภาพส่วนตัวของพวกเขา",
       "summary_th": "ในการแจ้งเตือนครั้งใหม่ FBI กล่าวว่าอาชญากรไซเบอร์กำหนดเป้าหมายไปที่ผู้ใหญ่และผู้เยาว์โดยพยายามขโมยภาพส่วนตัวและภาพส่วนตัวของพวกเขาในการรณรงค์กรรโชกทรัพย์"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "OpenAI launches ChatGPT desktop app for Linux",
-      "summary_en": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "published": "Tue, 11 Aug 2026 19:15:35 +0000",
-      "title_th": "OpenAI เปิดตัวแอปเดสก์ท็อป ChatGPT สำหรับ Linux",
-      "summary_th": "ในที่สุด OpenAI ก็นำแอปเดสก์ท็อป ChatGPT เฉพาะมาสู่ระบบปฏิบัติการ Linux ในที่สุด"
     },
     {
       "source": "The Verge",
@@ -156,7 +156,7 @@
       "link": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
       "published": "Thu, 30 Jul 2026 20:57:22 +0000",
       "title_th": "ข้อบกพร่องเซิร์ฟเวอร์ Exchange ระดับความรุนแรงสูงสุดภายใต้การใช้ประโยชน์โดยแฮกเกอร์เครมลิน",
-      "summary_th": "การหาประโยชน์สามารถให้การเข้าถึงเซิร์ฟเวอร์แบบถาวรที่รอดจากการหมุนเวียนข้อมูลรับรองและการสร้างอิมเมจดิสก์ใหม่"
+      "summary_th": "การหาประโยชน์สามารถให้การเข้าถึงเซิร์ฟเวอร์แบบถาวรที่รอดจากการหมุนเวียนข้อมูลรับรองและการสร้างอิมเมจใหม่ของดิสก์"
     },
     {
       "source": "Ars Technica",
@@ -192,7 +192,7 @@
       "link": "https://www.wired.com/review/razer-naga-v3-pro/",
       "published": "Tue, 11 Aug 2026 15:00:00 +0000",
       "title_th": "รีวิว Razer Naga V3 Pro: ปุ่มมากมาย",
-      "summary_th": "โลกของเกมพีซีพยายามที่จะก้าวข้ามจากเมาส์ที่เทอะทะและหนักกว่า แต่ Naga V3 Pro พิสูจน์ให้เห็นว่าเมาส์ยังคงมีที่ของมัน"
+      "summary_th": "โลกของเกมพีซีพยายามที่จะก้าวข้ามจากเมาส์ที่เทอะทะและหนักกว่า แต่ Naga V3 Pro พิสูจน์ให้เห็นแล้วว่าเมาส์ยังคงมีที่ของมัน"
     },
     {
       "source": "Wired",
@@ -300,7 +300,7 @@
       "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
       "published": "Mon, 10 Aug 2026 09:00:00 +0000",
       "title_th": "สตาร์ทอัพเหล่านี้กำลังไล่ตามสิ่งที่ยิ่งใหญ่ต่อไปใน LLM",
-      "summary_th": "ซีรีส์ What's Next ของ MIT Technology Review จะเจาะลึกอุตสาหกรรม เทรนด์ และเทคโนโลยีเพื่อให้คุณมองเห็นอนาคตได้ก่อนใคร คุณสามารถอ่านส่วนที่เหลือได้ที่นี่ ย้อนกลับไปในช่วงฤดูร้อนปี 2560 นักวิจัย AI ของ Google ได้ตีพิมพ์บทความชื่อ \"Attention Is All You Need\" ซึ่งพวกเขาอธิบายใหม่..."
+      "summary_th": "ซีรีส์ What's Next ของ MIT Technology Review ครอบคลุมอุตสาหกรรม แนวโน้ม และเทคโนโลยีเพื่อให้คุณมองเห็นอนาคตได้ก่อนใคร คุณสามารถอ่านส่วนที่เหลือได้ที่นี่ ย้อนกลับไปในช่วงฤดูร้อนปี 2560 นักวิจัย AI ของ Google ได้ตีพิมพ์บทความชื่อ \"Attention Is All You Need\" ซึ่งพวกเขาอธิบายใหม่..."
     },
     {
       "source": "Engadget",
@@ -408,7 +408,7 @@
       "link": "https://spectrum.ieee.org/v2x-technology-5g-open-ran",
       "published": "Fri, 07 Aug 2026 13:00:01 +0000",
       "title_th": "รถยนต์ที่สื่อสารกันไม่ดีคือปัญหาที่ได้รับการแก้ไขแล้ว",
-      "summary_th": "ประวัติความเป็นมาของเครือข่ายเต็มไปด้วยเครื่องมือที่นำวิธีแก้ไขปัญหาประเภทต่างๆ มาใช้ใหม่ก่อน ต้นกำเนิดของ Wi-Fi ส่วนหนึ่งย้อนกลับไปที่ทีมนักดาราศาสตร์วิทยุชาวออสเตรเลียที่พยายามตรวจจับสัญญาณจากการระเหยของหลุมดำ แต่เครื่องมือประมวลผลข้อมูลที่พวกเขาพัฒนาขึ้นยังได้รับการพิสูจน์แล้วว่าสามารถดึงข้อความที่ชัดเจนจากสภาพแวดล้อมของสัญญาณสะท้อนที่วุ่นวายได้ เสียงสะท้อนก็คือเสียงสะท้อน ไม่ว่าจะมาจากระบบดาวอันห่างไกลหรือจากมุมไกลของบ้าน ฉันค้นคว้าเครือข่ายการสื่อสารของยานพาหนะ การเชื่อมต่อรถยนต์กับรถยนต์ และโครงสร้างพื้นฐานด้านการคมนาคม เช่น สัญญาณไฟจราจร สำหรับเครือข่าย Vehicle-to-everthing (V2X) ในอนาคต การวิจัย V2X อาศัยโมเดลที่ถือว่าสภาพเครือข่าย \"สมบูรณ์แบบ\" หรือ \"อุดมคติ\" มานานแล้ว ซึ่งเป็นสมมติฐานที่ทำให้ง่ายขึ้นว่า"
+      "summary_th": "ประวัติความเป็นมาของเครือข่ายเต็มไปด้วยเครื่องมือที่นำวิธีแก้ไขปัญหาประเภทต่างๆ มาใช้ใหม่ก่อน ต้นกำเนิดของ Wi-Fi ส่วนหนึ่งย้อนกลับไปที่ทีมนักดาราศาสตร์วิทยุชาวออสเตรเลียที่พยายามตรวจจับสัญญาณจากการระเหยของหลุมดำ แต่เครื่องมือประมวลผลข้อมูลที่พวกเขาพัฒนาขึ้นยังได้รับการพิสูจน์แล้วว่าสามารถดึงข้อความที่ชัดเจนจากสภาพแวดล้อมของสัญญาณสะท้อนที่วุ่นวายได้ เสียงสะท้อนก็คือเสียงสะท้อน ไม่ว่าจะมาจากระบบดาวอันห่างไกลหรือจากมุมไกลของบ้าน ฉันค้นคว้าเครือข่ายการสื่อสารในยานพาหนะ การเชื่อมต่อรถยนต์กับรถยนต์ และโครงสร้างพื้นฐานด้านการคมนาคม เช่น สัญญาณไฟจราจร สำหรับเครือข่าย Vehicle-to-everthing (V2X) ในอนาคต การวิจัย V2X อาศัยโมเดลที่ถือว่าสภาพเครือข่าย \"สมบูรณ์แบบ\" หรือ \"อุดมคติ\" มานานแล้ว ซึ่งเป็นสมมติฐานที่ทำให้ง่ายขึ้นว่า"
     },
     {
       "source": "IEEE Spectrum",
@@ -421,6 +421,18 @@
       "published": "Wed, 05 Aug 2026 18:00:03 +0000",
       "title_th": "หลักสูตร IEEE สอนวิธีใช้ AI เพื่อปรับปรุงระบบส่งกำลังให้ทันสมัย",
       "summary_th": "โครงข่ายไฟฟ้าของสหรัฐอเมริกาในปัจจุบัน ซึ่งเป็นหนึ่งในระบบที่ใหญ่ที่สุดและซับซ้อนที่สุดเท่าที่เคยสร้างมา กำลังดำเนินการถึงขีดจำกัด กระทรวงพลังงานของสหรัฐฯ ระบุว่า การรวมกันของการเติบโตทางอุตสาหกรรมอย่างรวดเร็ว สภาพอากาศสุดขั้วที่เกิดขึ้นบ่อยครั้งมากขึ้น และการใช้ไฟฟ้าที่เพิ่มขึ้นเป็นประวัติการณ์ ได้ผลักดันให้โครงข่ายไฟฟ้าถึงจุดแตกหัก สร้างขึ้นเมื่อหลายทศวรรษก่อนเพื่อให้โลกที่คาดเดาได้มากขึ้น ซึ่งพลังงานส่วนใหญ่มาจากโรงไฟฟ้าถ่านหินหรือก๊าซแบบรวมศูนย์ และการใช้ไฟฟ้าก็เพิ่มขึ้นในอัตราคงที่ โครงข่ายไฟฟ้าต้องเผชิญกับความตึงเครียดที่ไม่คาดคิด เนื่องจากส่วนหนึ่งมาจากความต้องการที่เพิ่มขึ้นจากศูนย์ข้อมูล งานของมืออาชีพในการจัดการโครงสร้างพื้นฐานได้พัฒนาจากงานวิศวกรรมแบบดั้งเดิมไปสู่ความท้าทายที่ซับซ้อนและเปลี่ยนแปลงอย่างรวดเร็ว รายงานอุตสาหกรรมแสดงให้เห็นว่าเซ็นเซอร์ดิจิทัลสมัยใหม่ มิเตอร์อัจฉริยะ และมอนิเตอร์แบบกริดสมัยใหม่หลายล้านตัวกำลังสร้างกระแสไฟฟ้าที่ไม่ใช่"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Women in Blue’s second season premieres on Apple TV",
+      "summary_en": "Apple TV subscribers can now stream the first episode of the new season of Women in Blue (Las Azules). Here’s what to expect from the season.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/women-in-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/11/women-in-blues-second-season-premieres-on-apple-tv/",
+      "published": "Wed, 12 Aug 2026 01:00:59 +0000",
+      "title_th": "Women in Blue ซีซั่นที่สองฉายรอบปฐมทัศน์บน Apple TV",
+      "summary_th": "สมาชิก Apple TV สามารถสตรีมตอนแรกของ Women in Blue (Las Azules) ซีซันใหม่ได้แล้ว นี่คือสิ่งที่คาดหวังจากฤดูกาลนี้"
     },
     {
       "source": "9to5Mac",
@@ -471,16 +483,16 @@
       "summary_th": "iPhone 18 Pro อยู่ห่างออกไปเพียงไม่กี่สัปดาห์ และข่าวลือระบุว่าอาจนำมาซึ่งการอัพเกรดกล้องชุดที่น่าจดจำเป็นพิเศษ นี่คือคุณสมบัติกล้องหลักสามประการที่มีข่าวลือในปัจจุบัน"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
-      "category": "review",
-      "title_en": "Court rejects Apple’s attempt to postpone App Store fee proceedings in Epic Games case [U]",
-      "summary_en": "Epic Games CEO Tim Sweeney says Judge Yvonne Gonzalez Rogers has rejected Apple’s request to pause the App Store fee proceedings pending the Supreme Court’s review of the company’s contempt ruling. Here are the details.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/05/epic-games-app-store.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/11/court-rejects-apples-attempt-to-postpone-app-store-fee-proceedings-in-epic-games-case/",
-      "published": "Tue, 11 Aug 2026 19:59:40 +0000",
-      "title_th": "ศาลปฏิเสธความพยายามของ Apple ที่จะเลื่อนการพิจารณาค่าธรรมเนียม App Store ในคดี Epic Games [U]",
-      "summary_th": "Tim Sweeney ซีอีโอของ Epic Games กล่าวว่าผู้พิพากษา Yvonne Gonzalez Rogers ปฏิเสธคำขอของ Apple ที่จะระงับการดำเนินคดีค่าธรรมเนียม App Store ชั่วคราว เพื่อรอการพิจารณาของศาลฎีกาเกี่ยวกับคำตัดสินที่ดูหมิ่นของบริษัท นี่คือรายละเอียด"
+      "category": "gadget",
+      "title_en": "Google sends out $150 discount codes ahead of Pixel 11 pre-orders",
+      "summary_en": "With less than 24 hours to go until the company’s Pixel 11 launch event, Google is sending $150 discount codes to customers looking to pre-order the new devices.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Pixel-11-Pro-teaser-2a.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/11/google-pixel-11-discount-code-email/",
+      "published": "Wed, 12 Aug 2026 02:30:00 +0000",
+      "title_th": "Google จะส่งรหัสส่วนลด $150 ก่อนการสั่งซื้อ Pixel 11 ล่วงหน้า",
+      "summary_th": "เหลือเวลาอีกไม่ถึง 24 ชั่วโมงก่อนงานเปิดตัว Pixel 11 ของบริษัท Google จะส่งรหัสส่วนลดมูลค่า 150 ดอลลาร์ให้กับลูกค้าที่ต้องการสั่งซื้ออุปกรณ์ใหม่ล่วงหน้า"
     },
     {
       "source": "9to5Google",
@@ -531,16 +543,16 @@
       "summary_th": "นอกเหนือจากการลดราคา Back to School ที่อัปเดตในปี 2026 ของ Best Buy แล้ว 9to5Toys Lunch Break ในวันนี้ยังนำโดย Nothing Phone (3) ส่วนลดสูงสุด 200 ดอลลาร์ที่ Amazon ควบคู่ไปกับหูฟังไร้สาย Nothing ANC พร้อม Smart Dial ในราคาเพียง 39 ดอลลาร์ และโอกาสที่จะได้รับ Pixel Buds บางรุ่นต่ำถึง 70 ดอลลาร์ด้วย นอกจากนี้เรายังมีพีซี Galaxy Book 6/Pro Copilot+ รุ่นล่าสุดของ Samsung ในราคาเพียง 800 ดอลลาร์ (ลด 650 ดอลลาร์) หน้าจอสัมผัสแบบ 2-in-1 ของ Acer Chromebook Plus Spin 714 ในราคาลด 300 ดอลลาร์ และข้อตกลงการกวาดล้างอย่างต่อเนื่องสำหรับเครื่องชาร์จ Qi2 25W Google Pixelsnap ล่าสุดของ Google พร้อมขาตั้งที่ 35 ดอลลาร์ (ลด 50%) ตรวจสอบมันทั้งหมดด้านล่าง"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Samsung’s Galaxy Buds are getting an FDA-approved hearing aid feature",
-      "summary_en": "Samsung has been approved for a hearing aid feature on its Galaxy Buds that will roll out later this year.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-buds-4-pro-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/11/samsung-galaxy-buds-hearing-aid-feature/",
-      "published": "Tue, 11 Aug 2026 14:50:00 +0000",
-      "title_th": "Galaxy Buds ของ Samsung ได้รับคุณสมบัติเครื่องช่วยฟังที่ได้รับการรับรองจาก FDA",
-      "summary_th": "Samsung ได้รับการอนุมัติให้ใช้ฟีเจอร์เครื่องช่วยฟังใน Galaxy Buds ซึ่งจะเปิดตัวในปลายปีนี้"
+      "category": "ev",
+      "title_en": "Kia EV3 prices and range revealed, starting at $30,000",
+      "summary_en": "Kia’s affordable electric SUV is now on sale in the US, starting at $29,890. The 2027 Kia EV3 has an official EPA-estimated driving range of up to 321 miles.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/07/Kia-vehicles-upgrade-Pleos.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/11/kia-ev3-prices-range-revealed-starting-30000/",
+      "published": "Wed, 12 Aug 2026 01:04:07 +0000",
+      "title_th": "เปิดตัว Kia EV3 ราคาและช่วงเริ่มต้นที่ 30,000 ดอลลาร์",
+      "summary_th": "SUV ไฟฟ้าราคาไม่แพงของ Kia วางจำหน่ายแล้วในสหรัฐอเมริกา ในราคาเริ่มต้นที่ 29,890 ดอลลาร์ Kia EV3 ปี 2027 มีระยะการขับขี่อย่างเป็นทางการตามการประเมินของ EPA ที่สูงถึง 321 ไมล์"
     },
     {
       "source": "Electrek",
@@ -552,19 +564,7 @@
       "link": "https://electrek.co/2026/08/11/hyundai-launches-range-topping-ioniq-9-calligraphy-black-ink/",
       "published": "Tue, 11 Aug 2026 20:39:40 +0000",
       "title_th": "ฮุนไดเปิดตัว IONIQ 9 Calligraphy Black Ink รุ่นท็อปในสหราชอาณาจักรและยุโรป",
-      "summary_th": "Hyundai IONIQ 9 Black Ink edition ใหม่ อยู่เหนือการประดิษฐ์ตัวอักษรในฐานะอุปกรณ์ตกแต่งกลุ่มใหม่ พบกับฮุนได..."
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Kia EV3 is now on sale for under $30,000, and now we know its EPA range",
-      "summary_en": "Kia’s affordable electric SUV is now on sale in the US, starting at $29,890. The 2027 Kia EV3 also now has an official EPA-estimated driving range of up to 321 miles. Here’s what else to know.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/07/Kia-EV3-Mexico-US-1.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/11/kia-ev3-prices-start-under-30000-epa-range-revealed/",
-      "published": "Tue, 11 Aug 2026 18:10:02 +0000",
-      "title_th": "Kia EV3 วางจำหน่ายแล้วในราคาต่ำกว่า 30,000 ดอลลาร์ และตอนนี้เราทราบกลุ่มผลิตภัณฑ์ EPA แล้ว",
-      "summary_th": "SUV ไฟฟ้าราคาไม่แพงของ Kia วางจำหน่ายแล้วในสหรัฐอเมริกา ในราคาเริ่มต้นที่ 29,890 ดอลลาร์ ขณะนี้ Kia EV3 ปี 2027 มีระยะการขับขี่อย่างเป็นทางการตามการประเมินของ EPA ที่สูงถึง 321 ไมล์ นี่คือสิ่งอื่นที่ควรรู้"
+      "summary_th": "Hyundai IONIQ 9 Black Ink Edition ใหม่ อยู่เหนือการประดิษฐ์ตัวอักษรในฐานะอุปกรณ์ตกแต่งกลุ่มใหม่ พบกับฮุนได..."
     },
     {
       "source": "Electrek",
@@ -575,7 +575,7 @@
       "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Anker-SOLIX-AeroGarden-ECOVACS-GDs-FI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "link": "https://electrek.co/2026/08/11/anker-solix-mega-sale-power-station-c1000x-aerogarden-more/",
       "published": "Tue, 11 Aug 2026 18:00:00 +0000",
-      "title_th": "Anker SOLIX Mega Sale มอบส่วนลดโรงไฟฟ้าสูงสุด 48% + ส่วนลด C1000X $399 วันเดียวเท่านั้น AeroGarden และอีกมากมาย",
+      "title_th": "Anker SOLIX Mega Sale มอบส่วนลดโรงไฟฟ้าสูงสุด 48% + ลด C1000X $399 วันเดียวเท่านั้น AeroGarden และอีกมากมาย",
       "summary_th": "เรามี Green Deal ที่จัดหนักสำหรับโรงไฟฟ้าสำหรับคุณวันนี้ เริ่มต้นด้วย Anker SOLIX Fan Fest Mega Sale ที่เพิ่งเปิดตัวใหม่พร้อมส่วนลดเริ่มต้นสูงสุด 48% รหัสส่วนลดพิเศษแบบประหยัด ของขวัญสำหรับโรงไฟฟ้าฟรี ทั้งหมดนี้เริ่มต้นที่ 190 ดอลลาร์ นอกจากนี้เรายังพบข้อตกลงวันเดียวเท่านั้นสำหรับสถานีไฟฟ้าพกพา SOLIX C1000X 1,024Wh ของ Anker ที่ราคา 480 ดอลลาร์ เช่นเดียวกับข้อตกลงวันเดียวที่คล้ายกันสำหรับสถานีไฟฟ้าพกพา Bluetti AC50B 488Wh ในราคา 259 ดอลลาร์ จากนั้น เรายังมีระบบสวนไฮโดรโปนิกในร่ม Harvest XL ของ AeroGarden ในราคาต่ำเพียง 81 ดอลลาร์ หุ่นยนต์ทำความสะอาดสระว่ายน้ำไร้สาย ECOVACS Ultramarine P1 ที่ราคาต่ำสุดใหม่ ส่วนลดที่ค้างชำระสำหรับเครื่องตัดหญ้า Select Cut and Touch Drive ขนาด 21 นิ้วของ EGO ที่มาพร้อมกับแบตเตอรี่ 2x6.0Ah และอื่นๆ อีกมากมายด้านล่าง ซึ่งรวมถึงข้อเสนออาการเมาค้างจากสัปดาห์ที่แล้วที่ด้านล่างของ"
     },
     {
@@ -587,7 +587,7 @@
       "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/06/gas-vs-electric.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "link": "https://electrek.co/2026/08/11/china-sales-numbers-are-in-evs-up-while-everything-with-an-engine-collapses/",
       "published": "Tue, 11 Aug 2026 17:47:43 +0000",
-      "title_th": "ตัวเลขยอดขายในจีนอยู่ที่: EV เพิ่มขึ้นในขณะที่ทุกอย่างเครื่องยนต์พัง",
+      "title_th": "ตัวเลขยอดขายในจีนอยู่ที่: EV เพิ่มขึ้นในขณะที่ทุกอย่างเครื่องยนต์พังทลาย",
       "summary_th": "การล่มสลายเชิงโครงสร้างของยอดขายรถยนต์ที่ใช้แก๊สยังคงดำเนินต่อไปในตลาดรถยนต์ที่ใหญ่ที่สุดในโลก โดยตัวเลขในเดือนกรกฎาคมแสดงให้เห็นว่ารถยนต์ประเภทเดียวที่ทำได้ดีคือรถยนต์ที่ใช้แบตเตอรี่ล้วนๆ ในขณะที่ยอดขายรถยนต์ประเภทอื่นๆ ยังคงลดลงอย่างรวดเร็วเป็นเวลาหลายเดือนติดต่อกัน"
     },
     {
@@ -669,126 +669,5 @@
       "change_pct": -3.58
     }
   ],
-  "reviews": [
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "Galaxy Z Fold 8 Review: Honeymoon's Over",
-      "video_id": "Z6z_feacXW8",
-      "link": "https://www.youtube.com/watch?v=Z6z_feacXW8",
-      "thumbnail": "https://i3.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg",
-      "published": "2026-08-01T00:05:00+00:00",
-      "title_th": "รีวิว Galaxy Z Fold 8: ฮันนีมูนจบลงแล้ว"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "Framework 13 Pro: The Modular Laptop is Real!",
-      "video_id": "_xjxwl1zLMc",
-      "link": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
-      "thumbnail": "https://i4.ytimg.com/vi/_xjxwl1zLMc/hqdefault.jpg",
-      "published": "2026-07-27T15:38:21+00:00",
-      "title_th": "Framework 13 Pro: แล็ปท็อปแบบแยกส่วนมีจริง!"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought!",
-      "video_id": "8Hx2yvWSgs0",
-      "link": "https://www.youtube.com/watch?v=8Hx2yvWSgs0",
-      "thumbnail": "https://i1.ytimg.com/vi/8Hx2yvWSgs0/hqdefault.jpg",
-      "published": "2026-07-22T13:01:05+00:00",
-      "title_th": "ความประทับใจ Samsung Z Fold 8 (ไวด์): ดีกว่าที่คิด!"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "You Won’t Believe What This Sounds Like...",
-      "video_id": "7imHGvEtaBw",
-      "link": "https://www.youtube.com/watch?v=7imHGvEtaBw",
-      "thumbnail": "https://i4.ytimg.com/vi/7imHGvEtaBw/hqdefault.jpg",
-      "published": "2026-08-11T15:35:11+00:00",
-      "title_th": "คุณจะไม่เชื่อว่าสิ่งนี้ฟังดูเป็นอย่างไร..."
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "This is Beyond just Gaming...",
-      "video_id": "zZ1hKRuhEVs",
-      "link": "https://www.youtube.com/watch?v=zZ1hKRuhEVs",
-      "thumbnail": "https://i3.ytimg.com/vi/zZ1hKRuhEVs/hqdefault.jpg",
-      "published": "2026-08-06T15:49:36+00:00",
-      "title_th": "นี่มันเกินกว่าแค่การเล่นเกม..."
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "Which is the Ultimate Pocket Cam?",
-      "video_id": "uqOnifh9Y0o",
-      "link": "https://www.youtube.com/watch?v=uqOnifh9Y0o",
-      "thumbnail": "https://i2.ytimg.com/vi/uqOnifh9Y0o/hqdefault.jpg",
-      "published": "2026-07-30T15:41:25+00:00",
-      "title_th": "Ultimate Pocket Cam คืออะไร?"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "“ล่าม” หนังไทยถ่ายอเมริกา ที่คุณภาพเกินกว่าที่พี่หนุ่ยคาดไว้",
-      "video_id": "9gGQZrCeb0Q",
-      "link": "https://www.youtube.com/watch?v=9gGQZrCeb0Q",
-      "thumbnail": "https://i2.ytimg.com/vi/9gGQZrCeb0Q/hqdefault.jpg",
-      "published": "2026-08-11T14:11:51+00:00",
-      "title_th": "“ล่าม” หนังไทยถ่ายอเมริกา ที่คุณภาพเกินกว่าที่พี่หนุ่ยคาดไว้"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "เจาะลึกอนาคตพลังงานบ้าน กับผู้บริหาร Uniview เปลี่ยนบ้านธรรมดา ให้ฉลาดและเซฟค่าไฟ",
-      "video_id": "ndkx1JxEMDY",
-      "link": "https://www.youtube.com/watch?v=ndkx1JxEMDY",
-      "thumbnail": "https://i3.ytimg.com/vi/ndkx1JxEMDY/hqdefault.jpg",
-      "published": "2026-08-10T10:00:03+00:00",
-      "title_th": "เจาะลึกอนาคตพลังงานบ้าน กับผู้บริหาร Uniview เปลี่ยนบ้านธรรมดา ให้ฉลาดและเซฟค่าไฟ"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "Pentagram บริษัทที่ไม่ใช้พนักงานขาย แต่ทำไมลูกค้าจ้างหลักล้าน?",
-      "video_id": "3LAJdk2p010",
-      "link": "https://www.youtube.com/watch?v=3LAJdk2p010",
-      "thumbnail": "https://i4.ytimg.com/vi/3LAJdk2p010/hqdefault.jpg",
-      "published": "2026-08-08T23:00:05+00:00",
-      "title_th": "Pentagram บริษัทที่ไม่ใช้พนักงานขาย แต่ทำไมลูกค้าจ้างหลักล้าน?"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "ทำได้ด้วย ? 😲 ต่อภาษีรถออนไลน์ ทำในมือถือได้ไม่ต้องไปขนส่ง  #ต่อภาษีรถยนต์ #ชำระภาษีรถ #แอปเป๋าตังค์",
-      "video_id": "tQ2Po36E6jI",
-      "link": "https://www.youtube.com/shorts/tQ2Po36E6jI",
-      "thumbnail": "https://i1.ytimg.com/vi/tQ2Po36E6jI/hqdefault.jpg",
-      "published": "2026-08-11T12:09:59+00:00",
-      "title_th": "ทำได้ด้วย ? 😲 ต่อภาษีรถออนไลน์ ทำในมือถือได้ไม่ต้องไปขนส่ง  #ต่อภาษีรถยนต์ #ชำระภาษีรถ #แอปเป๋าตังค์"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "มือถือไรเดอร์ งบ 5,000 บาท แบตอึด เครื่องทน วิ่งงาน 2 รุ่นนี้น่าใช้ #OPPOA6 #REDMINote15",
-      "video_id": "tpfq9Buh6ZU",
-      "link": "https://www.youtube.com/shorts/tpfq9Buh6ZU",
-      "thumbnail": "https://i1.ytimg.com/vi/tpfq9Buh6ZU/hqdefault.jpg",
-      "published": "2026-08-10T13:02:33+00:00",
-      "title_th": "มือถือไรเดอร์ งบ 5,000 บาท แบตอึด เครื่องทน วิ่งงาน 2 รุ่นนี้น่าใช้ #OPPOA6 #REDMINote15"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "กระแสจอพับ Galaxy Z Fold 8 , Flip 8 รวมถึง iPhone Ultra เป็นไงบ้างช่วงนี้ | #หิวข่าว",
-      "video_id": "zLCc9m26P9o",
-      "link": "https://www.youtube.com/watch?v=zLCc9m26P9o",
-      "thumbnail": "https://i3.ytimg.com/vi/zLCc9m26P9o/hqdefault.jpg",
-      "published": "2026-08-08T12:05:02+00:00",
-      "title_th": "กระแสจอพับ Galaxy Z Fold 8 , Flip 8 รวมถึง iPhone Ultra เป็นไงบ้างช่วงนี้ | #หิวข่าว"
-    }
-  ]
+  "reviews": []
 }
