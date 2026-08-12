@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-12T18:45:46.176380+00:00",
+  "generated_at": "2026-08-12T21:35:02.291140+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
+      "summary_en": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/MRV-Arms-2.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
+      "published": "Wed, 12 Aug 2026 20:53:41 +0000",
+      "title_th": "ช่างหุ่นยนต์อวกาศของ Northrop เป็นวิธีใหม่ในการทำให้ดาวเทียมใช้งานได้นานขึ้น",
+      "summary_th": "Mission Robotic Vehicle กำลังพยายามครั้งแรกในการติดทรัสเตอร์ตัวใหม่เข้ากับดาวเทียมที่มีอายุมาก"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "summary_en": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/03/twitch-reflection.jpg?resize=1200,799",
+      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "published": "Wed, 12 Aug 2026 20:10:40 +0000",
+      "title_th": "Amazon จะฝึกอบรมเนื้อหาของสตรีมเมอร์ Twitch เป็นค่าเริ่มต้น เว้นแต่พวกเขาจะเลือกไม่รับ",
+      "summary_th": "“หากนี่คือการเลือกเข้าร่วม จะไม่มีใครเลือกเข้าร่วม” Mike Minton CPO ของ Twitch กล่าวในการถ่ายทอดสดเพื่อตอบสนองต่อความคิดเห็นของผู้ใช้ “นั่นคือคำตอบจากใจจริง”"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -31,7 +55,7 @@
       "flag": "US",
       "category": "startup",
       "title_en": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "summary_en": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
+      "summary_en": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/HALL1410.jpg?resize=1200,800",
       "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
       "published": "Wed, 12 Aug 2026 17:51:00 +0000",
@@ -39,88 +63,64 @@
       "summary_th": "ที่ Ai4 ผู้เชี่ยวชาญด้าน AI ที่ได้รับการยอมรับมากที่สุดในโลกสามคน ได้แก่ Geoffrey Hinton, Fei-Fei Li และ Andrew Ng ได้ถกเถียงกันเรื่องกฎระเบียบ การเข้าถึงโอเพ่นซอร์ส และวิธีที่อเมริกาสามารถแข่งขันในขณะที่จีนก้าวหน้าในเอเชีย"
     },
     {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "summary_en": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Alitmeter Capital.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/holdings_all_team.jpg?resize=1200,407",
-      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "published": "Wed, 12 Aug 2026 17:41:29 +0000",
-      "title_th": "Thrive Holdings ที่ได้รับการสนับสนุนจาก OpenAI ระดมทุน 2 พันล้านดอลลาร์เพื่อนำ AI มาสู่องค์กร",
-      "summary_th": "Thrive Holdings ได้ระดมเงินทุนใหม่ 2 พันล้านดอลลาร์จากการประเมินมูลค่า 12 พันล้านดอลลาร์จากนักลงทุนเช่น SoftBank, D1 Capital Partners และ Alitmeter Capital"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Uber Freight reportedly investigating after hacking group claims data breach",
-      "summary_en": "An extortion gang known for targeting transportation companies and private equity firms has taken credit for a breach at Uber Freight.",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/09/Uber-freight_DRONE_STILLS-0035-1.jpg?resize=1200,899",
-      "link": "https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/",
-      "published": "Wed, 12 Aug 2026 17:15:41 +0000",
-      "title_th": "มีรายงานว่า Uber Freight กำลังสืบสวนหลังจากกลุ่มแฮ็กอ้างว่าข้อมูลรั่วไหล",
-      "summary_th": "แก๊งกรรโชกทรัพย์ที่มุ่งเป้าไปที่บริษัทขนส่งและบริษัทไพรเวทอิควิตี้ได้รับเครดิตจากการละเมิด Uber Freight"
-    },
-    {
       "source": "The Verge",
       "flag": "US",
-      "category": "review",
-      "title_en": "Google’s Pixel 11 phone preorders come with up to $350 in gift cards",
-      "summary_en": "Looking to get your hands on the latest Pixel devices? After weeks of leaks and rumors, Google has officially announced its next generation of Pixel phones and watches. The base Pixel 11 starts at $899, the Pro and Pro XL are $1,099 and $1,299 respectively, and the Pro Fold starts at $1,899. The watch comes […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Matte-Black-on-Stands.jpg?quality=90&strip=all&crop=0%2C10.731298651824%2C100%2C78.537402696352&w=1200",
-      "link": "https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date",
-      "published": "2026-08-12T13:47:54-04:00",
-      "title_th": "การสั่งซื้อล่วงหน้าโทรศัพท์ Pixel 11 ของ Google มาพร้อมกับบัตรของขวัญมูลค่าสูงสุด 350 ดอลลาร์",
-      "summary_th": "กำลังมองหาอุปกรณ์ Pixel รุ่นล่าสุดอยู่ใช่ไหม? หลังจากหลายสัปดาห์ของการรั่วไหลและข่าวลือ Google ได้ประกาศโทรศัพท์และนาฬิกา Pixel รุ่นต่อไปอย่างเป็นทางการ Pixel 11 พื้นฐานเริ่มต้นที่ 899 เหรียญสหรัฐ Pro และ Pro XL อยู่ที่ 1,099 เหรียญสหรัฐและ 1,299 เหรียญสหรัฐ ตามลำดับ และ Pro Fold เริ่มต้นที่ 1,899 เหรียญสหรัฐ นาฬิกามา […]"
+      "category": "gadget",
+      "title_en": "Made by Google 2026 live blog: Let’s watch Trevor Noah talk about the Pixel 11",
+      "summary_en": "It's almost time for the Made by Google keynote, where the company will show off the brand-new Pixel hardware it announced today. Like last year, it'll be a celebrity-packed live show, though Trevor Noah is hosting instead of Jimmy Fallon. If the 2025 show was any indication, today's broadcast might be something of a cringefest. […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Hot-pink.jpg?quality=90&strip=all&crop=0%2C10.731298651824%2C100%2C78.537402696352&w=1200",
+      "link": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
+      "published": "2026-08-12T17:30:00-04:00",
+      "title_th": "บล็อกถ่ายทอดสด Made by Google 2026: มาดู Trevor Noah พูดถึง Pixel 11 กัน",
+      "summary_th": "เกือบจะถึงเวลาสำหรับประเด็นสำคัญ Made by Google ซึ่งบริษัทจะแสดงฮาร์ดแวร์ Pixel ใหม่ล่าสุดที่ประกาศในวันนี้ เช่นเดียวกับปีที่แล้ว มันจะเป็นการแสดงสดที่เต็มไปด้วยคนดัง แม้ว่า Trevor Noah จะมาเป็นพิธีกรแทน Jimmy Fallon ก็ตาม หากรายการในปี 2025 เป็นข้อบ่งชี้ การออกอากาศในวันนี้อาจจะเป็นเรื่องที่น่าหงุดหงิดที่สุด […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "software",
-      "title_en": "Twitch streamers can now opt out from training Amazon’s AI",
-      "summary_en": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "published": "2026-08-12T13:29:10-04:00",
-      "title_th": "สตรีมเมอร์ Twitch สามารถเลือกไม่รับการฝึกอบรม AI ของ Amazon ได้แล้ว",
-      "summary_th": "ขณะนี้ผู้ใช้ Twitch สามารถเลือกยกเลิกการอนุญาตให้ใช้เนื้อหาของตนเพื่อฝึกโมเดล AI เจนเนอเรชั่นของ Amazon ได้ การเลือกไม่ใช้หมายความว่า \"สตรีม VOD คลิป สตรีมแชท รูปภาพและข้อความในช่องของคุณ\" จะไม่ถูกนำมาใช้ใน \"การฝึกอบรมในอนาคต\" ของโมเดล Amazon AI \"ซึ่งมีจุดประสงค์เพื่อสร้างหรือสังเคราะห์ข้อความ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "How Google’s new Pixel 11 phones compare to last year’s models",
-      "summary_en": "Google just added four new phones to the Pixel family: the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and the Pixel 11 Pro Fold. They're slightly more expensive than their predecessors, but they come with some notable upgrades, including improved cameras and a new Tensor G6 chip that should deliver faster performance. The […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-green-back.jpg?quality=90&strip=all&crop=0%2C10.734932931758%2C100%2C78.530134136484&w=1200",
-      "link": "https://www.theverge.com/gadgets/975237/google-pixel-11-pro-comparison-specs-price-features",
-      "published": "2026-08-12T13:00:00-04:00",
-      "title_th": "โทรศัพท์ Pixel 11 ใหม่ของ Google เปรียบเทียบกับรุ่นปีที่แล้วอย่างไร",
-      "summary_th": "Google เพิ่งเพิ่มโทรศัพท์ใหม่สี่รุ่นในตระกูล Pixel: Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL และ Pixel 11 Pro Fold มีราคาแพงกว่ารุ่นก่อนเล็กน้อย แต่มาพร้อมกับการอัพเกรดที่โดดเด่น รวมถึงกล้องที่ได้รับการปรับปรุงและชิป Tensor G6 ใหม่ที่ควรให้ประสิทธิภาพที่เร็วขึ้น The […]"
+      "title_en": "This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off",
+      "summary_en": "If you’re looking for a mechanical keyboard that can give your desk a touch of retro flair, Amazon has 8BitDo’s Retro Mechanical Keyboard with Dual Super Buttons on sale for $69.99, one of the lowest prices we’ve seen for the bundle. The styling on this keyboard is thorough, with blocky retro legends on the rounded […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/8bitdo-mechanical-keyboard-buttons-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/gadgets/979263/8bitdo-mechanical-keyboard-galaxy-25-edge-deal-sale",
+      "published": "2026-08-12T17:21:09-04:00",
+      "title_th": "คีย์บอร์ดเชิงกล 8BitDo นี้มีปุ่มกดพิเศษและลดราคา 30 เปอร์เซ็นต์",
+      "summary_th": "หากคุณกำลังมองหาคีย์บอร์ดเชิงกลที่ช่วยให้โต๊ะของคุณมีกลิ่นอายย้อนยุค Amazon มีคีย์บอร์ด Retro Mechanical ของ 8BitDo พร้อมปุ่ม Dual Super ลดราคา 69.99 ดอลลาร์ ซึ่งเป็นหนึ่งในราคาที่ถูกที่สุดที่เราเคยเห็นในชุดรวม สไตล์บนคีย์บอร์ดนี้มีความละเอียดถี่ถ้วน พร้อมด้วยตำนานย้อนยุคแบบบล็อกบน […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "software",
-      "title_en": "ICE wants to give agents electrified gloves that shock people into compliance",
-      "summary_en": "Immigration and Customs Enforcement (ICE) is aiming to spend up to $20 million on equipping officers and agents with specialized gloves that deliver painful electric shocks. These plans were outlined in a notice published by the Department of Homeland Security on Monday, with an unspecified quantity of the devices set to be delivered by March […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2287296637.jpg?quality=90&strip=all&crop=0%2C10.729078293422%2C100%2C78.541843413156&w=1200",
-      "link": "https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves",
-      "published": "2026-08-12T12:58:29-04:00",
-      "title_th": "ICE ต้องการมอบถุงมือไฟฟ้าให้กับเจ้าหน้าที่เพื่อทำให้ผู้คนตกใจปฏิบัติตาม",
-      "summary_th": "สำนักงานตรวจคนเข้าเมืองและการบังคับใช้กฎหมายศุลกากร (ICE) ตั้งเป้าที่จะใช้จ่ายสูงถึง 20 ล้านดอลลาร์สหรัฐฯ เพื่อจัดเตรียมถุงมือชนิดพิเศษให้กับเจ้าหน้าที่และเจ้าหน้าที่ซึ่งสามารถทำให้เกิดไฟฟ้าช็อตอันเจ็บปวดได้ แผนเหล่านี้ระบุไว้ในประกาศที่เผยแพร่โดยกระทรวงความมั่นคงแห่งมาตุภูมิเมื่อวันจันทร์ โดยระบุจำนวนอุปกรณ์ที่ไม่ระบุกำหนดที่จะส่งมอบภายในเดือนมีนาคม […]"
+      "title_en": "Cats and dogs are missing meals after a popular smart feeder went down",
+      "summary_en": "A Petlibro outage is preventing its smart pet feeders and other devices from performing scheduled tasks, like dispensing food. The outage began on Tuesday, with users across Reddit reporting that their smart feeders, litter boxes, and water fountains have gone offline. Though Petlibro maintains that \"existing settings and schedules stored locally on your device will […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/petlibro-granary.webp?quality=90&strip=all&crop=0%2C0.91623036649214%2C100%2C98.167539267016&w=1200",
+      "link": "https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders",
+      "published": "2026-08-12T17:07:17-04:00",
+      "title_th": "สุนัขและแมวขาดอาหารหลังจากที่เครื่องให้อาหารอัจฉริยะยอดนิยมหยุดทำงาน",
+      "summary_th": "การหยุดทำงานของ Petlibro ทำให้เครื่องให้อาหารสัตว์เลี้ยงอัจฉริยะและอุปกรณ์อื่นๆ ไม่สามารถทำงานตามกำหนดเวลาได้ เช่น การจ่ายอาหาร การหยุดทำงานเริ่มขึ้นเมื่อวันอังคาร โดยผู้ใช้ทั่วทั้ง Reddit รายงานว่าเครื่องให้อาหารอัจฉริยะ ถังขยะ และน้ำพุได้ออฟไลน์ไปแล้ว แม้ว่า Petlibro จะยืนยันว่า \"การตั้งค่าและตารางเวลาที่มีอยู่ซึ่งจัดเก็บไว้ในอุปกรณ์ของคุณจะ […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "The next big indie game publisher is taking some exciting swings",
+      "summary_en": "Kinetic Publishing, a new indie publisher from the development team behind the co-op horror game Phasmophobia, just hosted its first games showcase, and it includes five ambitious new titles set to release in 2027 and 2028. Perhaps the most significant announcement from Kinetic's show is that it's publishing the next game from Telling Lies and […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/KP-Pregonition-Keyart-16x9-1920px.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "link": "https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition",
+      "published": "2026-08-12T15:30:00-04:00",
+      "title_th": "ผู้เผยแพร่เกมอินดี้รายใหญ่รายต่อไปกำลังพลิกผันที่น่าตื่นเต้น",
+      "summary_th": "Kinetic Publishing ผู้เผยแพร่เกมอินดี้รายใหม่จากทีมพัฒนาที่อยู่เบื้องหลังเกมแนวสยองขวัญ Co-op อย่าง Phasmophobia เพิ่งจัดงานแสดงเกมครั้งแรก และรวมเกมใหม่ทะเยอทะยานห้าเกมที่จะออกในปี 2027 และ 2028 บางทีการประกาศที่สำคัญที่สุดจากการแสดงของ Kinetic ก็คือจะมีการเผยแพร่เกมถัดไปจาก Telling Lies และ […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "gadget",
-      "title_en": "How the Pixel 11 Pro Fold compares to the Galaxy Z Fold 8",
-      "summary_en": "Google wasn't first to make a foldable Android phone, but the company's Pixel Fold series is now an established player with unique traits compared to its competitors. For one, it popularized the passport-style design years ago, being more wide than tall - something that Samsung tried for the first time this year with its Z […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Fold-closed-in-hands.jpg?quality=90&strip=all&crop=0%2C10.73125271425%2C100%2C78.5374945715&w=1200",
-      "link": "https://www.theverge.com/tech/972498/google-pixel-11-pro-fold-samsung-galaxy-z-fold-8-ultra-specs-comparison",
-      "published": "2026-08-12T12:00:00-04:00",
-      "title_th": "Pixel 11 Pro Fold เปรียบเทียบกับ Galaxy Z Fold 8 อย่างไร",
-      "summary_th": "Google ไม่ใช่เจ้าแรกที่ผลิตโทรศัพท์ Android แบบพับได้ แต่ซีรีส์ Pixel Fold ของบริษัทกลายเป็นผู้เล่นที่มีชื่อเสียงและมีลักษณะเฉพาะเมื่อเปรียบเทียบกับคู่แข่ง ประการแรก การออกแบบสไตล์หนังสือเดินทางทำให้เป็นที่นิยมเมื่อหลายปีก่อน โดยมีความกว้างมากกว่าความสูง ซึ่งเป็นสิ่งที่ Samsung พยายามเป็นครั้งแรกในปีนี้ด้วย Z […]"
+      "title_en": "It looks like Apple’s iPhone 18 really will skip the fall launch this year",
+      "summary_en": "According to an Economic Daily News report spotted by MacRumors, executives for Apple supplier Pegatron confirmed during an earnings call that the iPhone 18 Pro series phones will launch this fall, but the base iPhone 18 won't arrive until the first quarter of next year. The more affordable iPhone 18e and a new iPhone Air […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DSC01498.jpg?quality=90&strip=all&crop=0%2C10.628272251309%2C100%2C78.743455497382&w=1200",
+      "link": "https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed",
+      "published": "2026-08-12T15:27:47-04:00",
+      "title_th": "ดูเหมือนว่า iPhone 18 ของ Apple จะข้ามการเปิดตัวในช่วงฤดูใบไม้ร่วงปีนี้จริงๆ",
+      "summary_th": "ตามรายงานของ Economic Daily News โดย MacRumors ผู้บริหารของ Pegatron ซัพพลายเออร์ของ Apple ยืนยันในระหว่างการรายงานรายได้ว่าโทรศัพท์ซีรีส์ iPhone 18 Pro จะเปิดตัวในฤดูใบไม้ร่วงนี้ แต่ iPhone 18 รุ่นพื้นฐานจะไม่มาถึงจนถึงไตรมาสแรกของปีหน้า iPhone 18e ที่ราคาไม่แพงกว่าและ iPhone Air ใหม่ […]"
     },
     {
       "source": "Ars Technica",
@@ -156,7 +156,7 @@
       "link": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
       "published": "Thu, 30 Jul 2026 20:57:22 +0000",
       "title_th": "ข้อบกพร่องเซิร์ฟเวอร์ Exchange ระดับความรุนแรงสูงสุดภายใต้การใช้ประโยชน์โดยแฮกเกอร์เครมลิน",
-      "summary_th": "การหาประโยชน์สามารถให้การเข้าถึงเซิร์ฟเวอร์แบบถาวรที่รอดจากการหมุนเวียนข้อมูลรับรองและการสร้างอิมเมจดิสก์ใหม่"
+      "summary_th": "การหาประโยชน์สามารถให้การเข้าถึงเซิร์ฟเวอร์แบบถาวรที่รอดจากการหมุนเวียนข้อมูลรับรองและการสร้างอิมเมจใหม่ของดิสก์"
     },
     {
       "source": "Ars Technica",
@@ -185,6 +185,42 @@
     {
       "source": "Wired",
       "flag": "US",
+      "category": "ai",
+      "title_en": "The White House Is Going to Expand Its AI Policy",
+      "summary_en": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
+      "image": "https://media.wired.com/photos/6a7bbf68f5d2df0bb3e19f91/master/pass/politics_white_house_ai_policy.jpg",
+      "link": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+      "published": "Wed, 12 Aug 2026 21:00:00 +0000",
+      "title_th": "ทำเนียบขาวกำลังจะขยายนโยบาย AI",
+      "summary_th": "โมเดลแบบเปิดอาจถูกเพิ่มลงในกรอบงาน AI ที่อัปเดตเร็วๆ นี้ แหล่งข่าวบอก WIRED เนื่องจากทำเนียบขาวยังคงต่อสู้กับวิธีควบคุมเทคโนโลยีที่ตนพยายามไม่ควบคุม"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "The Gender War Over ‘Obsession’ Has Come for Theme Parks",
+      "summary_en": "Debate over the true villain in Obsession is raging again after Universal Studios announced the movie’s female lead will be featured at an upcoming Halloween event.",
+      "image": "https://media.wired.com/photos/6a7b91ac24d089e773714711/master/pass/Gender-War-Over-Obsession-Has-Come-for-Theme-Parks-Culture-MCDOBSE_UC013.jpg",
+      "link": "https://www.wired.com/story/the-gender-war-over-obsession-has-come-for-theme-parks/",
+      "published": "Wed, 12 Aug 2026 19:05:29 +0000",
+      "title_th": "สงครามทางเพศเหนือ 'ความหลงใหล' เกิดขึ้นแล้วสำหรับสวนสนุก",
+      "summary_th": "การถกเถียงเรื่องตัวร้ายตัวจริงใน Obsession กำลังดุเดือดอีกครั้งหลังจากที่ Universal Studios ประกาศว่านักแสดงนำหญิงของภาพยนตร์เรื่องนี้จะถูกนำเสนอในงานฮาโลวีนที่กำลังจะมาถึง"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
+      "summary_en": "AI agents that break free and hack into other systems are only trying to make us happy.",
+      "image": "https://media.wired.com/photos/6a7b77e36e37f6db6a06a372/master/pass/AI-Lab-Why-Are-AI-Agents-So-Naughty-Business.jpg",
+      "link": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
+      "published": "Wed, 12 Aug 2026 18:45:00 +0000",
+      "title_th": "เจ้าหน้าที่ AI Rogue ไม่ใช่ผู้ชั่วร้าย พวกเขาแค่กระตือรือร้นที่จะโปรด",
+      "summary_th": "เจ้าหน้าที่ AI ที่หลุดพ้นและเจาะระบบอื่น ๆ เป็นเพียงการพยายามทำให้เรามีความสุขเท่านั้น"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
       "category": "gadget",
       "title_en": "Google’s Pixel Watch 5 Can Now Detect Breathing Emergencies",
       "summary_en": "The company is also adding blood pressure and insulin resistance trends as proactive monitoring tools in the Google Health app.",
@@ -193,18 +229,6 @@
       "published": "Wed, 12 Aug 2026 14:07:59 +0000",
       "title_th": "Pixel Watch 5 ของ Google สามารถตรวจจับภาวะฉุกเฉินจากการหายใจได้แล้ว",
       "summary_th": "บริษัทยังเพิ่มแนวโน้มความดันโลหิตและการดื้อต่ออินซูลินให้เป็นเครื่องมือติดตามเชิงรุกในแอป Google Health"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Google Pixel 11 Series, Pixel Watch 5, Pixel Tag: Specs, Features, Price, Release Date",
-      "summary_en": "The Pixel 11 smartphone lineup is here, alongside the Pixel Watch 5 and the all-new Pixel Tag.",
-      "image": "https://media.wired.com/photos/6a7b4d94497594c1a2fa47c9/master/pass/Top%20Art%20of%20Pixel%2011%20Family%20SOURCE%20Julian%20Chokkattu.jpg",
-      "link": "https://www.wired.com/story/pixel-11-pixel-watch-5-pixel-tag-everything-google-announced-at-its-made-by-google-2026-event/",
-      "published": "Wed, 12 Aug 2026 14:00:00 +0000",
-      "title_th": "Google Pixel 11 Series, Pixel Watch 5, แท็ก Pixel: ข้อมูลจำเพาะ คุณสมบัติ ราคา วันที่วางจำหน่าย",
-      "summary_th": "กลุ่มผลิตภัณฑ์สมาร์ทโฟน Pixel 11 อยู่ที่นี่พร้อมกับ Pixel Watch 5 และ Pixel Tag ใหม่ล่าสุด"
     },
     {
       "source": "Wired",
@@ -219,28 +243,16 @@
       "summary_th": "ตั้งแต่ Magic Capture และ Instant Night Sight ไปจนถึง teleprompter ในตัว ต่อไปนี้คือคุณลักษณะบางประการของกล้องใน Pixel 11 series ใหม่ของ Google"
     },
     {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
       "category": "ai",
-      "title_en": "Honor’s Robot Phone Has a Gimbal-Powered Camera for Vloggers",
-      "summary_en": "Honor’s new China-exclusive Android phone features a pop-out motorized gimbal camera designed to replace your action cam.",
-      "image": "https://media.wired.com/photos/6a75da7ed929cd224b874e97/master/pass/Honor%20Robot%20Phone%20SOURCE%20Julian%20Chokkattu(1).jpg",
-      "link": "https://www.wired.com/story/honor-robot-phone/",
-      "published": "Wed, 12 Aug 2026 12:30:00 +0000",
-      "title_th": "โทรศัพท์หุ่นยนต์ของ Honor มีกล้องที่ขับเคลื่อนด้วยกิมบอลสำหรับ Vloggers",
-      "summary_th": "โทรศัพท์ Android รุ่นใหม่เฉพาะในจีนของ Honor มีกล้องกิมบอลแบบมอเตอร์แบบป๊อปเอาท์ที่ออกแบบมาเพื่อแทนที่กล้องแอคชั่นแคมของคุณ"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "This Coin-Sized Device Can Hack a Boeing 737",
-      "summary_en": "Security researchers found that in less than 60 seconds, they could open a hatch on a plane’s exterior, plug in a tiny device, and redirect the aircraft’s autopilot or sabotage its flight plan.",
-      "image": "https://media.wired.com/photos/6a7b869fe7d5fc6f31658f9b/master/pass/Security_60SecondsofAccessandThisCoin-SizedDevice-02.gif",
-      "link": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
-      "published": "Wed, 12 Aug 2026 12:00:00 +0000",
-      "title_th": "อุปกรณ์ขนาดเหรียญนี้สามารถแฮ็กเครื่องบินโบอิ้ง 737 ได้",
-      "summary_th": "นักวิจัยด้านความปลอดภัยพบว่าภายในเวลาไม่ถึง 60 วินาที พวกเขาสามารถเปิดประตูด้านนอกของเครื่องบิน เสียบอุปกรณ์ขนาดเล็ก และเปลี่ยนเส้นทางระบบขับเคลื่อนอัตโนมัติของเครื่องบิน หรือทำลายแผนการบินของเครื่องบินได้"
+      "title_en": "Scientists just created female clones of male mice",
+      "summary_en": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice. “No one has done this before,” says Monika Ward, a reproductive biologist at the University of Hawaii, who…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/mice.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+      "published": "Wed, 12 Aug 2026 18:59:48 +0000",
+      "title_th": "นักวิทยาศาสตร์เพิ่งสร้างโคลนตัวเมียของหนูตัวผู้",
+      "summary_th": "นักวิทยาศาสตร์จงใจเปลี่ยนตัวอ่อนของหนูตัวผู้ให้เป็นตัวเมียเป็นครั้งแรก ทีมงานในญี่ปุ่นใช้วิธีการแบบ CRISPR เพื่อกำจัดโครโมโซม Y ออกจากเซลล์ตัวผู้ และสร้างโคลนตัวเมียของหนูตัวผู้ “ไม่มีใครเคยทำเช่นนี้มาก่อน” โมนิกา วอร์ด นักชีววิทยาการเจริญพันธุ์จากมหาวิทยาลัยฮาวาย กล่าว ซึ่ง..."
     },
     {
       "source": "MIT Technology Review",
@@ -276,7 +288,7 @@
       "link": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
       "published": "Wed, 12 Aug 2026 09:08:40 +0000",
       "title_th": "เราเลือกนักวิทยาศาสตร์และวิศวกรรุ่นเยาว์ชั้นนำของโลกจำนวน 35 คนได้อย่างไร",
-      "summary_th": "ในเดือนหน้า ในวันที่ 8 กันยายน MIT Technology Review จะเปิดเผยรายชื่อนักนวัตกรรมอายุต่ำกว่า 35 ปีประจำปี 2026 โดยยกย่องคนหนุ่มสาว 35 คนจากทั่วโลกที่ทำงานทางวิทยาศาสตร์ที่ก้าวล้ำและสร้างการแก้ไขทางเทคนิคที่ชาญฉลาดสำหรับปัญหาที่เหนียวแน่น ด้วยการค้นหานักสร้างสรรค์รุ่นใหม่ชั้นนำทั่วโลกและเรียนรู้สิ่งที่พวกเขามุ่งเน้นในงานของพวกเขา..."
+      "summary_th": "ในเดือนหน้า ในวันที่ 8 กันยายน MIT Technology Review จะเปิดเผยรายชื่อนักนวัตกรรมอายุต่ำกว่า 35 ปีประจำปี 2026 โดยยกย่องคนหนุ่มสาว 35 คนจากทั่วโลกที่ทำงานทางวิทยาศาสตร์ที่ก้าวล้ำและสร้างการแก้ไขทางเทคนิคที่ชาญฉลาดสำหรับปัญหาที่เหนียวแน่น ด้วยการค้นหานักสร้างสรรค์นวัตกรรมรุ่นเยาว์ชั้นนำทั่วโลกและเรียนรู้สิ่งที่พวกเขามุ่งเน้นในงานของพวกเขา..."
     },
     {
       "source": "MIT Technology Review",
@@ -291,16 +303,40 @@
       "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี สตาร์ทอัพเหล่านี้กำลังไล่ตามสิ่งที่ยิ่งใหญ่ต่อไปใน LLM เก้าปีหลังจากที่นักวิจัยของ Google เปิดตัวหม้อแปลงไฟฟ้า โครงข่ายประสาทเทียมตระกูลนี้ได้กลายเป็นกลไกภายในทุก ๆ..."
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "AI professors are negotiating the new realities of academic research",
-      "summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/pacademicAI1a.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-      "published": "Mon, 10 Aug 2026 20:00:00 +0000",
-      "title_th": "อาจารย์ด้าน AI กำลังเจรจากับความเป็นจริงใหม่ของการวิจัยเชิงวิชาการ",
-      "summary_th": "เรื่องราวนี้เดิมปรากฏใน The Algorithm ซึ่งเป็นจดหมายข่าวรายสัปดาห์เกี่ยวกับ AI ของเรา หากต้องการรับเรื่องราวเช่นนี้ในกล่องจดหมายของคุณก่อน ลงทะเบียนที่นี่ สัปดาห์ที่แล้ว ฉันมุ่งหน้าไปทางใต้ 30 ไมล์จากซานฟรานซิสโกไปยังโรงแรมในเมาท์เทนวิว แคลิฟอร์เนีย เพื่อเข้าร่วมกับบริษัท AI ที่ประสบความสำเร็จมากที่สุดและมีแนวโน้มมากที่สุด"
+      "category": "chip",
+      "title_en": "German nonprofit files criminal complaint over Meta smart glasses privacy",
+      "summary_en": "Worrying about Google Glassholes almost feels quaint in comparison.",
+      "image": "https://www.engadget.com/img/gallery/german-nonprofit-files-criminal-complaint-over-meta-smart-glasses-privacy/l-intro-1786567094.jpg",
+      "link": "https://www.engadget.com/2235857/german-nonprofit-files-criminal-complaint-over-meta-smart-glasses-privacy/",
+      "published": "Wed, 12 Aug 2026 20:43:06 +0000",
+      "title_th": "องค์กรไม่แสวงผลกำไรในเยอรมนียื่นฟ้องร้องคดีอาญาเกี่ยวกับความเป็นส่วนตัวของ Meta Smart Glasses",
+      "summary_th": "ความกังวลเกี่ยวกับ Google Glassholes เกือบจะรู้สึกแปลกตาเมื่อเปรียบเทียบ"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "FlightAware dropped its lawsuit against Kalshi after just one day",
+      "summary_en": "FlightAware's case against Kalshi has been voluntarily dismissed \"without prejudice against all defendants.\"",
+      "image": "https://www.engadget.com/img/gallery/flightaware-dropped-its-lawsuit-against-kalshi-after-just-one-day/l-intro-1786563079.jpg",
+      "link": "https://www.engadget.com/2235769/flightaware-dropped-its-lawsuit-against-kalshi-after-just-one-day/",
+      "published": "Wed, 12 Aug 2026 19:33:29 +0000",
+      "title_th": "FlightAware ถอนฟ้อง Kalshi หลังจากผ่านไปเพียงหนึ่งวัน",
+      "summary_th": "คดีของ FlightAware ต่อ Kalshi ถูกยกเลิกโดยสมัครใจ \"โดยไม่มีอคติต่อจำเลยทุกคน\""
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Pixel Buds Pro 2 and 2a are getting some upgrades, including deeper Gemini integration",
+      "summary_en": "Google didn't have any new headphones this year, but some new features are coming to the Pixel Buds.",
+      "image": "https://www.engadget.com/img/gallery/pixel-buds-pro-2-and-2a-are-getting-some-upgrades-including-deeper-gemini-integration/l-intro-1786560660.jpg",
+      "link": "https://www.engadget.com/2235726/pixel-buds-pro-2-and-2a-are-getting-some-upgrades-including-deeper-gemini-integration/",
+      "published": "Wed, 12 Aug 2026 18:52:33 +0000",
+      "title_th": "Pixel Buds Pro 2 และ 2a กำลังได้รับการอัปเกรดบางอย่าง รวมถึงการผสานรวม Gemini ที่ลึกยิ่งขึ้น",
+      "summary_th": "Google ไม่มีหูฟังใหม่ในปีนี้ แต่ Pixel Buds มีฟีเจอร์ใหม่บางอย่าง"
     },
     {
       "source": "Engadget",
@@ -323,44 +359,8 @@
       "image": "https://www.engadget.com/img/gallery/twitch-streamers-can-now-refuse-to-let-amazon-train-its-genai-models-on-their-content/l-intro-1786556726.jpg",
       "link": "https://www.engadget.com/2235647/twitch-streamers-can-now-refuse-to-let-amazon-train-its-gen-ai-models-on-their-content/",
       "published": "Wed, 12 Aug 2026 17:46:29 +0000",
-      "title_th": "ขณะนี้สตรีมเมอร์ Twitch สามารถปฏิเสธที่จะให้ Amazon ฝึกโมเดล genAI ในเนื้อหาของตนได้",
+      "title_th": "ขณะนี้สตรีมเมอร์ Twitch สามารถปฏิเสธที่จะให้ Amazon ฝึกฝนโมเดล genAI ในเนื้อหาของตนได้",
       "summary_th": "ขณะนี้มีการสลับการเลือกไม่ใช้งานสำหรับสิ่งที่ควรเลือกไว้ตั้งแต่แรก"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Honor launches its long-awaited Robot Phone and yes it can wiggle at you",
-      "summary_en": "The big news with Honor's latest is the automated pop-up camera gimbal.",
-      "image": "https://www.engadget.com/img/gallery/honor-launches-its-long-awaited-robot-phone-and-yes-it-can-wiggle-at-you/l-intro-1786556506.jpg",
-      "link": "https://www.engadget.com/2235640/honor-launches-its-long-awaited-robot-phone-and-yes-it-can-wiggle-at-you/",
-      "published": "Wed, 12 Aug 2026 17:42:53 +0000",
-      "title_th": "Honor เปิดตัว Robot Phone ที่รอคอยมานาน และใช่แล้ว มันสามารถกระดิกมาที่คุณได้",
-      "summary_th": "ข่าวใหญ่ล่าสุดของ Honor คือ gimbal กล้องป๊อปอัพอัตโนมัติ"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "I'm more excited about smartphone colors than any actual new features in 2026",
-      "summary_en": "Forget AI, we are most looking forward to fun new colors this coming hardware season.",
-      "image": "https://www.engadget.com/img/gallery/im-more-excited-about-smartphone-colors-than-any-actual-new-features-this-year/l-intro-1786550230.jpg",
-      "link": "https://www.engadget.com/2235525/why-excited-about-smartphone-colors-in-2026/",
-      "published": "Wed, 12 Aug 2026 17:00:00 +0000",
-      "title_th": "ฉันตื่นเต้นกับสีสันของสมาร์ทโฟนมากกว่าฟีเจอร์ใหม่ใดๆ ในปี 2026",
-      "summary_th": "ลืม AI ไปได้เลย เราตั้งตารอที่จะพบกับสีสันใหม่ๆ ที่สนุกสนานในฤดูกาลฮาร์ดแวร์ที่กำลังจะมาถึงนี้"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "HDMI splitter vs. HDMI switch: How are they different?",
-      "summary_en": "While an HDMI switch can route signals from several inputs to one TV, a splitter routes one input to multiple TVs. Here",
-      "image": "https://www.engadget.com/img/gallery/hdmi-splitter-vs-hdmi-switch-how-are-they-different/l-intro-1786025963.jpg",
-      "link": "https://www.engadget.com/2231585/hdmi-splitter-vs-switch-how-different/",
-      "published": "Wed, 12 Aug 2026 16:30:00 +0000",
-      "title_th": "ตัวแยกสัญญาณ HDMI กับสวิตช์ HDMI: ต่างกันอย่างไร",
-      "summary_th": "แม้ว่าสวิตช์ HDMI จะสามารถส่งสัญญาณจากอินพุตหลายช่องไปยังทีวีเครื่องเดียวได้ แต่ตัวแยกสัญญาณจะกำหนดเส้นทางอินพุตหนึ่งไปยังทีวีหลายเครื่อง ที่นี่"
     },
     {
       "source": "IEEE Spectrum",
@@ -408,7 +408,7 @@
       "link": "https://spectrum.ieee.org/navigating-pivot-tech-expert-leader",
       "published": "Fri, 07 Aug 2026 18:00:01 +0000",
       "title_th": "การนำทาง Pivot จากผู้เชี่ยวชาญด้านเทคโนโลยีไปจนถึงผู้นำองค์กร",
-      "summary_th": "การเปลี่ยนจากผู้เชี่ยวชาญทางเทคนิคล้วนๆ หรือตำแหน่งผู้ร่วมให้ข้อมูลรายบุคคลไปสู่บทบาทผู้นำที่กว้างขึ้นถือเป็นหนึ่งในขั้นตอนที่ท้าทายที่สุดในอาชีพ STEM จำเป็นต้องเปลี่ยนจากการพึ่งพาความเป็นเลิศทางเทคนิคเพียงอย่างเดียวไปสู่การคิดอย่างเป็นระบบ ความเป็นผู้นำที่ปรับเปลี่ยนได้ และการจัดตำแหน่งทีม เพื่อช่วยให้ผู้ประกอบวิชาชีพระดับกลางก้าวผ่านการเปลี่ยนแปลง การประชุม IEEE International Leadership Conference ครั้งแรกได้รับการออกแบบเพื่อให้ผู้เข้าร่วมมีเครื่องมือที่ใช้งานได้จริงเพื่อก้าวเข้าสู่ความรับผิดชอบที่กว้างขึ้นและส่งเสริมกรอบความคิดของผู้ประกอบการ งาน ILC มีกำหนดในวันที่ 3 และ 4 ตุลาคมในบูดาเปสต์ เปิดลงทะเบียนแล้ว คิดให้ไกลกว่าการมีส่วนร่วมทางเทคนิค เพื่อให้ประสบความสำเร็จในการก้าวเข้าสู่บทบาทผู้นำ ผู้เชี่ยวชาญด้านเทคนิคจำเป็นต้องมองข้ามผลงานของตนเองและมุ่งเน้นไปที่ \"คุณ\""
+      "summary_th": "การเปลี่ยนจากผู้เชี่ยวชาญทางเทคนิคล้วนๆ หรือตำแหน่งผู้ร่วมให้ข้อมูลรายบุคคลไปสู่บทบาทผู้นำที่กว้างขึ้นถือเป็นหนึ่งในขั้นตอนที่ท้าทายที่สุดในอาชีพ STEM จำเป็นต้องเปลี่ยนจากการพึ่งพาความเป็นเลิศทางเทคนิคเพียงอย่างเดียวไปสู่การคิดอย่างเป็นระบบ ความเป็นผู้นำที่ปรับเปลี่ยนได้ และการจัดตำแหน่งทีม เพื่อช่วยให้ผู้ประกอบอาชีพระดับกลางก้าวผ่านการเปลี่ยนแปลง การประชุม IEEE International Leadership Conference ครั้งแรก ได้รับการออกแบบมาเพื่อมอบเครื่องมือที่ใช้งานได้จริงแก่ผู้เข้าร่วมเพื่อก้าวเข้าสู่ความรับผิดชอบที่กว้างขึ้นและส่งเสริมกรอบความคิดของผู้ประกอบการ งาน ILC มีกำหนดในวันที่ 3 และ 4 ตุลาคมในบูดาเปสต์ เปิดลงทะเบียนแล้ว คิดให้ไกลกว่าการมีส่วนร่วมทางเทคนิค เพื่อประสบความสำเร็จในการก้าวเข้าสู่บทบาทผู้นำ ผู้เชี่ยวชาญด้านเทคนิคจำเป็นต้องมองข้ามผลงานของตนเองและมุ่งเน้นไปที่ \"คุณ\""
     },
     {
       "source": "IEEE Spectrum",
@@ -420,67 +420,103 @@
       "link": "https://spectrum.ieee.org/v2x-technology-5g-open-ran",
       "published": "Fri, 07 Aug 2026 13:00:01 +0000",
       "title_th": "รถยนต์ที่สื่อสารกันไม่ดีคือปัญหาที่ได้รับการแก้ไขแล้ว",
-      "summary_th": "ประวัติความเป็นมาของเครือข่ายเต็มไปด้วยเครื่องมือที่นำวิธีแก้ไขปัญหาประเภทต่างๆ มาใช้ใหม่ก่อน ต้นกำเนิดของ Wi-Fi ส่วนหนึ่งย้อนกลับไปที่ทีมนักดาราศาสตร์วิทยุชาวออสเตรเลียที่พยายามตรวจจับสัญญาณจากการระเหยของหลุมดำ แต่เครื่องมือประมวลผลข้อมูลที่พวกเขาพัฒนาขึ้นยังได้รับการพิสูจน์แล้วว่าสามารถดึงข้อความที่ชัดเจนจากสภาพแวดล้อมของสัญญาณสะท้อนที่วุ่นวายได้ เสียงสะท้อนก็คือเสียงสะท้อน ไม่ว่าจะมาจากระบบดาวอันห่างไกลหรือจากมุมไกลของบ้าน ฉันค้นคว้าเครือข่ายการสื่อสารของยานพาหนะ การเชื่อมต่อรถยนต์กับรถยนต์ และโครงสร้างพื้นฐานด้านการคมนาคม เช่น สัญญาณไฟจราจร สำหรับเครือข่าย Vehicle-to-everthing (V2X) ในอนาคต การวิจัย V2X อาศัยโมเดลที่ถือว่าสภาพเครือข่าย \"สมบูรณ์แบบ\" หรือ \"อุดมคติ\" มานานแล้ว ซึ่งเป็นสมมติฐานที่ทำให้ง่ายขึ้นว่า"
+      "summary_th": "ประวัติความเป็นมาของเครือข่ายเต็มไปด้วยเครื่องมือที่นำวิธีแก้ไขปัญหาประเภทต่างๆ มาใช้ใหม่ก่อน ต้นกำเนิดของ Wi-Fi ส่วนหนึ่งย้อนกลับไปที่ทีมนักดาราศาสตร์วิทยุชาวออสเตรเลียที่พยายามตรวจจับสัญญาณจากการระเหยของหลุมดำ แต่เครื่องมือประมวลผลข้อมูลที่พวกเขาพัฒนาขึ้นยังได้รับการพิสูจน์แล้วว่าสามารถดึงข้อความที่ชัดเจนจากสภาพแวดล้อมของสัญญาณสะท้อนที่วุ่นวายได้ เสียงสะท้อนก็คือเสียงสะท้อน ไม่ว่าจะมาจากระบบดาวอันห่างไกลหรือจากมุมไกลของบ้าน ฉันค้นคว้าเครือข่ายการสื่อสารของยานพาหนะ การเชื่อมต่อรถยนต์กับรถยนต์ และโครงสร้างพื้นฐานด้านการขนส่ง เช่น สัญญาณไฟจราจร สำหรับเครือข่าย Vehicle-to-everthing (V2X) ในอนาคต การวิจัย V2X อาศัยโมเดลที่ถือว่าสภาพเครือข่าย \"สมบูรณ์แบบ\" หรือ \"อุดมคติ\" มานานแล้ว ซึ่งเป็นสมมติฐานที่ทำให้ง่ายขึ้นว่า"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "MLB iPhone app just got better with new CarPlay and Live Activity features",
-      "summary_en": "The official MLB app for iPhone is rolling out a useful update for fans who want to follow more games. Both the CarPlay app and Live Activity experience has improved in a few ways.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/MLB-app.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/12/mlb-iphone-app-just-got-better-with-new-carplay-and-live-activity-features/",
-      "published": "Wed, 12 Aug 2026 18:10:42 +0000",
-      "title_th": "แอพ MLB iPhone ดียิ่งขึ้นด้วยคุณสมบัติ CarPlay และ Live Activity ใหม่",
-      "summary_th": "แอพ MLB อย่างเป็นทางการสำหรับ iPhone กำลังเปิดตัวอัปเดตที่เป็นประโยชน์สำหรับแฟน ๆ ที่ต้องการติดตามเกมเพิ่มเติม ทั้งแอพ CarPlay และประสบการณ์ Live Activity ได้รับการปรับปรุงให้ดีขึ้นบางประการ"
+      "title_en": "Report: US smartphone sales fell 5% in Q2 2026 as prices keep climbing",
+      "summary_en": "A new Counterpoint Research report says pricing pressure from rising memory costs squeezed the low-end US smartphone segment in Q2 2026, with smaller manufacturers hit particularly hard as larger brands were better able to absorb component cost increases. Here are the details.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-17-pro-and-max.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/12/report-us-smartphone-sales-fell-5-in-q2-2026-as-prices-keep-climbing/",
+      "published": "Wed, 12 Aug 2026 21:01:51 +0000",
+      "title_th": "รายงาน: ยอดขายสมาร์ทโฟนในสหรัฐฯ ลดลง 5% ในไตรมาสที่ 2 ปี 2026 เนื่องจากราคาพุ่งสูงขึ้นอย่างต่อเนื่อง",
+      "summary_th": "รายงาน Counterpoint Research ฉบับใหม่ระบุว่าแรงกดดันด้านราคาจากต้นทุนหน่วยความจำที่เพิ่มขึ้นบีบกลุ่มสมาร์ทโฟนระดับล่างของสหรัฐฯ ในไตรมาสที่ 2 ปี 2026 โดยผู้ผลิตรายเล็กได้รับผลกระทบอย่างหนักเป็นพิเศษ เนื่องจากแบรนด์ขนาดใหญ่สามารถดูดซับต้นทุนส่วนประกอบที่เพิ่มขึ้นได้ดีกว่า นี่คือรายละเอียด"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Claude’s Chrome side panel is now a full Cowork session",
+      "summary_en": "Claude is turning its Chrome side panel into a full Cowork session, allowing browser-based tasks and conversations to follow users across Claude’s other apps.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/12/claude-cowork-chrome/",
+      "published": "Wed, 12 Aug 2026 20:46:00 +0000",
+      "title_th": "แผงด้านข้าง Chrome ของ Claude กลายเป็นเซสชัน Cowork เต็มรูปแบบแล้ว",
+      "summary_th": "Claude กำลังเปลี่ยนแผงด้านข้างของ Chrome ให้เป็นเซสชัน Cowork เต็มรูปแบบ ช่วยให้งานและการสนทนาบนเบราว์เซอร์สามารถติดตามผู้ใช้ในแอปอื่นๆ ของ Claude"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "review",
-      "title_en": "BowFlex T6 review: Apple GymKit comes home at a normal treadmill price",
-      "summary_en": "If you use an Apple Watch with cardio equipment, GymKit should be on your radar. It’s the best way for Apple Watch and a fitness machine like a treadmill or elliptical to exchange workout data, producing more accurate measurements than either device can provide alone. Apple introduced GymKit with watchOS 4 in 2017, but compatible equipment has remained surprisingly difficult to find. The good news is that, nearly a decade later, you no longer need to spend around $15,000 on a GymKit treadmill. Instead, you can spend around $1,000 on an excellent home treadmill that works with Apple Watch. I’ve been testing the BowFlex T6 treadmill this summer, and its combination of GymKit support, approachable pricing, and dial controls makes it easy to recommend.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/BowFlex-T6-Apple-Watch-GymKit.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/12/bowflex-t6-review-apple-gymkit-comes-home-at-a-normal-treadmill-price/",
-      "published": "Wed, 12 Aug 2026 17:55:57 +0000",
-      "title_th": "รีวิว BowFlex T6: Apple GymKit กลับมาบ้านในราคาลู่วิ่งปกติ",
-      "summary_th": "หากคุณใช้ Apple Watch กับอุปกรณ์คาร์ดิโอ GymKit ควรอยู่ในเรดาร์ของคุณ นี่เป็นวิธีที่ดีที่สุดสำหรับ Apple Watch และเครื่องออกกำลังกาย เช่น ลู่วิ่งหรือเครื่องเดินวงรี ในการแลกเปลี่ยนข้อมูลการออกกำลังกาย ทำให้สามารถวัดผลได้แม่นยำมากกว่าที่อุปกรณ์ทั้งสองจะทำได้เพียงอย่างเดียว Apple เปิดตัว GymKit พร้อม watchOS 4 ในปี 2560 แต่อุปกรณ์ที่เข้ากันได้ยังคงหายากอย่างน่าประหลาดใจ ข่าวดีก็คือ เกือบหนึ่งทศวรรษต่อมา คุณไม่จำเป็นต้องใช้จ่ายประมาณ 15,000 เหรียญสหรัฐกับลู่วิ่ง GymKit อีกต่อไป คุณสามารถใช้จ่ายเงินประมาณ 1,000 เหรียญสหรัฐสำหรับลู่วิ่งไฟฟ้าในบ้านที่ยอดเยี่ยมที่ใช้งานได้กับ Apple Watch ฉันได้ทดสอบลู่วิ่ง BowFlex T6 ในฤดูร้อนนี้ และการผสมผสานระหว่างการรองรับ GymKit ราคาที่เข้าถึงได้ และการควบคุมการหมุนทำให้ง่ายต่อการแนะนำ"
+      "title_en": "Apple billboard featuring toddler with iPhone causes controversy in Italy",
+      "summary_en": "An Apple billboard showing a toddler holding an iPhone has drawn criticism in Italy, prompting the country’s children’s rights watchdog to refer the ad to three regulators for review. Here are the details.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-logo-milan-store.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/12/apple-billboard-featuring-toddler-with-iphone-causes-controversy-in-italy/",
+      "published": "Wed, 12 Aug 2026 20:16:03 +0000",
+      "title_th": "ป้ายโฆษณา Apple ที่มีภาพเด็กวัยหัดเดินถือ iPhone ก่อให้เกิดความขัดแย้งในอิตาลี",
+      "summary_th": "ป้ายโฆษณาของ Apple ที่แสดงภาพเด็กวัยหัดเดินถือ iPhone ทำให้เกิดเสียงวิพากษ์วิจารณ์ในอิตาลี ส่งผลให้หน่วยงานเฝ้าระวังด้านสิทธิเด็กของประเทศส่งโฆษณาดังกล่าวไปให้หน่วยงานกำกับดูแล 3 แห่งตรวจสอบ นี่คือรายละเอียด"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "iPhone 18 Pro set to become Apple’s new default model",
-      "summary_en": "iPhone 18 Pro is being unveiled in mere weeks , and due to a lineup overhaul this year, it’s set to become Apple’s new default model like never before.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/12/iphone-18-pro-set-to-become-apples-new-default-model/",
-      "published": "Wed, 12 Aug 2026 17:50:20 +0000",
-      "title_th": "iPhone 18 Pro ถูกกำหนดให้เป็นรุ่นเริ่มต้นใหม่ของ Apple",
-      "summary_th": "iPhone 18 Pro กำลังจะเปิดตัวในอีกไม่กี่สัปดาห์ และเนื่องจากการยกเครื่องกลุ่มผลิตภัณฑ์ในปีนี้ จึงถูกกำหนดให้เป็นรุ่นเริ่มต้นใหม่ของ Apple อย่างที่ไม่เคยมีมาก่อน"
+      "title_en": "watchOS 27 will add two new apps to your Apple Watch",
+      "summary_en": "watchOS 27 is the next major software update for Apple Watch, and among its variety of new features , it will add two new apps to your Watch.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/watchos-27-new-app-grid-home-screen.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/12/watchos-27-will-add-two-new-apps-to-your-apple-watch/",
+      "published": "Wed, 12 Aug 2026 20:15:16 +0000",
+      "title_th": "watchOS 27 จะเพิ่มแอพใหม่สองแอพให้กับ Apple Watch ของคุณ",
+      "summary_th": "watchOS 27 เป็นการอัพเดตซอฟต์แวร์ครั้งใหญ่ครั้งต่อไปสำหรับ Apple Watch และในบรรดาคุณสมบัติใหม่ๆ ที่หลากหลาย จะเพิ่มแอพใหม่ 2 แอพลงใน Watch ของคุณ"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "iPhone Ultra’s cameras might get very unorthodox placement, per leak",
-      "summary_en": "iPhone Ultra will be unveiled next month , and a new leak indicates the device’s front cameras could be positioned in unusual spots.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/12/iphone-ultras-cameras-might-get-very-unorthodox-placement-per-leak/",
-      "published": "Wed, 12 Aug 2026 17:27:04 +0000",
-      "title_th": "กล้องของ iPhone Ultra อาจได้รับการจัดวางที่แหวกแนวมากต่อการรั่วไหล",
-      "summary_th": "iPhone Ultra จะเปิดตัวในเดือนหน้า และการรั่วไหลครั้งใหม่ระบุว่ากล้องด้านหน้าของอุปกรณ์อาจอยู่ในตำแหน่งที่ผิดปกติ"
+      "title_en": "Eddy Cue said the thing we wanted to hear on future Ted Lasso seasons",
+      "summary_en": "Ted Lasso has returned ( watch here ) for a highly anticipated fourth season, and Apple TV exec Eddy Cue has now hinted that the show has a long and bright future ahead beyond this season.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/ted-lasso-s4-red.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/12/eddy-cue-said-the-thing-we-wanted-to-hear-on-future-ted-lasso-seasons/",
+      "published": "Wed, 12 Aug 2026 19:27:21 +0000",
+      "title_th": "Eddy Cue กล่าวถึงสิ่งที่เราอยากได้ยินเกี่ยวกับฤดูกาลของ Ted Lasso ในอนาคต",
+      "summary_th": "Ted Lasso กลับมาแล้ว (ดูที่นี่) สำหรับซีซั่นที่สี่ที่ทุกคนตั้งตารอคอย และ Eddy Cue ผู้บริหาร Apple TV ได้บอกเป็นนัยว่ารายการนี้มีอนาคตที่สดใสและยาวนานรออยู่ข้างหน้านอกเหนือจากซีซั่นนี้"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple hires American Airlines exec to lead government affairs",
-      "summary_en": "Apple has hired a new vice president of government affairs. Bloomberg today reports that Nate Gatten, a veteran executive from American Airlines, will take over the role on August 31.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/12/apple-hires-american-airlines-exec-to-lead-government-affairs/",
-      "published": "Wed, 12 Aug 2026 17:19:46 +0000",
-      "title_th": "Apple จ้างผู้บริหาร American Airlines เป็นผู้นำกิจการภาครัฐ",
-      "summary_th": "Apple ได้ว่าจ้างรองประธานฝ่ายกิจการภาครัฐคนใหม่ Bloomberg รายงานในวันนี้ว่า Nate Gatten ผู้บริหารมากประสบการณ์จาก American Airlines จะเข้ารับตำแหน่งนี้ในวันที่ 31 สิงหาคม"
+      "title_en": "I can’t unsee the reason Pixel 11 Pro Fold is thinner, but it’s for the best [Gallery]",
+      "summary_en": "The Pixel 11 Pro Fold is sneakily maybe the most impressive of Google’s new releases this week, but on picking it up one thing caught my eye – one half of it is thicker than the other.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-pro-fold-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/12/google-pixel-11-pro-fold-thinner/",
+      "published": "Wed, 12 Aug 2026 20:30:00 +0000",
+      "title_th": "ฉันมองไม่เห็นเหตุผลที่ Pixel 11 Pro Fold นั้นบางกว่า แต่สำหรับ [แกลเลอรี] ที่ดีที่สุด",
+      "summary_th": "Pixel 11 Pro Fold อาจเป็นรุ่นที่น่าประทับใจที่สุดของ Google ในสัปดาห์นี้ แต่เมื่อหยิบขึ้นมาสิ่งหนึ่งที่ดึงดูดสายตาของฉัน - ครึ่งหนึ่งหนากว่าอีกอัน"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "The Pixel 11 series is still eSIM-only in the US, just in case you forgot",
+      "summary_en": "After ditching physical SIM card support on last year’s Pixel 10 series, here’s a quick reminder that the Pixel 11 series in the US is still eSIM-only.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-fuchsia-camera-bar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/12/the-pixel-11-series-is-still-esim-only-in-the-us-just-in-case-you-forgot/",
+      "published": "Wed, 12 Aug 2026 20:30:00 +0000",
+      "title_th": "Pixel 11 series ยังคงเป็น eSIM ในสหรัฐอเมริกาเท่านั้น เผื่อคุณลืม",
+      "summary_th": "หลังจากยกเลิกการรองรับซิมการ์ดจริงใน Pixel 10 series ของปีที่แล้ว นี่เป็นคำเตือนสั้น ๆ ว่า Pixel 11 series ในสหรัฐอเมริกายังคงเป็น eSIM เท่านั้น"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Pixel 11 Pro displays are ‘more than twice’ as scratch-resistant – it only gets better from there",
+      "summary_en": "Google is delivering some seriously durable phones, or so it claims, with the entire Pixel 11 Pro series delivering huge upgrades in regards to scratch and drop protection.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-series-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/12/google-pixel-11-pro-anti-scratch-display-glass-upgrades/",
+      "published": "Wed, 12 Aug 2026 19:30:00 +0000",
+      "title_th": "จอแสดงผล Pixel 11 Pro มีความทนทานต่อรอยขีดข่วน \"มากกว่าสองเท่า\" และจะดีขึ้นเท่านั้น",
+      "summary_th": "Google นำเสนอโทรศัพท์ที่ทนทานอย่างจริงจังบางรุ่นหรือตามที่กล่าวอ้าง โดยซีรีส์ Pixel 11 Pro ทั้งหมดให้การอัพเกรดครั้งใหญ่ในเรื่องการป้องกันรอยขีดข่วนและการตก"
     },
     {
       "source": "9to5Google",
@@ -497,50 +533,62 @@
     {
       "source": "9to5Google",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Mid-week Android app deals and freebies: Kingdom Rush 5, Iron Marines 2, 9th Dawn III, more",
-      "summary_en": "Pre-orders on the new Google Pixel 11 lineup is now live with some solid deals – up to $600 or more back in trade-in value, a $200 Google Store credit , or a giant 50% off the new Pixel Watch 5 with purchase – but for now we are focused on today’s lineup of the best Android game and app deals. Highlights include Kingdom Rush 5: Alliance TD, Kingdom Rush Vengeance TD Game, Iron Marines 2 – Invasion RTS, 9th Dawn III RPG, Kenshō, Front Armies [RTS], and everything awaits below.",
-      "image": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/08/Google-Play-Aug-12-2.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5toys.com/2026/08/12/mid-week-android-app-deals-7/",
-      "published": "Wed, 12 Aug 2026 17:22:48 +0000",
-      "title_th": "ข้อเสนอแอป Android กลางสัปดาห์และของสมนาคุณฟรี: Kingdom Rush 5, Iron Marines 2, 9th Dawn III และอื่นๆ",
-      "summary_th": "การสั่งซื้อล่วงหน้าในกลุ่มผลิตภัณฑ์ Google Pixel 11 ใหม่พร้อมให้ใช้งานแล้วพร้อมกับข้อเสนอที่แข็งแกร่ง – มูลค่าการแลกเปลี่ยนสูงถึง $ 600 หรือมากกว่านั้น เครดิต Google Store มูลค่า $ 200 หรือส่วนลดยักษ์ 50% สำหรับ Pixel Watch 5 ใหม่เมื่อซื้อ – แต่สำหรับตอนนี้เรามุ่งเน้นไปที่กลุ่มผลิตภัณฑ์เกม Android และข้อเสนอแอพที่ดีที่สุดในปัจจุบัน ไฮไลท์ได้แก่ Kingdom Rush 5: Alliance TD, เกม Kingdom Rush Vengeance TD, Iron Marines 2 – Invasion RTS, 9th Dawn III RPG, Kenshō, Front Armies [RTS] และทุกสิ่งรออยู่ด้านล่าง"
+      "category": "review",
+      "title_en": "This is the best deal you can get on Google Pixel 11, with gift cards, free watches, and more",
+      "summary_en": "Google’s new Pixel 11 series seems really promising , but they’re also all $100 more expensive across the board than last generation. Luckily, if you’re already sold from our various hands-ons , there are a ton of surprisingly excellent pre-order deals and trade-in valuations you can take advantage of to bring that price tag down — and frankly, no one has Amazon beat.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-pro-obsidian-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/12/google-pixel-11-series-amazon-preorder-bonus-gift-card-watch/",
+      "published": "Wed, 12 Aug 2026 18:30:00 +0000",
+      "title_th": "นี่คือข้อเสนอที่ดีที่สุดที่คุณจะได้รับจาก Google Pixel 11 พร้อมบัตรของขวัญ นาฬิกาฟรี และอื่นๆ อีกมากมาย",
+      "summary_th": "Pixel 11 ซีรี่ส์ใหม่ของ Google ดูเหมือนจะมีแนวโน้มดี แต่ก็มีราคาแพงกว่ารุ่นก่อนถึง 100 เหรียญสหรัฐ โชคดี หากคุณขายผลิตภัณฑ์จากมือต่างๆ ของเราไปแล้ว มีข้อเสนอการสั่งซื้อล่วงหน้าและการประเมินมูลค่าการแลกเปลี่ยนที่ยอดเยี่ยมมากมายที่คุณสามารถใช้ประโยชน์จากการลดราคาได้ — และตรงไปตรงมา ไม่มีใครเอาชนะ Amazon ได้"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Find your perfect accessories with Spigen’s Pixel 11 collection",
-      "summary_en": "Google’s Pixel 11 series is a refinement that takes on a more eye-catching look with bold new colors, and Spigen complements it with a case design for everyone.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pr_pixel_11_01.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/12/find-your-perfect-accessories-with-spigens-pixel-11-collection/",
-      "published": "Wed, 12 Aug 2026 17:00:00 +0000",
-      "title_th": "ค้นหาอุปกรณ์เสริมที่เหมาะกับคุณด้วยคอลเลกชั่น Pixel 11 จาก Spigen",
-      "summary_th": "ซีรีส์ Pixel 11 ของ Google เป็นการปรับปรุงรูปลักษณ์ที่สะดุดตายิ่งขึ้นด้วยสีสันใหม่ที่โดดเด่น และ Spigen ยังเสริมด้วยการออกแบบเคสสำหรับทุกคน"
+      "category": "ev",
+      "title_en": "Tesla plans massive new V4 Supercharger in San Francisco",
+      "summary_en": "Tesla wants to build one of its biggest Superchargers yet right in the middle of San Francisco. Planning permits have been filed for a 124-stall V4 station on the city’s south side. The site is a yellow-cab storage lot at the corner of Alemany and Bayshore, wedged against the US-101 freeway. The permits also call for a 400-square-foot amenity building on the property.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/04/TESLA_Supercharger.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/12/tesla-124-stall-v4-supercharger-san-francisco/",
+      "published": "Wed, 12 Aug 2026 19:28:14 +0000",
+      "title_th": "Tesla วางแผนซุปเปอร์ชาร์จเจอร์ V4 ใหม่ขนาดใหญ่ในซานฟรานซิสโก",
+      "summary_th": "Tesla ต้องการสร้าง Superchargers ที่ใหญ่ที่สุดแห่งหนึ่งในใจกลางเมืองซานฟรานซิสโก มีการยื่นใบอนุญาตการวางแผนสำหรับสถานี V4 จำนวน 124 แผงทางด้านทิศใต้ของเมือง สถานที่นี้เป็นลานเก็บของรถแท็กซี่สีเหลืองตรงหัวมุมของ Alemany และ Bayshore ซึ่งติดกับทางด่วน US-101 ใบอนุญาตดังกล่าวกำหนดให้ต้องมีอาคารสิ่งอำนวยความสะดวกขนาด 400 ตารางฟุตในที่พักด้วย"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Where to pre-order Pixel 11 series: $350 gift cards, $1,000 trade-in, more",
-      "summary_en": "Google just launched the Pixel 11 series with a few shiny new features – literally. All four Pixel 11 devices are available for pre-order, during which some of the best deals come out.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-family-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/12/where-to-buy-the-pixel-11-pixel-11-pro/",
-      "published": "Wed, 12 Aug 2026 15:46:32 +0000",
-      "title_th": "สั่งซื้อ Pixel 11 series ล่วงหน้าได้ที่ไหน: บัตรของขวัญมูลค่า 350 ดอลลาร์, การแลกเปลี่ยน 1,000 ดอลลาร์ และอื่นๆ",
-      "summary_th": "Google เพิ่งเปิดตัวซีรีส์ Pixel 11 พร้อมคุณสมบัติใหม่ที่ยอดเยี่ยมบางประการ อุปกรณ์ Pixel 11 ทั้งสี่เครื่องพร้อมสำหรับการสั่งซื้อล่วงหน้า ในระหว่างนี้จะมีข้อเสนอที่ดีที่สุดบางส่วนออกมา"
+      "category": "ev",
+      "title_en": "US EV prices are going back up as discounts shrink",
+      "summary_en": "After six straight months of year-over-year declines, the average transaction price (ATP) paid for a new EV in the US is rising again.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/09/Honda-Prologue-best-sales.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/12/us-ev-prices-are-going-back-up-as-discounts-shrink/",
+      "published": "Wed, 12 Aug 2026 19:10:18 +0000",
+      "title_th": "ราคา EV ของสหรัฐกำลังกลับขึ้นเนื่องจากส่วนลดลดลง",
+      "summary_th": "หลังจากการลดลงเมื่อเทียบเป็นรายปีเป็นเวลาหกเดือนติดต่อกัน ราคาธุรกรรมเฉลี่ย (ATP) ที่จ่ายสำหรับ EV ใหม่ในสหรัฐอเมริกาก็เพิ่มขึ้นอีกครั้ง"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Google’s Pixel 11 trade-ins top out at $1,000 with great values for older phones",
-      "summary_en": "Amid a price hike on the Pixel 11 series, Google has delivered some solid trade-in values across the board on all four phones, including some pretty great values for older generations too.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-pro-pixel-11-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/12/google-pixel-11-trade-in-offers-values/",
-      "published": "Wed, 12 Aug 2026 15:10:00 +0000",
-      "title_th": "การแลกเปลี่ยน Pixel 11 ของ Google มีมูลค่าสูงสุด 1,000 ดอลลาร์พร้อมมูลค่าที่ยอดเยี่ยมสำหรับโทรศัพท์รุ่นเก่า",
-      "summary_th": "ท่ามกลางการขึ้นราคาของซีรีส์ Pixel 11 Google ได้มอบมูลค่าการแลกเปลี่ยนที่แข็งแกร่งบนโทรศัพท์ทั้งสี่เครื่อง รวมถึงมูลค่าที่ยอดเยี่ยมสำหรับรุ่นเก่าด้วย"
+      "category": "ev",
+      "title_en": "As EV sales, oil costs and temperatures spike, UK gov’t considers… fewer EVs?",
+      "summary_en": "The UK government is considering relaxing its landmark electric vehicle rules, even in the face of inflated oil prices, a recordbreaking year for temperatures and wildfires, and EV sales that are already rising fast enough to meet the government’s current target.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/04/Ford-free-EV-chargers-offer-UK.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/12/ev-sales-oil-costs-and-temperatures-are-spiking-so-uk-govt-pushes-more-gas/",
+      "published": "Wed, 12 Aug 2026 18:50:51 +0000",
+      "title_th": "เนื่องจากยอดขาย EV ราคาน้ำมัน และอุณหภูมิพุ่งสูงขึ้น รัฐบาลอังกฤษไม่ถือว่า... EV ลดลงใช่ไหม",
+      "summary_th": "รัฐบาลสหราชอาณาจักรกำลังพิจารณาผ่อนคลายกฎข้อบังคับเกี่ยวกับรถยนต์ไฟฟ้าที่สำคัญ แม้ว่าจะต้องเผชิญกับราคาน้ำมันที่สูงขึ้น อุณหภูมิและไฟป่าที่ทำลายสถิติในปีนี้ และยอดขายรถยนต์ไฟฟ้าที่เพิ่มขึ้นอย่างรวดเร็วพอที่จะบรรลุเป้าหมายปัจจุบันของรัฐบาล"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "BYD’s new electric sedan is the size of a Tesla Model 3, but half the price",
+      "summary_en": "BYD’s new sedan is about the size of a Tesla Model 3, but it’s half the cost in China. The new Seal 06 went on sale in China, starting at just 109,900 yuan, or about $16,500.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/BYD-new-Seal-06.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/12/byds-new-ev-sedan-size-of-tesla-model-3-half-the-price/",
+      "published": "Wed, 12 Aug 2026 18:43:37 +0000",
+      "title_th": "รถเก๋งไฟฟ้ารุ่นใหม่ของ BYD มีขนาดเท่า Tesla Model 3 แต่มีราคาเพียงครึ่งเดียว",
+      "summary_th": "รถเก๋งรุ่นใหม่ของ BYD มีขนาดประมาณ Tesla Model 3 แต่มีราคาเพียงครึ่งหนึ่งในจีน Seal 06 ใหม่ วางจำหน่ายในประเทศจีน ราคาเริ่มต้นเพียง 109,900 หยวน หรือประมาณ 16,500 ดอลลาร์"
     },
     {
       "source": "Electrek",
@@ -553,54 +601,6 @@
       "published": "Wed, 12 Aug 2026 18:00:00 +0000",
       "title_th": "e-bike Lectric XP Lite2 + ชุดรวมที่ใหญ่ที่สุด $ 508 จาก $ 999, Anker SOLIX 3,840Wh F3800 สถานีพลังงาน $ 1,800, EcoFlow, เครื่องมือและอื่น ๆ",
       "summary_th": "การนำชุด Green Deal ในช่วงกลางสัปดาห์ของเราเป็นจุดสนใจของกลุ่มที่ใหญ่ที่สุดในปี 2569 ใน e-bikes น้ำหนักเบาพับได้ระยะไกล XP Lite2 ของ Lectric พร้อมอุปกรณ์ฟรี $ 508 จาก $ 999 ซึ่งเป็นหนึ่งในข้อตกลงที่มั่นคงหลายประการจากการขาย Back to School ของแบรนด์ ถัดไป Amazon กำลังตัดราคา SOLIX Fan Fest Mega Sale ของ Anker บนสถานีไฟฟ้าพกพา F3800 ขนาด 3,840Wh ในราคา 1,800 ดอลลาร์สหรัฐฯ ในขณะที่ EcoFlow ได้เปิดตัวชุดแฟลชเซลสี่หน่วยเป็นเวลา 48 ชั่วโมง โดยเริ่มต้นที่ 979 ดอลลาร์ นอกจากนี้เรายังเสนอราคาต่ำสุดวันเดียวเท่านั้นในปี 2026 สำหรับชุดเครื่องมือ 3 ชิ้น Greenworks 48V พร้อมแบตเตอรี่ 3x โอกาสที่จะประหยัด 20% สำหรับเครื่องดูดฝุ่นแบบพกพา Worx's Cube ข้อตกลงแพ็คเกจความปลอดภัยที่ครอบคลุม และอื่นๆ อีกมากมาย แน่นอนว่ารวมถึงข้อเสนออาการเมาค้างจากสัปดาห์ที่แล้วที่ด้านล่างของหน้า เช่นเดียวกับรายการ Anker SOLIX Fan Fest Mega Sale เมื่อวานนี้"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Volkswagen launches the ID.3 Neo in the UK with up to 390 miles of range",
-      "summary_en": "Volkswagen announced that prices for the ID.3 Neo will start at £33,080 ($45,000). The electric hatch is bringing an all-new look inside and out, a longer driving range, and Volkswagen’s latest tech and software.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Volkswagen-ID.3-Neo-UK-prices.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/12/volkswagen-launches-id-3-neo-uk-390-miles-range/",
-      "published": "Wed, 12 Aug 2026 17:13:38 +0000",
-      "title_th": "Volkswagen เปิดตัว ID.3 Neo ในสหราชอาณาจักรด้วยระยะทางสูงสุด 390 ไมล์",
-      "summary_th": "Volkswagen ประกาศว่าราคาของ ID.3 Neo จะเริ่มต้นที่ 33,080 ปอนด์ (45,000 ดอลลาร์) ฟักไฟฟ้านำรูปลักษณ์ใหม่ทั้งภายในและภายนอก ระยะการขับขี่ที่ไกลขึ้น และเทคโนโลยีและซอฟต์แวร์ล่าสุดของ Volkswagen"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "EVgo + GM open 350 kW flagship charging for EVs with trailers",
-      "summary_en": "EVgo and GM have opened a new flagship DC fast-charging station near Detroit with 12 high-power stalls, CCS and NACS connectors, and pull-through charging for EVs towing trailers.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/meijer-warren-flagship-canopy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/12/evgo-gm-open-350-kw-flagship-charging-for-evs-with-trailers/",
-      "published": "Wed, 12 Aug 2026 16:56:27 +0000",
-      "title_th": "EVgo + GM เปิดการชาร์จเรือธงขนาด 350 กิโลวัตต์สำหรับ EV พร้อมรถพ่วง",
-      "summary_th": "EVgo และ GM ได้เปิดสถานีชาร์จด่วน DC เรือธงแห่งใหม่ใกล้กับเมืองดีทรอยต์ พร้อมด้วยแผงขายพลังงานสูง 12 แผง ขั้วต่อ CCS และ NACS และการชาร์จแบบดึงผ่านสำหรับรถพ่วงลากจูง EV"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "The strange story behind Colorado’s ‘no catch’ free e-bike company",
-      "summary_en": "It started as one of the most talked-about e-bike deals in the country. Colorado residents could get what was advertised as a “free” electric bike by applying the state’s e-bike tax credit, with Bear Trail Bikes matching the discount. Customers were generally left paying little more than sales tax. For many riders, it sounded too good to pass up.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/free-sign-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/12/the-strange-story-behind-colorados-no-catch-free-e-bike-company/",
-      "published": "Wed, 12 Aug 2026 16:28:22 +0000",
-      "title_th": "เรื่องราวแปลกประหลาดเบื้องหลังบริษัท e-bike ฟรีที่ \"ไม่จับ\" ของโคโลราโด",
-      "summary_th": "เริ่มต้นจากการเป็นหนึ่งในข้อเสนอ e-bike ที่ได้รับการพูดถึงมากที่สุดในประเทศ ผู้อยู่อาศัยในโคโลราโดสามารถรับสิ่งที่โฆษณาว่าเป็นจักรยานไฟฟ้า \"ฟรี\" โดยใช้เครดิตภาษี e-bike ของรัฐ โดยที่ Bear Trail Bikes จะมีส่วนลดเท่ากัน โดยทั่วไปแล้วลูกค้าจะต้องจ่ายเงินมากกว่าภาษีการขายเพียงเล็กน้อย สำหรับนักแข่งหลายคน ฟังดูดีเกินกว่าจะผ่านไปได้"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Jaguar’s new EV interior is just as controversial as its exterior [Images]",
-      "summary_en": "Jaguar revealed the interior of the new Type 01 EV for the first time, and it sure is “like no other.”",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Jaguar-Type-01-debut.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/12/jaguar-unveils-controversial-ev-interior-first-time-images/",
-      "published": "Wed, 12 Aug 2026 15:59:55 +0000",
-      "title_th": "การตกแต่งภายใน EV ใหม่ของ Jaguar นั้นมีความขัดแย้งพอๆ กับภายนอก (ภาพ)",
-      "summary_th": "Jaguar เปิดเผยภายในของ Type 01 EV ใหม่เป็นครั้งแรก และแน่นอนว่า “ไม่เหมือนใคร”"
     }
   ],
   "indices": [
@@ -608,57 +608,57 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 223.74,
-      "change": 6.24,
-      "change_pct": 2.87
+      "price": 224.09,
+      "change": 6.59,
+      "change_pct": 3.03
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 326.35,
-      "change": -6.46,
-      "change_pct": -1.94
+      "price": 327.51,
+      "change": -5.3,
+      "change_pct": -1.59
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 343.82,
-      "change": 0.02,
-      "change_pct": 0.01
+      "price": 343.54,
+      "change": -0.26,
+      "change_pct": -0.08
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 492.24,
-      "change": -11.57,
-      "change_pct": -2.3
+      "price": 492.43,
+      "change": -11.38,
+      "change_pct": -2.26
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 301.4,
-      "change": -3.51,
-      "change_pct": -1.15
+      "price": 302.25,
+      "change": -2.66,
+      "change_pct": -0.87
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 268.96,
-      "change": -3.3,
-      "change_pct": -1.21
+      "price": 267.28,
+      "change": -4.99,
+      "change_pct": -1.83
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 583.42,
-      "change": -11.5,
-      "change_pct": -1.93
+      "price": 578.85,
+      "change": -20.27,
+      "change_pct": -3.38
     },
     {
       "symbol": "DELTA.BK",
