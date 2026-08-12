@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-12T09:54:10.604537+00:00",
+  "generated_at": "2026-08-12T12:39:15.785210+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+      "summary_en": "Blacksmith says revenue has grown more than tenfold over the past year.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/blacksmith-logo.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+      "published": "Wed, 12 Aug 2026 11:00:00 +0000",
+      "title_th": "สตาร์ทอัพทดสอบโค้ด AI ประเมินมูลค่าของ Blacksmith เพิ่มขึ้นเกือบ 10 เท่าในเวลาไม่ถึงหนึ่งปี",
+      "summary_th": "Blacksmith กล่าวว่ารายได้เพิ่มขึ้นมากกว่าสิบเท่าในปีที่ผ่านมา"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Reservoir raises $8M to make water heaters that people — and the grid — will actually want",
+      "summary_en": "Reservoir has built an ultra-efficient water heater that can predict hot water demand, store energy, and detect plumbing leaks throughout a home.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Reservoir-water-heater-installation.jpeg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/",
+      "published": "Wed, 12 Aug 2026 10:00:00 +0000",
+      "title_th": "Reservoir ระดมทุน 8 ล้านเหรียญสหรัฐเพื่อสร้างเครื่องทำน้ำอุ่นที่ผู้คนและกริดต้องการจริงๆ",
+      "summary_th": "เรเซอร์วัวร์ได้สร้างเครื่องทำน้ำอุ่นประสิทธิภาพสูงเป็นพิเศษ ซึ่งสามารถคาดการณ์ความต้องการน้ำร้อน เก็บพลังงาน และตรวจจับการรั่วไหลของท่อประปาทั่วทั้งบ้าน"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -12,7 +36,7 @@
       "link": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
       "published": "Wed, 12 Aug 2026 04:30:00 +0000",
       "title_th": "Yulu ของอินเดียระดมทุนได้ 93 ล้านดอลลาร์ เนื่องจากการเติบโตอย่างรวดเร็วของการค้าขายช่วยกระตุ้นความต้องการจักรยานไฟฟ้า",
-      "summary_th": "Yulu ตั้งเป้าที่จะมีจักรยาน 200,000 คันในอีกสองปีข้างหน้า และรถสองล้อไฟฟ้าที่เร็วขึ้น โดยมีเป้าหมายที่กรณีการใช้งานด้านโลจิสติกส์ใหม่ๆ"
+      "summary_th": "Yulu ตั้งเป้าที่จะมีจักรยานจำนวน 200,000 คันในอีกสองปีข้างหน้า และรถสองล้อไฟฟ้าที่เร็วขึ้น โดยมีเป้าหมายที่กรณีการใช้งานด้านโลจิสติกส์ใหม่ๆ"
     },
     {
       "source": "TechCrunch",
@@ -39,28 +63,40 @@
       "summary_th": "บริษัท VC ของสหรัฐฯ ยังคงมีเงินทุนมากกว่า 55% ของกองทุนอินเดียมูลค่า 650 ล้านดอลลาร์ก่อนหน้านี้ที่พร้อมใช้งาน"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Uber surprised robotics company Serve by selling its entire stake",
-      "summary_en": "The divestiture comes as the two once-tight companies have started to diverge on the business side.",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/05/Serve-Uber-Eats.jpg?resize=1200,801",
-      "link": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
-      "published": "Tue, 11 Aug 2026 20:02:02 +0000",
-      "title_th": "Uber สร้างความประหลาดใจให้กับบริษัทหุ่นยนต์ Serve ด้วยการขายหุ้นทั้งหมด",
-      "summary_th": "การขายกิจการเกิดขึ้นเมื่อทั้งสองบริษัทที่เคยแน่นแฟ้นกันเริ่มแยกทางกันในด้านธุรกิจ"
+      "category": "gadget",
+      "title_en": "Honor’s Robot Phone is better than a gimbal in a phone has any right to be",
+      "summary_en": "The Robot Phone, which launches today in China, doesn't sound like a good idea - and not only because it's not actually a robot. Instead it's a regular Android smartphone with its main camera installed on a compact gimbal arm that unfolds from the phone's rear. Cramming the equivalent of a DJI Osmo Pocket inside […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/honor-robot-phone-09.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+      "link": "https://www.theverge.com/gadgets/978314/honor-robot-phone-hands-on-impressions-test-gimbal-camera",
+      "published": "2026-08-12T08:30:00-04:00",
+      "title_th": "โทรศัพท์หุ่นยนต์ของ Honor นั้นดีกว่า gimbal ในโทรศัพท์ที่มีสิทธิ์ที่จะเป็น",
+      "summary_th": "Robot Phone ซึ่งเปิดตัวในจีนวันนี้ ฟังดูไม่ใช่ความคิดที่ดี และไม่เพียงเพราะไม่ใช่หุ่นยนต์จริงๆ เท่านั้น แต่เป็นสมาร์ทโฟน Android ทั่วไปที่มีกล้องหลักติดตั้งอยู่บนแขน gimbal ขนาดกะทัดรัดที่กางออกจากด้านหลังของโทรศัพท์ อัดแน่นเทียบเท่ากับ DJI Osmo Pocket ข้างใน […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures",
-      "summary_en": "In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/teenagers-smartphones.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
-      "published": "Tue, 11 Aug 2026 19:38:23 +0000",
-      "title_th": "FBI กล่าวว่าอาชญากรไซเบอร์กำลังเจาะเข้าสู่บัญชีออนไลน์ของเหยื่อเพื่อขโมยภาพส่วนตัวของพวกเขา",
-      "summary_th": "ในการแจ้งเตือนครั้งใหม่ FBI กล่าวว่าอาชญากรไซเบอร์กำหนดเป้าหมายไปที่ผู้ใหญ่และผู้เยาว์โดยพยายามขโมยภาพส่วนตัวและภาพส่วนตัวของพวกเขาในการรณรงค์กรรโชกทรัพย์"
+      "category": "gadget",
+      "title_en": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+      "summary_en": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: he's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer \"personalised mRNA cancer vaccines for dogs.\" But his ambitions go well […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/acastro_201217_1777_vaccine_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "published": "2026-08-12T08:09:34-04:00",
+      "title_th": "แน่นอนว่าวัคซีนป้องกันมะเร็งสุนัข ChatGPT ถือเป็นการเริ่มต้นธุรกิจ",
+      "summary_th": "จำเรื่องราวที่ตื่นเต้นเร้าใจเกี่ยวกับผู้ประกอบการด้านเทคโนโลยีชาวออสเตรเลียที่ใช้ ChatGPT, Grok และเครื่องมือ AI อื่นๆ เพื่อสร้างวัคซีนป้องกันมะเร็งเฉพาะบุคคลสำหรับสุนัขของเขาได้ไหม เซอร์ไพรส์มาก: เขาเปิดตัวสตาร์ทอัพ ผู้ประกอบการรายดังกล่าวคือ Paul Conyngham ซึ่งกล่าวว่าเขากำลังเปิดตัว Gamgee เพื่อเสนอ \"วัคซีนป้องกันมะเร็ง mRNA ส่วนบุคคลสำหรับสุนัข\" แต่ความทะเยอทะยานของเขาดำเนินไปด้วยดี […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Grok is now an AI ‘teammate’ you can assign work",
+      "summary_en": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environment, and can sign into apps, tools, and websites you already use to complete multi-step workplace tasks, only coming back when their assigned work […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Grok-Bot-desktop-and-iOS.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+      "published": "2026-08-12T07:58:54-04:00",
+      "title_th": "ตอนนี้ Grok เป็น 'เพื่อนร่วมทีม' ของ AI ที่คุณสามารถมอบหมายงานได้",
+      "summary_th": "SpaceXAI ได้เปิดตัว Grok Bot ซึ่งเป็นบริการตัวแทน AI ที่ทำงานตลอดเวลาซึ่งออกแบบมาเพื่อทำงานเหมือน \"เพื่อนร่วมทีม AI\" อิสระที่สามารถทำงานได้แทนคุณ บอทแบ่งปันสภาพแวดล้อมคอมพิวเตอร์บนคลาวด์ของตัวเอง และสามารถลงชื่อเข้าใช้แอป เครื่องมือ และเว็บไซต์ที่คุณใช้อยู่แล้วเพื่อทำงานในสถานที่ทำงานแบบหลายขั้นตอนให้เสร็จสิ้นได้ โดยจะกลับมาเฉพาะเมื่องานที่ได้รับมอบหมาย […]"
     },
     {
       "source": "The Verge",
@@ -85,42 +121,6 @@
       "published": "2026-08-11T18:36:35-04:00",
       "title_th": "แผ่นต้นแบบ Xbox Elite 3 รั่วไหลพร้อมหน้าจอในตัวขนาดเล็ก",
       "summary_th": "เกมแพดต้นแบบของ Microsoft หล่นจากท้ายรถบรรทุกหรือไม่? เราไม่สามารถพูดได้ แต่ Redditor มีรูปถ่ายที่ดูถูกกฎหมายของคอนโทรลเลอร์ Xbox ต้นแบบซึ่งเกือบจะเป็น Xbox Elite Series 3 อย่างแน่นอน พวกเขาอ้างว่าพวกเขาซื้อแพดในราคา 200 ดอลลาร์จาก OfferUp อย่างไม่น่าเชื่อ ในเดือนพฤษภาคม รูปภาพรั่วไหลของผู้ควบคุมดูแลของบราซิลเปิดเผยว่า Xbox […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "An FCC filing points to new Sonos headphones coming soon",
-      "summary_en": "It looks like we'll be getting a successor to the Sonos Ace headphones sometime this fall, which was hinted at by CEO Tom Conrad during a third quarter earnings call. As reported by What Hi-Fi?, an FCC filing by Sonos, Inc reveals details about upcoming wireless headphones with the model number S52A. In addition to […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25475375/DSCF7410.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/978355/sonos-headphones-fcc-filing",
-      "published": "2026-08-11T17:23:30-04:00",
-      "title_th": "การยื่นฟ้องของ FCC ชี้ไปที่หูฟัง Sonos รุ่นใหม่ในเร็วๆ นี้",
-      "summary_th": "ดูเหมือนว่าเราจะได้รับผู้สืบทอดจากหูฟัง Sonos Ace ในช่วงฤดูใบไม้ร่วงนี้ ซึ่ง Tom Conrad ซีอีโอได้บอกเป็นนัยในระหว่างการรายงานผลประกอบการไตรมาสที่สาม ตามที่รายงานโดย What Hi-Fi? การยื่นของ FCC โดย Sonos, Inc เปิดเผยรายละเอียดเกี่ยวกับหูฟังไร้สายที่กำลังจะมีหมายเลขรุ่น S52A นอกเหนือจาก […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "ChatGPT and Gemini both just passed 1 billion users",
-      "summary_en": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever. A billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/gemini-live-ai-ad.png?quality=90&strip=all&crop=0%2C2.0352385861162%2C100%2C95.929522827768&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "published": "2026-08-11T15:41:42-04:00",
-      "title_th": "ChatGPT และ Gemini มีผู้ใช้งานทะลุ 1 พันล้านคนแล้ว",
-      "summary_th": "เป็นครั้งที่ 14 ที่ผลิตภัณฑ์ของ Google มีผู้ใช้งานถึง 1 พันล้านคน Sundar Pichai ซีอีโอของ Google โพสต์บน X ว่าผู้คนนับพันล้านคนใช้ Gemini ทุกเดือน และ Gemini เป็นผลิตภัณฑ์ที่เติบโตเร็วที่สุดเท่าที่ Google เคยมีมา ผู้ใช้พันล้านคนถือเป็นก้าวสำคัญ แต่ Google ไม่ใช่แอป AI ตัวแรกที่ประสบความสำเร็จ ChatGPT ของ OpenAI […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Threads has a VR app now",
-      "summary_en": "Meta has launched a Threads app for Meta Quest VR headsets, the company announced on Tuesday. The launch follows Meta bringing the app to its Ray-Ban Display AR glasses last month and the recent news that the platform has crossed 500 million monthly active users. It seems like a pretty full-featured app. Meta says that […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/499619485_1363901821956630_4656091347422593965_n.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "link": "https://www.theverge.com/tech/978181/meta-threads-quest-vr-app",
-      "published": "2026-08-11T15:10:14-04:00",
-      "title_th": "Threads มีแอป VR แล้ว",
-      "summary_th": "Meta ได้เปิดตัวแอพ Threads สำหรับชุดหูฟัง Meta Quest VR บริษัท ประกาศเมื่อวันอังคาร การเปิดตัวดังกล่าวเกิดขึ้นหลังจาก Meta นำแอปไปไว้ในแว่นตา Ray-Ban Display AR เมื่อเดือนที่แล้ว และข่าวล่าสุดว่าแพลตฟอร์มดังกล่าวมีผู้ใช้งานเกิน 500 ล้านรายต่อเดือน ดูเหมือนเป็นแอพที่มีฟีเจอร์ครบถ้วน เมต้าบอกว่า […]"
     },
     {
       "source": "Ars Technica",
@@ -186,61 +186,61 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "You’re Thinking About Online Trends All Wrong",
-      "summary_en": "From pessimism around dating to AI reshaping culture, cyber-ethnographer Ruby J. Thelot tells WIRED why people are putting too much stock into things that go viral.",
-      "image": "https://media.wired.com/photos/6a7214474c4d0e2f2b5457a0/master/pass/Internet-Trends-We-Keep-Getting-Wrong-Culture.gif",
-      "link": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/",
-      "published": "Wed, 12 Aug 2026 09:30:00 +0000",
-      "title_th": "คุณกำลังคิดถึงเทรนด์ออนไลน์ผิดไปหมด",
-      "summary_th": "ตั้งแต่การมองโลกในแง่ร้ายเกี่ยวกับการออกเดทไปจนถึง AI ที่ปรับเปลี่ยนวัฒนธรรม Ruby J. Thelot นักชาติพันธุ์วิทยาในโลกไซเบอร์ บอกกับ WIRED ว่าทำไมผู้คนถึงทุ่มทรัพยากรมากเกินไปกับสิ่งที่กลายเป็นกระแสไวรัล"
+      "title_en": "Honor’s Robot Phone Has a Gimbal-Powered Camera for Vloggers",
+      "summary_en": "Honor’s new China-exclusive Android phone features a pop-out motorized gimbal camera designed to replace your action cam.",
+      "image": "https://media.wired.com/photos/6a75da7ed929cd224b874e97/master/pass/Honor%20Robot%20Phone%20SOURCE%20Julian%20Chokkattu(1).jpg",
+      "link": "https://www.wired.com/story/honor-robot-phone/",
+      "published": "Wed, 12 Aug 2026 12:30:00 +0000",
+      "title_th": "โทรศัพท์หุ่นยนต์ของ Honor มีกล้องที่ขับเคลื่อนด้วยกิมบอลสำหรับ Vloggers",
+      "summary_th": "โทรศัพท์ Android รุ่นใหม่เฉพาะในจีนของ Honor มีกล้องกิมบอลแบบมอเตอร์แบบป๊อปเอาท์ที่ออกแบบมาเพื่อแทนที่กล้องแอคชั่นแคมของคุณ"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Verizon Promo Codes: $200 Verizon Gift Cards | August 2026",
-      "summary_en": "Ready for an upgrade? Apply our latest promotional codes today and choose a select service plan to score a discount with Verizon.",
-      "image": "https://media.wired.com/photos/66ea076e97780c31bf362cf9/master/pass/WIRED-Coupons-14.jpg",
-      "link": "https://www.wired.com/story/verizon-promo-code/",
-      "published": "Wed, 12 Aug 2026 05:00:00 +0000",
-      "title_th": "รหัสส่งเสริมการขาย Verizon: บัตรของขวัญ Verizon มูลค่า 200 เหรียญ | สิงหาคม 2569",
-      "summary_th": "พร้อมสำหรับการอัพเกรดแล้วหรือยัง? ใช้รหัสส่งเสริมการขายล่าสุดของเราวันนี้ และเลือกแผนบริการที่เลือกเพื่อรับส่วนลดกับ Verizon"
+      "title_en": "This Coin-Sized Device Can Hack a Boeing 737",
+      "summary_en": "Security researchers found that in less than 60 seconds, they could open a hatch on a plane’s exterior, plug in a tiny device, and redirect the aircraft’s autopilot or sabotage its flight plan.",
+      "image": "https://media.wired.com/photos/6a7b869fe7d5fc6f31658f9b/master/pass/Security_60SecondsofAccessandThisCoin-SizedDevice-02.gif",
+      "link": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
+      "published": "Wed, 12 Aug 2026 12:00:00 +0000",
+      "title_th": "อุปกรณ์ขนาดเหรียญนี้สามารถแฮ็กเครื่องบินโบอิ้ง 737 ได้",
+      "summary_th": "นักวิจัยด้านความปลอดภัยพบว่าภายในเวลาไม่ถึง 60 วินาที พวกเขาสามารถเปิดประตูด้านนอกของเครื่องบิน เสียบอุปกรณ์ขนาดเล็ก และเปลี่ยนเส้นทางระบบขับเคลื่อนอัตโนมัติของเครื่องบิน หรือทำลายแผนการบินของเครื่องบินได้"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Hulu Promo Codes & Discounts: 20% Off in August",
-      "summary_en": "Students can get a Hulu plan for $1.99 per month. Get more details on this and other great deals below.",
-      "image": "https://media.wired.com/photos/66ea0770dbf190a9d5157ecd/master/pass/WIRED-Coupons-7.jpg",
-      "link": "https://www.wired.com/story/hulu-promo-code/",
-      "published": "Wed, 12 Aug 2026 05:00:00 +0000",
-      "title_th": "รหัสโปรโมชั่นและส่วนลดของ Hulu: ลด 20% ในเดือนสิงหาคม",
-      "summary_th": "นักเรียนสามารถรับแผน Hulu ได้ในราคา $1.99 ต่อเดือน ดูรายละเอียดเพิ่มเติมเกี่ยวกับสิ่งนี้และข้อเสนอสุดพิเศษอื่นๆ ด้านล่าง"
+      "title_en": "How to Select the Office Chair That’s Right For You",
+      "summary_en": "Not all office chairs are right for all people. I asked an ergonomist how to select the right office chair for your budget, height, and physique.",
+      "image": "https://media.wired.com/photos/6a7bb40e24d089e77371476e/master/pass/How-to-Select-the-Right-Office-Chair-for-Your-Height-and-Shape.jpg",
+      "link": "https://www.wired.com/story/how-to-choose-the-right-office-chair/",
+      "published": "Wed, 12 Aug 2026 11:32:00 +0000",
+      "title_th": "วิธีเลือกเก้าอี้สำนักงานที่เหมาะกับคุณ",
+      "summary_th": "เก้าอี้สำนักงานบางตัวอาจไม่เหมาะกับทุกคน ฉันถามนักการยศาสตร์ว่าจะเลือกเก้าอี้สำนักงานให้เหมาะกับงบประมาณ ส่วนสูง และสรีระของคุณได้อย่างไร"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "review",
+      "title_en": "Ego 1300 Electric Mower Review: Tame Your Lawn Without Gas",
+      "summary_en": "Ego’s newest, biggest, self-propelled mower handles larger yards in less time with impressive performance and battery life.",
+      "image": "https://media.wired.com/photos/6a7bbeb9ac63b8cf9f1dffdc/master/pass/Review--Ego-1300-Electric-Lawn-Mower.jpg",
+      "link": "https://www.wired.com/review/ego-1300-electric-lawn-mower/",
+      "published": "Wed, 12 Aug 2026 11:00:00 +0000",
+      "title_th": "รีวิวเครื่องตัดหญ้าไฟฟ้า Ego 1300: ควบคุมสนามหญ้าของคุณโดยไม่ต้องใช้แก๊ส",
+      "summary_th": "เครื่องตัดหญ้าขับเคลื่อนในตัวใหม่ล่าสุดที่ใหญ่ที่สุดของ Ego จัดการระยะได้กว้างขึ้นโดยใช้เวลาน้อยลง พร้อมประสิทธิภาพและอายุการใช้งานแบตเตอรี่ที่น่าประทับใจ"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Breville Promo Code: $700 Off | August 2026",
-      "summary_en": "Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.",
-      "image": "https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg",
-      "link": "https://www.wired.com/story/breville-promo-code/",
-      "published": "Wed, 12 Aug 2026 05:00:00 +0000",
-      "title_th": "รหัสโปรโมชั่น Breville: ลด $700 | สิงหาคม 2569",
-      "summary_th": "ค้นพบคูปอง Breville ชั้นนำและรหัสส่วนลดสำหรับเครื่องชงกาแฟ เครื่องครัว และเมล็ดกาแฟสด พร้อมดีลส่วนลดสูงสุดถึง $700"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Hostinger Promo Code: 79% Off for August 2026",
-      "summary_en": "Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.",
-      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
-      "link": "https://www.wired.com/story/hostinger-coupon-code/",
-      "published": "Wed, 12 Aug 2026 05:00:00 +0000",
-      "title_th": "รหัสโปรโมชั่น Hostinger: ลด 79% สำหรับเดือนสิงหาคม 2026",
-      "summary_th": "ค้นพบรหัสโปรโมชั่นพิเศษของ Hostinger ส่วนลด และข้อเสนอเกี่ยวกับเว็บโฮสติ้ง แผนคลาวด์ และการลงทะเบียนโดเมน ประหยัดได้มากในการซื้อ Hostinger ครั้งต่อไปของคุณวันนี้"
+      "title_en": "The Job-Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself",
+      "summary_en": "LemonLime cofounder Jordan Zietz hears your criticism loud and clear. That’s why he got his startup’s logo tattooed on his shoulder.",
+      "image": "https://media.wired.com/photos/6a6be4d1e28e6ee5fb2f6879/master/pass/Interview-With-Startup-Founder-Who-Offered-Interviews-for-Tattoos-Business.gif",
+      "link": "https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/",
+      "published": "Wed, 12 Aug 2026 10:45:00 +0000",
+      "title_th": "ช่างสักสัมภาษณ์งาน ใครๆ ต่างก็โกรธและอธิบายตัวเองในที่สุด",
+      "summary_th": "Jordan Zietz ผู้ร่วมก่อตั้ง LemonLime ได้ยินคำวิจารณ์ของคุณดังและชัดเจน นั่นเป็นเหตุผลว่าทำไมเขาถึงได้สักโลโก้ของสตาร์ทอัพบนไหล่ของเขา"
     },
     {
       "source": "MIT Technology Review",
@@ -252,7 +252,7 @@
       "link": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
       "published": "Wed, 12 Aug 2026 09:08:40 +0000",
       "title_th": "เราเลือกนักวิทยาศาสตร์และวิศวกรรุ่นเยาว์ชั้นนำของโลกจำนวน 35 คนได้อย่างไร",
-      "summary_th": "ในเดือนหน้า ในวันที่ 8 กันยายน MIT Technology Review จะเปิดเผยรายชื่อนักนวัตกรรมอายุต่ำกว่า 35 ปีประจำปี 2026 โดยยกย่องคนหนุ่มสาว 35 คนจากทั่วโลกที่ทำงานทางวิทยาศาสตร์ที่ก้าวล้ำและสร้างการแก้ไขทางเทคนิคที่ชาญฉลาดสำหรับปัญหาที่เหนียวแน่น ด้วยการค้นหานักสร้างสรรค์นวัตกรรมรุ่นเยาว์ชั้นนำทั่วโลกและเรียนรู้สิ่งที่พวกเขามุ่งเน้นในงานของพวกเขา..."
+      "summary_th": "ในเดือนหน้า ในวันที่ 8 กันยายน MIT Technology Review จะเปิดเผยรายชื่อนักนวัตกรรมอายุต่ำกว่า 35 ปีประจำปี 2026 โดยยกย่องคนหนุ่มสาว 35 คนจากทั่วโลกที่ทำงานทางวิทยาศาสตร์ที่ก้าวล้ำและสร้างการแก้ไขทางเทคนิคที่ชาญฉลาดสำหรับปัญหาที่เหนียวแน่น ด้วยการค้นหานักสร้างสรรค์รุ่นใหม่ชั้นนำทั่วโลกและเรียนรู้สิ่งที่พวกเขามุ่งเน้นในงานของพวกเขา..."
     },
     {
       "source": "MIT Technology Review",
@@ -287,7 +287,7 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/ai-scientists.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
       "published": "Mon, 10 Aug 2026 12:10:00 +0000",
-      "title_th": "ดาวน์โหลด: ตัวแทน AI สำหรับวิทยาศาสตร์ และ “ศูนย์อุตสาหกรรมการเซ็นเซอร์”",
+      "title_th": "ดาวน์โหลด: ตัวแทน AI สำหรับวิทยาศาสตร์ และ \"ศูนย์อุตสาหกรรมการเซ็นเซอร์\"",
       "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี AI สำหรับวิทยาศาสตร์ต้องการเหตุผล ไม่ใช่แค่ข้อมูลเท่านั้น Eric Schmidt อดีต CEO ของ Google และผู้ร่วมก่อตั้ง Schmidt Sciences และ Suhas Mahesh ผู้นำ AI สำหรับงานวิทยาศาสตร์..."
     },
     {
@@ -301,6 +301,18 @@
       "published": "Mon, 10 Aug 2026 09:00:00 +0000",
       "title_th": "AI สำหรับวิทยาศาสตร์ต้องการเหตุผล ไม่ใช่แค่ข้อมูล",
       "summary_th": "ทุกๆ สองสามทศวรรษ จะมีคนประกาศว่าวิทยาศาสตร์ได้มาถึงจุดสิ้นสุดแล้ว ในปี 1903 อัลเบิร์ต มิเชลสัน นักฟิสิกส์ผู้เป็นที่เคารพนับถือเขียนว่า “ข้อเท็จจริงของวิทยาศาสตร์กายภาพล้วนถูกค้นพบแล้ว” ในทศวรรษ 1980 Stephen Hawking ทำนายว่าฟิสิกส์เชิงทฤษฎีอาจจะเสร็จสิ้นภายในสิ้นศตวรรษนี้ ด้วยการมาถึงอย่างรวดเร็วของปัญญาประดิษฐ์ ทำให้..."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Google Pixel 11 launch: Live updates as the company unveils new devices, AI features and more",
+      "summary_en": "Come hang out with us as we liveblog Google's Pixel 11 launch today. Our comments (not DMs) are open.",
+      "image": "https://www.engadget.com/img/gallery/google-pixel-11-launch-live-updates-as-the-company-unveils-new-devices-ai-features-and-more/l-intro-1786509738.jpg",
+      "link": "https://www.engadget.com/2235161/google-pixel-11-launch-2026-live-blog-updates/",
+      "published": "Wed, 12 Aug 2026 10:00:00 +0000",
+      "title_th": "การเปิดตัว Google Pixel 11: อัปเดตสดเมื่อบริษัทเปิดตัวอุปกรณ์ใหม่ คุณสมบัติ AI และอื่นๆ",
+      "summary_th": "มาออกไปเที่ยวกับเราในขณะที่เราบล็อกสดของ Google Pixel 11 เปิดตัววันนี้ ความคิดเห็นของเรา (ไม่ใช่ DM) เปิดอยู่"
     },
     {
       "source": "Engadget",
@@ -351,18 +363,6 @@
       "summary_th": "แอปนี้ถูกแบนจากอุปกรณ์ของรัฐบาลในปี 2022"
     },
     {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "A flight tracking service is suing Kalshi for using its data without authorization",
-      "summary_en": "A flight tracking service is suing Kalshi for using its data without authorization.",
-      "image": "https://www.engadget.com/img/gallery/a-flight-tracking-service-is-suing-kalshi-for-using-its-data-without-authorization/l-intro-1786475419.jpg",
-      "link": "https://www.engadget.com/2234903/a-flight-tracking-service-is-suing-kalshi-for-using-its-data-without-authorization/",
-      "published": "Tue, 11 Aug 2026 19:11:09 +0000",
-      "title_th": "บริการติดตามเที่ยวบินกำลังฟ้องร้อง Kalshi ฐานใช้ข้อมูลของตนโดยไม่ได้รับอนุญาต",
-      "summary_th": "บริการติดตามเที่ยวบินกำลังฟ้องร้อง Kalshi ฐานใช้ข้อมูลของตนโดยไม่ได้รับอนุญาต"
-    },
-    {
       "source": "IEEE Spectrum",
       "flag": "US",
       "category": "robot",
@@ -396,7 +396,7 @@
       "link": "https://spectrum.ieee.org/navigating-pivot-tech-expert-leader",
       "published": "Fri, 07 Aug 2026 18:00:01 +0000",
       "title_th": "การนำทาง Pivot จากผู้เชี่ยวชาญด้านเทคโนโลยีไปจนถึงผู้นำองค์กร",
-      "summary_th": "การเปลี่ยนจากผู้เชี่ยวชาญทางเทคนิคล้วนๆ หรือตำแหน่งผู้ร่วมให้ข้อมูลรายบุคคลไปสู่บทบาทผู้นำที่กว้างขึ้นถือเป็นหนึ่งในขั้นตอนที่ท้าทายที่สุดในอาชีพ STEM จำเป็นต้องเปลี่ยนจากการพึ่งพาความเป็นเลิศทางเทคนิคเพียงอย่างเดียวไปสู่การคิดอย่างเป็นระบบ ความเป็นผู้นำที่ปรับเปลี่ยนได้ และการจัดตำแหน่งทีม เพื่อช่วยให้ผู้ประกอบอาชีพระดับกลางก้าวผ่านการเปลี่ยนแปลง การประชุม IEEE International Leadership Conference ครั้งแรก ได้รับการออกแบบมาเพื่อมอบเครื่องมือที่ใช้งานได้จริงแก่ผู้เข้าร่วมเพื่อก้าวเข้าสู่ความรับผิดชอบที่กว้างขึ้นและส่งเสริมกรอบความคิดของผู้ประกอบการ งาน ILC มีกำหนดในวันที่ 3 และ 4 ตุลาคมในบูดาเปสต์ เปิดลงทะเบียนแล้ว คิดให้ไกลกว่าการมีส่วนร่วมทางเทคนิค เพื่อประสบความสำเร็จในการก้าวเข้าสู่บทบาทผู้นำ ผู้เชี่ยวชาญด้านเทคนิคจำเป็นต้องมองข้ามผลงานของตนเองและมุ่งเน้นไปที่ \"คุณ\""
+      "summary_th": "การเปลี่ยนจากผู้เชี่ยวชาญทางเทคนิคล้วนๆ หรือตำแหน่งผู้ร่วมให้ข้อมูลรายบุคคลไปสู่บทบาทผู้นำที่กว้างขึ้นถือเป็นหนึ่งในขั้นตอนที่ท้าทายที่สุดในอาชีพ STEM จำเป็นต้องเปลี่ยนจากการพึ่งพาความเป็นเลิศทางเทคนิคเพียงอย่างเดียวไปสู่การคิดอย่างเป็นระบบ ความเป็นผู้นำที่ปรับเปลี่ยนได้ และการจัดตำแหน่งทีม เพื่อช่วยให้ผู้ประกอบวิชาชีพระดับกลางก้าวผ่านการเปลี่ยนแปลง การประชุม IEEE International Leadership Conference ครั้งแรกได้รับการออกแบบเพื่อให้ผู้เข้าร่วมมีเครื่องมือที่ใช้งานได้จริงเพื่อก้าวเข้าสู่ความรับผิดชอบที่กว้างขึ้นและส่งเสริมกรอบความคิดของผู้ประกอบการ งาน ILC มีกำหนดในวันที่ 3 และ 4 ตุลาคมในบูดาเปสต์ เปิดลงทะเบียนแล้ว คิดให้ไกลกว่าการมีส่วนร่วมทางเทคนิค เพื่อให้ประสบความสำเร็จในการก้าวเข้าสู่บทบาทผู้นำ ผู้เชี่ยวชาญด้านเทคนิคจำเป็นต้องมองข้ามผลงานของตนเองและมุ่งเน้นไปที่ \"คุณ\""
     },
     {
       "source": "IEEE Spectrum",
@@ -420,7 +420,43 @@
       "link": "https://spectrum.ieee.org/ieee-course-ai-power-grids",
       "published": "Wed, 05 Aug 2026 18:00:03 +0000",
       "title_th": "หลักสูตร IEEE สอนวิธีใช้ AI เพื่อปรับปรุงระบบส่งกำลังให้ทันสมัย",
-      "summary_th": "โครงข่ายไฟฟ้าของสหรัฐอเมริกาในปัจจุบัน ซึ่งเป็นหนึ่งในระบบที่ใหญ่ที่สุดและซับซ้อนที่สุดเท่าที่เคยสร้างมา กำลังดำเนินการถึงขีดจำกัด กระทรวงพลังงานของสหรัฐฯ ระบุว่า การรวมกันของการเติบโตทางอุตสาหกรรมอย่างรวดเร็ว สภาพอากาศสุดขั้วที่เกิดขึ้นบ่อยครั้งมากขึ้น และการใช้ไฟฟ้าที่เพิ่มขึ้นเป็นประวัติการณ์ ได้ผลักดันให้โครงข่ายไฟฟ้าถึงจุดแตกหัก สร้างขึ้นเมื่อหลายทศวรรษก่อนเพื่อให้โลกที่คาดเดาได้มากขึ้น ซึ่งพลังงานส่วนใหญ่มาจากโรงไฟฟ้าถ่านหินหรือก๊าซแบบรวมศูนย์ และการใช้ไฟฟ้าก็เพิ่มขึ้นในอัตราคงที่ โครงข่ายไฟฟ้าต้องเผชิญกับความตึงเครียดที่ไม่คาดคิด เนื่องจากส่วนหนึ่งมาจากความต้องการที่เพิ่มขึ้นจากศูนย์ข้อมูล งานของมืออาชีพในการจัดการโครงสร้างพื้นฐานได้พัฒนาจากงานวิศวกรรมแบบดั้งเดิมไปสู่ความท้าทายที่ซับซ้อนและเปลี่ยนแปลงอย่างรวดเร็ว รายงานอุตสาหกรรมแสดงให้เห็นว่าเซ็นเซอร์ดิจิทัลที่ทันสมัย ​​มิเตอร์อัจฉริยะ และมอนิเตอร์แบบกริดหลายล้านตัวกำลังสร้างกระแสไฟฟ้าที่ไม่ใช่"
+      "summary_th": "โครงข่ายไฟฟ้าของสหรัฐอเมริกาในปัจจุบัน ซึ่งเป็นหนึ่งในระบบที่ใหญ่ที่สุดและซับซ้อนที่สุดเท่าที่เคยสร้างมา กำลังดำเนินการถึงขีดจำกัด กระทรวงพลังงานของสหรัฐฯ ระบุว่า การรวมกันของการเติบโตทางอุตสาหกรรมอย่างรวดเร็ว สภาพอากาศสุดขั้วที่เกิดขึ้นบ่อยครั้งมากขึ้น และการใช้ไฟฟ้าที่เพิ่มขึ้นเป็นประวัติการณ์ ได้ผลักดันให้โครงข่ายไฟฟ้าถึงจุดแตกหัก สร้างขึ้นเมื่อหลายทศวรรษก่อนเพื่อให้โลกที่คาดเดาได้มากขึ้น ซึ่งพลังงานส่วนใหญ่มาจากโรงไฟฟ้าถ่านหินหรือก๊าซแบบรวมศูนย์ และการใช้ไฟฟ้าก็เพิ่มขึ้นในอัตราคงที่ โครงข่ายไฟฟ้าต้องเผชิญกับความตึงเครียดที่ไม่คาดคิด เนื่องจากส่วนหนึ่งมาจากความต้องการที่เพิ่มขึ้นจากศูนย์ข้อมูล งานของมืออาชีพในการจัดการโครงสร้างพื้นฐานได้พัฒนาจากงานวิศวกรรมแบบดั้งเดิมไปสู่ความท้าทายที่ซับซ้อนและเปลี่ยนแปลงอย่างรวดเร็ว รายงานอุตสาหกรรมแสดงให้เห็นว่าเซ็นเซอร์ดิจิทัลสมัยใหม่ มิเตอร์อัจฉริยะ และมอนิเตอร์แบบกริดสมัยใหม่หลายล้านตัวกำลังสร้างกระแสไฟฟ้าที่ไม่ใช่"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "iPhone 20 Pro’s all-glass design spotted in supply chain, says leaker",
+      "summary_en": "This week has seen conflicting reports on whether or not Apple has given up on its plan to launch a radical new iPhone design next year, which I’ll refer to as the iPhone 20 Pro for now. An Apple analyst claimed that the company had found the task too challenging, while Bloomberg quickly said this isn’t true and that the design is on track to launch in 2027. Today sees new support for the latter view …",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/05/iphone-20th-anniversary.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/12/iphone-20-pros-all-glass-design-spotted-in-supply-chain-says-leaker/",
+      "published": "Wed, 12 Aug 2026 12:19:34 +0000",
+      "title_th": "ดีไซน์กระจกทั้งหมดของ iPhone 20 Pro พบเห็นได้ในห่วงโซ่อุปทาน โดย Leaker กล่าว",
+      "summary_th": "สัปดาห์นี้ได้เห็นรายงานที่ขัดแย้งกันว่า Apple ล้มเลิกแผนการที่จะเปิดตัวดีไซน์ iPhone ใหม่ที่รุนแรงในปีหน้าหรือไม่ ซึ่งตอนนี้ฉันจะเรียกว่า iPhone 20 Pro นักวิเคราะห์ของ Apple อ้างว่าบริษัทพบว่างานนี้ท้าทายเกินไป ในขณะที่ Bloomberg กล่าวอย่างรวดเร็วว่าสิ่งนี้ไม่เป็นความจริง และการออกแบบดังกล่าวกำลังจะเปิดตัวในปี 2570 วันนี้เห็นการสนับสนุนใหม่สำหรับมุมมองหลัง …"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple authenticating iPhone photos is just the start",
+      "summary_en": "iOS 27 Beta 5 includes references to an upcoming new feature to allow Apple to authenticate iPhone photos. Not many iPhone users will need to use this for reasons we’ll get to in a moment, but the move is just the start …",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/siri-icon-expanded.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/12/apple-authenticating-iphone-photos-is-just-the-start/",
+      "published": "Wed, 12 Aug 2026 11:51:38 +0000",
+      "title_th": "Apple รับรองความถูกต้องของภาพถ่าย iPhone เป็นเพียงจุดเริ่มต้น",
+      "summary_th": "iOS 27 Beta 5 มีการอ้างอิงถึงฟีเจอร์ใหม่ที่กำลังจะมีขึ้นเพื่อให้ Apple สามารถตรวจสอบสิทธิ์ภาพถ่ายของ iPhone ได้ มีผู้ใช้ iPhone ไม่กี่รายที่ต้องใช้สิ่งนี้ด้วยเหตุผลที่เราจะดำเนินการได้ในอีกสักครู่ แต่การเคลื่อนไหวนี้เป็นเพียงจุดเริ่มต้นเท่านั้น"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Parents urged to revisit screen time limits as kids head back to school",
+      "summary_en": "Parents are being urged to revisit the screen time limits they impose on their kids when they head back to school. It says stressed parents may take a more relaxed attitude to screen time during the summer break, and this can prove seriously detrimental to their children once the new school term begins. Additionally, experts say that the two hours a day limit previously recommended is now outdated, and parents should take a more sophisticated approach based on “the 5 Cs” …",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/Parents-urged-to-change-screen-time-limits-as-kids-head-back-to-school.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/12/parents-urged-to-revisit-screen-time-limits-as-kids-head-back-to-school/",
+      "published": "Wed, 12 Aug 2026 11:03:24 +0000",
+      "title_th": "ผู้ปกครองควรทบทวนการจำกัดเวลาอยู่หน้าจออีกครั้ง เมื่อเด็กๆ กลับไปโรงเรียน",
+      "summary_th": "ผู้ปกครองถูกกระตุ้นให้กลับมาทบทวนการจำกัดเวลาอยู่หน้าจอที่พวกเขากำหนดไว้กับลูกๆ เมื่อพวกเขากลับไปโรงเรียน รายงานระบุว่าผู้ปกครองที่มีความเครียดอาจมีทัศนคติที่ผ่อนคลายมากขึ้นในการใช้เวลาดูหน้าจอในช่วงปิดเทอมฤดูร้อน และอาจส่งผลเสียร้ายแรงต่อบุตรหลานเมื่อเปิดภาคเรียนใหม่ นอกจากนี้ ผู้เชี่ยวชาญยังกล่าวอีกว่าการจำกัดวันละ 2 ชั่วโมงที่แนะนำไว้ก่อนหน้านี้ล้าสมัยแล้ว และผู้ปกครองควรใช้แนวทางที่ซับซ้อนกว่านี้โดยยึดตาม “หลัก 5 ซี” …"
     },
     {
       "source": "9to5Mac",
@@ -447,40 +483,16 @@
       "summary_th": "Edge Canary build ล่าสุดของ Microsoft ได้เพิ่มแฟล็กใหม่สำหรับการลงชื่อเข้าใช้เบราว์เซอร์ด้วยบัญชี Apple ในขณะที่บันทึกประจำรุ่นของ Microsoft ระบุว่าฟีเจอร์นี้กำลังเปิดตัวให้กับผู้ใช้ Edge Beta เช่นกัน นี่คือรายละเอียด"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple extends 2026 Back to School deals on Macs and iPads until September 24",
-      "summary_en": "Eligible students, parents of students, and educators in the United States just got a few extra weeks to claim Apple’s 2026 Back to School deals on select Macs and iPads. Here are the details.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-store-back-to-school-2026.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/11/apple-extends-2026-back-to-school-deals-on-macs-and-ipads-until-september-24/",
-      "published": "Tue, 11 Aug 2026 21:35:29 +0000",
-      "title_th": "Apple ขยายข้อเสนอ Back to School ปี 2026 สำหรับ Mac และ iPad จนถึงวันที่ 24 กันยายน",
-      "summary_th": "นักเรียนที่มีสิทธิ์ ผู้ปกครองของนักเรียน และนักการศึกษาในสหรัฐอเมริกามีเวลาอีกสองสามสัปดาห์เพื่อรับข้อเสนอ Back to School ปี 2026 ของ Apple บน Mac และ iPad บางรุ่น นี่คือรายละเอียด"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Report: Non-gaming apps drove mobile spending growth in Q2 as games fell 4.5%",
-      "summary_en": "A new report from Sensor Tower shows that non-gaming apps continued to drive global mobile spending growth in Q2 2026 across iOS and Android, while gaming revenue declined 4.5% year over year. Here are the details.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/app-store-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/11/report-non-gaming-apps-drove-mobile-spending-growth-in-q2-as-games-fell-4-5/",
-      "published": "Tue, 11 Aug 2026 20:59:32 +0000",
-      "title_th": "รายงาน: แอปที่ไม่ใช่เกมผลักดันการเติบโตของการใช้จ่ายผ่านมือถือในไตรมาสที่ 2 เนื่องจากเกมลดลง 4.5%",
-      "summary_th": "รายงานใหม่จาก Sensor Tower แสดงให้เห็นว่าแอปที่ไม่ใช่เกมยังคงผลักดันการเติบโตของการใช้จ่ายผ่านมือถือทั่วโลกในไตรมาสที่ 2 ปี 2026 ทั่วทั้ง iOS และ Android ในขณะที่รายได้จากเกมลดลง 4.5% เมื่อเทียบเป็นรายปี นี่คือรายละเอียด"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "iPhone 18 Pro: Three new camera upgrades are coming",
-      "summary_en": "iPhone 18 Pro is just a few weeks away , and rumors indicate it could bring an especially noteworthy batch of camera upgrades. Here are the three main camera features currently rumored.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-17-pro-silver-camera-plateau.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/11/iphone-18-pro-three-new-camera-upgrades-are-coming/",
-      "published": "Tue, 11 Aug 2026 20:18:09 +0000",
-      "title_th": "iPhone 18 Pro: กำลังจะมีการอัพเกรดกล้องใหม่สามรายการ",
-      "summary_th": "iPhone 18 Pro อยู่ห่างออกไปเพียงไม่กี่สัปดาห์ และข่าวลือระบุว่าอาจนำมาซึ่งการอัพเกรดกล้องชุดที่น่าจดจำเป็นพิเศษ นี่คือคุณสมบัติกล้องหลักสามประการที่มีข่าวลือในปัจจุบัน"
+      "title_en": "How to watch the Made by Google event stream and Pixel 11 announcement",
+      "summary_en": "You might think you know everything about Google’s next-gen Pixel 11 lineup, but the company is still hoping to surprise you at tonight’s live primetime-adjacent Made by Google event and it’s sounding like one you won’t want to miss.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/made-by-google-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/12/how-to-watch-the-made-by-google-event-stream-and-pixel-11-announcement/",
+      "published": "Wed, 12 Aug 2026 11:00:00 +0000",
+      "title_th": "วิธีดูสตรีมกิจกรรม Made by Google และประกาศ Pixel 11",
+      "summary_th": "คุณอาจคิดว่าคุณรู้ทุกอย่างเกี่ยวกับกลุ่มผลิตภัณฑ์ Pixel 11 รุ่นต่อไปของ Google แต่บริษัทยังคงหวังว่าจะทำให้คุณประหลาดใจในงาน Made by Google ที่อยู่ติดกันในช่วงไพรม์ไทม์ในคืนนี้ และดูเหมือนว่าจะเป็นงานที่คุณไม่ควรพลาด"
     },
     {
       "source": "9to5Google",
@@ -531,16 +543,16 @@
       "summary_th": "รายการเกม Android และข้อเสนอแอพที่ดีที่สุดในช่วงบ่ายวันอังคารของคุณพร้อมแล้ว รวมถึงเกมอย่าง Balatro, Cyberlords – Arcology PREMIUM, Defenchick: tower Defense, Alien Food Invasion Premium, Earthlings Beware! และอีกมากมาย Pixel Buds 2a รุ่นปัจจุบันของ Google พร้อม ANC ต่ำเพียง $ 70 บัดไร้สาย Nothing ANC เหล่านี้ในราคาเพียง $ 39 และพีซี Galaxy Book 6/Pro Copilot + ล่าสุดของ Samsung ต่ำเพียง $ 800 (ลด $ 650) แอพกำลังรออยู่ด้านล่าง"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Deals: Nothing Phone $200 off, Pixel Buds from just $70, Galaxy Book 6 up to $650 off, Pixelsnap Charger 50% off, more",
-      "summary_en": "Alongside Best Buy’s updated 2026 Back to School sale , today’s 9to5Toys Lunch Break is headlined by Nothing Phone (3) up to $200 off at Amazon alongside these Nothing ANC wireless buds with the Smart Dial for just $39 , and a chance to score some Pixel Buds as low as $70 too. We also have Samsung’s latest Galaxy Book 6/Pro Copilot+ PCs as low as $800 ($650 off) , Acer’s touchscreen 2-in-1 Chromebook Plus Spin 714 at $300 off , and the ongoing clearance deal on Google’s latest Qi2 25W Google Pixelsnap Charger with Stand at $35 (50% off). Check it al out below.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/9to5Google-Aug-11.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/11/deals-nothing-phone-pixel-buds-galaxy-book-6-pixelsnap/",
-      "published": "Tue, 11 Aug 2026 15:39:46 +0000",
-      "title_th": "ข้อเสนอ: ไม่มีโทรศัพท์ใด ๆ ลด $ 200, Pixel Buds จากเพียง $ 70, Galaxy Book 6 ถึง $ 650 ปิด, Pixelsnap Charger ลด 50% และอีกมากมาย",
-      "summary_th": "นอกเหนือจากการลดราคา Back to School ที่อัปเดตในปี 2026 ของ Best Buy แล้ว 9to5Toys Lunch Break ในวันนี้ยังนำโดย Nothing Phone (3) ส่วนลดสูงสุด 200 ดอลลาร์ที่ Amazon ควบคู่ไปกับหูฟังไร้สาย Nothing ANC พร้อม Smart Dial ในราคาเพียง 39 ดอลลาร์ และโอกาสที่จะได้รับ Pixel Buds บางรุ่นต่ำถึง 70 ดอลลาร์ด้วย นอกจากนี้เรายังมีพีซี Galaxy Book 6/Pro Copilot+ รุ่นล่าสุดของ Samsung ในราคาเพียง 800 ดอลลาร์ (ลด 650 ดอลลาร์) หน้าจอสัมผัสแบบ 2-in-1 ของ Acer Chromebook Plus Spin 714 ในราคาลด 300 ดอลลาร์ และข้อตกลงการกวาดล้างอย่างต่อเนื่องสำหรับเครื่องชาร์จ Qi2 25W Google Pixelsnap ล่าสุดของ Google พร้อมขาตั้งที่ 35 ดอลลาร์ (ลด 50%) ตรวจสอบมันทั้งหมดด้านล่าง"
+      "category": "ev",
+      "title_en": "Gas prices are about to go even higher. Here’s how to use an e-bike to save money",
+      "summary_en": "If you are like most people and currently drive a gasoline-powered car, the pain is about to become even worse. US government officials have warned that gas prices are expected to rise further as tensions around the Strait of Hormuz continue to disrupt the global oil supply. While we can’t control geopolitical events, we can control how much gasoline we actually need to buy. And that’s where e-bikes come in.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/06/gas-prices-e-bike-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/12/gas-prices-are-about-to-go-even-higher-heres-how-to-use-an-e-bike-to-save-money/",
+      "published": "Wed, 12 Aug 2026 12:33:00 +0000",
+      "title_th": "ราคาก๊าซกำลังจะสูงขึ้นไปอีก ต่อไปนี้เป็นวิธีใช้ e-bike เพื่อประหยัดเงิน",
+      "summary_th": "หากคุณเป็นเหมือนคนส่วนใหญ่และปัจจุบันขับรถที่ใช้น้ำมันเบนซิน อาการเจ็บปวดจะยิ่งเพิ่มมากขึ้น เจ้าหน้าที่รัฐบาลสหรัฐฯ เตือนว่าราคาก๊าซคาดว่าจะสูงขึ้นอีก เนื่องจากความตึงเครียดรอบช่องแคบฮอร์มุซยังคงส่งผลกระทบต่ออุปทานน้ำมันทั่วโลก แม้ว่าเราไม่สามารถควบคุมเหตุการณ์ทางภูมิรัฐศาสตร์ได้ แต่เราสามารถควบคุมปริมาณน้ำมันที่เราต้องการซื้อได้จริง และนั่นคือที่มาของ e-bikes"
     },
     {
       "source": "Electrek",
@@ -564,7 +576,7 @@
       "link": "https://electrek.co/2026/08/11/hyundai-launches-range-topping-ioniq-9-calligraphy-black-ink/",
       "published": "Tue, 11 Aug 2026 20:39:40 +0000",
       "title_th": "ฮุนไดเปิดตัว IONIQ 9 Calligraphy Black Ink รุ่นท็อปในสหราชอาณาจักรและยุโรป",
-      "summary_th": "Hyundai IONIQ 9 Black Ink Edition ใหม่ อยู่เหนือการประดิษฐ์ตัวอักษรในฐานะอุปกรณ์ตกแต่งกลุ่มใหม่ พบกับฮุนได..."
+      "summary_th": "Hyundai IONIQ 9 Black Ink edition ใหม่ อยู่เหนือการประดิษฐ์ตัวอักษรในฐานะอุปกรณ์ตกแต่งกลุ่มใหม่ พบกับฮุนได..."
     },
     {
       "source": "Electrek",
@@ -575,7 +587,7 @@
       "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Anker-SOLIX-AeroGarden-ECOVACS-GDs-FI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "link": "https://electrek.co/2026/08/11/anker-solix-mega-sale-power-station-c1000x-aerogarden-more/",
       "published": "Tue, 11 Aug 2026 18:00:00 +0000",
-      "title_th": "Anker SOLIX Mega Sale มอบส่วนลดโรงไฟฟ้าสูงสุด 48% + ลด C1000X $399 วันเดียวเท่านั้น AeroGarden และอีกมากมาย",
+      "title_th": "Anker SOLIX Mega Sale มอบส่วนลดโรงไฟฟ้าสูงสุด 48% + ส่วนลด C1000X $399 วันเดียวเท่านั้น AeroGarden และอีกมากมาย",
       "summary_th": "เรามี Green Deal ที่จัดหนักสำหรับโรงไฟฟ้าสำหรับคุณวันนี้ เริ่มต้นด้วย Anker SOLIX Fan Fest Mega Sale ที่เพิ่งเปิดตัวใหม่พร้อมส่วนลดเริ่มต้นสูงสุด 48% รหัสส่วนลดพิเศษแบบประหยัด ของขวัญสำหรับโรงไฟฟ้าฟรี ทั้งหมดนี้เริ่มต้นที่ 190 ดอลลาร์ นอกจากนี้เรายังพบข้อตกลงวันเดียวเท่านั้นสำหรับสถานีไฟฟ้าพกพา SOLIX C1000X 1,024Wh ของ Anker ที่ราคา 480 ดอลลาร์ เช่นเดียวกับข้อตกลงวันเดียวที่คล้ายกันสำหรับสถานีไฟฟ้าพกพา Bluetti AC50B 488Wh ในราคา 259 ดอลลาร์ จากนั้น เรายังมีระบบสวนไฮโดรโปนิกในร่ม Harvest XL ของ AeroGarden ในราคาต่ำเพียง 81 ดอลลาร์ หุ่นยนต์ทำความสะอาดสระว่ายน้ำไร้สาย ECOVACS Ultramarine P1 ที่ราคาต่ำสุดใหม่ ส่วนลดที่ค้างชำระสำหรับเครื่องตัดหญ้า Select Cut and Touch Drive ขนาด 21 นิ้วของ EGO ที่มาพร้อมกับแบตเตอรี่ 2x6.0Ah และอื่นๆ อีกมากมายด้านล่าง ซึ่งรวมถึงข้อเสนออาการเมาค้างจากสัปดาห์ที่แล้วที่ด้านล่างของ"
     },
     {
@@ -587,20 +599,8 @@
       "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/06/gas-vs-electric.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "link": "https://electrek.co/2026/08/11/china-sales-numbers-are-in-evs-up-while-everything-with-an-engine-collapses/",
       "published": "Tue, 11 Aug 2026 17:47:43 +0000",
-      "title_th": "ตัวเลขยอดขายในจีนอยู่ที่: EV เพิ่มขึ้นในขณะที่ทุกอย่างเครื่องยนต์พังทลาย",
-      "summary_th": "การล่มสลายเชิงโครงสร้างของยอดขายรถยนต์ที่ใช้แก๊สยังคงเกิดขึ้นอย่างต่อเนื่องในตลาดรถยนต์ที่ใหญ่ที่สุดในโลก โดยตัวเลขในเดือนกรกฎาคมแสดงให้เห็นว่ารถยนต์ประเภทเดียวที่ทำได้ดีคือรถยนต์ที่ใช้แบตเตอรี่ล้วนๆ ในขณะที่ยอดขายรถยนต์ประเภทอื่นๆ ยังคงลดลงอย่างรวดเร็วเป็นเวลาหลายเดือนติดต่อกัน"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Tesla recalls 20,000 Model 3/Y for headlights that are too bright",
-      "summary_en": "If you’ve ever been driving at night and felt like the car behind you had too-bright headlights, that car might have been a Tesla, and it might have felt that way because its lights broke the rules.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/model-y-headlight-e1786466633451.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/11/tesla-recall-20000-model-3-y-for-headlights-that-are-too-bright/",
-      "published": "Tue, 11 Aug 2026 16:44:26 +0000",
-      "title_th": "Tesla เรียกคืนรุ่น 3/Y จำนวน 20,000 คัน เหตุไฟหน้าสว่างเกินไป",
-      "summary_th": "หากคุณเคยขับรถตอนกลางคืนและรู้สึกว่ารถที่อยู่ข้างหลังคุณมีไฟหน้าสว่างเกินไป รถคันนั้นอาจเป็น Tesla และอาจรู้สึกเช่นนั้นเพราะไฟรถแหกกฎ"
+      "title_th": "ตัวเลขยอดขายในจีนอยู่ที่: EV เพิ่มขึ้นในขณะที่ทุกอย่างเครื่องยนต์พัง",
+      "summary_th": "การล่มสลายเชิงโครงสร้างของยอดขายรถยนต์ที่ใช้แก๊สยังคงดำเนินต่อไปในตลาดรถยนต์ที่ใหญ่ที่สุดในโลก โดยตัวเลขในเดือนกรกฎาคมแสดงให้เห็นว่ารถยนต์ประเภทเดียวที่ทำได้ดีคือรถยนต์ที่ใช้แบตเตอรี่ล้วนๆ ในขณะที่ยอดขายรถยนต์ประเภทอื่นๆ ยังคงลดลงอย่างรวดเร็วเป็นเวลาหลายเดือนติดต่อกัน"
     }
   ],
   "indices": [
@@ -656,9 +656,9 @@
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 599.12,
-      "change": 4.2,
-      "change_pct": 0.71
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "DELTA.BK",
