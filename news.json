@@ -1,18 +1,42 @@
 {
-  "generated_at": "2026-08-11T21:35:05.446978+00:00",
+  "generated_at": "2026-08-12T00:50:38.156277+00:00",
   "count": 50,
   "articles": [
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
+      "title_en": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
+      "summary_en": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2264853771.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
+      "published": "Tue, 11 Aug 2026 21:39:58 +0000",
+      "title_th": "มีรายงานว่า Phoebe Gates และ Sophia Kianni รู้ว่า Phia 'ยัดคุกกี้' เป็นเวลาหลายเดือน",
+      "summary_th": "Phia สตาร์ทอัพด้านการช็อปปิ้งที่ก่อตั้งโดย Phoebe Gates และ Sophia Kianni กำลังตกอยู่ภายใต้ข้อกล่าวหาเรื่องการดำเนินธุรกิจอีกครั้ง"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "summary_en": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/accel.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "published": "Tue, 11 Aug 2026 21:39:11 +0000",
+      "title_th": "Accel ปิดกองทุนอินเดียที่มีสมาชิกเกินมูลค่า 550 ล้านดอลลาร์ภายในไม่กี่สัปดาห์ 19 เดือนหลังจากครั้งสุดท้าย",
+      "summary_th": "บริษัท VC ของสหรัฐฯ ยังคงมีเงินทุนมากกว่า 55% ของกองทุนอินเดียมูลค่า 650 ล้านดอลลาร์ก่อนหน้านี้ที่พร้อมใช้งาน"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
       "title_en": "Uber surprised robotics company Serve by selling its entire stake",
-      "summary_en": "The divesture comes as the two once-tight companies have started to diverge on the business side.",
+      "summary_en": "The divestiture comes as the two once-tight companies have started to diverge on the business side.",
       "image": "https://techcrunch.com/wp-content/uploads/2022/05/Serve-Uber-Eats.jpg?resize=1200,801",
       "link": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
       "published": "Tue, 11 Aug 2026 20:02:02 +0000",
       "title_th": "Uber สร้างความประหลาดใจให้กับบริษัทหุ่นยนต์ Serve ด้วยการขายหุ้นทั้งหมด",
-      "summary_th": "การขายกิจการเกิดขึ้นเมื่อทั้งสองบริษัทที่ครั้งหนึ่งเคยแน่นแฟ้นกันเริ่มแยกทางกันในด้านธุรกิจ"
+      "summary_th": "การขายกิจการเกิดขึ้นเมื่อทั้งสองบริษัทที่เคยแน่นแฟ้นกันเริ่มแยกทางกันในด้านธุรกิจ"
     },
     {
       "source": "TechCrunch",
@@ -39,28 +63,28 @@
       "summary_th": "ในที่สุด OpenAI ก็นำแอปเดสก์ท็อป ChatGPT เฉพาะมาสู่ระบบปฏิบัติการ Linux ในที่สุด"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Google’s Gemini app surges to 1 billion users",
-      "summary_en": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "published": "Tue, 11 Aug 2026 18:49:12 +0000",
-      "title_th": "แอป Gemini ของ Google มีผู้ใช้งานถึง 1 พันล้านคน",
-      "summary_th": "Google ยังได้แชร์จำนวนวิธีที่ผู้คนใช้แชทบอท โดยผู้ใช้ราศีเมถุน 63% พูดคุยกับผู้ช่วยโดยตรงโดยใช้ฟีเจอร์เสียง นอกจากนี้ ปัจจุบัน Gemini ยังสร้างรูปภาพมากกว่า 150 ล้านภาพทุกวัน ตามข้อมูลของ Google"
+      "category": "software",
+      "title_en": "Saber denies replacing Rideshare Stimulator’s writers with ChatGPT",
+      "summary_en": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differently, however, posting on Bluesky that \"I was lead writer on this one! […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/RS_storefronts_3840x2160_8.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "published": "2026-08-11T20:39:26-04:00",
+      "title_th": "Saber ปฏิเสธการแทนที่ผู้เขียนของ Rideshare Stimulator ด้วย ChatGPT",
+      "summary_th": "หลังจากที่อดีตนักเขียนนำอ้างว่า Saber \"แทนที่ฉันด้วย ChatGPT\" CEO Matthew Karch อ้างว่า \"ทั้ง Saber และ Unigine ไม่ได้แทนที่นักเขียนคนใดด้วย AI\" สำหรับเกม Rideshare \"Stimulator\" ที่ประกาศเมื่อเดือนที่แล้ว พัฒนาโดย Unigine อย่างไรก็ตาม นักเขียน Stella Sacco พูดแตกต่างออกไป โดยโพสต์บน Bluesky ว่า \"ฉันเป็นนักเขียนนำในเรื่องนี้! […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Bluesky’s active user base is shrinking as its focus expands beyond the app",
-      "summary_en": "Over a year following its post-election surge, Bluesky’s mobile app is seeing a continued decline in active users, though its remaining community is still relatively engaged.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
-      "published": "Tue, 11 Aug 2026 17:46:14 +0000",
-      "title_th": "ฐานผู้ใช้ที่ใช้งานอยู่ของ Bluesky กำลังหดตัวลงเนื่องจากการมุ่งเน้นขยายไปไกลกว่าแอป",
-      "summary_th": "กว่าหนึ่งปีภายหลังการเลือกตั้งที่เพิ่มขึ้นอย่างรวดเร็ว แอปมือถือของ Bluesky มีจำนวนผู้ใช้งานลดลงอย่างต่อเนื่อง แม้ว่าชุมชนที่เหลือจะยังคงมีส่วนร่วมอยู่ก็ตาม"
+      "category": "software",
+      "title_en": "Xbox Elite 3 prototype pad leaks with tiny built-in screen",
+      "summary_en": "Did a prototype Microsoft gamepad fall off the back of a truck? We can't say, but a Redditor has legit-looking photos of a prototype Xbox controller that's almost certainly the Xbox Elite Series 3. Incredibly, they claim they bought the pad for $200 on OfferUp. In May, a Brazilian regulator's leaked images revealed that Xbox […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/closer-xbox-elite-3-leak.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "link": "https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen",
+      "published": "2026-08-11T18:36:35-04:00",
+      "title_th": "แผ่นต้นแบบ Xbox Elite 3 รั่วไหลพร้อมหน้าจอในตัวขนาดเล็ก",
+      "summary_th": "เกมแพดต้นแบบของ Microsoft หล่นจากท้ายรถบรรทุกหรือไม่? เราไม่สามารถพูดได้ แต่ Redditor มีรูปถ่ายที่ดูถูกกฎหมายของคอนโทรลเลอร์ Xbox ต้นแบบซึ่งเกือบจะเป็น Xbox Elite Series 3 อย่างแน่นอน พวกเขาอ้างว่าพวกเขาซื้อแพดในราคา 200 ดอลลาร์จาก OfferUp อย่างไม่น่าเชื่อ ในเดือนพฤษภาคม รูปภาพรั่วไหลของผู้ควบคุมดูแลของบราซิลเปิดเผยว่า Xbox […]"
     },
     {
       "source": "The Verge",
@@ -97,30 +121,6 @@
       "published": "2026-08-11T15:10:14-04:00",
       "title_th": "Threads มีแอป VR แล้ว",
       "summary_th": "Meta ได้เปิดตัวแอพ Threads สำหรับชุดหูฟัง Meta Quest VR บริษัท ประกาศเมื่อวันอังคาร การเปิดตัวดังกล่าวเกิดขึ้นหลังจาก Meta นำแอปไปไว้ในแว่นตา Ray-Ban Display AR เมื่อเดือนที่แล้ว และข่าวล่าสุดว่าแพลตฟอร์มดังกล่าวมีผู้ใช้งานเกิน 500 ล้านรายต่อเดือน ดูเหมือนเป็นแอพที่มีฟีเจอร์ครบถ้วน เมต้าบอกว่า […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Google’s free streaming service now lets you pick shows and movies to watch",
-      "summary_en": "Google TV Freeplay, the company's free, ad-supported streaming service, now supports video on demand. Instead of tuning into Google TV Freeplay's selection of always-on channels, you can now choose from over 10,000 shows and movies to watch whenever you want. The update introduces titles like Lady Bird, Seventeen Again, and Hell's Kitchen, according to Google's […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google-tv-freeplay-vod.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "link": "https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand",
-      "published": "2026-08-11T14:35:16-04:00",
-      "title_th": "บริการสตรีมมิ่งฟรีของ Google ให้คุณเลือกรายการและภาพยนตร์ที่จะรับชมได้แล้ว",
-      "summary_th": "Google TV Freeplay ซึ่งเป็นบริการสตรีมมิ่งฟรีที่มีโฆษณาสนับสนุนของบริษัท รองรับวิดีโอออนดีมานด์แล้ว แทนที่จะต้องรับชมช่องที่เปิดตลอดเวลาของ Google TV Freeplay ตอนนี้คุณสามารถเลือกรายการและภาพยนตร์มากกว่า 10,000 รายการเพื่อรับชมได้ทุกเมื่อที่คุณต้องการ การอัปเดตแนะนำชื่อเช่น Lady Bird, Seventeen Again และ Hell's Kitchen ตาม […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Another OpenAI executive takes off",
-      "summary_en": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told colleagues he'd be starting \"something new.\" \"Over the last few months, I've been focused on the next horizon and what would stand […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2151647832.jpg?quality=90&strip=all&crop=0%2C10.664146549656%2C100%2C78.671706900689&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
-      "published": "2026-08-11T13:50:01-04:00",
-      "title_th": "ผู้บริหาร OpenAI อีกคนลาออก",
-      "summary_th": "Brad Lightcap หัวหน้าโครงการพิเศษของ OpenAI และอดีต COO ของบริษัท ประกาศลาออกหลังจากทำงานในห้องแล็บ AI มาแปดปี ในบันทึกภายในที่เขาโพสต์ไปที่ X ในภายหลัง Lightcap บอกกับเพื่อนร่วมงานว่าเขากำลังจะเริ่มต้น \"สิ่งใหม่\" “ในช่วงไม่กี่เดือนที่ผ่านมา ฉันมุ่งเน้นไปที่เส้นขอบฟ้าถัดไปและสิ่งที่จะคงอยู่ […]"
     },
     {
       "source": "Ars Technica",
@@ -396,7 +396,7 @@
       "link": "https://spectrum.ieee.org/navigating-pivot-tech-expert-leader",
       "published": "Fri, 07 Aug 2026 18:00:01 +0000",
       "title_th": "การนำทาง Pivot จากผู้เชี่ยวชาญด้านเทคโนโลยีไปจนถึงผู้นำองค์กร",
-      "summary_th": "การเปลี่ยนจากผู้เชี่ยวชาญทางเทคนิคล้วนๆ หรือตำแหน่งผู้ร่วมให้ข้อมูลรายบุคคลไปสู่บทบาทผู้นำที่กว้างขึ้นถือเป็นหนึ่งในขั้นตอนที่ท้าทายที่สุดในอาชีพ STEM จำเป็นต้องเปลี่ยนจากการพึ่งพาความเป็นเลิศทางเทคนิคเพียงอย่างเดียวไปสู่การคิดอย่างเป็นระบบ ความเป็นผู้นำที่ปรับเปลี่ยนได้ และการจัดตำแหน่งทีม เพื่อช่วยให้ผู้ประกอบวิชาชีพระดับกลางก้าวผ่านการเปลี่ยนแปลง การประชุม IEEE International Leadership Conference ครั้งแรกได้รับการออกแบบเพื่อให้ผู้เข้าร่วมมีเครื่องมือที่ใช้งานได้จริงเพื่อก้าวเข้าสู่ความรับผิดชอบที่กว้างขึ้นและส่งเสริมกรอบความคิดของผู้ประกอบการ งาน ILC มีกำหนดในวันที่ 3 และ 4 ตุลาคมในบูดาเปสต์ เปิดลงทะเบียนแล้ว คิดให้ไกลกว่าการมีส่วนร่วมทางเทคนิค เพื่อประสบความสำเร็จในการก้าวเข้าสู่บทบาทผู้นำ ผู้เชี่ยวชาญด้านเทคนิคจำเป็นต้องมองข้ามผลงานของตนเองและมุ่งเน้นไปที่ \"คุณ\""
+      "summary_th": "การเปลี่ยนจากผู้เชี่ยวชาญทางเทคนิคล้วนๆ หรือตำแหน่งผู้ร่วมให้ข้อมูลรายบุคคลไปสู่บทบาทผู้นำที่กว้างขึ้นถือเป็นหนึ่งในขั้นตอนที่ท้าทายที่สุดในอาชีพ STEM จำเป็นต้องเปลี่ยนจากการพึ่งพาความเป็นเลิศทางเทคนิคเพียงอย่างเดียวไปสู่การคิดอย่างเป็นระบบ ความเป็นผู้นำที่ปรับเปลี่ยนได้ และการจัดตำแหน่งทีม เพื่อช่วยให้ผู้ประกอบวิชาชีพระดับกลางก้าวผ่านการเปลี่ยนแปลง การประชุม IEEE International Leadership Conference ครั้งแรกได้รับการออกแบบเพื่อให้ผู้เข้าร่วมมีเครื่องมือที่ใช้งานได้จริงเพื่อก้าวเข้าสู่ความรับผิดชอบที่กว้างขึ้นและส่งเสริมกรอบความคิดของผู้ประกอบการ งาน ILC มีกำหนดในวันที่ 3 และ 4 ตุลาคมในบูดาเปสต์ เปิดลงทะเบียนแล้ว คิดให้ไกลกว่าการมีส่วนร่วมทางเทคนิค เพื่อให้ประสบความสำเร็จในการก้าวเข้าสู่บทบาทผู้นำ ผู้เชี่ยวชาญด้านเทคนิคจำเป็นต้องมองข้ามผลงานของตนเองและมุ่งเน้นไปที่ \"คุณ\""
     },
     {
       "source": "IEEE Spectrum",
@@ -426,12 +426,36 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "Microsoft Edge tests Apple Account sign-in support",
+      "summary_en": "Microsoft’s latest Edge Canary build has added new flags for signing in to the browser with an Apple Account , while Microsoft’s release notes indicate the feature is also rolling out to Edge Beta users. Here are the details.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/microsoft-edge-macos.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/11/microsoft-edge-tests-apple-account-sign-in-support/",
+      "published": "Wed, 12 Aug 2026 00:11:30 +0000",
+      "title_th": "Microsoft Edge ทดสอบการสนับสนุนการลงชื่อเข้าใช้บัญชี Apple",
+      "summary_th": "Edge Canary build ล่าสุดของ Microsoft ได้เพิ่มแฟล็กใหม่สำหรับการลงชื่อเข้าใช้เบราว์เซอร์ด้วยบัญชี Apple ในขณะที่บันทึกประจำรุ่นของ Microsoft ระบุว่าฟีเจอร์นี้กำลังเปิดตัวให้กับผู้ใช้ Edge Beta เช่นกัน นี่คือรายละเอียด"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple extends 2026 Back to School deals on Macs and iPads until September 24",
+      "summary_en": "Eligible students, parents of students, and educators in the United States just got a few extra weeks to claim Apple’s 2026 Back to School deals on select Macs and iPads. Here are the details.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-store-back-to-school-2026.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/11/apple-extends-2026-back-to-school-deals-on-macs-and-ipads-until-september-24/",
+      "published": "Tue, 11 Aug 2026 21:35:29 +0000",
+      "title_th": "Apple ขยายข้อเสนอ Back to School ปี 2026 สำหรับ Mac และ iPad จนถึงวันที่ 24 กันยายน",
+      "summary_th": "นักเรียนที่มีสิทธิ์ ผู้ปกครองของนักเรียน และนักการศึกษาในสหรัฐอเมริกามีเวลาอีกสองสามสัปดาห์เพื่อรับข้อเสนอ Back to School ปี 2026 ของ Apple บน Mac และ iPad บางรุ่น นี่คือรายละเอียด"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Report: Non-gaming apps drove mobile spending growth in Q2 as games fell 4.5%",
       "summary_en": "A new report from Sensor Tower shows that non-gaming apps continued to drive global mobile spending growth in Q2 2026 across iOS and Android, while gaming revenue declined 4.5% year over year. Here are the details.",
       "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/app-store-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "link": "https://9to5mac.com/2026/08/11/report-non-gaming-apps-drove-mobile-spending-growth-in-q2-as-games-fell-4-5/",
       "published": "Tue, 11 Aug 2026 20:59:32 +0000",
-      "title_th": "รายงาน: แอพที่ไม่ใช่เกมผลักดันการเติบโตของการใช้จ่ายผ่านมือถือในไตรมาสที่ 2 เนื่องจากเกมลดลง 4.5%",
+      "title_th": "รายงาน: แอปที่ไม่ใช่เกมผลักดันการเติบโตของการใช้จ่ายผ่านมือถือในไตรมาสที่ 2 เนื่องจากเกมลดลง 4.5%",
       "summary_th": "รายงานใหม่จาก Sensor Tower แสดงให้เห็นว่าแอปที่ไม่ใช่เกมยังคงผลักดันการเติบโตของการใช้จ่ายผ่านมือถือทั่วโลกในไตรมาสที่ 2 ปี 2026 ทั่วทั้ง iOS และ Android ในขณะที่รายได้จากเกมลดลง 4.5% เมื่อเทียบเป็นรายปี นี่คือรายละเอียด"
     },
     {
@@ -450,37 +474,13 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "review",
-      "title_en": "Court rejects Apple’s attempt to postpone App Store fee proceedings in Epic Games case",
+      "title_en": "Court rejects Apple’s attempt to postpone App Store fee proceedings in Epic Games case [U]",
       "summary_en": "Epic Games CEO Tim Sweeney says Judge Yvonne Gonzalez Rogers has rejected Apple’s request to pause the App Store fee proceedings pending the Supreme Court’s review of the company’s contempt ruling. Here are the details.",
       "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/05/epic-games-app-store.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "link": "https://9to5mac.com/2026/08/11/court-rejects-apples-attempt-to-postpone-app-store-fee-proceedings-in-epic-games-case/",
       "published": "Tue, 11 Aug 2026 19:59:40 +0000",
-      "title_th": "ศาลปฏิเสธความพยายามของ Apple ที่จะเลื่อนการพิจารณาค่าธรรมเนียม App Store ในคดี Epic Games",
-      "summary_th": "Tim Sweeney ซีอีโอของ Epic Games กล่าวว่าผู้พิพากษา Yvonne Gonzalez Rogers ปฏิเสธคำขอของ Apple ที่จะระงับการดำเนินการค่าธรรมเนียม App Store ชั่วคราว เพื่อรอการพิจารณาของศาลฎีกาเกี่ยวกับคำตัดสินที่ดูหมิ่นของบริษัท นี่คือรายละเอียด"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "‘Everyone’ at Apple uses iPhone Ultra name, says Mark Gurman",
-      "summary_en": "Apple is rumored to use ‘iPhone Ultra’ branding for its upcoming foldable model, and Mark Gurman says that is indeed the name widely used within the company’s ranks.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/11/everyone-at-apple-uses-iphone-ultra-name-says-mark-gurman/",
-      "published": "Tue, 11 Aug 2026 19:40:15 +0000",
-      "title_th": "Mark Gurman กล่าวว่า \"ทุกคน\" ที่ Apple ใช้ชื่อ iPhone Ultra",
-      "summary_th": "มีข่าวลือว่า Apple จะใช้แบรนด์ 'iPhone Ultra' สำหรับรุ่นที่พับได้ที่กำลังจะมาถึง และ Mark Gurman กล่าวว่านั่นเป็นชื่อที่ใช้กันอย่างแพร่หลายในกลุ่มบริษัท"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple in talks to acquire streaming rights for golf’s Open Championship: report",
-      "summary_en": "Apple is among companies in talks to acquire US rights to golf’s Open Championship, according to a new report from the Guardian . Netflix and Amazon are also expected to be interested in the rights.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-tv-logo-black.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/11/apple-streaming-rights-golf-open/",
-      "published": "Tue, 11 Aug 2026 19:01:16 +0000",
-      "title_th": "Apple กำลังเจรจาเพื่อรับสิทธิ์การสตรีมสำหรับ Open Championship ของกอล์ฟ: รายงาน",
-      "summary_th": "Apple เป็นหนึ่งในบริษัทที่กำลังเจรจาเพื่อขอสิทธิ์จากสหรัฐฯ ในการแข่งขัน Open Championship ตามรายงานใหม่จาก Guardian คาดว่า Netflix และ Amazon จะสนใจในสิทธิ์นี้เช่นกัน"
+      "title_th": "ศาลปฏิเสธความพยายามของ Apple ที่จะเลื่อนการพิจารณาค่าธรรมเนียม App Store ในคดี Epic Games [U]",
+      "summary_th": "Tim Sweeney ซีอีโอของ Epic Games กล่าวว่าผู้พิพากษา Yvonne Gonzalez Rogers ปฏิเสธคำขอของ Apple ที่จะระงับการดำเนินคดีค่าธรรมเนียม App Store ชั่วคราว เพื่อรอการพิจารณาของศาลฎีกาเกี่ยวกับคำตัดสินที่ดูหมิ่นของบริษัท นี่คือรายละเอียด"
     },
     {
       "source": "9to5Google",
@@ -588,18 +588,18 @@
       "link": "https://electrek.co/2026/08/11/china-sales-numbers-are-in-evs-up-while-everything-with-an-engine-collapses/",
       "published": "Tue, 11 Aug 2026 17:47:43 +0000",
       "title_th": "ตัวเลขยอดขายในจีนอยู่ที่: EV เพิ่มขึ้นในขณะที่ทุกอย่างเครื่องยนต์พัง",
-      "summary_th": "การล่มสลายเชิงโครงสร้างของยอดขายรถยนต์ที่ใช้แก๊สยังคงเกิดขึ้นอย่างต่อเนื่องในตลาดรถยนต์ที่ใหญ่ที่สุดในโลก โดยตัวเลขในเดือนกรกฎาคมแสดงให้เห็นว่ารถยนต์ประเภทเดียวที่ทำได้ดีคือรถยนต์ที่ใช้แบตเตอรี่ล้วนๆ ในขณะที่ยอดขายรถยนต์ประเภทอื่นๆ ยังคงลดลงอย่างรวดเร็วเป็นเวลาหลายเดือนติดต่อกัน"
+      "summary_th": "การล่มสลายเชิงโครงสร้างของยอดขายรถยนต์ที่ใช้แก๊สยังคงดำเนินต่อไปในตลาดรถยนต์ที่ใหญ่ที่สุดในโลก โดยตัวเลขในเดือนกรกฎาคมแสดงให้เห็นว่ารถยนต์ประเภทเดียวที่ทำได้ดีคือรถยนต์ที่ใช้แบตเตอรี่ล้วนๆ ในขณะที่ยอดขายรถยนต์ประเภทอื่นๆ ยังคงลดลงอย่างรวดเร็วเป็นเวลาหลายเดือนติดต่อกัน"
     },
     {
       "source": "Electrek",
       "flag": "",
       "category": "ev",
-      "title_en": "Tesla recall 20,000 Model 3/Y for headlights that are too bright",
+      "title_en": "Tesla recalls 20,000 Model 3/Y for headlights that are too bright",
       "summary_en": "If you’ve ever been driving at night and felt like the car behind you had too-bright headlights, that car might have been a Tesla, and it might have felt that way because its lights broke the rules.",
       "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/model-y-headlight-e1786466633451.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "link": "https://electrek.co/2026/08/11/tesla-recall-20000-model-3-y-for-headlights-that-are-too-bright/",
       "published": "Tue, 11 Aug 2026 16:44:26 +0000",
-      "title_th": "Tesla เรียกคืนรุ่น 3/Y จำนวน 20,000 คัน เนื่องจากไฟหน้าสว่างเกินไป",
+      "title_th": "Tesla เรียกคืนรุ่น 3/Y จำนวน 20,000 คัน เหตุไฟหน้าสว่างเกินไป",
       "summary_th": "หากคุณเคยขับรถตอนกลางคืนและรู้สึกว่ารถที่อยู่ข้างหลังคุณมีไฟหน้าสว่างเกินไป รถคันนั้นอาจเป็น Tesla และอาจรู้สึกเช่นนั้นเพราะไฟรถแหกกฎ"
     }
   ],
