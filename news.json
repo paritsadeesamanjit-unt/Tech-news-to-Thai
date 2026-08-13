@@ -1,13 +1,61 @@
 {
-  "generated_at": "2026-08-13T18:46:30.150640+00:00",
+  "generated_at": "2026-08-13T21:35:41.200328+00:00",
   "count": 50,
   "articles": [
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
+      "title_en": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "summary_en": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/09/May-Habib-Disrupt-2023.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "published": "Thu, 13 Aug 2026 21:13:24 +0000",
+      "title_th": "Writer แนะนำโมเดล AI ใหม่และสายรัดที่อัปเกรดเพื่อควบคุมต้นทุนโทเค็น",
+      "summary_th": "Writer สร้างขึ้นเพื่อเป็นรูปแบบหลังการฝึกอบรมในรุ่นโอเพ่นซอร์ส GLM-5.2 ของ Z.ai กล่าวว่าระบบใหม่ควรมีความสามารถพร้อมปรับใช้ในราคาที่ต่ำกว่ามาก"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "summary_en": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?resize=1200,1200",
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "published": "Thu, 13 Aug 2026 20:14:39 +0000",
+      "title_th": "Databricks ต้องการระดมทุน 1 พันล้านดอลลาร์ นักลงทุนต้องการ 15 พันล้านดอลลาร์ ตกลงที่ 5 พันล้านดอลลาร์ที่ราคาประเมิน 190 พันล้านดอลลาร์",
+      "summary_th": "AI มีราคาแพง Ali Ghodsi กล่าวกับ TechCrunch เนื่องจากนักลงทุนจำนวนมากต้องการเข้าสู่รอบล่าสุดของเขา เขาจึงตอบตกลงมากกว่าที่วางแผนไว้"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "review",
+      "title_en": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "summary_en": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "published": "Thu, 13 Aug 2026 19:22:40 +0000",
+      "title_th": "OpenAI เปิดตัว 'Ultrafast' โหมดใหม่ที่ทำให้ GPT-5.6 Sol ทำงานเร็วขึ้น 14 เท่า",
+      "summary_th": "OpenAI กำลังเปิดตัวตัวอย่างเวอร์ชันเร่งความเร็วของโมเดลล่าสุดที่ทรงพลังที่สุด เพื่อพยายามฟ้องร้องผู้ใช้ระดับองค์กร"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "IBM partners with OpenAI to bolster enterprise AI push",
+      "summary_en": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1127480719.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "published": "Thu, 13 Aug 2026 19:19:49 +0000",
+      "title_th": "IBM ร่วมมือกับ OpenAI เพื่อสนับสนุนการผลักดัน AI ระดับองค์กร",
+      "summary_th": "IBM วางแผนที่จะฝึกอบรมและรับรองที่ปรึกษาหลายหมื่นคนเกี่ยวกับเทคโนโลยีของ OpenAI ซึ่งเป็นส่วนหนึ่งของข้อตกลงนี้"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
       "title_en": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "summary_en": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+      "summary_en": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1354100261.jpg?resize=1200,600",
       "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
       "published": "Thu, 13 Aug 2026 18:28:14 +0000",
@@ -15,52 +63,52 @@
       "summary_th": "นักวิจัยด้านมานุษยวิทยาพบว่าเจ้าหน้าที่ AI สามารถปะทะ สมรู้ร่วมคิด และประสานงานด้วยวิธีที่ไม่คาดคิด ทำให้เกิดคำถามใหม่ว่าการทดสอบความปลอดภัยในปัจจุบันจับความเสี่ยงของระบบหลายตัวแทนหรือไม่"
     },
     {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "OpenAI hires new CRO as executive shake-up continues",
-      "summary_en": "Dali Rajic will take over as OpenAI's top salesperson.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Dali_Resized.webp?resize=1200,675",
-      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "published": "Thu, 13 Aug 2026 17:07:13 +0000",
-      "title_th": "OpenAI จ้าง CRO ใหม่ ในขณะที่การเปลี่ยนแปลงของผู้บริหารยังคงดำเนินต่อไป",
-      "summary_th": "Dali Rajic จะเข้ามารับตำแหน่งพนักงานขายอันดับต้นๆ ของ OpenAI"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "ev",
-      "title_en": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
-      "summary_en": "Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Covered-Ford-Fathom_UEV-Production-System.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
-      "published": "Thu, 13 Aug 2026 16:37:53 +0000",
-      "title_th": "Ford กำลังดำเนินการยกเครื่องโรงงานมูลค่า 2 พันล้านดอลลาร์สำหรับรถบรรทุก Fathom EV",
-      "summary_th": "Ford คาดว่าจะเริ่มสร้างต้นแบบของ Fathom EV ได้ในช่วงไตรมาสแรกของปี 2570"
-    },
-    {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
       "category": "gadget",
-      "title_en": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
-      "summary_en": "X is expanding the open source code behind its 'For You' feed and launching new transparency tools that show users when its ranking systems have affected their accounts or posts.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-1.jpg?resize=1200,675",
-      "link": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
-      "published": "Thu, 13 Aug 2026 16:00:00 +0000",
-      "title_th": "X เปิดซอร์สอัลกอริธึมการจัดอันดับเพื่อให้ผู้ใช้เห็นว่าพวกเขาถูก 'แบนเงา' หรือไม่",
-      "summary_th": "X กำลังขยายโค้ดโอเพ่นซอร์สด้านหลังฟีด 'For You' และเปิดตัวเครื่องมือโปร่งใสใหม่ที่แสดงให้ผู้ใช้เห็นเมื่อระบบการจัดอันดับส่งผลกระทบต่อบัญชีหรือโพสต์ของพวกเขา"
+      "title_en": "This school-friendly laptop from HP is $300 off",
+      "summary_en": "With memory prices still high and showing no signs of dropping, we’re always happy to find a good deal on a budget-friendly system with an adequate amount of RAM. Best Buy has the HP OmniBook X Flip discounted by $300, bringing the cost down to $699.99. This model is equipped with an Intel Core Ultra […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/HP-Omnibook-X-Flip-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale",
+      "published": "2026-08-13T16:07:53-04:00",
+      "title_th": "แล็ปท็อปที่เหมาะกับโรงเรียนจาก HP เครื่องนี้ลดราคา 300 ดอลลาร์",
+      "summary_th": "เนื่องจากราคาหน่วยความจำยังคงสูงและไม่มีทีท่าว่าจะลดลง เรายินดีเสมอที่จะพบข้อเสนอดีๆ สำหรับระบบที่เป็นมิตรกับงบประมาณซึ่งมี RAM เพียงพอ Best Buy มี HP OmniBook X Flip ลดราคา 300 ดอลลาร์ ทำให้ราคาลดลงเหลือ 699.99 ดอลลาร์ รุ่นนี้มาพร้อมกับ Intel Core Ultra […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "summary_en": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/Mico-1.png?resize=1200,675",
-      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "published": "Thu, 13 Aug 2026 15:30:52 +0000",
-      "title_th": "Microsoft กำจัดฟีเจอร์ AI ที่ไม่ประสบความสำเร็จในขณะที่รวมแอพ Copilot แยกต่างหาก",
-      "summary_th": "Microsoft กำลังทำให้ Copilot ง่ายขึ้นโดยการรวมแอพสำหรับผู้บริโภคและธุรกิจเข้าด้วยกัน และลดพอดแคสต์ที่สร้างโดย AI, การแชทเป็นกลุ่ม, การวิจัยเชิงลึก และตัวละคร Mico"
+      "category": "software",
+      "title_en": "OpenAI is losing its second executive this week",
+      "summary_en": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2275749204.jpg?quality=90&strip=all&crop=0%2C10.746068936881%2C100%2C78.507862126237&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "published": "2026-08-13T15:28:39-04:00",
+      "title_th": "OpenAI สูญเสียผู้บริหารคนที่สองในสัปดาห์นี้",
+      "summary_th": "ผู้บริหาร OpenAI อีกคนกำลังจะลาออก Denise Dresser ซึ่งร่วมงานกับ OpenAI ในตำแหน่งประธานเจ้าหน้าที่ฝ่ายรายได้ในเดือนธันวาคมหลังจากดำรงตำแหน่ง CEO ของ Slack จะลาออกใน \"สัปดาห์หน้า\" เพื่อ \"ไล่ตามโอกาสอื่น ๆ\" เธอกล่าวในบันทึกของทีมที่โพสต์ใน LinkedIn Dali Rajic ประธานและ COO ของ Wiz จะเข้ารับตำแหน่ง […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "The Trump admin will start letting private firms launch international cyberattacks",
+      "summary_en": "The Trump administration is launching a new program that will allow private firms to perform cyberattacks against foreign criminals, as reported earlier by Bloomberg. The private firms would operate \"under the control and oversight\" of the federal government, giving them permission to surveil and disrupt criminal networks, according to a presidential memorandum published on Wednesday. […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318432/akrales_220309_4977_0079.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms",
+      "published": "2026-08-13T14:56:13-04:00",
+      "title_th": "ผู้ดูแลระบบของทรัมป์จะเริ่มปล่อยให้บริษัทเอกชนเปิดการโจมตีทางไซเบอร์ระหว่างประเทศ",
+      "summary_th": "ฝ่ายบริหารของทรัมป์กำลังเปิดตัวโปรแกรมใหม่ที่จะช่วยให้บริษัทเอกชนทำการโจมตีทางไซเบอร์ต่ออาชญากรต่างชาติ ตามที่รายงานโดย Bloomberg ก่อนหน้านี้ บริษัทเอกชนเหล่านี้จะดำเนินงาน \"ภายใต้การควบคุมและการกำกับดูแล\" ของรัฐบาลกลาง โดยอนุญาตให้พวกเขาสอดแนมและขัดขวางเครือข่ายอาชญากรรม ตามบันทึกของประธานาธิบดีที่เผยแพร่เมื่อวันพุธ […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "I finally found a robot lawnmower I’d trust with my yard",
+      "summary_en": "Robot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they’re still not set-it-and-forget-it machines. If you don’t want these autonomous cutting machines to tear up your lawn or go roaming in your neighbors’ yard, you’re still going to need to keep an eye on them. But […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268689_Robot_Lawnmower_JTuohy_0017.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
+      "published": "2026-08-13T14:30:00-04:00",
+      "title_th": "ในที่สุดฉันก็พบหุ่นยนต์ตัดหญ้าที่ฉันไว้วางใจในบ้านของฉัน",
+      "summary_th": "ในที่สุดหุ่นยนต์ตัดหญ้าก็ดีพอที่จะทำงานหนักในการดูแลสนามหญ้า แต่ก็ยังไม่ใช่เครื่องจักรที่เซ็ตแล้วลืมเลย หากคุณไม่ต้องการให้เครื่องตัดอัตโนมัติเหล่านี้ทำลายสนามหญ้าของคุณหรือออกไปเดินเล่นในสนามหญ้าของเพื่อนบ้าน คุณยังคงต้องคอยจับตาดูพวกมัน แต่ […]"
     },
     {
       "source": "The Verge",
@@ -73,54 +121,6 @@
       "published": "2026-08-13T14:00:00-04:00",
       "title_th": "ตอนนี้คุณสามารถชี้ไปที่ความยุ่งเหยิงแล้วหุ่นยนต์ดูดฝุ่นก็จะดูดมันขึ้นมา",
       "summary_th": "Matic หุ่นยนต์ดูดฝุ่นตัวโปรดของฉันในปัจจุบัน เพิ่งได้รับการอัปเกรดครั้งใหญ่ บริษัทได้เปิดตัว Matic Cues ซึ่งนำการควบคุมด้วยเสียงและท่าทางมาสู่หุ่นยนต์ ตอนนี้คุณสามารถพูดคุยกับเครื่องดูดฝุ่นของคุณได้โดยตรงเพื่อบอกว่าคุณต้องการให้ทำอะไร หรือเพียงชี้ไปที่สิ่งสกปรกเพื่อให้เครื่องดูดฝุ่นสะอาดหมดจด คุณสมบัติ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "2K launches new studio to build its ‘next blockbuster sports franchise’",
-      "summary_en": "2K is launching a new AAA game development studio, Small Axe Studios, with an ambitious goal: to build the company's \"next blockbuster sports franchise,\" according to a LinkedIn post. The post doesn't explicitly say what sport this new game will focus on. But an image included in the post features what appears to be a […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/1786633272694.jpeg?quality=90&strip=all&crop=9.7109375%2C0%2C80.578125%2C100&w=1200",
-      "link": "https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer",
-      "published": "2026-08-13T12:38:15-04:00",
-      "title_th": "2K เปิดตัวสตูดิโอใหม่เพื่อสร้าง 'แฟรนไชส์กีฬาบล็อกบัสเตอร์ต่อไป'",
-      "summary_th": "2K กำลังเปิดตัวสตูดิโอพัฒนาเกม AAA แห่งใหม่ Small Ax Studios โดยมีเป้าหมายอันทะเยอทะยาน: เพื่อสร้าง \"แฟรนไชส์กีฬาบล็อกบัสเตอร์แห่งต่อไป\" ของบริษัท ตามโพสต์ใน LinkedIn โพสต์ไม่ได้ระบุอย่างชัดเจนว่าเกมใหม่นี้จะเน้นไปที่กีฬาประเภทใด แต่ภาพที่รวมอยู่ในโพสต์มีสิ่งที่ดูเหมือนจะเป็น […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "ev",
-      "title_en": "Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul",
-      "summary_en": "Ford said today that its next-generation electric vehicle - recently dubbed Fathom - will go into production at the automaker's recently overhauled Louisville Assembly Plant in the first quarter of 2027. The first Fathoms will be prototypes, with Ford's team in Louisville already in the production-level pre-tooling phase at the recently converted facility. Factory workers […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Covered-Ford-Fathom_Vehicle-Carrier.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant",
-      "published": "2026-08-13T12:23:18-04:00",
-      "title_th": "รถยนต์ไฟฟ้า Fathom EV มูลค่า 28,000 ดอลลาร์ของ Ford ใกล้จะผลิตแล้วหลังจากยกเครื่องโรงงานมูลค่า 2 พันล้านดอลลาร์",
-      "summary_th": "ฟอร์ดกล่าวในวันนี้ว่ารถยนต์ไฟฟ้าเจเนอเรชั่นใหม่ซึ่งมีชื่อว่า Fathom เมื่อเร็ว ๆ นี้ จะถูกเข้าสู่การผลิตที่โรงงานประกอบรถยนต์ในเมือง Louisville ที่ได้รับการปรับปรุงใหม่เมื่อเร็ว ๆ นี้ในไตรมาสแรกของปี 2027 Fathoms คันแรกจะเป็นรถต้นแบบ โดยทีมงานของ Ford ในเมือง Louisville อยู่ในขั้นตอนการเตรียมเครื่องมือระดับการผลิตที่โรงงานที่ได้รับการปรับเปลี่ยนเมื่อเร็ว ๆ นี้ คนงานในโรงงาน […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Meta adds AI screening to detect WhatsApp scams",
-      "summary_en": "Meta is launching an optional Scam Alert feature on WhatsApp that uses on-device machine learning to flag suspicious messages. Earlier this year, Meta also launched scam detection for device linking requests on WhatsApp. The new Scam Alert feature, which is rolling out in a limited beta, shows users a warning if a chat seems like […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24062761/STK110_whats_app_Kradtke_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/979654/meta-whatsapp-scam-message-detection",
-      "published": "2026-08-13T12:10:06-04:00",
-      "title_th": "Meta เพิ่มการคัดกรอง AI เพื่อตรวจจับการหลอกลวง WhatsApp",
-      "summary_th": "Meta กำลังเปิดตัวฟีเจอร์ Scam Alert ที่เป็นตัวเลือกบน WhatsApp ที่ใช้การเรียนรู้ของเครื่องบนอุปกรณ์เพื่อตั้งค่าสถานะข้อความที่น่าสงสัย เมื่อต้นปีนี้ Meta ยังได้เปิดตัวการตรวจจับการหลอกลวงสำหรับคำขอเชื่อมโยงอุปกรณ์บน WhatsApp ฟีเจอร์ Scam Alert ใหม่ ซึ่งเปิดตัวในรุ่นเบต้าแบบจำกัด จะแสดงคำเตือนให้ผู้ใช้ทราบหากการแชทดูเหมือน […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "The Corvette Grand Sport X delivers Porsche 911 performance for a fraction of the price",
-      "summary_en": "My drive of the 2027 Corvette Grand Sport X began under oily black clouds, a torrential weather front releasing its grip on Manhattan - an inauspicious start for any mega-powered sports car. Rain pelted the waterlogged pavement, as I set course for the mountain-man roads of the Catskills, then on to Long Island and New […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/GSX_DSC_0455.jpg?quality=90&strip=all&crop=0%2C32.547993019197%2C100%2C34.904013961606&w=1200",
-      "link": "https://www.theverge.com/transportation/979125/corvette-grand-sport-x-review-specs-price",
-      "published": "2026-08-13T12:00:00-04:00",
-      "title_th": "Corvette Grand Sport X มอบสมรรถนะของปอร์เช่ 911 ในราคาเพียงเศษเสี้ยว",
-      "summary_th": "การขับรถ Corvette Grand Sport X ปี 2027 ของฉันเริ่มต้นภายใต้ก้อนเมฆสีดำมัน สภาพอากาศที่เลวร้ายทำให้เกาะแมนฮัตตันหลุดลอย ซึ่งเป็นการเริ่มต้นที่ไม่น่ามงคลสำหรับรถสปอร์ตขนาดใหญ่ทุกคัน เรน ปาดไปบนทางเท้าที่มีน้ำขัง ขณะที่ฉันกำหนดเส้นทางไปยังถนนสำหรับมนุษย์ภูเขาในแคตสกิลส์ จากนั้นไปยังลองไอส์แลนด์และนิว […]"
     },
     {
       "source": "Ars Technica",
@@ -186,6 +186,18 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
+      "title_en": "Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything",
+      "summary_en": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
+      "image": "https://media.wired.com/photos/6a7cd92daf899556c1dfa8f2/master/pass/Uncanny-Valley-Zuckerberg-AI-manifesto-Business.jpg",
+      "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
+      "published": "Thu, 13 Aug 2026 21:14:43 +0000",
+      "title_th": "AI Manifesto ของ Mark Zuckerberg มีความยาว 6,500 คำ และแทบไม่พูดอะไรเลย",
+      "summary_th": "AI กำลังเปลี่ยนวัฒนธรรม จากแถลงการณ์ของ CEO ด้านเทคโนโลยี ไปเป็นการสัมภาษณ์งานตอนตี 1 เราแกะข้อมูลล่าสุดบางส่วน พร้อมด้วยผลการวิจัยยอดนิยมจาก Black Hat และ Defcon ในสัปดาห์นี้เกี่ยวกับ Uncanny Valley"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
       "title_en": "The Painful Truth of Exactly How ICE’s New Shock Gloves Work",
       "summary_en": "ICE is spending millions on shock gloves designed to overpower subjects through intense, localized pain.",
       "image": "https://media.wired.com/photos/6a7daa43c12158645e80e0c4/master/pass/ICEGloves.jpg",
@@ -231,18 +243,6 @@
       "summary_th": "ไม่ว่าคุณจะต้องการศูนย์รวมความบันเทิงแบบพกพาที่ใช้ภายในบ้านหรือเปลี่ยนแล็ปท็อปเต็มรูปแบบ แท็บเล็ต Android เหล่านี้คือสิ่งที่ดีที่สุด"
     },
     {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "CBP Workers Allegedly Used Government Databases to Spy on Exes, Crushes, and Colleagues",
-      "summary_en": "Records obtained by WIRED detail hundreds of allegations of Customs and Border Protection workers misusing internal tools to look up romantic interests and track colleagues’ cell phones.",
-      "image": "https://media.wired.com/photos/6a763448c404430b49c6fc1c/master/pass/Security_CBPWorkersAllegedlyUsedSensitiveGovernment.gif",
-      "link": "https://www.wired.com/story/cbp-workers-allegedly-used-government-databases-to-spy-on-exes-crushes-and-colleagues/",
-      "published": "Thu, 13 Aug 2026 09:30:00 +0000",
-      "title_th": "พนักงาน CBP ถูกกล่าวหาว่าใช้ฐานข้อมูลของรัฐบาลเพื่อสอดแนมแฟนเก่า คนที่แอบชอบ และเพื่อนร่วมงาน",
-      "summary_th": "บันทึกที่ได้รับจาก WIRED ให้รายละเอียดข้อกล่าวหาหลายร้อยข้อเกี่ยวกับพนักงานศุลกากรและป้องกันชายแดนใช้เครื่องมือภายในในทางที่ผิดเพื่อค้นหาความสนใจในเชิงโรแมนติกและติดตามโทรศัพท์มือถือของเพื่อนร่วมงาน"
-    },
-    {
       "source": "MIT Technology Review",
       "flag": "US",
       "category": "ai",
@@ -252,7 +252,7 @@
       "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
       "published": "Thu, 13 Aug 2026 18:11:42 +0000",
       "title_th": "การสร้างเส้นทางการปฏิบัติสู่การเข้ารหัสหลังควอนตัม",
-      "summary_th": "คอมพิวเตอร์ควอนตัมได้สลับกันระหว่างความก้าวหน้าอันล้ำค่าที่รักและคำมั่นสัญญาที่เกินจริงในแวดวงเทคโนโลยี ความสามารถใหม่อันทรงพลังของมันมาพร้อมกับภัยคุกคามที่จะทำลายการเข้ารหัสในปัจจุบัน แต่สำหรับผู้นำธุรกิจที่ต้องรับมือกับสิ่งรบกวน สัญญาณควรมีความชัดเจน: การเข้ารหัสหลังควอนตัม (PQC) เป็นวิวัฒนาการที่สามารถจัดการได้ ไม่ใช่วิกฤต คณิตศาสตร์ที่อยู่เบื้องหลังธุรกรรมดิจิทัลที่เข้ารหัสในปัจจุบันอาจ..."
+      "summary_th": "คอมพิวเตอร์ควอนตัมได้สลับกันระหว่างความก้าวหน้าอันล้ำค่าที่รักและคำมั่นสัญญาที่เกินจริงในแวดวงเทคโนโลยี ความสามารถใหม่อันทรงพลังของมันมาพร้อมกับภัยคุกคามที่จะทำลายการเข้ารหัสในปัจจุบัน แต่สำหรับผู้นำธุรกิจที่ต้องรับมือกับสิ่งรบกวน สัญญาณควรมีความชัดเจน: การเข้ารหัสหลังควอนตัม (PQC) เป็นวิวัฒนาการที่จัดการได้ ไม่ใช่วิกฤต คณิตศาสตร์ที่อยู่เบื้องหลังธุรกรรมดิจิทัลที่เข้ารหัสในปัจจุบันอาจ..."
     },
     {
       "source": "MIT Technology Review",
@@ -263,7 +263,7 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26039248966381.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
       "published": "Thu, 13 Aug 2026 13:41:10 +0000",
-      "title_th": "Flock กำลังเข้มงวดกฎเพื่อตอบสนองต่อกระแสการสอดแนมที่เพิ่มขึ้น",
+      "title_th": "Flock กำลังเข้มงวดกฎเกณฑ์เพื่อตอบสนองต่อกระแสการสอดแนมที่เพิ่มขึ้น",
       "summary_th": "Flock ยักษ์ใหญ่ด้านเทคโนโลยีตำรวจกำลังประกาศในวันนี้ว่า จะเปลี่ยนการเข้าถึงของเจ้าหน้าที่ในการเข้าถึงเครือข่ายเครื่องอ่านป้ายทะเบียนทั่วประเทศ ในความพยายามที่ชัดเจนในการระงับการตอบโต้ที่เพิ่มมากขึ้นและเอาชนะสัญญาที่สูญเสียไปท่ามกลางความกังวลเกี่ยวกับการสอดแนมจำนวนมากและการละเมิดของตำรวจ การเปลี่ยนแปลงหลายอย่างมุ่งเป้าไปที่ปัญหาที่เกิดขึ้นในหัวข้อข่าวล่าสุด:..."
     },
     {
@@ -306,6 +306,30 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "Netflix shuts down Oxenfree studio Night School weeks after praising its 'really solid numbers'",
+      "summary_en": "Execs praised Night School's latest game, Unhinged, before pulling the rug.",
+      "image": "https://www.engadget.com/img/gallery/netflix-shuts-down-oxenfree-studio-night-school-weeks-after-praising-its-really-solid-numbers/l-intro-1786656103.jpg",
+      "link": "https://www.engadget.com/2236683/netflix-shuts-down-oxenfree-studio-night-school-weeks-after-praising-its-really-solid-numbers/",
+      "published": "Thu, 13 Aug 2026 21:24:22 +0000",
+      "title_th": "Netflix ปิดสตูดิโอ Oxenfree Night School หลายสัปดาห์หลังจากชื่นชม \"ตัวเลขที่แข็งแกร่งจริงๆ\"",
+      "summary_th": "ผู้บริหารยกย่องเกมล่าสุดของ Night School อย่าง Unhinged ก่อนที่จะดึงพรมออก"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Hosting provider Namecheap is down after data center cooling failure",
+      "summary_en": "Hosting provider Namecheap is down after data center cooling failure.",
+      "image": "https://www.engadget.com/img/gallery/hosting-provider-namecheap-is-down-after-data-center-cooling-failure/l-intro-1786651230.jpg",
+      "link": "https://www.engadget.com/2236616/hosting-provider-namecheap-is-down-after-data-center-cooling-failure/",
+      "published": "Thu, 13 Aug 2026 20:01:57 +0000",
+      "title_th": "ผู้ให้บริการโฮสติ้ง Namecheap หยุดทำงานหลังจากการระบายความร้อนของศูนย์ข้อมูลล้มเหลว",
+      "summary_th": "ผู้ให้บริการโฮสติ้ง Namecheap หยุดทำงานหลังจากการระบายความร้อนของศูนย์ข้อมูลล้มเหลว"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "Save space in your Google storage by changing this one Android setting",
       "summary_en": "Many Android users have double backups across storage services, so it makes sense to find out which backups you can turn off. You may not need more storage.",
       "image": "https://www.engadget.com/img/gallery/save-space-in-your-google-storage-by-changing-this-one-android-setting/l-intro-1785416387.jpg",
@@ -339,30 +363,6 @@
       "summary_th": "ส่วนเสริมที่ต้องชำระเงินของ Spotify ที่กำลังจะมาถึงช่วยให้แฟน ๆ สร้างเนื้อหาผ่าน \"เครื่องมือสร้างสรรค์ที่ขับเคลื่อนด้วย AI\""
     },
     {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "The most popular GameCube emulator is no longer the only one",
-      "summary_en": "Everyone thinks of Dolphin for GameCube emulation, but what if there was another option? This newcomer emulator could be your next party night choice.",
-      "image": "https://www.engadget.com/img/gallery/most-popular-gamecube-emulator-dolphin-not-only-one/l-intro-1786642604.jpg",
-      "link": "https://www.engadget.com/2233858/most-popular-gamecube-emulator-dolphin-not-only-one/",
-      "published": "Thu, 13 Aug 2026 15:30:00 +0000",
-      "title_th": "โปรแกรมจำลอง GameCube ที่ได้รับความนิยมสูงสุดไม่ได้มีเพียงตัวเดียวอีกต่อไป",
-      "summary_th": "ทุกคนคงนึกถึงการจำลอง Dolphin สำหรับ GameCube แต่จะเกิดอะไรขึ้นถ้ามีตัวเลือกอื่นล่ะ? โปรแกรมจำลองมาใหม่นี้อาจเป็นตัวเลือกปาร์ตี้คืนถัดไปของคุณ"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "The largest battery-electric plane ever made has flown for the first time",
-      "summary_en": "Heart Aerospace's X1 all-electric demonstrator flew for 27 minutes on just $5 of electricity.",
-      "image": "https://www.engadget.com/img/gallery/the-largest-battery-electric-plane-ever-made-has-flown-for-the-first-time/l-intro-1786633145.jpg",
-      "link": "https://www.engadget.com/2236248/the-largest-battery-electric-plane-ever-made-has-flown-for-the-first-time/",
-      "published": "Thu, 13 Aug 2026 15:00:34 +0000",
-      "title_th": "เครื่องบินไฟฟ้าแบตเตอรี่ที่ใหญ่ที่สุดที่เคยสร้างมาได้บินเป็นครั้งแรก",
-      "summary_th": "เครื่องสาธิตที่ใช้ไฟฟ้าทั้งหมด X1 ของ Heart Aerospace บินเป็นเวลา 27 นาทีโดยใช้ไฟฟ้าเพียง 5 ดอลลาร์"
-    },
-    {
       "source": "IEEE Spectrum",
       "flag": "US",
       "category": "robot",
@@ -372,7 +372,7 @@
       "link": "https://spectrum.ieee.org/product-engineer",
       "published": "Thu, 13 Aug 2026 14:44:50 +0000",
       "title_th": "นำแนวคิดของผู้จัดการผลิตภัณฑ์มาใช้กับงานวิศวกรรมครั้งต่อไปของคุณ",
-      "summary_th": "หากคุณยังไม่เห็นตำแหน่งงานสำหรับ “วิศวกรผลิตภัณฑ์” คุณอาจจะได้ทราบเร็วๆ นี้ งานที่จู่ๆ ทุกคนก็จ้างมา บทบาทนี้เปรียบเสมือนลูกผสมระหว่างผู้จัดการผลิตภัณฑ์และวิศวกร (ตามชื่อเลย) และเป็นเทรนด์การจ้างงานที่ควรค่าแก่การใส่ใจ บริษัทต่างๆ กำลังเปิดรับตำแหน่งงานเหล่านี้เพิ่มขึ้นทุกๆ เดือน แต่พวกเขาก็ประสบปัญหาในการเติมเต็มตำแหน่งดังกล่าว เหตุผลแทบจะไม่เกี่ยวข้องกับทักษะการเขียนโค้ดของวิศวกรหรือประสบการณ์หลายปี การย้ายอาชีพที่ดีที่สุดที่คุณสามารถทำได้เพื่อเตรียมพร้อมสำหรับบทบาทประเภทนี้แทบจะไม่เกี่ยวข้องกับการได้รับความรู้ด้านเทคนิคมากขึ้นเลย แต่กลับกลายเป็นคำที่ฟุ่มเฟือยที่สุด ใช้มากเกินไป และอาจแย่ที่สุดในเทคโนโลยีทั้งหมด: ความคิด ติดกับฉันฉันสัญญาว่าสิ่งนี้จะเป็นประโยชน์ ปัญหา: เราถูกฝึกให้เป็นทาส"
+      "summary_th": "หากคุณยังไม่เห็นตำแหน่งงานสำหรับ “วิศวกรผลิตภัณฑ์” คุณอาจจะได้ทราบเร็วๆ นี้ งานที่จู่ๆ ทุกคนก็จ้างเข้ามา บทบาทนี้เปรียบเสมือนลูกผสมระหว่างผู้จัดการผลิตภัณฑ์และวิศวกร (ตามชื่อเลย) และเป็นเทรนด์การจ้างงานที่ควรค่าแก่การใส่ใจ บริษัทต่างๆ กำลังเปิดรับตำแหน่งงานเหล่านี้เพิ่มขึ้นทุกๆ เดือน แต่พวกเขาก็ประสบปัญหาในการเติมเต็มตำแหน่งดังกล่าว เหตุผลแทบไม่เกี่ยวข้องกับทักษะการเขียนโค้ดของวิศวกรหรือประสบการณ์หลายปี การย้ายอาชีพที่ดีที่สุดที่คุณสามารถทำได้เพื่อเตรียมพร้อมสำหรับบทบาทประเภทนี้แทบจะไม่เกี่ยวข้องกับการได้รับความรู้ด้านเทคนิคมากขึ้นเลย แต่กลับกลายเป็นคำที่ฟุ่มเฟือยที่สุด ใช้มากเกินไป และอาจเลวร้ายที่สุดในเทคโนโลยีทั้งหมด: ความคิด ติดกับฉันฉันสัญญาว่าสิ่งนี้จะเป็นประโยชน์ ปัญหา: เราถูกฝึกให้เป็นทาส"
     },
     {
       "source": "IEEE Spectrum",
@@ -408,7 +408,7 @@
       "link": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
       "published": "Tue, 11 Aug 2026 13:00:01 +0000",
       "title_th": "แซ่บ ร็อคส์. เพิ่มน้ำ รับไฮโดรเจนที่สะอาด",
-      "summary_th": "ในย่านชานเมืองอันเงียบสงบของบอสตัน ตรงขอบสุดของฟาร์มม้า ซึ่งมีทุ่งหญ้าเป็นทางไปสู่ป่า ปั้นจั่นจะหย่อนขั้วไฟฟ้าขนาดมหึมาลงในหลุมเจาะ อิเล็กโทรด ซึ่งเป็นทรงกระบอกยาวครึ่งเมตรพร้อมแขนปลายทองแดงเพื่อให้แน่ใจว่ามีการสัมผัสกับผนังหลุมเจาะได้ดี จะเคลื่อนลงไป—ลึกยิ่งขึ้นเรื่อยๆ—ผ่านชั้นของหินทรายฟูๆ ไปจนถึงรากหินอ่อนแข็งของเทือกเขาโบราณที่ลึกลงไปใต้ดินหลายร้อยเมตร ที่นี่หินแน่น มีรอยแตกเล็กน้อยเพื่อให้น้ำหรือก๊าซไหล แต่นั่นกำลังจะเปลี่ยนไป เมื่อขว้างก้อนหินออกไป อิเล็กโทรดตัวที่สอง ซึ่งเป็นแฝดจากอิเล็กโทรดอันแรก ได้รับการแก้ไขในหลุมเจาะอีกหลุมหนึ่งที่มีความลึกเท่ากัน จากเหนือพื้นดิน เครื่องกำเนิดไฟฟ้าแรงสูงคู่หนึ่งที่ต่อเข้ากับขั้วไฟฟ้าทั้งสองจะยิงชุดพัลส์ ทสส!…ทสส!…ทสส!…ทสส!…ทสส!…. การปลดปล่อยแต่ละครั้งได้ยินอย่างแผ่วเบา"
+      "summary_th": "ในย่านชานเมืองอันเงียบสงบของบอสตัน ตรงขอบสุดของฟาร์มม้า ซึ่งมีทุ่งหญ้าเป็นทางไปสู่ป่า ปั้นจั่นจะหย่อนขั้วไฟฟ้าขนาดมหึมาลงในหลุมเจาะ อิเล็กโทรด ซึ่งเป็นทรงกระบอกยาวครึ่งเมตรพร้อมแขนปลายทองแดงเพื่อให้แน่ใจว่ามีการสัมผัสกับผนังหลุมเจาะได้ดี จะเคลื่อนลงไป—ลึกยิ่งขึ้นเรื่อยๆ—ผ่านชั้นของหินทรายฟูๆ ไปจนถึงรากหินอ่อนแข็งของเทือกเขาโบราณที่ลึกลงไปใต้ดินหลายร้อยเมตร ที่นี่หินแน่น มีรอยแตกเล็กน้อยเพื่อให้น้ำหรือก๊าซไหล แต่นั่นกำลังจะเปลี่ยนไป ขว้างก้อนหินออกไป อิเล็กโทรดอันที่สอง ซึ่งเป็นแฝดจากอิเล็กโทรดอันแรก ได้รับการแก้ไขในหลุมเจาะอีกหลุมหนึ่งที่มีความลึกเท่ากัน จากเหนือพื้นดิน เครื่องกำเนิดไฟฟ้าแรงสูงคู่หนึ่งที่ต่อเข้ากับขั้วไฟฟ้าทั้งสองจะยิงชุดพัลส์ ทสส!…ทสส!…ทสส!…ทสส!…ทสส!…. การปลดปล่อยแต่ละครั้งได้ยินอย่างแผ่วเบา"
     },
     {
       "source": "IEEE Spectrum",
@@ -420,67 +420,115 @@
       "link": "https://spectrum.ieee.org/navigating-pivot-tech-expert-leader",
       "published": "Fri, 07 Aug 2026 18:00:01 +0000",
       "title_th": "การนำทาง Pivot จากผู้เชี่ยวชาญด้านเทคโนโลยีไปจนถึงผู้นำองค์กร",
-      "summary_th": "การเปลี่ยนจากผู้เชี่ยวชาญทางเทคนิคล้วนๆ หรือตำแหน่งผู้ร่วมให้ข้อมูลรายบุคคลไปสู่บทบาทผู้นำที่กว้างขึ้นถือเป็นหนึ่งในขั้นตอนที่ท้าทายที่สุดในอาชีพ STEM จำเป็นต้องเปลี่ยนจากการพึ่งพาความเป็นเลิศทางเทคนิคเพียงอย่างเดียวไปสู่การคิดอย่างเป็นระบบ ความเป็นผู้นำที่ปรับเปลี่ยนได้ และการจัดตำแหน่งทีม เพื่อช่วยให้ผู้ประกอบอาชีพระดับกลางก้าวผ่านการเปลี่ยนแปลง การประชุม IEEE International Leadership Conference ครั้งแรก ได้รับการออกแบบมาเพื่อมอบเครื่องมือที่ใช้งานได้จริงแก่ผู้เข้าร่วมเพื่อก้าวเข้าสู่ความรับผิดชอบที่กว้างขึ้นและส่งเสริมกรอบความคิดของผู้ประกอบการ งาน ILC มีกำหนดในวันที่ 3 และ 4 ตุลาคมในบูดาเปสต์ เปิดลงทะเบียนแล้ว คิดให้ไกลกว่าการมีส่วนร่วมทางเทคนิค เพื่อประสบความสำเร็จในการก้าวเข้าสู่บทบาทผู้นำ ผู้เชี่ยวชาญด้านเทคนิคจำเป็นต้องมองข้ามผลงานของตนเองและมุ่งเน้นไปที่ \"คุณ\""
+      "summary_th": "การเปลี่ยนจากผู้เชี่ยวชาญทางเทคนิคล้วนๆ หรือตำแหน่งผู้ร่วมให้ข้อมูลรายบุคคลไปสู่บทบาทผู้นำที่กว้างขึ้นถือเป็นหนึ่งในขั้นตอนที่ท้าทายที่สุดในอาชีพ STEM จำเป็นต้องเปลี่ยนจากการพึ่งพาความเป็นเลิศทางเทคนิคเพียงอย่างเดียวไปสู่การคิดอย่างเป็นระบบ ความเป็นผู้นำที่ปรับเปลี่ยนได้ และการจัดตำแหน่งทีม เพื่อช่วยให้ผู้ประกอบวิชาชีพระดับกลางก้าวผ่านการเปลี่ยนแปลง การประชุม IEEE International Leadership Conference ครั้งแรกได้รับการออกแบบเพื่อให้ผู้เข้าร่วมมีเครื่องมือที่ใช้งานได้จริงเพื่อก้าวเข้าสู่ความรับผิดชอบที่กว้างขึ้นและส่งเสริมกรอบความคิดของผู้ประกอบการ งาน ILC มีกำหนดในวันที่ 3 และ 4 ตุลาคมในบูดาเปสต์ เปิดลงทะเบียนแล้ว คิดให้ไกลกว่าการมีส่วนร่วมทางเทคนิค เพื่อให้ประสบความสำเร็จในการก้าวเข้าสู่บทบาทผู้นำ ผู้เชี่ยวชาญด้านเทคนิคจำเป็นต้องมองข้ามผลงานของตนเองและมุ่งเน้นไปที่ \"คุณ\""
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Future Apple wearables, iOS 27 beta 5, iPhone 20 details",
-      "summary_en": "Benjamin and Chance talk about all the changes in iOS 27 beta 5, as Apple reportedly takes a fresh look at fitness wearables, details about the glassy iPhone 20, Friday Night Baseball on Vision Pro and more rumors about Apple TV sports rights — this time, golf. And in Happy Hour Plus , out of the blue, Apple TV launches another round of its free movie catalog collection promotion. Subscribe at 9to5mac.com/join . Sponsored by Bitwarden: Check out Bitwarden, featuring secure password management, passkey support, end-to-end encryption, and seamless autofill across all devices. Sponsored by Shopify : All you need is the idea. Shopify handles the rest. Start your free trial at shopify.com/happyhour . Sponsored by Framer : The only free design tool that brings your ideas to the web. Visit framer",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/13/happy-hour-603/",
-      "published": "Thu, 13 Aug 2026 18:43:01 +0000",
-      "title_th": "อุปกรณ์สวมใส่ของ Apple ในอนาคต, iOS 27 beta 5, รายละเอียด iPhone 20",
-      "summary_th": "Benjamin และ Chance พูดคุยเกี่ยวกับการเปลี่ยนแปลงทั้งหมดใน iOS 27 beta 5 โดยมีรายงานว่า Apple พิจารณารูปลักษณ์ใหม่ของอุปกรณ์สวมใส่เพื่อการออกกำลังกาย รายละเอียดเกี่ยวกับ iPhone 20 ที่เป็นกระจก, Friday Night Baseball บน Vision Pro และข่าวลือเพิ่มเติมเกี่ยวกับสิทธิ์ด้านกีฬาของ Apple TV ซึ่งคราวนี้คือ กอล์ฟ และใน Happy Hour Plus ทันทีทันใด Apple TV ได้เปิดตัวโปรโมชั่นคอลเลกชันแคตตาล็อกภาพยนตร์ฟรีอีกรอบ สมัครสมาชิกที่ 9to5mac.com/join สนับสนุนโดย Bitwarden: ลองดู Bitwarden ซึ่งมีการจัดการรหัสผ่านที่ปลอดภัย รองรับรหัสผ่าน การเข้ารหัสจากต้นทางถึงปลายทาง และการกรอกอัตโนมัติอย่างราบรื่นในทุกอุปกรณ์ สนับสนุนโดย Shopify: สิ่งที่คุณต้องมีคือแนวคิด Shopify จัดการส่วนที่เหลือ เริ่มทดลองใช้ฟรีที่ shopify.com/happyhour สนับสนุนโดย Framer : เครื่องมือออกแบบฟรีเพียงหนึ่งเดียวที่นำแนวคิดของคุณมาสู่เว็บ แวะมาเยี่ยมเฟรม."
+      "title_en": "Chase recently added free Apple TV, Apple One perks to popular credit card",
+      "summary_en": "Chase recently added new benefits to its popular Sapphire Preferred credit card, including free Apple TV for a year or discounted Apple One. Here are the details.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/chase-plus-apple-tv.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/13/chase-adds-free-apple-tv-discounted-apple-one-benefit-to-popular-credit-card/",
+      "published": "Thu, 13 Aug 2026 20:37:10 +0000",
+      "title_th": "Chase เพิ่งเพิ่ม Apple TV ฟรี, Apple One สิทธิพิเศษสำหรับบัตรเครดิตยอดนิยม",
+      "summary_th": "Chase เพิ่งเพิ่มสิทธิประโยชน์ใหม่ให้กับบัตรเครดิต Sapphire Preferred ยอดนิยม รวมถึง Apple TV ฟรีเป็นเวลาหนึ่งปีหรือลดราคา Apple One นี่คือรายละเอียด"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Matic Cues feature lets you just talk to your robot vacuum or point at a mess to clean",
-      "summary_en": "Matic has added voice and gesture control to its robot vacuum and mop through a software update called Matic Cues. After testing both features, the short and sweet of it is that voice control is really good. Just say, “Hey Matic, vacuum the kitchen,” and Matic gets to work. There is no phone to unlock, app to open, or smart home intermediary involved. You speak directly to the robot, and it responds. Matic Cues understands commands in more than 70 spoken languages. The feature is rolling out to every existing Matic through an over-the-air software update and will be included on all new robots.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/matic-homekit.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/13/matic-cues-lets-you-just-talk-to-your-robot-vacuum-or-point-at-a-mess-to-clean/",
-      "published": "Thu, 13 Aug 2026 18:00:00 +0000",
-      "title_th": "คุณสมบัติ Matic Cues ช่วยให้คุณพูดคุยกับหุ่นยนต์ดูดฝุ่นหรือชี้ไปที่สิ่งสกปรกเพื่อทำความสะอาด",
-      "summary_th": "Matic ได้เพิ่มการควบคุมด้วยเสียงและท่าทางให้กับหุ่นยนต์ดูดฝุ่นและถูพื้นผ่านการอัพเดตซอฟต์แวร์ที่เรียกว่า Matic Cues หลังจากทดสอบคุณสมบัติทั้งสองแล้ว สรุปสั้นๆ ก็คือ การควบคุมด้วยเสียงนั้นดีจริงๆ แค่พูดว่า “เฮ้ มาติช ดูดฝุ่นในครัว” แล้วมาติชก็เริ่มทำงาน ไม่มีโทรศัพท์ให้ปลดล็อก ไม่มีแอปให้เปิด หรือมีตัวกลางสมาร์ทโฮมเข้ามาเกี่ยวข้อง คุณพูดกับหุ่นยนต์โดยตรง และหุ่นยนต์จะตอบสนอง Matic Cues เข้าใจคำสั่งในภาษาพูดมากกว่า 70 ภาษา คุณลักษณะนี้กำลังเผยแพร่ไปยัง Matic ทุกตัวที่มีอยู่ผ่านการอัพเดตซอฟต์แวร์แบบ over-the-air และจะรวมอยู่ในหุ่นยนต์ใหม่ทั้งหมด"
+      "title_en": "WhatsApp is working on chat themes with animated wallpapers",
+      "summary_en": "The latest WhatsApp beta for iOS includes references to a revamped set of chat customization options, including animated wallpapers. Here are the details.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-02.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/13/whatsapp-is-working-on-chat-themes-with-animated-wallpapers/",
+      "published": "Thu, 13 Aug 2026 20:34:06 +0000",
+      "title_th": "WhatsApp กำลังทำงานกับธีมแชทพร้อมวอลเปเปอร์เคลื่อนไหว",
+      "summary_th": "WhatsApp เบต้าล่าสุดสำหรับ iOS มีการอ้างอิงถึงชุดตัวเลือกการปรับแต่งแชทที่ปรับปรุงใหม่ รวมถึงวอลเปเปอร์ภาพเคลื่อนไหว นี่คือรายละเอียด"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "MacBook Neo 2 will get the big upgrade it needs most, per rumors",
-      "summary_en": "MacBook Neo is still only a few months old, but it’s been a big hit for Apple. And rumors say its successor is coming next year, with MacBook Neo 2 getting the key upgrade it needs most: more RAM.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/macbook-neo-2-fi-new.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/13/macbook-neo-2-will-get-the-big-upgrade-it-needs-most-per-rumors/",
-      "published": "Thu, 13 Aug 2026 17:12:58 +0000",
-      "title_th": "MacBook Neo 2 จะได้รับการอัปเกรดครั้งใหญ่ตามข่าวลือ",
-      "summary_th": "MacBook Neo ยังมีอายุเพียงไม่กี่เดือน แต่ก็ได้รับความนิยมอย่างมากสำหรับ Apple และมีข่าวลือว่าผู้สืบทอดจะมาในปีหน้า โดย MacBook Neo 2 ได้รับการอัปเกรดหลักที่ต้องการมากที่สุด นั่นก็คือ RAM ที่มากขึ้น"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "review",
-      "title_en": "OpenAI previews ‘Ultrafast’ GPT-5.6 Sol running up to 14 times faster",
-      "summary_en": "OpenAI is previewing a new way to run its most capable GPT-5.6 model at dramatically higher speeds. The company says its new Ultrafast service tier can run GPT-5.6 Sol up to 14 times faster than standard processing.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-orange.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/13/openai-previews-ultrafast-gpt-5-6-sol-running-up-to-14-times-faster/",
-      "published": "Thu, 13 Aug 2026 17:02:00 +0000",
-      "title_th": "OpenAI แสดงตัวอย่าง 'Ultrafast' GPT-5.6 Sol ทำงานเร็วขึ้นสูงสุด 14 เท่า",
-      "summary_th": "OpenAI กำลังแสดงตัวอย่างวิธีใหม่ในการรันโมเดล GPT-5.6 ที่มีความสามารถมากที่สุดด้วยความเร็วที่สูงขึ้นอย่างมาก บริษัทกล่าวว่าระดับบริการ Ultrafast ใหม่สามารถเรียกใช้ GPT-5.6 Sol ได้เร็วกว่าการประมวลผลมาตรฐานถึง 14 เท่า"
+      "title_en": "ChatGPT for Mac adds opt-in Computer History feature, replacing Chronicle",
+      "summary_en": "OpenAI is giving ChatGPT and Codex a new way to learn from and remember how you use your Mac, even when that work happens outside the app.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-codex.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/13/chatgpt-for-mac-adds-opt-in-computer-history-feature-replacing-chronicle/",
+      "published": "Thu, 13 Aug 2026 20:13:21 +0000",
+      "title_th": "ChatGPT สำหรับ Mac เพิ่มฟีเจอร์ประวัติคอมพิวเตอร์แบบเลือกใช้ แทนที่ Chronicle",
+      "summary_th": "OpenAI ช่วยให้ ChatGPT และ Codex มีวิธีใหม่ในการเรียนรู้และจดจำวิธีใช้ Mac ของคุณ แม้ว่างานนั้นจะเกิดขึ้นนอกแอพก็ตาม"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Deals: AirPods Pro 3, M5 MacBook Air $270 off, UWB smart lock, Thunderbolt 5 dock, Nomad cases from $17, more",
-      "summary_en": "The 25% price drop on AirPods Pro 3 down at one of the best prices to date is still live, but today’s 9to5Toys Lunch Break is starting off with these M5 MacBook Air configs at $270 off courtesy of the official Apple Certified Refurbished Store and these 46mm Apple Watch Series 11 Cell models at $100 off . We also have the first discount on the new Schlage Home Key Sense Pro lock with Ultra Wideband, a return Amazon all-time low on Hyper’s 2026 120Gbps Thunderbolt 5 Dock with SSD enclosure for Mac, and some seriously deep clearance deals on Nomad’s leather and Sport iPhone 17 Pro/Max cases from $17 . Scope it all out below.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-Macbook-Air-AirPods-Pro-3-thunderbolt-5-dock.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/13/deals-airpods-pro-3-m5-macbook-air-thunderbolt-5-dock/",
-      "published": "Thu, 13 Aug 2026 15:28:02 +0000",
-      "title_th": "ข้อเสนอ: AirPods Pro 3, M5 MacBook Air ลดราคา 270 ดอลลาร์, ล็อคอัจฉริยะ UWB, แท่นเชื่อมต่อ Thunderbolt 5, เคส Nomad จาก 17 ดอลลาร์และอีกมากมาย",
-      "summary_th": "ราคาที่ลดลง 25% ใน AirPods Pro 3 หนึ่งในราคาที่ดีที่สุดในปัจจุบันยังคงมีอยู่ แต่ช่วงพักกลางวันของ 9to5Toys ในวันนี้เริ่มต้นด้วยการกำหนดค่า M5 MacBook Air เหล่านี้ที่ 270 ดอลลาร์โดยได้รับความอนุเคราะห์จาก Apple Certified Refurbished Store อย่างเป็นทางการ และรุ่น Apple Watch Series 11 Cell 46 มม. เหล่านี้พร้อมส่วนลด 100 ดอลลาร์ นอกจากนี้เรายังมีส่วนลดแรกสำหรับล็อค Schlage Home Key Sense Pro ใหม่พร้อม Ultra Wideband ซึ่งเป็นการกลับมาของ Amazon ต่ำตลอดกาลด้วย Thunderbolt 5 Dock 2026 120Gbps Thunderbolt 5 ของ Hyper พร้อมกล่อง SSD สำหรับ Mac และข้อตกลงเชิงลึกบางอย่างสำหรับหนังของ Nomad และเคส Sport iPhone 17 Pro/Max ในราคาเริ่มต้นที่ 17 ดอลลาร์ ขอบเขตทั้งหมดออกด้านล่าง"
+      "title_en": "Apple adds iPhone X and 2018 MacBook Pro to obsolete products list",
+      "summary_en": "Apple today updated its vintage and obsolete product lists, with the iPhone X and 15-inch 2018 MacBook Pro now classified as obsolete. Here’s what that means.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-x.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/13/apple-adds-iphone-x-and-2018-macbook-pro-to-obsolete-products-list/",
+      "published": "Thu, 13 Aug 2026 19:35:26 +0000",
+      "title_th": "Apple เพิ่ม iPhone X และ MacBook Pro 2018 ลงในรายการผลิตภัณฑ์ที่ล้าสมัย",
+      "summary_th": "วันนี้ Apple อัพเดทรายการผลิตภัณฑ์เก่าและล้าสมัย โดย iPhone X และ MacBook Pro รุ่น 15 นิ้วรุ่น 15 นิ้วปี 2018 จัดอยู่ในประเภทล้าสมัยแล้ว Here’s what that means."
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Ted Lasso just had the biggest Apple TV premiere ever",
+      "summary_en": "Ted Lasso season 4 is off to a strong start, with Apple revealing to Deadline that it had “the biggest launch ever for Apple TV.” Here are the numbers.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/ted-lasso-s4-coaching-trio.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/13/ted-lasso-just-had-the-biggest-apple-tv-premiere-ever/",
+      "published": "Thu, 13 Aug 2026 19:22:29 +0000",
+      "title_th": "Ted Lasso เพิ่งเปิดตัว Apple TV ครั้งใหญ่ที่สุดเท่าที่เคยมีมา",
+      "summary_th": "Ted Lasso ซีซั่น 4 เริ่มต้นได้อย่างแข็งแกร่ง โดย Apple เปิดเผยกับ Deadline ว่า \"เป็นการเปิดตัวครั้งใหญ่ที่สุดสำหรับ Apple TV\" นี่คือตัวเลข"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Pixel 11’s Gboard Rambler is prompt-based, rather than real-time",
+      "summary_en": "Gboard Rambler is likely the flagship Gemini Intelligence feature on the Pixel 11 series, but it’s not the real-time transcription you expect.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/13/gboard-rambler-prompt/",
+      "published": "Thu, 13 Aug 2026 20:41:13 +0000",
+      "title_th": "Gboard Rambler ของ Pixel 11 เป็นแบบรวดเร็วมากกว่าแบบเรียลไทม์",
+      "summary_th": "Gboard Rambler น่าจะเป็นฟีเจอร์หลักของ Gemini Intelligence ในซีรีส์ Pixel 11 แต่ไม่ใช่การถอดเสียงแบบเรียลไทม์ที่คุณคาดหวัง"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Samsung reportedly abandons plans to give the Galaxy S27 a variable-aperture camera",
+      "summary_en": "Another one bites the dust: Early rumors of the Galaxy S27 reviving Samsung’s variable-aperture camera seem to falling short, as the company is already seemingly repeating last year’s cycle.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/S26-Ultra-camera.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/13/samsung-galaxy-s27-variable-aperture-camera-report/",
+      "published": "Thu, 13 Aug 2026 20:15:00 +0000",
+      "title_th": "มีรายงานว่า Samsung ละทิ้งแผนการที่จะให้ Galaxy S27 เป็นกล้องที่มีรูรับแสงแบบปรับได้",
+      "summary_th": "อีกเรื่องหนึ่งกัดฝุ่น: ข่าวลือในช่วงต้นของ Galaxy S27 ที่ทำให้กล้องรูรับแสงแบบแปรผันของ Samsung ฟื้นคืนชีพดูเหมือนจะไม่เพียงพอ เนื่องจาก บริษัท ดูเหมือนจะทำซ้ำรอบปีที่แล้ว"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "NVIDIA GeForce NOW is high-end gaming everywhere without a headache [Video]",
+      "summary_en": "Building or upgrading a gaming PC right now in mid-2026 can be challenging. Component shortages have pushed RAM and storage prices higher, and getting the latest high-performance GPU can require an investment.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/007-First-Light-gameplay-GeForce-NOW-on-Z-Fold-8.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/13/nvidia-geforce-now-high-end-gaming-everywhere-without-headache-video/",
+      "published": "Thu, 13 Aug 2026 19:46:52 +0000",
+      "title_th": "NVIDIA GeForce ตอนนี้เป็นเกมระดับไฮเอนด์ทุกที่โดยไม่ต้องปวดหัว [วิดีโอ]",
+      "summary_th": "การสร้างหรืออัปเกรดพีซีสำหรับเล่นเกมตั้งแต่ตอนนี้ในช่วงกลางปี ​​2026 อาจเป็นเรื่องที่ท้าทาย การขาดแคลนส่วนประกอบทำให้ราคา RAM และพื้นที่จัดเก็บข้อมูลสูงขึ้น และการได้ GPU ประสิทธิภาพสูงรุ่นล่าสุดอาจต้องใช้เงินลงทุน"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Pixel 11’s ‘Pistachio’ color option should be ‘Old Avocado’",
+      "summary_en": "I don’t know how to describe Google’s green, or “Pistachio” color, for the base Pixel 11. It makes me feel some type of way, and photos don’t do it justice.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-11-pistachio-old-avocado-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/13/pixel-11-pistachio-should-be-old-avocado/",
+      "published": "Thu, 13 Aug 2026 19:00:00 +0000",
+      "title_th": "ตัวเลือกสี 'Pistachio' ของ Pixel 11 ควรเป็น 'Old Avocado'",
+      "summary_th": "ฉันไม่รู้วิธีอธิบายสีเขียวของ Google หรือสี \"พิสตาชิโอ\" สำหรับ Pixel 11 พื้นฐาน มันทำให้ฉันรู้สึกบางอย่าง และรูปถ่ายก็ไม่ยุติธรรม"
     },
     {
       "source": "9to5Google",
@@ -495,52 +543,40 @@
       "summary_th": "รายการเกม Android และข้อเสนอแอพที่ดีที่สุดช่วงบ่ายของคุณพร้อมแล้ว รวมถึงเกมอย่าง Lia: Hacking Destiny, Easy Delivery Co., Star Blaster: Offline Premium, Wreckfest – Demolition Racing, Space Marshals, CloverPit, Lovecraft's Untold Stories และอีกมากมาย ข้อเสนอการสั่งซื้อล่วงหน้าที่ดีที่สุดสำหรับ Pixel 11, 11 Pro, 11 Pro XL และ 11 Pro Fold ยังคงมีอยู่ – มูลค่าการค้าที่เพิ่มขึ้น, เครดิตสูงสุด $350, ฟรี Pixel Watch 5 และอีกมากมาย (รายละเอียดที่นี่ ) – และเรายังมีข้อเสนอการสั่งซื้อล่วงหน้า 20% สำหรับเคส Pixel 11, 11 Pro/XL และ Fold Pixelsnap ใหม่ของ Google แต่แอปกำลังรออยู่ด้านล่าง"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Google’s Pixel Tag picks a bold strategy in a sea of AirTag clones [Gallery]",
-      "summary_en": "Google’s first first-party Find Hub tracker is finally here. The Pixel Tag drops in November and, while there’s a lot of promise here, Google has opted for a pretty bold strategy in a world where the AirTag dominates – let’s see if it pays off for ’em.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/google-pixel-tag-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/13/google-pixel-tag-airtag-moto-tag/",
-      "published": "Thu, 13 Aug 2026 17:05:00 +0000",
-      "title_th": "แท็กพิกเซลของ Google เลือกกลยุทธ์ที่กล้าหาญในทะเลโคลน AirTag [แกลเลอรี]",
-      "summary_th": "ในที่สุดตัวติดตาม Find Hub บุคคลที่หนึ่งของ Google ก็มาถึงแล้ว Pixel Tag จะลดลงในเดือนพฤศจิกายน และแม้ว่าจะมีโอกาสมากมายที่นี่ แต่ Google ได้เลือกใช้กลยุทธ์ที่ค่อนข้างชัดเจนในโลกที่ AirTag ครองอำนาจ มาดูกันว่ามันจะคุ้มค่าสำหรับพวกเขาหรือไม่"
+      "category": "ev",
+      "title_en": "Kia sold over 8,000 EV2s in just 3 months",
+      "summary_en": "Kia’s entry-level electric SUV is already making a name for itself. In its first three full months, Kia sold over 8,000 EV2s as full-scale sales begin.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Kia-EV2-sales-first-months.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/13/kia-sold-over-8000-ev2s-3-months/",
+      "published": "Thu, 13 Aug 2026 21:30:50 +0000",
+      "title_th": "Kia ขาย EV2 ได้มากกว่า 8,000 คันในเวลาเพียง 3 เดือน",
+      "summary_th": "SUV ไฟฟ้าระดับเริ่มต้นของ Kia กำลังสร้างชื่อให้กับตัวเองแล้ว ในช่วงสามเดือนแรกเต็ม Kia ขายได้มากกว่า 8,000 EV2 เมื่อยอดขายเต็มรูปแบบเริ่มต้นขึ้น"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Gemini 3.7 Flash launches three weeks after last model, live in Spark",
-      "summary_en": "Just three weeks after the last release , Google today announced Gemini 3.7 Flash, which continues the company’s accelerated cadence.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/gemini-new-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/13/gemini-3-7-flash-launch/",
-      "published": "Thu, 13 Aug 2026 17:00:00 +0000",
-      "title_th": "Gemini 3.7 Flash เปิดตัวสามสัปดาห์หลังจากรุ่นล่าสุด โดยอยู่ใน Spark",
-      "summary_th": "เพียงสามสัปดาห์หลังจากการเปิดตัวครั้งล่าสุด วันนี้ Google ได้ประกาศเปิดตัว Gemini 3.7 Flash ซึ่งยังคงดำเนินการตามอัตราการเร่งของบริษัทต่อไป"
+      "category": "ev",
+      "title_en": "Ford recalls nearly 90,000 Mustang Mach-E EVs because part of the trim can fall off",
+      "summary_en": "Ford is recalling 86,543 Mustang Mach-E models because a piece of glass trim on the rear side could fall off while driving.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/06/Fords-EV-sales-May-2025.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/13/ford-recalling-nearly-90000-mustang-mach-e-evs/",
+      "published": "Thu, 13 Aug 2026 19:44:23 +0000",
+      "title_th": "Ford เรียกคืน Mustang Mach-E EV เกือบ 90,000 คัน เนื่องจากขอบบางส่วนอาจหลุดออกมาได้",
+      "summary_th": "Ford กำลังเรียกคืนรถ Mustang Mach-E จำนวน 86,543 คัน เนื่องจากกระจกด้านหลังอาจหลุดร่วงขณะขับรถได้"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Drop test claims Pixel 11 Pro, specifically the smaller one, could break more easily",
-      "summary_en": "Google is touting better scratch resistance on its new Pixel 11 Pro phones but, apparently, smaller one doesn’t handle drops and falls quite as well, EU testing claims.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-pro-obsidian-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/13/google-pixel-11-pro-durability-drop-test/",
-      "published": "Thu, 13 Aug 2026 16:05:00 +0000",
-      "title_th": "การทดสอบการตกอ้างว่า Pixel 11 Pro โดยเฉพาะรุ่นที่เล็กกว่าอาจแตกหักได้ง่ายกว่า",
-      "summary_th": "Google กำลังโน้มน้าวการต้านทานรอยขีดข่วนที่ดีกว่าในโทรศัพท์ Pixel 11 Pro ใหม่ แต่เห็นได้ชัดว่าโทรศัพท์ที่เล็กกว่านั้นไม่สามารถทนต่อการตกหล่นและการตกหล่นได้ค่อนข้างดีเช่นกัน จากการทดสอบของสหภาพยุโรป"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Deals: Pixel 11 up to $350 credit + trade, FREE Pixel Watch 5, Pixelsnap cases 20% off, Google charger 50% off, more",
-      "summary_en": "The best deals on Pixel 11, 11 Pro, 11 Pro XL, and 11 Pro Fold pre-order are still rolling with enhanced trade-on values at Amazon, up to $350 in gift cards, and you can even score a Pixel Watch 5 for FREE. These deals also join a giant ongoing 50% price drop on the official Google Pixelsnap Charger with Stand at $35 as well as some early pre-order deals on the new official Pixel 11, 11 Pro/XL, and Fold Pixelsnap cases at 20% off (Amazon has every model marked down right now). Just be sure to also scope out this chance at massive savings on Google’s latest Nest Doorbell down at just $58 and the first deals on Lenovo’s new Idea Tab Pro Gen 2 Android tablet at $120 off . All of that and more is detailed below.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/9to5Google-Aug-13.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/13/best-pixel-11-deals-free-pixel-watch-5-pixelsnap-cases/",
-      "published": "Thu, 13 Aug 2026 15:41:45 +0000",
-      "title_th": "ข้อเสนอ: Pixel 11 เครดิตสูงสุด $350 + การแลกเปลี่ยน, ฟรี Pixel Watch 5, เคส Pixelsnap ลด 20%, ที่ชาร์จของ Google ลด 50% และอื่นๆ อีกมากมาย",
-      "summary_th": "ข้อเสนอที่ดีที่สุดสำหรับการสั่งซื้อล่วงหน้า Pixel 11, 11 Pro, 11 Pro XL และ 11 Pro Fold ยังคงดำเนินต่อไป โดยมีมูลค่าการแลกเปลี่ยนที่เพิ่มขึ้นที่ Amazon สูงสุดถึง $350 ในบัตรของขวัญ และคุณยังสามารถรับ Pixel Watch 5 ได้ฟรีอีกด้วย ข้อตกลงเหล่านี้ยังร่วมกับการลดราคาครั้งใหญ่อย่างต่อเนื่อง 50% สำหรับเครื่องชาร์จ Google Pixelsnap Charger อย่างเป็นทางการพร้อมขาตั้งที่ 35 ดอลลาร์ เช่นเดียวกับข้อเสนอการสั่งซื้อล่วงหน้าล่วงหน้าสำหรับเคส Pixel 11, 11 Pro / XL ใหม่อย่างเป็นทางการและเคส Pixelsnap แบบพับได้พร้อมส่วนลด 20% (ตอนนี้ Amazon มีทุกรุ่นที่ทำเครื่องหมายไว้) เพียงอย่าลืมกำหนดโอกาสนี้ด้วยการประหยัดมหาศาลสำหรับ Nest Doorbell ล่าสุดของ Google ในราคาเพียง $ 58 และข้อเสนอแรกสำหรับแท็บเล็ต Idea Tab Pro Gen 2 Android ใหม่ของ Lenovo ในราคาลด $ 120 ทั้งหมดนั้นและอื่นๆ มีรายละเอียดด้านล่าง"
+      "category": "ev",
+      "title_en": "Tesla pays Musk 2.5 million times more than average worker, even as profits drop",
+      "summary_en": "A new report shows Elon Musk as the highest-compensated CEO, making as much money as 2,522,203 average Tesla workers in 2025. This happened as the Tesla CEO presided over a significant drop in profits which he was largely personally responsible for.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/05/Elon-Musk-Game-of-Thrones-FI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/13/musk-paid-2-5m-times-more-than-average-tesla-worker-despite-dropping-profits/",
+      "published": "Thu, 13 Aug 2026 19:42:26 +0000",
+      "title_th": "Tesla จ่ายเงินให้ Musk มากกว่าพนักงานทั่วไปถึง 2.5 ล้านเท่า แม้ว่าผลกำไรจะลดลงก็ตาม",
+      "summary_th": "รายงานใหม่แสดงให้เห็นว่า Elon Musk เป็น CEO ที่ได้รับค่าตอบแทนสูงสุด โดยสร้างรายได้ได้มากเท่ากับพนักงาน Tesla โดยเฉลี่ย 2,522,203 คนในปี 2025 เหตุการณ์นี้เกิดขึ้นเมื่อ CEO ของ Tesla เป็นประธานในการลดผลกำไรลงอย่างมากซึ่งเขาต้องรับผิดชอบเป็นการส่วนตัวเป็นส่วนใหญ่"
     },
     {
       "source": "Electrek",
@@ -565,42 +601,6 @@
       "published": "Thu, 13 Aug 2026 17:59:19 +0000",
       "title_th": "วอลโว่ต้องการช่วยคุณประหยัดเงินค่าประกันรถยนต์",
       "summary_th": "อาจไม่ใช่ 15 นาทีเหมือน Geico แต่แอป Safety Coach ใหม่ของ Volvo ได้รับการออกแบบมาเพื่อช่วยให้คุณขับขี่ได้อย่างปลอดภัยพร้อมทั้งลดเบี้ยประกันรถยนต์ของคุณด้วย"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "IONNA just beat every major EV fast-charging network",
-      "summary_en": "IONNA has been operating public fast chargers for less than two years, but EV drivers already rank it higher than every other eligible US fast-charging network.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/IONNA_Tesla-scaled-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/13/ionna-just-beat-every-major-ev-fast-charging-network/",
-      "published": "Thu, 13 Aug 2026 17:43:56 +0000",
-      "title_th": "IONNA เอาชนะเครือข่ายชาร์จเร็ว EV หลักทุกเครือข่ายได้",
-      "summary_th": "IONNA ใช้งานเครื่องชาร์จด่วนสาธารณะมาไม่ถึงสองปีแล้ว แต่ไดรเวอร์ EV มีอันดับสูงกว่าเครือข่ายชาร์จเร็วอื่นๆ ที่มีสิทธิ์ในสหรัฐฯ อยู่แล้ว"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Report says Porsche will end Taycan production by 2030, reversing course",
-      "summary_en": "Porsche will end Taycan production by 2030, claims a German media report. The cancellation is interesting in the light of an interview just last month where the Porsche CEO said the model isn’t going anywhere.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/07/Porsche-Taycan-Black-Edition-2.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/13/report-says-porsche-will-end-taycan-production-by-2030-reversing-course/",
-      "published": "Thu, 13 Aug 2026 17:43:55 +0000",
-      "title_th": "รายงานระบุว่าปอร์เช่จะยุติการผลิตไทคานน์ภายในปี 2573 ซึ่งเป็นการกลับทิศทาง",
-      "summary_th": "Porsche จะยุติการผลิต Taycan ภายในปี 2030 ตามรายงานของสื่อเยอรมัน การยกเลิกดังกล่าวเป็นเรื่องที่น่าสนใจจากการให้สัมภาษณ์เมื่อเดือนที่แล้ว ซึ่ง CEO ของ Porsche กล่าวว่าโมเดลดังกล่าวจะไม่ไปไหน"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Tesla Electric launches $35/month Powerwall whole-home backup lease",
-      "summary_en": "Tesla is now renting out whole-home backup for about $35 a month in Texas. The catch: you lease two Powerwalls and sign up for Tesla Electric. Tesla Energy announced the new “Powerwall Lease” today, bundling the battery hardware with its own retail electricity business to push the effective monthly cost far below what a normal battery lease would run.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/tesla-powerwall-backup-lease.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/13/tesla-powerwall-backup-lease-tesla-electric-texas/",
-      "published": "Thu, 13 Aug 2026 16:50:37 +0000",
-      "title_th": "Tesla Electric เปิดตัวสัญญาเช่าสำรอง Powerwall ทั้งบ้านมูลค่า 35 ดอลลาร์ต่อเดือน",
-      "summary_th": "ขณะนี้ Tesla กำลังให้เช่าการสำรองข้อมูลทั้งบ้านในราคาประมาณ 35 เหรียญต่อเดือนในเท็กซัส สิ่งที่จับได้: คุณเช่า Powerwall สองเครื่องและสมัครใช้งาน Tesla Electric Tesla Energy ประกาศเปิดตัว \"Powerwall Lease\" ใหม่ในวันนี้ โดยรวมฮาร์ดแวร์แบตเตอรี่เข้ากับธุรกิจการค้าปลีกไฟฟ้าของตนเอง เพื่อผลักดันต้นทุนรายเดือนที่มีประสิทธิภาพต่ำกว่าที่สัญญาเช่าแบตเตอรี่ปกติจะดำเนินไปมาก"
     }
   ],
   "indices": [
@@ -608,65 +608,65 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 225.58,
-      "change": 1.49,
-      "change_pct": 0.66
+      "price": 225.3,
+      "change": 1.21,
+      "change_pct": 0.54
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 338.86,
-      "change": 11.35,
-      "change_pct": 3.46
+      "price": 339.96,
+      "change": 12.45,
+      "change_pct": 3.8
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 345.77,
-      "change": 2.23,
-      "change_pct": 0.65
+      "price": 346.36,
+      "change": 2.82,
+      "change_pct": 0.82
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 496.21,
-      "change": 3.78,
-      "change_pct": 0.77
+      "price": 496.88,
+      "change": 4.45,
+      "change_pct": 0.9
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 303.55,
-      "change": 1.3,
-      "change_pct": 0.43
+      "price": 305.26,
+      "change": 3.01,
+      "change_pct": 1.0
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 266.24,
-      "change": -1.04,
-      "change_pct": -0.39
+      "price": 265.13,
+      "change": -2.15,
+      "change_pct": -0.8
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 590.5,
-      "change": 11.65,
-      "change_pct": 2.01
+      "price": 594.97,
+      "change": 16.12,
+      "change_pct": 2.78
     },
     {
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 268.0,
+      "change": -1.0,
+      "change_pct": -0.37
     }
   ],
   "reviews": [
