@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T00:52:47.531328+00:00",
+  "generated_at": "2026-08-13T04:45:34.870050+00:00",
   "count": 50,
   "articles": [
     {
@@ -168,7 +168,7 @@
       "link": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
       "published": "Thu, 30 Jul 2026 20:57:22 +0000",
       "title_th": "ข้อบกพร่องเซิร์ฟเวอร์ Exchange ระดับความรุนแรงสูงสุดภายใต้การใช้ประโยชน์โดยแฮกเกอร์เครมลิน",
-      "summary_th": "การหาประโยชน์สามารถให้การเข้าถึงเซิร์ฟเวอร์แบบถาวรที่รอดจากการหมุนเวียนข้อมูลรับรองและการสร้างอิมเมจใหม่ของดิสก์"
+      "summary_th": "การหาประโยชน์สามารถให้การเข้าถึงเซิร์ฟเวอร์แบบถาวรที่รอดจากการหมุนเวียนข้อมูลรับรองและการสร้างอิมเมจดิสก์ใหม่"
     },
     {
       "source": "Ars Technica",
@@ -252,7 +252,7 @@
       "link": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
       "published": "Wed, 12 Aug 2026 18:59:48 +0000",
       "title_th": "นักวิทยาศาสตร์เพิ่งสร้างโคลนตัวเมียของหนูตัวผู้",
-      "summary_th": "นักวิทยาศาสตร์จงใจเปลี่ยนตัวอ่อนของหนูตัวผู้ให้เป็นตัวเมียเป็นครั้งแรก ทีมงานในญี่ปุ่นใช้วิธีการแบบ CRISPR เพื่อกำจัดโครโมโซม Y ออกจากเซลล์ตัวผู้ และสร้างโคลนตัวเมียของหนูตัวผู้ “ไม่มีใครเคยทำเช่นนี้มาก่อน” โมนิกา วอร์ด นักชีววิทยาการเจริญพันธุ์จากมหาวิทยาลัยฮาวาย กล่าว ซึ่ง..."
+      "summary_th": "นักวิทยาศาสตร์จงใจเปลี่ยนตัวอ่อนของหนูตัวผู้ให้เป็นตัวเมียเป็นครั้งแรก ทีมงานในญี่ปุ่นใช้วิธีการที่ใช้ CRISPR เพื่อกำจัดโครโมโซม Y ออกจากเซลล์ตัวผู้ และสร้างโคลนตัวเมียของหนูตัวผู้ “ไม่มีใครเคยทำเช่นนี้มาก่อน” โมนิกา วอร์ด นักชีววิทยาการเจริญพันธุ์จากมหาวิทยาลัยฮาวาย กล่าว ซึ่ง..."
     },
     {
       "source": "MIT Technology Review",
@@ -420,7 +420,19 @@
       "link": "https://spectrum.ieee.org/v2x-technology-5g-open-ran",
       "published": "Fri, 07 Aug 2026 13:00:01 +0000",
       "title_th": "รถยนต์ที่สื่อสารกันไม่ดีคือปัญหาที่ได้รับการแก้ไขแล้ว",
-      "summary_th": "ประวัติความเป็นมาของเครือข่ายเต็มไปด้วยเครื่องมือที่นำวิธีแก้ไขปัญหาประเภทต่างๆ มาใช้ใหม่ก่อน ต้นกำเนิดของ Wi-Fi ส่วนหนึ่งย้อนกลับไปที่ทีมนักดาราศาสตร์วิทยุชาวออสเตรเลียที่พยายามตรวจจับสัญญาณจากการระเหยของหลุมดำ แต่เครื่องมือประมวลผลข้อมูลที่พวกเขาพัฒนาขึ้นยังได้รับการพิสูจน์แล้วว่าสามารถดึงข้อความที่ชัดเจนจากสภาพแวดล้อมของสัญญาณสะท้อนที่วุ่นวายได้ เสียงสะท้อนก็คือเสียงสะท้อน ไม่ว่าจะมาจากระบบดาวอันห่างไกลหรือจากมุมไกลของบ้าน ฉันค้นคว้าเครือข่ายการสื่อสารของยานพาหนะ การเชื่อมต่อรถยนต์กับรถยนต์ และโครงสร้างพื้นฐานด้านการขนส่ง เช่น สัญญาณไฟจราจร สำหรับเครือข่าย Vehicle-to-everthing (V2X) ในอนาคต การวิจัย V2X อาศัยโมเดลที่ถือว่าสภาพเครือข่าย \"สมบูรณ์แบบ\" หรือ \"อุดมคติ\" มานานแล้ว ซึ่งเป็นสมมติฐานที่ทำให้ง่ายขึ้นว่า"
+      "summary_th": "ประวัติความเป็นมาของเครือข่ายเต็มไปด้วยเครื่องมือที่นำวิธีแก้ไขปัญหาประเภทต่างๆ มาใช้ใหม่ก่อน ต้นกำเนิดของ Wi-Fi ส่วนหนึ่งย้อนกลับไปที่ทีมนักดาราศาสตร์วิทยุชาวออสเตรเลียที่พยายามตรวจจับสัญญาณจากการระเหยของหลุมดำ แต่เครื่องมือประมวลผลข้อมูลที่พวกเขาพัฒนาขึ้นยังได้รับการพิสูจน์แล้วว่าสามารถดึงข้อความที่ชัดเจนจากสภาพแวดล้อมของสัญญาณสะท้อนที่วุ่นวายได้ เสียงสะท้อนก็คือเสียงสะท้อน ไม่ว่าจะมาจากระบบดาวอันห่างไกลหรือจากมุมไกลของบ้าน ฉันค้นคว้าเครือข่ายการสื่อสารของยานพาหนะ การเชื่อมต่อรถยนต์กับรถยนต์ และโครงสร้างพื้นฐานด้านการคมนาคม เช่น สัญญาณไฟจราจร สำหรับเครือข่าย Vehicle-to-everthing (V2X) ในอนาคต การวิจัย V2X อาศัยโมเดลที่ถือว่าสภาพเครือข่าย \"สมบูรณ์แบบ\" หรือ \"อุดมคติ\" มานานแล้ว ซึ่งเป็นสมมติฐานที่ทำให้ง่ายขึ้นว่า"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple TV publishes the trailer for Stillwater’s fifth season",
+      "summary_en": "Today, Apple TV published the trailer for the fifth season of Stillwater , the platform’s Peabody and Emmy Award-winning mindfulness series. Watch it below.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/stillwater-s5-panda.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/12/apple-tv-publishes-the-trailer-for-stillwaters-fifth-season/",
+      "published": "Thu, 13 Aug 2026 02:14:55 +0000",
+      "title_th": "Apple TV เผยแพร่ตัวอย่างสำหรับซีซั่นที่ห้าของ Stillwater",
+      "summary_th": "วันนี้ Apple TV ได้เผยแพร่ตัวอย่างสำหรับ Stillwater ซีซันที่ 5 ซึ่งเป็นซีรีส์ฝึกสติของแพลตฟอร์ม Peabody และ Emmy Award ดูได้ที่ด้านล่างนี้"
     },
     {
       "source": "9to5Mac",
@@ -431,7 +443,7 @@
       "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "link": "https://9to5mac.com/2026/08/12/daily-august-12-2026/",
       "published": "Wed, 12 Aug 2026 23:19:20 +0000",
-      "title_th": "9to5Mac รายวัน: 12 สิงหาคม 2569 – การเปลี่ยนแปลงของ Apple exec และอื่นๆ อีกมากมาย",
+      "title_th": "9to5Mac รายวัน: 12 สิงหาคม 2569 – การเปลี่ยนแปลงผู้บริหารของ Apple และอื่นๆ อีกมากมาย",
       "summary_th": "ฟังสรุปเรื่องเด่นประจำวันจาก 9to5Mac 9to5Mac Daily มีให้บริการบน iTunes และแอป Podcasts ของ Apple , Stitcher , TuneIn , Google Play หรือผ่านทางฟีด RSS เฉพาะของเราสำหรับ Overcast และเครื่องเล่นพอดแคสต์อื่นๆ สนับสนุนโดย Backblaze : การสำรองข้อมูลที่คุณวางใจได้ ประหยัด 20% ด้วยรหัส 9to5daily"
     },
     {
@@ -469,18 +481,6 @@
       "published": "Wed, 12 Aug 2026 21:45:16 +0000",
       "title_th": "Apple ชนะคดีศาลฎีกาชั่วคราวในการดำเนินคดีของ Epic Games",
       "summary_th": "ศาลฎีกาได้อนุญาตให้ Apple ขยายเวลาออกไปอีก 24 ชั่วโมงจากกำหนดเวลาของศาลแคลิฟอร์เนีย โดยกำหนดให้บริษัทต้องเสนอค่าคอมมิชชันใดบ้าง (ถ้ามี) ควรได้รับอนุญาตให้เรียกเก็บเงินจากการซื้อที่ทำนอก App Store นี่คือรายละเอียด"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Report: US smartphone sales fell 5% in Q2 2026 as prices keep climbing",
-      "summary_en": "A new Counterpoint Research report says pricing pressure from rising memory costs squeezed the low-end US smartphone segment in Q2 2026, with smaller manufacturers hit particularly hard as larger brands were better able to absorb component cost increases. Here are the details.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-17-pro-and-max.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/12/report-us-smartphone-sales-fell-5-in-q2-2026-as-prices-keep-climbing/",
-      "published": "Wed, 12 Aug 2026 21:01:51 +0000",
-      "title_th": "รายงาน: ยอดขายสมาร์ทโฟนในสหรัฐฯ ลดลง 5% ในไตรมาสที่ 2 ปี 2026 เนื่องจากราคาพุ่งสูงขึ้นอย่างต่อเนื่อง",
-      "summary_th": "รายงาน Counterpoint Research ฉบับใหม่ระบุว่าแรงกดดันด้านราคาจากต้นทุนหน่วยความจำที่เพิ่มขึ้นบีบกลุ่มสมาร์ทโฟนระดับล่างของสหรัฐฯ ในไตรมาสที่ 2 ปี 2026 โดยผู้ผลิตรายเล็กได้รับผลกระทบอย่างหนักเป็นพิเศษ เนื่องจากแบรนด์ขนาดใหญ่สามารถดูดซับต้นทุนส่วนประกอบที่เพิ่มขึ้นได้ดีกว่า นี่คือรายละเอียด"
     },
     {
       "source": "9to5Google",
@@ -540,7 +540,7 @@
       "link": "https://9to5google.com/2026/08/12/honor-finally-launches-robot-phone-starting-at-around-1500/",
       "published": "Wed, 12 Aug 2026 18:30:00 +0000",
       "title_th": "ในที่สุด Honor ก็เปิดตัว Robot Phone ในราคาเริ่มต้นประมาณ 1,500 ดอลลาร์",
-      "summary_th": "ในที่สุด Honor Robot Phone รุ่นแรกที่ใช้ gimbal ซึ่งใช้ AI ก็มีการเปิดตัวแล้ว และราคาเริ่มต้นที่ประมาณ 1,500 ดอลลาร์ แม้ว่าคุณจะไม่สามารถซื้อได้ในพื้นที่ส่วนใหญ่ของโลกก็ตาม"
+      "summary_th": "Honor Robot Phone รุ่นแรกที่ใช้ gimbal ซึ่งใช้ AI ได้เปิดตัวในที่สุด และราคาเริ่มต้นที่ประมาณ 1,500 ดอลลาร์ แม้ว่าคุณจะไม่สามารถซื้อได้ในพื้นที่ส่วนใหญ่ของโลกก็ตาม"
     },
     {
       "source": "Electrek",
@@ -588,7 +588,7 @@
       "link": "https://electrek.co/2026/08/12/us-ev-prices-are-going-back-up-as-discounts-shrink/",
       "published": "Wed, 12 Aug 2026 19:10:18 +0000",
       "title_th": "ราคา EV ของสหรัฐกำลังกลับขึ้นเนื่องจากส่วนลดลดลง",
-      "summary_th": "หลังจากการลดลงเมื่อเทียบเป็นรายปีเป็นเวลาหกเดือนติดต่อกัน ราคาธุรกรรมเฉลี่ย (ATP) ที่จ่ายสำหรับ EV ใหม่ในสหรัฐอเมริกาก็เพิ่มขึ้นอีกครั้ง"
+      "summary_th": "หลังจากการลดลงเมื่อเทียบเป็นรายปีติดต่อกันเป็นเวลาหกเดือน ราคาธุรกรรมเฉลี่ย (ATP) ที่จ่ายสำหรับ EV ใหม่ในสหรัฐอเมริกาก็เพิ่มขึ้นอีกครั้ง"
     },
     {
       "source": "Electrek",
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 269.0,
-      "change": -10.0,
-      "change_pct": -3.58
+      "price": 274.0,
+      "change": 5.0,
+      "change_pct": 1.86
     }
   ],
   "reviews": [
@@ -699,96 +699,6 @@
       "thumbnail": "https://i4.ytimg.com/vi/_xjxwl1zLMc/hqdefault.jpg",
       "published": "2026-07-27T15:38:21+00:00",
       "title_th": "Framework 13 Pro: แล็ปท็อปแบบแยกส่วนมีจริง!"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "Listen To This...(SOUND ON)",
-      "video_id": "Pti27NIzuIg",
-      "link": "https://www.youtube.com/shorts/Pti27NIzuIg",
-      "thumbnail": "https://i1.ytimg.com/vi/Pti27NIzuIg/hqdefault.jpg",
-      "published": "2026-08-12T17:27:42+00:00",
-      "title_th": "ฟังนี่...(เปิดเสียง)"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "You Won’t Believe What This Sounds Like...",
-      "video_id": "7imHGvEtaBw",
-      "link": "https://www.youtube.com/watch?v=7imHGvEtaBw",
-      "thumbnail": "https://i4.ytimg.com/vi/7imHGvEtaBw/hqdefault.jpg",
-      "published": "2026-08-11T15:35:11+00:00",
-      "title_th": "คุณจะไม่เชื่อว่าสิ่งนี้ฟังดูเป็นอย่างไร..."
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "This is Beyond just Gaming...",
-      "video_id": "zZ1hKRuhEVs",
-      "link": "https://www.youtube.com/watch?v=zZ1hKRuhEVs",
-      "thumbnail": "https://i3.ytimg.com/vi/zZ1hKRuhEVs/hqdefault.jpg",
-      "published": "2026-08-06T15:49:36+00:00",
-      "title_th": "นี่มันเกินกว่าแค่การเล่นเกม..."
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "“ล่าม” หนังไทยถ่ายอเมริกา ที่คุณภาพเกินกว่าที่คาดไว้",
-      "video_id": "9gGQZrCeb0Q",
-      "link": "https://www.youtube.com/watch?v=9gGQZrCeb0Q",
-      "thumbnail": "https://i2.ytimg.com/vi/9gGQZrCeb0Q/hqdefault.jpg",
-      "published": "2026-08-11T14:11:51+00:00",
-      "title_th": "“ล่าม” หนังไทยถ่ายอเมริกา ที่คุณภาพเกินกว่าที่คาดไว้"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "เจาะลึกอนาคตพลังงานบ้าน กับผู้บริหาร Uniview เปลี่ยนบ้านธรรมดา ให้ฉลาดและเซฟค่าไฟ",
-      "video_id": "ndkx1JxEMDY",
-      "link": "https://www.youtube.com/watch?v=ndkx1JxEMDY",
-      "thumbnail": "https://i3.ytimg.com/vi/ndkx1JxEMDY/hqdefault.jpg",
-      "published": "2026-08-10T10:00:03+00:00",
-      "title_th": "เจาะลึกอนาคตพลังงานบ้าน กับผู้บริหาร Uniview เปลี่ยนบ้านธรรมดา ให้ฉลาดและเซฟค่าไฟ"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "Pentagram บริษัทที่ไม่ใช้พนักงานขาย แต่ทำไมลูกค้าจ้างหลักล้าน?",
-      "video_id": "3LAJdk2p010",
-      "link": "https://www.youtube.com/watch?v=3LAJdk2p010",
-      "thumbnail": "https://i4.ytimg.com/vi/3LAJdk2p010/hqdefault.jpg",
-      "published": "2026-08-08T23:00:05+00:00",
-      "title_th": "Pentagram บริษัทที่ไม่ใช้พนักงานขาย แต่ทำไมลูกค้าจ้างหลักล้าน?"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "รีวิว Insta360 X6 กล้อง 360 องศาตัวเดียวจบ ! ถ่าย 1 เทคเก็บครบทุกมุม",
-      "video_id": "llaouvXJkGY",
-      "link": "https://www.youtube.com/watch?v=llaouvXJkGY",
-      "thumbnail": "https://i1.ytimg.com/vi/llaouvXJkGY/hqdefault.jpg",
-      "published": "2026-08-12T13:00:07+00:00",
-      "title_th": "รีวิว Insta360 X6 กล้อง 360 องศาตัวเดียวจบ ! ถ่าย 1 เทคเก็บครบทุกมุม"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "ทำได้ด้วย ? 😲 ต่อภาษีรถออนไลน์ ทำในมือถือได้ไม่ต้องไปขนส่ง  #ต่อภาษีรถยนต์ #ชำระภาษีรถ #แอปเป๋าตังค์",
-      "video_id": "tQ2Po36E6jI",
-      "link": "https://www.youtube.com/shorts/tQ2Po36E6jI",
-      "thumbnail": "https://i1.ytimg.com/vi/tQ2Po36E6jI/hqdefault.jpg",
-      "published": "2026-08-11T12:09:59+00:00",
-      "title_th": "ทำได้ด้วย ? 😲 ต่อภาษีรถออนไลน์ ทำในมือถือได้ไม่ต้องไปขนส่ง  #ต่อภาษีรถยนต์ #ชำระภาษีรถ #แอปเป๋าตังค์"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "มือถือไรเดอร์ งบ 5,000 บาท แบตอึด เครื่องทน วิ่งงาน 2 รุ่นนี้น่าใช้ #OPPOA6 #REDMINote15",
-      "video_id": "tpfq9Buh6ZU",
-      "link": "https://www.youtube.com/shorts/tpfq9Buh6ZU",
-      "thumbnail": "https://i1.ytimg.com/vi/tpfq9Buh6ZU/hqdefault.jpg",
-      "published": "2026-08-10T13:02:33+00:00",
-      "title_th": "มือถือไรเดอร์ งบ 5,000 บาท แบตอึด เครื่องทน วิ่งงาน 2 รุ่นนี้น่าใช้ #OPPOA6 #REDMINote15"
     }
   ]
 }
