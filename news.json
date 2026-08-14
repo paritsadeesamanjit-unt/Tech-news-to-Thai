@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-08-14T12:35:35.644999+00:00",
+  "generated_at": "2026-08-14T15:41:53.438742+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Apple proposes to take a 15% cut of purchases made outside the App Store",
+      "summary_en": "Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2234130980.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
+      "published": "Fri, 14 Aug 2026 14:54:48 +0000",
+      "title_th": "Apple เสนอให้ลดการซื้อสินค้านอก App Store ลง 15%",
+      "summary_th": "Apple กำลังขอให้ผู้พิพากษาของรัฐบาลกลางอนุญาตให้เรียกเก็บค่าคอมมิชชั่นสูงถึง 15% สำหรับการซื้อผ่านลิงก์ภายนอกในแอพ iOS"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Kog is going deeper to squeeze more inference out of GPUs",
+      "summary_en": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Kog-CEO-Gael-Dellalleau-at-AMD-AI-DevDay.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "published": "Fri, 14 Aug 2026 14:50:11 +0000",
+      "title_th": "Kog ลงลึกยิ่งขึ้นเพื่อบีบการอนุมานออกจาก GPU ให้มากขึ้น",
+      "summary_th": "ความคิดที่ว่า GPU ไม่เหมาะกับเวิร์กโฟลว์เอเจนต์อาจเป็นความเข้าใจผิด ตามที่ Kog สตาร์ทอัพชาวฝรั่งเศสกล่าว"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "summary_en": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-462843546.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "published": "Fri, 14 Aug 2026 14:05:00 +0000",
+      "title_th": "Hyperscalers อาจเสียใจที่ใช้ก๊าซธรรมชาติหากการคาดการณ์ใหม่พิสูจน์ได้ว่าถูกต้อง",
+      "summary_th": "ราคาก๊าซธรรมชาติอาจเพิ่มขึ้นเป็นสามเท่าในบางส่วนของสหรัฐอเมริกา ซึ่งอาจส่งผลกระทบต่อผู้ขยายขนาดระดับสูงด้วยค่าใช้จ่ายมหาศาลในการขับเคลื่อนศูนย์ข้อมูล AI ของตน"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "US courts will start publishing how often the government uses spyware",
+      "summary_en": "The Administrative Office of the U.S. Courts told TechCrunch that it will start disclosing how many times judges authorized the use of spyware to wiretap suspected criminals.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/spyware-phone-leak.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/",
+      "published": "Fri, 14 Aug 2026 13:29:04 +0000",
+      "title_th": "ศาลสหรัฐฯ จะเริ่มเผยแพร่ความถี่ที่รัฐบาลใช้สปายแวร์",
+      "summary_th": "สำนักงานบริหารของศาลสหรัฐฯ บอกกับ TechCrunch ว่าจะเริ่มเปิดเผยจำนวนครั้งที่ผู้พิพากษาอนุญาตให้ใช้สปายแวร์เพื่อดักฟังอาชญากรที่ต้องสงสัย"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -11,67 +59,31 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/Verne-Uber-Pony-Partnership.jpg?resize=1200,713",
       "link": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
       "published": "Fri, 14 Aug 2026 10:44:30 +0000",
-      "title_th": "Uber และ Pony.ai วางแผนที่จะนำหุ่นยนต์แท็กซี่ 2,000 คันไปยังยุโรป",
+      "title_th": "Uber และ Pony.ai วางแผนที่จะนำหุ่นยนต์แท็กซี่ 2,000 ตัวไปยังยุโรป",
       "summary_th": "ความร่วมมือดังกล่าวกำลังขยายออกไปนอกเหนือจากตลาดแรกเริ่มในเมืองซาเกร็บ ประเทศโครเอเชีย ไปยังเมืองอื่นๆ ในยุโรปอีก 4 เมือง"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
-      "summary_en": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2202517874.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
-      "published": "Thu, 13 Aug 2026 22:12:40 +0000",
-      "title_th": "นักลงทุนฟ้อง Selena Gomez ในข้อหาฉ้อโกงที่เกี่ยวข้องกับสตาร์ทอัพด้านสุขภาพจิตของเธอ",
-      "summary_th": "โจทก์กล่าวว่าพวกเขาลงทุนเกือบ 1.2 ล้านดอลลาร์ในบริษัท และกล่าวหาว่า Gomez ล้มเหลวในการสร้างและทำการตลาดสตาร์ทอัพ"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
-      "summary_en": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799",
-      "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
-      "published": "Thu, 13 Aug 2026 22:02:04 +0000",
-      "title_th": "Flock กล่าวว่าเครื่องมือใหม่จะช่วยระบุการละเมิดของตำรวจ แต่ไม่ได้อธิบายวิธีการทำงาน",
-      "summary_th": "บริษัทเฝ้าระวังประกาศว่ากำลังสร้างเครื่องมือที่เรียกว่า \"ความช่วยเหลือด้านการตรวจสอบ\" สำหรับลูกค้าทุกคน โดยอ้างว่าได้ช่วยตรวจจับการละเมิดแล้ว แต่บริษัทยังไม่ได้อธิบายวิธีการทำงานของเครื่องมือโดยละเอียด ทำให้เกิดคำถามเกี่ยวกับประสิทธิภาพของเครื่องมือ"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
-      "summary_en": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/ios-notification-threat-apple-hero.jpg?resize=1200,814",
-      "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
-      "published": "Thu, 13 Aug 2026 21:50:11 +0000",
-      "title_th": "หาก Apple ส่งการแจ้งเตือนแบบพุชถึงคุณเพื่อเตือนให้คุณทราบถึงการโจมตีของสปายแวร์ ให้ดำเนินการอย่างจริงจัง",
-      "summary_th": "ตอนนี้ Apple ส่งการแจ้งเตือนแบบพุชไปยังหน้าจอล็อคของ iPhone เมื่อบริษัทระบุสปายแวร์ของรัฐบาลที่กำหนดเป้าหมายไปที่อุปกรณ์ของใครบางคน"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "summary_en": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/09/May-Habib-Disrupt-2023.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "published": "Thu, 13 Aug 2026 21:13:24 +0000",
-      "title_th": "Writer แนะนำโมเดล AI ใหม่และสายรัดที่อัปเกรดเพื่อควบคุมต้นทุนโทเค็น",
-      "summary_th": "Writer สร้างขึ้นเพื่อเป็นรูปแบบหลังการฝึกอบรมในรุ่นโอเพ่นซอร์ส GLM-5.2 ของ Z.ai กล่าวว่าระบบใหม่ควรมีความสามารถพร้อมปรับใช้ในราคาที่ต่ำกว่ามาก"
+      "category": "software",
+      "title_en": "2025 GOTY Clair Obscur: Expedition 33 is down to $33",
+      "summary_en": "For RPG fans who dig Persona-style turn-based action and who are pursuing games with original stories and fantastic tunes, look no further than Clair Obscur: Expedition 33. This praise might come off sounding weird, but I really like that Sandfall Interactive’s breakout hit isn’t overly long compared to RPGs it was inspired by. It’s worth […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/clair.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/gadgets/980261/clair-obscur-pixel-11-gaming-laptop-4k-bluray-deal-sale",
+      "published": "2026-08-14T10:50:25-04:00",
+      "title_th": "2025 GOTY Clair Obscur: Expedition 33 ลดราคาเหลือ 33 ดอลลาร์",
+      "summary_th": "สำหรับแฟนเกม RPG ที่ชื่นชอบเกมแอ็กชันแบบผลัดกันเล่นในสไตล์ Persona และผู้ที่ติดตามเกมที่มีเรื่องราวแปลกใหม่และเพลงประกอบที่ยอดเยี่ยม ไม่ต้องมองหาที่ไหนไกลนอกจาก Clair Obscur: Expedition 33 คำชมนี้อาจฟังดูแปลกๆ แต่ฉันชอบที่เกมยอดนิยมของ Sandfall Interactive นั้นใช้เวลาไม่นานนักเมื่อเทียบกับเกม RPG ที่ได้รับแรงบันดาลใจจากเกม RPG มันคุ้มค่า […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "review",
-      "title_en": "The MSI Claw EX is the most important handheld since Steam Deck — I still wouldn’t buy one",
+      "title_en": "The MSI Claw EX is the most important PC handheld since Steam Deck — I still wouldn’t buy one",
       "summary_en": "As The Verge's resident handheld reviewer, I have nearly every portable gaming PC on a shelf in my house. The MSI Claw 8 EX AI Plus is now the first one I reach for. Thanks to a next-gen Intel chip and improved MSI design, the Claw EX is the most powerful handheld that truly feels […]",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/verge-msi-claw-ex-sean-hollister-1-8.jpg?quality=90&strip=all&crop=0%2C11.782791030077%2C100%2C78.534450752859&w=1200",
       "link": "https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld",
       "published": "2026-08-14T07:00:00-04:00",
-      "title_th": "MSI Claw EX เป็นอุปกรณ์พกพาที่สำคัญที่สุดนับตั้งแต่ Steam Deck — ฉันยังคงไม่ซื้อมัน",
+      "title_th": "MSI Claw EX เป็นพีซีพกพาที่สำคัญที่สุดนับตั้งแต่ Steam Deck — ฉันยังคงไม่ซื้อมัน",
       "summary_th": "ในฐานะผู้ตรวจสอบอุปกรณ์พกพาของ The Verge ฉันมีพีซีสำหรับเล่นเกมแบบพกพาเกือบทุกเครื่องวางอยู่บนชั้นวางในบ้านของฉัน MSI Claw 8 EX AI Plus เป็นรุ่นแรกที่ฉันเข้าถึง ต้องขอบคุณชิป Intel รุ่นถัดไปและการออกแบบ MSI ที่ได้รับการปรับปรุง Claw EX จึงเป็นอุปกรณ์พกพาที่ทรงพลังที่สุดที่ให้ความรู้สึก […]"
     },
     {
@@ -84,7 +96,7 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
       "published": "2026-08-14T05:21:17-04:00",
       "title_th": "Apple ฝึกฝนโมเดล AI ของตัวเองสำหรับประเทศจีนโดยได้รับความช่วยเหลือจาก Alibaba",
-      "summary_th": "มีรายงานว่า Apple ได้ฝึกอบรมโมเดล AI แบบกำหนดเองสำหรับตลาดจีนควบคู่ไปกับอาลีบาบายักษ์ใหญ่ด้านเทคโนโลยีในประเทศ ซึ่งเป็นความร่วมมือข้ามพรมแดนที่หาได้ยากซึ่งช่วยลดความตึงเครียดที่เพิ่มขึ้นระหว่างปักกิ่งและวอชิงตัน โมเดลภาษาขนาดใหญ่ที่เน้นประเทศจีนได้รับการพัฒนาโดยความร่วมมือกับอาลีบาบาและได้รับการฝึกอบรมโดยได้รับการสนับสนุนจากบริษัท ตามรายงานของรอยเตอร์ โดยอ้างถึงบุคคลสามคนที่ไม่ระบุชื่อที่คุ้นเคยกับ […]"
+      "summary_th": "มีรายงานว่า Apple ได้ฝึกอบรมโมเดล AI แบบกำหนดเองสำหรับตลาดจีนควบคู่ไปกับอาลีบาบายักษ์ใหญ่ด้านเทคโนโลยีในประเทศ ซึ่งเป็นความร่วมมือข้ามพรมแดนที่หาได้ยากซึ่งช่วยลดความตึงเครียดที่เพิ่มขึ้นระหว่างปักกิ่งและวอชิงตัน โมเดลภาษาขนาดใหญ่ที่เน้นไปที่จีนได้รับการพัฒนาโดยความร่วมมือกับอาลีบาบา และได้รับการฝึกอบรมโดยได้รับการสนับสนุนจากบริษัท ตามรายงานของรอยเตอร์ โดยอ้างถึงผู้ไม่เปิดเผยชื่อสามคนที่คุ้นเคยกับ […]"
     },
     {
       "source": "The Verge",
@@ -111,16 +123,16 @@
       "summary_th": "สหรัฐฯ ได้สั่งห้ามโดรนต่างชาติในอนาคตเข้าประเทศแล้ว เว้นแต่บริษัทของพวกเขาจะจูบบนเวที เช่นเดียวกับเราเตอร์ หุ่นยนต์ และ Roombas ขณะนี้ประธานาธิบดีโดนัลด์ ทรัมป์กำลังกำหนดเป้าหมายการนำเข้าและชิ้นส่วนโดรนที่มีอยู่ด้วย เขาจะพยายามทำให้ราคาสูงขึ้นมาก ในการดำเนินการของประธานาธิบดี […]"
     },
     {
-      "source": "The Verge",
+      "source": "Ars Technica",
       "flag": "US",
       "category": "software",
-      "title_en": "Apple and Epic argue over how much Apple should get from purchases made outside the App Store",
-      "summary_en": "In a new filing in its long-running legal dispute with Epic Games, Apple has proposed a structure that would allow it to collect fees on digital purchases made via external links that don't use the company's in-app purchase system. Epic has already responded, saying that Apple's request is \"far outside of the bounds\" of the […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK468_APPLE_ANTITRUST_CVIRGINIA_F.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing",
-      "published": "2026-08-13T19:13:24-04:00",
-      "title_th": "Apple และ Epic โต้แย้งว่า Apple ควรได้รับเท่าใดจากการซื้อนอก App Store",
-      "summary_th": "ในการยื่นฟ้องครั้งใหม่เกี่ยวกับข้อพิพาททางกฎหมายที่ดำเนินมายาวนานกับ Epic Games นั้น Apple ได้เสนอโครงสร้างที่จะอนุญาตให้เก็บค่าธรรมเนียมสำหรับการซื้อดิจิทัลที่ทำผ่านลิงก์ภายนอกที่ไม่ได้ใช้ระบบการซื้อในแอปของบริษัท Epic ได้ตอบกลับไปแล้ว โดยกล่าวว่าคำขอของ Apple นั้น \"อยู่นอกเหนือขอบเขต\" ของ […]"
+      "title_en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "summary_en": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285566787-1152x648.jpg",
+      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "published": "Fri, 14 Aug 2026 14:27:14 +0000",
+      "title_th": "OpenAI และ Anthropic ในสงครามราคาเมื่อคู่แข่ง AI ของจีนเข้ามามีส่วนร่วม",
+      "summary_th": "กลุ่มสหรัฐฯ เปิดตัวโมเดลราคาถูกหลังความท้าทายใหม่ต่อความทะเยอทะยานล้านล้านดอลลาร์"
     },
     {
       "source": "Ars Technica",
@@ -171,16 +183,16 @@
       "summary_th": "การหาประโยชน์สามารถให้การเข้าถึงเซิร์ฟเวอร์แบบถาวรที่รอดจากการหมุนเวียนข้อมูลรับรองและการสร้างอิมเมจดิสก์ใหม่"
     },
     {
-      "source": "Ars Technica",
+      "source": "Wired",
       "flag": "US",
-      "category": "software",
-      "title_en": "We now have a better understanding how OpenAI hacked into Hugging Face",
-      "summary_en": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
-      "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-      "published": "Tue, 28 Jul 2026 21:36:39 +0000",
-      "title_th": "ตอนนี้เรามีความเข้าใจที่ดีขึ้นแล้วว่า OpenAI แฮ็กเข้าสู่ Hugging Face ได้อย่างไร",
-      "summary_th": "10 วันผ่านไปจากโมเดล OpenAI ที่ใช้ประโยชน์จาก JFrog Artifactory 0 วันเพื่อเผยแพร่แพตช์"
+      "category": "ai",
+      "title_en": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+      "summary_en": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
+      "image": "https://media.wired.com/photos/6a7e0548f5b7635ce53f5f77/master/pass/Backchannel-Tim-Orielly-Business.jpg",
+      "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+      "published": "Fri, 14 Aug 2026 15:00:00 +0000",
+      "title_th": "Tech Visionary กล่าวว่าห้องทดลอง AI ขนาดใหญ่ไม่ได้รับสิ่งที่ผู้คนต้องการ",
+      "summary_th": "Tim O'Reilly สร้างอาณาจักรการเผยแพร่ที่ AI เข้ามาช่วยทำลายล้าง แต่เขารัก AI ตราบใดที่มันเป็นโอเพ่นซอร์ส"
     },
     {
       "source": "Wired",
@@ -204,7 +216,7 @@
       "link": "https://www.wired.com/story/ftc-strikes-deals-to-ignore-unlawful-credit-discrimination/",
       "published": "Fri, 14 Aug 2026 11:00:00 +0000",
       "title_th": "FTC ตกลงข้อตกลงเพื่อเพิกเฉยต่อการเลือกปฏิบัติด้านเครดิตที่ผิดกฎหมาย",
-      "summary_th": "หน่วยงานได้ลงนามในข้อตกลงที่จะไม่บังคับใช้ส่วนหนึ่งของคำสั่งศาลรัฐบาลกลางสามคำสั่งกับตัวแทนจำหน่ายรถยนต์ที่ถูกกล่าวหาว่ามีการเลือกปฏิบัติ และไม่ได้แจ้งผู้พิพากษาหรือโจทก์ร่วมอย่างน้อยหนึ่งคน"
+      "summary_th": "หน่วยงานได้ลงนามในข้อตกลงที่จะไม่บังคับใช้บางส่วนของคำสั่งศาลรัฐบาลกลางสามคำสั่งกับตัวแทนจำหน่ายรถยนต์ที่ถูกกล่าวหาว่ามีการเลือกปฏิบัติ และไม่ได้แจ้งผู้พิพากษาหรือโจทก์ร่วมอย่างน้อยหนึ่งคน"
     },
     {
       "source": "Wired",
@@ -215,7 +227,7 @@
       "image": "https://media.wired.com/photos/6a550ca43f29786234525e20/master/pass/Culture_AI%20Masturbation%20Consultants_v1.jpg",
       "link": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
       "published": "Fri, 14 Aug 2026 10:45:00 +0000",
-      "title_th": "'ที่ปรึกษาเรื่องการช่วยตัวเอง' เหล่านี้ถูกจ้างมาเพื่อสร้างความสุขให้กับตัวเองด้วย AI",
+      "title_th": "'ที่ปรึกษาเรื่องการช่วยตัวเอง' เหล่านี้ถูกจ้างมาเพื่อสร้างความพึงพอใจให้กับตัวเองด้วย AI",
       "summary_th": "Joi AI จ้างคน 10 คนมาช่วยตัวเองโดยใช้เพื่อนร่วมทาง AI ซึ่งเป็นส่วนหนึ่งของการศึกษาเรื่อง \"สุขภาพ\" เป็นเวลาหนึ่งเดือน บริษัทอ้างว่าการปฏิบัติดังกล่าวสามารถช่วย “แก้ปัญหาความเหงาของผู้ชายได้”"
     },
     {
@@ -229,18 +241,6 @@
       "published": "Fri, 14 Aug 2026 10:31:00 +0000",
       "title_th": "เคสและอุปกรณ์เสริม Pixel 10 ที่ดีที่สุด (2026): Mous, dbrand, Bellroy",
       "summary_th": "ปกป้อง Pixel 10a, Pixel 10 หรือ Pixel 10 Pro XL ของคุณด้วยเคสโทรศัพท์ ฟิล์มกันรอยหน้าจอ และที่ชาร์จ Qi2 ที่ผ่านการทดสอบแล้ว"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
-      "summary_en": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
-      "image": "https://media.wired.com/photos/6a7a320341c2687d2f60b612/master/pass/Humans-Are-Marrying-Chatbots-Culture-AB12034.jpg",
-      "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
-      "published": "Fri, 14 Aug 2026 10:15:00 +0000",
-      "title_th": "ผู้คนกำลัง 'แต่งงาน' Chatbots ผู้บัญญัติกฎหมายเหล่านี้ต้องการหยุดพวกเขา",
-      "summary_th": "ปัจจุบันการแต่งงานระหว่างมนุษย์กับ AI ไม่ได้รับการยอมรับตามกฎหมายของสหรัฐอเมริกา ผู้กำหนดนโยบายของรัฐของพรรครีพับลิกันบางคนกำลังร่างกฎหมายเพื่อให้เป็นเช่นนั้น"
     },
     {
       "source": "MIT Technology Review",
@@ -360,7 +360,7 @@
       "link": "https://www.engadget.com/2236717/cloud-storage-great-until-vendor-goes-out-of-business-nine-pbs/",
       "published": "Thu, 13 Aug 2026 22:04:16 +0000",
       "title_th": "ที่เก็บข้อมูลบนคลาวด์นั้นใช้งานได้ดีจนกว่าผู้ขายของคุณจะเลิกกิจการ",
-      "summary_th": "สถานี PBS ในเมืองเซนต์หลุยส์กำลังฟ้องร้องผู้ให้บริการศูนย์ข้อมูลเพื่อช่วยเหลือไฟล์เก็บถาวรที่มีอายุ 70 ​​ปี"
+      "summary_th": "สถานี PBS ในเมือง St. Louis กำลังฟ้องร้องผู้ให้บริการศูนย์ข้อมูลเพื่อช่วยเหลือไฟล์เก็บถาวรที่มีอายุ 70 ​​ปี"
     },
     {
       "source": "IEEE Spectrum",
@@ -426,121 +426,169 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "My DIY iPhone camera mod looks absurd but is great to use",
-      "summary_en": "I fully acknowledge that my DIY iPhone camera mod looks exceedingly silly – but it’s actually made my iPhone photography more practical and more enjoyable. It was initially something I came up with to solve a problem for one particular video shoot, but I’ve actually found myself using it a surprising number of times …",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/My-DIY-iPhone-camera-mod-looks-absurd-but-is-great-to-use.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/14/my-diy-iphone-camera-mod-looks-absurd-but-is-great-to-use/",
-      "published": "Fri, 14 Aug 2026 12:12:30 +0000",
-      "title_th": "ตัวดัดแปลงกล้อง DIY iPhone ของฉันดูไร้สาระ แต่ใช้งานได้ดี",
-      "summary_th": "ฉันรับทราบอย่างเต็มที่ว่าม็อดกล้อง DIY iPhone ของฉันดูไร้สาระมาก แต่จริงๆ แล้วทำให้การถ่ายภาพด้วย iPhone ของฉันใช้งานได้จริงและสนุกสนานยิ่งขึ้น ในตอนแรก มันเป็นสิ่งที่ฉันคิดขึ้นมาเพื่อแก้ไขปัญหาสำหรับการถ่ายวิดีโอรายการใดรายการหนึ่ง แต่จริงๆ แล้วฉันพบว่าตัวเองใช้มันหลายครั้งอย่างน่าประหลาดใจ …"
+      "title_en": "New Apple Watch models launch next month, here’s what’s coming",
+      "summary_en": "September brings Apple’s big iPhone launch event , where new Apple Watch models will be introduced too. Here’s what to expect from Apple Watch Ultra 4 and Apple Watch Series 12.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ultra-3-4-green.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/14/new-apple-watch-models-launch-next-month-heres-whats-coming/",
+      "published": "Fri, 14 Aug 2026 15:32:42 +0000",
+      "title_th": "Apple Watch รุ่นใหม่จะเปิดตัวในเดือนหน้า นี่คือสิ่งที่จะเกิดขึ้น",
+      "summary_th": "กันยายนถือเป็นงานเปิดตัว iPhone ครั้งใหญ่ของ Apple โดยจะมีการเปิดตัว Apple Watch รุ่นใหม่ด้วย นี่คือสิ่งที่คาดหวังจาก Apple Watch Ultra 4 และ Apple Watch Series 12"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple seeks settlement talks with Epic Games in new court filing",
-      "summary_en": "In addition to submitting its proposed commission structure for purchases made outside the App Store’s IAP system in the US, Apple filed a motion indicating it is willing to explore a settlement with Epic Games. Here are the details.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/epic-app-store.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/13/apple-seeks-settlement-talks-with-epic-games-in-new-court-filing/",
-      "published": "Fri, 14 Aug 2026 01:39:07 +0000",
-      "title_th": "Apple พยายามเจรจายุติข้อตกลงกับ Epic Games ในการยื่นฟ้องต่อศาลครั้งใหม่",
-      "summary_th": "นอกเหนือจากการส่งโครงสร้างค่าคอมมิชชันที่เสนอสำหรับการซื้อที่ทำนอกระบบ IAP ของ App Store ในสหรัฐอเมริกาแล้ว Apple ยังยื่นคำร้องโดยระบุว่ายินดีที่จะสำรวจข้อตกลงกับ Epic Games นี่คือรายละเอียด"
+      "title_en": "tvOS 27 could push you to upgrade to new Apple TV 4K",
+      "summary_en": "tvOS 27 is coming next month as the next software version for Apple TV owners. And for two reasons, the update could push you to upgrade to a new Apple TV 4K.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/tvos-27-apple-tv-4k-fi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/14/tvos-27-could-push-you-to-upgrade-to-new-apple-tv-4k/",
+      "published": "Fri, 14 Aug 2026 14:21:31 +0000",
+      "title_th": "tvOS 27 สามารถผลักดันให้คุณอัปเกรดเป็น Apple TV 4K ใหม่ได้",
+      "summary_th": "tvOS 27 จะมาในเดือนหน้าในฐานะซอฟต์แวร์เวอร์ชันถัดไปสำหรับเจ้าของ Apple TV และด้วยเหตุผลสองประการ การอัปเดตอาจผลักดันให้คุณอัปเกรดเป็น Apple TV 4K ใหม่"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple sends fresh wave of mercenary spyware warnings worldwide",
-      "summary_en": "Apple has notified users in 110 countries who it suspects may have been targeted by spyware attacks. Here are the details.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-mercenary-notification.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/13/apple-sends-fresh-wave-of-mercenary-spyware-warnings-worldwide/",
-      "published": "Fri, 14 Aug 2026 00:54:31 +0000",
-      "title_th": "Apple ส่งคำเตือนสปายแวร์ทหารรับจ้างรอบใหม่ทั่วโลก",
-      "summary_th": "Apple ได้แจ้งเตือนผู้ใช้ใน 110 ประเทศที่สงสัยว่าอาจถูกโจมตีด้วยสปายแวร์ นี่คือรายละเอียด"
+      "title_en": "Apple’s China AI strategy now includes training its own custom model, per report",
+      "summary_en": "Apple is reportedly taking a new route to bring artificial intelligence features to customers in China: training a large language model of its own with help from Alibaba.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/14/apples-china-ai-strategy-now-includes-training-its-own-custom-model-per-report/",
+      "published": "Fri, 14 Aug 2026 14:11:02 +0000",
+      "title_th": "ขณะนี้กลยุทธ์ China AI ของ Apple ได้รวมการฝึกอบรมโมเดลแบบกำหนดเองของตัวเองตามรายงาน",
+      "summary_th": "มีรายงานว่า Apple กำลังใช้เส้นทางใหม่เพื่อนำฟีเจอร์ปัญญาประดิษฐ์มาสู่ลูกค้าในประเทศจีน: ฝึกอบรมโมเดลภาษาขนาดใหญ่ของตัวเองด้วยความช่วยเหลือจากอาลีบาบา"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "9to5Mac Daily: August 13, 2026 – MacBook Air shortages, iPhone Ultra launch rumors",
-      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily .",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/13/daily-august-13-2026/",
-      "published": "Thu, 13 Aug 2026 22:42:23 +0000",
-      "title_th": "9to5Mac Daily: 13 สิงหาคม 2026 – MacBook Air ขาดแคลน, ข่าวลือการเปิดตัว iPhone Ultra",
-      "summary_th": "ฟังสรุปเรื่องเด่นประจำวันจาก 9to5Mac 9to5Mac Daily มีให้บริการบน iTunes และแอป Podcasts ของ Apple , Stitcher , TuneIn , Google Play หรือผ่านทางฟีด RSS เฉพาะของเราสำหรับ Overcast และเครื่องเล่นพอดแคสต์อื่นๆ สนับสนุนโดย Backblaze : การสำรองข้อมูลที่คุณวางใจได้ ประหยัด 20% ด้วยรหัส 9to5daily"
+      "title_en": "Apple Maps opens ad booking for businesses, promotional offer available",
+      "summary_en": "Ads are coming to Apple Maps soon in the US and Canada, and today businesses can start booking their own ads. Here are the details, including a limited-time promotional offer for businesses.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/wwdc-2025-13.31.12.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/14/apple-maps-opens-ad-booking-for-businesses-promotional-offer-available/",
+      "published": "Fri, 14 Aug 2026 13:49:45 +0000",
+      "title_th": "Apple Maps เปิดการจองโฆษณาสำหรับธุรกิจ พร้อมข้อเสนอโปรโมชัน",
+      "summary_th": "โฆษณาจะมาใน Apple Maps ในสหรัฐอเมริกาและแคนาดาเร็วๆ นี้ และปัจจุบันธุรกิจต่างๆ ก็เริ่มจองโฆษณาของตนเองได้แล้ว ต่อไปนี้เป็นรายละเอียด รวมถึงข้อเสนอโปรโมชันแบบจำกัดเวลาสำหรับธุรกิจ"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple proposes commissions of up to 15% for off-App Store purchases in the US [U]",
-      "summary_en": "Apple has submitted its proposal for the fees it should be allowed to charge for purchases made outside of the App Store system in the Epic Games case . Here are the details.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/app-store.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/13/apple-proposes-commissions-of-up-to-15-for-off-app-store-purchases-in-the-us/",
-      "published": "Thu, 13 Aug 2026 22:05:00 +0000",
-      "title_th": "Apple เสนอคอมมิชชั่นสูงสุด 15% สำหรับการซื้อนอก App Store ในสหรัฐอเมริกา [U]",
-      "summary_th": "Apple ได้ส่งข้อเสนอเกี่ยวกับค่าธรรมเนียมที่ควรได้รับอนุญาตให้เรียกเก็บสำหรับการซื้อที่ทำนอกระบบ App Store ในกรณีของ Epic Games นี่คือรายละเอียด"
+      "title_en": "SpaceXAI completes its Cursor acquisition following Grok Bot and Grok 4.6 release",
+      "summary_en": "When SpaceX isn’t landing rockets, it’s apparently landing AI company deals. In February, the firm behind Starlink absorbed xAI , which includes Twitter-turned-X. In April, SpaceX inked a deal with Cursor, a competitor to Claude Code and OpenAI’s Codex. As of August 14, the purchase has been completed. SpaceXAI, as it’s now called, also recently released Grok Bot and Grok 4.6 models with the help of Cursor.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/cursor-spacex.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/14/spacex-lands-deal-to-likely-purchase-claude-code-and-openai-codex-competitor/",
+      "published": "Fri, 14 Aug 2026 13:41:47 +0000",
+      "title_th": "SpaceXAI เสร็จสิ้นการเข้าซื้อกิจการ Cursor หลังจากเปิดตัว Grok Bot และ Grok 4.6",
+      "summary_th": "เมื่อ SpaceX ไม่ได้ลงจอดจรวด ดูเหมือนว่าจะลงจอดข้อตกลงของบริษัท AI ในเดือนกุมภาพันธ์ บริษัทที่อยู่เบื้องหลัง Starlink ได้ดูดซับ xAI ซึ่งรวมถึง Twitter ที่กลายเป็น X ในเดือนเมษายน SpaceX ลงนามข้อตกลงกับ Cursor ซึ่งเป็นคู่แข่งของ Claude Code และ Codex ของ OpenAI ณ วันที่ 14 สิงหาคม การซื้อเสร็จสมบูรณ์แล้ว SpaceXAI ดังที่เรียกกันในปัจจุบัน เพิ่งเปิดตัวรุ่น Grok Bot และ Grok 4.6 ด้วยความช่วยเหลือของ Cursor"
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Google has another Pixel 11 discount for up to $175 off, here’s where to find it",
-      "summary_en": "Following a collection of discount codes that were sent out ahead of the Pixel 11 launch this week, Google has another discount code worth up to $175 hidden just beneath the surface.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-pro-gold-side.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/14/google-play-pixel-11-discount/",
-      "published": "Fri, 14 Aug 2026 12:30:00 +0000",
-      "title_th": "Google มีส่วนลด Pixel 11 อีกสูงสุดถึง $ 175 ค้นหาได้ที่ไหน",
-      "summary_th": "หลังจากชุดรหัสส่วนลดที่ถูกส่งออกไปก่อนการเปิดตัว Pixel 11 ในสัปดาห์นี้ Google มีรหัสส่วนลดอีกรหัสมูลค่าสูงถึง $ 175 ซ่อนอยู่ใต้พื้นผิว"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "review",
-      "title_en": "Google Meet rolling out ‘Take Notes’ for in-person meetings on Android, web, & iOS",
-      "summary_en": "As previewed in April, Google Meet’s “Take Notes for me” feature can now work for in-person meetings. This Gemini-powered feature...",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/google-meet-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/13/google-meet-take-notes-in-person/",
-      "published": "Thu, 13 Aug 2026 22:40:42 +0000",
-      "title_th": "Google Meet เปิดตัว \"จดบันทึก\" สำหรับการประชุมแบบต่อหน้าบน Android, เว็บ และ iOS",
-      "summary_th": "ตามที่แสดงตัวอย่างในเดือนเมษายน ฟีเจอร์ \"จดบันทึกให้ฉัน\" ของ Google Meet ใช้ได้กับการประชุมแบบต่อหน้าแล้ว คุณสมบัติที่ขับเคลื่อนโดยราศีเมถุนนี้..."
+      "title_en": "Gemini app gets 3.7 Flash & setting to turn off corner media watermarks",
+      "summary_en": "When Gemini 3.7 Flash launched yesterday morning , Google said it was just powering the Spark agent in the Gemini app. The updated model is now available for chats.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Gemini-3.7-Flash-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/14/gemini-app-3-7-flash/",
+      "published": "Fri, 14 Aug 2026 15:31:00 +0000",
+      "title_th": "แอป Gemini ได้รับแฟลช 3.7 และการตั้งค่าเพื่อปิดลายน้ำสื่อที่มุม",
+      "summary_th": "เมื่อ Gemini 3.7 Flash เปิดตัวเมื่อเช้าวานนี้ Google กล่าวว่าเป็นเพียงการขับเคลื่อนตัวแทน Spark ในแอป Gemini โมเดลที่อัปเดตพร้อมให้ใช้งานสำหรับการแชทแล้ว"
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Pixel 11’s Gboard Rambler is prompt-based, rather than real-time",
-      "summary_en": "Gboard Rambler is likely the flagship Gemini Intelligence feature on the Pixel 11 series, but it’s not the real-time transcription you expect.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/13/gboard-rambler-prompt/",
-      "published": "Thu, 13 Aug 2026 20:41:13 +0000",
-      "title_th": "Gboard Rambler ของ Pixel 11 เป็นแบบรวดเร็วมากกว่าแบบเรียลไทม์",
-      "summary_th": "Gboard Rambler น่าจะเป็นฟีเจอร์หลักของ Gemini Intelligence ในซีรีส์ Pixel 11 แต่ไม่ใช่การถอดเสียงแบบเรียลไทม์ที่คุณคาดหวัง"
+      "title_en": "Google’s best Pixel case in years still isn’t good enough to forget the fabric ones [Gallery]",
+      "summary_en": "One of my favorite things about the first few generations of Pixel were Google’s official cases, but that’s not been true in recent years. This year brings Google’s best official Pixel case in years (and it’s worst), but I just can’t stop yearning for what was lost.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Fold-in-green-case.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/14/google-pixel-11-cases-opinion/",
+      "published": "Fri, 14 Aug 2026 15:30:00 +0000",
+      "title_th": "เคส Pixel ที่ดีที่สุดของ Google ในรอบหลายปียังไม่ดีพอที่จะลืมเนื้อผ้า [แกลเลอรี]",
+      "summary_th": "หนึ่งในสิ่งที่ฉันชอบเกี่ยวกับ Pixel รุ่นแรกๆ คือคดีอย่างเป็นทางการของ Google แต่นั่นไม่เป็นความจริงในช่วงไม่กี่ปีที่ผ่านมา ปีนี้นำเสนอเคส Pixel อย่างเป็นทางการที่ดีที่สุดของ Google ในรอบหลายปี (และแย่ที่สุด) แต่ฉันไม่สามารถหยุดโหยหาสิ่งที่สูญเสียไปได้"
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Samsung reportedly abandons plans to give the Galaxy S27 a variable-aperture camera",
-      "summary_en": "Another one bites the dust: Early rumors of the Galaxy S27 reviving Samsung’s variable-aperture camera seem to falling short, as the company is already seemingly repeating last year’s cycle.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/S26-Ultra-camera.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/13/samsung-galaxy-s27-variable-aperture-camera-report/",
-      "published": "Thu, 13 Aug 2026 20:15:00 +0000",
-      "title_th": "มีรายงานว่า Samsung ละทิ้งแผนการที่จะให้ Galaxy S27 เป็นกล้องที่มีรูรับแสงแบบปรับได้",
-      "summary_th": "อีกเรื่องหนึ่งกัดฝุ่น: ข่าวลือในช่วงต้นของ Galaxy S27 ที่ทำให้กล้องรูรับแสงแบบแปรผันของ Samsung ฟื้นคืนชีพดูเหมือนจะไม่เพียงพอ เนื่องจาก บริษัท ดูเหมือนจะทำซ้ำรอบปีที่แล้ว"
+      "title_en": "Deals: Pixel 11 Pro XL extra $150 off + $200 credit, FREE Google Home Speaker offer, Legion Tab all-time low, more",
+      "summary_en": "The Pixel 11, 11 Pro, 11 Pro XL, and 11 Pro Fold pre-order deals continue as we approach the weekend, but only can you score a Pixel 11 Pro XL using code PIXEL11 at checkout. This straight up cash deal stacks with the $200 gift card and enhanced trade-in values as well. Alongside the 20% price drop s on Google’s new Pixel 11 Pixelsnap cases , we still have giant discount on the Google Nest Doorbell (Wired, 3rd Gen) at just $58 and Lenovo’s flagship Legion gaming tablet with Snapdragon 8 Elite hitting its best price yet at $219 off . Scope it all out below.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/9to5Google-Aug-14-2.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/14/deals-pixel-11-free-google-home-speaker-legion-tab/",
+      "published": "Fri, 14 Aug 2026 15:21:29 +0000",
+      "title_th": "ข้อเสนอ: Pixel 11 Pro XL พิเศษลด $150 + เครดิต $200, ข้อเสนอ Google Home Speaker ฟรี, Legion Tab ราคาถูกตลอดกาล และอื่นๆ อีกมากมาย",
+      "summary_th": "ข้อเสนอการสั่งซื้อล่วงหน้า Pixel 11, 11 Pro, 11 Pro XL และ 11 Pro Fold ยังคงดำเนินต่อไปเมื่อเราเข้าใกล้สุดสัปดาห์ แต่มีเพียงคุณเท่านั้นที่ให้คะแนน Pixel 11 Pro XL โดยใช้รหัส PIXEL11 เมื่อชำระเงิน ข้อตกลงเงินสดแบบตรงไปตรงมานี้มาพร้อมกับบัตรของขวัญมูลค่า 200 ดอลลาร์และมูลค่าการแลกเปลี่ยนที่เพิ่มขึ้นเช่นกัน นอกเหนือจากการลดราคา 20% สำหรับเคส Pixel 11 Pixelsnap ใหม่ของ Google เรายังมีส่วนลดมหาศาลสำหรับ Google Nest Doorbell (แบบใช้สาย, รุ่นที่ 3) ในราคาเพียง $ 58 และแท็บเล็ตเกม Legion เรือธงของ Lenovo พร้อม Snapdragon 8 Elite ในราคาที่ดีที่สุด แต่ลด $ 219 ขอบเขตทั้งหมดออกด้านล่าง"
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "NVIDIA GeForce NOW is high-end gaming everywhere without a headache [Video]",
-      "summary_en": "Building or upgrading a gaming PC right now in mid-2026 can be challenging. Component shortages have pushed RAM and storage prices higher, and getting the latest high-performance GPU can require an investment.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/007-First-Light-gameplay-GeForce-NOW-on-Z-Fold-8.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/13/nvidia-geforce-now-high-end-gaming-everywhere-without-headache-video/",
-      "published": "Thu, 13 Aug 2026 19:46:52 +0000",
-      "title_th": "NVIDIA GeForce ตอนนี้เป็นเกมระดับไฮเอนด์ทุกที่โดยไม่ต้องปวดหัว [วิดีโอ]",
-      "summary_th": "การสร้างหรืออัปเกรดพีซีสำหรับเล่นเกมตั้งแต่ตอนนี้ในช่วงกลางปี ​​2026 อาจเป็นเรื่องที่ท้าทาย การขาดแคลนส่วนประกอบทำให้ราคา RAM และพื้นที่จัดเก็บข้อมูลสูงขึ้น และการได้ GPU ประสิทธิภาพสูงรุ่นล่าสุดอาจต้องใช้เงินลงทุน"
+      "title_en": "Pixel 11 tidbits: The key details you should know about Google’s latest phones",
+      "summary_en": "While not as major of a release as most years, Google’s Pixel 11 devices bring a lot of new things to the table, including some little details you might have missed during the event or on the store page. Here are some key details we think you should know about.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-family-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/14/google-pixel-11-tidbits-details/",
+      "published": "Fri, 14 Aug 2026 14:30:00 +0000",
+      "title_th": "เคล็ดลับของ Pixel 11: รายละเอียดสำคัญที่คุณควรรู้เกี่ยวกับโทรศัพท์รุ่นล่าสุดของ Google",
+      "summary_th": "แม้ว่าจะไม่ได้ออกวางจำหน่ายบ่อยเท่าหลายปีที่ผ่านมา แต่อุปกรณ์ Pixel 11 ของ Google ก็นำสิ่งใหม่ ๆ มากมายมาสู่โต๊ะ รวมถึงรายละเอียดเล็ก ๆ น้อย ๆ ที่คุณอาจพลาดไปในระหว่างงานหรือบนหน้าร้าน นี่คือรายละเอียดสำคัญบางส่วนที่เราคิดว่าคุณควรรู้"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Google will make rival Android app stores easier to find after judge says process is ‘not acceptable’ yet",
+      "summary_en": "Following the arrival of third-party Android app stores on Google Play earlier this week, a judge in Google’s ongoing court battle has said that the current state is “not acceptable,” and Google will make changes as a result.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/04/Google-Play-Store-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/14/google-play-third-party-android-app-stores-changes-judge/",
+      "published": "Fri, 14 Aug 2026 13:25:00 +0000",
+      "title_th": "Google จะทำให้ร้านค้าแอป Android ของคู่แข่งค้นหาได้ง่ายขึ้น หลังจากที่ผู้พิพากษากล่าวว่ากระบวนการยังไม่เป็นที่ยอมรับ",
+      "summary_th": "หลังจากการมาถึงของร้านค้าแอพ Android บุคคลที่สามบน Google Play เมื่อต้นสัปดาห์นี้ ผู้พิพากษาในการต่อสู้ในศาลของ Google ได้กล่าวว่าสถานะปัจจุบัน“ ไม่ยอมรับ” และ Google จะทำการเปลี่ยนแปลงตามผลที่ตามมา"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Lucid launches ‘America’s most powerful 3-row SUV’ with over 1,000 hp [Images]",
+      "summary_en": "Lucid Motors (LCID) introduced the Gravity GT-S, calling it “America’s most powerful three-row SUV” with over 1,000 horsepower.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Lucid-Gravity-GT-S-images-rear.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/14/lucid-launches-americas-most-powerful-3-row-suv-1000-hp/",
+      "published": "Fri, 14 Aug 2026 14:36:53 +0000",
+      "title_th": "Lucid เปิดตัว 'SUV 3 แถวที่ทรงพลังที่สุดในอเมริกา' ด้วยกำลังมากกว่า 1,000 แรงม้า [ภาพ]",
+      "summary_th": "Lucid Motors (LCID) เปิดตัว Gravity GT-S โดยเรียกมันว่า \"รถ SUV สามแถวที่ทรงพลังที่สุดในอเมริกา\" ด้วยกำลังมากกว่า 1,000 แรงม้า"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Ferrari CZ26: what if the Luce had a baby with a SF90",
+      "summary_en": "Ferrari rolled out a new one-off at Monterey called the CZ26, and the face of it looks a lot like the brand’s first electric car. Underneath, it’s an SF90 Stradale plug-in hybrid with a 7.9 kWh battery and 25 km of electric range. So Ferrari built something that wears the Luce’s design language on top of a twin-turbo V8. Basically, what you’d get if the Luce and the SF90 had a baby.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Ferrari-CZ26-hero.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/14/ferrari-cz26-one-off-luce-design-sf90-hybrid/",
+      "published": "Fri, 14 Aug 2026 14:13:01 +0000",
+      "title_th": "Ferrari CZ26: จะเป็นอย่างไรถ้า Luce มีลูกที่มี SF90",
+      "summary_th": "Ferrari เปิดตัวรถรุ่นใหม่ที่ Monterey เรียกว่า CZ26 และหน้าตาของรถดูเหมือนรถยนต์ไฟฟ้าคันแรกของแบรนด์มาก ด้านใต้เป็นปลั๊กอินไฮบริด SF90 Stradale พร้อมแบตเตอรี่ 7.9 กิโลวัตต์ชั่วโมง และวิ่งด้วยพลังงานไฟฟ้าได้ 25 กม. เฟอร์รารีจึงสร้างบางสิ่งที่สวมภาษาการออกแบบของ Luce ไว้บนเครื่องยนต์ V8 เทอร์โบคู่ โดยพื้นฐานแล้ว สิ่งที่คุณจะได้หาก Luce และ SF90 มีลูก"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "The draconian New Jersey e-bike laws had exactly the effect everyone feared",
+      "summary_en": "When New Jersey passed one of the country’s most restrictive e-bike laws earlier this year, plenty of riders, advocates, and bike shops warned that it would have consequences. Now, just a few weeks after the law officially took effect, those predictions appear to have come true.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/segway-xyber-air-cute-girl-e-bike-header-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/14/the-draconian-new-jersey-e-bike-laws-had-exactly-the-effect-everyone-feared/",
+      "published": "Fri, 14 Aug 2026 13:42:00 +0000",
+      "title_th": "กฎหมาย e-bike ที่เข้มงวดของรัฐนิวเจอร์ซีย์มีผลกระทบที่ทุกคนกลัวอย่างแน่นอน",
+      "summary_th": "เมื่อรัฐนิวเจอร์ซีย์ผ่านกฎหมาย e-bike ที่เข้มงวดที่สุดแห่งหนึ่งของประเทศเมื่อต้นปีที่ผ่านมา นักปั่น ผู้สนับสนุน และร้านขายจักรยานจำนวนมากเตือนว่าจะมีผลกระทบที่ตามมา เพียงไม่กี่สัปดาห์หลังจากที่กฎหมายมีผลบังคับใช้อย่างเป็นทางการ การคาดการณ์เหล่านั้นก็ดูเหมือนจะเป็นจริง"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Wheel-E Podcast: Rivan bike coming, ‘free’ e-bikes, more",
+      "summary_en": "This week on Electrek ’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes new e-bikes from Urban Arrow and Aniioki, Rivian’s ALSO bike is almost here, Colorado’s wild “free e-bike” saga, NYC wants fast e-bikes gone, Paris wants to paint scooter riders yellow, HMP Lightning Mk.II electric scooter, and more.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/14/wheel-e-podcast-rivan-bike-coming-free-e-bikes-more/",
+      "published": "Fri, 14 Aug 2026 12:34:37 +0000",
+      "title_th": "Wheel-E Podcast: จักรยาน Rivan กำลังมา e-bikes 'ฟรี' และอีกมากมาย",
+      "summary_th": "สัปดาห์นี้ในพอดแคสต์ Wheel-E ของ Electrek เราจะพูดถึงเรื่องราวข่าวยอดนิยมจากโลกของจักรยานไฟฟ้าและยานพาหนะไฟฟ้าที่ไม่ใช่แบบดั้งเดิมอื่น ๆ คราวนี้ ซึ่งรวมถึง e-bikes ใหม่จาก Urban Arrow และ Aniioki, จักรยาน ALSO ของ Rivian ใกล้จะมาถึงแล้ว, ตำนาน \"e-bike ฟรี\" สุดมันส์ของโคโลราโด, NYC ต้องการให้ e-bikes หมดเร็ว, Paris ต้องการทาสีเหลืองให้กับนักขี่สกู๊ตเตอร์, สกู๊ตเตอร์ไฟฟ้า HMP Lightning Mk.II และอื่นๆ อีกมากมาย"
     },
     {
       "source": "Electrek",
@@ -553,54 +601,6 @@
       "published": "Thu, 13 Aug 2026 22:33:18 +0000",
       "title_th": "รถดับเพลิงเครื่องบินไฟฟ้านี้เร่งความเร็วได้ 50 ไมล์ต่อชั่วโมงภายใน 20 วินาที",
       "summary_th": "รถดับเพลิงไฟฟ้าสำหรับเครื่องบิน “คันแรกของโลก” ปัจจุบันมีเครื่องชาร์จแบบเร็วขนาด 400 กิโลวัตต์ เพื่อเตรียมพร้อมสำหรับเหตุฉุกเฉินที่สนามบินดัลลัส เลิฟ ฟิลด์"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Kia sold over 8,000 EV2s in just 3 months",
-      "summary_en": "Kia’s entry-level electric SUV is already making a name for itself. In its first three full months, Kia sold over 8,000 EV2s as full-scale sales begin.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Kia-EV2-sales-first-months.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/13/kia-sold-over-8000-ev2s-3-months/",
-      "published": "Thu, 13 Aug 2026 21:30:50 +0000",
-      "title_th": "Kia ขาย EV2 ได้มากกว่า 8,000 คันในเวลาเพียง 3 เดือน",
-      "summary_th": "SUV ไฟฟ้าระดับเริ่มต้นของ Kia กำลังสร้างชื่อให้กับตัวเองแล้ว ในช่วงสามเดือนแรกเต็ม Kia ขายได้มากกว่า 8,000 EV2 เมื่อยอดขายเต็มรูปแบบเริ่มต้นขึ้น"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Ford recalls nearly 90,000 Mustang Mach-E EVs because part of the trim can fall off",
-      "summary_en": "Ford is recalling 86,543 Mustang Mach-E models because a piece of glass trim on the rear side could fall off while driving.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/06/Fords-EV-sales-May-2025.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/13/ford-recalling-nearly-90000-mustang-mach-e-evs/",
-      "published": "Thu, 13 Aug 2026 19:44:23 +0000",
-      "title_th": "Ford เรียกคืน Mustang Mach-E EV เกือบ 90,000 คัน เนื่องจากชิ้นส่วนบางส่วนอาจหลุดออกมาได้",
-      "summary_th": "Ford กำลังเรียกคืนรถ Mustang Mach-E จำนวน 86,543 คัน เนื่องจากกระจกด้านหลังอาจหลุดร่วงขณะขับรถได้"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Tesla pays Musk 2.5 million times more than average worker, even as profits drop",
-      "summary_en": "A new report shows Elon Musk as the highest-compensated CEO, making as much money as 2,522,203 average Tesla workers in 2025. This happened as the Tesla CEO presided over a significant drop in profits which he was largely personally responsible for.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/05/Elon-Musk-Game-of-Thrones-FI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/13/musk-paid-2-5m-times-more-than-average-tesla-worker-despite-dropping-profits/",
-      "published": "Thu, 13 Aug 2026 19:42:26 +0000",
-      "title_th": "Tesla จ่ายเงินให้ Musk มากกว่าพนักงานทั่วไปถึง 2.5 ล้านเท่า แม้ว่าผลกำไรจะลดลงก็ตาม",
-      "summary_th": "รายงานใหม่แสดงให้เห็นว่า Elon Musk เป็น CEO ที่ได้รับค่าตอบแทนสูงสุด โดยสร้างรายได้ได้มากเท่ากับพนักงาน Tesla โดยเฉลี่ย 2,522,203 คนในปี 2025 เหตุการณ์นี้เกิดขึ้นเมื่อ CEO ของ Tesla เป็นประธานในการลดผลกำไรลงอย่างมากซึ่งเขาต้องรับผิดชอบเป็นการส่วนตัวเป็นส่วนใหญ่"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Jackery sale with bonus savings drops new HomePower 3600 Pro Max power station to $1,832, Velotric e-bike low, tools, more",
-      "summary_en": "Our Thursday Green Deals headliner is the newly launched Jackery Power Outage Sale . It is offering up to $1,500 initial discounts on power stations alongside three tiers of bonus savings for orders of $1,500 and more, like the new HomePower 3600 Pro Max Portable Power Station down at $1,832 , while other deals start from $199. We also spotted B&H undercutting Jackery’s sale on the Explorer 300D Compact Portable Power Station for $169 . From there, the Velotric Discover 2 Comfort Commuter e-bike is back at a $1,699 low , the Govee Matter Outdoor Lamp Post has gotten a 50% discount to its all-time lowest price, and we have the lowest and second-lowest prices of the year for Worx’s 13A 2,200 PSI Electric Pressure Washer and Greenworks’ 80V 18-inch Electric Chainsaw, and more. Of course, that",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Jackery-Velotric-Govee-GDs-FI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/13/jackery-homepower-3600-pro-max-power-station-velotric-e-bike-more/",
-      "published": "Thu, 13 Aug 2026 18:00:00 +0000",
-      "title_th": "การขาย Jackery พร้อมส่วนลดโบนัสทำให้สถานีไฟฟ้า HomePower 3600 Pro Max ใหม่เหลือ 1,832 ดอลลาร์ Velotric e-bike ต่ำ เครื่องมือ และอื่นๆ อีกมากมาย",
-      "summary_th": "หัวข้อหลักข้อเสนอสีเขียวในวันพฤหัสบดีของเราคือการขาย Jackery Power Outage ที่เพิ่งเปิดตัว เสนอส่วนลดเริ่มต้นสูงสุดถึง 1,500 ดอลลาร์สำหรับโรงไฟฟ้า ควบคู่ไปกับการประหยัดโบนัส 3 ระดับสำหรับการสั่งซื้อ 1,500 ดอลลาร์ขึ้นไป เช่น HomePower 3600 Pro Max Portable Power Station ใหม่ ที่ 1,832 ดอลลาร์ ในขณะที่ข้อเสนออื่นๆ เริ่มต้นที่ 199 ดอลลาร์ นอกจากนี้เรายังพบว่า B&H ตัดราคาการขาย Jackery ในสถานีไฟฟ้าพกพาขนาดกะทัดรัด Explorer 300D ในราคา 169 ดอลลาร์ จากนั้น e-bike Velotric Discover 2 Comfort Commuter กลับมาที่ราคาต่ำสุดที่ 1,699 ดอลลาร์ Govee Matter Outdoor Lamp Post ได้รับส่วนลด 50% จากราคาต่ำสุดตลอดกาล และเรามีราคาต่ำสุดและต่ำสุดเป็นอันดับสองของปีสำหรับเครื่องฉีดน้ำแรงดันสูง 13A 2,200 PSI ของ Worx และเลื่อยไฟฟ้า 80V 18 นิ้วของ Greenworks และอีกมากมาย แน่นอนว่า"
     }
   ],
   "indices": [
@@ -608,57 +608,57 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 225.3,
-      "change": 1.21,
-      "change_pct": 0.54
+      "price": 224.76,
+      "change": -0.54,
+      "change_pct": -0.24
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 339.96,
-      "change": 12.45,
-      "change_pct": 3.8
+      "price": 337.8,
+      "change": -2.16,
+      "change_pct": -0.64
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 346.36,
-      "change": 2.82,
-      "change_pct": 0.82
+      "price": 345.22,
+      "change": -1.14,
+      "change_pct": -0.33
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 496.88,
-      "change": 4.45,
-      "change_pct": 0.9
+      "price": 498.52,
+      "change": 1.64,
+      "change_pct": 0.33
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 305.26,
-      "change": 3.01,
-      "change_pct": 1.0
+      "price": 305.75,
+      "change": 0.49,
+      "change_pct": 0.16
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 265.13,
-      "change": -2.15,
-      "change_pct": -0.8
+      "price": 263.72,
+      "change": -1.41,
+      "change_pct": -0.53
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 594.97,
-      "change": 16.12,
-      "change_pct": 2.78
+      "price": 594.34,
+      "change": -0.63,
+      "change_pct": -0.11
     },
     {
       "symbol": "DELTA.BK",
@@ -763,6 +763,16 @@
     {
       "channel": "Droidsans",
       "country": "TH",
+      "title_en": "สมาร์ตวอทช์ สายสุขภาพ น่าซื้อ งบเริ่มต้น 1,000 บาท | Garmin, Samsung, Huawei, Xiaomi, Polar, Amazfit",
+      "video_id": "00U3_9hOMbE",
+      "link": "https://www.youtube.com/watch?v=00U3_9hOMbE",
+      "thumbnail": "https://i1.ytimg.com/vi/00U3_9hOMbE/hqdefault.jpg",
+      "published": "2026-08-14T13:06:58+00:00",
+      "title_th": "สมาร์ตวอทช์ สายสุขภาพ น่าซื้อ งบเริ่มต้น 1,000 บาท | Garmin, Samsung, Huawei, Xiaomi, Polar, Amazfit"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
       "title_en": "สรุปเปิดตัว Google Pixel 11 ทุกรุ่น อัปเกรดใหม่ ไฟ HiLight ซูมไกล AI จัดเต็ม",
       "video_id": "zTq0D-FxEwE",
       "link": "https://www.youtube.com/watch?v=zTq0D-FxEwE",
@@ -779,16 +789,6 @@
       "thumbnail": "https://i2.ytimg.com/vi/u71PNWdp60A/hqdefault.jpg",
       "published": "2026-08-13T12:22:32+00:00",
       "title_th": "ไหนใครคิดถึง ? Nokia 215 4G 2nd Edition ถอดแบตได้ มีปุ่ม AI เล่นแอปโซเชียลได้ #Nokia #โนเกีย #มือถือ"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "รีวิว Insta360 X6 กล้อง 360 องศาตัวเดียวจบ ! ถ่าย 1 เทคเก็บครบทุกมุม",
-      "video_id": "llaouvXJkGY",
-      "link": "https://www.youtube.com/watch?v=llaouvXJkGY",
-      "thumbnail": "https://i1.ytimg.com/vi/llaouvXJkGY/hqdefault.jpg",
-      "published": "2026-08-12T13:00:07+00:00",
-      "title_th": "รีวิว Insta360 X6 กล้อง 360 องศาตัวเดียวจบ ! ถ่าย 1 เทคเก็บครบทุกมุม"
     }
   ]
 }
