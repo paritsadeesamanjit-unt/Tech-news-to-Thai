@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-13T21:35:41.200328+00:00",
+  "generated_at": "2026-08-14T00:51:34.454814+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+      "summary_en": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2202517874.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+      "published": "Thu, 13 Aug 2026 22:12:40 +0000",
+      "title_th": "นักลงทุนฟ้อง Selena Gomez ในข้อหาฉ้อโกงที่เกี่ยวข้องกับสตาร์ทอัพด้านสุขภาพจิตของเธอ",
+      "summary_th": "โจทก์กล่าวว่าพวกเขาลงทุนเกือบ 1.2 ล้านดอลลาร์ในบริษัท และกล่าวหาว่า Gomez ล้มเหลวในการสร้างและทำการตลาดสตาร์ทอัพ"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+      "summary_en": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799",
+      "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+      "published": "Thu, 13 Aug 2026 22:02:04 +0000",
+      "title_th": "Flock กล่าวว่าเครื่องมือใหม่จะช่วยระบุการละเมิดของตำรวจ แต่ไม่ได้อธิบายวิธีการทำงาน",
+      "summary_th": "บริษัทเฝ้าระวังประกาศว่ากำลังสร้างเครื่องมือที่เรียกว่า \"ความช่วยเหลือด้านการตรวจสอบ\" บังคับสำหรับลูกค้าทุกคน โดยอ้างว่าได้ช่วยตรวจจับการละเมิดแล้ว แต่บริษัทยังไม่ได้อธิบายวิธีการทำงานของเครื่องมือโดยละเอียด ทำให้เกิดคำถามเกี่ยวกับประสิทธิภาพของเครื่องมือ"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+      "summary_en": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/ios-notification-threat-apple-hero.jpg?resize=1200,814",
+      "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+      "published": "Thu, 13 Aug 2026 21:50:11 +0000",
+      "title_th": "หาก Apple ส่งการแจ้งเตือนแบบพุชถึงคุณเพื่อเตือนให้คุณทราบถึงการโจมตีของสปายแวร์ ให้ดำเนินการอย่างจริงจัง",
+      "summary_th": "ตอนนี้ Apple ส่งการแจ้งเตือนแบบพุชไปยังหน้าจอล็อคของ iPhone เมื่อบริษัทระบุสปายแวร์ของรัฐบาลที่กำหนดเป้าหมายไปที่อุปกรณ์ของใครบางคน"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -27,40 +63,40 @@
       "summary_th": "AI มีราคาแพง Ali Ghodsi กล่าวกับ TechCrunch เนื่องจากนักลงทุนจำนวนมากต้องการเข้าสู่รอบล่าสุดของเขา เขาจึงตอบตกลงมากกว่าที่วางแผนไว้"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "review",
-      "title_en": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "summary_en": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "published": "Thu, 13 Aug 2026 19:22:40 +0000",
-      "title_th": "OpenAI เปิดตัว 'Ultrafast' โหมดใหม่ที่ทำให้ GPT-5.6 Sol ทำงานเร็วขึ้น 14 เท่า",
-      "summary_th": "OpenAI กำลังเปิดตัวตัวอย่างเวอร์ชันเร่งความเร็วของโมเดลล่าสุดที่ทรงพลังที่สุด เพื่อพยายามฟ้องร้องผู้ใช้ระดับองค์กร"
+      "category": "software",
+      "title_en": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
+      "summary_en": "One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install rival app stores on Android. It's been nearly three years since a jury unanimously decided […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25047560/236883_Epic_Vs_Google_D_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
+      "published": "2026-08-13T17:53:04-04:00",
+      "title_th": "'นั่นไม่เป็นที่ยอมรับ': ผู้พิพากษาสั่งให้ Google ทำให้การติดตั้ง App Store ของคู่แข่งง่ายขึ้น",
+      "summary_th": "หนึ่งเดือนหลังจากที่ Epic Games และ Google ดูเหมือนจะหยุดต่อสู้เพื่ออนาคตของการเผยแพร่แอป Android วันนี้พวกเขากลับมาที่ห้องพิจารณาคดีในซานฟรานซิสโก ซึ่งผู้พิพากษา James Donato เพิ่งสั่งให้ Google ทำให้การติดตั้ง App Store ของคู่แข่งบน Android ง่ายขึ้น เป็นเวลาเกือบสามปีแล้วที่คณะลูกขุนมีมติเป็นเอกฉันท์ […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "IBM partners with OpenAI to bolster enterprise AI push",
-      "summary_en": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1127480719.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "published": "Thu, 13 Aug 2026 19:19:49 +0000",
-      "title_th": "IBM ร่วมมือกับ OpenAI เพื่อสนับสนุนการผลักดัน AI ระดับองค์กร",
-      "summary_th": "IBM วางแผนที่จะฝึกอบรมและรับรองที่ปรึกษาหลายหมื่นคนเกี่ยวกับเทคโนโลยีของ OpenAI ซึ่งเป็นส่วนหนึ่งของข้อตกลงนี้"
+      "category": "software",
+      "title_en": "The fight over Flock and other ALPRs",
+      "summary_en": "There are over 120,000 of Flock’s automatic license plate reader (ALPR) cameras installed all over the US. Flock’s cameras, and others like them, use AI to identify and track vehicles based on their license plate number, make, model, color, and other info, networked together to track vehicles and people’s movements throughout the day and across […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKS532_ALPRs_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "link": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
+      "published": "2026-08-13T17:46:21-04:00",
+      "title_th": "การต่อสู้เพื่อฝูงแกะและ ALPR อื่นๆ",
+      "summary_th": "มีกล้องอ่านป้ายทะเบียนอัตโนมัติ (ALPR) ของ Flock มากกว่า 120,000 เครื่องติดตั้งอยู่ทั่วสหรัฐอเมริกา กล้องของ Flock และบริษัทอื่นๆ ที่คล้ายคลึงกัน ใช้ AI เพื่อระบุและติดตามยานพาหนะตามหมายเลขป้ายทะเบียน ยี่ห้อ รุ่น สี และข้อมูลอื่นๆ ที่เชื่อมโยงเข้าด้วยกันเพื่อติดตามยานพาหนะและการเคลื่อนไหวของผู้คนตลอดทั้งวันและทั่วทั้ง […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "summary_en": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1354100261.jpg?resize=1200,600",
-      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "published": "Thu, 13 Aug 2026 18:28:14 +0000",
-      "title_th": "Anthropic ทำให้เจ้าหน้าที่ AI หลุดจากงานเดียวกัน พวกเขาเริ่มสงครามสนามหญ้า",
-      "summary_th": "นักวิจัยด้านมานุษยวิทยาพบว่าเจ้าหน้าที่ AI สามารถปะทะ สมรู้ร่วมคิด และประสานงานด้วยวิธีที่ไม่คาดคิด ทำให้เกิดคำถามใหม่ว่าการทดสอบความปลอดภัยในปัจจุบันจับความเสี่ยงของระบบหลายตัวแทนหรือไม่"
+      "category": "gadget",
+      "title_en": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+      "summary_en": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire. Mico launched in Copilot's voice mode last […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/mico-copilot.png?quality=90&strip=all&crop=0%2C0.79936424831713%2C100%2C98.401271503366&w=1200",
+      "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "published": "2026-08-13T17:42:38-04:00",
+      "title_th": "ตัวละคร Mico ที่เหมือน Clippy ของ Microsoft ไม่ใช่ใบหน้าของ Copilot อีกต่อไป",
+      "summary_th": "Microsoft Copilot จะไม่แสดง Mico ซึ่งเป็นหยดสีเหลืองแสดงอารมณ์อีกต่อไป เมื่อคุณใช้โหมดเสียงของแชทบอท ในหน้าสนับสนุน Microsoft กล่าวว่ากำลังจะย้าย Mico ไปยังแพลตฟอร์ม Learn Live ซึ่งอวตารจะมี \"การตอบสนองมากกว่า\" ตามที่รายงานก่อนหน้านี้โดย GeekWire Mico เปิดตัวในโหมดเสียงของ Copilot เมื่อ […]"
     },
     {
       "source": "The Verge",
@@ -85,42 +121,6 @@
       "published": "2026-08-13T15:28:39-04:00",
       "title_th": "OpenAI สูญเสียผู้บริหารคนที่สองในสัปดาห์นี้",
       "summary_th": "ผู้บริหาร OpenAI อีกคนกำลังจะลาออก Denise Dresser ซึ่งร่วมงานกับ OpenAI ในตำแหน่งประธานเจ้าหน้าที่ฝ่ายรายได้ในเดือนธันวาคมหลังจากดำรงตำแหน่ง CEO ของ Slack จะลาออกใน \"สัปดาห์หน้า\" เพื่อ \"ไล่ตามโอกาสอื่น ๆ\" เธอกล่าวในบันทึกของทีมที่โพสต์ใน LinkedIn Dali Rajic ประธานและ COO ของ Wiz จะเข้ารับตำแหน่ง […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "The Trump admin will start letting private firms launch international cyberattacks",
-      "summary_en": "The Trump administration is launching a new program that will allow private firms to perform cyberattacks against foreign criminals, as reported earlier by Bloomberg. The private firms would operate \"under the control and oversight\" of the federal government, giving them permission to surveil and disrupt criminal networks, according to a presidential memorandum published on Wednesday. […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318432/akrales_220309_4977_0079.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms",
-      "published": "2026-08-13T14:56:13-04:00",
-      "title_th": "ผู้ดูแลระบบของทรัมป์จะเริ่มปล่อยให้บริษัทเอกชนเปิดการโจมตีทางไซเบอร์ระหว่างประเทศ",
-      "summary_th": "ฝ่ายบริหารของทรัมป์กำลังเปิดตัวโปรแกรมใหม่ที่จะช่วยให้บริษัทเอกชนทำการโจมตีทางไซเบอร์ต่ออาชญากรต่างชาติ ตามที่รายงานโดย Bloomberg ก่อนหน้านี้ บริษัทเอกชนเหล่านี้จะดำเนินงาน \"ภายใต้การควบคุมและการกำกับดูแล\" ของรัฐบาลกลาง โดยอนุญาตให้พวกเขาสอดแนมและขัดขวางเครือข่ายอาชญากรรม ตามบันทึกของประธานาธิบดีที่เผยแพร่เมื่อวันพุธ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "I finally found a robot lawnmower I’d trust with my yard",
-      "summary_en": "Robot lawnmowers are finally good enough to take a lot of work out of maintaining a yard, but they’re still not set-it-and-forget-it machines. If you don’t want these autonomous cutting machines to tear up your lawn or go roaming in your neighbors’ yard, you’re still going to need to keep an eye on them. But […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268689_Robot_Lawnmower_JTuohy_0017.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
-      "published": "2026-08-13T14:30:00-04:00",
-      "title_th": "ในที่สุดฉันก็พบหุ่นยนต์ตัดหญ้าที่ฉันไว้วางใจในบ้านของฉัน",
-      "summary_th": "ในที่สุดหุ่นยนต์ตัดหญ้าก็ดีพอที่จะทำงานหนักในการดูแลสนามหญ้า แต่ก็ยังไม่ใช่เครื่องจักรที่เซ็ตแล้วลืมเลย หากคุณไม่ต้องการให้เครื่องตัดอัตโนมัติเหล่านี้ทำลายสนามหญ้าของคุณหรือออกไปเดินเล่นในสนามหญ้าของเพื่อนบ้าน คุณยังคงต้องคอยจับตาดูพวกมัน แต่ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "You can now just point at a mess and this robot vacuum will suck it up",
-      "summary_en": "Matic, my current favorite robot vacuum, just got a big upgrade. The company has launched Matic Cues, which brings voice and gesture control to the robot. Now, you can talk directly to your vacuum to tell it what you want it to do, or just point at a mess to have it spot-clean. The feature […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_8725.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-      "link": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
-      "published": "2026-08-13T14:00:00-04:00",
-      "title_th": "ตอนนี้คุณสามารถชี้ไปที่ความยุ่งเหยิงแล้วหุ่นยนต์ดูดฝุ่นก็จะดูดมันขึ้นมา",
-      "summary_th": "Matic หุ่นยนต์ดูดฝุ่นตัวโปรดของฉันในปัจจุบัน เพิ่งได้รับการอัปเกรดครั้งใหญ่ บริษัทได้เปิดตัว Matic Cues ซึ่งนำการควบคุมด้วยเสียงและท่าทางมาสู่หุ่นยนต์ ตอนนี้คุณสามารถพูดคุยกับเครื่องดูดฝุ่นของคุณได้โดยตรงเพื่อบอกว่าคุณต้องการให้ทำอะไร หรือเพียงชี้ไปที่สิ่งสกปรกเพื่อให้เครื่องดูดฝุ่นสะอาดหมดจด คุณสมบัติ […]"
     },
     {
       "source": "Ars Technica",
@@ -186,13 +186,25 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything",
+      "title_en": "The Safety Reckoning Inside OpenAI",
+      "summary_en": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
+      "image": "https://media.wired.com/photos/6a7d0965c82d9b74df554e1c/master/pass/Model-Behavior-OpenAI-Dangerous-AI-Business.jpg",
+      "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+      "published": "Thu, 13 Aug 2026 22:37:19 +0000",
+      "title_th": "การคำนวณความปลอดภัยภายใน OpenAI",
+      "summary_th": "การแฮ็กตัวแทนอันธพาลของ OpenAI เป็นช่วงเวลาสำคัญสำหรับความปลอดภัยของ AI และความปลอดภัยทางไซเบอร์ นอกจากนี้ยังจุดประกายคำถามภายในเกี่ยวกับวัฒนธรรมที่นำไปสู่สิ่งนี้"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
       "summary_en": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
       "image": "https://media.wired.com/photos/6a7cd92daf899556c1dfa8f2/master/pass/Uncanny-Valley-Zuckerberg-AI-manifesto-Business.jpg",
       "link": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
       "published": "Thu, 13 Aug 2026 21:14:43 +0000",
-      "title_th": "AI Manifesto ของ Mark Zuckerberg มีความยาว 6,500 คำ และแทบไม่พูดอะไรเลย",
-      "summary_th": "AI กำลังเปลี่ยนวัฒนธรรม จากแถลงการณ์ของ CEO ด้านเทคโนโลยี ไปเป็นการสัมภาษณ์งานตอนตี 1 เราแกะข้อมูลล่าสุดบางส่วน พร้อมด้วยผลการวิจัยยอดนิยมจาก Black Hat และ Defcon ในสัปดาห์นี้เกี่ยวกับ Uncanny Valley"
+      "title_th": "AI Manifesto ของ Mark Zuckerberg มีคำศัพท์ถึง 6,500 คำ และแทบจะพูดอะไรไม่ได้เลย",
+      "summary_th": "AI กำลังเปลี่ยนวัฒนธรรม จากแถลงการณ์ของ CEO ฝ่ายเทคโนโลยีไปจนถึงการสัมภาษณ์งานตอนตี 1 เราแกะข้อมูลล่าสุดบางส่วน พร้อมด้วยผลการวิจัยยอดนิยมจาก Black Hat และ Defcon ในสัปดาห์นี้เกี่ยวกับ Uncanny Valley"
     },
     {
       "source": "Wired",
@@ -231,16 +243,16 @@
       "summary_th": "การชาร์จแบบไร้สาย Qi2 ที่รวดเร็วในชุดแม่เหล็กและขาตั้งทำให้ Pixelsnap ของ Google คุ้มค่าที่จะซื้อในราคาเพียงครึ่งเดียว"
     },
     {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
-      "category": "gadget",
-      "title_en": "5 Best Android Tablets in 2026: Samsung, TCL, Amazon, and More",
-      "summary_en": "Whether you need a portable, around-the-house entertainment center or a full-on laptop replacement, these are the best Android tablets.",
-      "image": "https://media.wired.com/photos/6a7ca94984d83aba841afc00/master/pass/The-Best-Android-Tablets.jpg",
-      "link": "https://www.wired.com/story/the-best-android-tablets/",
-      "published": "Thu, 13 Aug 2026 10:00:00 +0000",
-      "title_th": "5 แท็บเล็ต Android ที่ดีที่สุดในปี 2569: Samsung, TCL, Amazon และอีกมากมาย",
-      "summary_th": "ไม่ว่าคุณจะต้องการศูนย์รวมความบันเทิงแบบพกพาที่ใช้ภายในบ้านหรือเปลี่ยนแล็ปท็อปเต็มรูปแบบ แท็บเล็ต Android เหล่านี้คือสิ่งที่ดีที่สุด"
+      "category": "ai",
+      "title_en": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+      "summary_en": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US policy. Watch a conversation exploring how it started, where…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/August.26_Roundtables_Thumb.png?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+      "published": "Thu, 13 Aug 2026 21:00:00 +0000",
+      "title_th": "โต๊ะกลม: ภายในแนวคิด \"การเซ็นเซอร์-อุตสาหกรรมที่ซับซ้อน\" ที่กำหนดนโยบายของสหรัฐอเมริกา",
+      "summary_th": "ฟังเซสชั่นหรือดูด้านล่าง \"กลุ่มอุตสาหกรรมการเซ็นเซอร์\" เป็นแนวคิดที่เครือข่ายของรัฐบาล เทคโนโลยี และกลุ่มวิจัยกำลังร่วมมือกันเพื่อปราบปรามคำพูดออนไลน์แบบอนุรักษ์นิยม นี่เป็นอาหารสัตว์สำหรับแวดวงข้อมูลฝ่ายขวามาหลายปี จากนั้นก็เริ่มเข้าสู่นโยบายของสหรัฐฯ ดูการสนทนาเพื่อสำรวจว่ามันเริ่มต้นอย่างไร ที่ไหน..."
     },
     {
       "source": "MIT Technology Review",
@@ -252,7 +264,7 @@
       "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
       "published": "Thu, 13 Aug 2026 18:11:42 +0000",
       "title_th": "การสร้างเส้นทางการปฏิบัติสู่การเข้ารหัสหลังควอนตัม",
-      "summary_th": "คอมพิวเตอร์ควอนตัมได้สลับกันระหว่างความก้าวหน้าอันล้ำค่าที่รักและคำมั่นสัญญาที่เกินจริงในแวดวงเทคโนโลยี ความสามารถใหม่อันทรงพลังของมันมาพร้อมกับภัยคุกคามที่จะทำลายการเข้ารหัสในปัจจุบัน แต่สำหรับผู้นำธุรกิจที่ต้องรับมือกับสิ่งรบกวน สัญญาณควรมีความชัดเจน: การเข้ารหัสหลังควอนตัม (PQC) เป็นวิวัฒนาการที่จัดการได้ ไม่ใช่วิกฤต คณิตศาสตร์ที่อยู่เบื้องหลังธุรกรรมดิจิทัลที่เข้ารหัสในปัจจุบันอาจ..."
+      "summary_th": "คอมพิวเตอร์ควอนตัมได้สลับกันระหว่างความก้าวหน้าอันล้ำค่าที่รักและคำมั่นสัญญาที่เกินจริงในแวดวงเทคโนโลยี ความสามารถใหม่อันทรงพลังของมันมาพร้อมกับภัยคุกคามที่จะทำลายการเข้ารหัสในปัจจุบัน แต่สำหรับผู้นำธุรกิจที่ต้องรับมือกับสิ่งรบกวน สัญญาณควรมีความชัดเจน: การเข้ารหัสหลังควอนตัม (PQC) เป็นวิวัฒนาการที่สามารถจัดการได้ ไม่ใช่วิกฤต คณิตศาสตร์ที่อยู่เบื้องหลังธุรกรรมดิจิทัลที่เข้ารหัสในปัจจุบันอาจ..."
     },
     {
       "source": "MIT Technology Review",
@@ -263,7 +275,7 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26039248966381.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
       "published": "Thu, 13 Aug 2026 13:41:10 +0000",
-      "title_th": "Flock กำลังเข้มงวดกฎเกณฑ์เพื่อตอบสนองต่อกระแสการสอดแนมที่เพิ่มขึ้น",
+      "title_th": "Flock กำลังเข้มงวดกฎเพื่อตอบสนองต่อกระแสการสอดแนมที่เพิ่มขึ้น",
       "summary_th": "Flock ยักษ์ใหญ่ด้านเทคโนโลยีตำรวจกำลังประกาศในวันนี้ว่า จะเปลี่ยนการเข้าถึงของเจ้าหน้าที่ในการเข้าถึงเครือข่ายเครื่องอ่านป้ายทะเบียนทั่วประเทศ ในความพยายามที่ชัดเจนในการระงับการตอบโต้ที่เพิ่มมากขึ้นและเอาชนะสัญญาที่สูญเสียไปท่ามกลางความกังวลเกี่ยวกับการสอดแนมจำนวนมากและการละเมิดของตำรวจ การเปลี่ยนแปลงหลายอย่างมุ่งเป้าไปที่ปัญหาที่เกิดขึ้นในหัวข้อข่าวล่าสุด:..."
     },
     {
@@ -291,16 +303,28 @@
       "summary_th": "ฤดูร้อนนี้สร้างความร้อนแรงให้กับพื้นที่ส่วนใหญ่ของซีกโลกเหนือ เดือนมิถุนายนและกรกฎาคมถือเป็นช่วงสองเดือนที่ร้อนที่สุดในยุโรปนับตั้งแต่เริ่มมีการจดบันทึก สหรัฐฯ ที่อยู่ติดกันต้องอดทนต่อเดือนที่ร้อนที่สุดเป็นประวัติการณ์ในเดือนกรกฎาคม เกาหลีใต้มีอุณหภูมิสูงสุดเป็นประวัติการณ์ ความร้อนยังไม่สิ้นสุด แต่นักวิทยาศาสตร์บางคนกำลังมองไปข้างหน้า..."
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "How kids feel about AI, in their own words",
-      "summary_en": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/type-2_2.png?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-      "published": "Thu, 13 Aug 2026 09:00:00 +0000",
-      "title_th": "เด็กๆ รู้สึกอย่างไรกับ AI ในคำพูดของพวกเขาเอง",
-      "summary_th": "เมื่อเราเริ่มพูดคุยกับเด็กๆ เกี่ยวกับปัญญาประดิษฐ์ เราคิดว่าเรารู้ว่าจะได้ยินอะไร เราคาดหวังให้บางคนบอกเราว่าพวกเขากำลังใช้มันเพื่อโกงนิดหน่อย วิธีที่คนรุ่น Millennials และ Gen Xers เปิด CliffsNotes หรือสูตรที่ตั้งโปรแกรมไว้ใน TI-82 ของพวกเขา และคนอื่นๆ เพื่อแบ่งปันวิธีที่สร้างแรงบันดาลใจที่พวกเขาเป็น..."
+      "category": "chip",
+      "title_en": "Mico, Microsoft's weird lil' AI guy, has been demoted",
+      "summary_en": "The amorphous corporate mascot will no longer haunt Copilot Voice.",
+      "image": "https://www.engadget.com/img/gallery/mico-microsofts-weird-lil-ai-guy-has-been-demoted/l-intro-1786661192.jpg",
+      "link": "https://www.engadget.com/2236741/mico-microsofts-weird-lil-ai-guy-has-been-demoted/",
+      "published": "Thu, 13 Aug 2026 22:51:31 +0000",
+      "title_th": "Mico ซึ่งเป็น AI ตัวประหลาดของ Microsoft ถูกลดระดับแล้ว",
+      "summary_th": "มาสคอตขององค์กรที่ไม่มีรูปร่างจะไม่หลอกหลอน Copilot Voice อีกต่อไป"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Cloud storage is great until your vendor goes out of business",
+      "summary_en": "A St. Louis PBS station is suing a data center provider to rescue a 70-year archive.",
+      "image": "https://www.engadget.com/img/gallery/cloud-storage-is-great-until-your-vendor-goes-out-of-business/l-intro-1786658416.jpg",
+      "link": "https://www.engadget.com/2236717/cloud-storage-great-until-vendor-goes-out-of-business-nine-pbs/",
+      "published": "Thu, 13 Aug 2026 22:04:16 +0000",
+      "title_th": "ที่เก็บข้อมูลบนคลาวด์นั้นใช้งานได้ดีจนกว่าผู้ขายของคุณจะเลิกกิจการ",
+      "summary_th": "สถานี PBS ในเมือง St. Louis กำลังฟ้องร้องผู้ให้บริการศูนย์ข้อมูลเพื่อช่วยเหลือไฟล์เก็บถาวรที่มีอายุ 70 ​​ปี"
     },
     {
       "source": "Engadget",
@@ -339,30 +363,6 @@
       "summary_th": "ผู้ใช้ Android จำนวนมากมีการสำรองข้อมูลสองครั้งในบริการจัดเก็บข้อมูล ดังนั้นจึงควรค้นหาว่าข้อมูลสำรองใดที่คุณสามารถปิดได้ คุณอาจไม่ต้องการพื้นที่เก็บข้อมูลเพิ่มเติม"
     },
     {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Apple is reportedly turning to publishers for help with Siri AI",
-      "summary_en": "Apple appears to be trying to secure access to new content and other information for Siri AI.",
-      "image": "https://www.engadget.com/img/gallery/apple-is-reportedly-turning-to-publishers-for-help-with-siri-ai/l-intro-1786636345.jpg",
-      "link": "https://www.engadget.com/2236317/apple-is-reportedly-turning-to-publishers-for-help-with-siri-ai/",
-      "published": "Thu, 13 Aug 2026 15:53:53 +0000",
-      "title_th": "มีรายงานว่า Apple หันไปหาผู้จัดพิมพ์เพื่อขอความช่วยเหลือเกี่ยวกับ Siri AI",
-      "summary_th": "ดูเหมือนว่า Apple กำลังพยายามรักษาความปลอดภัยในการเข้าถึงเนื้อหาใหม่และข้อมูลอื่น ๆ สำหรับ Siri AI"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Spotify has roped the indie publisher Kobalt into its AI platform for covers and remixes",
-      "summary_en": "Spotify's forthcoming paid add-on lets fans generate content via \"AI-powered creative tools.\"",
-      "image": "https://www.engadget.com/img/gallery/spotify-has-roped-the-indie-publisher-kobalt-into-its-ai-platform-for-covers-and-remixes/l-intro-1786636073.jpg",
-      "link": "https://www.engadget.com/2236313/spotify-has-roped-the-indie-pubisher-kobalt-into-its-ai-platform-for-covers-and-remixes/",
-      "published": "Thu, 13 Aug 2026 15:49:07 +0000",
-      "title_th": "Spotify ได้นำ Kobalt ผู้จัดพิมพ์อินดี้เข้าสู่แพลตฟอร์ม AI สำหรับเพลงคัฟเวอร์และรีมิกซ์",
-      "summary_th": "ส่วนเสริมที่ต้องชำระเงินของ Spotify ที่กำลังจะมาถึงช่วยให้แฟน ๆ สร้างเนื้อหาผ่าน \"เครื่องมือสร้างสรรค์ที่ขับเคลื่อนด้วย AI\""
-    },
-    {
       "source": "IEEE Spectrum",
       "flag": "US",
       "category": "robot",
@@ -372,7 +372,7 @@
       "link": "https://spectrum.ieee.org/product-engineer",
       "published": "Thu, 13 Aug 2026 14:44:50 +0000",
       "title_th": "นำแนวคิดของผู้จัดการผลิตภัณฑ์มาใช้กับงานวิศวกรรมครั้งต่อไปของคุณ",
-      "summary_th": "หากคุณยังไม่เห็นตำแหน่งงานสำหรับ “วิศวกรผลิตภัณฑ์” คุณอาจจะได้ทราบเร็วๆ นี้ งานที่จู่ๆ ทุกคนก็จ้างเข้ามา บทบาทนี้เปรียบเสมือนลูกผสมระหว่างผู้จัดการผลิตภัณฑ์และวิศวกร (ตามชื่อเลย) และเป็นเทรนด์การจ้างงานที่ควรค่าแก่การใส่ใจ บริษัทต่างๆ กำลังเปิดรับตำแหน่งงานเหล่านี้เพิ่มขึ้นทุกๆ เดือน แต่พวกเขาก็ประสบปัญหาในการเติมเต็มตำแหน่งดังกล่าว เหตุผลแทบไม่เกี่ยวข้องกับทักษะการเขียนโค้ดของวิศวกรหรือประสบการณ์หลายปี การย้ายอาชีพที่ดีที่สุดที่คุณสามารถทำได้เพื่อเตรียมพร้อมสำหรับบทบาทประเภทนี้แทบจะไม่เกี่ยวข้องกับการได้รับความรู้ด้านเทคนิคมากขึ้นเลย แต่กลับกลายเป็นคำที่ฟุ่มเฟือยที่สุด ใช้มากเกินไป และอาจเลวร้ายที่สุดในเทคโนโลยีทั้งหมด: ความคิด ติดกับฉันฉันสัญญาว่าสิ่งนี้จะเป็นประโยชน์ ปัญหา: เราถูกฝึกให้เป็นทาส"
+      "summary_th": "หากคุณยังไม่เห็นตำแหน่งงานสำหรับ “วิศวกรผลิตภัณฑ์” คุณอาจจะได้ทราบเร็วๆ นี้ งานที่จู่ๆ ทุกคนก็จ้างมา บทบาทนี้เปรียบเสมือนลูกผสมระหว่างผู้จัดการผลิตภัณฑ์และวิศวกร (ตามชื่อเลย) และเป็นเทรนด์การจ้างงานที่ควรค่าแก่การใส่ใจ บริษัทต่างๆ กำลังเปิดรับตำแหน่งงานเหล่านี้เพิ่มขึ้นทุกๆ เดือน แต่พวกเขาก็ประสบปัญหาในการเติมเต็มตำแหน่งดังกล่าว เหตุผลแทบจะไม่เกี่ยวข้องกับทักษะการเขียนโค้ดของวิศวกรหรือประสบการณ์หลายปี การย้ายอาชีพที่ดีที่สุดที่คุณสามารถทำได้เพื่อเตรียมพร้อมสำหรับบทบาทประเภทนี้แทบจะไม่เกี่ยวข้องกับการได้รับความรู้ด้านเทคนิคมากขึ้นเลย แต่กลับกลายเป็นคำที่ฟุ่มเฟือยที่สุด ใช้มากเกินไป และอาจแย่ที่สุดในเทคโนโลยีทั้งหมด: ความคิด ติดกับฉันฉันสัญญาว่าสิ่งนี้จะเป็นประโยชน์ ปัญหา: เราถูกฝึกให้เป็นทาส"
     },
     {
       "source": "IEEE Spectrum",
@@ -408,7 +408,7 @@
       "link": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
       "published": "Tue, 11 Aug 2026 13:00:01 +0000",
       "title_th": "แซ่บ ร็อคส์. เพิ่มน้ำ รับไฮโดรเจนที่สะอาด",
-      "summary_th": "ในย่านชานเมืองอันเงียบสงบของบอสตัน ตรงขอบสุดของฟาร์มม้า ซึ่งมีทุ่งหญ้าเป็นทางไปสู่ป่า ปั้นจั่นจะหย่อนขั้วไฟฟ้าขนาดมหึมาลงในหลุมเจาะ อิเล็กโทรด ซึ่งเป็นทรงกระบอกยาวครึ่งเมตรพร้อมแขนปลายทองแดงเพื่อให้แน่ใจว่ามีการสัมผัสกับผนังหลุมเจาะได้ดี จะเคลื่อนลงไป—ลึกยิ่งขึ้นเรื่อยๆ—ผ่านชั้นของหินทรายฟูๆ ไปจนถึงรากหินอ่อนแข็งของเทือกเขาโบราณที่ลึกลงไปใต้ดินหลายร้อยเมตร ที่นี่หินแน่น มีรอยแตกเล็กน้อยเพื่อให้น้ำหรือก๊าซไหล แต่นั่นกำลังจะเปลี่ยนไป ขว้างก้อนหินออกไป อิเล็กโทรดอันที่สอง ซึ่งเป็นแฝดจากอิเล็กโทรดอันแรก ได้รับการแก้ไขในหลุมเจาะอีกหลุมหนึ่งที่มีความลึกเท่ากัน จากเหนือพื้นดิน เครื่องกำเนิดไฟฟ้าแรงสูงคู่หนึ่งที่ต่อเข้ากับขั้วไฟฟ้าทั้งสองจะยิงชุดพัลส์ ทสส!…ทสส!…ทสส!…ทสส!…ทสส!…. การปลดปล่อยแต่ละครั้งได้ยินอย่างแผ่วเบา"
+      "summary_th": "ในย่านชานเมืองอันเงียบสงบของบอสตัน ตรงขอบสุดของฟาร์มม้า ซึ่งมีทุ่งหญ้าเป็นทางไปสู่ป่า ปั้นจั่นจะหย่อนขั้วไฟฟ้าขนาดมหึมาลงในหลุมเจาะ อิเล็กโทรด ซึ่งเป็นทรงกระบอกยาวครึ่งเมตรพร้อมแขนปลายทองแดงเพื่อให้แน่ใจว่ามีการสัมผัสกับผนังหลุมเจาะได้ดี จะเคลื่อนลงไป—ลึกยิ่งขึ้นเรื่อยๆ—ผ่านชั้นของหินทรายฟูๆ ไปจนถึงรากหินอ่อนแข็งของเทือกเขาโบราณที่ลึกลงไปใต้ดินหลายร้อยเมตร ที่นี่หินแน่น มีรอยแตกเล็กน้อยเพื่อให้น้ำหรือก๊าซไหล แต่นั่นกำลังจะเปลี่ยนไป เมื่อขว้างก้อนหินออกไป อิเล็กโทรดตัวที่สอง ซึ่งเป็นแฝดจากอิเล็กโทรดอันแรก ได้รับการแก้ไขในหลุมเจาะอีกหลุมหนึ่งที่มีความลึกเท่ากัน จากเหนือพื้นดิน เครื่องกำเนิดไฟฟ้าแรงสูงคู่หนึ่งที่ต่อเข้ากับขั้วไฟฟ้าทั้งสองจะยิงชุดพัลส์ ทสส!…ทสส!…ทสส!…ทสส!…ทสส!…. การปลดปล่อยแต่ละครั้งได้ยินอย่างแผ่วเบา"
     },
     {
       "source": "IEEE Spectrum",
@@ -420,7 +420,31 @@
       "link": "https://spectrum.ieee.org/navigating-pivot-tech-expert-leader",
       "published": "Fri, 07 Aug 2026 18:00:01 +0000",
       "title_th": "การนำทาง Pivot จากผู้เชี่ยวชาญด้านเทคโนโลยีไปจนถึงผู้นำองค์กร",
-      "summary_th": "การเปลี่ยนจากผู้เชี่ยวชาญทางเทคนิคล้วนๆ หรือตำแหน่งผู้ร่วมให้ข้อมูลรายบุคคลไปสู่บทบาทผู้นำที่กว้างขึ้นถือเป็นหนึ่งในขั้นตอนที่ท้าทายที่สุดในอาชีพ STEM จำเป็นต้องเปลี่ยนจากการพึ่งพาความเป็นเลิศทางเทคนิคเพียงอย่างเดียวไปสู่การคิดอย่างเป็นระบบ ความเป็นผู้นำที่ปรับเปลี่ยนได้ และการจัดตำแหน่งทีม เพื่อช่วยให้ผู้ประกอบวิชาชีพระดับกลางก้าวผ่านการเปลี่ยนแปลง การประชุม IEEE International Leadership Conference ครั้งแรกได้รับการออกแบบเพื่อให้ผู้เข้าร่วมมีเครื่องมือที่ใช้งานได้จริงเพื่อก้าวเข้าสู่ความรับผิดชอบที่กว้างขึ้นและส่งเสริมกรอบความคิดของผู้ประกอบการ งาน ILC มีกำหนดในวันที่ 3 และ 4 ตุลาคมในบูดาเปสต์ เปิดลงทะเบียนแล้ว คิดให้ไกลกว่าการมีส่วนร่วมทางเทคนิค เพื่อให้ประสบความสำเร็จในการก้าวเข้าสู่บทบาทผู้นำ ผู้เชี่ยวชาญด้านเทคนิคจำเป็นต้องมองข้ามผลงานของตนเองและมุ่งเน้นไปที่ \"คุณ\""
+      "summary_th": "การเปลี่ยนจากผู้เชี่ยวชาญทางเทคนิคล้วนๆ หรือตำแหน่งผู้ร่วมให้ข้อมูลรายบุคคลไปสู่บทบาทผู้นำที่กว้างขึ้นถือเป็นหนึ่งในขั้นตอนที่ท้าทายที่สุดในอาชีพ STEM จำเป็นต้องเปลี่ยนจากการพึ่งพาความเป็นเลิศทางเทคนิคเพียงอย่างเดียวไปสู่การคิดอย่างเป็นระบบ ความเป็นผู้นำที่ปรับเปลี่ยนได้ และการจัดตำแหน่งทีม เพื่อช่วยให้ผู้ประกอบอาชีพระดับกลางก้าวผ่านการเปลี่ยนแปลง การประชุม IEEE International Leadership Conference ครั้งแรก ได้รับการออกแบบมาเพื่อมอบเครื่องมือที่ใช้งานได้จริงแก่ผู้เข้าร่วมเพื่อก้าวเข้าสู่ความรับผิดชอบที่กว้างขึ้นและส่งเสริมกรอบความคิดของผู้ประกอบการ งาน ILC มีกำหนดในวันที่ 3 และ 4 ตุลาคมในบูดาเปสต์ เปิดลงทะเบียนแล้ว คิดให้ไกลกว่าการมีส่วนร่วมทางเทคนิค เพื่อประสบความสำเร็จในการก้าวเข้าสู่บทบาทผู้นำ ผู้เชี่ยวชาญด้านเทคนิคจำเป็นต้องมองข้ามผลงานของตนเองและมุ่งเน้นไปที่ \"คุณ\""
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "9to5Mac Daily: August 13, 2026 – MacBook Air shortages, iPhone Ultra launch rumors",
+      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily .",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/13/daily-august-13-2026/",
+      "published": "Thu, 13 Aug 2026 22:42:23 +0000",
+      "title_th": "9to5Mac Daily: 13 สิงหาคม 2026 – MacBook Air ขาดแคลน, ข่าวลือการเปิดตัว iPhone Ultra",
+      "summary_th": "ฟังสรุปเรื่องเด่นประจำวันจาก 9to5Mac 9to5Mac Daily มีให้บริการบน iTunes และแอป Podcasts ของ Apple , Stitcher , TuneIn , Google Play หรือผ่านทางฟีด RSS เฉพาะของเราสำหรับ Overcast และเครื่องเล่นพอดแคสต์อื่นๆ สนับสนุนโดย Backblaze : ข้อมูลสำรองที่คุณวางใจได้ ประหยัด 20% ด้วยรหัส 9to5daily"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple proposes commissions of up to 15% for off-App Store purchases in the US [U]",
+      "summary_en": "Apple has submitted its proposal for the fees it should be allowed to charge for purchases made outside of the App Store system in the Epic Games case . Here are the details.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/app-store.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/13/apple-proposes-commissions-of-up-to-15-for-off-app-store-purchases-in-the-us/",
+      "published": "Thu, 13 Aug 2026 22:05:00 +0000",
+      "title_th": "Apple เสนอคอมมิชชั่นสูงสุด 15% สำหรับการซื้อนอก App Store ในสหรัฐอเมริกา [U]",
+      "summary_th": "Apple ได้ส่งข้อเสนอเกี่ยวกับค่าธรรมเนียมที่ควรได้รับอนุญาตให้เรียกเก็บสำหรับการซื้อที่ทำนอกระบบ App Store ในกรณีของ Epic Games นี่คือรายละเอียด"
     },
     {
       "source": "9to5Mac",
@@ -459,28 +483,16 @@
       "summary_th": "OpenAI ช่วยให้ ChatGPT และ Codex มีวิธีใหม่ในการเรียนรู้และจดจำวิธีใช้ Mac ของคุณ แม้ว่างานนั้นจะเกิดขึ้นนอกแอพก็ตาม"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Apple adds iPhone X and 2018 MacBook Pro to obsolete products list",
-      "summary_en": "Apple today updated its vintage and obsolete product lists, with the iPhone X and 15-inch 2018 MacBook Pro now classified as obsolete. Here’s what that means.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-x.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/13/apple-adds-iphone-x-and-2018-macbook-pro-to-obsolete-products-list/",
-      "published": "Thu, 13 Aug 2026 19:35:26 +0000",
-      "title_th": "Apple เพิ่ม iPhone X และ MacBook Pro 2018 ลงในรายการผลิตภัณฑ์ที่ล้าสมัย",
-      "summary_th": "วันนี้ Apple อัพเดทรายการผลิตภัณฑ์เก่าและล้าสมัย โดย iPhone X และ MacBook Pro รุ่น 15 นิ้วรุ่น 15 นิ้วปี 2018 จัดอยู่ในประเภทล้าสมัยแล้ว Here’s what that means."
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Ted Lasso just had the biggest Apple TV premiere ever",
-      "summary_en": "Ted Lasso season 4 is off to a strong start, with Apple revealing to Deadline that it had “the biggest launch ever for Apple TV.” Here are the numbers.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/ted-lasso-s4-coaching-trio.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/13/ted-lasso-just-had-the-biggest-apple-tv-premiere-ever/",
-      "published": "Thu, 13 Aug 2026 19:22:29 +0000",
-      "title_th": "Ted Lasso เพิ่งเปิดตัว Apple TV ครั้งใหญ่ที่สุดเท่าที่เคยมีมา",
-      "summary_th": "Ted Lasso ซีซั่น 4 เริ่มต้นได้อย่างแข็งแกร่ง โดย Apple เปิดเผยกับ Deadline ว่า \"เป็นการเปิดตัวครั้งใหญ่ที่สุดสำหรับ Apple TV\" นี่คือตัวเลข"
+      "category": "review",
+      "title_en": "Google Meet rolling out ‘Take Notes’ for in-person meetings on Android, web, & iOS",
+      "summary_en": "As previewed in April, Google Meet’s “Take Notes for me” feature can now work for in-person meetings. This Gemini-powered feature...",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/google-meet-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/13/google-meet-take-notes-in-person/",
+      "published": "Thu, 13 Aug 2026 22:40:42 +0000",
+      "title_th": "Google Meet เปิดตัว \"จดบันทึก\" สำหรับการประชุมแบบต่อหน้าบน Android, เว็บ และ iOS",
+      "summary_th": "ตามที่แสดงตัวอย่างในเดือนเมษายน ฟีเจอร์ \"จดบันทึกให้ฉัน\" ของ Google Meet ใช้ได้กับการประชุมแบบต่อหน้าแล้ว คุณสมบัติที่ขับเคลื่อนโดยราศีเมถุนนี้..."
     },
     {
       "source": "9to5Google",
@@ -528,19 +540,19 @@
       "link": "https://9to5google.com/2026/08/13/pixel-11-pistachio-should-be-old-avocado/",
       "published": "Thu, 13 Aug 2026 19:00:00 +0000",
       "title_th": "ตัวเลือกสี 'Pistachio' ของ Pixel 11 ควรเป็น 'Old Avocado'",
-      "summary_th": "ฉันไม่รู้วิธีอธิบายสีเขียวของ Google หรือสี \"พิสตาชิโอ\" สำหรับ Pixel 11 พื้นฐาน มันทำให้ฉันรู้สึกบางอย่าง และรูปถ่ายก็ไม่ยุติธรรม"
+      "summary_th": "ฉันไม่รู้ว่าจะอธิบายสีเขียวของ Google หรือสี “พิสตาชิโอ” สำหรับ Pixel 11 ได้อย่างไร มันทำให้ฉันรู้สึกบางอย่าง และรูปถ่ายก็ไม่ยุติธรรม"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Today’s Android app deals and freebies: Lia, Easy Delivery Co, Wreckfest, more",
-      "summary_en": "Your afternoon lineup of the best Android game and app deals is now ready, including titles like Lia: Hacking Destiny, Easy Delivery Co., Star Blaster: Offline Premium, Wreckfest – Demolition Racing, Space Marshals, CloverPit, Lovecraft’s Untold Stories, and more. The best pre-order deals on Pixel 11, 11 Pro, 11 Pro XL, and 11 Pro Fold are still live – enhanced trade values, up to $350 credits, FREE Pixel Watch 5, and more ( details here ) – and we also have 20% pre-order deals on Google’s new Pixel 11, 11 Pro/XL, and Fold Pixelsnap cases , but the apps are waiting below.",
-      "image": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/08/Google-Play-Aug-13-2.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5toys.com/2026/08/13/android-app-deals-free-lia-easy-delivery/",
-      "published": "Thu, 13 Aug 2026 17:42:42 +0000",
-      "title_th": "ข้อเสนอแอป Android และของสมนาคุณประจำวันนี้: Lia, Easy Delivery Co, Wreckfest และอีกมากมาย",
-      "summary_th": "รายการเกม Android และข้อเสนอแอพที่ดีที่สุดช่วงบ่ายของคุณพร้อมแล้ว รวมถึงเกมอย่าง Lia: Hacking Destiny, Easy Delivery Co., Star Blaster: Offline Premium, Wreckfest – Demolition Racing, Space Marshals, CloverPit, Lovecraft's Untold Stories และอีกมากมาย ข้อเสนอการสั่งซื้อล่วงหน้าที่ดีที่สุดสำหรับ Pixel 11, 11 Pro, 11 Pro XL และ 11 Pro Fold ยังคงมีอยู่ – มูลค่าการค้าที่เพิ่มขึ้น, เครดิตสูงสุด $350, ฟรี Pixel Watch 5 และอีกมากมาย (รายละเอียดที่นี่ ) – และเรายังมีข้อเสนอการสั่งซื้อล่วงหน้า 20% สำหรับเคส Pixel 11, 11 Pro/XL และ Fold Pixelsnap ใหม่ของ Google แต่แอปกำลังรออยู่ด้านล่าง"
+      "category": "ev",
+      "title_en": "This electric aircraft fire truck hits 50 mph in under 20 seconds",
+      "summary_en": "The “world’s first” electric aircraft fire truck now has a 400 kW fast charger to keep it ready for emergencies at Dallas Love Field Airport.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Dallas-Love-Field-Airport-electric-aircraft-rescue-firefighting-vehicle.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/13/electric-aircraft-rescue-fire-truck-rosenbauer-dallas/",
+      "published": "Thu, 13 Aug 2026 22:33:18 +0000",
+      "title_th": "รถดับเพลิงเครื่องบินไฟฟ้านี้เร่งความเร็วได้ 50 ไมล์ต่อชั่วโมงภายใน 20 วินาที",
+      "summary_th": "รถดับเพลิงไฟฟ้าสำหรับเครื่องบิน “คันแรกของโลก” ปัจจุบันมีเครื่องชาร์จแบบเร็วขนาด 400 กิโลวัตต์ เพื่อเตรียมพร้อมสำหรับเหตุฉุกเฉินที่สนามบินดัลลัส เลิฟ ฟิลด์"
     },
     {
       "source": "Electrek",
@@ -563,7 +575,7 @@
       "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/06/Fords-EV-sales-May-2025.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "link": "https://electrek.co/2026/08/13/ford-recalling-nearly-90000-mustang-mach-e-evs/",
       "published": "Thu, 13 Aug 2026 19:44:23 +0000",
-      "title_th": "Ford เรียกคืน Mustang Mach-E EV เกือบ 90,000 คัน เนื่องจากขอบบางส่วนอาจหลุดออกมาได้",
+      "title_th": "Ford เรียกคืน Mustang Mach-E EV เกือบ 90,000 คัน เนื่องจากชิ้นส่วนบางส่วนอาจหลุดออกมาได้",
       "summary_th": "Ford กำลังเรียกคืนรถ Mustang Mach-E จำนวน 86,543 คัน เนื่องจากกระจกด้านหลังอาจหลุดร่วงขณะขับรถได้"
     },
     {
@@ -589,18 +601,6 @@
       "published": "Thu, 13 Aug 2026 18:00:00 +0000",
       "title_th": "การขาย Jackery พร้อมส่วนลดโบนัสทำให้สถานีไฟฟ้า HomePower 3600 Pro Max ใหม่เหลือ 1,832 ดอลลาร์ Velotric e-bike ต่ำ เครื่องมือ และอื่นๆ อีกมากมาย",
       "summary_th": "หัวข้อหลักข้อเสนอสีเขียวในวันพฤหัสบดีของเราคือการขาย Jackery Power Outage ที่เพิ่งเปิดตัว เสนอส่วนลดเริ่มต้นสูงสุดถึง 1,500 ดอลลาร์สำหรับโรงไฟฟ้า ควบคู่ไปกับการประหยัดโบนัส 3 ระดับสำหรับการสั่งซื้อ 1,500 ดอลลาร์ขึ้นไป เช่น HomePower 3600 Pro Max Portable Power Station ใหม่ ที่ 1,832 ดอลลาร์ ในขณะที่ข้อเสนออื่นๆ เริ่มต้นที่ 199 ดอลลาร์ นอกจากนี้เรายังพบว่า B&H ตัดราคาการขาย Jackery ในสถานีไฟฟ้าพกพาขนาดกะทัดรัด Explorer 300D ในราคา 169 ดอลลาร์ จากนั้น e-bike Velotric Discover 2 Comfort Commuter กลับมาที่ราคาต่ำสุดที่ 1,699 ดอลลาร์ Govee Matter Outdoor Lamp Post ได้รับส่วนลด 50% จากราคาต่ำสุดตลอดกาล และเรามีราคาต่ำสุดและต่ำสุดเป็นอันดับสองของปีสำหรับเครื่องฉีดน้ำแรงดันสูง 13A 2,200 PSI ของ Worx และเลื่อยไฟฟ้า 80V 18 นิ้วของ Greenworks และอีกมากมาย แน่นอนว่า"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Volvo wants to help you save money on car insurance",
-      "summary_en": "It may not be 15 minutes like Geico’s, but Volvo’s new Safety Coach app is designed to help you drive safely while also lowering your car insurance premiums.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Volvo-lower-insurance-costs.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/13/volvo-help-you-save-money-car-insurance/",
-      "published": "Thu, 13 Aug 2026 17:59:19 +0000",
-      "title_th": "วอลโว่ต้องการช่วยคุณประหยัดเงินค่าประกันรถยนต์",
-      "summary_th": "อาจไม่ใช่ 15 นาทีเหมือน Geico แต่แอป Safety Coach ใหม่ของ Volvo ได้รับการออกแบบมาเพื่อช่วยให้คุณขับขี่ได้อย่างปลอดภัยพร้อมทั้งลดเบี้ยประกันรถยนต์ของคุณด้วย"
     }
   ],
   "indices": [
