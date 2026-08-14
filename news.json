@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-14T09:50:10.014737+00:00",
+  "generated_at": "2026-08-14T12:35:35.644999+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
+      "summary_en": "The partnership is expanding beyond the initial market of Zagreb, Croatia to four additional European cities.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Verne-Uber-Pony-Partnership.jpg?resize=1200,713",
+      "link": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
+      "published": "Fri, 14 Aug 2026 10:44:30 +0000",
+      "title_th": "Uber และ Pony.ai วางแผนที่จะนำหุ่นยนต์แท็กซี่ 2,000 คันไปยังยุโรป",
+      "summary_th": "ความร่วมมือดังกล่าวกำลังขยายออกไปนอกเหนือจากตลาดแรกเริ่มในเมืองซาเกร็บ ประเทศโครเอเชีย ไปยังเมืองอื่นๆ ในยุโรปอีก 4 เมือง"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -51,16 +63,16 @@
       "summary_th": "Writer สร้างขึ้นเพื่อเป็นรูปแบบหลังการฝึกอบรมในรุ่นโอเพ่นซอร์ส GLM-5.2 ของ Z.ai กล่าวว่าระบบใหม่ควรมีความสามารถพร้อมปรับใช้ในราคาที่ต่ำกว่ามาก"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "summary_en": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?resize=1200,1200",
-      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "published": "Thu, 13 Aug 2026 20:14:39 +0000",
-      "title_th": "Databricks ต้องการระดมทุน 1 พันล้านดอลลาร์ นักลงทุนต้องการ 15 พันล้านดอลลาร์ ตกลงที่ 5 พันล้านดอลลาร์ที่ราคาประเมิน 190 พันล้านดอลลาร์",
-      "summary_th": "AI มีราคาแพง Ali Ghodsi กล่าวกับ TechCrunch เนื่องจากนักลงทุนจำนวนมากต้องการเข้าสู่รอบล่าสุดของเขา เขาจึงตอบตกลงมากกว่าที่วางแผนไว้"
+      "category": "review",
+      "title_en": "The MSI Claw EX is the most important handheld since Steam Deck — I still wouldn’t buy one",
+      "summary_en": "As The Verge's resident handheld reviewer, I have nearly every portable gaming PC on a shelf in my house. The MSI Claw 8 EX AI Plus is now the first one I reach for. Thanks to a next-gen Intel chip and improved MSI design, the Claw EX is the most powerful handheld that truly feels […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/verge-msi-claw-ex-sean-hollister-1-8.jpg?quality=90&strip=all&crop=0%2C11.782791030077%2C100%2C78.534450752859&w=1200",
+      "link": "https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld",
+      "published": "2026-08-14T07:00:00-04:00",
+      "title_th": "MSI Claw EX เป็นอุปกรณ์พกพาที่สำคัญที่สุดนับตั้งแต่ Steam Deck — ฉันยังคงไม่ซื้อมัน",
+      "summary_th": "ในฐานะผู้ตรวจสอบอุปกรณ์พกพาของ The Verge ฉันมีพีซีสำหรับเล่นเกมแบบพกพาเกือบทุกเครื่องวางอยู่บนชั้นวางในบ้านของฉัน MSI Claw 8 EX AI Plus เป็นรุ่นแรกที่ฉันเข้าถึง ต้องขอบคุณชิป Intel รุ่นถัดไปและการออกแบบ MSI ที่ได้รับการปรับปรุง Claw EX จึงเป็นอุปกรณ์พกพาที่ทรงพลังที่สุดที่ให้ความรู้สึก […]"
     },
     {
       "source": "The Verge",
@@ -109,18 +121,6 @@
       "published": "2026-08-13T19:13:24-04:00",
       "title_th": "Apple และ Epic โต้แย้งว่า Apple ควรได้รับเท่าใดจากการซื้อนอก App Store",
       "summary_th": "ในการยื่นฟ้องครั้งใหม่เกี่ยวกับข้อพิพาททางกฎหมายที่ดำเนินมายาวนานกับ Epic Games นั้น Apple ได้เสนอโครงสร้างที่จะอนุญาตให้เก็บค่าธรรมเนียมสำหรับการซื้อดิจิทัลที่ทำผ่านลิงก์ภายนอกที่ไม่ได้ใช้ระบบการซื้อในแอปของบริษัท Epic ได้ตอบกลับไปแล้ว โดยกล่าวว่าคำขอของ Apple นั้น \"อยู่นอกเหนือขอบเขต\" ของ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
-      "summary_en": "One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install rival app stores on Android. It's been nearly three years since a jury unanimously decided […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25047560/236883_Epic_Vs_Google_D_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
-      "published": "2026-08-13T17:53:04-04:00",
-      "title_th": "'นั่นไม่เป็นที่ยอมรับ': ผู้พิพากษาสั่งให้ Google ทำให้การติดตั้ง App Store ของคู่แข่งง่ายขึ้น",
-      "summary_th": "หนึ่งเดือนหลังจากที่ Epic Games และ Google ดูเหมือนจะหยุดต่อสู้เพื่ออนาคตของการเผยแพร่แอป Android วันนี้พวกเขากลับมาที่ห้องพิจารณาคดีในซานฟรานซิสโก ซึ่งผู้พิพากษา James Donato เพิ่งสั่งให้ Google ทำให้การติดตั้ง App Store ของคู่แข่งบน Android ง่ายขึ้น เป็นเวลาเกือบสามปีแล้วที่คณะลูกขุนมีมติเป็นเอกฉันท์ […]"
     },
     {
       "source": "Ars Technica",
@@ -185,62 +185,74 @@
     {
       "source": "Wired",
       "flag": "US",
-      "category": "review",
-      "title_en": "Dell XPS 13 Review: Move Over, Neo",
-      "summary_en": "It’s amazing how few compromises Dell made to get the new XPS 13 down to $700, but I strongly recommend the $900 model, which comes with 16 GB of RAM.",
-      "image": "https://media.wired.com/photos/6a7e58008a0e88de0683c4e2/master/pass/Review--Dell-XPS-13-(2026).jpg",
-      "link": "https://www.wired.com/review/dell-xps-13-2026/",
-      "published": "Fri, 14 Aug 2026 09:30:00 +0000",
-      "title_th": "รีวิว Dell XPS 13: Move Over, Neo",
-      "summary_th": "เป็นเรื่องน่าทึ่งที่ Dell ประนีประนอมเพียงเล็กน้อยในการลดราคา XPS 13 ใหม่ให้เหลือ 700 ดอลลาร์ แต่ฉันขอแนะนำรุ่น 900 ดอลลาร์ที่มาพร้อมกับ RAM ขนาด 16 GB"
+      "category": "gadget",
+      "title_en": "The 4 Best Planners of 2026: Roterunner, Hobonichi, Cloth & Paper",
+      "summary_en": "If digital calendars are leaving you lacking, these WIRED-tested paper agendas and notebooks could change your life.",
+      "image": "https://media.wired.com/photos/6a7e749384ca1239926fb09c/master/pass/I%E2%80%99ve-Tested-Dozens-of-Planners.-These-Are-the-Best-Ones.jpg",
+      "link": "https://www.wired.com/story/best-paper-planners/",
+      "published": "Fri, 14 Aug 2026 11:33:00 +0000",
+      "title_th": "4 นักวางแผนที่ดีที่สุดของปี 2026: Roterunner, Hobonichi, ผ้าและกระดาษ",
+      "summary_th": "หากปฏิทินดิจิทัลทำให้คุณขาด วาระกระดาษและสมุดบันทึกที่ทดสอบโดย WIRED เหล่านี้สามารถเปลี่ยนชีวิตคุณได้"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "The Real Reason Data Center Gas Power Plants Are So Dirty",
-      "summary_en": "A massive new gas plant in Texas will be built with much less efficient technology than regular gas plants. It’s far from the only data center power project to rely on dirty turbines.",
-      "image": "https://media.wired.com/photos/6a7e65723fe13c1d3993e0db/master/pass/Real-Reason-Data-Center-Gas-Power-Plants-Are-So-Dirty-Science-2280775684.jpg",
-      "link": "https://www.wired.com/story/real-reason-data-center-gas-power-plants-are-so-dirty/",
-      "published": "Fri, 14 Aug 2026 09:00:00 +0000",
-      "title_th": "เหตุผลที่แท้จริงที่โรงไฟฟ้าก๊าซของศูนย์ข้อมูลสกปรกมาก",
-      "summary_th": "โรงผลิตก๊าซขนาดใหญ่แห่งใหม่ในรัฐเท็กซัสจะถูกสร้างขึ้นด้วยเทคโนโลยีที่มีประสิทธิภาพน้อยกว่าโรงผลิตก๊าซทั่วไป ห่างไกลจากโครงการโรงไฟฟ้าศูนย์ข้อมูลแห่งเดียวที่ต้องพึ่งพากังหันสกปรก"
+      "title_en": "FTC Strikes Deals to Ignore Unlawful Credit Discrimination",
+      "summary_en": "The agency signed agreements to not enforce parts of three federal court orders against auto dealers accused of discrimination—and didn’t notify judges or at least one of its coplaintiffs.",
+      "image": "https://media.wired.com/photos/6a7a36c7a151eb9278537980/master/pass/Politics_FTC%20Cuts%20Secret%20Side%20Deals%20With%20Businesses%20Accused%20of%20Discrimination_v1.jpg",
+      "link": "https://www.wired.com/story/ftc-strikes-deals-to-ignore-unlawful-credit-discrimination/",
+      "published": "Fri, 14 Aug 2026 11:00:00 +0000",
+      "title_th": "FTC ตกลงข้อตกลงเพื่อเพิกเฉยต่อการเลือกปฏิบัติด้านเครดิตที่ผิดกฎหมาย",
+      "summary_th": "หน่วยงานได้ลงนามในข้อตกลงที่จะไม่บังคับใช้ส่วนหนึ่งของคำสั่งศาลรัฐบาลกลางสามคำสั่งกับตัวแทนจำหน่ายรถยนต์ที่ถูกกล่าวหาว่ามีการเลือกปฏิบัติ และไม่ได้แจ้งผู้พิพากษาหรือโจทก์ร่วมอย่างน้อยหนึ่งคน"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Columbia Promo Codes: 15% Off | August 2026",
-      "summary_en": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
-      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
-      "link": "https://www.wired.com/story/columbia-promo-code/",
-      "published": "Fri, 14 Aug 2026 05:00:00 +0000",
-      "title_th": "รหัสส่งเสริมการขายโคลัมเบีย: ลด 15% | สิงหาคม 2569",
-      "summary_th": "สำรวจข้อเสนอปัจจุบันของโคลัมเบียเกี่ยวกับเสื้อแจ็คเก็ต อุปกรณ์เอาท์ดอร์ และเครื่องแต่งกาย ค้นหารหัสโปรโมชั่น Columbia ที่ใช้งานได้ ส่วนลดสำหรับนักเรียน และข้อเสนอการจัดส่งฟรีเพื่อประหยัดในการผจญภัยครั้งถัดไปของคุณ"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Office Depot Coupons: Save With Promo Codes in August 2026",
-      "summary_en": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
-      "image": "https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg",
-      "link": "https://www.wired.com/story/office-depot-promo-codes/",
-      "published": "Fri, 14 Aug 2026 05:00:00 +0000",
-      "title_th": "คูปอง Office Depot: ประหยัดด้วยรหัสโปรโมชันในเดือนสิงหาคม 2026",
-      "summary_th": "ตั้งแต่เฟอร์นิเจอร์และหมึกไปจนถึงบริการการพิมพ์ระดับมืออาชีพ ใช้รหัสส่วนลดของ Office Depot เพื่อประหยัดเงินได้สูงสุดในทุกพื้นที่ทำงานที่จำเป็น"
+      "title_en": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
+      "summary_en": "Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve male loneliness.”",
+      "image": "https://media.wired.com/photos/6a550ca43f29786234525e20/master/pass/Culture_AI%20Masturbation%20Consultants_v1.jpg",
+      "link": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
+      "published": "Fri, 14 Aug 2026 10:45:00 +0000",
+      "title_th": "'ที่ปรึกษาเรื่องการช่วยตัวเอง' เหล่านี้ถูกจ้างมาเพื่อสร้างความสุขให้กับตัวเองด้วย AI",
+      "summary_th": "Joi AI จ้างคน 10 คนมาช่วยตัวเองโดยใช้เพื่อนร่วมทาง AI ซึ่งเป็นส่วนหนึ่งของการศึกษาเรื่อง \"สุขภาพ\" เป็นเวลาหนึ่งเดือน บริษัทอ้างว่าการปฏิบัติดังกล่าวสามารถช่วย “แก้ปัญหาความเหงาของผู้ชายได้”"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "gadget",
-      "title_en": "Acer Promo Codes: 40% Off",
-      "summary_en": "From 40% off accessory bundles to verified student and military discounts, here's how to save on Predator, Nitro, and Swift laptops and monitors at Acer.com.",
-      "image": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
-      "link": "https://www.wired.com/story/acer-promo-code/",
-      "published": "Fri, 14 Aug 2026 05:00:00 +0000",
-      "title_th": "รหัสส่งเสริมการขาย Acer: ลด 40%",
-      "summary_th": "ตั้งแต่ส่วนลด 40% สำหรับชุดอุปกรณ์เสริมไปจนถึงส่วนลดสำหรับนักเรียนและการทหาร ต่อไปนี้คือวิธีประหยัดเมื่อซื้อแล็ปท็อปและจอภาพ Predator, Nitro และ Swift ที่ Acer.com"
+      "title_en": "Best Pixel 10 Cases and Accessories (2026): Mous, dbrand, Bellroy",
+      "summary_en": "Protect your Pixel 10a, Pixel 10, or Pixel 10 Pro XL with a tried-and-true phone case, screen protector, and Qi2 charger.",
+      "image": "https://media.wired.com/photos/68bbcf49f02d871ebe651fbb/master/pass/Top%20Art%20Pixel%2010%20Cases%20SOURCE%20Julian%20Chokkattu.jpg",
+      "link": "https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/",
+      "published": "Fri, 14 Aug 2026 10:31:00 +0000",
+      "title_th": "เคสและอุปกรณ์เสริม Pixel 10 ที่ดีที่สุด (2026): Mous, dbrand, Bellroy",
+      "summary_th": "ปกป้อง Pixel 10a, Pixel 10 หรือ Pixel 10 Pro XL ของคุณด้วยเคสโทรศัพท์ ฟิล์มกันรอยหน้าจอ และที่ชาร์จ Qi2 ที่ผ่านการทดสอบแล้ว"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
+      "summary_en": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
+      "image": "https://media.wired.com/photos/6a7a320341c2687d2f60b612/master/pass/Humans-Are-Marrying-Chatbots-Culture-AB12034.jpg",
+      "link": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
+      "published": "Fri, 14 Aug 2026 10:15:00 +0000",
+      "title_th": "ผู้คนกำลัง 'แต่งงาน' Chatbots ผู้บัญญัติกฎหมายเหล่านี้ต้องการหยุดพวกเขา",
+      "summary_th": "ปัจจุบันการแต่งงานระหว่างมนุษย์กับ AI ไม่ได้รับการยอมรับตามกฎหมายของสหรัฐอเมริกา ผู้กำหนดนโยบายของรัฐของพรรครีพับลิกันบางคนกำลังร่างกฎหมายเพื่อให้เป็นเช่นนั้น"
+    },
+    {
+      "source": "MIT Technology Review",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+      "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26039248966381.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+      "published": "Fri, 14 Aug 2026 12:17:21 +0000",
+      "title_th": "ดาวน์โหลด: กฎใหม่ของ Flock อนาคตของการโคลนนิ่ง และเซลล์ของเด็กๆ",
+      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี Flock กำลังเข้มงวดกฎของตนเพื่อตอบสนองต่อกระแสการสอดแนมที่เพิ่มขึ้น Flock ยักษ์ใหญ่ด้านเทคโนโลยีตำรวจกำลังเปลี่ยนแปลงการเข้าถึงเครือข่ายเครื่องอ่านป้ายทะเบียนของเจ้าหน้าที่ทั่วประเทศ ความเคลื่อนไหวมา..."
     },
     {
       "source": "MIT Technology Review",
@@ -291,16 +303,16 @@
       "summary_th": "ฟังเซสชั่นหรือดูด้านล่าง \"กลุ่มอุตสาหกรรมการเซ็นเซอร์\" เป็นแนวคิดที่เครือข่ายของรัฐบาล เทคโนโลยี และกลุ่มวิจัยกำลังร่วมมือกันเพื่อปราบปรามคำพูดออนไลน์แบบอนุรักษ์นิยม นี่เป็นอาหารสัตว์สำหรับแวดวงข้อมูลฝ่ายขวามาหลายปี จากนั้นก็เริ่มเข้าสู่นโยบายของสหรัฐฯ ดูการสนทนาเพื่อสำรวจว่ามันเริ่มต้นอย่างไร ที่ไหน..."
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "Building a practical path to post-quantum cryptography",
-      "summary_en": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis. The mathematics behind today’s encrypted digital transactions may…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Intel-contributed-iStock-2259858626.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
-      "published": "Thu, 13 Aug 2026 18:11:42 +0000",
-      "title_th": "การสร้างเส้นทางการปฏิบัติสู่การเข้ารหัสหลังควอนตัม",
-      "summary_th": "คอมพิวเตอร์ควอนตัมได้สลับกันระหว่างความก้าวหน้าอันล้ำค่าที่รักและคำมั่นสัญญาที่เกินจริงในแวดวงเทคโนโลยี ความสามารถใหม่อันทรงพลังของมันมาพร้อมกับภัยคุกคามที่จะทำลายการเข้ารหัสในปัจจุบัน แต่สำหรับผู้นำธุรกิจที่ต้องรับมือกับสิ่งรบกวน สัญญาณควรมีความชัดเจน: การเข้ารหัสหลังควอนตัม (PQC) เป็นวิวัฒนาการที่สามารถจัดการได้ ไม่ใช่วิกฤต คณิตศาสตร์ที่อยู่เบื้องหลังธุรกรรมดิจิทัลที่เข้ารหัสในปัจจุบันอาจ..."
+      "category": "chip",
+      "title_en": "DeepSeek's AI models are about to cost four times more",
+      "summary_en": "DeepSeek has announced price hikes for its V4 models.",
+      "image": "https://www.engadget.com/img/gallery/deepseeks-ai-models-are-about-to-cost-four-times-more/l-intro-1786705027.jpg",
+      "link": "https://www.engadget.com/2236912/deepseek-ai-models-get-four-times-pricier/",
+      "published": "Fri, 14 Aug 2026 10:58:24 +0000",
+      "title_th": "โมเดล AI ของ DeepSeek กำลังจะมีราคาแพงขึ้นสี่เท่า",
+      "summary_th": "DeepSeek ได้ประกาศขึ้นราคาสำหรับรุ่น V4"
     },
     {
       "source": "Engadget",
@@ -349,18 +361,6 @@
       "published": "Thu, 13 Aug 2026 22:04:16 +0000",
       "title_th": "ที่เก็บข้อมูลบนคลาวด์นั้นใช้งานได้ดีจนกว่าผู้ขายของคุณจะเลิกกิจการ",
       "summary_th": "สถานี PBS ในเมืองเซนต์หลุยส์กำลังฟ้องร้องผู้ให้บริการศูนย์ข้อมูลเพื่อช่วยเหลือไฟล์เก็บถาวรที่มีอายุ 70 ​​ปี"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Netflix shuts down Oxenfree studio Night School weeks after praising its 'really solid numbers'",
-      "summary_en": "Execs praised Night School's latest game, Unhinged, before pulling the rug.",
-      "image": "https://www.engadget.com/img/gallery/netflix-shuts-down-oxenfree-studio-night-school-weeks-after-praising-its-really-solid-numbers/l-intro-1786656103.jpg",
-      "link": "https://www.engadget.com/2236683/netflix-shuts-down-oxenfree-studio-night-school-weeks-after-praising-its-really-solid-numbers/",
-      "published": "Thu, 13 Aug 2026 21:24:22 +0000",
-      "title_th": "Netflix ปิดสตูดิโอ Oxenfree Night School หลายสัปดาห์หลังจากชื่นชม \"ตัวเลขที่แข็งแกร่งจริงๆ\"",
-      "summary_th": "ผู้บริหารยกย่องเกมล่าสุดของ Night School อย่าง Unhinged ก่อนที่จะดึงพรมออก"
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,18 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "My DIY iPhone camera mod looks absurd but is great to use",
+      "summary_en": "I fully acknowledge that my DIY iPhone camera mod looks exceedingly silly – but it’s actually made my iPhone photography more practical and more enjoyable. It was initially something I came up with to solve a problem for one particular video shoot, but I’ve actually found myself using it a surprising number of times …",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/My-DIY-iPhone-camera-mod-looks-absurd-but-is-great-to-use.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/14/my-diy-iphone-camera-mod-looks-absurd-but-is-great-to-use/",
+      "published": "Fri, 14 Aug 2026 12:12:30 +0000",
+      "title_th": "ตัวดัดแปลงกล้อง DIY iPhone ของฉันดูไร้สาระ แต่ใช้งานได้ดี",
+      "summary_th": "ฉันรับทราบอย่างเต็มที่ว่าม็อดกล้อง DIY iPhone ของฉันดูไร้สาระมาก แต่จริงๆ แล้วทำให้การถ่ายภาพด้วย iPhone ของฉันใช้งานได้จริงและสนุกสนานยิ่งขึ้น ในตอนแรก มันเป็นสิ่งที่ฉันคิดขึ้นมาเพื่อแก้ไขปัญหาสำหรับการถ่ายวิดีโอรายการใดรายการหนึ่ง แต่จริงๆ แล้วฉันพบว่าตัวเองใช้มันหลายครั้งอย่างน่าประหลาดใจ …"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Apple seeks settlement talks with Epic Games in new court filing",
       "summary_en": "In addition to submitting its proposed commission structure for purchases made outside the App Store’s IAP system in the US, Apple filed a motion indicating it is willing to explore a settlement with Epic Games. Here are the details.",
       "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/epic-app-store.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
@@ -471,16 +483,16 @@
       "summary_th": "Apple ได้ส่งข้อเสนอเกี่ยวกับค่าธรรมเนียมที่ควรได้รับอนุญาตให้เรียกเก็บสำหรับการซื้อที่ทำนอกระบบ App Store ในกรณีของ Epic Games นี่คือรายละเอียด"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Chase recently added free Apple TV, Apple One perks to popular credit card",
-      "summary_en": "Chase recently added new benefits to its popular Sapphire Preferred credit card, including free Apple TV for a year or discounted Apple One. Here are the details.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/chase-plus-apple-tv.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/13/chase-adds-free-apple-tv-discounted-apple-one-benefit-to-popular-credit-card/",
-      "published": "Thu, 13 Aug 2026 20:37:10 +0000",
-      "title_th": "Chase เพิ่งเพิ่ม Apple TV ฟรี, Apple One สิทธิพิเศษสำหรับบัตรเครดิตยอดนิยม",
-      "summary_th": "Chase เพิ่งเพิ่มสิทธิประโยชน์ใหม่ให้กับบัตรเครดิต Sapphire Preferred ยอดนิยม รวมถึง Apple TV ฟรีเป็นเวลาหนึ่งปีหรือลดราคา Apple One นี่คือรายละเอียด"
+      "title_en": "Google has another Pixel 11 discount for up to $175 off, here’s where to find it",
+      "summary_en": "Following a collection of discount codes that were sent out ahead of the Pixel 11 launch this week, Google has another discount code worth up to $175 hidden just beneath the surface.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-pro-gold-side.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/14/google-play-pixel-11-discount/",
+      "published": "Fri, 14 Aug 2026 12:30:00 +0000",
+      "title_th": "Google มีส่วนลด Pixel 11 อีกสูงสุดถึง $ 175 ค้นหาได้ที่ไหน",
+      "summary_th": "หลังจากชุดรหัสส่วนลดที่ถูกส่งออกไปก่อนการเปิดตัว Pixel 11 ในสัปดาห์นี้ Google มีรหัสส่วนลดอีกรหัสมูลค่าสูงถึง $ 175 ซ่อนอยู่ใต้พื้นผิว"
     },
     {
       "source": "9to5Google",
@@ -529,18 +541,6 @@
       "published": "Thu, 13 Aug 2026 19:46:52 +0000",
       "title_th": "NVIDIA GeForce ตอนนี้เป็นเกมระดับไฮเอนด์ทุกที่โดยไม่ต้องปวดหัว [วิดีโอ]",
       "summary_th": "การสร้างหรืออัปเกรดพีซีสำหรับเล่นเกมตั้งแต่ตอนนี้ในช่วงกลางปี ​​2026 อาจเป็นเรื่องที่ท้าทาย การขาดแคลนส่วนประกอบทำให้ราคา RAM และพื้นที่จัดเก็บข้อมูลสูงขึ้น และการได้ GPU ประสิทธิภาพสูงรุ่นล่าสุดอาจต้องใช้เงินลงทุน"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Pixel 11’s ‘Pistachio’ color option should be ‘Old Avocado’",
-      "summary_en": "I don’t know how to describe Google’s green, or “Pistachio” color, for the base Pixel 11. It makes me feel some type of way, and photos don’t do it justice.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-11-pistachio-old-avocado-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/13/pixel-11-pistachio-should-be-old-avocado/",
-      "published": "Thu, 13 Aug 2026 19:00:00 +0000",
-      "title_th": "ตัวเลือกสี 'Pistachio' ของ Pixel 11 ควรเป็น 'Old Avocado'",
-      "summary_th": "ฉันไม่รู้ว่าจะอธิบายสีเขียวของ Google หรือสี “พิสตาชิโอ” สำหรับ Pixel 11 ได้อย่างไร มันทำให้ฉันรู้สึกบางอย่าง และรูปถ่ายก็ไม่ยุติธรรม"
     },
     {
       "source": "Electrek",
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 269.0,
-      "change": 1.0,
-      "change_pct": 0.37
+      "price": 270.0,
+      "change": 2.0,
+      "change_pct": 0.75
     }
   ],
   "reviews": [
@@ -733,6 +733,16 @@
     {
       "channel": "Beartai",
       "country": "TH",
+      "title_en": "'นักท่องเที่ยว' ถ้าร้ายนัก ต้องรักไหม ? | Go with The Four",
+      "video_id": "FZ0CEShEC4Y",
+      "link": "https://www.youtube.com/watch?v=FZ0CEShEC4Y",
+      "thumbnail": "https://i3.ytimg.com/vi/FZ0CEShEC4Y/hqdefault.jpg",
+      "published": "2026-08-14T11:00:34+00:00",
+      "title_th": "'นักท่องเที่ยว' ถ้าร้ายนัก ต้องรักไหม ? | Go with The Four"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
       "title_en": "ทำไมระบบสุขภาพไทย เน้นซ่อมมากกว่าสร้าง ?",
       "video_id": "n0vOziOd_So",
       "link": "https://www.youtube.com/shorts/n0vOziOd_So",
@@ -749,16 +759,6 @@
       "thumbnail": "https://i3.ytimg.com/vi/FZzYictu68s/hqdefault.jpg",
       "published": "2026-08-13T05:48:10+00:00",
       "title_th": "สถิติสุขภาพคนไทย อัตราตายก่อนวัยอันควรสูงถึง 14%"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "“ล่าม” หนังไทยถ่ายอเมริกา ที่คุณภาพเกินกว่าที่คาดไว้",
-      "video_id": "9gGQZrCeb0Q",
-      "link": "https://www.youtube.com/watch?v=9gGQZrCeb0Q",
-      "thumbnail": "https://i2.ytimg.com/vi/9gGQZrCeb0Q/hqdefault.jpg",
-      "published": "2026-08-11T14:11:51+00:00",
-      "title_th": "“ล่าม” หนังไทยถ่ายอเมริกา ที่คุณภาพเกินกว่าที่คาดไว้"
     },
     {
       "channel": "Droidsans",
