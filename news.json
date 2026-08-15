@@ -1,14 +1,26 @@
 {
-  "generated_at": "2026-08-14T21:16:47.115575+00:00",
+  "generated_at": "2026-08-15T00:30:11.465454+00:00",
   "count": 50,
   "articles": [
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
+      "title_en": "Talks to sell PayPal to Stripe and Advent are heating up",
+      "summary_en": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1584248812.jpg?w=1200",
+      "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+      "published": "Fri, 14 Aug 2026 22:43:24 +0000",
+      "title_th": "การเจรจาขาย PayPal ให้กับ Stripe และ Advent กำลังร้อนแรง",
+      "summary_th": "มีรายงานว่า PayPal ยังคงเจรจาการขายที่เป็นไปได้ให้กับ Stripe และบริษัทไพรเวทอิควิตี้ Advent เนื่องจากซีอีโอคนใหม่ของบริษัท fintech พยายามที่จะเปลี่ยนบริษัท"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
       "title_en": "Self-driving trucks are officially testing on California highways",
       "summary_en": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/KODIAK_GEN5_HIGHWAY_3.jpg?resize=1200,801",
       "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
       "published": "Fri, 14 Aug 2026 20:37:49 +0000",
       "title_th": "รถบรรทุกไร้คนขับกำลังทดสอบอย่างเป็นทางการบนทางหลวงแคลิฟอร์เนีย",
@@ -36,7 +48,7 @@
       "link": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
       "published": "Fri, 14 Aug 2026 19:04:32 +0000",
       "title_th": "สิ่งที่เรารู้เกี่ยวกับการแฮ็กระบบสาธารณูปโภคด้านน้ำของสหรัฐฯ ที่ถูกกล่าวหาโดยอิหร่าน",
-      "summary_th": "ในช่วงสองสามสัปดาห์ที่ผ่านมา แฮกเกอร์ได้กำหนดเป้าหมายและเจาะระบบของโรงผลิตน้ำหลายแห่งในสหรัฐอเมริกา นี่คือสิ่งที่เรารู้และไม่รู้เกี่ยวกับการโจมตีระลอกนี้ซึ่งถูกกล่าวหาว่าดำเนินการโดยรัฐบาลอิหร่าน"
+      "summary_th": "ในช่วงสองสามสัปดาห์ที่ผ่านมา แฮกเกอร์ได้กำหนดเป้าหมายและเจาะระบบของโรงงานน้ำหลายแห่งในสหรัฐอเมริกา นี่คือสิ่งที่เรารู้และไม่รู้เกี่ยวกับการโจมตีระลอกนี้ซึ่งถูกกล่าวหาว่าดำเนินการโดยรัฐบาลอิหร่าน"
     },
     {
       "source": "TechCrunch",
@@ -49,18 +61,6 @@
       "published": "Fri, 14 Aug 2026 18:58:15 +0000",
       "title_th": "พ็อกเก็ตแอปอ่านมันในภายหลังปิดตัวลง - นี่คือทางเลือกที่ดีที่สุด",
       "summary_th": "ผู้ใช้ Pocket มีเวลาจนถึงวันที่ 8 ตุลาคม 2025 ในการส่งออกบทความที่บันทึกไว้และรายการอื่น ๆ รวมถึงรายการ ที่เก็บถาวร รายการโปรด บันทึกย่อ และไฮไลท์"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
-      "summary_en": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/person-remembering-reminder-GettyImages-1420814839.jpg?resize=1200,801",
-      "link": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
-      "published": "Fri, 14 Aug 2026 16:21:04 +0000",
-      "title_th": "Unforgetful เป็นแอปเตือนความจำใหม่สำหรับผู้ที่ไม่สามารถหยุดการเลื่อนปลุกได้",
-      "summary_th": "แอพ Unforgetful ล่าสุดจาก Marco Arment นักพัฒนาอินดี้ที่รู้จักกันมานาน ได้รับการออกแบบมาเพื่อให้การเตือนนั้นยากขึ้นที่จะเพิกเฉยหรือปิดโดยไม่ตั้งใจ"
     },
     {
       "source": "The Verge",
@@ -144,7 +144,7 @@
       "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
       "published": "Fri, 14 Aug 2026 14:27:14 +0000",
       "title_th": "OpenAI และ Anthropic ในสงครามราคาเมื่อคู่แข่ง AI ของจีนเข้ามามีส่วนร่วม",
-      "summary_th": "กลุ่มบริษัทในสหรัฐฯ เปิดตัวโมเดลราคาถูกหลังจากความท้าทายใหม่ต่อความทะเยอทะยานล้านล้านดอลลาร์ของพวกเขา"
+      "summary_th": "US groups release cheaper models after new challenges to their trillion-dollar ambitions."
     },
     {
       "source": "Ars Technica",
@@ -181,6 +181,18 @@
       "published": "Tue, 11 Aug 2026 11:30:08 +0000",
       "title_th": "การโจมตี Pass-ta-key ใหม่เผยให้เห็นทุกสิ่งที่เราไม่รู้เกี่ยวกับรหัสผ่าน",
       "summary_th": "เหตุใดแอปรหัสผ่านจึงปฏิบัติต่อ Windows แตกต่างจากระบบปฏิบัติการอื่น"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "The Best Movies to Stream This Month (August 2026)",
+      "summary_en": "“Avatar Aang,” “Heartstopper Forever,” and “Exit 8” are among the films deserving of your eyeballs this month.",
+      "image": "https://media.wired.com/photos/6a7f4df328f891277df71355/master/pass/Movie-Guide-Avatar-Aang-Culture-MCDAVAA_I8007.jpg",
+      "link": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
+      "published": "Fri, 14 Aug 2026 21:18:21 +0000",
+      "title_th": "ภาพยนตร์ที่ดีที่สุดที่จะสตรีมในเดือนนี้ (สิงหาคม 2569)",
+      "summary_th": "“Avatar Aang” “Heartstopper Forever” และ “Exit 8” เป็นหนึ่งในภาพยนตร์ที่คู่ควรกับคุณในเดือนนี้"
     },
     {
       "source": "Wired",
@@ -228,19 +240,7 @@
       "link": "https://www.wired.com/story/ftc-strikes-deals-to-ignore-unlawful-credit-discrimination/",
       "published": "Fri, 14 Aug 2026 11:00:00 +0000",
       "title_th": "FTC ตกลงข้อตกลงเพื่อเพิกเฉยต่อการเลือกปฏิบัติด้านเครดิตที่ผิดกฎหมาย",
-      "summary_th": "หน่วยงานได้ลงนามในข้อตกลงที่จะไม่บังคับใช้บางส่วนของคำสั่งศาลรัฐบาลกลางสามคำสั่งกับตัวแทนจำหน่ายรถยนต์ที่ถูกกล่าวหาว่ามีการเลือกปฏิบัติ และไม่ได้แจ้งผู้พิพากษาหรือโจทก์ร่วมอย่างน้อยหนึ่งคน"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
-      "summary_en": "Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve male loneliness.”",
-      "image": "https://media.wired.com/photos/6a550ca43f29786234525e20/master/pass/Culture_AI%20Masturbation%20Consultants_v1.jpg",
-      "link": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
-      "published": "Fri, 14 Aug 2026 10:45:00 +0000",
-      "title_th": "'ที่ปรึกษาเรื่องการช่วยตัวเอง' เหล่านี้ถูกจ้างมาเพื่อสร้างความสุขให้กับตัวเองด้วย AI",
-      "summary_th": "Joi AI จ้างคน 10 คนมาช่วยตัวเองโดยใช้เพื่อนร่วมทาง AI ซึ่งเป็นส่วนหนึ่งของการศึกษาเรื่อง \"สุขภาพ\" เป็นเวลาหนึ่งเดือน บริษัทอ้างว่าการปฏิบัติดังกล่าวสามารถช่วย “แก้ปัญหาความเหงาของผู้ชายได้”"
+      "summary_th": "หน่วยงานได้ลงนามในข้อตกลงที่จะไม่บังคับใช้ส่วนหนึ่งของคำสั่งศาลรัฐบาลกลางสามคำสั่งกับตัวแทนจำหน่ายรถยนต์ที่ถูกกล่าวหาว่ามีการเลือกปฏิบัติ และไม่ได้แจ้งผู้พิพากษาหรือโจทก์ร่วมอย่างน้อยหนึ่งคน"
     },
     {
       "source": "MIT Technology Review",
@@ -263,8 +263,8 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/HLY_5765-FINAL.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
       "published": "Fri, 14 Aug 2026 09:00:00 +0000",
-      "title_th": "นักวิทยาศาสตร์คนนี้กำลังช่วยสร้างแผนที่ในวัยเด็กที่หายไป",
-      "summary_th": "ในปี 2017 Deanne Taylor เข้าร่วมการนำเสนอที่มหาวิทยาลัยเพนซิลวาเนีย ซึ่งอยู่ห่างจากสำนักงานของเธอโดยใช้เวลาเดินเพียงไม่นาน นักวิจัยอยู่ที่นั่นเพื่อเปิดเผย Human Cell Atlas ซึ่งเป็นโครงการที่มีความทะเยอทะยานซึ่งมีจุดมุ่งหมายเพื่อสร้างแผนที่ทุกเซลล์ในร่างกายมนุษย์ เทย์เลอร์ตกตะลึงแล้วก็กังวล เมื่อรายละเอียดปรากฏ เธอพบว่า..."
+      "title_th": "นักวิทยาศาสตร์คนนี้กำลังช่วยสร้างแผนที่วัยเด็กที่หายไป",
+      "summary_th": "ในปี 2017 Deanne Taylor เข้าร่วมการนำเสนอที่มหาวิทยาลัยเพนซิลเวเนีย ซึ่งอยู่ห่างจากสำนักงานของเธอโดยใช้เวลาเดินเพียงไม่นาน นักวิจัยอยู่ที่นั่นเพื่อเปิดเผย Human Cell Atlas ซึ่งเป็นโครงการที่มีความทะเยอทะยานซึ่งมีจุดมุ่งหมายเพื่อสร้างแผนที่ทุกเซลล์ในร่างกายมนุษย์ เทย์เลอร์ตกตะลึงแล้วก็กังวล เมื่อรายละเอียดปรากฏ เธอพบว่า..."
     },
     {
       "source": "MIT Technology Review",
@@ -347,8 +347,8 @@
       "image": "https://www.engadget.com/img/gallery/get-the-best-battery-life-for-your-macbook-by-changing-these-settings/l-intro-1786563357.jpg",
       "link": "https://www.engadget.com/2235787/best-battery-life-for-macbook-settings/",
       "published": "Fri, 14 Aug 2026 15:30:00 +0000",
-      "title_th": "รับอายุการใช้งานแบตเตอรี่ที่ดีที่สุดสำหรับ MacBook ของคุณโดยเปลี่ยนการตั้งค่าเหล่านี้",
-      "summary_th": "แบตเตอรี่แล็ปท็อปไม่ได้อยู่ตลอดไป แต่มีบางสิ่งที่คุณสามารถทำได้ในวันนี้ซึ่งอาจส่งผลต่ออายุการใช้งานแบตเตอรี่ของ MacBook ของคุณ"
+      "title_th": "รับอายุการใช้งานแบตเตอรี่ที่ดีที่สุดสำหรับ MacBook ของคุณโดยการเปลี่ยนการตั้งค่าเหล่านี้",
+      "summary_th": "แบตเตอรี่แล็ปท็อปไม่ได้อยู่ตลอดไป แต่มีบางสิ่งที่คุณสามารถทำได้ในวันนี้ซึ่งอาจส่งผลต่ออายุการใช้งานแบตเตอรี่ของ MacBook"
     },
     {
       "source": "Engadget",
@@ -384,7 +384,7 @@
       "link": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
       "published": "Fri, 14 Aug 2026 17:27:12 +0000",
       "title_th": "ทำนายการเชื่อมต่อเสาอากาศบนแพลตฟอร์มไฟฟ้าขนาดใหญ่ก่อนสร้างฮาร์ดแวร์",
-      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นทำนายการต่อเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามประการใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
+      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นทำนายการต่อเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามแบบใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
     },
     {
       "source": "IEEE Spectrum",
@@ -396,7 +396,7 @@
       "link": "https://spectrum.ieee.org/product-engineer",
       "published": "Thu, 13 Aug 2026 14:44:50 +0000",
       "title_th": "นำแนวคิดของผู้จัดการผลิตภัณฑ์มาใช้กับงานวิศวกรรมครั้งต่อไปของคุณ",
-      "summary_th": "หากคุณยังไม่เห็นตำแหน่งงานสำหรับ “วิศวกรผลิตภัณฑ์” คุณอาจจะได้ทราบเร็วๆ นี้ งานที่จู่ๆ ทุกคนก็จ้างเข้ามา บทบาทนี้เปรียบเสมือนลูกผสมระหว่างผู้จัดการผลิตภัณฑ์และวิศวกร (ตามชื่อเลย) และเป็นเทรนด์การจ้างงานที่ควรค่าแก่การใส่ใจ บริษัทต่างๆ กำลังเปิดรับตำแหน่งงานเหล่านี้เพิ่มขึ้นทุกๆ เดือน แต่พวกเขาก็ประสบปัญหาในการเติมเต็มตำแหน่งดังกล่าว เหตุผลแทบไม่เกี่ยวข้องกับทักษะการเขียนโค้ดของวิศวกรหรือประสบการณ์หลายปี การย้ายอาชีพที่ดีที่สุดที่คุณสามารถทำได้เพื่อเตรียมพร้อมสำหรับบทบาทประเภทนี้แทบจะไม่เกี่ยวข้องกับการได้รับความรู้ด้านเทคนิคมากขึ้นเลย แต่กลับกลายเป็นคำที่ฟุ่มเฟือยที่สุด ใช้มากเกินไป และอาจเลวร้ายที่สุดในเทคโนโลยีทั้งหมด: ความคิด ติดกับฉันฉันสัญญาว่าสิ่งนี้จะเป็นประโยชน์ ปัญหา: เราถูกฝึกให้เป็นทาส"
+      "summary_th": "หากคุณยังไม่เห็นตำแหน่งงานสำหรับ “วิศวกรผลิตภัณฑ์” คุณอาจจะได้ทราบเร็วๆ นี้ งานที่จู่ๆ ทุกคนก็จ้างมา บทบาทนี้เปรียบเสมือนลูกผสมระหว่างผู้จัดการผลิตภัณฑ์และวิศวกร (ตามชื่อเลย) และเป็นเทรนด์การจ้างงานที่ควรค่าแก่การใส่ใจ บริษัทต่างๆ กำลังเปิดรับตำแหน่งงานเหล่านี้เพิ่มขึ้นทุกๆ เดือน แต่พวกเขาก็ประสบปัญหาในการเติมเต็มตำแหน่งดังกล่าว เหตุผลแทบจะไม่เกี่ยวข้องกับทักษะการเขียนโค้ดของวิศวกรหรือประสบการณ์หลายปี การย้ายอาชีพที่ดีที่สุดที่คุณสามารถทำได้เพื่อเตรียมพร้อมสำหรับบทบาทประเภทนี้แทบจะไม่เกี่ยวข้องกับการได้รับความรู้ด้านเทคนิคมากขึ้นเลย แต่กลับกลายเป็นคำที่ฟุ่มเฟือยที่สุด ใช้มากเกินไป และอาจแย่ที่สุดในเทคโนโลยีทั้งหมด: ความคิด ติดกับฉันฉันสัญญาว่าสิ่งนี้จะเป็นประโยชน์ ปัญหา: เราถูกฝึกให้เป็นทาส"
     },
     {
       "source": "IEEE Spectrum",
@@ -426,13 +426,25 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "WhatsApp working on customizable emoji reaction sets on iOS",
+      "summary_en": "New references in the latest WhatsApp beta for iOS suggest users may soon be able to replace the app’s standard set of emoji reactions with their own selection. Here are the details.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/14/whatsapp-working-on-customizable-emoji-reaction-sets-on-ios/",
+      "published": "Fri, 14 Aug 2026 21:49:23 +0000",
+      "title_th": "WhatsApp กำลังพัฒนาชุดปฏิกิริยาอิโมจิที่ปรับแต่งได้บน iOS",
+      "summary_th": "การอ้างอิงใหม่ใน WhatsApp เบต้าล่าสุดสำหรับ iOS แนะนำว่าผู้ใช้อาจจะสามารถแทนที่ชุดการโต้ตอบอีโมจิมาตรฐานของแอปด้วยการเลือกของตนเองได้ในไม่ช้า นี่คือรายละเอียด"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Apple adds new MacBook Air configs, iPhone 16 Plus models, more to refurb store",
       "summary_en": "Apple has expanded its Certified Refurbished Store this week with a handful of new MacBook Air and MacBook Pro configurations. It also includes unique iPhone 16 Plus models, Apple Watch, and more.",
       "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/m5-macbook-air-video.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "link": "https://9to5mac.com/2026/08/14/apple-adds-new-macbook-air-iphone-16-plus-refurb-store/",
       "published": "Fri, 14 Aug 2026 20:57:07 +0000",
       "title_th": "Apple เพิ่มการกำหนดค่า MacBook Air ใหม่ รุ่น iPhone 16 Plus และอื่นๆ อีกมากมายเพื่อปรับปรุงร้านค้าใหม่",
-      "summary_th": "Apple has expanded its Certified Refurbished Store this week with a handful of new MacBook Air and MacBook Pro configurations. It also includes unique iPhone 16 Plus models, Apple Watch, and more."
+      "summary_th": "Apple ได้ขยายร้าน Certified Refurbished Store ในสัปดาห์นี้ด้วย MacBook Air และ MacBook Pro ใหม่จำนวนหนึ่ง นอกจากนี้ยังมี iPhone 16 Plus รุ่นพิเศษ, Apple Watch และอื่นๆ อีกมากมาย"
     },
     {
       "source": "9to5Mac",
@@ -456,7 +468,7 @@
       "link": "https://9to5mac.com/2026/08/14/these-ai-tools-make-my-life-much-easier-on-the-mac/",
       "published": "Fri, 14 Aug 2026 19:57:27 +0000",
       "title_th": "เครื่องมือ AI เหล่านี้ทำให้ชีวิตของฉันง่ายขึ้นมากบน Mac",
-      "summary_th": "9to5Mac นำเสนอให้คุณโดย Memoket: Memoket Gem เป็นอุปกรณ์สวมใส่ AI หนัก 11 กรัม โดยมีช่องข้าง Apple Watch ของคุณในสายแบบสวมร่วม กดหนึ่งครั้งเพื่อบันทึกการสนทนา และ Gem จะเชื่อมต่อกับสิ่งที่คุณพูดคุยเมื่อสัปดาห์ที่แล้ว — แสดงกระทู้ก่อนหน้าด้วยลิงก์แหล่งที่มา จาก $179 จัดส่งในเดือนสิงหาคม 2026 เกือบสี่ปีแล้วที่ AI บูมล่าสุดซึ่งจุดประกายโดย ChatGPT นี่คือเครื่องมือที่ติดอยู่จริงๆ และทำให้ชีวิต งาน และโครงการส่วนตัวของฉันง่ายขึ้นมากบน Mac ของฉัน"
+      "summary_th": "9to5Mac นำเสนอให้คุณโดย Memoket : Memoket Gem เป็นอุปกรณ์สวมใส่ AI หนัก 11 กรัม โดยมีช่องข้าง Apple Watch ของคุณในสายแบบสวมร่วม กดหนึ่งครั้งเพื่อบันทึกการสนทนา และ Gem จะเชื่อมต่อกับสิ่งที่คุณพูดคุยเมื่อสัปดาห์ที่แล้ว — แสดงกระทู้ก่อนหน้าด้วยลิงก์แหล่งที่มา จาก $179 จัดส่งในเดือนสิงหาคม 2026 เกือบสี่ปีแล้วที่ AI บูมล่าสุดซึ่งจุดประกายโดย ChatGPT นี่คือเครื่องมือที่ติดอยู่จริงๆ และทำให้ชีวิต งาน และโครงการส่วนตัวของฉันง่ายขึ้นมากบน Mac ของฉัน"
     },
     {
       "source": "9to5Mac",
@@ -471,76 +483,100 @@
       "summary_th": "Tim Cook เข้าสู่สัปดาห์สุดท้ายของเขาในฐานะ CEO ของ Apple โดย John Ternus จะเข้ารับตำแหน่งในวันที่ 1 กันยายน ในการให้สัมภาษณ์กับ CBS News ในสัปดาห์นี้ Cook ได้กล่าวถึง \"มรดก\" ของเขาในฐานะ CEO ของ Apple"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "9to5Mac Daily: August 14, 2026 – Apple TV news, iPhone 18 expectations",
-      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily .",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/14/daily-august-14-2026/",
-      "published": "Fri, 14 Aug 2026 19:44:33 +0000",
-      "title_th": "9to5Mac รายวัน: 14 สิงหาคม 2026 – ข่าว Apple TV, ความคาดหวังของ iPhone 18",
-      "summary_th": "ฟังสรุปเรื่องเด่นประจำวันจาก 9to5Mac 9to5Mac Daily มีให้บริการบน iTunes และแอป Podcasts ของ Apple , Stitcher , TuneIn , Google Play หรือผ่านฟีด RSS เฉพาะของเราสำหรับ Overcast และเครื่องเล่นพอดแคสต์อื่น ๆ สนับสนุนโดย Backblaze : การสำรองข้อมูลที่คุณวางใจได้ ประหยัด 20% ด้วยรหัส 9to5daily"
+      "title_en": "Android 17 QPR2 adds App lock to Pixel",
+      "summary_en": "Besides visual changes, Android 17 QPR2 Beta 3 also introduces a native App lock feature to Pixel devices.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/android-figures-mwc-2026-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/14/android-17-qpr2-app-lock/",
+      "published": "Fri, 14 Aug 2026 23:27:26 +0000",
+      "title_th": "Android 17 QPR2 เพิ่มการล็อคแอปให้กับ Pixel",
+      "summary_th": "นอกจากการเปลี่ยนแปลงด้านภาพแล้ว Android 17 QPR2 Beta 3 ยังแนะนำคุณสมบัติการล็อคแอปแบบเนทีฟให้กับอุปกรณ์ Pixel"
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Pixelated 112: Mid by Google",
-      "summary_en": "Welcome to Pixelated episode 112. This week, Damien, Abner, and Will share their early impressions of the Pixel 11 series, offer a full breakdown of the actual Made by Google event, and share some big picture thoughts on the future of Pixel hardware inspired by this HiLight ad . Enjoy the episode? You can listen to our brand new weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro ! Sponsored by Proton Unlimited : Pixelated listeners can save 30% on an annual subscription to the company’s suite of privacy-friendly services by signing up using our link . Thanks to Proton Unlimited for sponsoring the podcast. Subscribe YouTube Podcasts Pocket Casts Spotify Amazon Music Apple Podcasts Overcast",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/14/pixelated-112-mid-by-google/",
-      "published": "Fri, 14 Aug 2026 20:45:00 +0000",
-      "title_th": "Pixelated 112: Mid โดย Google",
-      "summary_th": "ยินดีต้อนรับสู่ Pixelated ตอนที่ 112 สัปดาห์นี้ Damien, Abner และ Will จะแชร์ความประทับใจในช่วงแรกๆ ของซีรีส์ Pixel 11 นำเสนอรายละเอียดทั้งหมดของกิจกรรม Made by Google ที่เกิดขึ้นจริง และแบ่งปันความคิดโดยรวมเกี่ยวกับอนาคตของฮาร์ดแวร์ Pixel ที่ได้รับแรงบันดาลใจจากโฆษณา HiLight นี้ สนุกกับตอนนี้ไหม? คุณสามารถฟังตอนโบนัส Pixelated Pro ใหม่เฉพาะสมาชิกรายสัปดาห์ของเราได้โดยสมัครใช้งาน 9to5Google Pro! สนับสนุนโดย Proton Unlimited: ผู้ฟังแบบพิกเซลสามารถประหยัด 30% จากการสมัครสมาชิกรายปีสำหรับชุดบริการที่เป็นมิตรต่อความเป็นส่วนตัวของบริษัท โดยการลงทะเบียนโดยใช้ลิงก์ของเรา ขอขอบคุณ Proton Unlimited ที่สนับสนุนพอดแคสต์ สมัครสมาชิก YouTube Podcasts Pocket Casts Spotify เพลง Amazon Apple Podcasts มืดครึ้ม"
+      "title_en": "Android 17 QPR2 brings system blur to the Pixel lockscreen",
+      "summary_en": "The interface changes in Android 17 QPR2 Beta 3 continue with more blur for the Pixel lockscreen. Notifications...",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/android-figures-mwc-2026-20.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/14/android-17-qpr2-pixel-lockscreen-blur/",
+      "published": "Fri, 14 Aug 2026 22:55:00 +0000",
+      "title_th": "Android 17 QPR2 นำระบบเบลอมาสู่หน้าจอล็อค Pixel",
+      "summary_th": "การเปลี่ยนแปลงอินเทอร์เฟซใน Android 17 QPR2 Beta 3 ยังคงมีความเบลอมากขึ้นสำหรับหน้าจอล็อคพิกเซล การแจ้งเตือน..."
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "review",
+      "title_en": "Here’s everything new in Android 17 QPR2 Beta 3 [Gallery]",
+      "summary_en": "The preview for the December release continues today with a surprising Friday launch of Android 17 QPR2 Beta 3 .",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/14/android-17-qpr2-beta-3-everything-new/",
+      "published": "Fri, 14 Aug 2026 22:42:26 +0000",
+      "title_th": "นี่คือทุกสิ่งใหม่ใน Android 17 QPR2 Beta 3 [แกลเลอรี]",
+      "summary_th": "การแสดงตัวอย่างสำหรับการเปิดตัวเดือนธันวาคมยังคงดำเนินต่อไปในวันนี้ด้วยการเปิดตัว Android 17 QPR2 Beta 3 ในวันศุกร์ที่น่าประหลาดใจ"
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Friday’s best Android app deals and freebies: Dragon Prana, Soul Historica, Conquistadorio, more",
-      "summary_en": "Friday afternoon’s lineup of the best Android game and app deals is now ready to roll, including titles like RPG Dragon Prana, RPG Ruinverse, RPG Infinite Links, Legend of The Moon2, RPG Soul Historica, TLOTS: Gold Edition, Conquistadorio, and more. Be sure to dive into the best pre-order deals on Pixel 11, 11 Pro, 11 Pro XL, and 11 Pro Fold, including enhanced trade values, up to $350 gift cards, and even a FREE Pixel Watch 5, ( details here ), but Amazon is also offering an additional $150 off Pixel 11 Pro XL with this code as well now.",
-      "image": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/08/Google-Play-Aug-14-2-1.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5toys.com/2026/08/14/friday-best-android-app-deals-2/",
-      "published": "Fri, 14 Aug 2026 19:06:28 +0000",
-      "title_th": "ข้อเสนอแอป Android ที่ดีที่สุดและของแจกฟรีประจำวันศุกร์: Dragon Prana, Soul Historica, Conquistadorio และอีกมากมาย",
-      "summary_th": "รายการเกม Android และข้อเสนอแอพที่ดีที่สุดในช่วงบ่ายวันศุกร์พร้อมแล้ว รวมถึงเกมอย่าง RPG Dragon Prana, RPG Ruinverse, RPG Infinite Links, Legend of The Moon2, RPG Soul Historica, TLOTS: Gold Edition, Conquistadorio และอีกมากมาย อย่าลืมดำดิ่งลงสู่ข้อเสนอการสั่งซื้อล่วงหน้าที่ดีที่สุดสำหรับ Pixel 11, 11 Pro, 11 Pro XL และ 11 Pro Fold รวมถึงมูลค่าการค้าที่เพิ่มขึ้น บัตรของขวัญสูงถึง $ 350 และแม้แต่ Pixel Watch 5 ฟรี (รายละเอียดที่นี่ ) แต่ Amazon ยังเสนอส่วนลดเพิ่มอีก $ 150 สำหรับ Pixel 11 Pro XL ด้วยรหัสนี้เช่นกัน"
+      "title_en": "Android 17 QPR2 lets you customize Pixel Quick Settings layout",
+      "summary_en": "The surprise Friday drop of Android 17 QPR2 lets you customize the layout of the Quick Settings shade on Pixel. This editor was introduced in the latest Android Canary build for a relatively short turnaround.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/android-figures-mwc-2026-17.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/14/customize-pixel-quick-settings/",
+      "published": "Fri, 14 Aug 2026 22:35:00 +0000",
+      "title_th": "Android 17 QPR2 ให้คุณปรับแต่งเค้าโครงการตั้งค่าด่วนของ Pixel",
+      "summary_th": "การวางจำหน่าย Android 17 QPR2 ที่น่าประหลาดใจในวันศุกร์ทำให้คุณปรับแต่งเค้าโครงของเฉดสีการตั้งค่าด่วนบน Pixel ได้ ตัวแก้ไขนี้ถูกนำมาใช้ใน Android Canary เวอร์ชันล่าสุดโดยใช้เวลาดำเนินการค่อนข้างสั้น"
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Best Pixel 11 cases: Pixelsnap-ready, metal, protective, customizable, deals, more",
-      "summary_en": "The Pixel 11, 11 Pro, 11 Pro XL, and 11 Pro Fold pre-order deals are still flying but many of our favorite case makers are now ready to wrap your new device up in style and protection for delivery day. While we are already tracking solid 20% discounts on the new official Google Pixelsnap cases, the all-new customizable Grip Case from Dbrand has also arrived with a far more diverse range of designs and, for the first time, its tactical protective Tank case . Those options join the ultra minimalist bumper style models, the woven aramid fiber treatments, and some ultra-affordable covers starting from just $15 Prime shipped. Scope out our favorite new Pixel 11 cases landing this week and be sure to check back in the coming days as more of our favorite brands surface ahead of delivery day.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Best-Pixel-11-cases-2026.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/14/best-new-pixel-11-cases/",
-      "published": "Fri, 14 Aug 2026 18:16:35 +0000",
-      "title_th": "เคส Pixel 11 ที่ดีที่สุด: Pixelsnap-ready, โลหะ, ป้องกัน, ปรับแต่งได้, ดีล และอื่นๆ อีกมากมาย",
-      "summary_th": "ข้อเสนอการสั่งซื้อล่วงหน้า Pixel 11, 11 Pro, 11 Pro XL และ 11 Pro Fold ยังคงบินอยู่ แต่ผู้ผลิตเคสที่เราชื่นชอบหลายรายพร้อมที่จะห่ออุปกรณ์ใหม่ของคุณอย่างมีสไตล์และการป้องกันสำหรับวันส่งมอบ ในขณะที่เรากำลังติดตามส่วนลด 20% สำหรับเคส Google Pixelsnap ใหม่อย่างเป็นทางการอยู่แล้ว แต่ Grip Case ที่ปรับแต่งใหม่ทั้งหมดจาก Dbrand ก็มาพร้อมกับการออกแบบที่หลากหลายมากขึ้น และเป็นครั้งแรกที่มีเคสถังป้องกันทางยุทธวิธี ตัวเลือกเหล่านี้รวมอยู่ในรุ่นกันชนสไตล์มินิมอลลิสต์ การทอด้วยเส้นใยอะรามิด และผ้าคลุมราคาไม่แพงเป็นพิเศษในการจัดส่ง Prime เพียง $15 เท่านั้น สำรวจเคส Pixel 11 ใหม่ที่เราชื่นชอบซึ่งจะวางจำหน่ายในสัปดาห์นี้ และอย่าลืมกลับมาตรวจสอบอีกครั้งในอีกไม่กี่วันข้างหน้า เนื่องจากแบรนด์ที่เราชื่นชอบจำนวนมากจะปรากฏขึ้นก่อนวันจัดส่ง"
+      "title_en": "Android 17 QPR2 greatly expands Dynamic Color theming on Pixel",
+      "summary_en": "With Android 17 QPR2 Beta 3’s surprise Friday drop, Google is introducing expanded Dynamic Color theming options for Pixel devices.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/android-figures-mwc-2026-15.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/14/android-17-qpr2-dynamic-color/",
+      "published": "Fri, 14 Aug 2026 22:20:50 +0000",
+      "title_th": "Android 17 QPR2 ขยายธีม Dynamic Color บน Pixel อย่างมาก",
+      "summary_th": "ด้วยการวางจำหน่ายวันศุกร์ของ Android 17 QPR2 Beta 3 อย่างน่าประหลาดใจ Google ขอแนะนำตัวเลือกธีมสีแบบไดนามิกที่ขยายเพิ่มเติมสำหรับอุปกรณ์ Pixel"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Pixel 11 Pro Fold is stuck as the fourth-best foldable, and that’s a good thing for you [Gallery]",
-      "summary_en": "Google came back onto the foldable scene with splash in the Pixel 9 Pro Fold, but a couple of years later, the Pixel 11 Pro Fold is launching in a totally different market. There are several welcome improvements on this device that make it a foldable I actually want to carry, but I think it’s going to be relegated to being the fourth-best foldable mass markets can buy – but that’s really a good thing for the customer.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-pro-fold-21.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/14/pixel-11-pro-fold-is-stuck-as-the-fourth-best-foldable-and-thats-a-good-thing-for-you-gallery/",
-      "published": "Fri, 14 Aug 2026 17:05:00 +0000",
-      "title_th": "Pixel 11 Pro Fold ยังคงเป็นรุ่นที่พับได้ดีที่สุดเป็นอันดับสี่ และนั่นเป็นสิ่งที่ดีสำหรับคุณ [แกลเลอรี]",
-      "summary_th": "Google กลับมาสู่ฉากที่พับได้พร้อมกับ Pixel 9 Pro Fold แต่สองสามปีต่อมา Pixel 11 Pro Fold ได้เปิดตัวในตลาดที่แตกต่างไปจากเดิมอย่างสิ้นเชิง มีการปรับปรุงที่น่ายินดีหลายประการบนอุปกรณ์นี้ซึ่งทำให้เป็นแบบพับได้ที่ฉันต้องการพกพาจริง ๆ แต่ฉันคิดว่ามันจะถูกผลักไสให้เป็นตลาดมวลชนแบบพับได้ที่ดีที่สุดเป็นอันดับสี่ที่สามารถซื้อได้ - แต่นั่นเป็นสิ่งที่ดีสำหรับลูกค้าจริงๆ"
+      "category": "ev",
+      "title_en": "As EV sales, oil costs and wildfires spike, UK gov’t considers.. fewer EVs? (update)",
+      "summary_en": "The UK government is considering relaxing its landmark electric vehicle rules, even in the face of inflated oil prices, a recordbreaking year for temperatures and wildfires, and EV sales that are already rising fast enough to meet the government’s current target. Update 8/14: The government officially launched its consultation on EV rules today, even as PM Burnham was in West Midlands surveying wildfire damage exacerbated by climate change caused by gas-powered vehicles.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/04/Ford-free-EV-chargers-offer-UK.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/14/ev-sales-oil-costs-and-temperatures-are-spiking-so-uk-govt-pushes-more-gas/",
+      "published": "Sat, 15 Aug 2026 00:09:00 +0000",
+      "title_th": "เนื่องจากยอดขาย EV ราคาน้ำมัน และไฟป่าพุ่งสูงขึ้น รัฐบาลอังกฤษไม่ถือว่า EVs ลดน้อยลงใช่ไหม? (อัปเดต)",
+      "summary_th": "รัฐบาลสหราชอาณาจักรกำลังพิจารณาผ่อนคลายกฎข้อบังคับเกี่ยวกับรถยนต์ไฟฟ้าที่สำคัญ แม้ว่าจะต้องเผชิญกับราคาน้ำมันที่สูงขึ้น อุณหภูมิและไฟป่าที่ทำลายสถิติในปีนี้ และยอดขายรถยนต์ไฟฟ้าที่เพิ่มขึ้นอย่างรวดเร็วพอที่จะบรรลุเป้าหมายปัจจุบันของรัฐบาล อัปเดตเมื่อ 8/14: รัฐบาลเปิดตัวการปรึกษาหารือเกี่ยวกับกฎ EV อย่างเป็นทางการในวันนี้ แม้ว่า PM Burnham จะอยู่ใน West Midlands เพื่อสำรวจความเสียหายจากไฟป่าที่ทวีความรุนแรงขึ้นจากการเปลี่ยนแปลงสภาพภูมิอากาศที่เกิดจากยานพาหนะที่ใช้พลังงานก๊าซ"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Pixel Journal update brings cloud-based Private AI Compute, UI tweaks, & more",
-      "summary_en": "With the launch of the Pixel 11, Google is rolling out a handful of updates to the Journal app that are already appearing on older devices.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/pixel-journal-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/14/pixel-journal-ai-update/",
-      "published": "Fri, 14 Aug 2026 16:20:05 +0000",
-      "title_th": "การอัปเดต Pixel Journal นำเสนอการประมวลผล AI ส่วนตัวบนคลาวด์ การปรับแต่ง UI และอื่นๆ",
-      "summary_th": "ด้วยการเปิดตัว Pixel 11 Google กำลังเปิดตัวการอัปเดตจำนวนหนึ่งสำหรับแอป Journal ที่ปรากฏบนอุปกรณ์รุ่นเก่าแล้ว"
+      "category": "ev",
+      "title_en": "Every 2027 GM EV will plug directly into Tesla Superchargers",
+      "summary_en": "GM says every 2027 Chevy, Cadillac, and GMC EV will get a native NACS port, making compatible Tesla Superchargers easier to use.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/GMC-HUMMER-EV-ICON-25-NACS-INLET.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/14/every-2027-gm-ev-will-plug-directly-into-tesla-superchargers/",
+      "published": "Fri, 14 Aug 2026 21:40:06 +0000",
+      "title_th": "GM EV ทุกคันในปี 2027 จะเสียบเข้ากับ Tesla Superchargers โดยตรง",
+      "summary_th": "GM กล่าวว่าทุกๆ ปี 2027 Chevy, Cadillac และ GMC EV จะได้รับพอร์ต NACS ดั้งเดิม ทำให้ Tesla Superchargers ที่ใช้งานร่วมกันได้ใช้งานง่ายขึ้น"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Chevy Equinox EV vs Kia EV3: Which is America’s most affordable 315+ mile range EV?",
+      "summary_en": "The 2027 Chevrolet Equinox EV is now on sale, starting at $34,995. The 2027 Kia EV3 starts at $29,890. On GM’s website, it still says the electric Equinox is “America’s most affordable 315+ mile range EV,” but is it really?",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/10/35000-Chevy-Equinox-EV.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/14/chevy-equinox-ev-vs-kia-ev3-americas-most-affordable-315-mile-range-ev/",
+      "published": "Fri, 14 Aug 2026 21:16:45 +0000",
+      "title_th": "Chevy Equinox EV กับ Kia EV3: EV ระยะ 315+ ไมล์ที่ประหยัดที่สุดในอเมริกาคืออะไร?",
+      "summary_th": "Chevrolet Equinox EV ปี 2027 วางจำหน่ายแล้วในราคาเริ่มต้นที่ 34,995 ดอลลาร์ Kia EV3 ปี 2027 เริ่มต้นที่ 29,890 ดอลลาร์ ในเว็บไซต์ของ GM ยังคงกล่าวว่า Equinox ไฟฟ้าคือ \"EV ที่มีระยะทาง 315+ ไมล์ที่ประหยัดที่สุดในอเมริกา\" แต่จริงหรือ?"
     },
     {
       "source": "Electrek",
@@ -552,7 +588,7 @@
       "link": "https://electrek.co/2026/08/14/podcast-tesla-roadster-is-happening-kia-ev3-in-us-gas-pumps-replaced-and-more/",
       "published": "Fri, 14 Aug 2026 19:49:12 +0000",
       "title_th": "พอดแคสต์: Tesla Roadster กำลังจะเกิดขึ้น, Kia EV3 ในสหรัฐอเมริกา, เปลี่ยนปั๊มแก๊ส และอื่นๆ อีกมากมาย",
-      "summary_th": "ใน Electrek Podcast เราพูดคุยถึงข่าวยอดนิยมในโลกแห่งการขนส่งและพลังงานที่ยั่งยืน ในตอนนี้ เราจะพูดถึง Tesla Roadster ที่กำลังเกิดขึ้นจริง, Kia EV3 ที่จะวางจำหน่ายในสหรัฐฯ, ปั๊มแก๊สที่ถูกแทนที่ด้วยที่ชาร์จ EV และอื่นๆ ตอนของวันนี้ได้รับการสนับสนุนโดย GM การชาร์จ GM EV เป็นเรื่องง่ายด้วย Energy Pass และ Plug and Charge เรียนรู้เพิ่มเติมที่ https://gmenergy.gm.com/energypass"
+      "summary_th": "ใน Electrek Podcast เราพูดคุยถึงข่าวยอดนิยมในโลกแห่งการขนส่งและพลังงานที่ยั่งยืน ในตอนของสัปดาห์นี้ เราจะพูดถึง Tesla Roadster ที่กำลังเกิดขึ้นจริง, Kia EV3 ที่กำลังจะมาถึงสหรัฐอเมริกา, ปั๊มแก๊สถูกแทนที่ด้วยที่ชาร์จ EV และอื่นๆ ตอนของวันนี้ได้รับการสนับสนุนโดย GM การชาร์จ GM EV เป็นเรื่องง่ายด้วย Energy Pass และ Plug and Charge เรียนรู้เพิ่มเติมที่ https://gmenergy.gm.com/energypass"
     },
     {
       "source": "Electrek",
@@ -565,42 +601,6 @@
       "published": "Fri, 14 Aug 2026 19:47:16 +0000",
       "title_th": "Waymo ได้รับการอนุมัติจากแคลิฟอร์เนียเพื่อขยาย robotaxis ไปทั่ว 18 มณฑล",
       "summary_th": "Waymo กล่าวว่าหน่วยงานกำกับดูแลของรัฐแคลิฟอร์เนียได้ลงนามในการขยายบริการ Robotaxi ครั้งใหญ่ที่สุด โดยครอบคลุม 18 มณฑลตั้งแต่ Sonoma ไปจนถึง San Diego การอนุมัติของคณะกรรมการสาธารณูปโภคแห่งแคลิฟอร์เนียทำให้ Waymo เรียกเก็บเงินสำหรับการเดินทางแบบไร้คนขับเต็มรูปแบบทั่วบริเวณอ่าวและลอสแอนเจลิส และเปิดตลาดใหม่สองแห่งในแซคราเมนโตและซานดิเอโก"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "BYD launches the Qin Max EV for half the price of a Tesla Model 3",
-      "summary_en": "BYD’s new Qin Max is now on sale, another Tesla Model 3-sized electric sedan that’s about half the price. BYD...",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/BYD-Qin-Max-EV-prices-2.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/14/byd-launches-qin-max-ev-half-price-tesla-model-3/",
-      "published": "Fri, 14 Aug 2026 19:26:56 +0000",
-      "title_th": "BYD เปิดตัว Qin Max EV ในราคาครึ่งหนึ่งของ Tesla Model 3",
-      "summary_th": "Qin Max ใหม่ของ BYD วางจำหน่ายแล้ว ซึ่งเป็นซีดานไฟฟ้าขนาด Tesla Model 3 อีกรุ่นที่มีราคาประมาณครึ่งหนึ่ง บีวายดี..."
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Velotric Nomad 2 e-bike new 1,749 low, Greenworks 60V 54-inch MaximusZ mower bundle low, Anker SOLIX, Segway, more",
-      "summary_en": "We are closing out this week with a fully packed Green Deals edition, half of which are EV deals. To start, there’s Velotric’s newly launched End of Summer Sale , which has offers like the Nomad 2 Off-Road Fat Tire e-bike at a new $1,749 low . We also spotted a bundle for Greenworks’ 60V 54-inch MaximusZ Cordless Electric Zero Turn Riding Mower with 6x batteries and a wall charger at a new $5,000 low . There’s also the Anker SOLIX F3000 Portable Power Station at an exclusive $1,330 price, and the Segway Max G2 Electric Scooter down at $750 , which is part of the soon-to-end Back to School Sale . We also have the Worx electric leaf mulcher back at its 2026 low, Eve’s Aqua HomeKit smart water controller $6 above its 2026 low, a return Gotrax R7 e-bike low, and more waiting for you below. Tha",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Velotric-Greenworks-Anker-SOLIX-Segway-GDs-FI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/14/velotric-nomad-2-e-bike-greenworks-60v-54-inch-maximusz-mower-anker-solix-segway-more/",
-      "published": "Fri, 14 Aug 2026 18:00:00 +0000",
-      "title_th": "Velotric Nomad 2 e-bike ใหม่ 1,749 ต่ำ, Greenworks 60V 54 นิ้ว MaximusZ ชุดเครื่องตัดหญ้าต่ำ, Anker SOLIX, Segway และอีกมากมาย",
-      "summary_th": "เรากำลังปิดท้ายสัปดาห์นี้ด้วยฉบับ Green Deal ที่อัดแน่นไปด้วย ซึ่งครึ่งหนึ่งเป็นข้อตกลง EV ในการเริ่มต้น มีการเปิดตัว End of Summer Sale ใหม่ของ Velotric ซึ่งมีข้อเสนอเช่น e-bike Nomad 2 Off-Road Fat Tyre ในราคาต่ำใหม่ 1,749 ดอลลาร์ นอกจากนี้เรายังพบชุดเครื่องตัดหญ้า MaximusZ Cordless Electric Zero Turn Riding Mower ขนาด 60 โวลต์ 54 นิ้วของ Greenworks พร้อมแบตเตอรี่ 6x และอุปกรณ์ชาร์จติดผนังในราคาต่ำใหม่ 5,000 ดอลลาร์ นอกจากนี้ยังมี Anker SOLIX F3000 Portable Power Station ในราคาสุดพิเศษ 1,330 ดอลลาร์ และสกู๊ตเตอร์ไฟฟ้า Segway Max G2 ลดราคา 750 ดอลลาร์ ซึ่งเป็นส่วนหนึ่งของการขาย Back to School Sale ที่จะสิ้นสุดเร็วๆ นี้ นอกจากนี้เรายังมีเครื่องตัดหญ้าไฟฟ้า Worx ที่ระดับต่ำในปี 2026 ตัวควบคุมน้ำอัจฉริยะ Aqua HomeKit ของ Eve ที่ 6 ดอลลาร์เหนือระดับต่ำสุดในปี 2026 จักรยานไฟฟ้า Gotrax R7 ที่ส่งคืนได้ต่ำ และอื่นๆ อีกมากมายรอคุณอยู่ด้านล่าง ท่า"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Hyundai starts building the IONIQ 3, its affordable electric hatch",
-      "summary_en": "Hyundai wants the IONIQ 3 to be “the best vehicle in Europe.” With sales set to begin soon, the electric hatch is now rolling off the line.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Hyundai-IONIQ-3-EV-production.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/14/hyundai-starts-building-ioniq-3-affordable-electric-hatch/",
-      "published": "Fri, 14 Aug 2026 17:34:01 +0000",
-      "title_th": "Hyundai เริ่มสร้าง IONIQ 3 ซึ่งเป็นฟักไฟฟ้าราคาประหยัด",
-      "summary_th": "Hyundai ต้องการให้ IONIQ 3 เป็น \"รถยนต์ที่ดีที่สุดในยุโรป\" เนื่องจากการขายจะเริ่มขึ้นในเร็วๆ นี้ ฟักไฟฟ้าจึงเริ่มจำหน่ายแล้ว"
     }
   ],
   "indices": [
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 270.0,
+      "change": 2.0,
+      "change_pct": 0.75
     }
   ],
   "reviews": [
@@ -733,6 +733,16 @@
     {
       "channel": "Beartai",
       "country": "TH",
+      "title_en": "ช่องโหว่ที่ทำให้สุขภาพไม่ดี",
+      "video_id": "O84TuQtt3fw",
+      "link": "https://www.youtube.com/shorts/O84TuQtt3fw",
+      "thumbnail": "https://i4.ytimg.com/vi/O84TuQtt3fw/hqdefault.jpg",
+      "published": "2026-08-14T23:00:03+00:00",
+      "title_th": "ช่องโหว่ที่ทำให้สุขภาพไม่ดี"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
       "title_en": "'นักท่องเที่ยว' ถ้าร้ายนัก ต้องรักไหม ? | Go with The Four",
       "video_id": "FZ0CEShEC4Y",
       "link": "https://www.youtube.com/watch?v=FZ0CEShEC4Y",
@@ -749,16 +759,6 @@
       "thumbnail": "https://i3.ytimg.com/vi/n0vOziOd_So/hqdefault.jpg",
       "published": "2026-08-13T05:52:34+00:00",
       "title_th": "ทำไมระบบสุขภาพไทย เน้นซ่อมมากกว่าสร้าง ?"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "สถิติสุขภาพคนไทย อัตราตายก่อนวัยอันควรสูงถึง 14%",
-      "video_id": "FZzYictu68s",
-      "link": "https://www.youtube.com/shorts/FZzYictu68s",
-      "thumbnail": "https://i3.ytimg.com/vi/FZzYictu68s/hqdefault.jpg",
-      "published": "2026-08-13T05:48:10+00:00",
-      "title_th": "สถิติสุขภาพคนไทย อัตราตายก่อนวัยอันควรสูงถึง 14%"
     },
     {
       "channel": "Droidsans",
