@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T06:17:56.407787+00:00",
+  "generated_at": "2026-08-15T09:16:19.275044+00:00",
   "count": 50,
   "articles": [
     {
@@ -48,7 +48,7 @@
       "link": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
       "published": "Fri, 14 Aug 2026 19:04:32 +0000",
       "title_th": "สิ่งที่เรารู้เกี่ยวกับการแฮ็กระบบสาธารณูปโภคด้านน้ำของสหรัฐฯ ที่ถูกกล่าวหาโดยอิหร่าน",
-      "summary_th": "ในช่วงสองสามสัปดาห์ที่ผ่านมา แฮกเกอร์ได้กำหนดเป้าหมายและเจาะระบบของโรงงานน้ำหลายแห่งในสหรัฐอเมริกา นี่คือสิ่งที่เรารู้และไม่รู้เกี่ยวกับการโจมตีระลอกนี้ซึ่งถูกกล่าวหาว่าดำเนินการโดยรัฐบาลอิหร่าน"
+      "summary_th": "ในช่วงสองสามสัปดาห์ที่ผ่านมา แฮกเกอร์ได้กำหนดเป้าหมายและเจาะระบบของโรงผลิตน้ำหลายแห่งในสหรัฐอเมริกา นี่คือสิ่งที่เรารู้และไม่รู้เกี่ยวกับการโจมตีระลอกนี้ซึ่งถูกกล่าวหาว่าดำเนินการโดยรัฐบาลอิหร่าน"
     },
     {
       "source": "TechCrunch",
@@ -131,7 +131,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg",
       "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
       "published": "Fri, 14 Aug 2026 17:03:54 +0000",
-      "title_th": "สถานี PBS กลัวการสูญเสียข้อมูล 50TB หลังจากถูกโกสต์โดยผู้ให้บริการพื้นที่เก็บข้อมูลบนคลาวด์",
+      "title_th": "สถานี PBS กลัวสูญเสียข้อมูล 50TB หลังจากถูกโกสต์โดยผู้ให้บริการพื้นที่เก็บข้อมูลบนคลาวด์",
       "summary_th": "“เราไม่สามารถเข้าถึงข้อมูลบนฮาร์ดแวร์/เซิร์ฟเวอร์ได้” Iron Mountain กล่าวกับ Ars"
     },
     {
@@ -144,7 +144,7 @@
       "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
       "published": "Fri, 14 Aug 2026 14:27:14 +0000",
       "title_th": "OpenAI และ Anthropic ในสงครามราคาเมื่อคู่แข่ง AI ของจีนเข้ามามีส่วนร่วม",
-      "summary_th": "กลุ่มสหรัฐฯ เปิดตัวโมเดลราคาถูกหลังความท้าทายใหม่ต่อความทะเยอทะยานล้านล้านดอลลาร์"
+      "summary_th": "กลุ่มบริษัทในสหรัฐฯ เปิดตัวโมเดลราคาถูกหลังจากความท้าทายใหม่ต่อความทะเยอทะยานล้านล้านดอลลาร์ของพวกเขา"
     },
     {
       "source": "Ars Technica",
@@ -181,6 +181,18 @@
       "published": "Tue, 11 Aug 2026 11:30:08 +0000",
       "title_th": "การโจมตี Pass-ta-key ใหม่เผยให้เห็นทุกสิ่งที่เราไม่รู้เกี่ยวกับรหัสผ่าน",
       "summary_th": "เหตุใดแอปรหัสผ่านจึงปฏิบัติต่อ Windows แตกต่างจากระบบปฏิบัติการอื่น"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+      "summary_en": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
+      "image": "https://media.wired.com/photos/6a7f62de9dba743672684be2/master/pass/GettyImages-1305224058-edited.jpg",
+      "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+      "published": "Sat, 15 Aug 2026 09:00:00 +0000",
+      "title_th": "Amazon สามารถใช้เนื้อหา Twitch ของคุณเพื่อฝึก AI ได้ เว้นแต่คุณจะเลือกไม่ใช้",
+      "summary_th": "เมื่อ Twitch ประกาศว่าสตรีมเมอร์สามารถเลือกไม่รับได้ ผู้ใช้หลายพันคนตั้งคำถามว่าทำไมเนื้อหาของพวกเขาจึงถูกใช้เพื่อฝึกโมเดล AI ตั้งแต่แรก"
     },
     {
       "source": "Wired",
@@ -231,18 +243,6 @@
       "summary_th": "หากปฏิทินดิจิทัลทำให้คุณขาด วาระกระดาษและสมุดบันทึกที่ทดสอบโดย WIRED เหล่านี้สามารถเปลี่ยนชีวิตคุณได้"
     },
     {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "FTC Strikes Deals to Ignore Unlawful Credit Discrimination",
-      "summary_en": "The agency signed agreements to not enforce parts of three federal court orders against auto dealers accused of discrimination—and didn’t notify judges or at least one of its coplaintiffs.",
-      "image": "https://media.wired.com/photos/6a7a36c7a151eb9278537980/master/pass/Politics_FTC%20Cuts%20Secret%20Side%20Deals%20With%20Businesses%20Accused%20of%20Discrimination_v1.jpg",
-      "link": "https://www.wired.com/story/ftc-strikes-deals-to-ignore-unlawful-credit-discrimination/",
-      "published": "Fri, 14 Aug 2026 11:00:00 +0000",
-      "title_th": "FTC ตกลงข้อตกลงเพื่อเพิกเฉยต่อการเลือกปฏิบัติด้านเครดิตที่ผิดกฎหมาย",
-      "summary_th": "หน่วยงานได้ลงนามในข้อตกลงที่จะไม่บังคับใช้บางส่วนของคำสั่งศาลรัฐบาลกลางสามคำสั่งกับตัวแทนจำหน่ายรถยนต์ที่ถูกกล่าวหาว่ามีการเลือกปฏิบัติ และไม่ได้แจ้งผู้พิพากษาหรือโจทก์ร่วมอย่างน้อยหนึ่งคน"
-    },
-    {
       "source": "MIT Technology Review",
       "flag": "US",
       "category": "ai",
@@ -263,8 +263,8 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/HLY_5765-FINAL.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
       "published": "Fri, 14 Aug 2026 09:00:00 +0000",
-      "title_th": "นักวิทยาศาสตร์คนนี้กำลังช่วยสร้างแผนที่วัยเด็กที่หายไป",
-      "summary_th": "ในปี 2017 Deanne Taylor เข้าร่วมการนำเสนอที่มหาวิทยาลัยเพนซิลเวเนีย ซึ่งอยู่ห่างจากสำนักงานของเธอโดยใช้เวลาเดินเพียงไม่นาน นักวิจัยอยู่ที่นั่นเพื่อเปิดเผย Human Cell Atlas ซึ่งเป็นโครงการที่มีความทะเยอทะยานซึ่งมีจุดมุ่งหมายเพื่อสร้างแผนที่ทุกเซลล์ในร่างกายมนุษย์ เทย์เลอร์ตกตะลึงแล้วก็กังวล เมื่อรายละเอียดปรากฏ เธอพบว่า..."
+      "title_th": "นักวิทยาศาสตร์คนนี้กำลังช่วยสร้างแผนที่ในวัยเด็กที่หายไป",
+      "summary_th": "ในปี 2017 Deanne Taylor เข้าร่วมการนำเสนอที่มหาวิทยาลัยเพนซิลวาเนีย ซึ่งอยู่ห่างจากสำนักงานของเธอโดยใช้เวลาเดินเพียงไม่นาน นักวิจัยอยู่ที่นั่นเพื่อเปิดเผย Human Cell Atlas ซึ่งเป็นโครงการที่มีความทะเยอทะยานซึ่งมีจุดมุ่งหมายเพื่อสร้างแผนที่ทุกเซลล์ในร่างกายมนุษย์ เทย์เลอร์ตกตะลึงแล้วก็กังวล เมื่อรายละเอียดปรากฏ เธอพบว่า..."
     },
     {
       "source": "MIT Technology Review",
@@ -348,7 +348,7 @@
       "link": "https://www.engadget.com/2235787/best-battery-life-for-macbook-settings/",
       "published": "Fri, 14 Aug 2026 15:30:00 +0000",
       "title_th": "รับอายุการใช้งานแบตเตอรี่ที่ดีที่สุดสำหรับ MacBook ของคุณโดยเปลี่ยนการตั้งค่าเหล่านี้",
-      "summary_th": "แบตเตอรี่แล็ปท็อปไม่ได้อยู่ตลอดไป แต่มีบางสิ่งที่คุณสามารถทำได้ในวันนี้ซึ่งอาจส่งผลต่ออายุการใช้งานแบตเตอรี่ของ MacBook"
+      "summary_th": "แบตเตอรี่แล็ปท็อปไม่ได้อยู่ตลอดไป แต่มีบางสิ่งที่คุณสามารถทำได้ในวันนี้ซึ่งอาจส่งผลต่ออายุการใช้งานแบตเตอรี่ของ MacBook ของคุณ"
     },
     {
       "source": "Engadget",
@@ -384,7 +384,7 @@
       "link": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
       "published": "Fri, 14 Aug 2026 17:27:12 +0000",
       "title_th": "ทำนายการเชื่อมต่อเสาอากาศบนแพลตฟอร์มไฟฟ้าขนาดใหญ่ก่อนสร้างฮาร์ดแวร์",
-      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นทำนายการต่อเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามแบบใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
+      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นทำนายการต่อเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามประการใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
     },
     {
       "source": "IEEE Spectrum",
@@ -396,7 +396,7 @@
       "link": "https://spectrum.ieee.org/product-engineer",
       "published": "Thu, 13 Aug 2026 14:44:50 +0000",
       "title_th": "นำแนวคิดของผู้จัดการผลิตภัณฑ์มาใช้กับงานวิศวกรรมครั้งต่อไปของคุณ",
-      "summary_th": "หากคุณยังไม่เห็นตำแหน่งงานสำหรับ “วิศวกรผลิตภัณฑ์” คุณอาจจะได้ทราบเร็วๆ นี้ งานที่จู่ๆ ทุกคนก็จ้างมา บทบาทนี้เปรียบเสมือนลูกผสมระหว่างผู้จัดการผลิตภัณฑ์และวิศวกร (ตามชื่อเลย) และเป็นเทรนด์การจ้างงานที่ควรค่าแก่การใส่ใจ บริษัทต่างๆ กำลังเปิดรับตำแหน่งงานเหล่านี้เพิ่มขึ้นทุกๆ เดือน แต่พวกเขาก็ประสบปัญหาในการเติมเต็มตำแหน่งดังกล่าว เหตุผลแทบจะไม่เกี่ยวข้องกับทักษะการเขียนโค้ดของวิศวกรหรือประสบการณ์หลายปี การย้ายอาชีพที่ดีที่สุดที่คุณสามารถทำได้เพื่อเตรียมพร้อมสำหรับบทบาทประเภทนี้แทบจะไม่เกี่ยวข้องกับการได้รับความรู้ด้านเทคนิคมากขึ้นเลย แต่กลับกลายเป็นคำที่ฟุ่มเฟือยที่สุด ใช้มากเกินไป และอาจแย่ที่สุดในเทคโนโลยีทั้งหมด: ความคิด ติดกับฉันฉันสัญญาว่าสิ่งนี้จะเป็นประโยชน์ ปัญหา: เราถูกฝึกให้เป็นทาส"
+      "summary_th": "หากคุณยังไม่เห็นตำแหน่งงานสำหรับ “วิศวกรผลิตภัณฑ์” คุณอาจจะได้ทราบเร็วๆ นี้ งานที่จู่ๆ ทุกคนก็จ้างเข้ามา บทบาทนี้เปรียบเสมือนลูกผสมระหว่างผู้จัดการผลิตภัณฑ์และวิศวกร (ตามชื่อเลย) และเป็นเทรนด์การจ้างงานที่ควรค่าแก่การใส่ใจ บริษัทต่างๆ กำลังเปิดรับตำแหน่งงานเหล่านี้เพิ่มขึ้นทุกๆ เดือน แต่พวกเขาก็ประสบปัญหาในการเติมเต็มตำแหน่งดังกล่าว เหตุผลแทบไม่เกี่ยวข้องกับทักษะการเขียนโค้ดของวิศวกรหรือประสบการณ์หลายปี การย้ายอาชีพที่ดีที่สุดที่คุณสามารถทำได้เพื่อเตรียมพร้อมสำหรับบทบาทประเภทนี้แทบจะไม่เกี่ยวข้องกับการได้รับความรู้ด้านเทคนิคมากขึ้นเลย แต่กลับกลายเป็นคำที่ฟุ่มเฟือยที่สุด ใช้มากเกินไป และอาจเลวร้ายที่สุดในเทคโนโลยีทั้งหมด: ความคิด ติดกับฉันฉันสัญญาว่าสิ่งนี้จะเป็นประโยชน์ ปัญหา: เราถูกฝึกให้เป็นทาส"
     },
     {
       "source": "IEEE Spectrum",
@@ -669,5 +669,126 @@
       "change_pct": 0.75
     }
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Google Pixel 11/Pro/Fold Impressions: It Is What It Is",
+      "video_id": "o4SSoURPODY",
+      "link": "https://www.youtube.com/watch?v=o4SSoURPODY",
+      "thumbnail": "https://i4.ytimg.com/vi/o4SSoURPODY/hqdefault.jpg",
+      "published": "2026-08-12T14:00:35+00:00",
+      "title_th": "การแสดงผลของ Google Pixel 11/Pro/Fold: มันคือสิ่งที่เป็นอยู่"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Galaxy Z Fold 8 Review: Honeymoon's Over",
+      "video_id": "Z6z_feacXW8",
+      "link": "https://www.youtube.com/watch?v=Z6z_feacXW8",
+      "thumbnail": "https://i3.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg",
+      "published": "2026-08-01T00:05:00+00:00",
+      "title_th": "รีวิว Galaxy Z Fold 8: ฮันนีมูนจบลงแล้ว"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Framework 13 Pro: The Modular Laptop is Real!",
+      "video_id": "_xjxwl1zLMc",
+      "link": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
+      "thumbnail": "https://i4.ytimg.com/vi/_xjxwl1zLMc/hqdefault.jpg",
+      "published": "2026-07-27T15:38:21+00:00",
+      "title_th": "Framework 13 Pro: แล็ปท็อปแบบแยกส่วนมีจริง!"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "New Ninja Water Gadget",
+      "video_id": "8Ddp5WaMp_8",
+      "link": "https://www.youtube.com/shorts/8Ddp5WaMp_8",
+      "thumbnail": "https://i1.ytimg.com/vi/8Ddp5WaMp_8/hqdefault.jpg",
+      "published": "2026-08-13T17:52:31+00:00",
+      "title_th": "อุปกรณ์น้ำนินจาใหม่"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Listen To This...(SOUND ON)",
+      "video_id": "Pti27NIzuIg",
+      "link": "https://www.youtube.com/shorts/Pti27NIzuIg",
+      "thumbnail": "https://i1.ytimg.com/vi/Pti27NIzuIg/hqdefault.jpg",
+      "published": "2026-08-12T17:27:42+00:00",
+      "title_th": "ฟังนี่...(เปิดเสียง)"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "You Won’t Believe What This Sounds Like...",
+      "video_id": "7imHGvEtaBw",
+      "link": "https://www.youtube.com/watch?v=7imHGvEtaBw",
+      "thumbnail": "https://i4.ytimg.com/vi/7imHGvEtaBw/hqdefault.jpg",
+      "published": "2026-08-11T15:35:11+00:00",
+      "title_th": "คุณจะไม่เชื่อว่าสิ่งนี้ฟังดูเป็นอย่างไร..."
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "ช่องโหว่ที่ทำให้สุขภาพไม่ดี",
+      "video_id": "O84TuQtt3fw",
+      "link": "https://www.youtube.com/shorts/O84TuQtt3fw",
+      "thumbnail": "https://i4.ytimg.com/vi/O84TuQtt3fw/hqdefault.jpg",
+      "published": "2026-08-14T23:00:03+00:00",
+      "title_th": "ช่องโหว่ที่ทำให้สุขภาพไม่ดี"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "'นักท่องเที่ยว' ถ้าร้ายนัก ต้องรักไหม ? | Go with The Four",
+      "video_id": "FZ0CEShEC4Y",
+      "link": "https://www.youtube.com/watch?v=FZ0CEShEC4Y",
+      "thumbnail": "https://i3.ytimg.com/vi/FZ0CEShEC4Y/hqdefault.jpg",
+      "published": "2026-08-14T11:00:34+00:00",
+      "title_th": "'นักท่องเที่ยว' ถ้าร้ายนัก ต้องรักไหม ? | Go with The Four"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "ทำไมระบบสุขภาพไทย เน้นซ่อมมากกว่าสร้าง ?",
+      "video_id": "n0vOziOd_So",
+      "link": "https://www.youtube.com/shorts/n0vOziOd_So",
+      "thumbnail": "https://i3.ytimg.com/vi/n0vOziOd_So/hqdefault.jpg",
+      "published": "2026-08-13T05:52:34+00:00",
+      "title_th": "ทำไมระบบสุขภาพไทย เน้นซ่อมมากกว่าสร้าง ?"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "สมาร์ตวอทช์ สายสุขภาพ น่าซื้อ งบเริ่มต้น 1,000 บาท | Garmin, Samsung, Huawei, Xiaomi, Polar, Amazfit",
+      "video_id": "00U3_9hOMbE",
+      "link": "https://www.youtube.com/watch?v=00U3_9hOMbE",
+      "thumbnail": "https://i1.ytimg.com/vi/00U3_9hOMbE/hqdefault.jpg",
+      "published": "2026-08-14T13:06:58+00:00",
+      "title_th": "สมาร์ตวอทช์ สายสุขภาพ น่าซื้อ งบเริ่มต้น 1,000 บาท | Garmin, Samsung, Huawei, Xiaomi, Polar, Amazfit"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "สรุปเปิดตัว Google Pixel 11 ทุกรุ่น อัปเกรดใหม่ ไฟ HiLight ซูมไกล AI จัดเต็ม",
+      "video_id": "zTq0D-FxEwE",
+      "link": "https://www.youtube.com/watch?v=zTq0D-FxEwE",
+      "thumbnail": "https://i3.ytimg.com/vi/zTq0D-FxEwE/hqdefault.jpg",
+      "published": "2026-08-13T12:57:05+00:00",
+      "title_th": "สรุปเปิดตัว Google Pixel 11 ทุกรุ่น อัปเกรดใหม่ ไฟ HiLight ซูมไกล AI จัดเต็ม"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "ไหนใครคิดถึง ? Nokia 215 4G 2nd Edition ถอดแบตได้ มีปุ่ม AI เล่นแอปโซเชียลได้ #Nokia #โนเกีย #มือถือ",
+      "video_id": "u71PNWdp60A",
+      "link": "https://www.youtube.com/shorts/u71PNWdp60A",
+      "thumbnail": "https://i2.ytimg.com/vi/u71PNWdp60A/hqdefault.jpg",
+      "published": "2026-08-13T12:22:32+00:00",
+      "title_th": "ไหนใครคิดถึง ? Nokia 215 4G 2nd Edition ถอดแบตได้ มีปุ่ม AI เล่นแอปโซเชียลได้ #Nokia #โนเกีย #มือถือ"
+    }
+  ]
 }
