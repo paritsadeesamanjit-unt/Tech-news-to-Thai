@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-15T18:11:56.038798+00:00",
+  "generated_at": "2026-08-15T21:11:55.688738+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "summary_en": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/01/Magnifying-glasses.jpg?resize=1200,840",
+      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "published": "Sat, 15 Aug 2026 18:58:39 +0000",
+      "title_th": "Anthropic แบ่งปันรายละเอียดเพิ่มเติมเกี่ยวกับวิธีการทำงานของลายน้ำใหม่ของ Claude",
+      "summary_th": "ลายน้ำจะทำงานอย่างไรจริง ๆ ? ซ่อนไว้แก้ไขได้มั้ยคะ? และสิ่งนี้ส่งผลต่อโค้ดอย่างไร?"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -51,16 +63,16 @@
       "summary_th": "มีรายงานว่า PayPal ยังคงเจรจาการขายที่เป็นไปได้ให้กับ Stripe และบริษัทไพรเวทอิควิตี้ Advent เนื่องจากซีอีโอคนใหม่ของบริษัท fintech พยายามที่จะเปลี่ยนบริษัท"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Self-driving trucks are officially testing on California highways",
-      "summary_en": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/KODIAK_GEN5_HIGHWAY_3.jpg?resize=1200,801",
-      "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
-      "published": "Fri, 14 Aug 2026 20:37:49 +0000",
-      "title_th": "รถบรรทุกไร้คนขับกำลังทดสอบอย่างเป็นทางการบนทางหลวงแคลิฟอร์เนีย",
-      "summary_th": "Aurora Innovation และ Kodiak AI สองบริษัทที่พัฒนารถบรรทุกไร้คนขับ ได้รับใบอนุญาตจากกระทรวงยานยนต์แห่งแคลิฟอร์เนีย"
+      "category": "software",
+      "title_en": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "summary_en": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-at-4.40.53-PM.png?quality=90&strip=all&crop=8.7465986394558%2C0%2C82.506802721088%2C100&w=1200",
+      "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "published": "2026-08-15T16:45:00-04:00",
+      "title_th": "หัวเราะกับค่าใช้จ่ายของ AI ด้วยการสวมบทบาทเป็นแชทบอท",
+      "summary_th": "AI Slop Bores Me ของคุณยอดเยี่ยมในความเรียบง่าย มีสองแท็บ: มนุษย์และ LARP ในรูปแบบ AI ด้านหนึ่งคุณป้อนคำขอ อีกด้านหนึ่ง คุณส่งคำตอบ แต่สิ่งสำคัญคือ มีมนุษย์อยู่ทั้งสองด้านของสมการ พรอมต์สามารถขอคำตอบเป็น […]"
     },
     {
       "source": "The Verge",
@@ -84,7 +96,7 @@
       "link": "https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23",
       "published": "2026-08-15T10:58:27-04:00",
       "title_th": "Star Wars: Ahsoka ซีซั่น 2 และ Starfighter ถูกล้อเลียนที่ D23",
-      "summary_th": "ซีซั่นที่สองของ Star Wars: Ahsoka อยู่ห่างออกไปหลายเดือน แต่ Lucasfilm ยังคงถือโอกาสหยอกล้อเล็กน้อยที่ D23 บริษัทปล่อยตัวอย่างแรกสำหรับซีซั่นใหม่ก่อนเปิดตัวในวันที่ 20 มกราคม 2027 คลิปนี้แสดงให้เห็นถึงความมืดมนและเต็มไปด้วยเวทมนตร์ในจักรวาล Star Wars โดย Grand Admiral […]"
+      "summary_th": "ซีซั่นที่สองของ Star Wars: Ahsoka อยู่ห่างออกไปหลายเดือน แต่ Lucasfilm ยังคงถือโอกาสหยอกล้อเล็กน้อยที่ D23 บริษัทได้ปล่อยตัวอย่างแรกสำหรับซีซั่นใหม่ก่อนเปิดตัวในวันที่ 20 มกราคม 2027 คลิปนี้แสดงให้เห็นถึงความมืดมนและเต็มไปด้วยเวทมนตร์ในจักรวาล Star Wars โดย Grand Admiral […]"
     },
     {
       "source": "The Verge",
@@ -111,18 +123,6 @@
       "summary_th": "ฉันบอกตัวเองว่าจะไม่ซื้ออุปกรณ์เสริม OhSnap สำหรับโทรศัพท์ของฉัน ทุกสิ่งที่ฉันทดสอบนั้นดี แต่รู้สึกว่าแพงเกินไปและมีข้อบกพร่องเล็กน้อย หลังจากที่ฉันชั่งน้ำหนัก Snap Grip 5 มูลค่า 40 ดอลลาร์เมื่อปีที่แล้ว ฉันก็กลับมาใช้ Syncwire มูลค่า 25 ดอลลาร์แทน แต่ในที่สุด Snap Grip Stand มูลค่า 50 ดอลลาร์ของ OhSnap ก็มาหาฉัน ถึง […]"
     },
     {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver",
-      "summary_en": "With Spider-Man: Brand New Day behind us, and its reveal of Sadie Sink as Jean Grey, Marvel is finally ready to officially welcome the X-Men into the MCU. At the D23 event in Anaheim yesterday, the company revealed the cast for its upcoming, untitled X-Men film, which is scheduled to hit theaters on May 5th […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/20260814_tp1_8222-1024x683-1.jpg?quality=90&strip=all&crop=0,10.75214828329,100,78.49570343342",
-      "link": "https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast",
-      "published": "2026-08-15T10:03:14-04:00",
-      "title_th": "Marvel เผยโฉมนักแสดง X-Men ใหม่ รวมถึง Inde Navarrette และ Adam Driver",
-      "summary_th": "เมื่อ Spider-Man: Brand New Day อยู่ข้างหลังเรา และการเปิดเผย Sadie Sink ในบท Jean Grey ในที่สุด Marvel ก็พร้อมที่จะต้อนรับ X-Men เข้าสู่ MCU อย่างเป็นทางการ ที่งาน D23 ที่อนาไฮม์เมื่อวานนี้ บริษัทได้เปิดเผยรายชื่อนักแสดงสำหรับภาพยนตร์ X-Men ที่ยังไม่มีชื่อซึ่งมีกำหนดเข้าฉายในโรงภาพยนตร์วันที่ 5 พฤษภาคม […]"
-    },
-    {
       "source": "Ars Technica",
       "flag": "US",
       "category": "software",
@@ -144,7 +144,7 @@
       "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
       "published": "Fri, 14 Aug 2026 14:27:14 +0000",
       "title_th": "OpenAI และ Anthropic ในสงครามราคาเมื่อคู่แข่ง AI ของจีนเข้ามามีส่วนร่วม",
-      "summary_th": "กลุ่มสหรัฐฯ เปิดตัวโมเดลราคาถูกหลังความท้าทายใหม่ต่อความทะเยอทะยานล้านล้านดอลลาร์"
+      "summary_th": "กลุ่มบริษัทในสหรัฐฯ เปิดตัวโมเดลราคาถูกหลังจากความท้าทายใหม่ต่อความทะเยอทะยานล้านล้านดอลลาร์ของพวกเขา"
     },
     {
       "source": "Ars Technica",
@@ -263,8 +263,8 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/HLY_5765-FINAL.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
       "published": "Fri, 14 Aug 2026 09:00:00 +0000",
-      "title_th": "นักวิทยาศาสตร์คนนี้กำลังช่วยสร้างแผนที่วัยเด็กที่หายไป",
-      "summary_th": "ในปี 2017 Deanne Taylor เข้าร่วมการนำเสนอที่มหาวิทยาลัยเพนซิลเวเนีย ซึ่งอยู่ห่างจากสำนักงานของเธอโดยใช้เวลาเดินเพียงไม่นาน นักวิจัยอยู่ที่นั่นเพื่อเปิดเผย Human Cell Atlas ซึ่งเป็นโครงการที่มีความทะเยอทะยานซึ่งมีจุดมุ่งหมายเพื่อสร้างแผนที่ทุกเซลล์ในร่างกายมนุษย์ เทย์เลอร์ตกตะลึงแล้วก็กังวล เมื่อรายละเอียดปรากฏ เธอพบว่า..."
+      "title_th": "นักวิทยาศาสตร์คนนี้กำลังช่วยสร้างแผนที่ในวัยเด็กที่หายไป",
+      "summary_th": "ในปี 2017 Deanne Taylor เข้าร่วมการนำเสนอที่มหาวิทยาลัยเพนซิลวาเนีย ซึ่งอยู่ห่างจากสำนักงานของเธอโดยใช้เวลาเดินเพียงไม่นาน นักวิจัยอยู่ที่นั่นเพื่อเปิดเผย Human Cell Atlas ซึ่งเป็นโครงการที่มีความทะเยอทะยานซึ่งมีจุดมุ่งหมายเพื่อสร้างแผนที่ทุกเซลล์ในร่างกายมนุษย์ เทย์เลอร์ตกตะลึงแล้วก็กังวล เมื่อรายละเอียดปรากฏ เธอพบว่า..."
     },
     {
       "source": "MIT Technology Review",
@@ -306,6 +306,42 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "Apple Watch battery replacement: How much does it cost and is it worth it?",
+      "summary_en": "Replacing the battery on your Apple Watch can extend its life, but you'll have to determine whether it's worthwhile for your model.",
+      "image": "https://www.engadget.com/img/gallery/apple-watch-battery-replacement-how-much-does-it-cost-and-is-it-worth-it/l-intro-1786723362.jpg",
+      "link": "https://www.engadget.com/2237226/apple-watch-battery-replacement-how-much-cost-worth-it/",
+      "published": "Sat, 15 Aug 2026 20:00:00 +0000",
+      "title_th": "การเปลี่ยนแบตเตอรี่ Apple Watch: ราคาเท่าไหร่และคุ้มค่าหรือไม่",
+      "summary_th": "การเปลี่ยนแบตเตอรี่บน Apple Watch ของคุณสามารถยืดอายุการใช้งานได้ แต่คุณจะต้องพิจารณาว่าคุ้มค่ากับรุ่นของคุณหรือไม่"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Why are RAM prices so high right now?",
+      "summary_en": "When will the price of RAM come back down again?",
+      "image": "https://www.engadget.com/img/gallery/why-are-ram-prices-so-high-right-now/l-intro-1786661687.jpg",
+      "link": "https://www.engadget.com/2236799/why-ram-prices-so-high/",
+      "published": "Sat, 15 Aug 2026 18:30:00 +0000",
+      "title_th": "ทำไมราคา RAM ถึงสูงในตอนนี้?",
+      "summary_th": "เมื่อไหร่ราคา RAM จะกลับมาลดราคาอีกครั้ง?"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Anthropic is watermarking text generated by Claude to comply with EU law",
+      "summary_en": "Anthropic has explained its text watermarking approach.",
+      "image": "https://www.engadget.com/img/gallery/anthropic-is-watermarking-text-generated-by-claude-to-comply-with-eu-law/l-intro-1786817154.jpg",
+      "link": "https://www.engadget.com/2237691/anthropic-watermarking-text-generated-by-claude/",
+      "published": "Sat, 15 Aug 2026 18:08:36 +0000",
+      "title_th": "Anthropic คือข้อความลายน้ำที่สร้างโดย Claude เพื่อให้สอดคล้องกับกฎหมายของสหภาพยุโรป",
+      "summary_th": "Anthropic ได้อธิบายวิธีการใส่ลายน้ำข้อความแล้ว"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "What the world's oldest telecommunications company looks like today",
       "summary_en": "While there have been many twists and turns in the company's evolution, it remains one of the biggest names in the telecommunications industry.",
       "image": "https://www.engadget.com/img/gallery/what-the-worlds-oldest-telecommunications-company-looks-like-today/l-intro-1786628383.jpg",
@@ -324,43 +360,7 @@
       "link": "https://www.engadget.com/2234241/xbox-refund-how-to-request/",
       "published": "Sat, 15 Aug 2026 16:30:00 +0000",
       "title_th": "วิธีขอเงินคืน Xbox",
-      "summary_th": "Xbox เสนอการคืนเงินสำหรับบางเกมและแอป แต่มีข้อกำหนดที่คุณควรทำความเข้าใจก่อนที่จะขอ"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "What is analog TV and how is it different from digital TV?",
-      "summary_en": "Going analog is all the rage, but does it apply to the small screen?",
-      "image": "https://www.engadget.com/img/gallery/what-is-analog-tv-and-how-is-it-different-from-digital-tv/l-intro-1785974166.jpg",
-      "link": "https://www.engadget.com/2234240/what-is-analog-tv-how-different-from-digital-tv/",
-      "published": "Sat, 15 Aug 2026 15:30:00 +0000",
-      "title_th": "ทีวีแอนะล็อกคืออะไร และแตกต่างจากทีวีดิจิทัลอย่างไร",
-      "summary_th": "การใช้ระบบอนาล็อกนั้นเป็นเรื่องที่โกรธมาก แต่จะใช้ได้กับหน้าจอขนาดเล็กหรือไม่?"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "What happens when a hybrid battery dies and what to do about it",
-      "summary_en": "Don't wait to have your car checked out if its traction battery is having problems.",
-      "image": "https://www.engadget.com/img/gallery/what-happens-when-a-hybrid-battery-dies-and-what-to-do-about-it/l-intro-1786037757.jpg",
-      "link": "https://www.engadget.com/2234238/what-happens-when-hybrid-battery-dies/",
-      "published": "Sat, 15 Aug 2026 13:30:00 +0000",
-      "title_th": "จะเกิดอะไรขึ้นเมื่อแบตเตอรี่ไฮบริดหมดและต้องทำอย่างไร",
-      "summary_th": "อย่ารอช้าที่จะให้รถของคุณตรวจดูว่าแบตเตอรี่ฉุดลากมีปัญหาหรือไม่"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "USB4 Vs USB-C: What's the difference between them?",
-      "summary_en": "While USB-C is a type of cable, USB4 is the newest USB standard. USB4 allows for faster data transfer and better multitasking.",
-      "image": "https://www.engadget.com/img/gallery/usb4-vs-usb-c-whats-the-difference-between-them/l-intro-1786126518.jpg",
-      "link": "https://www.engadget.com/2234235/usb4-vs-usbc-differences-between-explained/",
-      "published": "Sat, 15 Aug 2026 13:00:00 +0000",
-      "title_th": "USB4 กับ USB-C: อะไรคือความแตกต่างระหว่างพวกเขา?",
-      "summary_th": "แม้ว่า USB-C จะเป็นสายเคเบิลชนิดหนึ่ง แต่ USB4 ก็เป็นมาตรฐาน USB ใหม่ล่าสุด USB4 ช่วยให้ถ่ายโอนข้อมูลได้เร็วขึ้นและทำงานหลายอย่างพร้อมกันได้ดีขึ้น"
+      "summary_th": "Xbox เสนอการคืนเงินสำหรับเกมและแอปบางรายการ แต่มีข้อกำหนดที่คุณควรทำความเข้าใจก่อนที่จะขอ"
     },
     {
       "source": "IEEE Spectrum",
@@ -384,7 +384,7 @@
       "link": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
       "published": "Fri, 14 Aug 2026 17:27:12 +0000",
       "title_th": "ทำนายการเชื่อมต่อเสาอากาศบนแพลตฟอร์มไฟฟ้าขนาดใหญ่ก่อนสร้างฮาร์ดแวร์",
-      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นทำนายการต่อเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามแบบใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
+      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นทำนายการต่อเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามประการใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
     },
     {
       "source": "IEEE Spectrum",
@@ -396,7 +396,7 @@
       "link": "https://spectrum.ieee.org/product-engineer",
       "published": "Thu, 13 Aug 2026 14:44:50 +0000",
       "title_th": "นำแนวคิดของผู้จัดการผลิตภัณฑ์มาใช้กับงานวิศวกรรมครั้งต่อไปของคุณ",
-      "summary_th": "หากคุณยังไม่เห็นตำแหน่งงานสำหรับ “วิศวกรผลิตภัณฑ์” คุณอาจจะได้ทราบเร็วๆ นี้ งานที่จู่ๆ ทุกคนก็จ้างมา บทบาทนี้เปรียบเสมือนลูกผสมระหว่างผู้จัดการผลิตภัณฑ์และวิศวกร (ตามชื่อเลย) และเป็นเทรนด์การจ้างงานที่ควรค่าแก่การใส่ใจ บริษัทต่างๆ กำลังเปิดรับตำแหน่งงานเหล่านี้เพิ่มขึ้นทุกๆ เดือน แต่พวกเขาก็ประสบปัญหาในการเติมเต็มตำแหน่งดังกล่าว เหตุผลแทบจะไม่เกี่ยวข้องกับทักษะการเขียนโค้ดของวิศวกรหรือประสบการณ์หลายปี การย้ายอาชีพที่ดีที่สุดที่คุณสามารถทำได้เพื่อเตรียมพร้อมสำหรับบทบาทประเภทนี้แทบจะไม่เกี่ยวข้องกับการได้รับความรู้ด้านเทคนิคมากขึ้นเลย แต่กลับกลายเป็นคำที่ฟุ่มเฟือยที่สุด ใช้มากเกินไป และอาจแย่ที่สุดในเทคโนโลยีทั้งหมด: ความคิด ติดกับฉันฉันสัญญาว่าสิ่งนี้จะเป็นประโยชน์ ปัญหา: เราถูกฝึกให้เป็นทาส"
+      "summary_th": "หากคุณยังไม่เห็นตำแหน่งงานสำหรับ “วิศวกรผลิตภัณฑ์” คุณอาจจะได้ทราบเร็วๆ นี้ งานที่จู่ๆ ทุกคนก็จ้างเข้ามา บทบาทนี้เปรียบเสมือนลูกผสมระหว่างผู้จัดการผลิตภัณฑ์และวิศวกร (ตามชื่อเลย) และเป็นเทรนด์การจ้างงานที่ควรค่าแก่การใส่ใจ บริษัทต่างๆ กำลังเปิดรับตำแหน่งงานเหล่านี้เพิ่มขึ้นทุกๆ เดือน แต่พวกเขาก็ประสบปัญหาในการเติมเต็มตำแหน่งดังกล่าว เหตุผลแทบไม่เกี่ยวข้องกับทักษะการเขียนโค้ดของวิศวกรหรือประสบการณ์หลายปี การย้ายอาชีพที่ดีที่สุดที่คุณสามารถทำได้เพื่อเตรียมพร้อมสำหรับบทบาทประเภทนี้แทบจะไม่เกี่ยวข้องกับการได้รับความรู้ด้านเทคนิคมากขึ้นเลย แต่กลับกลายเป็นคำที่ฟุ่มเฟือยที่สุด ใช้มากเกินไป และอาจเลวร้ายที่สุดในเทคโนโลยีทั้งหมด: ความคิด ติดกับฉันฉันสัญญาว่าสิ่งนี้จะเป็นประโยชน์ ปัญหา: เราถูกฝึกให้เป็นทาส"
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,18 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "Indie App Spotlight: ‘Notepad.exe’ is an ultra-fast, lightweight code editor for your Mac",
+      "summary_en": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . Writing a little bit of code shouldn’t be a hassle. Typically you have to set up a project and go through layers of menus before you can even start to write. Notepad.exe flips that script, and believes you should start with a blank file first, and figure out the project later – making it much easier to get your idea on paper.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/IMG_0048.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/15/indie-app-spotlight-notepad-exe-is-an-ultra-fast-lightweight-code-editor-for-your-mac/",
+      "published": "Sat, 15 Aug 2026 19:30:00 +0000",
+      "title_th": "แอพอินดี้ที่โดดเด่น: 'Notepad.exe' เป็นตัวแก้ไขโค้ดที่เร็วและเบาเป็นพิเศษสำหรับ Mac ของคุณ",
+      "summary_th": "ยินดีต้อนรับสู่แอปอินดี้สปอตไลท์ นี่คือซีรีส์ 9to5Mac รายสัปดาห์ที่เรานำเสนอแอปล่าสุดในโลกของแอปอินดี้ หากคุณเป็นนักพัฒนาซอฟต์แวร์และต้องการให้แอปของคุณเป็นจุดเด่น โปรดติดต่อ การเขียนโค้ดเพียงเล็กน้อยไม่ควรเป็นเรื่องยุ่งยาก โดยปกติแล้ว คุณจะต้องจัดทำโปรเจ็กต์และอ่านเมนูหลายชั้นก่อนจึงจะสามารถเริ่มเขียนได้ Notepad.exe พลิกสคริปต์นั้น และเชื่อว่าคุณควรเริ่มต้นด้วยไฟล์เปล่าก่อน แล้วค่อยคิดโปรเจ็กต์ในภายหลัง ซึ่งทำให้การเสนอแนวคิดของคุณลงบนกระดาษง่ายขึ้นมาก"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Apple has a huge product roadmap for the smart home: Here’s what’s coming",
       "summary_en": "Apple’s home products (primarily HomePod mini and Apple TV) have been the talk of the town for the past couple of years . The reasoning is quite simple: the current iterations are 4-6 years old. Siri has been the holdup for new hardware releases, supposedly – but now that Siri AI is finally here, we should be seeing Apple finally start releasing some new Home products very soon. Here’s what’s in the pipeline.",
       "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/ai-siri-homepod.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
@@ -444,7 +456,7 @@
       "link": "https://9to5mac.com/2026/08/15/delete-your-familys-personal-data-from-internet-55-discount-incogni/",
       "published": "Sat, 15 Aug 2026 16:00:00 +0000",
       "title_th": "ลบข้อมูลส่วนตัวของครอบครัวของคุณออกจากอินเทอร์เน็ตด้วยส่วนลด 55% สำหรับ Incogni",
-      "summary_th": "ดูเหมือนไม่น่าเชื่อเลยว่าการซื้อและขายข้อมูลส่วนบุคคลของเราโดยไม่ได้รับความยินยอมจากเราเป็นเรื่องถูกกฎหมาย แต่นั่นคือความเป็นจริงในสหรัฐอเมริกา ตามทฤษฎี คุณสามารถขอให้บริษัทต่างๆ ลบข้อมูลของคุณออกจากอินเทอร์เน็ตได้ แต่นั่นเป็นการพูดที่ง่ายกว่าการกระทำมาก โชคดีที่ Incogni มีบริการที่พวกเขาจะทำเพื่อคุณ และผู้อ่าน 9to5Mac สามารถรับส่วนลด 55% ได้ในขณะนี้ …"
+      "summary_th": "ดูเหมือนไม่น่าเชื่อเลยว่าการซื้อและขายข้อมูลส่วนบุคคลของเราโดยไม่ได้รับความยินยอมจากเราเป็นเรื่องถูกกฎหมาย แต่นั่นคือความเป็นจริงในสหรัฐอเมริกา ตามทฤษฎี คุณสามารถขอให้บริษัทต่างๆ ลบข้อมูลของคุณออกจากอินเทอร์เน็ตได้ แต่นั่นเป็นการพูดที่ง่ายกว่าการกระทำมาก โชคดีที่ Incogni มีบริการที่พวกเขาจะทำเพื่อคุณ และผู้อ่าน 9to5Mac สามารถขอรับส่วนลด 55% ได้ในขณะนี้ …"
     },
     {
       "source": "9to5Mac",
@@ -468,19 +480,7 @@
       "link": "https://9to5mac.com/2026/08/15/these-are-my-favorite-ultra-slim-iphone-accessories-for-2026-video/",
       "published": "Sat, 15 Aug 2026 14:00:00 +0000",
       "title_th": "นี่คืออุปกรณ์เสริม iPhone บางเฉียบที่ฉันชื่นชอบในปี 2026 [วิดีโอ]",
-      "summary_th": "ฉันมักจะมองหาอุปกรณ์เสริมที่บางเฉียบซึ่งเข้ากับการพกพาในแต่ละวันของฉัน และมักจะสนใจว่าบริษัทและแบรนด์ด้านเทคโนโลยีที่บางเฉียบสามารถสร้างผลิตภัณฑ์ของตนได้อย่างไร อุปกรณ์เสริมที่มีน้ำหนักเกินหรือขาดการจัดระเบียบ ฉันมักจะหลีกเลี่ยง ดังนั้นฉันจึงได้ทดสอบอุปกรณ์เสริมจำนวนนับไม่ถ้วน ตั้งแต่พาวเวอร์แบงค์ ขาตั้ง ไปจนถึงสายแม่เหล็ก และทุกสิ่งที่เกี่ยวข้อง ดังนั้นฉันจึงอยากแบ่งปันอุปกรณ์เสริมที่ฉันชื่นชอบซึ่งไม่เพียงแต่บางเฉียบและพกพาสะดวก แต่ยังใช้งานได้หลากหลายอีกด้วย"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple weekend deals: MacBooks up to $540 off, AirPods up to $100 off, Apple Watch, more",
-      "summary_en": "Your 9to5Toys Lunch Break weekend edition is here, and so are the deals. We are starting off with a series of solid headliners, including AirPods Pro 3 at 25% and AirPods Max 2 at $100 off on all five color options, as well as AirPods 4 with ANC dropping to the best price in 6 months at $135 . Just be sure to scope out the Apple Certified Refurbished Store if there’s a new MacBook in your future while M5 Pro MacBook Pro model are up to $540 off. Those offers join Apple Watch Series 11 from $299 and a giant lineup of charging gear deals over at Amazon too. Check it all out down below.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/Weekend-apple-deals-august-14-2026.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/15/apple-weekend-deals-macbooks-airpods/",
-      "published": "Sat, 15 Aug 2026 12:20:15 +0000",
-      "title_th": "ข้อเสนอสุดสัปดาห์ของ Apple: MacBooks ลดสูงสุด $ 540, AirPods ลดสูงสุด $ 100, Apple Watch และอีกมากมาย",
-      "summary_th": "9to5Toys Lunch Break ฉบับสุดสัปดาห์มาถึงแล้ว และดีลต่างๆ ก็เช่นกัน เรากำลังเริ่มต้นด้วยซีรีส์เฮดไลน์เนอร์ที่แข็งแกร่ง รวมถึง AirPods Pro 3 ในราคาลด 25% และ AirPods Max 2 ในราคาลด 100 ดอลลาร์สำหรับตัวเลือกสีทั้งห้าสี เช่นเดียวกับ AirPods 4 ที่มี ANC ลดราคาเป็นราคาที่ดีที่สุดในรอบ 6 เดือนที่ 135 ดอลลาร์ เพียงอย่าลืมเลือกร้าน Apple Certified Refurbished Store หากมี MacBook ใหม่ในอนาคต ในขณะที่รุ่น M5 Pro MacBook Pro ลดราคาสูงสุดถึง $540 ข้อเสนอเหล่านี้เข้าร่วม Apple Watch Series 11 จาก $ 299 และกลุ่มอุปกรณ์ชาร์จยักษ์ใหญ่จาก Amazon เช่นกัน ตรวจสอบทั้งหมดด้านล่าง"
+      "summary_th": "ฉันมักจะมองหาอุปกรณ์เสริมที่บางเฉียบซึ่งเข้ากับการพกพาในชีวิตประจำวันของฉัน และมักจะสนใจว่าบริษัทและแบรนด์ด้านเทคโนโลยีที่บางเฉียบสามารถสร้างผลิตภัณฑ์ของตนได้อย่างไร อุปกรณ์เสริมที่มีน้ำหนักเกินหรือขาดการจัดระเบียบ ฉันมักจะหลีกเลี่ยง ดังนั้นฉันจึงได้ทดสอบอุปกรณ์เสริมจำนวนนับไม่ถ้วน ตั้งแต่พาวเวอร์แบงค์ ขาตั้ง ไปจนถึงสายแม่เหล็ก และทุกสิ่งที่เกี่ยวข้อง ดังนั้นฉันจึงอยากแบ่งปันอุปกรณ์เสริมที่ฉันชื่นชอบซึ่งไม่เพียงแต่บางเฉียบและพกพาสะดวก แต่ยังใช้งานได้หลากหลายอีกด้วย"
     },
     {
       "source": "9to5Google",
@@ -546,13 +546,25 @@
       "source": "Electrek",
       "flag": "",
       "category": "ev",
+      "title_en": "Tesla adds 2.4 kW vehicle-to-load to Model Y Premium with $80 adapter",
+      "summary_en": "Tesla has switched on vehicle-to-load for the Model Y Premium in the US and Puerto Rico, letting owners pull 2.4 kW out of the car’s battery at 120 volts and 20 amps. You need an $80 accessory to do it, and not every Model Y Premium can. Tesla says the adapter can be added during configuration or bought from the Tesla Shop.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Tesla-bidirectional-charger.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/15/tesla-model-y-premium-vehicle-to-load-2-4-kw-adapter/",
+      "published": "Sat, 15 Aug 2026 19:19:37 +0000",
+      "title_th": "Tesla เพิ่มกำลังไฟฟ้าในการบรรทุกยานพาหนะ 2.4 กิโลวัตต์ให้กับ Model Y Premium พร้อมอะแดปเตอร์ 80 ดอลลาร์",
+      "summary_th": "Tesla ได้เปิดระบบ vehicle-to-load สำหรับ Model Y Premium ในสหรัฐอเมริกาและเปอร์โตริโก โดยให้เจ้าของรถดึงพลังงาน 2.4 กิโลวัตต์ออกจากแบตเตอรี่รถยนต์ที่ 120 โวลต์และ 20 แอมป์ คุณต้องมีอุปกรณ์เสริมมูลค่า 80 ดอลลาร์จึงจะสามารถทำได้ และไม่ใช่ว่า Model Y Premium ทุกรุ่นจะสามารถทำได้ Tesla กล่าวว่าสามารถเพิ่มอะแดปเตอร์ระหว่างการกำหนดค่าหรือซื้อจาก Tesla Shop"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
       "title_en": "Corrupt DoT head took oil money for reality TV show during oil price spike (update)",
       "summary_en": "Sean Duffy, whose transportation expertise comes from being a contestant on the reality TV show Road Rules , is going back to his roots and filming a reality TV show while on the job. But, as is fitting for the corrupt cabal he’s a member of, he’s made sure to let companies he’s supposed to regulate pay for his family’s vacation. And he’s doing this right as he works his hardest to ensure that your roadtrips are less attainable, with higher energy prices across the country as the direct and intended result of his policies. ( Original article 5/13, Update 8/15: The show will release in the next week or two, after being stuck for months in editing to address many ethics complaints)",
       "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/01/Sean_Duffy_5449121667-e1738181227601.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "link": "https://electrek.co/2026/08/15/corrupt-dot-head-takes-oil-money-to-film-reality-tv-show-during-oil-price-spike/",
       "published": "Sat, 15 Aug 2026 17:00:00 +0000",
       "title_th": "หัวหน้า DoT ทุจริตเอาเงินน้ำมันไปรายการทีวีเรียลลิตี้ในช่วงราคาน้ำมันพุ่งสูง (อัพเดท)",
-      "summary_th": "ฌอน ดัฟฟี่ ซึ่งเชี่ยวชาญด้านการขนส่งมาจากการเป็นผู้เข้าแข่งขันในรายการเรียลลิตี้เรื่อง Road Rules กำลังหวนคืนสู่ต้นกำเนิดของเขาและถ่ายทำรายการทีวีเรียลลิตี้ขณะทำงาน แต่ตามความเหมาะสมสำหรับแก๊งคอรัปชั่นที่เขาเป็นสมาชิกอยู่ เขาจะปล่อยให้บริษัทต่างๆ ที่เขาควรจะควบคุมเรื่องค่าจ้างสำหรับวันหยุดพักผ่อนของครอบครัว และเขากำลังทำสิ่งนี้อย่างถูกต้องในขณะที่เขาทำงานอย่างเต็มที่เพื่อให้แน่ใจว่าการเดินทางท่องเที่ยวของคุณจะบรรลุผลได้น้อยลง โดยที่ราคาพลังงานที่สูงขึ้นทั่วประเทศเป็นผลโดยตรงและตั้งใจจากนโยบายของเขา (บทความต้นฉบับ 5/13 อัปเดต 8/58: รายการจะเปิดตัวในสัปดาห์หน้าหรือสองสัปดาห์หลังจากติดอยู่กับการแก้ไขเป็นเวลาหลายเดือนเพื่อแก้ไขข้อร้องเรียนด้านจริยธรรมจำนวนมาก)"
+      "summary_th": "ฌอน ดัฟฟี่ ซึ่งเชี่ยวชาญด้านการขนส่งมาจากการเป็นผู้เข้าแข่งขันในรายการเรียลลิตี้เรื่อง Road Rules กำลังหวนคืนสู่ต้นกำเนิดของเขาและถ่ายทำรายการทีวีเรียลลิตี้ขณะทำงาน แต่ตามความเหมาะสมสำหรับแก๊งคอรัปชั่นที่เขาเป็นสมาชิกอยู่ เขาจะปล่อยให้บริษัทต่างๆ ที่เขาควรจะควบคุมเรื่องค่าจ้างสำหรับวันหยุดพักผ่อนของครอบครัว และเขากำลังทำสิ่งนี้อย่างถูกต้องในขณะที่เขาทำงานอย่างเต็มที่เพื่อให้แน่ใจว่าการเดินทางท่องเที่ยวของคุณจะเป็นไปได้น้อยลง โดยที่ราคาพลังงานที่สูงขึ้นทั่วประเทศเป็นผลโดยตรงและตั้งใจจากนโยบายของเขา (บทความต้นฉบับ 5/13 อัปเดต 8/58: รายการจะเปิดตัวในสัปดาห์หน้าหรือสองสัปดาห์หลังจากติดอยู่กับการแก้ไขเป็นเวลาหลายเดือนเพื่อแก้ไขข้อร้องเรียนด้านจริยธรรมจำนวนมาก)"
     },
     {
       "source": "Electrek",
@@ -587,20 +599,8 @@
       "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/2027-Dodge-Charger-PPV_Team-One-Network.-9-copy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "link": "https://electrek.co/2026/08/15/speeders-just-got-lucky-the-new-dodge-police-charger-is-not-electric/",
       "published": "Sat, 15 Aug 2026 14:19:40 +0000",
-      "title_th": "นักสปีดเดอร์โชคดี: Dodge Police Charger ใหม่ไม่ใช่ระบบไฟฟ้า",
+      "title_th": "นักเร่งความเร็วเพิ่งโชคดี: Dodge Police Charger ใหม่ไม่ใช่ระบบไฟฟ้า",
       "summary_th": "หากผู้ซื่อสัตย์ของ Mopar ไม่ยอมรับเครื่องชาร์จไฟฟ้าขนาด 670 แรงม้า เนื่องจากใช้พลังงานจากแบตเตอรี่ และจะไม่ยอมรับเครื่องชาร์จ Sixpack ขนาด 550 แรงม้า เนื่องจากใช้พลังงานจากเทอร์โบ ในความพยายามครั้งสุดท้าย ผู้บริหารของ Dodge หวังว่าผู้คนที่ไล่ตามพวกเขาจะทำได้"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "PACCAR brand DAF to add Level 4 Einride autonomy to its electric trucks",
-      "summary_en": "Autonomous logistics firm Einride is partnering with heavy truck brand DAF to accelerate the deployment of autonomous electric freight assets across the company’s premium truck platforms.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/DAF_EINRIDE_MAIN.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/15/paccar-brand-daf-to-add-level-4-einride-autonomy-to-its-electric-trucks/",
-      "published": "Sat, 15 Aug 2026 12:40:29 +0000",
-      "title_th": "PACCAR แบรนด์ DAF เพิ่มความเป็นอิสระระดับ 4 Einride ให้กับรถบรรทุกไฟฟ้า",
-      "summary_th": "บริษัทโลจิสติกส์ไร้คนขับ Einride ร่วมมือกับแบรนด์รถบรรทุกหนัก DAF เพื่อเร่งการใช้งานสินทรัพย์ขนส่งสินค้าไฟฟ้าไร้คนขับบนแพลตฟอร์มรถบรรทุกระดับพรีเมียมของบริษัท"
     }
   ],
   "indices": [
