@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T00:30:11.465454+00:00",
+  "generated_at": "2026-08-15T03:29:42.275235+00:00",
   "count": 50,
   "articles": [
     {
@@ -144,7 +144,7 @@
       "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
       "published": "Fri, 14 Aug 2026 14:27:14 +0000",
       "title_th": "OpenAI และ Anthropic ในสงครามราคาเมื่อคู่แข่ง AI ของจีนเข้ามามีส่วนร่วม",
-      "summary_th": "US groups release cheaper models after new challenges to their trillion-dollar ambitions."
+      "summary_th": "กลุ่มสหรัฐฯ เปิดตัวโมเดลราคาถูกหลังความท้าทายใหม่ต่อความทะเยอทะยานล้านล้านดอลลาร์"
     },
     {
       "source": "Ars Technica",
@@ -240,7 +240,7 @@
       "link": "https://www.wired.com/story/ftc-strikes-deals-to-ignore-unlawful-credit-discrimination/",
       "published": "Fri, 14 Aug 2026 11:00:00 +0000",
       "title_th": "FTC ตกลงข้อตกลงเพื่อเพิกเฉยต่อการเลือกปฏิบัติด้านเครดิตที่ผิดกฎหมาย",
-      "summary_th": "หน่วยงานได้ลงนามในข้อตกลงที่จะไม่บังคับใช้ส่วนหนึ่งของคำสั่งศาลรัฐบาลกลางสามคำสั่งกับตัวแทนจำหน่ายรถยนต์ที่ถูกกล่าวหาว่ามีการเลือกปฏิบัติ และไม่ได้แจ้งผู้พิพากษาหรือโจทก์ร่วมอย่างน้อยหนึ่งคน"
+      "summary_th": "หน่วยงานได้ลงนามในข้อตกลงที่จะไม่บังคับใช้บางส่วนของคำสั่งศาลรัฐบาลกลางสามคำสั่งกับตัวแทนจำหน่ายรถยนต์ที่ถูกกล่าวหาว่ามีการเลือกปฏิบัติ และไม่ได้แจ้งผู้พิพากษาหรือโจทก์ร่วมอย่างน้อยหนึ่งคน"
     },
     {
       "source": "MIT Technology Review",
@@ -347,7 +347,7 @@
       "image": "https://www.engadget.com/img/gallery/get-the-best-battery-life-for-your-macbook-by-changing-these-settings/l-intro-1786563357.jpg",
       "link": "https://www.engadget.com/2235787/best-battery-life-for-macbook-settings/",
       "published": "Fri, 14 Aug 2026 15:30:00 +0000",
-      "title_th": "รับอายุการใช้งานแบตเตอรี่ที่ดีที่สุดสำหรับ MacBook ของคุณโดยการเปลี่ยนการตั้งค่าเหล่านี้",
+      "title_th": "รับอายุการใช้งานแบตเตอรี่ที่ดีที่สุดสำหรับ MacBook ของคุณโดยเปลี่ยนการตั้งค่าเหล่านี้",
       "summary_th": "แบตเตอรี่แล็ปท็อปไม่ได้อยู่ตลอดไป แต่มีบางสิ่งที่คุณสามารถทำได้ในวันนี้ซึ่งอาจส่งผลต่ออายุการใช้งานแบตเตอรี่ของ MacBook"
     },
     {
@@ -426,6 +426,18 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "Commerce Secretary says US opposes Apple buying Chinese memory chips",
+      "summary_en": "The Wall Street Journal reports that US Commerce Secretary Howard Lutnick has urged Apple not to turn to Chinese memory chips as the company looks for alternatives to alleviate the ongoing global supply shortage. Here are the details.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/10/Working-for-Apple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/14/commerce-secretary-says-us-opposes-apple-buying-chinese-memory-chips/",
+      "published": "Sat, 15 Aug 2026 02:15:02 +0000",
+      "title_th": "รมว.พาณิชย์สหรัฐฯ คัดค้าน Apple ที่ซื้อชิปหน่วยความจำของจีน",
+      "summary_th": "The Wall Street Journal รายงานว่า Howard Lutnick รัฐมนตรีกระทรวงพาณิชย์ของสหรัฐฯ ได้เรียกร้องให้ Apple อย่าหันมาใช้ชิปหน่วยความจำของจีน เนื่องจากบริษัทมองหาทางเลือกอื่นในการบรรเทาปัญหาการขาดแคลนอุปทานทั่วโลกอย่างต่อเนื่อง นี่คือรายละเอียด"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "WhatsApp working on customizable emoji reaction sets on iOS",
       "summary_en": "New references in the latest WhatsApp beta for iOS suggest users may soon be able to replace the app’s standard set of emoji reactions with their own selection. Here are the details.",
       "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
@@ -468,19 +480,7 @@
       "link": "https://9to5mac.com/2026/08/14/these-ai-tools-make-my-life-much-easier-on-the-mac/",
       "published": "Fri, 14 Aug 2026 19:57:27 +0000",
       "title_th": "เครื่องมือ AI เหล่านี้ทำให้ชีวิตของฉันง่ายขึ้นมากบน Mac",
-      "summary_th": "9to5Mac นำเสนอให้คุณโดย Memoket : Memoket Gem เป็นอุปกรณ์สวมใส่ AI หนัก 11 กรัม โดยมีช่องข้าง Apple Watch ของคุณในสายแบบสวมร่วม กดหนึ่งครั้งเพื่อบันทึกการสนทนา และ Gem จะเชื่อมต่อกับสิ่งที่คุณพูดคุยเมื่อสัปดาห์ที่แล้ว — แสดงกระทู้ก่อนหน้าด้วยลิงก์แหล่งที่มา จาก $179 จัดส่งในเดือนสิงหาคม 2026 เกือบสี่ปีแล้วที่ AI บูมล่าสุดซึ่งจุดประกายโดย ChatGPT นี่คือเครื่องมือที่ติดอยู่จริงๆ และทำให้ชีวิต งาน และโครงการส่วนตัวของฉันง่ายขึ้นมากบน Mac ของฉัน"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Tim Cook on his Apple legacy: ‘I hope people say I was a good and decent man’",
-      "summary_en": "Tim Cook has entered his final weeks as Apple CEO, with John Ternus set to take over on September 1. In an interview with CBS News this week, Cook reflected on his “legacy” as Apple CEO.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/tim-cook-cbs.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/14/tim-cook-on-his-apple-legacy-i-hope-people-say-i-was-a-good-and-decent-man/",
-      "published": "Fri, 14 Aug 2026 19:49:29 +0000",
-      "title_th": "Tim Cook กับมรดก Apple ของเขา: \"ฉันหวังว่าผู้คนจะบอกว่าฉันเป็นคนดีและเหมาะสม\"",
-      "summary_th": "Tim Cook เข้าสู่สัปดาห์สุดท้ายของเขาในฐานะ CEO ของ Apple โดย John Ternus จะเข้ารับตำแหน่งในวันที่ 1 กันยายน ในการให้สัมภาษณ์กับ CBS News ในสัปดาห์นี้ Cook ได้กล่าวถึง \"มรดก\" ของเขาในฐานะ CEO ของ Apple"
+      "summary_th": "9to5Mac นำเสนอให้คุณโดย Memoket: Memoket Gem เป็นอุปกรณ์สวมใส่ AI หนัก 11 กรัม โดยมีช่องข้าง Apple Watch ของคุณในสายแบบสวมร่วม กดหนึ่งครั้งเพื่อบันทึกการสนทนา และ Gem จะเชื่อมต่อกับสิ่งที่คุณพูดคุยเมื่อสัปดาห์ที่แล้ว — แสดงกระทู้ก่อนหน้าด้วยลิงก์แหล่งที่มา จาก $179 จัดส่งในเดือนสิงหาคม 2026 เกือบสี่ปีแล้วที่ AI บูมล่าสุดซึ่งจุดประกายโดย ChatGPT นี่คือเครื่องมือที่ติดอยู่จริงๆ และทำให้ชีวิต งาน และโครงการส่วนตัวของฉันง่ายขึ้นมากบน Mac ของฉัน"
     },
     {
       "source": "9to5Google",
@@ -588,7 +588,7 @@
       "link": "https://electrek.co/2026/08/14/podcast-tesla-roadster-is-happening-kia-ev3-in-us-gas-pumps-replaced-and-more/",
       "published": "Fri, 14 Aug 2026 19:49:12 +0000",
       "title_th": "พอดแคสต์: Tesla Roadster กำลังจะเกิดขึ้น, Kia EV3 ในสหรัฐอเมริกา, เปลี่ยนปั๊มแก๊ส และอื่นๆ อีกมากมาย",
-      "summary_th": "ใน Electrek Podcast เราพูดคุยถึงข่าวยอดนิยมในโลกแห่งการขนส่งและพลังงานที่ยั่งยืน ในตอนของสัปดาห์นี้ เราจะพูดถึง Tesla Roadster ที่กำลังเกิดขึ้นจริง, Kia EV3 ที่กำลังจะมาถึงสหรัฐอเมริกา, ปั๊มแก๊สถูกแทนที่ด้วยที่ชาร์จ EV และอื่นๆ ตอนของวันนี้ได้รับการสนับสนุนโดย GM การชาร์จ GM EV เป็นเรื่องง่ายด้วย Energy Pass และ Plug and Charge เรียนรู้เพิ่มเติมที่ https://gmenergy.gm.com/energypass"
+      "summary_th": "ใน Electrek Podcast เราพูดคุยถึงข่าวยอดนิยมในโลกแห่งการขนส่งและพลังงานที่ยั่งยืน ในตอนนี้ เราจะพูดถึง Tesla Roadster ที่กำลังเกิดขึ้นจริง, Kia EV3 ที่จะวางจำหน่ายในสหรัฐฯ, ปั๊มแก๊สที่ถูกแทนที่ด้วยที่ชาร์จ EV และอื่นๆ ตอนของวันนี้ได้รับการสนับสนุนโดย GM การชาร์จ GM EV เป็นเรื่องง่ายด้วย Energy Pass และ Plug and Charge เรียนรู้เพิ่มเติมที่ https://gmenergy.gm.com/energypass"
     },
     {
       "source": "Electrek",
