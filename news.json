@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-16T15:11:04.209696+00:00",
+  "generated_at": "2026-08-16T18:12:50.458242+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "summary_en": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "published": "Sun, 16 Aug 2026 16:53:51 +0000",
+      "title_th": "CEO ของ Anthropic กล่าวว่าฟันเฟืองของ AI คือ 'วิกฤตโดยพื้นฐานแห่งความไว้วางใจ'",
+      "summary_th": "Dario Amodei ต่อต้านแนวคิดที่ว่าเขากำลังวาดภาพ AI ที่มองโลกในแง่ร้ายมากเกินไป"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+      "summary_en": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/joby-aviation-GettyImages-2272907562.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
+      "published": "Sun, 16 Aug 2026 16:04:00 +0000",
+      "title_th": "TechCrunch Mobility: เส้นทางการบินที่เปลี่ยนแปลงของแท็กซี่อากาศไฟฟ้า",
+      "summary_th": "ยินดีต้อนรับกลับสู่ TechCrunch Mobility - ศูนย์กลางข่าวสารและข้อมูลเชิงลึกเกี่ยวกับอนาคตของการขนส่ง"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -39,28 +63,16 @@
       "summary_th": "Cursor สตาร์ทอัพเข้ารหัส AI เป็นส่วนหนึ่งของ SpaceX อย่างเป็นทางการแล้ว"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "How to tell if your AI platforms’ accounts have been hacked",
-      "summary_en": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/broken-lock.jpg?resize=1200,823",
-      "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-      "published": "Sat, 15 Aug 2026 16:10:00 +0000",
-      "title_th": "จะทราบได้อย่างไรว่าบัญชีแพลตฟอร์ม AI ของคุณถูกแฮ็ก",
-      "summary_th": "คำแนะนำในการตรวจสอบว่าแฮกเกอร์เจาะเข้าสู่บัญชีของคุณบนแพลตฟอร์ม AI ที่ได้รับความนิยมสูงสุดหรือไม่"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Every fusion startup that has raised over $100M",
-      "summary_en": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1455925032.jpg?resize=1200,675",
-      "link": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
-      "published": "Sat, 15 Aug 2026 13:15:20 +0000",
-      "title_th": "ทุกสตาร์ทอัพฟิวชั่นที่ระดมทุนได้มากกว่า 100 ล้านเหรียญ",
-      "summary_th": "Fusion Startup ระดมทุนได้ 7.1 พันล้านดอลลาร์จนถึงปัจจุบัน โดยส่วนใหญ่จะระดมทุนให้กับบริษัทเพียงไม่กี่แห่ง"
+      "category": "software",
+      "title_en": "Amazon is trying to crush class-action suits before they get started",
+      "summary_en": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a class action waiver. Amazon framed this as a \"fast and efficient\" way to resolve issues, but it notably would […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK103__01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
+      "published": "2026-08-16T13:35:02-04:00",
+      "title_th": "Amazon พยายามที่จะทำลายชุดปฏิบัติการในชั้นเรียนก่อนที่จะเริ่มต้น",
+      "summary_th": "เมื่อวันศุกร์ ลูกค้าของ Amazon ได้รับอีเมลแจ้งเตือนเกี่ยวกับการอัปเดตข้อกำหนดและเงื่อนไขของเว็บไซต์ สิ่งที่โดดเด่นที่สุดคือระบุว่าขณะนี้ข้อพิพาทจะได้รับการแก้ไขผ่านการอนุญาโตตุลาการและกล่าวว่าผู้ใช้ตกลงที่จะสละสิทธิ์ในการดำเนินคดีแบบกลุ่ม Amazon ตีกรอบสิ่งนี้ว่าเป็นวิธีที่ \"รวดเร็วและมีประสิทธิภาพ\" ในการแก้ไขปัญหา แต่ก็เป็นที่น่าสังเกตว่า […]"
     },
     {
       "source": "The Verge",
@@ -71,8 +83,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
       "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
       "published": "2026-08-16T10:56:40-04:00",
-      "title_th": "ประวัติคอมพิวเตอร์ของ ChatGPT ติดตามการคลิกและการกดแป้นพิมพ์ของคุณ",
-      "summary_th": "แอปเดสก์ท็อปของ ChatGPT บน macOS มีฟีเจอร์ใหม่ที่เรียกว่าประวัติคอมพิวเตอร์ ซึ่งเปลี่ยนการกระทำของคุณให้เป็นข้อมูลการฝึกอบรม เรียนรู้วิธีการทำงานของคุณ แนะนำระบบอัตโนมัติ และแม้กระทั่งงานที่คุณทำค้างไว้ครึ่งหนึ่ง ใช้กิจกรรมของคุณเพื่อสร้างไทม์ไลน์ที่ ChatGPT และ Codex สามารถอ้างอิงได้เมื่อคุณส่งคำขอ คุณสมบัติ […]"
+      "title_th": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "summary_th": "แอปเดสก์ท็อปของ ChatGPT บน macOS มีฟีเจอร์ใหม่ที่เรียกว่าประวัติคอมพิวเตอร์ ซึ่งเปลี่ยนการกระทำของคุณให้เป็นข้อมูลการฝึกอบรม เรียนรู้วิธีการทำงานของคุณ แนะนำระบบอัตโนมัติ และแม้แต่งานที่คุณทำค้างไว้ครึ่งหนึ่ง ใช้กิจกรรมของคุณเพื่อสร้างไทม์ไลน์ที่ ChatGPT และ Codex สามารถอ้างอิงได้เมื่อคุณส่งคำขอ คุณสมบัติ […]"
     },
     {
       "source": "The Verge",
@@ -111,18 +123,6 @@
       "summary_th": "AI Slop Bores Me ของคุณยอดเยี่ยมในความเรียบง่าย มีสองแท็บ: มนุษย์และ LARP ในรูปแบบ AI ด้านหนึ่งคุณป้อนคำขอ อีกด้านหนึ่ง คุณส่งคำตอบ แต่สิ่งสำคัญคือ มีมนุษย์อยู่ทั้งสองด้านของสมการ พรอมต์สามารถขอคำตอบเป็น […]"
     },
     {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Don’t overlook Elektron’s budget electronic music instruments",
-      "summary_en": "When I'm asked what to buy if you want to get into making electronic music, I often recommend Elektron's budget-minded Model:Samples and Model:Cycles grooveboxes. They don't grab headlines the way Teenage Engineering's gear or the Telepathic Instruments Orchid do, and even compared to the company's higher-end and more niche musical offerings like the Digitakt, Octatrack, […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/elektron-model-cycles-model-samples-8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review",
-      "published": "2026-08-15T13:00:00-04:00",
-      "title_th": "อย่ามองข้ามเครื่องดนตรีอิเล็กทรอนิกส์ราคาประหยัดของ Elektron",
-      "summary_th": "เมื่อฉันถูกถามว่าจะซื้ออะไรถ้าคุณต้องการทำดนตรีอิเล็กทรอนิกส์ ฉันมักจะแนะนำ Model:Samples และ Model:Cycles Grooveboxes ที่คำนึงถึงงบประมาณของ Elektron พวกเขาไม่ได้พาดหัวข่าวแบบเดียวกับที่อุปกรณ์ของ Teenage Engineering หรือ Telepathic Instruments Orchid ทำ และแม้แต่เมื่อเปรียบเทียบกับบริษัทระดับไฮเอนด์และดนตรีเฉพาะกลุ่มอื่นๆ เช่น Digitakt, Octatrack, […]"
-    },
-    {
       "source": "Ars Technica",
       "flag": "US",
       "category": "software",
@@ -144,7 +144,7 @@
       "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
       "published": "Fri, 14 Aug 2026 14:27:14 +0000",
       "title_th": "OpenAI และ Anthropic ในสงครามราคาเมื่อคู่แข่ง AI ของจีนเข้ามามีส่วนร่วม",
-      "summary_th": "กลุ่มสหรัฐฯ เปิดตัวโมเดลราคาถูกหลังความท้าทายใหม่ต่อความทะเยอทะยานล้านล้านดอลลาร์"
+      "summary_th": "กลุ่มบริษัทในสหรัฐฯ เปิดตัวโมเดลราคาถูกหลังจากความท้าทายใหม่ต่อความทะเยอทะยานล้านล้านดอลลาร์ของพวกเขา"
     },
     {
       "source": "Ars Technica",
@@ -263,8 +263,8 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/HLY_5765-FINAL.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
       "published": "Fri, 14 Aug 2026 09:00:00 +0000",
-      "title_th": "นักวิทยาศาสตร์คนนี้กำลังช่วยสร้างแผนที่วัยเด็กที่หายไป",
-      "summary_th": "ในปี 2017 Deanne Taylor เข้าร่วมการนำเสนอที่มหาวิทยาลัยเพนซิลเวเนีย ซึ่งอยู่ห่างจากสำนักงานของเธอโดยใช้เวลาเดินเพียงไม่นาน นักวิจัยอยู่ที่นั่นเพื่อเปิดเผย Human Cell Atlas ซึ่งเป็นโครงการที่มีความทะเยอทะยานซึ่งมีจุดมุ่งหมายเพื่อสร้างแผนที่ทุกเซลล์ในร่างกายมนุษย์ เทย์เลอร์ตกตะลึงแล้วก็กังวล เมื่อรายละเอียดปรากฏ เธอพบว่า..."
+      "title_th": "นักวิทยาศาสตร์คนนี้กำลังช่วยสร้างแผนที่ในวัยเด็กที่หายไป",
+      "summary_th": "ในปี 2017 Deanne Taylor เข้าร่วมการนำเสนอที่มหาวิทยาลัยเพนซิลวาเนีย ซึ่งอยู่ห่างจากสำนักงานของเธอโดยใช้เวลาเดินเพียงไม่นาน นักวิจัยอยู่ที่นั่นเพื่อเปิดเผย Human Cell Atlas ซึ่งเป็นโครงการที่มีความทะเยอทะยานซึ่งมีจุดมุ่งหมายเพื่อสร้างแผนที่ทุกเซลล์ในร่างกายมนุษย์ เทย์เลอร์ตกตะลึงแล้วก็กังวล เมื่อรายละเอียดปรากฏ เธอพบว่า..."
     },
     {
       "source": "MIT Technology Review",
@@ -305,6 +305,54 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "chip",
+      "title_en": "You might want to skip Newegg's GPU trade-in program",
+      "summary_en": "The Newegg GPU trade-in program is likely to pay you much less for your components than you",
+      "image": "https://www.engadget.com/img/gallery/you-might-want-to-skip-neweggs-gpu-trade-in-program/l-intro-1786371309.jpg",
+      "link": "https://www.engadget.com/2236808/might-want-to-skip-newegg-gpu-trade-in-program-reasons/",
+      "published": "Sun, 16 Aug 2026 18:00:00 +0000",
+      "title_th": "คุณอาจต้องการข้ามโปรแกรมการแลกเปลี่ยน GPU ของ Newegg",
+      "summary_th": "โปรแกรมการแลกเปลี่ยน GPU ของ Newegg มีแนวโน้มที่จะจ่ายเงินค่าส่วนประกอบให้คุณน้อยกว่าคุณมาก"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Android Auto vs Apple CarPlay: What features set them apart",
+      "summary_en": "The differences between the iPhone and Android show up when you connect them to your car, as well.",
+      "image": "https://www.engadget.com/img/gallery/android-auto-vs-apple-carplay-what-features-set-them-apart/l-intro-1786023120.jpg",
+      "link": "https://www.engadget.com/2234248/android-auto-vs-apple-carplay-features-comparison/",
+      "published": "Sun, 16 Aug 2026 17:30:00 +0000",
+      "title_th": "Android Auto กับ Apple CarPlay: ฟีเจอร์อะไรที่ทำให้พวกเขาแตกต่าง",
+      "summary_th": "ความแตกต่างระหว่าง iPhone และ Android จะปรากฏขึ้นเมื่อคุณเชื่อมต่อกับรถของคุณเช่นกัน"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "How to lease an iPhone instead of buying one",
+      "summary_en": "The new Apple Upgrade program makes the monthly cost of an iPhone even cheaper than before.",
+      "image": "https://www.engadget.com/img/gallery/how-to-lease-an-iphone-instead-of-buying-one/l-intro-1785270362.jpg",
+      "link": "https://www.engadget.com/2234247/how-to-lease-iphone-instead-of-buying/",
+      "published": "Sun, 16 Aug 2026 16:30:00 +0000",
+      "title_th": "วิธีเช่า iPhone แทนที่จะซื้อ",
+      "summary_th": "โปรแกรม Apple Upgrade ใหม่ทำให้ราคา iPhone ต่อเดือนถูกลงกว่าเดิม"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "What is the Retro app for and how do you use it?",
+      "summary_en": "Let's look at how to use the Retro app, whether it's free and whether it can compete with other social media apps.",
+      "image": "https://www.engadget.com/img/gallery/what-is-the-retro-app-for-and-how-do-you-use-it/l-intro-1786385235.jpg",
+      "link": "https://www.engadget.com/2234246/retro-app-what-is-it-how-to-use/",
+      "published": "Sun, 16 Aug 2026 15:30:00 +0000",
+      "title_th": "แอพ Retro มีไว้ทำอะไรและคุณใช้งานอย่างไร?",
+      "summary_th": "มาดูวิธีใช้งานแอป Retro ว่าฟรีและสามารถแข่งขันกับแอปโซเชียลมีเดียอื่นๆ ได้หรือไม่"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "gadget",
       "title_en": "Is the MacBook Pro M5 still worth buying after the price hike?",
       "summary_en": "It could be wise to wait, or settle for a cheaper model.",
@@ -313,54 +361,6 @@
       "published": "Sun, 16 Aug 2026 14:30:00 +0000",
       "title_th": "MacBook Pro M5 ยังน่าซื้อหลังขึ้นราคาหรือไม่?",
       "summary_th": "อาจเป็นการดีกว่าที่จะรอหรือเลือกรุ่นที่ราคาถูกกว่า"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Nintendo GameCube discs were small for a reason",
-      "summary_en": "The format remains unique in console history.",
-      "image": "https://www.engadget.com/img/gallery/nintendo-gamecube-discs-were-small-for-a-reason/l-intro-1786126099.jpg",
-      "link": "https://www.engadget.com/2234243/nintendo-gamecube-small-discs-reason/",
-      "published": "Sun, 16 Aug 2026 13:30:00 +0000",
-      "title_th": "แผ่น Nintendo GameCube มีขนาดเล็กด้วยเหตุผลบางประการ",
-      "summary_th": "รูปแบบยังคงไม่ซ้ำกันในประวัติคอนโซล"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "How to set up your emergency contacts and medical ID on your iPhone",
-      "summary_en": "Take time to enable these features today before you need them; they could help save your life in an emergency.",
-      "image": "https://www.engadget.com/img/gallery/how-to-set-up-your-emergency-contacts-and-medical-id-on-your-iphone/l-intro-1786553132.jpg",
-      "link": "https://www.engadget.com/2236803/how-to-set-up-emergency-contact-medical-id-on-iphone/",
-      "published": "Sun, 16 Aug 2026 13:00:00 +0000",
-      "title_th": "วิธีตั้งค่าผู้ติดต่อฉุกเฉินและ ID ทางแพทย์บน iPhone ของคุณ",
-      "summary_th": "ใช้เวลาในการเปิดใช้งานคุณลักษณะเหล่านี้ตั้งแต่วันนี้ก่อนที่คุณจะต้องการ พวกเขาสามารถช่วยชีวิตคุณได้ในกรณีฉุกเฉิน"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Dolby Vision is on Netflix but you'll need these things first",
-      "summary_en": "It's only available with the top-tier Premium subscription plan, for one.",
-      "image": "https://www.engadget.com/img/gallery/dolby-vision-is-on-netflix-but-youll-need-these-things-first/l-intro-1786128367.jpg",
-      "link": "https://www.engadget.com/2236802/dolby-vision-on-netflix-things-needed-first/",
-      "published": "Sun, 16 Aug 2026 12:30:00 +0000",
-      "title_th": "Dolby Vision อยู่บน Netflix แต่คุณต้องมีสิ่งเหล่านี้ก่อน",
-      "summary_th": "ใช้ได้เฉพาะกับแผนการสมัครสมาชิกระดับพรีเมียมระดับสูงสุดเท่านั้น"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "How Samsung's Galaxy Watch 8 measures your antioxidant levels",
-      "summary_en": "Samsung's newest party trick could actually help you improve your diet, and therefore your overall health.",
-      "image": "https://www.engadget.com/img/gallery/how-samsungs-galaxy-watch-8-measures-your-antioxidant-levels/l-intro-1786630068.jpg",
-      "link": "https://www.engadget.com/2236219/how-samsung-galaxy-watch-series8-measures-antioxidant-levels/",
-      "published": "Sat, 15 Aug 2026 22:30:00 +0000",
-      "title_th": "Galaxy Watch 8 ของ Samsung วัดระดับสารต้านอนุมูลอิสระของคุณอย่างไร",
-      "summary_th": "เคล็ดลับปาร์ตี้ใหม่ล่าสุดของ Samsung สามารถช่วยให้คุณปรับปรุงการรับประทานอาหารและสุขภาพโดยรวมของคุณได้จริง"
     },
     {
       "source": "IEEE Spectrum",
@@ -384,7 +384,7 @@
       "link": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
       "published": "Fri, 14 Aug 2026 17:27:12 +0000",
       "title_th": "ทำนายการเชื่อมต่อเสาอากาศบนแพลตฟอร์มไฟฟ้าขนาดใหญ่ก่อนสร้างฮาร์ดแวร์",
-      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นทำนายการต่อเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามแบบใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
+      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นทำนายการต่อเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามประการใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,18 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "It’s time for iOS to have its own Material You",
+      "summary_en": "Over the years, Apple has only added more and more customization to iOS. First, we got all of the lock screen personalization back with iOS 16 . That was followed up with icon color tinting in iOS 18, clear icons in iOS 26, and a full-on Liquid Glass slider in iOS 27. The iPhone has become more and more individualistic as time has gone on, and that’s a great thing. Since we can already tint our icons on our home screen – why not extend that to the rest of the operating system?",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/ios-26-app-icon-tint-iphone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/16/its-time-for-ios-to-have-its-own-material-you/",
+      "published": "Sun, 16 Aug 2026 17:33:48 +0000",
+      "title_th": "ถึงเวลาแล้วที่ iOS จะมี Material You เป็นของตัวเอง",
+      "summary_th": "ในช่วงหลายปีที่ผ่านมา Apple ได้เพิ่มการปรับแต่งให้กับ iOS มากขึ้นเท่านั้น อันดับแรก เราได้นำการตั้งค่าส่วนบุคคลของหน้าจอล็อคทั้งหมดกลับมาพร้อมกับ iOS 16 ตามมาด้วยการปรับสีไอคอนใน iOS 18, ไอคอนที่ชัดเจนใน iOS 26 และแถบเลื่อน Liquid Glass เต็มรูปแบบใน iOS 27 iPhone มีความเฉพาะตัวมากขึ้นเรื่อยๆ เมื่อเวลาผ่านไป และนั่นก็เป็นสิ่งที่ดี เนื่องจากเราสามารถแต้มสีไอคอนของเราบนหน้าจอหลักได้แล้ว – ทำไมไม่ขยายสีนั้นไปยังระบบปฏิบัติการที่เหลือล่ะ?"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Indie App Spotlight: ‘Notepad.exe’ is an ultra-fast, lightweight code editor for your Mac",
       "summary_en": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . Writing a little bit of code shouldn’t be a hassle. Typically you have to set up a project and go through layers of menus before you can even start to write. Notepad.exe flips that script, and believes you should start with a blank file first, and figure out the project later – making it much easier to get your idea on paper.",
       "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/IMG_0048.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
@@ -456,7 +468,7 @@
       "link": "https://9to5mac.com/2026/08/15/delete-your-familys-personal-data-from-internet-55-discount-incogni/",
       "published": "Sat, 15 Aug 2026 16:00:00 +0000",
       "title_th": "ลบข้อมูลส่วนตัวของครอบครัวของคุณออกจากอินเทอร์เน็ตด้วยส่วนลด 55% สำหรับ Incogni",
-      "summary_th": "ดูเหมือนไม่น่าเชื่อเลยว่าการซื้อและขายข้อมูลส่วนบุคคลของเราโดยไม่ได้รับความยินยอมจากเราเป็นเรื่องถูกกฎหมาย แต่นั่นคือความเป็นจริงในสหรัฐอเมริกา ตามทฤษฎี คุณสามารถขอให้บริษัทต่างๆ ลบข้อมูลของคุณออกจากอินเทอร์เน็ตได้ แต่นั่นเป็นการพูดที่ง่ายกว่าการกระทำมาก โชคดีที่ Incogni มีบริการที่พวกเขาจะทำเพื่อคุณ และผู้อ่าน 9to5Mac สามารถรับส่วนลด 55% ได้ในขณะนี้ …"
+      "summary_th": "ดูเหมือนไม่น่าเชื่อเลยว่าการซื้อและขายข้อมูลส่วนบุคคลของเราโดยไม่ได้รับความยินยอมจากเราเป็นเรื่องถูกกฎหมาย แต่นั่นคือความเป็นจริงในสหรัฐอเมริกา ตามทฤษฎี คุณสามารถขอให้บริษัทต่างๆ ลบข้อมูลของคุณออกจากอินเทอร์เน็ตได้ แต่นั่นเป็นการพูดที่ง่ายกว่าการกระทำมาก โชคดีที่ Incogni มีบริการที่พวกเขาจะทำเพื่อคุณ และผู้อ่าน 9to5Mac สามารถขอรับส่วนลด 55% ได้ในขณะนี้ …"
     },
     {
       "source": "9to5Mac",
@@ -469,18 +481,6 @@
       "published": "Sat, 15 Aug 2026 14:06:00 +0000",
       "title_th": "Apple @ Work: ทำความเข้าใจบทบาทและสิทธิ์ของ Apple Business Manager",
       "summary_th": "Apple @ Work ให้บริการแก่คุณโดยเฉพาะโดย Mosyle ซึ่งเป็น Apple Unified Platform เพียงแห่งเดียว Mosyle เป็นโซลูชันเดียวที่ผสานรวมโซลูชันทั้งหมดที่จำเป็นในการปรับใช้ จัดการ และปกป้องอุปกรณ์ Apple ในที่ทำงานได้อย่างราบรื่นและอัตโนมัติในแพลตฟอร์มระดับมืออาชีพเพียงแพลตฟอร์มเดียว องค์กรกว่า 45,000 แห่งไว้วางใจให้ Mosyle สร้างสรรค์อุปกรณ์ Apple หลายล้านเครื่องให้พร้อมใช้งานโดยไม่ต้องใช้ความพยายามและในราคาที่เอื้อมถึง ขอรับการทดลองใช้เพิ่มเติมวันนี้ และทำความเข้าใจว่าเหตุใด Mosyle จึงเป็นทุกสิ่งที่คุณต้องการเพื่อร่วมงานกับ Apple ที่งาน WWDC ปีนี้ Apple ได้ประกาศเปิดตัว Apple Business API ที่ขยายเพิ่ม การอัปเดตนี้ช่วยให้ผู้ดูแลระบบไอทีสามารถดึงข้อมูลอุปกรณ์ ตรวจสอบกิจกรรมการตรวจสอบ และมอบหมายหรือยกเลิกการมอบหมายอุปกรณ์ได้โดยตรงผ่าน API เป็นการอัปเดตที่ยอดเยี่ยมสำหรับบุคลากรไอทีระดับองค์กรที่สร้างบน Apple และ Apple Busine"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "These are my favorite ultra-slim iPhone accessories for 2026 [Video]",
-      "summary_en": "I am always looking for ultra-slim accessories that complement my everyday carry, and I have usually been drawn to how slim tech companies and brands can make their products. Accessories that have excess bulk or lack organization, I tend to avoid. So, I have tested countless accessories, ranging from power banks to stands to magnetic cables and everything in between. So I wanted to share some of my absolute favorite accessories that are not only ultra slim and portable but also serve multiple purposes.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/edc.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/15/these-are-my-favorite-ultra-slim-iphone-accessories-for-2026-video/",
-      "published": "Sat, 15 Aug 2026 14:00:00 +0000",
-      "title_th": "นี่คืออุปกรณ์เสริม iPhone บางเฉียบที่ฉันชื่นชอบในปี 2026 [วิดีโอ]",
-      "summary_th": "ฉันมักจะมองหาอุปกรณ์เสริมที่บางเฉียบซึ่งเข้ากับการพกพาในแต่ละวันของฉัน และมักจะสนใจว่าบริษัทและแบรนด์ด้านเทคโนโลยีที่บางเฉียบสามารถสร้างผลิตภัณฑ์ของตนได้อย่างไร อุปกรณ์เสริมที่มีน้ำหนักเกินหรือขาดการจัดระเบียบ ฉันมักจะหลีกเลี่ยง ดังนั้นฉันจึงได้ทดสอบอุปกรณ์เสริมจำนวนนับไม่ถ้วน ตั้งแต่พาวเวอร์แบงค์ ขาตั้ง ไปจนถึงสายแม่เหล็ก และทุกสิ่งที่เกี่ยวข้อง ดังนั้นฉันจึงอยากแบ่งปันอุปกรณ์เสริมที่ฉันชื่นชอบซึ่งไม่เพียงแต่บางเฉียบและพกพาสะดวก แต่ยังใช้งานได้หลากหลายอีกด้วย"
     },
     {
       "source": "9to5Google",
@@ -546,13 +546,37 @@
       "source": "Electrek",
       "flag": "",
       "category": "ev",
+      "title_en": "E-quipment highlight: LiuGong 924FE electric excavator is coming to America",
+      "summary_en": "Global equipment brand LiuGong says its 924FE 30-ton electric excavator isn’t an alternative to diesel. Instead, it’s better in every way – and the company’s North American customers are about to see for themselves.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/liugong-924fe-electric-excavator.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/16/e-quipment-highlight-liugong-924fe-electric-excavator-is-coming-to-america/",
+      "published": "Sun, 16 Aug 2026 16:11:08 +0000",
+      "title_th": "จุดเด่นของอุปกรณ์อิเล็กทรอนิกส์: LiuGong 924FE รถขุดไฟฟ้ากำลังจะมาถึงอเมริกา",
+      "summary_th": "LiuGong แบรนด์อุปกรณ์ระดับโลกกล่าวว่ารถขุดไฟฟ้าขนาด 30 ตันรุ่น 924FE ไม่ใช่ทางเลือกอื่นนอกจากเครื่องยนต์ดีเซล แต่จะดีกว่าในทุกด้าน – และลูกค้าของบริษัทในอเมริกาเหนือก็จะได้เห็นด้วยตนเอง"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "First Ferrari Luce EV sells for $40 million, 36x its estimate",
+      "summary_en": "Ferrari’s first electric car sold for $40 million at RM Sotheby’s Monterey auction Saturday night. The pre-sale estimate was $1.1 million. That’s more than 36 times the estimate, and roughly 62 times what the Luce costs on Ferrari’s own price list. Every dollar goes to charity.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/06/Ferrari_LUCE.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/16/ferrari-luce-chassis-0-sells-40-million-record/",
+      "published": "Sun, 16 Aug 2026 15:53:52 +0000",
+      "title_th": "Ferrari Luce EV คันแรกขายได้ในราคา 40 ล้านเหรียญสหรัฐ สูงกว่าประมาณการถึง 36 เท่า",
+      "summary_th": "รถยนต์ไฟฟ้าคันแรกของ Ferrari ขายได้ในราคา 40 ล้านเหรียญสหรัฐในการประมูลที่ Monterey ของ RM Sotheby ในคืนวันเสาร์ ประมาณการก่อนการขายอยู่ที่ 1.1 ล้านเหรียญสหรัฐ ซึ่งมากกว่าประมาณการ 36 เท่า และประมาณ 62 เท่าของราคา Luce ในรายการราคาของ Ferrari ทุกดอลลาร์ไปเพื่อการกุศล"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
       "title_en": "350-ton Longking ZL230E is the biggest, baddest battery mining rig you can buy",
       "summary_en": "Zijin Longking rolled into a media ceremony in Longyan City, Fujian Province this week with the all-electric ZL230E electric mining truck – a 350-ton GVW haul truck that sits in a class of its own as the single largest-tonnage battery electric mining truck in China.",
       "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/ZIJING_LONGKING_350T.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "link": "https://electrek.co/2026/08/16/350-ton-longking-zl230e-is-the-biggest-baddest-battery-mining-rig-you-can-buy/",
       "published": "Sun, 16 Aug 2026 11:15:00 +0000",
       "title_th": "Longking ZL230E ขนาด 350 ตันเป็นแท่นขุดเจาะแบตเตอรี่ที่ใหญ่ที่สุดและแย่ที่สุดที่คุณสามารถซื้อได้",
-      "summary_th": "Zijin Longking เข้าร่วมพิธีสื่อในเมือง Longyan มณฑลฝูเจี้ยนในสัปดาห์นี้ด้วยรถบรรทุกขุดเหมืองไฟฟ้า ZL230E ซึ่งเป็นรถบรรทุกลาก GVW ขนาด 350 ตันซึ่งอยู่ในระดับเดียวกันในฐานะรถบรรทุกขุดเหมืองไฟฟ้าแบบแบตเตอรีที่ใหญ่ที่สุดเพียงแห่งเดียวในจีน"
+      "summary_th": "Zijin Longking rolled into a media ceremony in Longyan City, Fujian Province this week with the all-electric ZL230E electric mining truck – a 350-ton GVW haul truck that sits in a class of its own as the single largest-tonnage battery electric mining truck in China."
     },
     {
       "source": "Electrek",
@@ -577,30 +601,6 @@
       "published": "Sat, 15 Aug 2026 19:19:37 +0000",
       "title_th": "Tesla เพิ่มกำลังไฟฟ้าในการบรรทุกยานพาหนะ 2.4 กิโลวัตต์ให้กับ Model Y Premium พร้อมอะแดปเตอร์ 80 ดอลลาร์",
       "summary_th": "Tesla ได้เปิดระบบ vehicle-to-load สำหรับ Model Y Premium ในสหรัฐอเมริกาและเปอร์โตริโก โดยให้เจ้าของรถดึงพลังงาน 2.4 กิโลวัตต์ออกจากแบตเตอรี่รถยนต์ที่ 120 โวลต์และ 20 แอมป์ คุณต้องมีอุปกรณ์เสริมมูลค่า 80 ดอลลาร์จึงจะสามารถทำได้ และไม่ใช่ว่า Model Y Premium ทุกรุ่นจะสามารถทำได้ Tesla กล่าวว่าสามารถเพิ่มอะแดปเตอร์ระหว่างการกำหนดค่าหรือซื้อจาก Tesla Shop"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Corrupt DoT head took oil money for reality TV show during oil price spike (update)",
-      "summary_en": "Sean Duffy, whose transportation expertise comes from being a contestant on the reality TV show Road Rules , is going back to his roots and filming a reality TV show while on the job. But, as is fitting for the corrupt cabal he’s a member of, he’s made sure to let companies he’s supposed to regulate pay for his family’s vacation. And he’s doing this right as he works his hardest to ensure that your roadtrips are less attainable, with higher energy prices across the country as the direct and intended result of his policies. ( Original article 5/13, Update 8/15: The show will release in the next week or two, after being stuck for months in editing to address many ethics complaints)",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/01/Sean_Duffy_5449121667-e1738181227601.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/15/corrupt-dot-head-takes-oil-money-to-film-reality-tv-show-during-oil-price-spike/",
-      "published": "Sat, 15 Aug 2026 17:00:00 +0000",
-      "title_th": "หัวหน้า DoT ทุจริตเอาเงินน้ำมันไปรายการทีวีเรียลลิตี้ในช่วงราคาน้ำมันพุ่งสูง (อัพเดท)",
-      "summary_th": "ฌอน ดัฟฟี่ ซึ่งเชี่ยวชาญด้านการขนส่งมาจากการเป็นผู้เข้าแข่งขันในรายการเรียลลิตี้เรื่อง Road Rules กำลังหวนคืนสู่ต้นกำเนิดของเขาและถ่ายทำรายการทีวีเรียลลิตี้ขณะทำงาน แต่ตามความเหมาะสมสำหรับแก๊งคอรัปชั่นที่เขาเป็นสมาชิกอยู่ เขาจะปล่อยให้บริษัทต่างๆ ที่เขาควรจะควบคุมเรื่องค่าจ้างสำหรับวันหยุดพักผ่อนของครอบครัว และเขากำลังทำสิ่งนี้อย่างถูกต้องในขณะที่เขาทำงานอย่างเต็มที่เพื่อให้แน่ใจว่าการเดินทางท่องเที่ยวของคุณจะบรรลุผลได้น้อยลง โดยที่ราคาพลังงานที่สูงขึ้นทั่วประเทศเป็นผลโดยตรงและตั้งใจจากนโยบายของเขา (บทความต้นฉบับ 5/13 อัปเดต 8/58: รายการจะเปิดตัวในสัปดาห์หน้าหรือสองสัปดาห์หลังจากติดอยู่กับการแก้ไขเป็นเวลาหลายเดือนเพื่อแก้ไขข้อร้องเรียนด้านจริยธรรมจำนวนมาก)"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Turning millions of Teslas and Mach-Es into V2L power stations: WETOX D2 earns world’s first Next-Gen V2X certification from SGS",
-      "summary_en": "The ability to tap into the energy locked inside your car’s battery to power tools, lights, campground gear, and essential home appliances during an outage has quickly become one of the most desirable EV features. The problem? Many electric vehicles already on the road – including millions of Teslas (Model S, Model 3, Model X, and Model Y)! – were never sold with native vehicle-to-load (V2L) capability. The new D2 power adapter from WETOX changes all that, using the car’s native charge port and turning more EVs into portable power stations.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/WETOX_V2L_Hero_Cover_Image.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/15/turning-millions-teslas-mach-es-into-v2l-power-stations-wetox-d2-earns-worlds-first-next-gen-v2x-certification-sgs/",
-      "published": "Sat, 15 Aug 2026 16:00:00 +0000",
-      "title_th": "เปลี่ยน Tesla และ Mach-E หลายล้านเครื่องให้เป็นโรงไฟฟ้า V2L: WETOX D2 ได้รับการรับรอง Next-Gen V2X ครั้งแรกของโลกจาก SGS",
-      "summary_th": "ความสามารถในการดึงพลังงานที่ล็อกอยู่ภายในแบตเตอรี่รถยนต์ของคุณไปยังเครื่องมือไฟฟ้า ไฟ อุปกรณ์ตั้งแคมป์ และเครื่องใช้ในบ้านที่จำเป็นในระหว่างที่ไฟดับได้กลายเป็นหนึ่งในคุณสมบัติ EV ที่เป็นที่ต้องการมากที่สุดอย่างรวดเร็ว ปัญหา? ยานพาหนะไฟฟ้าจำนวนมากอยู่บนท้องถนน – รวมถึง Tesla หลายล้านคัน (รุ่น S, รุ่น 3, รุ่น X และรุ่น Y)! – ไม่เคยถูกขายด้วยความสามารถแบบเนทิฟยานพาหนะถึงโหลด (V2L) อะแดปเตอร์แปลงไฟ D2 ใหม่จาก WETOX เปลี่ยนแปลงทุกสิ่งโดยใช้พอร์ตชาร์จดั้งเดิมของรถยนต์ และเปลี่ยน EV จำนวนมากขึ้นให้กลายเป็นโรงไฟฟ้าแบบพกพา"
     }
   ],
   "indices": [
