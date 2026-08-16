@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-16T18:12:50.458242+00:00",
+  "generated_at": "2026-08-16T21:10:36.006752+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "summary_en": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/04/Stripe-resized.webp?resize=1200,674",
+      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "published": "Sun, 16 Aug 2026 20:57:04 +0000",
+      "title_th": "มีรายงานว่า Stripe จะได้รับ OpenRouter สตาร์ทอัพเกตเวย์ AI ในราคา $7B+",
+      "summary_th": "CEO ของ OpenRouter กล่าวถึงการเริ่มต้นธุรกิจครั้งนี้ว่า Stripe for AI"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "summary_en": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "published": "Sun, 16 Aug 2026 20:32:01 +0000",
+      "title_th": "เหตุใดผู้คนจึงไม่ซื้ออนาคต AI ของ Mark Zuckerberg",
+      "summary_th": "ในตอนล่าสุดของพอดแคสต์ Equity เราจะพูดคุยกันว่าทำไมทุกคนถึงไม่ซื้อวิสัยทัศน์ของ Zuckerberg"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -39,28 +63,16 @@
       "summary_th": "ผู้หญิงคนนี้อ้างว่าเครื่องมือ AI กำลัง \"คร่าชีวิตชีวิตประจำวันและเปลี่ยนมันให้กลายเป็นการล่วงละเมิดทางเพศเด็ก\""
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "summary_en": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/01/Magnifying-glasses.jpg?resize=1200,840",
-      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "published": "Sat, 15 Aug 2026 18:58:39 +0000",
-      "title_th": "Anthropic แบ่งปันรายละเอียดเพิ่มเติมเกี่ยวกับวิธีการทำงานของลายน้ำใหม่ของ Claude",
-      "summary_th": "ลายน้ำจะทำงานอย่างไรจริง ๆ ? ซ่อนไว้แก้ไขได้มั้ยคะ? และสิ่งนี้ส่งผลต่อโค้ดอย่างไร?"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "SpaceX officially closes its Cursor acquisition",
-      "summary_en": "AI coding startup Cursor is now officially a part of SpaceX.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "published": "Sat, 15 Aug 2026 16:30:00 +0000",
-      "title_th": "SpaceX ปิดการซื้อกิจการ Cursor อย่างเป็นทางการ",
-      "summary_th": "Cursor สตาร์ทอัพเข้ารหัส AI เป็นส่วนหนึ่งของ SpaceX อย่างเป็นทางการแล้ว"
+      "category": "software",
+      "title_en": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
+      "summary_en": "\"Breakups are… tough.\" It's the opening lines of an interlude towards the end of DOOMED! Called \"It Happens in Every Universe.\" It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject that Open Mike Eagle manages to mine for artistic gold. Eagle's subject matter is usually personal, […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/a4080481202_10.jpg?quality=90&strip=all&crop=0,4.2391770287958,100,52.356020942408",
+      "link": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
+      "published": "2026-08-16T16:31:37-04:00",
+      "title_th": "Open Mike Eagle และ Kenny Segal สร้างสรรค์ผลงานชิ้นเอกแห่งการเลิกราฮิปฮอป",
+      "summary_th": "\"การเลิกรานั้น... ยาก\" มันเป็นจุดเริ่มต้นของการสลับฉากในช่วงท้ายของ DOOMED! เรียกว่า “มันเกิดขึ้นในทุกจักรวาล” โดยพื้นฐานแล้วมันยังเป็นวิทยานิพนธ์ของบันทึกทั้งหมดด้วย มันไม่ใช่การเปิดเผยที่ยิ่งใหญ่ แต่เป็นเรื่องที่ได้รับการเหยียบย่ำอย่างดีที่ Open Mike Eagle จัดการขุดหาทองคำเชิงศิลปะ เนื้อหาของ Eagle มักจะเป็นเรื่องส่วนตัว […]"
     },
     {
       "source": "The Verge",
@@ -83,7 +95,7 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
       "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
       "published": "2026-08-16T10:56:40-04:00",
-      "title_th": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "title_th": "ประวัติคอมพิวเตอร์ของ ChatGPT ติดตามการคลิกและการกดแป้นพิมพ์ของคุณ",
       "summary_th": "แอปเดสก์ท็อปของ ChatGPT บน macOS มีฟีเจอร์ใหม่ที่เรียกว่าประวัติคอมพิวเตอร์ ซึ่งเปลี่ยนการกระทำของคุณให้เป็นข้อมูลการฝึกอบรม เรียนรู้วิธีการทำงานของคุณ แนะนำระบบอัตโนมัติ และแม้แต่งานที่คุณทำค้างไว้ครึ่งหนึ่ง ใช้กิจกรรมของคุณเพื่อสร้างไทม์ไลน์ที่ ChatGPT และ Codex สามารถอ้างอิงได้เมื่อคุณส่งคำขอ คุณสมบัติ […]"
     },
     {
@@ -109,18 +121,6 @@
       "published": "2026-08-15T23:00:00-04:00",
       "title_th": "กล้องอินสแตนท์จิ๋วของโพลารอยด์มีราคา 72 เหรียญสหรัฐฯ พร้อมฟิล์มฟรี 1 แพ็ค",
       "summary_th": "กล้องสมาร์ทโฟนนั้นสะดวก แต่ก็ขาดเสน่ห์ของกล้องอินสแตนท์แบบอะนาล็อก หากคุณกำลังพยายามหวนคิดถึงการรอคอยการถ่ายภาพทันใจเพื่อพัฒนา Amazon กำลังขายกล้องโพลารอยด์ Go รุ่นที่สองพร้อมชุดฟิล์ม 16 ภาพในราคา 71.99 ดอลลาร์ (ปกติ 109.99 ดอลลาร์) นั่นคือราคาต่ำสุดที่เราเคยเห็นสำหรับชุดรวม […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-      "summary_en": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-15-at-4.40.53-PM.png?quality=90&strip=all&crop=8.7465986394558%2C0%2C82.506802721088%2C100&w=1200",
-      "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-      "published": "2026-08-15T16:45:00-04:00",
-      "title_th": "หัวเราะกับค่าใช้จ่ายของ AI ด้วยการสวมบทบาทเป็นแชทบอท",
-      "summary_th": "AI Slop Bores Me ของคุณยอดเยี่ยมในความเรียบง่าย มีสองแท็บ: มนุษย์และ LARP ในรูปแบบ AI ด้านหนึ่งคุณป้อนคำขอ อีกด้านหนึ่ง คุณส่งคำตอบ แต่สิ่งสำคัญคือ มีมนุษย์อยู่ทั้งสองด้านของสมการ พรอมต์สามารถขอคำตอบเป็น […]"
     },
     {
       "source": "Ars Technica",
@@ -306,6 +306,18 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "Do you really need an antivirus app on your Android?",
+      "summary_en": "You probably don't need antivirus software on your Android phone, but there are some exceptions.",
+      "image": "https://www.engadget.com/img/gallery/do-you-really-need-an-antivirus-app-on-your-android/l-intro-1786462373.jpg",
+      "link": "https://www.engadget.com/2236805/android-phones-antivirus-app-guidance/",
+      "published": "Sun, 16 Aug 2026 20:00:00 +0000",
+      "title_th": "คุณต้องการแอปแอนตี้ไวรัสบน Android ของคุณหรือไม่?",
+      "summary_th": "คุณอาจไม่จำเป็นต้องใช้ซอฟต์แวร์ป้องกันไวรัสบนโทรศัพท์ Android ของคุณ แต่มีข้อยกเว้นบางประการ"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "You might want to skip Newegg's GPU trade-in program",
       "summary_en": "The Newegg GPU trade-in program is likely to pay you much less for your components than you",
       "image": "https://www.engadget.com/img/gallery/you-might-want-to-skip-neweggs-gpu-trade-in-program/l-intro-1786371309.jpg",
@@ -349,18 +361,6 @@
       "published": "Sun, 16 Aug 2026 15:30:00 +0000",
       "title_th": "แอพ Retro มีไว้ทำอะไรและคุณใช้งานอย่างไร?",
       "summary_th": "มาดูวิธีใช้งานแอป Retro ว่าฟรีและสามารถแข่งขันกับแอปโซเชียลมีเดียอื่นๆ ได้หรือไม่"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Is the MacBook Pro M5 still worth buying after the price hike?",
-      "summary_en": "It could be wise to wait, or settle for a cheaper model.",
-      "image": "https://www.engadget.com/img/gallery/is-the-macbook-pro-m5-still-worth-buying-after-the-price-hike/l-intro-1786134854.jpg",
-      "link": "https://www.engadget.com/2234244/is-macbook-pro-m5-still-worth-after-price-hike/",
-      "published": "Sun, 16 Aug 2026 14:30:00 +0000",
-      "title_th": "MacBook Pro M5 ยังน่าซื้อหลังขึ้นราคาหรือไม่?",
-      "summary_th": "อาจเป็นการดีกว่าที่จะรอหรือเลือกรุ่นที่ราคาถูกกว่า"
     },
     {
       "source": "IEEE Spectrum",
@@ -576,7 +576,7 @@
       "link": "https://electrek.co/2026/08/16/350-ton-longking-zl230e-is-the-biggest-baddest-battery-mining-rig-you-can-buy/",
       "published": "Sun, 16 Aug 2026 11:15:00 +0000",
       "title_th": "Longking ZL230E ขนาด 350 ตันเป็นแท่นขุดเจาะแบตเตอรี่ที่ใหญ่ที่สุดและแย่ที่สุดที่คุณสามารถซื้อได้",
-      "summary_th": "Zijin Longking rolled into a media ceremony in Longyan City, Fujian Province this week with the all-electric ZL230E electric mining truck – a 350-ton GVW haul truck that sits in a class of its own as the single largest-tonnage battery electric mining truck in China."
+      "summary_th": "Zijin Longking เข้าร่วมพิธีสื่อในเมือง Longyan มณฑลฝูเจี้ยนในสัปดาห์นี้ด้วยรถบรรทุกขุดเหมืองไฟฟ้า ZL230E ซึ่งเป็นรถบรรทุกลาก GVW ขนาด 350 ตันซึ่งอยู่ในระดับเดียวกันในฐานะรถบรรทุกขุดเหมืองไฟฟ้าแบบแบตเตอรีที่ใหญ่ที่สุดเพียงแห่งเดียวในจีน"
     },
     {
       "source": "Electrek",
