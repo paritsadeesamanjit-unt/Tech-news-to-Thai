@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T09:17:09.241054+00:00",
+  "generated_at": "2026-08-16T12:13:59.646539+00:00",
   "count": 50,
   "articles": [
     {
@@ -65,6 +65,18 @@
     {
       "source": "The Verge",
       "flag": "US",
+      "category": "software",
+      "title_en": "Rogue AI aren’t science fiction anymore",
+      "summary_en": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started in July, when one of OpenAI's autonomous AI agents […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "published": "2026-08-16T08:00:00-04:00",
+      "title_th": "Rogue AI ไม่ใช่นิยายวิทยาศาสตร์อีกต่อไป",
+      "summary_th": "นี่คือ The Stepback ซึ่งเป็นจดหมายข่าวรายสัปดาห์ที่แจกแจงเรื่องราวสำคัญหนึ่งเรื่องจากโลกแห่งเทคโนโลยี หากต้องการข้อมูลเพิ่มเติมเกี่ยวกับความปลอดภัยของ AI โปรดติดตาม Robert Hart Stepback มาถึงกล่องจดหมายของสมาชิกของเราเวลา 8.00 น. ET เลือกใช้ The Stepback ที่นี่ มันเริ่มต้นอย่างไร ทุกอย่างเริ่มต้นในเดือนกรกฎาคม เมื่อหนึ่งในตัวแทน AI อัตโนมัติของ OpenAI […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
       "category": "gadget",
       "title_en": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
       "summary_en": "Smartphone cameras are convenient, but they lack the charm of analog instant cameras. If you’re trying to relive the nostalgia of waiting for an instant photo to develop, Amazon is selling the second-generation Polaroid Go instant camera with a 16-photo film pack for $71.99 (usually $109.99). That’s the lowest price we’ve seen for the bundle, […]",
@@ -109,18 +121,6 @@
       "published": "2026-08-15T10:58:27-04:00",
       "title_th": "Star Wars: Ahsoka ซีซั่น 2 และ Starfighter ถูกล้อเลียนที่ D23",
       "summary_th": "ซีซั่นที่สองของ Star Wars: Ahsoka อยู่ห่างออกไปหลายเดือน แต่ Lucasfilm ยังคงถือโอกาสหยอกล้อเล็กน้อยที่ D23 บริษัทได้ปล่อยตัวอย่างแรกสำหรับซีซั่นใหม่ก่อนเปิดตัวในวันที่ 20 มกราคม 2027 คลิปนี้แสดงให้เห็นถึงความมืดมนและเต็มไปด้วยเวทมนตร์ในจักรวาล Star Wars โดย Grand Admiral […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Disney D23 2026: Everything announced for Star Wars, Marvel, and more",
-      "summary_en": "The annual Disney fan event showed off the cast of Marvel’s X-Men movie, plus a new trailer for Avengers: Doomsday, and our first look at the VisionQuest TV show for Disney Plus. For Star Wars fans, there was a teaser trailer for season two of Ahsoka, plus a special look at Star Wars: Starfighter with […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/20260814_RH7_7615.jpg?quality=90&strip=all&crop=0%2C32.518906340896%2C100%2C34.962187318208&w=1200",
-      "link": "https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23",
-      "published": "2026-08-15T10:20:33-04:00",
-      "title_th": "Disney D23 2026: ทุกอย่างที่ประกาศสำหรับ Star Wars, Marvel และอีกมากมาย",
-      "summary_th": "งานแฟนอีเว้นท์ประจำปีของดิสนีย์เผยให้เห็นนักแสดงจากภาพยนตร์ X-Men ของ Marvel พร้อมด้วยตัวอย่างใหม่สำหรับ Avengers: Doomsday และตัวอย่างแรกของรายการทีวี VisionQuest สำหรับ Disney Plus สำหรับแฟน ๆ Star Wars มีตัวอย่างทีเซอร์สำหรับ Ahsoka ซีซันที่สอง พร้อมรูปลักษณ์พิเศษของ Star Wars: Starfighter พร้อม […]"
     },
     {
       "source": "Ars Technica",
@@ -186,61 +186,61 @@
       "source": "Wired",
       "flag": "US",
       "category": "review",
-      "title_en": "Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride",
-      "summary_en": "This affordable electric BMX delighted my entire family, even if its range, ride comfort, and actual BMX abilities are limited.",
-      "image": "https://media.wired.com/photos/6a7fd146fe52d9e2e42b1a35/master/pass/Review--Retrospec-Joe-Rev-2.jpg",
-      "link": "https://www.wired.com/review/retrospec-joe-rev-2/",
-      "published": "Sat, 15 Aug 2026 11:00:00 +0000",
-      "title_th": "Retrospec Joe Rev 2 Review (2026): ใส่ 'Joy' ลงใน Joyride",
-      "summary_th": "จักรยาน BMX ​​ไฟฟ้าราคาไม่แพงเครื่องนี้ทำให้ทุกคนในครอบครัวของฉันพอใจ แม้ว่าระยะทาง ความสะดวกสบายในการขับขี่ และความสามารถของ BMX ที่แท้จริงจะมีจำกัดก็ตาม"
+      "title_en": "Samsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra Review: The Right Shape",
+      "summary_en": "Nearly a decade after its debut, Samsung’s Galaxy Fold finally comes into its own.",
+      "image": "https://media.wired.com/photos/6a7fe9a3cf7e32811238974b/master/pass/Samsung-Galaxy-Z-Fold8-Ultra-(left)-and-Z-Fold8-(right)-SOURCE-Julian-Chokkattu.jpg",
+      "link": "https://www.wired.com/review/samsung-galaxy-z-fold8-and-z-fold8-ultra/",
+      "published": "Sun, 16 Aug 2026 11:00:00 +0000",
+      "title_th": "รีวิว Samsung Galaxy Z Fold8 และ Galaxy Z Fold8 Ultra: รูปร่างที่ใช่",
+      "summary_th": "เกือบหนึ่งทศวรรษหลังจากเปิดตัว ในที่สุด Galaxy Fold ของ Samsung ก็กลายเป็นของตัวเองในที่สุด"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "6 Best Apple Watch Accessories to Upgrade Your Watch (2026)",
-      "summary_en": "Instead of buying a new Apple Watch, I found the accessories that made the one I have much better. Here’s what I recommend.",
-      "image": "https://media.wired.com/photos/6a7f6ff26bd52faf6a82c1a6/master/pass/The-Best-Apple-Watch-Accessories-I%E2%80%99d-Recommend-to-Any-Owner.jpg",
-      "link": "https://www.wired.com/story/best-apple-watch-accessories/",
-      "published": "Sat, 15 Aug 2026 10:30:00 +0000",
-      "title_th": "6 อุปกรณ์เสริม Apple Watch ที่ดีที่สุดเพื่ออัพเกรดนาฬิกาของคุณ (2026)",
-      "summary_th": "แทนที่จะซื้อ Apple Watch ใหม่ ฉันพบอุปกรณ์เสริมที่ทำให้ชิ้นที่ฉันมีดีขึ้นมาก นี่คือสิ่งที่ฉันแนะนำ"
+      "title_en": "It’s Never Too Early to Start Planning for the Next Two Solar Eclipses",
+      "summary_en": "In 2027 and 2028, there will be two spectacular, long-duration solar eclipses. Here’s what you need to know about them.",
+      "image": "https://media.wired.com/photos/6a7f8642da25b3d4e0e8cd40/master/pass/2289797347",
+      "link": "https://www.wired.com/story/its-never-too-early-to-start-planning-for-the-next-two-solar-eclipses/",
+      "published": "Sun, 16 Aug 2026 10:30:00 +0000",
+      "title_th": "มันไม่เร็วเกินไปที่จะเริ่มการวางแผนสำหรับสุริยุปราคาสองดวงถัดไป",
+      "summary_th": "ในปี พ.ศ. 2570 และ พ.ศ. 2571 จะเกิดสุริยุปราคาระยะยาวอันงดงามสองครั้ง นี่คือสิ่งที่คุณต้องรู้เกี่ยวกับพวกเขา"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade",
-      "summary_en": "New fonts, better customization, and a whole new layout all make it worth dusting off your Instapaper account.",
-      "image": "https://media.wired.com/photos/6a7db74dacd30154034861b1/master/pass/GettyImages-1834553817.jpg",
-      "link": "https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/",
-      "published": "Sat, 15 Aug 2026 10:30:00 +0000",
-      "title_th": "Instapaper แอปอ่านมันทีหลังดั้งเดิม เพิ่งได้รับการอัปเกรดครั้งใหญ่",
-      "summary_th": "แบบอักษรใหม่ การปรับแต่งที่ดีขึ้น และเลย์เอาต์ใหม่ทั้งหมดทำให้บัญชี Instapaper ของคุณคุ้มค่าที่จะปัดฝุ่น"
+      "title_en": "Someone Finally Fixed Installing Apps on a Mac",
+      "summary_en": "The installation utility EasyDMG makes it so you never drag and drop an icon again.",
+      "image": "https://media.wired.com/photos/6a7faa218588d7c31b9a75f5/master/pass/Someone-Fixed-App-Install-Mac-Gear.jpg",
+      "link": "https://www.wired.com/story/easydmg-finally-fixed-installing-apps-on-a-mac/",
+      "published": "Sun, 16 Aug 2026 10:30:00 +0000",
+      "title_th": "มีคนแก้ไขการติดตั้งแอพบน Mac ในที่สุด",
+      "summary_th": "ยูทิลิตี้การติดตั้ง EasyDMG ช่วยให้คุณไม่ต้องลากและวางไอคอนอีกต่อไป"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "review",
-      "title_en": "Auk Mini 2 Indoor Smart Garden Review: Better Where It Counts",
-      "summary_en": "Auk’s Mini 2 improves on the original model with better lights, a sleeker design, and fun new colors.",
-      "image": "https://media.wired.com/photos/6a7fceff7f588ccda7affea1/master/pass/Review--Auk-Mini-2-Indoor-Smart-Garden.jpg",
-      "link": "https://www.wired.com/review/auk-mini-2-indoor-smart-garden/",
-      "published": "Sat, 15 Aug 2026 10:01:00 +0000",
-      "title_th": "รีวิวสวนอัจฉริยะในร่ม Auk Mini 2: ดีกว่าตรงไหน",
-      "summary_th": "Mini 2 ของ Auk ปรับปรุงจากรุ่นดั้งเดิมด้วยแสงที่ดีขึ้น การออกแบบที่โฉบเฉี่ยวยิ่งขึ้น และสีสันใหม่ที่สนุกสนาน"
+      "title_en": "TerraMow V1000 Review: Show Your Lawn Some Love",
+      "summary_en": "With automatic mapping, Spot Mode functionality, and smart AI cameras, the TerraMow V1000 is the complete package.",
+      "image": "https://media.wired.com/photos/6a7ff7548a0e705c26e119a3/master/pass/Review--TerraMow-V1000.jpg",
+      "link": "https://www.wired.com/review/terramow-v1000/",
+      "published": "Sun, 16 Aug 2026 10:30:00 +0000",
+      "title_th": "รีวิว TerraMow V1000: แสดงความรักให้กับสนามหญ้าของคุณ",
+      "summary_th": "ด้วยการสร้างแผนที่อัตโนมัติ ฟังก์ชันโหมดสปอต และกล้อง AI อัจฉริยะ TerraMow V1000 จึงเป็นแพ็คเกจที่สมบูรณ์"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Zyzz Was the Original Looksmaxxer. His Rise and Untimely Death Feel More Relevant Than Ever",
-      "summary_en": "A new Apple documentary explores the life of Aziz “Zyzz” Shavershian, who rocketed to internet fame in an age before influencers, then died at age 22 in 2011.",
-      "image": "https://media.wired.com/photos/6a7f4abe3fe13c1d3993e979/master/pass/Zyzz.jpeg",
-      "link": "https://www.wired.com/story/a-young-bodybuilders-rise-preceded-the-looksmaxxing-movement-his-legacy-feels-more-relevant-than-ever/",
-      "published": "Sat, 15 Aug 2026 10:00:00 +0000",
-      "title_th": "Zyzz เป็นลุคแม็กซ์เซอร์ดั้งเดิม การฟื้นคืนพระชนม์และการสิ้นพระชนม์ก่อนวัยอันควรของพระองค์รู้สึกมีความเกี่ยวข้องมากขึ้นกว่าที่เคย",
-      "summary_th": "สารคดีเรื่องใหม่ของ Apple เจาะลึกชีวิตของ Aziz “Zyzz” Shavershian ซึ่งโด่งดังทางอินเทอร์เน็ตในยุคก่อนผู้ทรงอิทธิพล ก่อนที่จะเสียชีวิตเมื่ออายุ 22 ปีในปี 2554"
+      "title_en": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
+      "summary_en": "Ensuring your cat stays hydrated is one of the best ways to keep your pet healthy. The right pet water fountain can help.",
+      "image": "https://media.wired.com/photos/6a8007d2a5a41ea93847b302/master/pass/I-Tested-the-Best-Cat-Water-Fountains%E2%80%94These-Are-Worth-Buying.jpg",
+      "link": "https://www.wired.com/gallery/best-cat-water-fountains/",
+      "published": "Sun, 16 Aug 2026 09:33:00 +0000",
+      "title_th": "น้ำพุแมวที่ดีที่สุดของปี 2026: Petlibro, Petkit, Oneisall",
+      "summary_th": "การดูแลให้แมวของคุณชุ่มชื้นเป็นวิธีที่ดีที่สุดวิธีหนึ่งในการรักษาสัตว์เลี้ยงของคุณให้แข็งแรง น้ำพุสัตว์เลี้ยงที่เหมาะสมสามารถช่วยได้"
     },
     {
       "source": "MIT Technology Review",
@@ -263,7 +263,7 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/HLY_5765-FINAL.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
       "published": "Fri, 14 Aug 2026 09:00:00 +0000",
-      "title_th": "นักวิทยาศาสตร์คนนี้กำลังช่วยสร้างแผนที่วัยเด็กที่หายไป",
+      "title_th": "นักวิทยาศาสตร์คนนี้กำลังช่วยสร้างแผนที่ในวัยเด็กที่หายไป",
       "summary_th": "ในปี 2017 Deanne Taylor เข้าร่วมการนำเสนอที่มหาวิทยาลัยเพนซิลเวเนีย ซึ่งอยู่ห่างจากสำนักงานของเธอโดยใช้เวลาเดินเพียงไม่นาน นักวิจัยอยู่ที่นั่นเพื่อเปิดเผย Human Cell Atlas ซึ่งเป็นโครงการที่มีความทะเยอทะยานซึ่งมีจุดมุ่งหมายเพื่อสร้างแผนที่ทุกเซลล์ในร่างกายมนุษย์ เทย์เลอร์ตกตะลึงแล้วก็กังวล เมื่อรายละเอียดปรากฏ เธอพบว่า..."
     },
     {
@@ -546,6 +546,18 @@
       "source": "Electrek",
       "flag": "",
       "category": "ev",
+      "title_en": "350-ton Longking ZL230E is the biggest, baddest battery mining rig you can buy",
+      "summary_en": "Zijin Longking rolled into a media ceremony in Longyan City, Fujian Province this week with the all-electric ZL230E electric mining truck – a 350-ton GVW haul truck that sits in a class of its own as the single largest-tonnage battery electric mining truck in China.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/ZIJING_LONGKING_350T.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/16/350-ton-longking-zl230e-is-the-biggest-baddest-battery-mining-rig-you-can-buy/",
+      "published": "Sun, 16 Aug 2026 11:15:00 +0000",
+      "title_th": "Longking ZL230E ขนาด 350 ตันเป็นแท่นขุดเจาะแบตเตอรี่ที่ใหญ่ที่สุดและแย่ที่สุดที่คุณสามารถซื้อได้",
+      "summary_th": "Zijin Longking เข้าร่วมพิธีสื่อในเมือง Longyan มณฑลฝูเจี้ยนในสัปดาห์นี้ด้วยรถบรรทุกขุดเหมืองไฟฟ้า ZL230E ซึ่งเป็นรถบรรทุกลาก GVW ขนาด 350 ตันซึ่งอยู่ในระดับเดียวกันในฐานะรถบรรทุกขุดเหมืองไฟฟ้าแบบแบตเตอรีที่ใหญ่ที่สุดเพียงแห่งเดียวในจีน"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
       "title_en": "Weekend Quick Charge: all about autonomy with Waymo and GM",
       "summary_en": "On today’s self-steering episode of Quick Charge , we take a look at Waymo’s westward expansion into 18 new California counties – a move the company believes will power it to more than one MILLION paid rides by the end of the year.",
       "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/07/waymo_ojai_hero_mp4_hd.original.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
@@ -589,18 +601,6 @@
       "published": "Sat, 15 Aug 2026 16:00:00 +0000",
       "title_th": "เปลี่ยน Tesla และ Mach-E หลายล้านเครื่องให้เป็นโรงไฟฟ้า V2L: WETOX D2 ได้รับการรับรอง Next-Gen V2X ครั้งแรกของโลกจาก SGS",
       "summary_th": "ความสามารถในการดึงพลังงานที่ล็อกอยู่ภายในแบตเตอรี่รถยนต์ของคุณไปยังเครื่องมือไฟฟ้า ไฟ อุปกรณ์ตั้งแคมป์ และเครื่องใช้ในบ้านที่จำเป็นในระหว่างที่ไฟดับได้กลายเป็นหนึ่งในคุณสมบัติ EV ที่เป็นที่ต้องการมากที่สุดอย่างรวดเร็ว ปัญหา? ยานพาหนะไฟฟ้าจำนวนมากอยู่บนท้องถนน – รวมถึง Tesla หลายล้านคัน (รุ่น S, รุ่น 3, รุ่น X และรุ่น Y)! – ไม่เคยถูกขายด้วยความสามารถแบบเนทิฟยานพาหนะถึงโหลด (V2L) อะแดปเตอร์แปลงไฟ D2 ใหม่จาก WETOX เปลี่ยนแปลงทุกสิ่งโดยใช้พอร์ตชาร์จดั้งเดิมของรถยนต์ และเปลี่ยน EV จำนวนมากขึ้นให้กลายเป็นโรงไฟฟ้าแบบพกพา"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Current classics: Bisimoto’s 600 hp electric Rolls-Royce SilvEV Ghost",
-      "summary_en": "First seen in the Toyo Tires booth in 2024, Bisi Ezerioha’s converted Roller resurfaced this week at Exotics on Broadway – and the slick, silent running SilvEV Ghost electric restomod has never looked better with a freshened interior and a fresh coat of wax.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/bisi_ghost.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/15/current-classics-bisimotos-600-hp-electric-rolls-royce-silvev-ghost/",
-      "published": "Sat, 15 Aug 2026 15:38:06 +0000",
-      "title_th": "รถยนต์คลาสสิกในปัจจุบัน: Rolls-Royce SilvEV Ghost พลังไฟฟ้า 600 แรงม้าของ Bisimoto",
-      "summary_th": "เห็นครั้งแรกในบูธของ Toyo Tyres ในปี 2024 รถ Roller ที่ได้รับการดัดแปลงของ Bisi Ezerioha ปรากฏตัวอีกครั้งในสัปดาห์นี้ที่ Exotics on Broadway และรถ Restomod ไฟฟ้า SilvEV Ghost ที่ทำงานเงียบและเงียบไม่เคยดูดีไปกว่านี้อีกแล้วด้วยการตกแต่งภายในที่สดชื่นและเคลือบแวกซ์ใหม่"
     }
   ],
   "indices": [
