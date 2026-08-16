@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-15T21:11:55.688738+00:00",
+  "generated_at": "2026-08-16T00:29:32.063026+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "summary_en": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "published": "Sat, 15 Aug 2026 21:29:19 +0000",
+      "title_th": "ผู้หญิงอ้างว่าพ่อเลี้ยงของเธอใช้ Grok เพื่อเปลี่ยนภาพถ่ายในวัยเด็กให้เป็นภาพที่โจ่งแจ้ง",
+      "summary_th": "ผู้หญิงคนนี้อ้างว่าเครื่องมือ AI กำลัง \"คร่าชีวิตชีวิตประจำวันและเปลี่ยนมันให้กลายเป็นการล่วงละเมิดทางเพศเด็ก\""
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -49,18 +61,6 @@
       "published": "Sat, 15 Aug 2026 13:15:20 +0000",
       "title_th": "ทุกสตาร์ทอัพฟิวชั่นที่ระดมทุนได้มากกว่า 100 ล้านเหรียญ",
       "summary_th": "Fusion Startup ระดมทุนได้ 7.1 พันล้านดอลลาร์จนถึงปัจจุบัน โดยส่วนใหญ่จะระดมทุนให้กับบริษัทเพียงไม่กี่แห่ง"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Talks to sell PayPal to Stripe and Advent are heating up",
-      "summary_en": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1584248812.jpg?w=1200",
-      "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
-      "published": "Fri, 14 Aug 2026 22:43:24 +0000",
-      "title_th": "การเจรจาขาย PayPal ให้กับ Stripe และ Advent กำลังร้อนแรง",
-      "summary_th": "มีรายงานว่า PayPal ยังคงเจรจาการขายที่เป็นไปได้ให้กับ Stripe และบริษัทไพรเวทอิควิตี้ Advent เนื่องจากซีอีโอคนใหม่ของบริษัท fintech พยายามที่จะเปลี่ยนบริษัท"
     },
     {
       "source": "The Verge",
@@ -305,6 +305,18 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "review",
+      "title_en": "What is a Bluetooth codec and which one offers the best audio quality?",
+      "summary_en": "If you want the best quality out of your Bluetooth audio, it's worth reviewing some settings.",
+      "image": "https://www.engadget.com/img/gallery/what-is-a-bluetooth-codec-and-which-one-offers-the-best-audio-quality/l-intro-1786131923.jpg",
+      "link": "https://www.engadget.com/2236801/what-is-bluetooth-codec-which-offers-best-audio-quality/",
+      "published": "Sat, 15 Aug 2026 21:30:00 +0000",
+      "title_th": "ตัวแปลงสัญญาณ Bluetooth คืออะไร และตัวแปลงสัญญาณใดให้คุณภาพเสียงที่ดีที่สุด",
+      "summary_th": "หากคุณต้องการคุณภาพเสียง Bluetooth ที่ดีที่สุด คุณควรตรวจสอบการตั้งค่าบางอย่าง"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "chip",
       "title_en": "Apple Watch battery replacement: How much does it cost and is it worth it?",
       "summary_en": "Replacing the battery on your Apple Watch can extend its life, but you'll have to determine whether it's worthwhile for your model.",
@@ -351,18 +363,6 @@
       "summary_th": "แม้ว่าวิวัฒนาการของบริษัทจะมีการพลิกผันหลายครั้ง แต่บริษัทยังคงเป็นหนึ่งในชื่อที่ใหญ่ที่สุดในอุตสาหกรรมโทรคมนาคม"
     },
     {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "How to request an Xbox refund",
-      "summary_en": "Xbox offers refunds on some games and apps, but there are stipulations you should understand before requesting one.",
-      "image": "https://www.engadget.com/img/gallery/how-to-request-an-xbox-refund/l-intro-1786108939.jpg",
-      "link": "https://www.engadget.com/2234241/xbox-refund-how-to-request/",
-      "published": "Sat, 15 Aug 2026 16:30:00 +0000",
-      "title_th": "วิธีขอเงินคืน Xbox",
-      "summary_th": "Xbox เสนอการคืนเงินสำหรับเกมและแอปบางรายการ แต่มีข้อกำหนดที่คุณควรทำความเข้าใจก่อนที่จะขอ"
-    },
-    {
       "source": "IEEE Spectrum",
       "flag": "US",
       "category": "robot",
@@ -396,7 +396,7 @@
       "link": "https://spectrum.ieee.org/product-engineer",
       "published": "Thu, 13 Aug 2026 14:44:50 +0000",
       "title_th": "นำแนวคิดของผู้จัดการผลิตภัณฑ์มาใช้กับงานวิศวกรรมครั้งต่อไปของคุณ",
-      "summary_th": "หากคุณยังไม่เห็นตำแหน่งงานสำหรับ “วิศวกรผลิตภัณฑ์” คุณอาจจะได้ทราบเร็วๆ นี้ งานที่จู่ๆ ทุกคนก็จ้างเข้ามา บทบาทนี้เปรียบเสมือนลูกผสมระหว่างผู้จัดการผลิตภัณฑ์และวิศวกร (ตามชื่อเลย) และเป็นเทรนด์การจ้างงานที่ควรค่าแก่การใส่ใจ บริษัทต่างๆ กำลังเปิดรับตำแหน่งงานเหล่านี้เพิ่มขึ้นทุกๆ เดือน แต่พวกเขาก็ประสบปัญหาในการเติมเต็มตำแหน่งดังกล่าว เหตุผลแทบไม่เกี่ยวข้องกับทักษะการเขียนโค้ดของวิศวกรหรือประสบการณ์หลายปี การย้ายอาชีพที่ดีที่สุดที่คุณสามารถทำได้เพื่อเตรียมพร้อมสำหรับบทบาทประเภทนี้แทบจะไม่เกี่ยวข้องกับการได้รับความรู้ด้านเทคนิคมากขึ้นเลย แต่กลับกลายเป็นคำที่ฟุ่มเฟือยที่สุด ใช้มากเกินไป และอาจเลวร้ายที่สุดในเทคโนโลยีทั้งหมด: ความคิด ติดกับฉันฉันสัญญาว่าสิ่งนี้จะเป็นประโยชน์ ปัญหา: เราถูกฝึกให้เป็นทาส"
+      "summary_th": "หากคุณยังไม่เห็นตำแหน่งงานสำหรับ “วิศวกรผลิตภัณฑ์” คุณอาจจะได้ทราบเร็วๆ นี้ งานที่จู่ๆ ทุกคนก็จ้างมา บทบาทนี้เปรียบเสมือนลูกผสมระหว่างผู้จัดการผลิตภัณฑ์และวิศวกร (ตามชื่อเลย) และเป็นเทรนด์การจ้างงานที่ควรค่าแก่การใส่ใจ บริษัทต่างๆ กำลังเปิดรับตำแหน่งงานเหล่านี้เพิ่มขึ้นทุกๆ เดือน แต่พวกเขาก็ประสบปัญหาในการเติมเต็มตำแหน่งดังกล่าว เหตุผลแทบจะไม่เกี่ยวข้องกับทักษะการเขียนโค้ดของวิศวกรหรือประสบการณ์หลายปี การย้ายอาชีพที่ดีที่สุดที่คุณสามารถทำได้เพื่อเตรียมพร้อมสำหรับบทบาทประเภทนี้แทบจะไม่เกี่ยวข้องกับการได้รับความรู้ด้านเทคนิคมากขึ้นเลย แต่กลับกลายเป็นคำที่ฟุ่มเฟือยที่สุด ใช้มากเกินไป และอาจแย่ที่สุดในเทคโนโลยีทั้งหมด: ความคิด ติดกับฉันฉันสัญญาว่าสิ่งนี้จะเป็นประโยชน์ ปัญหา: เราถูกฝึกให้เป็นทาส"
     },
     {
       "source": "IEEE Spectrum",
@@ -546,6 +546,18 @@
       "source": "Electrek",
       "flag": "",
       "category": "ev",
+      "title_en": "Weekend Quick Charge: all about autonomy with Waymo and GM",
+      "summary_en": "On today’s self-steering episode of Quick Charge , we take a look at Waymo’s westward expansion into 18 new California counties – a move the company believes will power it to more than one MILLION paid rides by the end of the year.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/07/waymo_ojai_hero_mp4_hd.original.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/15/weekend-quick-charge-all-about-autonomy-with-waymo-and-gm/",
+      "published": "Sat, 15 Aug 2026 21:51:52 +0000",
+      "title_th": "Weekend Quick Charge: ทุกอย่างเกี่ยวกับความเป็นอิสระด้วย Waymo และ GM",
+      "summary_th": "ในตอนที่ควบคุมตัวเองของ Quick Charge วันนี้ เราจะมาดูการขยายตัวไปทางตะวันตกของ Waymo ไปยัง 18 มณฑลใหม่ในแคลิฟอร์เนีย ซึ่งเป็นการเคลื่อนไหวที่บริษัทเชื่อว่าจะเพิ่มพลังให้กับการเดินทางแบบชำระเงินมากกว่าหนึ่งล้านครั้งภายในสิ้นปีนี้"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
       "title_en": "Tesla adds 2.4 kW vehicle-to-load to Model Y Premium with $80 adapter",
       "summary_en": "Tesla has switched on vehicle-to-load for the Model Y Premium in the US and Puerto Rico, letting owners pull 2.4 kW out of the car’s battery at 120 volts and 20 amps. You need an $80 accessory to do it, and not every Model Y Premium can. Tesla says the adapter can be added during configuration or bought from the Tesla Shop.",
       "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Tesla-bidirectional-charger.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
@@ -589,18 +601,6 @@
       "published": "Sat, 15 Aug 2026 15:38:06 +0000",
       "title_th": "รถยนต์คลาสสิกในปัจจุบัน: Rolls-Royce SilvEV Ghost พลังไฟฟ้า 600 แรงม้าของ Bisimoto",
       "summary_th": "เห็นครั้งแรกในบูธของ Toyo Tyres ในปี 2024 รถ Roller ที่ได้รับการดัดแปลงของ Bisi Ezerioha ปรากฏตัวอีกครั้งในสัปดาห์นี้ที่ Exotics on Broadway และรถ Restomod ไฟฟ้า SilvEV Ghost ที่ทำงานเงียบและเงียบไม่เคยดูดีไปกว่านี้อีกแล้วด้วยการตกแต่งภายในที่สดชื่นและเคลือบแวกซ์ใหม่"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Speeders just got lucky: the new Dodge police Charger is NOT electric",
-      "summary_en": "If the Mopar faithful won’t embrace the 670 hp electric Charger because it’s powered by batteries, and won’t accept the 550 hp Sixpack Charger because it’s powered by turbos. In a last-ditch effort, Dodge executives are hoping the people chasing them down will.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/2027-Dodge-Charger-PPV_Team-One-Network.-9-copy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/15/speeders-just-got-lucky-the-new-dodge-police-charger-is-not-electric/",
-      "published": "Sat, 15 Aug 2026 14:19:40 +0000",
-      "title_th": "นักเร่งความเร็วเพิ่งโชคดี: Dodge Police Charger ใหม่ไม่ใช่ระบบไฟฟ้า",
-      "summary_th": "หากผู้ซื่อสัตย์ของ Mopar ไม่ยอมรับเครื่องชาร์จไฟฟ้าขนาด 670 แรงม้า เนื่องจากใช้พลังงานจากแบตเตอรี่ และจะไม่ยอมรับเครื่องชาร์จ Sixpack ขนาด 550 แรงม้า เนื่องจากใช้พลังงานจากเทอร์โบ ในความพยายามครั้งสุดท้าย ผู้บริหารของ Dodge หวังว่าผู้คนที่ไล่ตามพวกเขาจะทำได้"
     }
   ],
   "indices": [
@@ -733,6 +733,16 @@
     {
       "channel": "Beartai",
       "country": "TH",
+      "title_en": "สร้างสุขภาพให้ดีกว่าเดิม ต้องทำยังไง ?",
+      "video_id": "wguzEL-RZUc",
+      "link": "https://www.youtube.com/shorts/wguzEL-RZUc",
+      "thumbnail": "https://i4.ytimg.com/vi/wguzEL-RZUc/hqdefault.jpg",
+      "published": "2026-08-15T23:00:20+00:00",
+      "title_th": "สร้างสุขภาพให้ดีกว่าเดิม ต้องทำยังไง ?"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
       "title_en": "ช่องโหว่ที่ทำให้สุขภาพไม่ดี",
       "video_id": "O84TuQtt3fw",
       "link": "https://www.youtube.com/shorts/O84TuQtt3fw",
@@ -749,16 +759,6 @@
       "thumbnail": "https://i3.ytimg.com/vi/FZ0CEShEC4Y/hqdefault.jpg",
       "published": "2026-08-14T11:00:34+00:00",
       "title_th": "'นักท่องเที่ยว' ถ้าร้ายนัก ต้องรักไหม ? | Go with The Four"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "ทำไมระบบสุขภาพไทย เน้นซ่อมมากกว่าสร้าง ?",
-      "video_id": "n0vOziOd_So",
-      "link": "https://www.youtube.com/shorts/n0vOziOd_So",
-      "thumbnail": "https://i3.ytimg.com/vi/n0vOziOd_So/hqdefault.jpg",
-      "published": "2026-08-13T05:52:34+00:00",
-      "title_th": "ทำไมระบบสุขภาพไทย เน้นซ่อมมากกว่าสร้าง ?"
     },
     {
       "channel": "Droidsans",
