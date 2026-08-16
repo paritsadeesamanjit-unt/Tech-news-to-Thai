@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T12:13:59.646539+00:00",
+  "generated_at": "2026-08-16T15:11:04.209696+00:00",
   "count": 50,
   "articles": [
     {
@@ -66,6 +66,18 @@
       "source": "The Verge",
       "flag": "US",
       "category": "software",
+      "title_en": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "summary_en": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "published": "2026-08-16T10:56:40-04:00",
+      "title_th": "ประวัติคอมพิวเตอร์ของ ChatGPT ติดตามการคลิกและการกดแป้นพิมพ์ของคุณ",
+      "summary_th": "แอปเดสก์ท็อปของ ChatGPT บน macOS มีฟีเจอร์ใหม่ที่เรียกว่าประวัติคอมพิวเตอร์ ซึ่งเปลี่ยนการกระทำของคุณให้เป็นข้อมูลการฝึกอบรม เรียนรู้วิธีการทำงานของคุณ แนะนำระบบอัตโนมัติ และแม้กระทั่งงานที่คุณทำค้างไว้ครึ่งหนึ่ง ใช้กิจกรรมของคุณเพื่อสร้างไทม์ไลน์ที่ ChatGPT และ Codex สามารถอ้างอิงได้เมื่อคุณส่งคำขอ คุณสมบัติ […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
       "title_en": "Rogue AI aren’t science fiction anymore",
       "summary_en": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started in July, when one of OpenAI's autonomous AI agents […]",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
@@ -109,18 +121,6 @@
       "published": "2026-08-15T13:00:00-04:00",
       "title_th": "อย่ามองข้ามเครื่องดนตรีอิเล็กทรอนิกส์ราคาประหยัดของ Elektron",
       "summary_th": "เมื่อฉันถูกถามว่าจะซื้ออะไรถ้าคุณต้องการทำดนตรีอิเล็กทรอนิกส์ ฉันมักจะแนะนำ Model:Samples และ Model:Cycles Grooveboxes ที่คำนึงถึงงบประมาณของ Elektron พวกเขาไม่ได้พาดหัวข่าวแบบเดียวกับที่อุปกรณ์ของ Teenage Engineering หรือ Telepathic Instruments Orchid ทำ และแม้แต่เมื่อเปรียบเทียบกับบริษัทระดับไฮเอนด์และดนตรีเฉพาะกลุ่มอื่นๆ เช่น Digitakt, Octatrack, […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Star Wars: Ahsoka season 2 and Starfighter get teased at D23",
-      "summary_en": "Season two of Star Wars: Ahsoka is still months away, but Lucasfilm still took the opportunity to tease it a bit at D23. The company dropped the first trailer for the new season ahead of its January 20th, 2027 debut. The clip shows a darker, witchcraft-filled take on the Star Wars universe, with Grand Admiral […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/AhsokaS2_poster_1.jpg?quality=90&strip=all&crop=0,2.2232811309752,100,35.337873675236",
-      "link": "https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23",
-      "published": "2026-08-15T10:58:27-04:00",
-      "title_th": "Star Wars: Ahsoka ซีซั่น 2 และ Starfighter ถูกล้อเลียนที่ D23",
-      "summary_th": "ซีซั่นที่สองของ Star Wars: Ahsoka อยู่ห่างออกไปหลายเดือน แต่ Lucasfilm ยังคงถือโอกาสหยอกล้อเล็กน้อยที่ D23 บริษัทได้ปล่อยตัวอย่างแรกสำหรับซีซั่นใหม่ก่อนเปิดตัวในวันที่ 20 มกราคม 2027 คลิปนี้แสดงให้เห็นถึงความมืดมนและเต็มไปด้วยเวทมนตร์ในจักรวาล Star Wars โดย Grand Admiral […]"
     },
     {
       "source": "Ars Technica",
@@ -263,7 +263,7 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/HLY_5765-FINAL.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
       "published": "Fri, 14 Aug 2026 09:00:00 +0000",
-      "title_th": "นักวิทยาศาสตร์คนนี้กำลังช่วยสร้างแผนที่ในวัยเด็กที่หายไป",
+      "title_th": "นักวิทยาศาสตร์คนนี้กำลังช่วยสร้างแผนที่วัยเด็กที่หายไป",
       "summary_th": "ในปี 2017 Deanne Taylor เข้าร่วมการนำเสนอที่มหาวิทยาลัยเพนซิลเวเนีย ซึ่งอยู่ห่างจากสำนักงานของเธอโดยใช้เวลาเดินเพียงไม่นาน นักวิจัยอยู่ที่นั่นเพื่อเปิดเผย Human Cell Atlas ซึ่งเป็นโครงการที่มีความทะเยอทะยานซึ่งมีจุดมุ่งหมายเพื่อสร้างแผนที่ทุกเซลล์ในร่างกายมนุษย์ เทย์เลอร์ตกตะลึงแล้วก็กังวล เมื่อรายละเอียดปรากฏ เธอพบว่า..."
     },
     {
@@ -306,6 +306,54 @@
       "source": "Engadget",
       "flag": "US",
       "category": "gadget",
+      "title_en": "Is the MacBook Pro M5 still worth buying after the price hike?",
+      "summary_en": "It could be wise to wait, or settle for a cheaper model.",
+      "image": "https://www.engadget.com/img/gallery/is-the-macbook-pro-m5-still-worth-buying-after-the-price-hike/l-intro-1786134854.jpg",
+      "link": "https://www.engadget.com/2234244/is-macbook-pro-m5-still-worth-after-price-hike/",
+      "published": "Sun, 16 Aug 2026 14:30:00 +0000",
+      "title_th": "MacBook Pro M5 ยังน่าซื้อหลังขึ้นราคาหรือไม่?",
+      "summary_th": "อาจเป็นการดีกว่าที่จะรอหรือเลือกรุ่นที่ราคาถูกกว่า"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Nintendo GameCube discs were small for a reason",
+      "summary_en": "The format remains unique in console history.",
+      "image": "https://www.engadget.com/img/gallery/nintendo-gamecube-discs-were-small-for-a-reason/l-intro-1786126099.jpg",
+      "link": "https://www.engadget.com/2234243/nintendo-gamecube-small-discs-reason/",
+      "published": "Sun, 16 Aug 2026 13:30:00 +0000",
+      "title_th": "แผ่น Nintendo GameCube มีขนาดเล็กด้วยเหตุผลบางประการ",
+      "summary_th": "รูปแบบยังคงไม่ซ้ำกันในประวัติคอนโซล"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "How to set up your emergency contacts and medical ID on your iPhone",
+      "summary_en": "Take time to enable these features today before you need them; they could help save your life in an emergency.",
+      "image": "https://www.engadget.com/img/gallery/how-to-set-up-your-emergency-contacts-and-medical-id-on-your-iphone/l-intro-1786553132.jpg",
+      "link": "https://www.engadget.com/2236803/how-to-set-up-emergency-contact-medical-id-on-iphone/",
+      "published": "Sun, 16 Aug 2026 13:00:00 +0000",
+      "title_th": "วิธีตั้งค่าผู้ติดต่อฉุกเฉินและ ID ทางแพทย์บน iPhone ของคุณ",
+      "summary_th": "ใช้เวลาในการเปิดใช้งานคุณลักษณะเหล่านี้ตั้งแต่วันนี้ก่อนที่คุณจะต้องการ พวกเขาสามารถช่วยชีวิตคุณได้ในกรณีฉุกเฉิน"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Dolby Vision is on Netflix but you'll need these things first",
+      "summary_en": "It's only available with the top-tier Premium subscription plan, for one.",
+      "image": "https://www.engadget.com/img/gallery/dolby-vision-is-on-netflix-but-youll-need-these-things-first/l-intro-1786128367.jpg",
+      "link": "https://www.engadget.com/2236802/dolby-vision-on-netflix-things-needed-first/",
+      "published": "Sun, 16 Aug 2026 12:30:00 +0000",
+      "title_th": "Dolby Vision อยู่บน Netflix แต่คุณต้องมีสิ่งเหล่านี้ก่อน",
+      "summary_th": "ใช้ได้เฉพาะกับแผนการสมัครสมาชิกระดับพรีเมียมระดับสูงสุดเท่านั้น"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
       "title_en": "How Samsung's Galaxy Watch 8 measures your antioxidant levels",
       "summary_en": "Samsung's newest party trick could actually help you improve your diet, and therefore your overall health.",
       "image": "https://www.engadget.com/img/gallery/how-samsungs-galaxy-watch-8-measures-your-antioxidant-levels/l-intro-1786630068.jpg",
@@ -313,54 +361,6 @@
       "published": "Sat, 15 Aug 2026 22:30:00 +0000",
       "title_th": "Galaxy Watch 8 ของ Samsung วัดระดับสารต้านอนุมูลอิสระของคุณอย่างไร",
       "summary_th": "เคล็ดลับปาร์ตี้ใหม่ล่าสุดของ Samsung สามารถช่วยให้คุณปรับปรุงการรับประทานอาหารและสุขภาพโดยรวมของคุณได้จริง"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "review",
-      "title_en": "What is a Bluetooth codec and which one offers the best audio quality?",
-      "summary_en": "If you want the best quality out of your Bluetooth audio, it's worth reviewing some settings.",
-      "image": "https://www.engadget.com/img/gallery/what-is-a-bluetooth-codec-and-which-one-offers-the-best-audio-quality/l-intro-1786131923.jpg",
-      "link": "https://www.engadget.com/2236801/what-is-bluetooth-codec-which-offers-best-audio-quality/",
-      "published": "Sat, 15 Aug 2026 21:30:00 +0000",
-      "title_th": "ตัวแปลงสัญญาณ Bluetooth คืออะไร และตัวแปลงสัญญาณใดให้คุณภาพเสียงที่ดีที่สุด",
-      "summary_th": "หากคุณต้องการคุณภาพเสียง Bluetooth ที่ดีที่สุด คุณควรตรวจสอบการตั้งค่าบางอย่าง"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Apple Watch battery replacement: How much does it cost and is it worth it?",
-      "summary_en": "Replacing the battery on your Apple Watch can extend its life, but you'll have to determine whether it's worthwhile for your model.",
-      "image": "https://www.engadget.com/img/gallery/apple-watch-battery-replacement-how-much-does-it-cost-and-is-it-worth-it/l-intro-1786723362.jpg",
-      "link": "https://www.engadget.com/2237226/apple-watch-battery-replacement-how-much-cost-worth-it/",
-      "published": "Sat, 15 Aug 2026 20:00:00 +0000",
-      "title_th": "การเปลี่ยนแบตเตอรี่ Apple Watch: ราคาเท่าไหร่และคุ้มค่าหรือไม่",
-      "summary_th": "การเปลี่ยนแบตเตอรี่บน Apple Watch ของคุณสามารถยืดอายุการใช้งานได้ แต่คุณจะต้องพิจารณาว่าคุ้มค่ากับรุ่นของคุณหรือไม่"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Why are RAM prices so high right now?",
-      "summary_en": "When will the price of RAM come back down again?",
-      "image": "https://www.engadget.com/img/gallery/why-are-ram-prices-so-high-right-now/l-intro-1786661687.jpg",
-      "link": "https://www.engadget.com/2236799/why-ram-prices-so-high/",
-      "published": "Sat, 15 Aug 2026 18:30:00 +0000",
-      "title_th": "ทำไมราคา RAM ถึงสูงในตอนนี้?",
-      "summary_th": "เมื่อไหร่ราคา RAM จะกลับมาลดราคาอีกครั้ง?"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Anthropic is watermarking text generated by Claude to comply with EU law",
-      "summary_en": "Anthropic has explained its text watermarking approach.",
-      "image": "https://www.engadget.com/img/gallery/anthropic-is-watermarking-text-generated-by-claude-to-comply-with-eu-law/l-intro-1786817154.jpg",
-      "link": "https://www.engadget.com/2237691/anthropic-watermarking-text-generated-by-claude/",
-      "published": "Sat, 15 Aug 2026 18:08:36 +0000",
-      "title_th": "Anthropic คือข้อความลายน้ำที่สร้างโดย Claude เพื่อให้สอดคล้องกับกฎหมายของสหภาพยุโรป",
-      "summary_th": "Anthropic ได้อธิบายวิธีการใส่ลายน้ำข้อความแล้ว"
     },
     {
       "source": "IEEE Spectrum",
@@ -486,6 +486,30 @@
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
+      "title_en": "Pixel 11 Pro’s ‘HiLight’ is another half-baked feature burdened by bad first impressions",
+      "summary_en": "There are a few trends that have shown up on Pixel phones over the years, but one of the most frustrating is that Google keeps launching half-baked features on its devices that take way too long to reach their potential, just to be taken away afterwards. “HiLight” is the worst example of that to date. This issue of 9to5Google Weekender is a part of our newsletter that highlights the biggest Google stories with added commentary and more. Sign up here to get Weekender delivered to your inbox every weekend, and catch our weekday roundups too!",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-pro-xl-hilight-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/16/google-pixel-11-hilight/",
+      "published": "Sun, 16 Aug 2026 13:00:00 +0000",
+      "title_th": "'HiLight' ของ Pixel 11 Pro เป็นอีกหนึ่งคุณสมบัติกึ่งสำเร็จรูปที่ได้รับภาระจากการแสดงผลครั้งแรกที่ไม่ดี",
+      "summary_th": "มีแนวโน้มบางประการที่ปรากฏบนโทรศัพท์ Pixel ในช่วงหลายปีที่ผ่านมา แต่สิ่งหนึ่งที่น่าหงุดหงิดที่สุดคือ Google ยังคงเปิดตัวฟีเจอร์กึ่งสำเร็จรูปบนอุปกรณ์ของตน ซึ่งใช้เวลานานเกินไปในการบรรลุศักยภาพของพวกเขา เพียงเพื่อจะถูกลบออกไปในภายหลัง “HiLight” เป็นตัวอย่างที่เลวร้ายที่สุดของเรื่องดังกล่าวจนถึงปัจจุบัน 9to5Google Weekender ฉบับนี้เป็นส่วนหนึ่งของจดหมายข่าวของเราที่เน้นเรื่องราวของ Google ที่ยิ่งใหญ่ที่สุดพร้อมคำอธิบายเพิ่มเติมและอื่นๆ อีกมากมาย ลงทะเบียนที่นี่เพื่อให้ Weekender ส่งถึงกล่องจดหมายของคุณทุกสุดสัปดาห์ และติดตามบทสรุปวันธรรมดาของเราด้วย!"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Face Unlock on Pixel 11 series works better in low light",
+      "summary_en": "Since the Pixel 8 , Google’s camera-based face recognition has supported Android’s highest biometric standard. The Pixel 11 series now offers Face Unlock that “recognizes you more easily in low light.”",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Fold-in-Obsidian.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/16/pixel-11-face-unlock/",
+      "published": "Sun, 16 Aug 2026 12:30:00 +0000",
+      "title_th": "Face Unlock บน Pixel 11 series ทำงานได้ดีขึ้นในที่แสงน้อย",
+      "summary_th": "ตั้งแต่ Pixel 8 การจดจำใบหน้าด้วยกล้องของ Google ได้รองรับมาตรฐานไบโอเมตริกซ์สูงสุดของ Android ตอนนี้ซีรีส์ Pixel 11 นำเสนอการปลดล็อคด้วยใบหน้าที่ “จดจำคุณได้ง่ายขึ้นในที่แสงน้อย”"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Pixel 11 ads show a mysterious screen-equipped tracker that’s not Pixel Watch 5 or Fitbit Air [Gallery]",
       "summary_en": "Google might have another fitness tracker in the works, as a pair of new ads online show off a mysterious little pebble that’s neither a Fitbit Air nor a Pixel Watch 5 – but is it anything at all?",
       "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-ads-unknown-tracker.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
@@ -519,30 +543,6 @@
       "summary_th": "การเปลี่ยนแปลงอินเทอร์เฟซใน Android 17 QPR2 Beta 3 ยังคงมีความเบลอมากขึ้นสำหรับหน้าจอล็อคพิกเซล การแจ้งเตือน..."
     },
     {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "review",
-      "title_en": "Here’s everything new in Android 17 QPR2 Beta 3 [Gallery]",
-      "summary_en": "The preview for the December release continues today with a surprising Friday launch of Android 17 QPR2 Beta 3 .",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/14/android-17-qpr2-beta-3-everything-new/",
-      "published": "Fri, 14 Aug 2026 22:42:26 +0000",
-      "title_th": "นี่คือทุกสิ่งใหม่ใน Android 17 QPR2 Beta 3 [แกลเลอรี]",
-      "summary_th": "การแสดงตัวอย่างสำหรับการเปิดตัวเดือนธันวาคมยังคงดำเนินต่อไปในวันนี้ด้วยการเปิดตัว Android 17 QPR2 Beta 3 ในวันศุกร์ที่น่าประหลาดใจ"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Android 17 QPR2 lets you customize Pixel Quick Settings layout",
-      "summary_en": "The surprise Friday drop of Android 17 QPR2 lets you customize the layout of the Quick Settings shade on Pixel. This editor was introduced in the latest Android Canary build for a relatively short turnaround.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/android-figures-mwc-2026-17.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/14/customize-pixel-quick-settings/",
-      "published": "Fri, 14 Aug 2026 22:35:00 +0000",
-      "title_th": "Android 17 QPR2 ให้คุณปรับแต่งเค้าโครงการตั้งค่าด่วนของ Pixel",
-      "summary_th": "การวางจำหน่าย Android 17 QPR2 ที่น่าประหลาดใจในวันศุกร์ทำให้คุณปรับแต่งเค้าโครงของเฉดสีการตั้งค่าด่วนบน Pixel ได้ ตัวแก้ไขนี้ถูกนำมาใช้ใน Android Canary เวอร์ชันล่าสุดโดยใช้เวลาดำเนินการค่อนข้างสั้น"
-    },
-    {
       "source": "Electrek",
       "flag": "",
       "category": "ev",
@@ -564,7 +564,7 @@
       "link": "https://electrek.co/2026/08/15/weekend-quick-charge-all-about-autonomy-with-waymo-and-gm/",
       "published": "Sat, 15 Aug 2026 21:51:52 +0000",
       "title_th": "Weekend Quick Charge: ทุกอย่างเกี่ยวกับความเป็นอิสระด้วย Waymo และ GM",
-      "summary_th": "ในตอนที่ควบคุมตัวเองของ Quick Charge วันนี้ เราจะมาดูการขยายตัวไปทางทิศตะวันตกของ Waymo ไปยัง 18 มณฑลใหม่ในแคลิฟอร์เนีย ซึ่งเป็นการเคลื่อนไหวที่บริษัทเชื่อว่าจะเพิ่มพลังให้กับการเดินทางแบบชำระเงินมากกว่าหนึ่งล้านครั้งภายในสิ้นปีนี้"
+      "summary_th": "ในตอนที่ควบคุมตัวเองของ Quick Charge วันนี้ เราจะมาดูการขยายตัวไปทางตะวันตกของ Waymo ไปยัง 18 มณฑลใหม่ในแคลิฟอร์เนีย ซึ่งเป็นการเคลื่อนไหวที่บริษัทเชื่อว่าจะเพิ่มพลังให้กับการเดินทางแบบชำระเงินมากกว่าหนึ่งล้านครั้งภายในสิ้นปีนี้"
     },
     {
       "source": "Electrek",
@@ -588,7 +588,7 @@
       "link": "https://electrek.co/2026/08/15/corrupt-dot-head-takes-oil-money-to-film-reality-tv-show-during-oil-price-spike/",
       "published": "Sat, 15 Aug 2026 17:00:00 +0000",
       "title_th": "หัวหน้า DoT ทุจริตเอาเงินน้ำมันไปรายการทีวีเรียลลิตี้ในช่วงราคาน้ำมันพุ่งสูง (อัพเดท)",
-      "summary_th": "ฌอน ดัฟฟี่ ซึ่งเชี่ยวชาญด้านการขนส่งมาจากการเป็นผู้เข้าแข่งขันในรายการเรียลลิตี้เรื่อง Road Rules กำลังหวนคืนสู่ต้นกำเนิดของเขาและถ่ายทำรายการทีวีเรียลลิตี้ขณะทำงาน แต่ตามความเหมาะสมสำหรับแก๊งคอรัปชั่นที่เขาเป็นสมาชิกอยู่ เขาจะปล่อยให้บริษัทต่างๆ ที่เขาควรจะควบคุมเรื่องค่าจ้างสำหรับวันหยุดพักผ่อนของครอบครัว และเขากำลังทำสิ่งนี้อย่างถูกต้องในขณะที่เขาทำงานอย่างเต็มที่เพื่อให้แน่ใจว่าการเดินทางท่องเที่ยวของคุณจะเป็นไปได้น้อยลง โดยที่ราคาพลังงานที่สูงขึ้นทั่วประเทศเป็นผลโดยตรงและตั้งใจจากนโยบายของเขา (บทความต้นฉบับ 5/13 อัปเดต 8/58: รายการจะเปิดตัวในสัปดาห์หน้าหรือสองสัปดาห์หลังจากติดอยู่กับการแก้ไขเป็นเวลาหลายเดือนเพื่อแก้ไขข้อร้องเรียนด้านจริยธรรมจำนวนมาก)"
+      "summary_th": "ฌอน ดัฟฟี่ ซึ่งเชี่ยวชาญด้านการขนส่งมาจากการเป็นผู้เข้าแข่งขันในรายการเรียลลิตี้เรื่อง Road Rules กำลังหวนคืนสู่ต้นกำเนิดของเขาและถ่ายทำรายการทีวีเรียลลิตี้ขณะทำงาน แต่ตามความเหมาะสมสำหรับแก๊งคอรัปชั่นที่เขาเป็นสมาชิกอยู่ เขาจะปล่อยให้บริษัทต่างๆ ที่เขาควรจะควบคุมเรื่องค่าจ้างสำหรับวันหยุดพักผ่อนของครอบครัว และเขากำลังทำสิ่งนี้อย่างถูกต้องในขณะที่เขาทำงานอย่างเต็มที่เพื่อให้แน่ใจว่าการเดินทางท่องเที่ยวของคุณจะบรรลุผลได้น้อยลง โดยที่ราคาพลังงานที่สูงขึ้นทั่วประเทศเป็นผลโดยตรงและตั้งใจจากนโยบายของเขา (บทความต้นฉบับ 5/13 อัปเดต 8/58: รายการจะเปิดตัวในสัปดาห์หน้าหรือสองสัปดาห์หลังจากติดอยู่กับการแก้ไขเป็นเวลาหลายเดือนเพื่อแก้ไขข้อร้องเรียนด้านจริยธรรมจำนวนมาก)"
     },
     {
       "source": "Electrek",
@@ -763,6 +763,16 @@
     {
       "channel": "Droidsans",
       "country": "TH",
+      "title_en": "✍️ ปากกาแปลก เขียนในกระดาษปกติ แต่ไปโผล่บนจอมือถือได้ทันที?? #YUAN #SmartPen #SmartNotebook #จดโน้ต",
+      "video_id": "ZS_3QmUssv0",
+      "link": "https://www.youtube.com/shorts/ZS_3QmUssv0",
+      "thumbnail": "https://i3.ytimg.com/vi/ZS_3QmUssv0/hqdefault.jpg",
+      "published": "2026-08-16T14:35:04+00:00",
+      "title_th": "✍️ ปากกาแปลก เขียนในกระดาษปกติ แต่ไปโผล่บนจอมือถือได้ทันที?? #YUAN #SmartPen #SmartNotebook #จดโน้ต"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
       "title_en": "REDMI Note Series มียอดจัดส่งกว่า 500 ล้านเครื่องทั่วโลก ลุ้นรุ่นใหม่เร็ว ๆ นี้ 👀 #REDMINote #REDMI",
       "video_id": "wbryNUdBJ84",
       "link": "https://www.youtube.com/shorts/wbryNUdBJ84",
@@ -779,16 +789,6 @@
       "thumbnail": "https://i1.ytimg.com/vi/lqJjV6uUnXw/hqdefault.jpg",
       "published": "2026-08-15T12:00:04+00:00",
       "title_th": "Pixel 11 Series เปิดตัวแล้ว/ Honor Robot Phone ขายจริงราคาดี/ Youtube ปรับกฏสำหรับ creator หน้าใหม่"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "สมาร์ตวอทช์ สายสุขภาพ น่าซื้อ งบเริ่มต้น 1,000 บาท | Garmin, Samsung, Huawei, Xiaomi, Polar, Amazfit",
-      "video_id": "00U3_9hOMbE",
-      "link": "https://www.youtube.com/watch?v=00U3_9hOMbE",
-      "thumbnail": "https://i1.ytimg.com/vi/00U3_9hOMbE/hqdefault.jpg",
-      "published": "2026-08-14T13:06:58+00:00",
-      "title_th": "สมาร์ตวอทช์ สายสุขภาพ น่าซื้อ งบเริ่มต้น 1,000 บาท | Garmin, Samsung, Huawei, Xiaomi, Polar, Amazfit"
     }
   ]
 }
