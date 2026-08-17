@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T09:28:58.150000+00:00",
+  "generated_at": "2026-08-17T12:18:31.573963+00:00",
   "count": 50,
   "articles": [
     {
@@ -47,7 +47,7 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/joby-aviation-GettyImages-2272907562.jpg?resize=1200,800",
       "link": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
       "published": "Sun, 16 Aug 2026 16:04:00 +0000",
-      "title_th": "TechCrunch Mobility: เส้นทางการบินที่เปลี่ยนแปลงของแท็กซี่อากาศไฟฟ้า",
+      "title_th": "TechCrunch Mobility: เส้นทางการบินที่เปลี่ยนไปของแท็กซี่อากาศไฟฟ้า",
       "summary_th": "ยินดีต้อนรับกลับสู่ TechCrunch Mobility - ศูนย์กลางข่าวสารและข้อมูลเชิงลึกเกี่ยวกับอนาคตของการขนส่ง"
     },
     {
@@ -65,6 +65,42 @@
     {
       "source": "The Verge",
       "flag": "US",
+      "category": "gadget",
+      "title_en": "How to take better photos of your pets",
+      "summary_en": "Like the pets of any self-respecting millennial, my cats have their own Instagram account. Noodle and Loaf - aka Carb Cats - aren't exactly celebrities. But they are used to having their photos taken a lot. Between their Instagram account, my regular need to test smartphone cameras, and the fact that they are two adorable […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PHOTOS.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/970021/how-to-take-better-pet-photos",
+      "published": "2026-08-17T07:00:00-04:00",
+      "title_th": "วิธีถ่ายภาพสัตว์เลี้ยงของคุณให้ดีขึ้น",
+      "summary_th": "เช่นเดียวกับสัตว์เลี้ยงของคนรุ่นมิลเลนเนียลที่เคารพตัวเอง แมวของฉันมีบัญชี Instagram ของตัวเอง Noodle and Loaf หรือที่รู้จักกันในชื่อ Carb Cats ไม่ใช่คนดังเสียทีเดียว แต่พวกเขาก็คุ้นเคยกับการถ่ายรูปกันบ่อยๆ ระหว่างบัญชี Instagram ของพวกเขา ความต้องการเป็นประจำของฉันในการทดสอบกล้องสมาร์ทโฟน และความจริงที่ว่าทั้งสองคนน่ารัก […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+      "summary_en": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? Sign me up. But I have two […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_LITTER_ROBOT.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+      "published": "2026-08-17T07:00:00-04:00",
+      "title_th": "หุ่นยนต์ครอกที่ขับเคลื่อนด้วย AI ของ Whisker คิดว่าแมวของฉันสลับร่างกัน",
+      "summary_th": "สิ่งประดิษฐ์ที่ยิ่งใหญ่ที่สุดในวงการเทคโนโลยีสัตว์เลี้ยงในช่วงไม่กี่ปีที่ผ่านมาคือหุ่นยนต์ทิ้งขยะ เครื่องจักรที่ตักอุจจาระลูกแมวของคุณโดยที่คุณไม่ต้องทำ - เจ้าของแมวต้องการอะไรอีก แล้วข้อมูลเชิงลึกเกี่ยวกับการใช้กระบะทรายของคิตตี้ที่อาจบ่งบอกถึงปัญหาสุขภาพล่ะ ลงทะเบียนฉัน แต่ฉันมีสอง […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Anthropic explains how Claude’s invisible text watermarks will work",
+      "summary_en": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technology developed by Google DeepMind that creates detectable patterns using wording probabilities. This […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "published": "2026-08-17T06:57:13-04:00",
+      "title_th": "Anthropic อธิบายว่าลายน้ำข้อความที่มองไม่เห็นของ Claude ทำงานอย่างไร",
+      "summary_th": "Anthropic ได้ชี้แจงวิธีการวางแผนที่จะใช้ลายน้ำที่มองไม่เห็นกับข้อความที่สร้างโดย Claude เพื่อให้สอดคล้องกับกฎความโปร่งใสของ AI ของยุโรป เมื่อวันศุกร์ที่ผ่านมา Anthropic ประกาศว่าระบบการทำเครื่องหมายข้อความของ Claude คือ \"เวอร์ชันหนึ่งของแนวทาง SynthID-Text\" ซึ่งเป็นเทคโนโลยีลายน้ำโอเพ่นซอร์สที่พัฒนาโดย Google DeepMind ที่สร้างรูปแบบที่ตรวจพบได้โดยใช้ความน่าจะเป็นของถ้อยคำ นี้ […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
       "category": "software",
       "title_en": "I’m hooked on Peak Design’s new City bags",
       "summary_en": "It's just a hook, sewn into a bag, but I really, really like it. Peak Design is so proud of its clever integration that the San Francisco-based maker of camera gear gave it a name: BagLev, for its ability to keep its new City Line of bags levitated above the dirty ground. How many of […]",
@@ -72,7 +108,7 @@
       "link": "https://www.theverge.com/tech/980137/peak-design-city-line-review",
       "published": "2026-08-17T03:00:00-04:00",
       "title_th": "ฉันชอบกระเป๋า City ใบใหม่ของ Peak Design",
-      "summary_th": "เป็นแค่ตะขอเย็บใส่ถุงแต่ชอบมากจริงๆ Peak Design ภูมิใจในการบูรณาการอย่างชาญฉลาดจนผู้ผลิตอุปกรณ์กล้องในซานฟรานซิสโกตั้งชื่อให้ว่า BagLev เนื่องจากความสามารถในการเก็บกระเป๋า City Line ใหม่ให้ลอยอยู่เหนือพื้นสกปรก มีกี่ […]"
+      "summary_th": "เป็นแค่ตะขอเย็บใส่กระเป๋าแต่ชอบมากจริงๆ Peak Design ภูมิใจในการบูรณาการอย่างชาญฉลาดจนผู้ผลิตอุปกรณ์กล้องในซานฟรานซิสโกตั้งชื่อให้ว่า BagLev สำหรับความสามารถในการเก็บกระเป๋า City Line ใหม่ให้ลอยอยู่เหนือพื้นสกปรก มีกี่ […]"
     },
     {
       "source": "The Verge",
@@ -87,42 +123,6 @@
       "summary_th": "ตามรายงานของ Financial Times OpenAI ได้ยกเลิกทีมเตรียมความพร้อมเมื่อปลายเดือนที่แล้ว งานของทีมเตรียมความพร้อมคือการประเมินว่าแบบจำลองมีความเสี่ยงร้ายแรงหรือไม่ และพัฒนาวิธีการลดความเสี่ยงเหล่านั้น (คุณรู้ไหมว่าชอบความเป็นไปได้ที่มันอาจจะโกงและแฮ็กบริษัทอื่นได้) ตามข้อมูลของ FT ความรับผิดชอบ […]"
     },
     {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
-      "summary_en": "\"Breakups are… tough.\" It's the opening lines of an interlude towards the end of DOOMED! Called \"It Happens in Every Universe.\" It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject that Open Mike Eagle manages to mine for artistic gold. Eagle's subject matter is usually personal, […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/a4080481202_10.jpg?quality=90&strip=all&crop=0,4.2391770287958,100,52.356020942408",
-      "link": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
-      "published": "2026-08-16T16:31:37-04:00",
-      "title_th": "Open Mike Eagle และ Kenny Segal สร้างสรรค์ผลงานชิ้นเอกแห่งการเลิกราฮิปฮอป",
-      "summary_th": "\"การเลิกรานั้น... ยาก\" มันเป็นจุดเริ่มต้นของการสลับฉากในช่วงท้ายของ DOOMED! เรียกว่า “มันเกิดขึ้นในทุกจักรวาล” โดยพื้นฐานแล้วมันยังเป็นวิทยานิพนธ์ของบันทึกทั้งหมดด้วย มันไม่ใช่การเปิดเผยที่ยิ่งใหญ่ แต่เป็นเรื่องที่ได้รับการเหยียบย่ำอย่างดีที่ Open Mike Eagle จัดการขุดหาทองคำเชิงศิลปะ เนื้อหาของ Eagle มักจะเป็นเรื่องส่วนตัว […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Amazon is trying to crush class-action suits before they get started",
-      "summary_en": "On Friday, Amazon customers received an email alerting them to an update to the site's terms and conditions. Most notably, it stated that disputes would now be resolved through arbitration and said users agree to a class action waiver. Amazon framed this as a \"fast and efficient\" way to resolve issues, but it notably would […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK103__01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions",
-      "published": "2026-08-16T13:35:02-04:00",
-      "title_th": "Amazon พยายามที่จะทำลายชุดปฏิบัติการในชั้นเรียนก่อนที่จะเริ่มต้น",
-      "summary_th": "เมื่อวันศุกร์ ลูกค้าของ Amazon ได้รับอีเมลแจ้งเตือนเกี่ยวกับการอัปเดตข้อกำหนดและเงื่อนไขของเว็บไซต์ สิ่งที่โดดเด่นที่สุดคือระบุว่าขณะนี้ข้อพิพาทจะได้รับการแก้ไขผ่านการอนุญาโตตุลาการและกล่าวว่าผู้ใช้ตกลงที่จะสละสิทธิ์ในการดำเนินคดีแบบกลุ่ม Amazon ตีกรอบสิ่งนี้ว่าเป็นวิธีที่ \"รวดเร็วและมีประสิทธิภาพ\" ในการแก้ไขปัญหา แต่ก็เป็นที่น่าสังเกตว่า […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-      "summary_en": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "published": "2026-08-16T10:56:40-04:00",
-      "title_th": "ประวัติคอมพิวเตอร์ของ ChatGPT ติดตามการคลิกและการกดแป้นพิมพ์ของคุณ",
-      "summary_th": "แอปเดสก์ท็อปของ ChatGPT บน macOS มีฟีเจอร์ใหม่ที่เรียกว่าประวัติคอมพิวเตอร์ ซึ่งเปลี่ยนการกระทำของคุณให้เป็นข้อมูลการฝึกอบรม เรียนรู้วิธีการทำงานของคุณ แนะนำระบบอัตโนมัติ และแม้แต่งานที่คุณทำค้างไว้ครึ่งหนึ่ง ใช้กิจกรรมของคุณเพื่อสร้างไทม์ไลน์ที่ ChatGPT และ Codex สามารถอ้างอิงได้เมื่อคุณส่งคำขอ คุณสมบัติ […]"
-    },
-    {
       "source": "Ars Technica",
       "flag": "US",
       "category": "software",
@@ -131,7 +131,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg",
       "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
       "published": "Fri, 14 Aug 2026 17:03:54 +0000",
-      "title_th": "สถานี PBS กลัวการสูญเสียข้อมูล 50TB หลังจากถูกโกสต์โดยผู้ให้บริการพื้นที่เก็บข้อมูลบนคลาวด์",
+      "title_th": "สถานี PBS กลัวสูญเสียข้อมูล 50TB หลังจากถูกโกสต์โดยผู้ให้บริการพื้นที่เก็บข้อมูลบนคลาวด์",
       "summary_th": "“เราไม่สามารถเข้าถึงข้อมูลบนฮาร์ดแวร์/เซิร์ฟเวอร์ได้” Iron Mountain กล่าวกับ Ars"
     },
     {
@@ -144,7 +144,7 @@
       "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
       "published": "Fri, 14 Aug 2026 14:27:14 +0000",
       "title_th": "OpenAI และ Anthropic ในสงครามราคาเมื่อคู่แข่ง AI ของจีนเข้ามามีส่วนร่วม",
-      "summary_th": "กลุ่มบริษัทในสหรัฐฯ เปิดตัวโมเดลราคาถูกหลังจากความท้าทายใหม่ต่อความทะเยอทะยานล้านล้านดอลลาร์ของพวกเขา"
+      "summary_th": "กลุ่มสหรัฐฯ เปิดตัวโมเดลราคาถูกหลังความท้าทายใหม่ต่อความทะเยอทะยานล้านล้านดอลลาร์"
     },
     {
       "source": "Ars Technica",
@@ -185,6 +185,42 @@
     {
       "source": "Wired",
       "flag": "US",
+      "category": "gadget",
+      "title_en": "7 Best Cheap Laptops to Buy in 2026 (and Some to Avoid)",
+      "summary_en": "From surprisingly good $300 Chromebooks to excellent $650 Windows notebooks and more, these are the best budget laptops I’ve tested.",
+      "image": "https://media.wired.com/photos/69d56addb288ac3ffa89fae2/master/pass/The-Best-Budget-Laptops-to-Get-Your-Money%E2%80%99s-Worth.jpg",
+      "link": "https://www.wired.com/gallery/best-cheap-laptops/",
+      "published": "Mon, 17 Aug 2026 11:31:00 +0000",
+      "title_th": "7 แล็ปท็อปราคาถูกที่ดีที่สุดที่จะซื้อในปี 2569 (และบางรุ่นที่ควรหลีกเลี่ยง)",
+      "summary_th": "ตั้งแต่ Chromebooks มูลค่า 300 ดอลลาร์ที่ดีจนน่าประหลาดใจ ไปจนถึงโน้ตบุ๊ก Windows มูลค่า 650 ดอลลาร์และอื่นๆ อีกมากมาย นี่คือแล็ปท็อปราคาประหยัดที่ดีที่สุดที่ฉันเคยทดสอบ"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "review",
+      "title_en": "CookUnity Prepared Meal Delivery Review (2026): Chef-Centric Meals",
+      "summary_en": "I’ve tried most of the ready-to-eat meal delivery services in the country. CookUnity is the one that feels like real cooking, from real chefs.",
+      "image": "https://media.wired.com/photos/6a823658a0ec4702efa7eaf3/master/pass/Review-(2026)--CookUnity-Prepared-Delivery-Meals.jpg",
+      "link": "https://www.wired.com/review/cookunity-prepared-meal-delivery-2026/",
+      "published": "Mon, 17 Aug 2026 11:01:00 +0000",
+      "title_th": "รีวิวการจัดส่งอาหารปรุงสุกของ CookUnity (2026): มื้ออาหารที่มีเชฟเป็นศูนย์กลาง",
+      "summary_th": "ฉันได้ลองใช้บริการจัดส่งอาหารพร้อมรับประทานส่วนใหญ่ในประเทศแล้ว CookUnity เป็นสิ่งที่ให้ความรู้สึกเหมือนทำอาหารจริงจากเชฟตัวจริง"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "review",
+      "title_en": "Skylight Buddy Review (2026): Kid Routines Just Got Easy",
+      "summary_en": "This kid-friendly version of Skylight’s digital calendar actually gets my son to complete his nighttime routine in a timely fashion.",
+      "image": "https://media.wired.com/photos/6a822e6c9045a101f59f1d12/master/pass/Review--Skylight-Buddy.jpg",
+      "link": "https://www.wired.com/review/skylight-buddy/",
+      "published": "Mon, 17 Aug 2026 10:31:00 +0000",
+      "title_th": "Skylight Buddy Review (2026): กิจวัตรของเด็กๆ กลายเป็นเรื่องง่าย",
+      "summary_th": "ปฏิทินดิจิทัลของ Skylight เวอร์ชันที่เหมาะกับเด็กนี้ช่วยให้ลูกชายของฉันทำกิจวัตรยามค่ำคืนให้เสร็จทันเวลา"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
       "category": "ai",
       "title_en": "There’s a New Link Between Gut Health and Alzheimer’s Disease",
       "summary_en": "Researchers found that a metabolite produced by gut bacteria can weaken the barrier that protects the brain and promote changes associated with the cognitive disease.",
@@ -205,42 +241,6 @@
       "published": "Sun, 16 Aug 2026 11:00:00 +0000",
       "title_th": "รีวิว Samsung Galaxy Z Fold8 และ Galaxy Z Fold8 Ultra: รูปร่างที่ใช่",
       "summary_th": "เกือบหนึ่งทศวรรษหลังจากเปิดตัว ในที่สุด Galaxy Fold ของ Samsung ก็กลายเป็นของตัวเองในที่สุด"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "It’s Never Too Early to Start Planning for the Next Two Solar Eclipses",
-      "summary_en": "In 2027 and 2028, there will be two spectacular, long-duration solar eclipses. Here’s what you need to know about them.",
-      "image": "https://media.wired.com/photos/6a7f8642da25b3d4e0e8cd40/master/pass/2289797347",
-      "link": "https://www.wired.com/story/its-never-too-early-to-start-planning-for-the-next-two-solar-eclipses/",
-      "published": "Sun, 16 Aug 2026 10:30:00 +0000",
-      "title_th": "มันไม่เร็วเกินไปที่จะเริ่มการวางแผนสำหรับสุริยุปราคาสองดวงถัดไป",
-      "summary_th": "ในปี พ.ศ. 2570 และ พ.ศ. 2571 จะเกิดสุริยุปราคาระยะยาวอันงดงามสองครั้ง นี่คือสิ่งที่คุณต้องรู้เกี่ยวกับพวกเขา"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Someone Finally Fixed Installing Apps on a Mac",
-      "summary_en": "The installation utility EasyDMG makes it so you never drag and drop an icon again.",
-      "image": "https://media.wired.com/photos/6a7faa218588d7c31b9a75f5/master/pass/Someone-Fixed-App-Install-Mac-Gear.jpg",
-      "link": "https://www.wired.com/story/easydmg-finally-fixed-installing-apps-on-a-mac/",
-      "published": "Sun, 16 Aug 2026 10:30:00 +0000",
-      "title_th": "มีคนแก้ไขการติดตั้งแอพบน Mac ในที่สุด",
-      "summary_th": "ยูทิลิตี้การติดตั้ง EasyDMG ช่วยให้คุณไม่ต้องลากและวางไอคอนอีกต่อไป"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "review",
-      "title_en": "TerraMow V1000 Review: Show Your Lawn Some Love",
-      "summary_en": "With automatic mapping, Spot Mode functionality, and smart AI cameras, the TerraMow V1000 is the complete package.",
-      "image": "https://media.wired.com/photos/6a7ff7548a0e705c26e119a3/master/pass/Review--TerraMow-V1000.jpg",
-      "link": "https://www.wired.com/review/terramow-v1000/",
-      "published": "Sun, 16 Aug 2026 10:30:00 +0000",
-      "title_th": "รีวิว TerraMow V1000: แสดงความรักให้กับสนามหญ้าของคุณ",
-      "summary_th": "ด้วยการสร้างแผนที่อัตโนมัติ ฟังก์ชันโหมดสปอต และกล้อง AI อัจฉริยะ TerraMow V1000 จึงเป็นแพ็คเกจที่สมบูรณ์"
     },
     {
       "source": "MIT Technology Review",
@@ -264,7 +264,7 @@
       "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
       "published": "Mon, 17 Aug 2026 09:00:00 +0000",
       "title_th": "จะเกิดอะไรขึ้นเมื่อเพื่อนรักหุ่นยนต์ของเด็กเสียชีวิต?",
-      "summary_th": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. พวกเขาฝึกการหายใจเหมือนมังกรเพื่อจัดการกับความรู้สึกบ้าคลั่ง และดมกลิ่นเหมือนกระต่ายเพื่อเพิ่มพลังของเขา แต่หกปีที่พวกเขารู้จักกัน..."
+      "summary_th": "เมื่อ Xander พบกับ Moxie ครั้งแรก เธอสอนเขาว่าเมื่อเขากังวล เขาจะสงบสติอารมณ์ลงได้ด้วยการหายใจออกทางริมฝีปากเพื่อให้ส่งเสียงพึมพำเหมือนผึ้ง พวกเขาฝึกการหายใจเหมือนมังกรเพื่อจัดการกับความรู้สึกบ้าคลั่ง และดมกลิ่นเหมือนกระต่ายเพื่อเพิ่มพลังของเขา แต่หกปีที่พวกเขารู้จักกัน..."
     },
     {
       "source": "MIT Technology Review",
@@ -287,8 +287,8 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/HLY_5765-FINAL.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
       "published": "Fri, 14 Aug 2026 09:00:00 +0000",
-      "title_th": "นักวิทยาศาสตร์คนนี้กำลังช่วยสร้างแผนที่วัยเด็กที่หายไป",
-      "summary_th": "ในปี 2017 Deanne Taylor เข้าร่วมการนำเสนอที่มหาวิทยาลัยเพนซิลเวเนีย ซึ่งอยู่ห่างจากสำนักงานของเธอเพียงไม่กี่ก้าว นักวิจัยไปที่นั่นเพื่อเปิดเผย Human Cell Atlas ซึ่งเป็นโครงการที่มีความทะเยอทะยานซึ่งมีจุดมุ่งหมายเพื่อสร้างแผนที่ทุกเซลล์ในร่างกายมนุษย์ เทย์เลอร์ตกตะลึงแล้วก็กังวล เมื่อรายละเอียดปรากฏ เธอพบว่า..."
+      "title_th": "นักวิทยาศาสตร์คนนี้กำลังช่วยสร้างแผนที่ในวัยเด็กที่หายไป",
+      "summary_th": "ในปี 2017 Deanne Taylor เข้าร่วมการนำเสนอที่มหาวิทยาลัยเพนซิลเวเนีย ซึ่งอยู่ห่างจากสำนักงานของเธอโดยใช้เวลาเดินเพียงไม่นาน นักวิจัยอยู่ที่นั่นเพื่อเปิดเผย Human Cell Atlas ซึ่งเป็นโครงการที่มีความทะเยอทะยานซึ่งมีจุดมุ่งหมายเพื่อสร้างแผนที่ทุกเซลล์ในร่างกายมนุษย์ เทย์เลอร์ตกตะลึงแล้วก็กังวล เมื่อรายละเอียดปรากฏ เธอพบว่า..."
     },
     {
       "source": "MIT Technology Review",
@@ -311,7 +311,7 @@
       "image": "https://www.engadget.com/img/gallery/openai-reportedly-disbanded-its-preparedness-team-as-part-of-a-streamlining-process/l-intro-1786956154.jpg",
       "link": "https://www.engadget.com/2237916/openai-reportedly-disbanded-its-preparedness-team-as-part-of-streamlining-process/",
       "published": "Mon, 17 Aug 2026 08:45:09 +0000",
-      "title_th": "มีรายงานว่า OpenAI ยกเลิกทีมเตรียมความพร้อมซึ่งเป็นส่วนหนึ่งของกระบวนการ 'เพรียวลม'",
+      "title_th": "มีรายงานว่า OpenAI ยกเลิกทีมเตรียมความพร้อมโดยเป็นส่วนหนึ่งของกระบวนการ 'เพรียวลม'",
       "summary_th": "ส่วนหนึ่งของการปรับโครงสร้างใหม่ มีรายงานว่า OpenAI ได้ยกเลิกทีมที่ประเมินความเสี่ยงที่อาจเกิดภัยพิบัติด้วยแบบจำลองของตน"
     },
     {
@@ -384,7 +384,7 @@
       "link": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
       "published": "Fri, 14 Aug 2026 17:27:12 +0000",
       "title_th": "ทำนายการเชื่อมต่อเสาอากาศบนแพลตฟอร์มไฟฟ้าขนาดใหญ่ก่อนสร้างฮาร์ดแวร์",
-      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นทำนายการต่อเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามประการใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
+      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นทำนายการต่อเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามแบบใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
     },
     {
       "source": "IEEE Spectrum",
@@ -426,13 +426,49 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "Best AirPods deals right now: Save $120 on AirPods Max 2, AirPods Pro 3 for $190, more",
+      "summary_en": "The late summer AirPods deals are really flying now, folks. While we might be in for a next-gen and potentially next-gen price come next month, AirPods Pro 3 are sitting at some of the best prices ever, AirPods 4 with ANC just hit the lowest rate in nearly half a year, and the 2026 AirPods Max 2 just dropped even lower at $120 off the list price.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/airpods-max-2-official-apple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/17/best-airpods-deals-right-now-save-120-on-airpods-max-2-airpods-pro-3-for-190-more/",
+      "published": "Mon, 17 Aug 2026 12:05:42 +0000",
+      "title_th": "ข้อเสนอ AirPods ที่ดีที่สุดตอนนี้: ประหยัด $ 120 สำหรับ AirPods Max 2, AirPods Pro 3 ในราคา $ 190 และอีกมากมาย",
+      "summary_th": "ข้อเสนอ AirPods ในช่วงปลายฤดูร้อนกำลังบินได้จริงๆ แม้ว่าเราอาจอยู่ในราคารุ่นถัดไปและรุ่นถัดไปในเดือนหน้า แต่ AirPods Pro 3 ก็ยังมีราคาที่ดีที่สุดเท่าที่เคยมีมา ส่วน AirPods 4 ที่มี ANC ก็แตะราคาต่ำสุดในรอบเกือบครึ่งปี และ AirPods Max 2 ปี 2026 ก็ลดราคาลงอีกที่ 120 ดอลลาร์จากราคาปลีก"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "A serious Mac screen sharing vulnerability is being actively exploited",
+      "summary_en": "Apple recently released updates to three versions of macOS, stating that they fixed a serious screen sharing vulnerability in macOS Tahoe, Sequoia, and Sonoma. At the time, there was no indication that the security flaw was being exploited in the wild, but now there is, so if you haven’t yet updated your Mac , you’ll want to do so asap …",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/A-serious-Mac-screen-sharing-vulnerability-is-being-actively-exploited.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/17/a-serious-mac-screen-sharing-vulnerability-is-being-actively-exploited/",
+      "published": "Mon, 17 Aug 2026 11:36:50 +0000",
+      "title_th": "ช่องโหว่การแชร์หน้าจอ Mac ที่ร้ายแรงกำลังถูกโจมตีอย่างต่อเนื่อง",
+      "summary_th": "Apple เพิ่งเปิดตัวการอัปเดตสำหรับ macOS สามเวอร์ชัน โดยระบุว่าได้แก้ไขช่องโหว่การแชร์หน้าจอร้ายแรงใน macOS Tahoe, Sequoia และ Sonoma ในขณะนั้น ยังไม่มีข้อบ่งชี้ว่าข้อบกพร่องด้านความปลอดภัยกำลังถูกนำไปใช้อย่างแพร่หลาย แต่ตอนนี้ได้รับการแก้ไขแล้ว ดังนั้นหากคุณยังไม่ได้อัปเดต Mac คุณจะต้องดำเนินการโดยเร็วที่สุด"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple Fitness+ could be getting live sessions, but probably not",
+      "summary_en": "An Apple job listing appears to be suggesting that the company might be planning some live Apple Fitness+ sessions. However, my strong suspicion is that all is not quite as it seems. The job opening is for a studio producer, and Apple is specifically seeking someone with a strong background in live production and “a genuine curiosity about where live content is headed next” …",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-fitness-plus-multidevice.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/17/apple-fitness-could-be-getting-live-sessions-but-probably-not/",
+      "published": "Mon, 17 Aug 2026 11:10:11 +0000",
+      "title_th": "Apple Fitness+ สามารถรับเซสชั่นสดได้ แต่อาจจะไม่",
+      "summary_th": "รายชื่องานของ Apple ดูเหมือนจะบ่งบอกว่าบริษัทอาจกำลังวางแผนเซสชัน Apple Fitness+ แบบสดอยู่บ้าง อย่างไรก็ตาม ความสงสัยอย่างมากของฉันก็คือว่าทุกอย่างไม่ได้เป็นอย่างที่เห็น ตำแหน่งงานว่างเปิดรับโปรดิวเซอร์ในสตูดิโอ และ Apple กำลังมองหาผู้ที่มีพื้นฐานที่แข็งแกร่งในการผลิตรายการสดและ “มีความอยากรู้อยากเห็นอย่างแท้จริงว่าเนื้อหาสดจะมุ่งหน้าไปทางใดต่อไป”"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "It’s time for iOS to have its own Material You",
       "summary_en": "Over the years, Apple has only added more and more customization to iOS. First, we got all of the lock screen personalization back with iOS 16 . That was followed up with icon color tinting in iOS 18, clear icons in iOS 26, and a full-on Liquid Glass slider in iOS 27. The iPhone has become more and more individualistic as time has gone on, and that’s a great thing. Since we can already tint our icons on our home screen – why not extend that to the rest of the operating system?",
       "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/ios-26-app-icon-tint-iphone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "link": "https://9to5mac.com/2026/08/16/its-time-for-ios-to-have-its-own-material-you/",
       "published": "Sun, 16 Aug 2026 17:33:48 +0000",
       "title_th": "ถึงเวลาแล้วที่ iOS จะมี Material You เป็นของตัวเอง",
-      "summary_th": "ในช่วงหลายปีที่ผ่านมา Apple ได้เพิ่มการปรับแต่งให้กับ iOS มากขึ้นเท่านั้น อันดับแรก เราได้นำการตั้งค่าส่วนบุคคลของหน้าจอล็อคทั้งหมดกลับมาพร้อมกับ iOS 16 ตามมาด้วยการปรับสีไอคอนใน iOS 18, ไอคอนที่ชัดเจนใน iOS 26 และแถบเลื่อน Liquid Glass เต็มรูปแบบใน iOS 27 iPhone มีความเฉพาะตัวมากขึ้นเรื่อยๆ เมื่อเวลาผ่านไป และนั่นก็เป็นสิ่งที่ดี เนื่องจากเราสามารถแต้มสีไอคอนของเราบนหน้าจอหลักได้แล้ว – ทำไมไม่ขยายสีนั้นไปยังระบบปฏิบัติการที่เหลือล่ะ?"
+      "summary_th": "ในช่วงหลายปีที่ผ่านมา Apple ได้เพิ่มการปรับแต่งให้กับ iOS มากขึ้นเท่านั้น ก่อนอื่น เราได้รับการปรับแต่งหน้าจอล็อคในแบบของคุณทั้งหมดกลับมาด้วย iOS 16 ตามมาด้วยการปรับสีไอคอนใน iOS 18, ไอคอนที่ชัดเจนใน iOS 26 และแถบเลื่อน Liquid Glass เต็มรูปแบบใน iOS 27 iPhone มีความเฉพาะตัวมากขึ้นเรื่อยๆ เมื่อเวลาผ่านไป และนั่นก็เป็นสิ่งที่ดี เนื่องจากเราสามารถแต้มสีไอคอนของเราบนหน้าจอหลักได้แล้ว – ทำไมไม่ขยายสีนั้นไปยังระบบปฏิบัติการที่เหลือล่ะ?"
     },
     {
       "source": "9to5Mac",
@@ -447,40 +483,16 @@
       "summary_th": "ยินดีต้อนรับสู่แอปอินดี้สปอตไลท์ นี่คือซีรีส์ 9to5Mac รายสัปดาห์ที่เรานำเสนอแอปล่าสุดในโลกของแอปอินดี้ หากคุณเป็นนักพัฒนาซอฟต์แวร์และต้องการให้แอปของคุณเป็นจุดเด่น โปรดติดต่อ การเขียนโค้ดเพียงเล็กน้อยไม่ควรเป็นเรื่องยุ่งยาก โดยปกติแล้ว คุณจะต้องจัดทำโปรเจ็กต์และอ่านเมนูหลายชั้นก่อนจึงจะสามารถเริ่มเขียนได้ Notepad.exe พลิกสคริปต์นั้น และเชื่อว่าคุณควรเริ่มต้นด้วยไฟล์เปล่าก่อน แล้วค่อยคิดโปรเจ็กต์ในภายหลัง ซึ่งทำให้การเสนอแนวคิดของคุณลงบนกระดาษง่ายขึ้นมาก"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple has a huge product roadmap for the smart home: Here’s what’s coming",
-      "summary_en": "Apple’s home products (primarily HomePod mini and Apple TV) have been the talk of the town for the past couple of years . The reasoning is quite simple: the current iterations are 4-6 years old. Siri has been the holdup for new hardware releases, supposedly – but now that Siri AI is finally here, we should be seeing Apple finally start releasing some new Home products very soon. Here’s what’s in the pipeline.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/ai-siri-homepod.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/15/apple-home-product-roadmap-tv-homepod-smart-display/",
-      "published": "Sat, 15 Aug 2026 16:08:09 +0000",
-      "title_th": "Apple มีแผนงานผลิตภัณฑ์ขนาดใหญ่สำหรับบ้านอัจฉริยะ: ต่อไปนี้คือสิ่งที่จะเกิดขึ้น",
-      "summary_th": "ผลิตภัณฑ์สำหรับใช้ในบ้านของ Apple (โดยเฉพาะ HomePod mini และ Apple TV) เป็นที่พูดถึงกันทั่วทั้งเมืองในช่วงสองสามปีที่ผ่านมา การให้เหตุผลนั้นค่อนข้างง่าย: การวนซ้ำในปัจจุบันมีอายุ 4-6 ปี Siri ถือเป็นตัวเลือกสำหรับการเปิดตัวฮาร์ดแวร์ใหม่ แต่ตอนนี้ Siri AI มาถึงแล้ว ในที่สุด Apple ก็น่าจะเปิดตัวผลิตภัณฑ์ Home ใหม่บางอย่างในเร็วๆ นี้ นี่คือสิ่งที่อยู่ในไปป์ไลน์"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Delete your family’s personal data from the internet with a 55% discount on Incogni",
-      "summary_en": "It seems scarcely credible that it’s completely legal for a company to buy and sell our personal data without our consent, but that’s the reality in the US. In theory, you can demand that companies remove your data from the internet, but that’s a lot easier said than done. Fortunately, Incogni provides a service where they will do it for you, and 9to5Mac readers can currently claim a 55% discount …",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/Incogni-discount-code.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/15/delete-your-familys-personal-data-from-internet-55-discount-incogni/",
-      "published": "Sat, 15 Aug 2026 16:00:00 +0000",
-      "title_th": "ลบข้อมูลส่วนตัวของครอบครัวของคุณออกจากอินเทอร์เน็ตด้วยส่วนลด 55% สำหรับ Incogni",
-      "summary_th": "ดูเหมือนไม่น่าเชื่อเลยว่าการซื้อและขายข้อมูลส่วนบุคคลของเราโดยไม่ได้รับความยินยอมจากเราเป็นเรื่องถูกกฎหมาย แต่นั่นคือความเป็นจริงในสหรัฐอเมริกา ตามทฤษฎี คุณสามารถขอให้บริษัทต่างๆ ลบข้อมูลของคุณออกจากอินเทอร์เน็ตได้ แต่นั่นเป็นการพูดที่ง่ายกว่าการกระทำมาก โชคดีที่ Incogni มีบริการที่พวกเขาจะทำเพื่อคุณ และผู้อ่าน 9to5Mac สามารถขอรับส่วนลด 55% ได้ในขณะนี้ …"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "review",
-      "title_en": "Apple @ Work: Understanding Apple Business Manager roles and permissions",
-      "summary_en": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . At this year’s WWDC, Apple announced an expanded Apple Business API. This update allows IT admins to retrieve device information, review audit events, and assign or unassign devices directly via the API. It is a fantastic update for enterprise IT folks building on Apple and Apple Busine",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/15/apple-work-understanding-apple-business-manager-roles-and-permissions/",
-      "published": "Sat, 15 Aug 2026 14:06:00 +0000",
-      "title_th": "Apple @ Work: ทำความเข้าใจบทบาทและสิทธิ์ของ Apple Business Manager",
-      "summary_th": "Apple @ Work ให้บริการแก่คุณโดยเฉพาะโดย Mosyle ซึ่งเป็น Apple Unified Platform เพียงแห่งเดียว Mosyle เป็นโซลูชันเดียวที่ผสานรวมโซลูชันทั้งหมดที่จำเป็นในการปรับใช้ จัดการ และปกป้องอุปกรณ์ Apple ในที่ทำงานได้อย่างราบรื่นและอัตโนมัติในแพลตฟอร์มระดับมืออาชีพเพียงแพลตฟอร์มเดียว องค์กรกว่า 45,000 แห่งไว้วางใจให้ Mosyle สร้างสรรค์อุปกรณ์ Apple หลายล้านเครื่องให้พร้อมใช้งานโดยไม่ต้องใช้ความพยายามและในราคาที่เอื้อมถึง ขอรับการทดลองใช้เพิ่มเติมวันนี้ และทำความเข้าใจว่าเหตุใด Mosyle จึงเป็นทุกสิ่งที่คุณต้องการเพื่อร่วมงานกับ Apple ที่งาน WWDC ปีนี้ Apple ได้ประกาศเปิดตัว Apple Business API ที่ขยายเพิ่ม การอัปเดตนี้ช่วยให้ผู้ดูแลระบบไอทีสามารถดึงข้อมูลอุปกรณ์ ตรวจสอบกิจกรรมการตรวจสอบ และมอบหมายหรือยกเลิกการมอบหมายอุปกรณ์ได้โดยตรงผ่าน API เป็นการอัปเดตที่ยอดเยี่ยมสำหรับบุคลากรไอทีระดับองค์กรที่สร้างบน Apple และ Apple Busine"
+      "title_en": "LineageOS support finally comes to the Galaxy S22 series",
+      "summary_en": "With about 6 months left in the “official” support window, it’s great to see that LineageOS support has finally come to the Samsung Galaxy S22.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/02/S22-Ultra-S22.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/17/lineageos-support-finally-comes-to-the-galaxy-s22-series/",
+      "published": "Mon, 17 Aug 2026 09:44:35 +0000",
+      "title_th": "ในที่สุดการรองรับ LineageOS ก็มาถึง Galaxy S22 series แล้ว",
+      "summary_th": "เหลือเวลาอีกประมาณ 6 เดือนในหน้าต่างการสนับสนุน \"อย่างเป็นทางการ\" จึงเป็นเรื่องดีที่เห็นว่าในที่สุด Samsung Galaxy S22 ก็รองรับ LineageOS แล้ว"
     },
     {
       "source": "9to5Google",
@@ -492,7 +504,7 @@
       "link": "https://9to5google.com/2026/08/16/googlebooks-desktop-camera/",
       "published": "Mon, 17 Aug 2026 01:44:09 +0000",
       "title_th": "UI สุดท้ายสำหรับแอป 'กล้องเดสก์ท็อป' ของ Googlebook เปิดเผย [แกลเลอรี]",
-      "summary_th": "ก่อนการเปิดตัว Googlebook ในฤดูใบไม้ร่วงนี้ เรามาดูภาพรวมของแอปพลิเคชัน Desktop Camera ที่จะ..."
+      "summary_th": "ก่อนการเปิดตัว Googlebook ในฤดูใบไม้ร่วงนี้ เรามาดูแอปพลิเคชัน Desktop Camera แบบเต็มๆ ที่จะ..."
     },
     {
       "source": "9to5Google",
@@ -531,16 +543,28 @@
       "summary_th": "Google อาจมีเครื่องมือติดตามฟิตเนสอีกตัวในผลงาน เนื่องจากโฆษณาใหม่คู่หนึ่งทางออนไลน์อวดก้อนกรวดเล็ก ๆ ลึกลับที่ไม่ใช่ Fitbit Air หรือ Pixel Watch 5 – แต่มันมีอะไรหรือเปล่า?"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Android 17 QPR2 adds App lock to Pixel",
-      "summary_en": "Besides visual changes, Android 17 QPR2 Beta 3 also introduces a native App lock feature to Pixel devices.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/android-figures-mwc-2026-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/14/android-17-qpr2-app-lock/",
-      "published": "Fri, 14 Aug 2026 23:27:26 +0000",
-      "title_th": "Android 17 QPR2 เพิ่มการล็อคแอปให้กับ Pixel",
-      "summary_th": "นอกจากการเปลี่ยนแปลงด้านภาพแล้ว Android 17 QPR2 Beta 3 ยังแนะนำคุณสมบัติการล็อคแอปแบบเนทีฟให้กับอุปกรณ์ Pixel"
+      "category": "ev",
+      "title_en": "Not sold on Tesla Powerwall? There are some great home battery alternatives out there",
+      "summary_en": "Between increasingly extreme weather , rising electricity demands, and the rapid expansion of data centers, energy independence is starting to look less like a talking point for doomsday preppers and more like sound planning. That shift in thinking is driving more homeowners than ever towards solar-plus-battery energy solutions like the industry-leading Tesla Powerwall – but Powerwall isn’t the only game in town, anymore.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/07/home-solar-battery.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/17/not-sold-on-tesla-powerwall-there-are-some-great-home-battery-alternatives-out-there/",
+      "published": "Mon, 17 Aug 2026 12:10:00 +0000",
+      "title_th": "ไม่มีขายบน Tesla Powerwall เหรอ? มีตัวเลือกแบตเตอรี่สำหรับใช้ในบ้านที่ยอดเยี่ยมมากมาย",
+      "summary_th": "ระหว่างสภาพอากาศที่รุนแรงมากขึ้น ความต้องการไฟฟ้าที่เพิ่มขึ้น และการขยายตัวอย่างรวดเร็วของศูนย์ข้อมูล ความเป็นอิสระด้านพลังงานเริ่มดูเหมือนเป็นประเด็นพูดคุยน้อยลงสำหรับผู้เตรียมวันโลกาวินาศ และเหมือนการวางแผนที่ดีมากขึ้น การเปลี่ยนแปลงทางความคิดกำลังผลักดันให้เจ้าของบ้านหันมาใช้โซลูชันพลังงานแสงอาทิตย์และแบตเตอรี่มากกว่าที่เคย เช่น Tesla Powerwall ชั้นนำของอุตสาหกรรม แต่ Powerwall ไม่ใช่เกมเดียวในเมืองอีกต่อไป"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "GM offers free charging to more of its Latin American Chevy customers",
+      "summary_en": "GM’s Latin American expansion continues with news that Chevrolet is offering EV buyers free charging at network at dealerships throughout Peru, where sales of plug-powered vehicles are growing rapidly.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/2026-Chevrolet-Spark-EUV-Brazil-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/17/gm-offers-free-charging-to-more-of-its-latin-american-chevy-customers/",
+      "published": "Mon, 17 Aug 2026 12:06:05 +0000",
+      "title_th": "GM เสนอการชาร์จฟรีให้กับลูกค้า Chevy ในละตินอเมริกามากขึ้น",
+      "summary_th": "การขยายธุรกิจในละตินอเมริกาของ GM ยังคงดำเนินต่อไปโดยมีข่าวว่าเชฟโรเลตเสนอให้ผู้ซื้อรถยนต์พลังงานไฟฟ้าชาร์จฟรีที่เครือข่ายที่ตัวแทนจำหน่ายทั่วเปรู ซึ่งยอดขายรถยนต์ที่ใช้พลังงานปลั๊กมีการเติบโตอย่างรวดเร็ว"
     },
     {
       "source": "Electrek",
@@ -552,7 +576,7 @@
       "link": "https://electrek.co/2026/08/16/e-quipment-highlight-liugong-924fe-electric-excavator-is-coming-to-america/",
       "published": "Sun, 16 Aug 2026 16:11:08 +0000",
       "title_th": "จุดเด่นของอุปกรณ์อิเล็กทรอนิกส์: LiuGong 924FE รถขุดไฟฟ้ากำลังจะมาถึงอเมริกา",
-      "summary_th": "LiuGong แบรนด์อุปกรณ์ระดับโลกกล่าวว่ารถขุดไฟฟ้าขนาด 30 ตันรุ่น 924FE ไม่ใช่ทางเลือกอื่นนอกจากเครื่องยนต์ดีเซล แต่จะดีกว่าในทุกด้าน – และลูกค้าของบริษัทในอเมริกาเหนือก็จะได้เห็นด้วยตนเอง"
+      "summary_th": "LiuGong แบรนด์อุปกรณ์ระดับโลกกล่าวว่ารถขุดไฟฟ้าขนาด 30 ตันรุ่น 924FE ไม่ใช่ทางเลือกอื่นนอกจากเครื่องยนต์ดีเซล แต่จะดีกว่าในทุก ๆ ด้าน และลูกค้าของบริษัทในอเมริกาเหนือก็จะได้เห็นด้วยตนเอง"
     },
     {
       "source": "Electrek",
@@ -577,30 +601,6 @@
       "published": "Sun, 16 Aug 2026 11:15:00 +0000",
       "title_th": "Longking ZL230E ขนาด 350 ตันเป็นแท่นขุดเจาะแบตเตอรี่ที่ใหญ่ที่สุดและแย่ที่สุดที่คุณสามารถซื้อได้",
       "summary_th": "Zijin Longking เข้าร่วมพิธีสื่อในเมือง Longyan มณฑลฝูเจี้ยนในสัปดาห์นี้ด้วยรถบรรทุกขุดเหมืองไฟฟ้า ZL230E ซึ่งเป็นรถบรรทุกลาก GVW ขนาด 350 ตันซึ่งอยู่ในระดับเดียวกันในฐานะรถบรรทุกขุดเหมืองไฟฟ้าแบบแบตเตอรีที่ใหญ่ที่สุดเพียงแห่งเดียวในจีน"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Weekend Quick Charge: all about autonomy with Waymo and GM",
-      "summary_en": "On today’s self-steering episode of Quick Charge , we take a look at Waymo’s westward expansion into 18 new California counties – a move the company believes will power it to more than one MILLION paid rides by the end of the year.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/07/waymo_ojai_hero_mp4_hd.original.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/15/weekend-quick-charge-all-about-autonomy-with-waymo-and-gm/",
-      "published": "Sat, 15 Aug 2026 21:51:52 +0000",
-      "title_th": "Weekend Quick Charge: ทุกอย่างเกี่ยวกับความเป็นอิสระด้วย Waymo และ GM",
-      "summary_th": "ในตอนที่ควบคุมตัวเองของ Quick Charge วันนี้ เราจะมาดูการขยายตัวไปทางตะวันตกของ Waymo ไปยัง 18 มณฑลใหม่ในแคลิฟอร์เนีย ซึ่งเป็นการเคลื่อนไหวที่บริษัทเชื่อว่าจะเพิ่มพลังให้กับการเดินทางแบบชำระเงินมากกว่าหนึ่งล้านครั้งภายในสิ้นปีนี้"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Tesla adds 2.4 kW vehicle-to-load to Model Y Premium with $80 adapter",
-      "summary_en": "Tesla has switched on vehicle-to-load for the Model Y Premium in the US and Puerto Rico, letting owners pull 2.4 kW out of the car’s battery at 120 volts and 20 amps. You need an $80 accessory to do it, and not every Model Y Premium can. Tesla says the adapter can be added during configuration or bought from the Tesla Shop.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Tesla-bidirectional-charger.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/15/tesla-model-y-premium-vehicle-to-load-2-4-kw-adapter/",
-      "published": "Sat, 15 Aug 2026 19:19:37 +0000",
-      "title_th": "Tesla เพิ่มกำลังไฟฟ้าในการบรรทุกยานพาหนะ 2.4 กิโลวัตต์ให้กับ Model Y Premium พร้อมอะแดปเตอร์ 80 ดอลลาร์",
-      "summary_th": "Tesla ได้เปิดระบบ vehicle-to-load สำหรับ Model Y Premium ในสหรัฐอเมริกาและเปอร์โตริโก โดยให้เจ้าของรถดึงพลังงาน 2.4 กิโลวัตต์ออกจากแบตเตอรี่รถยนต์ที่ 120 โวลต์และ 20 แอมป์ คุณต้องมีอุปกรณ์เสริมมูลค่า 80 ดอลลาร์จึงจะสามารถทำได้ และไม่ใช่ว่า Model Y Premium ทุกรุ่นจะสามารถทำได้ Tesla กล่าวว่าสามารถเพิ่มอะแดปเตอร์ระหว่างการกำหนดค่าหรือซื้อจาก Tesla Shop"
     }
   ],
   "indices": [
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 279.0,
-      "change": 9.0,
-      "change_pct": 3.33
+      "price": 277.0,
+      "change": 7.0,
+      "change_pct": 2.59
     }
   ],
   "reviews": [
