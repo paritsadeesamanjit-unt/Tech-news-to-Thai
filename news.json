@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T03:40:30.598426+00:00",
+  "generated_at": "2026-08-17T06:27:41.073911+00:00",
   "count": 50,
   "articles": [
     {
@@ -306,6 +306,18 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "Another woman joins lawsuit accusing Grok of generating CSAM",
+      "summary_en": "A fourth party is pursuing legal action against xAI, alleging that Grok was used to create CSAM based on her childhood photos.",
+      "image": "https://www.engadget.com/img/gallery/another-woman-joins-lawsuit-accusing-grok-of-generating-csam/l-intro-1786945799.jpg",
+      "link": "https://www.engadget.com/2237875/another-woman-joins-lawsuit-accusing-grok-of-generating-csam/",
+      "published": "Mon, 17 Aug 2026 05:54:41 +0000",
+      "title_th": "ผู้หญิงอีกคนร่วมฟ้องร้องโดยกล่าวหาว่า Grok สร้าง CSAM",
+      "summary_th": "บุคคลที่สี่กำลังดำเนินคดีทางกฎหมายกับ xAI โดยกล่าวหาว่า Grok ถูกใช้เพื่อสร้าง CSAM จากภาพถ่ายในวัยเด็กของเธอ"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "Turn on these settings to protect your Android phone from theft",
       "summary_en": "Google has added some smart theft-detection features to Android in recent years.",
       "image": "https://www.engadget.com/img/gallery/turn-on-these-settings-to-protect-your-android-phone-from-theft/l-intro-1786454524.jpg",
@@ -349,18 +361,6 @@
       "published": "Sun, 16 Aug 2026 17:30:00 +0000",
       "title_th": "Android Auto กับ Apple CarPlay: ฟีเจอร์อะไรที่ทำให้พวกเขาแตกต่าง",
       "summary_th": "ความแตกต่างระหว่าง iPhone และ Android จะปรากฏขึ้นเมื่อคุณเชื่อมต่อกับรถของคุณเช่นกัน"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "How to lease an iPhone instead of buying one",
-      "summary_en": "The new Apple Upgrade program makes the monthly cost of an iPhone even cheaper than before.",
-      "image": "https://www.engadget.com/img/gallery/how-to-lease-an-iphone-instead-of-buying-one/l-intro-1785270362.jpg",
-      "link": "https://www.engadget.com/2234247/how-to-lease-iphone-instead-of-buying/",
-      "published": "Sun, 16 Aug 2026 16:30:00 +0000",
-      "title_th": "วิธีเช่า iPhone แทนที่จะซื้อ",
-      "summary_th": "โปรแกรม Apple Upgrade ใหม่ทำให้ราคา iPhone ต่อเดือนถูกลงกว่าเดิม"
     },
     {
       "source": "IEEE Spectrum",
