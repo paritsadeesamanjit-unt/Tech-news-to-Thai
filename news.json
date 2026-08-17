@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T21:10:36.006752+00:00",
+  "generated_at": "2026-08-17T00:29:36.789973+00:00",
   "count": 50,
   "articles": [
     {
@@ -66,6 +66,18 @@
       "source": "The Verge",
       "flag": "US",
       "category": "software",
+      "title_en": "OpenAI reportedly disbanded its preparedness team",
+      "summary_en": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and hack another company.) According to FT, responsibility […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "published": "2026-08-16T17:32:56-04:00",
+      "title_th": "มีรายงานว่า OpenAI ยุบทีมเตรียมความพร้อม",
+      "summary_th": "ตามรายงานของ Financial Times OpenAI ได้ยกเลิกทีมเตรียมความพร้อมเมื่อปลายเดือนที่แล้ว งานของทีมเตรียมความพร้อมคือการประเมินว่าแบบจำลองมีความเสี่ยงร้ายแรงหรือไม่ และพัฒนาวิธีการลดความเสี่ยงเหล่านั้น (คุณรู้ไหมว่าชอบความเป็นไปได้ที่มันอาจจะโกงและแฮ็กบริษัทอื่นได้) ตามข้อมูลของ FT ความรับผิดชอบ […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
       "title_en": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
       "summary_en": "\"Breakups are… tough.\" It's the opening lines of an interlude towards the end of DOOMED! Called \"It Happens in Every Universe.\" It's also basically the thesis of the entire record. It's no grand revelation, but it's a well-trodden subject that Open Mike Eagle manages to mine for artistic gold. Eagle's subject matter is usually personal, […]",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/a4080481202_10.jpg?quality=90&strip=all&crop=0,4.2391770287958,100,52.356020942408",
@@ -111,18 +123,6 @@
       "summary_th": "นี่คือ The Stepback ซึ่งเป็นจดหมายข่าวรายสัปดาห์ที่แจกแจงเรื่องราวสำคัญหนึ่งเรื่องจากโลกแห่งเทคโนโลยี หากต้องการข้อมูลเพิ่มเติมเกี่ยวกับความปลอดภัยของ AI โปรดติดตาม Robert Hart Stepback มาถึงกล่องจดหมายของสมาชิกของเราเวลา 8.00 น. ET เลือกใช้ The Stepback ที่นี่ มันเริ่มต้นอย่างไร ทุกอย่างเริ่มต้นในเดือนกรกฎาคม เมื่อหนึ่งในตัวแทน AI อัตโนมัติของ OpenAI […]"
     },
     {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Polaroid’s tiny instant camera is $72 and includes a free pack of film",
-      "summary_en": "Smartphone cameras are convenient, but they lack the charm of analog instant cameras. If you’re trying to relive the nostalgia of waiting for an instant photo to develop, Amazon is selling the second-generation Polaroid Go instant camera with a 16-photo film pack for $71.99 (usually $109.99). That’s the lowest price we’ve seen for the bundle, […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Polaroid-Go-Generation-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale",
-      "published": "2026-08-15T23:00:00-04:00",
-      "title_th": "กล้องอินสแตนท์จิ๋วของโพลารอยด์มีราคา 72 เหรียญสหรัฐฯ พร้อมฟิล์มฟรี 1 แพ็ค",
-      "summary_th": "กล้องสมาร์ทโฟนนั้นสะดวก แต่ก็ขาดเสน่ห์ของกล้องอินสแตนท์แบบอะนาล็อก หากคุณกำลังพยายามหวนคิดถึงการรอคอยการถ่ายภาพทันใจเพื่อพัฒนา Amazon กำลังขายกล้องโพลารอยด์ Go รุ่นที่สองพร้อมชุดฟิล์ม 16 ภาพในราคา 71.99 ดอลลาร์ (ปกติ 109.99 ดอลลาร์) นั่นคือราคาต่ำสุดที่เราเคยเห็นสำหรับชุดรวม […]"
-    },
-    {
       "source": "Ars Technica",
       "flag": "US",
       "category": "software",
@@ -131,7 +131,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg",
       "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
       "published": "Fri, 14 Aug 2026 17:03:54 +0000",
-      "title_th": "สถานี PBS กลัวสูญเสียข้อมูล 50TB หลังจากถูกโกสต์โดยผู้ให้บริการพื้นที่เก็บข้อมูลบนคลาวด์",
+      "title_th": "สถานี PBS กลัวการสูญเสียข้อมูล 50TB หลังจากถูกโกสต์โดยผู้ให้บริการพื้นที่เก็บข้อมูลบนคลาวด์",
       "summary_th": "“เราไม่สามารถเข้าถึงข้อมูลบนฮาร์ดแวร์/เซิร์ฟเวอร์ได้” Iron Mountain กล่าวกับ Ars"
     },
     {
@@ -263,8 +263,8 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/HLY_5765-FINAL.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
       "published": "Fri, 14 Aug 2026 09:00:00 +0000",
-      "title_th": "นักวิทยาศาสตร์คนนี้กำลังช่วยสร้างแผนที่ในวัยเด็กที่หายไป",
-      "summary_th": "ในปี 2017 Deanne Taylor เข้าร่วมการนำเสนอที่มหาวิทยาลัยเพนซิลวาเนีย ซึ่งอยู่ห่างจากสำนักงานของเธอโดยใช้เวลาเดินเพียงไม่นาน นักวิจัยอยู่ที่นั่นเพื่อเปิดเผย Human Cell Atlas ซึ่งเป็นโครงการที่มีความทะเยอทะยานซึ่งมีจุดมุ่งหมายเพื่อสร้างแผนที่ทุกเซลล์ในร่างกายมนุษย์ เทย์เลอร์ตกตะลึงแล้วก็กังวล เมื่อรายละเอียดปรากฏ เธอพบว่า..."
+      "title_th": "นักวิทยาศาสตร์คนนี้กำลังช่วยสร้างแผนที่วัยเด็กที่หายไป",
+      "summary_th": "ในปี 2017 Deanne Taylor เข้าร่วมการนำเสนอที่มหาวิทยาลัยเพนซิลเวเนีย ซึ่งอยู่ห่างจากสำนักงานของเธอเพียงไม่กี่ก้าว นักวิจัยไปที่นั่นเพื่อเปิดเผย Human Cell Atlas ซึ่งเป็นโครงการที่มีความทะเยอทะยานซึ่งมีจุดมุ่งหมายเพื่อสร้างแผนที่ทุกเซลล์ในร่างกายมนุษย์ เทย์เลอร์ตกตะลึงแล้วก็กังวล เมื่อรายละเอียดปรากฏ เธอพบว่า..."
     },
     {
       "source": "MIT Technology Review",
@@ -301,6 +301,18 @@
       "published": "Thu, 13 Aug 2026 21:00:00 +0000",
       "title_th": "โต๊ะกลม: ภายในแนวคิด \"การเซ็นเซอร์-อุตสาหกรรมที่ซับซ้อน\" ที่กำหนดนโยบายของสหรัฐอเมริกา",
       "summary_th": "ฟังเซสชั่นหรือดูด้านล่าง \"กลุ่มอุตสาหกรรมการเซ็นเซอร์\" เป็นแนวคิดที่เครือข่ายของรัฐบาล เทคโนโลยี และกลุ่มวิจัยกำลังร่วมมือกันเพื่อปราบปรามคำพูดออนไลน์แบบอนุรักษ์นิยม นี่เป็นอาหารสัตว์สำหรับแวดวงข้อมูลฝ่ายขวามาหลายปี จากนั้นก็เริ่มเข้าสู่นโยบายของสหรัฐฯ ดูการสนทนาเพื่อสำรวจว่ามันเริ่มต้นอย่างไร ที่ไหน..."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Turn on these settings to protect your Android phone from theft",
+      "summary_en": "Google has added some smart theft-detection features to Android in recent years.",
+      "image": "https://www.engadget.com/img/gallery/turn-on-these-settings-to-protect-your-android-phone-from-theft/l-intro-1786454524.jpg",
+      "link": "https://www.engadget.com/2236816/turn-on-settings-protect-android-phone-from-theft/",
+      "published": "Sun, 16 Aug 2026 21:30:00 +0000",
+      "title_th": "เปิดการตั้งค่าเหล่านี้เพื่อปกป้องโทรศัพท์ Android ของคุณจากการโจรกรรม",
+      "summary_th": "Google ได้เพิ่มคุณสมบัติการตรวจจับการโจรกรรมอัจฉริยะให้กับ Android ในช่วงไม่กี่ปีที่ผ่านมา"
     },
     {
       "source": "Engadget",
@@ -349,18 +361,6 @@
       "published": "Sun, 16 Aug 2026 16:30:00 +0000",
       "title_th": "วิธีเช่า iPhone แทนที่จะซื้อ",
       "summary_th": "โปรแกรม Apple Upgrade ใหม่ทำให้ราคา iPhone ต่อเดือนถูกลงกว่าเดิม"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "What is the Retro app for and how do you use it?",
-      "summary_en": "Let's look at how to use the Retro app, whether it's free and whether it can compete with other social media apps.",
-      "image": "https://www.engadget.com/img/gallery/what-is-the-retro-app-for-and-how-do-you-use-it/l-intro-1786385235.jpg",
-      "link": "https://www.engadget.com/2234246/retro-app-what-is-it-how-to-use/",
-      "published": "Sun, 16 Aug 2026 15:30:00 +0000",
-      "title_th": "แอพ Retro มีไว้ทำอะไรและคุณใช้งานอย่างไร?",
-      "summary_th": "มาดูวิธีใช้งานแอป Retro ว่าฟรีและสามารถแข่งขันกับแอปโซเชียลมีเดียอื่นๆ ได้หรือไม่"
     },
     {
       "source": "IEEE Spectrum",
@@ -733,6 +733,16 @@
     {
       "channel": "Beartai",
       "country": "TH",
+      "title_en": "จากแคปเฌอสู่นักเล่าเรื่องวิทยาศาสตร์",
+      "video_id": "M0g6TSbGTmA",
+      "link": "https://www.youtube.com/shorts/M0g6TSbGTmA",
+      "thumbnail": "https://i2.ytimg.com/vi/M0g6TSbGTmA/hqdefault.jpg",
+      "published": "2026-08-16T23:15:03+00:00",
+      "title_th": "จากแคปเฌอสู่นักเล่าเรื่องวิทยาศาสตร์"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
       "title_en": "สร้างสุขภาพให้ดีกว่าเดิม ต้องทำยังไง ?",
       "video_id": "wguzEL-RZUc",
       "link": "https://www.youtube.com/shorts/wguzEL-RZUc",
@@ -749,16 +759,6 @@
       "thumbnail": "https://i4.ytimg.com/vi/O84TuQtt3fw/hqdefault.jpg",
       "published": "2026-08-14T23:00:03+00:00",
       "title_th": "ช่องโหว่ที่ทำให้สุขภาพไม่ดี"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "'นักท่องเที่ยว' ถ้าร้ายนัก ต้องรักไหม ? | Go with The Four",
-      "video_id": "FZ0CEShEC4Y",
-      "link": "https://www.youtube.com/watch?v=FZ0CEShEC4Y",
-      "thumbnail": "https://i3.ytimg.com/vi/FZ0CEShEC4Y/hqdefault.jpg",
-      "published": "2026-08-14T11:00:34+00:00",
-      "title_th": "'นักท่องเที่ยว' ถ้าร้ายนัก ต้องรักไหม ? | Go with The Four"
     },
     {
       "channel": "Droidsans",
