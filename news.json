@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T00:28:32.571297+00:00",
+  "generated_at": "2026-08-18T03:35:51.423848+00:00",
   "count": 50,
   "articles": [
     {
@@ -12,7 +12,7 @@
       "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
       "published": "Mon, 17 Aug 2026 23:56:26 +0000",
       "title_th": "รายได้ต่อปีของ Anthropic เพิ่มขึ้นเป็น 65 พันล้านดอลลาร์",
-      "summary_th": "ผู้ผลิตโมเดลรายนี้เพิ่มรายได้ต่อปี 18 พันล้านดอลลาร์ในสองเดือน"
+      "summary_th": "ผู้สร้างโมเดลรายนี้เพิ่มรายได้ต่อปี 18 พันล้านดอลลาร์ในสองเดือน"
     },
     {
       "source": "TechCrunch",
@@ -66,6 +66,18 @@
       "source": "The Verge",
       "flag": "US",
       "category": "software",
+      "title_en": "Reddit’s AI is turning posts into podcasts and short videos",
+      "summary_en": "Reddit is trying out a new way for people to take in content on Reddit: by turning text posts into audio / video content. As part of an experiment, some posts are being adapted into videos that use AI voices to read the text of the main post and some comments. The video highlights the […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-17-at-4.32.56-PM.png?quality=90&strip=all&crop=0%2C4.5553525273851%2C100%2C90.88929494523&w=1200",
+      "link": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
+      "published": "2026-08-17T19:46:01-04:00",
+      "title_th": "AI ของ Reddit เปลี่ยนโพสต์เป็นพอดแคสต์และวิดีโอสั้น ๆ",
+      "summary_th": "Reddit กำลังทดลองวิธีใหม่สำหรับผู้คนในการรับชมเนื้อหาบน Reddit: โดยการเปลี่ยนโพสต์ข้อความให้เป็นเนื้อหาเสียง / วิดีโอ ในส่วนหนึ่งของการทดลอง โพสต์บางส่วนจะถูกดัดแปลงเป็นวิดีโอที่ใช้เสียง AI เพื่ออ่านข้อความของโพสต์หลักและความคิดเห็นบางส่วน วิดีโอไฮไลท์ของ […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
       "title_en": "ABC’s livestreamed news show is powered by trending topics",
       "summary_en": "ABC News has officially introduced Searched, a livestreamed show that highlights stories people are discussing on social media and searching on the web, as reported earlier by Variety. Though the network just announced the show now, Searched began airing on the ABC News Live streaming channel in April, which appears on both Disney Plus and […]",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/abc-news-searched.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
@@ -111,18 +123,6 @@
       "summary_th": "ประมาณ 22 ไมล์ทางใต้ของอดีตเมืองเหมืองแร่ปาตาโกเนีย รัฐแอริโซนา ไปตามถนนบนภูเขาที่คดเคี้ยวและไม่ได้ลาดยางที่ตัดผ่านฝูงวัวที่กินหญ้าในพื้นที่เปิด มีต้นฝ้ายยืนต้นอยู่ซึ่งเชื่อกันว่ามีอายุอย่างน้อย 200 ปี ต้นไม้ \"คุณย่า\" ตามที่ชาวบ้านบางคนเรียกกันว่า ต้นไม้นี้ถูกคุกคามและแสดงสัญญาณของความเครียดแล้ว เกือบจะพอๆ กับที่ […]"
     },
     {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Apple ordered to stop scaring iPhone and iPad users away from third-party apps",
-      "summary_en": "Apple's changing its rules for data collection consent prompts after Germany's Federal Cartel Office accused Apple of giving the prompts a design that favored its own apps. Apple's App Tracking Transparency prompts reportedly cost social media apps nearly $10 billion when they launched with iOS 14.5, making cross-app tracking of users largely opt in. But […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25697380/STK071_APPLE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany",
-      "published": "2026-08-17T11:10:25-04:00",
-      "title_th": "Apple สั่งให้หยุดขู่ผู้ใช้ iPhone และ iPad ให้ห่างจากแอพของบุคคลที่สาม",
-      "summary_th": "Apple เปลี่ยนแปลงกฎสำหรับการยินยอมในการรวบรวมข้อมูลหลังจากสำนักงานพันธมิตรกลางของเยอรมนีกล่าวหาว่า Apple มอบการออกแบบที่สนับสนุนแอพของตัวเอง ความโปร่งใสในการติดตามแอปของ Apple แจ้งว่าแอปโซเชียลมีเดียต้องเสียค่าใช้จ่ายเกือบ 1 หมื่นล้านดอลลาร์เมื่อเปิดตัวด้วย iOS 14.5 ทำให้การติดตามข้ามแอปของผู้ใช้ส่วนใหญ่เลือกใช้ แต่ […]"
-    },
-    {
       "source": "Ars Technica",
       "flag": "US",
       "category": "software",
@@ -143,7 +143,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg",
       "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
       "published": "Fri, 14 Aug 2026 17:03:54 +0000",
-      "title_th": "สถานี PBS กลัวการสูญเสียข้อมูล 50TB หลังจากถูกโกสต์โดยผู้ให้บริการพื้นที่เก็บข้อมูลบนคลาวด์",
+      "title_th": "สถานี PBS กลัวสูญเสียข้อมูล 50TB หลังจากถูกโกสต์โดยผู้ให้บริการพื้นที่เก็บข้อมูลบนคลาวด์",
       "summary_th": "“เราไม่สามารถเข้าถึงข้อมูลบนฮาร์ดแวร์/เซิร์ฟเวอร์ได้” Iron Mountain กล่าวกับ Ars"
     },
     {
@@ -204,7 +204,7 @@
       "link": "https://www.wired.com/gallery/best-cheap-laptops/",
       "published": "Mon, 17 Aug 2026 11:31:00 +0000",
       "title_th": "7 แล็ปท็อปราคาถูกที่ดีที่สุดที่จะซื้อในปี 2569 (และบางรุ่นที่ควรหลีกเลี่ยง)",
-      "summary_th": "From surprisingly good $300 Chromebooks to excellent $650 Windows notebooks and more, these are the best budget laptops I’ve tested."
+      "summary_th": "ตั้งแต่ Chromebooks มูลค่า 300 ดอลลาร์ที่ดีจนน่าประหลาดใจ ไปจนถึงโน้ตบุ๊ก Windows มูลค่า 650 ดอลลาร์และอื่นๆ อีกมากมาย นี่คือแล็ปท็อปราคาประหยัดที่ดีที่สุดที่ฉันเคยทดสอบ"
     },
     {
       "source": "Wired",
@@ -372,7 +372,7 @@
       "link": "https://spectrum.ieee.org/ieee-presidents-scholarship-2026",
       "published": "Mon, 17 Aug 2026 18:00:04 +0000",
       "title_th": "ทุนการศึกษาของประธานาธิบดี IEEE มอบให้แก่นักนวัตกรรมวัยรุ่น",
-      "summary_th": "องค์การอนามัยโลกระบุว่า ประมาณร้อยละ 16 ของประชากรโลก หรือมากกว่า 1 พันล้านคน อาศัยอยู่กับความพิการบางรูปแบบ ความพิการจำนวนมากส่งผลต่อความเป็นอิสระและความคล่องตัว นักเรียนมัธยมปลายสามคนที่ทำงานเกี่ยวกับสิ่งประดิษฐ์เพื่อช่วยคนพิการฟื้นฟูการเคลื่อนไหว แปลความคิด และสำรวจภูมิประเทศที่ขรุขระมีผลงานของพวกเขาจัดแสดงในงานวิทยาศาสตร์และวิศวกรรมนานาชาติ (ISEF) ของ Regeneron ซึ่งจัดขึ้นในเดือนพฤษภาคมที่เมืองฟีนิกซ์ โครงการของพวกเขาทำให้พวกเขาได้รับรางวัลทุนการศึกษา IEEE Presidents' Scholarship ในปีนี้ แมรี เอลเลน แรนดัลล์ ประธาน IEEE เป็นผู้มอบรางวัลในพิธีที่จัดขึ้นระหว่างงาน พวกเขายังได้รับเหรียญของ IEEE President ซึ่งนักเรียนกล่าวว่าเป็นจุดเด่นของประสบการณ์ของพวกเขา Hollie Tang ได้รับรางวัลทุนการศึกษา IEEE Presidents' Scholarship ประจำปีนี้"
+      "summary_th": "องค์การอนามัยโลกระบุว่า ประมาณร้อยละ 16 ของประชากรโลก หรือมากกว่า 1 พันล้านคน อาศัยอยู่กับความพิการบางรูปแบบ ความพิการจำนวนมากส่งผลต่อความเป็นอิสระและความคล่องตัว นักเรียนมัธยมปลายสามคนที่ทำงานเกี่ยวกับสิ่งประดิษฐ์เพื่อช่วยคนพิการฟื้นฟูการเคลื่อนไหว แปลความคิด และสำรวจภูมิประเทศที่ขรุขระมีผลงานของพวกเขาจัดแสดงในงานวิทยาศาสตร์และวิศวกรรมนานาชาติ (ISEF) ของ Regeneron ซึ่งจัดขึ้นในเดือนพฤษภาคมที่เมืองฟีนิกซ์ โครงการของพวกเขาทำให้พวกเขาได้รับรางวัลทุนการศึกษา IEEE Presidents' Scholarship ในปีนี้ แมรี เอลเลน แรนดัลล์ ประธาน IEEE เป็นผู้มอบรางวัลในพิธีที่จัดขึ้นระหว่างงาน พวกเขายังได้รับเหรียญของ IEEE President ซึ่งนักเรียนกล่าวว่าเป็นจุดเด่นของประสบการณ์ของพวกเขา Hollie Tang ได้รับรางวัลทุนการศึกษา IEEE Presidents' Scholarship จากปีนี้"
     },
     {
       "source": "IEEE Spectrum",
@@ -408,7 +408,7 @@
       "link": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
       "published": "Fri, 14 Aug 2026 17:27:12 +0000",
       "title_th": "ทำนายการเชื่อมต่อเสาอากาศบนแพลตฟอร์มไฟฟ้าขนาดใหญ่ก่อนสร้างฮาร์ดแวร์",
-      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นคาดการณ์การต่อพ่วงเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามแบบใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
+      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นทำนายการต่อเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามแบบใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
     },
     {
       "source": "IEEE Spectrum",
@@ -420,7 +420,31 @@
       "link": "https://spectrum.ieee.org/product-engineer",
       "published": "Thu, 13 Aug 2026 14:44:50 +0000",
       "title_th": "นำแนวคิดของผู้จัดการผลิตภัณฑ์มาใช้กับงานวิศวกรรมครั้งต่อไปของคุณ",
-      "summary_th": "หากคุณยังไม่เห็นตำแหน่งงานสำหรับ “วิศวกรผลิตภัณฑ์” คุณอาจจะได้ทราบเร็วๆ นี้ งานที่จู่ๆ ทุกคนก็จ้างเข้ามา บทบาทนี้เปรียบเสมือนลูกผสมระหว่างผู้จัดการผลิตภัณฑ์และวิศวกร (ตามชื่อเลย) และเป็นเทรนด์การจ้างงานที่ควรค่าแก่การใส่ใจ บริษัทต่างๆ กำลังเปิดรับตำแหน่งงานเหล่านี้เพิ่มขึ้นทุกๆ เดือน แต่พวกเขาก็ประสบปัญหาในการเติมเต็มตำแหน่งดังกล่าว เหตุผลแทบไม่เกี่ยวข้องกับทักษะการเขียนโค้ดของวิศวกรหรือประสบการณ์หลายปี การย้ายอาชีพที่ดีที่สุดที่คุณสามารถทำได้เพื่อเตรียมพร้อมสำหรับบทบาทประเภทนี้แทบจะไม่เกี่ยวข้องกับการได้รับความรู้ด้านเทคนิคมากขึ้นเลย แต่กลับกลายเป็นคำที่ฟุ่มเฟือยที่สุด ใช้มากเกินไป และอาจเลวร้ายที่สุดในเทคโนโลยีทั้งหมด: ความคิด ติดกับฉันฉันสัญญาว่าสิ่งนี้จะเป็นประโยชน์ ปัญหา: เราถูกฝึกให้เป็นทาส"
+      "summary_th": "หากคุณยังไม่เห็นตำแหน่งงานสำหรับ “วิศวกรผลิตภัณฑ์” คุณอาจจะได้ทราบเร็วๆ นี้ งานที่จู่ๆ ทุกคนก็จ้างมา บทบาทนี้เปรียบเสมือนลูกผสมระหว่างผู้จัดการผลิตภัณฑ์และวิศวกร (ตามชื่อเลย) และเป็นเทรนด์การจ้างงานที่ควรค่าแก่การใส่ใจ บริษัทต่างๆ กำลังเปิดรับตำแหน่งงานเหล่านี้เพิ่มขึ้นทุกๆ เดือน แต่พวกเขาก็ประสบปัญหาในการเติมเต็มตำแหน่งดังกล่าว เหตุผลแทบจะไม่เกี่ยวข้องกับทักษะการเขียนโค้ดของวิศวกรหรือประสบการณ์หลายปี การย้ายอาชีพที่ดีที่สุดที่คุณสามารถทำได้เพื่อเตรียมพร้อมสำหรับบทบาทประเภทนี้แทบจะไม่เกี่ยวข้องกับการได้รับความรู้ด้านเทคนิคมากขึ้นเลย แต่กลับกลายเป็นคำที่ฟุ่มเฟือยที่สุด ใช้มากเกินไป และอาจแย่ที่สุดในเทคโนโลยีทั้งหมด: ความคิด ติดกับฉันฉันสัญญาว่าสิ่งนี้จะเป็นประโยชน์ ปัญหา: เราถูกฝึกให้เป็นทาส"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "AirPods with cameras get their clearest leak yet",
+      "summary_en": "Included in today’s macOS Tahoe 26.7 Release Candidate is a short video that appears to show Visual Intelligence in action on Apple’s rumored camera-equipped AirPods. Watch it below.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-sound-vibrations.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/17/airpods-with-camera-get-their-clearest-leak-yet/",
+      "published": "Tue, 18 Aug 2026 01:48:31 +0000",
+      "title_th": "AirPods พร้อมกล้องมีรอยรั่วที่ชัดเจนที่สุด",
+      "summary_th": "รวมอยู่ใน macOS Tahoe 26.7 Release Candidate ของวันนี้เป็นวิดีโอสั้น ๆ ที่แสดงการทำงานของ Visual Intelligence บน AirPods ที่ติดตั้งกล้องที่มีข่าวลือของ Apple ดูได้ที่ด้านล่างนี้"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple: DOJ’s latest challenge in antitrust case ‘fails at every level’",
+      "summary_en": "Apple is pushing back against the Department of Justice’s bid to overturn a court decision allowing the company to seek documents from more than a dozen federal agencies. Here are the details.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/tim-cook-apple-park-sep25.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/",
+      "published": "Tue, 18 Aug 2026 00:56:51 +0000",
+      "title_th": "Apple: ความท้าทายล่าสุดของ DOJ ในคดีต่อต้านการผูกขาด 'ล้มเหลวในทุกระดับ'",
+      "summary_th": "Apple กำลังต่อต้านคำสั่งของกระทรวงยุติธรรมที่จะล้มล้างคำตัดสินของศาล ที่ให้บริษัทสามารถขอเอกสารจากหน่วยงานรัฐบาลกลางมากกว่าหนึ่งโหล นี่คือรายละเอียด"
     },
     {
       "source": "9to5Mac",
@@ -444,7 +468,7 @@
       "link": "https://9to5mac.com/2026/08/17/spotifys-new-playlist-notes-let-users-add-context-to-songs-podcasts-and-audiobook-picks/",
       "published": "Mon, 17 Aug 2026 21:00:47 +0000",
       "title_th": "Playlist Notes ใหม่ของ Spotify ช่วยให้ผู้ใช้เพิ่มบริบทให้กับเพลง พ็อดคาสท์ และหนังสือเสียงที่เลือกได้",
-      "summary_th": "Spotify ประกาศในวันนี้ถึงการขยายฟีเจอร์ User Notes ที่เพิ่งเปิดตัวไปเมื่อเร็วๆ นี้ แม้ว่า User Notes จะจำกัดเฉพาะเพลง Playlist Notes ใหม่ยังช่วยให้ผู้ใช้เพิ่มบริบทให้กับตอนของพอดแคสต์และหนังสือเสียงในเพลย์ลิสต์ของตนได้ นี่คือรายละเอียด"
+      "summary_th": "วันนี้ Spotify ได้ประกาศการขยายฟีเจอร์ User Notes ที่เพิ่งเปิดตัวไปเมื่อเร็วๆ นี้ แม้ว่า User Notes จะจำกัดเฉพาะเพลง แต่ Playlist Notes ใหม่ยังช่วยให้ผู้ใช้เพิ่มบริบทให้กับตอนของพอดแคสต์และหนังสือเสียงในเพลย์ลิสต์ของตนได้ นี่คือรายละเอียด"
     },
     {
       "source": "9to5Mac",
@@ -457,30 +481,6 @@
       "published": "Mon, 17 Aug 2026 20:10:05 +0000",
       "title_th": "Epic ตอบสนองต่อการเสนอราคาของ Apple สำหรับการเจรจายุติคดีใน App Store",
       "summary_th": "Epic Games ได้ยื่นตอบสนองต่อคำร้องขอของ Apple ให้ศาลสั่งการเจรจายุติคดีในคดี App Store ที่ดำเนินมายาวนาน นี่คือรายละเอียด"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple official refurb store: Save a ton of cash with our top picks of the week",
-      "summary_en": "We are back again with another series of top picks from the official Apple Certified Refurbished Store . An increasingly notable source of savings on iPhone, MacBook, Studio Display, and Apple TV, we aren’t talking about iPhones some guy’s cousin pieced back together to resell here – Apple’s “rigorous refurbishment process” is in fully in place alongside a proper 1-year Apple warranty too. Hit the jump for a closer look at this week’s top picks we have sitting in our carts – iPhone, MacBook, Studio Displays, and more.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/9to5mac-refurb.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/17/apple-official-refurb-store-top-picks-2/",
-      "published": "Mon, 17 Aug 2026 20:00:58 +0000",
-      "title_th": "ร้านค้าตกแต่งใหม่อย่างเป็นทางการของ Apple: ประหยัดเงินได้มากมายด้วยตัวเลือกอันดับต้น ๆ ประจำสัปดาห์",
-      "summary_th": "เรากลับมาอีกครั้งพร้อมกับสินค้ายอดนิยมอีกชุดจาก Apple Certified Refurbished Store อย่างเป็นทางการ แหล่งประหยัดเงินที่โดดเด่นมากขึ้นสำหรับ iPhone, MacBook, Studio Display และ Apple TV เราไม่ได้พูดถึง iPhone ลูกพี่ลูกน้องของผู้ชายบางคนรวมตัวกันเพื่อขายต่อที่นี่ - \"กระบวนการตกแต่งใหม่อย่างเข้มงวด\" ของ Apple ถูกนำมาใช้อย่างเต็มรูปแบบควบคู่ไปกับการรับประกัน Apple 1 ปีที่เหมาะสมเช่นกัน กระโดดเข้ามาดูตัวเลือกอันดับต้นๆ ของสัปดาห์นี้ที่เราเลือกไว้ในรถเข็นให้ละเอียดยิ่งขึ้น ไม่ว่าจะเป็น iPhone, MacBook, Studio Display และอื่นๆ อีกมากมาย"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Leaker details A20 Pro chip’s new speed gains",
-      "summary_en": "iPhone 18 Pro and iPhone Ultra will be unveiled next month with a new A20 Pro chip, and this weekend a reputable leaker shared performance gains to expect per supply chain sources.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/a20-pro-chip-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/17/leaker-details-a20-pro-chips-new-speed-gains/",
-      "published": "Mon, 17 Aug 2026 19:13:55 +0000",
-      "title_th": "Leaker ให้รายละเอียดเกี่ยวกับความเร็วใหม่ของชิป A20 Pro",
-      "summary_th": "iPhone 18 Pro และ iPhone Ultra จะเปิดตัวในเดือนหน้าพร้อมกับชิป A20 Pro ใหม่และสุดสัปดาห์นี้ผู้เปิดเผยที่มีชื่อเสียงได้แบ่งปันประสิทธิภาพที่เพิ่มขึ้นตามที่คาดหวังต่อแหล่งที่มาของห่วงโซ่อุปทาน"
     },
     {
       "source": "9to5Google",
@@ -516,7 +516,7 @@
       "link": "https://9to5toys.com/2026/08/17/monday-android-app-deals-free-demon-castle-deus-ex-go/",
       "published": "Mon, 17 Aug 2026 19:23:50 +0000",
       "title_th": "ข้อเสนอแอป Android และของแจกฟรีประจำวันจันทร์: Demon Castle, Deus Ex GO, SENTINEL 519, GNOSIA และอีกมากมาย",
-      "summary_th": "รายการเกม Android และข้อเสนอแอพที่ดีที่สุดในช่วงบ่ายวันจันทร์ของคุณพร้อมแล้ว รวมถึงเกมอย่าง Demon Castle Story, Deus Ex GO, Hitman GO, SENTINEL 519: SAGA – GENESIS, Sands of Salzaar, Laser Tanks: Pixel RPG, GNOSIA, FrogBoy และอีกมากมาย เทศกาลลดราคาครั้งใหญ่ครบรอบ 60 ปีของ Best Buy เต็มไปด้วยข้อเสนอสุดพิเศษสำหรับทีวี โทรศัพท์ Android และคะแนนสะสม 10 เท่า รวมถึงส่วนลด 20% สำหรับเคส Pixel 11 Pixelsnap ใหม่อย่างเป็นทางการทั้งหมด สมาร์ททีวี Hisense ขนาด 58 นิ้ว ในราคา 190 ดอลลาร์ และส่วนลดสูงสุด 1,350 ดอลลาร์สำหรับพีซี Copilot+ และแล็ปท็อปเกมปี 2026 แต่สำหรับตอนนี้มันเป็นเรื่องของข้อเสนอของ Google Play และพวกเขากำลังรออยู่ด้านล่าง /"
+      "summary_th": "รายการเกม Android และข้อเสนอแอพที่ดีที่สุดในช่วงบ่ายวันจันทร์ของคุณพร้อมแล้ว รวมถึงเกมอย่าง Demon Castle Story, Deus Ex GO, Hitman GO, SENTINEL 519: SAGA – GENESIS, Sands of Salzaar, Laser Tanks: Pixel RPG, GNOSIA, FrogBoy และอีกมากมาย เทศกาลลดราคาครั้งใหญ่ครบรอบ 60 ปีของ Best Buy เต็มไปด้วยข้อเสนอสุดพิเศษสำหรับทีวี โทรศัพท์ Android และคะแนนสะสม 10 เท่า รวมถึงส่วนลด 20% สำหรับเคส Pixel 11 Pixelsnap ใหม่อย่างเป็นทางการทั้งหมด สมาร์ททีวี Hisense ขนาด 58 นิ้ว ในราคา 190 ดอลลาร์ และส่วนลดสูงสุด 1,350 ดอลลาร์สำหรับพีซี Copilot+ และแล็ปท็อปเกมปี 2026 แต่สำหรับตอนนี้มันเป็นเรื่องของข้อเสนอของ Google Play และพวกเขากำลังรออยู่ด้านล่าง/"
     },
     {
       "source": "9to5Google",
@@ -541,6 +541,30 @@
       "published": "Mon, 17 Aug 2026 17:45:00 +0000",
       "title_th": "Google เพิ่งซื้อข้อมูล Spirit Airlines จำนวนหนึ่งสำหรับการฝึกอบรม AI",
       "summary_th": "ในขณะที่การแข่งขัน AI ยังคงค้นหาข้อมูลใหม่เพื่อใช้ในการฝึกอบรม AI Google เพิ่งซื้อข้อมูลเก่าจำนวนมหาศาลจาก Spirit Airlines ที่ปัจจุบันเลิกให้บริการไปแล้วเพื่อ \"ช่วยเหลือ\" ในการฝึกอบรมโมเดล AI"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Tesla grows Robotaxi fleet by 50%, Einride gets a partner, and China goes BIG",
+      "summary_en": "On this second consecutive self-steering episode of Quick Charge , we take a look at how Tesla increased its national self-driving Robotaxi fleet by half with the stroke of a pen, and see how the company’s autonomous deployments compare to the rest of the world’s.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/BREAKIN_2_MAIN.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/17/tesla-grows-robotaxi-fleet-by-50-einride-gets-a-partner-and-china-goes-big/",
+      "published": "Tue, 18 Aug 2026 02:06:48 +0000",
+      "title_th": "Tesla ขยายฝูงบิน Robotaxi ขึ้น 50%, Einride ได้พันธมิตร และจีนก้าวสู่ตลาดใหญ่",
+      "summary_th": "ในตอนที่สองติดต่อกันของ Quick Charge เราจะมาดูกันว่า Tesla เพิ่มฝูงบิน Robotaxi ที่ขับเคลื่อนด้วยตนเองของประเทศลงครึ่งหนึ่งด้วยการลากปากกาได้อย่างไร และดูว่าการใช้งานแบบอัตโนมัติของบริษัทเป็นอย่างไรเมื่อเปรียบเทียบกับส่วนที่เหลือของโลก"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Tesla’s Cybercab is about to launch — and we don’t get it",
+      "summary_en": "Tesla has told employees it is preparing a public launch of the Cybercab in Austin as soon as this month, according to a report from The Information . It would be the first Tesla vehicle ever built without a steering wheel or pedals — and the least exciting vehicle the company has ever made, because it is virtually worthless without an autonomous driving system Tesla still hasn’t delivered at scale.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/17/tesla-cybercab-launch-least-exciting-vehicle-ever/",
+      "published": "Tue, 18 Aug 2026 01:24:52 +0000",
+      "title_th": "Cybercab ของ Tesla กำลังจะเปิดตัว – และเราไม่เข้าใจ",
+      "summary_th": "Tesla ได้แจ้งพนักงานว่ากำลังเตรียมการเปิดตัว Cybercab ต่อสาธารณะในออสตินโดยเร็วที่สุดในเดือนนี้ ตามรายงานจาก The Information มันจะเป็นรถยนต์ Tesla คันแรกที่เคยสร้างโดยไม่มีพวงมาลัยหรือแป้นเหยียบ — และเป็นยานพาหนะที่น่าตื่นเต้นน้อยที่สุดที่บริษัทเคยสร้างมา เพราะมันแทบจะไร้ค่าเลยหากไม่มีระบบขับเคลื่อนอัตโนมัติที่ Tesla ยังไม่ได้ส่งมอบในวงกว้าง"
     },
     {
       "source": "Electrek",
@@ -577,30 +601,6 @@
       "published": "Mon, 17 Aug 2026 18:00:00 +0000",
       "title_th": "การขายวันแรงงานของ Aventon ลดราคา e-bike ของ Soltera 2.5 เหลือเพียง 999 ดอลลาร์, เครื่องชาร์จ AI EV อัจฉริยะ Autel 40A ระดับ 2 มูลค่า 376 ดอลลาร์, Greenworks, Navee และอีกมากมาย",
       "summary_th": "Aventon เป็นผู้นำข้อเสนอ Monday Green ในสัปดาห์นี้ เนื่องจากได้เริ่มลดราคาวันแรงงานด้วย e-bikes อัจฉริยะ รวมถึงการประหยัดครั้งแรกในรุ่น REC ใหม่ล่าสุด เช่นเดียวกับส่วนลดครั้งที่สองในปี 2026 สำหรับ e-bike Soltera 2.5 Lightweight Commuter ที่ราคาต่ำเพียง $ 999 เบื้องหลังนั้น เรามีเครื่องชาร์จ MaxiCharger AC Lite Home 40A Smart Level 2 EV ของ Autel ในราคา 376 ดอลลาร์ เครื่องซักผ้าแรงดันไฟฟ้า Greenworks 3,000 PSI ยอดนิยมราคา 350 ดอลลาร์ Navee Cyber ​​X Pro Electric Dirt Bike สำหรับเด็กที่เพิ่งเปิดตัว ในราคาต่ำสุดใหม่ 400 ดอลลาร์ และอื่นๆ อีกมากมายที่รออยู่ด้านล่าง อย่าลืมเกี่ยวกับข้อเสนออาการเมาค้างจากสัปดาห์ที่แล้วซึ่งอยู่ที่ด้านล่างของหน้าและปัดเศษขึ้นในข้อเสนอ Electrified Weekly ฉบับล่าสุดของเรา มุ่งหน้าไปด้านล่างเพื่อดูข้อเสนอสีเขียวใหม่อื่น ๆ ที่เราพบในวันนี้"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Nevada caps Tesla’s Vegas ‘Robotaxi’ fleet at 10 — it asked for 5,000",
-      "summary_en": "Nevada’s Transportation Authority granted Tesla a permit to run driverless vehicles in Las Vegas last month and capped the fleet at 10 cars. Tesla’s application had asked for 5,000. The permit also confines Tesla to an approved stretch of the Strip, bans pickups at Harry Reid International Airport, and limits the vehicles to 45 mph.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/04/Tesla-Robotaxi-hero.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/17/tesla-nevada-robotaxi-permit-10-vehicles-las-vegas/",
-      "published": "Mon, 17 Aug 2026 17:55:33 +0000",
-      "title_th": "เนวาดาจำกัดกองเรือ 'Robotaxi' ของ Vegas ที่ 10 ลำ โดยขอ 5,000 ลำ",
-      "summary_th": "หน่วยงานขนส่งของเนวาดาได้อนุญาตให้ Tesla ใช้งานยานพาหนะไร้คนขับในลาสเวกัสเมื่อเดือนที่แล้ว และจำกัดกองยานพาหนะไว้ที่ 10 คัน ใบสมัครของ Tesla ขอเงิน 5,000 ใบอนุญาตดังกล่าวยังจำกัด Tesla อยู่ในขอบเขตที่ได้รับอนุมัติของ Strip ห้ามมิให้รถกระบะที่สนามบินนานาชาติ Harry Reid และจำกัดความเร็วของยานพาหนะไว้ที่ 45 ไมล์ต่อชั่วโมง"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "America doesn’t need faster e-bikes. It needs better small electric vehicles",
-      "summary_en": "For the last few years, it has felt like the electric bike industry has been engaged in a constant arms race. Every new launch seems to promise more speed, more power, bigger batteries, and increasingly motorcycle-like styling. And every time a new model pushes the envelope, the comments inevitably fill with some people asking the same question: “Why not just make it faster?” I think that’s the wrong question.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/olto-scooter-header-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/17/america-doesnt-need-faster-e-bikes-it-needs-better-small-electric-vehicles/",
-      "published": "Mon, 17 Aug 2026 17:45:00 +0000",
-      "title_th": "อเมริกาไม่ต้องการ e-bike ที่เร็วกว่านี้ มันต้องการยานพาหนะไฟฟ้าขนาดเล็กที่ดีกว่า",
-      "summary_th": "ในช่วงไม่กี่ปีที่ผ่านมา รู้สึกเหมือนว่าอุตสาหกรรมจักรยานไฟฟ้ามีส่วนร่วมในการแข่งขันด้านอาวุธอย่างต่อเนื่อง การเปิดตัวใหม่ทุกครั้งดูเหมือนจะรับประกันความเร็วที่มากขึ้น พละกำลังที่มากขึ้น แบตเตอรี่ที่ใหญ่ขึ้น และสไตล์ที่เหมือนมอเตอร์ไซค์มากขึ้น และทุกครั้งที่โมเดลใหม่ขยายขอบเขตออกไป ความคิดเห็นก็เต็มไปด้วยผู้คนที่ถามคำถามเดียวกันนี้อย่างหลีกเลี่ยงไม่ได้: “ทำไมไม่ทำให้เร็วขึ้นล่ะ” ฉันคิดว่านั่นเป็นคำถามที่ผิด"
     }
   ],
   "indices": [
@@ -664,131 +664,10 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 277.0,
-      "change": 7.0,
-      "change_pct": 2.59
+      "price": 274.0,
+      "change": -3.0,
+      "change_pct": -1.08
     }
   ],
-  "reviews": [
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "Google Pixel 11/Pro/Fold Impressions: It Is What It Is",
-      "video_id": "o4SSoURPODY",
-      "link": "https://www.youtube.com/watch?v=o4SSoURPODY",
-      "thumbnail": "https://i4.ytimg.com/vi/o4SSoURPODY/hqdefault.jpg",
-      "published": "2026-08-12T14:00:35+00:00",
-      "title_th": "การแสดงผลของ Google Pixel 11/Pro/Fold: มันคือสิ่งที่เป็นอยู่"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "Galaxy Z Fold 8 Review: Honeymoon's Over",
-      "video_id": "Z6z_feacXW8",
-      "link": "https://www.youtube.com/watch?v=Z6z_feacXW8",
-      "thumbnail": "https://i3.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg",
-      "published": "2026-08-01T00:05:00+00:00",
-      "title_th": "รีวิว Galaxy Z Fold 8: ฮันนีมูนจบลงแล้ว"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "Framework 13 Pro: The Modular Laptop is Real!",
-      "video_id": "_xjxwl1zLMc",
-      "link": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
-      "thumbnail": "https://i4.ytimg.com/vi/_xjxwl1zLMc/hqdefault.jpg",
-      "published": "2026-07-27T15:38:21+00:00",
-      "title_th": "Framework 13 Pro: แล็ปท็อปแบบแยกส่วนมีจริง!"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "The New Insta360 Is Here...",
-      "video_id": "5eEjWmsoB7w",
-      "link": "https://www.youtube.com/shorts/5eEjWmsoB7w",
-      "thumbnail": "https://i2.ytimg.com/vi/5eEjWmsoB7w/hqdefault.jpg",
-      "published": "2026-08-17T14:00:32+00:00",
-      "title_th": "Insta360 ใหม่อยู่ที่นี่แล้ว..."
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "New Ninja Water Gadget",
-      "video_id": "8Ddp5WaMp_8",
-      "link": "https://www.youtube.com/shorts/8Ddp5WaMp_8",
-      "thumbnail": "https://i1.ytimg.com/vi/8Ddp5WaMp_8/hqdefault.jpg",
-      "published": "2026-08-13T17:52:31+00:00",
-      "title_th": "อุปกรณ์น้ำนินจาใหม่"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "Listen To This...(SOUND ON)",
-      "video_id": "Pti27NIzuIg",
-      "link": "https://www.youtube.com/shorts/Pti27NIzuIg",
-      "thumbnail": "https://i1.ytimg.com/vi/Pti27NIzuIg/hqdefault.jpg",
-      "published": "2026-08-12T17:27:42+00:00",
-      "title_th": "ฟังนี่...(เปิดเสียง)"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "ใช้ชีวิตยังไง ให้อายุยืน มีความสุข",
-      "video_id": "LkionKhQkDY",
-      "link": "https://www.youtube.com/shorts/LkionKhQkDY",
-      "thumbnail": "https://i1.ytimg.com/vi/LkionKhQkDY/hqdefault.jpg",
-      "published": "2026-08-17T13:32:27+00:00",
-      "title_th": "ใช้ชีวิตยังไง ให้อายุยืน มีความสุข"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "'WSoptics' ล้ำสุดในสามย่าน !",
-      "video_id": "gDN9kGUMmws",
-      "link": "https://www.youtube.com/shorts/gDN9kGUMmws",
-      "thumbnail": "https://i4.ytimg.com/vi/gDN9kGUMmws/hqdefault.jpg",
-      "published": "2026-08-17T09:00:04+00:00",
-      "title_th": "'WSoptics' ล้ำสุดในสามย่าน !"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "จากแคปเฌอสู่นักเล่าเรื่องวิทยาศาสตร์",
-      "video_id": "M0g6TSbGTmA",
-      "link": "https://www.youtube.com/shorts/M0g6TSbGTmA",
-      "thumbnail": "https://i2.ytimg.com/vi/M0g6TSbGTmA/hqdefault.jpg",
-      "published": "2026-08-16T23:15:03+00:00",
-      "title_th": "จากแคปเฌอสู่นักเล่าเรื่องวิทยาศาสตร์"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "✍️ ปากกาแปลก เขียนในกระดาษปกติ แต่ไปโผล่บนจอมือถือได้ทันที?? #YUAN #SmartPen #SmartNotebook #จดโน้ต",
-      "video_id": "ZS_3QmUssv0",
-      "link": "https://www.youtube.com/shorts/ZS_3QmUssv0",
-      "thumbnail": "https://i3.ytimg.com/vi/ZS_3QmUssv0/hqdefault.jpg",
-      "published": "2026-08-16T14:35:04+00:00",
-      "title_th": "✍️ ปากกาแปลก เขียนในกระดาษปกติ แต่ไปโผล่บนจอมือถือได้ทันที?? #YUAN #SmartPen #SmartNotebook #จดโน้ต"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "REDMI Note Series มียอดจัดส่งกว่า 500 ล้านเครื่องทั่วโลก ลุ้นรุ่นใหม่เร็ว ๆ นี้ 👀 #REDMINote #REDMI",
-      "video_id": "wbryNUdBJ84",
-      "link": "https://www.youtube.com/shorts/wbryNUdBJ84",
-      "thumbnail": "https://i4.ytimg.com/vi/wbryNUdBJ84/hqdefault.jpg",
-      "published": "2026-08-16T03:00:20+00:00",
-      "title_th": "REDMI Note Series มียอดจัดส่งกว่า 500 ล้านเครื่องทั่วโลก ลุ้นรุ่นใหม่เร็ว ๆ นี้ 👀 #REDMINote #REDMI"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "Pixel 11 Series เปิดตัวแล้ว/ Honor Robot Phone ขายจริงราคาดี/ Youtube ปรับกฏสำหรับ creator หน้าใหม่",
-      "video_id": "lqJjV6uUnXw",
-      "link": "https://www.youtube.com/watch?v=lqJjV6uUnXw",
-      "thumbnail": "https://i1.ytimg.com/vi/lqJjV6uUnXw/hqdefault.jpg",
-      "published": "2026-08-15T12:00:04+00:00",
-      "title_th": "Pixel 11 Series เปิดตัวแล้ว/ Honor Robot Phone ขายจริงราคาดี/ Youtube ปรับกฏสำหรับ creator หน้าใหม่"
-    }
-  ]
+  "reviews": []
 }
