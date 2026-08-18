@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T06:21:53.509061+00:00",
+  "generated_at": "2026-08-18T09:21:28.129989+00:00",
   "count": 50,
   "articles": [
     {
@@ -66,6 +66,18 @@
       "source": "The Verge",
       "flag": "US",
       "category": "software",
+      "title_en": "Apple’s camera-equipped AirPods appear in leaked video",
+      "summary_en": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence can see the […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Apple-AirPods-with-cameras-demo-video-leak.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+      "published": "2026-08-18T05:00:01-04:00",
+      "title_th": "AirPods ที่ติดตั้งกล้องของ Apple ปรากฏในวิดีโอที่รั่วไหลออกมา",
+      "summary_th": "เราอาจได้เห็นแวบแรกเกี่ยวกับ AirPods ที่ติดตั้งกล้องที่มีข่าวลือของ Apple ด้วยวิดีโอที่ MacRumors พบใน macOS Tahoe 26.7 Release Candidate คลิปวิดีโอสั้นๆ มีชายคนหนึ่งสวม AirPods ใหม่ ถือหนังสือที่มีปกแสดงอยู่ เพื่อให้ Visual Intelligence สามารถมองเห็น […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
       "title_en": "Reddit’s AI is turning posts into podcasts and short videos",
       "summary_en": "Reddit is trying out a new way for people to take in content on Reddit: by turning text posts into audio / video content. As part of an experiment, some posts are being adapted into videos that use AI voices to read the text of the main post and some comments. The video highlights the […]",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-17-at-4.32.56-PM.png?quality=90&strip=all&crop=0%2C4.5553525273851%2C100%2C90.88929494523&w=1200",
@@ -111,18 +123,6 @@
       "summary_th": "Sonos เปิดตัวการอัปเดตแอปมือถือซึ่งในที่สุดก็แนะนำการสนับสนุนสำหรับกิจกรรมสดของ iOS ทำให้ผู้ใช้ iPhone เข้าถึงการควบคุมการเล่นบนหน้าจอล็อคได้อย่างรวดเร็ว ฟังก์ชั่นเพิ่มเติมคือ \"คุณสมบัติที่ได้รับการร้องขอ คาดหวัง และจำเป็นมาก\" ตามโพสต์ที่ Sonos แบ่งปันกับ Reddit ในวันนี้ซึ่งพบโดย 9to5Mac ในขณะที่คุณสมบัติบางอย่าง […]"
     },
     {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Trump’s dumb border wall",
-      "summary_en": "About 22 miles south of the former mining town of Patagonia, Arizona, down a winding, unpaved mountain road that passes cows grazing on open range, stands a cottonwood tree believed to be at least 200 years old. The \"grandmother\" tree, as some locals call it, is imperiled and already showing signs of stress, almost as […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2290533079.jpg?quality=90&strip=all&crop=0%2C10.664841966588%2C100%2C78.670316066825&w=1200",
-      "link": "https://www.theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood-tree-sit",
-      "published": "2026-08-17T12:30:00-04:00",
-      "title_th": "กำแพงชายแดนโง่ๆของทรัมป์",
-      "summary_th": "ประมาณ 22 ไมล์ทางใต้ของอดีตเมืองเหมืองแร่ปาตาโกเนีย รัฐแอริโซนา ไปตามถนนบนภูเขาที่คดเคี้ยวและไม่ได้ลาดยางที่ตัดผ่านฝูงวัวที่กินหญ้าในพื้นที่เปิด มีต้นฝ้ายยืนต้นอยู่ซึ่งเชื่อกันว่ามีอายุอย่างน้อย 200 ปี ต้นไม้ \"คุณย่า\" ตามที่ชาวบ้านบางคนเรียกกันว่า ต้นไม้นี้ถูกคุกคามและแสดงสัญญาณของความเครียดแล้ว เกือบจะพอๆ กับที่ […]"
-    },
-    {
       "source": "Ars Technica",
       "flag": "US",
       "category": "software",
@@ -156,7 +156,7 @@
       "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
       "published": "Fri, 14 Aug 2026 14:27:14 +0000",
       "title_th": "OpenAI และ Anthropic ในสงครามราคาเมื่อคู่แข่ง AI ของจีนเข้ามามีส่วนร่วม",
-      "summary_th": "กลุ่มบริษัทในสหรัฐฯ เปิดตัวโมเดลราคาถูกหลังจากความท้าทายใหม่ต่อความทะเยอทะยานล้านล้านดอลลาร์ของพวกเขา"
+      "summary_th": "กลุ่มสหรัฐฯ เปิดตัวโมเดลราคาถูกหลังความท้าทายใหม่ต่อความทะเยอทะยานล้านล้านดอลลาร์"
     },
     {
       "source": "Ars Technica",
@@ -181,6 +181,30 @@
       "published": "Tue, 11 Aug 2026 20:59:52 +0000",
       "title_th": "Chrome ใช้สิ่งที่อาจเป็นการป้องกันที่ดีที่สุดจากการยึดบัญชี",
       "summary_th": "ข้อมูลรับรองเซสชันที่เชื่อมโยงกับอุปกรณ์ขัดขวางรูปแบบการครอบครองบัญชีที่ใช้กันทั่วไปมากขึ้น"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "The Powerful Chinese Model Experts Warned About—and Waited for—Is Here",
+      "summary_en": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
+      "image": "https://media.wired.com/photos/6a834e67effc1720d3a37bb8/master/pass/ZAI-Most-Skilled-AI-Yet-Business-1044672050.jpg",
+      "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
+      "published": "Tue, 18 Aug 2026 09:00:00 +0000",
+      "title_th": "ผู้เชี่ยวชาญโมเดลชาวจีนผู้ทรงพลังเตือนและรอคอยมาถึงแล้ว",
+      "summary_th": "การเปิดตัวโมเดล AI ล่าสุดของ Z.ai สามารถช่วยให้บริษัทต่างๆ รักษาความปลอดภัยระบบของตน หรือค้นหาทางไปอยู่ในมือของแฮกเกอร์ได้"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Best Merino Wool Clothing (2026): Base Layers, Hoodies, Jackets",
+      "summary_en": "Merino is one of the best fabrics you can wear. We explain the different blends, what “GSM” means, and how to care for your clothes.",
+      "image": "https://media.wired.com/photos/69101cf42807788d808a6daf/master/pass/The%20Best%20Merino%20Wool%20Clothing%20Keeps%20You%20Comfy%20in%20Any%20Weather.png",
+      "link": "https://www.wired.com/story/best-merino-wool-clothes/",
+      "published": "Tue, 18 Aug 2026 09:00:00 +0000",
+      "title_th": "เสื้อผ้าขนแกะขนยาวที่ดีที่สุด (2026): เสื้อตัวใน เสื้อฮู้ด แจ็คเก็ต",
+      "summary_th": "เมอริโนเป็นหนึ่งในผ้าที่ดีที่สุดที่คุณสามารถสวมใส่ได้ We explain the different blends, what “GSM” means, and how to care for your clothes."
     },
     {
       "source": "Wired",
@@ -217,30 +241,6 @@
       "published": "Mon, 17 Aug 2026 20:18:17 +0000",
       "title_th": "สตูดิโอภาพยนตร์เรท R นี้ต้องการเป็น HBO ของ AI",
       "summary_th": "Rogue Studios ซึ่งเป็นเครื่องกำเนิด AI สำหรับผู้ใหญ่ในโรงภาพยนตร์กำลังวางเดิมพันครั้งใหญ่กับอนาคตของเนื้อหาที่เผ็ดร้อน \"ซับซ้อน\""
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "7 Best Cheap Laptops to Buy in 2026 (and Some to Avoid)",
-      "summary_en": "From surprisingly good $300 Chromebooks to excellent $650 Windows notebooks and more, these are the best budget laptops I’ve tested.",
-      "image": "https://media.wired.com/photos/69d56addb288ac3ffa89fae2/master/pass/The-Best-Budget-Laptops-to-Get-Your-Money%E2%80%99s-Worth.jpg",
-      "link": "https://www.wired.com/gallery/best-cheap-laptops/",
-      "published": "Mon, 17 Aug 2026 11:31:00 +0000",
-      "title_th": "7 แล็ปท็อปราคาถูกที่ดีที่สุดที่จะซื้อในปี 2569 (และบางรุ่นที่ควรหลีกเลี่ยง)",
-      "summary_th": "ตั้งแต่ Chromebook มูลค่า 300 ดอลลาร์ที่ดีจนน่าประหลาดใจ ไปจนถึงโน้ตบุ๊ก Windows มูลค่า 650 ดอลลาร์และอื่นๆ อีกมากมาย นี่คือแล็ปท็อปราคาประหยัดที่ดีที่สุดที่ฉันเคยทดสอบ"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "review",
-      "title_en": "CookUnity Prepared Meal Delivery Review (2026): Chef-Centric Meals",
-      "summary_en": "I’ve tried most of the ready-to-eat meal delivery services in the country. CookUnity is the one that feels like real cooking, from real chefs.",
-      "image": "https://media.wired.com/photos/6a823658a0ec4702efa7eaf3/master/pass/Review-(2026)--CookUnity-Prepared-Delivery-Meals.jpg",
-      "link": "https://www.wired.com/review/cookunity-prepared-meal-delivery-2026/",
-      "published": "Mon, 17 Aug 2026 11:01:00 +0000",
-      "title_th": "รีวิวการจัดส่งอาหารปรุงสุกของ CookUnity (2026): อาหารที่มีเชฟเป็นศูนย์กลาง",
-      "summary_th": "ฉันได้ลองใช้บริการจัดส่งอาหารพร้อมรับประทานส่วนใหญ่ในประเทศแล้ว CookUnity เป็นสิ่งที่ให้ความรู้สึกเหมือนทำอาหารจริงจากเชฟตัวจริง"
     },
     {
       "source": "MIT Technology Review",
@@ -305,6 +305,30 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "gadget",
+      "title_en": "Google is reportedly planning to move all Pixel production out of China",
+      "summary_en": "Google told its suppliers that it will no longer manufacture Pixel devices in China starting next year, according to Nikkei Asia.",
+      "image": "https://www.engadget.com/img/gallery/google-is-reportedly-planning-to-move-all-pixel-production-out-of-china/l-intro-1787039203.jpg",
+      "link": "https://www.engadget.com/2238895/google-reportedly-planning-move-pixel-production-out-of-china/",
+      "published": "Tue, 18 Aug 2026 08:00:00 +0000",
+      "title_th": "มีรายงานว่า Google กำลังวางแผนที่จะย้ายการผลิต Pixel ทั้งหมดออกจากจีน",
+      "summary_th": "Google แจ้งซัพพลายเออร์ว่าจะไม่ผลิตอุปกรณ์ Pixel ในจีนอีกต่อไปตั้งแต่ปีหน้า ตามรายงานของ Nikkei Asia"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Apple appears to have leaked its camera-equipped AirPods",
+      "summary_en": "Apple may have leaked its camera-equipped AirPods in a video tucked into macOS Tahoe 26.7.",
+      "image": "https://www.engadget.com/img/gallery/apple-appears-to-have-leaked-its-camera-equipped-airpods/l-intro-1787038779.jpg",
+      "link": "https://www.engadget.com/2238891/apple-appears-to-have-leaked-its-camera-equipped-airpods/",
+      "published": "Tue, 18 Aug 2026 07:41:59 +0000",
+      "title_th": "ดูเหมือนว่า Apple จะมี AirPods ที่ติดตั้งกล้องรั่วไหลออกมา",
+      "summary_th": "Apple อาจรั่ว AirPods ที่ติดตั้งกล้องในวิดีโอที่ซ่อนไว้ใน macOS Tahoe 26.7"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "chip",
       "title_en": "Why flash drive capacity keeps increasing (and why small drives are rarely sold today)",
       "summary_en": "While smaller drives can certainly still be found, there's a good reason why you don't often find them on retailers' shelves.",
@@ -335,32 +359,8 @@
       "image": "https://www.engadget.com/img/gallery/why-did-curved-tvs-fail-when-curved-gaming-monitors-thrived/l-intro-1786727389.jpg",
       "link": "https://www.engadget.com/2237248/why-curved-tvs-failed-gaming-monitors-thrived/",
       "published": "Mon, 17 Aug 2026 18:30:00 +0000",
-      "title_th": "เหตุใดทีวีแบบโค้งจึงล้มเหลว แต่จอภาพสำหรับเล่นเกมแบบโค้งยังคงเติบโตต่อไป",
+      "title_th": "เหตุใดทีวีแบบโค้งจึงล้มเหลว แต่จอภาพเกมแบบโค้งยังคงเติบโตต่อไป",
       "summary_th": "ทีวีแบบโค้งเดินเพื่อให้จอภาพเกมแบบโค้งสามารถทำงานได้"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Apple is forced to stop favoring its own apps in personal data collection prompts",
-      "summary_en": "A German competition authority said that Apple's data collection prompts favors its own apps versus third-party options.",
-      "image": "https://www.engadget.com/img/gallery/apple-is-forced-to-stop-favoring-its-own-apps-in-personal-data-collection-prompts/l-intro-1786990259.jpg",
-      "link": "https://www.engadget.com/2238496/apple-is-forced-to-stop-favoring-its-own-apps-in-personal-data-collection-prompts/",
-      "published": "Mon, 17 Aug 2026 18:12:36 +0000",
-      "title_th": "Apple ถูกบังคับให้หยุดสนับสนุนแอพของตัวเองในการแจ้งให้รวบรวมข้อมูลส่วนบุคคล",
-      "summary_th": "หน่วยงานด้านการแข่งขันของเยอรมนีกล่าวว่าการรวบรวมข้อมูลของ Apple กระตุ้นให้เกิดแอพของตัวเองเทียบกับตัวเลือกของบุคคลที่สาม"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Apple is reportedly expanding Apple Wallet IDs to four more states",
-      "summary_en": "North Carolina's DMV has confirmed plans for a mobile ID program that'll eventually support Apple Wallet.",
-      "image": "https://www.engadget.com/img/gallery/apple-is-reportedly-expanding-apple-wallet-ids-to-four-more-states/l-intro-1786987176.jpg",
-      "link": "https://www.engadget.com/2238436/apple-is-reportedly-expanding-apple-wallet-id-to-four-more-states/",
-      "published": "Mon, 17 Aug 2026 17:22:15 +0000",
-      "title_th": "มีรายงานว่า Apple กำลังขยาย Apple Wallet IDs ไปอีกสี่รัฐ",
-      "summary_th": "DMV ของนอร์ธแคโรไลนาได้ยืนยันแผนสำหรับโปรแกรม ID มือถือที่จะรองรับ Apple Wallet ในที่สุด"
     },
     {
       "source": "IEEE Spectrum",
@@ -408,7 +408,7 @@
       "link": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
       "published": "Fri, 14 Aug 2026 17:27:12 +0000",
       "title_th": "ทำนายการเชื่อมต่อเสาอากาศบนแพลตฟอร์มไฟฟ้าขนาดใหญ่ก่อนสร้างฮาร์ดแวร์",
-      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นทำนายการต่อเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามประการใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
+      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นคาดการณ์การต่อพ่วงเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามแบบใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
     },
     {
       "source": "IEEE Spectrum",
@@ -420,7 +420,7 @@
       "link": "https://spectrum.ieee.org/product-engineer",
       "published": "Thu, 13 Aug 2026 14:44:50 +0000",
       "title_th": "นำแนวคิดของผู้จัดการผลิตภัณฑ์มาใช้กับงานวิศวกรรมครั้งต่อไปของคุณ",
-      "summary_th": "หากคุณยังไม่เห็นตำแหน่งงานสำหรับ “วิศวกรผลิตภัณฑ์” คุณอาจจะได้ทราบเร็วๆ นี้ งานที่จู่ๆ ทุกคนก็จ้างมา บทบาทนี้เปรียบเสมือนลูกผสมระหว่างผู้จัดการผลิตภัณฑ์และวิศวกร (ตามชื่อเลย) และเป็นเทรนด์การจ้างงานที่ควรค่าแก่การใส่ใจ บริษัทต่างๆ กำลังเปิดรับตำแหน่งงานเหล่านี้เพิ่มขึ้นทุกๆ เดือน แต่พวกเขาก็ประสบปัญหาในการเติมเต็มตำแหน่งดังกล่าว เหตุผลแทบจะไม่เกี่ยวข้องกับทักษะการเขียนโค้ดของวิศวกรหรือประสบการณ์หลายปี การย้ายอาชีพที่ดีที่สุดที่คุณสามารถทำได้เพื่อเตรียมพร้อมสำหรับบทบาทประเภทนี้แทบจะไม่เกี่ยวข้องกับการได้รับความรู้ด้านเทคนิคมากขึ้นเลย แต่กลับกลายเป็นคำที่ฟุ่มเฟือยที่สุด ใช้มากเกินไป และอาจแย่ที่สุดในเทคโนโลยีทั้งหมด: ความคิด ติดกับฉันฉันสัญญาว่าสิ่งนี้จะเป็นประโยชน์ ปัญหา: เราถูกฝึกให้เป็นทาส"
+      "summary_th": "หากคุณยังไม่เห็นตำแหน่งงานสำหรับ “วิศวกรผลิตภัณฑ์” คุณอาจจะได้ทราบเร็วๆ นี้ งานที่จู่ๆ ทุกคนก็จ้างเข้ามา บทบาทนี้เปรียบเสมือนลูกผสมระหว่างผู้จัดการผลิตภัณฑ์และวิศวกร (ตามชื่อเลย) และเป็นเทรนด์การจ้างงานที่ควรค่าแก่การใส่ใจ บริษัทต่างๆ กำลังเปิดรับตำแหน่งงานเหล่านี้เพิ่มขึ้นทุกๆ เดือน แต่พวกเขาก็ประสบปัญหาในการเติมเต็มตำแหน่งดังกล่าว เหตุผลแทบไม่เกี่ยวข้องกับทักษะการเขียนโค้ดของวิศวกรหรือประสบการณ์หลายปี การย้ายอาชีพที่ดีที่สุดที่คุณสามารถทำได้เพื่อเตรียมพร้อมสำหรับบทบาทประเภทนี้แทบจะไม่เกี่ยวข้องกับการได้รับความรู้ด้านเทคนิคมากขึ้นเลย แต่กลับกลายเป็นคำที่ฟุ่มเฟือยที่สุด ใช้มากเกินไป และอาจเลวร้ายที่สุดในเทคโนโลยีทั้งหมด: ความคิด ติดกับฉันฉันสัญญาว่าสิ่งนี้จะเป็นประโยชน์ ปัญหา: เราถูกฝึกให้เป็นทาส"
     },
     {
       "source": "9to5Mac",
@@ -432,7 +432,7 @@
       "link": "https://9to5mac.com/2026/08/17/airpods-with-camera-get-their-clearest-leak-yet/",
       "published": "Tue, 18 Aug 2026 01:48:31 +0000",
       "title_th": "AirPods พร้อมกล้องมีรอยรั่วที่ชัดเจนที่สุด",
-      "summary_th": "รวมอยู่ใน macOS Tahoe 26.7 Release Candidate ของวันนี้เป็นวิดีโอสั้น ๆ ที่แสดงการทำงานของ Visual Intelligence บน AirPods ที่ติดตั้งกล้องที่มีข่าวลือของ Apple ดูได้ที่ด้านล่าง"
+      "summary_th": "รวมอยู่ใน macOS Tahoe 26.7 Release Candidate ของวันนี้เป็นวิดีโอสั้น ๆ ที่แสดงการทำงานของ Visual Intelligence บน AirPods ที่ติดตั้งกล้องที่มีข่าวลือของ Apple ดูได้ที่ด้านล่างนี้"
     },
     {
       "source": "9to5Mac",
@@ -467,7 +467,7 @@
       "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/Spotify.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "link": "https://9to5mac.com/2026/08/17/spotifys-new-playlist-notes-let-users-add-context-to-songs-podcasts-and-audiobook-picks/",
       "published": "Mon, 17 Aug 2026 21:00:47 +0000",
-      "title_th": "Playlist Notes ใหม่ของ Spotify ช่วยให้ผู้ใช้เพิ่มบริบทให้กับเพลง พ็อดแคสต์ และหนังสือเสียงที่เลือกได้",
+      "title_th": "Playlist Notes ใหม่ของ Spotify ช่วยให้ผู้ใช้เพิ่มบริบทให้กับเพลง พ็อดคาสท์ และหนังสือเสียงที่เลือกได้",
       "summary_th": "Spotify ประกาศในวันนี้ถึงการขยายฟีเจอร์ User Notes ที่เพิ่งเปิดตัวไปเมื่อเร็วๆ นี้ แม้ว่า User Notes จะจำกัดเฉพาะเพลง Playlist Notes ใหม่ยังช่วยให้ผู้ใช้เพิ่มบริบทให้กับตอนของพอดแคสต์และหนังสือเสียงในเพลย์ลิสต์ของตนได้ นี่คือรายละเอียด"
     },
     {
@@ -492,7 +492,7 @@
       "link": "https://9to5google.com/2026/08/17/august-2026-google-system-updates/",
       "published": "Mon, 17 Aug 2026 23:34:00 +0000",
       "title_th": "มีอะไรใหม่ในการอัปเดตระบบ Google เดือนสิงหาคม 2569 ของ Android [U]",
-      "summary_th": "“ บันทึกประจำรุ่นของระบบ Google ” รายเดือนจะให้รายละเอียดเป็นหลักว่ามีอะไรใหม่ในบริการ Play, Play Store และการอัปเดตระบบ Play บนโทรศัพท์/แท็บเล็ต Android, Wear OS, Google/Android TV, Auto และพีซี คุณลักษณะบางอย่างมีผลกับผู้ใช้ปลายทาง ในขณะที่คุณลักษณะอื่นๆ มุ่งเป้าไปที่นักพัฒนา"
+      "summary_th": "“ บันทึกประจำรุ่นของระบบ Google ” รายเดือนจะให้รายละเอียดเป็นหลักว่ามีอะไรใหม่ในบริการ Play, Play Store และการอัปเดตระบบ Play บนโทรศัพท์/แท็บเล็ต Android, Wear OS, Google/Android TV, Auto และพีซี คุณสมบัติบางอย่างมีผลกับผู้ใช้ปลายทาง ในขณะที่คุณสมบัติอื่นๆ มุ่งเป้าไปที่นักพัฒนา"
     },
     {
       "source": "9to5Google",
@@ -540,7 +540,7 @@
       "link": "https://9to5google.com/2026/08/17/google-just-bought-a-bunch-of-spirit-airlines-data-for-ai-training/",
       "published": "Mon, 17 Aug 2026 17:45:00 +0000",
       "title_th": "Google เพิ่งซื้อข้อมูล Spirit Airlines จำนวนหนึ่งสำหรับการฝึกอบรม AI",
-      "summary_th": "ในขณะที่การแข่งขัน AI ยังคงค้นหาข้อมูลใหม่เพื่อใช้สำหรับการฝึกอบรม AI Google เพิ่งซื้อข้อมูลเก่าจำนวนมหาศาลจาก Spirit Airlines ที่ปัจจุบันเลิกให้บริการไปแล้วเพื่อ \"ช่วยเหลือ\" ในการฝึกอบรมโมเดล AI"
+      "summary_th": "ในขณะที่การแข่งขัน AI ยังคงค้นหาข้อมูลใหม่เพื่อใช้ในการฝึกอบรม AI Google เพิ่งซื้อข้อมูลเก่าจำนวนมหาศาลจาก Spirit Airlines ที่ปัจจุบันเลิกให้บริการไปแล้วเพื่อ \"ช่วยเหลือ\" ในการฝึกอบรมโมเดล AI"
     },
     {
       "source": "Electrek",
@@ -588,7 +588,7 @@
       "link": "https://electrek.co/2026/08/17/2027-hyundai-ioniq-5-prices-revealed-starting-35000/",
       "published": "Mon, 17 Aug 2026 19:19:18 +0000",
       "title_th": "เผยราคา Hyundai IONIQ 5 ปี 2027 เริ่มต้นที่ 35,000 เหรียญสหรัฐ",
-      "summary_th": "ด้วยราคาเริ่มต้นที่ 35,000 เหรียญสหรัฐฯ 2027 Hyundai IONIQ 5 จะยังคงเป็นหนึ่งในรถยนต์ไฟฟ้าที่มีราคาไม่แพงที่สุดในสหรัฐฯ 2027 ฮุนได..."
+      "summary_th": "ด้วยราคาเริ่มต้นที่ 35,000 เหรียญสหรัฐฯ 2027 Hyundai IONIQ 5 จะยังคงเป็นหนึ่งในรถยนต์ไฟฟ้าที่มีราคาย่อมเยาที่สุดในสหรัฐฯ 2027 ฮุนได..."
     },
     {
       "source": "Electrek",
@@ -664,10 +664,131 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 272.0,
-      "change": -5.0,
-      "change_pct": -1.81
+      "price": 273.0,
+      "change": -4.0,
+      "change_pct": -1.44
     }
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Google Pixel 11/Pro/Fold Impressions: It Is What It Is",
+      "video_id": "o4SSoURPODY",
+      "link": "https://www.youtube.com/watch?v=o4SSoURPODY",
+      "thumbnail": "https://i4.ytimg.com/vi/o4SSoURPODY/hqdefault.jpg",
+      "published": "2026-08-12T14:00:35+00:00",
+      "title_th": "การแสดงผลของ Google Pixel 11/Pro/Fold: มันคือสิ่งที่เป็นอยู่"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Galaxy Z Fold 8 Review: Honeymoon's Over",
+      "video_id": "Z6z_feacXW8",
+      "link": "https://www.youtube.com/watch?v=Z6z_feacXW8",
+      "thumbnail": "https://i3.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg",
+      "published": "2026-08-01T00:05:00+00:00",
+      "title_th": "รีวิว Galaxy Z Fold 8: ฮันนีมูนจบลงแล้ว"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Framework 13 Pro: The Modular Laptop is Real!",
+      "video_id": "_xjxwl1zLMc",
+      "link": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
+      "thumbnail": "https://i4.ytimg.com/vi/_xjxwl1zLMc/hqdefault.jpg",
+      "published": "2026-07-27T15:38:21+00:00",
+      "title_th": "Framework 13 Pro: แล็ปท็อปแบบแยกส่วนมีจริง!"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "The New Insta360 Is Here...",
+      "video_id": "5eEjWmsoB7w",
+      "link": "https://www.youtube.com/shorts/5eEjWmsoB7w",
+      "thumbnail": "https://i2.ytimg.com/vi/5eEjWmsoB7w/hqdefault.jpg",
+      "published": "2026-08-17T14:00:32+00:00",
+      "title_th": "Insta360 ใหม่อยู่ที่นี่แล้ว..."
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "New Ninja Water Gadget",
+      "video_id": "8Ddp5WaMp_8",
+      "link": "https://www.youtube.com/shorts/8Ddp5WaMp_8",
+      "thumbnail": "https://i1.ytimg.com/vi/8Ddp5WaMp_8/hqdefault.jpg",
+      "published": "2026-08-13T17:52:31+00:00",
+      "title_th": "อุปกรณ์น้ำนินจาใหม่"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Listen To This...(SOUND ON)",
+      "video_id": "Pti27NIzuIg",
+      "link": "https://www.youtube.com/shorts/Pti27NIzuIg",
+      "thumbnail": "https://i1.ytimg.com/vi/Pti27NIzuIg/hqdefault.jpg",
+      "published": "2026-08-12T17:27:42+00:00",
+      "title_th": "ฟังนี่...(เปิดเสียง)"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "ใช้ชีวิตยังไง ให้อายุยืน มีความสุข",
+      "video_id": "LkionKhQkDY",
+      "link": "https://www.youtube.com/shorts/LkionKhQkDY",
+      "thumbnail": "https://i1.ytimg.com/vi/LkionKhQkDY/hqdefault.jpg",
+      "published": "2026-08-17T13:32:27+00:00",
+      "title_th": "ใช้ชีวิตยังไง ให้อายุยืน มีความสุข"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "'WSoptics' ล้ำสุดในสามย่าน !",
+      "video_id": "gDN9kGUMmws",
+      "link": "https://www.youtube.com/shorts/gDN9kGUMmws",
+      "thumbnail": "https://i4.ytimg.com/vi/gDN9kGUMmws/hqdefault.jpg",
+      "published": "2026-08-17T09:00:04+00:00",
+      "title_th": "'WSoptics' ล้ำสุดในสามย่าน !"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "จากแคปเฌอสู่นักเล่าเรื่องวิทยาศาสตร์",
+      "video_id": "M0g6TSbGTmA",
+      "link": "https://www.youtube.com/shorts/M0g6TSbGTmA",
+      "thumbnail": "https://i2.ytimg.com/vi/M0g6TSbGTmA/hqdefault.jpg",
+      "published": "2026-08-16T23:15:03+00:00",
+      "title_th": "จากแคปเฌอสู่นักเล่าเรื่องวิทยาศาสตร์"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "ใครแบตอึดที่สุด REDMI Note 17 Pro Max 5G แบต 10000mAh #REDMI #REDMINote17Series #REDMINote17ProMax5G",
+      "video_id": "5qt1rI_EwPI",
+      "link": "https://www.youtube.com/shorts/5qt1rI_EwPI",
+      "thumbnail": "https://i2.ytimg.com/vi/5qt1rI_EwPI/hqdefault.jpg",
+      "published": "2026-08-18T04:23:40+00:00",
+      "title_th": "ใครแบตอึดที่สุด REDMI Note 17 Pro Max 5G แบต 10000mAh #REDMI #REDMINote17Series #REDMINote17ProMax5G"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "✍️ ปากกาแปลก เขียนในกระดาษปกติ แต่ไปโผล่บนจอมือถือได้ทันที?? #YUAN #SmartPen #SmartNotebook #จดโน้ต",
+      "video_id": "ZS_3QmUssv0",
+      "link": "https://www.youtube.com/shorts/ZS_3QmUssv0",
+      "thumbnail": "https://i3.ytimg.com/vi/ZS_3QmUssv0/hqdefault.jpg",
+      "published": "2026-08-16T14:35:04+00:00",
+      "title_th": "✍️ ปากกาแปลก เขียนในกระดาษปกติ แต่ไปโผล่บนจอมือถือได้ทันที?? #YUAN #SmartPen #SmartNotebook #จดโน้ต"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "REDMI Note Series มียอดจัดส่งกว่า 500 ล้านเครื่องทั่วโลก ลุ้นรุ่นใหม่เร็ว ๆ นี้ 👀 #REDMINote #REDMI",
+      "video_id": "wbryNUdBJ84",
+      "link": "https://www.youtube.com/shorts/wbryNUdBJ84",
+      "thumbnail": "https://i4.ytimg.com/vi/wbryNUdBJ84/hqdefault.jpg",
+      "published": "2026-08-16T03:00:20+00:00",
+      "title_th": "REDMI Note Series มียอดจัดส่งกว่า 500 ล้านเครื่องทั่วโลก ลุ้นรุ่นใหม่เร็ว ๆ นี้ 👀 #REDMINote #REDMI"
+    }
+  ]
 }
