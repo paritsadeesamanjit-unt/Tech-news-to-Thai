@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-17T21:17:07.649500+00:00",
+  "generated_at": "2026-08-18T00:28:32.571297+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Anthropic’s annualized revenue surges to $65B",
+      "summary_en": "The model maker added $18 billion in annualized revenue in two months.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "published": "Mon, 17 Aug 2026 23:56:26 +0000",
+      "title_th": "รายได้ต่อปีของ Anthropic เพิ่มขึ้นเป็น 65 พันล้านดอลลาร์",
+      "summary_th": "ผู้ผลิตโมเดลรายนี้เพิ่มรายได้ต่อปี 18 พันล้านดอลลาร์ในสองเดือน"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "summary_en": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/10/JacobBank_founder_headshot-e1665566816221.jpg?resize=1200,674",
+      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "published": "Mon, 17 Aug 2026 21:27:05 +0000",
+      "title_th": "Relay สตาร์ทอัพระบบอัตโนมัติ AI ปิดตัวลง เจ้าหน้าที่เข้าร่วมทีม Chrome ของ Google",
+      "summary_th": "\"เรามีแผนอันทะเยอทะยานที่จะช่วยคุณทำงานกับ AI ใน Chrome เพื่อทำงานต่างๆ ให้สำเร็จ และฉันจะมีอะไรอีกมากมายที่จะแบ่งปันเร็วๆ นี้\" Jacob Bank ผู้ก่อตั้งและซีอีโอของ Relay กล่าว"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -39,28 +63,16 @@
       "summary_th": "Spotify เปิดตัวฟีเจอร์ใหม่ที่ให้ผู้ใช้มีโอกาสอธิบายเรื่องราวและเหตุผลเบื้องหลังเพลงโปรดของพวกเขา บรรณาธิการจะใช้ฟีเจอร์นี้กับเพลย์ลิสต์ยอดนิยมอย่าง RapCaviar และอื่นๆ ด้วยเช่นกัน"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
-      "summary_en": "Higgsfield, founded by former Snap exec Alex Mashrabov, lets users create AI images and videos.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2259021916.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
-      "published": "Mon, 17 Aug 2026 19:04:27 +0000",
-      "title_th": "Higgsfield ระดมทุน Series B ได้ 400 ล้านดอลลาร์ โดยเพิ่มการประเมินมูลค่าเป็น 4 เท่าใน 8 เดือนเป็น 5.4 พันล้านดอลลาร์",
-      "summary_th": "Higgsfield ก่อตั้งโดยอดีตผู้บริหาร Snap Alex Mashrapov ให้ผู้ใช้สร้างรูปภาพและวิดีโอ AI"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Sound-powered fire protection startup gets $15M to snuff out fires before they turn catastrophic",
-      "summary_en": "Sonic Fire Tech raised its new funding to help get its sound-powered fire protection system into everything from commercial kitchens to apartment buildings.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2208003026.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/17/sound-powered-fire-protection-startup-gets-15m-to-snuff-out-fires-before-they-turn-catastrophic/",
-      "published": "Mon, 17 Aug 2026 18:32:27 +0000",
-      "title_th": "บริษัทสตาร์ทอัพด้านการป้องกันอัคคีภัยที่ใช้เสียงได้รับเงิน 15 ล้านเหรียญสหรัฐ เพื่อดับไฟก่อนที่จะเกิดภัยพิบัติ",
-      "summary_th": "Sonic Fire Tech ระดมทุนใหม่เพื่อช่วยนำระบบป้องกันอัคคีภัยแบบใช้เสียงไปใช้กับทุกสิ่งตั้งแต่ห้องครัวเชิงพาณิชย์ไปจนถึงอาคารอพาร์ตเมนต์"
+      "category": "software",
+      "title_en": "ABC’s livestreamed news show is powered by trending topics",
+      "summary_en": "ABC News has officially introduced Searched, a livestreamed show that highlights stories people are discussing on social media and searching on the web, as reported earlier by Variety. Though the network just announced the show now, Searched began airing on the ABC News Live streaming channel in April, which appears on both Disney Plus and […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/abc-news-searched.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "link": "https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show",
+      "published": "2026-08-17T16:59:23-04:00",
+      "title_th": "รายการข่าวถ่ายทอดสดของ ABC ขับเคลื่อนโดยหัวข้อที่กำลังมาแรง",
+      "summary_th": "ABC News ได้เปิดตัว Searched อย่างเป็นทางการ ซึ่งเป็นรายการถ่ายทอดสดที่เน้นเรื่องราวที่ผู้คนพูดคุยกันบนโซเชียลมีเดียและการค้นหาบนเว็บ ตามที่รายงานโดย Variety ก่อนหน้านี้ แม้ว่าเครือข่ายเพิ่งประกาศรายการในตอนนี้ แต่ Searched ก็เริ่มออกอากาศทางช่องสตรีมมิ่ง ABC News Live ในเดือนเมษายน ซึ่งปรากฏบนทั้ง Disney Plus และ […]"
     },
     {
       "source": "The Verge",
@@ -109,18 +121,6 @@
       "published": "2026-08-17T11:10:25-04:00",
       "title_th": "Apple สั่งให้หยุดขู่ผู้ใช้ iPhone และ iPad ให้ห่างจากแอพของบุคคลที่สาม",
       "summary_th": "Apple เปลี่ยนแปลงกฎสำหรับการยินยอมในการรวบรวมข้อมูลหลังจากสำนักงานพันธมิตรกลางของเยอรมนีกล่าวหาว่า Apple มอบการออกแบบที่สนับสนุนแอพของตัวเอง ความโปร่งใสในการติดตามแอปของ Apple แจ้งว่าแอปโซเชียลมีเดียต้องเสียค่าใช้จ่ายเกือบ 1 หมื่นล้านดอลลาร์เมื่อเปิดตัวด้วย iOS 14.5 ทำให้การติดตามข้ามแอปของผู้ใช้ส่วนใหญ่เลือกใช้ แต่ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "WiiM’s capable HomePod-esque smart speaker is almost $50 off",
-      "summary_en": "The smart speaker market is more or less dominated by major tech companies: Apple, Google, Sonos, and Amazon. But WiiM’s powerful 100W Sound smart speaker is an attractive alternative because it’s not locked down to play nicely with select music services. It supports over 20 services, and it sports Wi-Fi 6E, Bluetooth 5.3 and ethernet, […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/vergedealsgrifstudio.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/gadgets/980916/wiim-sound-speaker-lite-airpods-max-2-deal-sale",
-      "published": "2026-08-17T10:35:25-04:00",
-      "title_th": "ลำโพงอัจฉริยะ HomePod-esque ที่มีความสามารถของ WiiM ลดราคาเกือบ 50 เหรียญ",
-      "summary_th": "ตลาดลำโพงอัจฉริยะถูกครอบงำโดยบริษัทเทคโนโลยีรายใหญ่ไม่มากก็น้อย: Apple, Google, Sonos และ Amazon แต่ลำโพงอัจฉริยะเสียง 100W อันทรงพลังของ WiiM เป็นทางเลือกที่น่าสนใจ เนื่องจากไม่ได้ล็อคให้เล่นได้ดีกับบริการเพลงที่เลือก รองรับบริการมากกว่า 20 รายการ รองรับ Wi-Fi 6E, Bluetooth 5.3 และอีเธอร์เน็ต […]"
     },
     {
       "source": "Ars Technica",
@@ -204,7 +204,7 @@
       "link": "https://www.wired.com/gallery/best-cheap-laptops/",
       "published": "Mon, 17 Aug 2026 11:31:00 +0000",
       "title_th": "7 แล็ปท็อปราคาถูกที่ดีที่สุดที่จะซื้อในปี 2569 (และบางรุ่นที่ควรหลีกเลี่ยง)",
-      "summary_th": "ตั้งแต่ Chromebooks มูลค่า 300 ดอลลาร์ที่ดีจนน่าประหลาดใจ ไปจนถึงโน้ตบุ๊ก Windows มูลค่า 650 ดอลลาร์และอื่นๆ อีกมากมาย นี่คือแล็ปท็อปราคาประหยัดที่ดีที่สุดที่ฉันเคยทดสอบ"
+      "summary_th": "From surprisingly good $300 Chromebooks to excellent $650 Windows notebooks and more, these are the best budget laptops I’ve tested."
     },
     {
       "source": "Wired",
@@ -305,6 +305,18 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "chip",
+      "title_en": "Why flash drive capacity keeps increasing (and why small drives are rarely sold today)",
+      "summary_en": "While smaller drives can certainly still be found, there's a good reason why you don't often find them on retailers' shelves.",
+      "image": "https://www.engadget.com/img/gallery/why-flash-drive-capacity-keeps-increasing-and-why-small-drives-are-rarely-sold-today/l-intro-1786634726.jpg",
+      "link": "https://www.engadget.com/2237555/flash-drive-size-keep-going-up-why-small-rarely-sold-today/",
+      "published": "Mon, 17 Aug 2026 21:30:00 +0000",
+      "title_th": "เหตุใดความจุของแฟลชไดรฟ์จึงเพิ่มขึ้นอย่างต่อเนื่อง (และเหตุใดจึงขายไดรฟ์ขนาดเล็กในปัจจุบัน)",
+      "summary_th": "แม้ว่าไดรฟ์ขนาดเล็กจะยังพบเห็นได้อย่างแน่นอน แต่ก็มีเหตุผลที่ดีว่าทำไมคุณจึงมักไม่พบไดรฟ์เหล่านี้บนชั้นวางของร้านค้าปลีก"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "gadget",
       "title_en": "Sonos put speaker controls on your iPhone's lock screen (again)",
       "summary_en": "Sonos released an app update that takes advantage of Apple's Live Activities system.",
@@ -349,18 +361,6 @@
       "published": "Mon, 17 Aug 2026 17:22:15 +0000",
       "title_th": "มีรายงานว่า Apple กำลังขยาย Apple Wallet IDs ไปอีกสี่รัฐ",
       "summary_th": "DMV ของนอร์ธแคโรไลนาได้ยืนยันแผนสำหรับโปรแกรม ID มือถือที่จะรองรับ Apple Wallet ในที่สุด"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Samsung might be making a new foldable that's even wider than the Galaxy Z Fold 8",
-      "summary_en": "Samsung may have as many as five different foldable phones next year.",
-      "image": "https://www.engadget.com/img/gallery/samsung-might-be-making-a-new-foldable-thats-even-wider-than-the-galaxy-z-fold-8/l-intro-1786985225.jpg",
-      "link": "https://www.engadget.com/2238405/samsung-might-be-making-a-new-foldable-that-is-even-wider-than-the-galaxy-z-fold-8/",
-      "published": "Mon, 17 Aug 2026 16:50:47 +0000",
-      "title_th": "Samsung อาจสร้างเครื่องพับได้ใหม่ที่กว้างกว่า Galaxy Z Fold 8",
-      "summary_th": "Samsung อาจมีโทรศัพท์แบบพับได้มากถึงห้าเครื่องในปีหน้า"
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,18 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "Apple releases public beta 4 for iOS 27, macOS 27, iPadOS 27, tvOS 27",
+      "summary_en": "After releasing developer betas 6 earlier today, Apple is now rolling out iOS 27 public beta 4, alongside corresponding updates for some of its other platforms. Here are the details.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-public.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/17/apple-releases-public-beta-4-for-ios-27-macos-27-ipados-27-tvos-27/",
+      "published": "Mon, 17 Aug 2026 22:12:02 +0000",
+      "title_th": "Apple ออกเบต้าสาธารณะ 4 สำหรับ iOS 27, macOS 27, iPadOS 27, tvOS 27",
+      "summary_th": "หลังจากเปิดตัว betas 6 สำหรับนักพัฒนาก่อนหน้านี้ในวันนี้ Apple กำลังเปิดตัว iOS 27 public beta 4 ควบคู่ไปกับการอัปเดตที่เกี่ยวข้องสำหรับแพลตฟอร์มอื่นๆ บางส่วน นี่คือรายละเอียด"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Spotify’s new Playlist Notes let users add context to songs, podcasts, and audiobook picks",
       "summary_en": "Spotify today announced an expansion of its recently released User Notes feature. While User Notes are limited to songs, the new Playlist Notes also let users add context to podcast episodes and audiobooks in their playlists. Here are the details.",
       "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/Spotify.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
@@ -471,16 +483,16 @@
       "summary_th": "iPhone 18 Pro และ iPhone Ultra จะเปิดตัวในเดือนหน้าพร้อมกับชิป A20 Pro ใหม่และสุดสัปดาห์นี้ผู้เปิดเผยที่มีชื่อเสียงได้แบ่งปันประสิทธิภาพที่เพิ่มขึ้นตามที่คาดหวังต่อแหล่งที่มาของห่วงโซ่อุปทาน"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
-      "category": "review",
-      "title_en": "Here’s what’s new with iOS and macOS 27 beta 6",
-      "summary_en": "Apple released iOS 27 beta 6 today, giving developer beta testers the next preview update since iOS 27 debuted at WWDC. Developer beta testers can download the new beta now. iOS 27 is a major iPhone update centered around Siri AI, Apple Intelligence, Liquid Glass refinements, and a long list of quality-of-life changes. Here’s what we’ve found so far in iOS 27 beta 6.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-orange.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/17/heres-whats-new-with-ios-27-beta-6/",
-      "published": "Mon, 17 Aug 2026 19:00:00 +0000",
-      "title_th": "นี่คือสิ่งใหม่ๆ ใน iOS และ macOS 27 beta 6",
-      "summary_th": "วันนี้ Apple เปิดตัว iOS 27 beta 6 ให้ผู้ทดสอบเบต้าสำหรับนักพัฒนาได้ดูตัวอย่างการอัปเดตครั้งถัดไปนับตั้งแต่ iOS 27 เปิดตัวที่ WWDC ผู้ทดสอบเบต้าสำหรับนักพัฒนาซอฟต์แวร์สามารถดาวน์โหลดเบต้าใหม่ได้แล้วตอนนี้ iOS 27 เป็นการอัพเดต iPhone ที่สำคัญซึ่งมีศูนย์กลางอยู่ที่ Siri AI, Apple Intelligence, การปรับแต่ง Liquid Glass และการเปลี่ยนแปลงคุณภาพชีวิตอีกมากมาย นี่คือสิ่งที่เราพบใน iOS 27 เบต้า 6"
+      "category": "gadget",
+      "title_en": "What’s new in Android’s August 2026 Google System Updates [U]",
+      "summary_en": "The monthly “ Google System Release Notes ” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at developers.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/17/august-2026-google-system-updates/",
+      "published": "Mon, 17 Aug 2026 23:34:00 +0000",
+      "title_th": "มีอะไรใหม่ในการอัปเดตระบบ Google เดือนสิงหาคม 2569 ของ Android [U]",
+      "summary_th": "“ บันทึกประจำรุ่นของระบบ Google ” รายเดือนจะให้รายละเอียดเป็นหลักว่ามีอะไรใหม่ในบริการ Play, Play Store และการอัปเดตระบบ Play บนโทรศัพท์/แท็บเล็ต Android, Wear OS, Google/Android TV, Auto และพีซี คุณสมบัติบางอย่างมีผลกับผู้ใช้ปลายทาง ในขณะที่คุณสมบัติอื่นๆ มุ่งเป้าไปที่นักพัฒนา"
     },
     {
       "source": "9to5Google",
@@ -524,23 +536,23 @@
       "category": "gadget",
       "title_en": "Google just bought a bunch of Spirit Airlines data for AI training",
       "summary_en": "As the AI race continues to hunt for new data to use for AI training, Google has just purchased a huge dump of old data from the now-defunct Spirit Airlines to be “helpful” in training its AI models.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/google-logo-spirit-airlines-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/google-logo-spirit-airlines-1-e1787011314780.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "link": "https://9to5google.com/2026/08/17/google-just-bought-a-bunch-of-spirit-airlines-data-for-ai-training/",
       "published": "Mon, 17 Aug 2026 17:45:00 +0000",
       "title_th": "Google เพิ่งซื้อข้อมูล Spirit Airlines จำนวนหนึ่งสำหรับการฝึกอบรม AI",
       "summary_th": "ในขณะที่การแข่งขัน AI ยังคงค้นหาข้อมูลใหม่เพื่อใช้ในการฝึกอบรม AI Google เพิ่งซื้อข้อมูลเก่าจำนวนมหาศาลจาก Spirit Airlines ที่ปัจจุบันเลิกให้บริการไปแล้วเพื่อ \"ช่วยเหลือ\" ในการฝึกอบรมโมเดล AI"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Find Hub for Wear OS adds very basic ‘Find people’ app",
-      "summary_en": "Google is rolling out an update to Find Hub on Wear OS that adds a “Find people” app to your watch. The experience was previously just for your devices.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/google-pixel-watch-5-17.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/17/find-hub-people-wear-os/",
-      "published": "Mon, 17 Aug 2026 17:25:56 +0000",
-      "title_th": "Find Hub for Wear OS เพิ่มแอป \"ค้นหาผู้คน\" ขั้นพื้นฐาน",
-      "summary_th": "Google กำลังเปิดตัวการอัปเดต Find Hub บน Wear OS ที่เพิ่มแอป \"ค้นหาผู้คน\" ลงในนาฬิกาของคุณ ก่อนหน้านี้ประสบการณ์นี้มีไว้สำหรับอุปกรณ์ของคุณเท่านั้น"
+      "category": "ev",
+      "title_en": "BYD’s electric supercar beats Porsche on both speed and price [Video]",
+      "summary_en": "With a tri-motor setup delivering over 1,500 horsepower, the Denza Z can hit 0 to 62 mph in under 2 seconds. It’s also cheaper than a Porsche 911 Turbo S.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/BYD-Denza-Z-EV-Porsche.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/17/byds-electric-supercar-beats-porsche-speed-and-price-video/",
+      "published": "Mon, 17 Aug 2026 21:34:48 +0000",
+      "title_th": "ซุปเปอร์คาร์ไฟฟ้าของ BYD เอาชนะปอร์เช่ทั้งความเร็วและราคา [วิดีโอ]",
+      "summary_th": "ด้วยการตั้งค่ามอเตอร์สามตัวที่ให้กำลังมากกว่า 1,500 แรงม้า Denza Z สามารถทำความเร็ว 0 ถึง 100 ไมล์ต่อชั่วโมงในเวลาไม่ถึง 2 วินาที นอกจากนี้ยังมีราคาถูกกว่า Porsche 911 Turbo S อีกด้วย"
     },
     {
       "source": "Electrek",
@@ -589,18 +601,6 @@
       "published": "Mon, 17 Aug 2026 17:45:00 +0000",
       "title_th": "อเมริกาไม่ต้องการ e-bike ที่เร็วกว่านี้ มันต้องการยานพาหนะไฟฟ้าขนาดเล็กที่ดีกว่า",
       "summary_th": "ในช่วงไม่กี่ปีที่ผ่านมา รู้สึกเหมือนว่าอุตสาหกรรมจักรยานไฟฟ้ามีส่วนร่วมในการแข่งขันด้านอาวุธอย่างต่อเนื่อง การเปิดตัวใหม่ทุกครั้งดูเหมือนจะรับประกันความเร็วที่มากขึ้น พละกำลังที่มากขึ้น แบตเตอรี่ที่ใหญ่ขึ้น และสไตล์ที่เหมือนมอเตอร์ไซค์มากขึ้น และทุกครั้งที่โมเดลใหม่ขยายขอบเขตออกไป ความคิดเห็นก็เต็มไปด้วยผู้คนที่ถามคำถามเดียวกันนี้อย่างหลีกเลี่ยงไม่ได้: “ทำไมไม่ทำให้เร็วขึ้นล่ะ” ฉันคิดว่านั่นเป็นคำถามที่ผิด"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Kia’s range-topping $46,000 EV3 GT electric SUV looks even better in person",
-      "summary_en": "Kia’s popular electric SUV is now on sale in the US. The range-topping EV3 GT delivers 288 horsepower from a dual-motor AWD setup with exclusive sporty design elements inside and out, starting from $45,890.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Kia-EV3-GT-US.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/17/kia-ev3-gt-spotted-new-46000-electric-suv/",
-      "published": "Mon, 17 Aug 2026 17:23:54 +0000",
-      "title_th": "SUV ไฟฟ้า EV3 GT มูลค่า 46,000 เหรียญสหรัฐของ Kia ดูดีขึ้นกว่าเดิม",
-      "summary_th": "SUV ไฟฟ้ายอดนิยมของ Kia วางจำหน่ายแล้วในสหรัฐอเมริกา EV3 GT รุ่นท็อปมีกำลัง 288 แรงม้าจากการติดตั้ง AWD มอเตอร์คู่ พร้อมองค์ประกอบการออกแบบสปอร์ตสุดพิเศษทั้งภายในและภายนอก ในราคาเริ่มต้นที่ 45,890 ดอลลาร์"
     }
   ],
   "indices": [
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 277.0,
+      "change": 7.0,
+      "change_pct": 2.59
     }
   ],
   "reviews": [
