@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-08-18T09:21:28.129989+00:00",
+  "generated_at": "2026-08-18T12:20:08.178858+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’",
+      "summary_en": "Reach Capital announced Tuesday an oversubscribed $265M Fund V.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Reach-capital.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
+      "published": "Tue, 18 Aug 2026 11:00:00 +0000",
+      "title_th": "Reach Capital ระดมทุน 265 ล้านเหรียญสหรัฐ Fund V เพื่อสนับสนุนผู้ก่อตั้ง AI ที่สร้าง \"ขยายศักยภาพของมนุษย์\"",
+      "summary_th": "Reach Capital ประกาศเมื่อวันอังคารถึงกองทุน V ที่สมัครสมาชิกเกินจำนวน $265M"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Fairphone is launching its latest repairable phone in the US too",
+      "summary_en": "The Fairphone 6+ is priced at $649 and will be available on Amazon.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/image_1e5cf0.png?resize=1200,1200",
+      "link": "https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/",
+      "published": "Tue, 18 Aug 2026 11:00:00 +0000",
+      "title_th": "Fairphone กำลังเปิดตัวโทรศัพท์ที่สามารถซ่อมแซมได้รุ่นล่าสุดในสหรัฐอเมริกาด้วย",
+      "summary_th": "Fairphone 6+ มีราคาอยู่ที่ 649 ดอลลาร์ และจะวางจำหน่ายใน Amazon"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "ev",
+      "title_en": "Einride strikes deal to add 500 Tesla Semis to its fleet",
+      "summary_en": "Einride will buy the Tesla Semis, which will be made to Amazon and other customers.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Semi_83.jpg?resize=1200,675",
+      "link": "https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/",
+      "published": "Tue, 18 Aug 2026 10:30:00 +0000",
+      "title_th": "Einride บรรลุข้อตกลงในการเพิ่ม Tesla Semis 500 คันให้กับกองเรือ",
+      "summary_th": "Einride จะซื้อ Tesla Semis ซึ่งจะผลิตให้กับ Amazon และลูกค้ารายอื่นๆ"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "ev",
+      "title_en": "Detroit startup Grounded raises $5M to customize electric and gas-powered vans",
+      "summary_en": "The company has shifted from making van-life builds to custom outfitting vehicles for small businesses, all while the EV landscape in the US changed dramatically.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/DSC07113B.jpg?resize=1200,686",
+      "link": "https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/",
+      "published": "Tue, 18 Aug 2026 10:00:00 +0000",
+      "title_th": "Grounded สตาร์ทอัพจากเมืองดีทรอยต์ระดมทุน 5 ล้านเหรียญสหรัฐเพื่อปรับแต่งรถตู้ไฟฟ้าและแก๊ส",
+      "summary_th": "บริษัทได้เปลี่ยนจากการผลิตรถตู้ไปสู่การตกแต่งรถยนต์ตามสั่งสำหรับธุรกิจขนาดเล็ก ทั้งหมดนี้ในขณะที่ภาพรวมของรถยนต์ไฟฟ้าในสหรัฐอเมริกาเปลี่ยนแปลงไปอย่างมาก"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -12,115 +60,67 @@
       "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
       "published": "Mon, 17 Aug 2026 23:56:26 +0000",
       "title_th": "รายได้ต่อปีของ Anthropic เพิ่มขึ้นเป็น 65 พันล้านดอลลาร์",
-      "summary_th": "ผู้ผลิตโมเดลรายนี้เพิ่มรายได้ต่อปี 18 พันล้านดอลลาร์ในสองเดือน"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-      "summary_en": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/10/JacobBank_founder_headshot-e1665566816221.jpg?resize=1200,674",
-      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "published": "Mon, 17 Aug 2026 21:27:05 +0000",
-      "title_th": "Relay สตาร์ทอัพระบบอัตโนมัติ AI ปิดตัวลง เจ้าหน้าที่เข้าร่วมทีม Chrome ของ Google",
-      "summary_th": "\"เรามีแผนอันทะเยอทะยานที่จะช่วยคุณทำงานกับ AI ใน Chrome เพื่อทำงานต่างๆ ให้สำเร็จ และฉันจะมีอะไรอีกมากมายที่จะแบ่งปันเร็วๆ นี้\" Jacob Bank ผู้ก่อตั้งและซีอีโอของ Relay กล่าว"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
-      "summary_en": "Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/iphone-spyware-alert-2024.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
-      "published": "Mon, 17 Aug 2026 20:18:35 +0000",
-      "title_th": "ผู้สืบสวนกล่าวว่าจำนวนผู้ใช้ Apple ที่ 'ไม่เคยมีมาก่อน' ได้รับการแจ้งเตือนสปายแวร์ล่าสุด",
-      "summary_th": "ผู้เชี่ยวชาญด้านความปลอดภัยทางไซเบอร์ที่สืบสวนการโจมตีด้วยสปายแวร์กล่าวว่าจำนวนผู้ที่ได้รับการแจ้งเตือนภัยคุกคามล่าสุดจาก Apple นั้นสูงผิดปกติ"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
-      "summary_en": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-Space-Stage-Even-Rogers.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-      "published": "Mon, 17 Aug 2026 19:33:51 +0000",
-      "title_th": "ประหยัดสูงสุดถึง $300 เมื่อซื้อ TechCrunch Disrupt 2026 Pass จนถึงวันที่ 21 สิงหาคม",
-      "summary_th": "หากคุณวนเวียนอยู่ใน Disrupt ตอนนี้เป็นเวลาที่ดีที่สุดในการล็อคบัตรผ่านของคุณและเริ่มเตรียมพร้อมที่จะเข้าร่วมชุมชนสตาร์ทอัพที่เหลือในซานฟรานซิสโกตั้งแต่วันที่ 13-15 ตุลาคมที่ Moscone West!"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Spotify’s new Playlist Notes let users and editors explain their song picks",
-      "summary_en": "Spotify launches a new feature that gives users a chance to explain the stories and reasoning behind their favorite music. Editors will be using the feature, too, on top playlists like RapCaviar and others.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Spotify-PlaylistNotes.png?w=1200",
-      "link": "https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/",
-      "published": "Mon, 17 Aug 2026 19:24:43 +0000",
-      "title_th": "Playlist Notes ใหม่ของ Spotify ช่วยให้ผู้ใช้และบรรณาธิการอธิบายการเลือกเพลงของตนได้",
-      "summary_th": "Spotify เปิดตัวฟีเจอร์ใหม่ที่ให้ผู้ใช้มีโอกาสอธิบายเรื่องราวและเหตุผลเบื้องหลังเพลงโปรดของพวกเขา บรรณาธิการจะใช้ฟีเจอร์นี้กับเพลย์ลิสต์ยอดนิยมอย่าง RapCaviar และอื่นๆ ด้วยเช่นกัน"
+      "summary_th": "ผู้สร้างโมเดลรายนี้เพิ่มรายได้ต่อปี 18 พันล้านดอลลาร์ในสองเดือน"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "software",
-      "title_en": "Apple’s camera-equipped AirPods appear in leaked video",
-      "summary_en": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence can see the […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Apple-AirPods-with-cameras-demo-video-leak.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
-      "published": "2026-08-18T05:00:01-04:00",
-      "title_th": "AirPods ที่ติดตั้งกล้องของ Apple ปรากฏในวิดีโอที่รั่วไหลออกมา",
-      "summary_th": "เราอาจได้เห็นแวบแรกเกี่ยวกับ AirPods ที่ติดตั้งกล้องที่มีข่าวลือของ Apple ด้วยวิดีโอที่ MacRumors พบใน macOS Tahoe 26.7 Release Candidate คลิปวิดีโอสั้นๆ มีชายคนหนึ่งสวม AirPods ใหม่ ถือหนังสือที่มีปกแสดงอยู่ เพื่อให้ Visual Intelligence สามารถมองเห็น […]"
+      "title_en": "The Verge Guide to Pets",
+      "summary_en": "Ah, the relationship between animals and the technology they can’t quite understand. Today, it seems like there’s a high-tech solution to every element of pet ownership, with devices on the market designed to keep pets fed, cleaned, watched over, and entertained. And if you have a pet you know: nothing is too good — or […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PACKAGE.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/975556/pets-tech-autofeeder-litter-robot-scale",
+      "published": "2026-08-18T08:01:28-04:00",
+      "title_th": "คู่มือ Verge สำหรับสัตว์เลี้ยง",
+      "summary_th": "อ่า ความสัมพันธ์ระหว่างสัตว์และเทคโนโลยีที่พวกเขาไม่ค่อยเข้าใจ ทุกวันนี้ ดูเหมือนว่ามีโซลูชันเทคโนโลยีขั้นสูงสำหรับทุกองค์ประกอบของการเป็นเจ้าของสัตว์เลี้ยง โดยมีอุปกรณ์ในตลาดที่ออกแบบมาเพื่อให้สัตว์เลี้ยงได้รับอาหาร ทำความสะอาด เฝ้าดู และให้ความบันเทิง และถ้าคุณมีสัตว์เลี้ยง คุณก็รู้ว่าไม่มีอะไรดีเกินไป — หรือ […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "software",
-      "title_en": "Reddit’s AI is turning posts into podcasts and short videos",
-      "summary_en": "Reddit is trying out a new way for people to take in content on Reddit: by turning text posts into audio / video content. As part of an experiment, some posts are being adapted into videos that use AI voices to read the text of the main post and some comments. The video highlights the […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-17-at-4.32.56-PM.png?quality=90&strip=all&crop=0%2C4.5553525273851%2C100%2C90.88929494523&w=1200",
-      "link": "https://www.theverge.com/tech/981289/reddit-ai-text-video-posts",
-      "published": "2026-08-17T19:46:01-04:00",
-      "title_th": "AI ของ Reddit เปลี่ยนโพสต์เป็นพอดแคสต์และวิดีโอสั้น ๆ",
-      "summary_th": "Reddit กำลังทดลองวิธีใหม่สำหรับผู้คนในการรับชมเนื้อหาบน Reddit: โดยการเปลี่ยนโพสต์ข้อความให้เป็นเนื้อหาเสียง / วิดีโอ ในส่วนหนึ่งของการทดลอง โพสต์บางส่วนจะถูกดัดแปลงเป็นวิดีโอที่ใช้เสียง AI เพื่ออ่านข้อความของโพสต์หลักและความคิดเห็นบางส่วน วิดีโอไฮไลท์ของ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "ABC’s livestreamed news show is powered by trending topics",
-      "summary_en": "ABC News has officially introduced Searched, a livestreamed show that highlights stories people are discussing on social media and searching on the web, as reported earlier by Variety. Though the network just announced the show now, Searched began airing on the ABC News Live streaming channel in April, which appears on both Disney Plus and […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/abc-news-searched.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "link": "https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show",
-      "published": "2026-08-17T16:59:23-04:00",
-      "title_th": "รายการข่าวถ่ายทอดสดของ ABC ขับเคลื่อนโดยหัวข้อที่กำลังมาแรง",
-      "summary_th": "ABC News ได้เปิดตัว Searched อย่างเป็นทางการ ซึ่งเป็นรายการถ่ายทอดสดที่เน้นเรื่องราวที่ผู้คนพูดคุยกันบนโซเชียลมีเดียและการค้นหาบนเว็บ ตามที่รายงานโดย Variety ก่อนหน้านี้ แม้ว่าเครือข่ายเพิ่งประกาศรายการในตอนนี้ แต่ Searched ก็เริ่มออกอากาศทางช่องสตรีมมิ่ง ABC News Live ในเดือนเมษายน ซึ่งปรากฏบนทั้ง Disney Plus และ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Wordle meets Clippy in this new word game",
-      "summary_en": "Like many of us, Sam Rosenthal plays games like Wordle every day, chasing after good scores and sharing the results with friends and family. But he's also a game designer, the creative director at Blaseball developer The Game Band, and so this regular habit got him thinking about what else could be done in the […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/screen03.png?quality=90&strip=all&crop=0%2C5.6912933876285%2C100%2C88.617413224743&w=1200",
-      "link": "https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game",
-      "published": "2026-08-17T15:03:41-04:00",
-      "title_th": "Wordle พบกับ Clippy ในเกมคำศัพท์ใหม่นี้",
-      "summary_th": "เช่นเดียวกับพวกเราหลายๆ คน Sam Rosenthal เล่นเกมอย่าง Wordle ทุกวัน ไล่ตามคะแนนดีๆ และแบ่งปันผลลัพธ์กับเพื่อนและครอบครัว แต่เขายังเป็นนักออกแบบเกม เป็นผู้อำนวยการฝ่ายสร้างสรรค์ของ The Game Band ผู้พัฒนา Blaseball ด้วย ดังนั้นนิสัยประจำนี้ทำให้เขาคิดว่าจะทำอะไรได้อีกใน […]"
+      "title_en": "My parrot ate my keyboard",
+      "summary_en": "One of the great joys in life is having pets. The unconditional love, the snuggles, the excitement they show when you get home - these things add an emotional fulfillment to daily existence that can't be achieved in another way. I think everyone's life would be better with a pet (or two) in their lives. […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PARROT_KEYBOAR.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/978402/parrot-ate-keyboard-protect",
+      "published": "2026-08-18T08:00:00-04:00",
+      "title_th": "นกแก้วของฉันกินคีย์บอร์ดของฉัน",
+      "summary_th": "ความสุขที่ยิ่งใหญ่ประการหนึ่งในชีวิตคือการมีสัตว์เลี้ยง ความรักที่ไม่มีเงื่อนไข การกอดกัน ความตื่นเต้นที่แสดงออกมาเมื่อคุณกลับถึงบ้าน สิ่งเหล่านี้เพิ่มการเติมเต็มทางอารมณ์ให้กับชีวิตประจำวันที่ไม่สามารถบรรลุได้ด้วยวิธีอื่น ฉันคิดว่าชีวิตของทุกคนคงจะดีขึ้นเมื่อมีสัตว์เลี้ยงสักตัว (หรือสองตัว) ในชีวิต […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "gadget",
-      "title_en": "Sonos finally added Live Activities controls for your iPhone lockscreen",
-      "summary_en": "Sonos released an update to its mobile app that finally introduces support for iOS' Live Activities, giving iPhone users quick access to playback controls on their lockscreen. The added functionality is a \"much requested, anticipated, and needed feature,\" according to a post Sonos shared to Reddit today that was spotted by 9to5Mac. While some features […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/sonos1.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-      "link": "https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities",
-      "published": "2026-08-17T12:38:35-04:00",
-      "title_th": "ในที่สุด Sonos ก็เพิ่มส่วนควบคุมกิจกรรมสดสำหรับหน้าจอล็อค iPhone ของคุณ",
-      "summary_th": "Sonos เปิดตัวการอัปเดตแอปมือถือซึ่งในที่สุดก็แนะนำการสนับสนุนสำหรับกิจกรรมสดของ iOS ทำให้ผู้ใช้ iPhone เข้าถึงการควบคุมการเล่นบนหน้าจอล็อคได้อย่างรวดเร็ว ฟังก์ชั่นเพิ่มเติมคือ \"คุณสมบัติที่ได้รับการร้องขอ คาดหวัง และจำเป็นมาก\" ตามโพสต์ที่ Sonos แบ่งปันกับ Reddit ในวันนี้ซึ่งพบโดย 9to5Mac ในขณะที่คุณสมบัติบางอย่าง […]"
+      "title_en": "Oops! My cat is an iPad kid",
+      "summary_en": "Pets, like children, come with the responsibility to keep them happy, healthy, and mentally stimulated - obligations I readily committed to before getting my cat, Trevor. I work from home, so he's never lonely, and play with him using a mountain of toys at every opportunity outside of my working hours. But younger cats can […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PET_GAME_4f2b2f.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/980226/cat-ipad-kid-pet-tech-games-youtube",
+      "published": "2026-08-18T07:30:00-04:00",
+      "title_th": "อ๊ะ! แมวของฉันเป็นเด็กไอแพด",
+      "summary_th": "สัตว์เลี้ยง เช่นเดียวกับเด็กๆ มาพร้อมกับความรับผิดชอบในการทำให้พวกเขามีความสุข มีสุขภาพดี และจิตใจแจ่มใส ซึ่งเป็นภาระหน้าที่ที่ฉันมุ่งมั่นที่จะทำก่อนที่จะเลี้ยง Trevor แมวของฉัน ฉันทำงานจากที่บ้าน ดังนั้นเขาจึงไม่เหงา และเล่นกับเขาโดยใช้กองของเล่นมากมายในทุกโอกาสนอกเวลาทำงานของฉัน แต่แมวอายุน้อยกว่าสามารถ […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "How I turned my fish tank high tech",
+      "summary_en": "When I was a kid, I owned two goldfish that eventually outgrew the size of their tank. At the time, I didn't realize just how much actually goes into having fish and keeping them healthy. I've learned a lot over the past couple of years while keeping nano fish - a group of five celestial […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_AQUARIUM.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/978229/fish-tank-tech",
+      "published": "2026-08-18T07:15:00-04:00",
+      "title_th": "ฉันจะเปลี่ยนตู้ปลาไฮเทคได้อย่างไร",
+      "summary_th": "ตอนที่ฉันยังเป็นเด็ก ฉันเป็นเจ้าของปลาทองสองตัวที่ในที่สุดก็โตเกินขนาดตู้ของมัน ในเวลานั้น ฉันไม่รู้ว่าการมีปลาและการรักษาสุขภาพให้แข็งแรงนั้นต้องใช้เงินมากแค่ไหน ฉันได้เรียนรู้มากมายในช่วงสองสามปีที่ผ่านมาขณะเลี้ยงปลานาโน ซึ่งเป็นกลุ่มปลาห้าตัวจากสวรรค์ […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Fairphone’s latest repairable phone is going on sale in the US",
+      "summary_en": "The Fairphone 6 Plus is a minor hardware refresh, but a major launch for the company: It's the first phone that Fairphone is selling directly in the US. It's on sale now for $649.99, available through Fairphone's website and Amazon, and is sold unlocked with support for both T-Mobile and AT&T. In Europe, it costs […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/fairphone-6-plus-3.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+      "link": "https://www.theverge.com/tech/980876/fairphone-6-plus-us-t-mobile-amazon",
+      "published": "2026-08-18T07:00:00-04:00",
+      "title_th": "โทรศัพท์ที่ซ่อมแซมได้รุ่นล่าสุดของ Fairphone กำลังวางจำหน่ายในสหรัฐอเมริกา",
+      "summary_th": "Fairphone 6 Plus เป็นการรีเฟรชฮาร์ดแวร์เล็กน้อย แต่เป็นการเปิดตัวครั้งใหญ่สำหรับบริษัท: เป็นโทรศัพท์เครื่องแรกที่ Fairphone จำหน่ายโดยตรงในสหรัฐอเมริกา วางจำหน่ายแล้วในราคา 649.99 ดอลลาร์ มีจำหน่ายผ่านเว็บไซต์ของ Fairphone และ Amazon และจำหน่ายแบบปลดล็อคโดยรองรับทั้ง T-Mobile และ AT&T ในยุโรปมีค่าใช้จ่าย […]"
     },
     {
       "source": "Ars Technica",
@@ -143,7 +143,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg",
       "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
       "published": "Fri, 14 Aug 2026 17:03:54 +0000",
-      "title_th": "สถานี PBS กลัวการสูญเสียข้อมูล 50TB หลังจากถูกโกสต์โดยผู้ให้บริการพื้นที่เก็บข้อมูลบนคลาวด์",
+      "title_th": "สถานี PBS กลัวสูญเสียข้อมูล 50TB หลังจากถูกโกสต์โดยผู้ให้บริการพื้นที่เก็บข้อมูลบนคลาวด์",
       "summary_th": "“เราไม่สามารถเข้าถึงข้อมูลบนฮาร์ดแวร์/เซิร์ฟเวอร์ได้” Iron Mountain กล่าวกับ Ars"
     },
     {
@@ -185,14 +185,50 @@
     {
       "source": "Wired",
       "flag": "US",
+      "category": "gadget",
+      "title_en": "I Put the Best Digital Notebooks to the Test. Here Are My Favorites (2026)",
+      "summary_en": "These nifty tools combine the ease of jotting notes by hand with the power of saving them digitally.",
+      "image": "https://media.wired.com/photos/6a8348c658ce21db647f8ae9/master/pass/The-Best-Digital-Notebooks-and-Smart-Pens-for-Obsessive-Note-Takers.jpg",
+      "link": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/",
+      "published": "Tue, 18 Aug 2026 11:08:00 +0000",
+      "title_th": "ฉันนำสมุดบันทึกดิจิทัลที่ดีที่สุดมาทดสอบ นี่คือรายการโปรดของฉัน (2026)",
+      "summary_th": "เครื่องมือเก๋ๆ เหล่านี้ผสมผสานความง่ายในการจดบันทึกด้วยมือเข้ากับพลังของการบันทึกในรูปแบบดิจิทัล"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Exclusive: You Can Finally Buy a Fairphone—a Sustainable, Repairable Smartphone—in the US",
+      "summary_en": "More than a decade after launching in Europe, the Netherlands company is now selling its repairable phones in the US, starting with the Fairphone (Gen 6+).",
+      "image": "https://media.wired.com/photos/6a834ef61807e061ff4c4b86/master/pass/Fairphone-Gen-6-Julian-Chokkattu-Gear.jpg",
+      "link": "https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/",
+      "published": "Tue, 18 Aug 2026 10:30:00 +0000",
+      "title_th": "พิเศษ: ในที่สุดคุณก็สามารถซื้อ Fairphone ซึ่งเป็นสมาร์ทโฟนที่ยั่งยืนและซ่อมแซมได้ในสหรัฐอเมริกา",
+      "summary_th": "กว่าทศวรรษหลังจากเปิดตัวในยุโรป บริษัทเนเธอร์แลนด์แห่งนี้กำลังขายโทรศัพท์ที่ซ่อมได้ในสหรัฐอเมริกา โดยเริ่มจาก Fairphone (Gen 6+)"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
       "category": "ai",
-      "title_en": "The Powerful Chinese Model Experts Warned About—and Waited for—Is Here",
-      "summary_en": "Z.ai’s latest AI model release could help companies secure their systems—or find its way into the hands of hackers.",
-      "image": "https://media.wired.com/photos/6a834e67effc1720d3a37bb8/master/pass/ZAI-Most-Skilled-AI-Yet-Business-1044672050.jpg",
-      "link": "https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/",
-      "published": "Tue, 18 Aug 2026 09:00:00 +0000",
-      "title_th": "ผู้เชี่ยวชาญโมเดลชาวจีนผู้ทรงพลังเตือนและรอคอยมาถึงแล้ว",
-      "summary_th": "การเปิดตัวโมเดล AI ล่าสุดของ Z.ai สามารถช่วยให้บริษัทต่างๆ รักษาความปลอดภัยระบบของตน หรือค้นหาทางไปอยู่ในมือของแฮกเกอร์ได้"
+      "title_en": "Can AI Coexist With Privacy? Proton’s Andy Yen Says It Will Have To",
+      "summary_en": "Proton’s CEO is a champion of encryption for everyone. So why is he going all in on un-encryptable AI?",
+      "image": "https://media.wired.com/photos/6a834c04b090060b28185af1/master/pass/Big-Interview-UV-Solo-Andy-Yen-Business.jpg",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton/",
+      "published": "Tue, 18 Aug 2026 10:30:00 +0000",
+      "title_th": "AI สามารถอยู่ร่วมกับความเป็นส่วนตัวได้หรือไม่? Andy Yen จาก Proton บอกว่าจะต้องทำ",
+      "summary_th": "CEO ของ Proton คือแชมป์แห่งการเข้ารหัสสำหรับทุกคน แล้วทำไมเขาถึงใช้ AI ที่ไม่สามารถเข้ารหัสได้ล่ะ?"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "The Cop Who Took On Flock",
+      "summary_en": "After Noel Pichardo called out his city's embrace of Flock surveillance cameras, he was subjected to five internal affairs investigations in less than two years.",
+      "image": "https://media.wired.com/photos/6a82f21cb090060b28185a08/master/pass/20260809-wired-pichardo-0211.jpg",
+      "link": "https://www.wired.com/story/the-cop-who-took-on-flock/",
+      "published": "Tue, 18 Aug 2026 10:00:00 +0000",
+      "title_th": "ตำรวจที่เข้ายึดฝูง",
+      "summary_th": "หลังจากที่โนเอล พิชาร์โดประกาศใช้กล้องวงจรปิด Flock ในเมืองของเขา เขาก็ถูกสอบสวนกิจการภายในห้าครั้งในเวลาไม่ถึงสองปี"
     },
     {
       "source": "Wired",
@@ -204,43 +240,43 @@
       "link": "https://www.wired.com/story/best-merino-wool-clothes/",
       "published": "Tue, 18 Aug 2026 09:00:00 +0000",
       "title_th": "เสื้อผ้าขนแกะขนยาวที่ดีที่สุด (2026): เสื้อตัวใน เสื้อฮู้ด แจ็คเก็ต",
-      "summary_th": "เมอริโนเป็นหนึ่งในผ้าที่ดีที่สุดที่คุณสามารถสวมใส่ได้ We explain the different blends, what “GSM” means, and how to care for your clothes."
+      "summary_th": "เมอริโนเป็นหนึ่งในผ้าที่ดีที่สุดที่คุณสามารถสวมใส่ได้ เราจะอธิบายส่วนผสมต่างๆ ความหมายของ “GSM” และวิธีดูแลเสื้อผ้าของคุณ"
     },
     {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
       "category": "ai",
-      "title_en": "Western Digital Promo Code: 15% Off",
-      "summary_en": "Get 15% off your first order at Western Digital when you register your email.",
-      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
-      "link": "https://www.wired.com/story/western-digital-promo-code/",
-      "published": "Tue, 18 Aug 2026 05:00:00 +0000",
-      "title_th": "รหัสโปรโมชั่น Western Digital: ลด 15%",
-      "summary_th": "รับส่วนลด 15% สำหรับการสั่งซื้อครั้งแรกของคุณที่ Western Digital เมื่อคุณลงทะเบียนอีเมล"
+      "title_en": "We still don’t know how people are really using AI",
+      "summary_en": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent source to corroborate it,” says Anka Reuel, a Computer Science PhD candidate at the Stanford Trustworthy AI Research…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/arm-around2.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "published": "Tue, 18 Aug 2026 10:06:43 +0000",
+      "title_th": "เรายังไม่รู้ว่าผู้คนใช้ AI อย่างไรจริงๆ",
+      "summary_th": "บริษัท AI เช่น Anthropic และ OpenAI เผยแพร่รายงานเกี่ยวกับวิธีที่ผู้คนใช้ผลิตภัณฑ์เช่น Claude และ ChatGPT เป็นประจำ แต่พวกเขาเผยแพร่เฉพาะข้อมูลที่พวกเขาต้องการให้เราดูเท่านั้น นักวิจัย AI กล่าว “ไม่มีแหล่งข้อมูลอิสระที่จะยืนยันได้” Anka Reuel ผู้สมัครระดับปริญญาเอกสาขาวิทยาการคอมพิวเตอร์จาก Stanford Trustworthy AI Research กล่าว"
     },
     {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
       "category": "ai",
-      "title_en": "Logitech Promo Codes and Deals: Up to $100 Off",
-      "summary_en": "Score up to $100 off refurbished premium products, free shipping on orders of $29+, and more at Logitech.",
-      "image": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
-      "link": "https://www.wired.com/story/logitech-promo-code/",
-      "published": "Tue, 18 Aug 2026 05:00:00 +0000",
-      "title_th": "รหัสส่งเสริมการขายและข้อเสนอของ Logitech: ลดสูงสุดถึง $100",
-      "summary_th": "รับส่วนลดสูงสุดถึง $100 สำหรับผลิตภัณฑ์พรีเมียมที่ได้รับการตกแต่งใหม่ จัดส่งฟรีเมื่อสั่งซื้อตั้งแต่ $29 ขึ้นไป และอื่นๆ อีกมากมายที่ Logitech"
+      "title_en": "The role of the astronaut is in flux",
+      "summary_en": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles. While no space mission can live up to the historic touchdown of…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/art002e009287large.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
+      "published": "Tue, 18 Aug 2026 09:00:00 +0000",
+      "title_th": "บทบาทของนักบินอวกาศกำลังอยู่ในช่วงฟุ้งซ่าน",
+      "summary_th": "เมื่อนักบินอวกาศทั้งสี่คนบนเรือ Artemis II ของ NASA หมุนรอบดวงจันทร์เมื่อต้นปีนี้ พวกเขาได้สร้างสถิติใหม่ว่ามนุษย์ที่อยู่ไกลที่สุดเท่าที่เคยผจญภัยไปจากโลก ซึ่งเกินกว่าระยะทางที่กำหนดโดย Apollo 13 ในปี 1972 ประมาณ 4,000 ไมล์ แม้ว่าจะไม่มีภารกิจในอวกาศใดที่สามารถดำเนินชีวิตตามทัชดาวน์ประวัติศาสตร์ของ..."
     },
     {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
       "category": "ai",
-      "title_en": "This R-Rated Film Studio Wants to Be the HBO of AI",
-      "summary_en": "Rogue Studios, a new cinematic adult AI-generator, is betting big on the future of “sophisticated” spicy content.",
-      "image": "https://media.wired.com/photos/6a6a4aa8b428cc2f7a596860/master/pass/culture_ai__video_hbo_porn.gif",
-      "link": "https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/",
-      "published": "Mon, 17 Aug 2026 20:18:17 +0000",
-      "title_th": "สตูดิโอภาพยนตร์เรท R นี้ต้องการเป็น HBO ของ AI",
-      "summary_th": "Rogue Studios ซึ่งเป็นเครื่องกำเนิด AI สำหรับผู้ใหญ่ในโรงภาพยนตร์กำลังวางเดิมพันครั้งใหญ่กับอนาคตของเนื้อหาที่เผ็ดร้อน \"ซับซ้อน\""
+      "title_en": "AI’s recursive self-improvement might not come so quickly after all",
+      "summary_en": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon. …",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/research-target2a.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "published": "Tue, 18 Aug 2026 09:00:00 +0000",
+      "title_th": "การพัฒนาตนเองแบบเรียกซ้ำของ AI อาจไม่เกิดขึ้นอย่างรวดเร็วนัก",
+      "summary_th": "คำมั่นสัญญาที่ชัดเจนที่สุดของอุตสาหกรรม AI ในขณะนี้คือ AI จะปรับปรุงตัวเองในไม่ช้า โดยแทบไม่จำเป็นต้องมีการควบคุมดูแลจากมนุษย์ LLM สามารถเขียนโค้ด สร้างข้อมูลสังเคราะห์สำหรับการฝึกอบรม และเพิ่มประสิทธิภาพชิปคอมพิวเตอร์ที่พวกเขาทำงานอยู่ได้ การคาดการณ์ความก้าวหน้าของ AI อย่างก้าวกระโดดทำนายว่าสิ่งที่นักวิจัยเรียกว่าการพัฒนาตนเองแบบเรียกซ้ำนั้นอยู่บนขอบฟ้า …"
     },
     {
       "source": "MIT Technology Review",
@@ -267,40 +303,52 @@
       "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี จะเกิดอะไรขึ้นเมื่อเพื่อนรักหุ่นยนต์ของเด็กเสียชีวิต? เมื่อ Xander พบกับ Moxie ครั้งแรก เธอสอนให้เขารู้จักวิธีสงบสติอารมณ์เมื่อเขาวิตกกังวลหรือโมโห หกปีต่อมาเธอ..."
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "How much hydrogen awaits us underground?",
-      "summary_en": "In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There her team of geochemists found water that had been confined underground for more than a billion years. This ancient brine turned out to be a habitat…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/H2-Site-thumb.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
-      "published": "Mon, 17 Aug 2026 09:00:00 +0000",
-      "title_th": "ไฮโดรเจนรอเราอยู่ใต้ดินมากแค่ไหน?",
-      "summary_th": "ในช่วงทศวรรษ 1990 Barbara Sherwood Lollar ลงไปในเหมือง Kidd Creek ทางตอนเหนือของออนแทรีโอ ซึ่งตัดเข้าไปในรากโบราณของทวีปอเมริกาเหนือเป็นระยะทางมากกว่า 3 กิโลเมตร ที่นั่นทีมนักธรณีเคมีของเธอพบน้ำที่ถูกกักขังอยู่ใต้ดินมานานกว่าพันล้านปี น้ำเกลือโบราณนี้กลายเป็นที่อยู่อาศัย..."
+      "category": "chip",
+      "title_en": "AI-generated bills are reportedly causing problems in the Capitol",
+      "summary_en": "According to Politico, the US House Office of Legislative Counsel is swamped with error-riddled AI-generated bills.",
+      "image": "https://www.engadget.com/img/gallery/ai-generated-bills-are-reportedly-causing-problems-in-the-capitol/l-intro-1787052698.jpg",
+      "link": "https://www.engadget.com/2238945/ai-generated-bills-causing-problems-in-the-capitol/",
+      "published": "Tue, 18 Aug 2026 11:33:15 +0000",
+      "title_th": "มีรายงานว่าใบเรียกเก็บเงินที่สร้างโดย AI ก่อให้เกิดปัญหาในศาลากลาง",
+      "summary_th": "จากข้อมูลของ Politico สำนักงานที่ปรึกษากฎหมายของสภาผู้แทนราษฎรแห่งสหรัฐอเมริกาเต็มไปด้วยร่างกฎหมายที่สร้างโดย AI ที่เต็มไปด้วยข้อผิดพลาด"
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "What happens when a kid’s robot best friend dies?",
-      "summary_en": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other,…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/gettyimages-1289357458-social.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-      "published": "Mon, 17 Aug 2026 09:00:00 +0000",
-      "title_th": "จะเกิดอะไรขึ้นเมื่อเพื่อนรักหุ่นยนต์ของเด็กเสียชีวิต?",
-      "summary_th": "เมื่อ Xander พบกับ Moxie ครั้งแรก เธอสอนเขาว่าเมื่อเขากังวล เขาจะสงบสติอารมณ์ลงได้ด้วยการหายใจออกทางริมฝีปากเพื่อให้ส่งเสียงพึมพำเหมือนผึ้ง พวกเขาฝึกการหายใจเหมือนมังกรเพื่อจัดการกับความรู้สึกบ้าคลั่ง และดมกลิ่นเหมือนกระต่ายเพื่อเพิ่มพลังของเขา แต่หกปีที่พวกเขารู้จักกัน..."
+      "category": "review",
+      "title_en": "Apple's macOS Tahoe preview may have leaked a ton of unreleased products",
+      "summary_en": "Apple's macOS Tahoe 27.6 release candidate has leaked a bajillion new product codenames.",
+      "image": "https://www.engadget.com/img/gallery/apples-macos-tahoe-preview-leaked-a-ton-of-unreleased-products/l-intro-1787051053.jpg",
+      "link": "https://www.engadget.com/2238937/apple-macos-tahoe-preview-leak-unreleased-products/",
+      "published": "Tue, 18 Aug 2026 11:05:53 +0000",
+      "title_th": "การแสดงตัวอย่าง macOS Tahoe ของ Apple อาจทำให้ผลิตภัณฑ์ที่ยังไม่เผยแพร่รั่วไหลออกมามากมาย",
+      "summary_th": "ผู้สมัครเปิดตัว macOS Tahoe 27.6 ของ Apple ได้รั่วไหลชื่อรหัสผลิตภัณฑ์ใหม่พันล้านชื่อ"
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
-      "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26039248966381.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
-      "published": "Fri, 14 Aug 2026 12:17:21 +0000",
-      "title_th": "ดาวน์โหลด: กฎใหม่ของ Flock อนาคตของการโคลนนิ่ง และเซลล์ของเด็กๆ",
-      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี Flock กำลังเข้มงวดกฎของตนเพื่อตอบสนองต่อกระแสการสอดแนมที่เพิ่มขึ้น Flock ยักษ์ใหญ่ด้านเทคโนโลยีตำรวจกำลังเปลี่ยนแปลงการเข้าถึงเครือข่ายเครื่องอ่านป้ายทะเบียนของเจ้าหน้าที่ทั่วประเทศ ความเคลื่อนไหวมา..."
+      "category": "chip",
+      "title_en": "ChatGPT's stricter teen mode starts rolling out today",
+      "summary_en": "OpenAI will attempt to automatically enroll all young users in the new experience.",
+      "image": "https://www.engadget.com/img/gallery/chatgpts-stricter-teen-mode-starts-rolling-out-today/l-intro-1787007551.jpg",
+      "link": "https://www.engadget.com/2238773/chatgpt-stricter-teen-mode-starts-rolling-out-today/",
+      "published": "Tue, 18 Aug 2026 11:00:00 +0000",
+      "title_th": "โหมดวัยรุ่นที่เข้มงวดยิ่งขึ้นของ ChatGPT เริ่มเปิดตัวแล้ววันนี้",
+      "summary_th": "OpenAI จะพยายามลงทะเบียนผู้ใช้รุ่นเยาว์ทุกคนโดยอัตโนมัติในประสบการณ์ใหม่"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Fairphone is finally releasing its first official handset in the US",
+      "summary_en": "You can now get Fairphone's reparable handset in the US without jumping through hoops.",
+      "image": "https://www.engadget.com/img/gallery/fairphone-is-finally-releasing-its-first-official-handset-in-the-us/l-intro-1786988717.jpg",
+      "link": "https://www.engadget.com/2238465/fairphone-is-finally-releasing-its-first-official-handset-in-the-us/",
+      "published": "Tue, 18 Aug 2026 11:00:00 +0000",
+      "title_th": "ในที่สุด Fairphone ก็ได้เปิดตัวโทรศัพท์มือถืออย่างเป็นทางการเครื่องแรกในสหรัฐอเมริกา",
+      "summary_th": "ตอนนี้คุณสามารถรับโทรศัพท์มือถือที่ซ่อมแซมได้ของ Fairphone ในสหรัฐอเมริกาโดยไม่ต้องกระโดดผ่านห่วง"
     },
     {
       "source": "Engadget",
@@ -315,54 +363,6 @@
       "summary_th": "Google แจ้งซัพพลายเออร์ว่าจะไม่ผลิตอุปกรณ์ Pixel ในจีนอีกต่อไปตั้งแต่ปีหน้า ตามรายงานของ Nikkei Asia"
     },
     {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Apple appears to have leaked its camera-equipped AirPods",
-      "summary_en": "Apple may have leaked its camera-equipped AirPods in a video tucked into macOS Tahoe 26.7.",
-      "image": "https://www.engadget.com/img/gallery/apple-appears-to-have-leaked-its-camera-equipped-airpods/l-intro-1787038779.jpg",
-      "link": "https://www.engadget.com/2238891/apple-appears-to-have-leaked-its-camera-equipped-airpods/",
-      "published": "Tue, 18 Aug 2026 07:41:59 +0000",
-      "title_th": "ดูเหมือนว่า Apple จะมี AirPods ที่ติดตั้งกล้องรั่วไหลออกมา",
-      "summary_th": "Apple อาจรั่ว AirPods ที่ติดตั้งกล้องในวิดีโอที่ซ่อนไว้ใน macOS Tahoe 26.7"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Why flash drive capacity keeps increasing (and why small drives are rarely sold today)",
-      "summary_en": "While smaller drives can certainly still be found, there's a good reason why you don't often find them on retailers' shelves.",
-      "image": "https://www.engadget.com/img/gallery/why-flash-drive-capacity-keeps-increasing-and-why-small-drives-are-rarely-sold-today/l-intro-1786634726.jpg",
-      "link": "https://www.engadget.com/2237555/flash-drive-size-keep-going-up-why-small-rarely-sold-today/",
-      "published": "Mon, 17 Aug 2026 21:30:00 +0000",
-      "title_th": "เหตุใดความจุของแฟลชไดรฟ์จึงเพิ่มขึ้นอย่างต่อเนื่อง (และเหตุใดจึงขายไดรฟ์ขนาดเล็กในปัจจุบัน)",
-      "summary_th": "แม้ว่าไดรฟ์ขนาดเล็กจะยังพบเห็นได้อย่างแน่นอน แต่ก็มีเหตุผลที่ดีว่าทำไมคุณจึงมักไม่พบไดรฟ์เหล่านี้บนชั้นวางของร้านค้าปลีก"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Sonos put speaker controls on your iPhone's lock screen (again)",
-      "summary_en": "Sonos released an app update that takes advantage of Apple's Live Activities system.",
-      "image": "https://www.engadget.com/img/gallery/sonos-put-speaker-controls-on-your-iphones-lock-screen-again/l-intro-1786991342.jpg",
-      "link": "https://www.engadget.com/2238514/sonos-put-speaker-controls-on-your-iphone-lock-screen-again/",
-      "published": "Mon, 17 Aug 2026 18:30:48 +0000",
-      "title_th": "Sonos วางตัวควบคุมลำโพงบนหน้าจอล็อคของ iPhone ของคุณ (อีกครั้ง)",
-      "summary_th": "Sonos เปิดตัวการอัปเดตแอปที่ใช้ประโยชน์จากระบบ Live Activities ของ Apple"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Why curved TVs failed but curved gaming monitors thrived",
-      "summary_en": "Curved TVs walked so curved gaming monitors could run.",
-      "image": "https://www.engadget.com/img/gallery/why-did-curved-tvs-fail-when-curved-gaming-monitors-thrived/l-intro-1786727389.jpg",
-      "link": "https://www.engadget.com/2237248/why-curved-tvs-failed-gaming-monitors-thrived/",
-      "published": "Mon, 17 Aug 2026 18:30:00 +0000",
-      "title_th": "เหตุใดทีวีแบบโค้งจึงล้มเหลว แต่จอภาพเกมแบบโค้งยังคงเติบโตต่อไป",
-      "summary_th": "ทีวีแบบโค้งเดินเพื่อให้จอภาพเกมแบบโค้งสามารถทำงานได้"
-    },
-    {
       "source": "IEEE Spectrum",
       "flag": "US",
       "category": "robot",
@@ -372,7 +372,7 @@
       "link": "https://spectrum.ieee.org/ieee-presidents-scholarship-2026",
       "published": "Mon, 17 Aug 2026 18:00:04 +0000",
       "title_th": "ทุนการศึกษาของประธานาธิบดี IEEE มอบให้แก่นักนวัตกรรมวัยรุ่น",
-      "summary_th": "องค์การอนามัยโลกระบุว่า ประมาณร้อยละ 16 ของประชากรโลก หรือมากกว่า 1 พันล้านคน อาศัยอยู่กับความพิการบางรูปแบบ ความพิการจำนวนมากส่งผลต่อความเป็นอิสระและความคล่องตัว นักเรียนมัธยมปลายสามคนที่ทำงานเกี่ยวกับสิ่งประดิษฐ์เพื่อช่วยคนพิการฟื้นฟูการเคลื่อนไหว แปลความคิด และสำรวจภูมิประเทศที่ขรุขระมีผลงานของพวกเขาจัดแสดงในงานวิทยาศาสตร์และวิศวกรรมนานาชาติ (ISEF) ของ Regeneron ซึ่งจัดขึ้นในเดือนพฤษภาคมที่เมืองฟีนิกซ์ โครงการของพวกเขาทำให้พวกเขาได้รับรางวัลทุนการศึกษา IEEE Presidents' Scholarship ในปีนี้ แมรี เอลเลน แรนดัลล์ ประธาน IEEE เป็นผู้มอบรางวัลในพิธีที่จัดขึ้นระหว่างงาน พวกเขายังได้รับเหรียญของ IEEE President ซึ่งนักเรียนกล่าวว่าเป็นจุดเด่นของประสบการณ์ของพวกเขา Hollie Tang ได้รับรางวัลทุนการศึกษา IEEE Presidents' Scholarship ประจำปีนี้"
+      "summary_th": "องค์การอนามัยโลกระบุว่า ประมาณร้อยละ 16 ของประชากรโลก หรือมากกว่า 1 พันล้านคน อาศัยอยู่กับความพิการบางรูปแบบ ความพิการจำนวนมากส่งผลต่อความเป็นอิสระและความคล่องตัว นักเรียนมัธยมปลายสามคนที่ทำงานเกี่ยวกับสิ่งประดิษฐ์เพื่อช่วยคนพิการฟื้นฟูการเคลื่อนไหว แปลความคิด และสำรวจภูมิประเทศที่ขรุขระมีผลงานของพวกเขาจัดแสดงในงานวิทยาศาสตร์และวิศวกรรมนานาชาติ (ISEF) ของ Regeneron ซึ่งจัดขึ้นในเดือนพฤษภาคมที่เมืองฟีนิกซ์ โครงการของพวกเขาทำให้พวกเขาได้รับรางวัลทุนการศึกษา IEEE Presidents' Scholarship ในปีนี้ แมรี เอลเลน แรนดัลล์ ประธาน IEEE เป็นผู้มอบรางวัลในพิธีที่จัดขึ้นระหว่างงาน พวกเขายังได้รับเหรียญของ IEEE President ซึ่งนักเรียนกล่าวว่าเป็นจุดเด่นของประสบการณ์ของพวกเขา Hollie Tang ได้รับรางวัลทุนการศึกษา IEEE Presidents' Scholarship จากปีนี้"
     },
     {
       "source": "IEEE Spectrum",
@@ -408,7 +408,7 @@
       "link": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
       "published": "Fri, 14 Aug 2026 17:27:12 +0000",
       "title_th": "ทำนายการเชื่อมต่อเสาอากาศบนแพลตฟอร์มไฟฟ้าขนาดใหญ่ก่อนสร้างฮาร์ดแวร์",
-      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นคาดการณ์การต่อพ่วงเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามแบบใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
+      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นทำนายการต่อเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามแบบใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
     },
     {
       "source": "IEEE Spectrum",
@@ -420,7 +420,55 @@
       "link": "https://spectrum.ieee.org/product-engineer",
       "published": "Thu, 13 Aug 2026 14:44:50 +0000",
       "title_th": "นำแนวคิดของผู้จัดการผลิตภัณฑ์มาใช้กับงานวิศวกรรมครั้งต่อไปของคุณ",
-      "summary_th": "หากคุณยังไม่เห็นตำแหน่งงานสำหรับ “วิศวกรผลิตภัณฑ์” คุณอาจจะได้ทราบเร็วๆ นี้ งานที่จู่ๆ ทุกคนก็จ้างเข้ามา บทบาทนี้เปรียบเสมือนลูกผสมระหว่างผู้จัดการผลิตภัณฑ์และวิศวกร (ตามชื่อเลย) และเป็นเทรนด์การจ้างงานที่ควรค่าแก่การใส่ใจ บริษัทต่างๆ กำลังเปิดรับตำแหน่งงานเหล่านี้เพิ่มขึ้นทุกๆ เดือน แต่พวกเขาก็ประสบปัญหาในการเติมเต็มตำแหน่งดังกล่าว เหตุผลแทบไม่เกี่ยวข้องกับทักษะการเขียนโค้ดของวิศวกรหรือประสบการณ์หลายปี การย้ายอาชีพที่ดีที่สุดที่คุณสามารถทำได้เพื่อเตรียมพร้อมสำหรับบทบาทประเภทนี้แทบจะไม่เกี่ยวข้องกับการได้รับความรู้ด้านเทคนิคมากขึ้นเลย แต่กลับกลายเป็นคำที่ฟุ่มเฟือยที่สุด ใช้มากเกินไป และอาจเลวร้ายที่สุดในเทคโนโลยีทั้งหมด: ความคิด ติดกับฉันฉันสัญญาว่าสิ่งนี้จะเป็นประโยชน์ ปัญหา: เราถูกฝึกให้เป็นทาส"
+      "summary_th": "หากคุณยังไม่เห็นตำแหน่งงานสำหรับ “วิศวกรผลิตภัณฑ์” คุณอาจจะได้ทราบเร็วๆ นี้ งานที่จู่ๆ ทุกคนก็จ้างมา บทบาทนี้เปรียบเสมือนลูกผสมระหว่างผู้จัดการผลิตภัณฑ์และวิศวกร (ตามชื่อเลย) และเป็นเทรนด์การจ้างงานที่ควรค่าแก่การใส่ใจ บริษัทต่างๆ กำลังเปิดรับตำแหน่งงานเหล่านี้เพิ่มขึ้นทุกๆ เดือน แต่พวกเขาก็ประสบปัญหาในการเติมเต็มตำแหน่งดังกล่าว เหตุผลแทบจะไม่เกี่ยวข้องกับทักษะการเขียนโค้ดของวิศวกรหรือประสบการณ์หลายปี การย้ายอาชีพที่ดีที่สุดที่คุณสามารถทำได้เพื่อเตรียมพร้อมสำหรับบทบาทประเภทนี้แทบจะไม่เกี่ยวข้องกับการได้รับความรู้ด้านเทคนิคมากขึ้นเลย แต่กลับกลายเป็นคำที่ฟุ่มเฟือยที่สุด ใช้มากเกินไป และอาจแย่ที่สุดในเทคโนโลยีทั้งหมด: ความคิด ติดกับฉันฉันสัญญาว่าสิ่งนี้จะเป็นประโยชน์ ปัญหา: เราถูกฝึกให้เป็นทาส"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Steve Jobs’ 8th-grade science fair project goes up for auction",
+      "summary_en": "Collectors have proven avid fans of Steve Jobs memorabilia over the years, and a new piece seems likely to attract significant interest. It’s an 8th-grade science fair project with two demonstration circuits – and a warning note from Steve to his teachers. It’s remained at the Jobs family property in Los Altos ever since, but is now one of more than 200 items in an Apple 50th anniversary auction …",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/Steve-Jobs-8th-grade-science-fair-project-goes-up-for-auction.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/18/steve-jobs-8th-grade-science-fair-project-goes-up-for-auction/",
+      "published": "Tue, 18 Aug 2026 12:00:05 +0000",
+      "title_th": "โครงการนิทรรศการวิทยาศาสตร์ชั้นประถมศึกษาปีที่ 8 ของ Steve Jobs ได้รับการประมูล",
+      "summary_th": "นักสะสมได้พิสูจน์ให้เห็นแล้วว่าเป็นแฟนตัวยงของของที่ระลึกจาก Steve Jobs ในช่วงหลายปีที่ผ่านมา และผลงานชิ้นใหม่ดูเหมือนจะดึงดูดความสนใจอย่างมาก เป็นโครงการนิทรรศการวิทยาศาสตร์เกรด 8 ที่มีวงจรสาธิต 2 วงจร และข้อความเตือนจากสตีฟถึงครูของเขา ทรัพย์สินดังกล่าวยังคงอยู่ที่ทรัพย์สินของครอบครัวจ็อบส์ในลอส อัลโตส นับตั้งแต่นั้นเป็นต้นมา แต่ปัจจุบันเป็นหนึ่งในสินค้ามากกว่า 200 รายการในการประมูลครบรอบ 50 ปีของ Apple"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple admits it may not make any commission from alternative app stores",
+      "summary_en": "Apple has been fighting hard to ensure that it is still able to take a commission from app sales made through third-party stores. Its aggression in doing this landed it in hot water with the judge in the long-running Epic Games case. The company has since submitted a proposal for a more toned down version with lower commissions , but it has admitted in new regulatory filings that it may not make any commission at all from these sales …",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-admits-it-may-not-make-any-commission-from-alternative-app-stores.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/18/apple-admits-it-may-not-make-any-commission-from-alternative-app-stores/",
+      "published": "Tue, 18 Aug 2026 11:30:44 +0000",
+      "title_th": "Apple ยอมรับว่าอาจไม่คิดค่าคอมมิชชั่นจาก App Store อื่น",
+      "summary_th": "Apple ต่อสู้อย่างหนักเพื่อให้แน่ใจว่าจะยังคงสามารถรับค่าคอมมิชชั่นจากการขายแอปที่ทำผ่านร้านค้าบุคคลที่สาม ความก้าวร้าวในการทำเช่นนี้ทำให้ต้องตกตะลึงกับผู้พิพากษาในคดี Epic Games ที่ดำเนินมายาวนาน ตั้งแต่นั้นเป็นต้นมาบริษัทได้ส่งข้อเสนอสำหรับรุ่นที่ลดขนาดลงพร้อมค่าคอมมิชชั่นที่ต่ำกว่า แต่ได้ยอมรับในการยื่นตามกฎระเบียบใหม่ว่าอาจไม่มีค่าคอมมิชชั่นใด ๆ เลยจากการขายเหล่านี้ …"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Two camera features may be unique to the iPhone 18 Pro Max, suggests leaker",
+      "summary_en": "Whether or not you need to buy Apple’s largest iPhone Pro in order to get the best camera features has varied by generation. So far, reporting has mostly suggested that there will be no camera differentiation between the iPhone 18 Pro and Pro Max , but a leaker today casts some doubt on this. Specifically, they say that two new features expect to come to both Pro models “may” now be exclusive to the Pro Max …",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-pro-max-mockup-di.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/18/two-camera-features-may-be-unique-to-the-iphone-18-pro-max-suggests-leaker/",
+      "published": "Tue, 18 Aug 2026 11:04:52 +0000",
+      "title_th": "คุณสมบัติกล้องสองตัวอาจไม่ซ้ำกับ iPhone 18 Pro Max แนะนำการรั่วไหล",
+      "summary_th": "ไม่ว่าคุณจะจำเป็นต้องซื้อ iPhone Pro ที่ใหญ่ที่สุดของ Apple หรือไม่เพื่อให้ได้คุณสมบัติกล้องที่ดีที่สุดนั้นแตกต่างกันไปตามรุ่น จนถึงตอนนี้ การรายงานส่วนใหญ่แนะนำว่า จะไม่มีความแตกต่างของกล้องระหว่าง iPhone 18 Pro และ Pro Max แต่ผู้รั่วไหลในวันนี้ทำให้เกิดข้อสงสัยในเรื่องนี้ โดยเฉพาะอย่างยิ่งพวกเขากล่าวว่าคุณสมบัติใหม่สองประการที่คาดว่าจะมาในรุ่น Pro ทั้งสองรุ่น “อาจ” ตอนนี้เป็นเอกสิทธิ์ของ Pro Max …"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple @ Work Podcast: Agentic networking actions",
+      "summary_en": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . In this episode of Apple @ Work, Shirish Nimgaonkar from eBlissAI joins the show to talk about AI’s future in enterprise around endpoint management, agentic solutions, and more. Shirish supports the next generation as an Entrepreneur-in-Residence at Harvard Business School, and serves on t",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/18/proactive-networking-actions/",
+      "published": "Tue, 18 Aug 2026 10:02:00 +0000",
+      "title_th": "Apple @ Work Podcast: การดำเนินการเครือข่ายตัวแทน",
+      "summary_th": "Apple @ Work ให้บริการแก่คุณโดยเฉพาะโดย Mosyle ซึ่งเป็น Apple Unified Platform เพียงแห่งเดียว Mosyle เป็นโซลูชันเดียวที่ผสานรวมโซลูชันทั้งหมดที่จำเป็นในการปรับใช้ จัดการ และปกป้องอุปกรณ์ Apple ในที่ทำงานได้อย่างราบรื่นและอัตโนมัติในแพลตฟอร์มระดับมืออาชีพเพียงแพลตฟอร์มเดียว องค์กรกว่า 45,000 แห่งไว้วางใจให้ Mosyle สร้างสรรค์อุปกรณ์ Apple หลายล้านเครื่องให้พร้อมใช้งานโดยไม่ต้องเปลืองแรงและในราคาที่เอื้อมถึง ขอรับการทดลองใช้เพิ่มเติมวันนี้ และทำความเข้าใจว่าเหตุใด Mosyle จึงเป็นทุกสิ่งที่คุณต้องการเพื่อร่วมงานกับ Apple ในตอนนี้ของ Apple @ Work Shirish Nimgaonkar จาก eBlissAI เข้าร่วมรายการเพื่อพูดคุยเกี่ยวกับอนาคตของ AI ในองค์กรเกี่ยวกับการจัดการอุปกรณ์ปลายทาง โซลูชันเอเจนต์ และอื่นๆ อีกมากมาย Shirish สนับสนุนคนรุ่นต่อไปในฐานะผู้ประกอบการในหอพักที่ Harvard Business School และทำหน้าที่ใน"
     },
     {
       "source": "9to5Mac",
@@ -435,52 +483,16 @@
       "summary_th": "รวมอยู่ใน macOS Tahoe 26.7 Release Candidate ของวันนี้เป็นวิดีโอสั้น ๆ ที่แสดงการทำงานของ Visual Intelligence บน AirPods ที่ติดตั้งกล้องที่มีข่าวลือของ Apple ดูได้ที่ด้านล่างนี้"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple: DOJ’s latest challenge in antitrust case ‘fails at every level’",
-      "summary_en": "Apple is pushing back against the Department of Justice’s bid to overturn a court decision allowing the company to seek documents from more than a dozen federal agencies. Here are the details.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/tim-cook-apple-park-sep25.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/",
-      "published": "Tue, 18 Aug 2026 00:56:51 +0000",
-      "title_th": "Apple: ความท้าทายล่าสุดของ DOJ ในคดีต่อต้านการผูกขาด 'ล้มเหลวในทุกระดับ'",
-      "summary_th": "Apple กำลังต่อต้านคำสั่งของกระทรวงยุติธรรมที่จะล้มล้างคำตัดสินของศาล ที่ให้บริษัทสามารถขอเอกสารจากหน่วยงานรัฐบาลกลางมากกว่าหนึ่งโหล นี่คือรายละเอียด"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple releases public beta 4 for iOS 27, macOS 27, iPadOS 27, tvOS 27",
-      "summary_en": "After releasing developer betas 6 earlier today, Apple is now rolling out iOS 27 public beta 4, alongside corresponding updates for some of its other platforms. Here are the details.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-public.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/17/apple-releases-public-beta-4-for-ios-27-macos-27-ipados-27-tvos-27/",
-      "published": "Mon, 17 Aug 2026 22:12:02 +0000",
-      "title_th": "Apple ออกเบต้าสาธารณะ 4 สำหรับ iOS 27, macOS 27, iPadOS 27, tvOS 27",
-      "summary_th": "หลังจากเปิดตัว betas 6 สำหรับนักพัฒนาก่อนหน้านี้ในวันนี้ Apple กำลังเปิดตัว iOS 27 public beta 4 ควบคู่ไปกับการอัปเดตที่เกี่ยวข้องสำหรับแพลตฟอร์มอื่นๆ บางส่วน นี่คือรายละเอียด"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Spotify’s new Playlist Notes let users add context to songs, podcasts, and audiobook picks",
-      "summary_en": "Spotify today announced an expansion of its recently released User Notes feature. While User Notes are limited to songs, the new Playlist Notes also let users add context to podcast episodes and audiobooks in their playlists. Here are the details.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/Spotify.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/17/spotifys-new-playlist-notes-let-users-add-context-to-songs-podcasts-and-audiobook-picks/",
-      "published": "Mon, 17 Aug 2026 21:00:47 +0000",
-      "title_th": "Playlist Notes ใหม่ของ Spotify ช่วยให้ผู้ใช้เพิ่มบริบทให้กับเพลง พ็อดคาสท์ และหนังสือเสียงที่เลือกได้",
-      "summary_th": "Spotify ประกาศในวันนี้ถึงการขยายฟีเจอร์ User Notes ที่เพิ่งเปิดตัวไปเมื่อเร็วๆ นี้ แม้ว่า User Notes จะจำกัดเฉพาะเพลง Playlist Notes ใหม่ยังช่วยให้ผู้ใช้เพิ่มบริบทให้กับตอนของพอดแคสต์และหนังสือเสียงในเพลย์ลิสต์ของตนได้ นี่คือรายละเอียด"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Epic responds to Apple’s bid for settlement talks in App Store case",
-      "summary_en": "Epic Games has filed its response to Apple’s request for the court to order settlement talks in the long-running App Store lawsuit. Here are the details.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/05/epic-games-app-store.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/17/epic-responds-to-apples-bid-for-settlement-talks-in-app-store-case/",
-      "published": "Mon, 17 Aug 2026 20:10:05 +0000",
-      "title_th": "Epic ตอบสนองต่อการเสนอราคาของ Apple สำหรับการเจรจายุติคดีใน App Store",
-      "summary_th": "Epic Games ได้ยื่นตอบสนองต่อคำร้องขอของ Apple ให้ศาลสั่งการเจรจายุติคดีในคดี App Store ที่ดำเนินมายาวนาน นี่คือรายละเอียด"
+      "title_en": "Google’s got Spirit (yes it does)",
+      "summary_en": "Good morning. I hope you had a wonderful weekend. Today I’m reading more about Anthropic’s strange new text watermarking process , watching this historic Joshua Baéz home run recap on repeat, listening to the incredible new Phoebe Bridgers album , and getting stuck into Daniel Mason’s new satire, Country People . As a reminder, Inbox is the tech newsletter you should be able to read in around 95 seconds. We cover the most important 9to5Google stories from the last couple of days along with a few highlights from around the web. We publish every Tuesday and Thursday, and if you like what you read, please subscribe .",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/rick-osterloh-gemini-intelligence.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/18/inbox-newsletter-11/",
+      "published": "Tue, 18 Aug 2026 11:00:00 +0000",
+      "title_th": "Google มี Spirit (ใช่แล้ว)",
+      "summary_th": "สวัสดีตอนเช้า. ฉันหวังว่าคุณจะมีวันหยุดสุดสัปดาห์ที่ยอดเยี่ยม วันนี้ฉันกำลังอ่านเพิ่มเติมเกี่ยวกับกระบวนการใส่ลายน้ำข้อความแบบใหม่ที่แปลกประหลาดของ Anthropic ดูการสรุปโฮมรันของ Joshua Baéz ในประวัติศาสตร์ซ้ำๆ ฟังอัลบั้มใหม่ของ Phoebe Bridgers ที่น่าเหลือเชื่อ และติดอยู่ในถ้อยคำเสียดสีใหม่ของ Daniel Mason เรื่อง Country People โปรดทราบว่า Inbox คือจดหมายข่าวเทคโนโลยีที่คุณน่าจะอ่านได้ภายในเวลาประมาณ 95 วินาที เรานำเสนอเรื่องราวของ 9to5Google ที่สำคัญที่สุดในช่วงสองสามวันที่ผ่านมา พร้อมด้วยไฮไลท์บางส่วนจากทั่วทั้งเว็บ เราเผยแพร่ทุกวันอังคารและพฤหัสบดี และหากคุณชอบสิ่งที่คุณอ่าน โปรดติดตาม"
     },
     {
       "source": "9to5Google",
@@ -516,7 +528,7 @@
       "link": "https://9to5toys.com/2026/08/17/monday-android-app-deals-free-demon-castle-deus-ex-go/",
       "published": "Mon, 17 Aug 2026 19:23:50 +0000",
       "title_th": "ข้อเสนอแอป Android และของแจกฟรีประจำวันจันทร์: Demon Castle, Deus Ex GO, SENTINEL 519, GNOSIA และอีกมากมาย",
-      "summary_th": "รายการเกม Android และข้อเสนอแอพที่ดีที่สุดในช่วงบ่ายวันจันทร์ของคุณพร้อมแล้ว รวมถึงเกมอย่าง Demon Castle Story, Deus Ex GO, Hitman GO, SENTINEL 519: SAGA – GENESIS, Sands of Salzaar, Laser Tanks: Pixel RPG, GNOSIA, FrogBoy และอีกมากมาย เทศกาลลดราคาครั้งใหญ่ครบรอบ 60 ปีของ Best Buy เต็มไปด้วยข้อเสนอสุดพิเศษสำหรับทีวี โทรศัพท์ Android และคะแนนสะสม 10 เท่า รวมถึงส่วนลด 20% สำหรับเคส Pixel 11 Pixelsnap ใหม่อย่างเป็นทางการทั้งหมด สมาร์ททีวี Hisense ขนาด 58 นิ้ว ในราคา 190 ดอลลาร์ และส่วนลดสูงสุด 1,350 ดอลลาร์สำหรับพีซี Copilot+ และแล็ปท็อปเกมปี 2026 แต่สำหรับตอนนี้มันเป็นเรื่องของข้อเสนอของ Google Play และพวกเขากำลังรออยู่ด้านล่าง /"
+      "summary_th": "รายการเกม Android และข้อเสนอแอพที่ดีที่สุดในช่วงบ่ายวันจันทร์ของคุณพร้อมแล้ว รวมถึงเกมอย่าง Demon Castle Story, Deus Ex GO, Hitman GO, SENTINEL 519: SAGA – GENESIS, Sands of Salzaar, Laser Tanks: Pixel RPG, GNOSIA, FrogBoy และอีกมากมาย เทศกาลลดราคาครั้งใหญ่ครบรอบ 60 ปีของ Best Buy เต็มไปด้วยข้อเสนอสุดพิเศษสำหรับทีวี โทรศัพท์ Android และคะแนนสะสม 10 เท่า รวมถึงส่วนลด 20% สำหรับเคส Pixel 11 Pixelsnap ใหม่อย่างเป็นทางการทั้งหมด สมาร์ททีวี Hisense ขนาด 58 นิ้ว ในราคา 190 ดอลลาร์ และส่วนลดสูงสุด 1,350 ดอลลาร์สำหรับพีซี Copilot+ และแล็ปท็อปเกมปี 2026 แต่สำหรับตอนนี้มันเป็นเรื่องของข้อเสนอของ Google Play และพวกเขากำลังรออยู่ด้านล่าง/"
     },
     {
       "source": "9to5Google",
@@ -531,18 +543,6 @@
       "summary_th": "Google ได้ว่าจ้าง Jacob Bank เป็นรองประธานฝ่ายผลิตภัณฑ์สำหรับ Chrome มีการประกาศในวันนี้ โดยก่อนหน้านี้ Bank เคยทำงานที่ Google มาเป็นเวลาหกปีแล้ว"
     },
     {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Google just bought a bunch of Spirit Airlines data for AI training",
-      "summary_en": "As the AI race continues to hunt for new data to use for AI training, Google has just purchased a huge dump of old data from the now-defunct Spirit Airlines to be “helpful” in training its AI models.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/google-logo-spirit-airlines-1-e1787011314780.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/17/google-just-bought-a-bunch-of-spirit-airlines-data-for-ai-training/",
-      "published": "Mon, 17 Aug 2026 17:45:00 +0000",
-      "title_th": "Google เพิ่งซื้อข้อมูล Spirit Airlines จำนวนหนึ่งสำหรับการฝึกอบรม AI",
-      "summary_th": "ในขณะที่การแข่งขัน AI ยังคงค้นหาข้อมูลใหม่เพื่อใช้ในการฝึกอบรม AI Google เพิ่งซื้อข้อมูลเก่าจำนวนมหาศาลจาก Spirit Airlines ที่ปัจจุบันเลิกให้บริการไปแล้วเพื่อ \"ช่วยเหลือ\" ในการฝึกอบรมโมเดล AI"
-    },
-    {
       "source": "Electrek",
       "flag": "",
       "category": "ev",
@@ -551,7 +551,7 @@
       "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/BREAKIN_2_MAIN.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "link": "https://electrek.co/2026/08/17/tesla-grows-robotaxi-fleet-by-50-einride-gets-a-partner-and-china-goes-big/",
       "published": "Tue, 18 Aug 2026 02:06:48 +0000",
-      "title_th": "Tesla ขยายฝูงบิน Robotaxi ขึ้น 50%, Einride ได้พันธมิตร และจีนก้าวไปสู่ตลาดใหญ่",
+      "title_th": "Tesla ขยายฝูงบิน Robotaxi ขึ้น 50%, Einride ได้พันธมิตร และจีนก้าวสู่ตลาดใหญ่",
       "summary_th": "ในตอนที่สองติดต่อกันของ Quick Charge เราจะมาดูกันว่า Tesla เพิ่มฝูงบิน Robotaxi ที่ขับเคลื่อนด้วยตนเองของประเทศลงครึ่งหนึ่งด้วยการลากปากกาได้อย่างไร และดูว่าการใช้งานแบบอัตโนมัติของบริษัทเป็นอย่างไรเมื่อเปรียบเทียบกับส่วนที่เหลือของโลก"
     },
     {
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 273.0,
-      "change": -4.0,
-      "change_pct": -1.44
+      "price": 270.0,
+      "change": -7.0,
+      "change_pct": -2.53
     }
   ],
   "reviews": [
