@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T03:37:33.259332+00:00",
+  "generated_at": "2026-08-19T06:22:43.447881+00:00",
   "count": 50,
   "articles": [
     {
@@ -36,7 +36,7 @@
       "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
       "published": "Tue, 18 Aug 2026 18:00:00 +0000",
       "title_th": "OpenAI สร้างการป้องกันใหม่หลังจากการละเมิด Hugging Face",
-      "summary_th": "การป้องกันใหม่ประกอบด้วยการตรวจสอบโมเดลอย่างละเอียดมากขึ้นในระหว่างกระบวนการพัฒนา รวมถึงการเน้นที่การจัดตำแหน่งและการรักษาความปลอดภัยในระหว่างกระบวนการหลังการฝึกอบรมมากขึ้น"
+      "summary_th": "การป้องกันใหม่ประกอบด้วยการตรวจสอบโมเดลโดยละเอียดมากขึ้นในระหว่างกระบวนการพัฒนา รวมถึงการเน้นที่การจัดตำแหน่งและการรักษาความปลอดภัยในระหว่างกระบวนการหลังการฝึกอบรมมากขึ้น"
     },
     {
       "source": "TechCrunch",
@@ -84,7 +84,7 @@
       "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
       "published": "2026-08-18T15:48:26-04:00",
       "title_th": "บัญชี Instagram ของ Robin Williams กลับมาเพื่อต่อสู้กับ 'การละเมิด AI'",
-      "summary_th": "ลูกๆ ของ Robin Williams เข้ามาครอบครองบัญชี Instagram ของพ่อ หลังจากที่ลูกสาวของเขาออกมาต่อต้านการใช้ความคล้ายคลึงกับ AI ของเขา ตามรายงานของ The Wrap ก่อนหน้านี้ ในโพสต์เมื่อวันอังคาร Zak, Zelda และ Cody Williams เขียนว่าพวกเขาต้องการให้โปรไฟล์ Instagram ของนักแสดงผู้ล่วงลับนี้เป็น \"สถานที่ที่ปลอดภัยและเชื่อถือได้ซึ่ง […]"
+      "summary_th": "ลูกๆ ของ Robin Williams เข้ายึดบัญชี Instagram ของพ่อ หลังจากที่ลูกสาวของเขาออกมาต่อต้านการใช้ความคล้ายคลึงกับ AI ของเขา ตามรายงานของ The Wrap ก่อนหน้านี้ ในโพสต์เมื่อวันอังคาร Zak, Zelda และ Cody Williams เขียนว่าพวกเขาต้องการให้โปรไฟล์ Instagram ของนักแสดงผู้ล่วงลับนี้เป็น \"สถานที่ที่ปลอดภัยและเชื่อถือได้ซึ่ง […]"
     },
     {
       "source": "The Verge",
@@ -108,7 +108,7 @@
       "link": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale",
       "published": "2026-08-18T13:47:04-04:00",
       "title_th": "วันนี้ Galaxy Buds 3 Pro ของ Samsung ลดเกือบครึ่งหนึ่งแล้ว",
-      "summary_th": "หากคุณกำลังมองหาเอียร์บัดที่มีฟีเจอร์ครบครันซึ่งจะไม่ทำให้กระเป๋าเงินของคุณพัง Best Buy มี Samsung Galaxy Buds 3 Pro จำหน่ายในราคา 139.99 ดอลลาร์ ซึ่งต่ำกว่าราคาปัจจุบันของ Amazon อยู่ที่ 40 เหรียญสหรัฐฯ และมีส่วนลดมากจากราคาขายปลีกเดิมที่ 249.99 เหรียญสหรัฐฯ เอียร์บัดที่มีอุปกรณ์ครบครันเหล่านี้ให้คุณภาพเสียงที่ยอดเยี่ยม ความโปร่งใสที่คมชัด […]"
+      "summary_th": "หากคุณกำลังมองหาเอียร์บัดที่มีฟีเจอร์ครบครันซึ่งจะไม่ทำให้กระเป๋าเงินของคุณพัง Best Buy มี Samsung Galaxy Buds 3 Pro จำหน่ายในราคา 139.99 ดอลลาร์ ซึ่งต่ำกว่าราคาปัจจุบันของ Amazon อยู่ที่ 40 เหรียญสหรัฐฯ และมีส่วนลดมากจากราคาขายปลีกเดิมที่ 249.99 เหรียญสหรัฐฯ เอียร์บัดที่มีอุปกรณ์ครบครันเหล่านี้ให้คุณภาพเสียงที่ยอดเยี่ยม โปร่งใสคมชัด […]"
     },
     {
       "source": "The Verge",
@@ -186,61 +186,61 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
-      "summary_en": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards.",
-      "image": "https://media.wired.com/photos/6a8499c64113fb1b06ff9ad3/master/pass/OpenAI-Announces-New-AI-Safety-Strategy-After-Hugging-Face-Hack-Business.jpg",
-      "link": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
-      "published": "Tue, 18 Aug 2026 18:33:11 +0000",
-      "title_th": "OpenAI ยกเครื่องโปรโตคอลความปลอดภัยหลังจากที่เอเจนต์ AI กลายเป็นคนโกง",
-      "summary_th": "ผู้ผลิต ChatGPT กล่าวว่าโมเดล Astra ที่กำลังจะมาถึงอาจถึงขีดความสามารถทางไซเบอร์ที่ \"สำคัญ\" ส่งผลให้ต้องหยุดการฝึกอบรมจำนวนมากในขณะที่เข้มงวดการป้องกันภายใน"
+      "title_en": "Wayfair Coupons: Up to 80% Off August 2026",
+      "summary_en": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+      "image": "https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png",
+      "link": "https://www.wired.com/story/wayfair-promo-code/",
+      "published": "Wed, 19 Aug 2026 05:00:00 +0000",
+      "title_th": "คูปอง Wayfair: ลดสูงสุดถึง 80% ในเดือนสิงหาคม 2569",
+      "summary_th": "รับส่วนลด 10% ด้วยรหัสโปรโมชั่น Wayfair ลดสูงสุด 80% สำหรับเฟอร์นิเจอร์ และคูปองยอดนิยมอื่นๆ อีกมากมาย"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Viral Disneyland Content Creator Defends Her ‘Special Friendship’ With Peter Pan",
-      "summary_en": "Disney superfan Toni Kulusich has been accused of stalking her favorite character, sparking discourse about boundaries with park actors. She tells WIRED the backlash is unfair.",
-      "image": "https://media.wired.com/photos/6a837d321c5a245a00779a77/master/pass/Disney-Adult-Peter-Pan-CultureIMG_2764.jpg",
-      "link": "https://www.wired.com/story/viral-disneyland-content-creator-defends-her-special-friendship-with-peter-pan/",
-      "published": "Tue, 18 Aug 2026 15:50:29 +0000",
-      "title_th": "ผู้สร้างเนื้อหาไวรัลดิสนีย์แลนด์ปกป้อง \"มิตรภาพพิเศษ\" ของเธอกับปีเตอร์แพน",
-      "summary_th": "โทนี คูลูซิช แฟนพันธุ์แท้ของดิสนีย์ถูกกล่าวหาว่าสะกดรอยตามตัวละครโปรดของเธอ ซึ่งจุดประกายวาทกรรมเกี่ยวกับขอบเขตของนักแสดงในสวนสาธารณะ เธอบอก WIRED ว่าฟันเฟืองนั้นไม่ยุติธรรม"
+      "title_en": "LG Promo Codes and Coupons for August 2026",
+      "summary_en": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
+      "link": "https://www.wired.com/story/lg-promo-code/",
+      "published": "Wed, 19 Aug 2026 05:00:00 +0000",
+      "title_th": "รหัสส่งเสริมการขายและคูปอง LG สำหรับเดือนสิงหาคม 2569",
+      "summary_th": "ประหยัด 20% ด้วยรหัสโปรโมชันของ LG วันนี้ พร้อมส่วนลดเครื่องใช้ไฟฟ้าสูงสุดถึง $1,000 และส่วนลด 40% สำหรับทีวีและจอภาพที่ขายดีที่สุด"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Meta Ran Ads for an App That Promised to Nudify Female Politicians",
-      "summary_en": "One advertisement featured a pornographic video with a deepfake closely resembling a prominent US politician. Apple removed the app from the App Store after an inquiry from WIRED.",
-      "image": "https://media.wired.com/photos/6a7b83f8c77bf6fe1feeaecb/master/pass/Politics_An%20NSFW%20Ad%20Featuring%20a%20Deepfaked%20Elisa%20Slotkin%20Is%20Running%20on%20Meta%20Platforms_v1.jpg",
-      "link": "https://www.wired.com/story/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
-      "published": "Tue, 18 Aug 2026 14:45:33 +0000",
-      "title_th": "โฆษณา Meta Ran สำหรับแอปที่สัญญาว่าจะเปลือยกายนักการเมืองหญิง",
-      "summary_th": "โฆษณารายการหนึ่งนำเสนอวิดีโอลามกที่มีดีพเฟคซึ่งมีลักษณะใกล้เคียงกับนักการเมืองคนสำคัญของสหรัฐฯ Apple ลบแอปออกจาก App Store หลังจากการสอบถามจาก WIRED"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Can the Upcoming ‘Expanse’ Game Avoid the Biggest Mistake of ‘Mass Effect’?",
-      "summary_en": "The universe may never tell you if your choices mattered. Owlcat’s ‘Osiris Reborn’ might not either.",
-      "image": "https://media.wired.com/photos/6a834b7b336b4da04ecfb65b/master/pass/The-Expanse-Gear15.jpg",
-      "link": "https://www.wired.com/story/the-upcoming-expanse-game-has-to-make-some-hard-choices/",
-      "published": "Tue, 18 Aug 2026 13:00:00 +0000",
-      "title_th": "เกม 'Expanse' ที่กำลังจะมาถึงสามารถหลีกเลี่ยงข้อผิดพลาดที่ใหญ่ที่สุดของ 'Mass Effect' ได้หรือไม่?",
-      "summary_th": "จักรวาลอาจไม่เคยบอกคุณว่าการตัดสินใจของคุณมีความสำคัญหรือไม่ 'Osiris Reborn' ของ Owlcat อาจไม่เป็นเช่นนั้นเช่นกัน"
+      "title_en": "Ulta Promo Codes: Up to 20% Off in August 2026",
+      "summary_en": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
+      "link": "https://www.wired.com/story/ulta-coupon/",
+      "published": "Wed, 19 Aug 2026 05:00:00 +0000",
+      "title_th": "รหัสส่งเสริมการขาย Ulta: ลดสูงสุด 20% ในเดือนสิงหาคม 2569",
+      "summary_th": "เลือกซื้อเทรนด์ความงามล่าสุดและประหยัดเงินได้มากโดยใช้รหัสโปรโมชัน Ulta สำหรับเทคโนโลยีความงาม การแต่งหน้า และอื่นๆ อีกมากมาย"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "gadget",
-      "title_en": "I Put the Best Digital Notebooks to the Test. Here Are My Favorites (2026)",
-      "summary_en": "These nifty tools combine the ease of jotting notes by hand with the power of saving them digitally.",
-      "image": "https://media.wired.com/photos/6a8348c658ce21db647f8ae9/master/pass/The-Best-Digital-Notebooks-and-Smart-Pens-for-Obsessive-Note-Takers.jpg",
-      "link": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/",
-      "published": "Tue, 18 Aug 2026 11:08:00 +0000",
-      "title_th": "ฉันนำสมุดบันทึกดิจิทัลที่ดีที่สุดมาทดสอบ นี่คือรายการโปรดของฉัน (2026)",
-      "summary_th": "เครื่องมือเก๋ๆ เหล่านี้ผสมผสานความง่ายในการจดบันทึกด้วยมือเข้ากับพลังของการบันทึกในรูปแบบดิจิทัล"
+      "title_en": "Newegg Promo Codes and Coupons for August 2026",
+      "summary_en": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
+      "image": "https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg",
+      "link": "https://www.wired.com/story/newegg-promo-code/",
+      "published": "Wed, 19 Aug 2026 05:00:00 +0000",
+      "title_th": "รหัสส่งเสริมการขายและคูปอง Newegg สำหรับเดือนสิงหาคม 2569",
+      "summary_th": "รับส่วนลดสูงสุดถึง 10% สำหรับการสั่งซื้อทั้งหมดของคุณด้วยรหัสส่งเสริมการขาย Newegg และรหัสส่วนลดวันนี้ ประหยัดด้วยข้อเสนอล่าสุดสำหรับพีซีสำหรับเล่นเกม แล็ปท็อป และชิ้นส่วนคอมพิวเตอร์"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Dyson Promo Codes: 25% Off in August 2026",
+      "summary_en": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
+      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
+      "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+      "published": "Wed, 19 Aug 2026 05:00:00 +0000",
+      "title_th": "รหัสส่งเสริมการขาย Dyson: ลด 25% ในเดือนสิงหาคม 2026",
+      "summary_th": "รับส่วนลด 25% ด้วยรหัสคูปอง Dyson พร้อมรับส่วนลดสูงสุดถึง 600 ดอลลาร์สำหรับเครื่องดูดฝุ่น ส่วนลด 150 ดอลลาร์สำหรับ Airwraps และอื่นๆ อีกมากมาย"
     },
     {
       "source": "MIT Technology Review",
@@ -276,7 +276,7 @@
       "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
       "published": "Tue, 18 Aug 2026 09:00:00 +0000",
       "title_th": "บทบาทของนักบินอวกาศกำลังอยู่ในช่วงฟุ้งซ่าน",
-      "summary_th": "เมื่อนักบินอวกาศทั้งสี่คนบนเรือ Artemis II ของ NASA หมุนรอบดวงจันทร์เมื่อต้นปีนี้ พวกเขาได้สร้างสถิติใหม่ว่ามนุษย์ที่อยู่ไกลที่สุดเท่าที่เคยผจญภัยไปจากโลก ซึ่งเกินกว่าระยะทางที่กำหนดโดย Apollo 13 ในปี 1972 ประมาณ 4,000 ไมล์ แม้ว่าจะไม่มีภารกิจในอวกาศใดที่สามารถดำเนินชีวิตตามทัชดาวน์ประวัติศาสตร์ของ..."
+      "summary_th": "เมื่อนักบินอวกาศทั้งสี่คนบนเรือ Artemis II ของ NASA หมุนรอบดวงจันทร์เมื่อต้นปีนี้ พวกเขาได้สร้างสถิติใหม่ว่ามนุษย์ที่อยู่ไกลที่สุดเท่าที่เคยเดินทางออกจากโลก ซึ่งเกินกว่าระยะทางที่กำหนดโดย Apollo 13 ในปี 1972 ประมาณ 4,000 ไมล์ แม้ว่าจะไม่มีภารกิจในอวกาศใดที่สามารถดำเนินชีวิตตามทัชดาวน์ประวัติศาสตร์ของ..."
     },
     {
       "source": "MIT Technology Review",
@@ -305,6 +305,18 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "chip",
+      "title_en": "Warren Spector, founding father of immersive sims, has retired from game development",
+      "summary_en": "The creator of Deus Ex is retiring.",
+      "image": "https://www.engadget.com/img/gallery/warren-spector-founding-father-of-immersive-sims-has-retired-from-game-development/l-intro-1787114956.jpg",
+      "link": "https://www.engadget.com/2239713/warren-spector-founding-father-of-immersive-sims-retired-game-development/",
+      "published": "Wed, 19 Aug 2026 04:51:55 +0000",
+      "title_th": "Warren Spector บิดาผู้ก่อตั้งเกม Immersive Sims ได้ลาออกจากการพัฒนาเกมแล้ว",
+      "summary_th": "ผู้สร้าง Deus Ex กำลังจะเกษียณแล้ว"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "gadget",
       "title_en": "Framework's cheapest laptop just got a major spec bump",
       "summary_en": "The Framework Laptop 12 now ships with Intel's Core Series 3 chips and other hardware upgrades.",
@@ -312,7 +324,7 @@
       "link": "https://www.engadget.com/2239631/framework-laptop-12-just-got-a-major-spec-bump/",
       "published": "Tue, 18 Aug 2026 22:33:32 +0000",
       "title_th": "แล็ปท็อปที่ถูกที่สุดของ Framework เพิ่งได้รับข้อมูลจำเพาะที่สำคัญ",
-      "summary_th": "ขณะนี้ Framework Laptop 12 มาพร้อมกับชิป Intel Core Series 3 และการอัพเกรดฮาร์ดแวร์อื่นๆ"
+      "summary_th": "ขณะนี้ Framework Laptop 12 มาพร้อมกับชิป Core Series 3 ของ Intel และการอัพเกรดฮาร์ดแวร์อื่นๆ"
     },
     {
       "source": "Engadget",
@@ -351,18 +363,6 @@
       "summary_th": "ซอฟต์แวร์ล่าสุดของ Apple อ้างอิงถึง \"Faces\" ที่มีลักษณะคล้ายนาฬิกา"
     },
     {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Spotify's Running Mode is now available on Android",
-      "summary_en": "Spotify's Running Mode is now available on Android.",
-      "image": "https://www.engadget.com/img/gallery/spotifys-running-mode-is-now-available-on-android/l-intro-1787081775.jpg",
-      "link": "https://www.engadget.com/2239484/spotifys-running-mode-is-now-available-on-android/",
-      "published": "Tue, 18 Aug 2026 19:36:58 +0000",
-      "title_th": "Running Mode ของ Spotify พร้อมใช้งานบน Android แล้ว",
-      "summary_th": "Running Mode ของ Spotify พร้อมใช้งานบน Android แล้ว"
-    },
-    {
       "source": "IEEE Spectrum",
       "flag": "US",
       "category": "robot",
@@ -372,7 +372,7 @@
       "link": "https://spectrum.ieee.org/ieee-presidents-scholarship-2026",
       "published": "Mon, 17 Aug 2026 18:00:04 +0000",
       "title_th": "ทุนการศึกษาของประธานาธิบดี IEEE มอบให้แก่นักนวัตกรรมวัยรุ่น",
-      "summary_th": "องค์การอนามัยโลกระบุว่า ประมาณร้อยละ 16 ของประชากรโลก หรือมากกว่า 1 พันล้านคน อาศัยอยู่กับความพิการบางรูปแบบ ความพิการจำนวนมากส่งผลต่อความเป็นอิสระและความคล่องตัว นักเรียนมัธยมปลายสามคนที่ทำงานเกี่ยวกับสิ่งประดิษฐ์เพื่อช่วยคนพิการฟื้นฟูการเคลื่อนไหว แปลความคิด และสำรวจภูมิประเทศที่ขรุขระมีผลงานของพวกเขาจัดแสดงในงานวิทยาศาสตร์และวิศวกรรมนานาชาติ (ISEF) ของ Regeneron ซึ่งจัดขึ้นในเดือนพฤษภาคมที่เมืองฟีนิกซ์ โครงการของพวกเขาทำให้พวกเขาได้รับรางวัลทุนการศึกษา IEEE Presidents' Scholarship ในปีนี้ แมรี เอลเลน แรนดัลล์ ประธาน IEEE เป็นผู้มอบรางวัลในพิธีที่จัดขึ้นระหว่างงาน พวกเขายังได้รับเหรียญของ IEEE President ซึ่งนักเรียนกล่าวว่าเป็นจุดเด่นของประสบการณ์ของพวกเขา Hollie Tang ได้รับรางวัลทุนการศึกษา IEEE Presidents' Scholarship จากปีนี้"
+      "summary_th": "องค์การอนามัยโลกระบุว่า ประมาณร้อยละ 16 ของประชากรโลก หรือมากกว่า 1 พันล้านคน อาศัยอยู่กับความพิการบางรูปแบบ ความพิการจำนวนมากส่งผลต่อความเป็นอิสระและความคล่องตัว นักเรียนมัธยมปลายสามคนที่ทำงานเกี่ยวกับสิ่งประดิษฐ์เพื่อช่วยคนพิการฟื้นฟูการเคลื่อนไหว แปลความคิด และสำรวจภูมิประเทศที่ขรุขระมีผลงานของพวกเขาจัดแสดงในงานวิทยาศาสตร์และวิศวกรรมนานาชาติ (ISEF) ของ Regeneron ซึ่งจัดขึ้นในเดือนพฤษภาคมที่เมืองฟีนิกซ์ โครงการของพวกเขาทำให้พวกเขาได้รับรางวัลทุนการศึกษา IEEE Presidents' Scholarship ในปีนี้ แมรี เอลเลน แรนดัลล์ ประธาน IEEE เป็นผู้มอบรางวัลในพิธีที่จัดขึ้นระหว่างงาน พวกเขายังได้รับเหรียญของ IEEE President ซึ่งนักเรียนกล่าวว่าเป็นจุดเด่นของประสบการณ์ของพวกเขา Hollie Tang ได้รับรางวัลทุนการศึกษา IEEE Presidents' Scholarship ประจำปีนี้"
     },
     {
       "source": "IEEE Spectrum",
@@ -408,7 +408,7 @@
       "link": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
       "published": "Fri, 14 Aug 2026 17:27:12 +0000",
       "title_th": "ทำนายการเชื่อมต่อเสาอากาศบนแพลตฟอร์มไฟฟ้าขนาดใหญ่ก่อนสร้างฮาร์ดแวร์",
-      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นทำนายการต่อเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามแบบใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
+      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นทำนายการต่อเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามประการใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
     },
     {
       "source": "IEEE Spectrum",
@@ -432,7 +432,7 @@
       "link": "https://9to5mac.com/2026/08/18/daily-august-18-2026/",
       "published": "Tue, 18 Aug 2026 21:56:50 +0000",
       "title_th": "9to5Mac รายวัน: 18 สิงหาคม 2569 – iOS 27 เบต้า 6, AirPods รั่ว",
-      "summary_th": "ฟังสรุปเรื่องเด่นประจำวันจาก 9to5Mac 9to5Mac Daily มีให้บริการบน iTunes และแอป Podcasts ของ Apple , Stitcher , TuneIn , Google Play หรือผ่านทางฟีด RSS เฉพาะของเราสำหรับ Overcast และเครื่องเล่นพอดแคสต์อื่นๆ สนับสนุนโดย Backblaze : ข้อมูลสำรองที่คุณวางใจได้ ประหยัด 20% ด้วยรหัส 9to5daily"
+      "summary_th": "ฟังสรุปเรื่องเด่นประจำวันจาก 9to5Mac 9to5Mac Daily มีให้บริการบน iTunes และแอป Podcasts ของ Apple , Stitcher , TuneIn , Google Play หรือผ่านทางฟีด RSS เฉพาะของเราสำหรับ Overcast และเครื่องเล่นพอดแคสต์อื่นๆ สนับสนุนโดย Backblaze : การสำรองข้อมูลที่คุณวางใจได้ ประหยัด 20% ด้วยรหัส 9to5daily"
     },
     {
       "source": "9to5Mac",
@@ -504,7 +504,7 @@
       "link": "https://9to5google.com/2026/08/18/google-gradually-rolling-out-androids-advanced-sideloading-ahead-of-developer-verification/",
       "published": "Tue, 18 Aug 2026 21:50:00 +0000",
       "title_th": "Google 'ค่อยๆ' เปิดตัว 'ขั้นสูง' ของ Android ไซด์โหลดก่อนการตรวจสอบนักพัฒนา",
-      "summary_th": "ก่อนเริ่มการตรวจสอบนักพัฒนาซอฟต์แวร์ในเดือนหน้า Google กำลังเปิดตัวขั้นตอน \"ขั้นสูง\" ของ Android สำหรับการโหลดด้านข้าง"
+      "summary_th": "ก่อนเริ่มการตรวจสอบนักพัฒนาซอฟต์แวร์ในเดือนหน้า Google กำลังเปิดตัวขั้นตอน \"ขั้นสูง\" ของ Android สำหรับการไซด์โหลด"
     },
     {
       "source": "9to5Google",
@@ -540,7 +540,7 @@
       "link": "https://9to5google.com/2026/08/18/the-sideload-041-a-vision-of-pixels-to-come/",
       "published": "Tue, 18 Aug 2026 20:30:00 +0000",
       "title_th": "The Sideload 041: วิสัยทัศน์ของ Pixels ที่จะมาถึง",
-      "summary_th": "ยินดีต้อนรับสู่ตอนที่ 41 ของ The Sideload ซึ่งเป็นพอดแคสต์จาก 9to5Google สัปดาห์นี้ Ben Schoon ร่วมกับ Will เพื่อหารือเกี่ยวกับอนาคตของ Pixel เนื่องจาก Pixel 11 ของ Google พยายามเชื่อมช่องว่างระหว่างผู้ช่วย AI ที่สามารถเข้าถึงได้ตลอดเวลากับประสบการณ์ที่เป็นมิตรต่อความเป็นอยู่แบบดิจิทัลที่เรียบง่ายยิ่งขึ้น พวกเขายังเจาะลึกเข้าไปในโลกของโฆษณา AI โปสเตอร์ และอื่นๆ อีกมากมาย และสงสัยว่าพวกเขากำลังทำอันตรายมากกว่าผลดีต่อผู้ที่เลือกที่จะสร้างรายได้จากพวกเขาหรือไม่ สนับสนุนโดย NordVPN: ผู้ฟัง The Sideload สามารถประหยัดได้ถึง 76% สำหรับการสมัครสมาชิกสองปี พร้อมฟรีเพิ่มอีกสี่เดือนโดยสมัครใช้งาน NordVPN โดยใช้ลิงก์นี้ ขอขอบคุณ NordVPN สำหรับการสนับสนุนตอนของสัปดาห์นี้ สมัครสมาชิก YouTube Podcasts Pocket Casts Spotify Apple Podcasts เพลง Amazon สมัครสมาชิก 9to5Google Pro เพื่อรับโบนัสพิเศษ c"
+      "summary_th": "ยินดีต้อนรับสู่ตอนที่ 41 ของ The Sideload ซึ่งเป็นพอดแคสต์ของ 9to5Google สัปดาห์นี้ Ben Schoon ร่วมกับ Will เพื่อหารือเกี่ยวกับอนาคตของ Pixel เนื่องจาก Pixel 11 ของ Google พยายามเชื่อมช่องว่างระหว่างผู้ช่วย AI ที่สามารถเข้าถึงได้ตลอดเวลากับประสบการณ์ที่เป็นมิตรต่อความเป็นอยู่แบบดิจิทัลที่เรียบง่ายยิ่งขึ้น พวกเขายังเจาะลึกเข้าไปในโลกของโฆษณา AI โปสเตอร์ และอื่นๆ อีกมากมาย และสงสัยว่าพวกเขากำลังทำอันตรายมากกว่าผลดีต่อผู้ที่เลือกที่จะสร้างรายได้จากพวกเขาหรือไม่ สนับสนุนโดย NordVPN: ผู้ฟัง The Sideload สามารถประหยัดได้ถึง 76% สำหรับการสมัครสมาชิกสองปี พร้อมฟรีเพิ่มอีกสี่เดือนโดยสมัครใช้งาน NordVPN โดยใช้ลิงก์นี้ ขอขอบคุณ NordVPN สำหรับการสนับสนุนตอนของสัปดาห์นี้ สมัครสมาชิก YouTube Podcasts Pocket Casts Spotify Apple Podcasts เพลง Amazon สมัครสมาชิก 9to5Google Pro เพื่อรับโบนัสพิเศษ c"
     },
     {
       "source": "Electrek",
@@ -552,7 +552,7 @@
       "link": "https://electrek.co/2026/08/18/lectric-xpress2-extra-battery-bundle-aventon-pace-5-level-4-rec-e-bike-segway-s2-kids-scooter-more/",
       "published": "Tue, 18 Aug 2026 18:00:00 +0000",
       "title_th": "ชุดแบตเตอรี่เสริม Lectric XPress2 สำหรับระยะทาง 100+ ไมล์ $ 1,399, การเปิดตัว e-bike ของ Aventon Pace 5 + ระดับ 4 REC, สกู๊ตเตอร์สำหรับเด็ก Segway S2 และอื่นๆ อีกมากมาย",
-      "summary_th": "เรามีข้อเสนอ Green Deal ฉบับที่อัดแน่นไปด้วย EV มากกว่าที่เราเห็นเมื่อวานนี้ เต็มไปด้วยข้อเสนอครั้งแรกจากสามแบรนด์ที่เราชื่นชอบ ประการแรก มีข้อตกลงการจองการจองล่วงหน้าสำหรับ e-bike XPress2 Long-Range Step-Thru Cruiser ของ Lectric พร้อมเกียร์ฟรี 723 ดอลลาร์ รวมถึงแบตเตอรี่เสริมสำหรับการเดินทางระยะทาง 100+ ไมล์ - ทั้งหมดนี้ราคา 1,399 ดอลลาร์ หลังจากนั้น เรามีส่วนลดเป็นครั้งแรกสำหรับจักรยานไฟฟ้า Pace 5 REC Smart Cruiser ที่อัปเกรดของ Aventon ในราคา 1,599 ดอลลาร์ ขณะที่จักรยานไฟฟ้า Level 4 REC Smart Commuter มีราคาอยู่ที่ 1,799 ดอลลาร์ นอกจากนี้ยังมีข้อเสนอการสั่งซื้อล่วงหน้าสำหรับสกู๊ตเตอร์ทรงตัวเอง Ninebot S2 Kids ของ Segway ในราคาลด 100 ดอลลาร์ และอื่นๆ อีกมากมายรอคุณอยู่ด้านล่าง รวมถึงข้อเสนออาการเมาค้างจากสัปดาห์นี้ซึ่งอยู่ที่ด้านล่างของหน้า เช่น e-bike Aventon Labor Day เมื่อวานนี้"
+      "summary_th": "เรามีข้อเสนอ Green Deal ฉบับที่อัดแน่นไปด้วย EV มากกว่าที่เราเห็นเมื่อวานนี้ เต็มไปด้วยข้อเสนอครั้งแรกจากสามแบรนด์ที่เราชื่นชอบ ประการแรก มีข้อตกลงการจองการจองล่วงหน้าสำหรับ e-bike XPress2 Long-Range Step-Thru Cruiser ของ Lectric พร้อมเกียร์ฟรี 723 ดอลลาร์ รวมถึงแบตเตอรี่เสริมสำหรับการเดินทางระยะทาง 100+ ไมล์ - ทั้งหมดนี้ราคา 1,399 ดอลลาร์ หลังจากนั้น เรามีส่วนลดเป็นครั้งแรกสำหรับจักรยานไฟฟ้า Pace 5 REC Smart Cruiser ที่อัปเกรดของ Aventon ในราคา 1,599 ดอลลาร์ ในขณะที่จักรยานไฟฟ้า Level 4 REC Smart Commuter มีราคาอยู่ที่ 1,799 ดอลลาร์ นอกจากนี้ยังมีข้อเสนอการสั่งซื้อล่วงหน้าสำหรับสกู๊ตเตอร์ทรงตัวเอง Ninebot S2 Kids ของ Segway ในราคาลด 100 ดอลลาร์ และอื่นๆ อีกมากมายรอคุณอยู่ด้านล่าง รวมถึงข้อเสนออาการเมาค้างจากสัปดาห์นี้ซึ่งอยู่ที่ด้านล่างของหน้า เช่น e-bike Aventon Labor Day เมื่อวานนี้"
     },
     {
       "source": "Electrek",
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 266.0,
-      "change": -4.0,
-      "change_pct": -1.48
+      "price": 267.0,
+      "change": -3.0,
+      "change_pct": -1.11
     }
   ],
   "reviews": []
