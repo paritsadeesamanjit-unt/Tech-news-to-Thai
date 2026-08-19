@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-18T21:13:48.988317+00:00",
+  "generated_at": "2026-08-19T00:28:37.691569+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "summary_en": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "published": "Tue, 18 Aug 2026 22:14:25 +0000",
+      "title_th": "เคอร์เซอร์ใช้ประโยชน์จากความยุ่งยากของ GitHub และเปิดตัวแพลตฟอร์มโฮสติ้งของคู่แข่ง",
+      "summary_th": "Cursor ซึ่งเป็นที่รู้จักในเรื่อง AI Code Editor กำลังเปิดตัวแพลตฟอร์มการโฮสต์โค้ดใหม่เพื่อแข่งขันกับ GitHub ซึ่งเป็นที่ชื่นชอบมานานของนักพัฒนา"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -49,18 +61,6 @@
       "published": "Tue, 18 Aug 2026 17:21:58 +0000",
       "title_th": "การประเมินมูลค่าของ Etched เพิ่มขึ้นสองเท่าเป็น 21 พันล้านดอลลาร์ในหนึ่งเดือน",
       "summary_th": "Jane Street ได้ติดตั้งระบบคลัสเตอร์ AI ที่จัดส่งครั้งแรกของ Etched และรู้สึกประทับใจมากที่นำไปสู่การเปิดตัวครั้งใหญ่อีกครั้ง"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
-      "summary_en": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative app marketplaces.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v3.jpg?resize=1200,675",
-      "link": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
-      "published": "Tue, 18 Aug 2026 17:12:13 +0000",
-      "title_th": "Apple ยกเครื่องค่าธรรมเนียม EU App Store คลายกฎเกณฑ์สำหรับ App Store ทางเลือก",
-      "summary_th": "Apple กำลังลดความซับซ้อนของค่าธรรมเนียม EU App Store โดยแทนที่ค่าธรรมเนียมต่อการติดตั้งด้วยค่าคอมมิชชั่น 5% สำหรับแอพที่จำหน่ายนอก App Store และทำให้นักพัฒนาดำเนินการตลาดแอพทางเลือกได้ง่ายขึ้น"
     },
     {
       "source": "The Verge",
@@ -186,18 +186,6 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Squeeze More Juice Out of a Dead Battery!",
-      "summary_en": "How the joule thief circuit “steals” energy from seemingly depleted power cells.",
-      "image": "https://media.wired.com/photos/6a8372555b7045e98c48385f/master/pass/Science_Squeeze%20More%20Juice%20out%20of%20a%20Dead%20Battery!_v1.jpg",
-      "link": "https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/",
-      "published": "Tue, 18 Aug 2026 20:11:03 +0000",
-      "title_th": "บีบน้ำออกจากแบตเตอรี่ที่ตายแล้วได้มากขึ้น!",
-      "summary_th": "วงจรจูลขโมย \"ขโมย\" พลังงานจากเซลล์พลังงานที่ดูเหมือนจะหมดลงได้อย่างไร"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
       "title_en": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
       "summary_en": "The ChatGPT maker says its upcoming Astra model may have reached “critical” cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards.",
       "image": "https://media.wired.com/photos/6a8499c64113fb1b06ff9ad3/master/pass/OpenAI-Announces-New-AI-Safety-Strategy-After-Hugging-Face-Hack-Business.jpg",
@@ -241,6 +229,18 @@
       "published": "Tue, 18 Aug 2026 13:00:00 +0000",
       "title_th": "เกม 'Expanse' ที่กำลังจะมาถึงสามารถหลีกเลี่ยงข้อผิดพลาดที่ใหญ่ที่สุดของ 'Mass Effect' ได้หรือไม่?",
       "summary_th": "จักรวาลอาจไม่เคยบอกคุณว่าการตัดสินใจของคุณมีความสำคัญหรือไม่ 'Osiris Reborn' ของ Owlcat อาจไม่เป็นเช่นนั้นเช่นกัน"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "I Put the Best Digital Notebooks to the Test. Here Are My Favorites (2026)",
+      "summary_en": "These nifty tools combine the ease of jotting notes by hand with the power of saving them digitally.",
+      "image": "https://media.wired.com/photos/6a8348c658ce21db647f8ae9/master/pass/The-Best-Digital-Notebooks-and-Smart-Pens-for-Obsessive-Note-Takers.jpg",
+      "link": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/",
+      "published": "Tue, 18 Aug 2026 11:08:00 +0000",
+      "title_th": "ฉันนำสมุดบันทึกดิจิทัลที่ดีที่สุดมาทดสอบ นี่คือรายการโปรดของฉัน (2026)",
+      "summary_th": "เครื่องมือเก๋ๆ เหล่านี้ผสมผสานความง่ายในการจดบันทึกด้วยมือเข้ากับพลังของการบันทึกในรูปแบบดิจิทัล"
     },
     {
       "source": "MIT Technology Review",
@@ -306,6 +306,18 @@
       "source": "Engadget",
       "flag": "US",
       "category": "gadget",
+      "title_en": "Framework's cheapest laptop just got a major spec bump",
+      "summary_en": "The Framework Laptop 12 now ships with Intel's Core Series 3 chips and other hardware upgrades.",
+      "image": "https://www.engadget.com/img/gallery/frameworks-cheapest-laptop-just-got-a-major-spec-bump/l-intro-1787092352.jpg",
+      "link": "https://www.engadget.com/2239631/framework-laptop-12-just-got-a-major-spec-bump/",
+      "published": "Tue, 18 Aug 2026 22:33:32 +0000",
+      "title_th": "แล็ปท็อปที่ถูกที่สุดของ Framework เพิ่งได้รับข้อมูลจำเพาะที่สำคัญ",
+      "summary_th": "ขณะนี้ Framework Laptop 12 มาพร้อมกับชิป Core Series 3 ของ Intel และการอัพเกรดฮาร์ดแวร์อื่นๆ"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
       "title_en": "How to check your iPhone's battery health and cycle count",
       "summary_en": "How to check your iPhone's battery health and cycle count.",
       "image": "https://www.engadget.com/img/gallery/how-to-check-your-iphones-battery-health-and-cycle-count/l-intro-1786561587.jpg",
@@ -349,18 +361,6 @@
       "published": "Tue, 18 Aug 2026 19:36:58 +0000",
       "title_th": "Running Mode ของ Spotify พร้อมใช้งานบน Android แล้ว",
       "summary_th": "Running Mode ของ Spotify พร้อมใช้งานบน Android แล้ว"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Apple has new in-app transaction commission rates for EU devs",
-      "summary_en": "Apple has new in-app transaction commission rates for EU devs.",
-      "image": "https://www.engadget.com/img/gallery/apple-has-new-in-app-transaction-commission-rates-for-eu-devs/l-intro-1787081531.jpg",
-      "link": "https://www.engadget.com/2239483/apple-has-new-in-app-transaction-commission-rates-for-eu-devs/",
-      "published": "Tue, 18 Aug 2026 19:33:35 +0000",
-      "title_th": "Apple เสนออัตราค่าคอมมิชชันธุรกรรมในแอปใหม่สำหรับผู้พัฒนาในสหภาพยุโรป",
-      "summary_th": "Apple เสนออัตราค่าคอมมิชชันธุรกรรมในแอปใหม่สำหรับผู้พัฒนาในสหภาพยุโรป"
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,18 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "9to5Mac Daily: August 18, 2026 – iOS 27 beta 6, AirPods leak",
+      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily .",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/18/daily-august-18-2026/",
+      "published": "Tue, 18 Aug 2026 21:56:50 +0000",
+      "title_th": "9to5Mac รายวัน: 18 สิงหาคม 2569 – iOS 27 เบต้า 6, AirPods รั่ว",
+      "summary_th": "ฟังสรุปเรื่องเด่นประจำวันจาก 9to5Mac 9to5Mac Daily มีให้บริการบน iTunes และแอป Podcasts ของ Apple , Stitcher , TuneIn , Google Play หรือผ่านทางฟีด RSS เฉพาะของเราสำหรับ Overcast และเครื่องเล่นพอดแคสต์อื่นๆ สนับสนุนโดย Backblaze : ข้อมูลสำรองที่คุณวางใจได้ ประหยัด 20% ด้วยรหัส 9to5daily"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Apple Wallet driver’s licenses coming to these states next",
       "summary_en": "At WWDC 2021, Apple announced support for storing your driver’s license in Apple Wallet on iPhone. At the time, Apple touted this as the last step before you can be “fully free of your physical wallet.” Here are the states where support for the Apple Wallet driver’s license feature is coming next …",
       "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/11/colorado-dl.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
@@ -438,13 +450,13 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Find My, iCloud, and several other Apple services are currently down for some users",
-      "summary_en": "Apple’s System Status page confirms that consumers and developers are currently experiencing issues accessing some of its services. Here are the details.",
+      "title_en": "Find My, iCloud, and several other Apple services are currently down for some users [U: Fixed]",
+      "summary_en": "Update, 7:49 p.m. ET: All issues are now marked as resolved. The original story follows below. Apple’s System Status page confirms that consumers and developers are currently experiencing issues accessing some of its services. Here are the details.",
       "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "link": "https://9to5mac.com/2026/08/18/find-my-icloud-and-several-other-apple-services-are-currently-down-for-some-users/",
       "published": "Tue, 18 Aug 2026 20:48:38 +0000",
-      "title_th": "ขณะนี้ Find My, iCloud และบริการอื่นๆ ของ Apple ใช้งานไม่ได้สำหรับผู้ใช้บางราย",
-      "summary_th": "หน้าสถานะระบบของ Apple ยืนยันว่าผู้บริโภคและนักพัฒนากำลังประสบปัญหาในการเข้าถึงบริการบางอย่าง นี่คือรายละเอียด"
+      "title_th": "ขณะนี้ Find My, iCloud และบริการอื่น ๆ ของ Apple ใช้งานไม่ได้สำหรับผู้ใช้บางคน [U: แก้ไขแล้ว]",
+      "summary_th": "อัพเดท 19:49 น. ET: ขณะนี้ปัญหาทั้งหมดถูกทำเครื่องหมายว่าได้รับการแก้ไขแล้ว เรื่องราวดั้งเดิมดังต่อไปนี้ หน้าสถานะระบบของ Apple ยืนยันว่าผู้บริโภคและนักพัฒนากำลังประสบปัญหาในการเข้าถึงบริการบางอย่าง นี่คือรายละเอียด"
     },
     {
       "source": "9to5Mac",
@@ -471,16 +483,28 @@
       "summary_th": "วันนี้ Mozilla ประกาศคุณสมบัติใหม่ของ Smart Window ที่ขับเคลื่อนด้วย AI ของ Firefox ซึ่งยังคงอยู่ในรุ่นเบต้า นี่คือรายละเอียด"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Here’s everything new for Apple Calendar in iOS 27",
-      "summary_en": "iOS 27 is packed with new features for Apple Wallet , Messages , Notes , and other system apps—including Calendar. Here’s everything new for Apple’s Calendar app in iOS 27.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-calendar-app-icon-ios-27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/18/heres-everything-new-for-apple-calendar-in-ios-27/",
-      "published": "Tue, 18 Aug 2026 19:37:21 +0000",
-      "title_th": "นี่คือทุกสิ่งใหม่สำหรับ Apple Calendar ใน iOS 27",
-      "summary_th": "iOS 27 อัดแน่นไปด้วยคุณสมบัติใหม่ๆ สำหรับ Apple Wallet , ข้อความ , Notes และแอพระบบอื่นๆ รวมถึงปฏิทิน นี่คือทุกสิ่งใหม่สำหรับแอปปฏิทินของ Apple ใน iOS 27"
+      "title_en": "Google ‘gradually’ rolling out Android’s ‘advanced’ sideloading ahead of developer verification",
+      "summary_en": "Ahead of the start of developer verification next month, Google is now rolling out Android’s “advanced” flow for sideloading.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/android-maze-figure.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/18/google-gradually-rolling-out-androids-advanced-sideloading-ahead-of-developer-verification/",
+      "published": "Tue, 18 Aug 2026 21:50:00 +0000",
+      "title_th": "Google 'ค่อยๆ' เปิดตัว 'ขั้นสูง' ของ Android ไซด์โหลดก่อนการตรวจสอบนักพัฒนา",
+      "summary_th": "ก่อนเริ่มการตรวจสอบนักพัฒนาซอฟต์แวร์ในเดือนหน้า Google กำลังเปิดตัวขั้นตอน \"ขั้นสูง\" ของ Android สำหรับการโหลดด้านข้าง"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Claude can now send emails in Gmail, even without your approval",
+      "summary_en": "Anthropic’s Claude AI can now take a huge step in your email inbox, with the ability to not only interact with Gmail, but send emails on your behalf without asking you first.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/claude-send-gmail-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/18/claude-can-now-send-emails-in-gmail-even-without-your-approval/",
+      "published": "Tue, 18 Aug 2026 21:20:00 +0000",
+      "title_th": "ตอนนี้ Claude สามารถส่งอีเมลใน Gmail ได้โดยไม่ต้องได้รับการอนุมัติจากคุณ",
+      "summary_th": "Claude AI จาก Anthropic สามารถก้าวไปอีกขั้นในกล่องจดหมายอีเมลของคุณ โดยไม่เพียงแต่โต้ตอบกับ Gmail เท่านั้น แต่ยังส่งอีเมลในนามของคุณโดยไม่ต้องถามคุณก่อน"
     },
     {
       "source": "9to5Google",
@@ -517,30 +541,6 @@
       "published": "Tue, 18 Aug 2026 19:05:00 +0000",
       "title_th": "Samsung ทำให้การซ่อมประกันง่ายขึ้นด้วย Android 17 โฆษณาด้วย AI หนูตะเภา [แกลเลอรี]",
       "summary_th": "ใช้งานบน Galaxy Z Fold 8 series และน่าจะมาในอุปกรณ์ต่างๆ มากขึ้นเมื่อ Android 17 / One UI 9 เปิดตัวในวงกว้างมากขึ้น Samsung กำลังแสดงเมนู \"การรับประกันและการดูแล\" ใหม่ที่ทำให้การจัดการการซ่อมแซมและการเรียกร้องการรับประกันบนอุปกรณ์ Galaxy ของคุณง่ายขึ้นมาก"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "review",
-      "title_en": "Gemini in Chrome and auto browse roll out on Android in the US",
-      "summary_en": "After previewing in May , Google has now finished rolling out Gemini in Chrome for Android users in the US.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Gemini-in-Chrome-Android-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/18/gemini-chrome-android-us/",
-      "published": "Tue, 18 Aug 2026 19:00:00 +0000",
-      "title_th": "Gemini ใน Chrome และการเรียกดูอัตโนมัติเปิดตัวบน Android ในสหรัฐอเมริกา",
-      "summary_th": "หลังจากแสดงตัวอย่างในเดือนพฤษภาคม Google ได้เปิดตัว Gemini ใน Chrome สำหรับผู้ใช้ Android ในสหรัฐอเมริกาเสร็จแล้ว"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Today’s Android app deals and freebies: Easy Delivery, Kingdom Rush Vengeance, Front Armies, more",
-      "summary_en": "Your afternoon lineup of the best Android game and app deals is now ready to roll, including titles like Easy Delivery Co., Front Armies [RTS], Wall Of Insanity 2, 9th Dawn Remake RPG, Kingdom Rush Vengeance TD Game, and more. Alongside 11 Pro, 11 Pro XL, and 11 Pro Fold – including extra $150 off select models at Amazon – as well as deals on the Olive Google Pixel Buds Pro 2 and a giant $750 price drop on Samsung’s 16-inch Snapdragon X Elite touchscreen Galaxy Book .",
-      "image": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/08/Google-Play-Aug-18-2.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5toys.com/2026/08/18/today-android-app-deals-free-easy-delivery-kingdom/",
-      "published": "Tue, 18 Aug 2026 17:59:52 +0000",
-      "title_th": "ข้อเสนอแอป Android และของแจกฟรีวันนี้: Easy Delivery, Kingdom Rush Vengeance, Front Armies และอีกมากมาย",
-      "summary_th": "รายการเกม Android และข้อเสนอแอพที่ดีที่สุดช่วงบ่ายของคุณพร้อมแล้ว รวมถึงเกมอย่าง Easy Delivery Co., Front Armies [RTS], Wall Of Insanity 2, 9th Dawn Remake RPG, Kingdom Rush Vengeance TD Game และอีกมากมาย นอกเหนือจาก 11 Pro, 11 Pro XL และ 11 Pro Fold – รวมถึงส่วนลดพิเศษ $150 สำหรับรุ่นที่เลือกที่ Amazon – เช่นเดียวกับข้อเสนอสำหรับ Olive Google Pixel Buds Pro 2 และการลดราคาครั้งใหญ่ $750 สำหรับ Galaxy Book หน้าจอสัมผัส Snapdragon X Elite ขนาด 16 นิ้วของ Samsung"
     },
     {
       "source": "Electrek",
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 270.0,
+      "change": -7.0,
+      "change_pct": -2.53
     }
   ],
   "reviews": [
