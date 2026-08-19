@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-19T09:22:28.105776+00:00",
+  "generated_at": "2026-08-19T12:19:43.052510+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+      "summary_en": "It's the data, stupid.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/IMG_0110-rotated.jpg?resize=900,1200",
+      "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "published": "Wed, 19 Aug 2026 12:00:00 +0000",
+      "title_th": "AI ไม่ได้ใกล้เคียงกับการรักษามะเร็ง สตาร์ทอัพรายนี้บอกว่ารู้ว่าจะต้องทำอะไร",
+      "summary_th": "มันเป็นข้อมูลโง่"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "summary_en": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-5.17.16-PM.jpg?resize=1200,772",
+      "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+      "published": "Wed, 19 Aug 2026 10:00:00 +0000",
+      "title_th": "Relativity Networks ระดมทุน 22 ล้านดอลลาร์เพื่อนำไฟเบอร์ที่เร็วกว่ามาสู่ศูนย์ข้อมูล",
+      "summary_th": "Relativity Networks เกี่ยวข้องกับไฟเบอร์แบบแกนกลวง ซึ่งเป็นเทคโนโลยีที่ไม่ค่อยมีใครนำมาใช้ซึ่งช่วยให้ส่งข้อมูลได้เร็วกว่าไฟเบอร์ทั่วไปถึง 30%"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -36,91 +60,67 @@
       "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
       "published": "Tue, 18 Aug 2026 18:00:00 +0000",
       "title_th": "OpenAI สร้างการป้องกันใหม่หลังจากการละเมิด Hugging Face",
-      "summary_th": "การป้องกันใหม่ประกอบด้วยการตรวจสอบโมเดลอย่างละเอียดมากขึ้นในระหว่างกระบวนการพัฒนา รวมถึงการเน้นที่การจัดตำแหน่งและการรักษาความปลอดภัยในระหว่างกระบวนการหลังการฝึกอบรมมากขึ้น"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
-      "summary_en": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-Space-Stage-Even-Rogers.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-      "published": "Tue, 18 Aug 2026 17:31:01 +0000",
-      "title_th": "ประหยัดสูงสุดถึง $300 เมื่อซื้อ TechCrunch Disrupt 2026 Pass จนถึงวันที่ 21 สิงหาคม",
-      "summary_th": "หากคุณวนเวียนอยู่ใน Disrupt ตอนนี้เป็นเวลาที่ดีที่สุดในการล็อคบัตรผ่านของคุณและเริ่มเตรียมพร้อมที่จะเข้าร่วมชุมชนสตาร์ทอัพที่เหลือในซานฟรานซิสโกตั้งแต่วันที่ 13-15 ตุลาคมที่ Moscone West!"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Etched’s valuation doubles to $21B in a month",
-      "summary_en": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Etched-co-founder-COO-Robert-Wachen.jpg?resize=1200,1200",
-      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "published": "Tue, 18 Aug 2026 17:21:58 +0000",
-      "title_th": "การประเมินมูลค่าของ Etched เพิ่มขึ้นสองเท่าเป็น 21 พันล้านดอลลาร์ในหนึ่งเดือน",
-      "summary_th": "Jane Street ได้ติดตั้งระบบคลัสเตอร์ AI ที่จัดส่งครั้งแรกของ Etched และรู้สึกประทับใจมากที่นำไปสู่การเปิดตัวครั้งใหญ่อีกครั้ง"
+      "summary_th": "การป้องกันใหม่ประกอบด้วยการตรวจสอบโมเดลโดยละเอียดมากขึ้นในระหว่างกระบวนการพัฒนา รวมถึงการเน้นที่การจัดตำแหน่งและการรักษาความปลอดภัยในระหว่างกระบวนการหลังการฝึกอบรมมากขึ้น"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "software",
-      "title_en": "SteelSeries’ comfy wireless gaming headset is nearly half off",
-      "summary_en": "While many gaming headsets come with extra features, the tradeoff is that they’re often uncomfortable and heavy. A lightweight, affordable alternative that can connect to a bunch of platforms is available at Woot. The SteelSeries Arctis Nova 3P in cyan is on sale for $59.99, a 45 percent discount from their usual $109.99 price. This […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Steelseries-Arctis-Nova-3P-breakout.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale",
-      "published": "2026-08-18T16:01:01-04:00",
-      "title_th": "ชุดหูฟังเล่นเกมไร้สายที่แสนสบายของ SteelSeries ลดราคาเกือบครึ่งหนึ่ง",
-      "summary_th": "แม้ว่าชุดหูฟังสำหรับเล่นเกมหลายรุ่นจะมาพร้อมกับคุณสมบัติพิเศษ แต่ข้อดีก็คือ ชุดหูฟังเหล่านี้มักจะรู้สึกไม่สบายตัวและมีน้ำหนักมาก Woot เป็นทางเลือกที่มีน้ำหนักเบาและราคาไม่แพงที่สามารถเชื่อมต่อกับแพลตฟอร์มต่างๆ ได้ SteelSeries Arctis Nova 3P สีฟ้า จำหน่ายในราคา 59.99 เหรียญสหรัฐ ซึ่งเป็นส่วนลด 45 เปอร์เซ็นต์จากราคาปกติ 109.99 เหรียญสหรัฐ นี้ […]"
+      "title_en": "Nvidia’s new financial strategy does not compute",
+      "summary_en": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are all working with Nvidia to put together $500 billion in financing to turn compute […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+      "published": "2026-08-19T08:00:00-04:00",
+      "title_th": "กลยุทธ์ทางการเงินใหม่ของ Nvidia ไม่สามารถคำนวณได้",
+      "summary_th": "เมษายน - 1805 นโปเลียนเป็นเจ้าแห่งยุโรป มีเพียงกองเรืออังกฤษเท่านั้นที่ยืนอยู่ตรงหน้าเขา ตอนนี้ Compute กลายเป็นสินทรัพย์ประเภทหนึ่งแล้ว ฉันเห็นว่าถึงเวลาแล้วที่จะพูดถึงนวัตกรรมทางการเงินอีกครั้ง Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs และ KKR ต่างก็ทำงานร่วมกับ Nvidia เพื่อรวบรวมเงินทุนจำนวน 500 พันล้านดอลลาร์เพื่อเปลี่ยนการคำนวณ […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "software",
-      "title_en": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-      "summary_en": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-175034585.jpg?quality=90&strip=all&crop=0%2C17.382841712709%2C100%2C43.498314038293&w=1200",
-      "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
-      "published": "2026-08-18T15:48:26-04:00",
-      "title_th": "บัญชี Instagram ของ Robin Williams กลับมาเพื่อต่อสู้กับ 'การละเมิด AI'",
-      "summary_th": "ลูกๆ ของ Robin Williams เข้ามาครอบครองบัญชี Instagram ของพ่อ หลังจากที่ลูกสาวของเขาออกมาต่อต้านการใช้ความคล้ายคลึงกับ AI ของเขา ตามรายงานของ The Wrap ก่อนหน้านี้ ในโพสต์เมื่อวันอังคาร Zak, Zelda และ Cody Williams เขียนว่าพวกเขาต้องการให้โปรไฟล์ Instagram ของนักแสดงผู้ล่วงลับนี้เป็น \"สถานที่ที่ปลอดภัยและเชื่อถือได้ซึ่ง […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "summary_en": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-      "published": "2026-08-18T15:28:30-04:00",
-      "title_th": "OpenAI วางการเปลี่ยนแปลงด้านความปลอดภัยใหม่หลังจากที่ AI แฮ็ก Hugging Face",
-      "summary_th": "OpenAI กำลังประกาศการอัปเดตความปลอดภัยหลังจากข่าวเดือนกรกฎาคมว่า AI หลุดออกจากสภาพแวดล้อมแบบแซนด์บ็อกซ์และถูกแฮ็ก Hugging Face โดยไม่ได้ตั้งใจ รวมถึงการปรับปรุงสภาพแวดล้อมการวิจัย การตรวจสอบ และเทคนิคการจัดตำแหน่ง บริษัทได้เบรก Astra รุ่นใหม่แล้ว ซึ่งคิดว่าอาจมีความสามารถด้านความปลอดภัยทางไซเบอร์ที่ \"สำคัญ\" และ [...]"
+      "title_en": "The women’s soccer league trying to fix fantasy sports",
+      "summary_en": "Most fantasy sports leagues suffer the same problem: retention. Leagues play out over months-long seasons, require regular attention, and can punish players severely for missing even a single week. I've started Fantasy Premier League (FPL) multiple times, but never finished a season. That's a problem for any fantasy league, but especially so for a new […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/wsl-fantasy-football.jpg?quality=90&strip=all&crop=0%2C10.781462090363%2C100%2C78.437075819275&w=1200",
+      "link": "https://www.theverge.com/entertainment/981880/womens-super-league-wsl-fantasy-league-app",
+      "published": "2026-08-19T08:00:00-04:00",
+      "title_th": "ลีกฟุตบอลหญิงพยายามแก้ไขกีฬาแฟนตาซี",
+      "summary_th": "ลีกกีฬาแฟนตาซีส่วนใหญ่ประสบปัญหาเดียวกัน นั่นคือการรักษาผู้เล่นไว้ ลีกจะเล่นกันหลายฤดูกาล จำเป็นต้องได้รับการดูแลอย่างสม่ำเสมอ และสามารถลงโทษผู้เล่นอย่างรุนแรงหากพลาดการแข่งขันแม้แต่สัปดาห์เดียว ฉันเริ่มแฟนตาซีพรีเมียร์ลีก (FPL) หลายครั้งแต่ไม่เคยจบฤดูกาลเลย นั่นเป็นปัญหาสำหรับลีกแฟนตาซี แต่โดยเฉพาะอย่างยิ่งสำหรับลีกใหม่ […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "gadget",
-      "title_en": "Samsung’s Galaxy Buds 3 Pro are almost half off today",
-      "summary_en": "If you’re looking for a feature-packed pair of earbuds that won’t break your wallet, Best Buy has the Samsung Galaxy Buds 3 Pro on sale for $139.99. That’s $40 lower than the current Amazon price, and a big discount from their original retail price of $249.99. These well-equipped earbuds feature excellent sound quality, crisp transparency […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Samsung-Galaxy-Buds-3-Pro-roundup-2.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale",
-      "published": "2026-08-18T13:47:04-04:00",
-      "title_th": "วันนี้ Galaxy Buds 3 Pro ของ Samsung ลดเกือบครึ่งหนึ่งแล้ว",
-      "summary_th": "หากคุณกำลังมองหาเอียร์บัดที่มีฟีเจอร์ครบครันซึ่งจะไม่ทำให้กระเป๋าเงินของคุณพัง Best Buy มี Samsung Galaxy Buds 3 Pro จำหน่ายในราคา 139.99 ดอลลาร์ ซึ่งต่ำกว่าราคา Amazon ปัจจุบันอยู่ที่ 40 เหรียญสหรัฐฯ และมีส่วนลดมากจากราคาขายปลีกเดิมที่ 249.99 เหรียญสหรัฐฯ เอียร์บัดที่มีอุปกรณ์ครบครันเหล่านี้ให้คุณภาพเสียงที่ยอดเยี่ยม โปร่งใสคมชัด […]"
+      "title_en": "Amazon’s drones will soon deliver to nearly 500 US cities and towns",
+      "summary_en": "Amazon says its drone delivery service will reach \"nearly 500 cities and towns in the United States\" by the end of this year, increasing its coverage by six times compared to the current footprint. Prime Air deliveries will soon be launched in the Chicago, Illinois; Syracuse, New York; Cleveland, Ohio; Atlanta, Georgia; and Boise, Idaho […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2287919551.jpg?quality=90&strip=all&crop=0%2C10.727373918039%2C100%2C78.545252163922&w=1200",
+      "link": "https://www.theverge.com/tech/981908/amazon-prime-air-drone-delivery-us-expansion",
+      "published": "2026-08-19T07:53:27-04:00",
+      "title_th": "โดรนของ Amazon จะจัดส่งไปยังเมืองต่างๆ เกือบ 500 แห่งในสหรัฐอเมริกาในไม่ช้า",
+      "summary_th": "Amazon กล่าวว่าบริการจัดส่งด้วยโดรนจะเข้าถึง \"เกือบ 500 เมืองในสหรัฐอเมริกา\" ภายในสิ้นปีนี้ โดยจะเพิ่มความครอบคลุมถึง 6 เท่าเมื่อเทียบกับพื้นที่ในปัจจุบัน การส่งมอบของ Prime Air จะเปิดตัวในเร็วๆ นี้ที่เมืองชิคาโก รัฐอิลลินอยส์ ซีราคิวส์ นิวยอร์ก; คลีฟแลนด์ โอไฮโอ; แอตแลนตา จอร์เจีย; และบอยซี ไอดาโฮ […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "The everyday tech I use to track my corgi",
+      "summary_en": "The Apple AirTag may be a jack-of-all-trades - people use it for keeping track of keys, suitcases, backpacks, purses - but I think the most logical use case for it, by far, is keeping track of your pet. I attach it to my corgi Jelly's collar via a matching silicone holder. Have I ever once […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_CORGI_TRAKCER.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/gadgets/981143/airtag-corgi-pet-tech-tracking",
+      "published": "2026-08-19T07:30:00-04:00",
+      "title_th": "เทคโนโลยีในชีวิตประจำวันที่ฉันใช้ติดตามคอร์กีของฉัน",
+      "summary_th": "Apple AirTag อาจเป็นสินค้ายอดนิยม ผู้คนใช้ AirTag เพื่อติดตามกุญแจ กระเป๋าเดินทาง เป้สะพายหลัง และกระเป๋าสตางค์ แต่ฉันคิดว่ากรณีการใช้งานที่สมเหตุสมผลที่สุดสำหรับ AirTag ในตอนนี้คือการติดตามสัตว์เลี้ยงของคุณ ฉันแนบมันเข้ากับปลอกคอของคอร์กีเยลลี่ด้วยที่ยึดซิลิโคนที่เข้ากัน ฉันเคยไหม […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "gadget",
-      "title_en": "PlayStation’s wireless gaming speakers launch in November",
-      "summary_en": "Sony's Pulse Elevate wireless gaming speakers are launching on November 12th and will cost $219.99, the company announced on Tuesday. Announced nearly a year ago, the speakers are compatible with a PS5, PlayStation Portal, PC, and Mac, and they include \"studio-inspired planar magnetic drivers\" that offer \"lifelike sound across the entire audible spectrum,\" Sony says. […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image_197bc1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "link": "https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder",
-      "published": "2026-08-18T13:18:57-04:00",
-      "title_th": "ลำโพงเกมไร้สายของ PlayStation เปิดตัวในเดือนพฤศจิกายน",
-      "summary_th": "ลำโพงเกมไร้สาย Pulse Elevate ของ Sony เปิดตัวในวันที่ 12 พฤศจิกายนและมีราคา 219.99 ดอลลาร์ บริษัท ประกาศเมื่อวันอังคาร ประกาศเมื่อเกือบปีที่แล้ว ลำโพงเหล่านี้เข้ากันได้กับ PS5, PlayStation Portal, PC และ Mac และรวมถึง \"ไดรเวอร์แม่เหล็กระนาบที่ได้แรงบันดาลใจจากสตูดิโอ\" ที่ให้ \"เสียงที่เหมือนจริงตลอดทั้งสเปกตรัมเสียง\" Sony กล่าว […]"
+      "title_en": "Framework gave its 12-inch laptop some hardware upgrades",
+      "summary_en": "Framework has refreshed its 12-inch convertible laptop, introducing Intel's latest Core Series 3 processors, expanded hardware customizations, and a pre-built Linux option. The cheapest pre-built base configuration for the Framework Laptop 12 now starts at $699 - $100 less than the previous version when it launched last year. Preorders are open now, with the first […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Framework-Laptop-12-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/gadgets/981894/framework-laptop-12-update-intel-core-linux-availability",
+      "published": "2026-08-19T06:14:26-04:00",
+      "title_th": "Framework ให้การอัพเกรดฮาร์ดแวร์แก่แล็ปท็อปขนาด 12 นิ้ว",
+      "summary_th": "Framework ได้รีเฟรชแล็ปท็อปคอนเวอร์ทิเบิลขนาด 12 นิ้ว โดยเปิดตัวโปรเซสเซอร์ Core Series 3 ล่าสุดของ Intel การปรับแต่งฮาร์ดแวร์เพิ่มเติม และตัวเลือก Linux ที่สร้างไว้ล่วงหน้า การกำหนดค่าพื้นฐานที่สร้างไว้ล่วงหน้าที่ถูกที่สุดสำหรับ Framework Laptop 12 ตอนนี้เริ่มต้นที่ 699 - 100 ดอลลาร์ ซึ่งน้อยกว่ารุ่นก่อนหน้าเมื่อเปิดตัวเมื่อปีที่แล้ว เปิดให้พรีออเดอร์แล้ว โดยตัวแรก […]"
     },
     {
       "source": "Ars Technica",
@@ -186,61 +186,61 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
-      "summary_en": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.",
-      "image": "https://media.wired.com/photos/6a834e2ceca883ccd19e58fc/master/pass/Security_InsideNightshifttheAIAgentFlock_v1.gif",
-      "link": "https://www.wired.com/story/flock-safety-os-investigate/",
-      "published": "Wed, 19 Aug 2026 09:00:00 +0000",
-      "title_th": "Flock มีเครื่องมือ AI ใหม่อันทรงพลังสำหรับตำรวจ เราได้รับรหัสแล้ว",
-      "summary_th": "กล้องวงจรปิดของ Flock ได้จุดประกายความโกรธแค้นแล้ว WIRED ได้สร้างระบบ AI ยุคถัดไปขึ้นมาใหม่ ซึ่งตำรวจบางส่วนใช้งานอยู่แล้ว เพื่อยืนยันว่าระบบดังกล่าวไปไกลกว่าการติดตามป้ายทะเบียนมาก"
+      "title_en": "The Best Digital Wall Calendar (2026): Skylight, Everblog, Apolosign",
+      "summary_en": "What originally looked like clutter turned out to be my new favorite gadget for organizing my family’s life.",
+      "image": "https://media.wired.com/photos/6a35a476fb39402b67c3b903/master/pass/Are-Digital-Wall-Calendars-Worth-It-.jpg",
+      "link": "https://www.wired.com/story/are-digital-wall-calendars-worth-it/",
+      "published": "Wed, 19 Aug 2026 11:31:00 +0000",
+      "title_th": "ปฏิทินติดผนังดิจิทัลที่ดีที่สุด (2026): Skylight, Everblog, Apolosign",
+      "summary_th": "เดิมทีดูเหมือนยุ่งเหยิงกลายเป็นอุปกรณ์ชิ้นโปรดชิ้นใหม่ของฉันในการจัดระเบียบชีวิตครอบครัว"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Wayfair Coupons: Up to 80% Off August 2026",
-      "summary_en": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
-      "image": "https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png",
-      "link": "https://www.wired.com/story/wayfair-promo-code/",
-      "published": "Wed, 19 Aug 2026 05:00:00 +0000",
-      "title_th": "คูปอง Wayfair: ลดสูงสุดถึง 80% ในเดือนสิงหาคม 2569",
-      "summary_th": "รับส่วนลด 10% ด้วยรหัสโปรโมชั่น Wayfair เฟอร์นิเจอร์สูงสุดถึง 80% และคูปองยอดนิยมอื่นๆ อีกมากมาย"
+      "title_en": "I Tried a Window-Cleaning Robot: Do Not Recommend",
+      "summary_en": "I tested the top-of-the-line Ecovacs Winbot W2S Omni window-cleaning robot on my Victorian home, and it was an unmitigated disaster.",
+      "image": "https://media.wired.com/photos/6a8544f2eab23e58b199ded0/master/pass/Window-Cleaning-Robots-Are-Not-for-Me.jpg",
+      "link": "https://www.wired.com/story/window-cleaning-robots-are-kinda-terrible/",
+      "published": "Wed, 19 Aug 2026 11:08:00 +0000",
+      "title_th": "ฉันลองใช้หุ่นยนต์ทำความสะอาดหน้าต่าง: ไม่แนะนำ",
+      "summary_th": "ฉันทดสอบหุ่นยนต์ทำความสะอาดหน้าต่าง Ecovacs Winbot W2S Omni ระดับแนวหน้าในบ้านสไตล์วิคตอเรียนของฉัน และมันเป็นหายนะที่ไม่อาจบรรเทาลงได้"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "LG Promo Codes and Coupons for August 2026",
-      "summary_en": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
-      "link": "https://www.wired.com/story/lg-promo-code/",
-      "published": "Wed, 19 Aug 2026 05:00:00 +0000",
-      "title_th": "รหัสส่งเสริมการขายและคูปอง LG สำหรับเดือนสิงหาคม 2569",
-      "summary_th": "ประหยัด 20% ด้วยรหัสโปรโมชันของ LG วันนี้ พร้อมส่วนลดเครื่องใช้ไฟฟ้าสูงสุดถึง $1,000 และส่วนลด 40% สำหรับทีวีและจอภาพที่ขายดีที่สุด"
+      "title_en": "‘Your Excel Skills Suck’: The Power Users Turning Spreadsheets Into a Spectator Sport",
+      "summary_en": "Data and finance professionals are competing in Excel obstacle courses—amassing huge followings and keeping the Microsoft program relevant.",
+      "image": "https://media.wired.com/photos/6a7cbffe2af0c97aac0b3217/master/pass/Excel-Power-Users-Are-Running-Obstacle-Courses-Culture.jpg",
+      "link": "https://www.wired.com/story/your-excel-skills-suck-the-power-users-turning-spreadsheets-into-a-spectator-sport/",
+      "published": "Wed, 19 Aug 2026 11:00:00 +0000",
+      "title_th": "'ทักษะ Excel ของคุณห่วย': ผู้ใช้ระดับสูงเปลี่ยนสเปรดชีตให้กลายเป็นกีฬาที่มีผู้ชม",
+      "summary_th": "ผู้เชี่ยวชาญด้านข้อมูลและการเงินกำลังแข่งขันกันในหลักสูตรอุปสรรคของ Excel ซึ่งมีผู้ติดตามจำนวนมากและทำให้โปรแกรม Microsoft มีความเกี่ยวข้อง"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Ulta Promo Codes: Up to 20% Off in August 2026",
-      "summary_en": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
-      "link": "https://www.wired.com/story/ulta-coupon/",
-      "published": "Wed, 19 Aug 2026 05:00:00 +0000",
-      "title_th": "รหัสส่งเสริมการขาย Ulta: ลดสูงสุด 20% ในเดือนสิงหาคม 2569",
-      "summary_th": "เลือกซื้อเทรนด์ความงามล่าสุดและประหยัดเงินได้มากโดยใช้รหัสโปรโมชัน Ulta สำหรับเทคโนโลยีความงาม การแต่งหน้า และอื่นๆ อีกมากมาย"
+      "title_en": "We Bought a $500 Counterfeit Rolex So Good, Even Rolex Didn’t Spot It",
+      "summary_en": "The replica watch industry is in its “super clone” era. Following tips from murky internet forums, we bought three budget fakes that were good enough to pass as real—but ultimately disposable.",
+      "image": "https://media.wired.com/photos/6a856d54b020a80ae2fcece6/master/pass/081826_Fake-Rolex.gif",
+      "link": "https://www.wired.com/story/we-bought-a-counterfeit-rolex-so-good-even-rolex-didnt-spot-it/",
+      "published": "Wed, 19 Aug 2026 10:45:00 +0000",
+      "title_th": "เราซื้อ Rolex ปลอมมูลค่า 500 เหรียญสหรัฐ ดีมาก ขนาด Rolex ยังไม่เห็นเลย",
+      "summary_th": "อุตสาหกรรมนาฬิกาจำลองกำลังอยู่ในยุค \"ซูเปอร์โคลน\" ตามคำแนะนำจากฟอรัมอินเทอร์เน็ตที่คลุมเครือ เราได้ซื้อของปลอมราคาประหยัดสามชิ้นที่ดีพอที่จะผ่านได้เหมือนของจริง แต่สุดท้ายก็ทิ้งไป"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "gadget",
-      "title_en": "Newegg Promo Codes and Coupons for August 2026",
-      "summary_en": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
-      "image": "https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg",
-      "link": "https://www.wired.com/story/newegg-promo-code/",
-      "published": "Wed, 19 Aug 2026 05:00:00 +0000",
-      "title_th": "รหัสส่งเสริมการขายและคูปอง Newegg สำหรับเดือนสิงหาคม 2569",
-      "summary_th": "รับส่วนลดสูงสุดถึง 10% สำหรับการสั่งซื้อทั้งหมดของคุณด้วยรหัสส่งเสริมการขาย Newegg และรหัสส่วนลดวันนี้ ประหยัดด้วยข้อเสนอล่าสุดสำหรับพีซีสำหรับเล่นเกม แล็ปท็อป และชิ้นส่วนคอมพิวเตอร์"
+      "title_en": "Dell XPS 13 vs. MacBook Neo: A Surprising Upset",
+      "summary_en": "The Dell XPS 13 and MacBook Neo are both premium-feeling laptops with only 8 GB of RAM. Which $700 laptop is the better buy?",
+      "image": "https://media.wired.com/photos/6a84f088d3438cb732b6523c/master/pass/xps-13-macbook-neo.jpg",
+      "link": "https://www.wired.com/story/macbook-neo-vs-dell-xps-13/",
+      "published": "Wed, 19 Aug 2026 10:30:00 +0000",
+      "title_th": "Dell XPS 13 กับ MacBook Neo: อารมณ์เสียที่น่าประหลาดใจ",
+      "summary_th": "Dell XPS 13 และ MacBook Neo เป็นแล็ปท็อประดับพรีเมียมที่มี RAM เพียง 8 GB แล็ปท็อปราคา $ 700 ตัวไหนดีกว่าที่จะซื้อ?"
     },
     {
       "source": "MIT Technology Review",
@@ -288,7 +288,7 @@
       "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
       "published": "Tue, 18 Aug 2026 09:00:00 +0000",
       "title_th": "บทบาทของนักบินอวกาศกำลังอยู่ในช่วงฟุ้งซ่าน",
-      "summary_th": "เมื่อนักบินอวกาศทั้งสี่คนบนเรือ Artemis II ของ NASA หมุนรอบดวงจันทร์เมื่อต้นปีนี้ พวกเขาได้สร้างสถิติใหม่ว่ามนุษย์ที่อยู่ไกลที่สุดเท่าที่เคยผจญภัยไปจากโลก ซึ่งเกินกว่าระยะทางที่กำหนดโดย Apollo 13 ในปี 1972 ประมาณ 4,000 ไมล์ แม้ว่าจะไม่มีภารกิจในอวกาศใดที่สามารถดำเนินชีวิตตามทัชดาวน์ประวัติศาสตร์ของ..."
+      "summary_th": "เมื่อนักบินอวกาศทั้งสี่คนบนเรือ Artemis II ของ NASA หมุนรอบดวงจันทร์เมื่อต้นปีนี้ พวกเขาได้สร้างสถิติใหม่ว่ามนุษย์ที่อยู่ไกลที่สุดเท่าที่เคยเดินทางออกจากโลก ซึ่งเกินกว่าระยะทางที่กำหนดโดย Apollo 13 ในปี 1972 ประมาณ 4,000 ไมล์ แม้ว่าจะไม่มีภารกิจในอวกาศใดที่สามารถดำเนินชีวิตตามทัชดาวน์ประวัติศาสตร์ของ..."
     },
     {
       "source": "MIT Technology Review",
@@ -301,6 +301,18 @@
       "published": "Tue, 18 Aug 2026 09:00:00 +0000",
       "title_th": "การพัฒนาตนเองแบบเรียกซ้ำของ AI อาจไม่เกิดขึ้นอย่างรวดเร็วนัก",
       "summary_th": "คำมั่นสัญญาที่ชัดเจนที่สุดของอุตสาหกรรม AI ในขณะนี้คือ AI จะปรับปรุงตัวเองในไม่ช้า โดยแทบไม่จำเป็นต้องมีการควบคุมดูแลจากมนุษย์ LLM สามารถเขียนโค้ด สร้างข้อมูลสังเคราะห์สำหรับการฝึกอบรม และเพิ่มประสิทธิภาพชิปคอมพิวเตอร์ที่พวกเขาทำงานอยู่ได้ การคาดการณ์ความก้าวหน้าของ AI อย่างก้าวกระโดดทำนายว่าสิ่งที่นักวิจัยเรียกว่าการพัฒนาตนเองแบบเรียกซ้ำนั้นอยู่บนขอบฟ้า …"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "NASA images show crater on the moon caused by SpaceX Falcon 9 crash",
+      "summary_en": "NASA's Lunar Reconnaissance Orbiter took images of the crater created by a SpaceX rocket crashing into the moon.",
+      "image": "https://www.engadget.com/img/gallery/nasa-images-show-crater-on-the-moon-caused-by-spacex-falcon-9-crash/l-intro-1787140739.jpg",
+      "link": "https://www.engadget.com/2239823/nasa-images-show-crater-on-the-moon-caused-by-spacex-falcon-9-crash/",
+      "published": "Wed, 19 Aug 2026 12:10:27 +0000",
+      "title_th": "ภาพถ่ายของนาซ่าแสดงปล่องภูเขาไฟบนดวงจันทร์ที่เกิดจากการชนของ SpaceX Falcon 9",
+      "summary_th": "Lunar Reconnaissance Orbiter ของ NASA ถ่ายภาพปล่องภูเขาไฟที่สร้างขึ้นโดยจรวด SpaceX ที่พุ่งชนดวงจันทร์"
     },
     {
       "source": "Engadget",
@@ -351,18 +363,6 @@
       "summary_th": "วิธีตรวจสอบสุขภาพแบตเตอรี่ของ iPhone และจำนวนรอบการทำงาน"
     },
     {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "GTA 6 gameplay leaked ahead of its new trailer, and Rockstar is taking down the videos",
-      "summary_en": "Two legit-seeming clips and a world map are out there, if you know where to look.",
-      "image": "https://www.engadget.com/img/gallery/gta-6-gameplay-leaked-ahead-of-its-new-trailer-and-rockstar-is-taking-down-the-videos/l-intro-1787084868.jpg",
-      "link": "https://www.engadget.com/2239548/gta-6-gameplay-leak-august-2026/",
-      "published": "Tue, 18 Aug 2026 20:29:54 +0000",
-      "title_th": "เกมเพลย์ GTA 6 รั่วไหลออกมาก่อนตัวอย่างใหม่และ Rockstar กำลังลบวิดีโอ",
-      "summary_th": "มีคลิปที่ดูถูกกฎหมายสองคลิปและแผนที่โลกอยู่ หากคุณรู้ว่าจะต้องดูที่ไหน"
-    },
-    {
       "source": "IEEE Spectrum",
       "flag": "US",
       "category": "robot",
@@ -408,7 +408,7 @@
       "link": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
       "published": "Fri, 14 Aug 2026 17:27:12 +0000",
       "title_th": "ทำนายการเชื่อมต่อเสาอากาศบนแพลตฟอร์มไฟฟ้าขนาดใหญ่ก่อนสร้างฮาร์ดแวร์",
-      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นทำนายการต่อเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามแบบใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
+      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นทำนายการต่อเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามประการใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
     },
     {
       "source": "IEEE Spectrum",
@@ -420,7 +420,31 @@
       "link": "https://spectrum.ieee.org/product-engineer",
       "published": "Thu, 13 Aug 2026 14:44:50 +0000",
       "title_th": "นำแนวคิดของผู้จัดการผลิตภัณฑ์มาใช้กับงานวิศวกรรมครั้งต่อไปของคุณ",
-      "summary_th": "หากคุณยังไม่เห็นตำแหน่งงานสำหรับ “วิศวกรผลิตภัณฑ์” คุณอาจจะได้ทราบเร็วๆ นี้ งานที่จู่ๆ ทุกคนก็จ้างเข้ามา บทบาทนี้เปรียบเสมือนลูกผสมระหว่างผู้จัดการผลิตภัณฑ์และวิศวกร (ตามชื่อเลย) และเป็นเทรนด์การจ้างงานที่ควรค่าแก่การใส่ใจ บริษัทต่างๆ กำลังเปิดรับตำแหน่งงานเหล่านี้เพิ่มขึ้นทุกๆ เดือน แต่พวกเขาก็ประสบปัญหาในการเติมเต็มตำแหน่งดังกล่าว เหตุผลแทบไม่เกี่ยวข้องกับทักษะการเขียนโค้ดของวิศวกรหรือประสบการณ์หลายปี การย้ายอาชีพที่ดีที่สุดที่คุณสามารถทำได้เพื่อเตรียมพร้อมสำหรับบทบาทประเภทนี้แทบจะไม่เกี่ยวข้องกับการได้รับความรู้ด้านเทคนิคมากขึ้นเลย แต่กลับกลายเป็นคำที่ฟุ่มเฟือยที่สุด ใช้มากเกินไป และอาจเลวร้ายที่สุดในเทคโนโลยีทั้งหมด: ความคิด ติดกับฉันฉันสัญญาว่าสิ่งนี้จะเป็นประโยชน์ ปัญหา: เราถูกฝึกให้เป็นทาส"
+      "summary_th": "หากคุณยังไม่เห็นตำแหน่งงานสำหรับ “วิศวกรผลิตภัณฑ์” คุณอาจจะได้ทราบเร็วๆ นี้ งานที่จู่ๆ ทุกคนก็จ้างมา บทบาทนี้เปรียบเสมือนลูกผสมระหว่างผู้จัดการผลิตภัณฑ์และวิศวกร (ตามชื่อเลย) และเป็นเทรนด์การจ้างงานที่ควรค่าแก่การใส่ใจ บริษัทต่างๆ กำลังเปิดรับตำแหน่งงานเหล่านี้เพิ่มขึ้นทุกๆ เดือน แต่พวกเขาก็ประสบปัญหาในการเติมเต็มตำแหน่งดังกล่าว เหตุผลแทบจะไม่เกี่ยวข้องกับทักษะการเขียนโค้ดของวิศวกรหรือประสบการณ์หลายปี การย้ายอาชีพที่ดีที่สุดที่คุณสามารถทำได้เพื่อเตรียมพร้อมสำหรับบทบาทประเภทนี้แทบจะไม่เกี่ยวข้องกับการได้รับความรู้ด้านเทคนิคมากขึ้นเลย แต่กลับกลายเป็นคำที่ฟุ่มเฟือยที่สุด ใช้มากเกินไป และอาจแย่ที่สุดในเทคโนโลยีทั้งหมด: ความคิด ติดกับฉันฉันสัญญาว่าสิ่งนี้จะเป็นประโยชน์ ปัญหา: เราถูกฝึกให้เป็นทาส"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "HomePad code suggests it’ll act like a giant Apple Watch",
+      "summary_en": "The latest macOS 26.7 beta appears to have revealed quite a lot about a number of upcoming Apple home products. It includes references to a new HomePod mini, a security camera, a next-generation Siri remote for a new Apple TV 4K – and the long-anticipated HomePad product. A deeper dive into the code also appears to provide significant clues about what we can expect from the HomePad …",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/homepad-rainbow-hello-homepod.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/19/homepad-code-suggests-itll-act-like-a-giant-apple-watch/",
+      "published": "Wed, 19 Aug 2026 11:44:34 +0000",
+      "title_th": "รหัส HomePad แนะนำว่ามันจะทำหน้าที่เหมือน Apple Watch ขนาดยักษ์",
+      "summary_th": "macOS 26.7 เบต้าล่าสุดดูเหมือนจะเปิดเผยข้อมูลผลิตภัณฑ์ Apple ในบ้านที่กำลังจะมาถึงค่อนข้างมาก รวมถึงการอ้างอิงถึง HomePod mini ใหม่, กล้องวงจรปิด, รีโมท Siri รุ่นถัดไปสำหรับ Apple TV 4K ใหม่ และผลิตภัณฑ์ HomePad ที่รอคอยมานาน การดำน้ำลึกลงไปในโค้ดดูเหมือนจะให้ข้อมูลสำคัญเกี่ยวกับสิ่งที่เราคาดหวังจาก HomePad …"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Otterbox and Astropad think iPhone 17 Pro cases will fit iPhone 18 Pro",
+      "summary_en": "One of the hidden expenses in upgrading to a new iPhone can often be the need to replace your case when the dimensions differ. That so far seemed a likely bet for anyone upgrading from one of last year’s Pro models to the iPhone 18 Pro , but two accessory makers think not – with one of them going all-in on the bet …",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/19/otterbox-and-astropad-think-iphone-17-pro-cases-will-fit-iphone-18-pro/",
+      "published": "Wed, 19 Aug 2026 11:21:19 +0000",
+      "title_th": "Otterbox และ Astropad คิดว่าเคส iPhone 17 Pro จะพอดีกับ iPhone 18 Pro",
+      "summary_th": "ค่าใช้จ่ายที่ซ่อนอยู่ประการหนึ่งในการอัปเกรดเป็น iPhone ใหม่มักเป็นความจำเป็นในการเปลี่ยนเคสเมื่อขนาดแตกต่างกัน จนถึงตอนนี้ดูเหมือนว่าจะเป็นเดิมพันสำหรับทุกคนที่อัปเกรดจากรุ่น Pro รุ่นหนึ่งของปีที่แล้วเป็น iPhone 18 Pro แต่ผู้ผลิตอุปกรณ์เสริมสองรายไม่คิดว่าจะเป็นเช่นนั้น โดยหนึ่งในนั้นทุ่มเดิมพันทั้งหมด …"
     },
     {
       "source": "9to5Mac",
@@ -432,7 +456,7 @@
       "link": "https://9to5mac.com/2026/08/18/daily-august-18-2026/",
       "published": "Tue, 18 Aug 2026 21:56:50 +0000",
       "title_th": "9to5Mac รายวัน: 18 สิงหาคม 2569 – iOS 27 เบต้า 6, AirPods รั่ว",
-      "summary_th": "ฟังสรุปเรื่องเด่นประจำวันจาก 9to5Mac 9to5Mac Daily มีให้บริการบน iTunes และแอป Podcasts ของ Apple , Stitcher , TuneIn , Google Play หรือผ่านทางฟีด RSS เฉพาะของเราสำหรับ Overcast และเครื่องเล่นพอดแคสต์อื่นๆ สนับสนุนโดย Backblaze : ข้อมูลสำรองที่คุณวางใจได้ ประหยัด 20% ด้วยรหัส 9to5daily"
+      "summary_th": "ฟังสรุปเรื่องเด่นประจำวันจาก 9to5Mac 9to5Mac Daily มีให้บริการบน iTunes และแอป Podcasts ของ Apple , Stitcher , TuneIn , Google Play หรือผ่านทางฟีด RSS เฉพาะของเราสำหรับ Overcast และเครื่องเล่นพอดแคสต์อื่นๆ สนับสนุนโดย Backblaze : การสำรองข้อมูลที่คุณวางใจได้ ประหยัด 20% ด้วยรหัส 9to5daily"
     },
     {
       "source": "9to5Mac",
@@ -459,30 +483,6 @@
       "summary_th": "อัพเดท 19:49 น. ET: ขณะนี้ปัญหาทั้งหมดถูกทำเครื่องหมายว่าได้รับการแก้ไขแล้ว เรื่องราวดั้งเดิมดังต่อไปนี้ หน้าสถานะระบบของ Apple ยืนยันว่าผู้บริโภคและนักพัฒนากำลังประสบปัญหาในการเข้าถึงบริการบางอย่าง นี่คือรายละเอียด"
     },
     {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Comcast just turned millions of Xfinity routers into motion sensors",
-      "summary_en": "Comcast launched Xfinity Shield today, a new home protection platform that includes a feature to turn routers into motion sensors. Here are the details.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/comcast-xfinity-gateway-router.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/18/comcast-just-turned-millions-of-xfinity-routers-into-motion-sensors/",
-      "published": "Tue, 18 Aug 2026 20:33:55 +0000",
-      "title_th": "Comcast เพิ่งเปลี่ยนเราเตอร์ Xfinity หลายล้านตัวให้เป็นเซ็นเซอร์ตรวจจับความเคลื่อนไหว",
-      "summary_th": "Comcast เปิดตัว Xfinity Shield วันนี้ซึ่งเป็นแพลตฟอร์มป้องกันบ้านใหม่ที่มีคุณสมบัติในการเปลี่ยนเราเตอร์ให้เป็นเซ็นเซอร์ตรวจจับความเคลื่อนไหว นี่คือรายละเอียด"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Firefox Smart Window adds AI web search, automatic tab groups, and more",
-      "summary_en": "Mozilla today announced new features to Firefox’s AI-powered Smart Window, which remains in beta. Here are the details.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/firefox-smart-window.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/18/firefox-smart-window-adds-ai-web-search-automatic-tab-groups-and-more/",
-      "published": "Tue, 18 Aug 2026 20:23:57 +0000",
-      "title_th": "Firefox Smart Window เพิ่มการค้นหาเว็บด้วย AI กลุ่มแท็บอัตโนมัติ และอื่นๆ อีกมากมาย",
-      "summary_th": "วันนี้ Mozilla ประกาศคุณสมบัติใหม่ของ Smart Window ที่ขับเคลื่อนด้วย AI ของ Firefox ซึ่งยังคงอยู่ในรุ่นเบต้า นี่คือรายละเอียด"
-    },
-    {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
@@ -504,7 +504,7 @@
       "link": "https://9to5google.com/2026/08/18/google-gradually-rolling-out-androids-advanced-sideloading-ahead-of-developer-verification/",
       "published": "Tue, 18 Aug 2026 21:50:00 +0000",
       "title_th": "Google 'ค่อยๆ' เปิดตัว 'ขั้นสูง' ของ Android ไซด์โหลดก่อนการตรวจสอบนักพัฒนา",
-      "summary_th": "ก่อนเริ่มการตรวจสอบนักพัฒนาซอฟต์แวร์ในเดือนหน้า Google กำลังเปิดตัวขั้นตอน \"ขั้นสูง\" ของ Android สำหรับการโหลดด้านข้าง"
+      "summary_th": "ก่อนเริ่มการตรวจสอบนักพัฒนาซอฟต์แวร์ในเดือนหน้า Google กำลังเปิดตัวขั้นตอน \"ขั้นสูง\" ของ Android สำหรับการไซด์โหลด"
     },
     {
       "source": "9to5Google",
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 265.0,
-      "change": -5.0,
-      "change_pct": -1.85
+      "price": 264.0,
+      "change": -6.0,
+      "change_pct": -2.22
     }
   ],
   "reviews": [
