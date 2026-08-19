@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T06:22:43.447881+00:00",
+  "generated_at": "2026-08-19T09:22:28.105776+00:00",
   "count": 50,
   "articles": [
     {
@@ -36,7 +36,7 @@
       "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
       "published": "Tue, 18 Aug 2026 18:00:00 +0000",
       "title_th": "OpenAI สร้างการป้องกันใหม่หลังจากการละเมิด Hugging Face",
-      "summary_th": "การป้องกันใหม่ประกอบด้วยการตรวจสอบโมเดลโดยละเอียดมากขึ้นในระหว่างกระบวนการพัฒนา รวมถึงการเน้นที่การจัดตำแหน่งและการรักษาความปลอดภัยในระหว่างกระบวนการหลังการฝึกอบรมมากขึ้น"
+      "summary_th": "การป้องกันใหม่ประกอบด้วยการตรวจสอบโมเดลอย่างละเอียดมากขึ้นในระหว่างกระบวนการพัฒนา รวมถึงการเน้นที่การจัดตำแหน่งและการรักษาความปลอดภัยในระหว่างกระบวนการหลังการฝึกอบรมมากขึ้น"
     },
     {
       "source": "TechCrunch",
@@ -84,7 +84,7 @@
       "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
       "published": "2026-08-18T15:48:26-04:00",
       "title_th": "บัญชี Instagram ของ Robin Williams กลับมาเพื่อต่อสู้กับ 'การละเมิด AI'",
-      "summary_th": "ลูกๆ ของ Robin Williams เข้ายึดบัญชี Instagram ของพ่อ หลังจากที่ลูกสาวของเขาออกมาต่อต้านการใช้ความคล้ายคลึงกับ AI ของเขา ตามรายงานของ The Wrap ก่อนหน้านี้ ในโพสต์เมื่อวันอังคาร Zak, Zelda และ Cody Williams เขียนว่าพวกเขาต้องการให้โปรไฟล์ Instagram ของนักแสดงผู้ล่วงลับนี้เป็น \"สถานที่ที่ปลอดภัยและเชื่อถือได้ซึ่ง […]"
+      "summary_th": "ลูกๆ ของ Robin Williams เข้ามาครอบครองบัญชี Instagram ของพ่อ หลังจากที่ลูกสาวของเขาออกมาต่อต้านการใช้ความคล้ายคลึงกับ AI ของเขา ตามรายงานของ The Wrap ก่อนหน้านี้ ในโพสต์เมื่อวันอังคาร Zak, Zelda และ Cody Williams เขียนว่าพวกเขาต้องการให้โปรไฟล์ Instagram ของนักแสดงผู้ล่วงลับนี้เป็น \"สถานที่ที่ปลอดภัยและเชื่อถือได้ซึ่ง […]"
     },
     {
       "source": "The Verge",
@@ -108,7 +108,7 @@
       "link": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale",
       "published": "2026-08-18T13:47:04-04:00",
       "title_th": "วันนี้ Galaxy Buds 3 Pro ของ Samsung ลดเกือบครึ่งหนึ่งแล้ว",
-      "summary_th": "หากคุณกำลังมองหาเอียร์บัดที่มีฟีเจอร์ครบครันซึ่งจะไม่ทำให้กระเป๋าเงินของคุณพัง Best Buy มี Samsung Galaxy Buds 3 Pro จำหน่ายในราคา 139.99 ดอลลาร์ ซึ่งต่ำกว่าราคาปัจจุบันของ Amazon อยู่ที่ 40 เหรียญสหรัฐฯ และมีส่วนลดมากจากราคาขายปลีกเดิมที่ 249.99 เหรียญสหรัฐฯ เอียร์บัดที่มีอุปกรณ์ครบครันเหล่านี้ให้คุณภาพเสียงที่ยอดเยี่ยม โปร่งใสคมชัด […]"
+      "summary_th": "หากคุณกำลังมองหาเอียร์บัดที่มีฟีเจอร์ครบครันซึ่งจะไม่ทำให้กระเป๋าเงินของคุณพัง Best Buy มี Samsung Galaxy Buds 3 Pro จำหน่ายในราคา 139.99 ดอลลาร์ ซึ่งต่ำกว่าราคา Amazon ปัจจุบันอยู่ที่ 40 เหรียญสหรัฐฯ และมีส่วนลดมากจากราคาขายปลีกเดิมที่ 249.99 เหรียญสหรัฐฯ เอียร์บัดที่มีอุปกรณ์ครบครันเหล่านี้ให้คุณภาพเสียงที่ยอดเยี่ยม โปร่งใสคมชัด […]"
     },
     {
       "source": "The Verge",
@@ -186,13 +186,25 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
+      "title_en": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+      "summary_en": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.",
+      "image": "https://media.wired.com/photos/6a834e2ceca883ccd19e58fc/master/pass/Security_InsideNightshifttheAIAgentFlock_v1.gif",
+      "link": "https://www.wired.com/story/flock-safety-os-investigate/",
+      "published": "Wed, 19 Aug 2026 09:00:00 +0000",
+      "title_th": "Flock มีเครื่องมือ AI ใหม่อันทรงพลังสำหรับตำรวจ เราได้รับรหัสแล้ว",
+      "summary_th": "กล้องวงจรปิดของ Flock ได้จุดประกายความโกรธแค้นแล้ว WIRED ได้สร้างระบบ AI ยุคถัดไปขึ้นมาใหม่ ซึ่งตำรวจบางส่วนใช้งานอยู่แล้ว เพื่อยืนยันว่าระบบดังกล่าวไปไกลกว่าการติดตามป้ายทะเบียนมาก"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
       "title_en": "Wayfair Coupons: Up to 80% Off August 2026",
       "summary_en": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
       "image": "https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png",
       "link": "https://www.wired.com/story/wayfair-promo-code/",
       "published": "Wed, 19 Aug 2026 05:00:00 +0000",
       "title_th": "คูปอง Wayfair: ลดสูงสุดถึง 80% ในเดือนสิงหาคม 2569",
-      "summary_th": "รับส่วนลด 10% ด้วยรหัสโปรโมชั่น Wayfair ลดสูงสุด 80% สำหรับเฟอร์นิเจอร์ และคูปองยอดนิยมอื่นๆ อีกมากมาย"
+      "summary_th": "รับส่วนลด 10% ด้วยรหัสโปรโมชั่น Wayfair เฟอร์นิเจอร์สูงสุดถึง 80% และคูปองยอดนิยมอื่นๆ อีกมากมาย"
     },
     {
       "source": "Wired",
@@ -231,16 +243,16 @@
       "summary_th": "รับส่วนลดสูงสุดถึง 10% สำหรับการสั่งซื้อทั้งหมดของคุณด้วยรหัสส่งเสริมการขาย Newegg และรหัสส่วนลดวันนี้ ประหยัดด้วยข้อเสนอล่าสุดสำหรับพีซีสำหรับเล่นเกม แล็ปท็อป และชิ้นส่วนคอมพิวเตอร์"
     },
     {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
       "category": "ai",
-      "title_en": "Dyson Promo Codes: 25% Off in August 2026",
-      "summary_en": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
-      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
-      "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
-      "published": "Wed, 19 Aug 2026 05:00:00 +0000",
-      "title_th": "รหัสส่งเสริมการขาย Dyson: ลด 25% ในเดือนสิงหาคม 2026",
-      "summary_th": "รับส่วนลด 25% ด้วยรหัสคูปอง Dyson พร้อมรับส่วนลดสูงสุดถึง 600 ดอลลาร์สำหรับเครื่องดูดฝุ่น ส่วนลด 150 ดอลลาร์สำหรับ Airwraps และอื่นๆ อีกมากมาย"
+      "title_en": "Child-monitoring apps might need a reboot",
+      "summary_en": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. Online, she…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT-Tech_Review-Opener-FINAL-thumb.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+      "published": "Wed, 19 Aug 2026 09:00:00 +0000",
+      "title_th": "แอปดูแลเด็กอาจต้องรีบูต",
+      "summary_th": "วัยรุ่นทางดิจิทัลของ Pam Wisniewski แสดงให้เธอเห็นถึงสิ่งที่ดีที่สุดและแย่ที่สุดของอินเทอร์เน็ต เมื่ออายุ 14 ปี เธอออกจากบ้านที่ทารุณกรรม ซึ่งเธอถูกโดดเดี่ยวโดยรถพ่วงห้าล้อที่ปลายถนนลูกรังยาวเจ็ดไมล์ เธอย้ายไปอยู่กับพี่สาวและสอนตัวเองให้พิมพ์บน AOL Instant Messenger ออนไลน์ เธอ..."
     },
     {
       "source": "MIT Technology Review",
@@ -276,7 +288,7 @@
       "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
       "published": "Tue, 18 Aug 2026 09:00:00 +0000",
       "title_th": "บทบาทของนักบินอวกาศกำลังอยู่ในช่วงฟุ้งซ่าน",
-      "summary_th": "เมื่อนักบินอวกาศทั้งสี่คนบนเรือ Artemis II ของ NASA หมุนรอบดวงจันทร์เมื่อต้นปีนี้ พวกเขาได้สร้างสถิติใหม่ว่ามนุษย์ที่อยู่ไกลที่สุดเท่าที่เคยเดินทางออกจากโลก ซึ่งเกินกว่าระยะทางที่กำหนดโดย Apollo 13 ในปี 1972 ประมาณ 4,000 ไมล์ แม้ว่าจะไม่มีภารกิจในอวกาศใดที่สามารถดำเนินชีวิตตามทัชดาวน์ประวัติศาสตร์ของ..."
+      "summary_th": "เมื่อนักบินอวกาศทั้งสี่คนบนเรือ Artemis II ของ NASA หมุนรอบดวงจันทร์เมื่อต้นปีนี้ พวกเขาได้สร้างสถิติใหม่ว่ามนุษย์ที่อยู่ไกลที่สุดเท่าที่เคยผจญภัยไปจากโลก ซึ่งเกินกว่าระยะทางที่กำหนดโดย Apollo 13 ในปี 1972 ประมาณ 4,000 ไมล์ แม้ว่าจะไม่มีภารกิจในอวกาศใดที่สามารถดำเนินชีวิตตามทัชดาวน์ประวัติศาสตร์ของ..."
     },
     {
       "source": "MIT Technology Review",
@@ -291,16 +303,16 @@
       "summary_th": "คำมั่นสัญญาที่ชัดเจนที่สุดของอุตสาหกรรม AI ในขณะนี้คือ AI จะปรับปรุงตัวเองในไม่ช้า โดยแทบไม่จำเป็นต้องมีการควบคุมดูแลจากมนุษย์ LLM สามารถเขียนโค้ด สร้างข้อมูลสังเคราะห์สำหรับการฝึกอบรม และเพิ่มประสิทธิภาพชิปคอมพิวเตอร์ที่พวกเขาทำงานอยู่ได้ การคาดการณ์ความก้าวหน้าของ AI อย่างก้าวกระโดดทำนายว่าสิ่งที่นักวิจัยเรียกว่าการพัฒนาตนเองแบบเรียกซ้ำนั้นอยู่บนขอบฟ้า …"
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "What Flock’s defenders are missing",
-      "summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26153043646326.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
-      "published": "Mon, 17 Aug 2026 19:16:09 +0000",
-      "title_th": "สิ่งที่กองหลังของ Flock ขาดหายไป",
-      "summary_th": "เรื่องราวนี้เดิมปรากฏใน The Algorithm ซึ่งเป็นจดหมายข่าวรายสัปดาห์เกี่ยวกับ AI ของเรา หากต้องการรับเรื่องราวเช่นนี้ในกล่องจดหมายของคุณก่อน ลงทะเบียนที่นี่ Flock ยักษ์ใหญ่ด้านเทคโนโลยีตำรวจซึ่งเป็นที่รู้จักจากเครือข่ายเครื่องอ่านป้ายทะเบียนอัตโนมัติประมาณ 120,000 รายทั่วสหรัฐอเมริกา ได้ประกาศการเปลี่ยนแปลงบางอย่างในแพลตฟอร์มเมื่อวันพฤหัสบดีที่ผ่านมา การอัปเดตมีไว้เพื่อป้องกัน..."
+      "category": "chip",
+      "title_en": "China reportedly allows ByteDance and Tencent to import 10,000 H200 chips",
+      "summary_en": "ByteDance and Tencent have received 10,000 H200 chips each, the Financial Times says, and other Chinese companies could follow.",
+      "image": "https://www.engadget.com/img/gallery/china-reportedly-allows-bytedance-and-tencent-to-import-10000-h200-chips/l-intro-1787123117.jpg",
+      "link": "https://www.engadget.com/2239738/china-reportedly-allows-bytedance-tencent-import-10000-h200-chips/",
+      "published": "Wed, 19 Aug 2026 07:11:10 +0000",
+      "title_th": "มีรายงานว่าจีนอนุญาตให้ ByteDance และ Tencent นำเข้าชิป H200 ได้ 10,000 ตัว",
+      "summary_th": "ByteDance และ Tencent ได้รับชิป H200 คนละ 10,000 ชิป Financial Times กล่าว และบริษัทจีนอื่นๆ ก็สามารถตามมาได้"
     },
     {
       "source": "Engadget",
@@ -351,18 +363,6 @@
       "summary_th": "มีคลิปที่ดูถูกกฎหมายสองคลิปและแผนที่โลกอยู่ หากคุณรู้ว่าจะต้องดูที่ไหน"
     },
     {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Things I learned about the rumored HomePod display from macOS beta code",
-      "summary_en": "Apple's latest software references watch-like \"Faces.\"",
-      "image": "https://www.engadget.com/img/gallery/things-i-learned-about-the-rumored-homepod-display-from-macos-beta-code/l-intro-1787083209.jpg",
-      "link": "https://www.engadget.com/2239524/things-i-learned-about-the-rumored-homepod-display-from-macos-beta-code/",
-      "published": "Tue, 18 Aug 2026 20:11:55 +0000",
-      "title_th": "สิ่งที่ฉันได้เรียนรู้เกี่ยวกับข่าวลือเรื่องจอแสดงผล HomePod จากโค้ดเบต้าของ macOS",
-      "summary_th": "ซอฟต์แวร์ล่าสุดของ Apple อ้างอิงถึง \"Faces\" ที่มีลักษณะคล้ายนาฬิกา"
-    },
-    {
       "source": "IEEE Spectrum",
       "flag": "US",
       "category": "robot",
@@ -408,7 +408,7 @@
       "link": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
       "published": "Fri, 14 Aug 2026 17:27:12 +0000",
       "title_th": "ทำนายการเชื่อมต่อเสาอากาศบนแพลตฟอร์มไฟฟ้าขนาดใหญ่ก่อนสร้างฮาร์ดแวร์",
-      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นทำนายการต่อเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามประการใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
+      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นทำนายการต่อเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามแบบใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
     },
     {
       "source": "IEEE Spectrum",
@@ -420,7 +420,7 @@
       "link": "https://spectrum.ieee.org/product-engineer",
       "published": "Thu, 13 Aug 2026 14:44:50 +0000",
       "title_th": "นำแนวคิดของผู้จัดการผลิตภัณฑ์มาใช้กับงานวิศวกรรมครั้งต่อไปของคุณ",
-      "summary_th": "หากคุณยังไม่เห็นตำแหน่งงานสำหรับ “วิศวกรผลิตภัณฑ์” คุณอาจจะได้ทราบเร็วๆ นี้ งานที่จู่ๆ ทุกคนก็จ้างมา บทบาทนี้เปรียบเสมือนลูกผสมระหว่างผู้จัดการผลิตภัณฑ์และวิศวกร (ตามชื่อเลย) และเป็นเทรนด์การจ้างงานที่ควรค่าแก่การใส่ใจ บริษัทต่างๆ กำลังเปิดรับตำแหน่งงานเหล่านี้เพิ่มขึ้นทุกๆ เดือน แต่พวกเขาก็ประสบปัญหาในการเติมเต็มตำแหน่งดังกล่าว เหตุผลแทบจะไม่เกี่ยวข้องกับทักษะการเขียนโค้ดของวิศวกรหรือประสบการณ์หลายปี การย้ายอาชีพที่ดีที่สุดที่คุณสามารถทำได้เพื่อเตรียมพร้อมสำหรับบทบาทประเภทนี้แทบจะไม่เกี่ยวข้องกับการได้รับความรู้ด้านเทคนิคมากขึ้นเลย แต่กลับกลายเป็นคำที่ฟุ่มเฟือยที่สุด ใช้มากเกินไป และอาจแย่ที่สุดในเทคโนโลยีทั้งหมด: ความคิด ติดกับฉันฉันสัญญาว่าสิ่งนี้จะเป็นประโยชน์ ปัญหา: เราถูกฝึกให้เป็นทาส"
+      "summary_th": "หากคุณยังไม่เห็นตำแหน่งงานสำหรับ “วิศวกรผลิตภัณฑ์” คุณอาจจะได้ทราบเร็วๆ นี้ งานที่จู่ๆ ทุกคนก็จ้างเข้ามา บทบาทนี้เปรียบเสมือนลูกผสมระหว่างผู้จัดการผลิตภัณฑ์และวิศวกร (ตามชื่อเลย) และเป็นเทรนด์การจ้างงานที่ควรค่าแก่การใส่ใจ บริษัทต่างๆ กำลังเปิดรับตำแหน่งงานเหล่านี้เพิ่มขึ้นทุกๆ เดือน แต่พวกเขาก็ประสบปัญหาในการเติมเต็มตำแหน่งดังกล่าว เหตุผลแทบไม่เกี่ยวข้องกับทักษะการเขียนโค้ดของวิศวกรหรือประสบการณ์หลายปี การย้ายอาชีพที่ดีที่สุดที่คุณสามารถทำได้เพื่อเตรียมพร้อมสำหรับบทบาทประเภทนี้แทบจะไม่เกี่ยวข้องกับการได้รับความรู้ด้านเทคนิคมากขึ้นเลย แต่กลับกลายเป็นคำที่ฟุ่มเฟือยที่สุด ใช้มากเกินไป และอาจเลวร้ายที่สุดในเทคโนโลยีทั้งหมด: ความคิด ติดกับฉันฉันสัญญาว่าสิ่งนี้จะเป็นประโยชน์ ปัญหา: เราถูกฝึกให้เป็นทาส"
     },
     {
       "source": "9to5Mac",
@@ -432,7 +432,7 @@
       "link": "https://9to5mac.com/2026/08/18/daily-august-18-2026/",
       "published": "Tue, 18 Aug 2026 21:56:50 +0000",
       "title_th": "9to5Mac รายวัน: 18 สิงหาคม 2569 – iOS 27 เบต้า 6, AirPods รั่ว",
-      "summary_th": "ฟังสรุปเรื่องเด่นประจำวันจาก 9to5Mac 9to5Mac Daily มีให้บริการบน iTunes และแอป Podcasts ของ Apple , Stitcher , TuneIn , Google Play หรือผ่านทางฟีด RSS เฉพาะของเราสำหรับ Overcast และเครื่องเล่นพอดแคสต์อื่นๆ สนับสนุนโดย Backblaze : การสำรองข้อมูลที่คุณวางใจได้ ประหยัด 20% ด้วยรหัส 9to5daily"
+      "summary_th": "ฟังสรุปเรื่องเด่นประจำวันจาก 9to5Mac 9to5Mac Daily มีให้บริการบน iTunes และแอป Podcasts ของ Apple , Stitcher , TuneIn , Google Play หรือผ่านทางฟีด RSS เฉพาะของเราสำหรับ Overcast และเครื่องเล่นพอดแคสต์อื่นๆ สนับสนุนโดย Backblaze : ข้อมูลสำรองที่คุณวางใจได้ ประหยัด 20% ด้วยรหัส 9to5daily"
     },
     {
       "source": "9to5Mac",
@@ -504,7 +504,7 @@
       "link": "https://9to5google.com/2026/08/18/google-gradually-rolling-out-androids-advanced-sideloading-ahead-of-developer-verification/",
       "published": "Tue, 18 Aug 2026 21:50:00 +0000",
       "title_th": "Google 'ค่อยๆ' เปิดตัว 'ขั้นสูง' ของ Android ไซด์โหลดก่อนการตรวจสอบนักพัฒนา",
-      "summary_th": "ก่อนเริ่มการตรวจสอบนักพัฒนาซอฟต์แวร์ในเดือนหน้า Google กำลังเปิดตัวขั้นตอน \"ขั้นสูง\" ของ Android สำหรับการไซด์โหลด"
+      "summary_th": "ก่อนเริ่มการตรวจสอบนักพัฒนาซอฟต์แวร์ในเดือนหน้า Google กำลังเปิดตัวขั้นตอน \"ขั้นสูง\" ของ Android สำหรับการโหลดด้านข้าง"
     },
     {
       "source": "9to5Google",
@@ -664,10 +664,131 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 267.0,
-      "change": -3.0,
-      "change_pct": -1.11
+      "price": 265.0,
+      "change": -5.0,
+      "change_pct": -1.85
     }
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Google Pixel 11/Pro/Fold Impressions: It Is What It Is",
+      "video_id": "o4SSoURPODY",
+      "link": "https://www.youtube.com/watch?v=o4SSoURPODY",
+      "thumbnail": "https://i4.ytimg.com/vi/o4SSoURPODY/hqdefault.jpg",
+      "published": "2026-08-12T14:00:35+00:00",
+      "title_th": "การแสดงผลของ Google Pixel 11/Pro/Fold: มันคือสิ่งที่เป็นอยู่"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Galaxy Z Fold 8 Review: Honeymoon's Over",
+      "video_id": "Z6z_feacXW8",
+      "link": "https://www.youtube.com/watch?v=Z6z_feacXW8",
+      "thumbnail": "https://i3.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg",
+      "published": "2026-08-01T00:05:00+00:00",
+      "title_th": "รีวิว Galaxy Z Fold 8: ฮันนีมูนจบลงแล้ว"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Framework 13 Pro: The Modular Laptop is Real!",
+      "video_id": "_xjxwl1zLMc",
+      "link": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
+      "thumbnail": "https://i4.ytimg.com/vi/_xjxwl1zLMc/hqdefault.jpg",
+      "published": "2026-07-27T15:38:21+00:00",
+      "title_th": "Framework 13 Pro: แล็ปท็อปแบบแยกส่วนมีจริง!"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Looking for a \"SecondBrain\"?",
+      "video_id": "SUA2xGy-beg",
+      "link": "https://www.youtube.com/shorts/SUA2xGy-beg",
+      "thumbnail": "https://i4.ytimg.com/vi/SUA2xGy-beg/hqdefault.jpg",
+      "published": "2026-08-18T14:54:12+00:00",
+      "title_th": "กำลังมองหา \"SecondBrain\" อยู่ใช่ไหม?"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "The New Insta360 Is Here...",
+      "video_id": "5eEjWmsoB7w",
+      "link": "https://www.youtube.com/shorts/5eEjWmsoB7w",
+      "thumbnail": "https://i2.ytimg.com/vi/5eEjWmsoB7w/hqdefault.jpg",
+      "published": "2026-08-17T14:00:32+00:00",
+      "title_th": "Insta360 ใหม่อยู่ที่นี่แล้ว..."
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "New Ninja Water Gadget",
+      "video_id": "8Ddp5WaMp_8",
+      "link": "https://www.youtube.com/shorts/8Ddp5WaMp_8",
+      "thumbnail": "https://i1.ytimg.com/vi/8Ddp5WaMp_8/hqdefault.jpg",
+      "published": "2026-08-13T17:52:31+00:00",
+      "title_th": "อุปกรณ์น้ำนินจาใหม่"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "7 Eleven คิ้วท์สุดในไทยอยู่ที่ 'Happitat' !",
+      "video_id": "qQg3YCL9YPs",
+      "link": "https://www.youtube.com/shorts/qQg3YCL9YPs",
+      "thumbnail": "https://i2.ytimg.com/vi/qQg3YCL9YPs/hqdefault.jpg",
+      "published": "2026-08-19T06:24:36+00:00",
+      "title_th": "7 Eleven คิ้วท์สุดในไทยอยู่ที่ 'Happitat' !"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "แคดดี้เป็นได้ แต่ไม่ง่ายเหมือนกัน",
+      "video_id": "xvnOmFuAh3Y",
+      "link": "https://www.youtube.com/shorts/xvnOmFuAh3Y",
+      "thumbnail": "https://i1.ytimg.com/vi/xvnOmFuAh3Y/hqdefault.jpg",
+      "published": "2026-08-19T02:38:05+00:00",
+      "title_th": "แคดดี้เป็นได้ แต่ไม่ง่ายเหมือนกัน"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "ทางสายกลางการออกกำลังกาย ไม่มากไป ไม่น้อยไป",
+      "video_id": "hdbd7YF6WJQ",
+      "link": "https://www.youtube.com/shorts/hdbd7YF6WJQ",
+      "thumbnail": "https://i1.ytimg.com/vi/hdbd7YF6WJQ/hqdefault.jpg",
+      "published": "2026-08-18T17:00:35+00:00",
+      "title_th": "ทางสายกลางการออกกำลังกาย ไม่มากไป ไม่น้อยไป"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "แนะนำซื้อ iPhone ตอนนี้ดีกว่า ก่อน iPhone 18 จะมา หรือโดนปรับราคาแพงขึ้น #iPhone17 #ราคาไอโฟน",
+      "video_id": "1jVh7Hc-MXs",
+      "link": "https://www.youtube.com/shorts/1jVh7Hc-MXs",
+      "thumbnail": "https://i2.ytimg.com/vi/1jVh7Hc-MXs/hqdefault.jpg",
+      "published": "2026-08-18T12:45:57+00:00",
+      "title_th": "แนะนำซื้อ iPhone ตอนนี้ดีกว่า ก่อน iPhone 18 จะมา หรือโดนปรับราคาแพงขึ้น #iPhone17 #ราคาไอโฟน"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "ใครแบตอึดที่สุด REDMI Note 17 Pro Max 5G แบต 10000mAh #REDMI #REDMINote17Series #REDMINote17ProMax5G",
+      "video_id": "5qt1rI_EwPI",
+      "link": "https://www.youtube.com/shorts/5qt1rI_EwPI",
+      "thumbnail": "https://i2.ytimg.com/vi/5qt1rI_EwPI/hqdefault.jpg",
+      "published": "2026-08-18T04:23:40+00:00",
+      "title_th": "ใครแบตอึดที่สุด REDMI Note 17 Pro Max 5G แบต 10000mAh #REDMI #REDMINote17Series #REDMINote17ProMax5G"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "✍️ ปากกาแปลก เขียนในกระดาษปกติ แต่ไปโผล่บนจอมือถือได้ทันที?? #YUAN #SmartPen #SmartNotebook #จดโน้ต",
+      "video_id": "ZS_3QmUssv0",
+      "link": "https://www.youtube.com/shorts/ZS_3QmUssv0",
+      "thumbnail": "https://i3.ytimg.com/vi/ZS_3QmUssv0/hqdefault.jpg",
+      "published": "2026-08-16T14:35:04+00:00",
+      "title_th": "✍️ ปากกาแปลก เขียนในกระดาษปกติ แต่ไปโผล่บนจอมือถือได้ทันที?? #YUAN #SmartPen #SmartNotebook #จดโน้ต"
+    }
+  ]
 }
