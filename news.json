@@ -1,66 +1,102 @@
 {
-  "generated_at": "2026-08-19T18:17:04.953781+00:00",
+  "generated_at": "2026-08-19T21:16:37.885359+00:00",
   "count": 50,
   "articles": [
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Meet the startup helping Wall Street put a price on AI compute",
-      "summary_en": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there still isn’t a straightforward way to put a price on compute — or for firms to hedge their exposure when the price changes. Silicon Data […]",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-914452330.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-      "published": "Wed, 19 Aug 2026 17:26:48 +0000",
-      "title_th": "พบกับสตาร์ทอัพช่วยวอลล์สตรีทตั้งราคาคอมพิวเตอร์ AI",
-      "summary_th": "โครงสร้าง AI ไม่แสดงสัญญาณของการชะลอตัว และด้วยเงินหลายแสนล้านดอลลาร์ต่อปีสำหรับศูนย์ข้อมูลและ GPU การประมวลผลจึงกลายเป็นต้นทุนที่ใหญ่ที่สุดสำหรับทุกคนในการสร้างผลิตภัณฑ์ AI แต่สำหรับการใช้จ่ายทั้งหมดนั้น ยังไม่มีวิธีที่ตรงไปตรงมาในการกำหนดราคาในการประมวลผล — หรือสำหรับบริษัทต่างๆ เพื่อป้องกันความเสี่ยงเมื่อราคาเปลี่ยนแปลง ซิลิคอนดาต้า […]"
+      "title_en": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
+      "summary_en": "AI-native account startup Rillet became a unicorn, led by ICONIQ, after it doubled its ARR in the past three months, it said.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/Nicolas-Kopp-Founder-and-CEO-3.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
+      "published": "Wed, 19 Aug 2026 20:12:33 +0000",
+      "title_th": "Rillet ระดมทุน Series C มูลค่า 100 ล้านดอลลาร์ที่การประเมินมูลค่า 1 พันล้านดอลลาร์ — 2 ปีหลังจากหลุดพ้นจากการลักลอบ",
+      "summary_th": "Rillet สตาร์ทอัพบัญชี AI-native กลายเป็นยูนิคอร์น นำโดย ICONIQ หลังจากที่เพิ่ม ARR เป็นสองเท่าในช่วงสามเดือนที่ผ่านมา"
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21",
-      "summary_en": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-Space-Stage-Even-Rogers.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-      "published": "Wed, 19 Aug 2026 16:16:18 +0000",
-      "title_th": "หมดเวลาแล้ว! ประหยัด $300 เมื่อซื้อ TechCrunch Disrupt 2026 Pass จนถึงวันที่ 21 สิงหาคม",
-      "summary_th": "หากคุณวนเวียนอยู่ใน Disrupt ตอนนี้เป็นเวลาที่ดีที่สุดในการล็อคบัตรผ่านของคุณและเริ่มเตรียมพร้อมที่จะเข้าร่วมชุมชนสตาร์ทอัพที่เหลือในซานฟรานซิสโกตั้งแต่วันที่ 13-15 ตุลาคมที่ Moscone West!"
+      "title_en": "Gambling on the Little League World Series? Sports bettors have gone too far",
+      "summary_en": "Have we tried turning off society and turning it back on again?",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2231881863.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/",
+      "published": "Wed, 19 Aug 2026 20:01:02 +0000",
+      "title_th": "การพนันใน Little League World Series หรือไม่? นักพนันกีฬาไปไกลเกินไปแล้ว",
+      "summary_th": "เราได้ลองปิดสังคมแล้วเปิดใหม่อีกครั้งหรือไม่?"
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-      "summary_en": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/terrapower-power-plant.jpg?resize=1200,675",
-      "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-      "published": "Wed, 19 Aug 2026 15:44:53 +0000",
-      "title_th": "เครื่องปฏิกรณ์นิวเคลียร์ของ TerraPower มีอาวุธลับในการจ่ายพลังงานให้กับศูนย์ข้อมูล AI",
-      "summary_th": "โรงไฟฟ้านิวเคลียร์ของ TerraPower มีข้อได้เปรียบเชิงกลยุทธ์เหนือคู่แข่ง โดยเฉพาะอย่างยิ่งเมื่อต้องไล่ตามข้อตกลงศูนย์ข้อมูล"
+      "title_en": "AI was supposed to win people over by now — it hasn’t",
+      "summary_en": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "published": "Wed, 19 Aug 2026 19:11:40 +0000",
+      "title_th": "AI ควรจะเอาชนะใจผู้คนได้ในตอนนี้ – ยังไม่เป็นเช่นนั้น",
+      "summary_th": "เมื่อ AI หลีกเลี่ยงได้ยากขึ้น ผู้บริโภคก็เริ่มระมัดระวังเทคโนโลยีมากขึ้นเรื่อยๆ และ Silicon Valley ก็ค้นพบว่าการยอมรับอย่างกว้างขวางไม่จำเป็นต้องนำไปสู่การยอมรับเสมอไป"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Google packs Search and Gemini with new AI study tools",
+      "summary_en": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "published": "Wed, 19 Aug 2026 19:00:00 +0000",
+      "title_th": "Google บรรจุ Search และ Gemini ด้วยเครื่องมือศึกษา AI ใหม่",
+      "summary_th": "การเปิดตัวฟีเจอร์การศึกษาใหม่ถือเป็นความพยายามล่าสุดของ Google ที่จะทำให้ Gemini เป็นผู้ช่วย AI ที่นักเรียนหันไปใช้เมื่อเรียนและเรียน เนื่องจากยังคงแข่งขันกับบริษัทอย่าง OpenAI ต่อไป"
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Rivian spinout Also raises another $150M",
-      "summary_en": "The round, led by Prysm Capital, will fund the company's expansion beyond pedal-assist electric bikes and commercial cargo quads to autonomous delivery vehicles.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/Also-quad-cargo-commercial.jpg?resize=1200,900",
-      "link": "https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/",
-      "published": "Wed, 19 Aug 2026 15:39:47 +0000",
-      "title_th": "Rivian Spinout ยังระดมทุนได้อีก 150 ล้านเหรียญ",
-      "summary_th": "การแข่งขันรอบนี้นำโดย Prysm Capital เพื่อเป็นเงินทุนสำหรับการขยายบริษัทของบริษัท นอกเหนือจากจักรยานไฟฟ้าแบบใช้คันเหยียบและรถขนส่งสินค้าเชิงพาณิชย์ ไปจนถึงยานพาหนะขนส่งอัตโนมัติ"
+      "title_en": "Researchers say OpenAI revoked their access to limited cyber program",
+      "summary_en": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798",
+      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "published": "Wed, 19 Aug 2026 18:46:14 +0000",
+      "title_th": "นักวิจัยกล่าวว่า OpenAI เพิกถอนการเข้าถึงโปรแกรมไซเบอร์ที่มีข้อจำกัด",
+      "summary_th": "แนวคิดเบื้องหลังโปรแกรม Trusted Access for Cyber ​​ของ OpenAI คือการให้แบบจำลองที่ดีกว่าแก่ผู้ปกป้องที่เชื่อถือได้ เพื่อให้พวกเขาสามารถรายงานจุดบกพร่องและช่องโหว่ให้กับบริษัทต่างๆ โดยมีเป้าหมายในการแก้ไขข้อบกพร่องได้เร็วขึ้น"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Sachin Bansal’s fintech Navi raises first outside capital with $100M Prosus investment",
-      "summary_en": "The investment comes amid Navi plans to go public.",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-634332718.jpg?resize=1200,781",
-      "link": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
-      "published": "Wed, 19 Aug 2026 15:01:41 +0000",
-      "title_th": "Navi ฟินเทคของ Sachin Bansal ระดมทุนภายนอกครั้งแรกด้วยการลงทุน Prosus มูลค่า 100 ล้านดอลลาร์",
-      "summary_th": "การลงทุนดังกล่าวเกิดขึ้นท่ามกลางแผนการของ Navi ที่จะเปิดตัวสู่สาธารณะ"
+      "category": "gadget",
+      "title_en": "Nielsen is leaning more on wearables to hear what people are watching",
+      "summary_en": "In order to beef up its ability to accurately measure viewership data in the streaming era, Nielsen is moving forward with a plan to use more information gathered from its partners' wearable devices. Today, Nielsen announced \"a number of key enhancements\" that are being added to its data capturing process ahead of the upcoming fall […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKB393_NIELSEN_MEDIA_RESEARCH.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
+      "link": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
+      "published": "2026-08-19T15:53:09-04:00",
+      "title_th": "Nielsen พึ่งพาอุปกรณ์สวมใส่มากขึ้นเพื่อฟังสิ่งที่ผู้คนกำลังรับชม",
+      "summary_th": "เพื่อเพิ่มความสามารถในการวัดข้อมูลผู้ชมในยุคสตรีมมิ่งได้อย่างแม่นยำ Nielsen กำลังก้าวไปข้างหน้าด้วยแผนการใช้ข้อมูลเพิ่มเติมที่รวบรวมจากอุปกรณ์สวมใส่ของพันธมิตร วันนี้ Nielsen ได้ประกาศ \"การปรับปรุงที่สำคัญหลายประการ\" ที่กำลังจะถูกเพิ่มเข้าไปในกระบวนการเก็บข้อมูลก่อนฤดูใบไม้ร่วงที่กำลังจะมาถึง […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Google Gemini is getting a dedicated student hub",
+      "summary_en": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&strip=all&crop=0%2C9.6095766582019%2C100%2C80.780846683596&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "published": "2026-08-19T15:00:00-04:00",
+      "title_th": "Google Gemini กำลังได้รับศูนย์กลางนักศึกษาโดยเฉพาะ",
+      "summary_th": "ในขณะที่เรากำลังเตรียมพร้อมสำหรับช่วงเปิดเทอม Google กำลังเปิดตัวศูนย์กลางนักเรียนโดยเฉพาะแห่งใหม่ใน Gemini เป็นพื้นที่เก็บข้อมูลแบบครบวงจรสำหรับการรวบรวมงานวิจัยในสมุดบันทึกการศึกษา การสร้างแฟลชการ์ด การทำแบบทดสอบ และอื่นๆ Google ยังปรับปรุงสมุดบันทึกการเรียนรู้ด้วยการรองรับกราฟและรูปภาพ นอกจากนี้ยังสามารถเพิ่มวันสอบ […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Watch Valve set up the Steam Frame in its own leaked videos",
+      "summary_en": "Valve just leaked several new videos showing the Steam Frame's unboxing, setup process, and various accessories. The videos apparently appeared on the ARM Steam client following an update, but they were \"quickly pulled after that,\" according to the Steam Hardware Updates account on X. The Steam Frame is Valve's virtual-reality headset that can stream games […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/valve-steam-frame-leak.png?quality=90&strip=all&crop=0%2C6.6657792764812%2C100%2C86.668441447038&w=1200",
+      "link": "https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos",
+      "published": "2026-08-19T14:16:27-04:00",
+      "title_th": "Watch Valve ตั้งค่า Steam Frame ในวิดีโอที่รั่วไหลออกมาของตัวเอง",
+      "summary_th": "Valve เพิ่งปล่อยวิดีโอใหม่หลายรายการที่แสดงการแกะกล่อง กระบวนการติดตั้ง และอุปกรณ์เสริมต่างๆ ของ Steam Frame เห็นได้ชัดว่าวิดีโอปรากฏบนไคลเอนต์ ARM Steam หลังจากการอัปเดต แต่วิดีโอเหล่านั้นถูก \"ดึงออกอย่างรวดเร็วหลังจากนั้น\" ตามบัญชี Steam Hardware Updates บน X Steam Frame เป็นชุดหูฟังเสมือนจริงของ Valve ที่สามารถสตรีมเกม […]"
     },
     {
       "source": "The Verge",
@@ -85,42 +121,6 @@
       "published": "2026-08-19T13:56:15-04:00",
       "title_th": "ซื้อ iPad Air M4 ในราคาที่ถูกที่สุดนับตั้งแต่เพิ่มขึ้นในเดือนมิถุนายน",
       "summary_th": "เกือบทุกอย่างที่มีหน่วยความจำระดับไฮเอนด์หรือที่เก็บข้อมูลมีราคาแพงกว่าในปัจจุบัน และแท็บเล็ตก็ไม่มีข้อยกเว้น ดังนั้นเราจึงดีใจที่เห็นว่า Amazon และ Best Buy มี iPad Air ขนาด 11 นิ้วรุ่นล่าสุดพร้อมชิป M4 ลดราคา 649 ดอลลาร์ นั่นต่ำกว่าราคาขายปลีกใหม่ที่มีผลบังคับใช้ $100 (ควบคู่ไปกับ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "OpenAI hit the brakes. Now what?",
-      "summary_en": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK201_SAM_ALTMAN_CVIRGINIA2C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-      "published": "2026-08-19T13:10:09-04:00",
-      "title_th": "OpenAI เหยียบเบรก ตอนนี้อะไร?",
-      "summary_th": "ด้วยการเสนอขายหุ้น IPO ที่ใกล้เข้ามา การแข่งขันที่รุนแรงจาก Anthropic และคู่แข่งของจีนและรุ่นเปิดที่กำลังเข้ามาใกล้ OpenAI มีเหตุผลมากมายที่จะก้าวไปอย่างรวดเร็ว มันกลับเหยียบเบรกแทน เมื่อวันอังคารที่ผ่านมา บริษัทกล่าวว่าได้ชะลอการพัฒนา AI บางส่วน ในขณะเดียวกันก็เพิ่มความเข้มงวดในการรักษาความปลอดภัยและการป้องกัน นั่นรวมถึงการหยุดชั่วคราวสองสัปดาห์ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "GTA VI keeps leaking ahead of its gameplay premiere",
-      "summary_en": "Clips of what appears to be Grand Theft Auto VI have hit the internet, possibly spoiling aspects of the game ahead of Rockstar Games' deep dive debuting on Netflix next week and its long-awaited launch in November. I've seen three clips seemingly showing off the game, though two have been pulled from the site I […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "link": "https://www.theverge.com/games/982338/grand-theft-auto-vi-gta-leaks-videos",
-      "published": "2026-08-19T13:03:11-04:00",
-      "title_th": "GTA VI มีการรั่วไหลอย่างต่อเนื่องก่อนการเปิดตัวเกมเพลย์รอบปฐมทัศน์",
-      "summary_th": "คลิปของสิ่งที่ดูเหมือนจะเป็น Grand Theft Auto VI ได้เผยแพร่บนอินเทอร์เน็ต ซึ่งอาจทำให้เสียแง่มุมของเกมก่อนที่จะมีการเปิดตัวเจาะลึกของ Rockstar Games บน Netflix ในสัปดาห์หน้าและการเปิดตัวที่รอคอยมานานในเดือนพฤศจิกายน ฉันเคยเห็นคลิปสามคลิปที่ดูเหมือนจะอวดเกม แม้ว่าสองคลิปจะถูกดึงออกจากเว็บไซต์ที่ฉัน […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Meta AI is getting a Mac app",
-      "summary_en": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation across all apps. The […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MacApp_ScreenShare_0818.2.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-      "published": "2026-08-19T13:00:00-04:00",
-      "title_th": "Meta AI กำลังได้รับแอป Mac",
-      "summary_th": "Meta กำลังเปิดตัวแอป Mac ใหม่สำหรับแชทบอท AI โดยเฉพาะ ในประกาศเมื่อวันพุธ Meta กล่าวว่าคุณสามารถแชร์หน้าต่างของคุณด้วยแชทบอท AI ซึ่งสามารถให้คำแนะนำ ตอบคำถาม หรือสร้างเนื้อหาตามสิ่งที่อยู่บนหน้าจอของคุณ Meta AI บน Mac ยังรองรับการเขียนตามคำบอกในทุกแอพอีกด้วย […]"
     },
     {
       "source": "Ars Technica",
@@ -168,7 +168,7 @@
       "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
       "published": "Fri, 14 Aug 2026 14:27:14 +0000",
       "title_th": "OpenAI และ Anthropic ในสงครามราคาเมื่อคู่แข่ง AI ของจีนเข้ามามีส่วนร่วม",
-      "summary_th": "US groups release cheaper models after new challenges to their trillion-dollar ambitions."
+      "summary_th": "กลุ่มสหรัฐฯ เปิดตัวโมเดลราคาถูกหลังความท้าทายใหม่ต่อความทะเยอทะยานล้านล้านดอลลาร์"
     },
     {
       "source": "Ars Technica",
@@ -181,6 +181,18 @@
       "published": "Wed, 12 Aug 2026 21:43:21 +0000",
       "title_th": "ข้อมูลประจำตัวจำนวนเทราไบต์รั่วไหลจากการโจมตีห่วงโซ่อุปทานครั้งใหญ่",
       "summary_th": "ข้อมูลถูกคัดลอกและกรองออกจากผู้ใช้ 2,500 รายของแพ็คเกจ AI ที่ถูกบุกรุก"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+      "summary_en": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
+      "image": "https://media.wired.com/photos/6a85e8ea4518d27679a9b132/master/pass/AI-Lab-Very-Clever-Robot-Creeped-Me-Out-Business.jpg",
+      "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+      "published": "Wed, 19 Aug 2026 19:30:00 +0000",
+      "title_th": "ฉันเห็นอนาคตของ AI ในหุ่นยนต์ที่สามารถเรียนรู้ได้ทันที",
+      "summary_th": "ในระหว่างการเยี่ยมชม Generalist AI เมื่อเร็วๆ นี้ ฉันได้ดูแขนหุ่นยนต์ด้นสดและใช้กล้วยเป็นเครื่องมือ"
     },
     {
       "source": "Wired",
@@ -229,18 +241,6 @@
       "published": "Wed, 19 Aug 2026 14:33:04 +0000",
       "title_th": "เหตุใดการซื้อตั๋วหนังตอนนี้จึงเป็นเรื่องนรกอย่างแน่นอน?",
       "summary_th": "แอพโรงละครที่ล้นหลามและความคิดที่ขาดแคลนในรูปแบบจอใหญ่สุดพิเศษสำหรับหนังดังอย่าง Dune: Part Three และ The Odyssey ได้นำไปสู่ ​​\"คอนเสิร์ต\" ของภาพยนตร์"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "The Best Digital Wall Calendar (2026): Skylight, Everblog, Apolosign",
-      "summary_en": "What originally looked like clutter turned out to be my new favorite gadget for organizing my family’s life.",
-      "image": "https://media.wired.com/photos/6a35a476fb39402b67c3b903/master/pass/Are-Digital-Wall-Calendars-Worth-It-.jpg",
-      "link": "https://www.wired.com/story/are-digital-wall-calendars-worth-it/",
-      "published": "Wed, 19 Aug 2026 11:31:00 +0000",
-      "title_th": "ปฏิทินติดผนังดิจิทัลที่ดีที่สุด (2026): Skylight, Everblog, Apolosign",
-      "summary_th": "เดิมทีดูเหมือนยุ่งเหยิงกลายเป็นอุปกรณ์ชิ้นโปรดชิ้นใหม่ของฉันในการจัดระเบียบชีวิตครอบครัว"
     },
     {
       "source": "MIT Technology Review",
@@ -306,6 +306,42 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "Waymo Ojai vans are now available for all riders in three cities",
+      "summary_en": "It's a full rollout for the driverless vans in San Francisco, Phoenix and Los Angeles.",
+      "image": "https://www.engadget.com/img/gallery/waymo-ojai-vans-are-now-available-for-all-riders-in-three-cities/l-intro-1787173482.jpg",
+      "link": "https://www.engadget.com/2240419/waymo-ojai-vans-are-now-available-for-all-riders-in-three-cities/",
+      "published": "Wed, 19 Aug 2026 21:07:58 +0000",
+      "title_th": "ขณะนี้รถตู้ Waymo Ojai พร้อมให้บริการสำหรับผู้โดยสารทุกคนในสามเมือง",
+      "summary_th": "ถือเป็นการเปิดตัวรถตู้ไร้คนขับเต็มรูปแบบในซานฟรานซิสโก ฟีนิกซ์ และลอสแองเจลิส"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "A robot could eventually conduct your blood draw at the doctor's office",
+      "summary_en": "The FDA has approved a first-of-its-kind automated blood draw device for outpatient settings.",
+      "image": "https://www.engadget.com/img/gallery/a-robot-could-eventually-conduct-your-blood-draw-at-the-doctors-office/l-intro-1787169711.jpg",
+      "link": "https://www.engadget.com/2240357/a-robot-could-eventually-conduct-your-blood-draw-at-the-doctors-office/",
+      "published": "Wed, 19 Aug 2026 20:02:52 +0000",
+      "title_th": "ในที่สุดหุ่นยนต์ก็สามารถเจาะเลือดได้ที่สำนักงานแพทย์",
+      "summary_th": "FDA ได้อนุมัติอุปกรณ์เจาะเลือดอัตโนมัติเครื่องแรกสำหรับการดูแลรักษาผู้ป่วยนอก"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Google is offering college students a year of its AI Pro plan for free",
+      "summary_en": "College students can get a free year of Google's AI Pro plan, something that would normally cost $200.",
+      "image": "https://www.engadget.com/img/gallery/google-is-offering-college-students-a-year-of-ai-pro-for-free/l-intro-1787159626.jpg",
+      "link": "https://www.engadget.com/2240161/google-is-offering-college-students-a-year-of-ai-pro-for-free/",
+      "published": "Wed, 19 Aug 2026 19:00:00 +0000",
+      "title_th": "Google เสนอแผน AI Pro แก่นักศึกษาหนึ่งปีฟรี",
+      "summary_th": "นักศึกษาวิทยาลัยสามารถรับแผน AI Pro ของ Google ฟรี 1 ปี ซึ่งปกติจะมีราคา 200 ดอลลาร์"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "Meta AI now has a dedicated desktop app for Mac",
       "summary_en": "Meta's new Mac app is part of the company's push to make more business-friendly AI tools.",
       "image": "https://www.engadget.com/img/gallery/meta-ai-now-has-a-dedicated-desktop-app-for-mac/l-intro-1787159380.jpg",
@@ -325,42 +361,6 @@
       "published": "Wed, 19 Aug 2026 16:54:03 +0000",
       "title_th": "Google กำลังพยายามแก้ไขคอนทราลด้วย AI",
       "summary_th": "ปฏิบัติการบลูสกายส์ ซึ่งเกี่ยวข้องกับรัฐบาลสหราชอาณาจักรด้วย จะเปลี่ยนเส้นทางเที่ยวบินอย่างละเอียดเพื่อทดสอบการหลีกเลี่ยงเส้นทางบิน"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Amazon is bringing drone deliveries to the Chicago and Atlanta metro areas as part of a major expansion",
-      "summary_en": "Amazon says it will serve nearly 500 US towns and cities with Prime Air deliveries by the end of the year.",
-      "image": "https://www.engadget.com/img/gallery/amazon-is-bringing-drone-deliveries-to-the-chicago-and-atlanta-metro-areas-as-part-of-a-major-expansion/l-intro-1787157103.jpg",
-      "link": "https://www.engadget.com/2240088/amazon-is-bringing-drone-deliveries-to-the-chicago-and-atlanta-metro-areas/",
-      "published": "Wed, 19 Aug 2026 16:32:45 +0000",
-      "title_th": "Amazon กำลังนำส่งโดรนไปยังพื้นที่รถไฟใต้ดินในชิคาโกและแอตแลนตา ซึ่งเป็นส่วนหนึ่งของการขยายธุรกิจครั้งใหญ่",
-      "summary_th": "Amazon กล่าวว่าจะให้บริการจัดส่ง Prime Air ในเมืองต่างๆ เกือบ 500 แห่งในสหรัฐอเมริกาภายในสิ้นปีนี้"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Flock is testing a new AI tool that tracks and identifies people based on their driving habits",
-      "summary_en": "This goes way, way further than keeping an eye on license plates.",
-      "image": "https://www.engadget.com/img/gallery/flock-is-testing-a-new-ai-tool-that-tracks-and-identifies-people-based-on-their-driving-habits/l-intro-1787155747.jpg",
-      "link": "https://www.engadget.com/2240069/flock-testing-new-ai-police-tool-tracks-identifies-drivers/",
-      "published": "Wed, 19 Aug 2026 16:15:00 +0000",
-      "title_th": "Flock กำลังทดสอบเครื่องมือ AI ใหม่ที่ติดตามและระบุผู้คนตามพฤติกรรมการขับขี่ของพวกเขา",
-      "summary_th": "สิ่งนี้ไปไกลกว่าการคอยดูป้ายทะเบียน"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "review",
-      "title_en": "Google Pixel 11 review: A lot of phone for a little more money",
-      "summary_en": "The Pixel 11 is $100 more than last year and didn't change a ton, but is still one of the best smartphones on the market.",
-      "image": "https://www.engadget.com/img/gallery/google-pixel-11-review-a-lot-of-phone-for-a-little-more-money/l-intro-1787154501.jpg",
-      "link": "https://www.engadget.com/2240042/google-pixel-11-review/",
-      "published": "Wed, 19 Aug 2026 16:00:00 +0000",
-      "title_th": "รีวิว Google Pixel 11: โทรศัพท์มากมายแต่จ่ายเพิ่มอีกนิด",
-      "summary_th": "Pixel 11 มีราคามากกว่าปีที่แล้วถึง 100 เหรียญสหรัฐฯ และไม่มีการเปลี่ยนแปลงมากนัก แต่ก็ยังเป็นหนึ่งในสมาร์ทโฟนที่ดีที่สุดในตลาด"
     },
     {
       "source": "IEEE Spectrum",
@@ -426,121 +426,145 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Meta AI is now available as a more capable desktop app for Mac",
-      "summary_en": "Meta continues to get serious about its AI technology. The latest sign? A dedicated Mac app for Meta AI. Meta...",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/meta-ai-mac-app.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/",
-      "published": "Wed, 19 Aug 2026 17:29:29 +0000",
-      "title_th": "Meta AI พร้อมใช้งานแล้วในรูปแบบแอปเดสก์ท็อปที่มีความสามารถมากขึ้นสำหรับ Mac",
-      "summary_th": "Meta ยังคงให้ความสำคัญกับเทคโนโลยี AI ของตนอย่างต่อเนื่อง สัญญาณล่าสุด? แอพ Mac เฉพาะสำหรับ Meta AI เมตา..."
+      "title_en": "macOS Golden Gate adds a new app to your Mac; here’s what it can do",
+      "summary_en": "9to5Mac is brought to you by Memoket : The Memoket Gem is an 11g AI wearable that slots beside your Apple Watch in a co-wear band. Press once to capture a conversation, and Gem connects it to what you discussed weeks ago — surfacing the earlier thread with a source link. From $179, shipping August 2026 . As we enter the final weeks of beta testing , Apple will likely release macOS 27 Golden Gate to the public next month. One of the biggest changes with this year’s update is the addition of an all-new Siri app for Mac users.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-app-macOS-27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/19/macos-27-new-siri-app-features/",
+      "published": "Wed, 19 Aug 2026 20:56:34 +0000",
+      "title_th": "macOS Golden Gate เพิ่มแอพใหม่ให้กับ Mac ของคุณ; นี่คือสิ่งที่สามารถทำได้",
+      "summary_th": "9to5Mac นำเสนอให้คุณโดย Memoket : Memoket Gem เป็นอุปกรณ์สวมใส่ AI หนัก 11 กรัม โดยมีช่องข้าง Apple Watch ของคุณในสายแบบสวมร่วม กดหนึ่งครั้งเพื่อบันทึกการสนทนา และ Gem จะเชื่อมต่อกับสิ่งที่คุณพูดคุยเมื่อสัปดาห์ที่แล้ว — แสดงกระทู้ก่อนหน้าด้วยลิงก์แหล่งที่มา จาก $179 จัดส่งในเดือนสิงหาคม 2026 เมื่อเราเข้าสู่สัปดาห์สุดท้ายของการทดสอบเบต้า Apple น่าจะเปิดตัว macOS 27 Golden Gate สู่สาธารณะในเดือนหน้า การเปลี่ยนแปลงครั้งใหญ่ที่สุดประการหนึ่งในการอัปเดตในปีนี้คือการเพิ่มแอพ Siri ใหม่ทั้งหมดสำหรับผู้ใช้ Mac"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple TV hit comedy from Ted Lasso, Shrinking creator returns soon",
-      "summary_en": "Bad Monkey is an excellent Apple TV comedy from creator Bill Lawrence, of Ted Lasso and Shrinking fame—and it returns soon for a new season. Here are the details.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/bad-monkey-s2-vince-vaughn-martinez.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/19/apple-tv-hit-comedy-from-ted-lasso-shrinking-creator-returns-soon/",
-      "published": "Wed, 19 Aug 2026 15:41:37 +0000",
-      "title_th": "ภาพยนตร์ตลกยอดนิยมของ Apple TV จาก Ted Lasso ผู้สร้าง Shrinking กลับมาเร็วๆ นี้",
-      "summary_th": "Bad Monkey เป็นผลงานตลกยอดเยี่ยมบน Apple TV จากผู้สร้าง Bill Lawrence จาก Ted Lasso และ Shrinking Fame และจะกลับมาอีกครั้งในซีซั่นใหม่เร็วๆ นี้ นี่คือรายละเอียด"
+      "title_en": "Watch Susan Kare revisit the icons and graphics for the original Mac",
+      "summary_en": "Legendary graphic designer Susan Kare spoke recently at the Startup School 2026 event, and the video for her talk is now up on Y Combinator’s YouTube channel. Watch it below.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/happy-mac.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/19/watch-susan-kare-revisit-the-icons-and-graphics-for-the-original-mac/",
+      "published": "Wed, 19 Aug 2026 20:14:37 +0000",
+      "title_th": "ดู Susan Kare ทบทวนไอคอนและกราฟิกสำหรับ Mac รุ่นดั้งเดิม",
+      "summary_th": "นักออกแบบกราฟิกระดับตำนาน Susan Kare พูดเมื่อเร็วๆ นี้ที่งาน Startup School 2026 และวิดีโอสำหรับการพูดคุยของเธอได้เผยแพร่แล้วบนช่อง YouTube ของ Y Combinator ดูได้ที่ด้านล่างนี้"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Deals: 1-day Apple sale – $400 off M5 Pro MacBook Pro, iPhone Air up to $406 off, iPad mini $450 off, AirPods, more",
-      "summary_en": "The AirPods deals are still flying with AirPods Pro 3 down at one of the best prices ever and AirPods Max 2 at $120 off, but today’s 9to5Toys Lunch Break is headlined by a M5 Pro MacBook Pro configs in brand new condition, the best price ever on iPhone Air at $170 off (or you can land open-box units at up to $406 off ), and even up to $200 off Beats Studio Pro headphones. Those deals also join the ongoing all-time low on AirTag 2 as well as this 512GB iPad mini at $450 under the new list price . Scope it all out below.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-MacBook-AirTag-AirPods.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/19/deals-1-day-apple-sale-macbook-pro-iphone-air-airpods/",
-      "published": "Wed, 19 Aug 2026 15:31:25 +0000",
-      "title_th": "ข้อเสนอ: การขาย Apple 1 วัน – ส่วนลด $ 400 สำหรับ M5 Pro MacBook Pro, iPhone Air สูงสุดถึง $ 406, iPad mini ส่วนลด $ 450, AirPods และอีกมากมาย",
-      "summary_th": "ข้อเสนอ AirPods ยังคงบินอยู่โดย AirPods Pro 3 ในราคาที่ดีที่สุดเท่าที่เคยมีมาและ AirPods Max 2 ลดราคา 120 ดอลลาร์ แต่ 9to5Toys Lunch Break วันนี้พาดหัวข่าวด้วยการกำหนดค่า M5 Pro MacBook Pro ในสภาพใหม่เอี่ยม ราคาที่ดีที่สุดเท่าที่เคยมีมาสำหรับ iPhone Air ในราคา 170 ดอลลาร์ (หรือคุณสามารถลงจอดหน่วยเปิดกล่องได้สูงสุดถึง 406 ดอลลาร์) และแม้กระทั่งหูฟัง Beats Studio Pro สูงสุดถึง 200 ดอลลาร์ ข้อตกลงเหล่านี้ยังทำให้ AirTag 2 มีราคาต่ำสุดตลอดกาล เช่นเดียวกับ iPad mini 512GB ที่ราคา 450 ดอลลาร์ภายใต้ราคาปลีกใหม่ ขอบเขตทั้งหมดออกด้านล่าง"
+      "title_en": "iPhone 18 Pro: Three new design updates are coming",
+      "summary_en": "iPhone 18 Pro and Pro Max will launch next month , and in addition to packing a variety of new features , there are three design changes reportedly coming. Here’s what rumors say to expect.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/19/iphone-18-pro-three-new-design-updates-are-coming-this-year/",
+      "published": "Wed, 19 Aug 2026 20:03:12 +0000",
+      "title_th": "iPhone 18 Pro: การอัปเดตการออกแบบใหม่สามรายการกำลังจะมา",
+      "summary_th": "iPhone 18 Pro และ Pro Max จะเปิดตัวในเดือนหน้า และนอกเหนือจากคุณสมบัติใหม่ที่หลากหลายแล้ว ยังมีรายงานว่ามีการเปลี่ยนแปลงการออกแบบอีกสามประการที่กำลังจะเกิดขึ้น นี่คือสิ่งที่ข่าวลือบอกว่าคาดหวัง"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple will launch 10+ new products soon, with September event coming",
-      "summary_en": "Apple’s September event is almost here, with the date likely being announced next week. Here are 10+ new Apple products launching soon, most of which are expected to be unveiled in September.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/john-ternus-product-launch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/19/apple-will-launch-10-new-products-soon-with-september-event-coming/",
-      "published": "Wed, 19 Aug 2026 15:17:10 +0000",
-      "title_th": "Apple จะเปิดตัวผลิตภัณฑ์ใหม่มากกว่า 10 รายการเร็วๆ นี้ โดยงานเดือนกันยายนที่กำลังจะมาถึง",
-      "summary_th": "งานเดือนกันยายนของ Apple ใกล้จะมาถึงแล้ว และคาดว่าจะประกาศวันในสัปดาห์หน้า นี่คือผลิตภัณฑ์ Apple ใหม่กว่า 10 รายการที่จะเปิดตัวเร็วๆ นี้ ซึ่งส่วนใหญ่คาดว่าจะเปิดตัวในเดือนกันยายน"
+      "title_en": "Special 1-day Apple anniversary sale: AirPods Pro 3, MacBook Pro $400 off, iPhone Air/17 Pro, AirTag 2, more",
+      "summary_en": "We are checking in today with a special edition of 9to5Toys Lunch Break – AirPods Pro 3 and AirPods Max 2 at $120 off are some of the best prices ever, but Best Buy has launched a special 1-day-only Apple sale event as part of its giant 60th Anniversary sale . Joining AirTag 2 back at all-time lows, you’re looking at $400 off brand-new M5 Pro MacBook Pro models today alongside iPhone Air at $170 off (or you can land open-box units at up to $406 off ), and even some solid offers across a broad range of official Apple accessories.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-anniversary-sale.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/19/special-1-day-apple-anniversary-sale-airpods/",
+      "published": "Wed, 19 Aug 2026 19:53:24 +0000",
+      "title_th": "การขายครบรอบ 1 วันพิเศษของ Apple: AirPods Pro 3, MacBook Pro ลดราคา 400 ดอลลาร์, iPhone Air/17 Pro, AirTag 2 และอื่นๆ",
+      "summary_th": "เรากำลังเช็คอินวันนี้ด้วย 9to5Toys Lunch Break รุ่นพิเศษ – AirPods Pro 3 และ AirPods Max 2 ในราคาลด 120 ดอลลาร์เป็นราคาที่ดีที่สุดเท่าที่เคยมีมา แต่ Best Buy ได้เปิดตัวกิจกรรมลดราคา Apple พิเศษ 1 วันเท่านั้น ซึ่งเป็นส่วนหนึ่งของการลดราคาฉลองครบรอบ 60 ปีครั้งใหญ่ การเข้าร่วม AirTag 2 กลับมาที่ระดับต่ำสุดตลอดกาล คุณกำลังรับส่วนลด 400 ดอลลาร์สำหรับ M5 Pro MacBook Pro รุ่นใหม่วันนี้ พร้อมกับ iPhone Air ในราคา 170 ดอลลาร์ (หรือคุณสามารถลดราคาอุปกรณ์แบบเปิดกล่องได้สูงสุดถึง 406 ดอลลาร์) และแม้แต่ข้อเสนอที่แข็งแกร่งสำหรับอุปกรณ์เสริมอย่างเป็นทางการของ Apple ที่หลากหลาย"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "ClarityCheck people-finder left millions of face photos exposed, likely without their knowledge",
-      "summary_en": "ClarityCheck, a facial-identification tool for which it’s hard to think of many legitimate uses, reportedly left millions of face photos publicly exposed on the internet in a major privacy breach. It’s likely that the vast majority of victims had no idea their photos had been uploaded to the site, and had never granted consent …",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/ClarityCheck-people-finder-left-millions-of-face-photos-exposed.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/19/claritycheck-people-finder-left-millions-of-face-photos-exposed-likely-without-their-knowledge/",
-      "published": "Wed, 19 Aug 2026 14:17:19 +0000",
-      "title_th": "โปรแกรมค้นหาบุคคล ClarityCheck ปล่อยให้มีการเปิดเผยภาพถ่ายใบหน้าหลายล้านภาพ โดยที่พวกเขาไม่รู้",
-      "summary_th": "ClarityCheck ซึ่งเป็นเครื่องมือระบุใบหน้าซึ่งยากที่จะนึกถึงการใช้งานที่ถูกต้องตามกฎหมายจำนวนมาก มีรายงานว่าได้ปล่อยภาพถ่ายใบหน้านับล้านใบให้เปิดเผยต่อสาธารณะทางอินเทอร์เน็ต ซึ่งเป็นการละเมิดความเป็นส่วนตัวที่สำคัญ เป็นไปได้ว่าเหยื่อส่วนใหญ่ไม่รู้ว่ารูปถ่ายของพวกเขาถูกอัปโหลดไปยังไซต์ และไม่เคยได้รับความยินยอม ..."
+      "title_en": "Apple Watch Series 12 to bring back beloved design material, says leaker",
+      "summary_en": "Apple Watch Series 12 will be unveiled next month , and a reputable leaker just said it will come with a ceramic design option.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ceramic-s5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/19/apple-watch-series-12-to-bring-back-beloved-design-material-says-leaker/",
+      "published": "Wed, 19 Aug 2026 19:32:06 +0000",
+      "title_th": "Apple Watch Series 12 เตรียมนำวัสดุดีไซน์ยอดนิยมกลับมาอีกครั้ง Leaker กล่าว",
+      "summary_th": "Apple Watch Series 12 จะเปิดตัวในเดือนหน้า และผู้รั่วไหลที่มีชื่อเสียงเพิ่งกล่าวว่าจะมาพร้อมกับตัวเลือกการออกแบบเซรามิก"
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Galaxy Tab S12 Ultra leaks in the worst ‘spot the difference’ game ever",
-      "summary_en": "Samsung’s upcoming Galaxy Tab S12 Ultra is going to be a tame upgrade, at least in terms of fit and finish, as a leaked image reveals that the design is almost entirely unchanged.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/galaxy-tab-s11-8.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/19/samsung-galaxy-tab-s12-ultra-leak/",
-      "published": "Wed, 19 Aug 2026 17:45:00 +0000",
-      "title_th": "Galaxy Tab S12 Ultra รั่วไหลในเกม 'spot the Difference' ที่แย่ที่สุดเท่าที่เคยมีมา",
-      "summary_th": "Galaxy Tab S12 Ultra ที่กำลังจะมาถึงของ Samsung จะได้รับการอัปเกรดที่เรียบง่าย อย่างน้อยก็ในแง่ของความพอดีและการตกแต่ง เนื่องจากภาพที่รั่วไหลออกมาเผยให้เห็นว่าการออกแบบแทบไม่มีการเปลี่ยนแปลงเลยเกือบทั้งหมด"
+      "title_en": "Google Messages RCS breaks with ‘3100’ error for some, especially Galaxy switchers",
+      "summary_en": "An issue with Google Messages appears to be breaking RCS for some users, with much of the problem tracing back to Samsung Galaxy devices.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-15.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/19/google-messages-rcs-3100-error/",
+      "published": "Wed, 19 Aug 2026 20:15:00 +0000",
+      "title_th": "Google Messages RCS แตกด้วยข้อผิดพลาด '3100' สำหรับบางคน โดยเฉพาะ Galaxy switchers",
+      "summary_th": "ปัญหาเกี่ยวกับ Google Messages ดูเหมือนจะทำให้ RCS เสียหายสำหรับผู้ใช้บางราย โดยปัญหาส่วนใหญ่เกิดจากอุปกรณ์ Samsung Galaxy"
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Pixel Weather update brings new icon & ‘Weather Brief’ rename",
-      "summary_en": "The Pixel app updates continue today with Weather getting a new icon and some minor interface tweaks. This update...",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-new-icons-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/19/pixel-weather-new-icon/",
-      "published": "Wed, 19 Aug 2026 17:05:49 +0000",
-      "title_th": "การอัปเดต Pixel Weather นำเสนอไอคอนใหม่และการเปลี่ยนชื่อ 'Weather Brief'",
-      "summary_th": "การอัปเดตแอป Pixel ยังคงดำเนินต่อไปในวันนี้ โดย Weather ได้รับไอคอนใหม่และการปรับแต่งอินเทอร์เฟซเล็กน้อย การอัปเดตครั้งนี้..."
+      "title_en": "Mid-week Android app deals and freebies: Last Day, Siralim, Ninja Hero Cats, Lovecraft’s Untold Stories, more",
+      "summary_en": "Best Buy’s 11 Pro, 11 Pro XL, and 11 Pro Fold pre-order deals before delivery starts tomorrow ( more details here ), we have first Amazon price drop on the new Olive Google Pixel Buds Pro 2, up to $1,350 off 2026 Copilot+ PC and gaming laptops , LG’s most affordable 2026 OLED TV at $300 off , and Best Buy’s Anniversary Chromebook deals starting at $179 . The app deals, however, are waiting down below.",
+      "image": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/08/Google-Play-Aug-19-2.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5toys.com/2026/08/19/mid-week-android-app-deals-8/",
+      "published": "Wed, 19 Aug 2026 19:57:15 +0000",
+      "title_th": "ข้อเสนอแอป Android กลางสัปดาห์และของสมนาคุณฟรี: วันสุดท้าย, Siralim, Ninja Hero Cats, เรื่องราวที่บอกเล่าของ Lovecraft และอีกมากมาย",
+      "summary_th": "ข้อเสนอการสั่งซื้อล่วงหน้า 11 Pro, 11 Pro XL และ 11 Pro Fold ของ Best Buy ก่อนการส่งมอบจะเริ่มในวันพรุ่งนี้ (รายละเอียดเพิ่มเติมที่นี่ ) เรามีการลดราคา Amazon ครั้งแรกสำหรับ Olive Google Pixel Buds Pro 2 ใหม่ สูงสุดถึง 1,350 ดอลลาร์จากพีซี Copilot+ และแล็ปท็อปสำหรับเล่นเกมในปี 2026, ทีวี OLED ปี 2026 ที่ราคาถูกที่สุดของ LG ที่ส่วนลด 300 ดอลลาร์ และข้อเสนอ Chromebook ครบรอบการซื้อที่ดีที่สุดเริ่มต้นที่ 179 ดอลลาร์ อย่างไรก็ตามข้อเสนอของแอปกำลังรออยู่ด้านล่าง"
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "The reMarkable Paper Pro can technically run Android, but it’s a hassle",
-      "summary_en": "A YouTuber who took their reMarkable Paper Pro and converted it into an Android device shows off the process in a recent video, even if it defeats the purpose of the e-paper tablet.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/reMarkable-Paper-Pro-Android-13-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/19/remarkable-paper-pro-can-run-android/",
-      "published": "Wed, 19 Aug 2026 16:43:30 +0000",
-      "title_th": "reMarkable Paper Pro สามารถใช้ Android ในทางเทคนิคได้ แต่ก็ยุ่งยาก",
-      "summary_th": "ผู้ใช้ YouTube ที่ใช้ reMarkable Paper Pro และแปลงเป็นอุปกรณ์ Android แสดงให้เห็นกระบวนการในวิดีโอล่าสุด แม้ว่าจะขัดต่อจุดประสงค์ของแท็บเล็ต e-paper ก็ตาม"
+      "title_en": "Sony’s 2020 over-ear headphones to return for around $250 in new colors, leaks reveal [U]",
+      "summary_en": "A new leak has spilled the beans on an interesting move from Sony, as the company is preparing to re-launch its 2020 over-ear headphones, the WH-1000XM4.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Sony-WH-1000XM4C-wf-leak.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/19/sony-wh-1000xm4-re-release-leak/",
+      "published": "Wed, 19 Aug 2026 19:39:34 +0000",
+      "title_th": "หูฟังแบบครอบหูปี 2020 ของ Sony กลับมาในราคาประมาณ 250 ดอลลาร์ในสีใหม่ การรั่วไหลเปิดเผย [U]",
+      "summary_th": "การรั่วไหลครั้งใหม่ทำให้เกิดความเคลื่อนไหวที่น่าสนใจจาก Sony เนื่องจากบริษัทกำลังเตรียมที่จะเปิดตัวหูฟังแบบครอบหูรุ่น WH-1000XM4 ในปี 2020 อีกครั้ง"
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Google rolling out new gradient ring for subscribers on Android, web",
-      "summary_en": "Google is introducing a blue gradient ring around your Account photo to indicate whether you’re subscribed to a paid tier.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/google-ai-pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/19/google-account-gradient-ring/",
-      "published": "Wed, 19 Aug 2026 16:35:41 +0000",
-      "title_th": "Google เปิดตัววงแหวนไล่ระดับสีใหม่สำหรับสมาชิกบน Android และเว็บ",
-      "summary_th": "Google ขอแนะนำวงแหวนไล่ระดับสีน้ำเงินรอบๆ รูปภาพบัญชีของคุณเพื่อระบุว่าคุณได้สมัครเป็นสมาชิกระดับที่ชำระเงินหรือไม่"
+      "title_en": "Pixel 11 introduces unified ‘Pixel search,’ hides it in the drawer",
+      "summary_en": "With the new phones this year, Google is introducing “Pixel search” as a “dedicated search companion designed to help you find personal information faster than ever.”",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/19/pixel-11-search/",
+      "published": "Wed, 19 Aug 2026 19:15:00 +0000",
+      "title_th": "Pixel 11 เปิดตัว \"การค้นหาพิกเซล\" แบบรวมศูนย์โดยซ่อนไว้ในลิ้นชัก",
+      "summary_th": "ด้วยโทรศัพท์รุ่นใหม่ในปีนี้ Google ขอแนะนำ \"การค้นหาพิกเซล\" ในฐานะ \"สหายการค้นหาเฉพาะที่ออกแบบมาเพื่อช่วยให้คุณค้นหาข้อมูลส่วนบุคคลได้เร็วกว่าที่เคย\""
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "I really want to love the Pixel 11 Pro Fold, but it’s not off to the best start",
-      "summary_en": "The Pixel 11 Pro Fold is debuting into an increasingly tough market because, really, everything is good now. My first week with Google’s latest foldable has been one that started off hopeful, but is slowly turning a bit sour.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-pro-fold-impressions-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/19/google-pixel-11-pro-fold-first-impressions/",
-      "published": "Wed, 19 Aug 2026 16:35:00 +0000",
-      "title_th": "ฉันอยากจะรัก Pixel 11 Pro Fold จริงๆ แต่ก็ไม่ใช่จุดเริ่มต้นที่ดีที่สุด",
-      "summary_th": "Pixel 11 Pro Fold เปิดตัวสู่ตลาดที่ยากลำบากมากขึ้นเพราะจริงๆ แล้วตอนนี้ทุกอย่างดีแล้ว สัปดาห์แรกของฉันกับผลิตภัณฑ์พับได้ล่าสุดของ Google เป็นสัปดาห์ที่เริ่มต้นด้วยความหวัง แต่ก็ค่อยๆ กลายเป็นเรื่องเปรี้ยวเล็กน้อย"
+      "title_en": "Gemini Live adds Deep Research as Notebooks come to AI Mode",
+      "summary_en": "With the back-to-school season underway, Google is introducing new study tools across the Gemini app and Search.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Gemini-Live-Deep-Research.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/19/gemini-app-ai-mode-study-tools/",
+      "published": "Wed, 19 Aug 2026 19:00:00 +0000",
+      "title_th": "Gemini Live เพิ่มการวิจัยเชิงลึกเมื่อโน้ตบุ๊กเข้าสู่โหมด AI",
+      "summary_th": "ในช่วงเปิดเทอม Google กำลังเปิดตัวเครื่องมือการเรียนรู้ใหม่ๆ ทั่วทั้งแอป Gemini และ Search"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "As US tries to starve Cuba, solar electric garbage trikes offer a lifeline",
+      "summary_en": "Cuba is struggling with a US-imposed blockade on fuel shipments, which has led to many crises, including a breakdown in garbage collection in Havana. But a startup is stepping up to collect garbage in one neighborhood, using electric three-wheeled vehicles powered by solar.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/cuba-el-rampeno-electric-trike-garbage-truck.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/19/as-us-tries-to-starve-cuba-solar-electric-garbage-trikes-offer-a-lifeline/",
+      "published": "Wed, 19 Aug 2026 19:32:53 +0000",
+      "title_th": "ในขณะที่สหรัฐฯ พยายามอดอาหารให้กับคิวบา รถสามล้อไฟฟ้าพลังงานแสงอาทิตย์ก็ช่วยได้",
+      "summary_th": "คิวบากำลังดิ้นรนกับการปิดล้อมการขนส่งเชื้อเพลิงที่สหรัฐฯ บังคับใช้ ซึ่งนำไปสู่วิกฤตการณ์ต่างๆ มากมาย รวมถึงการพังทลายของการเก็บขยะในฮาวานา แต่สตาร์ทอัพกำลังก้าวขึ้นมาเก็บขยะในละแวกใกล้เคียงโดยใช้รถสามล้อไฟฟ้าที่ขับเคลื่อนด้วยพลังงานแสงอาทิตย์"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Portland airport can charge 20 rental EVs at once – from overhead",
+      "summary_en": "Portland International Airport (PDX) in Oregon can now charge up to 20 rental EVs at once without sacrificing valuable floor space, thanks to a new overhead ChargePoint fast charging system.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/ChargePoint-PDX.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/19/portland-airport-can-charge-20-rental-evs-at-once-from-overhead/",
+      "published": "Wed, 19 Aug 2026 18:20:26 +0000",
+      "title_th": "สนามบินพอร์ตแลนด์สามารถชาร์จ EV เช่าได้ 20 คันในครั้งเดียว จากค่าใช้จ่าย",
+      "summary_th": "สนามบินนานาชาติพอร์ตแลนด์ (PDX) ในรัฐโอเรกอนสามารถชาร์จ EV เช่าได้สูงสุดถึง 20 คันในคราวเดียวโดยไม่ต้องเสียสละพื้นที่อันมีค่า ด้วยระบบการชาร์จด่วน ChargePoint เหนือศีรษะแบบใหม่"
     },
     {
       "source": "Electrek",
@@ -577,30 +601,6 @@
       "published": "Wed, 19 Aug 2026 15:12:25 +0000",
       "title_th": "Lucid เปิดตัวกลุ่มผลิตภัณฑ์ Air EV ปี 2027 พร้อมแพ็คเกจ Stealth ใหม่",
       "summary_th": "Lucid เปิดตัวกลุ่มผลิตภัณฑ์ Air ปี 2027 โดยปรับปรุงตัวเลือกในกลุ่มรถซีดานไฟฟ้า และเพิ่มแพ็คเกจ Stealth & Sound ใหม่สำหรับ Air Pure ระดับเริ่มต้น Air Grand Touring ยังคงรักษาตำแหน่งเป็นรถยนต์ไฟฟ้าที่มีระยะทางไกลที่สุดที่จำหน่ายได้ไกลถึง 512 ไมล์ และราคายังคงคงที่สำหรับรุ่นปีใหม่ทั้งสี่รุ่น"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Here’s our first look at the new Hyundai Tucson inside and out [Images]",
-      "summary_en": "Hyundai revealed the exterior and interior design of the all-new Tucson for the first time, and it already looks like a big upgrade.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Hyundai-new-Tucson.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/19/hyundai-unveils-new-tucson-design-first-time-images/",
-      "published": "Wed, 19 Aug 2026 14:55:24 +0000",
-      "title_th": "นี่เป็นภาพแรกของเราที่ Hyundai Tucson ใหม่ทั้งภายในและภายนอก [ภาพ]",
-      "summary_th": "Hyundai เปิดเผยการออกแบบภายนอกและภายในของ All-New Tucson เป็นครั้งแรก และดูเหมือนว่าจะเป็นการอัพเกรดครั้งใหญ่อยู่แล้ว"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "review",
-      "title_en": "VMAX VX2 Lite review: Power and full suspension fun without the heavyweight price",
-      "summary_en": "Electric scooters have long demonstrated an interesting dichotomy. On one end of the spectrum, you’ve got cheap commuter scooters that feel like they’re one pothole away from shaking themselves apart. On the other end are increasingly large, dual-motor monsters that weigh 80 or 100 pounds (45 kg) and blur the line between scooter and motorcycle. The VMAX VX2 Lite aims for the sweet spot in the middle. It promises a genuine full-suspension ride, respectable 25 mph (40 km/h) performance, and up to 56 miles (90 km) of claimed range without turning into something you dread carrying up a flight of stairs. After spending time riding the long-range version, I think VMAX got surprisingly close to that goal.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/vmax-vx2-lite-header.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/19/vmax-vx2-lite-review-power-and-full-suspension-fun-without-the-heavyweight-price/",
-      "published": "Wed, 19 Aug 2026 14:35:00 +0000",
-      "title_th": "รีวิว VMAX VX2 Lite: ขุมพลังและระบบกันสะเทือนที่สนุกสนานในราคาที่ไม่แพง",
-      "summary_th": "สกู๊ตเตอร์ไฟฟ้าได้แสดงให้เห็นถึงความแตกต่างที่น่าสนใจมานานแล้ว ที่ปลายด้านหนึ่งของสเปกตรัม คุณมีสกู๊ตเตอร์สำหรับเดินทางราคาถูกที่ให้ความรู้สึกเหมือนเป็นหลุมบ่อเดียวที่แยกตัวออกจากกัน อีกด้านหนึ่งมีสัตว์ประหลาดมอเตอร์คู่ขนาดใหญ่ขึ้นเรื่อยๆ ซึ่งหนัก 80 หรือ 100 ปอนด์ (45 กก.) และทำให้เส้นแบ่งระหว่างสกู๊ตเตอร์และมอเตอร์ไซค์พร่ามัว VMAX VX2 Lite มุ่งเป้าไปที่จุดที่น่าสนใจที่อยู่ตรงกลาง ให้คำมั่นสัญญาว่าจะมีการขับขี่แบบระบบกันสะเทือนเต็มรูปแบบอย่างแท้จริง ประสิทธิภาพที่น่านับถือ 25 ไมล์ต่อชั่วโมง (40 กม./ชม.) และระยะทางสูงสุด 56 ไมล์ (90 กม.) ที่อ้างสิทธิ์โดยไม่ต้องกลายเป็นสิ่งที่คุณกลัวเมื่อต้องขึ้นบันได หลังจากใช้เวลาขี่รถระยะไกล ฉันคิดว่า VMAX เข้าใกล้เป้าหมายนั้นอย่างน่าประหลาดใจ"
     }
   ],
   "indices": [
@@ -608,57 +608,57 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 218.76,
-      "change": -0.98,
-      "change_pct": -0.44
+      "price": 217.56,
+      "change": -2.18,
+      "change_pct": -0.99
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 347.67,
-      "change": 10.8,
-      "change_pct": 3.21
+      "price": 351.12,
+      "change": 14.25,
+      "change_pct": 4.23
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 344.04,
-      "change": -0.16,
-      "change_pct": -0.05
+      "price": 344.72,
+      "change": 0.52,
+      "change_pct": 0.15
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 484.09,
-      "change": 2.46,
-      "change_pct": 0.51
+      "price": 484.31,
+      "change": 2.68,
+      "change_pct": 0.56
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 315.14,
-      "change": 5.11,
-      "change_pct": 1.65
+      "price": 316.83,
+      "change": 6.8,
+      "change_pct": 2.19
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 264.66,
-      "change": 5.21,
-      "change_pct": 2.01
+      "price": 265.84,
+      "change": 6.39,
+      "change_pct": 2.46
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 551.2,
-      "change": 7.53,
-      "change_pct": 1.39
+      "price": 546.03,
+      "change": 2.36,
+      "change_pct": 0.43
     },
     {
       "symbol": "DELTA.BK",
