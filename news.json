@@ -1,66 +1,78 @@
 {
-  "generated_at": "2026-08-19T21:16:37.885359+00:00",
+  "generated_at": "2026-08-20T00:29:44.408003+00:00",
   "count": 50,
   "articles": [
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
-      "summary_en": "AI-native account startup Rillet became a unicorn, led by ICONIQ, after it doubled its ARR in the past three months, it said.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/05/Nicolas-Kopp-Founder-and-CEO-3.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
-      "published": "Wed, 19 Aug 2026 20:12:33 +0000",
-      "title_th": "Rillet ระดมทุน Series C มูลค่า 100 ล้านดอลลาร์ที่การประเมินมูลค่า 1 พันล้านดอลลาร์ — 2 ปีหลังจากหลุดพ้นจากการลักลอบ",
-      "summary_th": "Rillet สตาร์ทอัพบัญชี AI-native กลายเป็นยูนิคอร์น นำโดย ICONIQ หลังจากที่เพิ่ม ARR เป็นสองเท่าในช่วงสามเดือนที่ผ่านมา"
+      "title_en": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+      "summary_en": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-527013168.jpg?resize=1200,801",
+      "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "published": "Wed, 19 Aug 2026 23:32:00 +0000",
+      "title_th": "Stripe ไม่ได้ซื้อ OpenRouter จริงๆ เพราะ 'เอกภาวะ'",
+      "summary_th": "ยักษ์ใหญ่ด้านการชำระเงินต้องการอะไรจากการเริ่มต้นระบบที่แจ้งเส้นทางระหว่างโมเดล AI ต่างๆ Stripe กล่าวว่าเป็นเพราะ \"ความเป็นเอกเทศ\" แต่จริงๆ แล้วมีเหตุผลที่แท้จริงและทรงพลังมากกว่ามาก"
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Gambling on the Little League World Series? Sports bettors have gone too far",
-      "summary_en": "Have we tried turning off society and turning it back on again?",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2231881863.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/",
-      "published": "Wed, 19 Aug 2026 20:01:02 +0000",
-      "title_th": "การพนันใน Little League World Series หรือไม่? นักพนันกีฬาไปไกลเกินไปแล้ว",
-      "summary_th": "เราได้ลองปิดสังคมแล้วเปิดใหม่อีกครั้งหรือไม่?"
+      "title_en": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+      "summary_en": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?resize=1200,675",
+      "link": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
+      "published": "Wed, 19 Aug 2026 22:25:01 +0000",
+      "title_th": "Robotaxi รุ่นต่อไปที่ราคาถูกกว่าของ Waymo เปิดให้ผู้ขับขี่ทุกคนในสามเมืองนี้แล้ว",
+      "summary_th": "โรโบแท็กซี่เจเนอเรชั่นใหม่ที่เรียกว่า Waymo Ojai เป็นศูนย์กลางในการผลักดันของบริษัทไปสู่ระดับมวลชน และท้ายที่สุดคือความสามารถในการทำกำไร"
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "AI was supposed to win people over by now — it hasn’t",
-      "summary_en": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-      "published": "Wed, 19 Aug 2026 19:11:40 +0000",
-      "title_th": "AI ควรจะเอาชนะใจผู้คนได้ในตอนนี้ – ยังไม่เป็นเช่นนั้น",
-      "summary_th": "เมื่อ AI หลีกเลี่ยงได้ยากขึ้น ผู้บริโภคก็เริ่มระมัดระวังเทคโนโลยีมากขึ้นเรื่อยๆ และ Silicon Valley ก็ค้นพบว่าการยอมรับอย่างกว้างขวางไม่จำเป็นต้องนำไปสู่การยอมรับเสมอไป"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Google packs Search and Gemini with new AI study tools",
-      "summary_en": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-      "published": "Wed, 19 Aug 2026 19:00:00 +0000",
-      "title_th": "Google บรรจุ Search และ Gemini ด้วยเครื่องมือศึกษา AI ใหม่",
-      "summary_th": "การเปิดตัวฟีเจอร์การศึกษาใหม่ถือเป็นความพยายามล่าสุดของ Google ที่จะทำให้ Gemini เป็นผู้ช่วย AI ที่นักเรียนหันไปใช้เมื่อเรียนและเรียน เนื่องจากยังคงแข่งขันกับบริษัทอย่าง OpenAI ต่อไป"
+      "title_en": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "summary_en": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544149.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "published": "Wed, 19 Aug 2026 22:10:46 +0000",
+      "title_th": "OpenAI พยายามที่จะรวม Anthropic เข้ากับการปกป้องความเป็นส่วนตัวของลูกค้าแบบใหม่",
+      "summary_th": "การแข่งขันกำลังพัฒนาระหว่าง OpenAI และ Anthropic ว่าใครสามารถให้การปกป้องความเป็นส่วนตัวที่ดีที่สุดสำหรับข้อมูลลูกค้าองค์กรได้"
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Researchers say OpenAI revoked their access to limited cyber program",
-      "summary_en": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798",
-      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-      "published": "Wed, 19 Aug 2026 18:46:14 +0000",
-      "title_th": "นักวิจัยกล่าวว่า OpenAI เพิกถอนการเข้าถึงโปรแกรมไซเบอร์ที่มีข้อจำกัด",
-      "summary_th": "แนวคิดเบื้องหลังโปรแกรม Trusted Access for Cyber ​​ของ OpenAI คือการให้แบบจำลองที่ดีกว่าแก่ผู้ปกป้องที่เชื่อถือได้ เพื่อให้พวกเขาสามารถรายงานจุดบกพร่องและช่องโหว่ให้กับบริษัทต่างๆ โดยมีเป้าหมายในการแก้ไขข้อบกพร่องได้เร็วขึ้น"
+      "title_en": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "summary_en": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "published": "Wed, 19 Aug 2026 21:51:23 +0000",
+      "title_th": "Cognition CEO ปฏิเสธรายงานว่า SpaceX พยายามเข้าซื้อกิจการสตาร์ทอัพ",
+      "summary_th": "มีรายงานว่า SpaceX กำลังเจรจาเพื่อซื้อ Cognition สตาร์ทอัพด้านการเข้ารหัสด้วย AI SpaceX ได้รับ Cursor แล้ว เนื่องจากกำลังแข่งขันเพื่อไล่ตามคู่แข่งอย่าง OpenAI และ Anthropic ใน AI ระดับองค์กร"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
+      "summary_en": "After raising $1.7 billion for his new robotics company Atoms, Travis Kalanick is introspective about the role VCs have played in his career.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/",
+      "published": "Wed, 19 Aug 2026 21:48:24 +0000",
+      "title_th": "Travis Kalanick เริ่มต้นการทุบตี VC อีกรอบ: ‘1% มีประโยชน์’",
+      "summary_th": "หลังจากระดมทุนได้ 1.7 พันล้านดอลลาร์ให้กับ Atoms บริษัทหุ่นยนต์แห่งใหม่ของเขา Travis Kalanick กำลังครุ่นคิดเกี่ยวกับบทบาทที่ VC มีในอาชีพของเขา"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Does giving a camera wings dodge the FCC’s drone ban?",
+      "summary_en": "HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand's latest trick might be its riskiest: it's attempting to sneak a drone past the FCC. In December 2025, the US government banned future foreign […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/hoverair-versa.webp?quality=90&strip=all&crop=0%2C17.731265983107%2C100%2C64.537468033785&w=1200",
+      "link": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
+      "published": "2026-08-19T18:35:20-04:00",
+      "title_th": "การให้ปีกกล้องเป็นการหลบเลี่ยงการสั่งห้ามโดรนของ FCC หรือไม่",
+      "summary_th": "โดรน HoverAir มีลูกเล่นที่น่าสนใจอยู่เสมอ อันนี้พับแบนเพื่อให้พอดีกับกระเป๋าของคุณ ตัวนี้ลงน้ำได้ อีกอันสามารถชาร์จภายในกระเป๋าได้ แต่เคล็ดลับล่าสุดของแบรนด์อาจเสี่ยงที่สุด: พยายามแอบโดรนผ่าน FCC ในเดือนธันวาคม 2025 รัฐบาลสหรัฐฯ สั่งห้ามชาวต่างชาติในอนาคต […]"
     },
     {
       "source": "The Verge",
@@ -72,7 +84,7 @@
       "link": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
       "published": "2026-08-19T15:53:09-04:00",
       "title_th": "Nielsen พึ่งพาอุปกรณ์สวมใส่มากขึ้นเพื่อฟังสิ่งที่ผู้คนกำลังรับชม",
-      "summary_th": "เพื่อเพิ่มความสามารถในการวัดข้อมูลผู้ชมในยุคสตรีมมิ่งได้อย่างแม่นยำ Nielsen กำลังก้าวไปข้างหน้าด้วยแผนการใช้ข้อมูลเพิ่มเติมที่รวบรวมจากอุปกรณ์สวมใส่ของพันธมิตร วันนี้ Nielsen ได้ประกาศ \"การปรับปรุงที่สำคัญหลายประการ\" ที่กำลังจะถูกเพิ่มเข้าไปในกระบวนการเก็บข้อมูลก่อนฤดูใบไม้ร่วงที่กำลังจะมาถึง […]"
+      "summary_th": "เพื่อเพิ่มความสามารถในการวัดข้อมูลผู้ชมในยุคสตรีมมิ่งได้อย่างแม่นยำ Nielsen กำลังก้าวไปข้างหน้าด้วยแผนการใช้ข้อมูลเพิ่มเติมที่รวบรวมจากอุปกรณ์สวมใส่ของพันธมิตร วันนี้ Nielsen ได้ประกาศ \"การปรับปรุงที่สำคัญหลายประการ\" ที่กำลังจะถูกเพิ่มเข้าไปในกระบวนการบันทึกข้อมูลก่อนฤดูใบไม้ร่วงที่กำลังจะมาถึง […]"
     },
     {
       "source": "The Verge",
@@ -109,18 +121,6 @@
       "published": "2026-08-19T14:00:00-04:00",
       "title_th": "อนาคตอุปกรณ์สวมใส่ติดอยู่ในขอบเขตที่แปลกประหลาด ทดลอง และดำรงอยู่",
       "summary_th": "นี่คือ Optimizer ซึ่งเป็นจดหมายข่าวรายสัปดาห์ที่ส่งมาจาก Victoria Song นักวิจารณ์อาวุโสของ Verge ซึ่งวิเคราะห์และอภิปรายเกี่ยวกับอุปกรณ์และยาล่าสุดที่สาบานว่าสิ่งเหล่านี้จะเปลี่ยนชีวิตคุณ เลือกใช้เครื่องมือเพิ่มประสิทธิภาพที่นี่ ในช่วงสัปดาห์ที่ผ่านมา ฉันได้ทดสอบ Google Pixel Watch 5 ซึ่งเป็นสมาร์ทวอทช์สมัยใหม่ทั่วไปในหลายๆ ด้าน […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Grab an iPad Air M4 for its lowest price since the June increase",
-      "summary_en": "Almost everything with high-end memory or storage is more expensive these days, and tablets are no exception, so we’re glad to see that Amazon and Best Buy have the most recent 11-inch iPad Air with the M4 chip on sale for $649. That’s $100 lower than the new retail price that went into effect (alongside […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ipad-air-m4-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale",
-      "published": "2026-08-19T13:56:15-04:00",
-      "title_th": "ซื้อ iPad Air M4 ในราคาที่ถูกที่สุดนับตั้งแต่เพิ่มขึ้นในเดือนมิถุนายน",
-      "summary_th": "เกือบทุกอย่างที่มีหน่วยความจำระดับไฮเอนด์หรือที่เก็บข้อมูลมีราคาแพงกว่าในปัจจุบัน และแท็บเล็ตก็ไม่มีข้อยกเว้น ดังนั้นเราจึงดีใจที่เห็นว่า Amazon และ Best Buy มี iPad Air ขนาด 11 นิ้วรุ่นล่าสุดพร้อมชิป M4 ลดราคา 649 ดอลลาร์ นั่นต่ำกว่าราคาขายปลีกใหม่ที่มีผลบังคับใช้ $100 (ควบคู่ไปกับ […]"
     },
     {
       "source": "Ars Technica",
@@ -186,6 +186,18 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
+      "title_en": "Elon Musk Is Expected to Point His Money Machine at Texas Politics",
+      "summary_en": "Sources tell WIRED that Elon Musk is expected to spend up to $200 million in the midterms. It could be a big boost for GOP Senate candidate Ken Paxton, who’s struggled to raise cash.",
+      "image": "https://media.wired.com/photos/6a84d184f7b84b3670c55c0f/master/pass/politics_elon_texas_election.jpg",
+      "link": "https://www.wired.com/story/elon-musk-is-expected-to-point-his-money-machine-at-texas/",
+      "published": "Wed, 19 Aug 2026 23:00:00 +0000",
+      "title_th": "Elon Musk คาดว่าจะชี้เครื่องเงินของเขาที่ Texas Politics",
+      "summary_th": "แหล่งข่าวบอก WIRED ว่า Elon Musk คาดว่าจะใช้จ่ายสูงถึง 200 ล้านดอลลาร์ในช่วงกลางภาคเรียน อาจเป็นประโยชน์อย่างมากสำหรับผู้สมัครวุฒิสภา GOP Ken Paxton ซึ่งกำลังดิ้นรนเพื่อหาเงิน"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
       "title_en": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
       "summary_en": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
       "image": "https://media.wired.com/photos/6a85e8ea4518d27679a9b132/master/pass/AI-Lab-Very-Clever-Robot-Creeped-Me-Out-Business.jpg",
@@ -216,7 +228,7 @@
       "link": "https://www.wired.com/review/google-pixel-watch-5/",
       "published": "Wed, 19 Aug 2026 16:34:24 +0000",
       "title_th": "รีวิว Google Pixel Watch 5: สุขภาพที่มากขึ้น AI ที่มากขึ้น",
-      "summary_th": "ด้วยการติดตามผลยิมที่ชาญฉลาดยิ่งขึ้น การแจ้งเตือนด้านสุขภาพแบบใหม่ และ Gemini แบบออฟไลน์ Pixel Watch 5 ปรับสูตรสำเร็จในราคาที่คุ้มค่า"
+      "summary_th": "ด้วยการติดตามการออกกำลังกายที่ชาญฉลาดยิ่งขึ้น การแจ้งเตือนด้านสุขภาพแบบใหม่ และ Gemini แบบออฟไลน์ Pixel Watch 5 ปรับแต่งสูตรสำเร็จในราคาที่คุ้มค่า"
     },
     {
       "source": "Wired",
@@ -228,19 +240,7 @@
       "link": "https://www.wired.com/review/google-pixel-11-pro-and-pixel-11-pro-xl/",
       "published": "Wed, 19 Aug 2026 16:00:00 +0000",
       "title_th": "รีวิว Google Pixel 11 Pro และ Pixel 11 Pro XL: ซอฟต์แวร์อัจฉริยะ อัปเกรดขนาดเล็ก",
-      "summary_th": "การพิมพ์ด้วยเสียงใหม่ของ Google นั้นเป็นเวทย์มนตร์ที่บริสุทธิ์ แต่ประสิทธิภาพการเล่นเกมที่ต่ำกว่ามาตรฐานและไฟ LED ด้านหลังที่ไร้ประโยชน์ทำให้ธงเหล่านี้มีความยิ่งใหญ่อย่างแท้จริง"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Why Is It Absolute Hell to Buy a Movie Ticket Now?",
-      "summary_en": "Overwhelmed theater apps and a scarcity mindset around exclusive big-screen formats for blockbusters like Dune: Part Three and The Odyssey have led to the “concertification” of movies.",
-      "image": "https://media.wired.com/photos/6a84cf4b5fff3cefc910e1b0/master/pass/Summer-of-Movie-Ticket-Concertification-Culture.jpg",
-      "link": "https://www.wired.com/story/why-is-it-absolute-hell-to-buy-a-movie-ticket-now/",
-      "published": "Wed, 19 Aug 2026 14:33:04 +0000",
-      "title_th": "เหตุใดการซื้อตั๋วหนังตอนนี้จึงเป็นเรื่องนรกอย่างแน่นอน?",
-      "summary_th": "แอพโรงละครที่ล้นหลามและความคิดที่ขาดแคลนในรูปแบบจอใหญ่สุดพิเศษสำหรับหนังดังอย่าง Dune: Part Three และ The Odyssey ได้นำไปสู่ ​​\"คอนเสิร์ต\" ของภาพยนตร์"
+      "summary_th": "การพิมพ์ด้วยเสียงแบบใหม่ของ Google นั้นเป็นเวทย์มนตร์ที่บริสุทธิ์ แต่ประสิทธิภาพการเล่นเกมที่ต่ำกว่ามาตรฐานและไฟ LED ด้านหลังที่ไร้ประโยชน์ทำให้ธงเหล่านี้มีความยิ่งใหญ่อย่างแท้จริง"
     },
     {
       "source": "MIT Technology Review",
@@ -252,7 +252,7 @@
       "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
       "published": "Wed, 19 Aug 2026 12:10:00 +0000",
       "title_th": "การดาวน์โหลด: ปัญหาการพัฒนาตนเองของ AI และสิ่งที่ทำให้เกิดความร้อนแรง",
-      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี การพัฒนาตนเองแบบเรียกซ้ำของ AI อาจไม่เกิดขึ้นอย่างรวดเร็วนัก คำมั่นสัญญาที่ชัดเจนที่สุดของอุตสาหกรรม AI ในขณะนี้ก็คือ AI จะปรับปรุงตัวเองในไม่ช้า โดยแทบไม่จำเป็นต้องมีการควบคุมดูแลจากมนุษย์..."
+      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี การพัฒนาตนเองแบบเรียกซ้ำของ AI อาจไม่เกิดขึ้นอย่างรวดเร็วนัก คำมั่นสัญญาที่ชัดเจนที่สุดของอุตสาหกรรม AI ในตอนนี้ก็คือ AI จะปรับปรุงตัวเองในไม่ช้า โดยแทบไม่จำเป็นต้องมีการควบคุมดูแลจากมนุษย์..."
     },
     {
       "source": "MIT Technology Review",
@@ -300,7 +300,7 @@
       "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
       "published": "Tue, 18 Aug 2026 09:00:00 +0000",
       "title_th": "บทบาทของนักบินอวกาศกำลังอยู่ในช่วงฟุ้งซ่าน",
-      "summary_th": "เมื่อนักบินอวกาศทั้งสี่คนบนเรือ Artemis II ของ NASA หมุนรอบดวงจันทร์เมื่อต้นปีนี้ พวกเขาได้สร้างสถิติใหม่ว่ามนุษย์ที่อยู่ไกลที่สุดเท่าที่เคยผจญภัยไปจากโลก ซึ่งเกินกว่าระยะทางที่กำหนดโดย Apollo 13 ในปี 1972 ประมาณ 4,000 ไมล์ แม้ว่าจะไม่มีภารกิจในอวกาศใดที่สามารถดำเนินชีวิตตามทัชดาวน์ประวัติศาสตร์ของ..."
+      "summary_th": "เมื่อนักบินอวกาศทั้งสี่คนบนเรือ Artemis II ของ NASA หมุนรอบดวงจันทร์เมื่อต้นปีนี้ พวกเขาได้สร้างสถิติใหม่ว่ามนุษย์ที่อยู่ไกลที่สุดเท่าที่เคยเดินทางออกจากโลก ซึ่งเกินกว่าระยะทางที่กำหนดโดย Apollo 13 ในปี 1972 ประมาณ 4,000 ไมล์ แม้ว่าจะไม่มีภารกิจในอวกาศใดที่สามารถดำเนินชีวิตตามทัชดาวน์ประวัติศาสตร์ของ..."
     },
     {
       "source": "Engadget",
@@ -311,7 +311,7 @@
       "image": "https://www.engadget.com/img/gallery/waymo-ojai-vans-are-now-available-for-all-riders-in-three-cities/l-intro-1787173482.jpg",
       "link": "https://www.engadget.com/2240419/waymo-ojai-vans-are-now-available-for-all-riders-in-three-cities/",
       "published": "Wed, 19 Aug 2026 21:07:58 +0000",
-      "title_th": "ขณะนี้รถตู้ Waymo Ojai พร้อมให้บริการสำหรับผู้โดยสารทุกคนในสามเมือง",
+      "title_th": "ขณะนี้รถตู้ Waymo Ojai พร้อมให้บริการสำหรับผู้ขับขี่ทุกคนในสามเมือง",
       "summary_th": "ถือเป็นการเปิดตัวรถตู้ไร้คนขับเต็มรูปแบบในซานฟรานซิสโก ฟีนิกซ์ และลอสแองเจลิส"
     },
     {
@@ -323,7 +323,7 @@
       "image": "https://www.engadget.com/img/gallery/a-robot-could-eventually-conduct-your-blood-draw-at-the-doctors-office/l-intro-1787169711.jpg",
       "link": "https://www.engadget.com/2240357/a-robot-could-eventually-conduct-your-blood-draw-at-the-doctors-office/",
       "published": "Wed, 19 Aug 2026 20:02:52 +0000",
-      "title_th": "ในที่สุดหุ่นยนต์ก็สามารถเจาะเลือดได้ที่สำนักงานแพทย์",
+      "title_th": "A robot could eventually conduct your blood draw at the doctor's office",
       "summary_th": "FDA ได้อนุมัติอุปกรณ์เจาะเลือดอัตโนมัติเครื่องแรกสำหรับการดูแลรักษาผู้ป่วยนอก"
     },
     {
@@ -384,7 +384,7 @@
       "link": "https://spectrum.ieee.org/ieee-presidents-scholarship-2026",
       "published": "Mon, 17 Aug 2026 18:00:04 +0000",
       "title_th": "ทุนการศึกษาของประธานาธิบดี IEEE มอบให้แก่นักนวัตกรรมวัยรุ่น",
-      "summary_th": "องค์การอนามัยโลกระบุว่า ประมาณร้อยละ 16 ของประชากรโลก หรือมากกว่า 1 พันล้านคน อาศัยอยู่กับความพิการบางรูปแบบ ความพิการจำนวนมากส่งผลต่อความเป็นอิสระและความคล่องตัว นักเรียนมัธยมปลายสามคนที่ทำงานเกี่ยวกับสิ่งประดิษฐ์เพื่อช่วยคนพิการฟื้นฟูการเคลื่อนไหว แปลความคิด และสำรวจภูมิประเทศที่ขรุขระมีผลงานของพวกเขาจัดแสดงในงานวิทยาศาสตร์และวิศวกรรมนานาชาติ (ISEF) ของ Regeneron ซึ่งจัดขึ้นในเดือนพฤษภาคมที่เมืองฟีนิกซ์ โครงการของพวกเขาทำให้พวกเขาได้รับรางวัลทุนการศึกษา IEEE Presidents' Scholarship ในปีนี้ แมรี เอลเลน แรนดัลล์ ประธาน IEEE เป็นผู้มอบรางวัลในพิธีที่จัดขึ้นระหว่างงาน พวกเขายังได้รับเหรียญของ IEEE President ซึ่งนักเรียนกล่าวว่าเป็นจุดเด่นของประสบการณ์ของพวกเขา Hollie Tang ได้รับรางวัลทุนการศึกษา IEEE Presidents' Scholarship จากปีนี้"
+      "summary_th": "องค์การอนามัยโลกระบุว่า ประมาณร้อยละ 16 ของประชากรโลก หรือมากกว่า 1 พันล้านคน อาศัยอยู่กับความพิการบางรูปแบบ ความพิการจำนวนมากส่งผลต่อความเป็นอิสระและความคล่องตัว นักเรียนมัธยมปลายสามคนที่ทำงานเกี่ยวกับสิ่งประดิษฐ์เพื่อช่วยคนพิการฟื้นฟูการเคลื่อนไหว แปลความคิด และสำรวจภูมิประเทศที่ขรุขระมีผลงานของพวกเขาจัดแสดงในงานวิทยาศาสตร์และวิศวกรรมนานาชาติ (ISEF) ของ Regeneron ซึ่งจัดขึ้นในเดือนพฤษภาคมที่เมืองฟีนิกซ์ โครงการของพวกเขาทำให้พวกเขาได้รับรางวัลทุนการศึกษา IEEE Presidents' Scholarship ในปีนี้ แมรี เอลเลน แรนดัลล์ ประธาน IEEE เป็นผู้มอบรางวัลในพิธีที่จัดขึ้นระหว่างงาน พวกเขายังได้รับเหรียญของ IEEE President ซึ่งนักเรียนกล่าวว่าเป็นจุดเด่นของประสบการณ์ของพวกเขา Hollie Tang ได้รับรางวัลทุนการศึกษา IEEE Presidents' Scholarship ประจำปีนี้"
     },
     {
       "source": "IEEE Spectrum",
@@ -420,7 +420,43 @@
       "link": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
       "published": "Fri, 14 Aug 2026 17:27:12 +0000",
       "title_th": "ทำนายการเชื่อมต่อเสาอากาศบนแพลตฟอร์มไฟฟ้าขนาดใหญ่ก่อนสร้างฮาร์ดแวร์",
-      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นคาดการณ์การต่อพ่วงเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามแบบใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
+      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นทำนายการต่อเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามประการใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Camera-equipped AirPods reportedly won’t launch in 2026, despite demo video leak",
+      "summary_en": "Bloomberg reports that despite Apple’s accidental inclusion of a demo video showcasing Visual Intelligence on AirPods, the product “remains on track for 2027.” Here are the details.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-w-case-apple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/19/camera-equipped-airpods-reportedly-wont-launch-in-2026-despite-demo-video-leak/",
+      "published": "Wed, 19 Aug 2026 23:42:49 +0000",
+      "title_th": "มีรายงานว่า AirPods ที่ติดตั้งกล้องจะไม่เปิดตัวในปี 2569 แม้ว่าจะมีวิดีโอสาธิตรั่วไหลก็ตาม",
+      "summary_th": "Bloomberg รายงานว่าแม้ว่า Apple จะรวมวิดีโอสาธิตที่แสดง Visual Intelligence บน AirPods ไว้โดยไม่ได้ตั้งใจ แต่ผลิตภัณฑ์ดังกล่าว “ยังคงอยู่ในเส้นทางในปี 2027” นี่คือรายละเอียด"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "9to5Mac Daily: August 19, 2026 – Apple TV 4K rumors, Apple Maps ads",
+      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily .",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/19/daily-august-19-2026/",
+      "published": "Wed, 19 Aug 2026 23:06:38 +0000",
+      "title_th": "9to5Mac รายวัน: 19 สิงหาคม 2569 – ข่าวลือ Apple TV 4K, โฆษณา Apple Maps",
+      "summary_th": "ฟังสรุปเรื่องเด่นประจำวันจาก 9to5Mac 9to5Mac Daily มีให้บริการบน iTunes และแอป Podcasts ของ Apple , Stitcher , TuneIn , Google Play หรือผ่านทางฟีด RSS เฉพาะของเราสำหรับ Overcast และเครื่องเล่นพอดแคสต์อื่นๆ สนับสนุนโดย Backblaze : การสำรองข้อมูลที่คุณวางใจได้ ประหยัด 20% ด้วยรหัส 9to5daily"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Report: Smart wearables market set to generate more than $1 trillion through 2032",
+      "summary_en": "A new Counterpoint Research report predicts that consumer wearables will generate more than $1 trillion in cumulative revenue through 2032, with smartwatches and wireless earbuds leading the pack. Here is the breakdown.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/Apple-AirPods-Pro-3-lifestyle-01-250909.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/19/report-smart-wearables-market-set-to-generate-more-than-1-trillion-through-2032/",
+      "published": "Wed, 19 Aug 2026 21:21:52 +0000",
+      "title_th": "รายงาน: ตลาดอุปกรณ์สวมใส่อัจฉริยะคาดว่าจะสร้างรายได้มากกว่า 1 ล้านล้านดอลลาร์จนถึงปี 2575",
+      "summary_th": "รายงานการวิจัย Counterpoint ฉบับใหม่คาดการณ์ว่าอุปกรณ์สวมใส่ของผู้บริโภคจะสร้างรายได้สะสมมากกว่า 1 ล้านล้านดอลลาร์ภายในปี 2575 โดยมีสมาร์ทวอทช์และหูฟังไร้สายเป็นผู้นำ นี่คือรายละเอียด"
     },
     {
       "source": "9to5Mac",
@@ -432,7 +468,7 @@
       "link": "https://9to5mac.com/2026/08/19/macos-27-new-siri-app-features/",
       "published": "Wed, 19 Aug 2026 20:56:34 +0000",
       "title_th": "macOS Golden Gate เพิ่มแอพใหม่ให้กับ Mac ของคุณ; นี่คือสิ่งที่สามารถทำได้",
-      "summary_th": "9to5Mac นำเสนอให้คุณโดย Memoket : Memoket Gem เป็นอุปกรณ์สวมใส่ AI หนัก 11 กรัม โดยมีช่องข้าง Apple Watch ของคุณในสายแบบสวมร่วม กดหนึ่งครั้งเพื่อบันทึกการสนทนา และ Gem จะเชื่อมต่อกับสิ่งที่คุณพูดคุยเมื่อสัปดาห์ที่แล้ว — แสดงกระทู้ก่อนหน้าด้วยลิงก์แหล่งที่มา จาก $179 จัดส่งในเดือนสิงหาคม 2026 เมื่อเราเข้าสู่สัปดาห์สุดท้ายของการทดสอบเบต้า Apple น่าจะเปิดตัว macOS 27 Golden Gate สู่สาธารณะในเดือนหน้า การเปลี่ยนแปลงครั้งใหญ่ที่สุดประการหนึ่งในการอัปเดตในปีนี้คือการเพิ่มแอพ Siri ใหม่ทั้งหมดสำหรับผู้ใช้ Mac"
+      "summary_th": "9to5Mac นำเสนอให้คุณโดย Memoket: Memoket Gem เป็นอุปกรณ์สวมใส่ AI หนัก 11 กรัม โดยมีช่องข้าง Apple Watch ของคุณในสายแบบสวมร่วม กดหนึ่งครั้งเพื่อบันทึกการสนทนา และ Gem จะเชื่อมต่อกับสิ่งที่คุณพูดคุยเมื่อสัปดาห์ที่แล้ว — แสดงกระทู้ก่อนหน้าด้วยลิงก์แหล่งที่มา จาก $179 จัดส่งในเดือนสิงหาคม 2026 เมื่อเราเข้าสู่สัปดาห์สุดท้ายของการทดสอบเบต้า Apple น่าจะเปิดตัว macOS 27 Golden Gate สู่สาธารณะในเดือนหน้า การเปลี่ยนแปลงครั้งใหญ่ที่สุดประการหนึ่งในการอัปเดตในปีนี้คือการเพิ่มแอพ Siri ใหม่ทั้งหมดสำหรับผู้ใช้ Mac"
     },
     {
       "source": "9to5Mac",
@@ -444,43 +480,19 @@
       "link": "https://9to5mac.com/2026/08/19/watch-susan-kare-revisit-the-icons-and-graphics-for-the-original-mac/",
       "published": "Wed, 19 Aug 2026 20:14:37 +0000",
       "title_th": "ดู Susan Kare ทบทวนไอคอนและกราฟิกสำหรับ Mac รุ่นดั้งเดิม",
-      "summary_th": "นักออกแบบกราฟิกระดับตำนาน Susan Kare พูดเมื่อเร็วๆ นี้ที่งาน Startup School 2026 และวิดีโอสำหรับการพูดคุยของเธอได้เผยแพร่แล้วบนช่อง YouTube ของ Y Combinator ดูได้ที่ด้านล่างนี้"
+      "summary_th": "นักออกแบบกราฟิกระดับตำนาน Susan Kare พูดเมื่อเร็วๆ นี้ที่งาน Startup School 2026 และวิดีโอสำหรับการพูดคุยของเธอได้เผยแพร่แล้วบนช่อง YouTube ของ Y Combinator ดูได้ที่ด้านล่าง"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "iPhone 18 Pro: Three new design updates are coming",
-      "summary_en": "iPhone 18 Pro and Pro Max will launch next month , and in addition to packing a variety of new features , there are three design changes reportedly coming. Here’s what rumors say to expect.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/19/iphone-18-pro-three-new-design-updates-are-coming-this-year/",
-      "published": "Wed, 19 Aug 2026 20:03:12 +0000",
-      "title_th": "iPhone 18 Pro: การอัปเดตการออกแบบใหม่สามรายการกำลังจะมา",
-      "summary_th": "iPhone 18 Pro และ Pro Max จะเปิดตัวในเดือนหน้า และนอกเหนือจากคุณสมบัติใหม่ที่หลากหลายแล้ว ยังมีรายงานว่ามีการเปลี่ยนแปลงการออกแบบอีกสามประการที่กำลังจะเกิดขึ้น นี่คือสิ่งที่ข่าวลือบอกว่าคาดหวัง"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Special 1-day Apple anniversary sale: AirPods Pro 3, MacBook Pro $400 off, iPhone Air/17 Pro, AirTag 2, more",
-      "summary_en": "We are checking in today with a special edition of 9to5Toys Lunch Break – AirPods Pro 3 and AirPods Max 2 at $120 off are some of the best prices ever, but Best Buy has launched a special 1-day-only Apple sale event as part of its giant 60th Anniversary sale . Joining AirTag 2 back at all-time lows, you’re looking at $400 off brand-new M5 Pro MacBook Pro models today alongside iPhone Air at $170 off (or you can land open-box units at up to $406 off ), and even some solid offers across a broad range of official Apple accessories.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-anniversary-sale.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/19/special-1-day-apple-anniversary-sale-airpods/",
-      "published": "Wed, 19 Aug 2026 19:53:24 +0000",
-      "title_th": "การขายครบรอบ 1 วันพิเศษของ Apple: AirPods Pro 3, MacBook Pro ลดราคา 400 ดอลลาร์, iPhone Air/17 Pro, AirTag 2 และอื่นๆ",
-      "summary_th": "เรากำลังเช็คอินวันนี้ด้วย 9to5Toys Lunch Break รุ่นพิเศษ – AirPods Pro 3 และ AirPods Max 2 ในราคาลด 120 ดอลลาร์เป็นราคาที่ดีที่สุดเท่าที่เคยมีมา แต่ Best Buy ได้เปิดตัวกิจกรรมลดราคา Apple พิเศษ 1 วันเท่านั้น ซึ่งเป็นส่วนหนึ่งของการลดราคาฉลองครบรอบ 60 ปีครั้งใหญ่ การเข้าร่วม AirTag 2 กลับมาที่ระดับต่ำสุดตลอดกาล คุณกำลังรับส่วนลด 400 ดอลลาร์สำหรับ M5 Pro MacBook Pro รุ่นใหม่วันนี้ พร้อมกับ iPhone Air ในราคา 170 ดอลลาร์ (หรือคุณสามารถลดราคาอุปกรณ์แบบเปิดกล่องได้สูงสุดถึง 406 ดอลลาร์) และแม้แต่ข้อเสนอที่แข็งแกร่งสำหรับอุปกรณ์เสริมอย่างเป็นทางการของ Apple ที่หลากหลาย"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple Watch Series 12 to bring back beloved design material, says leaker",
-      "summary_en": "Apple Watch Series 12 will be unveiled next month , and a reputable leaker just said it will come with a ceramic design option.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ceramic-s5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/19/apple-watch-series-12-to-bring-back-beloved-design-material-says-leaker/",
-      "published": "Wed, 19 Aug 2026 19:32:06 +0000",
-      "title_th": "Apple Watch Series 12 เตรียมนำวัสดุดีไซน์ยอดนิยมกลับมาอีกครั้ง Leaker กล่าว",
-      "summary_th": "Apple Watch Series 12 จะเปิดตัวในเดือนหน้า และผู้รั่วไหลที่มีชื่อเสียงเพิ่งกล่าวว่าจะมาพร้อมกับตัวเลือกการออกแบบเซรามิก"
+      "title_en": "Google Pixel 11 gets dbrand’s full case lineup, including Tank for the first time [Gallery]",
+      "summary_en": "Best known for its skins, dbrand has been building some of the best cases in the game in recent years and, for the Pixel 11 series, you can get every option for your new phone. Here’s what you should know.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-dbrand-case-lineup-1.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/19/google-pixel-11-dbrand-cases/",
+      "published": "Wed, 19 Aug 2026 22:30:00 +0000",
+      "title_th": "Google Pixel 11 ได้รับเคสเต็มรูปแบบของ dbrand รวมถึง Tank เป็นครั้งแรก [แกลเลอรี]",
+      "summary_th": "ที่รู้จักกันดีในเรื่องสกิน dbrand ได้สร้างเคสที่ดีที่สุดในเกมในช่วงไม่กี่ปีที่ผ่านมา และสำหรับซีรีย์ Pixel 11 คุณจะได้รับทุกตัวเลือกสำหรับโทรศัพท์เครื่องใหม่ของคุณ นี่คือสิ่งที่คุณควรรู้"
     },
     {
       "source": "9to5Google",
@@ -516,7 +528,7 @@
       "link": "https://9to5google.com/2026/08/19/sony-wh-1000xm4-re-release-leak/",
       "published": "Wed, 19 Aug 2026 19:39:34 +0000",
       "title_th": "หูฟังแบบครอบหูปี 2020 ของ Sony กลับมาในราคาประมาณ 250 ดอลลาร์ในสีใหม่ การรั่วไหลเปิดเผย [U]",
-      "summary_th": "การรั่วไหลครั้งใหม่ทำให้เกิดความเคลื่อนไหวที่น่าสนใจจาก Sony เนื่องจากบริษัทกำลังเตรียมที่จะเปิดตัวหูฟังแบบครอบหูรุ่น WH-1000XM4 ในปี 2020 อีกครั้ง"
+      "summary_th": "การรั่วไหลครั้งใหม่ทำให้ Sony เคลื่อนไหวที่น่าสนใจ เนื่องจากบริษัทกำลังเตรียมที่จะเปิดตัวหูฟังแบบครอบหูรุ่น WH-1000XM4 ในปี 2020 อีกครั้ง"
     },
     {
       "source": "9to5Google",
@@ -531,16 +543,16 @@
       "summary_th": "ด้วยโทรศัพท์รุ่นใหม่ในปีนี้ Google ขอแนะนำ \"การค้นหาพิกเซล\" ในฐานะ \"สหายการค้นหาเฉพาะที่ออกแบบมาเพื่อช่วยให้คุณค้นหาข้อมูลส่วนบุคคลได้เร็วกว่าที่เคย\""
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Gemini Live adds Deep Research as Notebooks come to AI Mode",
-      "summary_en": "With the back-to-school season underway, Google is introducing new study tools across the Gemini app and Search.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Gemini-Live-Deep-Research.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/19/gemini-app-ai-mode-study-tools/",
-      "published": "Wed, 19 Aug 2026 19:00:00 +0000",
-      "title_th": "Gemini Live เพิ่มการวิจัยเชิงลึกเมื่อโน้ตบุ๊กเข้าสู่โหมด AI",
-      "summary_th": "ในช่วงเปิดเทอม Google กำลังเปิดตัวเครื่องมือการเรียนรู้ใหม่ๆ ทั่วทั้งแอป Gemini และ Search"
+      "category": "ev",
+      "title_en": "Wawa-branded EV chargers are expanding beyond Tesla",
+      "summary_en": "Wawa launched self-branded Tesla Superchargers earlier this year , and now it’s doing the same with Electrify America EV fast chargers.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/electrify-america-wawa-announcement-v001.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/19/wawa-branded-ev-chargers-are-expanding-beyond-tesla/",
+      "published": "Wed, 19 Aug 2026 21:53:47 +0000",
+      "title_th": "ที่ชาร์จ EV ของแบรนด์ Wawa กำลังขยายตัวเกินกว่า Tesla",
+      "summary_th": "Wawa ได้เปิดตัว Tesla Superchargers ที่มีแบรนด์ตนเองเมื่อต้นปีนี้ และตอนนี้ก็ทำเช่นเดียวกันกับเครื่องชาร์จแบบเร็ว Electrify America EV"
     },
     {
       "source": "Electrek",
@@ -563,7 +575,7 @@
       "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/ChargePoint-PDX.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "link": "https://electrek.co/2026/08/19/portland-airport-can-charge-20-rental-evs-at-once-from-overhead/",
       "published": "Wed, 19 Aug 2026 18:20:26 +0000",
-      "title_th": "สนามบินพอร์ตแลนด์สามารถชาร์จ EV เช่าได้ 20 คันในครั้งเดียว จากค่าใช้จ่าย",
+      "title_th": "สนามบินพอร์ตแลนด์สามารถชาร์จรถยนต์ไฟฟ้าให้เช่าได้ 20 คันในครั้งเดียว จากค่าใช้จ่าย",
       "summary_th": "สนามบินนานาชาติพอร์ตแลนด์ (PDX) ในรัฐโอเรกอนสามารถชาร์จ EV เช่าได้สูงสุดถึง 20 คันในคราวเดียวโดยไม่ต้องเสียสละพื้นที่อันมีค่า ด้วยระบบการชาร์จด่วน ChargePoint เหนือศีรษะแบบใหม่"
     },
     {
@@ -575,7 +587,7 @@
       "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Heybike-EcoFlow-Anker-eufy-NIU-GDs-FI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "link": "https://electrek.co/2026/08/19/heybike-hero-mid-drive-e-bike-exclusive-ecoflow-power-station-flash-sale-more/",
       "published": "Wed, 19 Aug 2026 18:00:00 +0000",
-      "title_th": "Heybike Hero ขับเคลื่อนกลางคาร์บอนไฟเบอร์ e-bike ทุกพื้นที่ในราคาสุดพิเศษ 1,049.50 ใหม่ต่ำขายแฟลชสถานีพลังงาน EcoFlow และอีกมากมาย",
+      "title_th": "Heybike Hero ขับเคลื่อนกลาง e-bike คาร์บอนไฟเบอร์ทุกพื้นที่ในราคาสุดพิเศษ 1,049.50 ใหม่ต่ำ ขายแฟลชสถานีพลังงาน EcoFlow และอีกมากมาย",
       "summary_th": "ข้อเสนอสีเขียวกลางสัปดาห์ของเรานำโดยข้อตกลงพิเศษที่น่าทึ่งสำหรับจักรยานไฟฟ้า Heybike Hero 750W Mid-Drive Carbon-Fiber All-Terrain ในราคาต่ำใหม่ 1,049.50 ดอลลาร์ หลังจากนั้น เรามีส่วนลดแฟลชล่าสุดเป็นเวลา 48 ชั่วโมงของ EcoFlow พร้อมส่วนลดสูงสุดถึง 2,200 ดอลลาร์สำหรับสี่ยูนิต เช่น สถานีไฟฟ้าพกพา DELTA 3 Max 2,048Wh พร้อมแผงโซลาร์เซลล์แบบโมดูลาร์ 500W ในราคา 1,399 ดอลลาร์ นอกจากนี้ยังมีรายการข้อเสนอ EV ลดราคาครบรอบ 60 ปีที่ดีที่สุดสำหรับการซื้อในรุ่นต่างๆ จาก Segway, Lectric, Hiboy, NIU และอื่นๆ โดยเริ่มต้นที่ 284 ดอลลาร์ ชุดกล้องรักษาความปลอดภัยพลังงานแสงอาทิตย์ Anker eufyCam E40 แพ็ค 2 แพ็คพร้อมฮับ HomeBase ในราคา 180 ดอลลาร์ และอื่นๆ จาก Anker SOLIX, Jackery และ Velotric ด้านล่าง นอกจากนี้ยังมีข้อเสนออาการเมาค้างจากสองวันที่ผ่านมาที่ด้านล่างของหน้า เช่น ชุดแบตเตอรี่เสริม Lectric XPress2 ของเมื่อวาน"
     },
     {
@@ -589,18 +601,6 @@
       "published": "Wed, 19 Aug 2026 17:05:00 +0000",
       "title_th": "เซอร์ไพรส์! ภาษีรถยนต์ที่ก่อมลพิษในลอนดอนทำให้ทุกคนมีสุขภาพที่ดีขึ้นมาก (อัปเดต)",
       "summary_th": "เมืองลอนดอนได้เผยแพร่รายงานที่แสดงให้เห็นว่ามลพิษทางอากาศลดลงอย่างมากนับตั้งแต่ได้ขยายเขตการปล่อยมลพิษต่ำเป็นพิเศษ ซึ่งเป็นพื้นที่ภายในเมืองที่ยานพาหนะที่สร้างมลพิษต้องจ่ายค่าธรรมเนียมในการเยี่ยมชม (อัปเดต 19/8/26 บทความต้นฉบับ 5/15/25: การศึกษาใหม่แสดงให้เห็นว่าเด็ก ๆ ในลอนดอนมีการทำงานของปอดดีขึ้นกว่าก่อนที่จะมีการใช้โซน)"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Lucid unveils its 2027 Air EV lineup with a new Stealth package",
-      "summary_en": "Lucid unveiled its 2027 Air lineup, streamlining the options across its electric sedan range and adding a new Stealth & Sound Package for the entry-level Air Pure. The Air Grand Touring keeps its title as the longest-range EV on sale at up to 512 miles, and pricing holds flat across all four trims for the new model year.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Lucid-Air-2027-hero.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/19/lucid-2027-air-ev-lineup/",
-      "published": "Wed, 19 Aug 2026 15:12:25 +0000",
-      "title_th": "Lucid เปิดตัวกลุ่มผลิตภัณฑ์ Air EV ปี 2027 พร้อมแพ็คเกจ Stealth ใหม่",
-      "summary_th": "Lucid เปิดตัวกลุ่มผลิตภัณฑ์ Air ปี 2027 โดยปรับปรุงตัวเลือกในกลุ่มรถซีดานไฟฟ้า และเพิ่มแพ็คเกจ Stealth & Sound ใหม่สำหรับ Air Pure ระดับเริ่มต้น Air Grand Touring ยังคงรักษาตำแหน่งเป็นรถยนต์ไฟฟ้าที่มีระยะทางไกลที่สุดที่จำหน่ายได้ไกลถึง 512 ไมล์ และราคายังคงคงที่สำหรับรุ่นปีใหม่ทั้งสี่รุ่น"
     }
   ],
   "indices": [
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 264.0,
+      "change": -6.0,
+      "change_pct": -2.22
     }
   ],
   "reviews": [
