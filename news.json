@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-20T12:21:12.160298+00:00",
+  "generated_at": "2026-08-20T15:24:39.027589+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "AI data giant Alation confirms cyberattack",
+      "summary_en": "The data search and AI giant confirmed unauthorized access to its systems during an incident on Tuesday, and said it was investigating the breach.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/alation.jpg?w=1186",
+      "link": "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/",
+      "published": "Thu, 20 Aug 2026 13:01:24 +0000",
+      "title_th": "Alation ยักษ์ใหญ่ด้านข้อมูล AI ยืนยันการโจมตีทางไซเบอร์",
+      "summary_th": "ยักษ์ใหญ่ด้านการค้นหาข้อมูลและ AI ยืนยันการเข้าถึงระบบของตนโดยไม่ได้รับอนุญาตระหว่างเกิดเหตุการณ์เมื่อวันอังคาร และกล่าวว่ากำลังสืบสวนการละเมิดดังกล่าว"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "For a16z, AI gives foreign founders an advantage",
+      "summary_en": "a16z’s Borderless Founder network initiative supports immigrant and international founders. 'Having one foot in your home country, and one foot in Silicon Valley,\" is an advantage, the firm believes.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/gabriel-vasquez-a16z.jpg?resize=1200,675",
+      "link": "https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/",
+      "published": "Thu, 20 Aug 2026 13:00:00 +0000",
+      "title_th": "สำหรับ a16z นั้น AI ให้ข้อได้เปรียบแก่ผู้ก่อตั้งชาวต่างชาติ",
+      "summary_th": "โครงการริเริ่มเครือข่าย Borderless Founder ของ a16z สนับสนุนผู้อพยพและผู้ก่อตั้งระดับนานาชาติ \"การมีเท้าข้างเดียวในประเทศบ้านเกิดของคุณ และเท้าข้างเดียวในซิลิคอนแวลลีย์\" ถือเป็นข้อได้เปรียบที่บริษัทเชื่อ"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "US says hackers are targeting vulnerable water systems with the help of AI",
+      "summary_en": "Hackers are targeting internet-connected Siemens controllers used in water facilities around the United States.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/water-system-1253161473.jpg?w=863",
+      "link": "https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/",
+      "published": "Thu, 20 Aug 2026 12:43:19 +0000",
+      "title_th": "สหรัฐฯ ระบุแฮกเกอร์กำหนดเป้าหมายระบบน้ำที่มีช่องโหว่ด้วยความช่วยเหลือของ AI",
+      "summary_th": "แฮกเกอร์มุ่งเป้าไปที่ตัวควบคุม Siemens ที่เชื่อมต่ออินเทอร์เน็ตซึ่งใช้ในแหล่งน้ำทั่วสหรัฐอเมริกา"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -27,100 +63,76 @@
       "summary_th": "Agent OS ของ Binance ทำงานร่วมกับเครื่องมือต่างๆ เช่น ChatGPT, Claude Code และ Cursor"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-      "summary_en": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-527013168.jpg?resize=1200,801",
-      "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-      "published": "Wed, 19 Aug 2026 23:32:00 +0000",
-      "title_th": "Stripe ไม่ได้ซื้อ OpenRouter จริงๆ เพราะ 'เอกภาวะ'",
-      "summary_th": "ยักษ์ใหญ่ด้านการชำระเงินต้องการอะไรจากการเริ่มต้นระบบที่แจ้งเส้นทางระหว่างโมเดล AI ต่างๆ Stripe กล่าวว่าเป็นเพราะ \"ความเป็นเอกเทศ\" แต่จริงๆ แล้วมีเหตุผลที่แท้จริงและทรงพลังมากกว่ามาก"
+      "category": "gadget",
+      "title_en": "LG’s 65-inch B6 OLED is $300 lower than its previous best price",
+      "summary_en": "Best Buy has a whole host of LG products discounted for today’s Deal of the Day festivities, including laptops, home theater gear, and more. One that stood out is a price cut on LG’s 65-inch B6 OLED TV that’s deeper than I’ve seen before. At Best Buy, it’s $1,399.99 (originally $1,999.99) for the rest of […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/lgb6.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale",
+      "published": "2026-08-20T11:08:38-04:00",
+      "title_th": "B6 OLED ขนาด 65 นิ้วของ LG ถูกกว่าราคาที่ดีที่สุดก่อนหน้านี้ถึง 300 ดอลลาร์",
+      "summary_th": "Best Buy มีผลิตภัณฑ์ LG มากมายลดราคาสำหรับเทศกาล Deal of the Day ในปัจจุบัน รวมถึงแล็ปท็อป อุปกรณ์โฮมเธียเตอร์ และอื่นๆ อีกมากมาย สิ่งที่โดดเด่นคือการลดราคาทีวี B6 OLED ขนาด 65 นิ้วของ LG ซึ่งลึกกว่าที่เคยเห็นมาก่อน ที่ Best Buy มีราคาอยู่ที่ 1,399.99 ดอลลาร์ (จากเดิม 1,999.99 ดอลลาร์) สำหรับส่วนที่เหลือของ […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
-      "summary_en": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?resize=1200,675",
-      "link": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
-      "published": "Wed, 19 Aug 2026 22:25:01 +0000",
-      "title_th": "Robotaxi รุ่นต่อไปที่ราคาถูกกว่าของ Waymo เปิดให้ผู้ขับขี่ทุกคนในสามเมืองนี้แล้ว",
-      "summary_th": "โรโบแท็กซี่เจเนอเรชั่นใหม่ที่เรียกว่า Waymo Ojai เป็นศูนย์กลางในการผลักดันของบริษัทไปสู่ระดับมวลชน และท้ายที่สุดคือความสามารถในการทำกำไร"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-      "summary_en": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544149.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-      "published": "Wed, 19 Aug 2026 22:10:46 +0000",
-      "title_th": "OpenAI พยายามที่จะรวม Anthropic เข้ากับการปกป้องความเป็นส่วนตัวของลูกค้าแบบใหม่",
-      "summary_th": "การแข่งขันกำลังพัฒนาระหว่าง OpenAI และ Anthropic ว่าใครสามารถให้การปกป้องความเป็นส่วนตัวที่ดีที่สุดสำหรับข้อมูลลูกค้าองค์กรได้"
+      "category": "ev",
+      "title_en": "Tesla Robotaxis appear to go fully unsupervised in Austin ahead of Cybercab launch",
+      "summary_en": "Seven months after Elon Musk announced that Tesla Robotaxis in Austin were operating without human safety monitors onboard, the city's service appears to have finally gone fully driverless. Over the past two weeks, all 170 Tesla Robotaxi rides in Austin monitored by the crowdsourced Robotaxi Tracker were unsupervised, the site's creator, Ethan McKanna, told The […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/transportation/982759/tesla-robotaxi-unsupervised-austin-robotaxi-tracker",
+      "published": "2026-08-20T10:09:31-04:00",
+      "title_th": "Tesla Robotaxis ดูเหมือนจะไม่ได้รับการดูแลอย่างเต็มที่ในออสติน ก่อนการเปิดตัว Cybercab",
+      "summary_th": "เจ็ดเดือนหลังจากที่ Elon Musk ประกาศว่า Tesla Robotaxis ในออสตินดำเนินงานโดยไม่มีการตรวจสอบความปลอดภัยของมนุษย์บนเครื่อง การบริการของเมืองก็ดูเหมือนจะไร้คนขับโดยสิ้นเชิงในที่สุด ในช่วงสองสัปดาห์ที่ผ่านมา รถ Tesla Robotaxi ทั้ง 170 คันในออสตินซึ่งมีการติดตามโดย Robotaxi Tracker ที่ได้รับการตรวจสอบจากฝูงชนไม่ได้รับการดูแล Ethan McKanna ผู้สร้างเว็บไซต์บอกกับ The […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "software",
-      "title_en": "Meta glasses are a workplace menace",
-      "summary_en": "In August, Toru Hinkle was stocking shelves at their job at Target when they noticed two customers and asked if they needed any help. The men requested a price check on an item - but even after Hinkle told them the item was $20, the customers asked for the price again and again. \"After a […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268688_Smart_glasses_at_work__CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security",
-      "published": "2026-08-20T08:00:00-04:00",
-      "title_th": "แว่นตา Meta ถือเป็นภัยคุกคามในที่ทำงาน",
-      "summary_th": "ในเดือนสิงหาคม Toru Hinkle กำลังจัดชั้นวางสินค้าที่ Target เมื่อพวกเขาสังเกตเห็นลูกค้าสองรายและถามว่าต้องการความช่วยเหลือหรือไม่ ผู้ชายร้องขอการตรวจสอบราคาสินค้าชิ้นหนึ่ง แต่ถึงแม้ Hinkle จะบอกพวกเขาว่าสินค้าชิ้นนั้นราคา 20 ดอลลาร์ ลูกค้าก็ยังถามราคาซ้ำแล้วซ้ำอีก “หลังจากที่ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "review",
-      "title_en": "Slack is launching collaborative vibe-coding channels",
-      "summary_en": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \"With Slack Code, when you have […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988538/acastro_STK060_slack_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-      "published": "2026-08-20T08:00:00-04:00",
-      "title_th": "Slack กำลังเปิดตัวช่องทางการเขียนโค้ดที่ทำงานร่วมกัน",
-      "summary_th": "Slack กำลังแนะนำช่องทางเฉพาะที่ทีมสามารถเขียนโค้ดร่วมกับตัวแทน AI แทนที่จะข้ามไปมาระหว่างเครื่องมือและการสนทนาต่างๆ การเปิดตัว Slack Code ประกอบด้วยช่องโค้ดแบบเปิดเฉพาะโปรเจ็กต์พร้อมแท็บผู้ใช้เฉพาะ ควบคู่ไปกับฟีเจอร์ที่เปรียบเทียบการเปลี่ยนแปลงโค้ดและดูตัวอย่างเอาต์พุต HTML ก่อนจัดส่งโปรเจ็กต์ “ด้วย Slack Code เมื่อคุณมี […]"
+      "title_en": "Here’s what data Comcast says its motion-detecting routers collect",
+      "summary_en": "Comcast announced a new platform this week called Xfinity Shield that includes the option to let customers turn their routers into motion sensors. Many people reacted with fear and anger. \"I am not enabling this. I am also seriously considering replacing my leased gateway with my own equipment, because a device I do not control […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/XFN_Lifestyle_DEC25_011_RAYS_LR_260320.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200",
+      "link": "https://www.theverge.com/tech/982689/comcast-xfinity-wifi-motion-privacy-concerns-response",
+      "published": "2026-08-20T10:00:22-04:00",
+      "title_th": "นี่คือข้อมูลที่ Comcast กล่าวว่าเราเตอร์ตรวจจับความเคลื่อนไหวรวบรวม",
+      "summary_th": "Comcast ประกาศแพลตฟอร์มใหม่ในสัปดาห์นี้ชื่อ Xfinity Shield ซึ่งรวมถึงตัวเลือกเพื่อให้ลูกค้าเปลี่ยนเราเตอร์เป็นเซ็นเซอร์ตรวจจับความเคลื่อนไหว หลายคนโต้ตอบด้วยความกลัวและความโกรธ \"ฉันไม่ได้เปิดใช้งานสิ่งนี้ ฉันกำลังพิจารณาอย่างจริงจังในการเปลี่ยนเกตเวย์ที่เช่าด้วยอุปกรณ์ของตัวเอง เนื่องจากอุปกรณ์ที่ฉันไม่ได้ควบคุม […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "software",
-      "title_en": "I ruined my cats’ toilet time with a motion-activated neon litter box sign",
-      "summary_en": "My two cats live a refreshingly low-tech lifestyle. They've never experienced a robot litter box, an automated feeder, or a GPS tracker. Noodle and Loaf live blissfully unaware of the technological trappings that surround the rest of my life. Except, that is, for the glowing neon sign that turns on whenever they go to the […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_ON-AIR.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/gadgets/978782/cat-litterbox-motion-activated-neon-on-air-sign",
-      "published": "2026-08-20T07:30:00-04:00",
-      "title_th": "ฉันทำลายเวลาเข้าห้องน้ำของแมวด้วยป้ายกล่องขยะนีออนที่เคลื่อนไหวได้",
-      "summary_th": "แมวสองตัวของฉันใช้ชีวิตแบบโลว์เทคอย่างสดชื่น พวกเขาไม่เคยพบกับหุ่นยนต์กระบะทราย เครื่องป้อนอัตโนมัติ หรือเครื่องติดตาม GPS มาก่อน นู้ดเดิ้ลและโลฟใช้ชีวิตอย่างมีความสุขโดยไม่ได้ตระหนักถึงอุปกรณ์ทางเทคโนโลยีที่ล้อมรอบชีวิตที่เหลือของฉัน ยกเว้นป้ายไฟนีออนเรืองแสงที่จะเปิดทุกครั้งที่ไป […]"
+      "title_en": "FromSoftware can do anything",
+      "summary_en": "There's something just a little bit different about FromSoftware's office in Tokyo. Like with any other successful video game studio, there's extensive security to get in the door, a minimalist lobby with framed posters from the studio's most recent releases, and a large glass display case filled with statues from ceremonies ranging from the BAFTAs […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/The_Duskbloods_12.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "link": "https://www.theverge.com/entertainment/981970/fromsoftware-duskbloods-nintendo-hidetaka-miyazaki",
+      "published": "2026-08-20T10:00:00-04:00",
+      "title_th": "FromSoftware ทำอะไรก็ได้",
+      "summary_th": "มีบางอย่างแตกต่างออกไปเล็กน้อยเกี่ยวกับสำนักงานของ FromSoftware ในโตเกียว เช่นเดียวกับสตูดิโอวิดีโอเกมที่ประสบความสำเร็จอื่นๆ มีการรักษาความปลอดภัยที่ครอบคลุมเพื่อเข้าไปในประตู ล็อบบี้สไตล์มินิมอลพร้อมโปสเตอร์ใส่กรอบจากสตูดิโอออกใหม่ล่าสุด และตู้โชว์กระจกขนาดใหญ่ที่เต็มไปด้วยรูปปั้นจากพิธีการต่างๆ ตั้งแต่ BAFTA […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "software",
-      "title_en": "The piano that taught my cat to play for her supper",
-      "summary_en": "The pianist sits before her instrument. She carefully extends a front paw, pressing gingerly on a key. She presses again, and again. She is composing some soul music, because something terrible has happened to her: The vacuum cleaner has come out of the closet. Yes, my cat is a tortured artist. When Jeeves is moved […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_LLOPATTO_JEEVES.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/entertainment/980552/pet-piano-cat-autofeeder",
-      "published": "2026-08-20T07:00:00-04:00",
-      "title_th": "เปียโนที่สอนแมวของฉันให้เล่นเพื่อทานอาหารเย็น",
-      "summary_th": "นักเปียโนนั่งอยู่หน้าเครื่องดนตรีของเธอ เธอค่อยๆ กางอุ้งเท้าหน้าออกอย่างระมัดระวัง และกดคีย์อย่างระมัดระวัง เธอกดอีกครั้งและอีกครั้ง เธอกำลังแต่งเพลงแนวโซล เพราะมีเรื่องเลวร้ายเกิดขึ้นกับเธอ: เครื่องดูดฝุ่นออกมาจากตู้แล้ว ใช่แล้ว แมวของฉันเป็นศิลปินที่ถูกทรมาน เมื่อจีฟส์ถูกย้าย […]"
+      "title_en": "We played The Duskbloods, the Switch 2’s wildest new exclusive",
+      "summary_en": "The Duskbloods is a world away from the approachable games Nintendo is known for. But for its next Switch 2 exclusive, the company has partnered with Elden Ring developer FromSoftware on a hardcore multiplayer game about vampires. And after spending a few hours playing through its gothic world at FromSoft's offices in Tokyo, I'm convinced […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/The_Duskbloods_14.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "link": "https://www.theverge.com/entertainment/981990/the-duskbloods-hands-on-nintendo-switch-2-fromsoftware",
+      "published": "2026-08-20T10:00:00-04:00",
+      "title_th": "เราเล่น The Duskbloods ซึ่งเป็นเกมเอ็กซ์คลูซีฟใหม่ล่าสุดของ Switch 2",
+      "summary_th": "Duskbloods เป็นโลกที่ห่างไกลจากเกมที่ Nintendo เป็นที่รู้จัก แต่สำหรับ Switch 2 สุดพิเศษครั้งต่อไป บริษัทได้ร่วมมือกับผู้พัฒนา Elden Ring FromSoftware ในเกมมัลติเพลเยอร์แนวฮาร์ดคอร์เกี่ยวกับแวมไพร์ และหลังจากใช้เวลาสองสามชั่วโมงในการเล่นในโลกโกธิคที่สำนักงานของ FromSoft ในโตเกียว ฉันมั่นใจว่า […]"
     },
     {
-      "source": "The Verge",
+      "source": "Ars Technica",
       "flag": "US",
       "category": "software",
-      "title_en": "The Audi S6 Sportback E-tron proves that sedans still matter",
-      "summary_en": "Last year, Audi announced that it gave its all-EV-by-2033 plan the boot, and instead will offer a mix of gasoline, hybrid, and electrified propulsion. There's no doubt still some uncertainty among bigger automakers - especially those under the Volkswagen Group umbrella - when it comes to such a (now prior) commitment. Even so, what it's […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/2027AudiS6SportbacketronPeterNelson22.jpg?quality=90&strip=all&crop=0%2C6.8908843619528%2C100%2C86.218231276094&w=1200",
-      "link": "https://www.theverge.com/transportation/982464/audi-s6-sportback-etron-sedan-ev-review",
-      "published": "2026-08-20T07:00:00-04:00",
-      "title_th": "Audi S6 Sportback E-tron พิสูจน์ให้เห็นว่ารถเก๋งยังคงมีความสำคัญ",
-      "summary_th": "เมื่อปีที่แล้ว Audi ประกาศว่าได้ให้แผนบูต EV ทั้งหมดภายในปี 2033 และจะนำเสนอการผสมผสานระหว่างน้ำมันเบนซิน ไฮบริด และระบบขับเคลื่อนด้วยไฟฟ้า ไม่ต้องสงสัยเลยว่าผู้ผลิตรถยนต์รายใหญ่ยังคงมีความไม่แน่นอนอยู่บ้าง โดยเฉพาะบริษัทในเครือ Volkswagen Group เมื่อพูดถึงความมุ่งมั่น (ก่อนหน้านี้) ดังกล่าว ถึงอย่างนั้นมันคืออะไร […]"
+      "title_en": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "summary_en": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg",
+      "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+      "published": "Thu, 20 Aug 2026 13:00:35 +0000",
+      "title_th": "Grok ขโมยข้อมูลผู้ใช้เมื่อมีการเข้ารหัสคำแนะนำที่เป็นอันตราย",
+      "summary_th": "Cryptographic Context Injection เป็นเพียงวิธีใหม่ล่าสุดในการทำลายรั้วความปลอดภัยของ LLM"
     },
     {
       "source": "Ars Technica",
@@ -171,18 +183,6 @@
       "summary_th": "กลุ่มสหรัฐฯ เปิดตัวโมเดลราคาถูกหลังความท้าทายใหม่ต่อความทะเยอทะยานล้านล้านดอลลาร์"
     },
     {
-      "source": "Ars Technica",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Terabytes of credentials leaked in massive supply-chain attack",
-      "summary_en": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg",
-      "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-      "published": "Wed, 12 Aug 2026 21:43:21 +0000",
-      "title_th": "ข้อมูลประจำตัวจำนวนเทราไบต์รั่วไหลจากการโจมตีห่วงโซ่อุปทานครั้งใหญ่",
-      "summary_th": "ข้อมูลถูกคัดลอกและกรองออกจากผู้ใช้ 2,500 รายของแพ็คเกจ AI ที่ถูกบุกรุก"
-    },
-    {
       "source": "Wired",
       "flag": "US",
       "category": "review",
@@ -204,7 +204,7 @@
       "link": "https://www.wired.com/story/bumble-women-first-rule-change/",
       "published": "Thu, 20 Aug 2026 11:00:00 +0000",
       "title_th": "บัมเบิลพยายามเปลี่ยนการออกเดท แต่ตลาดการออกเดทบังคับให้เปลี่ยนแทน",
-      "summary_th": "ขณะนี้แอปอนุญาตให้ผู้ชายเริ่มเคลื่อนไหวก่อนได้ โดยบอกว่าการวางตำแหน่งที่ผู้หญิงคำนึงถึงเป็นอันดับแรกนั้นจำกัดการเติบโต โดยจะเข้าร่วมกับแอปหาคู่อื่น ๆ ที่กำลังทุ่มทุกอย่างลงบนผนังเพื่อให้มีความเกี่ยวข้อง"
+      "summary_th": "ขณะนี้แอปอนุญาตให้ผู้ชายเริ่มเคลื่อนไหวก่อนได้ โดยบอกว่าการวางตำแหน่งที่ผู้หญิงคำนึงถึงเป็นอันดับแรกนั้นจำกัดการเติบโต โดยได้เข้าร่วมกับแอปหาคู่อื่นๆ ที่กำลังทุ่มทุกอย่างทิ้งไปเพื่อรักษาความเกี่ยวข้องเอาไว้"
     },
     {
       "source": "Wired",
@@ -287,7 +287,7 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/260720_MIT_Polycrisis-thumb.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
       "published": "Thu, 20 Aug 2026 09:00:00 +0000",
-      "title_th": "เครือข่ายสนับสนุนมีเป้าหมายเพื่อช่วยเหลือเด็กๆ ให้ผ่านพ้นวิกฤตการณ์หลายด้าน",
+      "title_th": "เครือข่ายสนับสนุนมุ่งช่วยเหลือเด็กๆ ให้ผ่านพ้นวิกฤตการณ์หลายด้าน",
       "summary_th": "ในช่วงปลายทศวรรษ 2000 พิม ซัลลิแวน-เทลยัวร์นั่งอยู่ท้ายรถ มุ่งหน้าไปยังเมืองเล็กๆ ของคุณยายทวดทางภาคใต้ของประเทศไทย เธอมองดูภูเขาใหญ่ผ่านไปนอกหน้าต่าง เธออายุเพียงหกขวบ แต่กำลังจะโดนโจมตีด้วยการรับรู้ในขนาดผู้ใหญ่ “พวกเขาเพิ่งถูกขุดขึ้นมา…"
     },
     {
@@ -301,6 +301,18 @@
       "published": "Wed, 19 Aug 2026 12:10:00 +0000",
       "title_th": "การดาวน์โหลด: ปัญหาการพัฒนาตนเองของ AI และสิ่งที่ทำให้เกิดความร้อนแรง",
       "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี การพัฒนาตนเองแบบเรียกซ้ำของ AI อาจไม่เกิดขึ้นอย่างรวดเร็วนัก คำมั่นสัญญาที่ชัดเจนที่สุดของอุตสาหกรรม AI ในขณะนี้ก็คือ AI จะปรับปรุงตัวเองในไม่ช้า โดยแทบไม่จำเป็นต้องมีการควบคุมดูแลจากมนุษย์..."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Australia passes law to charge tech companies levies unless they reach deals with news publishers",
+      "summary_en": "Meta, Google, TikTok and LinkedIn will have to pay millions to support local news outlets under Australia's new rules.",
+      "image": "https://www.engadget.com/img/gallery/australia-passes-law-to-charge-tech-companies-levies-unless-the-reach-deals-with-news-publishers/l-intro-1787237258.jpg",
+      "link": "https://www.engadget.com/2240783/australia-passes-law-to-charge-tech-companies-levies-unless-they-reach-deals-with-news-publishers/",
+      "published": "Thu, 20 Aug 2026 14:49:42 +0000",
+      "title_th": "ออสเตรเลียผ่านกฎหมายเพื่อเรียกเก็บภาษีจากบริษัทเทคโนโลยี เว้นแต่พวกเขาจะบรรลุข้อตกลงกับผู้เผยแพร่ข่าว",
+      "summary_th": "Meta, Google, TikTok และ LinkedIn จะต้องจ่ายหลายล้านเพื่อสนับสนุนสำนักข่าวท้องถิ่นภายใต้กฎใหม่ของออสเตรเลีย"
     },
     {
       "source": "Engadget",
@@ -349,18 +361,6 @@
       "published": "Wed, 19 Aug 2026 20:02:52 +0000",
       "title_th": "ในที่สุดหุ่นยนต์ก็สามารถเจาะเลือดได้ที่สำนักงานแพทย์",
       "summary_th": "FDA ได้อนุมัติอุปกรณ์เจาะเลือดอัตโนมัติเครื่องแรกสำหรับการดูแลรักษาผู้ป่วยนอก"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Google is offering college students a year of its AI Pro plan for free",
-      "summary_en": "College students can get a free year of Google's AI Pro plan, something that would normally cost $200.",
-      "image": "https://www.engadget.com/img/gallery/google-is-offering-college-students-a-year-of-ai-pro-for-free/l-intro-1787159626.jpg",
-      "link": "https://www.engadget.com/2240161/google-is-offering-college-students-a-year-of-ai-pro-for-free/",
-      "published": "Wed, 19 Aug 2026 19:00:00 +0000",
-      "title_th": "Google เสนอแผน AI Pro แก่นักศึกษาหนึ่งปีฟรี",
-      "summary_th": "นักศึกษาวิทยาลัยสามารถรับแผน AI Pro ของ Google ฟรี 1 ปี ซึ่งปกติจะมีราคา 200 ดอลลาร์"
     },
     {
       "source": "IEEE Spectrum",
@@ -420,7 +420,55 @@
       "link": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
       "published": "Fri, 14 Aug 2026 17:27:12 +0000",
       "title_th": "ทำนายการเชื่อมต่อเสาอากาศบนแพลตฟอร์มไฟฟ้าขนาดใหญ่ก่อนสร้างฮาร์ดแวร์",
-      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นทำนายการต่อเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามแบบใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
+      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นคาดการณ์การต่อพ่วงเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามแบบใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "New ‘HomePad’ reveal is another reason to put it in every room of your house",
+      "summary_en": "Apple’s new ‘HomePad’ smart home hub is reportedly launching this fall, and the latest leak about it having customizable ‘faces’ offers another reason to put one in every room of your house.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/homepad-ios-27-bg.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/20/new-homepad-reveal-is-another-reason-to-put-it-in-every-room-of-your-house/",
+      "published": "Thu, 20 Aug 2026 15:01:04 +0000",
+      "title_th": "การเปิดเผย 'HomePad' ใหม่เป็นอีกเหตุผลหนึ่งที่ต้องวางไว้ในทุกห้องในบ้านของคุณ",
+      "summary_th": "มีรายงานว่าศูนย์กลางบ้านอัจฉริยะ 'HomePad' ใหม่ของ Apple จะเปิดตัวในฤดูใบไม้ร่วงนี้ และการรั่วไหลล่าสุดเกี่ยวกับการมี 'ใบหน้า' ที่ปรับแต่งได้นั้นเป็นอีกเหตุผลหนึ่งที่คุณควรใส่ไว้ในทุกห้องในบ้านของคุณ"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "iPhone 18 won’t launch next month, here’s when it’s coming instead",
+      "summary_en": "Apple’s big September event is just weeks away, but there’s one key product that all reporting indicates will be missing: the base iPhone 18. Here’s when to expect its launch.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/iphone-17-black.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/20/iphone-18-wont-launch-next-month-heres-when-its-coming-instead/",
+      "published": "Thu, 20 Aug 2026 14:02:14 +0000",
+      "title_th": "iPhone 18 จะไม่เปิดตัวในเดือนหน้า แต่จะมาเร็วๆ นี้แทน",
+      "summary_th": "งานใหญ่ในเดือนกันยายนของ Apple อยู่ห่างออกไปเพียงไม่กี่สัปดาห์ แต่มีผลิตภัณฑ์สำคัญอย่างหนึ่งที่รายงานทั้งหมดระบุว่าจะหายไป: iPhone 18 พื้นฐาน นี่คือเวลาที่คาดว่าจะเปิดตัว"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Adobe Firefly’s music, voiceover, and sound effects generation tools now generally available",
+      "summary_en": "Users can now create fully licensed tracks, voiceover, and sound effects on Adobe’s Firefly AI assistant. Here are the details.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/adobe-generate-music.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/20/adobe-fireflys-music-voiceover-and-sound-effects-generation-tools-now-generally-available/",
+      "published": "Thu, 20 Aug 2026 13:00:05 +0000",
+      "title_th": "เครื่องมือสร้างเพลง เสียงพากย์ และเสียงเอฟเฟกต์ของ Adobe Firefly มีวางจำหน่ายทั่วไปแล้ว",
+      "summary_th": "ขณะนี้ผู้ใช้สามารถสร้างแทร็ก เสียงพากย์ และเอฟเฟกต์เสียงที่ได้รับลิขสิทธิ์เต็มรูปแบบบนผู้ช่วย Firefly AI ของ Adobe นี่คือรายละเอียด"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Roblox still allows predators to contact children, says regulator",
+      "summary_en": "Roblox claimed to have made changes to its hugely popular children’s app to protect them from predators, but a regulatory authority says these protections are inadequate. It found four major failings, including adults being able to send connection requests to children without parental approval …",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/Roblox-still-allows-predators-to-contact-children-says-regulator.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/20/roblox-still-allows-predators-to-contact-children-says-regulator/",
+      "published": "Thu, 20 Aug 2026 12:30:57 +0000",
+      "title_th": "Roblox ยังคงอนุญาตให้ผู้ล่าติดต่อกับเด็กได้ ผู้ควบคุมกล่าว",
+      "summary_th": "Roblox อ้างว่าได้ทำการเปลี่ยนแปลงแอปสำหรับเด็กที่ได้รับความนิยมอย่างมากเพื่อปกป้องพวกเขาจากผู้ล่า แต่หน่วยงานกำกับดูแลกล่าวว่าการป้องกันเหล่านี้ไม่เพียงพอ พบความล้มเหลวที่สำคัญ 4 ประการ รวมถึงผู้ใหญ่ที่สามารถส่งคำขอเชื่อมต่อไปยังเด็ก ๆ โดยไม่ต้องได้รับการอนุมัติจากผู้ปกครอง …"
     },
     {
       "source": "9to5Mac",
@@ -431,116 +479,68 @@
       "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/Logitech-tariff-refunds.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "link": "https://9to5mac.com/2026/08/20/bought-logitech-kit-during-the-trump-tariff-mess-you-may-be-due-a-refund/",
       "published": "Thu, 20 Aug 2026 11:37:58 +0000",
-      "title_th": "ซื้อชุด Logitech ในช่วงที่ทรัมป์ยุ่งเรื่องภาษีหรือไม่ คุณอาจถึงกำหนดชำระคืนเงิน…",
-      "summary_th": "ในช่วงที่สงครามการค้าระหว่างทรัมป์กับจีนถึงจุดสูงสุด ซึ่งมีการประกาศขึ้นภาษีเป็นประจำเกือบทุกสัปดาห์ บริษัทอย่าง Logitech ตอบโต้ด้วยการเพิ่มราคาผลิตภัณฑ์ของตนในสหรัฐอเมริกาอย่างมีนัยสำคัญ เมื่อต้นปีที่ผ่านมา ศาลฎีกาของสหรัฐอเมริกาตัดสินว่าภาษีศุลกากรเหล่านี้ผิดกฎหมายและต้องส่งคืนให้กับผู้ผลิต อย่างไรก็ตาม ไม่มีวี่แววว่าบริษัทจะคืนเงินให้กับลูกค้า และขณะนี้คดีฟ้องร้องแบบกลุ่มกำลังพยายามแก้ไขปัญหานี้"
+      "title_th": "ซื้อชุดอุปกรณ์ Logitech ในช่วงที่ทรัมป์ยุ่งเรื่องภาษีหรือไม่ คุณอาจถึงกำหนดชำระคืนเงิน…",
+      "summary_th": "ในช่วงที่สงครามการค้าระหว่างทรัมป์กับจีนถึงจุดสูงสุด ซึ่งมีการประกาศขึ้นภาษีเป็นประจำเกือบทุกสัปดาห์ บริษัทอย่าง Logitech ตอบโต้ด้วยการเพิ่มราคาผลิตภัณฑ์ของตนในสหรัฐอเมริกาอย่างมีนัยสำคัญ เมื่อต้นปีที่ผ่านมา ศาลฎีกาของสหรัฐอเมริกาตัดสินว่าภาษีศุลกากรเหล่านี้ผิดกฎหมายและต้องส่งคืนให้กับผู้ผลิต อย่างไรก็ตาม ไม่มีวี่แววว่าบริษัทจะคืนเงินให้กับลูกค้า และขณะนี้คดีฟ้องร้องแบบกลุ่มกำลังพยายามแก้ไขเรื่องนี้"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "9to5Mac Daily: August 20, 2026 – Apple RAM suppliers, iPhone Ultra rumors",
-      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily .",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/20/daily-august-20-2026/",
-      "published": "Thu, 20 Aug 2026 11:00:00 +0000",
-      "title_th": "9to5Mac รายวัน: 20 สิงหาคม 2026 – ซัพพลายเออร์ Apple RAM, ข่าวลือ iPhone Ultra",
-      "summary_th": "ฟังสรุปเรื่องเด่นประจำวันจาก 9to5Mac 9to5Mac Daily มีให้บริการบน iTunes และแอป Podcasts ของ Apple , Stitcher , TuneIn , Google Play หรือผ่านทางฟีด RSS เฉพาะของเราสำหรับ Overcast และเครื่องเล่นพอดแคสต์อื่นๆ สนับสนุนโดย Backblaze : ข้อมูลสำรองที่คุณวางใจได้ ประหยัด 20% ด้วยรหัส 9to5daily"
+      "title_en": "Book-style foldables are taking over, with Samsung fighting for second place",
+      "summary_en": "A new forecast shows that the foldable market is poised to continue growing, with book-style foldables taking over the popularity of clamshell devices – but Samsung is no longer the king, instead fighting for second place.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-44.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/20/book-style-foldables-growth-report-1h26/",
+      "published": "Thu, 20 Aug 2026 14:55:00 +0000",
+      "title_th": "หนังสือแบบพับได้กำลังเข้ามาแทนที่ โดย Samsung ต่อสู้เพื่อชิงอันดับที่สอง",
+      "summary_th": "การคาดการณ์ใหม่แสดงให้เห็นว่าตลาดแบบพับได้มีแนวโน้มที่จะเติบโตต่อไป โดยแบบพับได้แบบหนังสือจะเข้ามาแทนที่ความนิยมของอุปกรณ์แบบฝาพับ แต่ Samsung ไม่ใช่ราชาอีกต่อไป แต่กลับต่อสู้เพื่ออันดับที่สองแทน"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple’s long-running app store battle with the EU appears to finally be over",
-      "summary_en": "Apple’s long-running antitrust battle with the European Union over the sale of iPhone apps appears to finally be over. The EU has said that it welcomes the new app commission rates the company is offering within the bloc. The revised terms will see developers pay a commission or fee ranging from 5% to 26%, depending on their turnover and chosen sale channels …",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/iPhone-Diary-iPhone-16-Pro-Max-expectations.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/20/apples-long-running-app-store-battle-with-the-eu-appears-to-finally-be-over/",
-      "published": "Thu, 20 Aug 2026 10:52:18 +0000",
-      "title_th": "การต่อสู้ที่ยาวนานของ App Store ของ Apple กับ EU ดูเหมือนจะจบลงแล้ว",
-      "summary_th": "การต่อสู้ต่อต้านการผูกขาดที่ยาวนานของ Apple กับสหภาพยุโรปเกี่ยวกับการขายแอพ iPhone ดูเหมือนจะจบลงในที่สุด สหภาพยุโรปกล่าวว่ายินดีกับอัตราค่าคอมมิชชั่นแอปใหม่ที่บริษัทเสนอภายในกลุ่ม ข้อกำหนดที่แก้ไขจะกำหนดให้นักพัฒนาจ่ายค่าคอมมิชชันหรือค่าธรรมเนียมตั้งแต่ 5% ถึง 26% ขึ้นอยู่กับมูลค่าการซื้อขายและช่องทางการขายที่เลือก"
+      "title_en": "Pixel Journal update brings Auto format, Sleep data, and more [U]",
+      "summary_en": "With the launch of the Pixel 11, Google is rolling out a handful of updates to the Journal app that are already appearing on older devices.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/pixel-journal-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/20/pixel-journal-ai-update/",
+      "published": "Thu, 20 Aug 2026 14:29:00 +0000",
+      "title_th": "การอัปเดต Pixel Journal นำเสนอรูปแบบอัตโนมัติ ข้อมูลการนอนหลับ และอื่นๆ [U]",
+      "summary_th": "ด้วยการเปิดตัว Pixel 11 Google กำลังเปิดตัวการอัปเดตจำนวนหนึ่งสำหรับแอป Journal ที่ปรากฏบนอุปกรณ์รุ่นเก่าแล้ว"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple hits back at OpenAI’s bid to dismiss lawsuit, reaffirms ‘pervasive trade secret misappropriation’",
-      "summary_en": "Apple has filed its response to OpenAI’s motion to dismiss the lawsuit in which it accuses two former employees, as well as OpenAI and io Products, of stealing its trade secrets. Here are the details.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-vs-openai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/19/apple-hits-back-at-openais-bid-to-dismiss-lawsuit-reaffirms-pervasive-trade-secret-misappropriation/",
-      "published": "Thu, 20 Aug 2026 02:21:55 +0000",
-      "title_th": "Apple ตอบโต้การเสนอราคาของ OpenAI เพื่อยกฟ้องคดี ยืนยันอีกครั้งว่า 'การยักยอกความลับทางการค้าที่แพร่หลาย'",
-      "summary_th": "Apple ได้ยื่นคำตอบสนองต่อคำร้องของ OpenAI ให้ยกฟ้องคดีที่กล่าวหาอดีตพนักงานสองคน รวมถึงผลิตภัณฑ์ OpenAI และ io ว่าขโมยความลับทางการค้า นี่คือรายละเอียด"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Astropad Workbench 1.3 adds faster streaming, privacy curtain, and more",
-      "summary_en": "Astropad has released Workbench 1.3, its largest update to the remote desktop app since the launch earlier this year. The release adds several tools for accessing unattended Macs, along with changes to performance and reliability.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/astropad-workbench.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/19/astropad-workbench-1-3-adds-faster-streaming-privacy-curtain-and-more/",
-      "published": "Thu, 20 Aug 2026 01:19:48 +0000",
-      "title_th": "Astropad Workbench 1.3 เพิ่มการสตรีมที่เร็วขึ้น ม่านความเป็นส่วนตัว และอื่นๆ อีกมากมาย",
-      "summary_th": "Astropad ได้เปิดตัว Workbench 1.3 ซึ่งเป็นการอัปเดตที่ใหญ่ที่สุดสำหรับแอปเดสก์ท็อประยะไกลนับตั้งแต่เปิดตัวเมื่อต้นปีนี้ การเปิดตัวครั้งนี้ได้เพิ่มเครื่องมือหลายอย่างสำหรับการเข้าถึง Mac แบบอัตโนมัติ พร้อมด้วยการเปลี่ยนแปลงประสิทธิภาพและความน่าเชื่อถือ"
+      "title_en": "XREAL teases the price of its Android XR glasses as early-bird deal sells out",
+      "summary_en": "XREAL Aura, the company’s first pair of Android XR-based glasses, are set to officially get a price point soon as the first sales figures have come in, and it’s pretty popular so far.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/xreal-aura-android-xr-1.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/20/xreal-teases-the-price-of-its-android-xr-glasses-as-early-bird-deal-sells-out/",
+      "published": "Thu, 20 Aug 2026 13:05:00 +0000",
+      "title_th": "XREAL แกล้งราคาแว่นตา Android XR เมื่อดีลล่วงหน้าขายหมด",
+      "summary_th": "XREAL Aura ซึ่งเป็นแว่นตาที่ใช้ Android XR คู่แรกของบริษัท คาดว่าจะได้รับราคาอย่างเป็นทางการทันทีที่มียอดขายชุดแรกเข้ามา และจนถึงตอนนี้ก็ค่อนข้างได้รับความนิยม"
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "review",
-      "title_en": "The trials and tribulations of reviewing a Pixel",
-      "summary_en": "Good morning and happy Thursday. We’ve got Pixel reviews galore , a new look at Insomniac’s upcoming Wolverine game , a crazy story about prolific phone scammers , and an updated version of Qwen 3.8 that I’ll be spending the next few days tweaking to my liking. As a reminder, Inbox is the tech newsletter you should be able to read in around 95 seconds. We cover the most important 9to5Google stories from the last couple of days along with a few highlights from around the web. We publish every Tuesday and Thursday, and if you like what you read, please subscribe .",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-in-Obsidian-various-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/20/the-trials-and-tribulations-of-reviewing-a-pixel/",
-      "published": "Thu, 20 Aug 2026 11:00:00 +0000",
-      "title_th": "การทดลองและความยากลำบากในการตรวจสอบ Pixel",
-      "summary_th": "สวัสดีเช้าวันพฤหัสบดี และสุขสันต์ เรามีบทวิจารณ์ Pixel มากมาย รูปลักษณ์ใหม่ของเกม Wolverine ที่กำลังจะมาถึงของ Insomniac เรื่องราวสุดบ้าเกี่ยวกับการหลอกลวงทางโทรศัพท์ที่มีมากมาย และ Qwen 3.8 เวอร์ชันอัปเดตที่ฉันจะใช้เวลาไม่กี่วันข้างหน้าในการปรับแต่งตามความชอบของฉัน โปรดทราบว่า Inbox คือจดหมายข่าวเทคโนโลยีที่คุณน่าจะอ่านได้ภายในเวลาประมาณ 95 วินาที เรานำเสนอเรื่องราวของ 9to5Google ที่สำคัญที่สุดในช่วงสองสามวันที่ผ่านมา พร้อมด้วยไฮไลท์บางส่วนจากทั่วทั้งเว็บ เราเผยแพร่ทุกวันอังคารและพฤหัสบดี และหากคุณชอบสิ่งที่คุณอ่าน โปรดติดตาม"
+      "title_en": "Camera Looks on the Pixel 11 delivers what I’ve wanted from Google’s photos for years",
+      "summary_en": "The Pixel 11 lineup has earned its reputation as a safe upgrade — or boring, if you’re looking to be a little less generous to Google — but it’s delivering one thing I’ve been begging for literal years: Camera Looks. Google’s take on the iPhone’s Photographic Styles have been a long time coming, and appear to be set to play a big role in shaking up the conversation around the Pixel’s evenly-lit, HDR-heavy processing. I’ve been experimenting with them while working towards my eventual Pixel 11 Pro XL review, and I have to say, I’m mostly satisfied. Mostly .",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Camera-Looks.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/20/google-pixel-11-camera-looks-thoughts-impressions-results/",
+      "published": "Thu, 20 Aug 2026 13:00:00 +0000",
+      "title_th": "Camera Looks บน Pixel 11 มอบสิ่งที่ฉันต้องการจากรูปภาพของ Google มานานหลายปี",
+      "summary_th": "กลุ่มผลิตภัณฑ์ Pixel 11 ได้รับชื่อเสียงว่าเป็นการอัปเกรดที่ปลอดภัย – หรือน่าเบื่อหากคุณกำลังมองหาที่จะใจดีกับ Google น้อยลง – แต่มันให้สิ่งหนึ่งที่ฉันขอมาหลายปีแล้ว: รูปลักษณ์ของกล้อง รูปแบบการถ่ายภาพของ iPhone ของ Google มีมาเป็นเวลานานแล้ว และดูเหมือนว่าจะมีบทบาทสำคัญในการเขย่าการสนทนาเกี่ยวกับการประมวลผล HDR ที่หนักหน่วงและมีแสงสว่างสม่ำเสมอของ Pixel ฉันได้ทดลองกับพวกเขาในขณะที่พยายามรีวิว Pixel 11 Pro XL ในที่สุด และฉันต้องบอกว่าฉันพอใจเป็นส่วนใหญ่ ส่วนใหญ่ ."
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Gboard starts rolling out new ‘Emoji size’ setting",
-      "summary_en": "As the Pixel 11 series gets Rambler and Google’s new 3D emoji , Gboard is rolling out a new “Emoji size” setting to beta users.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/android-17-emoji-pixel-11.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/19/gboard-emoji-size-setting/",
-      "published": "Thu, 20 Aug 2026 03:50:48 +0000",
-      "title_th": "Gboard เริ่มเปิดตัวการตั้งค่า \"ขนาดอิโมจิ\" ใหม่",
-      "summary_th": "เนื่องจากซีรีส์ Pixel 11 ได้รับ Rambler และอิโมจิ 3 มิติใหม่ของ Google Gboard กำลังเปิดตัวการตั้งค่า \"ขนาดอิโมจิ\" ใหม่สำหรับผู้ใช้เบต้า"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Samsung confirms August 27 event for the ‘newest addition to the Galaxy S26 family’",
-      "summary_en": "Samsung is teasing a new entrant to the Galaxy S26 series coming at an event on August 27, but it’s probably not going to be that exciting.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Galaxy-S26-family-1-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/19/samsung-august-event-galaxy-s26-family/",
-      "published": "Thu, 20 Aug 2026 02:45:00 +0000",
-      "title_th": "Samsung ยืนยันงานวันที่ 27 สิงหาคมสำหรับ 'ส่วนเสริมใหม่ล่าสุดของตระกูล Galaxy S26'",
-      "summary_th": "Samsung กำลังล้อเลียนผู้เข้าร่วมใหม่ของซีรีส์ Galaxy S26 ที่จะมาในงานในวันที่ 27 สิงหาคม แต่อาจจะไม่น่าตื่นเต้นขนาดนั้น"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Google Pixel 11 gets dbrand’s full case lineup, including Tank for the first time [Gallery]",
-      "summary_en": "Best known for its skins, dbrand has been building some of the best cases in the game in recent years and, for the Pixel 11 series, you can get every option for your new phone. Here’s what you should know.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-dbrand-case-lineup-1.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/19/google-pixel-11-dbrand-cases/",
-      "published": "Wed, 19 Aug 2026 22:30:00 +0000",
-      "title_th": "Google Pixel 11 ได้รับเคสเต็มรูปแบบของ dbrand รวมถึง Tank เป็นครั้งแรก [แกลเลอรี]",
-      "summary_th": "ที่รู้จักกันดีในเรื่องสกิน dbrand ได้สร้างเคสที่ดีที่สุดในเกมในช่วงไม่กี่ปีที่ผ่านมา และสำหรับซีรีย์ Pixel 11 คุณจะได้รับทุกตัวเลือกสำหรับโทรศัพท์เครื่องใหม่ของคุณ นี่คือสิ่งที่คุณควรรู้"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Google Messages RCS breaks with ‘3100’ error for some, especially Galaxy switchers",
-      "summary_en": "An issue with Google Messages appears to be breaking RCS for some users, with much of the problem tracing back to Samsung Galaxy devices.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-15.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/19/google-messages-rcs-3100-error/",
-      "published": "Wed, 19 Aug 2026 20:15:00 +0000",
-      "title_th": "Google Messages RCS แตกด้วยข้อผิดพลาด '3100' สำหรับบางคน โดยเฉพาะ Galaxy switchers",
-      "summary_th": "ปัญหาเกี่ยวกับ Google Messages ดูเหมือนจะทำให้ RCS เสียหายสำหรับผู้ใช้บางราย โดยปัญหาส่วนใหญ่เกิดจากอุปกรณ์ Samsung Galaxy"
+      "title_en": "The Pixel 11 ditches the ‘Powered by Android’ boot logo for Gemini Intelligence",
+      "summary_en": "Yes, you read that headline correctly. The Pixel 11 no longer shows the “Powered by Android” boot logo, which has been a staple for a few years now.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-boot-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/20/the-pixel-11-ditches-the-powered-by-android-boot-logo-for-gemini-intelligence/",
+      "published": "Thu, 20 Aug 2026 13:00:00 +0000",
+      "title_th": "Pixel 11 ทิ้งโลโก้บูต 'Powered by Android' สำหรับ Gemini Intelligence",
+      "summary_th": "ใช่ คุณอ่านพาดหัวข่าวนั้นถูกต้องแล้ว Pixel 11 ไม่แสดงโลโก้บูต \"Powered by Android\" อีกต่อไป ซึ่งเป็นส่วนสำคัญมาสองสามปีแล้ว"
     },
     {
       "source": "Electrek",
@@ -548,11 +548,47 @@
       "category": "gadget",
       "title_en": "The Genesis GV90 takes luxury up a notch with coach doors and all [Images]",
       "summary_en": "Genesis unveiled its first full-size flagship SUV, the GV90, and it’s about as over-the-top as they come. The ultra-luxe electric SUV packs coach doors, a built-in refrigerator, massive digital screens, air suspension, and plenty of other high-end touches.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Genesis-GV90-Coach-Doors-debut.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/19/genesis-gv90-luxury-coach-doors-images/",
-      "published": "Thu, 20 Aug 2026 03:00:00 +0000",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Genesis-GV90-debut-image-1.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/20/genesis-gv90-luxury-coach-doors-images/",
+      "published": "Thu, 20 Aug 2026 15:08:50 +0000",
       "title_th": "Genesis GV90 ยกระดับความหรูหราด้วยประตูรถโค้ชและ [ภาพ] ทั้งหมด",
-      "summary_th": "Genesis เปิดตัวเรือธง SUV ขนาดเต็มรุ่นแรก GV90 และเกือบจะเหนือชั้นเท่าที่ควร SUV ไฟฟ้าสุดหรูคันนี้มาพร้อมประตูรถโค้ช ตู้เย็นในตัว หน้าจอดิจิตอลขนาดใหญ่ ระบบกันสะเทือนแบบถุงลม และสิ่งตกแต่งระดับไฮเอนด์อื่นๆ อีกมากมาย"
+      "summary_th": "Genesis เปิดตัวเรือธง SUV ขนาดเต็มรุ่นแรก GV90 และเกือบจะเหนือชั้นเท่าที่ควร SUV ไฟฟ้าที่หรูหราเป็นพิเศษมีทั้งประตูรถโค้ช ตู้เย็นในตัว หน้าจอดิจิตอลขนาดใหญ่ ระบบกันสะเทือนแบบถุงลม และสิ่งตกแต่งระดับไฮเอนด์อื่นๆ อีกมากมาย"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "You can now ride a Chinese EV in the US as Waymo opens Zeekr Ojai to all",
+      "summary_en": "Waymo is now letting all riders in San Francisco, Los Angeles, and Phoenix hail its next-generation Ojai robotaxi — a vehicle built in China by Zeekr. That makes the Ojai one of the only ways for an American to ride in a Chinese-made EV, a car they still can’t legally buy for themselves.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/waymo-ojai-exterior.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/20/waymo-zeekr-ojai-chinese-ev-robotaxi-all-riders/",
+      "published": "Thu, 20 Aug 2026 14:46:12 +0000",
+      "title_th": "ตอนนี้คุณสามารถขี่ EV ของจีนในสหรัฐอเมริกาได้แล้ว เนื่องจาก Waymo เปิด Zeekr Ojai ให้กับทุกคน",
+      "summary_th": "ขณะนี้ Waymo ให้นักขี่ทุกคนในซานฟรานซิสโก ลอสแองเจลิส และฟีนิกซ์ร่วมแสดงความยินดีกับ Ojai robotaxi รุ่นต่อไป ซึ่งเป็นยานพาหนะที่สร้างขึ้นในจีนโดย Zeekr นั่นทำให้ Ojai เป็นหนึ่งในวิธีเดียวสำหรับชาวอเมริกันที่จะขี่รถยนต์ EV ที่ผลิตในจีน ซึ่งเป็นรถที่พวกเขายังไม่สามารถซื้อเพื่อตัวเองได้อย่างถูกกฎหมาย"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Geely prepares revolutionary 500 Wh/kg solid-state EV battery that could beat diesel",
+      "summary_en": "Geely says its next-generation solid-state EV battery will reach an energy density of up to 500 Wh/kg, and it’s already running the cells through real-world validation ahead of a pilot rollout in 2027. That number is the whole story. At 500 Wh/kg, Geely’s cells would hold roughly twice the energy per kilogram of the best lithium-ion battery packs shipping in EVs today.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/geely_sold-state_battery.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/20/geely-500-wh-kg-solid-state-battery-2027-pilot/",
+      "published": "Thu, 20 Aug 2026 12:59:37 +0000",
+      "title_th": "Geely เตรียมแบตเตอรี่ EV โซลิดสเตต 500 Wh/kg ที่สามารถเอาชนะน้ำมันดีเซลได้",
+      "summary_th": "Geely กล่าวว่าแบตเตอรี่ EV โซลิดสเตตเจเนอเรชั่นถัดไปจะมีความหนาแน่นของพลังงานสูงถึง 500 Wh/kg และได้ดำเนินการเซลล์เหล่านี้ผ่านการตรวจสอบในโลกแห่งความเป็นจริงแล้วก่อนการเปิดตัวนำร่องในปี 2570 จำนวนนั้นคือเรื่องราวทั้งหมด ที่ 500 Wh/kg เซลล์ของ Geely จะกักเก็บพลังงานได้ประมาณสองเท่าต่อกิโลกรัมของชุดแบตเตอรี่ลิเธียมไอออนที่ดีที่สุดที่จัดส่งในรูปแบบ EV ในปัจจุบัน"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "This fascinating folding e-bike is lighter than Brompton’s lightest electric bike",
+      "summary_en": "British folding e-bike maker FLIT has just unveiled its latest lightweight folding e-bike, the FLIT M2i. And at just 13.3 kg (29.3 lb), this thing is getting impressively light for a fully equipped electric bike.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/flit-folding-bike-head.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/20/this-fascinating-folding-e-bike-is-lighter-than-bromptons-lightest-electric-bike/",
+      "published": "Thu, 20 Aug 2026 12:25:21 +0000",
+      "title_th": "จักรยานไฟฟ้าแบบพับได้ที่น่าทึ่งนี้เบากว่าจักรยานไฟฟ้าที่เบาที่สุดของ Brompton",
+      "summary_th": "FLIT ผู้ผลิตจักรยานไฟฟ้าแบบพับได้จากอังกฤษ เปิดตัว FLIT M2i จักรยานไฟฟ้าแบบพับได้น้ำหนักเบารุ่นล่าสุด และด้วยน้ำหนักเพียง 13.3 กก. (29.3 ปอนด์) สิ่งนี้จึงเบาอย่างน่าประทับใจสำหรับจักรยานไฟฟ้าที่มีอุปกรณ์ครบครัน"
     },
     {
       "source": "Electrek",
@@ -565,42 +601,6 @@
       "published": "Wed, 19 Aug 2026 21:53:47 +0000",
       "title_th": "ที่ชาร์จ EV ของแบรนด์ Wawa กำลังขยายตัวเกินกว่า Tesla",
       "summary_th": "Wawa ได้เปิดตัว Tesla Superchargers ที่มีแบรนด์ตนเองเมื่อต้นปีนี้ และตอนนี้ก็ทำเช่นเดียวกันกับเครื่องชาร์จแบบเร็ว Electrify America EV"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "As US tries to starve Cuba, solar electric garbage trikes offer a lifeline",
-      "summary_en": "Cuba is struggling with a US-imposed blockade on fuel shipments, which has led to many crises, including a breakdown in garbage collection in Havana. But a startup is stepping up to collect garbage in one neighborhood, using electric three-wheeled vehicles powered by solar.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/cuba-el-rampeno-electric-trike-garbage-truck.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/19/as-us-tries-to-starve-cuba-solar-electric-garbage-trikes-offer-a-lifeline/",
-      "published": "Wed, 19 Aug 2026 19:32:53 +0000",
-      "title_th": "ในขณะที่สหรัฐฯ พยายามอดอาหารให้กับคิวบา รถสามล้อไฟฟ้าพลังงานแสงอาทิตย์ก็ช่วยได้",
-      "summary_th": "คิวบากำลังดิ้นรนกับการปิดล้อมการขนส่งเชื้อเพลิงที่สหรัฐฯ บังคับใช้ ซึ่งนำไปสู่วิกฤตการณ์ต่างๆ มากมาย รวมถึงการพังทลายของการเก็บขยะในฮาวานา แต่สตาร์ทอัพกำลังก้าวขึ้นมาเก็บขยะในละแวกใกล้เคียงโดยใช้รถสามล้อไฟฟ้าที่ขับเคลื่อนด้วยพลังงานแสงอาทิตย์"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Portland airport can charge 20 rental EVs at once – from overhead",
-      "summary_en": "Portland International Airport (PDX) in Oregon can now charge up to 20 rental EVs at once without sacrificing valuable floor space, thanks to a new overhead ChargePoint fast charging system.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/ChargePoint-PDX.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/19/portland-airport-can-charge-20-rental-evs-at-once-from-overhead/",
-      "published": "Wed, 19 Aug 2026 18:20:26 +0000",
-      "title_th": "สนามบินพอร์ตแลนด์สามารถชาร์จรถยนต์ไฟฟ้าให้เช่าได้ 20 คันในครั้งเดียว จากค่าใช้จ่าย",
-      "summary_th": "สนามบินนานาชาติพอร์ตแลนด์ (PDX) ในรัฐโอเรกอนสามารถชาร์จ EV เช่าได้สูงสุดถึง 20 คันในคราวเดียวโดยไม่ต้องเสียสละพื้นที่อันมีค่า ด้วยระบบการชาร์จด่วน ChargePoint เหนือศีรษะแบบใหม่"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Heybike Hero mid-drive carbon-fiber all-terrain e-bike at exclusive new 1,049.50 low, EcoFlow power station flash sale, more",
-      "summary_en": "Our midweek Green Deals is being led by an incredible exclusive deal on the Heybike Hero 750W Mid-Drive Carbon-Fiber All-Terrain e-bike at a new $1,049.50 low . Right behind that, we have EcoFlow’s latest 48-hour flash sale with up to $2,200 savings on four units, like the DELTA 3 Max 2,048Wh Portable Power Station with a 500W modular solar panel at $1,399 . There’s also the lineup of Best Buy 60th Anniversary Sale EV deals on models from Segway, Lectric, Hiboy, NIU, and more starting from $284 , the Anker eufyCam E40 Solar Security Camera 2-pack bundle with a HomeBase hub at $180 , and more from Anker SOLIX, Jackery, and Velotric down below. There are also the hangover deals from the last two days that are down at the bottom of the page, like yesterday’s Lectric XPress2 extra battery bund",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Heybike-EcoFlow-Anker-eufy-NIU-GDs-FI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/19/heybike-hero-mid-drive-e-bike-exclusive-ecoflow-power-station-flash-sale-more/",
-      "published": "Wed, 19 Aug 2026 18:00:00 +0000",
-      "title_th": "Heybike Hero ขับเคลื่อนกลางคาร์บอนไฟเบอร์ e-bike ทุกพื้นที่ในราคาสุดพิเศษ 1,049.50 ใหม่ต่ำขายแฟลชสถานีพลังงาน EcoFlow และอีกมากมาย",
-      "summary_th": "ข้อเสนอสีเขียวกลางสัปดาห์ของเรานำโดยข้อตกลงพิเศษที่น่าทึ่งสำหรับจักรยานไฟฟ้า Heybike Hero 750W Mid-Drive Carbon-Fiber All-Terrain ในราคาต่ำใหม่ 1,049.50 ดอลลาร์ หลังจากนั้น เรามีส่วนลดแฟลชล่าสุดเป็นเวลา 48 ชั่วโมงของ EcoFlow พร้อมส่วนลดสูงสุดถึง 2,200 ดอลลาร์สำหรับสี่ยูนิต เช่น สถานีไฟฟ้าพกพา DELTA 3 Max 2,048Wh พร้อมแผงโซลาร์เซลล์แบบโมดูลาร์ 500W ในราคา 1,399 ดอลลาร์ นอกจากนี้ยังมีรายการข้อเสนอ EV ลดราคาครบรอบ 60 ปีที่ดีที่สุดสำหรับการซื้อในรุ่นต่างๆ จาก Segway, Lectric, Hiboy, NIU และอื่นๆ โดยเริ่มต้นที่ 284 ดอลลาร์ ชุดกล้องรักษาความปลอดภัยพลังงานแสงอาทิตย์ Anker eufyCam E40 แพ็ค 2 แพ็คพร้อมฮับ HomeBase ในราคา 180 ดอลลาร์ และอื่นๆ จาก Anker SOLIX, Jackery และ Velotric ด้านล่าง นอกจากนี้ยังมีข้อเสนออาการเมาค้างจากสองวันที่ผ่านมาที่ด้านล่างของหน้า เช่น ชุดแบตเตอรี่เสริม Lectric XPress2 ของเมื่อวาน"
     }
   ],
   "indices": [
@@ -608,57 +608,57 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 217.56,
-      "change": -2.18,
-      "change_pct": -0.99
+      "price": 216.85,
+      "change": -0.71,
+      "change_pct": -0.32
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 351.12,
-      "change": 14.25,
-      "change_pct": 4.23
+      "price": 342.79,
+      "change": -8.33,
+      "change_pct": -2.37
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 344.72,
-      "change": 0.52,
-      "change_pct": 0.15
+      "price": 339.74,
+      "change": -4.98,
+      "change_pct": -1.44
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 484.31,
-      "change": 2.68,
-      "change_pct": 0.56
+      "price": 480.29,
+      "change": -4.02,
+      "change_pct": -0.83
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 316.83,
-      "change": 6.8,
-      "change_pct": 2.19
+      "price": 316.54,
+      "change": -0.29,
+      "change_pct": -0.09
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 265.84,
-      "change": 6.39,
-      "change_pct": 2.46
+      "price": 260.54,
+      "change": -5.3,
+      "change_pct": -1.99
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 546.03,
-      "change": 2.36,
-      "change_pct": 0.43
+      "price": 543.35,
+      "change": -2.68,
+      "change_pct": -0.49
     },
     {
       "symbol": "DELTA.BK",
@@ -763,6 +763,16 @@
     {
       "channel": "Droidsans",
       "country": "TH",
+      "title_en": "50 ฟีเจอร์ One UI 9 บนมือถือ Samsung Galaxy ทุกรุ่น อัปเดตปี 2026",
+      "video_id": "16J4GG9HGfE",
+      "link": "https://www.youtube.com/watch?v=16J4GG9HGfE",
+      "thumbnail": "https://i2.ytimg.com/vi/16J4GG9HGfE/hqdefault.jpg",
+      "published": "2026-08-20T13:00:26+00:00",
+      "title_th": "50 ฟีเจอร์ One UI 9 บนมือถือ Samsung Galaxy ทุกรุ่น อัปเดตปี 2026"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
       "title_en": "ถ้าซื้อมือถือ vivo ราคา 80,000 บาท จะได้กล่องแบบนี้ #vivo #vivoX300Ultra",
       "video_id": "l-JvMGvmrOE",
       "link": "https://www.youtube.com/shorts/l-JvMGvmrOE",
@@ -779,16 +789,6 @@
       "thumbnail": "https://i2.ytimg.com/vi/1jVh7Hc-MXs/hqdefault.jpg",
       "published": "2026-08-18T12:45:57+00:00",
       "title_th": "แนะนำซื้อ iPhone ตอนนี้ดีกว่า ก่อน iPhone 18 จะมา หรือโดนปรับราคาแพงขึ้น #iPhone17 #ราคาไอโฟน"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "ใครแบตอึดที่สุด REDMI Note 17 Pro Max 5G แบต 10000mAh #REDMI #REDMINote17Series #REDMINote17ProMax5G",
-      "video_id": "5qt1rI_EwPI",
-      "link": "https://www.youtube.com/shorts/5qt1rI_EwPI",
-      "thumbnail": "https://i2.ytimg.com/vi/5qt1rI_EwPI/hqdefault.jpg",
-      "published": "2026-08-18T04:23:40+00:00",
-      "title_th": "ใครแบตอึดที่สุด REDMI Note 17 Pro Max 5G แบต 10000mAh #REDMI #REDMINote17Series #REDMINote17ProMax5G"
     }
   ]
 }
