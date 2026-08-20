@@ -1,126 +1,126 @@
 {
-  "generated_at": "2026-08-20T15:24:39.027589+00:00",
+  "generated_at": "2026-08-20T18:22:24.574918+00:00",
   "count": 50,
   "articles": [
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "AI data giant Alation confirms cyberattack",
-      "summary_en": "The data search and AI giant confirmed unauthorized access to its systems during an incident on Tuesday, and said it was investigating the breach.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/alation.jpg?w=1186",
-      "link": "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/",
-      "published": "Thu, 20 Aug 2026 13:01:24 +0000",
-      "title_th": "Alation ยักษ์ใหญ่ด้านข้อมูล AI ยืนยันการโจมตีทางไซเบอร์",
-      "summary_th": "ยักษ์ใหญ่ด้านการค้นหาข้อมูลและ AI ยืนยันการเข้าถึงระบบของตนโดยไม่ได้รับอนุญาตระหว่างเกิดเหตุการณ์เมื่อวันอังคาร และกล่าวว่ากำลังสืบสวนการละเมิดดังกล่าว"
+      "title_en": "Grok keeps sending gibberish responses to users",
+      "summary_en": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=1200,804",
+      "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+      "published": "Thu, 20 Aug 2026 17:32:16 +0000",
+      "title_th": "Grok ส่งคำตอบที่ไม่มีความหมายไปยังผู้ใช้อย่างต่อเนื่อง",
+      "summary_th": "ผู้ใช้ที่ได้รับผลกระทบบอกกับ TechCrunch ว่าพวกเขากำลังใช้ Grok Lite และสังเกตเห็นปัญหาดังกล่าวตั้งแต่เช้าวันพุธ"
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "For a16z, AI gives foreign founders an advantage",
-      "summary_en": "a16z’s Borderless Founder network initiative supports immigrant and international founders. 'Having one foot in your home country, and one foot in Silicon Valley,\" is an advantage, the firm believes.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/gabriel-vasquez-a16z.jpg?resize=1200,675",
-      "link": "https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/",
-      "published": "Thu, 20 Aug 2026 13:00:00 +0000",
-      "title_th": "สำหรับ a16z นั้น AI ให้ข้อได้เปรียบแก่ผู้ก่อตั้งชาวต่างชาติ",
-      "summary_th": "โครงการริเริ่มเครือข่าย Borderless Founder ของ a16z สนับสนุนผู้อพยพและผู้ก่อตั้งระดับนานาชาติ \"การมีเท้าข้างเดียวในประเทศบ้านเกิดของคุณ และเท้าข้างเดียวในซิลิคอนแวลลีย์\" ถือเป็นข้อได้เปรียบที่บริษัทเชื่อ"
+      "title_en": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "summary_en": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt this year.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/54887557417_966f146916_k.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "published": "Thu, 20 Aug 2026 17:27:47 +0000",
+      "title_th": "คู่มือนักลงทุนสำหรับ TechCrunch Disrupt 2026: ทุกสิ่งที่คุณจำเป็นต้องรู้",
+      "summary_th": "ปีแล้วปีเล่า นักลงทุนที่ได้สำรวจ Expo Halls พบผู้ก่อตั้ง และเรียนรู้จากเพื่อนร่วมงานได้พิสูจน์แล้วว่าทำไมคุณจึงต้องมาร่วมงาน Disrupt ในปีนี้"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+      "summary_en": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "published": "Thu, 20 Aug 2026 17:18:58 +0000",
+      "title_th": "ผลการศึกษาพบว่า 1 ใน 3 ของหน้าเว็บที่เผยแพร่นับตั้งแต่เปิดตัว ChatGPT แสดงให้เห็นถึงความเป็นผู้ประพันธ์ AI",
+      "summary_th": "ChatGPT และโมเดล AI อื่นๆ กำลังสร้างและแก้ไขเว็บใหม่จำนวนมาก"
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "US says hackers are targeting vulnerable water systems with the help of AI",
-      "summary_en": "Hackers are targeting internet-connected Siemens controllers used in water facilities around the United States.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/water-system-1253161473.jpg?w=863",
-      "link": "https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/",
-      "published": "Thu, 20 Aug 2026 12:43:19 +0000",
-      "title_th": "สหรัฐฯ ระบุแฮกเกอร์กำหนดเป้าหมายระบบน้ำที่มีช่องโหว่ด้วยความช่วยเหลือของ AI",
-      "summary_th": "แฮกเกอร์มุ่งเป้าไปที่ตัวควบคุม Siemens ที่เชื่อมต่ออินเทอร์เน็ตซึ่งใช้ในแหล่งน้ำทั่วสหรัฐอเมริกา"
+      "title_en": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
+      "summary_en": "At Mayfield, Singh will focus on semiconductor, cybersecurity, and physical AI investments.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Adit-Singh-mayfield-headshot.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/",
+      "published": "Thu, 20 Aug 2026 17:04:53 +0000",
+      "title_th": "Adit Singh นักลงทุนจาก Cerebras ในยุคแรกร่วมงานกับ Mayfield ในฐานะหุ้นส่วนด้านโครงสร้างพื้นฐาน",
+      "summary_th": "ที่ Mayfield Singh จะมุ่งเน้นไปที่เซมิคอนดักเตอร์ ความปลอดภัยทางไซเบอร์ และการลงทุนด้าน AI ทางกายภาพ"
     },
     {
       "source": "TechCrunch",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Meta AI’s new Mac app wants you to talk to your apps",
-      "summary_en": "Meta said its Muse Spark model is powering the dictation feature.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-      "published": "Thu, 20 Aug 2026 12:11:57 +0000",
-      "title_th": "แอป Mac ใหม่ของ Meta AI ต้องการให้คุณพูดคุยกับแอปของคุณ",
-      "summary_th": "Meta กล่าวว่ารุ่น Muse Spark กำลังขับเคลื่อนคุณสมบัติการเขียนตามคำบอก"
+      "category": "gadget",
+      "title_en": "Ramp launches its own AI model router, called Router",
+      "summary_en": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1434828961.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "published": "Thu, 20 Aug 2026 16:46:00 +0000",
+      "title_th": "Ramp เปิดตัวเราเตอร์โมเดล AI ของตัวเองที่เรียกว่าเราเตอร์",
+      "summary_th": "Ramp ได้เปิดตัวบริการกำหนดเส้นทางโมเดล AI ของตัวเองซึ่งมีชื่อว่า Router ซึ่งช่วยให้ผู้ใช้และบริษัทสามารถใช้และสลับระหว่างโมเดลภาษาขนาดใหญ่ต่างๆ ผ่านทาง API"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "summary_en": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/07/gettyimages-1239052293-594x594-1.jpg?w=594",
-      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-      "published": "Thu, 20 Aug 2026 09:30:00 +0000",
-      "title_th": "ขณะนี้ Binance อนุญาตให้ตัวแทน AI ซื้อขายได้ แต่การดูแลพวกเขาส่วนใหญ่ขึ้นอยู่กับผู้ใช้",
-      "summary_th": "Agent OS ของ Binance ทำงานร่วมกับเครื่องมือต่างๆ เช่น ChatGPT, Claude Code และ Cursor"
+      "category": "software",
+      "title_en": "Australia says Roblox hasn’t fixed its child predator problem",
+      "summary_en": "Roblox is promising more changes to its child safety features following testing from Australia's online safety regulator, eSafety. eSafety has been looking into concerns that the company hasn't been in compliance with Australia's Online Safety Act, including \"allegedly failing to have sufficient measures in place to prevent contact between adults and children under 16. While […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK146_Roblox_New_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety",
+      "published": "2026-08-20T13:42:34-04:00",
+      "title_th": "ออสเตรเลียกล่าวว่า Roblox ยังไม่ได้แก้ไขปัญหาเด็กนักล่า",
+      "summary_th": "Roblox สัญญาว่าจะมีการเปลี่ยนแปลงฟีเจอร์ด้านความปลอดภัยของเด็กมากขึ้น หลังจากการทดสอบจาก eSafety ซึ่งเป็นหน่วยงานกำกับดูแลความปลอดภัยออนไลน์ของออสเตรเลีย eSafety พิจารณาถึงข้อกังวลที่บริษัทไม่ปฏิบัติตามกฎหมายความปลอดภัยออนไลน์ของออสเตรเลีย ซึ่งรวมถึง \"ถูกกล่าวหาว่าไม่มีมาตรการเพียงพอเพื่อป้องกันการสัมผัสระหว่างผู้ใหญ่และเด็กอายุต่ำกว่า 16 ปี ในขณะที่ […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "FCC officially decides gigabit speeds are too good for you",
+      "summary_en": "Another day, another sad thing to report about our compromised Federal Communications Commission. Chairman Brendan Carr has followed through on his 2025 threat to kill long-term broadband speed goals established during the Biden administration, which aimed for eventually getting us to gigabit download and half-gigabit upload speeds. How dare we dream of spreading great download […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS513_FCC_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal",
+      "published": "2026-08-20T13:38:30-04:00",
+      "title_th": "FCC ตัดสินใจอย่างเป็นทางการว่าความเร็วกิกะบิตนั้นดีเกินไปสำหรับคุณ",
+      "summary_th": "อีกวันหนึ่ง มีเรื่องน่าเศร้าอีกเรื่องที่ต้องรายงานเกี่ยวกับ Federal Communications Commission ที่ถูกบุกรุกของเรา ประธานเบรนแดน คาร์ได้ปฏิบัติตามคำขู่ของเขาในปี 2025 ที่จะทำลายเป้าหมายความเร็วบรอดแบนด์ระยะยาวที่ตั้งขึ้นระหว่างการบริหารของไบเดน ซึ่งมีเป้าหมายที่จะพาเราไปดาวน์โหลดความเร็วระดับกิกะบิตและอัพโหลดครึ่งกิกะบิตในที่สุด เรากล้าฝันที่จะเผยแพร่การดาวน์โหลดที่ยอดเยี่ยม […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "gadget",
-      "title_en": "LG’s 65-inch B6 OLED is $300 lower than its previous best price",
-      "summary_en": "Best Buy has a whole host of LG products discounted for today’s Deal of the Day festivities, including laptops, home theater gear, and more. One that stood out is a price cut on LG’s 65-inch B6 OLED TV that’s deeper than I’ve seen before. At Best Buy, it’s $1,399.99 (originally $1,999.99) for the rest of […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/lgb6.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale",
-      "published": "2026-08-20T11:08:38-04:00",
-      "title_th": "B6 OLED ขนาด 65 นิ้วของ LG ถูกกว่าราคาที่ดีที่สุดก่อนหน้านี้ถึง 300 ดอลลาร์",
-      "summary_th": "Best Buy มีผลิตภัณฑ์ LG มากมายลดราคาสำหรับเทศกาล Deal of the Day ในปัจจุบัน รวมถึงแล็ปท็อป อุปกรณ์โฮมเธียเตอร์ และอื่นๆ อีกมากมาย สิ่งที่โดดเด่นคือการลดราคาทีวี B6 OLED ขนาด 65 นิ้วของ LG ซึ่งลึกกว่าที่เคยเห็นมาก่อน ที่ Best Buy มีราคาอยู่ที่ 1,399.99 ดอลลาร์ (จากเดิม 1,999.99 ดอลลาร์) สำหรับส่วนที่เหลือของ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "ev",
-      "title_en": "Tesla Robotaxis appear to go fully unsupervised in Austin ahead of Cybercab launch",
-      "summary_en": "Seven months after Elon Musk announced that Tesla Robotaxis in Austin were operating without human safety monitors onboard, the city's service appears to have finally gone fully driverless. Over the past two weeks, all 170 Tesla Robotaxi rides in Austin monitored by the crowdsourced Robotaxi Tracker were unsupervised, the site's creator, Ethan McKanna, told The […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/transportation/982759/tesla-robotaxi-unsupervised-austin-robotaxi-tracker",
-      "published": "2026-08-20T10:09:31-04:00",
-      "title_th": "Tesla Robotaxis ดูเหมือนจะไม่ได้รับการดูแลอย่างเต็มที่ในออสติน ก่อนการเปิดตัว Cybercab",
-      "summary_th": "เจ็ดเดือนหลังจากที่ Elon Musk ประกาศว่า Tesla Robotaxis ในออสตินดำเนินงานโดยไม่มีการตรวจสอบความปลอดภัยของมนุษย์บนเครื่อง การบริการของเมืองก็ดูเหมือนจะไร้คนขับโดยสิ้นเชิงในที่สุด ในช่วงสองสัปดาห์ที่ผ่านมา รถ Tesla Robotaxi ทั้ง 170 คันในออสตินซึ่งมีการติดตามโดย Robotaxi Tracker ที่ได้รับการตรวจสอบจากฝูงชนไม่ได้รับการดูแล Ethan McKanna ผู้สร้างเว็บไซต์บอกกับ The […]"
+      "title_en": "Framework says it’s addressing a BIOS update that bricked some of its older laptops",
+      "summary_en": "Some Framework Laptop 13 owners with last-gen AMD chips have reported that a recent BIOS update is bricking their laptops on both Windows and Linux. The BIOS update causing this issue is version 3.20 for Ryzen 7040-series mainboards, released back in July and still available on Framework's site at the time of this writing. Upon […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24940154/236795_Framework_Laptop_13__AMD__AKrales_0025.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty",
+      "published": "2026-08-20T13:16:02-04:00",
+      "title_th": "Framework กล่าวว่ากำลังจัดการกับการอัปเดต BIOS ที่ทำให้แล็ปท็อปรุ่นเก่าบางรุ่นเสียหาย",
+      "summary_th": "เจ้าของ Framework Laptop 13 บางรายที่ใช้ชิป AMD รุ่นล่าสุดรายงานว่าการอัปเดต BIOS ล่าสุดกำลังปิดกั้นแล็ปท็อปของตนทั้งบน Windows และ Linux การอัปเดต BIOS ที่ทำให้เกิดปัญหานี้คือเวอร์ชัน 3.20 สำหรับเมนบอร์ดซีรีส์ Ryzen 7040 ซึ่งเปิดตัวในเดือนกรกฎาคมและยังคงมีให้บริการบนเว็บไซต์ของ Framework ในขณะที่เขียนบทความนี้ เมื่อ […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "software",
-      "title_en": "Here’s what data Comcast says its motion-detecting routers collect",
-      "summary_en": "Comcast announced a new platform this week called Xfinity Shield that includes the option to let customers turn their routers into motion sensors. Many people reacted with fear and anger. \"I am not enabling this. I am also seriously considering replacing my leased gateway with my own equipment, because a device I do not control […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/XFN_Lifestyle_DEC25_011_RAYS_LR_260320.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200",
-      "link": "https://www.theverge.com/tech/982689/comcast-xfinity-wifi-motion-privacy-concerns-response",
-      "published": "2026-08-20T10:00:22-04:00",
-      "title_th": "นี่คือข้อมูลที่ Comcast กล่าวว่าเราเตอร์ตรวจจับความเคลื่อนไหวรวบรวม",
-      "summary_th": "Comcast ประกาศแพลตฟอร์มใหม่ในสัปดาห์นี้ชื่อ Xfinity Shield ซึ่งรวมถึงตัวเลือกเพื่อให้ลูกค้าเปลี่ยนเราเตอร์เป็นเซ็นเซอร์ตรวจจับความเคลื่อนไหว หลายคนโต้ตอบด้วยความกลัวและความโกรธ \"ฉันไม่ได้เปิดใช้งานสิ่งนี้ ฉันกำลังพิจารณาอย่างจริงจังในการเปลี่ยนเกตเวย์ที่เช่าด้วยอุปกรณ์ของตัวเอง เนื่องจากอุปกรณ์ที่ฉันไม่ได้ควบคุม […]"
+      "title_en": "It’s Greg Brockman’s OpenAI now",
+      "summary_en": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "published": "2026-08-20T11:45:55-04:00",
+      "title_th": "ตอนนี้เป็น OpenAI ของ Greg Brockman",
+      "summary_th": "OpenAI ใช้เวลาหนึ่งปีอย่างยาวนาน บริษัทใช้เวลาหลายเดือนในการต่อสู้กับอดีตผู้ร่วมก่อตั้ง Elon Musk ในการพิจารณาคดีโดยคณะลูกขุนอย่างน่าตื่นเต้น ถูกฟ้องร้องเรื่องความลับทางการค้าที่มีชื่อเสียงจาก Apple และต้องเผชิญกับการพิจารณาอย่างกว้างขวางหลังจากโมเดลที่ยังไม่เผยแพร่ได้แฮ็กบริษัท AI อื่น ในขณะที่เตรียมเสนอขายหุ้น IPO ผู้บริหารจำนวนมาก […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
-      "category": "software",
-      "title_en": "FromSoftware can do anything",
-      "summary_en": "There's something just a little bit different about FromSoftware's office in Tokyo. Like with any other successful video game studio, there's extensive security to get in the door, a minimalist lobby with framed posters from the studio's most recent releases, and a large glass display case filled with statues from ceremonies ranging from the BAFTAs […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/The_Duskbloods_12.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "link": "https://www.theverge.com/entertainment/981970/fromsoftware-duskbloods-nintendo-hidetaka-miyazaki",
-      "published": "2026-08-20T10:00:00-04:00",
-      "title_th": "FromSoftware ทำอะไรก็ได้",
-      "summary_th": "มีบางอย่างแตกต่างออกไปเล็กน้อยเกี่ยวกับสำนักงานของ FromSoftware ในโตเกียว เช่นเดียวกับสตูดิโอวิดีโอเกมที่ประสบความสำเร็จอื่นๆ มีการรักษาความปลอดภัยที่ครอบคลุมเพื่อเข้าไปในประตู ล็อบบี้สไตล์มินิมอลพร้อมโปสเตอร์ใส่กรอบจากสตูดิโอออกใหม่ล่าสุด และตู้โชว์กระจกขนาดใหญ่ที่เต็มไปด้วยรูปปั้นจากพิธีการต่างๆ ตั้งแต่ BAFTA […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "We played The Duskbloods, the Switch 2’s wildest new exclusive",
-      "summary_en": "The Duskbloods is a world away from the approachable games Nintendo is known for. But for its next Switch 2 exclusive, the company has partnered with Elden Ring developer FromSoftware on a hardcore multiplayer game about vampires. And after spending a few hours playing through its gothic world at FromSoft's offices in Tokyo, I'm convinced […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/The_Duskbloods_14.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "link": "https://www.theverge.com/entertainment/981990/the-duskbloods-hands-on-nintendo-switch-2-fromsoftware",
-      "published": "2026-08-20T10:00:00-04:00",
-      "title_th": "เราเล่น The Duskbloods ซึ่งเป็นเกมเอ็กซ์คลูซีฟใหม่ล่าสุดของ Switch 2",
-      "summary_th": "Duskbloods เป็นโลกที่ห่างไกลจากเกมที่ Nintendo เป็นที่รู้จัก แต่สำหรับ Switch 2 สุดพิเศษครั้งต่อไป บริษัทได้ร่วมมือกับผู้พัฒนา Elden Ring FromSoftware ในเกมมัลติเพลเยอร์แนวฮาร์ดคอร์เกี่ยวกับแวมไพร์ และหลังจากใช้เวลาสองสามชั่วโมงในการเล่นในโลกโกธิคที่สำนักงานของ FromSoft ในโตเกียว ฉันมั่นใจว่า […]"
+      "category": "gadget",
+      "title_en": "This app makes the Pixel 11’s HiLight feature actually useful",
+      "summary_en": "Google's new HiLight notification LED on the Pixel 11 Pro is nearly useless. Out of the box, the only two things it can glow for are when the phone is face down and you're interacting with Gemini, or when you get a call from a favorite contact. And even then, it can only glow one […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&strip=all&crop=0%2C10.730155461286%2C100%2C78.539689077427&w=1200",
+      "link": "https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful",
+      "published": "2026-08-20T11:30:34-04:00",
+      "title_th": "แอปนี้ทำให้ฟีเจอร์ HiLight ของ Pixel 11 มีประโยชน์จริง ๆ",
+      "summary_th": "LED การแจ้งเตือน HiLight ใหม่ของ Google บน Pixel 11 Pro แทบจะไม่มีประโยชน์เลย เมื่อแกะกล่อง มีเพียงสองสิ่งที่สามารถเรืองแสงได้คือเมื่อโทรศัพท์คว่ำหน้าลงและคุณกำลังโต้ตอบกับราศีเมถุน หรือเมื่อคุณได้รับสายจากผู้ติดต่อที่ชื่นชอบ และถึงอย่างนั้น มันก็สามารถเรืองแสงได้เพียงอันเดียว […]"
     },
     {
       "source": "Ars Technica",
@@ -210,12 +210,12 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "The 3 Best USB Phone Chargers (2026): Anker, DeWalt",
+      "title_en": "The 3 Best USB Car Chargers for Phones (2026): Anker, DeWalt",
       "summary_en": "I put top-rated USB car chargers to the test for fast charging, value, heat, and safety. These are the best I found.",
       "image": "https://media.wired.com/photos/6a8641af2578139abea6ce92/master/pass/The-Best-USB-Car-Chargers-for-Road-Trips-and-Fast-Charging.jpg",
       "link": "https://www.wired.com/story/best-usb-car-chargers/",
       "published": "Thu, 20 Aug 2026 10:33:00 +0000",
-      "title_th": "เครื่องชาร์จโทรศัพท์ USB ที่ดีที่สุด 3 เครื่อง (2026): Anker, DeWalt",
+      "title_th": "ที่ชาร์จในรถยนต์ USB ที่ดีที่สุด 3 อันดับสำหรับโทรศัพท์ (2026): Anker, DeWalt",
       "summary_th": "ฉันนำที่ชาร์จในรถยนต์ USB ที่ได้รับการจัดอันดับสูงสุดมาทดสอบในด้านการชาร์จที่รวดเร็ว ความคุ้มค่า ความร้อน และความปลอดภัย นี่คือสิ่งที่ดีที่สุดที่ฉันพบ"
     },
     {
@@ -237,10 +237,22 @@
       "title_en": "How Teen ‘After-Prom’ Kings in LA Monetized the High School Rager",
       "summary_en": "The West Coast house-party scene has long been iconic. For these young, tech-savvy entrepreneurs, it was also inspiration for MyPlots, a party-promotion empire.",
       "image": "https://media.wired.com/photos/6a84ac8b03b7ff172932c405/master/pass/MYPLOTS-GAJ31-web.jpg",
-      "link": "https://www.wired.com/myplots-jack-schwartz-zane-harwin-teen-parties-after-prom/",
+      "link": "https://www.wired.com/story/myplots-jack-schwartz-zane-harwin-teen-parties-after-prom/",
       "published": "Thu, 20 Aug 2026 10:00:00 +0000",
       "title_th": "วิธีที่ Kings 'After-Prom' ของวัยรุ่นใน LA สร้างรายได้จาก High School Rager ได้อย่างไร",
       "summary_th": "สถานที่จัดปาร์ตี้ในบ้านฝั่งตะวันตกถือเป็นสถานที่โดดเด่นมายาวนาน สำหรับผู้ประกอบการรุ่นใหม่ที่เชี่ยวชาญด้านเทคโนโลยีเหล่านี้ สิ่งเหล่านี้ยังเป็นแรงบันดาลใจให้กับ MyPlots ซึ่งเป็นอาณาจักรแห่งการโปรโมตปาร์ตี้อีกด้วย"
+    },
+    {
+      "source": "MIT Technology Review",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Debates over AI consciousness are a trap",
+      "summary_en": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/smokescreen.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "published": "Thu, 20 Aug 2026 15:42:39 +0000",
+      "title_th": "การถกเถียงเรื่องจิตสำนึกของ AI เป็นกับดัก",
+      "summary_th": "AI “ผู้หลบหนี” เจ้าหน้าที่ “โกง” และนักแสดง “อิสระ”—วาทศิลป์ในปัจจุบันจะทำให้คุณเชื่อว่าเจ้าหน้าที่ AI ไม่เพียงแต่ตื่นตัวและตระหนักรู้เท่านั้น แต่ยังโกรธผู้สร้างของพวกเขาด้วย ผู้นำด้านเทคโนโลยีที่มีชื่อเสียง เช่น Demis Hassabis, Dario Amodei และ Sam Altman ผลักดันให้มีการควบคุมระบบที่ดูเหมือน \"เหนือมนุษย์\" เหล่านี้ ในขณะที่ฝ่ายที่แยกจากกัน นำโดยองค์กรนโยบาย..."
     },
     {
       "source": "MIT Technology Review",
@@ -291,16 +303,52 @@
       "summary_th": "ในช่วงปลายทศวรรษ 2000 พิม ซัลลิแวน-เทลยัวร์นั่งอยู่ท้ายรถ มุ่งหน้าไปยังเมืองเล็กๆ ของคุณยายทวดทางภาคใต้ของประเทศไทย เธอมองดูภูเขาใหญ่ผ่านไปนอกหน้าต่าง เธออายุเพียงหกขวบ แต่กำลังจะโดนโจมตีด้วยการรับรู้ในขนาดผู้ใหญ่ “พวกเขาเพิ่งถูกขุดขึ้นมา…"
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "The Download: AI’s self-improvement problem, and what’s driving the heat",
-      "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight.…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/research-target2a.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
-      "published": "Wed, 19 Aug 2026 12:10:00 +0000",
-      "title_th": "การดาวน์โหลด: ปัญหาการพัฒนาตนเองของ AI และสิ่งที่ทำให้เกิดความร้อนแรง",
-      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี การพัฒนาตนเองแบบเรียกซ้ำของ AI อาจไม่เกิดขึ้นอย่างรวดเร็วนัก คำมั่นสัญญาที่ชัดเจนที่สุดของอุตสาหกรรม AI ในขณะนี้ก็คือ AI จะปรับปรุงตัวเองในไม่ช้า โดยแทบไม่จำเป็นต้องมีการควบคุมดูแลจากมนุษย์..."
+      "category": "gadget",
+      "title_en": "A recent Windows 11 update is causing game crashes and all kinds of other problems",
+      "summary_en": "The company has launched an investigation.",
+      "image": "https://www.engadget.com/img/gallery/a-recent-windows-11-update-is-causing-game-crashes-and-all-kinds-of-other-problems/l-intro-1787246759.jpg",
+      "link": "https://www.engadget.com/2240999/recent-windows-11-update-causing-game-crashes-and-other-problems/",
+      "published": "Thu, 20 Aug 2026 17:32:51 +0000",
+      "title_th": "การอัปเดต Windows 11 ล่าสุดทำให้เกมล่มและปัญหาอื่นๆ ทุกประเภท",
+      "summary_th": "บริษัทได้เริ่มดำเนินการสอบสวนแล้ว"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "A trailer for the Golden Axe animated series is full of self-referencing jokes",
+      "summary_en": "The adaptation of Sega's classic games hits Paramount+ on September 16.",
+      "image": "https://www.engadget.com/img/gallery/a-trailer-for-the-golden-axe-animated-series-is-full-of-self-referencing-jokes/l-intro-1787242981.jpg",
+      "link": "https://www.engadget.com/2240929/trailer-sega-golden-axe-animated-series/",
+      "published": "Thu, 20 Aug 2026 16:35:23 +0000",
+      "title_th": "ตัวอย่างซีรีส์แอนิเมชั่น Golden Axe เต็มไปด้วยมุกตลกที่อ้างอิงตัวเอง",
+      "summary_th": "การดัดแปลงจากเกมคลาสสิกของ Sega จะได้รับความนิยมสูงสุด Paramount+ ในวันที่ 16 กันยายน"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "ev",
+      "title_en": "Tesla's Robotaxi fleet might finally be driving around Austin unsupervised",
+      "summary_en": "It's been slow going, but it looks like Tesla's Robotaxi fleet in Austin is operating fully autonomously.",
+      "image": "https://www.engadget.com/img/gallery/teslas-robotaxi-fleet-might-finally-be-driving-around-austin-unsupervised/l-intro-1787240908.jpg",
+      "link": "https://www.engadget.com/2240859/tesla-robotaxi-fleet-might-finally-be-driving-around-austin-unsupervised/",
+      "published": "Thu, 20 Aug 2026 15:50:56 +0000",
+      "title_th": "ในที่สุดกองเรือ Robotaxi ของ Tesla อาจจะขับรถไปรอบๆ ออสตินโดยไม่ได้รับการดูแลในที่สุด",
+      "summary_th": "ดำเนินไปอย่างช้าๆ แต่ดูเหมือนว่ากองเรือ Robotaxi ของ Tesla ในออสตินกำลังทำงานแบบอัตโนมัติเต็มรูปแบบ"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "You can soon stream Crunchyroll on your car's infotainment system",
+      "summary_en": "The Crunchyroll anime streaming service has started appearing on the Appning app store.",
+      "image": "https://www.engadget.com/img/gallery/you-can-soon-stream-crunchyroll-on-your-cars-infotainment-system/l-intro-1787168951.jpg",
+      "link": "https://www.engadget.com/2240331/crunchyroll-appning-by-forvia-stream-on-car-infotainment-system/",
+      "published": "Thu, 20 Aug 2026 15:30:00 +0000",
+      "title_th": "คุณจะสตรีม Crunchyroll บนระบบสาระบันเทิงในรถของคุณได้เร็วๆ นี้",
+      "summary_th": "บริการสตรีมมิ่งอนิเมะ Crunchyroll เริ่มปรากฏบน App Store แล้ว"
     },
     {
       "source": "Engadget",
@@ -313,54 +361,6 @@
       "published": "Thu, 20 Aug 2026 14:49:42 +0000",
       "title_th": "ออสเตรเลียผ่านกฎหมายเพื่อเรียกเก็บภาษีจากบริษัทเทคโนโลยี เว้นแต่พวกเขาจะบรรลุข้อตกลงกับผู้เผยแพร่ข่าว",
       "summary_th": "Meta, Google, TikTok และ LinkedIn จะต้องจ่ายหลายล้านเพื่อสนับสนุนสำนักข่าวท้องถิ่นภายใต้กฎใหม่ของออสเตรเลีย"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "LG's new OLED manufacturing tech can make panels bigger and brighter",
-      "summary_en": "LG has an unveiled a new OLED manufacturing breakthrough that will allow brighter, sharper and longer-lasting panels of nearly any size.",
-      "image": "https://www.engadget.com/img/gallery/lgs-new-oled-manufacturing-tech-can-make-panels-bigger-and-brighter/l-intro-1787226928.jpg",
-      "link": "https://www.engadget.com/2240635/lg-flipp-oled-manufacturing-bigger-brighter-displays/",
-      "published": "Thu, 20 Aug 2026 11:56:46 +0000",
-      "title_th": "เทคโนโลยีการผลิต OLED ใหม่ของ LG สามารถทำให้แผงใหญ่ขึ้นและสว่างขึ้นได้",
-      "summary_th": "LG ได้เปิดตัวความก้าวหน้าด้านการผลิต OLED ใหม่ ซึ่งจะช่วยให้แผงหน้าจอสว่างขึ้น คมชัดขึ้น และมีอายุการใช้งานยาวนานขึ้นในเกือบทุกขนาด"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Samsung is holding another Galaxy Event on August 27",
-      "summary_en": "Samsung says it will be launching a new addition to its S26 lineup next week.",
-      "image": "https://www.engadget.com/img/gallery/samsung-is-holding-another-galaxy-event-on-august-27/l-intro-1787214884.jpg",
-      "link": "https://www.engadget.com/2240584/samsung-galaxy-event-august-27/",
-      "published": "Thu, 20 Aug 2026 08:37:32 +0000",
-      "title_th": "Samsung จะจัดงาน Galaxy อีกครั้งในวันที่ 27 สิงหาคม",
-      "summary_th": "Samsung กล่าวว่าจะเปิดตัวผลิตภัณฑ์ใหม่ในกลุ่มผลิตภัณฑ์ S26 ในสัปดาห์หน้า"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Waymo Ojai vans are now available for all riders in three cities",
-      "summary_en": "It's a full rollout for the driverless vans in San Francisco, Phoenix and Los Angeles.",
-      "image": "https://www.engadget.com/img/gallery/waymo-ojai-vans-are-now-available-for-all-riders-in-three-cities/l-intro-1787173482.jpg",
-      "link": "https://www.engadget.com/2240419/waymo-ojai-vans-are-now-available-for-all-riders-in-three-cities/",
-      "published": "Wed, 19 Aug 2026 21:07:58 +0000",
-      "title_th": "ขณะนี้รถตู้ Waymo Ojai พร้อมให้บริการสำหรับผู้โดยสารทุกคนในสามเมือง",
-      "summary_th": "ถือเป็นการเปิดตัวรถตู้ไร้คนขับเต็มรูปแบบในซานฟรานซิสโก ฟีนิกซ์ และลอสแองเจลิส"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "A robot could eventually conduct your blood draw at the doctor's office",
-      "summary_en": "The FDA has approved a first-of-its-kind automated blood draw device for outpatient settings.",
-      "image": "https://www.engadget.com/img/gallery/a-robot-could-eventually-conduct-your-blood-draw-at-the-doctors-office/l-intro-1787169711.jpg",
-      "link": "https://www.engadget.com/2240357/a-robot-could-eventually-conduct-your-blood-draw-at-the-doctors-office/",
-      "published": "Wed, 19 Aug 2026 20:02:52 +0000",
-      "title_th": "ในที่สุดหุ่นยนต์ก็สามารถเจาะเลือดได้ที่สำนักงานแพทย์",
-      "summary_th": "FDA ได้อนุมัติอุปกรณ์เจาะเลือดอัตโนมัติเครื่องแรกสำหรับการดูแลรักษาผู้ป่วยนอก"
     },
     {
       "source": "IEEE Spectrum",
@@ -426,121 +426,145 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "New ‘HomePad’ reveal is another reason to put it in every room of your house",
-      "summary_en": "Apple’s new ‘HomePad’ smart home hub is reportedly launching this fall, and the latest leak about it having customizable ‘faces’ offers another reason to put one in every room of your house.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/homepad-ios-27-bg.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/20/new-homepad-reveal-is-another-reason-to-put-it-in-every-room-of-your-house/",
-      "published": "Thu, 20 Aug 2026 15:01:04 +0000",
-      "title_th": "การเปิดเผย 'HomePad' ใหม่เป็นอีกเหตุผลหนึ่งที่ต้องวางไว้ในทุกห้องในบ้านของคุณ",
-      "summary_th": "มีรายงานว่าศูนย์กลางบ้านอัจฉริยะ 'HomePad' ใหม่ของ Apple จะเปิดตัวในฤดูใบไม้ร่วงนี้ และการรั่วไหลล่าสุดเกี่ยวกับการมี 'ใบหน้า' ที่ปรับแต่งได้นั้นเป็นอีกเหตุผลหนึ่งที่คุณควรใส่ไว้ในทุกห้องในบ้านของคุณ"
+      "title_en": "AirPods with camera leak, iOS 27 beta 6, iPhone 18 Pro cases",
+      "summary_en": "Benjamin and Chance talk about the crazy leak by Apple depicting the new AirPods with cameras in a video demo, the changes in iOS 27 beta 6, their latest experiences with Siri AI, whether iPhone 18 Pro will fit iPhone 17 Pro cases, and perhaps some final resolution in the Apple vs EU App Store commission battle. And in Happy Hour Plus , Benjamin talks about some of the leaks for the upcoming HomePod with a screen. Subscribe at 9to5mac.com/join . Sponsored by Bitwarden: Check out Bitwarden, featuring secure password management, passkey support, end-to-end encryption, and seamless autofill across all devices. Sponsored by Keeper : Get 60% off personal and family plans at keepersecurity.com/HAPPYHOUR . Sponsored by Copilot Money : Get two months free with code 9TO5MAC at copilot.money/9to5mac",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2018/04/9to5mac-happy-hour-lead1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/20/happy-hour-604/",
+      "published": "Thu, 20 Aug 2026 18:00:10 +0000",
+      "title_th": "AirPods ที่มีกล้องรั่ว, iOS 27 beta 6, เคส iPhone 18 Pro",
+      "summary_th": "Benjamin และ Chance พูดคุยเกี่ยวกับการรั่วไหลอย่างบ้าคลั่งของ Apple ที่แสดงภาพ AirPods ใหม่พร้อมกล้องในการสาธิตวิดีโอ, การเปลี่ยนแปลงใน iOS 27 เบต้า 6, ประสบการณ์ล่าสุดของพวกเขากับ Siri AI, iPhone 18 Pro จะพอดีกับเคส iPhone 17 Pro หรือไม่ และบางทีอาจมีการแก้ไขขั้นสุดท้ายในการต่อสู้ระหว่างค่าคอมมิชชั่นระหว่าง Apple กับ EU App Store และใน Happy Hour Plus เบนจามินพูดถึงการรั่วไหลของ HomePod ที่มีหน้าจอที่กำลังจะมาถึง สมัครสมาชิกที่ 9to5mac.com/join สนับสนุนโดย Bitwarden: ลองดู Bitwarden ซึ่งมีการจัดการรหัสผ่านที่ปลอดภัย รองรับรหัสผ่าน การเข้ารหัสจากต้นทางถึงปลายทาง และการกรอกอัตโนมัติอย่างราบรื่นในทุกอุปกรณ์ สนับสนุนโดย Keeper : รับส่วนลด 60% สำหรับแผนส่วนบุคคลและครอบครัวที่ keepersecurity.com/HAPPYHOUR สนับสนุนโดย Copilot Money : รับฟรีสองเดือนด้วยรหัส 9TO5MAC ที่ copilot.money/9to5mac"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "iPhone 18 won’t launch next month, here’s when it’s coming instead",
-      "summary_en": "Apple’s big September event is just weeks away, but there’s one key product that all reporting indicates will be missing: the base iPhone 18. Here’s when to expect its launch.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/iphone-17-black.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/20/iphone-18-wont-launch-next-month-heres-when-its-coming-instead/",
-      "published": "Thu, 20 Aug 2026 14:02:14 +0000",
-      "title_th": "iPhone 18 จะไม่เปิดตัวในเดือนหน้า แต่จะมาเร็วๆ นี้แทน",
-      "summary_th": "งานใหญ่ในเดือนกันยายนของ Apple อยู่ห่างออกไปเพียงไม่กี่สัปดาห์ แต่มีผลิตภัณฑ์สำคัญอย่างหนึ่งที่รายงานทั้งหมดระบุว่าจะหายไป: iPhone 18 พื้นฐาน นี่คือเวลาที่คาดว่าจะเปิดตัว"
+      "title_en": "ChatGPT update adds Apple Messages integration on Mac",
+      "summary_en": "ChatGPT’s latest update adds a new Mac integration: the ability to work with conversations from Apple’s Messages app. The feature works with iMessage, SMS, and RCS.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/chatgpt-messages.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/20/chatgpt-update-adds-apple-messages-integration-on-mac/",
+      "published": "Thu, 20 Aug 2026 17:59:38 +0000",
+      "title_th": "การอัปเดต ChatGPT เพิ่มการรวม Apple Messages บน Mac",
+      "summary_th": "การอัปเดตล่าสุดของ ChatGPT เพิ่มการผสานรวม Mac ใหม่: ความสามารถในการทำงานกับการสนทนาจากแอป Messages ของ Apple คุณสมบัตินี้ใช้งานได้กับ iMessage, SMS และ RCS"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Adobe Firefly’s music, voiceover, and sound effects generation tools now generally available",
-      "summary_en": "Users can now create fully licensed tracks, voiceover, and sound effects on Adobe’s Firefly AI assistant. Here are the details.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/adobe-generate-music.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/20/adobe-fireflys-music-voiceover-and-sound-effects-generation-tools-now-generally-available/",
-      "published": "Thu, 20 Aug 2026 13:00:05 +0000",
-      "title_th": "เครื่องมือสร้างเพลง เสียงพากย์ และเสียงเอฟเฟกต์ของ Adobe Firefly มีวางจำหน่ายทั่วไปแล้ว",
-      "summary_th": "ขณะนี้ผู้ใช้สามารถสร้างแทร็ก เสียงพากย์ และเอฟเฟกต์เสียงที่ได้รับลิขสิทธิ์เต็มรูปแบบบนผู้ช่วย Firefly AI ของ Adobe นี่คือรายละเอียด"
+      "title_en": "watchOS 27 adds three new Apple Watch features I’ve been loving",
+      "summary_en": "watchOS 27 is coming soon as the next major Apple Watch software update. I’ve been using watchOS 27 in beta this summer, and there are three new features I’ve been especially loving.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/watchos-27-watch-face-red.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/20/watchos-27-adds-three-new-apple-watch-features-ive-been-loving/",
+      "published": "Thu, 20 Aug 2026 17:50:06 +0000",
+      "title_th": "watchOS 27 เพิ่มคุณสมบัติใหม่สามประการของ Apple Watch ที่ฉันชอบ",
+      "summary_th": "watchOS 27 จะมาในเร็วๆ นี้เมื่อมีการอัพเดตซอฟต์แวร์ Apple Watch ครั้งใหญ่ครั้งถัดไป ฉันใช้ watchOS 27 เวอร์ชันเบต้าในช่วงซัมเมอร์นี้ และมีคุณสมบัติใหม่สามประการที่ฉันชอบเป็นพิเศษ"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Roblox still allows predators to contact children, says regulator",
-      "summary_en": "Roblox claimed to have made changes to its hugely popular children’s app to protect them from predators, but a regulatory authority says these protections are inadequate. It found four major failings, including adults being able to send connection requests to children without parental approval …",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/Roblox-still-allows-predators-to-contact-children-says-regulator.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/20/roblox-still-allows-predators-to-contact-children-says-regulator/",
-      "published": "Thu, 20 Aug 2026 12:30:57 +0000",
-      "title_th": "Roblox ยังคงอนุญาตให้ผู้ล่าติดต่อกับเด็กได้ ผู้ควบคุมกล่าว",
-      "summary_th": "Roblox อ้างว่าได้ทำการเปลี่ยนแปลงแอปสำหรับเด็กที่ได้รับความนิยมอย่างมากเพื่อปกป้องพวกเขาจากผู้ล่า แต่หน่วยงานกำกับดูแลกล่าวว่าการป้องกันเหล่านี้ไม่เพียงพอ พบความล้มเหลวที่สำคัญ 4 ประการ รวมถึงผู้ใหญ่ที่สามารถส่งคำขอเชื่อมต่อไปยังเด็ก ๆ โดยไม่ต้องได้รับการอนุมัติจากผู้ปกครอง …"
+      "title_en": "MacBook Ultra is coming: Six new features launching this fall",
+      "summary_en": "Apple has a new MacBook Ultra rumored to launch this fall as part of its expanding ‘Ultra’ lineup . Here are six new features expected with the MacBook Ultra.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/macbook-ultra-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/20/macbook-ultra-is-coming-six-new-features-launching-this-fall/",
+      "published": "Thu, 20 Aug 2026 16:18:00 +0000",
+      "title_th": "MacBook Ultra กำลังจะมา: คุณสมบัติใหม่ 6 ประการที่จะเปิดตัวในฤดูใบไม้ร่วงนี้",
+      "summary_th": "Apple มีข่าวลือว่า MacBook Ultra รุ่นใหม่จะเปิดตัวในฤดูใบไม้ร่วงนี้โดยเป็นส่วนหนึ่งของกลุ่มผลิตภัณฑ์ 'Ultra' ที่ขยายตัว นี่คือคุณสมบัติใหม่หกประการที่คาดว่าจะมีใน MacBook Ultra"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Bought Logitech kit during the Trump tariff mess? You may be due a refund …",
-      "summary_en": "During the height of Trump’s trade war with China , where tariff increases were announced on an almost weekly basis, companies like Logitech responded by significantly increasing the prices of their products in the US. Earlier this year, the US Supreme Court ruled that these tariffs were illegal and must be returned to manufacturers. However, there’s been no sign of companies passing on the refunds to customers, and a class action lawsuit is now seeking to correct this …",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/Logitech-tariff-refunds.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/20/bought-logitech-kit-during-the-trump-tariff-mess-you-may-be-due-a-refund/",
-      "published": "Thu, 20 Aug 2026 11:37:58 +0000",
-      "title_th": "ซื้อชุดอุปกรณ์ Logitech ในช่วงที่ทรัมป์ยุ่งเรื่องภาษีหรือไม่ คุณอาจถึงกำหนดชำระคืนเงิน…",
-      "summary_th": "ในช่วงที่สงครามการค้าระหว่างทรัมป์กับจีนถึงจุดสูงสุด ซึ่งมีการประกาศขึ้นภาษีเป็นประจำเกือบทุกสัปดาห์ บริษัทอย่าง Logitech ตอบโต้ด้วยการเพิ่มราคาผลิตภัณฑ์ของตนในสหรัฐอเมริกาอย่างมีนัยสำคัญ เมื่อต้นปีที่ผ่านมา ศาลฎีกาของสหรัฐอเมริกาตัดสินว่าภาษีศุลกากรเหล่านี้ผิดกฎหมายและต้องส่งคืนให้กับผู้ผลิต อย่างไรก็ตาม ไม่มีวี่แววว่าบริษัทจะคืนเงินให้กับลูกค้า และขณะนี้คดีฟ้องร้องแบบกลุ่มกำลังพยายามแก้ไขเรื่องนี้"
+      "title_en": "Apple TV has beloved comedy returning soon, with Pluribus star added",
+      "summary_en": "Owen Wilson’s comedy Stick has a lot in common with Ted Lasso, and Apple just announced it’s returning soon for season 2—with Pluribus star Rhea Seehorn joining the cast.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/stick-s2-rhea-seehorn-wilson.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/20/apple-tv-has-beloved-comedy-returning-soon-with-pluribus-star-added/",
+      "published": "Thu, 20 Aug 2026 15:46:55 +0000",
+      "title_th": "Apple TV มีรายการตลกยอดนิยมกลับมาเร็วๆ นี้ พร้อมด้วยดารา Pluribus เพิ่มเข้ามา",
+      "summary_th": "หนังตลกของ Owen Wilson เรื่อง Stick มีความคล้ายคลึงกับ Ted Lasso เป็นอย่างมาก และ Apple เพิ่งประกาศว่าจะกลับมาในซีซั่นที่ 2 ในเร็วๆ นี้ โดยมีดาราจาก Pluribus Rhea Seehorn มาร่วมแสดงด้วย"
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Book-style foldables are taking over, with Samsung fighting for second place",
-      "summary_en": "A new forecast shows that the foldable market is poised to continue growing, with book-style foldables taking over the popularity of clamshell devices – but Samsung is no longer the king, instead fighting for second place.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-review-44.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/20/book-style-foldables-growth-report-1h26/",
-      "published": "Thu, 20 Aug 2026 14:55:00 +0000",
-      "title_th": "หนังสือแบบพับได้กำลังเข้ามาแทนที่ โดย Samsung ต่อสู้เพื่อชิงอันดับที่สอง",
-      "summary_th": "การคาดการณ์ใหม่แสดงให้เห็นว่าตลาดแบบพับได้มีแนวโน้มที่จะเติบโตต่อไป โดยแบบพับได้แบบหนังสือจะเข้ามาแทนที่ความนิยมของอุปกรณ์แบบฝาพับ แต่ Samsung ไม่ใช่ราชาอีกต่อไป แต่กลับต่อสู้เพื่ออันดับที่สองแทน"
+      "title_en": "Google releases Pixel 11 series factory images",
+      "summary_en": "With the Pixel 11 series hitting store shelves today, Google has released factory images for all the devices.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-family-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/20/pixel-11-factory-images/",
+      "published": "Thu, 20 Aug 2026 18:14:42 +0000",
+      "title_th": "Google เผยแพร่ภาพจากโรงงาน Pixel 11 Series",
+      "summary_th": "ด้วย Pixel 11 series ที่วางจำหน่ายในร้าน Google ได้เปิดตัวภาพจากโรงงานสำหรับอุปกรณ์ทั้งหมด"
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Pixel Journal update brings Auto format, Sleep data, and more [U]",
-      "summary_en": "With the launch of the Pixel 11, Google is rolling out a handful of updates to the Journal app that are already appearing on older devices.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/pixel-journal-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/20/pixel-journal-ai-update/",
-      "published": "Thu, 20 Aug 2026 14:29:00 +0000",
-      "title_th": "การอัปเดต Pixel Journal นำเสนอรูปแบบอัตโนมัติ ข้อมูลการนอนหลับ และอื่นๆ [U]",
-      "summary_th": "ด้วยการเปิดตัว Pixel 11 Google กำลังเปิดตัวการอัปเดตจำนวนหนึ่งสำหรับแอป Journal ที่ปรากฏบนอุปกรณ์รุ่นเก่าแล้ว"
+      "title_en": "Today’s Android app deals and freebies: SENTINEL 519, NARUTO Ninja STORM, Slime Legends, more",
+      "summary_en": "Your afternoon lineup of the best Android game and app deals is now ready to roll, including titles like SENTINEL 519: SAGA – GENESIS, Candleman, NARUTO: Ultimate Ninja STORM, Endling Extinction is Forever, Slime Legends – Survivor, Lia: Hacking Destiny, and more. Just be sure to dive into today’s offers on TCL NXTPAPER Android tabs from $160 and the ongoing Best Buy 60th Anniversary sale with thousands of price drops. The apps await below.",
+      "image": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/08/Google-Play-Aug-20.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5toys.com/2026/08/20/today-android-app-deals-free-naruto/",
+      "published": "Thu, 20 Aug 2026 18:04:29 +0000",
+      "title_th": "ข้อเสนอแอป Android และของแจกฟรีวันนี้: SENTINEL 519, NARUTO Ninja STORM, Slime Legends และอีกมากมาย",
+      "summary_th": "รายการเกมและแอพ Android ที่ดีที่สุดช่วงบ่ายของคุณพร้อมแล้วในตอนนี้ รวมถึงเกมอย่าง SENTINEL 519: SAGA – GENESIS, Candleman, NARUTO: Ultimate Ninja STORM, Endling Extinction is Forever, Slime Legends – Survivor, Lia: Hacking Destiny และอีกมากมาย เพียงอย่าลืมเจาะลึกข้อเสนอของวันนี้บนแท็บ Android ของ TCL NXTPAPER ในราคาเริ่มต้นที่ 160 ดอลลาร์ และการลดราคา Best Buy 60th Anniversary ที่กำลังดำเนินอยู่พร้อมการลดราคาหลายพันรายการ The apps await below."
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "XREAL teases the price of its Android XR glasses as early-bird deal sells out",
-      "summary_en": "XREAL Aura, the company’s first pair of Android XR-based glasses, are set to officially get a price point soon as the first sales figures have come in, and it’s pretty popular so far.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/xreal-aura-android-xr-1.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/20/xreal-teases-the-price-of-its-android-xr-glasses-as-early-bird-deal-sells-out/",
-      "published": "Thu, 20 Aug 2026 13:05:00 +0000",
-      "title_th": "XREAL แกล้งราคาแว่นตา Android XR เมื่อดีลล่วงหน้าขายหมด",
-      "summary_th": "XREAL Aura ซึ่งเป็นแว่นตาที่ใช้ Android XR คู่แรกของบริษัท คาดว่าจะได้รับราคาอย่างเป็นทางการทันทีที่มียอดขายชุดแรกเข้ามา และจนถึงตอนนี้ก็ค่อนข้างได้รับความนิยม"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "review",
-      "title_en": "Camera Looks on the Pixel 11 delivers what I’ve wanted from Google’s photos for years",
-      "summary_en": "The Pixel 11 lineup has earned its reputation as a safe upgrade — or boring, if you’re looking to be a little less generous to Google — but it’s delivering one thing I’ve been begging for literal years: Camera Looks. Google’s take on the iPhone’s Photographic Styles have been a long time coming, and appear to be set to play a big role in shaking up the conversation around the Pixel’s evenly-lit, HDR-heavy processing. I’ve been experimenting with them while working towards my eventual Pixel 11 Pro XL review, and I have to say, I’m mostly satisfied. Mostly .",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Camera-Looks.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/20/google-pixel-11-camera-looks-thoughts-impressions-results/",
-      "published": "Thu, 20 Aug 2026 13:00:00 +0000",
-      "title_th": "Camera Looks บน Pixel 11 มอบสิ่งที่ฉันต้องการจากรูปภาพของ Google มานานหลายปี",
-      "summary_th": "กลุ่มผลิตภัณฑ์ Pixel 11 ได้รับชื่อเสียงว่าเป็นการอัปเกรดที่ปลอดภัย – หรือน่าเบื่อหากคุณกำลังมองหาที่จะใจดีกับ Google น้อยลง – แต่มันให้สิ่งหนึ่งที่ฉันขอมาหลายปีแล้ว: รูปลักษณ์ของกล้อง รูปแบบการถ่ายภาพของ iPhone ของ Google มีมาเป็นเวลานานแล้ว และดูเหมือนว่าจะมีบทบาทสำคัญในการเขย่าการสนทนาเกี่ยวกับการประมวลผล HDR ที่หนักหน่วงและมีแสงสว่างสม่ำเสมอของ Pixel ฉันได้ทดลองกับพวกเขาในขณะที่พยายามรีวิว Pixel 11 Pro XL ในที่สุด และฉันต้องบอกว่าฉันพอใจเป็นส่วนใหญ่ ส่วนใหญ่ ."
+      "title_en": "Peloton brings its strength training app to Android after nearly two years on iPhone",
+      "summary_en": "iPhone-only for nearly two years, Peloton Strength+ is now available for Android users as a dedicated experience built around strength training.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/peloton-strength-plus-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/20/peloton-strength-plus-android-app-release/",
+      "published": "Thu, 20 Aug 2026 17:50:00 +0000",
+      "title_th": "Peloton นำแอปฝึกความแข็งแกร่งมาสู่ Android หลังจากใช้งาน iPhone มาเกือบสองปี",
+      "summary_th": "เป็นเวลาเกือบสองปีแล้วที่ Peloton Strength+ มีให้บริการเฉพาะ iPhone เท่านั้นสำหรับผู้ใช้ Android โดยเป็นประสบการณ์เฉพาะที่สร้างขึ้นจากการฝึกความแข็งแกร่ง"
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "The Pixel 11 ditches the ‘Powered by Android’ boot logo for Gemini Intelligence",
-      "summary_en": "Yes, you read that headline correctly. The Pixel 11 no longer shows the “Powered by Android” boot logo, which has been a staple for a few years now.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-boot-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/20/the-pixel-11-ditches-the-powered-by-android-boot-logo-for-gemini-intelligence/",
-      "published": "Thu, 20 Aug 2026 13:00:00 +0000",
-      "title_th": "Pixel 11 ทิ้งโลโก้บูต 'Powered by Android' สำหรับ Gemini Intelligence",
-      "summary_th": "ใช่ คุณอ่านพาดหัวข่าวนั้นถูกต้องแล้ว Pixel 11 ไม่แสดงโลโก้บูต \"Powered by Android\" อีกต่อไป ซึ่งเป็นส่วนสำคัญมาสองสามปีแล้ว"
+      "title_en": "Pixel 11’s Magic Capture perfectly solves a very modern parenting dilemma",
+      "summary_en": "Over the past week, I’ve probably shot more video of my kids than in the previous year combined. I’m a photographer, so I take photos — thousands of them — but rarely swipe over to that tempting toggle that displaces the moment for momentum. The dichotomy between photo and video has existed as long as there have been cameras capable of doing both. Many attempts have been made to bridge the gap, from HTC Zoe in 2013 to Apple’s Live Photos and Google’s subsequent Motion Photos years later, but most technical limitations have largely kept the two functions separate.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-magic-capture.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/20/pixel-11s-magic-capture-perfectly-solves-a-very-modern-parenting-dilemma/",
+      "published": "Thu, 20 Aug 2026 17:15:00 +0000",
+      "title_th": "Magic Capture ของ Pixel 11 ช่วยแก้ปัญหาการเลี้ยงดูลูกสมัยใหม่ได้อย่างสมบูรณ์แบบ",
+      "summary_th": "ในช่วงสัปดาห์ที่ผ่านมา ฉันอาจจะถ่ายวิดีโอเกี่ยวกับลูกๆ ของฉันมากกว่าในปีที่แล้วรวมกัน ฉันเป็นช่างภาพ ดังนั้นฉันจึงถ่ายรูป — หลายพันรูป — แต่แทบจะไม่ปัดไปที่ปุ่มสลับที่ดึงดูดใจที่จะเข้ามาแทนที่ช่วงเวลาแห่งโมเมนตัม ความแตกต่างระหว่างภาพถ่ายและวิดีโอยังคงมีอยู่ตราบเท่าที่ยังมีกล้องที่สามารถทำทั้งสองอย่างได้ มีความพยายามหลายครั้งในการลดช่องว่าง ตั้งแต่ HTC Zoe ในปี 2013 ไปจนถึง Live Photos ของ Apple และ Motion Photos ของ Google ในปีต่อมา แต่ข้อจำกัดทางเทคนิคส่วนใหญ่ทำให้ทั้งสองฟังก์ชันแยกจากกัน"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Galaxy Tab S12 series reportedly gets a price hike, but it’s not as bad as it could be",
+      "summary_en": "As with everything else, Samsung’s upcoming Galaxy Tab S12 series will be more expensive, but it could be a whole lot worse.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/galaxy-tab-s11-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/20/samsung-galaxy-tab-s12-price-leaks/",
+      "published": "Thu, 20 Aug 2026 17:05:00 +0000",
+      "title_th": "มีรายงานว่าซีรีส์ Galaxy Tab S12 ได้รับการขึ้นราคา แต่ก็ไม่ได้แย่เท่าที่ควร",
+      "summary_th": "เช่นเดียวกับทุกสิ่งทุกอย่าง Galaxy Tab S12 series ที่กำลังจะมาถึงของ Samsung จะมีราคาแพงกว่า แต่อาจแย่กว่านั้นมาก"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Anker SOLIX 2kWh power station $600, Segway Navimow i105N Robot $140 off, WORX 2-in-1 reciprocating saw $73, more",
+      "summary_en": "Today’s 9to5Toys Green Deals is headlined by Anker’s 2026 SOLIX S2000 portable power station at $550 off , but you can also cash in and take a chore off your list with Segway’s Navimow i105N Robot Lawn Mower down at $669 . Another notable markdown today is the WORX 2-in-1 reciprocating saw for $73 , which I personally own and love. Head below for other Green Deals we’ve found today and, of course, Electrek ‘s best EV buying and leasing deals . Also, check out the new Electrek Tesla Shop for the best deals on Tesla accessories .",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Electrek-Aug-20-2.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/20/green-deals-aug-20/",
+      "published": "Thu, 20 Aug 2026 18:00:00 +0000",
+      "title_th": "สถานีไฟฟ้า Anker SOLIX 2kWh 600 ดอลลาร์, หุ่นยนต์ Segway Navimow i105N ลดราคา 140 ดอลลาร์, เลื่อยลูกสูบ WORX 2-in-1 มูลค่า 73 ดอลลาร์ และอื่นๆ",
+      "summary_th": "ข้อเสนอสีเขียวของ 9to5Toys วันนี้นำโดยโรงไฟฟ้าแบบพกพา SOLIX S2000 ของ Anker ในปี 2026 ที่ส่วนลด 550 ดอลลาร์ แต่คุณยังสามารถรับเงินและทำงานบ้านด้วยเครื่องตัดหญ้าหุ่นยนต์ Navimow i105N ของ Segway ในราคา 669 ดอลลาร์ การลดราคาที่โดดเด่นอีกประการหนึ่งในวันนี้คือเลื่อยลูกสูบ WORX 2-in-1 ราคา $ 73 ซึ่งฉันเป็นเจ้าของและชื่นชอบเป็นการส่วนตัว มุ่งหน้าไปที่ด้านล่างเพื่อดูข้อเสนอสีเขียวอื่น ๆ ที่เราพบในวันนี้และแน่นอน ข้อเสนอการซื้อและเช่า EV ที่ดีที่สุดของ Electrek นอกจากนี้ ลองแวะชม Electrek Tesla Shop แห่งใหม่เพื่อรับข้อเสนอที่ดีที่สุดสำหรับอุปกรณ์เสริมของ Tesla"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "This $0-down Illinois home solar deal includes a huge 60 kWh battery",
+      "summary_en": "Illinois homeowners can now get rooftop solar paired with a whopping 60-kWh home battery for no money down – but this isn’t free equipment.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/SOLRITE-IL-01-home-solar-battery.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/20/this-0-down-illinois-home-solar-deal-includes-a-huge-60-kwh-battery/",
+      "published": "Thu, 20 Aug 2026 17:59:13 +0000",
+      "title_th": "ข้อตกลงพลังงานแสงอาทิตย์สำหรับบ้านในรัฐอิลลินอยส์ลดราคา $0 นี้รวมแบตเตอรี่ขนาดใหญ่ 60 kWh",
+      "summary_th": "เจ้าของบ้านในรัฐอิลลินอยส์สามารถรับพลังงานแสงอาทิตย์บนหลังคาจับคู่กับแบตเตอรี่บ้านขนาดมหึมาขนาด 60 กิโลวัตต์ชั่วโมงโดยไม่ต้องเสียเงิน แต่นี่ไม่ใช่อุปกรณ์ฟรี"
     },
     {
       "source": "Electrek",
@@ -564,7 +588,7 @@
       "link": "https://electrek.co/2026/08/20/waymo-zeekr-ojai-chinese-ev-robotaxi-all-riders/",
       "published": "Thu, 20 Aug 2026 14:46:12 +0000",
       "title_th": "ตอนนี้คุณสามารถขี่ EV ของจีนในสหรัฐอเมริกาได้แล้ว เนื่องจาก Waymo เปิด Zeekr Ojai ให้กับทุกคน",
-      "summary_th": "ขณะนี้ Waymo ให้นักขี่ทุกคนในซานฟรานซิสโก ลอสแองเจลิส และฟีนิกซ์ร่วมแสดงความยินดีกับ Ojai robotaxi รุ่นต่อไป ซึ่งเป็นยานพาหนะที่สร้างขึ้นในจีนโดย Zeekr นั่นทำให้ Ojai เป็นหนึ่งในวิธีเดียวสำหรับชาวอเมริกันที่จะขี่รถยนต์ EV ที่ผลิตในจีน ซึ่งเป็นรถที่พวกเขายังไม่สามารถซื้อเพื่อตัวเองได้อย่างถูกกฎหมาย"
+      "summary_th": "ตอนนี้ Waymo ให้นักขี่ทุกคนในซานฟรานซิสโก ลอสแองเจลีส และฟีนิกซ์ต่างยกย่อง Ojai robotaxi รุ่นต่อไป ซึ่งเป็นยานพาหนะที่สร้างขึ้นในจีนโดย Zeekr นั่นทำให้ Ojai เป็นหนึ่งในวิธีเดียวสำหรับชาวอเมริกันที่จะขี่รถยนต์ EV ที่ผลิตในจีน ซึ่งเป็นรถที่พวกเขายังไม่สามารถซื้อเพื่อตัวเองได้อย่างถูกกฎหมาย"
     },
     {
       "source": "Electrek",
@@ -577,30 +601,6 @@
       "published": "Thu, 20 Aug 2026 12:59:37 +0000",
       "title_th": "Geely เตรียมแบตเตอรี่ EV โซลิดสเตต 500 Wh/kg ที่สามารถเอาชนะน้ำมันดีเซลได้",
       "summary_th": "Geely กล่าวว่าแบตเตอรี่ EV โซลิดสเตตเจเนอเรชั่นถัดไปจะมีความหนาแน่นของพลังงานสูงถึง 500 Wh/kg และได้ดำเนินการเซลล์เหล่านี้ผ่านการตรวจสอบในโลกแห่งความเป็นจริงแล้วก่อนการเปิดตัวนำร่องในปี 2570 จำนวนนั้นคือเรื่องราวทั้งหมด ที่ 500 Wh/kg เซลล์ของ Geely จะกักเก็บพลังงานได้ประมาณสองเท่าต่อกิโลกรัมของชุดแบตเตอรี่ลิเธียมไอออนที่ดีที่สุดที่จัดส่งในรูปแบบ EV ในปัจจุบัน"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "This fascinating folding e-bike is lighter than Brompton’s lightest electric bike",
-      "summary_en": "British folding e-bike maker FLIT has just unveiled its latest lightweight folding e-bike, the FLIT M2i. And at just 13.3 kg (29.3 lb), this thing is getting impressively light for a fully equipped electric bike.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/flit-folding-bike-head.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/20/this-fascinating-folding-e-bike-is-lighter-than-bromptons-lightest-electric-bike/",
-      "published": "Thu, 20 Aug 2026 12:25:21 +0000",
-      "title_th": "จักรยานไฟฟ้าแบบพับได้ที่น่าทึ่งนี้เบากว่าจักรยานไฟฟ้าที่เบาที่สุดของ Brompton",
-      "summary_th": "FLIT ผู้ผลิตจักรยานไฟฟ้าแบบพับได้จากอังกฤษ เปิดตัว FLIT M2i จักรยานไฟฟ้าแบบพับได้น้ำหนักเบารุ่นล่าสุด และด้วยน้ำหนักเพียง 13.3 กก. (29.3 ปอนด์) สิ่งนี้จึงเบาอย่างน่าประทับใจสำหรับจักรยานไฟฟ้าที่มีอุปกรณ์ครบครัน"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Wawa-branded EV chargers are expanding beyond Tesla",
-      "summary_en": "Wawa launched self-branded Tesla Superchargers earlier this year , and now it’s doing the same with Electrify America EV fast chargers.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/electrify-america-wawa-announcement-v001.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/19/wawa-branded-ev-chargers-are-expanding-beyond-tesla/",
-      "published": "Wed, 19 Aug 2026 21:53:47 +0000",
-      "title_th": "ที่ชาร์จ EV ของแบรนด์ Wawa กำลังขยายตัวเกินกว่า Tesla",
-      "summary_th": "Wawa ได้เปิดตัว Tesla Superchargers ที่มีแบรนด์ตนเองเมื่อต้นปีนี้ และตอนนี้ก็ทำเช่นเดียวกันกับเครื่องชาร์จแบบเร็ว Electrify America EV"
     }
   ],
   "indices": [
@@ -610,63 +610,63 @@
       "market": "US",
       "price": 216.85,
       "change": -0.71,
-      "change_pct": -0.32
+      "change_pct": -0.33
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 342.79,
-      "change": -8.33,
-      "change_pct": -2.37
+      "price": 342.63,
+      "change": -8.49,
+      "change_pct": -2.42
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 339.74,
-      "change": -4.98,
-      "change_pct": -1.44
+      "price": 340.11,
+      "change": -4.61,
+      "change_pct": -1.34
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 480.29,
-      "change": -4.02,
-      "change_pct": -0.83
+      "price": 481.0,
+      "change": -3.31,
+      "change_pct": -0.68
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 316.54,
-      "change": -0.29,
-      "change_pct": -0.09
+      "price": 315.42,
+      "change": -1.4,
+      "change_pct": -0.44
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 260.54,
-      "change": -5.3,
-      "change_pct": -1.99
+      "price": 260.88,
+      "change": -4.96,
+      "change_pct": -1.87
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 543.35,
-      "change": -2.68,
-      "change_pct": -0.49
+      "price": 540.71,
+      "change": -5.32,
+      "change_pct": -0.97
     },
     {
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 263.0,
-      "change": -1.0,
-      "change_pct": -0.38
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     }
   ],
   "reviews": [
@@ -703,12 +703,22 @@
     {
       "channel": "Unbox Therapy",
       "country": "US",
-      "title_en": "Looking for a \"SecondBrain\"?",
+      "title_en": "World’s Lightest 17” Laptop With RTX...",
+      "video_id": "b0x8sFBJr7Q",
+      "link": "https://www.youtube.com/shorts/b0x8sFBJr7Q",
+      "thumbnail": "https://i3.ytimg.com/vi/b0x8sFBJr7Q/hqdefault.jpg",
+      "published": "2026-08-20T17:06:18+00:00",
+      "title_th": "แล็ปท็อปขนาด 17 นิ้วที่เบาที่สุดในโลกพร้อม RTX..."
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "They Call it Your \"SecondBrain\"",
       "video_id": "SUA2xGy-beg",
       "link": "https://www.youtube.com/shorts/SUA2xGy-beg",
       "thumbnail": "https://i4.ytimg.com/vi/SUA2xGy-beg/hqdefault.jpg",
       "published": "2026-08-18T14:54:12+00:00",
-      "title_th": "กำลังมองหา \"SecondBrain\" อยู่ใช่ไหม?"
+      "title_th": "พวกเขาเรียกมันว่า \"สมองที่สอง\" ของคุณ"
     },
     {
       "channel": "Unbox Therapy",
@@ -719,16 +729,6 @@
       "thumbnail": "https://i2.ytimg.com/vi/5eEjWmsoB7w/hqdefault.jpg",
       "published": "2026-08-17T14:00:32+00:00",
       "title_th": "Insta360 ใหม่อยู่ที่นี่แล้ว..."
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "New Ninja Water Gadget",
-      "video_id": "8Ddp5WaMp_8",
-      "link": "https://www.youtube.com/shorts/8Ddp5WaMp_8",
-      "thumbnail": "https://i1.ytimg.com/vi/8Ddp5WaMp_8/hqdefault.jpg",
-      "published": "2026-08-13T17:52:31+00:00",
-      "title_th": "อุปกรณ์น้ำนินจาใหม่"
     },
     {
       "channel": "Beartai",
@@ -743,22 +743,22 @@
     {
       "channel": "Beartai",
       "country": "TH",
+      "title_en": "ไม่ได้ไปญี่ปุ่นบ่อย 'เฌอปราง' เผยความภูมิใจถึง BNK48",
+      "video_id": "UKvia5BIW9g",
+      "link": "https://www.youtube.com/shorts/UKvia5BIW9g",
+      "thumbnail": "https://i2.ytimg.com/vi/UKvia5BIW9g/hqdefault.jpg",
+      "published": "2026-08-20T03:02:44+00:00",
+      "title_th": "ไม่ได้ไปญี่ปุ่นบ่อย 'เฌอปราง' เผยความภูมิใจถึง BNK48"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
       "title_en": "ก้าวคนละก้าวกับพี่ตูน",
       "video_id": "gQJLuy6ahyk",
       "link": "https://www.youtube.com/shorts/gQJLuy6ahyk",
       "thumbnail": "https://i4.ytimg.com/vi/gQJLuy6ahyk/hqdefault.jpg",
       "published": "2026-08-19T17:15:16+00:00",
       "title_th": "ก้าวคนละก้าวกับพี่ตูน"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "7 Eleven คิ้วท์สุดในไทยอยู่ที่ 'Happitat' !",
-      "video_id": "qQg3YCL9YPs",
-      "link": "https://www.youtube.com/shorts/qQg3YCL9YPs",
-      "thumbnail": "https://i2.ytimg.com/vi/qQg3YCL9YPs/hqdefault.jpg",
-      "published": "2026-08-19T06:24:36+00:00",
-      "title_th": "7 Eleven คิ้วท์สุดในไทยอยู่ที่ 'Happitat' !"
     },
     {
       "channel": "Droidsans",
