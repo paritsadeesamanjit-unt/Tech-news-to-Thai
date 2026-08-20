@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-20T09:23:33.957878+00:00",
+  "generated_at": "2026-08-20T12:21:12.160298+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Meta AI’s new Mac app wants you to talk to your apps",
+      "summary_en": "Meta said its Muse Spark model is powering the dictation feature.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "published": "Thu, 20 Aug 2026 12:11:57 +0000",
+      "title_th": "แอป Mac ใหม่ของ Meta AI ต้องการให้คุณพูดคุยกับแอปของคุณ",
+      "summary_th": "Meta กล่าวว่ารุ่น Muse Spark กำลังขับเคลื่อนคุณสมบัติการเขียนตามคำบอก"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+      "summary_en": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/07/gettyimages-1239052293-594x594-1.jpg?w=594",
+      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "published": "Thu, 20 Aug 2026 09:30:00 +0000",
+      "title_th": "ขณะนี้ Binance อนุญาตให้ตัวแทน AI ซื้อขายได้ แต่การดูแลพวกเขาส่วนใหญ่ขึ้นอยู่กับผู้ใช้",
+      "summary_th": "Agent OS ของ Binance ทำงานร่วมกับเครื่องมือต่างๆ เช่น ChatGPT, Claude Code และ Cursor"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -39,88 +63,64 @@
       "summary_th": "การแข่งขันกำลังพัฒนาระหว่าง OpenAI และ Anthropic ว่าใครสามารถให้การปกป้องความเป็นส่วนตัวที่ดีที่สุดสำหรับข้อมูลลูกค้าองค์กรได้"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-      "summary_en": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-      "published": "Wed, 19 Aug 2026 21:51:23 +0000",
-      "title_th": "Cognition CEO ปฏิเสธรายงานว่า SpaceX พยายามเข้าซื้อกิจการสตาร์ทอัพ",
-      "summary_th": "มีรายงานว่า SpaceX กำลังเจรจาเพื่อซื้อ Cognition สตาร์ทอัพด้านการเข้ารหัสด้วย AI SpaceX ได้รับ Cursor แล้ว เนื่องจากกำลังแข่งขันเพื่อไล่ตามคู่แข่งอย่าง OpenAI และ Anthropic ใน AI ระดับองค์กร"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
-      "summary_en": "After raising $1.7 billion for his new robotics company Atoms, Travis Kalanick is introspective about the role VCs have played in his career.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/",
-      "published": "Wed, 19 Aug 2026 21:48:24 +0000",
-      "title_th": "Travis Kalanick เริ่มต้นการทุบตี VC อีกรอบ: ‘1% มีประโยชน์’",
-      "summary_th": "หลังจากระดมทุนได้ 1.7 พันล้านดอลลาร์ให้กับ Atoms บริษัทหุ่นยนต์แห่งใหม่ของเขา Travis Kalanick กำลังครุ่นคิดเกี่ยวกับบทบาทที่ VC มีในอาชีพของเขา"
+      "category": "software",
+      "title_en": "Meta glasses are a workplace menace",
+      "summary_en": "In August, Toru Hinkle was stocking shelves at their job at Target when they noticed two customers and asked if they needed any help. The men requested a price check on an item - but even after Hinkle told them the item was $20, the customers asked for the price again and again. \"After a […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268688_Smart_glasses_at_work__CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security",
+      "published": "2026-08-20T08:00:00-04:00",
+      "title_th": "แว่นตา Meta ถือเป็นภัยคุกคามในที่ทำงาน",
+      "summary_th": "ในเดือนสิงหาคม Toru Hinkle กำลังจัดชั้นวางสินค้าที่ Target เมื่อพวกเขาสังเกตเห็นลูกค้าสองรายและถามว่าต้องการความช่วยเหลือหรือไม่ ผู้ชายร้องขอการตรวจสอบราคาสินค้าชิ้นหนึ่ง แต่ถึงแม้ Hinkle จะบอกพวกเขาว่าสินค้าชิ้นนั้นราคา 20 ดอลลาร์ ลูกค้าก็ยังถามราคาซ้ำแล้วซ้ำอีก “หลังจากที่ […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
-      "category": "gadget",
-      "title_en": "LG’s new OLED breakthrough can boost display lifespans",
-      "summary_en": "LG Display has unveiled a new OLED manufacturing method that reportedly results in panels that are brighter, longer-lasting, more efficient, and theoretically can be almost any size. This new technology is called FLiPP (FMM-Less innovative Pixel Patterning), which LG Display describes as a \"dream next-generation OLED\" patterning method that aims to eliminate some of the […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/LG-Display-FLiPP-OLED-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology",
-      "published": "2026-08-20T05:11:26-04:00",
-      "title_th": "การพัฒนา OLED ใหม่ของ LG สามารถยืดอายุการใช้งานของจอแสดงผลได้",
-      "summary_th": "LG Display ได้เปิดตัววิธีการผลิต OLED ใหม่ซึ่งมีรายงานว่าส่งผลให้แผงมีความสว่างมากขึ้น ใช้งานได้ยาวนานขึ้น มีประสิทธิภาพมากขึ้น และในทางทฤษฎีสามารถมีได้เกือบทุกขนาด เทคโนโลยีใหม่นี้เรียกว่า FLiPP (FMM-Less Innovation Pixel Patterning) ซึ่ง LG Display อธิบายว่าเป็นวิธีการจัดรูปแบบ \"ความฝัน OLED รุ่นต่อไป\" ที่มีจุดมุ่งหมายเพื่อกำจัดบางส่วนของ [ ... ]"
+      "category": "review",
+      "title_en": "Slack is launching collaborative vibe-coding channels",
+      "summary_en": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \"With Slack Code, when you have […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988538/acastro_STK060_slack_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+      "published": "2026-08-20T08:00:00-04:00",
+      "title_th": "Slack กำลังเปิดตัวช่องทางการเขียนโค้ดที่ทำงานร่วมกัน",
+      "summary_th": "Slack กำลังแนะนำช่องทางเฉพาะที่ทีมสามารถเขียนโค้ดร่วมกับตัวแทน AI แทนที่จะข้ามไปมาระหว่างเครื่องมือและการสนทนาต่างๆ การเปิดตัว Slack Code ประกอบด้วยช่องโค้ดแบบเปิดเฉพาะโปรเจ็กต์พร้อมแท็บผู้ใช้เฉพาะ ควบคู่ไปกับฟีเจอร์ที่เปรียบเทียบการเปลี่ยนแปลงโค้ดและดูตัวอย่างเอาต์พุต HTML ก่อนจัดส่งโปรเจ็กต์ “ด้วย Slack Code เมื่อคุณมี […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "software",
-      "title_en": "Does giving a camera wings dodge the FCC’s drone ban?",
-      "summary_en": "HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand's latest trick might be its riskiest: it's attempting to sneak a drone past the FCC. In December 2025, the US government banned future foreign […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/hoverair-versa.webp?quality=90&strip=all&crop=0%2C17.731265983107%2C100%2C64.537468033785&w=1200",
-      "link": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
-      "published": "2026-08-19T18:35:20-04:00",
-      "title_th": "การให้ปีกกล้องเป็นการหลบเลี่ยงการสั่งห้ามโดรนของ FCC หรือไม่",
-      "summary_th": "โดรน HoverAir มีลูกเล่นที่น่าสนใจอยู่เสมอ อันนี้พับแบนเพื่อให้พอดีกับกระเป๋าของคุณ ตัวนี้ลงน้ำได้ อีกอันสามารถชาร์จภายในกระเป๋าได้ แต่เคล็ดลับล่าสุดของแบรนด์อาจเสี่ยงที่สุด: พยายามแอบโดรนผ่าน FCC ในเดือนธันวาคม 2025 รัฐบาลสหรัฐฯ สั่งห้ามชาวต่างชาติในอนาคต […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Nielsen is leaning more on wearables to hear what people are watching",
-      "summary_en": "In order to beef up its ability to accurately measure viewership data in the streaming era, Nielsen is moving forward with a plan to use more information gathered from its partners' wearable devices. Today, Nielsen announced \"a number of key enhancements\" that are being added to its data capturing process ahead of the upcoming fall […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKB393_NIELSEN_MEDIA_RESEARCH.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
-      "link": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
-      "published": "2026-08-19T15:53:09-04:00",
-      "title_th": "Nielsen พึ่งพาอุปกรณ์สวมใส่มากขึ้นเพื่อฟังสิ่งที่ผู้คนกำลังรับชม",
-      "summary_th": "เพื่อเพิ่มความสามารถในการวัดข้อมูลผู้ชมในยุคสตรีมมิ่งได้อย่างแม่นยำ Nielsen กำลังก้าวไปข้างหน้าด้วยแผนการใช้ข้อมูลเพิ่มเติมที่รวบรวมจากอุปกรณ์สวมใส่ของพันธมิตร วันนี้ Nielsen ได้ประกาศ \"การปรับปรุงที่สำคัญหลายประการ\" ที่กำลังจะถูกเพิ่มเข้าไปในกระบวนการบันทึกข้อมูลก่อนฤดูใบไม้ร่วงที่กำลังจะมาถึง […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Google Gemini is getting a dedicated student hub",
-      "summary_en": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&strip=all&crop=0%2C9.6095766582019%2C100%2C80.780846683596&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-      "published": "2026-08-19T15:00:00-04:00",
-      "title_th": "Google Gemini กำลังได้รับศูนย์กลางนักศึกษาโดยเฉพาะ",
-      "summary_th": "ในขณะที่เรากำลังเตรียมพร้อมสำหรับช่วงเปิดเทอม Google กำลังเปิดตัวศูนย์กลางนักเรียนโดยเฉพาะแห่งใหม่ใน Gemini เป็นพื้นที่เก็บข้อมูลแบบครบวงจรสำหรับการรวบรวมงานวิจัยในสมุดบันทึกการศึกษา การสร้างแฟลชการ์ด การทำแบบทดสอบ และอื่นๆ Google ยังปรับปรุงสมุดบันทึกการเรียนรู้ด้วยการรองรับกราฟและรูปภาพ นอกจากนี้ยังสามารถเพิ่มวันสอบ […]"
+      "title_en": "I ruined my cats’ toilet time with a motion-activated neon litter box sign",
+      "summary_en": "My two cats live a refreshingly low-tech lifestyle. They've never experienced a robot litter box, an automated feeder, or a GPS tracker. Noodle and Loaf live blissfully unaware of the technological trappings that surround the rest of my life. Except, that is, for the glowing neon sign that turns on whenever they go to the […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_ON-AIR.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/gadgets/978782/cat-litterbox-motion-activated-neon-on-air-sign",
+      "published": "2026-08-20T07:30:00-04:00",
+      "title_th": "ฉันทำลายเวลาเข้าห้องน้ำของแมวด้วยป้ายกล่องขยะนีออนที่เคลื่อนไหวได้",
+      "summary_th": "แมวสองตัวของฉันใช้ชีวิตแบบโลว์เทคอย่างสดชื่น พวกเขาไม่เคยพบกับหุ่นยนต์กระบะทราย เครื่องป้อนอัตโนมัติ หรือเครื่องติดตาม GPS มาก่อน นู้ดเดิ้ลและโลฟใช้ชีวิตอย่างมีความสุขโดยไม่ได้ตระหนักถึงอุปกรณ์ทางเทคโนโลยีที่ล้อมรอบชีวิตที่เหลือของฉัน ยกเว้นป้ายไฟนีออนเรืองแสงที่จะเปิดทุกครั้งที่ไป […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "software",
-      "title_en": "Watch Valve set up the Steam Frame in its own leaked videos",
-      "summary_en": "Valve just leaked several new videos showing the Steam Frame's unboxing, setup process, and various accessories. The videos apparently appeared on the ARM Steam client following an update, but they were \"quickly pulled after that,\" according to the Steam Hardware Updates account on X. The Steam Frame is Valve's virtual-reality headset that can stream games […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/valve-steam-frame-leak.png?quality=90&strip=all&crop=0%2C6.6657792764812%2C100%2C86.668441447038&w=1200",
-      "link": "https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos",
-      "published": "2026-08-19T14:16:27-04:00",
-      "title_th": "Watch Valve ตั้งค่า Steam Frame ในวิดีโอที่รั่วไหลออกมาของตัวเอง",
-      "summary_th": "Valve เพิ่งปล่อยวิดีโอใหม่หลายรายการที่แสดงการแกะกล่อง กระบวนการติดตั้ง และอุปกรณ์เสริมต่างๆ ของ Steam Frame เห็นได้ชัดว่าวิดีโอปรากฏบนไคลเอนต์ ARM Steam หลังจากการอัปเดต แต่วิดีโอเหล่านั้นถูก \"ดึงออกอย่างรวดเร็วหลังจากนั้น\" ตามบัญชี Steam Hardware Updates บน X Steam Frame เป็นชุดหูฟังเสมือนจริงของ Valve ที่สามารถสตรีมเกม […]"
+      "title_en": "The piano that taught my cat to play for her supper",
+      "summary_en": "The pianist sits before her instrument. She carefully extends a front paw, pressing gingerly on a key. She presses again, and again. She is composing some soul music, because something terrible has happened to her: The vacuum cleaner has come out of the closet. Yes, my cat is a tortured artist. When Jeeves is moved […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_LLOPATTO_JEEVES.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/entertainment/980552/pet-piano-cat-autofeeder",
+      "published": "2026-08-20T07:00:00-04:00",
+      "title_th": "เปียโนที่สอนแมวของฉันให้เล่นเพื่อทานอาหารเย็น",
+      "summary_th": "นักเปียโนนั่งอยู่หน้าเครื่องดนตรีของเธอ เธอค่อยๆ กางอุ้งเท้าหน้าออกอย่างระมัดระวัง และกดคีย์อย่างระมัดระวัง เธอกดอีกครั้งและอีกครั้ง เธอกำลังแต่งเพลงแนวโซล เพราะมีเรื่องเลวร้ายเกิดขึ้นกับเธอ: เครื่องดูดฝุ่นออกมาจากตู้แล้ว ใช่แล้ว แมวของฉันเป็นศิลปินที่ถูกทรมาน เมื่อจีฟส์ถูกย้าย […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "The Audi S6 Sportback E-tron proves that sedans still matter",
+      "summary_en": "Last year, Audi announced that it gave its all-EV-by-2033 plan the boot, and instead will offer a mix of gasoline, hybrid, and electrified propulsion. There's no doubt still some uncertainty among bigger automakers - especially those under the Volkswagen Group umbrella - when it comes to such a (now prior) commitment. Even so, what it's […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/2027AudiS6SportbacketronPeterNelson22.jpg?quality=90&strip=all&crop=0%2C6.8908843619528%2C100%2C86.218231276094&w=1200",
+      "link": "https://www.theverge.com/transportation/982464/audi-s6-sportback-etron-sedan-ev-review",
+      "published": "2026-08-20T07:00:00-04:00",
+      "title_th": "Audi S6 Sportback E-tron พิสูจน์ให้เห็นว่ารถเก๋งยังคงมีความสำคัญ",
+      "summary_th": "เมื่อปีที่แล้ว Audi ประกาศว่าได้ให้แผนบูต EV ทั้งหมดภายในปี 2033 และจะนำเสนอการผสมผสานระหว่างน้ำมันเบนซิน ไฮบริด และระบบขับเคลื่อนด้วยไฟฟ้า ไม่ต้องสงสัยเลยว่าผู้ผลิตรถยนต์รายใหญ่ยังคงมีความไม่แน่นอนอยู่บ้าง โดยเฉพาะบริษัทในเครือ Volkswagen Group เมื่อพูดถึงความมุ่งมั่น (ก่อนหน้านี้) ดังกล่าว ถึงอย่างนั้นมันคืออะไร […]"
     },
     {
       "source": "Ars Technica",
@@ -185,62 +185,98 @@
     {
       "source": "Wired",
       "flag": "US",
-      "category": "ai",
-      "title_en": "Salmonella Is Everywhere",
-      "summary_en": "From granola to guacamole, a wide variety of foods have been recalled lately over salmonella risks. Experts say common-sense precautions go a long way.",
-      "image": "https://media.wired.com/photos/6a84e417f7b84b3670c55d44/master/pass/Science_WhySalmonellaIsEverywhere_v1.gif",
-      "link": "https://www.wired.com/story/salmonella-is-everywhere/",
-      "published": "Thu, 20 Aug 2026 09:00:00 +0000",
-      "title_th": "Salmonella มีอยู่ทั่วไป",
-      "summary_th": "ตั้งแต่กราโนล่าไปจนถึงกัวคาโมเล่ มีการเรียกคืนอาหารหลากหลายประเภทเมื่อเร็วๆ นี้เนื่องจากมีความเสี่ยงต่อเชื้อซัลโมเนลลา ผู้เชี่ยวชาญกล่าวว่าข้อควรระวังทั่วไปมีประโยชน์มาก"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Dell Coupon Codes: 20% Off for August 2026",
-      "summary_en": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-      "image": "https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg",
-      "link": "https://www.wired.com/story/dell-coupon-code/",
-      "published": "Thu, 20 Aug 2026 05:00:00 +0000",
-      "title_th": "รหัสคูปองของ Dell: ลด 20% สำหรับเดือนสิงหาคม 2569",
-      "summary_th": "รับส่วนลด 20% ด้วยรหัสส่งเสริมการขายของ Dell ที่ได้รับการยืนยันแล้ว พร้อมคูปองวันนี้สำหรับแล็ปท็อป จอภาพ Alienware และเทคโนโลยีทั้งหมดสูงสุดถึง $600"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "iRobot Promo Code: 15% Off",
-      "summary_en": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration.",
-      "image": "https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png",
-      "link": "https://www.wired.com/story/irobot-promo-code/",
-      "published": "Thu, 20 Aug 2026 05:00:00 +0000",
-      "title_th": "รหัสโปรโมชั่น iRobot: ลด 15%",
-      "summary_th": "ประหยัดกับผลิตภัณฑ์ iRobot รวมถึงหุ่นยนต์ดูดฝุ่นและไม้ถูพื้นที่ออกแบบมาเพื่อจัดการกับขนของสัตว์เลี้ยง ความยุ่งเหยิงในแต่ละวัน และการทำความสะอาดแบบแฮนด์ฟรีด้วยการผสานรวมบ้านอัจฉริยะ"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
       "category": "review",
-      "title_en": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
-      "summary_en": "Save over 25% when you opt for H&R Block’s free online offering, plus a tax pro review.",
-      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
-      "link": "https://www.wired.com/story/hr-block-coupon/",
-      "published": "Thu, 20 Aug 2026 05:00:00 +0000",
-      "title_th": "คูปอง H&R Block: ลด 25% DIY + Tax Pro Assist",
-      "summary_th": "ประหยัดมากกว่า 25% เมื่อคุณเลือกรับข้อเสนอออนไลน์ฟรีของ H&R Block พร้อมการตรวจสอบภาษีโปร"
+      "title_en": "Poolease X1 Pool Robot Review: How Bad Can It Be?",
+      "summary_en": "The Poolease X1 can collect leaves from the pool floor, but dirt, silt, walls, and steps are all beyond its pay grade.",
+      "image": "https://media.wired.com/photos/6a86289d942118095017e61e/master/pass/Review--Poolease-X1-Pool-Robot-.jpg",
+      "link": "https://www.wired.com/review/poolease-x1-pool-robot/",
+      "published": "Thu, 20 Aug 2026 11:02:00 +0000",
+      "title_th": "รีวิวหุ่นยนต์พูล Poolease X1: มันจะแย่แค่ไหน?",
+      "summary_th": "Poolease X1 สามารถเก็บใบไม้จากพื้นสระได้ แต่สิ่งสกปรก ตะกอน ผนัง และขั้นบันไดล้วนอยู่นอกเหนือระดับค่าตอบแทน"
     },
     {
       "source": "Wired",
       "flag": "US",
-      "category": "gadget",
-      "title_en": "20% Off Samsung Promo Code | August 2026",
-      "summary_en": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
-      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
-      "link": "https://www.wired.com/story/samsung-promo-codes/",
-      "published": "Thu, 20 Aug 2026 05:00:00 +0000",
-      "title_th": "ลด 20% รหัสโปรโมชั่น Samsung | สิงหาคม 2569",
-      "summary_th": "ประหยัด 30% หรือ 10% ด้วยรหัสคูปอง Samsung สูงสุด $1,000 สำหรับเครื่องใช้ไฟฟ้า พร้อมข้อเสนอจำกัดเวลาสำหรับ Galaxy Z Fold7, Flip7 และ S25"
+      "category": "ai",
+      "title_en": "Bumble Tried to Change Dating, but the Dating Market Forced It to Change Instead",
+      "summary_en": "The app now allows men to make the first move, suggesting its women-first positioning was limiting growth. It joins other dating apps now throwing everything at the wall in a bid to stay relevant.",
+      "image": "https://media.wired.com/photos/6a84b529f8933ad1e94fc497/master/pass/Bumble-Niche-Dating-App-Dead-Culture.jpg",
+      "link": "https://www.wired.com/story/bumble-women-first-rule-change/",
+      "published": "Thu, 20 Aug 2026 11:00:00 +0000",
+      "title_th": "บัมเบิลพยายามเปลี่ยนการออกเดท แต่ตลาดการออกเดทบังคับให้เปลี่ยนแทน",
+      "summary_th": "ขณะนี้แอปอนุญาตให้ผู้ชายเริ่มเคลื่อนไหวก่อนได้ โดยบอกว่าการวางตำแหน่งที่ผู้หญิงคำนึงถึงเป็นอันดับแรกนั้นจำกัดการเติบโต โดยจะเข้าร่วมกับแอปหาคู่อื่น ๆ ที่กำลังทุ่มทุกอย่างลงบนผนังเพื่อให้มีความเกี่ยวข้อง"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "The 3 Best USB Phone Chargers (2026): Anker, DeWalt",
+      "summary_en": "I put top-rated USB car chargers to the test for fast charging, value, heat, and safety. These are the best I found.",
+      "image": "https://media.wired.com/photos/6a8641af2578139abea6ce92/master/pass/The-Best-USB-Car-Chargers-for-Road-Trips-and-Fast-Charging.jpg",
+      "link": "https://www.wired.com/story/best-usb-car-chargers/",
+      "published": "Thu, 20 Aug 2026 10:33:00 +0000",
+      "title_th": "เครื่องชาร์จโทรศัพท์ USB ที่ดีที่สุด 3 เครื่อง (2026): Anker, DeWalt",
+      "summary_th": "ฉันนำที่ชาร์จในรถยนต์ USB ที่ได้รับการจัดอันดับสูงสุดมาทดสอบในด้านการชาร์จที่รวดเร็ว ความคุ้มค่า ความร้อน และความปลอดภัย นี่คือสิ่งที่ดีที่สุดที่ฉันพบ"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "A MAGA County’s Top Election Official Wants to Hire Election Denial Superstar Tina Peters",
+      "summary_en": "Tina Peters was convicted of seven counts related to election interference in 2024. Now, she’s fielding an offer from a county that’s become a hotbed of voting-related conspiracy theories.",
+      "image": "https://media.wired.com/photos/6a84a77abfc92084d8656772/master/pass/Politics_Tina%20Peters%20Was%20Convicted%20of%20Election%20Tampering.%20This%20MAGA%20County%20Wants%20Her%20to%20Help%20It%20Run%20Elections_v5.jpg",
+      "link": "https://www.wired.com/story/a-maga-countys-top-election-official-wants-to-hire-election-denial-superstar-tina-peters/",
+      "published": "Thu, 20 Aug 2026 10:30:00 +0000",
+      "title_th": "เจ้าหน้าที่การเลือกตั้งระดับสูงของเทศมณฑล MAGA ต้องการจ้าง Tina Peters ซูเปอร์สตาร์ผู้ปฏิเสธการเลือกตั้ง",
+      "summary_th": "Tina Peters ถูกตัดสินว่ามีความผิดในข้อหา 7 กระทงที่เกี่ยวข้องกับการแทรกแซงการเลือกตั้งในปี 2024 ตอนนี้เธอกำลังรับข้อเสนอจากเคาน์ตีที่กลายเป็นแหล่งรวมของทฤษฎีสมคบคิดที่เกี่ยวข้องกับการลงคะแนนเสียง"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "How Teen ‘After-Prom’ Kings in LA Monetized the High School Rager",
+      "summary_en": "The West Coast house-party scene has long been iconic. For these young, tech-savvy entrepreneurs, it was also inspiration for MyPlots, a party-promotion empire.",
+      "image": "https://media.wired.com/photos/6a84ac8b03b7ff172932c405/master/pass/MYPLOTS-GAJ31-web.jpg",
+      "link": "https://www.wired.com/myplots-jack-schwartz-zane-harwin-teen-parties-after-prom/",
+      "published": "Thu, 20 Aug 2026 10:00:00 +0000",
+      "title_th": "วิธีที่ Kings 'After-Prom' ของวัยรุ่นใน LA สร้างรายได้จาก High School Rager ได้อย่างไร",
+      "summary_th": "สถานที่จัดปาร์ตี้ในบ้านฝั่งตะวันตกถือเป็นสถานที่โดดเด่นมายาวนาน สำหรับผู้ประกอบการรุ่นใหม่ที่เชี่ยวชาญด้านเทคโนโลยีเหล่านี้ สิ่งเหล่านี้ยังเป็นแรงบันดาลใจให้กับ MyPlots ซึ่งเป็นอาณาจักรแห่งการโปรโมตปาร์ตี้อีกด้วย"
+    },
+    {
+      "source": "MIT Technology Review",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "The Download: polycrisis support networks and a hydrogen gold rush",
+      "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a car in Thailand when she saw a…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/260720_MIT_Polycrisis-thumb.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+      "published": "Thu, 20 Aug 2026 12:10:00 +0000",
+      "title_th": "ดาวน์โหลด: เครือข่ายสนับสนุน polycrisis และการตื่นทองของไฮโดรเจน",
+      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี เครือข่ายสนับสนุนมีเป้าหมายเพื่อช่วยเหลือเด็กๆ ให้ผ่านวิกฤตการณ์หลายด้าน ในช่วงปลายปี 2000 พิม ซัลลิแวน-เทลยัวร์ วัย 6 ขวบนั่งอยู่หลังรถในประเทศไทย เมื่อเธอเห็น..."
+    },
+    {
+      "source": "MIT Technology Review",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "The next big thing in hydrogen could be underground",
+      "summary_en": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces water…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP23296765945738.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
+      "published": "Thu, 20 Aug 2026 10:00:00 +0000",
+      "title_th": "สิ่งที่ยิ่งใหญ่ต่อไปในไฮโดรเจนอาจเป็นใต้ดิน",
+      "summary_th": "มีการตามล่าหาแหล่งไฮโดรเจนแห่งใหม่ และก๊าซ (หรืออย่างน้อยก็สภาวะที่เหมาะสมในการผลิต) อาจซ่อนอยู่ใต้ฝ่าเท้าของเรา ไฮโดรเจนสามารถใช้เป็นเชื้อเพลิงในทุกสิ่งตั้งแต่รถบรรทุกขนาดใหญ่ เครื่องบิน ไปจนถึงการผลิตเหล็ก มักถูกยกย่องว่าเป็นวิธีแก้ปัญหาสภาพภูมิอากาศ เพราะเมื่อถูกเผาจะผลิตน้ำ..."
+    },
+    {
+      "source": "MIT Technology Review",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Unlocking hidden revenue streams with market models",
+      "summary_en": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MITTR2026_Fetcherr_1200CovrevSocV1.png?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "published": "Thu, 20 Aug 2026 09:47:22 +0000",
+      "title_th": "ปลดล็อกแหล่งรายได้ที่ซ่อนอยู่ด้วยโมเดลการตลาด",
+      "summary_th": "ในแต่ละวัน สายการบินจะขนส่งผู้โดยสารหลายหมื่นคนในเที่ยวบินหลายร้อยเที่ยวบิน บ่อยครั้งเส้นทางเหล่านี้ไม่ใช่เส้นทางแบบจุดต่อจุดตรงไปตรงมา โดยผู้โดยสารต้องมีการเชื่อมต่อหลายจุด สายการบินสามารถพิจารณาตัวแปรหลายร้อยรายการเพื่อกำหนดราคาการเดินทางแต่ละครั้ง: ความต้องการ ฤดูกาล เวลาของวัน เหตุการณ์ปัจจุบัน ตลาดทั่วโลก และกิจกรรมของสายการบินคู่แข่ง เป็นต้น..."
     },
     {
       "source": "MIT Technology Review",
@@ -264,43 +300,19 @@
       "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
       "published": "Wed, 19 Aug 2026 12:10:00 +0000",
       "title_th": "การดาวน์โหลด: ปัญหาการพัฒนาตนเองของ AI และสิ่งที่ทำให้เกิดความร้อนแรง",
-      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี การพัฒนาตนเองแบบเรียกซ้ำของ AI อาจไม่เกิดขึ้นอย่างรวดเร็วนัก คำมั่นสัญญาที่ชัดเจนที่สุดของอุตสาหกรรม AI ในตอนนี้ก็คือ AI จะปรับปรุงตัวเองในไม่ช้า โดยแทบไม่จำเป็นต้องมีการควบคุมดูแลจากมนุษย์..."
+      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี การพัฒนาตนเองแบบเรียกซ้ำของ AI อาจไม่เกิดขึ้นอย่างรวดเร็วนัก คำมั่นสัญญาที่ชัดเจนที่สุดของอุตสาหกรรม AI ในขณะนี้ก็คือ AI จะปรับปรุงตัวเองในไม่ช้า โดยแทบไม่จำเป็นต้องมีการควบคุมดูแลจากมนุษย์..."
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "Child-monitoring apps might need a reboot",
-      "summary_en": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. Online, she…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT-Tech_Review-Opener-FINAL-thumb.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
-      "published": "Wed, 19 Aug 2026 09:00:00 +0000",
-      "title_th": "แอปดูแลเด็กอาจต้องรีบูต",
-      "summary_th": "วัยรุ่นทางดิจิทัลของ Pam Wisniewski แสดงให้เธอเห็นถึงสิ่งที่ดีที่สุดและแย่ที่สุดของอินเทอร์เน็ต เมื่ออายุ 14 ปี เธอออกจากบ้านที่ทารุณกรรม ซึ่งเธอถูกโดดเดี่ยวโดยรถพ่วงห้าล้อที่ปลายถนนลูกรังยาวเจ็ดไมล์ เธอย้ายไปอยู่กับพี่สาวและสอนตัวเองให้พิมพ์บน AOL Instant Messenger ออนไลน์ เธอ..."
-    },
-    {
-      "source": "MIT Technology Review",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "The Download: how people really use AI, and Flock’s design choices",
-      "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/arm-around2.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
-      "published": "Tue, 18 Aug 2026 12:10:00 +0000",
-      "title_th": "การดาวน์โหลด: ผู้คนใช้ AI อย่างไร และตัวเลือกการออกแบบของ Flock",
-      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี เรายังไม่รู้ว่าผู้คนใช้ AI จริงๆ ได้อย่างไร บริษัท AI เช่น Anthropic และ OpenAI เผยแพร่รายงานเกี่ยวกับวิธีที่ผู้คนใช้ผลิตภัณฑ์ของตนเป็นประจำ แต่พวกเขาเพียงปล่อย..."
-    },
-    {
-      "source": "MIT Technology Review",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "We still don’t know how people are really using AI",
-      "summary_en": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/arm-around2.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-      "published": "Tue, 18 Aug 2026 10:06:43 +0000",
-      "title_th": "เรายังไม่รู้ว่าผู้คนใช้ AI อย่างไรจริงๆ",
-      "summary_th": "บริษัท AI เช่น Anthropic และ OpenAI เผยแพร่รายงานเกี่ยวกับวิธีที่ผู้คนใช้ผลิตภัณฑ์เช่น Claude และ ChatGPT เป็นประจำ แต่พวกเขาเผยแพร่เฉพาะข้อมูลที่พวกเขาต้องการให้เราดูเท่านั้น นักวิจัย AI กล่าว “ไม่มีแหล่งข้อมูลอิสระที่จะยืนยันได้” Anka Reuel ผู้สมัครระดับปริญญาเอกสาขาวิทยาการคอมพิวเตอร์จาก Stanford Trustworthy AI Research กล่าว"
+      "category": "gadget",
+      "title_en": "LG's new OLED manufacturing tech can make panels bigger and brighter",
+      "summary_en": "LG has an unveiled a new OLED manufacturing breakthrough that will allow brighter, sharper and longer-lasting panels of nearly any size.",
+      "image": "https://www.engadget.com/img/gallery/lgs-new-oled-manufacturing-tech-can-make-panels-bigger-and-brighter/l-intro-1787226928.jpg",
+      "link": "https://www.engadget.com/2240635/lg-flipp-oled-manufacturing-bigger-brighter-displays/",
+      "published": "Thu, 20 Aug 2026 11:56:46 +0000",
+      "title_th": "เทคโนโลยีการผลิต OLED ใหม่ของ LG สามารถทำให้แผงใหญ่ขึ้นและสว่างขึ้นได้",
+      "summary_th": "LG ได้เปิดตัวความก้าวหน้าด้านการผลิต OLED ใหม่ ซึ่งจะช่วยให้แผงหน้าจอสว่างขึ้น คมชัดขึ้น และมีอายุการใช้งานยาวนานขึ้นในเกือบทุกขนาด"
     },
     {
       "source": "Engadget",
@@ -323,7 +335,7 @@
       "image": "https://www.engadget.com/img/gallery/waymo-ojai-vans-are-now-available-for-all-riders-in-three-cities/l-intro-1787173482.jpg",
       "link": "https://www.engadget.com/2240419/waymo-ojai-vans-are-now-available-for-all-riders-in-three-cities/",
       "published": "Wed, 19 Aug 2026 21:07:58 +0000",
-      "title_th": "ขณะนี้รถตู้ Waymo Ojai พร้อมให้บริการสำหรับผู้ขับขี่ทุกคนในสามเมือง",
+      "title_th": "ขณะนี้รถตู้ Waymo Ojai พร้อมให้บริการสำหรับผู้โดยสารทุกคนในสามเมือง",
       "summary_th": "ถือเป็นการเปิดตัวรถตู้ไร้คนขับเต็มรูปแบบในซานฟรานซิสโก ฟีนิกซ์ และลอสแองเจลิส"
     },
     {
@@ -349,18 +361,6 @@
       "published": "Wed, 19 Aug 2026 19:00:00 +0000",
       "title_th": "Google เสนอแผน AI Pro แก่นักศึกษาหนึ่งปีฟรี",
       "summary_th": "นักศึกษาวิทยาลัยสามารถรับแผน AI Pro ของ Google ฟรี 1 ปี ซึ่งปกติจะมีราคา 200 ดอลลาร์"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Meta AI now has a dedicated desktop app for Mac",
-      "summary_en": "Meta's new Mac app is part of the company's push to make more business-friendly AI tools.",
-      "image": "https://www.engadget.com/img/gallery/meta-ai-now-has-a-dedicated-desktop-app-for-mac/l-intro-1787159380.jpg",
-      "link": "https://www.engadget.com/2240154/meta-ai-now-has-a-dedicated-desktop-app-for-mac/",
-      "published": "Wed, 19 Aug 2026 17:10:45 +0000",
-      "title_th": "Meta AI มีแอปเดสก์ท็อปเฉพาะสำหรับ Mac แล้ว",
-      "summary_th": "แอพ Mac ใหม่ของ Meta เป็นส่วนหนึ่งของการผลักดันของบริษัทในการสร้างเครื่องมือ AI ที่เป็นมิตรต่อธุรกิจมากขึ้น"
     },
     {
       "source": "IEEE Spectrum",
@@ -420,7 +420,43 @@
       "link": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
       "published": "Fri, 14 Aug 2026 17:27:12 +0000",
       "title_th": "ทำนายการเชื่อมต่อเสาอากาศบนแพลตฟอร์มไฟฟ้าขนาดใหญ่ก่อนสร้างฮาร์ดแวร์",
-      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นทำนายการต่อเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามประการใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
+      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นทำนายการต่อเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามแบบใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Bought Logitech kit during the Trump tariff mess? You may be due a refund …",
+      "summary_en": "During the height of Trump’s trade war with China , where tariff increases were announced on an almost weekly basis, companies like Logitech responded by significantly increasing the prices of their products in the US. Earlier this year, the US Supreme Court ruled that these tariffs were illegal and must be returned to manufacturers. However, there’s been no sign of companies passing on the refunds to customers, and a class action lawsuit is now seeking to correct this …",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/Logitech-tariff-refunds.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/20/bought-logitech-kit-during-the-trump-tariff-mess-you-may-be-due-a-refund/",
+      "published": "Thu, 20 Aug 2026 11:37:58 +0000",
+      "title_th": "ซื้อชุด Logitech ในช่วงที่ทรัมป์ยุ่งเรื่องภาษีหรือไม่ คุณอาจถึงกำหนดชำระคืนเงิน…",
+      "summary_th": "ในช่วงที่สงครามการค้าระหว่างทรัมป์กับจีนถึงจุดสูงสุด ซึ่งมีการประกาศขึ้นภาษีเป็นประจำเกือบทุกสัปดาห์ บริษัทอย่าง Logitech ตอบโต้ด้วยการเพิ่มราคาผลิตภัณฑ์ของตนในสหรัฐอเมริกาอย่างมีนัยสำคัญ เมื่อต้นปีที่ผ่านมา ศาลฎีกาของสหรัฐอเมริกาตัดสินว่าภาษีศุลกากรเหล่านี้ผิดกฎหมายและต้องส่งคืนให้กับผู้ผลิต อย่างไรก็ตาม ไม่มีวี่แววว่าบริษัทจะคืนเงินให้กับลูกค้า และขณะนี้คดีฟ้องร้องแบบกลุ่มกำลังพยายามแก้ไขปัญหานี้"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "9to5Mac Daily: August 20, 2026 – Apple RAM suppliers, iPhone Ultra rumors",
+      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily .",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/20/daily-august-20-2026/",
+      "published": "Thu, 20 Aug 2026 11:00:00 +0000",
+      "title_th": "9to5Mac รายวัน: 20 สิงหาคม 2026 – ซัพพลายเออร์ Apple RAM, ข่าวลือ iPhone Ultra",
+      "summary_th": "ฟังสรุปเรื่องเด่นประจำวันจาก 9to5Mac 9to5Mac Daily มีให้บริการบน iTunes และแอป Podcasts ของ Apple , Stitcher , TuneIn , Google Play หรือผ่านทางฟีด RSS เฉพาะของเราสำหรับ Overcast และเครื่องเล่นพอดแคสต์อื่นๆ สนับสนุนโดย Backblaze : ข้อมูลสำรองที่คุณวางใจได้ ประหยัด 20% ด้วยรหัส 9to5daily"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple’s long-running app store battle with the EU appears to finally be over",
+      "summary_en": "Apple’s long-running antitrust battle with the European Union over the sale of iPhone apps appears to finally be over. The EU has said that it welcomes the new app commission rates the company is offering within the bloc. The revised terms will see developers pay a commission or fee ranging from 5% to 26%, depending on their turnover and chosen sale channels …",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/iPhone-Diary-iPhone-16-Pro-Max-expectations.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/20/apples-long-running-app-store-battle-with-the-eu-appears-to-finally-be-over/",
+      "published": "Thu, 20 Aug 2026 10:52:18 +0000",
+      "title_th": "การต่อสู้ที่ยาวนานของ App Store ของ Apple กับ EU ดูเหมือนจะจบลงแล้ว",
+      "summary_th": "การต่อสู้ต่อต้านการผูกขาดที่ยาวนานของ Apple กับสหภาพยุโรปเกี่ยวกับการขายแอพ iPhone ดูเหมือนจะจบลงในที่สุด สหภาพยุโรปกล่าวว่ายินดีกับอัตราค่าคอมมิชชั่นแอปใหม่ที่บริษัทเสนอภายในกลุ่ม ข้อกำหนดที่แก้ไขจะกำหนดให้นักพัฒนาจ่ายค่าคอมมิชชันหรือค่าธรรมเนียมตั้งแต่ 5% ถึง 26% ขึ้นอยู่กับมูลค่าการซื้อขายและช่องทางการขายที่เลือก"
     },
     {
       "source": "9to5Mac",
@@ -447,40 +483,16 @@
       "summary_th": "Astropad ได้เปิดตัว Workbench 1.3 ซึ่งเป็นการอัปเดตที่ใหญ่ที่สุดสำหรับแอปเดสก์ท็อประยะไกลนับตั้งแต่เปิดตัวเมื่อต้นปีนี้ การเปิดตัวครั้งนี้ได้เพิ่มเครื่องมือหลายอย่างสำหรับการเข้าถึง Mac แบบอัตโนมัติ พร้อมด้วยการเปลี่ยนแปลงประสิทธิภาพและความน่าเชื่อถือ"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
-      "category": "gadget",
-      "title_en": "PSA: ChatGPT outage is blocking users from logging in or creating new accounts [U: Fixed]",
-      "summary_en": "Update, 8:54 p.m. ET: OpenAI says the issue is now fully resolved. The original story follows below. OpenAI has confirmed that users are encountering errors when trying to log in to their accounts or create new ones. Here are the details.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/chatgpt-red.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/19/psa-chatgpt-outage-is-blocking-users-from-logging-in-or-creating-new-accounts/",
-      "published": "Thu, 20 Aug 2026 00:28:11 +0000",
-      "title_th": "PSA: การหยุดทำงานของ ChatGPT กำลังบล็อกผู้ใช้จากการเข้าสู่ระบบหรือสร้างบัญชีใหม่ [U: แก้ไขแล้ว]",
-      "summary_th": "อัพเดท 20:54 น. ET: OpenAI บอกว่าปัญหาได้รับการแก้ไขอย่างสมบูรณ์แล้ว เรื่องราวดั้งเดิมดังต่อไปนี้ OpenAI ยืนยันว่าผู้ใช้พบข้อผิดพลาดเมื่อพยายามเข้าสู่บัญชีของตนหรือสร้างบัญชีใหม่ นี่คือรายละเอียด"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Camera-equipped AirPods reportedly won’t launch in 2026, despite demo video leak",
-      "summary_en": "Bloomberg reports that despite Apple’s accidental inclusion of a demo video showcasing Visual Intelligence on AirPods, the product “remains on track for 2027.” Here are the details.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-w-case-apple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/19/camera-equipped-airpods-reportedly-wont-launch-in-2026-despite-demo-video-leak/",
-      "published": "Wed, 19 Aug 2026 23:42:49 +0000",
-      "title_th": "มีรายงานว่า AirPods ที่ติดตั้งกล้องจะไม่เปิดตัวในปี 2569 แม้ว่าจะมีวิดีโอสาธิตรั่วไหลก็ตาม",
-      "summary_th": "Bloomberg รายงานว่าแม้ว่า Apple จะรวมวิดีโอสาธิตที่แสดง Visual Intelligence บน AirPods ไว้โดยไม่ได้ตั้งใจ แต่ผลิตภัณฑ์ดังกล่าว “ยังคงอยู่ในเส้นทางในปี 2027” นี่คือรายละเอียด"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "9to5Mac Daily: August 19, 2026 – Apple TV 4K rumors, Apple Maps ads",
-      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily .",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/19/daily-august-19-2026/",
-      "published": "Wed, 19 Aug 2026 23:06:38 +0000",
-      "title_th": "9to5Mac รายวัน: 19 สิงหาคม 2569 – ข่าวลือ Apple TV 4K, โฆษณา Apple Maps",
-      "summary_th": "ฟังสรุปเรื่องเด่นประจำวันจาก 9to5Mac 9to5Mac Daily มีให้บริการบน iTunes และแอป Podcasts ของ Apple , Stitcher , TuneIn , Google Play หรือผ่านทางฟีด RSS เฉพาะของเราสำหรับ Overcast และเครื่องเล่นพอดแคสต์อื่นๆ สนับสนุนโดย Backblaze : การสำรองข้อมูลที่คุณวางใจได้ ประหยัด 20% ด้วยรหัส 9to5daily"
+      "category": "review",
+      "title_en": "The trials and tribulations of reviewing a Pixel",
+      "summary_en": "Good morning and happy Thursday. We’ve got Pixel reviews galore , a new look at Insomniac’s upcoming Wolverine game , a crazy story about prolific phone scammers , and an updated version of Qwen 3.8 that I’ll be spending the next few days tweaking to my liking. As a reminder, Inbox is the tech newsletter you should be able to read in around 95 seconds. We cover the most important 9to5Google stories from the last couple of days along with a few highlights from around the web. We publish every Tuesday and Thursday, and if you like what you read, please subscribe .",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-in-Obsidian-various-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/20/the-trials-and-tribulations-of-reviewing-a-pixel/",
+      "published": "Thu, 20 Aug 2026 11:00:00 +0000",
+      "title_th": "การทดลองและความยากลำบากในการตรวจสอบ Pixel",
+      "summary_th": "สวัสดีเช้าวันพฤหัสบดี และสุขสันต์ เรามีบทวิจารณ์ Pixel มากมาย รูปลักษณ์ใหม่ของเกม Wolverine ที่กำลังจะมาถึงของ Insomniac เรื่องราวสุดบ้าเกี่ยวกับการหลอกลวงทางโทรศัพท์ที่มีมากมาย และ Qwen 3.8 เวอร์ชันอัปเดตที่ฉันจะใช้เวลาไม่กี่วันข้างหน้าในการปรับแต่งตามความชอบของฉัน โปรดทราบว่า Inbox คือจดหมายข่าวเทคโนโลยีที่คุณน่าจะอ่านได้ภายในเวลาประมาณ 95 วินาที เรานำเสนอเรื่องราวของ 9to5Google ที่สำคัญที่สุดในช่วงสองสามวันที่ผ่านมา พร้อมด้วยไฮไลท์บางส่วนจากทั่วทั้งเว็บ เราเผยแพร่ทุกวันอังคารและพฤหัสบดี และหากคุณชอบสิ่งที่คุณอ่าน โปรดติดตาม"
     },
     {
       "source": "9to5Google",
@@ -529,18 +541,6 @@
       "published": "Wed, 19 Aug 2026 20:15:00 +0000",
       "title_th": "Google Messages RCS แตกด้วยข้อผิดพลาด '3100' สำหรับบางคน โดยเฉพาะ Galaxy switchers",
       "summary_th": "ปัญหาเกี่ยวกับ Google Messages ดูเหมือนจะทำให้ RCS เสียหายสำหรับผู้ใช้บางราย โดยปัญหาส่วนใหญ่เกิดจากอุปกรณ์ Samsung Galaxy"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Mid-week Android app deals and freebies: Last Day, Siralim, Ninja Hero Cats, Lovecraft’s Untold Stories, more",
-      "summary_en": "Best Buy’s 11 Pro, 11 Pro XL, and 11 Pro Fold pre-order deals before delivery starts tomorrow ( more details here ), we have first Amazon price drop on the new Olive Google Pixel Buds Pro 2, up to $1,350 off 2026 Copilot+ PC and gaming laptops , LG’s most affordable 2026 OLED TV at $300 off , and Best Buy’s Anniversary Chromebook deals starting at $179 . The app deals, however, are waiting down below.",
-      "image": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/08/Google-Play-Aug-19-2.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5toys.com/2026/08/19/mid-week-android-app-deals-8/",
-      "published": "Wed, 19 Aug 2026 19:57:15 +0000",
-      "title_th": "ข้อเสนอแอป Android กลางสัปดาห์และของสมนาคุณฟรี: วันสุดท้าย, Siralim, Ninja Hero Cats, เรื่องราวที่บอกเล่าของ Lovecraft และอีกมากมาย",
-      "summary_th": "ข้อเสนอการสั่งซื้อล่วงหน้า 11 Pro, 11 Pro XL และ 11 Pro Fold ของ Best Buy ก่อนการส่งมอบจะเริ่มในวันพรุ่งนี้ (รายละเอียดเพิ่มเติมที่นี่ ) เรามีการลดราคา Amazon ครั้งแรกสำหรับ Olive Google Pixel Buds Pro 2 ใหม่ สูงสุดถึง 1,350 ดอลลาร์จากพีซี Copilot+ และแล็ปท็อปสำหรับเล่นเกมในปี 2026, ทีวี OLED ปี 2026 ที่ราคาถูกที่สุดของ LG ที่ส่วนลด 300 ดอลลาร์ และข้อเสนอ Chromebook ครบรอบการซื้อที่ดีที่สุดเริ่มต้นที่ 179 ดอลลาร์ อย่างไรก็ตามข้อเสนอของแอปกำลังรออยู่ด้านล่าง"
     },
     {
       "source": "Electrek",
@@ -599,7 +599,7 @@
       "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Heybike-EcoFlow-Anker-eufy-NIU-GDs-FI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "link": "https://electrek.co/2026/08/19/heybike-hero-mid-drive-e-bike-exclusive-ecoflow-power-station-flash-sale-more/",
       "published": "Wed, 19 Aug 2026 18:00:00 +0000",
-      "title_th": "Heybike Hero ขับเคลื่อนกลาง e-bike คาร์บอนไฟเบอร์ทุกพื้นที่ในราคาสุดพิเศษ 1,049.50 ใหม่ต่ำ ขายแฟลชสถานีพลังงาน EcoFlow และอีกมากมาย",
+      "title_th": "Heybike Hero ขับเคลื่อนกลางคาร์บอนไฟเบอร์ e-bike ทุกพื้นที่ในราคาสุดพิเศษ 1,049.50 ใหม่ต่ำขายแฟลชสถานีพลังงาน EcoFlow และอีกมากมาย",
       "summary_th": "ข้อเสนอสีเขียวกลางสัปดาห์ของเรานำโดยข้อตกลงพิเศษที่น่าทึ่งสำหรับจักรยานไฟฟ้า Heybike Hero 750W Mid-Drive Carbon-Fiber All-Terrain ในราคาต่ำใหม่ 1,049.50 ดอลลาร์ หลังจากนั้น เรามีส่วนลดแฟลชล่าสุดเป็นเวลา 48 ชั่วโมงของ EcoFlow พร้อมส่วนลดสูงสุดถึง 2,200 ดอลลาร์สำหรับสี่ยูนิต เช่น สถานีไฟฟ้าพกพา DELTA 3 Max 2,048Wh พร้อมแผงโซลาร์เซลล์แบบโมดูลาร์ 500W ในราคา 1,399 ดอลลาร์ นอกจากนี้ยังมีรายการข้อเสนอ EV ลดราคาครบรอบ 60 ปีที่ดีที่สุดสำหรับการซื้อในรุ่นต่างๆ จาก Segway, Lectric, Hiboy, NIU และอื่นๆ โดยเริ่มต้นที่ 284 ดอลลาร์ ชุดกล้องรักษาความปลอดภัยพลังงานแสงอาทิตย์ Anker eufyCam E40 แพ็ค 2 แพ็คพร้อมฮับ HomeBase ในราคา 180 ดอลลาร์ และอื่นๆ จาก Anker SOLIX, Jackery และ Velotric ด้านล่าง นอกจากนี้ยังมีข้อเสนออาการเมาค้างจากสองวันที่ผ่านมาที่ด้านล่างของหน้า เช่น ชุดแบตเตอรี่เสริม Lectric XPress2 ของเมื่อวาน"
     }
   ],
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 265.0,
-      "change": 1.0,
-      "change_pct": 0.38
+      "price": 263.0,
+      "change": -1.0,
+      "change_pct": -0.38
     }
   ],
   "reviews": [
@@ -733,6 +733,16 @@
     {
       "channel": "Beartai",
       "country": "TH",
+      "title_en": "อาร์ต มารุต เทิร์นจากโปร มาเป็น \"แคดดี้\" I Staff Only",
+      "video_id": "07h1HTTk9j4",
+      "link": "https://www.youtube.com/watch?v=07h1HTTk9j4",
+      "thumbnail": "https://i1.ytimg.com/vi/07h1HTTk9j4/hqdefault.jpg",
+      "published": "2026-08-20T10:00:32+00:00",
+      "title_th": "อาร์ต มารุต เทิร์นจากโปร มาเป็น \"แคดดี้\" I Staff Only"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
       "title_en": "ก้าวคนละก้าวกับพี่ตูน",
       "video_id": "gQJLuy6ahyk",
       "link": "https://www.youtube.com/shorts/gQJLuy6ahyk",
@@ -749,16 +759,6 @@
       "thumbnail": "https://i2.ytimg.com/vi/qQg3YCL9YPs/hqdefault.jpg",
       "published": "2026-08-19T06:24:36+00:00",
       "title_th": "7 Eleven คิ้วท์สุดในไทยอยู่ที่ 'Happitat' !"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "แคดดี้เป็นได้ แต่ไม่ง่ายเหมือนกัน",
-      "video_id": "xvnOmFuAh3Y",
-      "link": "https://www.youtube.com/shorts/xvnOmFuAh3Y",
-      "thumbnail": "https://i1.ytimg.com/vi/xvnOmFuAh3Y/hqdefault.jpg",
-      "published": "2026-08-19T02:38:05+00:00",
-      "title_th": "แคดดี้เป็นได้ แต่ไม่ง่ายเหมือนกัน"
     },
     {
       "channel": "Droidsans",
