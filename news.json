@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T06:24:12.504595+00:00",
+  "generated_at": "2026-08-20T09:23:33.957878+00:00",
   "count": 50,
   "articles": [
     {
@@ -65,14 +65,26 @@
     {
       "source": "The Verge",
       "flag": "US",
+      "category": "gadget",
+      "title_en": "LG’s new OLED breakthrough can boost display lifespans",
+      "summary_en": "LG Display has unveiled a new OLED manufacturing method that reportedly results in panels that are brighter, longer-lasting, more efficient, and theoretically can be almost any size. This new technology is called FLiPP (FMM-Less innovative Pixel Patterning), which LG Display describes as a \"dream next-generation OLED\" patterning method that aims to eliminate some of the […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/LG-Display-FLiPP-OLED-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology",
+      "published": "2026-08-20T05:11:26-04:00",
+      "title_th": "การพัฒนา OLED ใหม่ของ LG สามารถยืดอายุการใช้งานของจอแสดงผลได้",
+      "summary_th": "LG Display ได้เปิดตัววิธีการผลิต OLED ใหม่ซึ่งมีรายงานว่าส่งผลให้แผงมีความสว่างมากขึ้น ใช้งานได้ยาวนานขึ้น มีประสิทธิภาพมากขึ้น และในทางทฤษฎีสามารถมีได้เกือบทุกขนาด เทคโนโลยีใหม่นี้เรียกว่า FLiPP (FMM-Less Innovation Pixel Patterning) ซึ่ง LG Display อธิบายว่าเป็นวิธีการจัดรูปแบบ \"ความฝัน OLED รุ่นต่อไป\" ที่มีจุดมุ่งหมายเพื่อกำจัดบางส่วนของ [ ... ]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
       "category": "software",
       "title_en": "Does giving a camera wings dodge the FCC’s drone ban?",
       "summary_en": "HoverAir drones always have intriguing gimmicks. This one folds flat to fit in your pocket. This one can land on water. Another can charge inside its carrying case. But the brand's latest trick might be its riskiest: it's attempting to sneak a drone past the FCC. In December 2025, the US government banned future foreign […]",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/hoverair-versa.webp?quality=90&strip=all&crop=0%2C17.731265983107%2C100%2C64.537468033785&w=1200",
       "link": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
       "published": "2026-08-19T18:35:20-04:00",
-      "title_th": "การให้ปีกกล้องหลบเลี่ยงการสั่งห้ามโดรนของ FCC หรือไม่",
-      "summary_th": "โดรน HoverAir มักมีลูกเล่นที่น่าสนใจอยู่เสมอ อันนี้พับแบนเพื่อให้พอดีกับกระเป๋าของคุณ ตัวนี้ลงน้ำได้ อีกอันสามารถชาร์จภายในกระเป๋าได้ แต่เคล็ดลับล่าสุดของแบรนด์อาจเสี่ยงที่สุด: พยายามแอบโดรนผ่าน FCC ในเดือนธันวาคม 2025 รัฐบาลสหรัฐฯ สั่งห้ามชาวต่างชาติในอนาคต […]"
+      "title_th": "การให้ปีกกล้องเป็นการหลบเลี่ยงการสั่งห้ามโดรนของ FCC หรือไม่",
+      "summary_th": "โดรน HoverAir มีลูกเล่นที่น่าสนใจอยู่เสมอ อันนี้พับแบนเพื่อให้พอดีกับกระเป๋าของคุณ ตัวนี้ลงน้ำได้ อีกอันสามารถชาร์จภายในกระเป๋าได้ แต่เคล็ดลับล่าสุดของแบรนด์อาจเสี่ยงที่สุด: พยายามแอบโดรนผ่าน FCC ในเดือนธันวาคม 2025 รัฐบาลสหรัฐฯ สั่งห้ามชาวต่างชาติในอนาคต […]"
     },
     {
       "source": "The Verge",
@@ -83,8 +95,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKB393_NIELSEN_MEDIA_RESEARCH.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
       "link": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
       "published": "2026-08-19T15:53:09-04:00",
-      "title_th": "Nielsen พึ่งพาอุปกรณ์สวมใส่มากขึ้นเพื่อฟังสิ่งที่ผู้คนรับชม",
-      "summary_th": "เพื่อเพิ่มความสามารถในการวัดข้อมูลผู้ชมในยุคสตรีมมิ่งอย่างแม่นยำ Nielsen กำลังก้าวไปข้างหน้าด้วยแผนการใช้ข้อมูลเพิ่มเติมที่รวบรวมจากอุปกรณ์สวมใส่ของพันธมิตร วันนี้ Nielsen ได้ประกาศ \"การปรับปรุงที่สำคัญหลายประการ\" ที่กำลังจะถูกเพิ่มเข้าไปในกระบวนการบันทึกข้อมูลก่อนฤดูใบไม้ร่วงที่กำลังจะมาถึง […]"
+      "title_th": "Nielsen พึ่งพาอุปกรณ์สวมใส่มากขึ้นเพื่อฟังสิ่งที่ผู้คนกำลังรับชม",
+      "summary_th": "เพื่อเพิ่มความสามารถในการวัดข้อมูลผู้ชมในยุคสตรีมมิ่งได้อย่างแม่นยำ Nielsen กำลังก้าวไปข้างหน้าด้วยแผนการใช้ข้อมูลเพิ่มเติมที่รวบรวมจากอุปกรณ์สวมใส่ของพันธมิตร วันนี้ Nielsen ได้ประกาศ \"การปรับปรุงที่สำคัญหลายประการ\" ที่กำลังจะถูกเพิ่มเข้าไปในกระบวนการบันทึกข้อมูลก่อนฤดูใบไม้ร่วงที่กำลังจะมาถึง […]"
     },
     {
       "source": "The Verge",
@@ -109,18 +121,6 @@
       "published": "2026-08-19T14:16:27-04:00",
       "title_th": "Watch Valve ตั้งค่า Steam Frame ในวิดีโอที่รั่วไหลออกมาของตัวเอง",
       "summary_th": "Valve เพิ่งปล่อยวิดีโอใหม่หลายรายการที่แสดงการแกะกล่อง กระบวนการติดตั้ง และอุปกรณ์เสริมต่างๆ ของ Steam Frame เห็นได้ชัดว่าวิดีโอปรากฏบนไคลเอนต์ ARM Steam หลังจากการอัปเดต แต่วิดีโอเหล่านั้นถูก \"ดึงออกอย่างรวดเร็วหลังจากนั้น\" ตามบัญชี Steam Hardware Updates บน X Steam Frame เป็นชุดหูฟังเสมือนจริงของ Valve ที่สามารถสตรีมเกม […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "review",
-      "title_en": "The wearable future is stuck in weird, experimental, existential limbo",
-      "summary_en": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For the past week, I've been testing the Google Pixel Watch 5. In many ways, it's a typical, modern smartwatch. […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google_pixel_watch_5_review5.jpg?quality=90&strip=all&crop=0%2C9.756192857701%2C100%2C80.487614284598&w=1200",
-      "link": "https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai",
-      "published": "2026-08-19T14:00:00-04:00",
-      "title_th": "อนาคตอุปกรณ์สวมใส่ติดอยู่ในขอบเขตที่แปลกประหลาด ทดลอง และดำรงอยู่",
-      "summary_th": "นี่คือ Optimizer ซึ่งเป็นจดหมายข่าวรายสัปดาห์ที่ส่งมาจาก Victoria Song นักวิจารณ์อาวุโสของ Verge ซึ่งวิเคราะห์และอภิปรายเกี่ยวกับอุปกรณ์และยาล่าสุดที่สาบานว่าสิ่งเหล่านี้จะเปลี่ยนชีวิตคุณ เลือกใช้เครื่องมือเพิ่มประสิทธิภาพที่นี่ ในช่วงสัปดาห์ที่ผ่านมา ฉันได้ทดสอบ Google Pixel Watch 5 ซึ่งเป็นสมาร์ทวอทช์สมัยใหม่ทั่วไปในหลายๆ ด้าน […]"
     },
     {
       "source": "Ars Technica",
@@ -185,6 +185,18 @@
     {
       "source": "Wired",
       "flag": "US",
+      "category": "ai",
+      "title_en": "Salmonella Is Everywhere",
+      "summary_en": "From granola to guacamole, a wide variety of foods have been recalled lately over salmonella risks. Experts say common-sense precautions go a long way.",
+      "image": "https://media.wired.com/photos/6a84e417f7b84b3670c55d44/master/pass/Science_WhySalmonellaIsEverywhere_v1.gif",
+      "link": "https://www.wired.com/story/salmonella-is-everywhere/",
+      "published": "Thu, 20 Aug 2026 09:00:00 +0000",
+      "title_th": "Salmonella มีอยู่ทั่วไป",
+      "summary_th": "ตั้งแต่กราโนล่าไปจนถึงกัวคาโมเล่ มีการเรียกคืนอาหารหลากหลายประเภทเมื่อเร็วๆ นี้เนื่องจากมีความเสี่ยงต่อเชื้อซัลโมเนลลา ผู้เชี่ยวชาญกล่าวว่าข้อควรระวังทั่วไปมีประโยชน์มาก"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
       "category": "gadget",
       "title_en": "Dell Coupon Codes: 20% Off for August 2026",
       "summary_en": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
@@ -193,18 +205,6 @@
       "published": "Thu, 20 Aug 2026 05:00:00 +0000",
       "title_th": "รหัสคูปองของ Dell: ลด 20% สำหรับเดือนสิงหาคม 2569",
       "summary_th": "รับส่วนลด 20% ด้วยรหัสส่งเสริมการขายของ Dell ที่ได้รับการยืนยันแล้ว พร้อมคูปองวันนี้สำหรับแล็ปท็อป จอภาพ Alienware และเทคโนโลยีทั้งหมดสูงสุดถึง $600"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "review",
-      "title_en": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
-      "summary_en": "Save over 25% when you opt for H&R Block’s free online offering, plus a tax pro review.",
-      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
-      "link": "https://www.wired.com/story/hr-block-coupon/",
-      "published": "Thu, 20 Aug 2026 05:00:00 +0000",
-      "title_th": "คูปอง H&R Block: ลด 25% DIY + Tax Pro Assist",
-      "summary_th": "ประหยัดมากกว่า 25% เมื่อคุณเลือกรับข้อเสนอออนไลน์ฟรีของ H&R Block พร้อมการตรวจสอบภาษีโปร"
     },
     {
       "source": "Wired",
@@ -221,6 +221,18 @@
     {
       "source": "Wired",
       "flag": "US",
+      "category": "review",
+      "title_en": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
+      "summary_en": "Save over 25% when you opt for H&R Block’s free online offering, plus a tax pro review.",
+      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
+      "link": "https://www.wired.com/story/hr-block-coupon/",
+      "published": "Thu, 20 Aug 2026 05:00:00 +0000",
+      "title_th": "คูปอง H&R Block: ลด 25% DIY + Tax Pro Assist",
+      "summary_th": "ประหยัดมากกว่า 25% เมื่อคุณเลือกรับข้อเสนอออนไลน์ฟรีของ H&R Block พร้อมการตรวจสอบภาษีโปร"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
       "category": "gadget",
       "title_en": "20% Off Samsung Promo Code | August 2026",
       "summary_en": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
@@ -231,16 +243,16 @@
       "summary_th": "ประหยัด 30% หรือ 10% ด้วยรหัสคูปอง Samsung สูงสุด $1,000 สำหรับเครื่องใช้ไฟฟ้า พร้อมข้อเสนอจำกัดเวลาสำหรับ Galaxy Z Fold7, Flip7 และ S25"
     },
     {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
       "category": "ai",
-      "title_en": "Elon Musk Is Expected to Point His Money Machine at Texas Politics",
-      "summary_en": "Sources tell WIRED that Elon Musk is expected to spend up to $200 million in the midterms. It could be a big boost for GOP Senate candidate Ken Paxton, who’s struggled to raise cash.",
-      "image": "https://media.wired.com/photos/6a84d184f7b84b3670c55c0f/master/pass/politics_elon_texas_election.jpg",
-      "link": "https://www.wired.com/story/elon-musk-is-expected-to-point-his-money-machine-at-texas/",
-      "published": "Wed, 19 Aug 2026 23:00:00 +0000",
-      "title_th": "Elon Musk คาดว่าจะชี้เครื่องเงินของเขาที่ Texas Politics",
-      "summary_th": "แหล่งข่าวบอก WIRED ว่า Elon Musk คาดว่าจะใช้จ่ายสูงถึง 200 ล้านดอลลาร์ในช่วงกลางภาคเรียน อาจเป็นประโยชน์อย่างมากสำหรับผู้สมัครวุฒิสภา GOP Ken Paxton ซึ่งกำลังดิ้นรนเพื่อหาเงิน"
+      "title_en": "Support networks aim to help kids through the polycrisis",
+      "summary_en": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about to be hit by an adult-size realization. “They were just quarried…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/260720_MIT_Polycrisis-thumb.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
+      "published": "Thu, 20 Aug 2026 09:00:00 +0000",
+      "title_th": "เครือข่ายสนับสนุนมีเป้าหมายเพื่อช่วยเหลือเด็กๆ ให้ผ่านพ้นวิกฤตการณ์หลายด้าน",
+      "summary_th": "ในช่วงปลายทศวรรษ 2000 พิม ซัลลิแวน-เทลยัวร์นั่งอยู่ท้ายรถ มุ่งหน้าไปยังเมืองเล็กๆ ของคุณยายทวดทางภาคใต้ของประเทศไทย เธอมองดูภูเขาใหญ่ผ่านไปนอกหน้าต่าง เธออายุเพียงหกขวบ แต่กำลังจะโดนโจมตีด้วยการรับรู้ในขนาดผู้ใหญ่ “พวกเขาเพิ่งถูกขุดขึ้นมา…"
     },
     {
       "source": "MIT Technology Review",
@@ -252,7 +264,7 @@
       "link": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
       "published": "Wed, 19 Aug 2026 12:10:00 +0000",
       "title_th": "การดาวน์โหลด: ปัญหาการพัฒนาตนเองของ AI และสิ่งที่ทำให้เกิดความร้อนแรง",
-      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี การพัฒนาตนเองแบบเรียกซ้ำของ AI อาจไม่เกิดขึ้นอย่างรวดเร็วนัก คำมั่นสัญญาที่ชัดเจนที่สุดของอุตสาหกรรม AI ในขณะนี้ก็คือ AI จะปรับปรุงตัวเองในไม่ช้า โดยแทบไม่จำเป็นต้องมีการควบคุมดูแลจากมนุษย์..."
+      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี การพัฒนาตนเองแบบเรียกซ้ำของ AI อาจไม่เกิดขึ้นอย่างรวดเร็วนัก คำมั่นสัญญาที่ชัดเจนที่สุดของอุตสาหกรรม AI ในตอนนี้ก็คือ AI จะปรับปรุงตัวเองในไม่ช้า โดยแทบไม่จำเป็นต้องมีการควบคุมดูแลจากมนุษย์..."
     },
     {
       "source": "MIT Technology Review",
@@ -291,16 +303,16 @@
       "summary_th": "บริษัท AI เช่น Anthropic และ OpenAI เผยแพร่รายงานเกี่ยวกับวิธีที่ผู้คนใช้ผลิตภัณฑ์เช่น Claude และ ChatGPT เป็นประจำ แต่พวกเขาเผยแพร่เฉพาะข้อมูลที่พวกเขาต้องการให้เราดูเท่านั้น นักวิจัย AI กล่าว “ไม่มีแหล่งข้อมูลอิสระที่จะยืนยันได้” Anka Reuel ผู้สมัครระดับปริญญาเอกสาขาวิทยาการคอมพิวเตอร์จาก Stanford Trustworthy AI Research กล่าว"
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "The role of the astronaut is in flux",
-      "summary_en": "When the four astronauts on board NASA’s Artemis II swung around the moon earlier this year, they set a new record for the farthest humans have ever ventured from Earth, surpassing the distance set by Apollo 13 in 1972 by some 4,000 miles. While no space mission can live up to the historic touchdown of…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/art002e009287large.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
-      "published": "Tue, 18 Aug 2026 09:00:00 +0000",
-      "title_th": "บทบาทของนักบินอวกาศกำลังอยู่ในช่วงฟุ้งซ่าน",
-      "summary_th": "เมื่อนักบินอวกาศทั้งสี่คนบนเรือ Artemis II ของ NASA หมุนรอบดวงจันทร์เมื่อต้นปีนี้ พวกเขาได้สร้างสถิติใหม่ว่ามนุษย์ที่อยู่ไกลที่สุดเท่าที่เคยผจญภัยไปจากโลก ซึ่งเกินกว่าระยะทางที่กำหนดโดย Apollo 13 ในปี 1972 ประมาณ 4,000 ไมล์ แม้ว่าจะไม่มีภารกิจในอวกาศใดที่สามารถดำเนินชีวิตตามทัชดาวน์ประวัติศาสตร์ของ..."
+      "category": "gadget",
+      "title_en": "Samsung is holding another Galaxy Event on August 27",
+      "summary_en": "Samsung says it will be launching a new addition to its S26 lineup next week.",
+      "image": "https://www.engadget.com/img/gallery/samsung-is-holding-another-galaxy-event-on-august-27/l-intro-1787214884.jpg",
+      "link": "https://www.engadget.com/2240584/samsung-galaxy-event-august-27/",
+      "published": "Thu, 20 Aug 2026 08:37:32 +0000",
+      "title_th": "Samsung จะจัดงาน Galaxy อีกครั้งในวันที่ 27 สิงหาคม",
+      "summary_th": "Samsung กล่าวว่าจะเปิดตัวผลิตภัณฑ์ใหม่ในกลุ่มผลิตภัณฑ์ S26 ในสัปดาห์หน้า"
     },
     {
       "source": "Engadget",
@@ -311,7 +323,7 @@
       "image": "https://www.engadget.com/img/gallery/waymo-ojai-vans-are-now-available-for-all-riders-in-three-cities/l-intro-1787173482.jpg",
       "link": "https://www.engadget.com/2240419/waymo-ojai-vans-are-now-available-for-all-riders-in-three-cities/",
       "published": "Wed, 19 Aug 2026 21:07:58 +0000",
-      "title_th": "ขณะนี้รถตู้ Waymo Ojai พร้อมให้บริการสำหรับผู้โดยสารทุกคนในสามเมือง",
+      "title_th": "ขณะนี้รถตู้ Waymo Ojai พร้อมให้บริการสำหรับผู้ขับขี่ทุกคนในสามเมือง",
       "summary_th": "ถือเป็นการเปิดตัวรถตู้ไร้คนขับเต็มรูปแบบในซานฟรานซิสโก ฟีนิกซ์ และลอสแองเจลิส"
     },
     {
@@ -349,18 +361,6 @@
       "published": "Wed, 19 Aug 2026 17:10:45 +0000",
       "title_th": "Meta AI มีแอปเดสก์ท็อปเฉพาะสำหรับ Mac แล้ว",
       "summary_th": "แอพ Mac ใหม่ของ Meta เป็นส่วนหนึ่งของการผลักดันของบริษัทในการสร้างเครื่องมือ AI ที่เป็นมิตรต่อธุรกิจมากขึ้น"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Google is trying to solve contrails with AI",
-      "summary_en": "Operation Blue Skies, which also involves the UK government, will subtly reroute flights to test contrail avoidance.",
-      "image": "https://www.engadget.com/img/gallery/google-is-trying-to-solve-contrails-with-ai/l-intro-1787158363.jpg",
-      "link": "https://www.engadget.com/2240125/google-is-trying-to-solve-contrails-with-ai/",
-      "published": "Wed, 19 Aug 2026 16:54:03 +0000",
-      "title_th": "Google กำลังพยายามแก้ไขคอนทราลด้วย AI",
-      "summary_th": "ปฏิบัติการบลูสกายส์ ซึ่งเกี่ยวข้องกับรัฐบาลสหราชอาณาจักรด้วย จะเปลี่ยนเส้นทางเที่ยวบินอย่างละเอียดเพื่อทดสอบการหลีกเลี่ยงเส้นทางบิน"
     },
     {
       "source": "IEEE Spectrum",
@@ -420,7 +420,7 @@
       "link": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
       "published": "Fri, 14 Aug 2026 17:27:12 +0000",
       "title_th": "ทำนายการเชื่อมต่อเสาอากาศบนแพลตฟอร์มไฟฟ้าขนาดใหญ่ก่อนสร้างฮาร์ดแวร์",
-      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นทำนายการต่อเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามแบบใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
+      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นทำนายการต่อเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามประการใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
     },
     {
       "source": "9to5Mac",
@@ -480,7 +480,7 @@
       "link": "https://9to5mac.com/2026/08/19/daily-august-19-2026/",
       "published": "Wed, 19 Aug 2026 23:06:38 +0000",
       "title_th": "9to5Mac รายวัน: 19 สิงหาคม 2569 – ข่าวลือ Apple TV 4K, โฆษณา Apple Maps",
-      "summary_th": "ฟังสรุปเรื่องเด่นประจำวันจาก 9to5Mac 9to5Mac Daily มีให้บริการบน iTunes และแอป Podcasts ของ Apple , Stitcher , TuneIn , Google Play หรือผ่านทางฟีด RSS เฉพาะของเราสำหรับ Overcast และเครื่องเล่นพอดแคสต์อื่นๆ สนับสนุนโดย Backblaze : ข้อมูลสำรองที่คุณวางใจได้ ประหยัด 20% ด้วยรหัส 9to5daily"
+      "summary_th": "ฟังสรุปเรื่องเด่นประจำวันจาก 9to5Mac 9to5Mac Daily มีให้บริการบน iTunes และแอป Podcasts ของ Apple , Stitcher , TuneIn , Google Play หรือผ่านทางฟีด RSS เฉพาะของเราสำหรับ Overcast และเครื่องเล่นพอดแคสต์อื่นๆ สนับสนุนโดย Backblaze : การสำรองข้อมูลที่คุณวางใจได้ ประหยัด 20% ด้วยรหัส 9to5daily"
     },
     {
       "source": "9to5Google",
@@ -599,7 +599,7 @@
       "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Heybike-EcoFlow-Anker-eufy-NIU-GDs-FI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "link": "https://electrek.co/2026/08/19/heybike-hero-mid-drive-e-bike-exclusive-ecoflow-power-station-flash-sale-more/",
       "published": "Wed, 19 Aug 2026 18:00:00 +0000",
-      "title_th": "Heybike Hero ขับเคลื่อนกลางคาร์บอนไฟเบอร์ e-bike ทุกพื้นที่ในราคาสุดพิเศษ 1,049.50 ใหม่ต่ำขายแฟลชสถานีพลังงาน EcoFlow และอีกมากมาย",
+      "title_th": "Heybike Hero ขับเคลื่อนกลาง e-bike คาร์บอนไฟเบอร์ทุกพื้นที่ในราคาสุดพิเศษ 1,049.50 ใหม่ต่ำ ขายแฟลชสถานีพลังงาน EcoFlow และอีกมากมาย",
       "summary_th": "ข้อเสนอสีเขียวกลางสัปดาห์ของเรานำโดยข้อตกลงพิเศษที่น่าทึ่งสำหรับจักรยานไฟฟ้า Heybike Hero 750W Mid-Drive Carbon-Fiber All-Terrain ในราคาต่ำใหม่ 1,049.50 ดอลลาร์ หลังจากนั้น เรามีส่วนลดแฟลชล่าสุดเป็นเวลา 48 ชั่วโมงของ EcoFlow พร้อมส่วนลดสูงสุดถึง 2,200 ดอลลาร์สำหรับสี่ยูนิต เช่น สถานีไฟฟ้าพกพา DELTA 3 Max 2,048Wh พร้อมแผงโซลาร์เซลล์แบบโมดูลาร์ 500W ในราคา 1,399 ดอลลาร์ นอกจากนี้ยังมีรายการข้อเสนอ EV ลดราคาครบรอบ 60 ปีที่ดีที่สุดสำหรับการซื้อในรุ่นต่างๆ จาก Segway, Lectric, Hiboy, NIU และอื่นๆ โดยเริ่มต้นที่ 284 ดอลลาร์ ชุดกล้องรักษาความปลอดภัยพลังงานแสงอาทิตย์ Anker eufyCam E40 แพ็ค 2 แพ็คพร้อมฮับ HomeBase ในราคา 180 ดอลลาร์ และอื่นๆ จาก Anker SOLIX, Jackery และ Velotric ด้านล่าง นอกจากนี้ยังมีข้อเสนออาการเมาค้างจากสองวันที่ผ่านมาที่ด้านล่างของหน้า เช่น ชุดแบตเตอรี่เสริม Lectric XPress2 ของเมื่อวาน"
     }
   ],
@@ -664,10 +664,131 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 266.0,
-      "change": 2.0,
-      "change_pct": 0.76
+      "price": 265.0,
+      "change": 1.0,
+      "change_pct": 0.38
     }
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Google Pixel 11/Pro/Fold Impressions: It Is What It Is",
+      "video_id": "o4SSoURPODY",
+      "link": "https://www.youtube.com/watch?v=o4SSoURPODY",
+      "thumbnail": "https://i4.ytimg.com/vi/o4SSoURPODY/hqdefault.jpg",
+      "published": "2026-08-12T14:00:35+00:00",
+      "title_th": "การแสดงผลของ Google Pixel 11/Pro/Fold: มันคือสิ่งที่เป็นอยู่"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Galaxy Z Fold 8 Review: Honeymoon's Over",
+      "video_id": "Z6z_feacXW8",
+      "link": "https://www.youtube.com/watch?v=Z6z_feacXW8",
+      "thumbnail": "https://i3.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg",
+      "published": "2026-08-01T00:05:00+00:00",
+      "title_th": "รีวิว Galaxy Z Fold 8: ฮันนีมูนจบลงแล้ว"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Framework 13 Pro: The Modular Laptop is Real!",
+      "video_id": "_xjxwl1zLMc",
+      "link": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
+      "thumbnail": "https://i4.ytimg.com/vi/_xjxwl1zLMc/hqdefault.jpg",
+      "published": "2026-07-27T15:38:21+00:00",
+      "title_th": "Framework 13 Pro: แล็ปท็อปแบบแยกส่วนมีจริง!"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Looking for a \"SecondBrain\"?",
+      "video_id": "SUA2xGy-beg",
+      "link": "https://www.youtube.com/shorts/SUA2xGy-beg",
+      "thumbnail": "https://i4.ytimg.com/vi/SUA2xGy-beg/hqdefault.jpg",
+      "published": "2026-08-18T14:54:12+00:00",
+      "title_th": "กำลังมองหา \"SecondBrain\" อยู่ใช่ไหม?"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "The New Insta360 Is Here...",
+      "video_id": "5eEjWmsoB7w",
+      "link": "https://www.youtube.com/shorts/5eEjWmsoB7w",
+      "thumbnail": "https://i2.ytimg.com/vi/5eEjWmsoB7w/hqdefault.jpg",
+      "published": "2026-08-17T14:00:32+00:00",
+      "title_th": "Insta360 ใหม่อยู่ที่นี่แล้ว..."
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "New Ninja Water Gadget",
+      "video_id": "8Ddp5WaMp_8",
+      "link": "https://www.youtube.com/shorts/8Ddp5WaMp_8",
+      "thumbnail": "https://i1.ytimg.com/vi/8Ddp5WaMp_8/hqdefault.jpg",
+      "published": "2026-08-13T17:52:31+00:00",
+      "title_th": "อุปกรณ์น้ำนินจาใหม่"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "ก้าวคนละก้าวกับพี่ตูน",
+      "video_id": "gQJLuy6ahyk",
+      "link": "https://www.youtube.com/shorts/gQJLuy6ahyk",
+      "thumbnail": "https://i4.ytimg.com/vi/gQJLuy6ahyk/hqdefault.jpg",
+      "published": "2026-08-19T17:15:16+00:00",
+      "title_th": "ก้าวคนละก้าวกับพี่ตูน"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "7 Eleven คิ้วท์สุดในไทยอยู่ที่ 'Happitat' !",
+      "video_id": "qQg3YCL9YPs",
+      "link": "https://www.youtube.com/shorts/qQg3YCL9YPs",
+      "thumbnail": "https://i2.ytimg.com/vi/qQg3YCL9YPs/hqdefault.jpg",
+      "published": "2026-08-19T06:24:36+00:00",
+      "title_th": "7 Eleven คิ้วท์สุดในไทยอยู่ที่ 'Happitat' !"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "แคดดี้เป็นได้ แต่ไม่ง่ายเหมือนกัน",
+      "video_id": "xvnOmFuAh3Y",
+      "link": "https://www.youtube.com/shorts/xvnOmFuAh3Y",
+      "thumbnail": "https://i1.ytimg.com/vi/xvnOmFuAh3Y/hqdefault.jpg",
+      "published": "2026-08-19T02:38:05+00:00",
+      "title_th": "แคดดี้เป็นได้ แต่ไม่ง่ายเหมือนกัน"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "ถ้าซื้อมือถือ vivo ราคา 80,000 บาท จะได้กล่องแบบนี้ #vivo #vivoX300Ultra",
+      "video_id": "l-JvMGvmrOE",
+      "link": "https://www.youtube.com/shorts/l-JvMGvmrOE",
+      "thumbnail": "https://i1.ytimg.com/vi/l-JvMGvmrOE/hqdefault.jpg",
+      "published": "2026-08-19T13:06:03+00:00",
+      "title_th": "ถ้าซื้อมือถือ vivo ราคา 80,000 บาท จะได้กล่องแบบนี้ #vivo #vivoX300Ultra"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "แนะนำซื้อ iPhone ตอนนี้ดีกว่า ก่อน iPhone 18 จะมา หรือโดนปรับราคาแพงขึ้น #iPhone17 #ราคาไอโฟน",
+      "video_id": "1jVh7Hc-MXs",
+      "link": "https://www.youtube.com/shorts/1jVh7Hc-MXs",
+      "thumbnail": "https://i2.ytimg.com/vi/1jVh7Hc-MXs/hqdefault.jpg",
+      "published": "2026-08-18T12:45:57+00:00",
+      "title_th": "แนะนำซื้อ iPhone ตอนนี้ดีกว่า ก่อน iPhone 18 จะมา หรือโดนปรับราคาแพงขึ้น #iPhone17 #ราคาไอโฟน"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "ใครแบตอึดที่สุด REDMI Note 17 Pro Max 5G แบต 10000mAh #REDMI #REDMINote17Series #REDMINote17ProMax5G",
+      "video_id": "5qt1rI_EwPI",
+      "link": "https://www.youtube.com/shorts/5qt1rI_EwPI",
+      "thumbnail": "https://i2.ytimg.com/vi/5qt1rI_EwPI/hqdefault.jpg",
+      "published": "2026-08-18T04:23:40+00:00",
+      "title_th": "ใครแบตอึดที่สุด REDMI Note 17 Pro Max 5G แบต 10000mAh #REDMI #REDMINote17Series #REDMINote17ProMax5G"
+    }
+  ]
 }
