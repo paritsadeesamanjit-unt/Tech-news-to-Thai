@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-21T15:23:07.378285+00:00",
+  "generated_at": "2026-08-21T18:20:37.182137+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "ev",
+      "title_en": "Tesla’s solar roof is dead. Here’s what went wrong",
+      "summary_en": "Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the concept of roof-integrated solar is dead?",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1233610093.jpeg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
+      "published": "Fri, 21 Aug 2026 18:09:53 +0000",
+      "title_th": "หลังคาโซลาร์รูฟของ Tesla หมดแล้ว นี่คือสิ่งที่ผิดพลาด",
+      "summary_th": "หลังคาพลังงานแสงอาทิตย์ของ Tesla เป็นการทดลองที่ไม่เคยได้ผลสำหรับบริษัทเลย แต่นั่นหมายความว่าแนวคิดเรื่องพลังงานแสงอาทิตย์แบบรวมหลังคาได้ตายไปแล้วใช่หรือไม่"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Why is the DOJ investigating Andreessen Horowitz’s board seats?",
+      "summary_en": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that’s rarely used against VCs. Board conflicts aren’t exactly new, and these companies weren’t necessarily direct competitors when a16z first invested […]",
+      "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+      "link": "https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/",
+      "published": "Fri, 21 Aug 2026 16:53:39 +0000",
+      "title_th": "เหตุใด DOJ จึงสอบสวนที่นั่งคณะกรรมการของ Andreessen Horowitz",
+      "summary_th": "Andreessen Horowitz มีหุ้นส่วนสองคนนั่งอยู่ในกระดานของบริษัทที่ปัจจุบันแข่งขันกัน: Ben Horowitz ที่ Databricks และ Martin Casado ที่ Fivetran ไม่มีอะไรที่อื้อฉาวเกินไปบนพื้นผิว ยกเว้นมีรายงานว่ากระทรวงยุติธรรมได้สอบสวนข้อตกลงนี้มาเกือบหนึ่งปีแล้ว โดยปัดฝุ่นกฎหมายต่อต้านการผูกขาดอายุ 112 ปีที่ไม่ค่อยใช้กับ VCs ความขัดแย้งของคณะกรรมการไม่ใช่เรื่องใหม่เสียทีเดียว และบริษัทเหล่านี้ไม่จำเป็นต้องเป็นคู่แข่งโดยตรงเมื่อ a16z ลงทุนครั้งแรก […]"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "review",
+      "title_en": "US government lab is probing Chinese lidar for security vulnerabilities",
+      "summary_en": "The security review is being performed by the Idaho National Laboratory, and the research is being funded by a company -- or a group of companies -- in the electric and autonomous vehicle industries.",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/01/hesai-baidu-getty.jpg?resize=1200,799",
+      "link": "https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/",
+      "published": "Fri, 21 Aug 2026 16:01:54 +0000",
+      "title_th": "ห้องปฏิบัติการของรัฐบาลสหรัฐฯ กำลังตรวจสอบช่องโหว่ด้านความปลอดภัยของจีน",
+      "summary_th": "การตรวจสอบความปลอดภัยดำเนินการโดยห้องปฏิบัติการแห่งชาติไอดาโฮ และการวิจัยได้รับทุนจากบริษัทหรือกลุ่มบริษัทในอุตสาหกรรมยานยนต์ไฟฟ้าและรถยนต์ไร้คนขับ"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -27,40 +63,40 @@
       "summary_th": "กำลังจะเกิดการต่อสู้ครั้งใหญ่เพื่อรักษาความปลอดภัยในการเข้าถึงอวกาศ"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "ev",
-      "title_en": "Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles",
-      "summary_en": "Tesla and eight other automakers will install warning labels that help occupants identify the often hard-to-find manual door releases.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1252658003.jpg?resize=1200,675",
-      "link": "https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/",
-      "published": "Fri, 21 Aug 2026 13:48:26 +0000",
-      "title_th": "เทสลาเรียกคืนรถยนต์ 3 ล้านคันในจีน ส่วนหนึ่งของการผลักดันให้หยุดการซ่อนมือจับประตูทั่วประเทศจีน",
-      "summary_th": "เทสลาและผู้ผลิตรถยนต์อีก 8 รายจะติดตั้งป้ายเตือนที่ช่วยให้ผู้โดยสารระบุการเปิดประตูแบบแมนนวลซึ่งมักพบเห็นได้ยาก"
+      "category": "software",
+      "title_en": "Walmart is finally adding Apple Pay and Google Pay",
+      "summary_en": "Walmart will soon allow you to pay for your items with Google Pay or Apple Pay. In an announcement on Friday, Walmart says it's going to bring tap-to-pay capabilities to \"select\" Walmart and Sam's Club locations starting August 24th, before rolling out support to all US stores by the end of 2026 and gas stations […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2247092603.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "link": "https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch",
+      "published": "2026-08-21T13:01:59-04:00",
+      "title_th": "ในที่สุด Walmart ก็เพิ่ม Apple Pay และ Google Pay",
+      "summary_th": "Walmart จะอนุญาตให้คุณชำระค่าสินค้าด้วย Google Pay หรือ Apple Pay ได้ในเร็วๆ นี้ ในการประกาศเมื่อวันศุกร์ Walmart กล่าวว่าจะนำความสามารถแบบแตะเพื่อจ่ายมา \"เลือก\" สถานที่ตั้งของ Walmart และ Sam's Club ตั้งแต่วันที่ 24 สิงหาคม ก่อนที่จะเริ่มให้การสนับสนุนร้านค้าในสหรัฐฯ ทั้งหมดภายในสิ้นปี 2569 และปั๊มน้ำมัน […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants",
-      "summary_en": "The private equity giant confirms a breach, weeks after Google researchers said hackers were targeting financial companies.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/apollo-1825445522.jpg?resize=1200,801",
-      "link": "https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/",
-      "published": "Fri, 21 Aug 2026 13:35:23 +0000",
-      "title_th": "บริษัทหุ้นเอกชน Apollo ยืนยันการละเมิดข้อมูลท่ามกลางกระแสการแฮ็กที่มุ่งเป้าไปที่บริษัทยักษ์ใหญ่ทางการเงิน",
-      "summary_th": "บริษัทหุ้นเอกชนยักษ์ใหญ่ยืนยันการละเมิด ไม่กี่สัปดาห์หลังจากที่นักวิจัยของ Google กล่าวว่าแฮกเกอร์กำหนดเป้าหมายไปที่บริษัททางการเงิน"
+      "category": "software",
+      "title_en": "Microsoft and Discord subpoenaed over GTA VI gameplay leaks",
+      "summary_en": "Following several apparent video leaks of Grand Theft Auto VI, Take-Two Interactive has subpoenaed Microsoft and Discord over content that \"infringes copyrights\" held for the game, Kotaku reports. In the subpoenas, filed on Thursday, Take-Two says copyrighted material includes \"audiovisual content, artwork, images, dialogue, or other creative elements\" and it is looking to identify \"alleged […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jason_Duval_02.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "link": "https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed",
+      "published": "2026-08-21T12:52:56-04:00",
+      "title_th": "Microsoft และ Discord ถูกหมายเรียกเกี่ยวกับการรั่วไหลของการเล่นเกม GTA VI",
+      "summary_th": "หลังจากวิดีโอรั่วไหลของ Grand Theft Auto VI หลายครั้ง Take-Two Interactive ได้ออกหมายเรียก Microsoft และ Discord เกี่ยวกับเนื้อหาที่ \"ละเมิดลิขสิทธิ์\" ที่จัดขึ้นสำหรับเกม Kotaku รายงาน ในหมายเรียกที่ยื่นเมื่อวันพฤหัสบดี Take-Two กล่าวว่าเนื้อหาที่มีลิขสิทธิ์รวมถึง \"เนื้อหาภาพและเสียง งานศิลปะ รูปภาพ บทสนทนา หรือองค์ประกอบเชิงสร้างสรรค์อื่นๆ\" และกำลังมองหาการระบุ \"ที่ถูกกล่าวหา […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "review",
-      "title_en": "Senator asks US government watchdog to review how feds use hacking tools",
-      "summary_en": "Senator Ron Wyden sent a letter to the U.S. federal watchdog requesting a comprehensive review of how the FBI, DEA, ICE's HSI, and the Secret Service use hacking tools and spyware against Americans.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/sen-ron-wyden.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/",
-      "published": "Fri, 21 Aug 2026 13:05:00 +0000",
-      "title_th": "วุฒิสมาชิกขอให้หน่วยงานเฝ้าระวังของรัฐบาลสหรัฐฯ ทบทวนวิธีที่ feds ใช้เครื่องมือแฮ็ก",
-      "summary_th": "วุฒิสมาชิกรอน ไวเดนส่งจดหมายถึงหน่วยงานเฝ้าระวังของรัฐบาลกลางสหรัฐฯ เพื่อขอให้มีการทบทวนอย่างละเอียดว่า FBI, DEA, HSI ของ ICE และหน่วยสืบราชการลับใช้เครื่องมือแฮ็กและสปายแวร์กับชาวอเมริกันอย่างไร"
+      "category": "gadget",
+      "title_en": "Pixel 11 gets in on the digicam trend",
+      "summary_en": "I recently looked back at a photo I'd taken on a smartphone in 2014, and I was struck by just how good it looked. The details were soft, the shadows were dark. It was the kind of photo I felt like I hadn't seen out of a phone in years. That might be changing, though. […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VST082126_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend",
+      "published": "2026-08-21T12:27:05-04:00",
+      "title_th": "Pixel 11 เข้าสู่เทรนด์กล้องดิจิตอล",
+      "summary_th": "เมื่อเร็วๆ นี้ ฉันย้อนกลับไปดูรูปถ่ายที่ฉันถ่ายด้วยสมาร์ทโฟนในปี 2014 และฉันรู้สึกทึ่งกับความดูดีของมัน รายละเอียดมีความนุ่มนวล ส่วนเงาก็มืด มันเป็นรูปถ่ายที่ฉันรู้สึกเหมือนไม่ได้เห็นจากโทรศัพท์มาหลายปีแล้ว นั่นอาจมีการเปลี่ยนแปลงแม้ว่า […]"
     },
     {
       "source": "The Verge",
@@ -80,47 +116,11 @@
       "category": "software",
       "title_en": "Major YouTube creators are facing backlash for accepting AI money",
       "summary_en": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight Higgsfield's recently added Seedance 2.5 functionality and pitch these technologies as the future of video production. In response to these videos, […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-21-at-8.45.31-AM.png?quality=90&strip=all&crop=2.3930497303775%2C0%2C95.213900539245%2C100&w=1200",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ai-label_eb9dbb.jpg?quality=90&strip=all&crop=0%2C11.121766626924%2C100%2C77.756466746151&w=1200",
       "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
       "published": "2026-08-21T09:37:52-04:00",
       "title_th": "ผู้สร้าง YouTube รายใหญ่กำลังเผชิญกระแสตอบรับจากการรับเงิน AI",
       "summary_th": "ในช่วงไม่กี่วันที่ผ่านมา ผู้สร้างเนื้อหาการสร้างภาพยนตร์ที่มีชื่อเสียงจำนวนหนึ่ง รวมถึง Matti Haapoja และ Sam \"Kold\" Kolder ได้โพสต์วิดีโอของตัวเองที่สาธิตสิ่งที่เป็นไปได้ด้วยแพลตฟอร์ม AI Higgsfield วิดีโอดังกล่าวเน้นย้ำถึงฟังก์ชัน Seedance 2.5 ที่เพิ่งเพิ่มเข้ามาของ Higgsfield และนำเสนอเทคโนโลยีเหล่านี้เป็นอนาคตของการผลิตวิดีโอ เพื่อตอบสนองต่อวิดีโอเหล่านี้ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Blue Eye Samurai’s second season will hit Netflix in January",
-      "summary_en": "Good news for Blue Eye Samurai fans: Netflix has shared the first trailer and release timeline for the second season of the animated series, and confirmed the series' return for a third and final season. The second season's new teaser ends with the announcement that it'll be available to stream on Netflix in January 2027, […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Blue-Eye-Samurai-Season-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/streaming/983203/blue-eye-samurai-season-2-release-date-renewal",
-      "published": "2026-08-21T09:20:29-04:00",
-      "title_th": "ซีซั่นที่สองของ Blue Eye Samurai จะฉายทาง Netflix ในเดือนมกราคม",
-      "summary_th": "ข่าวดีสำหรับแฟนๆ Blue Eye Samurai: Netflix ได้แชร์ตัวอย่างแรกและลำดับเวลาการฉายของซีรีส์แอนิเมชั่นซีซันที่ 2 และยืนยันการกลับมาของซีรีส์นี้ในซีซั่นที่ 3 ซึ่งเป็นซีซั่นสุดท้าย ทีเซอร์ใหม่ของซีซันที่สองจบลงด้วยการประกาศว่าจะสามารถสตรีมได้ทาง Netflix ในเดือนมกราคม 2027 […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "ev",
-      "title_en": "Tesla sunsets its Solar Roof tiles",
-      "summary_en": "Tesla has discontinued Solar Roof, its solar panels designed to look like regular roofing tiles, Electrek reports. Sources \"close to the program\" told the publication that Tesla has informed its third-party installer network that Solar Roof is no longer available to order, and that only conventional solar panels will be supplied going forward. While Tesla […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/7369261/2016-10-28_at_5.57_PM.0.png?quality=90&strip=all&crop=3.1283444816054,0,93.743311036789,100",
-      "link": "https://www.theverge.com/tech/983167/tesla-solar-roof-tiles-discontinued",
-      "published": "2026-08-21T08:01:07-04:00",
-      "title_th": "Tesla ปิดกระเบื้องหลังคาโซลาร์รูฟ",
-      "summary_th": "Tesla เลิกผลิตแผงโซลาร์รูฟแล้ว แผงโซลาร์เซลล์ได้รับการออกแบบให้ดูเหมือนกระเบื้องมุงหลังคาทั่วไป Electrek รายงาน แหล่งข่าว \"ใกล้กับโครงการ\" บอกกับสื่อสิ่งพิมพ์ว่า Tesla ได้แจ้งเครือข่ายผู้ติดตั้งบุคคลที่สามว่า Solar Roof ไม่สามารถสั่งซื้อได้อีกต่อไป และจะจัดหาเฉพาะแผงโซลาร์เซลล์แบบธรรมดาเท่านั้นนับจากนี้เป็นต้นไป ในขณะที่เทสลา […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "My cats hate each other, but this automatic feeder is helping",
-      "summary_en": "Over the course of nearly a decade, my husband and I have dutifully carried out a four-times-daily ritual of feeding a pair of lovely cat siblings who hate each other. This was mostly manageable for years, but in 2024, disaster struck for my small dependents: We had a child. Suddenly, the cats were no longer […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_AUTOMATIC_FEEDER.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/gadgets/982897/automatic-feeder-cat-enemies",
-      "published": "2026-08-21T07:30:00-04:00",
-      "title_th": "แมวของฉันเกลียดกัน แต่เครื่องป้อนอัตโนมัตินี้ช่วยได้",
-      "summary_th": "ตลอดระยะเวลาเกือบหนึ่งทศวรรษ ฉันและสามีได้ปฏิบัติภารกิจให้อาหารน้องแมวแสนน่ารักคู่หนึ่งที่เกลียดชังกันวันละสี่ครั้งต่อวัน ซึ่งส่วนใหญ่จัดการได้เป็นเวลาหลายปี แต่ในปี 2024 ภัยพิบัติได้เกิดขึ้นกับผู้อยู่ในความอุปการะเล็กๆ ของฉัน นั่นคือ เรามีลูก ทันใดนั้นแมวก็ไม่ […]"
     },
     {
       "source": "Ars Technica",
@@ -179,7 +179,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg",
       "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
       "published": "Fri, 14 Aug 2026 17:03:54 +0000",
-      "title_th": "สถานี PBS กลัวการสูญเสียข้อมูล 50TB หลังจากถูกโกสต์โดยผู้ให้บริการพื้นที่เก็บข้อมูลบนคลาวด์",
+      "title_th": "สถานี PBS กลัวสูญเสียข้อมูล 50TB หลังจากถูกโกสต์โดยผู้ให้บริการพื้นที่เก็บข้อมูลบนคลาวด์",
       "summary_th": "“เราไม่สามารถเข้าถึงข้อมูลบนฮาร์ดแวร์/เซิร์ฟเวอร์ได้” Iron Mountain กล่าวกับ Ars"
     },
     {
@@ -240,7 +240,7 @@
       "link": "https://www.wired.com/story/when-the-packaging-is-the-product-empty-boxes-influencers/",
       "published": "Fri, 21 Aug 2026 10:30:00 +0000",
       "title_th": "ผู้มีอิทธิพลและผู้ค้าปลีกกำลังเปลี่ยนกล่องเปล่าให้เป็นเงินสดก้อนโต",
-      "summary_th": "ในขณะที่ความต้องการ \"ของแท้\" เพิ่มมากขึ้นทางออนไลน์ ผู้สร้างเนื้อหากำลังซื้อกล่องเปล่าสำหรับสินค้าฟุ่มเฟือย และผู้ค้าปลีกก็กำลังหาเงินเพื่อ \"ราคาที่บ้าระห่ำ\""
+      "summary_th": "ในขณะที่ความต้องการ \"ของแท้\" เพิ่มมากขึ้นทางออนไลน์ ผู้สร้างเนื้อหากำลังซื้อกล่องเปล่าสำหรับสินค้าฟุ่มเฟือย และผู้ค้าปลีกก็กำลังหาเงินด้วย \"ราคาที่บ้าระห่ำ\""
     },
     {
       "source": "MIT Technology Review",
@@ -299,8 +299,56 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/smokescreen.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
       "published": "Thu, 20 Aug 2026 15:42:39 +0000",
-      "title_th": "การถกเถียงเรื่องจิตสำนึกของ AI เป็นกับดัก",
+      "title_th": "การถกเถียงเรื่องจิตสำนึกของ AI นั้นเป็นกับดัก",
       "summary_th": "AI “ผู้หลบหนี” เจ้าหน้าที่ “โกง” และนักแสดง “อิสระ”—วาทศิลป์ในปัจจุบันจะทำให้คุณเชื่อว่าเจ้าหน้าที่ AI ไม่เพียงแต่ตื่นตัวและตระหนักรู้เท่านั้น แต่ยังโกรธผู้สร้างของพวกเขาด้วย ผู้นำด้านเทคโนโลยีที่มีชื่อเสียง เช่น Demis Hassabis, Dario Amodei และ Sam Altman ผลักดันให้มีการควบคุมระบบที่ดูเหมือน \"เหนือมนุษย์\" เหล่านี้ ในขณะที่ฝ่ายที่แยกจากกัน นำโดยองค์กรนโยบาย..."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Tokyo's Sushi Bus combines conveyor belt dining with open-air sightseeing",
+      "summary_en": "Tokyo's Sushi Bus combines conveyor belt dining with open-air sightseeing.",
+      "image": "https://www.engadget.com/img/gallery/tokyos-sushi-bus-combines-conveyor-belt-dining-with-open-air-sightseeing/l-intro-1787335669.jpg",
+      "link": "https://www.engadget.com/2241785/tokyos-sushi-bus-combines-conveyor-belt-dining-with-open-air-sightseeing/",
+      "published": "Fri, 21 Aug 2026 18:09:50 +0000",
+      "title_th": "รถบัสซูชิของโตเกียวผสมผสานการรับประทานอาหารบนสายพานลำเลียงเข้ากับการเที่ยวชมกลางแจ้ง",
+      "summary_th": "รถบัสซูชิของโตเกียวผสมผสานการรับประทานอาหารบนสายพานลำเลียงเข้ากับการเที่ยวชมสถานที่กลางแจ้ง"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "ev",
+      "title_en": "Tesla and others recall over 4 million vehicles in China over hidden door handles",
+      "summary_en": "Tesla and others recall over 4 million vehicles in China over door handles.",
+      "image": "https://www.engadget.com/img/gallery/tesla-and-others-recall-over-4-million-vehicles-in-china-over-hidden-door-handles/l-intro-1787333668.jpg",
+      "link": "https://www.engadget.com/2241760/tesla-and-others-recall-over-4-million-vehicles-in-china-over-hidden-door-handles/",
+      "published": "Fri, 21 Aug 2026 17:36:49 +0000",
+      "title_th": "เทสลาและบริษัทอื่นๆ เรียกคืนรถยนต์กว่า 4 ล้านคันในจีน เหตุซ่อนมือจับประตู",
+      "summary_th": "เทสลาและบริษัทอื่นๆ เรียกคืนรถยนต์กว่า 4 ล้านคันในจีน เหตุเพราะมือจับประตู"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "We have more details on Apple's camera-equipped AirPods and they are pretty dang weird",
+      "summary_en": "Each earbud takes its own image, which is then synchronized for use by Visual Intelligence.",
+      "image": "https://www.engadget.com/img/gallery/we-have-more-details-on-apples-camera-equipped-airpods-and-they-are-pretty-dang-weird/l-intro-1787327785.jpg",
+      "link": "https://www.engadget.com/2241639/more-details-on-apple-camera-equipped-airpods/",
+      "published": "Fri, 21 Aug 2026 16:00:06 +0000",
+      "title_th": "เรามีรายละเอียดเพิ่มเติมเกี่ยวกับ AirPods ที่ติดตั้งกล้องของ Apple และพวกมันค่อนข้างแปลก",
+      "summary_th": "หูฟังเอียร์บัดแต่ละตัวจะมีภาพของตัวเอง จากนั้นจึงซิงโครไนซ์เพื่อใช้งานโดย Visual Intelligence"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Can you use a satellite dish as a free TV antenna? It depends where you live",
+      "summary_en": "A satellite dish left by previous owners may yet have something to offer today. Here's what it can and can't do.",
+      "image": "https://www.engadget.com/img/gallery/can-you-use-a-satellite-dish-as-a-free-tv-antenna-it-depends-where-you-live/l-intro-1786979214.jpg",
+      "link": "https://www.engadget.com/2240106/can-you-use-satellite-dish-as-free-tv-antenna/",
+      "published": "Fri, 21 Aug 2026 15:30:00 +0000",
+      "title_th": "คุณสามารถใช้จานดาวเทียมเป็นเสาอากาศทีวีฟรีได้หรือไม่? มันขึ้นอยู่กับว่าคุณอาศัยอยู่ที่ไหน",
+      "summary_th": "จานดาวเทียมที่เจ้าของคนก่อนทิ้งไว้อาจมีบางสิ่งที่จะนำเสนอในวันนี้ นี่คือสิ่งที่ทำได้และไม่สามารถทำได้"
     },
     {
       "source": "Engadget",
@@ -315,54 +363,6 @@
       "summary_th": "ความคิดของเราเกี่ยวกับ smartwatch ใหม่ของ Google ในปัจจุบัน"
     },
     {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Child safety experts are skeptical of OpenAI's ChatGPT for Teens",
-      "summary_en": "They say the company must prove it can be trusted before products like these get a pass.",
-      "image": "https://www.engadget.com/img/gallery/child-safety-experts-are-skeptical-of-openais-chatgpt-for-teens/l-intro-1787256369.jpg",
-      "link": "https://www.engadget.com/2241179/child-safety-experts-skeptical-of-openai-chatgpt-for-teens/",
-      "published": "Fri, 21 Aug 2026 13:00:00 +0000",
-      "title_th": "ผู้เชี่ยวชาญด้านความปลอดภัยของเด็กไม่เชื่อ ChatGPT สำหรับวัยรุ่นของ OpenAI",
-      "summary_th": "พวกเขากล่าวว่าบริษัทจะต้องพิสูจน์ว่าเชื่อถือได้ก่อนที่ผลิตภัณฑ์ประเภทนี้จะผ่านพ้นไป"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "ChatGPT on Mac can now read and respond to Apple iMessages",
-      "summary_en": "OpenAI has rolled out a plugin that allows ChatGPT to control the Apple Messages app.",
-      "image": "https://www.engadget.com/img/gallery/chatgpt-on-mac-can-now-read-and-respond-to-apple-imessages/l-intro-1787306892.jpg",
-      "link": "https://www.engadget.com/2241390/openai-chatgpt-imessage-integration/",
-      "published": "Fri, 21 Aug 2026 10:09:33 +0000",
-      "title_th": "ChatGPT บน Mac สามารถอ่านและตอบกลับ Apple iMessages ได้แล้ว",
-      "summary_th": "OpenAI ได้เปิดตัวปลั๊กอินที่ช่วยให้ ChatGPT สามารถควบคุมแอป Apple Messages ได้"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "ev",
-      "title_en": "Nevada allows Uber, Tesla and Waymo to start paid robotaxi service",
-      "summary_en": "Nevada's transportation authorities approved the companies' application to charge for robotaxi rides.",
-      "image": "https://www.engadget.com/img/gallery/nevada-allows-uber-tesla-and-waymo-to-start-paid-robotaxi-service/l-intro-1787301948.jpg",
-      "link": "https://www.engadget.com/2241379/nevada-allows-uber-tesla-waymo-paid-robotaxis/",
-      "published": "Fri, 21 Aug 2026 08:47:02 +0000",
-      "title_th": "เนวาดาอนุญาตให้ Uber, Tesla และ Waymo เริ่มบริการ robotaxi แบบชำระเงินได้",
-      "summary_th": "หน่วยงานขนส่งของเนวาดาอนุมัติใบสมัครของบริษัทให้เรียกเก็บเงินค่าแท็กซี่โรโบแท็กซี่"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Genesis' GV90 NeoLun is a luxury electric SUV with heated floors and coach doors",
-      "summary_en": "Genesis' new electric SUV is loaded with innovation, but not in the dash or drivetrain as you might expect.",
-      "image": "https://www.engadget.com/img/gallery/genesis-gv90-neolun-is-a-luxury-electric-suv-with-heated-floors-and-coach-doors/l-intro-1787290978.jpg",
-      "link": "https://www.engadget.com/2241354/genesis-gv90-neolun-luxury-suv-heated-floors-coach-doors/",
-      "published": "Fri, 21 Aug 2026 05:43:35 +0000",
-      "title_th": "Genesis 'GV90 NeoLun เป็น SUV ไฟฟ้าที่หรูหราพร้อมพื้นระบบทำความร้อนและประตูรถโค้ช",
-      "summary_th": "SUV ไฟฟ้าใหม่ของ Genesis เต็มไปด้วยนวัตกรรม แต่ไม่ใช่ในแผงหน้าปัดหรือระบบขับเคลื่อนอย่างที่คุณคาดหวัง"
-    },
-    {
       "source": "IEEE Spectrum",
       "flag": "US",
       "category": "robot",
@@ -372,7 +372,7 @@
       "link": "https://event.on24.com/wcc/r/5460332/DAFEFF7A68EE900DEA7A14356089B553?utm_source=IEEE&utm_medium=site&utm_campaign=922",
       "published": "Fri, 21 Aug 2026 14:32:37 +0000",
       "title_th": "หยุดการล่าสัตว์ เริ่มแก้ไข: เร่งการวิเคราะห์สาเหตุที่แท้จริงด้วย Agentic AI",
-      "summary_th": "เกี่ยวกับการสัมมนาผ่านเว็บนี้ เปลี่ยนการสำรวจสาเหตุผลผลิตให้เร็วขึ้นและมั่นใจยิ่งขึ้น การวิเคราะห์สาเหตุที่แท้จริง เมื่อปัญหาผลผลิตเกิดขึ้น คำตอบแทบจะไม่อยู่ในระบบเดียว เบาะแสที่สำคัญจะกระจายไปตามข้อมูลมาตรวิทยา ร่องรอยเครื่องมือ การวิเคราะห์ทางเคมี และระบบอำนวยความสะดวก ในขณะที่ปริมาณข้อมูลที่เพิ่มขึ้นทำให้แดชบอร์ดแบบเดิมทำงานช้าลง กระจัดกระจาย และดำเนินการได้ยาก สิ่งที่คุณจะได้เรียนรู้: ค้นพบว่าแพลตฟอร์มการวิเคราะห์เซมิคอนดักเตอร์ที่สร้างขึ้นตามวัตถุประสงค์เฉพาะสามารถช่วยวิศวกรเชื่อมต่อข้อมูลเชิงลึกข้ามโดเมนโดยไม่ต้องย้ายข้อมูลได้อย่างไร ดูว่า Agentic AI การแสดงภาพข้อมูลเฉพาะเซมิคอนดักเตอร์ และการประมวลผลแบบกดลงช่วยให้ตรวจสอบการเบี่ยงเบนของผลผลิตและปัญหากระบวนการได้เร็วขึ้น แม้จะข้ามจุดข้อมูลนับพันล้านจุดก็ตาม ในเซสชั่นนี้ การสาธิตสดจะแสดงวิธีดำเนินการตรวจสอบสาเหตุต้นตอของโดเมนหลายโดเมน"
+      "summary_th": "เกี่ยวกับการสัมมนาผ่านเว็บนี้ เปลี่ยนการสำรวจสาเหตุผลผลิตให้เร็วขึ้นและมั่นใจยิ่งขึ้น การวิเคราะห์สาเหตุที่แท้จริง เมื่อปัญหาผลผลิตเกิดขึ้น คำตอบแทบจะไม่อยู่ในระบบเดียว เบาะแสที่สำคัญจะกระจายไปตามข้อมูลมาตรวิทยา ร่องรอยเครื่องมือ การวิเคราะห์ทางเคมี และระบบอำนวยความสะดวก ในขณะที่ปริมาณข้อมูลที่เพิ่มขึ้นทำให้แดชบอร์ดแบบเดิมทำงานช้าลง กระจัดกระจาย และดำเนินการได้ยาก สิ่งที่คุณจะได้เรียนรู้: ค้นพบว่าแพลตฟอร์มการวิเคราะห์เซมิคอนดักเตอร์ที่สร้างขึ้นตามวัตถุประสงค์เฉพาะสามารถช่วยวิศวกรเชื่อมต่อข้อมูลเชิงลึกข้ามโดเมนโดยไม่ต้องย้ายข้อมูลได้อย่างไร ดูว่า Agentic AI การแสดงภาพข้อมูลเฉพาะเซมิคอนดักเตอร์ และการประมวลผลแบบกดลงช่วยให้ตรวจสอบการเบี่ยงเบนของผลผลิตและปัญหากระบวนการได้เร็วขึ้น แม้จะข้ามจุดข้อมูลนับพันล้านจุดก็ตาม ในเซสชั่นนี้ การสาธิตสดจะแสดงวิธีดำเนินการตรวจสอบสาเหตุต้นตอของหลายโดเมน"
     },
     {
       "source": "IEEE Spectrum",
@@ -425,122 +425,170 @@
     {
       "source": "9to5Mac",
       "flag": "",
+      "category": "gadget",
+      "title_en": "Grok Bot is an all-new iPhone and Mac app from SpaceXAI and Cursor [U]",
+      "summary_en": "SpaceXAI and Cursor are in the process of becoming a single company , but first, the two firms are releasing an all-new iPhone and Mac app called Grok Bot.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/grokbot.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/21/grok-bot-is-an-all-new-iphone-and-mac-app-from-spacexai-and-cursor/",
+      "published": "Fri, 21 Aug 2026 18:16:22 +0000",
+      "title_th": "Grok Bot เป็นแอป iPhone และ Mac ใหม่ล่าสุดจาก SpaceXAI และ Cursor [U]",
+      "summary_th": "SpaceXAI และ Cursor อยู่ในระหว่างการเป็นบริษัทเดียว แต่ก่อนอื่น ทั้งสองบริษัทกำลังเปิดตัวแอป iPhone และ Mac ใหม่ทั้งหมดที่เรียกว่า Grok Bot"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "iPhone 18 Pro release date: Here’s when Apple’s new flagship is coming",
+      "summary_en": "Apple’s new flagship iPhone 18 Pro and iPhone Ultra will be unveiled soon, following the same release pattern the company has kept for years. Here’s when to expect the iPhone 18 Pro announcement and release date, plus details on the lineup.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/21/iphone-18-release-date-when-apples-new-model-is-coming/",
+      "published": "Fri, 21 Aug 2026 17:47:34 +0000",
+      "title_th": "วันที่วางจำหน่าย iPhone 18 Pro: นี่คือเวลาที่เรือธงใหม่ของ Apple กำลังจะมา",
+      "summary_th": "iPhone 18 Pro และ iPhone Ultra เรือธงใหม่ของ Apple จะเปิดตัวเร็วๆ นี้ ตามรูปแบบการเปิดตัวแบบเดียวกับที่บริษัททำมานานหลายปี นี่คือเวลาที่คาดว่าจะมีการประกาศและวันวางจำหน่ายของ iPhone 18 Pro รวมถึงรายละเอียดเกี่ยวกับกลุ่มผลิตภัณฑ์"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Another disguised Russian banking app has topped the US iPhone App Store",
+      "summary_en": "Back in June, we flagged three instances of U.S.-sanctioned Russian banks sneaking client apps onto the App Store. Two months later, another example has climbed to the top of the iPhone App Store.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/app-store.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/21/another-russian-banking-app-in-disguise-has-topped-the-us-app-store/",
+      "published": "Fri, 21 Aug 2026 16:47:04 +0000",
+      "title_th": "แอปธนาคารรัสเซียปลอมตัวอีกแอปหนึ่งติดอันดับ iPhone App Store ของสหรัฐอเมริกา",
+      "summary_th": "ย้อนกลับไปในเดือนมิถุนายน เราได้แจ้งเหตุการณ์สามกรณีของธนาคารรัสเซียที่ถูกสหรัฐฯ คว่ำบาตรแอบย่องแอปของลูกค้าเข้าสู่ App Store สองเดือนต่อมา มีอีกตัวอย่างหนึ่งที่ไต่ขึ้นสู่อันดับต้นๆ ของ iPhone App Store"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Here’s everything we learned about AirPods with cameras this week",
+      "summary_en": "It’s been a busy week for rumors surrounding Apple’s upcoming AirPods with cameras. Here’s a roundup of everything we’ve learned about camera-equipped AirPods Pro this week.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-sound-vibrations.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/21/airpods-pro-with-cameras-biggest-leak-yet-features/",
+      "published": "Fri, 21 Aug 2026 15:34:30 +0000",
+      "title_th": "นี่คือทุกสิ่งที่เราเรียนรู้เกี่ยวกับ AirPods พร้อมกล้องในสัปดาห์นี้",
+      "summary_th": "เป็นสัปดาห์ที่วุ่นวายสำหรับข่าวลือเกี่ยวกับ AirPods ที่กำลังจะมาถึงของ Apple พร้อมกล้อง นี่คือบทสรุปของทุกสิ่งที่เราได้เรียนรู้เกี่ยวกับ AirPods Pro ที่ติดตั้งกล้องในสัปดาห์นี้"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple TV has three big new releases coming very soon",
+      "summary_en": "Apple TV has the long-awaited Ted Lasso season 4 airing now and it’s proven a huge hit, but there are three more big new releases coming very soon.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/apple-tv-logo-mountains.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/21/apple-tv-has-three-big-new-releases-coming-soon/",
+      "published": "Fri, 21 Aug 2026 15:30:23 +0000",
+      "title_th": "Apple TV มีรายการใหม่ใหญ่ๆ สามรายการเร็วๆ นี้",
+      "summary_th": "Apple TV มีซีรีส์ Ted Lasso ซีซั่น 4 ที่รอคอยมานานและได้รับความนิยมอย่างล้นหลาม แต่ยังมีซีรีส์ใหม่ใหญ่อีก 3 เรื่องที่จะออกฉายในเร็วๆ นี้"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
       "category": "review",
-      "title_en": "Revisiting Apple Watch Edition: Hands-on with the white ceramic Series 5",
-      "summary_en": "August 21, 2026: Apple Watch Series 12 is rumored to include a ceramic option for the first time since the Series 5 was discontinued. With that in mind, I’m resharing my hands-on post of my favorite Apple Watch from September 2019. Seven years later, it’s still the best version I’ve ever owned. I hope you enjoy! Apple Watch Series 5 introduces the return of the ceramic Edition after being notably absent from the Series 4 lineup. That means this is the first time ceramic has been an option with the redesign that debuted last year, and the new look is stunning. Check out our initial hands-on with the Apple Watch Edition before our full Series 5 review later next week.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/09/Apple-Watch-Series-5-Ceramic.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/21/apple-watch-series-5-edition/",
-      "published": "Fri, 21 Aug 2026 15:00:00 +0000",
-      "title_th": "พบกับ Apple Watch Edition อีกครั้ง: สัมผัสประสบการณ์จริงด้วยเซรามิกสีขาว Series 5",
-      "summary_th": "21 สิงหาคม 2026: มีข่าวลือว่า Apple Watch Series 12 จะมีตัวเลือกเซรามิกเป็นครั้งแรกนับตั้งแต่ซีรีส์ 5 เลิกผลิต ด้วยเหตุนี้ ฉันจึงแชร์โพสต์ที่ลงมือปฏิบัติจริงเกี่ยวกับ Apple Watch ที่ฉันชื่นชอบตั้งแต่เดือนกันยายน 2019 อีกครั้ง เจ็ดปีต่อมา มันก็ยังคงเป็นเวอร์ชันที่ดีที่สุดที่ฉันเคยเป็นเจ้าของ ฉันหวังว่าคุณจะสนุก! Apple Watch Series 5 เปิดตัวรุ่นเซรามิกที่กลับมาอีกครั้ง หลังจากที่หายไปจากกลุ่มผลิตภัณฑ์ Series 4 อย่างเห็นได้ชัด นั่นหมายความว่านี่เป็นครั้งแรกที่เซรามิกเป็นตัวเลือกด้วยการออกแบบใหม่ที่เปิดตัวเมื่อปีที่แล้ว และรูปลักษณ์ใหม่ก็น่าทึ่ง ลองดูการใช้งานจริงครั้งแรกกับ Apple Watch Edition ก่อนรีวิว Series 5 ฉบับเต็มในสัปดาห์หน้า"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Here’s how iPhone 18 Pro will differentiate itself from prior models",
-      "summary_en": "iPhone 18 Pro will be unveiled next month , and many iPhone users might be asking: what’s going to be truly different this year? Here are some key ways Apple plans to differentiate iPhone 18 Pro from prior models, per the latest rumors.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-silver-centered.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/21/heres-how-iphone-18-pro-will-differentiate-itself-from-prior-models/",
-      "published": "Fri, 21 Aug 2026 14:58:32 +0000",
-      "title_th": "นี่คือวิธีที่ iPhone 18 Pro จะสร้างความแตกต่างจากรุ่นก่อนๆ",
-      "summary_th": "iPhone 18 Pro จะเปิดตัวในเดือนหน้า และผู้ใช้ iPhone หลายคนอาจถามว่าปีนี้อะไรจะแตกต่างออกไปอย่างแท้จริง ต่อไปนี้เป็นวิธีสำคัญที่ Apple วางแผนที่จะทำให้ iPhone 18 Pro แตกต่างจากรุ่นก่อนๆ ตามข่าวลือล่าสุด"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "John Ternus as CEO could bring ‘bigger acquisitions,’ new product categories: analyst",
-      "summary_en": "Tim Cook is in his final weeks as Apple CEO, with John Ternus set to take over the top job on September 1. And per Bank of America analyst Wamsi Mohan, Ternus could usher in a bolder, riskier era at Apple.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/m4-macbook-pro-video-event.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/21/john-ternus-as-ceo-could-bring-bigger-acquisitions-new-product-categories-analyst/",
-      "published": "Fri, 21 Aug 2026 14:05:36 +0000",
-      "title_th": "John Ternus ในฐานะ CEO สามารถนำ 'การเข้าซื้อกิจการที่ใหญ่กว่า' หมวดหมู่ผลิตภัณฑ์ใหม่: นักวิเคราะห์",
-      "summary_th": "Tim Cook อยู่ในช่วงสัปดาห์สุดท้ายของเขาในตำแหน่ง CEO ของ Apple โดย John Ternus จะเข้ารับตำแหน่งสูงสุดในวันที่ 1 กันยายน และ Wamsi Mohan นักวิเคราะห์ของ Bank of America กล่าวว่า Ternus สามารถก้าวไปสู่ยุคที่กล้าหาญและมีความเสี่ยงมากขึ้นที่ Apple"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Walmart finally launching Apple Pay support next week",
-      "summary_en": "Walmart has announced that it will finally begin rolling out Apple Pay support next week. The retailer has resisted offering Apple Pay support for more than a decade, despite pressure from shoppers.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/05/Apple-Pay-walmart%400.5x.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/21/walmart-finally-launching-apple-pay-support-next-week/",
-      "published": "Fri, 21 Aug 2026 13:56:25 +0000",
-      "title_th": "ในที่สุด Walmart ก็เปิดตัวการรองรับ Apple Pay ในสัปดาห์หน้า",
-      "summary_th": "Walmart ได้ประกาศว่าในที่สุดจะเริ่มเปิดตัวการรองรับ Apple Pay ในสัปดาห์หน้า ผู้ค้าปลีกรายนี้ปฏิเสธที่จะให้การสนับสนุน Apple Pay มานานกว่าทศวรรษ แม้จะมีแรงกดดันจากผู้ซื้อก็ตาม"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "The camera I always have with me keeps paying dividends",
-      "summary_en": "There’s an old photography saying that the best camera is the one you have on you at the time. The iPhone is of course the camera that most of us have on us most of the time, and that’s obviously a massive benefit for things like shots of kids, social events, and so on. But a current video project highlighted another advantage. I really enjoy walking through London in the early evening, and I’ll quite often shoot photos and short video clips on my iPhone. Initially, I did so purely for the pleasure of it, but I later realized the potential for short clips to serve as B-roll in video projects …",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/London-sunset-by-the-Thames.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/21/the-camera-i-always-have-with-me-keeps-paying-dividends/",
-      "published": "Fri, 21 Aug 2026 12:45:11 +0000",
-      "title_th": "กล้องที่ผมพกติดตัวมาโดยตลอดมักจะจ่ายเงินปันผลเสมอ",
-      "summary_th": "มีภาพถ่ายเก่าๆ กล่าวไว้ว่ากล้องที่ดีที่สุดคือกล้องที่คุณมีในขณะนั้น แน่นอนว่า iPhone เป็นกล้องที่พวกเราส่วนใหญ่พกติดตัวเกือบตลอดเวลา และนั่นเป็นประโยชน์อย่างมากสำหรับสิ่งต่างๆ เช่น ภาพถ่ายเด็กๆ กิจกรรมทางสังคม และอื่นๆ แต่โครงการวิดีโอในปัจจุบันได้เน้นย้ำข้อดีอีกประการหนึ่ง ฉันสนุกกับการเดินเล่นในลอนดอนในช่วงหัวค่ำมาก และมักจะถ่ายรูปและคลิปวิดีโอสั้นด้วย iPhone ของฉันบ่อยครั้ง ในตอนแรก ฉันทำเพื่อความเพลิดเพลินเท่านั้น แต่ต่อมาฉันก็ได้ตระหนักถึงศักยภาพของคลิปสั้นที่จะทำหน้าที่เป็น B-roll ในโปรเจ็กต์วิดีโอ …"
+      "title_en": "Pixel 11 Pro Fold is changing how I multitask on a foldable with ‘App Handles’ [Gallery]",
+      "summary_en": "Previewed in a recent Canary build, Google’s Pixel 11 Pro Fold ships with the “App Handles” multitasking feature that’s a welcome addition to the experience.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-pro-fold-impressions-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/21/google-pixel-11-pro-fold-android-app-handles-multitasking-feature/",
+      "published": "Fri, 21 Aug 2026 17:15:00 +0000",
+      "title_th": "Pixel 11 Pro Fold กำลังเปลี่ยนวิธีทำงานหลายอย่างพร้อมกันบนจอพับได้ด้วย 'App Handles' [แกลเลอรี]",
+      "summary_th": "ดูตัวอย่างใน Canary build ล่าสุด Pixel 11 Pro Fold ของ Google มาพร้อมกับคุณสมบัติมัลติทาสก์ \"App Handles\" ซึ่งเป็นส่วนเสริมที่น่ายินดีสำหรับประสบการณ์นี้"
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "GrapheneOS phone from Motorola arrives next year, ‘higher end’ compared to Pixel with a price to match",
-      "summary_en": "The privacy-focused GrapheneOS is making its way to dedicated hardware soon, with a device in the works from Motorola. According to a quick update on that device, it’ll be “higher end” than a Pixel with a price to match, and it’ll be coming sometime next year.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/motorola-grapheneos-b2b-image-01.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/21/motorola-grapheneos-phone-2027-spec-tease/",
-      "published": "Fri, 21 Aug 2026 14:30:00 +0000",
-      "title_th": "โทรศัพท์ GrapheneOS จาก Motorola จะมาถึงในปีหน้า 'ระดับไฮเอนด์' เมื่อเทียบกับ Pixel ในราคาที่พอเหมาะ",
-      "summary_th": "GrapheneOS ที่เน้นความเป็นส่วนตัวกำลังจะเปิดตัวฮาร์ดแวร์เฉพาะเร็วๆ นี้ พร้อมด้วยอุปกรณ์จาก Motorola ที่กำลังจะเปิดตัว ตามการอัปเดตอย่างรวดเร็วบนอุปกรณ์นั้น มันจะเป็น \"ระดับไฮเอนด์\" มากกว่าพิกเซลที่มีราคาที่ตรงกัน และจะเปิดตัวในปีหน้า"
+      "title_en": "Moto Tag 2’s ‘limited time’ discount to $20 is still live, on Amazon right now too",
+      "summary_en": "The Moto Tag 2 is one of the few Android Find Hub trackers with UWB, soon to be joined by the Pixel Tag, but the tracker is available right now and, despite the price having supposed to be temporary, it’s still just $20.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/moto-tag-2-1.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/21/moto-tag-2-discount-amazon/",
+      "published": "Fri, 21 Aug 2026 17:05:00 +0000",
+      "title_th": "ส่วนลด 'เวลาจำกัด' ของ Moto Tag 2 เหลือ $20 ยังคงมีอยู่บน Amazon เช่นกัน",
+      "summary_th": "Moto Tag 2 เป็นหนึ่งในไม่กี่ตัวติดตาม Android Find Hub ที่มี UWB ซึ่งจะเข้าร่วมโดย Pixel Tag ในไม่ช้า แต่ตัวติดตามนั้นมีวางจำหน่ายแล้วในขณะนี้ และแม้ว่าราคาควรจะเป็นชั่วคราว แต่ก็ยังมีราคาเพียง $ 20"
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Pixel Watch 5’s AI watch face generator keeps the same form factor feeling fresh [Gallery]",
-      "summary_en": "Google’s Pixel Watch 5 isn’t some radical new redesign, but it does bring about some welcome enhancements. And while I’m still wrestling with mixed feelings around the use of generative AI nowadays, the Pixel Watch 5’s AI watch face generator has been a surprising delight.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/21/google-pixel-watch-5-ai-face-generator-feature/",
-      "published": "Fri, 21 Aug 2026 14:15:00 +0000",
-      "title_th": "เครื่องมือสร้างหน้าปัดนาฬิกา AI ของ Pixel Watch 5 ช่วยให้ฟอร์มแฟคเตอร์เหมือนเดิมให้ความรู้สึกสดชื่น [แกลเลอรี]",
-      "summary_th": "Pixel Watch 5 ของ Google ไม่ใช่การออกแบบใหม่ที่รุนแรง แต่นำมาซึ่งการปรับปรุงที่น่ายินดี และในขณะที่ฉันยังคงต่อสู้กับความรู้สึกผสมกับการใช้ AI ในปัจจุบัน แต่เครื่องมือสร้างหน้าปัดนาฬิกา AI ของ Pixel Watch 5 ก็เป็นที่น่ายินดีอย่างน่าประหลาดใจ"
+      "title_en": "Pixel Camera adds ‘Launch control’ and new ‘Quick access’ slider controls on Pixel 11 [Gallery]",
+      "summary_en": "The Google Pixel camera app is adding new “Quick access” controls on the Pixel 11 series, but it’s a little annoying that not only are they disabled by default, but the way you use them isn’t the most intuitive thing either.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-base-model-with-Camera-Looks-UI-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/21/google-pixel-camera-11-update-launch-mode-quick-access/",
+      "published": "Fri, 21 Aug 2026 16:05:00 +0000",
+      "title_th": "Pixel Camera เพิ่ม 'การควบคุมการเปิดตัว' และการควบคุมแถบเลื่อน 'การเข้าถึงด่วน' ใหม่บน Pixel 11 [แกลเลอรี]",
+      "summary_th": "แอปกล้อง Google Pixel กำลังเพิ่มการควบคุม \"การเข้าถึงด่วน\" ใหม่ในซีรีส์ Pixel 11 แต่ก็น่ารำคาญเล็กน้อยที่ไม่เพียงแต่ถูกปิดใช้งานโดยค่าเริ่มต้นเท่านั้น แต่วิธีการใช้งานของคุณก็ไม่ใช่สิ่งที่ใช้งานง่ายที่สุดเช่นกัน"
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Pixel’s ‘Flip to Shhh’ notification feature is broken for some",
-      "summary_en": "With the Pixel’s “Flip to Shhh” feature on, setting the phone face down silences notifications. It’s a handy feature for disconnecting, but it’s not actually working on several models right now.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Pixel-10-Pro-XL-face-down.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/21/pixel-flip-to-shhh-broken/",
-      "published": "Fri, 21 Aug 2026 14:02:26 +0000",
-      "title_th": "คุณลักษณะการแจ้งเตือน 'Flip to Shhh' ของ Pixel ใช้งานไม่ได้สำหรับบางคน",
-      "summary_th": "เมื่อเปิดคุณสมบัติ \"Flip to Shhh\" ของ Pixel การตั้งค่าคว่ำหน้าโทรศัพท์ลงจะเป็นการปิดเสียงการแจ้งเตือน เป็นคุณสมบัติที่มีประโยชน์สำหรับการยกเลิกการเชื่อมต่อ แต่ตอนนี้ใช้งานไม่ได้กับหลายรุ่นจริงๆ"
+      "title_en": "Pixel 11 Pro vs. iPhone 17 Pro: Can a re-run contend with a re-do [Video]",
+      "summary_en": "How close does the Pixel 11 Pro get to the iPhone 17 Pro? Does Google’s best of 2026 contend with Apple’s best of 2025? Find out here.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-XL-and-iPhone-17-Pro-Max-design-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/21/pixel-11-pro-vs-iphone-17-pro-can-a-re-run-contend-with-a-re-do-video/",
+      "published": "Fri, 21 Aug 2026 16:00:00 +0000",
+      "title_th": "Pixel 11 Pro กับ iPhone 17 Pro: สามารถแข่งขันซ้ำกับทำใหม่ได้ [วิดีโอ]",
+      "summary_th": "Pixel 11 Pro เข้าใกล้ iPhone 17 Pro แค่ไหน? สิ่งที่ดีที่สุดของ Google ในปี 2026 ขัดแย้งกับสิ่งที่ดีที่สุดในปี 2025 ของ Apple หรือไม่ ค้นหาที่นี่"
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Narwal Freo 20 robot vacuum has a flagship-tier mop for hundreds of dollars less",
-      "summary_en": "The robot vacuum scene has heavily focused on improving mopping tech in recent years and, right now, the flagship models are better than they’ve ever been. For those of us without bottomless pockets, though, the Narwal Freo 20 offers a flagship-tier mop and overall cleaning experience for a much lower price tag.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Freo-20-KV.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/21/narwal-freo-20-robot-vaccum-mop-launch/",
-      "published": "Fri, 21 Aug 2026 12:30:00 +0000",
-      "title_th": "หุ่นยนต์ดูดฝุ่น Narwal Freo 20 มีไม้ถูพื้นระดับเรือธงในราคาที่ถูกกว่าหลายร้อยดอลลาร์",
-      "summary_th": "ฉากดูดฝุ่นของหุ่นยนต์มุ่งเน้นไปที่การปรับปรุงเทคโนโลยีการถูพื้นอย่างมากในช่วงไม่กี่ปีที่ผ่านมา และตอนนี้รุ่นเรือธงก็ดีขึ้นกว่าที่เคยเป็นมา สำหรับพวกเราที่ไม่มีกระเป๋าลึก Narwal Freo 20 มอบซับระดับเรือธงและประสบการณ์การทำความสะอาดโดยรวมในราคาที่ต่ำกว่ามาก"
+      "title_en": "Android brands struggle in Europe amidst RAMageddon, with Apple catching up",
+      "summary_en": "While Apple absolutely dominates the US market, Europe is much more diverse in terms of smartphone market share. According to a new report, Android brands are struggling in Europe amid the RAM pricing crisis, and Apple isn’t missing the opportunity.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/Galaxy-S26-Ultra-and-iPhone-17-Pro-Max-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/21/android-brands-europe-report-q2-2026/",
+      "published": "Fri, 21 Aug 2026 15:55:00 +0000",
+      "title_th": "แบรนด์ Android ต่อสู้ดิ้นรนในยุโรปท่ามกลาง RAMageddon โดยที่ Apple ตามทัน",
+      "summary_th": "แม้ว่า Apple จะครองตลาดสหรัฐฯ อย่างแน่นอน แต่ยุโรปก็มีความหลากหลายมากกว่ามากในแง่ของส่วนแบ่งตลาดสมาร์ทโฟน ตามรายงานใหม่ แบรนด์ Android กำลังดิ้นรนในยุโรปท่ามกลางวิกฤตราคา RAM และ Apple ก็ไม่พลาดโอกาสนี้"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Google posts Pixel Watch 5 factory images with one unified build",
-      "summary_en": "Following the Pixel 11 series earlier today, Google has released factory and OTA images for the Pixel Watch 5.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/google-pixel-watch-5-39.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/20/pixel-watch-5-images/",
-      "published": "Fri, 21 Aug 2026 02:48:17 +0000",
-      "title_th": "Google โพสต์ภาพโรงงานของ Pixel Watch 5 ด้วยโครงสร้างที่รวมเป็นหนึ่งเดียว",
-      "summary_th": "หลังจากซีรีส์ Pixel 11 ก่อนหน้านี้ Google ได้เปิดตัวรูปภาพจากโรงงานและ OTA สำหรับ Pixel Watch 5"
+      "category": "ev",
+      "title_en": "Walmart’s 400 kW EV charging network just hit 100 stores",
+      "summary_en": "Walmart has opened its 100th company-owned EV fast-charging site, bringing its fast-growing network to 100 stores across 20 states.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Aug20Monument-17.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/21/walmarts-400-kw-ev-charging-network-just-hit-100-stores/",
+      "published": "Fri, 21 Aug 2026 18:06:59 +0000",
+      "title_th": "เครือข่ายการชาร์จ EV ขนาด 400 กิโลวัตต์ของ Walmart มีร้านค้าเพียง 100 แห่ง",
+      "summary_th": "Walmart ได้เปิดไซต์ชาร์จ EV ด่วนแห่งที่ 100 ของบริษัท โดยนำเครือข่ายที่เติบโตอย่างรวดเร็วมาสู่ร้านค้า 100 แห่งใน 20 รัฐ"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Lectric Labor Day e-bike sale offers up to $694 savings + price cuts, EcoFlow 4,096Wh power station $2,549 in flash sale, more",
+      "summary_en": "We’re closing out this week’s Green Deals with the new Lectric Labor Day Sale leading the pack, offering up to $694 on e-bike bundles + XPeak2 and XPedition2 price cuts – all starting from $799 . Next, EcoFlow has kicked off a 4-day website-exclusive flash sale with offers like the 4,096Wh DELTA Pro 3 Portable Power Station down at $2,549 , and more from $799. We also have EGO’s premium 16-inch Carbon Fiber Cordless Electric String Trimmer with Line IQ and POWERLOAD tech at its $251 2026 low , the meross Two-Zone Wi-Fi Smart Water Timer at a new $76 low , Aiper’s HydroComm Smart Pool Monitor with optimization tips, some solar-powered garden lights from Nanoleaf, and more waiting for you below. And don’t forget we have all the hangover deals from this week that are down at the bottom of the",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Lectric-EcoFlow-meross-EGO-GDs-FI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/21/lectric-labor-day-e-bike-sale-ecoflow-4096wh-power-station-2549-flash-sale-more/",
+      "published": "Fri, 21 Aug 2026 18:00:00 +0000",
+      "title_th": "การขาย e-bike ของ Lectric Labor Day มอบส่วนลดสูงสุดถึง $694 + การลดราคา สถานีพลังงาน EcoFlow 4,096Wh $2,549 ในการขายแฟลช และอีกมากมาย",
+      "summary_th": "เรากำลังปิดข้อเสนอ Green Deal ของสัปดาห์นี้ด้วย Lectric Labor Day Sale ใหม่ ซึ่งเป็นผู้นำแพ็ค โดยเสนอสูงสุดถึง $694 สำหรับชุด e-bike + การลดราคา XPeak2 และ XPedition2 – ทั้งหมดนี้เริ่มต้นที่ $799 ถัดไป EcoFlow ได้เริ่มต้นการขายแฟลชพิเศษเฉพาะเว็บไซต์เป็นเวลา 4 วันด้วยข้อเสนอเช่น Power Station แบบพกพา DELTA Pro 3 ขนาด 4,096Wh ในราคา 2,549 ดอลลาร์ และอีกมากมายจาก 799 ดอลลาร์ นอกจากนี้เรายังมีเครื่องตัดสายไฟฟ้าไร้สายคาร์บอนไฟเบอร์ขนาด 16 นิ้วระดับพรีเมียมของ EGO พร้อม Line IQ และเทคโนโลยี POWERLOAD ในราคาต่ำเพียง 251 ดอลลาร์สหรัฐฯ ปี 2026 เครื่องจับเวลาน้ำอัจฉริยะ Wi-Fi แบบสองโซน meross ในราคาต่ำใหม่ 76 ดอลลาร์ เครื่องวัดสระว่ายน้ำอัจฉริยะ HydroComm ของ Aiper พร้อมคำแนะนำในการเพิ่มประสิทธิภาพ ไฟสวนพลังงานแสงอาทิตย์จาก Nanoleaf และอื่นๆ อีกมากมายรอคุณอยู่ด้านล่าง และอย่าลืมว่าเรามีข้อเสนออาการเมาค้างจากสัปดาห์นี้ซึ่งอยู่ที่ด้านล่างของ"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "A first-of-its-kind US factory could make grid batteries safer",
+      "summary_en": "Anthro Energy has broken ground on a first-of-its-kind US battery materials factory in Louisville, Kentucky, with enough planned annual output to support up to 25 gigawatt-hours (GWh) of lithium-ion batteries.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Anthro_Energy_KY.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/21/us-factory-grid-batteries-safer-anthro-energy/",
+      "published": "Fri, 21 Aug 2026 17:09:27 +0000",
+      "title_th": "โรงงานแห่งแรกในสหรัฐฯ สามารถทำให้แบตเตอรี่กริดปลอดภัยยิ่งขึ้น",
+      "summary_th": "Anthro Energy ได้สร้างโรงงานวัสดุแบตเตอรี่แห่งแรกของสหรัฐอเมริกาในเมืองหลุยส์วิลล์ รัฐเคนตักกี้ โดยมีการวางแผนการผลิตรายปีเพียงพอที่จะรองรับแบตเตอรี่ลิเธียมไอออนได้สูงสุดถึง 25 กิกะวัตต์-ชั่วโมง (GWh)"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Hyundai and Genesis EV drivers can now score a 20% discount on IONNA charging",
+      "summary_en": "Hyundai is offering EV drivers, including select Genesis models, an extra 10% discount on all IONNA charging sessions through the end of September. With a stackable bonus from IONNA, drivers can save 20% on charging for a limited time.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Hyundai-EV-charging-discount.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/21/hyundai-ev-drivers-20-discount-ionna-charging/",
+      "published": "Fri, 21 Aug 2026 16:09:50 +0000",
+      "title_th": "ผู้ขับขี่ Hyundai และ Genesis EV จะได้รับส่วนลด 20% สำหรับการชาร์จ IONNA",
+      "summary_th": "ฮุนไดเสนอไดรเวอร์ EV รวมถึงรุ่น Genesis บางรุ่น ส่วนลดพิเศษ 10% สำหรับการชาร์จ IONNA ทั้งหมดจนถึงสิ้นเดือนกันยายน ด้วยโบนัสแบบซ้อนได้จาก IONNA ผู้ขับขี่สามารถประหยัดการชาร์จ 20% ในระยะเวลาที่จำกัด"
     },
     {
       "source": "Electrek",
@@ -553,54 +601,6 @@
       "published": "Fri, 21 Aug 2026 14:12:02 +0000",
       "title_th": "Tesla (TSLA) เรียกคืนรถยนต์กว่า 2 ล้านคันในจีน เพิ่มระบบติดตามผู้ขับขี่",
       "summary_th": "Tesla กำลังเรียกคืนรถยนต์ 2,740,642 คันในประเทศจีน เพื่อเพิ่มการตรวจสอบผู้ขับขี่เกี่ยวกับระบบช่วยเหลือการขับขี่ หลังจากที่หน่วยงานกำกับดูแลพบว่าการตรวจสอบมือบนพวงมาลัยไม่เพียงพอที่จะให้ผู้ขับขี่เฝ้าดูถนน การแก้ไขดังกล่าวบังคับให้ Tesla ใช้กล้องในห้องโดยสารของรถยนต์เพื่อติดตามดวงตาของผู้ขับขี่ ซึ่งผู้ขับขี่ชาวจีนแบบเดียวกับที่ถูกจับได้เมื่อไม่นานมานี้คือเอาชนะหัวตุ๊กตาพลาสติกมูลค่า 20 ดอลลาร์"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Tesla recalls nearly 3 million cars in China over door escape risk",
-      "summary_en": "Tesla is recalling 2,975,910 vehicles in China after the country’s market regulator determined that its emergency door release is too hard to find and operate in a crash. It’s Tesla’s largest-ever recall in China, and it lands as the automaker’s door design faces mounting legal and regulatory pressure on two continents. Several other automakers who followed Tesla into similarly designed door releases have also issued similar recalls.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/04/Tesla-Model-SX-Last-Run-Signature-matching-door-handles.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/21/tesla-recall-3-million-cars-china-door-handles/",
-      "published": "Fri, 21 Aug 2026 13:08:09 +0000",
-      "title_th": "เทสลาเรียกคืนรถยนต์เกือบ 3 ล้านคันในจีน เหตุเสี่ยงหลบหนีออกจากประตู",
-      "summary_th": "Tesla กำลังเรียกคืนรถยนต์จำนวน 2,975,910 คันในจีน หลังจากที่หน่วยงานกำกับดูแลตลาดของประเทศระบุว่าการเปิดประตูฉุกเฉินนั้นยากเกินกว่าจะหาและใช้งานได้เมื่อเกิดอุบัติเหตุ นี่เป็นการเรียกคืนครั้งใหญ่ที่สุดของ Tesla ในจีน และมาถึงเมื่อการออกแบบประตูของผู้ผลิตรถยนต์เผชิญกับแรงกดดันทางกฎหมายและกฎระเบียบที่เพิ่มขึ้นในสองทวีป ผู้ผลิตรถยนต์รายอื่นๆ หลายรายที่ติดตาม Tesla ในการเปิดตัวประตูที่มีการออกแบบคล้ายกัน ก็ได้ออกการเรียกคืนในลักษณะเดียวกันนี้เช่นกัน"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Tesla discontinues its Solar Roof tiles, not economically viable",
-      "summary_en": "Tesla has discontinued the Solar Roof, its solar-tile roofing product, Electrek has learned. The company has told third-party installers that it will no longer supply solar roof tiles going forward, only solar panels, according to two sources close to the program.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Elon-Musk-at-Tesla-Solar-Roof-launch-hero.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/20/tesla-discontinues-solar-roof-panels-only/",
-      "published": "Fri, 21 Aug 2026 03:44:23 +0000",
-      "title_th": "Tesla เลิกผลิตกระเบื้องหลังคาโซลาร์รูฟ และไม่สามารถทำได้ในเชิงเศรษฐกิจ",
-      "summary_th": "Tesla ได้ยกเลิก Solar Roof ซึ่งเป็นผลิตภัณฑ์หลังคากระเบื้องพลังงานแสงอาทิตย์แล้ว Electrek ได้เรียนรู้ บริษัทได้แจ้งผู้ติดตั้งบุคคลที่สามว่าจะไม่จัดหากระเบื้องหลังคาพลังงานแสงอาทิตย์อีกต่อไป มีเพียงแผงโซลาร์เซลล์เท่านั้น ตามรายงานจากแหล่งข่าว 2 แห่งที่ใกล้ชิดกับโครงการ"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Tesla confirms Semi electric truck is coming to Europe, reveal at IAA",
-      "summary_en": "Tesla confirmed that its Semi electric truck is coming to Europe, and that it will reveal the specs and launch details next month at IAA Transportation, the continent’s largest commercial vehicle show. The Tesla Semi account posted that “specs & launch details for Semi in Europe” will be “unveiled at IAA Transportation in Hannover, Germany,” which runs September 15-20. A Semi will be on display at the show.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/05/the-official-production-tesla-semi-battery-sizes-have-been-v0-5c2f9r9isuzg1.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/20/tesla-semi-europe-launch-iaa-transportation/",
-      "published": "Thu, 20 Aug 2026 20:11:48 +0000",
-      "title_th": "Tesla ยืนยันรถบรรทุกกึ่งไฟฟ้ากำลังจะมาถึงยุโรป เผยที่ IAA",
-      "summary_th": "Tesla ยืนยันว่ารถบรรทุกกึ่งไฟฟ้ากำลังจะเข้าสู่ยุโรป และจะเปิดเผยรายละเอียดและการเปิดตัวในเดือนหน้าที่งาน IAA Transportation ซึ่งเป็นงานแสดงรถยนต์เพื่อการพาณิชย์ที่ใหญ่ที่สุดในทวีป บัญชี Tesla Semi โพสต์ว่า \"รายละเอียดและการเปิดตัวสำหรับ Semi ในยุโรป\" จะถูก \"เปิดเผยที่ IAA Transportation ในเมืองฮันโนเวอร์ ประเทศเยอรมนี\" ซึ่งจะจัดขึ้นระหว่างวันที่ 15-20 กันยายน กึ่งหนึ่งจะถูกนำมาจัดแสดงในงาน"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Tesla says FSD v15 is a ‘step-change,’ Optimus sells in 2027",
-      "summary_en": "Tesla laid out an updated timeline for Full Self-Driving, its Cybercab, and the Optimus robot in a recent meeting with JPMorgan at its Fremont factory. The bank walked away with claims that FSD v15 is a “step-change,” that today’s HW4 computer can handle unsupervised driving, and that Optimus could go on sale to outside buyers as soon as the second half of 2027. Most of it repeats promises Tesla has made, and missed, before.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/03/img_1665-e1457955946161.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/20/tesla-jpmorgan-fremont-fsd-v15-hw4-optimus-2027/",
-      "published": "Thu, 20 Aug 2026 19:37:11 +0000",
-      "title_th": "Tesla กล่าวว่า FSD v15 เป็น 'การเปลี่ยนแปลงขั้นตอน' Optimus ขายในปี 2570",
-      "summary_th": "Tesla ได้วางไทม์ไลน์ที่อัปเดตสำหรับ Full Self-Driving, Cybercab และหุ่นยนต์ Optimus ในการประชุมล่าสุดกับ JPMorgan ที่โรงงาน Fremont ธนาคารเดินออกไปโดยอ้างว่า FSD v15 เป็น \"การเปลี่ยนแปลงขั้นบันได\" ซึ่งคอมพิวเตอร์ HW4 ในปัจจุบันสามารถรองรับการขับขี่แบบไม่มีผู้ดูแลได้ และ Optimus สามารถจำหน่ายให้กับผู้ซื้อภายนอกได้ทันทีในช่วงครึ่งหลังของปี 2570 ส่วนใหญ่จะทำซ้ำคำสัญญาที่ Tesla ทำไว้และพลาดไปก่อนหน้านี้"
     }
   ],
   "indices": [
@@ -608,65 +608,65 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 215.71,
-      "change": -1.14,
-      "change_pct": -0.53
+      "price": 215.9,
+      "change": -0.95,
+      "change_pct": -0.44
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 360.2,
-      "change": 15.07,
-      "change_pct": 4.37
+      "price": 363.95,
+      "change": 18.82,
+      "change_pct": 5.45
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 344.61,
-      "change": 3.94,
-      "change_pct": 1.16
+      "price": 344.64,
+      "change": 3.97,
+      "change_pct": 1.17
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 483.71,
-      "change": 2.56,
-      "change_pct": 0.53
+      "price": 481.48,
+      "change": 0.33,
+      "change_pct": 0.07
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 309.97,
-      "change": -1.33,
-      "change_pct": -0.43
+      "price": 309.04,
+      "change": -2.26,
+      "change_pct": -0.73
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 259.01,
-      "change": -1.1,
-      "change_pct": -0.42
+      "price": 258.27,
+      "change": -1.84,
+      "change_pct": -0.71
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 549.91,
-      "change": 4.08,
-      "change_pct": 0.75
+      "price": 549.23,
+      "change": 3.4,
+      "change_pct": 0.62
     },
     {
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 258.0,
-      "change": -5.0,
-      "change_pct": -1.9
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     }
   ],
   "reviews": [
@@ -733,6 +733,16 @@
     {
       "channel": "Beartai",
       "country": "TH",
+      "title_en": "ไม่ง้อโค้ชต่างชาติ ! พ่อดันติดท็อปโลก",
+      "video_id": "GbPx7WeAAYI",
+      "link": "https://www.youtube.com/shorts/GbPx7WeAAYI",
+      "thumbnail": "https://i4.ytimg.com/vi/GbPx7WeAAYI/hqdefault.jpg",
+      "published": "2026-08-21T17:00:37+00:00",
+      "title_th": "ไม่ง้อโค้ชต่างชาติ ! พ่อดันติดท็อปโลก"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
       "title_en": "HONOR Magic V6 Unboxing!",
       "video_id": "6F_6LWjp32I",
       "link": "https://www.youtube.com/shorts/6F_6LWjp32I",
@@ -749,16 +759,6 @@
       "thumbnail": "https://i2.ytimg.com/vi/iXAgZVY-tEE/hqdefault.jpg",
       "published": "2026-08-21T05:00:04+00:00",
       "title_th": "รีวิว HONOR Magic V6 ทนเกินจอพับ"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "อาร์ต มารุต เทิร์นจากโปร มาเป็น \"แคดดี้\" I Staff Only",
-      "video_id": "07h1HTTk9j4",
-      "link": "https://www.youtube.com/watch?v=07h1HTTk9j4",
-      "thumbnail": "https://i1.ytimg.com/vi/07h1HTTk9j4/hqdefault.jpg",
-      "published": "2026-08-20T10:00:32+00:00",
-      "title_th": "อาร์ต มารุต เทิร์นจากโปร มาเป็น \"แคดดี้\" I Staff Only"
     },
     {
       "channel": "Droidsans",
