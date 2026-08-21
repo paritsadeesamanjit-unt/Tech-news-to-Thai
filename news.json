@@ -1,66 +1,78 @@
 {
-  "generated_at": "2026-08-20T21:17:48.386212+00:00",
+  "generated_at": "2026-08-21T00:33:07.917154+00:00",
   "count": 50,
   "articles": [
     {
       "source": "TechCrunch",
       "flag": "US",
-      "category": "startup",
-      "title_en": "The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss",
-      "summary_en": "An effort to transform the world of sports through steroid use doesn't exactly seem to be bearing financial fruit.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2278069583.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/",
-      "published": "Thu, 20 Aug 2026 21:08:34 +0000",
-      "title_th": "The Enhanced Games – มหกรรมสเตียรอยด์จากเทคโนโลยี – ไม่ได้ผล เนื่องจากบริษัทขาดทุน 60 ล้านดอลลาร์",
-      "summary_th": "ความพยายามที่จะเปลี่ยนแปลงโลกของกีฬาผ่านการใช้สเตียรอยด์ดูเหมือนจะไม่ก่อให้เกิดผลทางการเงินอย่างแน่นอน"
+      "category": "ev",
+      "title_en": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+      "summary_en": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1200,801",
+      "link": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+      "published": "Fri, 21 Aug 2026 00:23:36 +0000",
+      "title_th": "Tesla, Uber และ Waymo ต่างได้รับอนุมัติให้ใช้งานหุ่นยนต์แท็กซี่หลายพันคันในเนวาดา",
+      "summary_th": "ใบอนุญาตเหล่านี้จะช่วยให้หุ่นยนต์แท็กซี่ใช้งานได้มากถึง 8,000 ตัวในช่วง 12 เดือนข้างหน้า"
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Ok, can we actually cool data centers with our pee?",
-      "summary_en": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- his suggestion is not completely ludicrous.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2270767933.jpg?resize=1200,686",
-      "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-      "published": "Thu, 20 Aug 2026 20:53:13 +0000",
-      "title_th": "ตกลง เราสามารถระบายความร้อนศูนย์ข้อมูลด้วยฉี่ของเราได้จริงหรือ?",
-      "summary_th": "Jason Kelce พูดติดตลกว่าผู้คนควรทำให้ศูนย์ข้อมูลเย็นลงด้วยปัสสาวะ แทนที่จะเป็นน้ำดื่ม คำแนะนำของเขาไม่ได้น่าหัวเราะแต่อย่างใด"
+      "title_en": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "summary_en": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/IMG_2686.jpeg?resize=1200,957",
+      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "published": "Fri, 21 Aug 2026 00:13:44 +0000",
+      "title_th": "Micro1 สตาร์ทอัพด้านข้อมูล AI บรรลุอัตราการดำเนินการรวม 500 ล้านเหรียญสหรัฐ ท่ามกลางกระแสการฝึกอบรม AI ที่เฟื่องฟู",
+      "summary_th": "ความต้องการข้อมูลการฝึกอบรม AI ที่เพิ่มสูงขึ้นกำลังผลักดันการเติบโตอย่างรวดเร็วสำหรับสตาร์ทอัพและคู่แข่ง"
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Someone targeted security researchers using a fake crypto conference as a lure",
-      "summary_en": "A hacker pretending to work for a leading cryptocurrency news website targeted several cybersecurity professionals using Google Docs as a way to deliver malware.",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/02/gettyimages-887454272.jpg?resize=1200,797",
-      "link": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
-      "published": "Thu, 20 Aug 2026 20:00:00 +0000",
-      "title_th": "มีคนกำหนดเป้าหมายไปที่นักวิจัยด้านความปลอดภัยโดยใช้การประชุม crypto ปลอมเพื่อล่อลวง",
-      "summary_th": "แฮ็กเกอร์ที่แอบอ้างว่าทำงานให้กับเว็บไซต์ข่าวสกุลเงินดิจิทัลชั้นนำได้กำหนดเป้าหมายไปที่ผู้เชี่ยวชาญด้านความปลอดภัยทางไซเบอร์หลายคนโดยใช้ Google Docs เพื่อส่งมัลแวร์"
+      "title_en": "Learn what VCs actually want, from a founder who’s raised $1B",
+      "summary_en": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders leverage, valuation, and even a term sheet. In this episode of Build Mode, host Isabelle Johannessen sits down with Sasha Orloff, founder and CEO of Puzzle […]",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/BMs3e7-features.png?resize=1200,675",
+      "link": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
+      "published": "Thu, 20 Aug 2026 23:32:27 +0000",
+      "title_th": "เรียนรู้ว่า VC ต้องการอะไรจริงๆ จากผู้ก่อตั้งที่ระดมทุนได้ 1 พันล้านดอลลาร์",
+      "summary_th": "นักลงทุนต้องการผู้ก่อตั้งที่เข้าใจความเป็นจริงทางการเงินของธุรกิจของตน ข้อมูลยุ่งเหยิง ตัวชี้วัดที่เข้าใจผิด หรือการรอจนกว่าคุณจะหมดเงินเพื่อเริ่มการระดมทุนอาจทำให้ผู้ก่อตั้งต้องสูญเสียการใช้ประโยชน์ การประเมินค่า และแม้แต่เอกสารภาคเรียน ในตอนนี้ของ Build Mode พิธีกร Isabelle Johannessen นั่งคุยกับ Sasha Orloff ผู้ก่อตั้งและ CEO ของ Puzzle […]"
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Google gives publishers a new way to fight AI-driven traffic losses",
-      "summary_en": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/01-ps-button-Family_resized.width-2000.format-webp.webp?resize=1200,675",
-      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "published": "Thu, 20 Aug 2026 19:18:21 +0000",
-      "title_th": "Google ให้วิธีใหม่แก่ผู้เผยแพร่โฆษณาในการต่อสู้กับการสูญเสียการเข้าชมที่ขับเคลื่อนด้วย AI",
-      "summary_th": "Google ให้ปุ่มใหม่แก่ผู้เผยแพร่ซึ่งช่วยให้ผู้อ่านทำให้พวกเขาเป็นแหล่งที่ต้องการใน Search, Discover และ Google News ซึ่งอาจเพิ่มปริมาณการเข้าชมเนื่องจากการค้นหาด้วย AI ส่งการคลิกไปยังเว็บน้อยลง"
+      "title_en": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "summary_en": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "published": "Thu, 20 Aug 2026 22:36:37 +0000",
+      "title_th": "ข้อมูลใหม่บ่งชี้ว่า OpenAI กำลังได้รับความสนใจจากผู้ใช้ทางธุรกิจใน Anthropic",
+      "summary_th": "ธุรกิจต่างๆ ยินดีที่จะพลิกผันไปมาในขณะที่ห้องปฏิบัติการแต่ละแห่งออกโมเดลใหม่ ความผันผวนที่ควรจะทำให้นักลงทุนของทั้งสองบริษัทหยุดชั่วคราวเกี่ยวกับการใช้จ่าย AI ขององค์กรที่ \"เหนียวแน่น\" จริงๆ"
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-      "summary_en": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/10/TechCrunch-Disrupt-Haje-Kamps-828.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-      "published": "Thu, 20 Aug 2026 19:15:05 +0000",
-      "title_th": "Runlayer, Rippling ยกเลิกการฟ้องร้อง - แต่ brouhaha ยังคงเป็นเรื่องราวเตือนสำหรับผู้ก่อตั้ง",
-      "summary_th": "Runlayer และ Rippling ยุติการฟ้องร้องแล้ว ไม่มีการจ่ายเงิน Rippling เฉลิมฉลองด้วยการเปิดตัวผลิตภัณฑ์คู่แข่ง"
+      "title_en": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "summary_en": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1831275897.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "published": "Thu, 20 Aug 2026 22:09:51 +0000",
+      "title_th": "ChatGPT สามารถส่งข้อความให้คุณได้ด้วยปลั๊กอิน Apple Messages ใหม่",
+      "summary_th": "เคยต้องการให้คนอื่นส่งข้อความถึงคุณหรือไม่? ChatGPT ได้รับการเสนอให้เป็นโปรแกรมเขียนข้อความอัตโนมัติผ่านการผสานรวม Apple Messages ใหม่"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Google Discover is getting an AI chatbot-tuned feed",
+      "summary_en": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the option within the three-dot menu on your […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-20-at-5.37.35-PM.png?quality=90&strip=all&crop=0%2C3.2683225395565%2C100%2C93.463354920887&w=1200",
+      "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "published": "2026-08-20T17:50:22-04:00",
+      "title_th": "Google Discover ได้รับฟีดปรับแต่ง AI Chatbot",
+      "summary_th": "เร็วๆ นี้ Google จะอนุญาตให้คุณปรับแต่งฟีด Discover ของคุณโดยอธิบายสิ่งที่คุณต้องการดู ฟีเจอร์ใหม่ที่เปิดตัวในแอป Google ในอีกไม่กี่วันข้างหน้า จะใช้ AI เพื่อปรับแต่งฟีดของคุณโดยอัตโนมัติ และ \"จดจำ\" การตั้งค่าของคุณสำหรับการเยี่ยมชมในอนาคต คุณจะพบตัวเลือกภายในเมนูสามจุดบน […]"
     },
     {
       "source": "The Verge",
@@ -109,18 +121,6 @@
       "published": "2026-08-20T13:42:34-04:00",
       "title_th": "ออสเตรเลียกล่าวว่า Roblox ยังไม่ได้แก้ไขปัญหาเด็กนักล่า",
       "summary_th": "Roblox สัญญาว่าจะมีการเปลี่ยนแปลงฟีเจอร์ด้านความปลอดภัยของเด็กมากขึ้น หลังจากการทดสอบจาก eSafety ซึ่งเป็นหน่วยงานกำกับดูแลความปลอดภัยออนไลน์ของออสเตรเลีย eSafety ได้ตรวจสอบข้อกังวลที่ว่าบริษัทไม่ปฏิบัติตามกฎหมายความปลอดภัยออนไลน์ของออสเตรเลีย ซึ่งรวมถึง “ถูกกล่าวหาว่าไม่มีมาตรการเพียงพอเพื่อป้องกันการติดต่อระหว่างผู้ใหญ่และเด็กอายุต่ำกว่า 16 ปี” ในขณะที่ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "FCC officially decides gigabit speeds are too good for you",
-      "summary_en": "Another day, another sad thing to report about our compromised Federal Communications Commission. Chairman Brendan Carr has followed through on his 2025 threat to kill long-term broadband speed goals established during the Biden administration, which aimed for eventually getting us to gigabit download and half-gigabit upload speeds. How dare we dream of spreading great download […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS513_FCC_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal",
-      "published": "2026-08-20T13:38:30-04:00",
-      "title_th": "FCC ตัดสินใจอย่างเป็นทางการว่าความเร็วกิกะบิตนั้นดีเกินไปสำหรับคุณ",
-      "summary_th": "อีกวันหนึ่ง มีเรื่องน่าเศร้าอีกเรื่องที่ต้องรายงานเกี่ยวกับ Federal Communications Commission ที่ถูกบุกรุกของเรา ประธานเบรนแดน คาร์ได้ปฏิบัติตามคำขู่ของเขาในปี 2025 ที่จะทำลายเป้าหมายความเร็วบรอดแบนด์ระยะยาวที่ตั้งขึ้นระหว่างการบริหารของไบเดน ซึ่งมีเป้าหมายที่จะพาเราไปดาวน์โหลดความเร็วระดับกิกะบิตและอัพโหลดครึ่งกิกะบิตในที่สุด เรากล้าฝันที่จะเผยแพร่การดาวน์โหลดที่ยอดเยี่ยม […]"
     },
     {
       "source": "Ars Technica",
@@ -185,6 +185,18 @@
     {
       "source": "Wired",
       "flag": "US",
+      "category": "review",
+      "title_en": "Google Pixel 11 Review: Minor Upgrade",
+      "summary_en": "Incremental improvements fail to generate much excitement, but Google’s Pixel 11 is still an accomplished Android phone.",
+      "image": "https://media.wired.com/photos/6a8780863aef0f642ff30070/master/pass/Google-Pixel-11-1-SOURCE-Simon-Hill.jpg",
+      "link": "https://www.wired.com/review/google-pixel-11/",
+      "published": "Thu, 20 Aug 2026 23:15:27 +0000",
+      "title_th": "รีวิว Google Pixel 11: อัปเกรดเล็กน้อย",
+      "summary_th": "การปรับปรุงเพิ่มเติมไม่สามารถสร้างความตื่นเต้นได้มากนัก แต่ Pixel 11 ของ Google ยังคงเป็นโทรศัพท์ Android ที่ประสบความสำเร็จ"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
       "category": "gadget",
       "title_en": "The Galaxy’s Fastest Star Could Reveal the Secrets of a Supermassive Black Hole",
       "summary_en": "S301 passes close to Sagittarius A*—so close that its orbit could reveal how the black hole’s rotation warps the spacetime around it.",
@@ -192,7 +204,7 @@
       "link": "https://www.wired.com/story/the-galaxys-fastest-star-could-reveal-the-secrets-of-a-supermassive-black-hole/",
       "published": "Thu, 20 Aug 2026 20:58:39 +0000",
       "title_th": "ดาวฤกษ์ที่เร็วที่สุดในกาแล็กซีสามารถเปิดเผยความลับของหลุมดำมวลมหาศาลได้",
-      "summary_th": "S301 เคลื่อนผ่านใกล้กับราศีธนู A*—ใกล้มากจนวงโคจรของมันเผยให้เห็นว่าการหมุนของหลุมดำทำให้กาลอวกาศรอบ ๆ บิดเบี้ยวได้อย่างไร"
+      "summary_th": "S301 ผ่านเข้าไปใกล้กับราศีธนู A*—ใกล้มากจนวงโคจรของมันเผยให้เห็นว่าการหมุนของหลุมดำทำให้กาลอวกาศรอบ ๆ บิดเบี้ยวได้อย่างไร"
     },
     {
       "source": "Wired",
@@ -203,7 +215,7 @@
       "image": "https://media.wired.com/photos/6a861888d3fed06f8e21101b/master/pass/Uncanny-Valley-Podcast-Typhoon-Hack-Security-1130970903.jpg",
       "link": "https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/",
       "published": "Thu, 20 Aug 2026 20:03:13 +0000",
-      "title_th": "จีนกำลังเพิ่ม 'ระเบิดดิจิทัล' ให้กับโครงสร้างพื้นฐานของพลเรือน - สหรัฐฯ พร้อมหรือยัง?",
+      "title_th": "จีนกำลังอัด 'ระเบิดดิจิทัล' เข้ากับโครงสร้างพื้นฐานของพลเรือน - สหรัฐฯ พร้อมหรือยัง?",
       "summary_th": "สัปดาห์นี้ในรายการ “Uncanny Valley” Andy Greenberg พูดคุยถึงการนั่งอยู่ในเกมสงครามที่จำลองการโจมตีทางไซเบอร์จากกลุ่มแฮ็กเกอร์ชาวจีน Volt Typhoon"
     },
     {
@@ -229,18 +241,6 @@
       "published": "Thu, 20 Aug 2026 11:02:00 +0000",
       "title_th": "รีวิวหุ่นยนต์พูล Poolease X1: มันจะแย่แค่ไหน?",
       "summary_th": "Poolease X1 สามารถเก็บใบไม้จากพื้นสระได้ แต่สิ่งสกปรก ตะกอน ผนัง และขั้นบันไดล้วนอยู่นอกเหนือระดับค่าตอบแทน"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Bumble Tried to Change Dating, but the Dating Market Forced It to Change Instead",
-      "summary_en": "The app now allows men to make the first move, suggesting its women-first positioning was limiting growth. It joins other dating apps now throwing everything at the wall in a bid to stay relevant.",
-      "image": "https://media.wired.com/photos/6a84b529f8933ad1e94fc497/master/pass/Bumble-Niche-Dating-App-Dead-Culture.jpg",
-      "link": "https://www.wired.com/story/bumble-women-first-rule-change/",
-      "published": "Thu, 20 Aug 2026 11:00:00 +0000",
-      "title_th": "บัมเบิลพยายามเปลี่ยนการออกเดท แต่ตลาดการออกเดทบังคับให้เปลี่ยนแทน",
-      "summary_th": "ขณะนี้แอปอนุญาตให้ผู้ชายเริ่มเคลื่อนไหวก่อนได้ โดยบอกว่าการวางตำแหน่งที่ผู้หญิงคำนึงถึงเป็นอันดับแรกนั้นจำกัดการเติบโต โดยได้เข้าร่วมกับแอปหาคู่อื่นๆ ที่กำลังทุ่มทุกอย่างทิ้งไปเพื่อรักษาความเกี่ยวข้องเอาไว้"
     },
     {
       "source": "MIT Technology Review",
@@ -288,7 +288,7 @@
       "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
       "published": "Thu, 20 Aug 2026 09:47:22 +0000",
       "title_th": "ปลดล็อกแหล่งรายได้ที่ซ่อนอยู่ด้วยโมเดลการตลาด",
-      "summary_th": "ในแต่ละวัน สายการบินจะขนส่งผู้โดยสารหลายหมื่นคนในเที่ยวบินหลายร้อยเที่ยวบิน บ่อยครั้งเส้นทางเหล่านี้ไม่ใช่เส้นทางแบบจุดต่อจุดตรงไปตรงมา โดยผู้โดยสารต้องมีการเชื่อมต่อหลายจุด สายการบินสามารถพิจารณาตัวแปรหลายร้อยรายการเพื่อกำหนดราคาการเดินทางแต่ละครั้ง: ความต้องการ ฤดูกาล เวลาของวัน เหตุการณ์ปัจจุบัน ตลาดทั่วโลก และกิจกรรมของสายการบินคู่แข่ง เป็นต้น..."
+      "summary_th": "ในแต่ละวัน สายการบินจะขนส่งผู้โดยสารหลายหมื่นคนในเที่ยวบินหลายร้อยเที่ยวบิน บ่อยครั้งที่เส้นทางเหล่านี้ไม่ใช่เส้นทางแบบจุดต่อจุดตรงไปตรงมา โดยผู้โดยสารต้องมีการเชื่อมต่อหลายจุด สายการบินสามารถพิจารณาตัวแปรหลายร้อยรายการเพื่อกำหนดราคาการเดินทางแต่ละครั้ง: ความต้องการ ฤดูกาล เวลาของวัน เหตุการณ์ปัจจุบัน ตลาดทั่วโลก และกิจกรรมของสายการบินคู่แข่ง เป็นต้น..."
     },
     {
       "source": "MIT Technology Review",
@@ -299,8 +299,44 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/260720_MIT_Polycrisis-thumb.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
       "published": "Thu, 20 Aug 2026 09:00:00 +0000",
-      "title_th": "เครือข่ายสนับสนุนมุ่งช่วยเหลือเด็กๆ ให้ผ่านพ้นวิกฤตการณ์หลายด้าน",
-      "summary_th": "ในช่วงปลายทศวรรษ 2000 พิม ซัลลิแวน-เทลยัวร์นั่งอยู่ท้ายรถ มุ่งหน้าไปยังเมืองเล็กๆ ของคุณยายทวดทางภาคใต้ของประเทศไทย เธอมองดูภูเขาใหญ่ผ่านไปนอกหน้าต่าง เธออายุเพียงหกขวบ แต่กำลังจะโดนโจมตีด้วยการรับรู้ในขนาดผู้ใหญ่ “พวกเขาเพิ่งถูกขุดขึ้นมา…"
+      "title_th": "เครือข่ายสนับสนุนมีเป้าหมายเพื่อช่วยเหลือเด็กๆ ให้ผ่านพ้นวิกฤตการณ์หลายด้าน",
+      "summary_th": "ในช่วงปลายทศวรรษ 2000 พิม ซัลลิแวน-เทลยัวร์นั่งอยู่หลังรถ มุ่งหน้าไปยังเมืองเล็กๆ ของคุณยายทวดทางภาคใต้ของประเทศไทย เธอมองดูภูเขาใหญ่ผ่านไปนอกหน้าต่าง เธออายุเพียงหกขวบ แต่กำลังจะโดนโจมตีด้วยการรับรู้ในขนาดผู้ใหญ่ “พวกเขาเพิ่งถูกขุดขึ้นมา…"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "GitHub says commits have doubled in the last four months",
+      "summary_en": "The new traffic peak caused \"capacity failures\" that led to the developer platform's recent outage.",
+      "image": "https://www.engadget.com/img/gallery/github-says-monthly-commits-have-doubled-in-the-last-four-months/l-intro-1787264729.jpg",
+      "link": "https://www.engadget.com/2241272/github-says-commits-have-doubled-in-the-last-four-months/",
+      "published": "Thu, 20 Aug 2026 22:26:02 +0000",
+      "title_th": "GitHub กล่าวว่าการคอมมิตเพิ่มขึ้นสองเท่าในช่วงสี่เดือนที่ผ่านมา",
+      "summary_th": "ปริมาณการใช้ข้อมูลสูงสุดใหม่ทำให้เกิด \"ความล้มเหลวด้านความจุ\" ซึ่งนำไปสู่การหยุดทำงานล่าสุดของแพลตฟอร์มนักพัฒนาซอฟต์แวร์"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "HyperX's first open-back gaming headset brings the bass",
+      "summary_en": "The Cloud Alpha Air is reasonably priced at $150 and sports super comfy earpads.",
+      "image": "https://www.engadget.com/img/gallery/hyperxs-first-open-back-gaming-headset-brings-the-bass/l-intro-1787257227.jpg",
+      "link": "https://www.engadget.com/2241185/hyperx-first-open-back-gaming-headset-brings-the-bass/",
+      "published": "Thu, 20 Aug 2026 22:00:00 +0000",
+      "title_th": "ชุดหูฟังสำหรับเล่นเกมแบบเปิดด้านหลังรุ่นแรกของ HyperX ให้เสียงเบส",
+      "summary_th": "Cloud Alpha Air มีราคาสมเหตุสมผลอยู่ที่ 150 ดอลลาร์และมีแผ่นรองหูฟังที่นุ่มสบายเป็นพิเศษ"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Apple Music will reportedly label any AI-made tracks later this year",
+      "summary_en": "The upcoming feature expands its Transparency Tags for marking slop songs.",
+      "image": "https://www.engadget.com/img/gallery/apple-music-will-reportedly-label-any-ai-made-tracks-later-this-year/l-intro-1787262611.jpg",
+      "link": "https://www.engadget.com/2241260/apple-music-will-reportedly-label-any-ai-made-tracks-later-this-year/",
+      "published": "Thu, 20 Aug 2026 21:50:50 +0000",
+      "title_th": "มีรายงานว่า Apple Music จะติดป้ายกำกับเพลงที่สร้างโดย AI ในปลายปีนี้",
+      "summary_th": "ฟีเจอร์ที่กำลังจะมาถึงจะขยายแท็กความโปร่งใสสำหรับการทำเครื่องหมายเพลงสโลป"
     },
     {
       "source": "Engadget",
@@ -311,7 +347,7 @@
       "image": "https://www.engadget.com/img/gallery/riot-is-ending-active-development-of-2xko-in-december/l-intro-1787259192.jpg",
       "link": "https://www.engadget.com/2241224/riot-is-ending-active-development-of-2xko-in-december/",
       "published": "Thu, 20 Aug 2026 20:56:22 +0000",
-      "title_th": "Riot กำลังจะยุติการพัฒนา 2XKO ในเดือนธันวาคม",
+      "title_th": "Riot กำลังจะสิ้นสุดการพัฒนา 2XKO ในเดือนธันวาคม",
       "summary_th": "เกมต่อสู้จะยังคงได้รับการอัปเดตเนื้อหาจนถึงเดือนตุลาคม 2569"
     },
     {
@@ -323,44 +359,8 @@
       "image": "https://www.engadget.com/img/gallery/metas-app-for-creating-generative-ai-minigames-is-now-available-in-the-us/l-intro-1787251821.jpg",
       "link": "https://www.engadget.com/2241098/meta-pocket-app-for-creating-generative-ai-minigames-available-in-us/",
       "published": "Thu, 20 Aug 2026 18:55:00 +0000",
-      "title_th": "แอพของ Meta สำหรับสร้างมินิเกม AI เจนเนอเรชั่น มีให้บริการในสหรัฐอเมริกาแล้ว",
+      "title_th": "แอป Meta สำหรับสร้างมินิเกม AI เจนเนอเรชั่น มีให้บริการในสหรัฐอเมริกาแล้ว",
       "summary_th": "เรียกว่า Pocket และได้รับการอธิบายว่าเป็น \"แพลตฟอร์มสำหรับการสร้างและแบ่งปัน Gizmos\""
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "How to watch Gamescom's Opening Night Live showcase",
-      "summary_en": "The two-hour stream will feature Final Fantasy 7 Revelation, Gears of War: E-Day and The Witcher 3: Songs of the Past.",
-      "image": "https://www.engadget.com/img/gallery/how-to-watch-gamescoms-opening-night-live-showcase/l-intro-1787250926.jpg",
-      "link": "https://www.engadget.com/2241085/how-to-watch-gamescom-opening-night-live-showcase/",
-      "published": "Thu, 20 Aug 2026 18:45:00 +0000",
-      "title_th": "วิธีรับชมการแสดงสด Opening Night Live ของ Gamescom",
-      "summary_th": "การสตรีมความยาว 2 ชั่วโมงจะมี Final Fantasy 7 Revelation, Gears of War: E-Day และ The Witcher 3: Songs of the Past"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Chinese video platform Bilibili is going global",
-      "summary_en": "The platform is expanding with a new international app and an English version of its website.",
-      "image": "https://www.engadget.com/img/gallery/chinese-video-platform-bilibili-is-going-global/l-intro-1787250589.jpg",
-      "link": "https://www.engadget.com/2241074/chinese-video-platform-bilibili-is-going-global/",
-      "published": "Thu, 20 Aug 2026 18:31:37 +0000",
-      "title_th": "Bilibili แพลตฟอร์มวิดีโอของจีนกำลังก้าวไปทั่วโลก",
-      "summary_th": "แพลตฟอร์มดังกล่าวกำลังขยายตัวด้วยแอปสากลใหม่และเว็บไซต์เวอร์ชันภาษาอังกฤษ"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "A recent Windows 11 update is causing game crashes and all kinds of other problems",
-      "summary_en": "The company has launched an investigation.",
-      "image": "https://www.engadget.com/img/gallery/a-recent-windows-11-update-is-causing-game-crashes-and-all-kinds-of-other-problems/l-intro-1787246759.jpg",
-      "link": "https://www.engadget.com/2240999/recent-windows-11-update-causing-game-crashes-and-other-problems/",
-      "published": "Thu, 20 Aug 2026 17:32:51 +0000",
-      "title_th": "การอัปเดต Windows 11 ล่าสุดทำให้เกมล่มและปัญหาอื่นๆ ทุกประเภท",
-      "summary_th": "บริษัทได้เริ่มดำเนินการสอบสวนแล้ว"
     },
     {
       "source": "IEEE Spectrum",
@@ -420,7 +420,31 @@
       "link": "https://content.knowledgehub.wiley.com/efficient-and-accurate-prediction-of-cosite-isolation-on-large-platforms/",
       "published": "Fri, 14 Aug 2026 17:27:12 +0000",
       "title_th": "ทำนายการเชื่อมต่อเสาอากาศบนแพลตฟอร์มไฟฟ้าขนาดใหญ่ก่อนสร้างฮาร์ดแวร์",
-      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นคาดการณ์การต่อพ่วงเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามแบบใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
+      "summary_th": "เรียนรู้ว่าการจำลองแบบเต็มคลื่นทำนายการต่อเสาอากาศที่ต่ำมากบนแพลตฟอร์มขนาดเครื่องบินได้อย่างไร และเทคนิคการสร้างแบบจำลองสามประการใดที่ให้ผลลัพธ์ที่แม่นยำโดยใช้ทรัพยากรในการคำนวณน้อยลง ดาวน์โหลดเอกสารไวท์เปเปอร์ฟรีตอนนี้!"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple reportedly lays off 60 Vision employees amid shifting priorities",
+      "summary_en": "AppleInsider reports that Apple “has just laid off an entire team dedicated to VR development,” with at least 60 employees reportedly affected. Here are the details.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/john-ternus-apple-vision-pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/20/apple-reportedly-lays-off-60-vision-employees-amid-shifting-priorities/",
+      "published": "Thu, 20 Aug 2026 22:47:51 +0000",
+      "title_th": "มีรายงานว่า Apple เลิกจ้างพนักงาน Vision 60 คน ท่ามกลางการเปลี่ยนแปลงลำดับความสำคัญ",
+      "summary_th": "AppleInsider reports that Apple “has just laid off an entire team dedicated to VR development,” with at least 60 employees reportedly affected. Here are the details."
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple bucks downward trend as reports show global smartphone shipment and sales declines",
+      "summary_en": "Four Counterpoint Research reports published this week reveal drops in smartphone sales and shipments in India, Latin America, Europe, and China. Here are the reports.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-17-pro-and-max.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/20/apple-bucks-downward-trend-as-reports-show-global-smartphone-shipment-and-sales-declines/",
+      "published": "Thu, 20 Aug 2026 21:45:29 +0000",
+      "title_th": "Apple มีแนวโน้มลดลงเนื่องจากรายงานแสดงการจัดส่งสมาร์ทโฟนทั่วโลกและยอดขายลดลง",
+      "summary_th": "รายงานการวิจัย Counterpoint สี่ฉบับที่เผยแพร่ในสัปดาห์นี้เผยให้เห็นยอดขายและการจัดส่งสมาร์ทโฟนที่ลดลงในอินเดีย ละตินอเมริกา ยุโรป และจีน นี่คือรายงาน"
     },
     {
       "source": "9to5Mac",
@@ -432,7 +456,7 @@
       "link": "https://9to5mac.com/2026/08/20/whatsapp-is-working-on-even-more-liquid-glass-interface-changes-on-ios/",
       "published": "Thu, 20 Aug 2026 20:55:53 +0000",
       "title_th": "WhatsApp กำลังพัฒนาการเปลี่ยนแปลงอินเทอร์เฟซ Liquid Glass บน iOS มากยิ่งขึ้น",
-      "summary_th": "หลังจากการเปิดตัว Liquid Glass บน iOS เมื่อต้นปีนี้ WhatsApp กำลังทำงานเพื่อนำการออกแบบนี้ไปสู่องค์ประกอบอินเทอร์เฟซเพิ่มเติม นี่คือรายละเอียด"
+      "summary_th": "หลังจากการเปิดตัว Liquid Glass บน iOS เมื่อต้นปีนี้ ขณะนี้ WhatsApp กำลังทำงานเพื่อนำการออกแบบนี้ไปสู่องค์ประกอบอินเทอร์เฟซเพิ่มเติม นี่คือรายละเอียด"
     },
     {
       "source": "9to5Mac",
@@ -459,28 +483,16 @@
       "summary_th": "วันนี้ Apple ได้เปิดตัวเฟิร์มแวร์ AirPods เบต้าใหม่สำหรับนักพัฒนาและผู้ทดสอบเบต้าสาธารณะ มีจำหน่ายสำหรับ AirPods Pro 3 และเลือกรุ่นอื่นๆ นี่คือรายละเอียด"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "AirPods 4 vs AirPods Pro 3: Which should you buy in 2026?",
-      "summary_en": "Choosing between AirPods 4 and AirPods Pro 3 was already mostly a question of fit, features, and price. Apple is also developing camera-equipped AirPods with Visual Intelligence, but they are not expected to arrive until 2027 at the soonest. That could make waiting an awfully long proposition.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-noise-cancellation-anc.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/20/airpods-4-vs-airpods-pro-3-which-should-you-buy-in-2026/",
-      "published": "Thu, 20 Aug 2026 18:28:27 +0000",
-      "title_th": "AirPods 4 กับ AirPods Pro 3: คุณควรซื้ออันไหนในปี 2569",
-      "summary_th": "การเลือกระหว่าง AirPods 4 และ AirPods Pro 3 ส่วนใหญ่เป็นเรื่องของความพอดี คุณสมบัติ และราคา Apple กำลังพัฒนา AirPods ที่ติดตั้งกล้องพร้อม Visual Intelligence แต่คาดว่าจะไม่มาถึงจนกว่าจะถึงปี 2027 อย่างเร็วที่สุด นั่นอาจทำให้การรอคอยเป็นเรื่องที่ยาวนานมาก"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "AirPods with camera leak, iOS 27 beta 6, iPhone 18 Pro cases",
-      "summary_en": "Benjamin and Chance talk about the crazy leak by Apple depicting the new AirPods with cameras in a video demo, the changes in iOS 27 beta 6, their latest experiences with Siri AI, whether iPhone 18 Pro will fit iPhone 17 Pro cases, and perhaps some final resolution in the Apple vs EU App Store commission battle. And in Happy Hour Plus , Benjamin talks about some of the leaks for the upcoming HomePod with a screen. Subscribe at 9to5mac.com/join . Sponsored by Bitwarden: Check out Bitwarden, featuring secure password management, passkey support, end-to-end encryption, and seamless autofill across all devices. Sponsored by Keeper : Get 60% off personal and family plans at keepersecurity.com/HAPPYHOUR . Sponsored by Copilot Money : Get two months free with code 9TO5MAC at copilot.money/9to5mac",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2018/04/9to5mac-happy-hour-lead1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/20/happy-hour-604/",
-      "published": "Thu, 20 Aug 2026 18:00:10 +0000",
-      "title_th": "AirPods ที่มีกล้องรั่ว, iOS 27 beta 6, เคส iPhone 18 Pro",
-      "summary_th": "Benjamin และ Chance พูดคุยเกี่ยวกับการรั่วไหลอย่างบ้าคลั่งของ Apple ที่แสดงภาพ AirPods ใหม่พร้อมกล้องในการสาธิตวิดีโอ, การเปลี่ยนแปลงใน iOS 27 เบต้า 6, ประสบการณ์ล่าสุดของพวกเขากับ Siri AI, iPhone 18 Pro จะพอดีกับเคส iPhone 17 Pro หรือไม่ และบางทีอาจมีการแก้ไขขั้นสุดท้ายในการต่อสู้ระหว่างค่าคอมมิชชั่นระหว่าง Apple กับ EU App Store และใน Happy Hour Plus เบนจามินพูดถึงการรั่วไหลของ HomePod ที่มีหน้าจอที่กำลังจะมาถึง สมัครสมาชิกที่ 9to5mac.com/join สนับสนุนโดย Bitwarden: ลองดู Bitwarden ซึ่งมีการจัดการรหัสผ่านที่ปลอดภัย รองรับรหัสผ่าน การเข้ารหัสจากต้นทางถึงปลายทาง และการกรอกอัตโนมัติอย่างราบรื่นในทุกอุปกรณ์ สนับสนุนโดย Keeper : รับส่วนลด 60% สำหรับแผนส่วนบุคคลและครอบครัวที่ keepersecurity.com/HAPPYHOUR สนับสนุนโดย Copilot Money : รับฟรีสองเดือนด้วยรหัส 9TO5MAC ที่ copilot.money/9to5mac"
+      "title_en": "Google Home update lets you set light color temperature to your favorite kelvin using voice commands",
+      "summary_en": "Google Home is rolling out an update that addresses some of the most overlooked pain points for the voice assistant, like refined broadcast commands, better Spotify request recognition, and granular smart light color temperature control down to the kelvin. Don’t be shy; we all have a favorite kelvin rating.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/20/google-home-update-improves-voice-controls/",
+      "published": "Thu, 20 Aug 2026 21:53:23 +0000",
+      "title_th": "การอัปเดต Google Home ช่วยให้คุณตั้งค่าอุณหภูมิสีของแสงเป็นเคลวินที่คุณชื่นชอบได้โดยใช้คำสั่งเสียง",
+      "summary_th": "Google Home กำลังเปิดตัวการอัปเดตที่จัดการกับปัญหาบางอย่างที่ถูกมองข้ามมากที่สุดสำหรับผู้ช่วยเสียง เช่น คำสั่งการออกอากาศที่ได้รับการปรับปรุง การจดจำคำขอ Spotify ที่ดีขึ้น และการควบคุมอุณหภูมิสีแสงอัจฉริยะแบบละเอียดจนถึงระดับเคลวิน อย่าอาย; เราทุกคนมีระดับเคลวินที่ชื่นชอบ"
     },
     {
       "source": "9to5Google",
@@ -528,19 +540,7 @@
       "link": "https://9to5google.com/2026/08/20/pixel-11-factory-images/",
       "published": "Thu, 20 Aug 2026 18:14:42 +0000",
       "title_th": "Google เผยแพร่ภาพจากโรงงาน Pixel 11 Series",
-      "summary_th": "ด้วย Pixel 11 series ที่วางจำหน่ายในร้าน Google ได้เปิดตัวภาพจากโรงงานสำหรับอุปกรณ์ทั้งหมด"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Today’s Android app deals and freebies: SENTINEL 519, NARUTO Ninja STORM, Slime Legends, more",
-      "summary_en": "Your afternoon lineup of the best Android game and app deals is now ready to roll, including titles like SENTINEL 519: SAGA – GENESIS, Candleman, NARUTO: Ultimate Ninja STORM, Endling Extinction is Forever, Slime Legends – Survivor, Lia: Hacking Destiny, and more. Just be sure to dive into today’s offers on TCL NXTPAPER Android tabs from $160 and the ongoing Best Buy 60th Anniversary sale with thousands of price drops. The apps await below.",
-      "image": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/08/Google-Play-Aug-20.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5toys.com/2026/08/20/today-android-app-deals-free-naruto/",
-      "published": "Thu, 20 Aug 2026 18:04:29 +0000",
-      "title_th": "ข้อเสนอแอป Android และของแจกฟรีวันนี้: SENTINEL 519, NARUTO Ninja STORM, Slime Legends และอีกมากมาย",
-      "summary_th": "รายการเกมและแอพ Android ที่ดีที่สุดช่วงบ่ายของคุณพร้อมแล้วในตอนนี้ รวมถึงเกมอย่าง SENTINEL 519: SAGA – GENESIS, Candleman, NARUTO: Ultimate Ninja STORM, Endling Extinction is Forever, Slime Legends – Survivor, Lia: Hacking Destiny และอีกมากมาย เพียงอย่าลืมเจาะลึกข้อเสนอของวันนี้บนแท็บ Android ของ TCL NXTPAPER ในราคาเริ่มต้นที่ 160 ดอลลาร์ และการลดราคา Best Buy 60th Anniversary ที่กำลังดำเนินอยู่พร้อมการลดราคาหลายพันรายการ แอพกำลังรออยู่ด้านล่าง"
+      "summary_th": "ด้วย Pixel 11 series ที่วางจำหน่ายในวันนี้ Google ได้เปิดตัวภาพจากโรงงานสำหรับอุปกรณ์ทั้งหมด"
     },
     {
       "source": "Electrek",
@@ -552,7 +552,7 @@
       "link": "https://electrek.co/2026/08/20/tesla-semi-europe-launch-iaa-transportation/",
       "published": "Thu, 20 Aug 2026 20:11:48 +0000",
       "title_th": "Tesla ยืนยันรถบรรทุกกึ่งไฟฟ้ากำลังจะมาถึงยุโรป เผยที่ IAA",
-      "summary_th": "Tesla ยืนยันว่ารถบรรทุกกึ่งไฟฟ้ากำลังจะเข้าสู่ยุโรป และจะเปิดเผยรายละเอียดและการเปิดตัวในเดือนหน้าที่งาน IAA Transportation ซึ่งเป็นงานแสดงรถยนต์เพื่อการพาณิชย์ที่ใหญ่ที่สุดในทวีป บัญชี Tesla Semi โพสต์ว่า \"รายละเอียดและการเปิดตัวสำหรับ Semi ในยุโรป\" จะถูก \"เปิดเผยที่ IAA Transportation ในเมืองฮันโนเวอร์ ประเทศเยอรมนี\" ซึ่งจะจัดขึ้นระหว่างวันที่ 15-20 กันยายน กึ่งหนึ่งจะถูกนำมาจัดแสดงในงาน"
+      "summary_th": "Tesla confirmed that its Semi electric truck is coming to Europe, and that it will reveal the specs and launch details next month at IAA Transportation, the continent’s largest commercial vehicle show. The Tesla Semi account posted that “specs & launch details for Semi in Europe” will be “unveiled at IAA Transportation in Hannover, Germany,” which runs September 15-20. กึ่งหนึ่งจะถูกนำมาจัดแสดงในงาน"
     },
     {
       "source": "Electrek",
@@ -563,7 +563,7 @@
       "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/03/img_1665-e1457955946161.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "link": "https://electrek.co/2026/08/20/tesla-jpmorgan-fremont-fsd-v15-hw4-optimus-2027/",
       "published": "Thu, 20 Aug 2026 19:37:11 +0000",
-      "title_th": "Tesla กล่าวว่า FSD v15 เป็น 'การเปลี่ยนแปลงขั้น' Optimus ขายในปี 2570",
+      "title_th": "Tesla กล่าวว่า FSD v15 เป็น 'การเปลี่ยนแปลงขั้นตอน' Optimus ขายในปี 2570",
       "summary_th": "Tesla ได้วางไทม์ไลน์ที่อัปเดตสำหรับ Full Self-Driving, Cybercab และหุ่นยนต์ Optimus ในการประชุมล่าสุดกับ JPMorgan ที่โรงงาน Fremont ธนาคารเดินออกไปโดยอ้างว่า FSD v15 เป็น \"การเปลี่ยนแปลงขั้นบันได\" ซึ่งคอมพิวเตอร์ HW4 ในปัจจุบันสามารถรองรับการขับขี่แบบไม่มีผู้ดูแลได้ และ Optimus สามารถจำหน่ายให้กับผู้ซื้อภายนอกได้ทันทีในช่วงครึ่งหลังของปี 2570 ส่วนใหญ่จะทำซ้ำคำสัญญาที่ Tesla ทำไว้และพลาดไปก่อนหน้านี้"
     },
     {
@@ -588,7 +588,7 @@
       "link": "https://electrek.co/2026/08/20/green-deals-aug-20/",
       "published": "Thu, 20 Aug 2026 18:00:00 +0000",
       "title_th": "สถานีไฟฟ้า Anker SOLIX 2kWh 600 ดอลลาร์, หุ่นยนต์ Segway Navimow i105N ลดราคา 140 ดอลลาร์, เลื่อยลูกสูบ WORX 2-in-1 มูลค่า 73 ดอลลาร์ และอื่นๆ",
-      "summary_th": "ข้อเสนอสีเขียวของ 9to5Toys วันนี้นำโดยโรงไฟฟ้าแบบพกพา SOLIX S2000 ของ Anker ในปี 2026 ที่ส่วนลด 550 ดอลลาร์ แต่คุณยังสามารถรับเงินและทำงานบ้านด้วยเครื่องตัดหญ้าหุ่นยนต์ Navimow i105N ของ Segway ในราคา 669 ดอลลาร์ การลดราคาที่โดดเด่นอีกประการหนึ่งในวันนี้คือเลื่อยลูกสูบ WORX 2-in-1 ราคา $ 73 ซึ่งฉันเป็นเจ้าของและชื่นชอบเป็นการส่วนตัว มุ่งหน้าไปที่ด้านล่างเพื่อดูข้อเสนอสีเขียวอื่น ๆ ที่เราพบในวันนี้และแน่นอน ข้อเสนอการซื้อและเช่า EV ที่ดีที่สุดของ Electrek นอกจากนี้ ลองแวะชม Electrek Tesla Shop แห่งใหม่เพื่อรับข้อเสนอที่ดีที่สุดสำหรับอุปกรณ์เสริมของ Tesla"
+      "summary_th": "ข้อเสนอสีเขียวของ 9to5Toys วันนี้นำโดยโรงไฟฟ้าแบบพกพา SOLIX S2000 ของ Anker ในปี 2026 ที่ส่วนลด 550 ดอลลาร์ แต่คุณยังสามารถรับเงินและทำงานบ้านด้วยเครื่องตัดหญ้าหุ่นยนต์ Navimow i105N ของ Segway ในราคา 669 ดอลลาร์ เครื่องหมายที่โดดเด่นอีกประการหนึ่งในวันนี้คือเลื่อยลูกสูบ WORX 2-in-1 ราคา $ 73 ซึ่งฉันเป็นเจ้าของและชื่นชอบเป็นการส่วนตัว มุ่งหน้าไปที่ด้านล่างเพื่อดูข้อเสนอสีเขียวอื่น ๆ ที่เราพบในวันนี้และแน่นอน ข้อเสนอการซื้อและเช่า EV ที่ดีที่สุดของ Electrek นอกจากนี้ ลองแวะชม Electrek Tesla Shop แห่งใหม่เพื่อรับข้อเสนอที่ดีที่สุดสำหรับอุปกรณ์เสริมของ Tesla"
     },
     {
       "source": "Electrek",
@@ -633,8 +633,8 @@
       "name": "Microsoft",
       "market": "US",
       "price": 481.15,
-      "change": -3.16,
-      "change_pct": -0.65
+      "change": -2.25,
+      "change_pct": -0.47
     },
     {
       "symbol": "AAPL",
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 263.0,
+      "change": -1.0,
+      "change_pct": -0.38
     }
   ],
   "reviews": [
@@ -678,7 +678,7 @@
       "link": "https://www.youtube.com/watch?v=o4SSoURPODY",
       "thumbnail": "https://i4.ytimg.com/vi/o4SSoURPODY/hqdefault.jpg",
       "published": "2026-08-12T14:00:35+00:00",
-      "title_th": "การแสดงผลของ Google Pixel 11/Pro/Fold: มันคือสิ่งที่เป็นอยู่"
+      "title_th": "Google Pixel 11/Pro/Fold Impressions: It Is What It Is"
     },
     {
       "channel": "MKBHD",
