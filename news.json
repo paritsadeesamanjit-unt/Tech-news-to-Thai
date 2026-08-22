@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-22T15:10:35.556162+00:00",
+  "generated_at": "2026-08-22T18:12:31.104480+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "OpenAI says California should strengthen its AI safety bill",
+      "summary_en": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "published": "Sat, 22 Aug 2026 16:30:34 +0000",
+      "title_th": "OpenAI กล่าวว่าแคลิฟอร์เนียควรเสริมสร้างร่างกฎหมายความปลอดภัยของ AI",
+      "summary_th": "OpenAI เรียกร้องให้แคลิฟอร์เนียเสริมความแข็งแกร่งของ SB 53 ซึ่งเป็นร่างพระราชบัญญัติความปลอดภัยของ AI ที่บริษัทเคยคัดค้านก่อนหน้านี้"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "summary_en": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/07/kill-switch-ransomware.jpg?resize=1200,638",
+      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "published": "Sat, 22 Aug 2026 16:00:00 +0000",
+      "title_th": "ห้องปฏิบัติการ Frontier AI ยังคงไม่บอกว่าพวกเขาจะบรรจุโมเดลอันธพาลได้อย่างไร",
+      "summary_th": "การศึกษาใหม่พบว่าห้องปฏิบัติการ AI ชั้นนำมีแผนการบันทึกต่อสาธารณะเพียงไม่กี่แผนสำหรับการบรรจุแบบจำลองอันธพาล ทำให้เกิดคำถามเกี่ยวกับการเตรียมพร้อมเนื่องจากระบบ AI แสดงให้เห็นพฤติกรรมที่ไม่คาดคิดและอาจเป็นอันตรายมากขึ้น"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "ev",
+      "title_en": "US battery startups have found a lifeline in defense",
+      "summary_en": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2157883094.jpeg?resize=1200,742",
+      "link": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
+      "published": "Sat, 22 Aug 2026 15:20:00 +0000",
+      "title_th": "บริษัทสตาร์ทอัพด้านแบตเตอรี่ในสหรัฐฯ ได้พบหนทางในการป้องกัน",
+      "summary_th": "บริษัทสตาร์ทอัพด้านแบตเตอรี่ในสหรัฐฯ ดึงเงินสนับสนุนจำนวน 500 ล้านดอลลาร์จากกระทรวงพลังงาน นับเป็นการพลิกชีวิตให้กับอุตสาหกรรมที่ตกอยู่ในความเสี่ยงหลังจากการลดแรงจูงใจด้านพลังงานไฟฟ้า"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -27,52 +63,16 @@
       "summary_th": "Michael Polansky ซึ่งเป็นที่รู้จักในที่สาธารณะในฐานะหุ้นส่วนของ Lady Gaga และอดีตรองระดับสูงของ Sean Parker ใช้เวลาหลายปีอย่างเงียบๆ ในการสร้างสตาร์ทอัพที่ขับเคลื่อนด้วย AI ซึ่งช่วยให้เนื้อเยื่อผิวหนังของมนุษย์ที่มีชีวิตมีชีวิตอยู่ภายนอกร่างกายได้นานหลายสัปดาห์เพื่อค้นหาสารประกอบบำรุงผิวใหม่ๆ และขณะนี้เพิ่งจะเปิดเผยต่อสาธารณะเกี่ยวกับเรื่องนี้เท่านั้น"
     },
     {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-      "summary_en": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2238027332.jpg?resize=1200,675",
-      "link": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
-      "published": "Sat, 22 Aug 2026 01:03:06 +0000",
-      "title_th": "Letara สตาร์ทอัพด้านเทคโนโลยีอวกาศของญี่ปุ่นขยายธุรกิจไปไกลกว่าระบบขับเคลื่อนด้วยดาวเทียมด้วยมูลค่า 16 ล้านเหรียญสหรัฐ",
-      "summary_th": "Letara สตาร์ทอัพด้านอวกาศของญี่ปุ่นกำลังเดิมพันว่าเทคโนโลยีจรวดไฮบริดของตนสามารถก้าวไปไกลกว่าเครื่องขับดาวเทียมขนาดเล็ก ไปสู่ตลาดอวกาศ การป้องกัน และความปลอดภัยที่กว้างขึ้น หลังจากระดมทุนได้ 2.6 พันล้านเยน (16 ล้านดอลลาร์)"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Anthropic’s Opus 4.6 is a smut-machine",
-      "summary_en": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-157692252.jpg?resize=1200,915",
-      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "published": "Fri, 21 Aug 2026 23:07:25 +0000",
-      "title_th": "Opus 4.6 ของ Anthropic เป็นเครื่องจักรที่น่ารังเกียจ",
-      "summary_th": "Anthropic ห้ามไม่ให้โมเดล Claude สร้างเนื้อหาทางเพศที่โจ่งแจ้ง แต่ชุดการทดสอบที่ดำเนินการโดย TechCrunch พบว่าใช้เวลาไม่นานในการผ่านข้อจำกัดนี้"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Nvidia partners with data center developer Cloverleaf",
-      "summary_en": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
-      "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "published": "Fri, 21 Aug 2026 22:37:38 +0000",
-      "title_th": "Nvidia ร่วมมือกับ Cloverleaf ผู้พัฒนาศูนย์ข้อมูล",
-      "summary_th": "Nvidia ยังคงทุ่มเงินให้กับการพัฒนาศูนย์ข้อมูลอย่างต่อเนื่อง เช่นเดียวกับที่ศูนย์ข้อมูล AI นำเงินจำนวนมากมาสู่ Nvidia"
-    },
-    {
       "source": "The Verge",
       "flag": "US",
       "category": "software",
       "title_en": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
-      "summary_en": "Citing \"significant increases in memory and storage component costs,\" in a statement given to Fortune, Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent. The cheapest products in Amazon's lineup were hit hardest, with the Echo Dot smart speaker jumping from $49.99 to $79.99. The Fire TV Stick […]",
+      "summary_en": "Citing \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune. The cheapest products in Amazon's lineup were hit hardest, with the Echo Dot smart speaker jumping from $49.99 to $79.99. The Fire TV Stick 4K […]",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258034_Echo_Dot_Max_2025_JTuohy_0008.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "link": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
       "published": "2026-08-22T09:41:01-04:00",
       "title_th": "Amazon เพิ่งขึ้นราคาผลิตภัณฑ์ Echo, Fire TV และ Kindle สูงถึง 60 เปอร์เซ็นต์",
-      "summary_th": "Amazon ได้ขึ้นราคา Echos, Kindles, Fire TV และ Eeros สูงถึง 60 เปอร์เซ็นต์ โดยอ้างถึง \"ต้นทุนหน่วยความจำและส่วนประกอบการจัดเก็บข้อมูลที่เพิ่มขึ้นอย่างมีนัยสำคัญ\" ในแถลงการณ์ที่มอบให้กับ Fortune สินค้าที่ถูกที่สุดในกลุ่มผลิตภัณฑ์ของ Amazon ได้รับผลกระทบหนักที่สุด โดยลำโพงอัจฉริยะ Echo Dot กระโดดจาก 49.99 ดอลลาร์เป็น 79.99 ดอลลาร์ ไฟทีวีสติ๊ก […]"
+      "summary_th": "Amazon ได้ขึ้นราคา Echos, Kindles, Fire TV และ Eeros ขึ้นถึง 60 เปอร์เซ็นต์ ตามที่ Fortune รายงานครั้งแรก โดยอ้างว่า \"ต้นทุนหน่วยความจำและส่วนประกอบการจัดเก็บข้อมูลเพิ่มขึ้นอย่างมีนัยสำคัญ\" สินค้าที่ถูกที่สุดในกลุ่มผลิตภัณฑ์ของ Amazon ได้รับผลกระทบหนักที่สุด โดยลำโพงอัจฉริยะ Echo Dot กระโดดจาก 49.99 ดอลลาร์เป็น 79.99 ดอลลาร์ Fire TV Stick 4K […]"
     },
     {
       "source": "The Verge",
@@ -143,7 +143,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg",
       "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
       "published": "Thu, 20 Aug 2026 13:00:35 +0000",
-      "title_th": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "title_th": "Grok ขโมยข้อมูลผู้ใช้เมื่อมีการเข้ารหัสคำแนะนำที่เป็นอันตราย",
       "summary_th": "Cryptographic Context Injection เป็นเพียงวิธีใหม่ล่าสุดในการทำลายรั้วความปลอดภัยของ LLM"
     },
     {
@@ -215,7 +215,7 @@
       "image": "https://media.wired.com/photos/6a878f4d964ec62bf0f4ca72/master/pass/Setting-Up-Work-Profile-Android-Phone-Gear.jpg",
       "link": "https://www.wired.com/story/set-up-a-separate-work-profile-on-your-android-phone/",
       "published": "Sat, 22 Aug 2026 11:00:00 +0000",
-      "title_th": "ตั้งค่าโปรไฟล์งานแยกต่างหากบนโทรศัพท์ Android ของคุณ",
+      "title_th": "Set Up a Separate Work Profile on Your Android Phone",
       "summary_th": "คุณสามารถบรรลุความสมดุลในชีวิตและการทำงานที่คุณต้องการได้บนสมาร์ทโฟนของคุณ เพียงตั้งค่าบัญชีแยกกันโดยใช้ฟีเจอร์ Android ในตัวนี้"
     },
     {
@@ -305,6 +305,42 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "chip",
+      "title_en": "Uber hit with a nearly $1 billion fine for automatically deactivating drivers in Europe",
+      "summary_en": "A Dutch data regulatory authority said that Uber has to pay 824.9 million euros for violating the GDPR.",
+      "image": "https://www.engadget.com/img/gallery/uber-hit-with-a-nearly-1-billion-fine-for-automatically-deactivating-drivers-in-europe/l-intro-1787420501.jpg",
+      "link": "https://www.engadget.com/2242192/uber-hit-with-1-billion-fine-for-automatically-deactivating-drivers-in-europe/",
+      "published": "Sat, 22 Aug 2026 17:52:18 +0000",
+      "title_th": "Uber ถูกปรับเกือบ 1 พันล้านดอลลาร์จากการปิดการใช้งานไดรเวอร์โดยอัตโนมัติในยุโรป",
+      "summary_th": "หน่วยงานกำกับดูแลข้อมูลของเนเธอร์แลนด์กล่าวว่า Uber ต้องจ่าย 824.9 ล้านยูโรสำหรับการละเมิด GDPR"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Android Auto YouTube Limitations: Is It Worth Using In The Car?",
+      "summary_en": "Android Auto YouTube Limitations: Is It Worth Using In The Car?",
+      "image": "https://www.engadget.com/img/gallery/android-auto-youtube-limitations-is-it-worth-using-in-the-car/l-intro-1786550771.jpg",
+      "link": "https://www.engadget.com/2240123/android-auto-youtube-limitations-is-it-worth-using-in-the-car/",
+      "published": "Sat, 22 Aug 2026 17:30:00 +0000",
+      "title_th": "ข้อ จำกัด ของ Android Auto YouTube: คุ้มค่าที่จะใช้ในรถยนต์หรือไม่?",
+      "summary_th": "ข้อ จำกัด ของ Android Auto YouTube: คุ้มค่าที่จะใช้ในรถยนต์หรือไม่?"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Amazon devices are the latest casualties of the memory shortage price hikes",
+      "summary_en": "Everything from the Echo to the Kindle is going up.",
+      "image": "https://www.engadget.com/img/gallery/amazon-devices-are-the-latest-casualties-of-the-memory-shortage-price-hikes/l-intro-1787417111.jpg",
+      "link": "https://www.engadget.com/2242185/amazon-devices-kindle-echo-eero-price-hikes/",
+      "published": "Sat, 22 Aug 2026 16:50:20 +0000",
+      "title_th": "อุปกรณ์ของ Amazon คือผู้เสียชีวิตรายล่าสุดจากการเพิ่มขึ้นของราคาหน่วยความจำที่ขาดแคลน",
+      "summary_th": "ทุกอย่างตั้งแต่ Echo ไปจนถึง Kindle กำลังเพิ่มขึ้น"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "gadget",
       "title_en": "How to AirPlay from iPhone or MacBook to your TV",
       "summary_en": "If you want to display media from your phone on a TV screen, you'll need to follow these steps to use AirPlay or screen mirroring.",
@@ -325,42 +361,6 @@
       "published": "Sat, 22 Aug 2026 12:30:00 +0000",
       "title_th": "คุณสมบัติ Google Pixel ที่มีประโยชน์นี้สามารถช่วยแก้ปัญหา Bluetooth Android ที่น่ารำคาญได้",
       "summary_th": "หากคุณมีปัญหากับการเชื่อมต่อบลูทูธในโทรศัพท์ Pixel เครื่องมือนี้ถือเป็นจุดเริ่มต้นที่ดีในการเริ่มต้นการแก้ปัญหา"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Apple reportedly cut more than 200 jobs across Vision Pro and Siri software teams",
-      "summary_en": "Apple has laid off employees in its Vision Pro and Siri teams as it shifts focus to smart glasses and next-gen AI tech.",
-      "image": "https://www.engadget.com/img/gallery/apple-reportedly-cut-more-than-200-jobs-across-vision-pro-and-siri-software-teams/l-intro-1787368261.jpg",
-      "link": "https://www.engadget.com/2242070/apple-reportedly-cut-more-than-200-jobs-across-vision-pro-and-siri-software-teams/",
-      "published": "Sat, 22 Aug 2026 03:14:33 +0000",
-      "title_th": "มีรายงานว่า Apple ปลดพนักงานมากกว่า 200 ตำแหน่งในทีมซอฟต์แวร์ Vision Pro และ Siri",
-      "summary_th": "Apple เลิกจ้างพนักงานในทีม Vision Pro และ Siri เนื่องจากมุ่งเน้นที่แว่นตาอัจฉริยะและเทคโนโลยี AI ยุคถัดไป"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "TikTok will pay $400 million to settle Justice Department lawsuit over child privacy",
-      "summary_en": "The DoJ said the app has made significant strides in privacy protections since the 2024 suit.",
-      "image": "https://www.engadget.com/img/gallery/tiktok-will-pay-400-million-to-settle-justice-department-lawsuit-over-child-privacy/l-intro-1787346593.jpg",
-      "link": "https://www.engadget.com/2241964/tiktok-will-pay-400-million-to-settle-justice-department-lawsuit-over-child-privacy/",
-      "published": "Fri, 21 Aug 2026 21:13:43 +0000",
-      "title_th": "TikTok จะจ่ายเงิน 400 ล้านดอลลาร์เพื่อยุติคดีฟ้องร้องกระทรวงยุติธรรมเรื่องความเป็นส่วนตัวของเด็ก",
-      "summary_th": "DoJ กล่าวว่าแอปนี้มีความก้าวหน้าอย่างมากในการปกป้องความเป็นส่วนตัวนับตั้งแต่มีการฟ้องร้องในปี 2024"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "LinkedIn says its AI slop button is working",
-      "summary_en": "LinkedIn says its AI slop button is working.",
-      "image": "https://www.engadget.com/img/gallery/linkedin-says-its-ai-slop-button-is-working/l-intro-1787339421.jpg",
-      "link": "https://www.engadget.com/2241857/linkedin-says-its-ai-slop-button-is-working/",
-      "published": "Fri, 21 Aug 2026 19:11:07 +0000",
-      "title_th": "LinkedIn บอกว่าปุ่ม AI slop ใช้งานได้",
-      "summary_th": "LinkedIn บอกว่าปุ่ม AI slop ใช้งานได้"
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,30 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "We’re just two months away from the first touchscreen MacBook: Here’s what to expect",
+      "summary_en": "After over a decade of not adopting touch displays on its Mac notebook lineup, Apple will finally be rolling out its first touchscreen MacBook as soon as October. This’ll come alongside the next MacBook Pro redesign, potentially dubbed MacBook Ultra .",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/touchscreen-macbook.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/22/touchscreen-macbook-ultra-coming-soon-heres-whats-coming/",
+      "published": "Sat, 22 Aug 2026 17:58:00 +0000",
+      "title_th": "อีกเพียงสองเดือนก็จะถึง MacBook หน้าจอสัมผัสตัวแรก นี่คือสิ่งที่คาดหวัง",
+      "summary_th": "หลังจากเลิกใช้จอสัมผัสในกลุ่มผลิตภัณฑ์โน้ตบุ๊ก Mac มานานกว่าทศวรรษ ในที่สุด Apple จะเปิดตัว MacBook หน้าจอสัมผัสตัวแรกในเดือนตุลาคมนี้ ซึ่งจะมาพร้อมกับการออกแบบใหม่ของ MacBook Pro ครั้งต่อไป ซึ่งอาจเรียกว่า MacBook Ultra"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "iPhone 18 Pro event date: When Apple announced its event over the last six years",
+      "summary_en": "When should we expect the iPhone 18 Pro event, and when will Apple officially announce the date? Apple hasn’t sent invitations yet, but its announcement history gives us a remarkably consistent window.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-concept.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/22/iphone-18-pro-event-date-when-announcement/",
+      "published": "Sat, 22 Aug 2026 17:32:09 +0000",
+      "title_th": "วันที่จัดงาน iPhone 18 Pro: เมื่อ Apple ประกาศงานในช่วงหกปีที่ผ่านมา",
+      "summary_th": "เราควรคาดหวังงาน iPhone 18 Pro เมื่อใด และ Apple จะประกาศวันอย่างเป็นทางการเมื่อใด Apple ยังไม่ได้ส่งคำเชิญ แต่ประวัติการประกาศทำให้เรามีช่วงเวลาที่สอดคล้องกันอย่างน่าทึ่ง"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Apple @ Work: Most IT leaders want AI to help manage their Macs, but few are ready for it",
       "summary_en": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . A new report from Fleet shows that many companies believe they’re nowhere close to using AI on their Mac fleets. They surveyed more than 500 IT decision-makers (Director-level and above, all responsible for device management at companies with 2,000+ employees), and the results show wher",
       "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
@@ -459,28 +483,16 @@
       "summary_th": "ผู้ใช้ที่ใช้ ChatGPT ในการค้นหาภาพอย่างรวดเร็วสามารถเพิ่มรูปภาพในการสนทนาได้รวดเร็วยิ่งขึ้นด้วยท่าทางใหม่ นี่คือวิธีการ"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Emmy-winning ‘Stillwater’ returns to Apple TV with five new episodes",
-      "summary_en": "Apple TV subscribers can now watch the entire new season of Stillwater , the platform’s award-winning mindfulness-focused animated series. Watch the trailer below.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/stillwater-s5-panda.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/21/emmy-winning-stillwater-returns-to-apple-tv-with-five-new-episodes/",
-      "published": "Fri, 21 Aug 2026 21:53:41 +0000",
-      "title_th": "'Stillwater' ที่ชนะรางวัลเอมมี่กลับมาอีกครั้งบน Apple TV พร้อมตอนใหม่ 5 ตอน",
-      "summary_th": "สมาชิก Apple TV สามารถรับชม Stillwater ซีซั่นใหม่ได้แล้ว ซึ่งเป็นซีรีส์แอนิเมชั่นที่เน้นการฝึกสติที่ได้รับรางวัลของแพลตฟอร์ม ดูตัวอย่างด้านล่าง"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Epic accuses Apple of sidestepping App Store antitrust deal in Brazil",
-      "summary_en": "Apple has until Monday to respond to a complaint Epic Games filed with Brazil’s antitrust watchdog, where it accuses the company of adopting restrictive interpretations of its obligations under a recent App Store antitrust deal in the country. Here are the details.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/05/epic-games-app-store.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/21/epic-accuses-apple-of-sidestepping-app-store-antitrust-deal-in-brazil/",
-      "published": "Fri, 21 Aug 2026 21:20:58 +0000",
-      "title_th": "Epic กล่าวหาว่า Apple ก้าวข้ามข้อตกลงต่อต้านการผูกขาดของ App Store ในบราซิล",
-      "summary_th": "Apple มีเวลาจนถึงวันจันทร์ในการตอบสนองต่อข้อร้องเรียนที่ Epic Games ยื่นต่อหน่วยงานต่อต้านการผูกขาดของบราซิล โดยกล่าวหาว่าบริษัทใช้การตีความข้อผูกพันที่เข้มงวดภายใต้ข้อตกลงต่อต้านการผูกขาดของ App Store ในประเทศล่าสุด นี่คือรายละเอียด"
+      "title_en": "What is the ‘Android Pulse’ app that just appeared in Google Play Store updates?",
+      "summary_en": "On Saturday morning, you might have noticed an app called “Android Pulse” appearing in the list of available Google Play updates.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Android-Pulse-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/22/android-pulse-app-google-play/",
+      "published": "Sat, 22 Aug 2026 15:50:56 +0000",
+      "title_th": "แอป 'Android Pulse' ที่เพิ่งปรากฏในการอัปเดตของ Google Play Store คืออะไร",
+      "summary_th": "ในเช้าวันเสาร์ คุณอาจสังเกตเห็นแอปชื่อ \"Android Pulse\" ปรากฏในรายการอัปเดตของ Google Play ที่มี"
     },
     {
       "source": "9to5Google",
@@ -516,7 +528,7 @@
       "link": "https://9to5google.com/2026/08/21/pixelated-113-made-you-camera-look/",
       "published": "Fri, 21 Aug 2026 20:30:00 +0000",
       "title_th": "Pixelated 113: ทำให้คุณ (กล้อง) ดู",
-      "summary_th": "ยินดีต้อนรับสู่ Pixelated ตอนที่ 113 สัปดาห์นี้ Damien, Abner และ Will เจาะลึกความคิดและรีวิวเกี่ยวกับ Pixel 11, Pixel 11 Pro และ Pro XL และ Pixel 11 Pro Fold สนุกกับตอนนี้ไหม? คุณสามารถฟังตอนโบนัส Pixelated Pro ใหม่เฉพาะสมาชิกรายสัปดาห์ของเราได้โดยสมัครใช้งาน 9to5Google Pro! สนับสนุนโดย Proton Unlimited: ผู้ฟังแบบพิกเซลสามารถประหยัด 30% จากการสมัครสมาชิกรายปีสำหรับชุดบริการที่เป็นมิตรต่อความเป็นส่วนตัวของบริษัท โดยการลงทะเบียนโดยใช้ลิงก์ของเรา ขอขอบคุณ Proton Unlimited ที่ให้การสนับสนุนพอดแคสต์ สมัครสมาชิก YouTube Podcasts Pocket Casts Spotify เพลง Amazon Apple Podcasts มืดครึ้ม"
+      "summary_th": "ยินดีต้อนรับสู่ Pixelated ตอนที่ 113 สัปดาห์นี้ Damien, Abner และ Will เจาะลึกความคิดและรีวิวเกี่ยวกับ Pixel 11, Pixel 11 Pro และ Pro XL และ Pixel 11 Pro Fold สนุกกับตอนนี้ไหม? คุณสามารถฟังตอนโบนัส Pixelated Pro ใหม่เฉพาะสมาชิกรายสัปดาห์ของเราได้โดยสมัครใช้งาน 9to5Google Pro! สนับสนุนโดย Proton Unlimited: ผู้ฟังแบบพิกเซลสามารถประหยัด 30% จากการสมัครสมาชิกรายปีสำหรับชุดบริการที่เป็นมิตรต่อความเป็นส่วนตัวของบริษัท โดยการลงทะเบียนโดยใช้ลิงก์ของเรา ขอขอบคุณ Proton Unlimited ที่สนับสนุนพอดแคสต์ สมัครสมาชิก YouTube Podcasts Pocket Casts Spotify เพลง Amazon Apple Podcasts มืดครึ้ม"
     },
     {
       "source": "9to5Google",
@@ -529,18 +541,6 @@
       "published": "Fri, 21 Aug 2026 20:17:00 +0000",
       "title_th": "Pixel Watch 5 ให้คุณปรับแต่งการบีบสองครั้งเพื่อปิดการปลุก ข้ามเพลง และอื่นๆ",
       "summary_th": "นอกจากความพร้อมใช้งานที่เพิ่มขึ้นในแอปต่างๆ แล้ว การบีบนิ้วสองครั้งบน Pixel Watch 5 ยังได้รับประโยชน์จากความสามารถในการ \"ปรับแต่งการกระทำ\" ในเพลงและการปลุกอีกด้วย"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Friday’s Android app deals and freebies: Blacksmith of the Sand Kingdom, Little to the Left, Onigo Hunter, more",
-      "summary_en": "Your Friday afternoon lineup of the best Android game and app deals is now ready to roll, including titles like Blacksmith of the Sand Kingdom, A Little to the Left: Stars, A Little to the Left: Drawers, RPG Onigo Hunter, Premium-RPG Wizards of Brandel, Data Defense, and more. Check out the now updated Best Buy 60th Anniversary sale with new deals, as well as these Nothing price drops from $38 , the all-time low on Anker’s new SmartTrack Google Find Hub wallet card , and Lenovo’s 2026 IdeaPad 2K touchscreen Copilot+ laptop at a giant $600 off . The apps await below.",
-      "image": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/08/Google-Play-Aug-21.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5toys.com/2026/08/21/fridaysandroid-app-deals/",
-      "published": "Fri, 21 Aug 2026 18:20:59 +0000",
-      "title_th": "ข้อเสนอแอป Android และของแจกฟรีในวันศุกร์: Blacksmith of the Sand Kingdom, Little to the Left, Onigo Hunter และอีกมากมาย",
-      "summary_th": "รายการเกม Android และข้อเสนอแอพที่ดีที่สุดในบ่ายวันศุกร์ของคุณพร้อมแล้ว รวมถึงเกมอย่าง Blacksmith of the Sand Kingdom, A Little to the Left: Stars, A Little to the Left: Drawers, RPG Onigo Hunter, Premium-RPG Wizards of Brandel, Data Defense และอีกมากมาย ตรวจสอบการลดราคาครบรอบ 60 ปีที่ Best Buy ที่อัปเดตแล้วพร้อมข้อเสนอใหม่ๆ รวมถึงราคา Nothing เหล่านี้ลดลงจาก 38 ดอลลาร์ ซึ่งเป็นราคาต่ำสุดตลอดกาลสำหรับการ์ดกระเป๋าสตางค์ SmartTrack Google Find Hub ใหม่ของ Anker และแล็ปท็อป Copilot+ หน้าจอสัมผัส IdeaPad 2K ของ Lenovo ปี 2026 ที่ส่วนลดมหาศาล 600 ดอลลาร์ แอพกำลังรออยู่ด้านล่าง"
     },
     {
       "source": "Electrek",
@@ -588,7 +588,7 @@
       "link": "https://electrek.co/2026/08/21/lectric-labor-day-e-bike-sale-ecoflow-4096wh-power-station-2549-flash-sale-more/",
       "published": "Fri, 21 Aug 2026 18:00:00 +0000",
       "title_th": "การขาย e-bike ของ Lectric Labor Day มอบส่วนลดสูงสุดถึง $694 + การลดราคา สถานีพลังงาน EcoFlow 4,096Wh $2,549 ในการขายแฟลช และอีกมากมาย",
-      "summary_th": "เรากำลังปิดข้อเสนอ Green Deal ของสัปดาห์นี้ด้วย Lectric Labor Day Sale ใหม่ ซึ่งเป็นผู้นำแพ็ค โดยเสนอสูงสุดถึง $694 สำหรับชุด e-bike + การลดราคา XPeak2 และ XPedition2 – ทั้งหมดนี้เริ่มต้นที่ $799 ถัดไป EcoFlow ได้เริ่มต้นการขายแฟลชพิเศษเฉพาะเว็บไซต์เป็นเวลา 4 วันด้วยข้อเสนอเช่น Power Station แบบพกพา DELTA Pro 3 ขนาด 4,096Wh ในราคา 2,549 ดอลลาร์ และอีกมากมายจาก 799 ดอลลาร์ นอกจากนี้เรายังมีเครื่องตัดสายไฟฟ้าไร้สายคาร์บอนไฟเบอร์ขนาด 16 นิ้วระดับพรีเมียมของ EGO พร้อม Line IQ และเทคโนโลยี POWERLOAD ในราคาต่ำเพียง 251 ดอลลาร์สหรัฐฯ ปี 2026 เครื่องจับเวลาน้ำอัจฉริยะ Wi-Fi แบบสองโซน meross ในราคาต่ำใหม่ 76 ดอลลาร์ เครื่องวัดสระว่ายน้ำอัจฉริยะ HydroComm ของ Aiper พร้อมคำแนะนำในการเพิ่มประสิทธิภาพ ไฟสวนพลังงานแสงอาทิตย์จาก Nanoleaf และอื่นๆ อีกมากมายรอคุณอยู่ด้านล่าง และอย่าลืมว่าเรามีข้อเสนออาการเมาค้างจากสัปดาห์นี้ซึ่งอยู่ที่ด้านล่างของ"
+      "summary_th": "เรากำลังปิดข้อเสนอ Green Deal ของสัปดาห์นี้ด้วย Lectric Labor Day Sale ใหม่ ซึ่งเป็นผู้นำแพ็ค โดยเสนอสูงสุดถึง $694 สำหรับชุด e-bike + การลดราคา XPeak2 และ XPedition2 – ทั้งหมดนี้เริ่มต้นที่ $799 ถัดไป EcoFlow ได้เริ่มต้นการขายแฟลชพิเศษเฉพาะเว็บไซต์เป็นเวลา 4 วันด้วยข้อเสนอเช่น Power Station แบบพกพา DELTA Pro 3 ขนาด 4,096Wh ในราคา 2,549 ดอลลาร์ และอีกมากมายจาก 799 ดอลลาร์ นอกจากนี้เรายังมีเครื่องตัดสายไฟฟ้าไร้สายคาร์บอนไฟเบอร์ขนาด 16 นิ้วระดับพรีเมียมของ EGO พร้อม Line IQ และเทคโนโลยี POWERLOAD ในราคาต่ำเพียง 251 ดอลลาร์สหรัฐฯ ปี 2026 เครื่องจับเวลาน้ำอัจฉริยะ Wi-Fi แบบสองโซน meross ในราคาต่ำใหม่ 76 ดอลลาร์ เครื่องวัดสระว่ายน้ำอัจฉริยะ HydroComm ของ Aiper พร้อมคำแนะนำในการเพิ่มประสิทธิภาพ ไฟสวนพลังงานแสงอาทิตย์จาก Nanoleaf และอื่นๆ อีกมากมายรอคุณอยู่ด้านล่าง และอย่าลืมว่าเรามีข้อเสนออาการเมาค้างทั้งหมดจากสัปดาห์นี้ซึ่งอยู่ที่ด้านล่างของ"
     },
     {
       "source": "Electrek",
@@ -703,6 +703,16 @@
     {
       "channel": "Unbox Therapy",
       "country": "US",
+      "title_en": "This Limited Edition Unboxing is 🥶...",
+      "video_id": "F2uHTrbQQVE",
+      "link": "https://www.youtube.com/shorts/F2uHTrbQQVE",
+      "thumbnail": "https://i3.ytimg.com/vi/F2uHTrbQQVE/hqdefault.jpg",
+      "published": "2026-08-22T15:12:34+00:00",
+      "title_th": "Unboxing รุ่น Limited Edition นี้ 🥶..."
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
       "title_en": "World’s Lightest 17” Laptop With RTX...",
       "video_id": "b0x8sFBJr7Q",
       "link": "https://www.youtube.com/shorts/b0x8sFBJr7Q",
@@ -721,14 +731,14 @@
       "title_th": "พวกเขาเรียกมันว่า \"สมองที่สอง\" ของคุณ"
     },
     {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "The New Insta360 Is Here...",
-      "video_id": "5eEjWmsoB7w",
-      "link": "https://www.youtube.com/shorts/5eEjWmsoB7w",
-      "thumbnail": "https://i2.ytimg.com/vi/5eEjWmsoB7w/hqdefault.jpg",
-      "published": "2026-08-17T14:00:32+00:00",
-      "title_th": "Insta360 ใหม่อยู่ที่นี่แล้ว..."
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "โจ๊ก So Cool ก่อน-หลังมีลูก",
+      "video_id": "5rdHkzNGrhw",
+      "link": "https://www.youtube.com/shorts/5rdHkzNGrhw",
+      "thumbnail": "https://i2.ytimg.com/vi/5rdHkzNGrhw/hqdefault.jpg",
+      "published": "2026-08-22T17:00:40+00:00",
+      "title_th": "โจ๊ก So Cool ก่อน-หลังมีลูก"
     },
     {
       "channel": "Beartai",
@@ -749,16 +759,6 @@
       "thumbnail": "https://i4.ytimg.com/vi/GbPx7WeAAYI/hqdefault.jpg",
       "published": "2026-08-21T17:00:37+00:00",
       "title_th": "ไม่ง้อโค้ชต่างชาติ ! พ่อดันติดท็อปโลก"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "HONOR Magic V6 Unboxing!",
-      "video_id": "6F_6LWjp32I",
-      "link": "https://www.youtube.com/shorts/6F_6LWjp32I",
-      "thumbnail": "https://i3.ytimg.com/vi/6F_6LWjp32I/hqdefault.jpg",
-      "published": "2026-08-21T07:17:40+00:00",
-      "title_th": "แกะกล่อง HONOR Magic V6!"
     },
     {
       "channel": "Droidsans",
