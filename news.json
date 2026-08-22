@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T03:34:15.316210+00:00",
+  "generated_at": "2026-08-22T06:18:37.274565+00:00",
   "count": 50,
   "articles": [
     {
@@ -131,7 +131,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_8bad1114-5b27-4fc9-8102-1cb63e7f76fb-1152x648.jpeg",
       "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
       "published": "Fri, 21 Aug 2026 13:11:35 +0000",
-      "title_th": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+      "title_th": "Waymo เพิ่มการใช้จ่ายสองเท่าในการล็อบบี้ในการต่อสู้ robotaxi กับ Uber",
       "summary_th": "บริษัทที่เป็นเจ้าของ Alphabet กำลังพยายามชักชวนหน่วยงานกำกับดูแลของสหรัฐฯ ให้เปิดทางสำหรับบริการแท็กซี่ไร้คนขับเต็มรูปแบบ"
     },
     {
@@ -492,7 +492,7 @@
       "link": "https://9to5google.com/2026/08/21/pixel-11-pro-fold-still-doesnt-survive-bend-test-but-at-least-it-didnt-explode-this-time-video/",
       "published": "Fri, 21 Aug 2026 23:15:00 +0000",
       "title_th": "Pixel 11 Pro Fold ยังไม่ผ่านการทดสอบการโค้งงอ แต่อย่างน้อยคราวนี้ก็ไม่ 'ระเบิด' [วิดีโอ]",
-      "summary_th": "The Pixel 11 Pro Fold has gone through the typical torture test of JerryRigEverything and, while it faired better than last year, Google still has work to do."
+      "summary_th": "Pixel 11 Pro Fold ผ่านการทดสอบการทรมานโดยทั่วไปของ JerryRigEverything และถึงแม้จะดูดีกว่าปีที่แล้ว แต่ Google ก็ยังมีงานที่ต้องทำ"
     },
     {
       "source": "9to5Google",
@@ -669,36 +669,5 @@
       "change_pct": -1.9
     }
   ],
-  "reviews": [
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "I Said Yes to Every Email for a Month! (Again)",
-      "video_id": "mfmdXPT7nAM",
-      "link": "https://www.youtube.com/watch?v=mfmdXPT7nAM",
-      "thumbnail": "https://i2.ytimg.com/vi/mfmdXPT7nAM/hqdefault.jpg",
-      "published": "2026-08-21T18:53:07+00:00",
-      "title_th": "ฉันตอบตกลงทุกอีเมลเป็นเวลาหนึ่งเดือน! (อีกครั้ง)"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "Google Pixel 11/Pro/Fold Impressions: It Is What It Is",
-      "video_id": "o4SSoURPODY",
-      "link": "https://www.youtube.com/watch?v=o4SSoURPODY",
-      "thumbnail": "https://i4.ytimg.com/vi/o4SSoURPODY/hqdefault.jpg",
-      "published": "2026-08-12T14:00:35+00:00",
-      "title_th": "การแสดงผลของ Google Pixel 11/Pro/Fold: มันคือสิ่งที่เป็นอยู่"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "Galaxy Z Fold 8 Review: Honeymoon's Over",
-      "video_id": "Z6z_feacXW8",
-      "link": "https://www.youtube.com/watch?v=Z6z_feacXW8",
-      "thumbnail": "https://i3.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg",
-      "published": "2026-08-01T00:05:00+00:00",
-      "title_th": "รีวิว Galaxy Z Fold 8: ฮันนีมูนจบลงแล้ว"
-    }
-  ]
+  "reviews": []
 }
