@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-22T18:12:31.104480+00:00",
+  "generated_at": "2026-08-22T21:12:45.711199+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Will the DOJ’s investigation into a16z spook other VCs?",
+      "summary_en": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+      "published": "Sat, 22 Aug 2026 20:24:20 +0000",
+      "title_th": "การสอบสวนของ DOJ เกี่ยวกับ a16z จะหลอก VC อื่น ๆ หรือไม่?",
+      "summary_th": "ในตอนล่าสุดของ Equity เราสงสัยว่าเหตุใด DOJ จึงตรวจสอบที่นั่งของคณะกรรมการสตาร์ทอัพ"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "summary_en": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/inherent-labs-cofounders-credit-Anna-Gordon.jpeg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "published": "Sat, 22 Aug 2026 19:00:00 +0000",
+      "title_th": "Inherent ซึ่งก่อตั้งโดยศิษย์เก่า DeepMind กล่าวว่า 'เพื่อนร่วมทีม' AI ของตนมีประสิทธิภาพเหนือกว่า Anthropic และ OpenAI ในการจำลองการวิจัย",
+      "summary_th": "Inherent ห้องปฏิบัติการ AI ของอังกฤษ สร้างขึ้นโดยศิษย์เก่า DeepMind เปิดตัว Faraday ซึ่งเป็นตัวแทน AI ที่มีความสามารถในการทำซ้ำเอกสารทางวิทยาศาสตร์อาจเป็นก้าวสำคัญของนวัตกรรม"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -36,31 +60,7 @@
       "link": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
       "published": "Sat, 22 Aug 2026 15:20:00 +0000",
       "title_th": "บริษัทสตาร์ทอัพด้านแบตเตอรี่ในสหรัฐฯ ได้พบหนทางในการป้องกัน",
-      "summary_th": "บริษัทสตาร์ทอัพด้านแบตเตอรี่ในสหรัฐฯ ดึงเงินสนับสนุนจำนวน 500 ล้านดอลลาร์จากกระทรวงพลังงาน นับเป็นการพลิกชีวิตให้กับอุตสาหกรรมที่ตกอยู่ในความเสี่ยงหลังจากการลดแรงจูงใจด้านพลังงานไฟฟ้า"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "review",
-      "title_en": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
-      "summary_en": "Google’s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt recent Pixel owners.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Pixel-11-Pro-XL-main.jpg?resize=1200,675",
-      "link": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
-      "published": "Sat, 22 Aug 2026 14:00:00 +0000",
-      "title_th": "การตรวจสอบ Pixel 11 Pro XL: กล้อง Snappier ไม่สามารถซ่อนการอัพเกรดซ้ำได้",
-      "summary_th": "Pixel 11 Pro XL ของ Google นำเสนอกล้อง snappier และคุณสมบัติ AI ที่มีประโยชน์อย่างแท้จริงเช่น Rambler แต่การอัพเกรดซ้ำ ๆ อาจไม่เพียงพอที่จะดึงดูดเจ้าของ Pixel ล่าสุด"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Michael Polansky is training an AI model on skin that’s still alive",
-      "summary_en": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about it.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Michael_Polansky.jpg?resize=1200,759",
-      "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-      "published": "Sat, 22 Aug 2026 01:31:04 +0000",
-      "title_th": "Michael Polansky กำลังฝึกโมเดล AI บนผิวหนังที่ยังมีชีวิตอยู่",
-      "summary_th": "Michael Polansky ซึ่งเป็นที่รู้จักในที่สาธารณะในฐานะหุ้นส่วนของ Lady Gaga และอดีตรองระดับสูงของ Sean Parker ใช้เวลาหลายปีอย่างเงียบๆ ในการสร้างสตาร์ทอัพที่ขับเคลื่อนด้วย AI ซึ่งช่วยให้เนื้อเยื่อผิวหนังของมนุษย์ที่มีชีวิตมีชีวิตอยู่ภายนอกร่างกายได้นานหลายสัปดาห์เพื่อค้นหาสารประกอบบำรุงผิวใหม่ๆ และขณะนี้เพิ่งจะเปิดเผยต่อสาธารณะเกี่ยวกับเรื่องนี้เท่านั้น"
+      "summary_th": "บริษัทสตาร์ทอัพด้านแบตเตอรี่ในสหรัฐฯ ดึงเงินสนับสนุนจำนวน 500 ล้านดอลลาร์จากกระทรวงพลังงาน ถือเป็นการพลิกชีวิตให้กับอุตสาหกรรมที่กำลังตกอยู่ในอันตรายหลังจากการลดหย่อนแรงจูงใจด้านพลังงานไฟฟ้า"
     },
     {
       "source": "The Verge",
@@ -96,7 +96,7 @@
       "link": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
       "published": "2026-08-22T08:00:00-04:00",
       "title_th": "อุปกรณ์ซ่อมแซมใหม่ที่ยอดเยี่ยมสองชิ้น",
-      "summary_th": "สวัสดีเพื่อน! ยินดีต้อนรับสู่โปรแกรมติดตั้งหมายเลข 141 คำแนะนำของคุณเกี่ยวกับสิ่งที่ดีที่สุดและล้ำหน้าที่สุดในโลก (หากคุณใหม่ที่นี่ ยินดีต้อนรับ ฉันก็ใหม่ที่นี่เหมือนกัน และคุณสามารถอ่านฉบับเก่าทั้งหมดได้ที่หน้าแรกของโปรแกรมติดตั้ง) สัปดาห์นี้ ฉันได้กลับเข้าสู่ร่องของโปรแกรมติดตั้ง โดยลองใช้สวิตช์ตามหลักสรีระศาสตร์ […]"
+      "summary_th": "สวัสดีเพื่อน! ยินดีต้อนรับสู่โปรแกรมติดตั้งหมายเลข 141 คำแนะนำของคุณเกี่ยวกับสิ่งที่ดีที่สุดและล้ำหน้าที่สุดในโลก (หากคุณใหม่ที่นี่ ยินดีต้อนรับ ฉันก็ใหม่ที่นี่เหมือนกัน และคุณสามารถอ่านฉบับเก่าทั้งหมดได้ที่หน้าแรกของโปรแกรมติดตั้ง) สัปดาห์นี้ ฉันได้กลับเข้าสู่กลุ่มโปรแกรมติดตั้งอีกครั้ง โดยลองใช้สวิตช์ตามหลักสรีรศาสตร์ […]"
     },
     {
       "source": "The Verge",
@@ -179,7 +179,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg",
       "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
       "published": "Fri, 14 Aug 2026 17:03:54 +0000",
-      "title_th": "สถานี PBS กลัวสูญเสียข้อมูล 50TB หลังจากถูกโกสต์โดยผู้ให้บริการพื้นที่เก็บข้อมูลบนคลาวด์",
+      "title_th": "สถานี PBS กลัวการสูญเสียข้อมูล 50TB หลังจากถูกโกสต์โดยผู้ให้บริการพื้นที่เก็บข้อมูลบนคลาวด์",
       "summary_th": "“เราไม่สามารถเข้าถึงข้อมูลบนฮาร์ดแวร์/เซิร์ฟเวอร์ได้” Iron Mountain กล่าวกับ Ars"
     },
     {
@@ -215,7 +215,7 @@
       "image": "https://media.wired.com/photos/6a878f4d964ec62bf0f4ca72/master/pass/Setting-Up-Work-Profile-Android-Phone-Gear.jpg",
       "link": "https://www.wired.com/story/set-up-a-separate-work-profile-on-your-android-phone/",
       "published": "Sat, 22 Aug 2026 11:00:00 +0000",
-      "title_th": "Set Up a Separate Work Profile on Your Android Phone",
+      "title_th": "ตั้งค่าโปรไฟล์งานแยกต่างหากบนโทรศัพท์ Android ของคุณ",
       "summary_th": "คุณสามารถบรรลุความสมดุลในชีวิตและการทำงานที่คุณต้องการได้บนสมาร์ทโฟนของคุณ เพียงตั้งค่าบัญชีแยกกันโดยใช้ฟีเจอร์ Android ในตัวนี้"
     },
     {
@@ -299,8 +299,44 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/smokescreen.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
       "published": "Thu, 20 Aug 2026 15:42:39 +0000",
-      "title_th": "การถกเถียงเรื่องจิตสำนึกของ AI นั้นเป็นกับดัก",
+      "title_th": "การถกเถียงเรื่องจิตสำนึกของ AI เป็นกับดัก",
       "summary_th": "AI “ผู้หลบหนี” เจ้าหน้าที่ “โกง” และนักแสดง “อิสระ”—วาทศิลป์ในปัจจุบันจะทำให้คุณเชื่อว่าเจ้าหน้าที่ AI ไม่เพียงแต่ตื่นตัวและตระหนักรู้เท่านั้น แต่ยังโกรธผู้สร้างของพวกเขาด้วย ผู้นำด้านเทคโนโลยีที่มีชื่อเสียง เช่น Demis Hassabis, Dario Amodei และ Sam Altman ผลักดันให้มีการควบคุมระบบที่ดูเหมือน \"เหนือมนุษย์\" เหล่านี้ ในขณะที่ฝ่ายที่แยกจากกัน นำโดยองค์กรนโยบาย..."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "How to limit Instagram from using your data for AI and ads",
+      "summary_en": "You can keep Instagram from using your activity outside the app to influence the ads you get.",
+      "image": "https://www.engadget.com/img/gallery/how-to-limit-instagram-from-using-your-data-for-ai-and-ads/l-intro-1786459133.jpg",
+      "link": "https://www.engadget.com/2240136/how-to-limit-instragram-from-using-data-for-ai-ads/",
+      "published": "Sat, 22 Aug 2026 20:30:00 +0000",
+      "title_th": "วิธีจำกัด Instagram ไม่ให้ใช้ข้อมูลของคุณสำหรับ AI และโฆษณา",
+      "summary_th": "คุณสามารถป้องกันไม่ให้ Instagram ใช้กิจกรรมของคุณภายนอกแอพเพื่อมีอิทธิพลต่อโฆษณาที่คุณได้รับ"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "The oldest iPhone model you can trade-in with Apple is older than you'd think",
+      "summary_en": "Even old Apple devices you haven't touched in years could still get you some credit towards a new phone.",
+      "image": "https://www.engadget.com/img/gallery/the-oldest-iphone-model-you-can-trade-in-with-apple-is-older-than-youd-think/l-intro-1786647748.jpg",
+      "link": "https://www.engadget.com/2240134/oldest-iphone-model-trade-in-with-apple/",
+      "published": "Sat, 22 Aug 2026 20:00:00 +0000",
+      "title_th": "iPhone ที่เก่าแก่ที่สุดที่คุณสามารถแลกกับ Apple ได้นั้นเก่ากว่าที่คุณคิด",
+      "summary_th": "แม้แต่อุปกรณ์ Apple รุ่นเก่าที่คุณไม่ได้สัมผัสมาหลายปีก็ยังสามารถให้เครดิตแก่คุณเพื่อซื้อโทรศัพท์เครื่องใหม่ได้"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "OpenAI calls for California to strengthen its AI safety laws",
+      "summary_en": "The AI leader said that the state's SB 53 framework should \"be amended to expand safeguards.\"",
+      "image": "https://www.engadget.com/img/gallery/openai-calls-for-california-to-strengthen-its-ai-safety-laws/l-intro-1787426239.jpg",
+      "link": "https://www.engadget.com/2242200/openai-calls-for-california-to-strengthen-ai-safety-laws/",
+      "published": "Sat, 22 Aug 2026 19:27:04 +0000",
+      "title_th": "OpenAI เรียกร้องให้แคลิฟอร์เนียเสริมสร้างกฎหมายความปลอดภัยของ AI",
+      "summary_th": "ผู้นำ AI กล่าวว่ากรอบการทำงาน SB 53 ของรัฐควร \"แก้ไขเพื่อขยายการป้องกัน\""
     },
     {
       "source": "Engadget",
@@ -311,7 +347,7 @@
       "image": "https://www.engadget.com/img/gallery/uber-hit-with-a-nearly-1-billion-fine-for-automatically-deactivating-drivers-in-europe/l-intro-1787420501.jpg",
       "link": "https://www.engadget.com/2242192/uber-hit-with-1-billion-fine-for-automatically-deactivating-drivers-in-europe/",
       "published": "Sat, 22 Aug 2026 17:52:18 +0000",
-      "title_th": "Uber ถูกปรับเกือบ 1 พันล้านดอลลาร์จากการปิดการใช้งานไดรเวอร์โดยอัตโนมัติในยุโรป",
+      "title_th": "Uber ถูกปรับเกือบ 1 พันล้านดอลลาร์จากการปิดใช้งานไดรเวอร์โดยอัตโนมัติในยุโรป",
       "summary_th": "หน่วยงานกำกับดูแลข้อมูลของเนเธอร์แลนด์กล่าวว่า Uber ต้องจ่าย 824.9 ล้านยูโรสำหรับการละเมิด GDPR"
     },
     {
@@ -327,42 +363,6 @@
       "summary_th": "ข้อ จำกัด ของ Android Auto YouTube: คุ้มค่าที่จะใช้ในรถยนต์หรือไม่?"
     },
     {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Amazon devices are the latest casualties of the memory shortage price hikes",
-      "summary_en": "Everything from the Echo to the Kindle is going up.",
-      "image": "https://www.engadget.com/img/gallery/amazon-devices-are-the-latest-casualties-of-the-memory-shortage-price-hikes/l-intro-1787417111.jpg",
-      "link": "https://www.engadget.com/2242185/amazon-devices-kindle-echo-eero-price-hikes/",
-      "published": "Sat, 22 Aug 2026 16:50:20 +0000",
-      "title_th": "อุปกรณ์ของ Amazon คือผู้เสียชีวิตรายล่าสุดจากการเพิ่มขึ้นของราคาหน่วยความจำที่ขาดแคลน",
-      "summary_th": "ทุกอย่างตั้งแต่ Echo ไปจนถึง Kindle กำลังเพิ่มขึ้น"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "How to AirPlay from iPhone or MacBook to your TV",
-      "summary_en": "If you want to display media from your phone on a TV screen, you'll need to follow these steps to use AirPlay or screen mirroring.",
-      "image": "https://www.engadget.com/img/gallery/how-to-airplay-from-iphone-or-macbook-to-your-tv/l-intro-1787080150.jpg",
-      "link": "https://www.engadget.com/2240112/how-to-airplay-from-iphone-macbook-to-tv/",
-      "published": "Sat, 22 Aug 2026 13:00:00 +0000",
-      "title_th": "วิธี AirPlay จาก iPhone หรือ MacBook ไปยังทีวีของคุณ",
-      "summary_th": "หากคุณต้องการแสดงสื่อจากโทรศัพท์ของคุณบนหน้าจอทีวี คุณจะต้องทำตามขั้นตอนเหล่านี้เพื่อใช้ AirPlay หรือการสะท้อนหน้าจอ"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "This handy Google Pixel feature can help solve annoying Android Bluetooth problems",
-      "summary_en": "If you're having trouble with Bluetooth connections on your Pixel phone, this tool is a great place to start your troubleshooting.",
-      "image": "https://www.engadget.com/img/gallery/this-handy-google-pixel-feature-can-help-solve-annoying-android-bluetooth-problems/l-intro-1786976534.jpg",
-      "link": "https://www.engadget.com/2240108/google-pixel-android-bluetooth-diagnostics-feature/",
-      "published": "Sat, 22 Aug 2026 12:30:00 +0000",
-      "title_th": "คุณสมบัติ Google Pixel ที่มีประโยชน์นี้สามารถช่วยแก้ปัญหา Bluetooth Android ที่น่ารำคาญได้",
-      "summary_th": "หากคุณมีปัญหากับการเชื่อมต่อบลูทูธในโทรศัพท์ Pixel เครื่องมือนี้ถือเป็นจุดเริ่มต้นที่ดีในการเริ่มต้นการแก้ปัญหา"
-    },
-    {
       "source": "IEEE Spectrum",
       "flag": "US",
       "category": "robot",
@@ -372,7 +372,7 @@
       "link": "https://event.on24.com/wcc/r/5460332/DAFEFF7A68EE900DEA7A14356089B553?utm_source=IEEE&utm_medium=site&utm_campaign=922",
       "published": "Fri, 21 Aug 2026 14:32:37 +0000",
       "title_th": "หยุดการล่าสัตว์ เริ่มแก้ไข: เร่งการวิเคราะห์สาเหตุที่แท้จริงด้วย Agentic AI",
-      "summary_th": "เกี่ยวกับการสัมมนาผ่านเว็บนี้ เปลี่ยนการสำรวจสาเหตุผลผลิตให้เร็วขึ้นและมั่นใจยิ่งขึ้น การวิเคราะห์สาเหตุที่แท้จริง เมื่อปัญหาผลผลิตเกิดขึ้น คำตอบแทบจะไม่อยู่ในระบบเดียว เบาะแสที่สำคัญจะกระจายไปตามข้อมูลมาตรวิทยา ร่องรอยเครื่องมือ การวิเคราะห์ทางเคมี และระบบอำนวยความสะดวก ในขณะที่ปริมาณข้อมูลที่เพิ่มขึ้นทำให้แดชบอร์ดแบบเดิมทำงานช้าลง กระจัดกระจาย และดำเนินการได้ยาก สิ่งที่คุณจะได้เรียนรู้: ค้นพบว่าแพลตฟอร์มการวิเคราะห์เซมิคอนดักเตอร์ที่สร้างขึ้นตามวัตถุประสงค์เฉพาะสามารถช่วยวิศวกรเชื่อมต่อข้อมูลเชิงลึกข้ามโดเมนโดยไม่ต้องย้ายข้อมูลได้อย่างไร ดูว่า Agentic AI การแสดงภาพข้อมูลเฉพาะเซมิคอนดักเตอร์ และการประมวลผลแบบกดลงช่วยให้ตรวจสอบการเบี่ยงเบนของผลผลิตและปัญหากระบวนการได้เร็วขึ้น แม้จะข้ามจุดข้อมูลนับพันล้านจุดก็ตาม ในเซสชั่นนี้ การสาธิตสดจะแสดงวิธีดำเนินการตรวจสอบสาเหตุต้นตอของหลายโดเมน"
+      "summary_th": "เกี่ยวกับการสัมมนาผ่านเว็บนี้ เปลี่ยนการสำรวจสาเหตุผลผลิตให้เร็วขึ้นและมั่นใจยิ่งขึ้น การวิเคราะห์สาเหตุที่แท้จริง เมื่อปัญหาผลผลิตเกิดขึ้น คำตอบแทบจะไม่อยู่ในระบบเดียว เบาะแสที่สำคัญจะกระจายไปตามข้อมูลมาตรวิทยา ร่องรอยเครื่องมือ การวิเคราะห์ทางเคมี และระบบอำนวยความสะดวก ในขณะที่ปริมาณข้อมูลที่เพิ่มขึ้นทำให้แดชบอร์ดแบบเดิมทำงานช้าลง กระจัดกระจาย และดำเนินการได้ยาก สิ่งที่คุณจะได้เรียนรู้: ค้นพบว่าแพลตฟอร์มการวิเคราะห์เซมิคอนดักเตอร์ที่สร้างขึ้นตามวัตถุประสงค์เฉพาะสามารถช่วยวิศวกรเชื่อมต่อข้อมูลเชิงลึกข้ามโดเมนโดยไม่ต้องย้ายข้อมูลได้อย่างไร ดูว่า Agentic AI การแสดงภาพข้อมูลเฉพาะเซมิคอนดักเตอร์ และการประมวลผลแบบกดลงช่วยให้ตรวจสอบการเบี่ยงเบนของผลผลิตและปัญหากระบวนการได้เร็วขึ้น แม้จะข้ามจุดข้อมูลนับพันล้านจุดก็ตาม ในเซสชั่นนี้ การสาธิตสดจะแสดงวิธีดำเนินการตรวจสอบสาเหตุต้นตอของโดเมนหลายโดเมน"
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,30 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "Google’s new Pixel 11 offers an incredible camera feature that Apple should copy",
+      "summary_en": "Earlier this month, Google unveiled its new Pixel 11 lineup. The phones themselves were rather similar compared to the previous Pixel 10 lineup, though they offer a few delightful quality of life improvements. One of those is a new set of camera processing options – allowing you to have far more control over what your photo will look like. On the cusp of the iPhone 18 Pro release , I’m hoping Apple offers something similar to this.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-cosmic-orange-cameras-angle.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/22/pixel-11-new-camera-feature-apple-should-copy/",
+      "published": "Sat, 22 Aug 2026 20:43:49 +0000",
+      "title_th": "Pixel 11 ใหม่ของ Google นำเสนอคุณสมบัติกล้องที่น่าทึ่งที่ Apple ควรคัดลอก",
+      "summary_th": "เมื่อต้นเดือนที่ผ่านมา Google ได้เปิดตัวกลุ่มผลิตภัณฑ์ Pixel 11 ใหม่ โทรศัพท์ค่อนข้างคล้ายกันเมื่อเทียบกับกลุ่มผลิตภัณฑ์ Pixel 10 รุ่นก่อนหน้าแม้ว่าจะมีการปรับปรุงคุณภาพชีวิตที่น่ายินดีเล็กน้อยก็ตาม หนึ่งในนั้นคือชุดตัวเลือกการประมวลผลกล้องชุดใหม่ ซึ่งช่วยให้คุณควบคุมรูปลักษณ์ของภาพถ่ายได้มากขึ้น ในช่วงเปิดตัว iPhone 18 Pro ฉันหวังว่า Apple จะเสนอสิ่งที่คล้ายกันนี้"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Indie App Spotlight: ‘CloudGear’ brings all cloud gaming platforms into one tvOS app",
+      "summary_en": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . On the Apple TV, gaming is a little bit of an afterthought for developers. Compared to iPhone, iPad, and even Mac – there aren’t a ton of options. Luckily, CloudGear exists as an all-in-one solution for bringing every major cloud gaming platform into one interface. It’s also available for iPhone and iPad.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/CloudGear-aligned.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/22/indie-app-spotlight-cloudgear-brings-all-cloud-gaming-platforms-into-one-tvos-app/",
+      "published": "Sat, 22 Aug 2026 19:30:00 +0000",
+      "title_th": "จุดเด่นของแอปอินดี้: \"CloudGear\" นำแพลตฟอร์มเกมบนคลาวด์ทั้งหมดมาไว้ในแอป tvOS เดียว",
+      "summary_th": "ยินดีต้อนรับสู่แอปอินดี้สปอตไลท์ นี่คือซีรีส์ 9to5Mac รายสัปดาห์ที่เรานำเสนอแอปล่าสุดในโลกของแอปอินดี้ หากคุณเป็นนักพัฒนาซอฟต์แวร์และต้องการให้แอปของคุณเป็นจุดเด่น โปรดติดต่อ บน Apple TV การเล่นเกมถือเป็นเรื่องเล็กน้อยสำหรับนักพัฒนา เมื่อเทียบกับ iPhone, iPad และแม้แต่ Mac – มีตัวเลือกไม่มากนัก โชคดีที่ CloudGear มีอยู่เป็นโซลูชันแบบครบวงจรสำหรับการนำแพลตฟอร์มเกมบนคลาวด์หลักทุกแพลตฟอร์มมาไว้ในอินเทอร์เฟซเดียว มีให้บริการสำหรับ iPhone และ iPad ด้วย"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "We’re just two months away from the first touchscreen MacBook: Here’s what to expect",
       "summary_en": "After over a decade of not adopting touch displays on its Mac notebook lineup, Apple will finally be rolling out its first touchscreen MacBook as soon as October. This’ll come alongside the next MacBook Pro redesign, potentially dubbed MacBook Ultra .",
       "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/touchscreen-macbook.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
@@ -456,31 +480,7 @@
       "link": "https://9to5mac.com/2026/08/22/apple-work-most-it-leaders-want-ai-to-manage-their-macs-but-few-are-ready-for-it/",
       "published": "Sat, 22 Aug 2026 13:30:00 +0000",
       "title_th": "Apple @ Work: ผู้นำด้านไอทีส่วนใหญ่ต้องการให้ AI ช่วยจัดการ Mac ของตน แต่มีเพียงไม่กี่คนที่พร้อมสำหรับสิ่งนี้",
-      "summary_th": "Apple @ Work ให้บริการแก่คุณโดยเฉพาะโดย Mosyle ซึ่งเป็น Apple Unified Platform เพียงแห่งเดียว Mosyle เป็นโซลูชันเดียวที่ผสานรวมโซลูชันทั้งหมดที่จำเป็นในการปรับใช้ จัดการ และปกป้องอุปกรณ์ Apple ในที่ทำงานได้อย่างราบรื่นและอัตโนมัติในแพลตฟอร์มระดับมืออาชีพเพียงแพลตฟอร์มเดียว องค์กรกว่า 45,000 แห่งไว้วางใจให้ Mosyle สร้างสรรค์อุปกรณ์ Apple หลายล้านเครื่องให้พร้อมใช้งานโดยไม่ต้องใช้ความพยายามและในราคาที่เอื้อมถึง ขอรับการทดลองใช้เพิ่มเติมวันนี้ และทำความเข้าใจว่าเหตุใด Mosyle จึงเป็นทุกสิ่งที่คุณต้องการเพื่อร่วมงานกับ Apple รายงานใหม่จาก Fleet แสดงให้เห็นว่าหลายบริษัทเชื่อว่าตนไม่มีทางใช้ AI บนกลุ่ม Mac ของตนได้เลย พวกเขาสำรวจผู้มีอำนาจตัดสินใจด้านไอทีมากกว่า 500 คน (ระดับผู้อำนวยการขึ้นไป ซึ่งทุกคนรับผิดชอบด้านการจัดการอุปกรณ์ในบริษัทที่มีพนักงานมากกว่า 2,000 คน) และผลลัพธ์แสดงให้เห็นว่า"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Weekend Apple deals: $500 off MacBook Pro, AirPods Pro 3, AirPods Max 2 $120 off, AirTag 2, more",
-      "summary_en": "Alongside the final AirPods Max 2 at $120 off and the return of all-time low pricing on AirTag 2. Those discounts join a big-time $500 price drop on M5 Pro MacBook Pro, the lowest prices around on MacBook Neo and M5 MacBook Air courtesy of the official Apple Certified Refurbished Store , Apple Watch Series 11 at $100 off, and ongoing deals on both iPhone 17 Pro and iPhone Air. Scope it out below.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-weekend-deals-AirPods-Pro-3-MacBook-Neo-AirTag.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/22/weekend-apple-deals-macbook-pro-airpods-pro-3/",
-      "published": "Sat, 22 Aug 2026 12:17:11 +0000",
-      "title_th": "ข้อเสนอสุดสัปดาห์ของ Apple: ลด $ 500 สำหรับ MacBook Pro, AirPods Pro 3, AirPods Max 2 ลด $ 120, AirTag 2 และอีกมากมาย",
-      "summary_th": "นอกเหนือจาก AirPods Max 2 รุ่นสุดท้ายที่ส่วนลด 120 ดอลลาร์ และการกลับมาของราคาที่ต่ำเป็นประวัติการณ์ใน AirTag 2 ส่วนลดเหล่านั้นร่วมกับการลดราคาครั้งใหญ่ 500 ดอลลาร์สำหรับ M5 Pro MacBook Pro ราคาต่ำสุดของ MacBook Neo และ M5 MacBook Air ซึ่งได้รับความอนุเคราะห์จาก Apple Certified Refurbished Store อย่างเป็นทางการ, Apple Watch Series 11 ในราคาลด 100 ดอลลาร์ และข้อเสนออย่างต่อเนื่องสำหรับทั้ง iPhone 17 Pro และ iPhone Air กำหนดขอบเขตไว้ด้านล่าง"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "ChatGPT’s iPhone app gets a handy shortcut to attach recent photos more quickly",
-      "summary_en": "Users who rely on ChatGPT for quick visual searches can now add photos to a conversation more quickly with a new gesture. Here’s how.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/21/chatgpts-iphone-app-gets-a-handy-shortcut-to-attach-recent-photos-more-quickly/",
-      "published": "Fri, 21 Aug 2026 23:50:13 +0000",
-      "title_th": "แอพ iPhone ของ ChatGPT มีทางลัดที่สะดวกในการแนบรูปภาพล่าสุดได้รวดเร็วยิ่งขึ้น",
-      "summary_th": "ผู้ใช้ที่ใช้ ChatGPT ในการค้นหาภาพอย่างรวดเร็วสามารถเพิ่มรูปภาพในการสนทนาได้รวดเร็วยิ่งขึ้นด้วยท่าทางใหม่ นี่คือวิธีการ"
+      "summary_th": "Apple @ Work ให้บริการแก่คุณโดยเฉพาะโดย Mosyle ซึ่งเป็น Apple Unified Platform เพียงแห่งเดียว Mosyle เป็นโซลูชันเดียวที่ผสานรวมโซลูชันทั้งหมดที่จำเป็นในการปรับใช้ จัดการ และปกป้องอุปกรณ์ Apple ในที่ทำงานได้อย่างราบรื่นและอัตโนมัติในแพลตฟอร์มระดับมืออาชีพเพียงแพลตฟอร์มเดียว องค์กรกว่า 45,000 แห่งไว้วางใจให้ Mosyle สร้างสรรค์อุปกรณ์ Apple หลายล้านเครื่องให้พร้อมใช้งานโดยไม่ต้องใช้ความพยายามและในราคาที่เอื้อมถึง ขอรับการทดลองใช้เพิ่มเติมวันนี้ และทำความเข้าใจว่าเหตุใด Mosyle จึงเป็นทุกสิ่งที่คุณต้องการเพื่อร่วมงานกับ Apple รายงานใหม่จาก Fleet แสดงให้เห็นว่าบริษัทหลายแห่งเชื่อว่าตนไม่มีทางใช้ AI บนกลุ่ม Mac ของตนได้เลย พวกเขาสำรวจผู้มีอำนาจตัดสินใจด้านไอทีมากกว่า 500 คน (ระดับผู้อำนวยการขึ้นไป ซึ่งทุกคนรับผิดชอบด้านการจัดการอุปกรณ์ในบริษัทที่มีพนักงานมากกว่า 2,000 คน) และผลลัพธ์แสดงให้เห็นว่า"
     },
     {
       "source": "9to5Google",
@@ -528,7 +528,7 @@
       "link": "https://9to5google.com/2026/08/21/pixelated-113-made-you-camera-look/",
       "published": "Fri, 21 Aug 2026 20:30:00 +0000",
       "title_th": "Pixelated 113: ทำให้คุณ (กล้อง) ดู",
-      "summary_th": "ยินดีต้อนรับสู่ Pixelated ตอนที่ 113 สัปดาห์นี้ Damien, Abner และ Will เจาะลึกความคิดและรีวิวเกี่ยวกับ Pixel 11, Pixel 11 Pro และ Pro XL และ Pixel 11 Pro Fold สนุกกับตอนนี้ไหม? คุณสามารถฟังตอนโบนัส Pixelated Pro ใหม่เฉพาะสมาชิกรายสัปดาห์ของเราได้โดยสมัครใช้งาน 9to5Google Pro! สนับสนุนโดย Proton Unlimited: ผู้ฟังแบบพิกเซลสามารถประหยัด 30% จากการสมัครสมาชิกรายปีสำหรับชุดบริการที่เป็นมิตรต่อความเป็นส่วนตัวของบริษัท โดยการลงทะเบียนโดยใช้ลิงก์ของเรา ขอขอบคุณ Proton Unlimited ที่สนับสนุนพอดแคสต์ สมัครสมาชิก YouTube Podcasts Pocket Casts Spotify เพลง Amazon Apple Podcasts มืดครึ้ม"
+      "summary_th": "ยินดีต้อนรับสู่ Pixelated ตอนที่ 113 สัปดาห์นี้ Damien, Abner และ Will เจาะลึกความคิดและรีวิวเกี่ยวกับ Pixel 11, Pixel 11 Pro และ Pro XL และ Pixel 11 Pro Fold สนุกกับตอนนี้ไหม? คุณสามารถฟังตอนโบนัส Pixelated Pro ใหม่เฉพาะสมาชิกรายสัปดาห์ของเราได้โดยสมัครใช้งาน 9to5Google Pro! สนับสนุนโดย Proton Unlimited: ผู้ฟังแบบพิกเซลสามารถประหยัด 30% จากการสมัครสมาชิกรายปีสำหรับชุดบริการที่เป็นมิตรต่อความเป็นส่วนตัวของบริษัท โดยการลงทะเบียนโดยใช้ลิงก์ของเรา ขอขอบคุณ Proton Unlimited ที่ให้การสนับสนุนพอดแคสต์ สมัครสมาชิก YouTube Podcasts Pocket Casts Spotify เพลง Amazon Apple Podcasts มืดครึ้ม"
     },
     {
       "source": "9to5Google",
