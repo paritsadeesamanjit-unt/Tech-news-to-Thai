@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-23T12:14:16.834074+00:00",
+  "generated_at": "2026-08-23T15:11:54.421477+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "summary_en": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1303811813.jpg?resize=1200,749",
+      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "published": "Sun, 23 Aug 2026 15:00:00 +0000",
+      "title_th": "การฝึกโมเดล AI ในหนังสือที่มีลิขสิทธิ์เป็นเรื่องถูกกฎหมายหรือไม่ มันซับซ้อน",
+      "summary_th": "ผู้เขียนที่ได้รับการตีพิมพ์ส่วนใหญ่มีส่วนในการพัฒนาเครื่องมือ AI แบบเดียวกับที่อาจบ่อนทำลายวิถีชีวิตของพวกเขา โดยปราศจากความรู้หรือความยินยอม นั่นดูเหมือนผิดกฎหมายใช่ไหม?"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -51,16 +63,16 @@
       "summary_th": "Inherent ห้องปฏิบัติการ AI ของอังกฤษ สร้างขึ้นโดยศิษย์เก่า DeepMind เปิดตัว Faraday ซึ่งเป็นตัวแทน AI ที่มีความสามารถในการทำซ้ำเอกสารทางวิทยาศาสตร์อาจเป็นก้าวสำคัญของนวัตกรรม"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "OpenAI says California should strengthen its AI safety bill",
-      "summary_en": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "published": "Sat, 22 Aug 2026 16:30:34 +0000",
-      "title_th": "OpenAI กล่าวว่าแคลิฟอร์เนียควรเสริมสร้างร่างกฎหมายความปลอดภัยของ AI",
-      "summary_th": "OpenAI เรียกร้องให้แคลิฟอร์เนียเสริมความแข็งแกร่งของ SB 53 ซึ่งเป็นร่างพระราชบัญญัติความปลอดภัยของ AI ที่บริษัทเคยคัดค้านก่อนหน้านี้"
+      "category": "software",
+      "title_en": "We’re All Going to the World’s Fair is an intimate coming-of-age horror film",
+      "summary_en": "Jane Schoenbrun's latest film, Teenage Sex and Death at Camp Miasma, is making a splash in theaters right now. So it seems like the perfect time to revisit their first film, We're All Going to the World's Fair. I fell in love with this film when I first saw it at Sundance in 2021. We […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MV5BNGQyNmE1ZDctNzlhYS00NDQyLWIwNjctYTQzNGFkZTNiZmUwXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw%40%40._V1_.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "link": "https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review",
+      "published": "2026-08-23T11:00:00-04:00",
+      "title_th": "We're All Going to the World's Fair เป็นภาพยนตร์สยองขวัญแนวเข้าใกล้วัยที่กำลังจะมาถึง",
+      "summary_th": "ภาพยนตร์เรื่องล่าสุดของ Jane Schoenbrun เรื่อง Teenage Sex and Death at Camp Miasma กำลังฉายในโรงภาพยนตร์ในขณะนี้ ดูเหมือนว่าจะเป็นเวลาที่เหมาะสมที่สุดในการกลับมาชมภาพยนตร์เรื่องแรกของพวกเขาอีกครั้ง We're All Going to the World's Fair ฉันหลงรักหนังเรื่องนี้เมื่อได้ชมครั้งแรกที่งาน Sundance ในปี 2021 เรา […]"
     },
     {
       "source": "The Verge",
@@ -108,19 +120,7 @@
       "link": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
       "published": "2026-08-22T08:00:00-04:00",
       "title_th": "อุปกรณ์ซ่อมแซมใหม่ที่ยอดเยี่ยมสองชิ้น",
-      "summary_th": "สวัสดีเพื่อน! ยินดีต้อนรับสู่โปรแกรมติดตั้งหมายเลข 141 คำแนะนำของคุณเกี่ยวกับสิ่งที่ดีที่สุดและล้ำหน้าที่สุดในโลก (หากคุณใหม่ที่นี่ ยินดีต้อนรับ ฉันก็ใหม่ที่นี่เหมือนกัน และคุณสามารถอ่านฉบับเก่าทั้งหมดได้ที่หน้าแรกของโปรแกรมติดตั้ง) สัปดาห์นี้ ฉันได้กลับเข้าสู่กลุ่มโปรแกรมติดตั้งอีกครั้ง โดยลองใช้สวิตช์ตามหลักสรีรศาสตร์ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "HoverAir’s transforming modular drone has already been halted in the US",
-      "summary_en": "I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US orders just three days after its Indiegogo debut, and may be forced to abandon shipping […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/hoverair-versa.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-      "link": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
-      "published": "2026-08-21T18:14:11-04:00",
-      "title_th": "โดรนแบบแยกส่วนของ HoverAir ได้ถูกระงับแล้วในสหรัฐอเมริกา",
-      "summary_th": "ฉันขอโทษจริงๆ แฟนๆ อุปกรณ์แกดเจ็ตในสหรัฐฯ ดูเหมือนว่าการแบนโดรนของ FCC ดูเหมือนจะกลับมาอีกครั้ง HoverAir Versa กล้องมั่นคงสำหรับเด็กที่มีปีกใบพัดแบบ snap-on ที่แปลงร่างเป็นโดรนได้หยุดรับคำสั่งซื้อจากสหรัฐฯ เพียงสามวันหลังจากเปิดตัว Indiegogo และอาจถูกบังคับให้ละทิ้งการขนส่ง […]"
+      "summary_th": "สวัสดีเพื่อน! ยินดีต้อนรับสู่โปรแกรมติดตั้งหมายเลข 141 คำแนะนำของคุณเกี่ยวกับสิ่งที่ดีที่สุดและ Verge ที่สุดในโลก (หากคุณใหม่ที่นี่ ยินดีต้อนรับ ฉันก็ใหม่ที่นี่เหมือนกัน และคุณสามารถอ่านฉบับเก่าทั้งหมดได้ที่หน้าแรกของโปรแกรมติดตั้ง) สัปดาห์นี้ ฉันได้กลับเข้าสู่ร่องของโปรแกรมติดตั้ง โดยลองใช้สวิตช์ตามหลักสรีรศาสตร์ […]"
     },
     {
       "source": "Ars Technica",
@@ -179,8 +179,20 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg",
       "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
       "published": "Fri, 14 Aug 2026 17:03:54 +0000",
-      "title_th": "สถานี PBS กลัวสูญเสียข้อมูล 50TB หลังจากถูกโกสต์โดยผู้ให้บริการพื้นที่เก็บข้อมูลบนคลาวด์",
+      "title_th": "สถานี PBS กลัวการสูญเสียข้อมูล 50TB หลังจากถูกโกสต์โดยผู้ให้บริการพื้นที่เก็บข้อมูลบนคลาวด์",
       "summary_th": "“เราไม่สามารถเข้าถึงข้อมูลบนฮาร์ดแวร์/เซิร์ฟเวอร์ได้” Iron Mountain กล่าวกับ Ars"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "review",
+      "title_en": "Asus ROG Swift RGB Stripe OLED Review: Clarity King",
+      "summary_en": "The Asus PG27UCWM brings a new sub-pixel layout to the world of OLED gaming monitors, and in my testing, I appreciated the improvements it brings to the table.",
+      "image": "https://media.wired.com/photos/6a8929628708f4555b819a56/master/pass/Review--ROG-Swift-RGB-Stripe-OLED-Gaming-Monitor.jpg",
+      "link": "https://www.wired.com/review/asus-rog-swift-rgb-stripe-oled-pg27ucwm/",
+      "published": "Sun, 23 Aug 2026 13:00:00 +0000",
+      "title_th": "รีวิว Asus ROG Swift RGB Stripe OLED: Clarity King",
+      "summary_th": "Asus PG27UCWM นำเค้าโครงพิกเซลย่อยใหม่มาสู่โลกของจอภาพเกม OLED และในการทดสอบของฉัน ฉันชื่นชมการปรับปรุงที่นำมาสู่โต๊ะ"
     },
     {
       "source": "Wired",
@@ -228,19 +240,7 @@
       "link": "https://www.wired.com/story/7-basic-iphone-tricks-i-built-with-ios-27s-revamped-shortcuts-app/",
       "published": "Sun, 23 Aug 2026 09:30:00 +0000",
       "title_th": "7 เคล็ดลับพื้นฐานของ iPhone ที่ฉันสร้างขึ้นด้วยแอปทางลัดที่ปรับปรุงใหม่ของ iOS 27",
-      "summary_th": "ตั้งแต่การหยุดการดูมส์เลื่อนไปจนถึงการตรวจสอบคุณภาพอากาศโดยอัตโนมัติ แอปทางลัดที่ได้รับการปรับปรุงของ Apple คือฟีเจอร์ iOS 27 ที่ฉันชื่นชอบ"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Is Expensive Bottled Water Actually Better for You?",
-      "summary_en": "Luxury water can contain different minerals and taste noticeably different. But a remote source, alkaline pH, and high price do not necessarily mean better hydration.",
-      "image": "https://media.wired.com/photos/6a887120972ab76be668fd4e/master/pass/expensiveWater_Lead.jpg",
-      "link": "https://www.wired.com/story/is-expensive-bottled-water-actually-better-for-you/",
-      "published": "Sun, 23 Aug 2026 09:00:00 +0000",
-      "title_th": "น้ำดื่มบรรจุขวดราคาแพงดีกว่าสำหรับคุณจริงหรือ?",
-      "summary_th": "น้ำที่หรูหราอาจมีแร่ธาตุที่แตกต่างกันและมีรสชาติที่แตกต่างกันอย่างเห็นได้ชัด แต่แหล่งที่อยู่ห่างไกล ค่า pH ที่เป็นด่าง และราคาที่สูงไม่ได้หมายความว่าจะได้รับความชุ่มชื้นที่ดีขึ้นเสมอไป"
+      "summary_th": "จากการหยุดการดูมส์เลื่อนไปจนถึงการตรวจสอบคุณภาพอากาศโดยอัตโนมัติ แอปทางลัดที่ได้รับการปรับปรุงของ Apple คือฟีเจอร์ iOS 27 ที่ฉันชื่นชอบ"
     },
     {
       "source": "MIT Technology Review",
@@ -306,6 +306,30 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "This affordable fix may be all you need to improve earbud sound quality",
+      "summary_en": "You might not need to invest in a newer pair of earbuds to improve the sound quality. Here's how to upgrade your current pair for a better listening experience.",
+      "image": "https://www.engadget.com/img/gallery/this-affordable-fix-may-be-all-you-need-to-improve-earbud-sound-quality/l-intro-1787061352.jpg",
+      "link": "https://www.engadget.com/2240144/earbuds-sound-quality-improve-with-affordable-fix/",
+      "published": "Sun, 23 Aug 2026 13:00:00 +0000",
+      "title_th": "การแก้ไขที่ไม่แพงนี้อาจเป็นสิ่งที่คุณต้องการเพื่อปรับปรุงคุณภาพเสียงของเอียร์บัด",
+      "summary_th": "คุณอาจไม่จำเป็นต้องลงทุนซื้อเอียร์บัดคู่ใหม่เพื่อปรับปรุงคุณภาพเสียง ต่อไปนี้เป็นวิธีอัปเกรดคู่ปัจจุบันของคุณเพื่อประสบการณ์การฟังที่ดียิ่งขึ้น"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "What to try when an Android app keeps crashing",
+      "summary_en": "Don't keep restarting your phone. Try these other steps instead.",
+      "image": "https://www.engadget.com/img/gallery/what-to-try-when-an-android-app-keeps-crashing/l-intro-1786662380.jpg",
+      "link": "https://www.engadget.com/2240143/what-to-try-andoird-app-keeps-crashing/",
+      "published": "Sun, 23 Aug 2026 12:30:00 +0000",
+      "title_th": "สิ่งที่ควรลองเมื่อแอป Android หยุดทำงาน",
+      "summary_th": "อย่ารีสตาร์ทโทรศัพท์ของคุณต่อไป ลองขั้นตอนอื่นๆ เหล่านี้แทน"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "If Waymo cars are Level 4 automation, what does it take to be a Level 5?",
       "summary_en": "We break down the different autonomous driving levels, and why Level 5 is so hard to achieve.",
       "image": "https://www.engadget.com/img/gallery/if-waymo-cars-are-level-4-automation-what-does-it-take-to-be-a-level-5/l-intro-1786657077.jpg",
@@ -339,28 +363,16 @@
       "summary_th": "แม้แต่อุปกรณ์ Apple รุ่นเก่าที่คุณไม่ได้แตะต้องมานานหลายปีก็ยังสามารถให้เครดิตคุณสำหรับการซื้อโทรศัพท์เครื่องใหม่ได้"
     },
     {
-      "source": "Engadget",
+      "source": "IEEE Spectrum",
       "flag": "US",
-      "category": "chip",
-      "title_en": "OpenAI calls for California to strengthen its AI safety laws",
-      "summary_en": "The AI leader said that the state's SB 53 framework should \"be amended to expand safeguards.\"",
-      "image": "https://www.engadget.com/img/gallery/openai-calls-for-california-to-strengthen-its-ai-safety-laws/l-intro-1787426239.jpg",
-      "link": "https://www.engadget.com/2242200/openai-calls-for-california-to-strengthen-ai-safety-laws/",
-      "published": "Sat, 22 Aug 2026 19:27:04 +0000",
-      "title_th": "OpenAI เรียกร้องให้แคลิฟอร์เนียเสริมสร้างกฎหมายความปลอดภัยของ AI",
-      "summary_th": "ผู้นำ AI กล่าวว่ากรอบการทำงาน SB 53 ของรัฐควร \"แก้ไขเพื่อขยายการป้องกัน\""
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Uber hit with a nearly $1 billion fine for automatically deactivating drivers in Europe",
-      "summary_en": "A Dutch data regulatory authority said that Uber has to pay 824.9 million euros for violating the GDPR.",
-      "image": "https://www.engadget.com/img/gallery/uber-hit-with-a-nearly-1-billion-fine-for-automatically-deactivating-drivers-in-europe/l-intro-1787420501.jpg",
-      "link": "https://www.engadget.com/2242192/uber-hit-with-1-billion-fine-for-automatically-deactivating-drivers-in-europe/",
-      "published": "Sat, 22 Aug 2026 17:52:18 +0000",
-      "title_th": "Uber ถูกปรับเกือบ 1 พันล้านดอลลาร์จากการปิดการใช้งานไดรเวอร์โดยอัตโนมัติในยุโรป",
-      "summary_th": "หน่วยงานกำกับดูแลข้อมูลของเนเธอร์แลนด์กล่าวว่า Uber ต้องจ่าย 824.9 ล้านยูโรสำหรับการละเมิด GDPR"
+      "category": "robot",
+      "title_en": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
+      "summary_en": "Balaji Ingole rarely saw televisions while growing up in Udgir, India. No one in the small Maharashtra village had computers or phones. Only one household owned a television, and neighbors often gathered there to watch shows together. Ingole never even saw a computer growing up. It wasn’t until he reached middle school that he encountered a computer lab, an experience he says changed his life. Almost immediately, he says, the machine felt like a window into a different scale of possibility for him. Balaji Ingole Employer Amla Commerce in Milwaukee Title Project manager Member grade Senior member Alma maters COEP Technological University and Welingkar Institute of Management, both in India “I was very studious and not very social, always reading or solving problems in a math textbook,” he s",
+      "image": "https://spectrum.ieee.org/media-library/a-professionally-dressed-indian-man-smiling-with-a-trophy-in-one-hand-and-an-award-certificate-in-the-other.jpg?id=67657769&width=980",
+      "link": "https://spectrum.ieee.org/ieee-senior-member-ai-ecommerce",
+      "published": "Fri, 21 Aug 2026 18:00:01 +0000",
+      "title_th": "สมาชิกอาวุโส IEEE รายนี้พัฒนาเครื่องมือ AI สำหรับไซต์อีคอมเมิร์ซ",
+      "summary_th": "Balaji Ingole ไม่ค่อยได้ดูโทรทัศน์ในขณะที่เติบโตในเมือง Udgir ประเทศอินเดีย ไม่มีใครในหมู่บ้านเล็กๆ ของรัฐมหาราษฏระที่มีคอมพิวเตอร์หรือโทรศัพท์ มีโทรทัศน์เพียงครัวเรือนเดียวเท่านั้น และเพื่อนบ้านมักจะรวมตัวกันที่นั่นเพื่อดูรายการต่างๆ ด้วยกัน Ingole ไม่เคยเห็นคอมพิวเตอร์เติบโตขึ้นมาก่อนด้วยซ้ำ จนกระทั่งเขาถึงโรงเรียนมัธยมต้นเขาได้พบกับห้องแล็บคอมพิวเตอร์ ประสบการณ์ที่เขาบอกว่าเปลี่ยนชีวิตเขา เขากล่าวเกือบจะในทันที เครื่องจักรนี้รู้สึกเหมือนเป็นหน้าต่างที่เปิดมิติความเป็นไปได้ที่แตกต่างออกไปสำหรับเขา Balaji Ingole นายจ้าง Amla Commerce ใน Milwaukee ตำแหน่ง ผู้จัดการโครงการ สมาชิกระดับสมาชิกอาวุโส โรงเรียนเก่า COEP Technological University และ Welingkar Institute of Management ทั้งสองแห่งในอินเดีย “ฉันขยันมากและไม่ค่อยเข้าสังคม ชอบอ่านหรือแก้ปัญหาในหนังสือเรียนคณิตศาสตร์อยู่เสมอ” เขา"
     },
     {
       "source": "IEEE Spectrum",
@@ -411,16 +423,28 @@
       "summary_th": "ผลกระทบของ AI ต่อการพัฒนาซอฟต์แวร์นั้นลึกซึ้งและพัฒนาอยู่ตลอดเวลา ปีที่แล้ว ฉันเขียนเกี่ยวกับแผนการของ AMD ที่จะใช้ AI ไม่เพียงแต่สำหรับการสร้างบรรทัดใหม่ของโค้ดเท่านั้น แต่ยังรวมถึงขั้นตอนอื่นๆ ในวงจรการพัฒนาซอฟต์แวร์ (SDLC) เช่น ปัญหาในการคัดแยกโค้ด การดีบักโค้ด และการทดสอบซอฟต์แวร์ ในเวลานั้น เราหวังว่าจะเพิ่มประสิทธิภาพการทำงาน 25 เปอร์เซ็นต์จากการใช้ AI ในช่วงสองหรือสามปี แต่ในการเปิดตัวใหม่แต่ละครั้ง ความสามารถของโมเดลภาษาขนาดใหญ่ (LLM) จะปรับปรุงอย่างมาก โดยเป็นการเร่งการพัฒนาซอฟต์แวร์ เพิ่มคุณภาพของโค้ดที่สร้างโดย AI และปรับโฉมวิธีวิศวกรรมซอฟต์แวร์โดยพื้นฐาน ตอนนี้เพียงหนึ่งปีให้หลัง เราก็บรรลุเป้าหมายด้านการผลิตของเราแล้ว โดยบรรลุเป้าหมายการเพิ่มผลิตภาพโดยรวม 30 เปอร์เซ็นต์ผ่าน AI ข้างบนโอ้."
     },
     {
-      "source": "IEEE Spectrum",
-      "flag": "US",
-      "category": "robot",
-      "title_en": "Digital Signal Processing Pioneer Bede Liu Dies At 91",
-      "summary_en": "Bede Liu, a digital signal processing pioneer, died on 7 May. He was 91. Liu was widely regarded as one of the founders of modern digital signal processing, a field that applies mathematical algorithms to analyze, modify, and transmit signals including sound, images, and video. The IEEE Life Fellow taught electrical engineering at Princeton for more than 50 years. From 1994 to 1997, he chaired the university’s electrical and computer engineering department . Liu’s research aided the transition from analog to digital processing of sound, images, and video. His work helped establish many of the mathematical and engineering techniques that underpin modern communications, multimedia systems, and consumer electronics. Although little known outside engineering circles, his work is embedded in te",
-      "image": "https://spectrum.ieee.org/media-library/portrait-of-an-elderly-asian-man-softly-smiling-in-a-suit-jacket-and-tie.jpg?id=67609508&width=980",
-      "link": "https://spectrum.ieee.org/digital-signal-processing-pioneer-bede-liu",
-      "published": "Fri, 14 Aug 2026 18:00:02 +0000",
-      "title_th": "ผู้บุกเบิกการประมวลผลสัญญาณดิจิทัล Bede Liu เสียชีวิตแล้วในวัย 91 ปี",
-      "summary_th": "Bede Liu ผู้บุกเบิกการประมวลผลสัญญาณดิจิทัล เสียชีวิตเมื่อวันที่ 7 พฤษภาคม เขาอายุ 91 ปี หลิวได้รับการยกย่องอย่างกว้างขวางว่าเป็นหนึ่งในผู้ก่อตั้งการประมวลผลสัญญาณดิจิทัลสมัยใหม่ ซึ่งเป็นสาขาที่ใช้อัลกอริธึมทางคณิตศาสตร์ในการวิเคราะห์ ปรับเปลี่ยน และส่งสัญญาณต่างๆ รวมถึงเสียง รูปภาพ และวิดีโอ IEEE Life Fellow สอนวิศวกรรมไฟฟ้าที่ Princeton มานานกว่า 50 ปี ตั้งแต่ปี 1994 ถึง 1997 เขาเป็นประธานแผนกวิศวกรรมไฟฟ้าและคอมพิวเตอร์ของมหาวิทยาลัย การวิจัยของ Liu ช่วยให้เกิดการเปลี่ยนแปลงจากการประมวลผลเสียง ภาพ และวิดีโอจากแอนะล็อกไปเป็นดิจิทัล งานของเขาช่วยสร้างเทคนิคทางคณิตศาสตร์และวิศวกรรมหลายอย่างที่เป็นรากฐานของการสื่อสารสมัยใหม่ ระบบมัลติมีเดีย และอุปกรณ์อิเล็กทรอนิกส์สำหรับผู้บริโภค แม้จะไม่ค่อยมีใครรู้จักนอกวงการวิศวกรรม แต่งานของเขาก็ยังฝังอยู่ในเต"
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Here’s what people who have used the iPhone Ultra like most",
+      "summary_en": "We’re just a few weeks away from the rumored launch of the foldable iPhone Ultra. As we’ve written before , excitement for the device is mounting. A new report from Bloomberg today outlines what people inside Apple who have used the iPhone Ultra love about it.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-orange.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/23/heres-what-people-who-have-used-the-iphone-ultra-like-most/",
+      "published": "Sun, 23 Aug 2026 14:41:50 +0000",
+      "title_th": "นี่คือสิ่งที่ผู้ที่ใช้ iPhone Ultra ชอบมากที่สุด",
+      "summary_th": "อีกเพียงไม่กี่สัปดาห์ก็มีข่าวลือว่าจะเปิดตัว iPhone Ultra แบบพับได้ ดังที่เราได้เขียนไว้ก่อนหน้านี้ ความตื่นเต้นสำหรับอุปกรณ์กำลังเพิ่มมากขึ้น รายงานใหม่จาก Bloomberg ในวันนี้สรุปสิ่งที่ผู้คนใน Apple ที่ใช้ iPhone Ultra ชอบสิ่งนี้"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple Stores preparing ‘significant’ changes for new Home product launches: report",
+      "summary_en": "According to Bloomberg’s Mark Gurman , Apple is preparing significant changes at its retail stores in preparation for upcoming Home product launches. At the very least, Apple should debut a refreshed HomePod mini and Apple TV 4K this fall, though the changes would suggest a third, more significant product is also on its way.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/homepod-siri-ai-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/23/apple-preparing-for-homepod-mini-apple-tv-smart-home-launches/",
+      "published": "Sun, 23 Aug 2026 14:33:51 +0000",
+      "title_th": "Apple Stores เตรียมการเปลี่ยนแปลง 'สำคัญ' สำหรับการเปิดตัวผลิตภัณฑ์ Home ใหม่: รายงาน",
+      "summary_th": "ตามรายงานของ Mark Gurman จาก Bloomberg Apple กำลังเตรียมการเปลี่ยนแปลงที่สำคัญที่ร้านค้าปลีกเพื่อเตรียมพร้อมสำหรับการเปิดตัวผลิตภัณฑ์ Home ที่กำลังจะมาถึง อย่างน้อยที่สุด Apple ควรเปิดตัว HomePod mini และ Apple TV 4K ที่ได้รับการรีเฟรชในฤดูใบไม้ร่วงนี้ แม้ว่าการเปลี่ยนแปลงจะแนะนำผลิตภัณฑ์ที่สามซึ่งมีนัยสำคัญกว่าก็กำลังมาถึงเช่นกัน"
     },
     {
       "source": "9to5Mac",
@@ -432,7 +456,7 @@
       "link": "https://9to5mac.com/2026/08/22/pixel-11-new-camera-feature-apple-should-copy/",
       "published": "Sat, 22 Aug 2026 20:43:49 +0000",
       "title_th": "Pixel 11 ใหม่ของ Google นำเสนอคุณสมบัติกล้องที่น่าทึ่งที่ Apple ควรคัดลอก",
-      "summary_th": "เมื่อต้นเดือนที่ผ่านมา Google ได้เปิดตัวกลุ่มผลิตภัณฑ์ Pixel 11 ใหม่ โทรศัพท์ค่อนข้างคล้ายกันเมื่อเทียบกับกลุ่มผลิตภัณฑ์ Pixel 10 รุ่นก่อนหน้าแม้ว่าจะมีการปรับปรุงคุณภาพชีวิตที่น่ายินดีเล็กน้อยก็ตาม หนึ่งในนั้นคือชุดตัวเลือกการประมวลผลกล้องชุดใหม่ ซึ่งช่วยให้คุณควบคุมรูปลักษณ์ของภาพถ่ายได้มากขึ้น ในช่วงเปิดตัว iPhone 18 Pro ฉันหวังว่า Apple จะเสนอสิ่งที่คล้ายกันนี้"
+      "summary_th": "เมื่อต้นเดือนที่ผ่านมา Google ได้เปิดตัวกลุ่มผลิตภัณฑ์ Pixel 11 ใหม่ โทรศัพท์ค่อนข้างคล้ายกันเมื่อเทียบกับกลุ่มผลิตภัณฑ์ Pixel 10 รุ่นก่อนหน้าแม้ว่าจะมีการปรับปรุงคุณภาพชีวิตที่น่ายินดีเล็กน้อยก็ตาม หนึ่งในนั้นคือชุดตัวเลือกการประมวลผลกล้องชุดใหม่ ซึ่งช่วยให้คุณควบคุมลักษณะของภาพถ่ายได้มากขึ้น ในช่วงเปิดตัว iPhone 18 Pro ฉันหวังว่า Apple จะเสนอสิ่งที่คล้ายกันนี้"
     },
     {
       "source": "9to5Mac",
@@ -457,30 +481,6 @@
       "published": "Sat, 22 Aug 2026 17:58:00 +0000",
       "title_th": "อีกเพียงสองเดือนก็จะถึง MacBook หน้าจอสัมผัสตัวแรก นี่คือสิ่งที่คาดหวัง",
       "summary_th": "หลังจากเลิกใช้จอสัมผัสในกลุ่มผลิตภัณฑ์โน้ตบุ๊ก Mac มานานกว่าทศวรรษ ในที่สุด Apple จะเปิดตัว MacBook หน้าจอสัมผัสตัวแรกในเดือนตุลาคมนี้ ซึ่งจะมาพร้อมกับการออกแบบใหม่ของ MacBook Pro ครั้งต่อไป ซึ่งอาจเรียกว่า MacBook Ultra"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "iPhone 18 Pro event date: When Apple announced its event over the last six years",
-      "summary_en": "When should we expect the iPhone 18 Pro event, and when will Apple officially announce the date? Apple hasn’t sent invitations yet, but its announcement history gives us a remarkably consistent window.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-concept.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/22/iphone-18-pro-event-date-when-announcement/",
-      "published": "Sat, 22 Aug 2026 17:32:09 +0000",
-      "title_th": "วันที่จัดงาน iPhone 18 Pro: เมื่อ Apple ประกาศงานในช่วงหกปีที่ผ่านมา",
-      "summary_th": "เราควรคาดหวังงาน iPhone 18 Pro เมื่อใด และ Apple จะประกาศวันอย่างเป็นทางการเมื่อใด Apple ยังไม่ได้ส่งคำเชิญ แต่ประวัติการประกาศทำให้เรามีช่วงเวลาที่สอดคล้องกันอย่างน่าทึ่ง"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple @ Work: Most IT leaders want AI to help manage their Macs, but few are ready for it",
-      "summary_en": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . A new report from Fleet shows that many companies believe they’re nowhere close to using AI on their Mac fleets. They surveyed more than 500 IT decision-makers (Director-level and above, all responsible for device management at companies with 2,000+ employees), and the results show wher",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/22/apple-work-most-it-leaders-want-ai-to-manage-their-macs-but-few-are-ready-for-it/",
-      "published": "Sat, 22 Aug 2026 13:30:00 +0000",
-      "title_th": "Apple @ Work: ผู้นำด้านไอทีส่วนใหญ่ต้องการให้ AI ช่วยจัดการ Mac ของตน แต่มีเพียงไม่กี่คนที่พร้อมสำหรับสิ่งนี้",
-      "summary_th": "Apple @ Work ให้บริการแก่คุณโดยเฉพาะโดย Mosyle ซึ่งเป็น Apple Unified Platform เพียงแห่งเดียว Mosyle เป็นโซลูชันเดียวที่ผสานรวมโซลูชันทั้งหมดที่จำเป็นในการปรับใช้ จัดการ และปกป้องอุปกรณ์ Apple ในที่ทำงานได้อย่างราบรื่นและอัตโนมัติในแพลตฟอร์มระดับมืออาชีพเพียงแพลตฟอร์มเดียว องค์กรกว่า 45,000 แห่งไว้วางใจให้ Mosyle สร้างสรรค์อุปกรณ์ Apple หลายล้านเครื่องให้พร้อมใช้งานโดยไม่ต้องใช้ความพยายามและในราคาที่เอื้อมถึง ขอรับการทดลองใช้เพิ่มเติมวันนี้ และทำความเข้าใจว่าเหตุใด Mosyle จึงเป็นทุกสิ่งที่คุณต้องการเพื่อร่วมงานกับ Apple รายงานใหม่จาก Fleet แสดงให้เห็นว่าหลายบริษัทเชื่อว่าตนไม่มีทางใช้ AI บนกลุ่ม Mac ของตนได้เลย พวกเขาสำรวจผู้มีอำนาจตัดสินใจด้านไอทีมากกว่า 500 คน (ระดับผู้อำนวยการขึ้นไป ซึ่งทุกคนรับผิดชอบด้านการจัดการอุปกรณ์ในบริษัทที่มีพนักงานมากกว่า 2,000 คน) และผลลัพธ์แสดงให้เห็นว่า"
     },
     {
       "source": "9to5Google",
@@ -528,7 +528,7 @@
       "link": "https://9to5google.com/2026/08/21/pixelated-113-made-you-camera-look/",
       "published": "Fri, 21 Aug 2026 20:30:00 +0000",
       "title_th": "Pixelated 113: ทำให้คุณ (กล้อง) ดู",
-      "summary_th": "ยินดีต้อนรับสู่ Pixelated ตอนที่ 113 สัปดาห์นี้ Damien, Abner และ Will เจาะลึกความคิดและรีวิวเกี่ยวกับ Pixel 11, Pixel 11 Pro และ Pro XL และ Pixel 11 Pro Fold สนุกกับตอนนี้ไหม? คุณสามารถฟังตอนโบนัส Pixelated Pro ใหม่เฉพาะสมาชิกรายสัปดาห์ของเราได้โดยสมัครใช้งาน 9to5Google Pro! สนับสนุนโดย Proton Unlimited: ผู้ฟังแบบพิกเซลสามารถประหยัด 30% จากการสมัครสมาชิกรายปีสำหรับชุดบริการที่เป็นมิตรต่อความเป็นส่วนตัวของบริษัท โดยการลงทะเบียนโดยใช้ลิงก์ของเรา ขอขอบคุณ Proton Unlimited ที่ให้การสนับสนุนพอดแคสต์ สมัครสมาชิก YouTube Podcasts Pocket Casts Spotify เพลง Amazon Apple Podcasts มืดครึ้ม"
+      "summary_th": "ยินดีต้อนรับสู่ Pixelated ตอนที่ 113 สัปดาห์นี้ Damien, Abner และ Will เจาะลึกความคิดและรีวิวเกี่ยวกับ Pixel 11, Pixel 11 Pro และ Pro XL และ Pixel 11 Pro Fold สนุกกับตอนนี้ไหม? คุณสามารถฟังตอนโบนัส Pixelated Pro ใหม่เฉพาะสมาชิกรายสัปดาห์ของเราได้โดยสมัครใช้งาน 9to5Google Pro! สนับสนุนโดย Proton Unlimited: ผู้ฟังแบบพิกเซลสามารถประหยัด 30% จากการสมัครสมาชิกรายปีสำหรับชุดบริการที่เป็นมิตรต่อความเป็นส่วนตัวของบริษัท โดยการลงทะเบียนโดยใช้ลิงก์ของเรา ขอขอบคุณ Proton Unlimited ที่สนับสนุนพอดแคสต์ สมัครสมาชิก YouTube Podcasts Pocket Casts Spotify เพลง Amazon Apple Podcasts มืดครึ้ม"
     },
     {
       "source": "9to5Google",
@@ -763,6 +763,16 @@
     {
       "channel": "Droidsans",
       "country": "TH",
+      "title_en": "โอ้โห โลกมาถึงขั้นนี้แล้ว 🤯 HONOR Robot Phone รุ่นวางขายจริง #HONOR #RobotPhone #เทคโนโลยี",
+      "video_id": "T4VhqJnwmV8",
+      "link": "https://www.youtube.com/shorts/T4VhqJnwmV8",
+      "thumbnail": "https://i1.ytimg.com/vi/T4VhqJnwmV8/hqdefault.jpg",
+      "published": "2026-08-23T14:23:26+00:00",
+      "title_th": "โอ้โห โลกมาถึงขั้นนี้แล้ว 🤯 HONOR Robot Phone รุ่นวางขายจริง #HONOR #RobotPhone #เทคโนโลยี"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
       "title_en": "รอลุ้น OPPO FInd X10/ ขอเสียงคนรอ Galaxy S26 FE/ Huawei กับมือถือไซส์ใหม่ แบบกว้างๆ Pura X view",
       "video_id": "wi13qbsU1aQ",
       "link": "https://www.youtube.com/watch?v=wi13qbsU1aQ",
@@ -779,16 +789,6 @@
       "thumbnail": "https://i1.ytimg.com/vi/pPnHkMoU7JE/hqdefault.jpg",
       "published": "2026-08-21T06:00:19+00:00",
       "title_th": "รีวิว HONOR Magic V6 จอพับสุดแกร่ง บางเบา แบตใหญ่ แถมใช้ปากกาได้ด้วย !"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "Nothing Phone (4b) ว้าวแค่ดีไซน์ จริงดิ? #Nothing  #NothingPhone4b",
-      "video_id": "rQ1FQA1HXLQ",
-      "link": "https://www.youtube.com/shorts/rQ1FQA1HXLQ",
-      "thumbnail": "https://i3.ytimg.com/vi/rQ1FQA1HXLQ/hqdefault.jpg",
-      "published": "2026-08-21T03:56:09+00:00",
-      "title_th": "Nothing Phone (4b) ว้าวแค่ดีไซน์ จริงดิ? #Nothing  #NothingPhone4b"
     }
   ]
 }
