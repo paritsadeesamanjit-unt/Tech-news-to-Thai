@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-22T21:12:45.711199+00:00",
+  "generated_at": "2026-08-23T00:31:37.173426+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "summary_en": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2169079907_27e720-e1734690817769.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "published": "Sat, 22 Aug 2026 21:46:56 +0000",
+      "title_th": "Bootcamp เริ่มต้นมูลค่า 699 ดอลลาร์ของ Harvard นำเสนออวตาร AI ของผู้สอน",
+      "summary_th": "ในโปรแกรม HBS Foundry อวาตาร์ AI จะให้ข้อเสนอแนะระหว่างการเสนอขายฝึกซ้อมและการประชุมคณะกรรมการ"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -51,18 +63,6 @@
       "summary_th": "การศึกษาใหม่พบว่าห้องปฏิบัติการ AI ชั้นนำมีแผนการบันทึกต่อสาธารณะเพียงไม่กี่แผนสำหรับการบรรจุแบบจำลองอันธพาล ทำให้เกิดคำถามเกี่ยวกับการเตรียมพร้อมเนื่องจากระบบ AI แสดงให้เห็นพฤติกรรมที่ไม่คาดคิดและอาจเป็นอันตรายมากขึ้น"
     },
     {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "ev",
-      "title_en": "US battery startups have found a lifeline in defense",
-      "summary_en": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2157883094.jpeg?resize=1200,742",
-      "link": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
-      "published": "Sat, 22 Aug 2026 15:20:00 +0000",
-      "title_th": "บริษัทสตาร์ทอัพด้านแบตเตอรี่ในสหรัฐฯ ได้พบหนทางในการป้องกัน",
-      "summary_th": "บริษัทสตาร์ทอัพด้านแบตเตอรี่ในสหรัฐฯ ดึงเงินสนับสนุนจำนวน 500 ล้านดอลลาร์จากกระทรวงพลังงาน ถือเป็นการพลิกชีวิตให้กับอุตสาหกรรมที่กำลังตกอยู่ในอันตรายหลังจากการลดหย่อนแรงจูงใจด้านพลังงานไฟฟ้า"
-    },
-    {
       "source": "The Verge",
       "flag": "US",
       "category": "software",
@@ -84,7 +84,7 @@
       "link": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
       "published": "2026-08-22T09:00:00-04:00",
       "title_th": "แล็ปท็อปโอเคที่มี RAM ขนาด 16GB นั้นดีกว่าแล็ปท็อปที่ดีที่มีขนาด 8GB และ HP OmniBook มูลค่า 520 ดอลลาร์นี้พิสูจน์ให้เห็นแล้ว",
-      "summary_th": "ราคาโน้ตบุ๊กไม่ธรรมดา 500 ดอลลาร์ทำให้คุณมีแล็ปท็อปที่ทนทาน และ 900 ดอลลาร์ทำให้คุณมีแล็ปท็อปที่ดีจริงๆ พวกเขามักจะมีตัวเลือก CPU, RAM และพื้นที่เก็บข้อมูลที่คล้ายกันเพราะว่าของเหล่านั้นมีราคาค่อนข้างถูก ความแตกต่างมักอยู่ที่คุณภาพการสร้างและหน้าจอมากกว่าพลังงาน แต่ RAMageddon ได้ละทิ้งทุกสิ่งทุกอย่างไป […]"
+      "summary_th": "ราคาโน้ตบุ๊กไม่ธรรมดา 500 ดอลลาร์ทำให้คุณได้แล็ปท็อปที่ทนทาน และ 900 ดอลลาร์ทำให้คุณได้แล็ปท็อปที่ดีจริงๆ พวกเขามักจะมีตัวเลือก CPU, RAM และที่เก็บข้อมูลที่คล้ายกันเพราะว่าของเหล่านั้นมีราคาค่อนข้างถูก ความแตกต่างมักอยู่ที่คุณภาพการสร้างและหน้าจอมากกว่าพลังงาน แต่ RAMageddon ได้ละทิ้งทุกสิ่งทุกอย่างไป […]"
     },
     {
       "source": "The Verge",
@@ -179,7 +179,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg",
       "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
       "published": "Fri, 14 Aug 2026 17:03:54 +0000",
-      "title_th": "สถานี PBS กลัวการสูญเสียข้อมูล 50TB หลังจากถูกโกสต์โดยผู้ให้บริการพื้นที่เก็บข้อมูลบนคลาวด์",
+      "title_th": "สถานี PBS กลัวสูญเสียข้อมูล 50TB หลังจากถูกโกสต์โดยผู้ให้บริการพื้นที่เก็บข้อมูลบนคลาวด์",
       "summary_th": "“เราไม่สามารถเข้าถึงข้อมูลบนฮาร์ดแวร์/เซิร์ฟเวอร์ได้” Iron Mountain กล่าวกับ Ars"
     },
     {
@@ -299,8 +299,20 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/smokescreen.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
       "published": "Thu, 20 Aug 2026 15:42:39 +0000",
-      "title_th": "การถกเถียงเรื่องจิตสำนึกของ AI เป็นกับดัก",
+      "title_th": "การถกเถียงเรื่องจิตสำนึกของ AI นั้นเป็นกับดัก",
       "summary_th": "AI “ผู้หลบหนี” เจ้าหน้าที่ “โกง” และนักแสดง “อิสระ”—วาทศิลป์ในปัจจุบันจะทำให้คุณเชื่อว่าเจ้าหน้าที่ AI ไม่เพียงแต่ตื่นตัวและตระหนักรู้เท่านั้น แต่ยังโกรธผู้สร้างของพวกเขาด้วย ผู้นำด้านเทคโนโลยีที่มีชื่อเสียง เช่น Demis Hassabis, Dario Amodei และ Sam Altman ผลักดันให้มีการควบคุมระบบที่ดูเหมือน \"เหนือมนุษย์\" เหล่านี้ ในขณะที่ฝ่ายที่แยกจากกัน นำโดยองค์กรนโยบาย..."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "If Waymo cars are Level 4 automation, what does it take to be a Level 5?",
+      "summary_en": "We break down the different autonomous driving levels, and why Level 5 is so hard to achieve.",
+      "image": "https://www.engadget.com/img/gallery/if-waymo-cars-are-level-4-automation-what-does-it-take-to-be-a-level-5/l-intro-1786657077.jpg",
+      "link": "https://www.engadget.com/2240138/if-waymo-cars-are-level-4-automation-what-is-level-5/",
+      "published": "Sat, 22 Aug 2026 21:30:00 +0000",
+      "title_th": "หากรถยนต์ Waymo เป็นระบบอัตโนมัติระดับ 4 จะต้องทำอย่างไรจึงจะเป็นระดับ 5?",
+      "summary_th": "เราแจกแจงระดับการขับขี่อัตโนมัติแบบต่างๆ และเหตุใดระดับ 5 จึงบรรลุได้ยาก"
     },
     {
       "source": "Engadget",
@@ -324,7 +336,7 @@
       "link": "https://www.engadget.com/2240134/oldest-iphone-model-trade-in-with-apple/",
       "published": "Sat, 22 Aug 2026 20:00:00 +0000",
       "title_th": "iPhone ที่เก่าแก่ที่สุดที่คุณสามารถแลกกับ Apple ได้นั้นเก่ากว่าที่คุณคิด",
-      "summary_th": "แม้แต่อุปกรณ์ Apple รุ่นเก่าที่คุณไม่ได้สัมผัสมาหลายปีก็ยังสามารถให้เครดิตแก่คุณเพื่อซื้อโทรศัพท์เครื่องใหม่ได้"
+      "summary_th": "แม้แต่อุปกรณ์ Apple รุ่นเก่าที่คุณไม่ได้แตะต้องมานานหลายปีก็ยังสามารถให้เครดิตคุณสำหรับการซื้อโทรศัพท์เครื่องใหม่ได้"
     },
     {
       "source": "Engadget",
@@ -347,20 +359,8 @@
       "image": "https://www.engadget.com/img/gallery/uber-hit-with-a-nearly-1-billion-fine-for-automatically-deactivating-drivers-in-europe/l-intro-1787420501.jpg",
       "link": "https://www.engadget.com/2242192/uber-hit-with-1-billion-fine-for-automatically-deactivating-drivers-in-europe/",
       "published": "Sat, 22 Aug 2026 17:52:18 +0000",
-      "title_th": "Uber ถูกปรับเกือบ 1 พันล้านดอลลาร์จากการปิดใช้งานไดรเวอร์โดยอัตโนมัติในยุโรป",
+      "title_th": "Uber ถูกปรับเกือบ 1 พันล้านดอลลาร์จากการปิดการใช้งานไดรเวอร์โดยอัตโนมัติในยุโรป",
       "summary_th": "หน่วยงานกำกับดูแลข้อมูลของเนเธอร์แลนด์กล่าวว่า Uber ต้องจ่าย 824.9 ล้านยูโรสำหรับการละเมิด GDPR"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Android Auto YouTube Limitations: Is It Worth Using In The Car?",
-      "summary_en": "Android Auto YouTube Limitations: Is It Worth Using In The Car?",
-      "image": "https://www.engadget.com/img/gallery/android-auto-youtube-limitations-is-it-worth-using-in-the-car/l-intro-1786550771.jpg",
-      "link": "https://www.engadget.com/2240123/android-auto-youtube-limitations-is-it-worth-using-in-the-car/",
-      "published": "Sat, 22 Aug 2026 17:30:00 +0000",
-      "title_th": "ข้อ จำกัด ของ Android Auto YouTube: คุ้มค่าที่จะใช้ในรถยนต์หรือไม่?",
-      "summary_th": "ข้อ จำกัด ของ Android Auto YouTube: คุ้มค่าที่จะใช้ในรถยนต์หรือไม่?"
     },
     {
       "source": "IEEE Spectrum",
@@ -372,7 +372,7 @@
       "link": "https://event.on24.com/wcc/r/5460332/DAFEFF7A68EE900DEA7A14356089B553?utm_source=IEEE&utm_medium=site&utm_campaign=922",
       "published": "Fri, 21 Aug 2026 14:32:37 +0000",
       "title_th": "หยุดการล่าสัตว์ เริ่มแก้ไข: เร่งการวิเคราะห์สาเหตุที่แท้จริงด้วย Agentic AI",
-      "summary_th": "เกี่ยวกับการสัมมนาผ่านเว็บนี้ เปลี่ยนการสำรวจสาเหตุผลผลิตให้เร็วขึ้นและมั่นใจยิ่งขึ้น การวิเคราะห์สาเหตุที่แท้จริง เมื่อปัญหาผลผลิตเกิดขึ้น คำตอบแทบจะไม่อยู่ในระบบเดียว เบาะแสที่สำคัญจะกระจายไปตามข้อมูลมาตรวิทยา ร่องรอยเครื่องมือ การวิเคราะห์ทางเคมี และระบบอำนวยความสะดวก ในขณะที่ปริมาณข้อมูลที่เพิ่มขึ้นทำให้แดชบอร์ดแบบเดิมทำงานช้าลง กระจัดกระจาย และดำเนินการได้ยาก สิ่งที่คุณจะได้เรียนรู้: ค้นพบว่าแพลตฟอร์มการวิเคราะห์เซมิคอนดักเตอร์ที่สร้างขึ้นตามวัตถุประสงค์เฉพาะสามารถช่วยวิศวกรเชื่อมต่อข้อมูลเชิงลึกข้ามโดเมนโดยไม่ต้องย้ายข้อมูลได้อย่างไร ดูว่า Agentic AI การแสดงภาพข้อมูลเฉพาะเซมิคอนดักเตอร์ และการประมวลผลแบบกดลงช่วยให้ตรวจสอบการเบี่ยงเบนของผลผลิตและปัญหากระบวนการได้เร็วขึ้น แม้จะข้ามจุดข้อมูลนับพันล้านจุดก็ตาม ในเซสชั่นนี้ การสาธิตสดจะแสดงวิธีดำเนินการตรวจสอบสาเหตุต้นตอของโดเมนหลายโดเมน"
+      "summary_th": "เกี่ยวกับการสัมมนาผ่านเว็บนี้ เปลี่ยนการสำรวจสาเหตุผลผลิตให้เร็วขึ้นและมั่นใจยิ่งขึ้น การวิเคราะห์สาเหตุที่แท้จริง เมื่อปัญหาผลผลิตเกิดขึ้น คำตอบแทบจะไม่อยู่ในระบบเดียว เบาะแสที่สำคัญจะกระจายไปตามข้อมูลมาตรวิทยา ร่องรอยเครื่องมือ การวิเคราะห์ทางเคมี และระบบอำนวยความสะดวก ในขณะที่ปริมาณข้อมูลที่เพิ่มขึ้นทำให้แดชบอร์ดแบบเดิมทำงานช้าลง กระจัดกระจาย และดำเนินการได้ยาก สิ่งที่คุณจะได้เรียนรู้: ค้นพบว่าแพลตฟอร์มการวิเคราะห์เซมิคอนดักเตอร์ที่สร้างขึ้นตามวัตถุประสงค์เฉพาะสามารถช่วยวิศวกรเชื่อมต่อข้อมูลเชิงลึกข้ามโดเมนโดยไม่ต้องย้ายข้อมูลได้อย่างไร ดูว่า Agentic AI การแสดงภาพข้อมูลเฉพาะเซมิคอนดักเตอร์ และการประมวลผลแบบกดลงช่วยให้ตรวจสอบการเบี่ยงเบนของผลผลิตและปัญหากระบวนการได้เร็วขึ้น แม้จะข้ามจุดข้อมูลนับพันล้านจุดก็ตาม ในเซสชั่นนี้ การสาธิตสดจะแสดงวิธีดำเนินการตรวจสอบสาเหตุต้นตอของหลายโดเมน"
     },
     {
       "source": "IEEE Spectrum",
@@ -480,7 +480,7 @@
       "link": "https://9to5mac.com/2026/08/22/apple-work-most-it-leaders-want-ai-to-manage-their-macs-but-few-are-ready-for-it/",
       "published": "Sat, 22 Aug 2026 13:30:00 +0000",
       "title_th": "Apple @ Work: ผู้นำด้านไอทีส่วนใหญ่ต้องการให้ AI ช่วยจัดการ Mac ของตน แต่มีเพียงไม่กี่คนที่พร้อมสำหรับสิ่งนี้",
-      "summary_th": "Apple @ Work ให้บริการแก่คุณโดยเฉพาะโดย Mosyle ซึ่งเป็น Apple Unified Platform เพียงแห่งเดียว Mosyle เป็นโซลูชันเดียวที่ผสานรวมโซลูชันทั้งหมดที่จำเป็นในการปรับใช้ จัดการ และปกป้องอุปกรณ์ Apple ในที่ทำงานได้อย่างราบรื่นและอัตโนมัติในแพลตฟอร์มระดับมืออาชีพเพียงแพลตฟอร์มเดียว องค์กรกว่า 45,000 แห่งไว้วางใจให้ Mosyle สร้างสรรค์อุปกรณ์ Apple หลายล้านเครื่องให้พร้อมใช้งานโดยไม่ต้องใช้ความพยายามและในราคาที่เอื้อมถึง ขอรับการทดลองใช้เพิ่มเติมวันนี้ และทำความเข้าใจว่าเหตุใด Mosyle จึงเป็นทุกสิ่งที่คุณต้องการเพื่อร่วมงานกับ Apple รายงานใหม่จาก Fleet แสดงให้เห็นว่าบริษัทหลายแห่งเชื่อว่าตนไม่มีทางใช้ AI บนกลุ่ม Mac ของตนได้เลย พวกเขาสำรวจผู้มีอำนาจตัดสินใจด้านไอทีมากกว่า 500 คน (ระดับผู้อำนวยการขึ้นไป ซึ่งทุกคนรับผิดชอบด้านการจัดการอุปกรณ์ในบริษัทที่มีพนักงานมากกว่า 2,000 คน) และผลลัพธ์แสดงให้เห็นว่า"
+      "summary_th": "Apple @ Work ให้บริการแก่คุณโดยเฉพาะโดย Mosyle ซึ่งเป็น Apple Unified Platform เพียงแห่งเดียว Mosyle เป็นโซลูชันเดียวที่ผสานรวมโซลูชันทั้งหมดที่จำเป็นในการปรับใช้ จัดการ และปกป้องอุปกรณ์ Apple ในที่ทำงานได้อย่างราบรื่นและอัตโนมัติในแพลตฟอร์มระดับมืออาชีพเพียงแพลตฟอร์มเดียว องค์กรกว่า 45,000 แห่งไว้วางใจให้ Mosyle สร้างสรรค์อุปกรณ์ Apple หลายล้านเครื่องให้พร้อมใช้งานโดยไม่ต้องใช้ความพยายามและในราคาที่เอื้อมถึง ขอรับการทดลองใช้เพิ่มเติมวันนี้ และทำความเข้าใจว่าเหตุใด Mosyle จึงเป็นทุกสิ่งที่คุณต้องการเพื่อร่วมงานกับ Apple รายงานใหม่จาก Fleet แสดงให้เห็นว่าหลายบริษัทเชื่อว่าตนไม่มีทางใช้ AI บนกลุ่ม Mac ของตนได้เลย พวกเขาสำรวจผู้มีอำนาจตัดสินใจด้านไอทีมากกว่า 500 คน (ระดับผู้อำนวยการขึ้นไป ซึ่งทุกคนรับผิดชอบด้านการจัดการอุปกรณ์ในบริษัทที่มีพนักงานมากกว่า 2,000 คน) และผลลัพธ์แสดงให้เห็นว่า"
     },
     {
       "source": "9to5Google",
@@ -551,7 +551,7 @@
       "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "link": "https://electrek.co/2026/08/21/podcast-tesla-kills-solar-roof-cybercab-launch-genesis-gv90-and-more/",
       "published": "Fri, 21 Aug 2026 19:32:03 +0000",
-      "title_th": "Podcast: Tesla สังหาร Solar Roof, การเปิดตัว Cybercab, Genesis GV90 และอีกมากมาย",
+      "title_th": "Podcast: Tesla ฆ่า Solar Roof, การเปิดตัว Cybercab, Genesis GV90 และอีกมากมาย",
       "summary_th": "ใน Electrek Podcast เราพูดคุยถึงข่าวยอดนิยมในโลกแห่งการขนส่งและพลังงานที่ยั่งยืน ในตอนของสัปดาห์นี้ เราจะพูดถึง Tesla ที่ฆ่า Solar Roof, การเปิดตัว Cybercab, Genesis GV90 และอีกมากมาย ตอนของวันนี้ได้รับการสนับสนุนโดย GM การชาร์จ GM EV เป็นเรื่องง่ายด้วย Energy Pass และ Plug and Charge เรียนรู้เพิ่มเติมที่ https://gmenergy.gm.com/energypass"
     },
     {
@@ -600,7 +600,7 @@
       "link": "https://electrek.co/2026/08/21/us-factory-grid-batteries-safer-anthro-energy/",
       "published": "Fri, 21 Aug 2026 17:09:27 +0000",
       "title_th": "โรงงานแห่งแรกในสหรัฐฯ สามารถทำให้แบตเตอรี่กริดปลอดภัยยิ่งขึ้น",
-      "summary_th": "Anthro Energy ได้สร้างโรงงานวัสดุแบตเตอรี่แห่งแรกของสหรัฐอเมริกาในเมืองหลุยส์วิลล์ รัฐเคนตักกี้ โดยมีการวางแผนการผลิตรายปีเพียงพอที่จะรองรับแบตเตอรี่ลิเธียมไอออนได้สูงสุดถึง 25 กิกะวัตต์-ชั่วโมง (GWh)"
+      "summary_th": "Anthro Energy ได้สร้างโรงงานผลิตแบตเตอรี่แห่งแรกของสหรัฐอเมริกาในเมืองหลุยส์วิลล์ รัฐเคนตักกี้ โดยมีการวางแผนการผลิตรายปีเพียงพอที่จะรองรับแบตเตอรี่ลิเธียมไอออนได้สูงสุดถึง 25 กิกะวัตต์-ชั่วโมง (GWh)"
     }
   ],
   "indices": [
