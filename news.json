@@ -1,18 +1,30 @@
 {
-  "generated_at": "2026-08-24T15:42:33.713228+00:00",
+  "generated_at": "2026-08-24T18:37:35.243747+00:00",
   "count": 50,
   "articles": [
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
+      "title_en": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "summary_en": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/hand-key-illustration-getty.jpg?resize=1200,786",
+      "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "published": "Mon, 24 Aug 2026 18:03:55 +0000",
+      "title_th": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "summary_th": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
       "title_en": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "summary_en": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six.",
+      "summary_en": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
       "image": "https://techcrunch.com/wp-content/uploads/2019/03/robocash.jpg?resize=1200,849",
       "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
       "published": "Mon, 24 Aug 2026 15:24:18 +0000",
       "title_th": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "summary_th": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six."
+      "summary_th": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six."
     },
     {
       "source": "TechCrunch",
@@ -35,7 +47,7 @@
       "image": "https://techcrunch.com/wp-content/uploads/2022/09/MY24-Chevrolet-Equinox-EV-3LT.jpg?resize=1200,632",
       "link": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/",
       "published": "Mon, 24 Aug 2026 14:18:47 +0000",
-      "title_th": "ปัญหาเบรกใน GM EV นำมาซึ่งการตรวจสอบข้อเท็จจริงของรัฐบาลกลางมากขึ้น",
+      "title_th": "Brake problems in GM EVs draw greater federal scrutiny",
       "summary_th": "In one crash, the driver of a 2024 Blazer EV said they had to \"deliberately steer the vehicle into a concrete curb\" to slow it down and avoid a \"catastrophic intersection collision.\""
     },
     {
@@ -47,20 +59,32 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-logo-smartphone.jpg?resize=1200,800",
       "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
       "published": "Mon, 24 Aug 2026 13:47:26 +0000",
-      "title_th": "Hugging Face reportedly in talks to be acquired for $13B",
+      "title_th": "มีรายงานว่า Hugging Face กำลังเจรจาเพื่อซื้อกิจการในราคา 13 พันล้านดอลลาร์",
       "summary_th": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
-      "summary_en": "Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1203768533.jpg?resize=1200,801",
-      "link": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
-      "published": "Mon, 24 Aug 2026 13:45:15 +0000",
-      "title_th": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
-      "summary_th": "Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity."
+      "category": "software",
+      "title_en": "Robotaxis are real now — so is the pushback",
+      "summary_en": "Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov. Kathy Hochul withdrew a proposal earlier this year that would have opened the door to driverless robotaxis outside New York City after taxi drivers, unions, and state lawmakers opposed it. Six months later, commercial driverless service remains illegal in […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415564/STK418_Autonomous_Vehicles_Cvirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
+      "published": "2026-08-24T12:42:37-04:00",
+      "title_th": "Robotaxis are real now — so is the pushback",
+      "summary_th": "Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov. Kathy Hochul withdrew a proposal earlier this year that would have opened the door to driverless robotaxis outside New York City after taxi drivers, unions, and state lawmakers opposed it. Six months later, commercial driverless service remains illegal in […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "The Witcher 4 developers target a 2028 release",
+      "summary_en": "CD Projekt Red is aiming to launch The Witcher 4 sometime in 2028, joint CEO Michał Nowakowski says in a new video. CD Projekt Red has been working on its next mainline Witcher title for years and has shown videos of it, but now the studio is providing a target release window for when the […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/The_Witcher_4_UE5_tech_demo_PS5_Ciri_2_EN.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "link": "https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom",
+      "published": "2026-08-24T11:48:53-04:00",
+      "title_th": "The Witcher 4 developers target a 2028 release",
+      "summary_th": "CD Projekt Red is aiming to launch The Witcher 4 sometime in 2028, joint CEO Michał Nowakowski says in a new video. CD Projekt Red has been working on its next mainline Witcher title for years and has shown videos of it, but now the studio is providing a target release window for when the […]"
     },
     {
       "source": "The Verge",
@@ -71,7 +95,7 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/airtags.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "link": "https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale",
       "published": "2026-08-24T10:04:04-04:00",
-      "title_th": "AirTags รุ่นที่สองสี่แพ็กของ Apple ลดราคา $20",
+      "title_th": "Apple’s four-pack of second-gen AirTags is $20 off",
       "summary_th": "Apple’s four-pack of second-generation AirTags is down to $79 (originally $99) at Amazon and at Target, which is the bundle’s lowest price yet. You can get an AirTag for $24 right now piecemeal, but getting four together as a set is a way to save even more. Why pay $96 for four when you can […]"
     },
     {
@@ -79,12 +103,12 @@
       "flag": "US",
       "category": "software",
       "title_en": "How GoFundMe became America’s backup plan",
-      "summary_en": "Today on Decoder, I’m talking with Tim Cadogan, the CEO of GoFundMe. You know GoFundMe — it’s a major fundraising platform where you can donate to help people with everything from medical expenses to little league uniforms to starting a new business. Tim took over as CEO in March 2020 — a fascinating and chaotic […]",
+      "summary_en": "Today on Decoder, I’m talking with Tim Cadogan, the CEO of GoFundMe. You know GoFundMe — it’s a major fundraising platform where you can donate to help people with everything from medical expenses to Little League uniforms to starting a new business. Tim took over as CEO in March 2020 — a fascinating and chaotic […]",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_20260824_TimCadogan.jpg?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
       "link": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
       "published": "2026-08-24T10:00:00-04:00",
       "title_th": "How GoFundMe became America’s backup plan",
-      "summary_th": "Today on Decoder, I’m talking with Tim Cadogan, the CEO of GoFundMe. You know GoFundMe — it’s a major fundraising platform where you can donate to help people with everything from medical expenses to little league uniforms to starting a new business. Tim took over as CEO in March 2020 — a fascinating and chaotic […]"
+      "summary_th": "Today on Decoder, I’m talking with Tim Cadogan, the CEO of GoFundMe. You know GoFundMe — it’s a major fundraising platform where you can donate to help people with everything from medical expenses to Little League uniforms to starting a new business. Tim took over as CEO in March 2020 — a fascinating and chaotic […]"
     },
     {
       "source": "The Verge",
@@ -97,30 +121,6 @@
       "published": "2026-08-24T09:47:14-04:00",
       "title_th": "Netflix reportedly considers opening its app to other streamers",
       "summary_th": "Netflix executives have considered making third-party streaming services available within its app, according to a report from The New York Times. The recent discussions reportedly centered around bringing Peacock and Fox One to Netflix, though it's unclear whether the streaming giant would sell subscriptions to the other services or add their content to its app. […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "De-Googled GrapheneOS is coming to Motorola’s foldables next year",
-      "summary_en": "GrapheneOS, an open source version of Android that prioritizes security and privacy, has detailed its plans for supporting Motorola smartphones. Official support is set to arrive next year, starting with traditional flagships, before rolling out to Motorola's foldable phones and perhaps cheaper models, eventually. In a Mastodon thread, the GrapheneOS Foundation announced that it will […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268559_Motorola_Razr_Ultra_2026_review_AJohnson_0006.jpg?quality=90&strip=all&crop=0.2%2C23.644654619152%2C89%2C69.912766149653&w=1200",
-      "link": "https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11",
-      "published": "2026-08-24T07:37:53-04:00",
-      "title_th": "De-Googled GrapheneOS กำลังจะมาในเครื่องพับได้ของ Motorola ในปีหน้า",
-      "summary_th": "GrapheneOS, an open source version of Android that prioritizes security and privacy, has detailed its plans for supporting Motorola smartphones. Official support is set to arrive next year, starting with traditional flagships, before rolling out to Motorola's foldable phones and perhaps cheaper models, eventually. In a Mastodon thread, the GrapheneOS Foundation announced that it will […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Humanoid robots smash Usain Bolt’s 100-meter record",
-      "summary_en": "The 9.58-second 100-meter dash record set by Usain Bolt in 2009 has been outpaced by Chinese robots participating at the World Humanoid Robot Games in Beijing. In a preliminary heat on Saturday, Tiangong Ultra, made by the Beijing Humanoid Robot Innovation ​Center, ran the distance in 9.39 seconds, followed by the Honor-developed Lightning at 9.47 […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2291658389.jpg?quality=90&strip=all&crop=0%2C10.728819799005%2C100%2C78.54236040199&w=1200",
-      "link": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
-      "published": "2026-08-24T05:10:40-04:00",
-      "title_th": "Humanoid robots smash Usain Bolt’s 100-meter record",
-      "summary_th": "The 9.58-second 100-meter dash record set by Usain Bolt in 2009 has been outpaced by Chinese robots participating at the World Humanoid Robot Games in Beijing. In a preliminary heat on Saturday, Tiangong Ultra, made by the Beijing Humanoid Robot Innovation ​Center, ran the distance in 9.39 seconds, followed by the Honor-developed Lightning at 9.47 […]"
     },
     {
       "source": "Ars Technica",
@@ -185,6 +185,18 @@
     {
       "source": "Wired",
       "flag": "US",
+      "category": "ai",
+      "title_en": "My Daily Driver Gaming Headset Is Super Cheap Right Now",
+      "summary_en": "I love this multi-device headset, and right now it’s cheaper than what I paid for it in March.",
+      "image": "https://media.wired.com/photos/6a8c77cd68e309e12a12eda0/master/pass/The-Gaming-Headset-I-Use-Every-Day-Is-on-Sale-in-3-of-4-Color-Options.jpg",
+      "link": "https://www.wired.com/story/steelseries-arctis-nova-3p-august-2026/",
+      "published": "Mon, 24 Aug 2026 17:46:18 +0000",
+      "title_th": "My Daily Driver Gaming Headset Is Super Cheap Right Now",
+      "summary_th": "I love this multi-device headset, and right now it’s cheaper than what I paid for it in March."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
       "category": "review",
       "title_en": "Birdfy Nest Duo Review: My Own Private Nature Documentary",
       "summary_en": "The dual-camera Birdfy Nest Duo gave me an astonishingly intimate look at everything from nest building to fledging.",
@@ -203,8 +215,8 @@
       "image": "https://media.wired.com/photos/6a8a015eeed0f12a3b23afcb/master/pass/The-Best-Kindle-Accessories-.jpg",
       "link": "https://www.wired.com/story/best-kindle-accessories/",
       "published": "Mon, 24 Aug 2026 11:09:00 +0000",
-      "title_th": "อุปกรณ์เสริม Kindle ที่ฉันไม่เคยอยากอ่านหากไม่มี (2026)",
-      "summary_th": "กำลังมองหาการปกป้อง Kindle ของคุณให้ดีขึ้นหรือเพิ่มบุคลิกเล็กๆ น้อยๆ ให้กับ e-reader ที่คุณชื่นชอบใช่ไหม? ตั้งแต่เคสและปกไปจนถึงเครื่องพลิกหน้าและแม้แต่เครื่องราง นี่คือคำแนะนำสำหรับคุณ"
+      "title_th": "The Kindle Accessories I Never Want to Read Without (2026)",
+      "summary_th": "Looking to better protect your Kindle or add a little personality to your favorite e-reader? From cases and covers to page turners and even charms, this is the guide for you."
     },
     {
       "source": "Wired",
@@ -227,20 +239,8 @@
       "image": "https://media.wired.com/photos/6a7658f0de0a40f999466656/master/pass/080726-teachers-deepfakes-ai.gif",
       "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
       "published": "Mon, 24 Aug 2026 09:30:00 +0000",
-      "title_th": "พวกเขาอุทิศชีวิตเพื่อการสอน จากนั้น Deepfakes ก็เริ่มต้นขึ้น",
+      "title_th": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
       "summary_th": "The deepfake epidemic in schools is affecting more than students. Four teachers tell WIRED about becoming targets of sexualized, AI-generated content—and how difficult it was to find accountability."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "NASA’s New Space Telescope Is Poised to Discover Hidden Facets of the Universe",
-      "summary_en": "The Nancy Grace Roman Space Telescope is expected to discover as many as 200,000 new planets and reveal details about the elusive nature of dark matter and dark energy.",
-      "image": "https://media.wired.com/photos/6a88d75bf0a7f4e096f4dfd0/master/pass/Science_NASAsNewSpaceTelescopeIsPoisedtoDiscover_v1-ezgif.com-video-to-gif-converter%20(1).gif",
-      "link": "https://www.wired.com/story/nasa-nancy-grace-roman-space-telescope-hidden-facets-of-universe/",
-      "published": "Mon, 24 Aug 2026 09:00:00 +0000",
-      "title_th": "NASA’s New Space Telescope Is Poised to Discover Hidden Facets of the Universe",
-      "summary_th": "The Nancy Grace Roman Space Telescope is expected to discover as many as 200,000 new planets and reveal details about the elusive nature of dark matter and dark energy."
     },
     {
       "source": "MIT Technology Review",
@@ -251,7 +251,7 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/8947cf02-f42b-04bb-03ce-c05c80e44d46.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
       "published": "Mon, 24 Aug 2026 14:20:19 +0000",
-      "title_th": "วิธีส่งเสริมการใช้ AI อย่างชาญฉลาดในห้องเรียน",
+      "title_th": "How to encourage smarter AI use in the classroom",
       "summary_th": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any…"
     },
     {
@@ -287,8 +287,8 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/space-mirror3.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
       "published": "Fri, 21 Aug 2026 12:10:00 +0000",
-      "title_th": "The Download: threats from space mirrors and credit for AI drugs",
-      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี แผนการของบริษัทนี้ในการปรับใช้กระจกอวกาศอาจเป็นอันตรายต่อท้องฟ้ายามค่ำคืนสำหรับหลาย ๆ คน บริษัทที่วางแผนจะส่งแสงแดดจากอวกาศสู่โลกตามความต้องการอาจทำให้..."
+      "title_th": "ดาวน์โหลด: ภัยคุกคามจากกระจกอวกาศและเครดิตสำหรับยา AI",
+      "summary_th": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the…"
     },
     {
       "source": "MIT Technology Review",
@@ -306,61 +306,61 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "The best way to test your Dolby Atmos sound system",
-      "summary_en": "When you're testing your Dolby Atmos system, pick a good benchmark video and stick with it.",
-      "image": "https://www.engadget.com/img/gallery/the-best-way-to-test-your-dolby-atmos-sound-system/l-intro-1787165312.jpg",
-      "link": "https://www.engadget.com/2240264/best-way-test-dolby-atmos-sound/",
-      "published": "Mon, 24 Aug 2026 13:00:00 +0000",
-      "title_th": "The best way to test your Dolby Atmos sound system",
-      "summary_th": "เมื่อคุณทดสอบระบบ Dolby Atmos ให้เลือกวิดีโอมาตรฐานที่ดีและปฏิบัติตามนั้น"
+      "title_en": "CDPR is aiming to release The Witcher 4 in 2028",
+      "summary_en": "CDPR's co-CEO called The Witcher 4\"our biggest, boldest and most ambitious game to date.\"",
+      "image": "https://www.engadget.com/img/gallery/cdpr-is-aiming-to-release-the-witcher-4-in-2028/l-intro-1787594424.jpg",
+      "link": "https://www.engadget.com/2242963/cdpr-is-aiming-to-release-the-witcher-4-in-2028/",
+      "published": "Mon, 24 Aug 2026 18:03:28 +0000",
+      "title_th": "CDPR ตั้งเป้าที่จะเปิดตัว The Witcher 4 ในปี 2028",
+      "summary_th": "CDPR's co-CEO called The Witcher 4\"our biggest, boldest and most ambitious game to date.\""
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "The new Shokz OpenFit Air 2 earbuds are nearly 20 percent lighter than the previous generation",
-      "summary_en": "They feature an open-ear design that reduces pressure and heat buildup.",
-      "image": "https://www.engadget.com/img/gallery/the-new-shokz-openfit-air-2-earbuds-are-nearly-20-percent-lighter-than-the-previous-generation/l-intro-1786118462.jpg",
-      "link": "https://www.engadget.com/2232481/new-shokz-openfit-air-2-earbuds/",
-      "published": "Mon, 24 Aug 2026 11:00:00 +0000",
-      "title_th": "The new Shokz OpenFit Air 2 earbuds are nearly 20 percent lighter than the previous generation",
-      "summary_th": "มีการออกแบบแบบเปิดหูซึ่งช่วยลดแรงกดและการสะสมความร้อน"
+      "title_en": "How to cancel your ChatGPT subscription (and why you might want to)",
+      "summary_en": "If you've had it with OpenAI, here's how to cancel your subscription and delete your account.",
+      "image": "https://www.engadget.com/img/gallery/how-to-cancel-your-chatgpt-subscription-and-why-you-might-want-to/l-intro-1786625156.jpg",
+      "link": "https://www.engadget.com/2240311/how-to-cancel-chatgpt-subscription-why-might-want-to/",
+      "published": "Mon, 24 Aug 2026 17:30:00 +0000",
+      "title_th": "How to cancel your ChatGPT subscription (and why you might want to)",
+      "summary_th": "If you've had it with OpenAI, here's how to cancel your subscription and delete your account."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Taiwan reportedly indicted NVIDIA employees for exporting prohibited AI servers to China",
-      "summary_en": "Even though the US has relaxed its restrictions of AI chip exports to China, illegal exports are apparently still taking place.",
-      "image": "https://www.engadget.com/img/gallery/taiwan-reportedly-indicted-nvidia-employees-for-exporting-prohibited-ai-servers-to-china/l-intro-1787565479.jpg",
-      "link": "https://www.engadget.com/2242415/taiwan-reportedly-indicted-nvidia-employees-for-exporting-prohibited-ai-servers-to-china/",
-      "published": "Mon, 24 Aug 2026 10:02:03 +0000",
-      "title_th": "Taiwan reportedly indicted NVIDIA employees for exporting prohibited AI servers to China",
-      "summary_th": "Even though the US has relaxed its restrictions of AI chip exports to China, illegal exports are apparently still taking place."
+      "title_en": "ESPN is raising prices on most of its streaming subscriptions, even bundles with Disney+",
+      "summary_en": "ESPN's Unlimited tier will cost $32 per month as of September 17.",
+      "image": "https://www.engadget.com/img/gallery/espn-is-raising-prices-on-most-of-its-streaming-subscriptions-even-bundles-with-disney/l-intro-1787590062.jpg",
+      "link": "https://www.engadget.com/2242821/espn-is-raising-prices-on-most-of-its-streaming-subscriptions/",
+      "published": "Mon, 24 Aug 2026 16:49:00 +0000",
+      "title_th": "ESPN is raising prices on most of its streaming subscriptions, even bundles with Disney+",
+      "summary_th": "ระดับ Unlimited ของ ESPN จะมีราคา 32 ดอลลาร์ต่อเดือน ณ วันที่ 17 กันยายน"
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "What is a VESA mount and how to know what type your TV has",
-      "summary_en": "Those 200 × 200 and 400 × 400 numbers tell you where the mounting holes line up, but you still need to check the mount's weight limit and hardware.",
-      "image": "https://www.engadget.com/img/gallery/what-is-a-vesa-mount-and-how-to-know-what-type-your-tv-has/l-intro-1787145637.jpg",
-      "link": "https://www.engadget.com/2240255/vesa-tv-mount-how-to-know-type-guide/",
-      "published": "Sun, 23 Aug 2026 21:30:00 +0000",
-      "title_th": "ตัวยึด VESA คืออะไร และจะทราบได้อย่างไรว่าทีวีของคุณมีประเภทใด",
-      "summary_th": "Those 200 × 200 and 400 × 400 numbers tell you where the mounting holes line up, but you still need to check the mount's weight limit and hardware."
+      "title_en": "What are the downsides of a mini PC?",
+      "summary_en": "Small space means less cooling, which in turn means less sustained power.",
+      "image": "https://www.engadget.com/img/gallery/what-are-the-downsides-of-a-mini-pc/l-intro-1786717090.jpg",
+      "link": "https://www.engadget.com/2240318/mini-pc-pros-cons/",
+      "published": "Mon, 24 Aug 2026 16:30:00 +0000",
+      "title_th": "What are the downsides of a mini PC?",
+      "summary_th": "Small space means less cooling, which in turn means less sustained power."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "How is Android Auto different from Android Automotive?",
-      "summary_en": "While these two names sound like they'd refer to the same product, there are major differences between them.",
-      "image": "https://www.engadget.com/img/gallery/how-is-android-auto-different-from-android-automotive/l-intro-1786975051.jpg",
-      "link": "https://www.engadget.com/2240251/android-auto-vs-automotive-how-different/",
-      "published": "Sun, 23 Aug 2026 20:30:00 +0000",
-      "title_th": "How is Android Auto different from Android Automotive?",
-      "summary_th": "While these two names sound like they'd refer to the same product, there are major differences between them."
+      "title_en": "Hot vs cold: What's the ideal temperature for solar panel efficiency?",
+      "summary_en": "While solar panels are most efficient under 77 degrees Fahrenheit, other factors like snow, daylight hours, clouds and mounting angle also affect production.",
+      "image": "https://www.engadget.com/img/gallery/hot-vs-cold-whats-the-ideal-temperature-for-solar-panel-efficiency/l-intro-1786973561.jpg",
+      "link": "https://www.engadget.com/2240302/hot-vs-cold-ideal-best-temperature-solar-panel-explained/",
+      "published": "Mon, 24 Aug 2026 15:30:00 +0000",
+      "title_th": "Hot vs cold: What's the ideal temperature for solar panel efficiency?",
+      "summary_th": "แม้ว่าแผงโซลาร์เซลล์จะมีประสิทธิภาพสูงสุดที่อุณหภูมิต่ำกว่า 77 องศาฟาเรนไฮต์ แต่ปัจจัยอื่นๆ เช่น หิมะ เวลากลางวัน เมฆ และมุมการติดตั้งก็ส่งผลต่อการผลิตเช่นกัน"
     },
     {
       "source": "IEEE Spectrum",
@@ -371,7 +371,7 @@
       "image": "https://spectrum.ieee.org/media-library/silhouette-of-person-at-computer-atop-a-weather-vane-labeled-ai-against-sky-background.png?id=67652283&width=980",
       "link": "https://spectrum.ieee.org/adaptable-engineer-core-skills",
       "published": "Mon, 24 Aug 2026 14:00:01 +0000",
-      "title_th": "สิ่งที่ต้องมีในการเป็นวิศวกรที่ปรับตัวได้",
+      "title_th": "What It Takes to Be an Adaptable Engineer",
       "summary_th": "The AI boom has disrupted the way engineers work, introducing new tools to learn, raising expectations for what teams can achieve in a workday, and making it harder to get hired in the first place. This makes it difficult to advise students on which specific coding languages or technical skills they should learn. So amidst the uncertainty, advice for young professionals often turns to a common refrain: Be adaptable. But what does adaptability look like in practice? Engineers often operate on the cutting edge of technology, so dealing with change is a normal part of the job, says Samantha Brunhaver , an associate professor of engineering at Arizona State University, in Tempe. Yet university curricula and training in the workplace often don’t prepare students for this. “We tell engineers tha"
     },
     {
@@ -426,181 +426,181 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Deals: AirTag 2 best price ever from $20 each, AirPods, M5 MacBook Pro $320 off, Find My gear, more",
-      "summary_en": "Alongside the ongoing 25% price drop on AirPods Pro 3 and $120 off AirPods Max 2 for last week, today’s 9to5Toys Lunch is headlined by Amazon dropping the price on AirTag 2 even lower to a new all-time low with the 4-pack now at $80 ($20 each). We also have Apple’s 24GB/1TB M5 MacBook Pro at $320 off and this 2TB M5 Pro at $500 off , just be sure to scope out Anker’s new SmartTrack Find My wallet card at the $25 Amazon all-time low, and LG’s 32-inch 6K Thunderbolt 5 monitor undercutting the Apple Studio Display XDR by a massive $2,200 (all-time low). Head below for a closer look.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-AirTag-2-MacBook-Pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/24/deals-airtag-2-best-price-ever-m5-macbook-pro/",
-      "published": "Mon, 24 Aug 2026 15:21:50 +0000",
-      "title_th": "Deals: AirTag 2 best price ever from $20 each, AirPods, M5 MacBook Pro $320 off, Find My gear, more",
-      "summary_th": "Alongside the ongoing 25% price drop on AirPods Pro 3 and $120 off AirPods Max 2 for last week, today’s 9to5Toys Lunch is headlined by Amazon dropping the price on AirTag 2 even lower to a new all-time low with the 4-pack now at $80 ($20 each). We also have Apple’s 24GB/1TB M5 MacBook Pro at $320 off and this 2TB M5 Pro at $500 off , just be sure to scope out Anker’s new SmartTrack Find My wallet card at the $25 Amazon all-time low, and LG’s 32-inch 6K Thunderbolt 5 monitor undercutting the Apple Studio Display XDR by a massive $2,200 (all-time low). Head below for a closer look."
+      "title_en": "Apple releases beta 7 for iPadOS 27, watchOS 27, and more",
+      "summary_en": "Apple is rolling out beta 7 today for iPadOS 27, watchOS 27, and more forthcoming software updates. Here’s what to expect.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/ipados-27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/24/apple-releases-beta-7-for-ipados-27-tvos-27-and-more/",
+      "published": "Mon, 24 Aug 2026 17:35:16 +0000",
+      "title_th": "Apple releases beta 7 for iPadOS 27, watchOS 27, and more",
+      "summary_th": "Apple is rolling out beta 7 today for iPadOS 27, watchOS 27, and more forthcoming software updates. Here’s what to expect."
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Affordable iPhone accessories for CarPlay worth trying",
-      "summary_en": "CarPlay can make any vehicle feel significantly more comfortable and family. Still, the experience is not always perfect out of the box. Some cars still require a wired connection, others lack CarPlay entirely, and what about keeping your iPhone charged and cooled on long trips? Fortunately, improving those areas doesn’t require a big investment. These affordable accessories cover everything from wireless CarPlay and MagSafe charging to cable management and complete displays for older vehicles.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/best-carplay-apps.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/24/affordable-iphone-accessories-for-carplay-worth-trying/",
-      "published": "Mon, 24 Aug 2026 15:18:53 +0000",
-      "title_th": "Affordable iPhone accessories for CarPlay worth trying",
-      "summary_th": "CarPlay สามารถทำให้ยานพาหนะทุกคันรู้สึกสะดวกสบายและเป็นครอบครัวมากขึ้นอย่างเห็นได้ชัด ถึงกระนั้นประสบการณ์ก็ไม่ได้สมบูรณ์แบบเสมอไป รถยนต์บางคันยังคงต้องใช้การเชื่อมต่อแบบมีสาย ในขณะที่บางคันไม่มี CarPlay เลย แล้วการชาร์จ iPhone ของคุณให้เย็นสบายตลอดการเดินทางระยะไกลล่ะ? โชคดีที่การปรับปรุงพื้นที่เหล่านั้นไม่จำเป็นต้องมีการลงทุนจำนวนมาก อุปกรณ์เสริมราคาไม่แพงเหล่านี้ครอบคลุมทุกอย่างตั้งแต่การชาร์จ CarPlay และ MagSafe แบบไร้สาย ไปจนถึงการจัดการสายเคเบิล และจอภาพที่สมบูรณ์สำหรับรถยนต์รุ่นเก่า"
+      "title_en": "Second Release Candidates for macOS Tahoe 26.7 and macOS Sequoia 15.8 now available",
+      "summary_en": "Apple is rolling out second release candidates for macOS Tahoe 26.7 and macOS Sequoia 15.8, one week after the first RC for macOS 26.7 revealed several details about upcoming products.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/24/second-release-candidates-for-macos-tahoe-26-7-and-macos-sequoia-15-8-now-available/",
+      "published": "Mon, 24 Aug 2026 17:33:20 +0000",
+      "title_th": "Second Release Candidates for macOS Tahoe 26.7 and macOS Sequoia 15.8 now available",
+      "summary_th": "Apple is rolling out second release candidates for macOS Tahoe 26.7 and macOS Sequoia 15.8, one week after the first RC for macOS 26.7 revealed several details about upcoming products."
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Ted Lasso season 5 gets exciting new status update",
-      "summary_en": "Ted Lasso season 4 still has many new episodes yet to air, but an exciting update reported by Sigmund Judge indicates that after the finale airs, the wait for season 5 may not be too long.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/11/ted-lasso-characters-wizard-of-oz.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/24/ted-lasso-season-5-gets-exciting-new-status-update/",
-      "published": "Mon, 24 Aug 2026 15:07:56 +0000",
-      "title_th": "Ted Lasso season 5 gets exciting new status update",
-      "summary_th": "Ted Lasso season 4 still has many new episodes yet to air, but an exciting update reported by Sigmund Judge indicates that after the finale airs, the wait for season 5 may not be too long."
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "review",
-      "title_en": "Apple starts testing AI shopping assistant in the Apple Store app",
-      "summary_en": "Last month, a report suggested Apple was working on a new AI-powered shopping assistant for the Apple Store app on iPhone and iPad. The company now appears to be rolling that out to select users as part of an “Early Preview.”",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-store-ai-shopping.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/24/apple-store-app-is-testing-an-ai-shopping-assistant/",
-      "published": "Mon, 24 Aug 2026 14:07:53 +0000",
-      "title_th": "Apple starts testing AI shopping assistant in the Apple Store app",
-      "summary_th": "Last month, a report suggested Apple was working on a new AI-powered shopping assistant for the Apple Store app on iPhone and iPad. The company now appears to be rolling that out to select users as part of an “Early Preview.”"
+      "title_en": "macOS 27 Golden Gate developer beta 7 now available, here’s how to install it",
+      "summary_en": "Developers can now install macOS 27 Golden Gate beta 7, just a week after the rollout of beta 6. Here are the details.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/macOS-27-b7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/24/macos-27-golden-gate-developer-beta-7-now-available-heres-how-to-install-it/",
+      "published": "Mon, 24 Aug 2026 17:32:22 +0000",
+      "title_th": "macOS 27 Golden Gate developer beta 7 now available, here’s how to install it",
+      "summary_th": "Developers can now install macOS 27 Golden Gate beta 7, just a week after the rollout of beta 6. Here are the details."
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "iPhone 20 Pro’s all-glass design gets new update from leaker",
-      "summary_en": "Next year’s iPhone Pro models are expected to feature a new, all-glass design timed for the iPhone’s 20th anniversary. And a new leak today details Apple’s progress on the innovative models.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/24/iphone-20-pros-all-glass-design-gets-new-update-from-leaker/",
-      "published": "Mon, 24 Aug 2026 13:48:09 +0000",
-      "title_th": "ดีไซน์แบบกระจกทั้งหมดของ iPhone 20 Pro ได้รับการอัพเดตใหม่จาก Leaker",
-      "summary_th": "iPhone Pro รุ่นปีหน้าคาดว่าจะมีดีไซน์ใหม่แบบกระจกทั้งหมด ซึ่งตรงกับวันครบรอบ 20 ปีของ iPhone และการรั่วไหลครั้งใหม่ในวันนี้ให้รายละเอียดเกี่ยวกับความคืบหน้าของ Apple ในรูปแบบนวัตกรรมใหม่"
+      "title_en": "iOS 27 beta 7 now available as Apple tests major Siri AI upgrade",
+      "summary_en": "Apple has released the seventh iOS 27 beta for developer testing. iOS 27 beta 7 continues Apple’s summer beta cycle ahead of a public release in September. We’ll update our devices and share what we discover.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/iOS-27-b7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/24/ios-27-beta-7/",
+      "published": "Mon, 24 Aug 2026 17:28:00 +0000",
+      "title_th": "iOS 27 beta 7 now available as Apple tests major Siri AI upgrade",
+      "summary_th": "Apple has released the seventh iOS 27 beta for developer testing. iOS 27 beta 7 continues Apple’s summer beta cycle ahead of a public release in September. We’ll update our devices and share what we discover."
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple is about to launch five new products that I’m very excited for",
+      "summary_en": "Apple’s biggest product launches of the year are almost here, with 10+ new products coming very soon. Here are the five new Apple products I’m the most excited about.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/08/iPhone-15-event-date.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/24/apple-is-about-to-launch-five-new-products-that-im-very-excited-for/",
+      "published": "Mon, 24 Aug 2026 15:43:52 +0000",
+      "title_th": "Apple is about to launch five new products that I’m very excited for",
+      "summary_th": "Apple’s biggest product launches of the year are almost here, with 10+ new products coming very soon. Here are the five new Apple products I’m the most excited about."
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "GrapheneOS support coming to Motorola Razr Fold & Ultra next year, Pixel 11 series too",
-      "summary_en": "GrapheneOS is set to arrive in a new Motorola smartphone next year, but it won’t just be a single slab, as the privacy-focused version of Android will also support future versions of the Razr Fold and Razr Ultra, with Pixel 11 support also coming.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/motorola-razr-fold-review-20.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/24/motorola-razr-fold-ultra-grapheneos-support-coming/",
-      "published": "Mon, 24 Aug 2026 15:15:00 +0000",
-      "title_th": "GrapheneOS support coming to Motorola Razr Fold & Ultra next year, Pixel 11 series too",
-      "summary_th": "GrapheneOS is set to arrive in a new Motorola smartphone next year, but it won’t just be a single slab, as the privacy-focused version of Android will also support future versions of the Razr Fold and Razr Ultra, with Pixel 11 support also coming."
+      "title_en": "Monday’s Android app deals and freebies: Parabellum, Mindcop, MEGA MAN X ,Afterplace, more",
+      "summary_en": "Your Monday afternoon lineup of the best Android game and app deals is now ready to roll, including titles like Foretales, Parabellum: Siege of Legends, Mindcop, MEGA MAN X, Afterplace, Beholder: Conductor, ScourgeBringer, Mystic Pillars X Kantara, and more. On your way down, check out TCL’s TAB 10 Gen 4 Android Tablet down at $150 , this UGREEN wallet tracker at $20 , and LG’s 2026 C6 OLED TV at $1,000 off with a FREE $50 credit . The apps await below.",
+      "image": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2026/08/Google-Play-Aug-24-2.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5toys.com/2026/08/24/monday-android-app-deals-mega-man-x/",
+      "published": "Mon, 24 Aug 2026 17:40:45 +0000",
+      "title_th": "Monday’s Android app deals and freebies: Parabellum, Mindcop, MEGA MAN X ,Afterplace, more",
+      "summary_th": "Your Monday afternoon lineup of the best Android game and app deals is now ready to roll, including titles like Foretales, Parabellum: Siege of Legends, Mindcop, MEGA MAN X, Afterplace, Beholder: Conductor, ScourgeBringer, Mystic Pillars X Kantara, and more. On your way down, check out TCL’s TAB 10 Gen 4 Android Tablet down at $150 , this UGREEN wallet tracker at $20 , and LG’s 2026 C6 OLED TV at $1,000 off with a FREE $50 credit . The apps await below."
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Google Clock and Pixel Magnifier roll out icon redesigns",
-      "summary_en": "While available on all Android devices, Google Clock received an icon redesign alongside the Pixel 11 launch. An update to Pixel Magnifier also brings a new icon.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-new-icons-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/24/google-clock-pixel-magnifier-icon-updates/",
-      "published": "Mon, 24 Aug 2026 14:51:39 +0000",
-      "title_th": "Google Clock and Pixel Magnifier roll out icon redesigns",
-      "summary_th": "While available on all Android devices, Google Clock received an icon redesign alongside the Pixel 11 launch. An update to Pixel Magnifier also brings a new icon."
+      "title_en": "Pixel 10 vs. Pixel 11: Where are the upgrades? [Video]",
+      "summary_en": "A year in tech used to bring about big, bold changes. Today, things are iterative, merely refinements, and that has never been more apparent than going from the Pixel 10 to the Pixel 11. Here’s what you need to know.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-10-and-Pixel-11-design-comparison-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/24/pixel-10-vs-pixel-11/",
+      "published": "Mon, 24 Aug 2026 17:15:00 +0000",
+      "title_th": "Pixel 10 vs. Pixel 11: Where are the upgrades? [Video]",
+      "summary_th": "A year in tech used to bring about big, bold changes. Today, things are iterative, merely refinements, and that has never been more apparent than going from the Pixel 10 to the Pixel 11. Here’s what you need to know."
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Google Maps bug won’t show traffic data on Android Auto and more",
-      "summary_en": "When it’s working fully, Google Maps is a powerful navigation app, but bugs are a bit more common than anyone wants. Over the past month, issues with traffic data have been popping up, more recently affecting users on Android Auto specifically.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/android-auto-google-maps-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/24/google-maps-traffic-data-broken-android-auto/",
-      "published": "Mon, 24 Aug 2026 14:15:00 +0000",
-      "title_th": "Google Maps bug won’t show traffic data on Android Auto and more",
-      "summary_th": "When it’s working fully, Google Maps is a powerful navigation app, but bugs are a bit more common than anyone wants. Over the past month, issues with traffic data have been popping up, more recently affecting users on Android Auto specifically."
+      "title_en": "The Pixel 11 Pro’s flashlight is a little bit worse because of ‘HiLight’ [Gallery]",
+      "summary_en": "“HiLight” on the Pixel 11 Pro doesn’t provide much utility, but making matters worse, it also worsens a common use case of every other phone’s rear LED – the ability to use it as a flashlight.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-pro-xl-flashlight.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/24/the-pixel-11-pros-flashlight-is-a-little-bit-worse-because-of-hilight-gallery/",
+      "published": "Mon, 24 Aug 2026 17:05:00 +0000",
+      "title_th": "The Pixel 11 Pro’s flashlight is a little bit worse because of ‘HiLight’ [Gallery]",
+      "summary_th": "“HiLight” on the Pixel 11 Pro doesn’t provide much utility, but making matters worse, it also worsens a common use case of every other phone’s rear LED – the ability to use it as a flashlight."
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Samsung reportedly bringing this major redesign back from the dead with Galaxy S27 [Gallery]",
-      "summary_en": "According to new leaks, Samsung is planning to revive a lost redesign with its Galaxy S27 series, but details are light.",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/galaxy-s26-edge-cad-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/23/samsung-galaxy-s27-redesign-leaks/",
-      "published": "Sun, 23 Aug 2026 21:55:00 +0000",
-      "title_th": "Samsung reportedly bringing this major redesign back from the dead with Galaxy S27 [Gallery]",
-      "summary_th": "According to new leaks, Samsung is planning to revive a lost redesign with its Galaxy S27 series, but details are light."
+      "title_en": "Gemini on Pixel 11 Pro testing ‘Device help’ tool",
+      "summary_en": "On the Pixel 11 Pro, we’re seeing a new “Device help” tool for the Gemini app that provides personalized and conversational assistance with your phone.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Gemini-Overlay.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/24/pixel-11-pro-gemini-device-help/",
+      "published": "Mon, 24 Aug 2026 16:14:01 +0000",
+      "title_th": "Gemini on Pixel 11 Pro testing ‘Device help’ tool",
+      "summary_th": "On the Pixel 11 Pro, we’re seeing a new “Device help” tool for the Gemini app that provides personalized and conversational assistance with your phone."
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Google’s inevitable ‘Pixel Watch Ultra’ should copy the Fitbit Air",
-      "summary_en": "It feels rather inevitable that Google will give in to the whole “Ultra” smartwatch fad, and when something along the lines of a “Pixel Watch Ultra” does arrive, I really hope it pulls influence from Fitbit Air. This issue of 9to5Google Weekender is a part of our newsletter that highlights the biggest Google stories with added commentary and more. Sign up here to get Weekender delivered to your inbox every weekend, and catch our weekday roundups too!",
-      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-stephen-curry-8.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5google.com/2026/08/23/google-pixel-watch-ultra-ideas/",
-      "published": "Sun, 23 Aug 2026 16:45:00 +0000",
-      "title_th": "Google’s inevitable ‘Pixel Watch Ultra’ should copy the Fitbit Air",
-      "summary_th": "It feels rather inevitable that Google will give in to the whole “Ultra” smartwatch fad, and when something along the lines of a “Pixel Watch Ultra” does arrive, I really hope it pulls influence from Fitbit Air. This issue of 9to5Google Weekender is a part of our newsletter that highlights the biggest Google stories with added commentary and more. Sign up here to get Weekender delivered to your inbox every weekend, and catch our weekday roundups too!"
+      "title_en": "Philips Hue’s new, cheaper Sync hardware leaks with ‘Camera’ and ‘Box Lite’ [Gallery]",
+      "summary_en": "The Philips Hue Sync Box lets you match up your smart home lighting to what’s on your TV, but it’s not cheap. A new “Lite” version is coming, though, which cuts the price drastically by only having a single HDMI input, while a “Sync Camera” simplifies the setup for TVs without additional inputs.",
+      "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/philips-hue-sync-camera-box-lite-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5google.com/2026/08/24/philips-hue-sync-box-lite-camera-leaks/",
+      "published": "Mon, 24 Aug 2026 15:55:00 +0000",
+      "title_th": "Philips Hue’s new, cheaper Sync hardware leaks with ‘Camera’ and ‘Box Lite’ [Gallery]",
+      "summary_th": "The Philips Hue Sync Box lets you match up your smart home lighting to what’s on your TV, but it’s not cheap. A new “Lite” version is coming, though, which cuts the price drastically by only having a single HDMI input, while a “Sync Camera” simplifies the setup for TVs without additional inputs."
     },
     {
       "source": "Electrek",
       "flag": "",
       "category": "ev",
-      "title_en": "BYD opens orders for its new flagship EV with over 1,000 km of range for under $40,000",
-      "summary_en": "BYD opened orders for the Great Han, its new flagship electric sedan that can drive over 1,000 km (621 mi) on a single charge, starting at under $40,000.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/07/BYD-Flagship-Han-EV-orders.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/24/byd-opens-flagship-ev-orders-with-1000-km-range-under-40k/",
-      "published": "Mon, 24 Aug 2026 15:24:23 +0000",
-      "title_th": "BYD เปิดคำสั่งซื้อเรือธง EV รุ่นใหม่ในระยะทางกว่า 1,000 กม. ในราคาต่ำกว่า 40,000 ดอลลาร์",
-      "summary_th": "BYD opened orders for the Great Han, its new flagship electric sedan that can drive over 1,000 km (621 mi) on a single charge, starting at under $40,000."
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Watch Tesla FSD v14 Lite drive over a giant log without stopping",
-      "summary_en": "A Tesla owner posted dashcam footage of his car driving straight over a log lying across the road while running Full Self-Driving (FSD) v14.1 Lite, without braking or slowing down. The clip has more than 800,000 views, and it adds to a growing list of problems we’ve documented with Tesla’s “Lite” version of FSD on older Hardware 3 cars.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Tesla-FSD-V14-lite-drive-into-tree.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/24/tesla-fsd-v14-1-lite-drove-over-log/",
-      "published": "Mon, 24 Aug 2026 14:45:04 +0000",
-      "title_th": "Watch Tesla FSD v14 Lite drive over a giant log without stopping",
-      "summary_th": "A Tesla owner posted dashcam footage of his car driving straight over a log lying across the road while running Full Self-Driving (FSD) v14.1 Lite, without braking or slowing down. The clip has more than 800,000 views, and it adds to a growing list of problems we’ve documented with Tesla’s “Lite” version of FSD on older Hardware 3 cars."
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Tesla loses another top chip engineer to ex-Dojo startup DensityAI",
-      "summary_en": "Tesla has lost another senior chip engineer to DensityAI, the AI hardware startup built out of its own former Dojo team. Shishuang Sun, who spent more than five years as a Tesla AI hardware architect on Dojo and the Autopilot computers, now lists his role as “Packaging and System Hardware” at DensityAI, starting in July. This is not a junior loss. Sun left Tesla as Senior Director of AI Hardware Design — one of the people responsible for turning Tesla’s custom silicon into working systems, exactly the expertise Tesla needs as it stakes its valuation on in-house AI chips.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/05/Tesla-dojo-tile.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/24/tesla-chip-engineer-shishuang-sun-densityai/",
-      "published": "Mon, 24 Aug 2026 13:09:54 +0000",
-      "title_th": "Tesla loses another top chip engineer to ex-Dojo startup DensityAI",
-      "summary_th": "Tesla has lost another senior chip engineer to DensityAI, the AI hardware startup built out of its own former Dojo team. Shishuang Sun, who spent more than five years as a Tesla AI hardware architect on Dojo and the Autopilot computers, now lists his role as “Packaging and System Hardware” at DensityAI, starting in July. This is not a junior loss. Sun left Tesla as Senior Director of AI Hardware Design — one of the people responsible for turning Tesla’s custom silicon into working systems, exactly the expertise Tesla needs as it stakes its valuation on in-house AI chips."
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "XPeng robotics raises $900M at $6.3B valuation for IRON robot push",
-      "summary_en": "XPeng’s robotics business has raised over $900 million at a post-money valuation of more than $6.3 billion, the Chinese EV maker announced today. XPeng calls it the largest single-round private financing in the history of China’s embodied AI industry. The round is meant to push XPeng’s IRON humanoid robot into mass production by the end of 2026 — a timeline that keeps the automaker ahead of Tesla’s stalling Optimus program.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Xpeng-Iron-humanoid-robot-e1787574881506.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/24/xpeng-robotics-900m-iron-humanoid-robot-valuation/",
-      "published": "Mon, 24 Aug 2026 12:35:16 +0000",
-      "title_th": "XPeng robotics raises $900M at $6.3B valuation for IRON robot push",
-      "summary_th": "XPeng’s robotics business has raised over $900 million at a post-money valuation of more than $6.3 billion, the Chinese EV maker announced today. XPeng calls it the largest single-round private financing in the history of China’s embodied AI industry. The round is meant to push XPeng’s IRON humanoid robot into mass production by the end of 2026 — a timeline that keeps the automaker ahead of Tesla’s stalling Optimus program."
+      "title_en": "China is about to get solar cars, but they won’t work as well as you hope",
+      "summary_en": "Fuyao Glass, one of the world’s largest suppliers of automotive glass, has listed a new product for sale that it says can generate electricity from a car’s roof glass. But before you get too excited: this doesn’t mean solar-powered electric cars are right around the corner.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/fuyao-solar-glass-1-e1787592618641.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/24/china-is-about-to-get-solar-cars-but-they-wont-work-as-well-as-you-hope/",
+      "published": "Mon, 24 Aug 2026 18:03:45 +0000",
+      "title_th": "China is about to get solar cars, but they won’t work as well as you hope",
+      "summary_th": "Fuyao Glass, one of the world’s largest suppliers of automotive glass, has listed a new product for sale that it says can generate electricity from a car’s roof glass. But before you get too excited: this doesn’t mean solar-powered electric cars are right around the corner."
     },
     {
       "source": "Electrek",
       "flag": "",
       "category": "gadget",
-      "title_en": "Heybike launches low cost 28 MPH full-suspension moped-style e-bike",
-      "summary_en": "Heybike is expanding into a rather different corner of the e-bike market with the launch of the new Heybike Titan, a full-suspension, moped-style electric bike that can be had with either one or two batteries. And perhaps just as importantly, Heybike is coming out swinging on price.",
-      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/heybike-titan-header-teens-e-bike-moped.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://electrek.co/2026/08/24/heybike-launches-low-cost-28-mph-full-suspension-moped-style-e-bike/",
-      "published": "Mon, 24 Aug 2026 11:55:00 +0000",
-      "title_th": "Heybike เปิดตัวจักรยานยนต์ไฟฟ้าระบบกันสะเทือนเต็มรูปแบบความเร็ว 28 MPH ราคาประหยัด",
-      "summary_th": "Heybike is expanding into a rather different corner of the e-bike market with the launch of the new Heybike Titan, a full-suspension, moped-style electric bike that can be had with either one or two batteries. And perhaps just as importantly, Heybike is coming out swinging on price."
+      "title_en": "Heybike Titan moto-inspired full suspension e-bike launch, EcoFlow 572Wh RIVER 3 Plus power station bundle $319, Segway, more",
+      "summary_en": "Heybike is leading this week’s Green Deals kick-off with an early-bird launch deal on its newest Titan Moto-Inspired Full Suspension e-bike (with two battery configuration options) starting from $1,399 . Right behind that we spotted the expanded 572Wh EcoFlow RIVER 3 Plus Portable Power Station bundle back down at its $319 Amazon low , while Segway has a number of e-scooter, e-bike, and GoKart deals starting from $280 . There’s also the Greenworks 40V 8-inch Cordless Electric Pole Saw discounted to $140 , and plenty more waiting for you below, including the Segway Max G3 Plus Electric Scooter pre-order deal that ends tonight. And don’t forget we have all the hangover deals from last week that are down at the bottom of the page, collected together within our latest Electrified Weekly roundu",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Heybike-EcoFlow-Segway-Greenworks-GDs-FI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/24/heybike-titan-moto-inspired-full-suspension-e-bike-ecoflow-572wh-river-3-plus-power-station-segway-more/",
+      "published": "Mon, 24 Aug 2026 18:00:00 +0000",
+      "title_th": "Heybike Titan moto-inspired full suspension e-bike launch, EcoFlow 572Wh RIVER 3 Plus power station bundle $319, Segway, more",
+      "summary_th": "Heybike is leading this week’s Green Deals kick-off with an early-bird launch deal on its newest Titan Moto-Inspired Full Suspension e-bike (with two battery configuration options) starting from $1,399 . Right behind that we spotted the expanded 572Wh EcoFlow RIVER 3 Plus Portable Power Station bundle back down at its $319 Amazon low , while Segway has a number of e-scooter, e-bike, and GoKart deals starting from $280 . There’s also the Greenworks 40V 8-inch Cordless Electric Pole Saw discounted to $140 , and plenty more waiting for you below, including the Segway Max G3 Plus Electric Scooter pre-order deal that ends tonight. And don’t forget we have all the hangover deals from last week that are down at the bottom of the page, collected together within our latest Electrified Weekly roundu"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "How a Toyota dealer cut energy costs 55%, even with DC fast chargers",
+      "summary_en": "A Toyota dealer on Long Island says it cut its energy costs by an average of 55% over three months by putting solar, battery storage, DC fast chargers, and AI-powered energy management under one roof.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/EVO-Power-Sunrise-Toyota.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/24/how-a-toyota-dealer-cut-energy-costs-55-percent-even-with-dc-fast-chargers/",
+      "published": "Mon, 24 Aug 2026 17:46:18 +0000",
+      "title_th": "How a Toyota dealer cut energy costs 55%, even with DC fast chargers",
+      "summary_th": "A Toyota dealer on Long Island says it cut its energy costs by an average of 55% over three months by putting solar, battery storage, DC fast chargers, and AI-powered energy management under one roof."
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Tesla confirms Cybercab launch coming next week",
+      "summary_en": "Tesla confirmed it will hold a Cybercab event in Austin on September 3, promoting it with a poster that reads “Exclusive Access: Cybercab.” It’s an invite-only affair for the top scorers in its Robotaxi rider sweepstakes, and Tesla says it will livestream the launch for everyone else. The framing suggests something big is coming. What’s actually coming is a two-seat car with no steering wheel added to the same driverless service Tesla has been running in Austin for over a year — a fleet that our tracking still puts at roughly two dozen unsupervised vehicles.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Tesla-Cybercab-launch-poster.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/24/tesla-cybercab-exclusive-access-robotaxi-sept-3/",
+      "published": "Mon, 24 Aug 2026 17:10:02 +0000",
+      "title_th": "Tesla confirms Cybercab launch coming next week",
+      "summary_th": "Tesla confirmed it will hold a Cybercab event in Austin on September 3, promoting it with a poster that reads “Exclusive Access: Cybercab.” It’s an invite-only affair for the top scorers in its Robotaxi rider sweepstakes, and Tesla says it will livestream the launch for everyone else. The framing suggests something big is coming. What’s actually coming is a two-seat car with no steering wheel added to the same driverless service Tesla has been running in Austin for over a year — a fleet that our tracking still puts at roughly two dozen unsupervised vehicles."
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Volkswagen’s new electric SUV is not just a rebadged ID.4 [Images]",
+      "summary_en": "The Volkswagen ID. Tiguan is expected to debut later this year, bringing much more than just a new look and name.",
+      "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/07/Volkswagen-ID.4-Tiguan.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://electrek.co/2026/08/24/volkswagens-new-electric-suv-not-rebadged-id-4-images/",
+      "published": "Mon, 24 Aug 2026 16:06:02 +0000",
+      "title_th": "Volkswagen’s new electric SUV is not just a rebadged ID.4 [Images]",
+      "summary_th": "The Volkswagen ID. Tiguan is expected to debut later this year, bringing much more than just a new look and name."
     }
   ],
   "indices": [
@@ -608,65 +608,65 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 210.21,
-      "change": -4.51,
-      "change_pct": -2.1
+      "price": 210.11,
+      "change": -4.61,
+      "change_pct": -2.15
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 357.05,
-      "change": -5.81,
-      "change_pct": -1.6
+      "price": 352.75,
+      "change": -10.11,
+      "change_pct": -2.79
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 351.14,
-      "change": 6.32,
-      "change_pct": 1.83
+      "price": 348.73,
+      "change": 3.91,
+      "change_pct": 1.14
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 489.02,
-      "change": 5.78,
-      "change_pct": 1.2
+      "price": 488.23,
+      "change": 4.99,
+      "change_pct": 1.03
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 311.97,
-      "change": 2.62,
-      "change_pct": 0.85
+      "price": 311.27,
+      "change": 1.92,
+      "change_pct": 0.62
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 262.6,
-      "change": 3.97,
-      "change_pct": 1.54
+      "price": 262.8,
+      "change": 4.17,
+      "change_pct": 1.61
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 556.71,
-      "change": 6.81,
-      "change_pct": 1.24
+      "price": 560.35,
+      "change": 10.45,
+      "change_pct": 1.9
     },
     {
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 254.0,
-      "change": -4.0,
-      "change_pct": -1.55
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     }
   ],
   "reviews": [
@@ -678,7 +678,7 @@
       "link": "https://www.youtube.com/watch?v=mfmdXPT7nAM",
       "thumbnail": "https://i2.ytimg.com/vi/mfmdXPT7nAM/hqdefault.jpg",
       "published": "2026-08-21T18:53:07+00:00",
-      "title_th": "ฉันตอบตกลงทุกอีเมลเป็นเวลาหนึ่งเดือน! (อีกครั้ง)"
+      "title_th": "I Said Yes to Every Email for a Month! (Again)"
     },
     {
       "channel": "MKBHD",
@@ -703,6 +703,16 @@
     {
       "channel": "Unbox Therapy",
       "country": "US",
+      "title_en": "The Snapdragon Multi-Day Battery Laptop",
+      "video_id": "ip0W9lCXpio",
+      "link": "https://www.youtube.com/shorts/ip0W9lCXpio",
+      "thumbnail": "https://i2.ytimg.com/vi/ip0W9lCXpio/hqdefault.jpg",
+      "published": "2026-08-24T16:16:23+00:00",
+      "title_th": "The Snapdragon Multi-Day Battery Laptop"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
       "title_en": "This Limited Edition Unboxing is 🥶...",
       "video_id": "F2uHTrbQQVE",
       "link": "https://www.youtube.com/shorts/F2uHTrbQQVE",
@@ -719,16 +729,6 @@
       "thumbnail": "https://i3.ytimg.com/vi/b0x8sFBJr7Q/hqdefault.jpg",
       "published": "2026-08-20T17:06:18+00:00",
       "title_th": "World’s Lightest 17” Laptop With RTX..."
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "They Call it Your \"SecondBrain\"",
-      "video_id": "SUA2xGy-beg",
-      "link": "https://www.youtube.com/shorts/SUA2xGy-beg",
-      "thumbnail": "https://i4.ytimg.com/vi/SUA2xGy-beg/hqdefault.jpg",
-      "published": "2026-08-18T14:54:12+00:00",
-      "title_th": "They Call it Your \"SecondBrain\""
     },
     {
       "channel": "Beartai",
