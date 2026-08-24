@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T06:32:15.035609+00:00",
+  "generated_at": "2026-08-24T09:35:31.309201+00:00",
   "count": 50,
   "articles": [
     {
@@ -185,6 +185,30 @@
     {
       "source": "Wired",
       "flag": "US",
+      "category": "ai",
+      "title_en": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
+      "summary_en": "The deepfake epidemic in schools is affecting more than students. Four teachers tell WIRED about becoming targets of sexualized, AI-generated content—and how difficult it was to find accountability.",
+      "image": "https://media.wired.com/photos/6a7658f0de0a40f999466656/master/pass/080726-teachers-deepfakes-ai.gif",
+      "link": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
+      "published": "Mon, 24 Aug 2026 09:30:00 +0000",
+      "title_th": "พวกเขาอุทิศชีวิตเพื่อการสอน จากนั้น Deepfakes ก็เริ่มต้นขึ้น",
+      "summary_th": "การแพร่ระบาดของ Deepfake ในโรงเรียนส่งผลกระทบมากกว่านักเรียน ครูสี่คนบอกกับ WIRED เกี่ยวกับการตกเป็นเป้าของเนื้อหาทางเพศที่สร้างขึ้นโดย AI และความยากลำบากในการหาความรับผิดชอบ"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "NASA’s New Space Telescope Is Poised to Discover Hidden Facets of the Universe",
+      "summary_en": "The Nancy Grace Roman Space Telescope is expected to discover as many as 200,000 new planets and reveal details about the elusive nature of dark matter and dark energy.",
+      "image": "https://media.wired.com/photos/6a88d75bf0a7f4e096f4dfd0/master/pass/Science_NASAsNewSpaceTelescopeIsPoisedtoDiscover_v1-ezgif.com-video-to-gif-converter%20(1).gif",
+      "link": "https://www.wired.com/story/nasa-nancy-grace-roman-space-telescope-hidden-facets-of-universe/",
+      "published": "Mon, 24 Aug 2026 09:00:00 +0000",
+      "title_th": "กล้องโทรทรรศน์อวกาศใหม่ของ NASA พร้อมที่จะค้นพบแง่มุมที่ซ่อนอยู่ของจักรวาล",
+      "summary_th": "กล้องโทรทรรศน์อวกาศโรมันแนนซี เกรซ คาดว่าจะค้นพบดาวเคราะห์ใหม่ได้มากถึง 200,000 ดวง และเปิดเผยรายละเอียดเกี่ยวกับธรรมชาติที่เข้าใจยากของสสารมืดและพลังงานมืด"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
       "category": "review",
       "title_en": "Asus ROG Swift RGB Stripe OLED Review: Clarity King",
       "summary_en": "The Asus PG27UCWM brings a new sub-pixel layout to the world of OLED gaming monitors, and in my testing, I appreciated the improvements it brings to the table.",
@@ -219,28 +243,16 @@
       "summary_th": "สวิตช์อิเล็กทรอนิกส์เล็กๆ น้อยๆ จุดประกายให้เกิดการปฏิวัติคอมพิวเตอร์ได้อย่างไร"
     },
     {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
-      "category": "gadget",
-      "title_en": "The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026)",
-      "summary_en": "Docking stations expand what your laptop can do, and I’ve been testing the best of the best to see which you should buy.",
-      "image": "https://media.wired.com/photos/6870914c7df7ab0fb03f65d5/master/pass/The%20Best%20Laptop%20Docking%20Stations%20to%20Supercharge%20Your%20Workstation.png",
-      "link": "https://www.wired.com/gallery/best-laptop-docking-stations/",
-      "published": "Sun, 23 Aug 2026 10:37:00 +0000",
-      "title_th": "6 สถานีเชื่อมต่อแล็ปท็อปที่ดีที่สุดเพื่อปลดล็อกประสบการณ์เดสก์ท็อปเต็มรูปแบบ (2026)",
-      "summary_th": "แท่นวางขยายสิ่งที่แล็ปท็อปของคุณสามารถทำได้ และฉันได้ทดสอบสิ่งที่ดีที่สุดเพื่อดูว่าคุณควรซื้อตัวไหน"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App",
-      "summary_en": "From halting my doomscrolls to automating air-quality checks, Apple’s streamlined Shortcuts app is my favorite iOS 27 feature.",
-      "image": "https://media.wired.com/photos/6a877da620408e2e1b24b434/master/pass/Apple-Shortcuts-Gear.png",
-      "link": "https://www.wired.com/story/7-basic-iphone-tricks-i-built-with-ios-27s-revamped-shortcuts-app/",
-      "published": "Sun, 23 Aug 2026 09:30:00 +0000",
-      "title_th": "7 เคล็ดลับพื้นฐานของ iPhone ที่ฉันสร้างขึ้นด้วยแอปทางลัดที่ปรับปรุงใหม่ของ iOS 27",
-      "summary_th": "แอพทางลัดที่ได้รับการปรับปรุงของ Apple ถือเป็นฟีเจอร์ iOS 27 ที่ฉันชื่นชอบ ตั้งแต่การหยุดการดูมส์เลื่อนไปจนถึงการตรวจสอบคุณภาพอากาศโดยอัตโนมัติ"
+      "category": "ai",
+      "title_en": "Kids outlearn AI—and we still don’t know why",
+      "summary_en": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child. Now there are two. Four short years after the release of ChatGPT,…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/3_HighChair-crop.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "published": "Mon, 24 Aug 2026 09:00:00 +0000",
+      "title_th": "เด็กๆ ได้เรียนรู้ AI เร็วกว่า และเรายังไม่รู้ว่าทำไม",
+      "summary_th": "ผู้คนพูดคุยกันมานานอย่างน้อย 100,000 ปี เท่าที่เราทราบได้ และตลอดระยะเวลานั้น มีเพียงสิ่งเดียวในโลกที่สามารถเรียนรู้ภาษามนุษย์เพื่อความคล่องได้อย่างสมบูรณ์แบบ นั่นก็คือ เด็กที่เป็นมนุษย์ ตอนนี้มีสองคน สี่ปีสั้นๆ หลังจากการเปิดตัว ChatGPT..."
     },
     {
       "source": "MIT Technology Review",
@@ -289,18 +301,6 @@
       "published": "Fri, 21 Aug 2026 09:00:00 +0000",
       "title_th": "แผนการของบริษัทนี้ในการปรับใช้กระจกอวกาศอาจเป็นอันตรายต่อท้องฟ้ายามค่ำคืนสำหรับหลาย ๆ คน",
       "summary_th": "บริษัทที่วางแผนจะส่งแสงอาทิตย์จากอวกาศสู่โลกตามความต้องการอาจทำให้ท้องฟ้ายามค่ำคืนสว่างขึ้นโดยไม่ได้ตั้งใจสำหรับผู้คนจำนวนมากเกินกว่าที่ตั้งใจไว้ ตามการศึกษาใหม่ ปลายปีนี้ บริษัท Reflect Orbital ของสหรัฐฯ วางแผนที่จะส่งดาวเทียมทดสอบชื่อ Eärendil-1 ที่จะขยายวงโคจรกระจกขนาด 18 x 18 เมตร การ..."
-    },
-    {
-      "source": "MIT Technology Review",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Debates over AI consciousness are a trap",
-      "summary_en": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/smokescreen.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "published": "Thu, 20 Aug 2026 15:42:39 +0000",
-      "title_th": "การถกเถียงเรื่องจิตสำนึกของ AI นั้นเป็นกับดัก",
-      "summary_th": "AI “ผู้หลบหนี” เจ้าหน้าที่ “โกง” และนักแสดง “อิสระ”—วาทศิลป์ในปัจจุบันจะทำให้คุณเชื่อว่าเจ้าหน้าที่ AI ไม่เพียงแต่ตื่นตัวและตระหนักรู้เท่านั้น แต่ยังโกรธผู้สร้างของพวกเขาด้วย ผู้นำด้านเทคโนโลยีที่มีชื่อเสียง เช่น Demis Hassabis, Dario Amodei และ Sam Altman ผลักดันให้มีการควบคุมระบบที่ดูเหมือน \"เหนือมนุษย์\" เหล่านี้ ในขณะที่ฝ่ายที่แยกจากกัน นำโดยองค์กรนโยบาย..."
     },
     {
       "source": "Engadget",
@@ -551,7 +551,7 @@
       "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
       "link": "https://electrek.co/2026/08/21/podcast-tesla-kills-solar-roof-cybercab-launch-genesis-gv90-and-more/",
       "published": "Fri, 21 Aug 2026 19:32:03 +0000",
-      "title_th": "Podcast: Tesla สังหาร Solar Roof, การเปิดตัว Cybercab, Genesis GV90 และอีกมากมาย",
+      "title_th": "Podcast: Tesla ฆ่า Solar Roof, การเปิดตัว Cybercab, Genesis GV90 และอีกมากมาย",
       "summary_th": "ใน Electrek Podcast เราพูดคุยถึงข่าวยอดนิยมในโลกแห่งการขนส่งและพลังงานที่ยั่งยืน ในตอนของสัปดาห์นี้ เราจะพูดถึง Tesla ที่ฆ่า Solar Roof, การเปิดตัว Cybercab, Genesis GV90 และอีกมากมาย ตอนของวันนี้ได้รับการสนับสนุนโดย GM การชาร์จ GM EV เป็นเรื่องง่ายด้วย Energy Pass และ Plug and Charge เรียนรู้เพิ่มเติมที่ https://gmenergy.gm.com/energypass"
     },
     {
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 253.0,
-      "change": -5.0,
-      "change_pct": -1.94
+      "price": 252.0,
+      "change": -6.0,
+      "change_pct": -2.33
     }
   ],
   "reviews": [
