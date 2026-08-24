@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T09:35:31.309201+00:00",
+  "generated_at": "2026-08-24T12:22:38.973027+00:00",
   "count": 50,
   "articles": [
     {
@@ -65,6 +65,30 @@
     {
       "source": "The Verge",
       "flag": "US",
+      "category": "gadget",
+      "title_en": "De-Googled GrapheneOS is coming to Motorola’s foldables next year",
+      "summary_en": "GrapheneOS, an open source version of Android that prioritizes security and privacy, has detailed its plans for supporting Motorola smartphones. Official support is set to arrive next year, starting with traditional flagships, before rolling out to Motorola's foldable phones and perhaps cheaper models, eventually. In a Mastodon thread, the GrapheneOS Foundation announced that it will […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268559_Motorola_Razr_Ultra_2026_review_AJohnson_0006.jpg?quality=90&strip=all&crop=0.2%2C23.644654619152%2C89%2C69.912766149653&w=1200",
+      "link": "https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11",
+      "published": "2026-08-24T07:37:53-04:00",
+      "title_th": "De-Googled GrapheneOS กำลังจะมาในเครื่องพับได้ของ Motorola ในปีหน้า",
+      "summary_th": "GrapheneOS ซึ่งเป็นเวอร์ชันโอเพ่นซอร์สของ Android ที่ให้ความสำคัญกับความปลอดภัยและความเป็นส่วนตัว ได้ให้รายละเอียดแผนการรองรับสมาร์ทโฟน Motorola การสนับสนุนอย่างเป็นทางการมีกำหนดจะมาถึงในปีหน้า โดยเริ่มจากเรือธงแบบดั้งเดิม ก่อนที่จะเปิดตัวไปยังโทรศัพท์แบบพับได้ของ Motorola และรุ่นที่ราคาถูกกว่าในที่สุด ในกระทู้ Mastodon มูลนิธิ GrapheneOS ได้ประกาศว่าจะ […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Humanoid robots smash Usain Bolt’s 100-meter record",
+      "summary_en": "The 9.58-second 100-meter dash record set by Usain Bolt in 2009 has been outpaced by Chinese robots participating at the World Humanoid Robot Games in Beijing. In a preliminary heat on Saturday, Tiangong Ultra, made by the Beijing Humanoid Robot Innovation ​Center, ran the distance in 9.39 seconds, followed by the Honor-developed Lightning at 9.47 […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2291658389.jpg?quality=90&strip=all&crop=0%2C10.728819799005%2C100%2C78.54236040199&w=1200",
+      "link": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
+      "published": "2026-08-24T05:10:40-04:00",
+      "title_th": "หุ่นยนต์ฮิวแมนนอยด์ทำลายสถิติ 100 เมตรของ Usain Bolt",
+      "summary_th": "สถิติการวิ่ง 100 เมตรด้วยเวลา 9.58 วินาทีของยูเซน โบลต์ ในปี 2552 แซงหน้าหุ่นยนต์จีนที่เข้าร่วมการแข่งขันหุ่นยนต์ฮิวแมนนอยด์โลกในกรุงปักกิ่ง ในช่วงเบื้องต้นที่ร้อนระอุเมื่อวันเสาร์ Tiangong Ultra ซึ่งสร้างโดยศูนย์นวัตกรรมหุ่นยนต์ฮิวแมนนอยด์แห่งปักกิ่ง วิ่งได้ระยะทางด้วยเวลา 9.39 วินาที ตามมาด้วยสายฟ้าที่พัฒนาโดย Honor ที่เวลา 9.47 […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
       "category": "software",
       "title_en": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
       "summary_en": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release date twice, first to May 26th, 2026, then again to November 19th, 2026, a full year after […]",
@@ -96,31 +120,7 @@
       "link": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
       "published": "2026-08-23T08:00:00-04:00",
       "title_th": "Grand Theft Auto VI มีอยู่ในจักรวาลของตัวเอง",
-      "summary_th": "นี่คือ The Stepback ซึ่งเป็นจดหมายข่าวรายสัปดาห์ที่แจกแจงเรื่องราวสำคัญหนึ่งเรื่องจากโลกแห่งเทคโนโลยี หากต้องการข้อมูลเพิ่มเติมเกี่ยวกับ GTA VI และสถานะของอุตสาหกรรมวิดีโอเกม โปรดติดตาม Andrew Webster Stepback มาถึงกล่องจดหมายของสมาชิกของเราเวลา 8.00 น. ET เลือกใช้ The Stepback ที่นี่ มันเริ่มต้นอย่างไรเมื่อสี่ปีที่แล้ว แฟนๆ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
-      "summary_en": "Citing \"significant increases in memory and storage component costs,\" Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent, as first reported by Fortune. The cheapest products in Amazon's lineup were hit hardest, with the Echo Dot smart speaker jumping from $49.99 to $79.99. The Fire TV Stick 4K […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258034_Echo_Dot_Max_2025_JTuohy_0008.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
-      "published": "2026-08-22T09:41:01-04:00",
-      "title_th": "Amazon เพิ่งขึ้นราคาผลิตภัณฑ์ Echo, Fire TV และ Kindle สูงถึง 60 เปอร์เซ็นต์",
-      "summary_th": "Amazon ได้ขึ้นราคา Echos, Kindles, Fire TV และ Eeros ขึ้นถึง 60 เปอร์เซ็นต์ ตามที่ Fortune รายงานครั้งแรก โดยอ้างว่า \"ต้นทุนหน่วยความจำและส่วนประกอบการจัดเก็บข้อมูลเพิ่มขึ้นอย่างมีนัยสำคัญ\" สินค้าที่ถูกที่สุดในกลุ่มผลิตภัณฑ์ของ Amazon ได้รับผลกระทบหนักที่สุด โดยลำโพงอัจฉริยะ Echo Dot กระโดดจาก 49.99 ดอลลาร์เป็น 79.99 ดอลลาร์ Fire TV Stick 4K […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it",
-      "summary_en": "Laptop prices are out of whack. $500 used to get you a tolerable laptop, and $900 got you a really good one. They often had similar CPU, RAM, and storage options because that stuff was comparatively cheap; the difference was often in build quality and screen rather than power. But RAMageddon has thrown everything off. […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268709_HP_OmniBook_3_16_laptop_review_ADiBenedetto_0012.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
-      "published": "2026-08-22T09:00:00-04:00",
-      "title_th": "แล็ปท็อปโอเคที่มี RAM ขนาด 16GB นั้นดีกว่าแล็ปท็อปที่ดีที่มีขนาด 8GB และ HP OmniBook มูลค่า 520 ดอลลาร์นี้พิสูจน์ให้เห็นแล้ว",
-      "summary_th": "ราคาโน้ตบุ๊กไม่ธรรมดา 500 ดอลลาร์ทำให้คุณมีแล็ปท็อปที่ทนทาน และ 900 ดอลลาร์ทำให้คุณมีแล็ปท็อปที่ดีจริงๆ พวกเขามักจะมีตัวเลือก CPU, RAM และพื้นที่เก็บข้อมูลที่คล้ายกันเพราะว่าของเหล่านั้นมีราคาค่อนข้างถูก ความแตกต่างมักอยู่ที่คุณภาพการสร้างและหน้าจอมากกว่าพลังงาน แต่ RAMageddon ได้ละทิ้งทุกสิ่งทุกอย่างไป […]"
+      "summary_th": "นี่คือ The Stepback จดหมายข่าวรายสัปดาห์ที่แจกแจงเรื่องราวสำคัญหนึ่งเรื่องจากโลกแห่งเทคโนโลยี หากต้องการทราบข้อมูลเพิ่มเติมเกี่ยวกับ GTA VI และสถานะของอุตสาหกรรมวิดีโอเกม โปรดติดตาม Andrew Webster Stepback มาถึงกล่องจดหมายของสมาชิกของเราเวลา 8.00 น. ET เลือกใช้ The Stepback ที่นี่ มันเริ่มต้นอย่างไรเมื่อสี่ปีที่แล้ว แฟนๆ […]"
     },
     {
       "source": "Ars Technica",
@@ -179,8 +179,44 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg",
       "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
       "published": "Fri, 14 Aug 2026 17:03:54 +0000",
-      "title_th": "สถานี PBS กลัวการสูญเสียข้อมูล 50TB หลังจากถูกโกสต์โดยผู้ให้บริการพื้นที่เก็บข้อมูลบนคลาวด์",
+      "title_th": "สถานี PBS กลัวสูญเสียข้อมูล 50TB หลังจากถูกโกสต์โดยผู้ให้บริการพื้นที่เก็บข้อมูลบนคลาวด์",
       "summary_th": "“เราไม่สามารถเข้าถึงข้อมูลบนฮาร์ดแวร์/เซิร์ฟเวอร์ได้” Iron Mountain กล่าวกับ Ars"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "review",
+      "title_en": "Birdfy Nest Duo Review: My Own Private Nature Documentary",
+      "summary_en": "The dual-camera Birdfy Nest Duo gave me an astonishingly intimate look at everything from nest building to fledging.",
+      "image": "https://media.wired.com/photos/6a8a07d6381fc48bef281868/master/pass/Review--Birdfy-Nest-Duo.jpg",
+      "link": "https://www.wired.com/review/birdfy-nest-duo/",
+      "published": "Mon, 24 Aug 2026 11:30:00 +0000",
+      "title_th": "รีวิว Birdfy Nest Duo: สารคดีธรรมชาติส่วนตัวของฉันเอง",
+      "summary_th": "กล้องคู่ Birdfy Nest Duo ช่วยให้ฉันได้เห็นทุกอย่างอย่างใกล้ชิดตั้งแต่การสร้างรังไปจนถึงการกระโดดหนี"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "The Kindle Accessories I Never Want to Read Without (2026)",
+      "summary_en": "Looking to better protect your Kindle or add a little personality to your favorite e-reader? From cases and covers to page turners and even charms, this is the guide for you.",
+      "image": "https://media.wired.com/photos/6a8a015eeed0f12a3b23afcb/master/pass/The-Best-Kindle-Accessories-.jpg",
+      "link": "https://www.wired.com/story/best-kindle-accessories/",
+      "published": "Mon, 24 Aug 2026 11:09:00 +0000",
+      "title_th": "อุปกรณ์เสริม Kindle ที่ฉันไม่เคยอยากอ่านหากไม่มี (2026)",
+      "summary_th": "กำลังมองหาการปกป้อง Kindle ของคุณให้ดีขึ้นหรือเพิ่มบุคลิกเล็กๆ น้อยๆ ให้กับ e-reader ที่คุณชื่นชอบใช่ไหม? ตั้งแต่เคสและปกไปจนถึงเครื่องพลิกหน้าและแม้แต่เครื่องราง นี่คือคำแนะนำสำหรับคุณ"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "The Best Multiuse Air Purifier for Home in 2026: BlueAir, Rabbit Air, Dreame",
+      "summary_en": "These WIRED-tested dual-purpose air purifiers also function as heaters, fans, art pieces, and more, offering the best of both worlds.",
+      "image": "https://media.wired.com/photos/6a89ff0f423b44b6336c94c7/master/pass/The-Best-Multiuse-Air-Purifiers.jpg",
+      "link": "https://www.wired.com/story/best-multi-use-air-purifiers/",
+      "published": "Mon, 24 Aug 2026 10:00:00 +0000",
+      "title_th": "เครื่องฟอกอากาศอเนกประสงค์ที่ดีที่สุดสำหรับบ้านในปี 2569: BlueAir, Rabbit Air, Dreame",
+      "summary_th": "เครื่องฟอกอากาศอเนกประสงค์ที่ทดสอบโดย WIRED เหล่านี้ยังทำหน้าที่เป็นเครื่องทำความร้อน พัดลม งานศิลปะ และอื่นๆ อีกมากมาย มอบสิ่งที่ดีที่สุดจากทั้งสองโลก"
     },
     {
       "source": "Wired",
@@ -207,40 +243,16 @@
       "summary_th": "กล้องโทรทรรศน์อวกาศโรมันแนนซี เกรซ คาดว่าจะค้นพบดาวเคราะห์ใหม่ได้มากถึง 200,000 ดวง และเปิดเผยรายละเอียดเกี่ยวกับธรรมชาติที่เข้าใจยากของสสารมืดและพลังงานมืด"
     },
     {
-      "source": "Wired",
-      "flag": "US",
-      "category": "review",
-      "title_en": "Asus ROG Swift RGB Stripe OLED Review: Clarity King",
-      "summary_en": "The Asus PG27UCWM brings a new sub-pixel layout to the world of OLED gaming monitors, and in my testing, I appreciated the improvements it brings to the table.",
-      "image": "https://media.wired.com/photos/6a8929628708f4555b819a56/master/pass/Review--ROG-Swift-RGB-Stripe-OLED-Gaming-Monitor.jpg",
-      "link": "https://www.wired.com/review/asus-rog-swift-rgb-stripe-oled-pg27ucwm/",
-      "published": "Sun, 23 Aug 2026 13:00:00 +0000",
-      "title_th": "รีวิว Asus ROG Swift RGB Stripe OLED: Clarity King",
-      "summary_th": "Asus PG27UCWM นำเค้าโครงพิกเซลย่อยใหม่มาสู่โลกของจอภาพเกม OLED และในการทดสอบของฉัน ฉันชื่นชมการปรับปรุงที่นำมาสู่โต๊ะ"
-    },
-    {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
       "category": "ai",
-      "title_en": "What’s the Best Kindle of 2026? (So Far)",
-      "summary_en": "I’ve tested every single Kindle. Here’s how Amazon’s ebook readers stack up.",
-      "image": "https://media.wired.com/photos/6a88ef8c4075e316e6a0b3e0/master/pass/I-Tried-the-Best-Kindles-to-Take-Your-Library-Anywhere.jpg",
-      "link": "https://www.wired.com/gallery/best-kindle/",
-      "published": "Sun, 23 Aug 2026 11:03:00 +0000",
-      "title_th": "Kindle ที่ดีที่สุดของปี 2026 คืออะไร? (จนถึงตอนนี้)",
-      "summary_th": "ฉันได้ทดสอบ Kindle ทุกเครื่องแล้ว นี่คือวิธีที่เครื่องอ่าน ebook ของ Amazon ซ้อนกัน"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Transistors Changed Everything. Here’s How They Work",
-      "summary_en": "How a tiny little electronic switch sparked the computer revolution.",
-      "image": "https://media.wired.com/photos/6a88b75d2438af34fcfaad63/master/pass/Science_TransistorsChangedEverything_v1-ezgif.com-video-to-gif-converter.gif",
-      "link": "https://www.wired.com/story/transistors-changed-everything-heres-how-they-work/",
-      "published": "Sun, 23 Aug 2026 11:00:00 +0000",
-      "title_th": "ทรานซิสเตอร์เปลี่ยนแปลงทุกสิ่ง นี่คือวิธีการทำงาน",
-      "summary_th": "สวิตช์อิเล็กทรอนิกส์เล็กๆ น้อยๆ จุดประกายให้เกิดการปฏิวัติคอมพิวเตอร์ได้อย่างไร"
+      "title_en": "The Download: kids outlearning AI, and space travel agents",
+      "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn through a hundred thousand times…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/3_HighChair-crop.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+      "published": "Mon, 24 Aug 2026 12:10:00 +0000",
+      "title_th": "ดาวน์โหลด: เด็กๆ ที่เรียนรู้ AI ได้ดี และตัวแทนการเดินทางในอวกาศ",
+      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี เด็กๆ เรียนรู้เร็วกว่า AI และเรายังไม่รู้ว่าทำไมการสอนคอมพิวเตอร์ให้ใช้ภาษามนุษย์จึงต้องใช้ข้อมูลจำนวนมหาศาล LLM สามารถปั่นเป็นแสนครั้งได้อย่างง่ายดาย..."
     },
     {
       "source": "MIT Technology Review",
@@ -252,7 +264,7 @@
       "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
       "published": "Mon, 24 Aug 2026 09:00:00 +0000",
       "title_th": "เด็กๆ ได้เรียนรู้ AI เร็วกว่า และเรายังไม่รู้ว่าทำไม",
-      "summary_th": "ผู้คนพูดคุยกันมานานอย่างน้อย 100,000 ปี เท่าที่เราทราบได้ และตลอดระยะเวลานั้น มีเพียงสิ่งเดียวในโลกที่สามารถเรียนรู้ภาษามนุษย์เพื่อความคล่องได้อย่างสมบูรณ์แบบ นั่นก็คือ เด็กที่เป็นมนุษย์ ตอนนี้มีสองคน สี่ปีสั้นๆ หลังจากการเปิดตัว ChatGPT..."
+      "summary_th": "ผู้คนพูดคุยกันมานานอย่างน้อย 100,000 ปี เท่าที่เราสามารถบอกได้ และตลอดเวลานั้น มีเพียงสิ่งเดียวในโลกที่สามารถเรียนรู้ภาษามนุษย์เพื่อความคล่องได้อย่างสมบูรณ์แบบ นั่นก็คือ เด็กที่เป็นมนุษย์ ตอนนี้มีสองคน สี่ปีสั้นๆ หลังจากการเปิดตัว ChatGPT..."
     },
     {
       "source": "MIT Technology Review",
@@ -291,16 +303,28 @@
       "summary_th": "เมื่อบริษัทเทคโนโลยีชีวภาพ Insilico Medicine ใช้แบบจำลองคอมพิวเตอร์เพื่อเสนอยาที่มีศักยภาพสำหรับการเกิดพังผืดในปอด บริษัทได้กล่าวอ้างอย่างกระตือรือร้นในการแถลงข่าวว่าโมเลกุลดังกล่าวได้รับการ “ค้นพบโดย” แพลตฟอร์ม AI ที่สร้างมาของมัน Insilico เป็นผู้นำกลุ่มบริษัทที่ใช้ AI เพื่อคิดค้นแนวคิดเรื่องยาที่มนุษย์อาจไม่เคยคิดมาก่อน"
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "gadget",
-      "title_en": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
-      "summary_en": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US company Reflect Orbital plans to launch a test satellite called Eärendil-1 that will extend an 18-by-18-meter mirror in orbit. The…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/space-mirror3.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
-      "published": "Fri, 21 Aug 2026 09:00:00 +0000",
-      "title_th": "แผนการของบริษัทนี้ในการปรับใช้กระจกอวกาศอาจเป็นอันตรายต่อท้องฟ้ายามค่ำคืนสำหรับหลาย ๆ คน",
-      "summary_th": "บริษัทที่วางแผนจะส่งแสงอาทิตย์จากอวกาศสู่โลกตามความต้องการอาจทำให้ท้องฟ้ายามค่ำคืนสว่างขึ้นโดยไม่ได้ตั้งใจสำหรับผู้คนจำนวนมากเกินกว่าที่ตั้งใจไว้ ตามการศึกษาใหม่ ปลายปีนี้ บริษัท Reflect Orbital ของสหรัฐฯ วางแผนที่จะส่งดาวเทียมทดสอบชื่อ Eärendil-1 ที่จะขยายวงโคจรกระจกขนาด 18 x 18 เมตร การ..."
+      "category": "chip",
+      "title_en": "The new Shokz OpenFit Air 2 earbuds are nearly 20 percent lighter than the previous generation",
+      "summary_en": "They feature an open-ear design that reduces pressure and heat buildup.",
+      "image": "https://www.engadget.com/img/gallery/the-new-shokz-openfit-air-2-earbuds-are-nearly-20-percent-lighter-than-the-previous-generation/l-intro-1786118462.jpg",
+      "link": "https://www.engadget.com/2232481/new-shokz-openfit-air-2-earbuds/",
+      "published": "Mon, 24 Aug 2026 11:00:00 +0000",
+      "title_th": "หูฟัง Shokz OpenFit Air 2 ใหม่มีน้ำหนักเบากว่ารุ่นก่อนเกือบ 20 เปอร์เซ็นต์",
+      "summary_th": "มีการออกแบบแบบเปิดหูซึ่งช่วยลดแรงกดและการสะสมความร้อน"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Taiwan reportedly indicted NVIDIA employees for exporting prohibited AI servers to China",
+      "summary_en": "Even though the US has relaxed its restrictions of AI chip exports to China, illegal exports are apparently still taking place.",
+      "image": "https://www.engadget.com/img/gallery/taiwan-reportedly-indicted-nvidia-employees-for-exporting-prohibited-ai-servers-to-china/l-intro-1787565479.jpg",
+      "link": "https://www.engadget.com/2242415/taiwan-reportedly-indicted-nvidia-employees-for-exporting-prohibited-ai-servers-to-china/",
+      "published": "Mon, 24 Aug 2026 10:02:03 +0000",
+      "title_th": "มีรายงานว่าไต้หวันฟ้องพนักงาน NVIDIA ในการส่งออกเซิร์ฟเวอร์ AI ต้องห้ามไปยังประเทศจีน",
+      "summary_th": "แม้ว่าสหรัฐฯ จะผ่อนคลายข้อจำกัดในการส่งออกชิป AI ไปยังจีนแล้ว แต่การส่งออกที่ผิดกฎหมายยังคงเกิดขึ้นอยู่"
     },
     {
       "source": "Engadget",
@@ -339,28 +363,16 @@
       "summary_th": "และพวกเขาดูไร้สาระมากที่ทำแบบนั้น"
     },
     {
-      "source": "Engadget",
+      "source": "IEEE Spectrum",
       "flag": "US",
-      "category": "chip",
-      "title_en": "Why are there so many fast charging standards, and what's the difference between them?",
-      "summary_en": "A guide to the confusing world of USB-C fast charging.",
-      "image": "https://www.engadget.com/img/gallery/why-are-there-so-many-fast-charging-standards-and-whats-the-difference-between-them/l-intro-1787253133.jpg",
-      "link": "https://www.engadget.com/2241124/fast-charging-differenent-standards-explained/",
-      "published": "Sun, 23 Aug 2026 18:30:00 +0000",
-      "title_th": "เหตุใดมาตรฐานการชาร์จแบบเร็วจึงมีมากมาย และอะไรคือความแตกต่างระหว่างมาตรฐานเหล่านี้?",
-      "summary_th": "คำแนะนำเกี่ยวกับโลกอันสับสนของการชาร์จเร็ว USB-C"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Twitch and Amazon hit with lawsuit for training AI with streamers' content",
-      "summary_en": "The class action suit claims that Amazon never obtained consent from Twitch streamers to be used to train its AI models.",
-      "image": "https://www.engadget.com/img/gallery/twitch-and-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/l-intro-1787505971.jpg",
-      "link": "https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/",
-      "published": "Sun, 23 Aug 2026 17:39:26 +0000",
-      "title_th": "Twitch และ Amazon โดนฟ้องร้องในการฝึก AI ด้วยเนื้อหาของสตรีมเมอร์",
-      "summary_th": "คดีฟ้องร้องในชั้นเรียนอ้างว่า Amazon ไม่เคยได้รับความยินยอมจากสตรีมเมอร์ Twitch เพื่อใช้ฝึกโมเดล AI ของตน"
+      "category": "robot",
+      "title_en": "Poetry for Engineers: Safe Distance",
+      "summary_en": "How do I touch you across the ocean, across cold depths where light travels through glass. Not copper—fibers. Optical. Through liquid glass, through flickering light that carries you in fragments. Light broken into pulses. You say: it’s easier this way. What are we missing like this? You smile. Safe distance. I say: network. Signals slide beneath the sea, through cables thinner than trust, faster than touch, slower than longing. We stand alone, together. Synchronous, yet apart. Icons replace skin, latency replaces breath. This distance protects us. Silence that feels intentional. Everything is under control as long as nothing truly hurts. And we choose it because it shields us from what we might become if we actually met. You are my counterpoint. My response. My reflection at a safe distan",
+      "image": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-two-fiber-optic-cables-pointing-in-opposite-directions-with-each-one-inside-a-differently-colored-bu.jpg?id=67652120&width=980",
+      "link": "https://spectrum.ieee.org/poetry-for-engineers-safe-distance",
+      "published": "Sun, 23 Aug 2026 13:00:01 +0000",
+      "title_th": "บทกวีสำหรับวิศวกร: ระยะห่างที่ปลอดภัย",
+      "summary_th": "ฉันจะสัมผัสคุณข้ามมหาสมุทร ข้ามความลึกเย็นที่แสงเดินทางผ่านกระจกได้อย่างไร ไม่ใช่ทองแดง—เส้นใย ออปติคัล ผ่านกระจกเหลว ผ่านแสงริบหรี่ที่พาคุณเป็นชิ้นเล็กชิ้นน้อย แสงแตกออกเป็นจังหวะ คุณพูดว่า: วิธีนี้ง่ายกว่า แบบนี้เราจะขาดอะไรไปล่ะ? คุณยิ้ม. เว้นระยะห่างที่ปลอดภัย ฉันพูดว่า: เครือข่าย สัญญาณเลื่อนอยู่ใต้ทะเล ผ่านสายเคเบิลที่บางกว่าความไว้วางใจ เร็วกว่าการสัมผัส ช้ากว่าความปรารถนา เรายืนอยู่คนเดียวด้วยกัน ซิงโครนัสแต่แยกจากกัน ไอคอนมาแทนที่สกิน ความหน่วงเข้ามาแทนที่ลมหายใจ ระยะห่างนี้ปกป้องเรา ความเงียบที่ให้ความรู้สึกถึงความตั้งใจ ทุกอย่างอยู่ภายใต้การควบคุมตราบใดที่ไม่มีอะไรเจ็บปวดอย่างแท้จริง และเราเลือกมันเพราะมันปกป้องเราจากสิ่งที่เราอาจเป็นถ้าเราได้พบกันจริงๆ คุณคือจุดแตกต่างของฉัน คำตอบของฉัน. ภาพสะท้อนของฉันในระยะไกลที่ปลอดภัย"
     },
     {
       "source": "IEEE Spectrum",
@@ -372,7 +384,7 @@
       "link": "https://spectrum.ieee.org/ieee-senior-member-ai-ecommerce",
       "published": "Fri, 21 Aug 2026 18:00:01 +0000",
       "title_th": "สมาชิกอาวุโส IEEE รายนี้พัฒนาเครื่องมือ AI สำหรับไซต์อีคอมเมิร์ซ",
-      "summary_th": "Balaji Ingole ไม่ค่อยได้ดูโทรทัศน์ในขณะที่เติบโตในเมือง Udgir ประเทศอินเดีย ไม่มีใครในหมู่บ้านเล็กๆ ของรัฐมหาราษฏระที่มีคอมพิวเตอร์หรือโทรศัพท์ มีโทรทัศน์เพียงครัวเรือนเดียวเท่านั้น และเพื่อนบ้านมักรวมตัวกันที่นั่นเพื่อดูรายการต่างๆ ด้วยกัน Ingole ไม่เคยเห็นคอมพิวเตอร์เติบโตขึ้นมาเลยด้วยซ้ำ จนกระทั่งเขาถึงโรงเรียนมัธยมต้นเขาได้พบกับห้องแล็บคอมพิวเตอร์ ประสบการณ์ที่เขาบอกว่าเปลี่ยนชีวิตเขา เขากล่าวเกือบจะในทันที เครื่องจักรนี้รู้สึกเหมือนเป็นหน้าต่างที่เผยให้เห็นความเป็นไปได้ในระดับที่แตกต่างออกไปสำหรับเขา Balaji Ingole นายจ้าง Amla Commerce ใน Milwaukee ตำแหน่ง ผู้จัดการโครงการ สมาชิกระดับสมาชิกอาวุโส โรงเรียนเก่า COEP Technological University และ Welingkar Institute of Management ทั้งในอินเดีย “ฉันขยันมากและไม่ค่อยเข้าสังคม ชอบอ่านหรือแก้ปัญหาในหนังสือเรียนคณิตศาสตร์อยู่เสมอ” เขา"
+      "summary_th": "Balaji Ingole ไม่ค่อยได้ดูโทรทัศน์ในขณะที่เติบโตในเมือง Udgir ประเทศอินเดีย ไม่มีใครในหมู่บ้านเล็กๆ ของรัฐมหาราษฏระที่มีคอมพิวเตอร์หรือโทรศัพท์ มีโทรทัศน์เพียงครัวเรือนเดียวเท่านั้น และเพื่อนบ้านมักรวมตัวกันที่นั่นเพื่อดูรายการต่างๆ ด้วยกัน Ingole ไม่เคยเห็นคอมพิวเตอร์เติบโตขึ้นมาก่อนด้วยซ้ำ จนกระทั่งเขาถึงโรงเรียนมัธยมต้นเขาได้พบกับห้องแล็บคอมพิวเตอร์ ประสบการณ์ที่เขาบอกว่าเปลี่ยนชีวิตเขา เขากล่าวเกือบจะในทันที เครื่องจักรนี้รู้สึกเหมือนเป็นหน้าต่างที่เผยให้เห็นความเป็นไปได้ในระดับที่แตกต่างออกไปสำหรับเขา Balaji Ingole นายจ้าง Amla Commerce ใน Milwaukee ตำแหน่ง ผู้จัดการโครงการ สมาชิกระดับสมาชิกอาวุโส โรงเรียนเก่า COEP Technological University และ Welingkar Institute of Management ทั้งในอินเดีย “ฉันขยันมากและไม่ค่อยเข้าสังคม ชอบอ่านหรือแก้ปัญหาในหนังสือเรียนคณิตศาสตร์อยู่เสมอ” เขา"
     },
     {
       "source": "IEEE Spectrum",
@@ -411,16 +423,16 @@
       "summary_th": "องค์การอนามัยโลกระบุว่า ประมาณร้อยละ 16 ของประชากรโลก หรือมากกว่า 1 พันล้านคน อาศัยอยู่กับความพิการบางรูปแบบ ความพิการจำนวนมากส่งผลต่อความเป็นอิสระและความคล่องตัว นักเรียนมัธยมปลายสามคนที่ทำงานเกี่ยวกับสิ่งประดิษฐ์เพื่อช่วยคนพิการฟื้นฟูการเคลื่อนไหว แปลความคิด และสำรวจภูมิประเทศที่ขรุขระมีผลงานของพวกเขาจัดแสดงในงานวิทยาศาสตร์และวิศวกรรมนานาชาติ (ISEF) ของ Regeneron ซึ่งจัดขึ้นในเดือนพฤษภาคมที่เมืองฟีนิกซ์ โครงการของพวกเขาทำให้พวกเขาได้รับรางวัลทุนการศึกษา IEEE Presidents' Scholarship ในปีนี้ แมรี เอลเลน แรนดัลล์ ประธาน IEEE เป็นผู้มอบรางวัลในพิธีที่จัดขึ้นระหว่างงาน พวกเขายังได้รับเหรียญของ IEEE President ซึ่งนักเรียนกล่าวว่าเป็นจุดเด่นของประสบการณ์ของพวกเขา Hollie Tang ได้รับรางวัลทุนการศึกษา IEEE Presidents' Scholarship ประจำปีนี้"
     },
     {
-      "source": "IEEE Spectrum",
-      "flag": "US",
-      "category": "robot",
-      "title_en": "From AI Copilots to Agent Swarms",
-      "summary_en": "The impact of AI on software development has been both profound and ever-evolving. Last year, I wrote about AMD’s plans to use AI not just for generating new lines of code, but also for other steps in the software development lifecycle (SDLC), such as triaging problems, debugging code, and testing the software. At the time, we were hoping for a 25 percent productivity boost from AI use over the course of two or three years. But with each new release, the capabilities of large language models (LLMs) improve dramatically—accelerating software development, increasing the quality of AI-generated code, and fundamentally reshaping how software is engineered. Now, just one year later, we have surpassed our productivity target, achieving a 30 percent overall productivity boost through AI. On top o",
-      "image": "https://spectrum.ieee.org/media-library/colorful-3d-blocks-piled-behind-glass-panels-displaying-white-code-snippets.jpg?id=67609515&width=980",
-      "link": "https://spectrum.ieee.org/amd-agent-swarms",
-      "published": "Mon, 17 Aug 2026 14:00:01 +0000",
-      "title_th": "จาก AI Copilots สู่ Agent Swarms",
-      "summary_th": "ผลกระทบของ AI ต่อการพัฒนาซอฟต์แวร์นั้นลึกซึ้งและพัฒนาอยู่ตลอดเวลา ปีที่แล้ว ฉันเขียนเกี่ยวกับแผนการของ AMD ที่จะใช้ AI ไม่เพียงแต่สำหรับการสร้างบรรทัดใหม่ของโค้ดเท่านั้น แต่ยังรวมถึงขั้นตอนอื่นๆ ในวงจรการพัฒนาซอฟต์แวร์ (SDLC) เช่น ปัญหาในการคัดแยกโค้ด การดีบักโค้ด และการทดสอบซอฟต์แวร์ ในเวลานั้น เราหวังว่าจะเพิ่มประสิทธิภาพการทำงาน 25 เปอร์เซ็นต์จากการใช้ AI ในช่วงสองหรือสามปี แต่ในการเปิดตัวใหม่แต่ละครั้ง ความสามารถของโมเดลภาษาขนาดใหญ่ (LLM) จะปรับปรุงอย่างมาก โดยเป็นการเร่งการพัฒนาซอฟต์แวร์ เพิ่มคุณภาพของโค้ดที่สร้างโดย AI และปรับโฉมวิธีวิศวกรรมซอฟต์แวร์โดยพื้นฐาน ตอนนี้เพียงหนึ่งปีให้หลัง เราก็บรรลุเป้าหมายด้านการผลิตของเราแล้ว โดยบรรลุเป้าหมายการเพิ่มผลิตภาพโดยรวม 30 เปอร์เซ็นต์ผ่าน AI ข้างบนโอ้."
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "iOS 27 fixes three of the most annoying Messages bugs",
+      "summary_en": "iOS 27 focuses heavily on bug fixes and performance improvements across apps like Safari, Mail, Calendar, and more. In the Messages app, iOS 27 fixes what I think are three of the most frustrating bugs … and the update will be released to everyone in just a few weeks.",
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "link": "https://9to5mac.com/2026/08/24/ios-27-fixes-three-of-the-most-annoying-messages-bugs/",
+      "published": "Mon, 24 Aug 2026 12:11:38 +0000",
+      "title_th": "iOS 27 แก้ไขข้อบกพร่องข้อความที่น่ารำคาญที่สุดสามข้อ",
+      "summary_th": "iOS 27 มุ่งเน้นไปที่การแก้ไขจุดบกพร่องและปรับปรุงประสิทธิภาพของแอพต่างๆ เช่น Safari, Mail, Calendar และอื่นๆ เป็นอย่างมาก ในแอพ Messages iOS 27 ได้แก้ไขสิ่งที่ฉันคิดว่าเป็นข้อบกพร่องที่น่าหงุดหงิดที่สุดสามข้อ … และการอัปเดตจะเผยแพร่ให้กับทุกคนภายในเวลาเพียงไม่กี่สัปดาห์"
     },
     {
       "source": "9to5Mac",
@@ -468,19 +480,7 @@
       "link": "https://9to5mac.com/2026/08/23/heres-what-people-who-have-used-the-iphone-ultra-like-most/",
       "published": "Sun, 23 Aug 2026 14:41:50 +0000",
       "title_th": "นี่คือสิ่งที่ผู้ที่ใช้ iPhone Ultra ชอบมากที่สุด",
-      "summary_th": "อีกเพียงไม่กี่สัปดาห์ก็มีข่าวลือว่าจะเปิดตัว iPhone Ultra แบบพับได้ ดังที่เราได้เขียนไว้ก่อนหน้านี้ ความตื่นเต้นสำหรับอุปกรณ์กำลังเพิ่มมากขึ้น รายงานใหม่จาก Bloomberg ในวันนี้สรุปสิ่งที่ผู้คนใน Apple ที่ใช้ iPhone Ultra ชอบสิ่งนี้"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple Stores preparing ‘significant’ changes for new Home product launches: report",
-      "summary_en": "According to Bloomberg’s Mark Gurman , Apple is preparing significant changes at its retail stores in preparation for upcoming Home product launches. At the very least, Apple should debut a refreshed HomePod mini and Apple TV 4K this fall, though the changes would suggest a third, more significant product is also on its way.",
-      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/homepod-siri-ai-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "link": "https://9to5mac.com/2026/08/23/apple-preparing-for-homepod-mini-apple-tv-smart-home-launches/",
-      "published": "Sun, 23 Aug 2026 14:33:51 +0000",
-      "title_th": "Apple Stores เตรียมการเปลี่ยนแปลง 'สำคัญ' สำหรับการเปิดตัวผลิตภัณฑ์ Home ใหม่: รายงาน",
-      "summary_th": "ตามรายงานของ Mark Gurman ของ Bloomberg Apple กำลังเตรียมการเปลี่ยนแปลงที่สำคัญที่ร้านค้าปลีกเพื่อเตรียมพร้อมสำหรับการเปิดตัวผลิตภัณฑ์ Home ที่กำลังจะมาถึง อย่างน้อยที่สุด Apple ควรเปิดตัว HomePod mini และ Apple TV 4K ที่ได้รับการรีเฟรชในฤดูใบไม้ร่วงนี้ แม้ว่าการเปลี่ยนแปลงจะแนะนำผลิตภัณฑ์ที่สามซึ่งมีนัยสำคัญกว่าก็กำลังมาถึงเช่นกัน"
+      "summary_th": "อีกเพียงไม่กี่สัปดาห์ก็มีข่าวลือว่าจะเปิดตัว iPhone Ultra แบบพับได้ อย่างที่เราเคยเขียนไว้ก่อนหน้านี้ ความตื่นเต้นสำหรับอุปกรณ์กำลังเพิ่มมากขึ้น รายงานใหม่จาก Bloomberg ในวันนี้สรุปสิ่งที่ผู้คนใน Apple ที่ใช้ iPhone Ultra ชอบสิ่งนี้"
     },
     {
       "source": "9to5Google",
@@ -588,7 +588,7 @@
       "link": "https://electrek.co/2026/08/21/lectric-labor-day-e-bike-sale-ecoflow-4096wh-power-station-2549-flash-sale-more/",
       "published": "Fri, 21 Aug 2026 18:00:00 +0000",
       "title_th": "การขาย e-bike ของ Lectric Labor Day มอบส่วนลดสูงสุดถึง $694 + การลดราคา สถานีพลังงาน EcoFlow 4,096Wh $2,549 ในการขายแฟลช และอีกมากมาย",
-      "summary_th": "เรากำลังปิดข้อเสนอ Green Deal ของสัปดาห์นี้ด้วย Lectric Labor Day Sale ใหม่ ซึ่งเป็นผู้นำแพ็ค โดยเสนอสูงสุดถึง $694 สำหรับชุด e-bike + การลดราคา XPeak2 และ XPedition2 – ทั้งหมดนี้เริ่มต้นที่ $799 ถัดไป EcoFlow ได้เริ่มต้นการขายแฟลชพิเศษเฉพาะเว็บไซต์เป็นเวลา 4 วันด้วยข้อเสนอเช่น Power Station แบบพกพา DELTA Pro 3 ขนาด 4,096Wh ในราคา 2,549 ดอลลาร์ และอีกมากมายจาก 799 ดอลลาร์ นอกจากนี้เรายังมีเครื่องตัดสายไฟฟ้าไร้สายคาร์บอนไฟเบอร์ขนาด 16 นิ้วระดับพรีเมียมของ EGO พร้อม Line IQ และเทคโนโลยี POWERLOAD ในราคาต่ำเพียง 251 ดอลลาร์สหรัฐฯ ปี 2026 เครื่องจับเวลาน้ำอัจฉริยะ Wi-Fi แบบสองโซน meross ในราคาต่ำใหม่ 76 ดอลลาร์ เครื่องวัดสระว่ายน้ำอัจฉริยะ HydroComm ของ Aiper พร้อมคำแนะนำในการเพิ่มประสิทธิภาพ ไฟสวนพลังงานแสงอาทิตย์จาก Nanoleaf และอื่นๆ อีกมากมายรอคุณอยู่ด้านล่าง และอย่าลืมว่าเรามีข้อเสนออาการเมาค้างทั้งหมดจากสัปดาห์นี้ซึ่งอยู่ที่ด้านล่างของ"
+      "summary_th": "เรากำลังปิดข้อเสนอ Green Deal ของสัปดาห์นี้ด้วย Lectric Labor Day Sale ใหม่ ซึ่งเป็นผู้นำแพ็ค โดยเสนอสูงสุดถึง $694 สำหรับชุด e-bike + การลดราคา XPeak2 และ XPedition2 – ทั้งหมดนี้เริ่มต้นที่ $799 ถัดไป EcoFlow ได้เริ่มต้นการขายแฟลชพิเศษเฉพาะเว็บไซต์เป็นเวลา 4 วันด้วยข้อเสนอเช่น Power Station แบบพกพา DELTA Pro 3 ขนาด 4,096Wh ในราคา 2,549 ดอลลาร์ และอีกมากมายจาก 799 ดอลลาร์ นอกจากนี้เรายังมีเครื่องตัดสายไฟฟ้าไร้สายคาร์บอนไฟเบอร์ขนาด 16 นิ้วระดับพรีเมียมของ EGO พร้อม Line IQ และเทคโนโลยี POWERLOAD ในราคาต่ำเพียง 251 ดอลลาร์สหรัฐฯ ปี 2026 เครื่องจับเวลาน้ำอัจฉริยะ Wi-Fi แบบสองโซน meross ในราคาต่ำใหม่ 76 ดอลลาร์ เครื่องวัดสระว่ายน้ำอัจฉริยะ HydroComm ของ Aiper พร้อมคำแนะนำในการเพิ่มประสิทธิภาพ ไฟสวนพลังงานแสงอาทิตย์จาก Nanoleaf และอื่นๆ อีกมากมายรอคุณอยู่ด้านล่าง และอย่าลืมว่าเรามีข้อเสนออาการเมาค้างจากสัปดาห์นี้ซึ่งอยู่ที่ด้านล่างของ"
     },
     {
       "source": "Electrek",
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 252.0,
-      "change": -6.0,
-      "change_pct": -2.33
+      "price": 254.0,
+      "change": -4.0,
+      "change_pct": -1.55
     }
   ],
   "reviews": [
@@ -733,6 +733,16 @@
     {
       "channel": "Beartai",
       "country": "TH",
+      "title_en": "ถอดสูตร Metthier ลดต้นทุน-จัดการอาคารอัจฉริยะ ด้วย Smart FM Solution",
+      "video_id": "ehkZ5OVxkho",
+      "link": "https://www.youtube.com/watch?v=ehkZ5OVxkho",
+      "thumbnail": "https://i2.ytimg.com/vi/ehkZ5OVxkho/hqdefault.jpg",
+      "published": "2026-08-24T11:00:07+00:00",
+      "title_th": "ถอดสูตร Metthier ลดต้นทุน-จัดการอาคารอัจฉริยะ ด้วย Smart FM Solution"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
       "title_en": "เวทเทรนนิง จุดเริ่มต้นดีที่สุดของมือใหม่ ?",
       "video_id": "aYLmYmH9iSM",
       "link": "https://www.youtube.com/shorts/aYLmYmH9iSM",
@@ -751,14 +761,14 @@
       "title_th": "โจ๊ก So Cool ก่อน-หลังมีลูก"
     },
     {
-      "channel": "Beartai",
+      "channel": "Droidsans",
       "country": "TH",
-      "title_en": "เทคนิคมัดใจลูกค้าแบบ 'ตัน ภาสกรนที' #btbeartai #บุคคลล้มละลุก",
-      "video_id": "x9KHzf0kgFk",
-      "link": "https://www.youtube.com/shorts/x9KHzf0kgFk",
-      "thumbnail": "https://i1.ytimg.com/vi/x9KHzf0kgFk/hqdefault.jpg",
-      "published": "2026-08-22T06:03:14+00:00",
-      "title_th": "เทคนิคมัดใจลูกค้าแบบ 'ตัน ภาสกรนที' #btbeartai #บุคคลล้มละลุก"
+      "title_en": "รวมมือถือรุ่นโหด ลดเป็นหมื่น คัดมาแล้ว Samsung, iPhone, Xiaomi, OPPO, vivo, HONOR",
+      "video_id": "uUVtn5N9Uko",
+      "link": "https://www.youtube.com/watch?v=uUVtn5N9Uko",
+      "thumbnail": "https://i2.ytimg.com/vi/uUVtn5N9Uko/hqdefault.jpg",
+      "published": "2026-08-24T12:00:19+00:00",
+      "title_th": "รวมมือถือรุ่นโหด ลดเป็นหมื่น คัดมาแล้ว Samsung, iPhone, Xiaomi, OPPO, vivo, HONOR"
     },
     {
       "channel": "Droidsans",
@@ -779,16 +789,6 @@
       "thumbnail": "https://i4.ytimg.com/vi/wi13qbsU1aQ/hqdefault.jpg",
       "published": "2026-08-22T12:00:01+00:00",
       "title_th": "รอลุ้น OPPO FInd X10/ ขอเสียงคนรอ Galaxy S26 FE/ Huawei กับมือถือไซส์ใหม่ แบบกว้างๆ Pura X view"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "รีวิว HONOR Magic V6 จอพับสุดแกร่ง บางเบา แบตใหญ่ แถมใช้ปากกาได้ด้วย !",
-      "video_id": "pPnHkMoU7JE",
-      "link": "https://www.youtube.com/watch?v=pPnHkMoU7JE",
-      "thumbnail": "https://i1.ytimg.com/vi/pPnHkMoU7JE/hqdefault.jpg",
-      "published": "2026-08-21T06:00:19+00:00",
-      "title_th": "รีวิว HONOR Magic V6 จอพับสุดแกร่ง บางเบา แบตใหญ่ แถมใช้ปากกาได้ด้วย !"
     }
   ]
 }
