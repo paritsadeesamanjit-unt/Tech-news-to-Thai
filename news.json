@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-08-25T15:44:39.352129+00:00",
+  "generated_at": "2026-08-25T18:26:10.736578+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
+      "summary_en": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Save-Up-to-300-Horizontal.png?w=1200",
+      "link": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/",
+      "published": "Tue, 25 Aug 2026 18:01:30 +0000",
+      "title_th": "คืนนี้ถือเป็นโอกาสสุดท้ายของคุณในการประหยัดเงินได้สูงสุดถึง $300 ด้วยบัตร TechCrunch Disrupt 2026",
+      "summary_th": "หากคุณวนเวียนอยู่ใน Disrupt ตอนนี้เป็นเวลาที่ดีที่สุดในการล็อคบัตรผ่านของคุณและเริ่มเตรียมพร้อมที่จะเข้าร่วมชุมชนสตาร์ทอัพที่เหลือในซานฟรานซิสโกตั้งแต่วันที่ 13-15 ตุลาคมที่ Moscone West!"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Claude Cowork finally remembers what you told the app in chat",
+      "summary_en": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
+      "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "published": "Tue, 25 Aug 2026 17:50:33 +0000",
+      "title_th": "ในที่สุด Claude Cowork ก็จำสิ่งที่คุณบอกแอปได้ในการแชท",
+      "summary_th": "Anthropic ช่วยให้ Claude มีความทรงจำที่แชร์ผ่านการแชทและ Cowork ดังนั้นผู้ใช้จึงไม่จำเป็นต้องบรรยายสรุปเกี่ยวกับ AI เกี่ยวกับโปรเจ็กต์ ความชอบ และบริบทอื่นๆ ซ้ำๆ อีกต่อไป"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Waymo robotaxis are headed to Munich",
+      "summary_en": "Germany's autonomous vehicle regulations have made it a hotspot for autonomous vehicle testing and eventual commercial robotaxi deployment.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/waymo-SF-getty.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/",
+      "published": "Tue, 25 Aug 2026 17:32:03 +0000",
+      "title_th": "หุ่นยนต์แท็กซี่ Waymo กำลังมุ่งหน้าไปยังมิวนิก",
+      "summary_th": "กฎระเบียบด้านยานยนต์ไร้คนขับของเยอรมนีทำให้ที่นี่กลายเป็นจุดสำคัญสำหรับการทดสอบยานยนต์ไร้คนขับและการใช้งานโรบอตแท็กซี่เชิงพาณิชย์ในที่สุด"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "That fake Grand Theft Auto VI demo is actually just malware",
+      "summary_en": "Grand Theft Auto fans, eager for news about one of the most anticipated video games of all time, appear especially vulnerable to this new cyberattack.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/grand-theft-auto-2213757731.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/",
+      "published": "Tue, 25 Aug 2026 15:48:38 +0000",
+      "title_th": "การสาธิต Grand Theft Auto VI ปลอมนั้นแท้จริงแล้วเป็นเพียงมัลแวร์",
+      "summary_th": "แฟน ๆ ของ Grand Theft Auto ต่างกระตือรือร้นที่จะทราบข่าวเกี่ยวกับหนึ่งในวิดีโอเกมที่ได้รับการคาดหวังมากที่สุดตลอดกาล ปรากฏว่ามีความเสี่ยงเป็นพิเศษต่อการโจมตีทางไซเบอร์ครั้งใหม่นี้"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -11,116 +59,68 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/pacific-fusion-pulser-prototype-end.jpeg?resize=1200,800",
       "link": "https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power/",
       "published": "Tue, 25 Aug 2026 15:30:00 +0000",
-      "title_th": "Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power",
-      "summary_th": "Fusion startup Pacific Fusion broke ground on a demonstration facility in New Mexico that it says will generate enough energy to power itself."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Gamma acquires Accel-backed design startup Lica",
-      "summary_en": "Lica co-founders are going to work on Gamma's new research team.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/R6II0507.jpg?resize=1200,960",
-      "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-      "published": "Tue, 25 Aug 2026 15:00:00 +0000",
-      "title_th": "Gamma acquires Accel-backed design startup Lica",
-      "summary_th": "Lica co-founders are going to work on Gamma's new research team."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Apple rescues Hide My Email feature from the privacy scrap heap",
-      "summary_en": "Apple says it will no longer ditch using its icloud.com domain for hiding people's email addresses.",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key-red.jpg?resize=1200,675",
-      "link": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
-      "published": "Tue, 25 Aug 2026 14:46:32 +0000",
-      "title_th": "Apple rescues Hide My Email feature from the privacy scrap heap",
-      "summary_th": "Apple says it will no longer ditch using its icloud.com domain for hiding people's email addresses."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "summary_en": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Jalapeno-chip-final.jpeg?resize=1200,900",
-      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-      "published": "Tue, 25 Aug 2026 14:22:04 +0000",
-      "title_th": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "summary_th": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
-      "summary_en": "Apple unveils these new processors alongside an updated Mac Mini and Mac Studio.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Apple-M6-and-M5-Ultra-hero-260825_big.jpg.medium_2x.jpg?resize=1200,675",
-      "link": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/",
-      "published": "Tue, 25 Aug 2026 14:10:36 +0000",
-      "title_th": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
-      "summary_th": "Apple unveils these new processors alongside an updated Mac Mini and Mac Studio."
+      "title_th": "เครื่องฟิวชันถัดไปของ Pacific Fusion สามารถขจัดอุปสรรคสำคัญสู่อำนาจเชิงพาณิชย์ได้",
+      "summary_th": "Pacific Fusion สตาร์ทอัพด้านฟิวชั่น บุกเบิกโรงงานสาธิตในนิวเม็กซิโก โดยระบุว่าจะสร้างพลังงานได้มากพอที่จะให้พลังงานแก่ตัวมันเอง"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "software",
-      "title_en": "Apple’s ‘new’ polishing cloth is the same except $10 cheaper",
-      "summary_en": "Apple just dropped a new polishing cloth, and unlike its refreshed Mac Mini models, it comes with a price cut, as spotted earlier by MacRumors. The polishing cloth is still \"made with soft, nonabrasive material\" but costs $9 instead of $19. It doesn't look like anything else has changed, as the description matches an archived […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/polishing-cloth.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
-      "link": "https://www.theverge.com/tech/984353/apple-polishing-cloth-cheaper",
-      "published": "2026-08-25T10:25:52-04:00",
-      "title_th": "Apple’s ‘new’ polishing cloth is the same except $10 cheaper",
-      "summary_th": "Apple just dropped a new polishing cloth, and unlike its refreshed Mac Mini models, it comes with a price cut, as spotted earlier by MacRumors. The polishing cloth is still \"made with soft, nonabrasive material\" but costs $9 instead of $19. It doesn't look like anything else has changed, as the description matches an archived […]"
+      "title_en": "Take a look at Microsoft’s new 25th anniversary Halo accessories",
+      "summary_en": "The new Designed for Xbox 25th Anniversary collection features a handful of limited edition gadgets available for pre-order today. Paying homage to the Halo special edition of the original Xbox, almost everything in the collection is translucent \"OG Green,\" matching the Xbox Series X25 limited edition console it announced in June at E3. That includes […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/xbox-25th-anniversary-hero.jpg?quality=90&strip=all&crop=0%2C2.739092495637%2C100%2C93.077370564282&w=1200",
+      "link": "https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories",
+      "published": "2026-08-25T14:16:29-04:00",
+      "title_th": "ดูอุปกรณ์เสริม Halo ครบรอบ 25 ปีใหม่ของ Microsoft",
+      "summary_th": "คอลเลกชัน Designed for Xbox 25th Anniversary ใหม่ประกอบด้วยอุปกรณ์รุ่นจำกัดจำนวนหนึ่งพร้อมให้สั่งซื้อล่วงหน้าได้แล้ววันนี้ เพื่อเป็นการแสดงความเคารพต่อ Halo รุ่นพิเศษของ Xbox ดั้งเดิม เกือบทุกอย่างในคอลเลกชันนี้เป็น \"OG Green\" โปร่งแสง ซึ่งตรงกับคอนโซล Xbox Series X25 รุ่นลิมิเต็ดที่ประกาศเมื่อเดือนมิถุนายนที่ E3 นั่นรวมถึง […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "software",
-      "title_en": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-      "summary_en": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalapeño offers the \"best of both worlds\" with lower latency and higher throughput, as AI systems […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jalapeno-chip-final.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-      "published": "2026-08-25T10:00:00-04:00",
-      "title_th": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-      "summary_th": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalapeño offers the \"best of both worlds\" with lower latency and higher throughput, as AI systems […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Where to preorder the updated Mac Mini and Mac Studio",
-      "summary_en": "Apple has announced two new processors, the M6 and M5 Ultra, as well as updated Mac Mini and Mac studio machines powered by them. The new machines are already available for preorder directly from Apple, with shipping for most configurations starting on September 22nd, 2026. The Mac Mini starts at $899, $300 more than the […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Mac-Mini-M6-M5Ultra-preorder-featured.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/gadgets/984096/mac-mini-mac-studio-m5-m6-ultra-preorder",
-      "published": "2026-08-25T09:02:18-04:00",
-      "title_th": "Where to preorder the updated Mac Mini and Mac Studio",
-      "summary_th": "Apple has announced two new processors, the M6 and M5 Ultra, as well as updated Mac Mini and Mac studio machines powered by them. The new machines are already available for preorder directly from Apple, with shipping for most configurations starting on September 22nd, 2026. The Mac Mini starts at $899, $300 more than the […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "The lens in Wyze’s new $40 indoor camera retracts for privacy",
-      "summary_en": "Wyze announced a new pan-and-tilt security camera today designed for indoor use. The entire Indoor Cam Pan can rotate 360 degrees, while the camera and lens on its front can tilt up and down 103 degrees. When you want privacy, the lens can tilt down until it completely disappears inside the Indoor Cam Pan's body […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/wyze1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/961785/wyze-indoor-cam-pan-tilt-2k-night-vision",
-      "published": "2026-08-25T09:00:00-04:00",
-      "title_th": "The lens in Wyze’s new $40 indoor camera retracts for privacy",
-      "summary_th": "Wyze announced a new pan-and-tilt security camera today designed for indoor use. The entire Indoor Cam Pan can rotate 360 degrees, while the camera and lens on its front can tilt up and down 103 degrees. When you want privacy, the lens can tilt down until it completely disappears inside the Indoor Cam Pan's body […]"
+      "title_en": "Gamescom Opening Night Live 2026: The biggest announcements and trailers",
+      "summary_en": "It’s time for another Geoff Keighley-hosted blast of gaming news. Gamescom’s two-hour Opening Night Live event is scheduled to kick off on Tuesday at 2PM ET, with a preshow starting 30 minutes before. Thanks to teases on social media, we already have some idea of what to expect, including looks at Final Fantasy VII Revelation, […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKE009_Game_Awards_2025_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/games/983891/gamescom-opening-night-live-2026-geoff-keighley",
+      "published": "2026-08-25T13:20:00-04:00",
+      "title_th": "Gamescom Opening Night Live 2026: ประกาศและตัวอย่างที่ยิ่งใหญ่ที่สุด",
+      "summary_th": "ถึงเวลาสำหรับข่าวการเล่นเกมที่ Geoff Keighley เป็นเจ้าภาพอีกครั้ง งาน Opening Night Live ความยาวสองชั่วโมงของ Gamescom มีกำหนดจะเริ่มในวันอังคาร เวลา 14.00 น. ET โดยการแสดงก่อนเริ่ม 30 นาทีก่อน ต้องขอบคุณการหยอกล้อบนโซเชียลมีเดีย เราจึงมีไอเดียอยู่แล้วว่าจะเกิดอะไรขึ้น รวมถึงการดู Final Fantasy VII Revelation, […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "gadget",
-      "title_en": "Uber is letting parents check in on their teens through drivers’ selfie cameras",
-      "summary_en": "Uber is updating its teen account feature to allow parents to use the selfie cameras on Uber drivers' phones to check in on their teenage children during ridehail trips. Since first launching teen accounts in 2023, Uber has touted the myriad ways parents can keep tabs on their children, from PIN verification to live GPS […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK106__01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/transportation/983926/uber-teen-account-live-video-driver-selfie-camera",
-      "published": "2026-08-25T09:00:00-04:00",
-      "title_th": "Uber is letting parents check in on their teens through drivers’ selfie cameras",
-      "summary_th": "Uber is updating its teen account feature to allow parents to use the selfie cameras on Uber drivers' phones to check in on their teenage children during ridehail trips. Since first launching teen accounts in 2023, Uber has touted the myriad ways parents can keep tabs on their children, from PIN verification to live GPS […]"
+      "title_en": "Instagram’s ‘First Draft’ trims your Reels clips for you",
+      "summary_en": "Instagram is launching a new Reels-editing feature that automatically trims your video clips to focus on the highlights. The feature, called First Draft, is rolling out to Instagram's iPhone app and provides a \"starting point\" that you can build upon with other edits, according to an announcement on Tuesday. An example shared by Instagram shows […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/insta-first-draft.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
+      "link": "https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels",
+      "published": "2026-08-25T13:12:31-04:00",
+      "title_th": "'First Draft' ของ Instagram ตัดแต่งคลิป Reels ของคุณให้คุณ",
+      "summary_th": "Instagram กำลังเปิดตัวฟีเจอร์การแก้ไข Reels ใหม่ที่จะตัดแต่งคลิปวิดีโอของคุณโดยอัตโนมัติเพื่อเน้นไปที่ไฮไลท์ คุณลักษณะนี้เรียกว่า First Draft กำลังเปิดตัวในแอป iPhone ของ Instagram และเป็น \"จุดเริ่มต้น\" ที่คุณสามารถสร้างต่อยอดด้วยการแก้ไขอื่นๆ ตามประกาศเมื่อวันอังคาร ตัวอย่างที่แชร์โดย Instagram แสดงให้เห็นว่า […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen",
+      "summary_en": "With the new design of Nothing OS 5.0, app icons and widgets can use adaptive color to get color tints pulled from your wallpaper, which update whenever your wallpaper changes. Alongside Android's built-in Dynamic Colors, the company says it allows you to have specific elements change to match your wallpaper \"while Nothing's predominantly monochrome character […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/nothing-os-5-customization.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "link": "https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17",
+      "published": "2026-08-25T12:58:53-04:00",
+      "title_th": "ไม่มี OS 5.0 ใดที่นำแอพ Glyph Interface ใหม่และหน้าจอหลักที่ปรับแต่งได้มากขึ้น",
+      "summary_th": "ด้วยดีไซน์ใหม่ของ Nothing OS 5.0 ไอคอนแอพและวิดเจ็ตสามารถใช้สีที่ปรับเปลี่ยนได้เพื่อดึงโทนสีจากวอลเปเปอร์ของคุณ ซึ่งจะอัปเดตทุกครั้งที่วอลเปเปอร์ของคุณเปลี่ยน นอกเหนือจาก Dynamic Colours ในตัวของ Android แล้ว บริษัทยังกล่าวว่าช่วยให้คุณสามารถเปลี่ยนองค์ประกอบเฉพาะเพื่อให้เข้ากับวอลเปเปอร์ของคุณ \"ในขณะที่ไม่มีอักขระขาวดำที่โดดเด่น [ ... ]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "GeForce Now is getting support for the Steam Controller",
+      "summary_en": "Nvidia's GeForce Now cloud gaming service will officially support Valve's Steam Controller and Steam Machine starting later this year. With Steam Controller support, you'll be able to play games with Valve's great new gamepad when using the GeForce Now app on your Steam Deck or Steam Machine. If you're using GeForce Now on Windows or […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0082.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support",
+      "published": "2026-08-25T12:47:15-04:00",
+      "title_th": "GeForce Now is getting support for the Steam Controller",
+      "summary_th": "บริการเกมบนคลาวด์ GeForce Now ของ Nvidia จะรองรับ Steam Controller และ Steam Machine ของ Valve อย่างเป็นทางการในปลายปีนี้ ด้วยการรองรับ Steam Controller คุณจะสามารถเล่นเกมด้วยเกมแพดใหม่อันยอดเยี่ยมของ Valve ได้เมื่อใช้แอป GeForce Now บน Steam Deck หรือ Steam Machine ของคุณ หากคุณใช้ GeForce Now บน Windows หรือ […]"
     },
     {
       "source": "Ars Technica",
@@ -131,8 +131,8 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/browser-fingerprint-1000x648.jpeg",
       "link": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
       "published": "Mon, 24 Aug 2026 19:19:21 +0000",
-      "title_th": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
-      "summary_th": "Is the technique outdated? Yes. Is it still creepy? Also yes."
+      "title_th": "เสียงที่ไม่ได้ยินที่ใช้ในเบราว์เซอร์ลายนิ้วมือจะตรวจจับ AliExpress มือแดง",
+      "summary_th": "เทคนิคนี้ล้าสมัยหรือไม่? ใช่. มันยังน่าขนลุกอยู่เหรอ? ใช่เช่นกัน"
     },
     {
       "source": "Ars Technica",
@@ -143,8 +143,8 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_8bad1114-5b27-4fc9-8102-1cb63e7f76fb-1152x648.jpeg",
       "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
       "published": "Fri, 21 Aug 2026 13:11:35 +0000",
-      "title_th": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
-      "summary_th": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services."
+      "title_th": "Waymo เพิ่มการใช้จ่ายสองเท่าในการล็อบบี้ในการต่อสู้ robotaxi กับ Uber",
+      "summary_th": "บริษัทที่เป็นเจ้าของ Alphabet กำลังพยายามชักชวนหน่วยงานกำกับดูแลของสหรัฐฯ ให้เปิดทางสำหรับบริการแท็กซี่ไร้คนขับเต็มรูปแบบ"
     },
     {
       "source": "Ars Technica",
@@ -156,7 +156,7 @@
       "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
       "published": "Thu, 20 Aug 2026 13:00:35 +0000",
       "title_th": "Grok exfiltrates user data when malicious instructions are encrypted",
-      "summary_th": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail."
+      "summary_th": "Cryptographic Context Injection เป็นเพียงวิธีใหม่ล่าสุดในการทำลายรั้วความปลอดภัยของ LLM"
     },
     {
       "source": "Ars Technica",
@@ -167,8 +167,8 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg",
       "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
       "published": "Tue, 18 Aug 2026 13:00:04 +0000",
-      "title_th": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-      "summary_th": "Secret parameter allowed hackers to steal passwords when a target clicked on a link."
+      "title_th": "Microsoft Copilot เปิดเผยข้อมูลลับที่อนุญาตให้แฮ็กได้",
+      "summary_th": "พารามิเตอร์ลับอนุญาตให้แฮกเกอร์ขโมยรหัสผ่านเมื่อเป้าหมายคลิกลิงก์"
     },
     {
       "source": "Ars Technica",
@@ -179,8 +179,8 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_116f79c4-b712-471b-b46a-ace5e4d7dda4.avif",
       "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
       "published": "Mon, 17 Aug 2026 14:22:54 +0000",
-      "title_th": "Nvidia discloses $21B stake in SpaceX",
-      "summary_th": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers."
+      "title_th": "Nvidia เปิดเผยสัดส่วนการถือหุ้น 21 พันล้านดอลลาร์ใน SpaceX",
+      "summary_th": "การยื่นฟ้องเกิดขึ้นหลังจากที่ Elon Musk ประกาศข้อตกลงพิเศษในการติดตั้งศูนย์ข้อมูล"
     },
     {
       "source": "Wired",
@@ -191,8 +191,8 @@
       "image": "https://media.wired.com/photos/6a8357e533de3b388535fa56/master/pass/Politics_Here's%20What%20The%20Supreme%20Court%20Mail-In%20Ballot%20Ruling%20Means%20For%20the%20Mid-Terms_v2.jpg",
       "link": "https://www.wired.com/story/the-supreme-courts-mail-in-ballot-ruling-is-a-step-toward-chaos-in-the-midterms/",
       "published": "Tue, 25 Aug 2026 15:16:36 +0000",
-      "title_th": "The Supreme Court’s Mail-In Ballot Ruling Is a Step Toward Chaos in the Midterms",
-      "summary_th": "The Supreme Court has removed one roadblock from the Trump administration’s attempts to impose severe restrictions on voting."
+      "title_th": "คำตัดสินของศาลฎีกาในการลงคะแนนเสียงทางไปรษณีย์ถือเป็นก้าวหนึ่งของความวุ่นวายในช่วงกลางภาค",
+      "summary_th": "ศาลฎีกาได้ยกเลิกสิ่งกีดขวางบนถนนหนึ่งรายการจากความพยายามของฝ่ายบริหารของทรัมป์ที่จะกำหนดข้อจำกัดที่เข้มงวดในการลงคะแนนเสียง"
     },
     {
       "source": "Wired",
@@ -203,8 +203,8 @@
       "image": "https://media.wired.com/photos/6a8cd6272044b2ad4fc09b20/master/pass/Apple-Mac-mini-lifestyle-productivity.png",
       "link": "https://www.wired.com/story/apple-announces-m6-and-m5-ultra-mac-mini-mac-studio/",
       "published": "Tue, 25 Aug 2026 13:00:00 +0000",
-      "title_th": "Apple Mac Mini M6 and Mac Studio M5 Ultra: Specs, Price, Release Date",
-      "summary_th": "Apple’s Mac Mini and Mac Studio have been tough to buy for months, but updated versions have arrived. Both include new chips optimized for AI, with the M6 Mac Mini getting a $200 price bump."
+      "title_th": "Apple Mac Mini M6 และ Mac Studio M5 Ultra: ข้อมูลจำเพาะ ราคา วันที่วางจำหน่าย",
+      "summary_th": "Mac Mini และ Mac Studio ของ Apple หาซื้อได้ยากมานานหลายเดือน แต่มีเวอร์ชันอัปเดตมาถึงแล้ว ทั้งสองมีชิปใหม่ที่ปรับให้เหมาะกับ AI โดย M6 Mac Mini มีราคาเพิ่มขึ้น 200 ดอลลาร์"
     },
     {
       "source": "Wired",
@@ -215,7 +215,7 @@
       "image": "https://media.wired.com/photos/6a8cd5bc02f10e19f4a61a9c/master/pass/The-Best-Car-Phone-Mounts-for-Hands-Free-Driving.jpg",
       "link": "https://www.wired.com/story/best-car-phone-mounts-and-holders/",
       "published": "Tue, 25 Aug 2026 11:08:00 +0000",
-      "title_th": "The 4 Best Car Phone Mounts I’ve Tried (2026): Belkin, Andery, Andobil",
+      "title_th": "โทรศัพท์ติดรถยนต์ที่ดีที่สุด 4 อันดับที่ฉันเคยลอง (2569): Belkin, Andery, Andobil",
       "summary_th": "ที่วางโทรศัพท์ในรถยนต์ที่ดีที่สุดจะยึดโทรศัพท์ของคุณให้อยู่กับที่โดยไม่ให้อยู่ในแนวสายตา ฤดูร้อนนี้ฉันออกเดินทางหลายสิบครั้งเพื่อค้นหาสิ่งที่ดีที่สุด"
     },
     {
@@ -239,8 +239,8 @@
       "image": "https://media.wired.com/photos/6a8cdbb76eb888675cdee196/master/pass/Review--Optoma-GT2400HDR.jpg",
       "link": "https://www.wired.com/review/optoma-gt2400hdr/",
       "published": "Tue, 25 Aug 2026 10:32:00 +0000",
-      "title_th": "Optoma GT2400HDR Review: Ace Projector for Golf Simulation",
-      "summary_th": "The Optoma GT2400HDR laser projector is great for setting up a driving range in your living room, but mediocre video quality makes it less appealing for home entertainment."
+      "title_th": "รีวิว Optoma GT2400HDR: Ace Projector สำหรับการจำลองกอล์ฟ",
+      "summary_th": "โปรเจคเตอร์เลเซอร์ Optoma GT2400HDR เหมาะอย่างยิ่งสำหรับการตั้งค่าระยะการขับรถในห้องนั่งเล่นของคุณ แต่คุณภาพวิดีโอระดับปานกลางทำให้ความบันเทิงภายในบ้านน่าดึงดูดน้อยลง"
     },
     {
       "source": "MIT Technology Review",
@@ -251,7 +251,7 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/8947cf02-f42b-04bb-03ce-c05c80e44d46.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/",
       "published": "Tue, 25 Aug 2026 12:10:00 +0000",
-      "title_th": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
+      "title_th": "ดาวน์โหลด: AI ที่ชาญฉลาดยิ่งขึ้นในโรงเรียน และหุ่นยนต์ “งานรื่นเริง” ในเซี่ยงไฮ้",
       "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี วิธีส่งเสริมการใช้ AI อย่างชาญฉลาดในห้องเรียน Chatbots ทำให้โรงเรียนต่างประหลาดใจ ทันใดนั้น นักเรียนก็มีแอปในโทรศัพท์ที่สามารถตอบคำถามการบ้านหรือ..."
     },
     {
@@ -263,7 +263,7 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT-TR-SEPTOCT26-DNA-HANGERS-094.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/",
       "published": "Tue, 25 Aug 2026 09:00:00 +0000",
-      "title_th": "Welcome to the spiderverse, a world measured through webs",
+      "title_th": "ยินดีต้อนรับสู่ Spiderverse โลกที่วัดผ่านใยแมงมุม",
       "summary_th": "Counting the creatures in the world around us is critical for a raft of conservation efforts. It helps scientists gauge biodiversity, track migration, and spot invasive species. That census-taking, though, often requires humans to tabulate what they see, trap, or otherwise sense—a potentially laborious, costly process that can still leave gaps. But developments over the…"
     },
     {
@@ -287,8 +287,8 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/8947cf02-f42b-04bb-03ce-c05c80e44d46.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
       "published": "Mon, 24 Aug 2026 14:20:19 +0000",
-      "title_th": "How to encourage smarter AI use in the classroom",
-      "summary_th": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any…"
+      "title_th": "วิธีส่งเสริมการใช้ AI อย่างชาญฉลาดในห้องเรียน",
+      "summary_th": "บทความนี้มาจาก Making AI Work ซึ่งเป็นจดหมายข่าวแบบจำกัดของ MIT Technology Review ที่จะตรวจสอบวิธีนำ LLM ไปใช้ในอุตสาหกรรมต่างๆ หากต้องการรับมันในกล่องจดหมายของคุณ ลงทะเบียนที่นี่ Chatbots ทำให้โรงเรียนหลายแห่งประหลาดใจเมื่อเปิดตัวเมื่อไม่กี่ปีก่อน ทันใดนั้น นักเรียนก็มีแอปในโทรศัพท์ที่สามารถตอบได้เกือบทุกอย่างอย่างน่าอัศจรรย์"
     },
     {
       "source": "MIT Technology Review",
@@ -306,61 +306,61 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "Apple decides undermining its own email privacy feature was a bad idea after all",
+      "summary_en": "Apple decides undermining its own email privacy feature was a bad idea after all.",
+      "image": "https://www.engadget.com/img/gallery/apple-decides-undermining-its-own-email-privacy-feature-was-a-bad-idea-after-all/l-intro-1787675747.jpg",
+      "link": "https://www.engadget.com/2243812/apple-decides-undermining-its-own-email-privacy-feature-was-a-bad-idea-after-all/",
+      "published": "Tue, 25 Aug 2026 16:36:46 +0000",
+      "title_th": "Apple ตัดสินใจว่าการบ่อนทำลายคุณลักษณะความเป็นส่วนตัวของอีเมลของตัวเองนั้นเป็นความคิดที่ไม่ดี",
+      "summary_th": "Apple ตัดสินใจว่าการบ่อนทำลายคุณลักษณะความเป็นส่วนตัวของอีเมลของตัวเองนั้นเป็นความคิดที่ไม่ดี"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "How Xbox controllers have changed in the last 25 years",
+      "summary_en": "Every Xbox controller has the familiar ABXY buttons and offset thumbsticks. But Microsoft has slowly evolved the controller over its quarter-century life.",
+      "image": "https://www.engadget.com/img/gallery/how-xbox-controllers-have-changed-in-the-last-25-years/l-intro-1787237309.jpg",
+      "link": "https://www.engadget.com/2240787/how-xbox-controllers-changed-25-years/",
+      "published": "Tue, 25 Aug 2026 16:30:00 +0000",
+      "title_th": "คอนโทรลเลอร์ Xbox มีการเปลี่ยนแปลงอย่างไรในช่วง 25 ปีที่ผ่านมา",
+      "summary_th": "คอนโทรลเลอร์ Xbox ทุกตัวมีปุ่ม ABXY ที่คุ้นเคยและธัมบ์สติ๊กออฟเซ็ต แต่ Microsoft ได้พัฒนาตัวควบคุมอย่างช้าๆ ตลอดช่วงอายุสี่ศตวรรษ"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Waymo is expanding to Germany, with service in Munich planned for 2027",
+      "summary_en": "Waymo has set up subsidiaries in several European countries this summer as it prepares to expand.",
+      "image": "https://www.engadget.com/img/gallery/waymo-is-expanding-to-germany-with-service-in-munich-planned-for-2027/l-intro-1787672287.jpg",
+      "link": "https://www.engadget.com/2243733/waymo-is-expanding-to-germany-with-service-in-munich-planned-for-2027/",
+      "published": "Tue, 25 Aug 2026 15:40:02 +0000",
+      "title_th": "Waymo กำลังขยายไปยังประเทศเยอรมนี โดยมีแผนให้บริการในมิวนิกในปี 2570",
+      "summary_th": "Waymo ได้จัดตั้งบริษัทสาขาในหลายประเทศในยุโรปในช่วงซัมเมอร์นี้เพื่อเตรียมขยายธุรกิจ"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Apple M5 Ultra vs M3 Ultra: What's changed?",
+      "summary_en": "Everything you need to know about Apple's powerful new chip.",
+      "image": "https://www.engadget.com/img/gallery/apple-m5-ultra-vs-m3-ultra-whats-changed/l-intro-1787675630.jpg",
+      "link": "https://www.engadget.com/2243702/apple-m5-ultra-vs-m3-ultra-whats-changed/",
+      "published": "Tue, 25 Aug 2026 15:30:00 +0000",
+      "title_th": "Apple M5 Ultra กับ M3 Ultra: มีอะไรเปลี่ยนแปลงบ้าง",
+      "summary_th": "ทุกสิ่งที่คุณจำเป็นต้องรู้เกี่ยวกับชิปใหม่อันทรงพลังของ Apple"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "Nintendo reveals its latest Switch 2 bundles just ahead of the console's price increase",
       "summary_en": "Let this serve as a reminder that the Switch 2 is getting more expensive next week.",
       "image": "https://www.engadget.com/img/gallery/nintendo-reveals-its-latest-switch-2-bundles-just-ahead-of-the-consoles-price-increase/l-intro-1787668188.jpg",
       "link": "https://www.engadget.com/2243642/nintendo-reveals-its-latest-switch-2-bundles-just-ahead-of-the-consoles-price-increase/",
       "published": "Tue, 25 Aug 2026 14:32:27 +0000",
-      "title_th": "Nintendo เปิดตัวชุดสวิตช์ 2 ล่าสุดก่อนที่ราคาคอนโซลจะเพิ่มขึ้น",
-      "summary_th": "Let this serve as a reminder that the Switch 2 is getting more expensive next week."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "What's the difference between Thunderbolt 4 and 5?",
-      "summary_en": "Thunderbolt 5 offers extremely fast data transfer and lots of power, but most devices can't take advantage of it",
-      "image": "https://www.engadget.com/img/gallery/whats-the-difference-between-thunderbolt-4-and-5/l-intro-1786973927.jpg",
-      "link": "https://www.engadget.com/2240370/whats-the-difference-between-thunderbold-4-and-5/",
-      "published": "Tue, 25 Aug 2026 14:30:00 +0000",
-      "title_th": "Thunderbolt 4 และ 5 แตกต่างกันอย่างไร?",
-      "summary_th": "Thunderbolt 5 ให้การถ่ายโอนข้อมูลที่รวดเร็วเป็นพิเศษและใช้พลังงานมาก แต่อุปกรณ์ส่วนใหญ่ไม่สามารถใช้ประโยชน์จากมันได้"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "review",
-      "title_en": "Pebble Time 2 review: The perfect smartwatch for a select group of people",
-      "summary_en": "Pebble Time 2 is a smartwatch designed to push back against the trend, and it does so beautifully.",
-      "image": "https://www.engadget.com/img/gallery/pebble-time-2-review-the-perfect-smartwatch-for-a-select-group-of-people/l-intro-1787658110.jpg",
-      "link": "https://www.engadget.com/2243490/pebble-time-2-review/",
-      "published": "Tue, 25 Aug 2026 14:00:00 +0000",
-      "title_th": "รีวิว Pebble Time 2: นาฬิกาอัจฉริยะที่สมบูรณ์แบบสำหรับกลุ่มคนที่เลือก",
-      "summary_th": "Pebble Time 2 เป็นสมาร์ทวอทช์ที่ออกแบบมาเพื่อฝ่ากระแสและทำงานได้อย่างสวยงามมาก"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "review",
-      "title_en": "Gamescom Opening Night Live: Updates from the showcase including Final Fantasy and Gears of War previews",
-      "summary_en": "We're liveblogging the two-hour showcase and half hour pre-show of Gamescom's ONL today! Come join us, we'll even start a little early for you.",
-      "image": "https://www.engadget.com/img/gallery/gamescom-opening-night-live-updates-from-the-showcase-including-final-fantasy-and-gears-of-war-previews/l-intro-1787664665.jpg",
-      "link": "https://www.engadget.com/2243580/gamescom-onl-2026-live-blog-final-fantasy-silent-hill-gears-of-war/",
-      "published": "Tue, 25 Aug 2026 13:33:34 +0000",
-      "title_th": "Gamescom Opening Night Live: อัปเดตจากงานแสดง รวมถึงตัวอย่าง Final Fantasy และ Gears of War",
-      "summary_th": "เรากำลังถ่ายทอดสดการแสดงโชว์ความยาว 2 ชั่วโมงและการแสดงก่อนการแสดง Gamescom's ONL ครึ่งชั่วโมงในวันนี้! มาร่วมกับเรา เราจะเริ่มต้นให้คุณเร็วสักหน่อย"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Apple M6 vs M5: How much faster is Apple's new 'everyday' Silicon?",
-      "summary_en": "Apple finds respectable performance gains on a new 2nm process, but M5 users shouldn't feel any FOMO.",
-      "image": "https://www.engadget.com/img/gallery/apple-m5-vs-m6-how-much-faster-silicon/l-intro-1787665110.jpg",
-      "link": "https://www.engadget.com/2243402/apple-m5-vs-m6-how-much-faster-silicon/",
-      "published": "Tue, 25 Aug 2026 13:30:00 +0000",
-      "title_th": "Apple M6 กับ M5: Silicon 'ทุกวัน' ใหม่ของ Apple เร็วแค่ไหน?",
-      "summary_th": "Apple พบว่าประสิทธิภาพที่เพิ่มขึ้นอย่างน่านับถือในกระบวนการ 2 นาโนเมตรใหม่ แต่ผู้ใช้ M5 ไม่ควรรู้สึก FOMO ใดๆ"
+      "title_th": "Nintendo reveals its latest Switch 2 bundles just ahead of the console's price increase",
+      "summary_th": "ให้สิ่งนี้เป็นเครื่องเตือนใจว่าสวิตช์ 2 มีราคาแพงขึ้นในสัปดาห์หน้า"
     },
     {
       "source": "IEEE Spectrum",
@@ -372,7 +372,7 @@
       "link": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
       "published": "Tue, 25 Aug 2026 13:00:01 +0000",
       "title_th": "IBM ได้สร้าง Code Breaker ที่ทรงพลังที่สุดในสงครามเย็นให้กับ NSA",
-      "summary_th": "ในช่วงสงครามเย็นที่รุ่งเรืองที่สุด คอมพิวเตอร์เครื่องหนึ่งที่มีความเชี่ยวชาญเฉพาะด้านเป็นความลับมากจนโลกไม่รู้ว่ามีอยู่จริง มันทำงานได้เร็วกว่าคอมพิวเตอร์เครื่องอื่นๆ ในยุคนั้นถึง 200 เท่า มันเป็นหน่วยประมวลผลการเข้ารหัสลับหลักของสำนักงานความมั่นคงแห่งชาติของสหรัฐอเมริกาที่ดำเนินการตั้งแต่ช่วงเวลาวิกฤตการณ์ขีปนาวุธคิวบาในปี 1962 จนถึงสงครามเวียดนาม และในอดีตสนธิสัญญาเฮลซิงกิปี 1975 เครื่องจักรจะหยุดทำงานเมื่อชิ้นส่วนที่เคลื่อนไหวหลุดออกมาในที่สุดเท่านั้น คอมพิวเตอร์ Harvest มีความสำคัญเพราะว่ามันคืออะไรและทำงานเมื่อใด เป็นเวลา 14 ปีที่มันเป็นเครื่องยนต์ที่ประมวลผลการสกัดกั้นที่ละเอียดอ่อนที่สุดของ NSA ในเวลาที่ข่าวกรองสัญญาณมีความใกล้เคียงกับอาวุธทางยุทธศาสตร์พอๆ กับที่ไม่มีหัวรบ ออกแบบและสร้างโดย IBM สำหรับ NSA Harvest เป็นหนึ่งในเครื่องจักรรุ่นแรกๆ ที่ออกแบบ"
+      "summary_th": "ในช่วงสงครามเย็นคอมพิวเตอร์ที่มีความเชี่ยวชาญเป็นพิเศษเครื่องหนึ่งเป็นความลับมากจนโลกไม่รู้ว่ามีอยู่จริง มันทำงานได้เร็วกว่าคอมพิวเตอร์เครื่องอื่นๆ ในยุคนั้นถึง 200 เท่า มันเป็นหน่วยประมวลผลการเข้ารหัสลับหลักของสำนักงานความมั่นคงแห่งชาติของสหรัฐอเมริกาที่ดำเนินการตั้งแต่ช่วงเวลาวิกฤตการณ์ขีปนาวุธคิวบาในปี 1962 จนถึงสงครามเวียดนาม และในอดีตสนธิสัญญาเฮลซิงกิปี 1975 เครื่องจักรจะหยุดทำงานเมื่อชิ้นส่วนที่เคลื่อนไหวหลุดออกมาในที่สุดเท่านั้น คอมพิวเตอร์ Harvest มีความสำคัญเพราะว่ามันคืออะไรและทำงานเมื่อใด เป็นเวลา 14 ปีที่มันเป็นเครื่องยนต์ที่ประมวลผลการสกัดกั้นที่ละเอียดอ่อนที่สุดของ NSA ในเวลาที่ข่าวกรองสัญญาณมีความใกล้เคียงกับอาวุธทางยุทธศาสตร์พอๆ กับที่ไม่มีหัวรบ ออกแบบและสร้างโดย IBM สำหรับ NSA Harvest เป็นหนึ่งในเครื่องจักรรุ่นแรกๆ ที่ออกแบบ"
     },
     {
       "source": "IEEE Spectrum",
@@ -384,7 +384,7 @@
       "link": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
       "published": "Tue, 25 Aug 2026 10:00:03 +0000",
       "title_th": "หุ่นยนต์คู่หู AI กำลังปิดการเชื่อมต่อของมนุษย์ในบ้านสมัยใหม่",
-      "summary_th": "บทความนี้นำเสนอโดย Ollobot ตั้งแต่ประมาณปี 2017 ผู้คนเริ่มเชื่อมต่อกับคลื่นลูกแรกของหุ่นยนต์คู่หูอย่างแท้จริง อุปกรณ์เหล่านี้มีบุคลิก เคลื่อนที่ ล้อเล่น และตอบกลับเมื่อคุณพูดคุยกับอุปกรณ์เหล่านั้น อย่างไรก็ตาม หุ่นยนต์คู่หูในยุคแรกๆ ส่วนใหญ่ยังคงถูกจำกัดด้วยการโต้ตอบคำสั่งเสียงแบบง่ายๆ และฟังก์ชันการทำงานที่แคบ เมื่อความแปลกใหม่หมดไป หลายๆ คนก็ลงเอยด้วยการนั่งเฉยๆ บนชั้นวาง ในขณะที่บริษัทเหล่านั้นบางแห่งเลิกกิจการและปิดเซิร์ฟเวอร์ เจ้าของหลายรายก็เปรียบเสมือนการสูญเสียสัตว์เลี้ยง สิ่งที่ Ollobot อธิบายว่าเป็น “ความฉลาดที่อ่อนโยน” เป็นวิธีที่มีประโยชน์ในการพิจารณาว่างานที่จริงจังในหมวดนี้กำลังดำเนินไปในทิศทางใด ไม่ใช่ต่อผู้ช่วยที่ทรงพลังกว่า แต่ต่อผู้ช่วยที่มีอยู่มากกว่า ปัญหาที่หุ่นยนต์สหายพยายามแก้ไขความเหงาไม่เป็น"
+      "summary_th": "This article is brought to you by Ollobot . From about 2017, individuals began to truly connect with the initial wave of companion robots. These devices had personality, moved around, joked, and answered when you spoke to them. Most early companion robots, however, were still limited by simple voice-command interactions and narrow functionality. Once the novelty wore off, many ended up sitting unused on shelves. As some of those companies went out of business and turned off their servers, many owners likened it to losing a pet. What Ollobot describes as “gentle intelligence” is a useful way to think about where the serious work in this category is going. Not toward more powerful assistants, but toward more present ones. The problem companion robots were trying to solve Loneliness is not a "
     },
     {
       "source": "IEEE Spectrum",
@@ -395,8 +395,8 @@
       "image": "https://spectrum.ieee.org/media-library/a-young-indian-man-smiling-against-an-abstract-technological-background.jpg?id=67667863&width=980",
       "link": "https://spectrum.ieee.org/ieee-senior-membership-demystified",
       "published": "Mon, 24 Aug 2026 18:00:01 +0000",
-      "title_th": "สมาชิกอาวุโสของ IEEE คลายข้อสงสัย",
-      "summary_th": "ตลอดอาชีพการงานของฉัน สมาชิก IEEE ของฉันนั่งเงียบๆ อยู่เบื้องหลัง ไม่ว่าจะเป็นบรรทัดในประวัติย่อของฉัน รหัสส่วนลดสำหรับการลงทะเบียนการประชุม และการเข้าถึงห้องสมุดดิจิทัล IEEE Xplore ซึ่งฉันใช้น้อยเกินไป ฉันไม่ได้คิดมากเกี่ยวกับระดับการเป็นสมาชิกที่มีให้สูงกว่าสมาชิกทั่วไป ฉันคิดว่าการเป็นสมาชิกระดับสูงนั้นสงวนไว้สำหรับคนในอาชีพการงานของพวกเขามากกว่าฉัน พวกเขาตีพิมพ์บทความมากขึ้น มีผมหงอกมากขึ้นและทำงานในสาขานี้นานขึ้น ฉันผิดทั้งสามข้อ ความเข้าใจผิดทำให้ฉันต้องประเมินทักษะและความสามารถทางวิชาชีพที่สำคัญของฉัน ฉันสงสัยว่าสมาชิกที่ผ่านการรับรองคนอื่นๆ จำนวนมากอยู่ในจุดเดียวกับฉันเมื่อหนึ่งปีที่แล้ว: มีสิทธิ์แต่ไม่รู้ถึงสิทธิประโยชน์ของการเป็นสมาชิกอาวุโส และใบสมัครหนึ่งใบที่ห่างไกลจากหนังสือรับรองอาชีพที่มีความหมาย"
+      "title_th": "สมาชิกอาวุโสของ IEEE เข้าใจอย่างกระจ่างแจ้ง",
+      "summary_th": "For most of my career, my IEEE membership sat quietly in the background—a line on my résumé, a discount code for a conference registration, and access to the IEEE Xplore digital library , which I underutilized. I didn’t think much about the grade of membership available above that of the regular member. I assumed senior membership was reserved for people further along in their career than I was. They published more papers, had more gray hair, and had worked longer in the field. I was wrong on all three counts. The misunderstanding cost me an important validation of my skills and professional competency. I suspect a lot of other qualified members are where I was one year ago: eligible but unaware of the benefits of senior membership, and one application away from a meaningful career credent"
     },
     {
       "source": "IEEE Spectrum",
@@ -407,7 +407,7 @@
       "image": "https://spectrum.ieee.org/media-library/silhouette-of-person-at-computer-atop-a-weather-vane-labeled-ai-against-sky-background.png?id=67652283&width=980",
       "link": "https://spectrum.ieee.org/adaptable-engineer-core-skills",
       "published": "Mon, 24 Aug 2026 14:00:01 +0000",
-      "title_th": "What It Takes to Be an Adaptable Engineer",
+      "title_th": "สิ่งที่ต้องมีในการเป็นวิศวกรที่ปรับตัวได้",
       "summary_th": "The AI boom has disrupted the way engineers work, introducing new tools to learn, raising expectations for what teams can achieve in a workday, and making it harder to get hired in the first place. This makes it difficult to advise students on which specific coding languages or technical skills they should learn. So amidst the uncertainty, advice for young professionals often turns to a common refrain: Be adaptable. But what does adaptability look like in practice? Engineers often operate on the cutting edge of technology, so dealing with change is a normal part of the job, says Samantha Brunhaver , an associate professor of engineering at Arizona State University, in Tempe. Yet university curricula and training in the workplace often don’t prepare students for this. “We tell engineers tha"
     },
     {
@@ -420,7 +420,31 @@
       "link": "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms",
       "published": "Mon, 24 Aug 2026 11:37:02 +0000",
       "title_th": "Building Technology People Can Trust",
-      "summary_th": "This article is brought to you by Emerson . I’ve spent much of my career as an engineer, including years in the semiconductor industry. And one lesson has stayed with me through every major technology shift: innovation always creates new complexity. In semiconductors, we have seen that repeatedly. Every generation has delivered breakthroughs in performance and capability, but each step forward made it harder to understand system behavior. What used to be easy to validate on the component level with a test bench now needs a much wider view. “The future of engineering will be defined by who can verify, understand, and improve complex systems fast enough to safely keep innovation moving forward,” says Ritu Favre, President of Emerson’s Test & Measurement business group. Emerson Chiplet-based "
+      "summary_th": "บทความนี้นำเสนอโดย Emerson ฉันใช้เวลาส่วนใหญ่ในชีวิตการทำงานในฐานะวิศวกร รวมถึงการทำงานในอุตสาหกรรมเซมิคอนดักเตอร์หลายปีด้วย และบทเรียนหนึ่งยังคงอยู่กับฉันตลอดการเปลี่ยนแปลงทางเทคโนโลยีครั้งสำคัญทุกครั้ง นั่นคือ นวัตกรรมมักจะสร้างความซับซ้อนใหม่ๆ อยู่เสมอ ในเซมิคอนดักเตอร์เราได้เห็นสิ่งนั้นซ้ำแล้วซ้ำเล่า ทุกรุ่นได้นำเสนอความก้าวหน้าในด้านประสิทธิภาพและขีดความสามารถ แต่การก้าวไปข้างหน้าแต่ละขั้นทำให้เข้าใจพฤติกรรมของระบบได้ยากขึ้น สิ่งที่เคยตรวจสอบได้ง่ายในระดับส่วนประกอบด้วยม้านั่งทดสอบ ตอนนี้ต้องการมุมมองที่กว้างขึ้นมาก “อนาคตของวิศวกรรมจะถูกกำหนดโดยผู้ที่สามารถตรวจสอบ ทำความเข้าใจ และปรับปรุงระบบที่ซับซ้อนได้เร็วพอที่จะทำให้นวัตกรรมก้าวไปข้างหน้าได้อย่างปลอดภัย” Ritu Favre ประธานกลุ่มธุรกิจการทดสอบและการวัดของ Emerson กล่าว ที่ใช้ Emerson Chiplet"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple just revealed two ways iPhone 18 Pro could get big upgrades",
+      "summary_en": "Today Apple unveiled its M6 chip , the first of a new chip generation that will soon include iPhone 18 Pro’s A20 Pro. Here’s what the M6 reveals about iPhone 18 Pro gains to expect.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/08/25/apple-just-revealed-two-ways-iphone-18-pro-could-get-big-upgrades/",
+      "published": "Tue, 25 Aug 2026 17:30:58 +0000",
+      "title_th": "Apple เพิ่งเปิดเผยสองวิธีที่ iPhone 18 Pro จะได้รับการอัปเกรดครั้งใหญ่",
+      "summary_th": "วันนี้ Apple เปิดตัวชิป M6 ซึ่งเป็นชิปเจเนอเรชั่นแรกที่จะรวม A20 Pro ของ iPhone 18 Pro ไว้ในเร็วๆ นี้ นี่คือสิ่งที่ M6 เปิดเผยเกี่ยวกับ iPhone 18 Pro ที่คาดหวังได้"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "New Mac mini and more now available from Amazon for launch day pre-order",
+      "summary_en": "Apple surprised us with some big Mac news today, including a new lineup of Mac Studio and Mac mini models. If you’re in the market for some of today’s new Apple gear, you now have the choice to pre-order from Amazon as well. Buy Mac mini from Amazon Buy Mac Studio from B&H Photo",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mac-mini-mac-studio-chips.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/08/25/new-mac-mini-now-available-amazon-launch-day-preorder/",
+      "published": "Tue, 25 Aug 2026 17:09:04 +0000",
+      "title_th": "New Mac mini and more now available from Amazon for launch day pre-order",
+      "summary_th": "วันนี้ Apple ทำให้เราประหลาดใจด้วยข่าวสำคัญเกี่ยวกับ Mac รวมถึงผลิตภัณฑ์ Mac Studio และ Mac mini รุ่นใหม่ หากคุณอยู่ในตลาดอุปกรณ์ Apple ใหม่บางรุ่นในปัจจุบัน คุณสามารถเลือกสั่งซื้อล่วงหน้าจาก Amazon ได้เช่นกัน ซื้อ Mac mini จาก Amazon ซื้อ Mac Studio จาก B&H Photo"
     },
     {
       "source": "9to5Mac",
@@ -431,20 +455,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/brothers-matthew-mcconaughey-cake.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/08/25/apple-tv-unveils-matthew-mcconaughey-comedy-series-from-the-office-alum/",
       "published": "Tue, 25 Aug 2026 15:28:41 +0000",
-      "title_th": "Apple TV unveils Matthew McConaughey comedy series from ‘The Office’ alum",
-      "summary_th": "Apple TV has a new original comedy series—Brothers—coming next month with Matthew McConaughey and Woody Harrelson. Here’s the trailer."
+      "title_th": "Apple TV เปิดตัวซีรีส์ตลกของ Matthew McConaughey จากศิษย์เก่า \"The Office\"",
+      "summary_th": "Apple TV มีซีรีส์ตลกต้นฉบับเรื่องใหม่ Brothers ซึ่งจะออกฉายในเดือนหน้าร่วมกับ Matthew McConaughey และ Woody Harrelson นี่คือตัวอย่าง"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
       "title_en": "Deals: M6 Mac mini $500+ off with M4 trades, AirTag 2 $20 each, 48GB M5 Pro MacBook Pro $400 off, more",
-      "summary_en": "Price drops are still live on AirPods Pro 3 and AirPods Max 2 at $120 off, just make sure you scope out AirTag 2 at the lowest price ever while you still can (from $20 each). Apple has now unleashed the updated $21 Prime shipped right now and you can get a closer look below.",
+      "summary_en": "Price drops are still live on AirPods Pro 3 and AirPods Max 2 at $120 off, just make sure you scope out AirTag 2 at the lowest price ever while you still can (from $20 each). Apple has now unleashed the updated M6 Mac mini, pre-orders are now live, and you can land one at over $500 off with a mid-range M4 Mac mini trade-in at Apple (more $21 Prime shipped right now and you can get a closer look below.",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-deals-M6-Mac-mini-preorder-Macbook-AirTag-2.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/08/25/deals-m6-mac-mini-airtag-2-48gb-macbook-pro/",
       "published": "Tue, 25 Aug 2026 15:24:39 +0000",
-      "title_th": "Deals: M6 Mac mini $500+ off with M4 trades, AirTag 2 $20 each, 48GB M5 Pro MacBook Pro $400 off, more",
-      "summary_th": "Price drops are still live on AirPods Pro 3 and AirPods Max 2 at $120 off, just make sure you scope out AirTag 2 at the lowest price ever while you still can (from $20 each). Apple has now unleashed the updated $21 Prime shipped right now and you can get a closer look below."
+      "title_th": "ข้อเสนอ: M6 Mac mini ส่วนลด 500 ดอลลาร์สหรัฐฯ พร้อมการซื้อขาย M4, AirTag 2 มูลค่า 20 ดอลลาร์สหรัฐฯ ต่อเครื่อง, 48GB M5 Pro MacBook Pro ส่วนลด 400 ดอลลาร์ และอื่นๆ อีกมากมาย",
+      "summary_th": "การลดราคายังคงมีอยู่ใน AirPods Pro 3 และ AirPods Max 2 ในราคาลด 120 ดอลลาร์ เพียงตรวจสอบให้แน่ใจว่าคุณได้ AirTag 2 ในราคาที่ถูกที่สุดในขณะที่คุณยังทำได้ (จากราคาละ 20 ดอลลาร์) Apple ได้เปิดตัว M6 Mac mini ที่อัปเดตแล้ว ขณะนี้มีการสั่งจองล่วงหน้าแล้ว และคุณสามารถลดราคาได้มากกว่า 500 เหรียญสหรัฐด้วยการแลกเปลี่ยน M4 Mac mini ระดับกลางที่ Apple (จัดส่ง Prime มูลค่า $21 ขึ้นไปแล้วและคุณสามารถดูรายละเอียดด้านล่างได้"
     },
     {
       "source": "9to5Mac",
@@ -455,32 +479,56 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/magic-keyboard-new-2026.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/08/25/apple-releases-new-magic-keyboards-with-one-notable-change/",
       "published": "Tue, 25 Aug 2026 14:52:03 +0000",
-      "title_th": "Apple releases new Magic Keyboards with one notable change",
-      "summary_th": "Today Apple launched its latest Mac mini and Mac Studio models, and alongside the release, minor updates have been made to the company’s various Magic Keyboard accessories."
+      "title_th": "Apple เปิดตัว Magic Keyboards ใหม่พร้อมการเปลี่ยนแปลงที่โดดเด่นอย่างหนึ่ง",
+      "summary_th": "วันนี้ Apple เปิดตัว Mac mini และ Mac Studio รุ่นล่าสุด และนอกจากการเปิดตัวแล้ว ยังมีการอัปเดตเล็กๆ น้อยๆ กับอุปกรณ์เสริม Magic Keyboard ต่างๆ ของบริษัทอีกด้วย"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "M6 Mac mini vs M4 Mac mini: Here are all the new features",
-      "summary_en": "Today Apple launched a new Mac mini , available in M6 and M5 Pro configurations. Here’s everything new compared to the M4 and M4 Pro Mac mini models.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/mac-mini-m6-m5-pro-vs-m4.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/25/m6-mac-mini-vs-m4-mac-mini-here-are-all-the-new-features/",
-      "published": "Tue, 25 Aug 2026 14:25:03 +0000",
-      "title_th": "M6 Mac mini กับ M4 Mac mini: นี่คือคุณสมบัติใหม่ทั้งหมด",
-      "summary_th": "วันนี้ Apple เปิดตัว Mac mini ใหม่ ซึ่งมีจำหน่ายในรุ่น M6 และ M5 Pro นี่คือทุกสิ่งใหม่เมื่อเทียบกับรุ่น M4 และ M4 Pro Mac mini"
+      "title_en": "Nothing’s CMF Buds Neo earbuds almost sound too good to be true at just $25, available now",
+      "summary_en": "Nothing has somewhat quietly launched its new CMF Buds Neo, a pair of wireless earbuds that are somehow only $25....",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/nothing-cmf-buds-neo-colors.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/08/25/nothing-cmf-buds-neo-price-release/",
+      "published": "Tue, 25 Aug 2026 17:45:00 +0000",
+      "title_th": "หูฟัง CMF Buds Neo ของ Nothing ฟังดูดีเกินจริงในราคาเพียง 25 เหรียญสหรัฐ ซึ่งมีวางจำหน่ายแล้วในขณะนี้",
+      "summary_th": "ไม่มีอะไรที่จะเปิดตัว CMF Buds Neo ใหม่อย่างเงียบ ๆ ซึ่งเป็นหูฟังไร้สายคู่หนึ่งที่มีราคาเพียง $ 25 เท่านั้น...."
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple releases new Polishing Cloth for $9",
-      "summary_en": "Not to be overshadowed by the new Mac mini and Mac Studio , Apple today has also released an updated version of its Polishing Cloth. In an age of everything getting more expensive, the new Polishing Cloth is cheaper than before at $9 (down from $19).",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/10/Apple-Polishing-Cloth.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/25/apple-releases-new-polishing-cloth-for-9/",
-      "published": "Tue, 25 Aug 2026 14:10:40 +0000",
-      "title_th": "Apple เปิดตัว Polishing Cloth ใหม่ในราคา 9 ดอลลาร์",
-      "summary_th": "เพื่อไม่ให้ถูกบดบังด้วย Mac mini และ Mac Studio ใหม่ วันนี้ Apple ได้เปิดตัว Polishing Cloth เวอร์ชันอัปเดตแล้ว ในยุคที่ทุกอย่างมีราคาแพงขึ้น ผ้าขัดเงาใหม่ก็ราคาถูกลงกว่าเดิมที่ 9 ดอลลาร์ (ลดลงจาก 19 ดอลลาร์)"
+      "title_en": "Today’s Android app deals and freebies: NARUTO, Endling, Farm Invasion, Kingdomino, more",
+      "summary_en": "Your afternoon lineup of the best Android game and app deals is now ready to roll, including titles like NARUTO: Ultimate Ninja STORM, Endling Extinction is Forever, Farm Invasion USA – Premium, Candleman, Last Day Survivors Zombie TDS, Kingdomino Deluxe, Minabo: A walk through life, and more. On your way down scope out TCL’s 2026 Google AI TVs hitting all-time lows at up to $800 off ahead of the GTA VI release, these Samsung Galaxy S26 Ultra bundles up to $370 off , and the new Moto Tag 2 with UWB down as low as $17.50 each at Amazon. The apps await below.",
+      "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/08/Google-Play-Aug-25-2.webp?resize=1200,628",
+      "link": "https://9to5toys.com/2026/08/25/today-android-app-deals-free-naruto-endling/",
+      "published": "Tue, 25 Aug 2026 17:29:29 +0000",
+      "title_th": "ข้อเสนอแอป Android และของแจกฟรีวันนี้: NARUTO, Endling, Farm Invasion, Kingdomino และอีกมากมาย",
+      "summary_th": "รายการเกมและแอพ Android ที่ดีที่สุดช่วงบ่ายของคุณพร้อมแล้วที่จะเปิดตัว รวมถึงเกมอย่าง NARUTO: Ultimate Ninja STORM, Endling Extinction is Forever, Farm Invasion USA – Premium, Candleman, Last Day Survivors Zombie TDS, Kingdomino Deluxe, Minabo: A Walk Through Life และอื่นๆ อีกมากมาย ระหว่างทางลองดูทีวี Google AI ปี 2026 ของ TCL ที่ลดราคาสูงสุดเป็นประวัติการณ์ด้วยส่วนลดสูงสุด 800 ดอลลาร์ก่อนการเปิดตัว GTA VI ชุดรวม Samsung Galaxy S26 Ultra เหล่านี้ลดสูงสุดถึง 370 ดอลลาร์ และ Moto Tag 2 ใหม่พร้อม UWB ลดราคาเหลือเพียง 17.50 ดอลลาร์ต่อตัวที่ Amazon แอพกำลังรออยู่ด้านล่าง"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Nothing’s Android 17 update debuts this week with redesigns, new apps, 3D emoji [Gallery]",
+      "summary_en": "Nothing has announced Nothing OS 5.0, its Android 17 update, which will start rolling out in October with some redesigned UI elements, more AI features, new apps, and support for Google’s 3D emoji too.",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/nothing-phone-3-1-13.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/08/25/nothing-android-17-update-changelog/",
+      "published": "Tue, 25 Aug 2026 15:40:00 +0000",
+      "title_th": "สัปดาห์นี้ไม่มีอะไรอัปเดต Android 17 พร้อมการออกแบบใหม่ แอพใหม่ อิโมจิ 3 มิติ [แกลเลอรี]",
+      "summary_th": "ไม่มีการประกาศ Nothing OS 5.0 ซึ่งเป็นการอัปเดต Android 17 ซึ่งจะเริ่มเปิดตัวในเดือนตุลาคมด้วยองค์ประกอบ UI ที่ออกแบบใหม่ คุณสมบัติ AI เพิ่มเติม แอพใหม่ และการรองรับอิโมจิ 3 มิติของ Google เช่นกัน"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Deals: Galaxy S26 Ultra bundles $370 off, Moto Tag 2 from $17.50 each, TCL 2026 Google AI TVs up to $800 off, more",
+      "summary_en": "Today’s 9to5Toys Lunch Break is headlined by a chance to land brand-new unlocked Samsung Galaxy S26 Ultra up to $340 off or with or Galaxy Watch 9/Ultra 2 bundles at $370 off . We also have Find Hub-ready Moto Tag 2 live again down at $20 (or $17.50 each in the 4-pack bundle), TCL’s 2026 Google AI TVs hitting all-time lows at up to $800 off ahead of GTA VI release, TCL Android tablets own as low as $150, and even more down below.",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/9to5Google-Aug-25.webp?resize=1200,628",
+      "link": "https://9to5google.com/2026/08/25/deals-galaxy-s26-ultra-moto-tag-2-tcl-google-ai-tv/",
+      "published": "Tue, 25 Aug 2026 15:36:22 +0000",
+      "title_th": "ข้อเสนอ: Galaxy S26 Ultra รวมส่วนลด $ 370, Moto Tag 2 จาก $ 17.50 ต่อตัว, TCL 2026 Google AI TV ลดสูงสุด $ 800 และอีกมากมาย",
+      "summary_th": "ช่วงพักกลางวันของ 9to5Toys วันนี้มีโอกาสที่จะได้เป็นเจ้าของ Samsung Galaxy S26 Ultra ที่ปลดล็อคใหม่ล่าสุด ส่วนลดสูงสุด 340 ดอลลาร์ หรือพร้อมชุด Galaxy Watch 9/Ultra 2 ในราคาลด 370 ดอลลาร์ นอกจากนี้เรายังมี Find Hub-ready Moto Tag 2 ลดราคาอีกครั้งที่ 20 ดอลลาร์ (หรือ 17.50 ดอลลาร์ต่ออันในชุด 4 แพ็ก), ทีวี Google AI ปี 2026 ของ TCL ที่ลดราคาสูงสุดถึง 800 ดอลลาร์ก่อนการเปิดตัว GTA VI, แท็บเล็ต Android ของ TCL มีราคาต่ำเพียง 150 ดอลลาร์ และยิ่งกว่านั้นอีกด้านล่าง"
     },
     {
       "source": "9to5Google",
@@ -495,52 +543,52 @@
       "summary_th": "หากคุณมีแนวโน้มที่จะเปลี่ยนผู้ให้บริการ ข้อตกลง Pixel 11 series ของ Mint Mobile จะทำให้ Pixel 11 Pro เหลือ 724 ดอลลาร์ และนั่นไม่ใช่ข้อตกลงที่ดีที่สุดด้วยซ้ำ"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Galaxy S27 Ultra’s major redesign detailed in new renders, price hike rumored",
-      "summary_en": "Samsung’s new Galaxy S27 Ultra is getting a massive redesign and, thanks to the latest leak, we’ve got a better look at what to expect, but we’re also now bracing for a major price hike.",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/galaxy-s27-ultra-onl-2.webp?resize=1200,628",
-      "link": "https://9to5google.com/2026/08/25/samsung-galaxy-s27-ultra-redesign-renders/",
-      "published": "Tue, 25 Aug 2026 14:00:00 +0000",
-      "title_th": "Galaxy S27 Ultra’s major redesign detailed in new renders, price hike rumored",
-      "summary_th": "Samsung’s new Galaxy S27 Ultra is getting a massive redesign and, thanks to the latest leak, we’ve got a better look at what to expect, but we’re also now bracing for a major price hike."
+      "category": "ev",
+      "title_en": "Dubai VDX becomes world’s first purpose-built eVTOL vertiport",
+      "summary_en": "The developers behind the new Dubai VDX project are calling it the world’s first purpose-built commercial vertiport – and after receiving a green light from regulators the vertiport is ready to get started.",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/evtol-vertiport_MAIN.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/08/25/dubai-vdx-becomes-worlds-first-purpose-built-evtol-vertiport/",
+      "published": "Tue, 25 Aug 2026 17:55:00 +0000",
+      "title_th": "Dubai VDX กลายเป็นพอร์ต eVTOL ที่สร้างขึ้นโดยเฉพาะแห่งแรกของโลก",
+      "summary_th": "The developers behind the new Dubai VDX project are calling it the world’s first purpose-built commercial vertiport – and after receiving a green light from regulators the vertiport is ready to get started."
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "WhatsApp two-step verification codes are ditching six-digit PINs for full passwords",
-      "summary_en": "WhatsApp is making some security upgrades, including turning two-step verification codes into full passwords instead of the traditional six-digit numerical PIN.",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/whatsapp-security-updates.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/08/25/whatsapp-two-step-verification-codes-are-ditching-six-digit-pins-for-full-passwords/",
-      "published": "Tue, 25 Aug 2026 13:10:00 +0000",
-      "title_th": "WhatsApp two-step verification codes are ditching six-digit PINs for full passwords",
-      "summary_th": "WhatsApp is making some security upgrades, including turning two-step verification codes into full passwords instead of the traditional six-digit numerical PIN."
+      "category": "ev",
+      "title_en": "EV charging sites with more plugs get more use, Kempower finds",
+      "summary_en": "When it comes to public EV charging, more plugs may matter a whole lot more than bigger power numbers, according to new North American data from Kempower .",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Kempower-DC-fast-charging.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/08/25/ev-charging-sites-with-more-plugs-get-more-use-kempower-finds/",
+      "published": "Tue, 25 Aug 2026 17:51:03 +0000",
+      "title_th": "Kempower พบว่าไซต์ชาร์จ EV ที่มีปลั๊กมากขึ้นจะได้รับประโยชน์มากขึ้น",
+      "summary_th": "เมื่อพูดถึงการชาร์จ EV สาธารณะ ปลั๊กที่มากขึ้นอาจมีความสำคัญมากกว่าตัวเลขพลังงานที่มากขึ้น ตามข้อมูลใหม่ในอเมริกาเหนือจาก Kempower"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
       "category": "review",
-      "title_en": "Qualcomm’s next Snapdragon flagship chip has 5 GHz Oryon CPU",
-      "summary_en": "Ahead of Snapdragon Summit 2026 next month, Qualcomm is previewing three components of its “next-generation Snapdragon flagship platform” (chip), starting with the Oryon CPU today.",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Qualcomm-next-Snapdragon-Oryon-CPU.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/08/25/qualcomm-next-snapdragon-oryon-cpu/",
-      "published": "Tue, 25 Aug 2026 13:00:00 +0000",
-      "title_th": "Qualcomm’s next Snapdragon flagship chip has 5 GHz Oryon CPU",
-      "summary_th": "Ahead of Snapdragon Summit 2026 next month, Qualcomm is previewing three components of its “next-generation Snapdragon flagship platform” (chip), starting with the Oryon CPU today."
+      "title_en": "Ford has a new $25,000 crossover SUV coming, but will it go electric?",
+      "summary_en": "The crossover SUV will be Ford’s lowest-priced vehicle, starting at around $25,000. According to dealers who were shown a preview of the vehicle, it will not be based on the Universal EV platform.",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Ford-25000-SUV.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/08/25/ford-reveals-new-25000-crossover-suv-dealers/",
+      "published": "Tue, 25 Aug 2026 16:10:58 +0000",
+      "title_th": "ฟอร์ดมีรถ SUV ครอสโอเวอร์ตัวใหม่มูลค่า 25,000 เหรียญสหรัฐ แต่มันจะเป็นระบบไฟฟ้าหรือไม่?",
+      "summary_th": "SUV แบบครอสโอเวอร์จะเป็นรถที่มีราคาต่ำสุดของ Ford ในราคาเริ่มต้นประมาณ 25,000 เหรียญสหรัฐ ตามที่ตัวแทนจำหน่ายได้แสดงตัวอย่างรถยนต์คันนี้ จะไม่ใช้แพลตฟอร์ม Universal EV"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "The real reason to buy a Pixel 11 Pro",
-      "summary_en": "Good morning and happy Tuesday. It’s the perfect time to read conspiracies about who exactly made the new Ox Alpha AI model , cry about coffee getting even more expensive , add this fun daily typing challenge to your morning routine , and listen to r/indieheads’ top 106 songs of 2010 to 2026 . As a reminder, Inbox is the tech newsletter you should be able to read in around 95 seconds. We cover the most important 9to5Google stories from the last couple of days along with a few highlights from around the web. We publish every Tuesday and Thursday, and if you like what you read, please subscribe .",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-XL-Canyon-camera-bar-mid-shot-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/08/25/the-real-reason-to-buy-a-pixel-11-pro/",
-      "published": "Tue, 25 Aug 2026 11:00:00 +0000",
-      "title_th": "The real reason to buy a Pixel 11 Pro",
-      "summary_th": "Good morning and happy Tuesday. It’s the perfect time to read conspiracies about who exactly made the new Ox Alpha AI model , cry about coffee getting even more expensive , add this fun daily typing challenge to your morning routine , and listen to r/indieheads’ top 106 songs of 2010 to 2026 . As a reminder, Inbox is the tech newsletter you should be able to read in around 95 seconds. We cover the most important 9to5Google stories from the last couple of days along with a few highlights from around the web. We publish every Tuesday and Thursday, and if you like what you read, please subscribe ."
+      "category": "ev",
+      "title_en": "Mercedes CEO on his fake-V8 electric AMG: ‘like a born-again Christian’",
+      "summary_en": "Mercedes-Benz CEO Ola Källenius, a self-described “petrol head” who once ran AMG, says driving an electric AMG with a simulated V8 turned him into “a born-again Christian.” The comments, made in a new interview, are Mercedes’ clearest pitch yet that enthusiasts, not just early adopters, are supposed to love its next wave of EVs.",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/07/mercedes-amg-cla-45-festival-of-speed-2026-charlie-brenninmeijer-2.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/08/25/mercedes-ceo-kallenius-fake-v8-electric-amg-born-again/",
+      "published": "Tue, 25 Aug 2026 15:38:02 +0000",
+      "title_th": "Mercedes CEO บน AMG ไฟฟ้า V8 ปลอมของเขา: 'เหมือนคริสเตียนที่บังเกิดใหม่'",
+      "summary_th": "Ola Källenius CEO ของ Mercedes-Benz หรือที่เรียกตัวเองว่า “หัวหน้าน้ำมัน” ซึ่งครั้งหนึ่งเคยเป็นผู้บริหาร AMG กล่าวว่าการขับรถ AMG แบบไฟฟ้าพร้อมเครื่อง V8 จำลองทำให้เขากลายเป็น “คริสเตียนที่บังเกิดใหม่” ความคิดเห็นที่เกิดขึ้นในการสัมภาษณ์ครั้งใหม่เป็นแนวทางที่ชัดเจนที่สุดของ Mercedes แต่ผู้ที่ชื่นชอบ ไม่ใช่แค่ผู้ใช้งานในช่วงแรกเท่านั้น ควรจะรักคลื่นลูกใหม่ของ EV"
     },
     {
       "source": "Electrek",
@@ -553,54 +601,6 @@
       "published": "Tue, 25 Aug 2026 14:44:42 +0000",
       "title_th": "BMW i3 Touring ถูกจับในวิดีโอเป็นครั้งแรก [วิดีโอ]",
       "summary_th": "เนื่องจากรุ่นซีดานวางจำหน่ายแล้ว BMW i3 Touring ใหม่จึงถูกจับภาพเป็นครั้งแรกโดยมีหางเกวียนจัดแสดงอยู่"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "I tested this lithium-ion battery charging cabinet as the safest place to charge your e-bike batteries",
-      "summary_en": "One of the most common questions I get from readers isn’t just about speed or range anymore. Increasingly, I’m hearing more questions about battery safety. People see the occasional viral video of an e-bike battery fire and wonder if they should be worried about charging their battery in the garage, apartment, or workshop. The reality is that quality lithium-ion batteries from reputable manufacturers are remarkably safe , but when failures do occur, they can be dramatic enough that many riders want an extra layer of protection. That’s where products like Yolin’s lithium-ion battery charging cabinet come in. I recently spent some time testing the cabinet, and while I admittedly wasn’t sure what to expect going in, I came away more impressed than I anticipated.",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/battery-charging-cabinet-head-e-bike-1-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/08/25/i-tested-this-lithium-ion-battery-charging-cabinet-as-the-safest-place-to-charge-your-e-bike-batteries/",
-      "published": "Tue, 25 Aug 2026 14:36:27 +0000",
-      "title_th": "ฉันทดสอบตู้ชาร์จแบตเตอรี่ลิเธียมไอออนนี้ว่าเป็นสถานที่ที่ปลอดภัยที่สุดในการชาร์จแบตเตอรี่จักรยานไฟฟ้าของคุณ",
-      "summary_th": "หนึ่งในคำถามที่พบบ่อยที่สุดที่ฉันได้รับจากผู้อ่านไม่ใช่แค่เรื่องความเร็วหรือระยะอีกต่อไป ฉันได้ยินคำถามเกี่ยวกับความปลอดภัยของแบตเตอรี่มากขึ้นเรื่อยๆ ผู้คนเห็นวิดีโอไวรัลเกี่ยวกับไฟไหม้แบตเตอรี่อีไบค์เป็นครั้งคราว และสงสัยว่าพวกเขาควรกังวลเกี่ยวกับการชาร์จแบตเตอรี่ในโรงรถ อพาร์ตเมนต์ หรือเวิร์กช็อปหรือไม่ ความจริงก็คือแบตเตอรี่ลิเธียมไอออนคุณภาพจากผู้ผลิตที่มีชื่อเสียงนั้นมีความปลอดภัยอย่างมาก แต่เมื่อเกิดความล้มเหลวขึ้น แบตเตอรี่ลิเธียมไอออนคุณภาพนั้นก็เพียงพอแล้วที่ผู้ขับขี่จำนวนมากต้องการการปกป้องอีกชั้นหนึ่ง นั่นคือที่มาของผลิตภัณฑ์เช่นตู้ชาร์จแบตเตอรี่ลิเธียมไอออนของ Yolin ฉันเพิ่งใช้เวลาทดสอบตู้นี้ และแม้ว่าฉันยอมรับว่าไม่แน่ใจว่าจะเกิดอะไรขึ้น แต่ฉันก็รู้สึกประทับใจมากกว่าที่คาดไว้"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "The cheapest new cars to own in America are THESE retro-styled EVs",
-      "summary_en": "A study of 50 new cars found that the compact but stylish Fiat 500e was America’s cheapest car to own and drive, beating out the Honda Civic Hybrid by nearly $1,300 per year. And the second most affordable EV to own? It’s also from Stellantis.",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/2026-500e-MAIN.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/08/25/the-cheapest-new-cars-to-own-in-america-are-these-retro-styled-evs/",
-      "published": "Tue, 25 Aug 2026 14:30:00 +0000",
-      "title_th": "รถยนต์ใหม่ที่ถูกที่สุดที่จะเป็นเจ้าของในอเมริกาคือรถยนต์ไฟฟ้าสไตล์เรโทรเหล่านี้",
-      "summary_th": "A study of 50 new cars found that the compact but stylish Fiat 500e was America’s cheapest car to own and drive, beating out the Honda Civic Hybrid by nearly $1,300 per year. And the second most affordable EV to own? It’s also from Stellantis."
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Tesla raises Cybertruck prices by $5,000 despite abysmal demand",
-      "summary_en": "Tesla raised the price of the Cybertruck by $5,000 on Monday night, quietly updating its online configurator without changing a single spec. The Dual Motor all-wheel drive now starts at $74,990, up from $69,990. And it comes while Tesla is running the Cybertruck line at roughly 10% of its planned capacity.",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Tesla-Cybertruck-configurator-1.png?resize=1200,628",
-      "link": "https://electrek.co/2026/08/25/tesla-cybertruck-price-increase-5000-demand/",
-      "published": "Tue, 25 Aug 2026 13:14:47 +0000",
-      "title_th": "Tesla raises Cybertruck prices by $5,000 despite abysmal demand",
-      "summary_th": "Tesla raised the price of the Cybertruck by $5,000 on Monday night, quietly updating its online configurator without changing a single spec. The Dual Motor all-wheel drive now starts at $74,990, up from $69,990. And it comes while Tesla is running the Cybertruck line at roughly 10% of its planned capacity."
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Need a panel upgrade for an EV charger? Schneider may have a workaround",
-      "summary_en": "Schneider Electric’s new 48-amp home EV charger is designed to solve one of the priciest problems that can come with buying an EV: discovering that your house needs an electrical panel or service upgrade before you can charge at Level 2 speeds.",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Schneider-Charge_Home-EV-Charger_Lifestyle-Image-1_Schneider-Electric.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/08/25/481029/",
-      "published": "Tue, 25 Aug 2026 12:00:00 +0000",
-      "title_th": "Need a panel upgrade for an EV charger? Schneider may have a workaround",
-      "summary_th": "Schneider Electric’s new 48-amp home EV charger is designed to solve one of the priciest problems that can come with buying an EV: discovering that your house needs an electrical panel or service upgrade before you can charge at Level 2 speeds."
     }
   ],
   "indices": [
@@ -608,65 +608,65 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 211.31,
-      "change": 2.83,
-      "change_pct": 1.36
+      "price": 212.07,
+      "change": 3.59,
+      "change_pct": 1.72
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 352.55,
-      "change": 3.6,
-      "change_pct": 1.03
+      "price": 351.66,
+      "change": 2.71,
+      "change_pct": 0.78
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 346.74,
-      "change": -1.32,
-      "change_pct": -0.38
+      "price": 345.63,
+      "change": -2.43,
+      "change_pct": -0.7
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 489.33,
-      "change": 2.02,
-      "change_pct": 0.41
+      "price": 489.86,
+      "change": 2.55,
+      "change_pct": 0.52
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 309.84,
-      "change": -0.5,
-      "change_pct": -0.16
+      "price": 309.43,
+      "change": -0.91,
+      "change_pct": -0.29
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 260.71,
-      "change": -1.36,
-      "change_pct": -0.52
+      "price": 259.89,
+      "change": -2.18,
+      "change_pct": -0.83
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 565.66,
-      "change": 6.64,
-      "change_pct": 1.19
+      "price": 564.4,
+      "change": 5.38,
+      "change_pct": 0.96
     },
     {
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 250.0,
-      "change": -4.0,
-      "change_pct": -1.57
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     }
   ],
   "reviews": [
@@ -678,7 +678,7 @@
       "link": "https://www.youtube.com/watch?v=ngPkbaZliaU",
       "thumbnail": "https://i3.ytimg.com/vi/ngPkbaZliaU/hqdefault.jpg",
       "published": "2026-08-24T20:27:50+00:00",
-      "title_th": "The Truth About the Bezelless Concept Phone"
+      "title_th": "ความจริงเกี่ยวกับโทรศัพท์แนวคิด Bezelless"
     },
     {
       "channel": "MKBHD",
@@ -688,7 +688,7 @@
       "link": "https://www.youtube.com/watch?v=mfmdXPT7nAM",
       "thumbnail": "https://i2.ytimg.com/vi/mfmdXPT7nAM/hqdefault.jpg",
       "published": "2026-08-21T18:53:07+00:00",
-      "title_th": "I Said Yes to Every Email for a Month! (Again)"
+      "title_th": "ฉันตอบตกลงทุกอีเมลเป็นเวลาหนึ่งเดือน! (อีกครั้ง)"
     },
     {
       "channel": "MKBHD",
