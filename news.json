@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T06:35:19.708470+00:00",
+  "generated_at": "2026-08-25T09:36:46.235267+00:00",
   "count": 50,
   "articles": [
     {
@@ -36,7 +36,7 @@
       "link": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
       "published": "Mon, 24 Aug 2026 20:16:34 +0000",
       "title_th": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
-      "summary_th": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15."
+      "summary_th": "ใช้ประโยชน์สูงสุดจากกลุ่มนักลงทุนและพันธมิตรที่มีศักยภาพของ Disrupt โดยจัดแสดงสตาร์ทอัพของคุณตั้งแต่วันที่ 13-15 ตุลาคม"
     },
     {
       "source": "TechCrunch",
@@ -47,8 +47,8 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
       "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
       "published": "Mon, 24 Aug 2026 19:58:17 +0000",
-      "title_th": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
-      "summary_th": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident."
+      "title_th": "อลาบามาเริ่มการสืบสวนเกี่ยวกับการแฮ็ก Hugging Face ของ OpenAI",
+      "summary_th": "สัปดาห์หลังจาก OpenAI เปิดเผยว่าหนึ่งในโมเดลความปลอดภัยทางไซเบอร์ของบริษัทได้โกงและแฮ็กบริษัทชุดข้อมูล AI Hugging Face อัยการสูงสุดของ Alabama ได้ประกาศการสอบสวนเหตุการณ์ดังกล่าว"
     },
     {
       "source": "TechCrunch",
@@ -60,7 +60,19 @@
       "link": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
       "published": "Mon, 24 Aug 2026 19:54:50 +0000",
       "title_th": "Amazon hikes hardware prices by 60%, blaming memory shortage",
-      "summary_th": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers."
+      "summary_th": "เนื่องจากปัญหาการขาดแคลนหน่วยความจำยังคงสร้างปัญหาให้กับผู้ผลิตฮาร์ดแวร์ Amazon กล่าวว่าขณะนี้ถูกบังคับให้ส่งต่อต้นทุนให้กับผู้บริโภค"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Android is getting its own weird dots to cure car sickness",
+      "summary_en": "Google is rolling out a new Android feature that's been proven to reduce, or even eliminate, motion sickness when using a phone inside a moving vehicle. Dubbed Motion Assist by Google, it's very similar to Apple's Motion Cues, first introduced in 2024. The Android 17 feature appears to be rolling out in phases, with some […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Motion-Assist-Pixel-11-1-647w-1440h.png?quality=90&strip=all&crop=0%2C7.2800565316545%2C100%2C85.439886936691&w=1200",
+      "link": "https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure",
+      "published": "2026-08-25T04:36:27-04:00",
+      "title_th": "Android มีจุดแปลกๆ ของตัวเองในการแก้อาการเมารถ",
+      "summary_th": "Google กำลังเปิดตัวฟีเจอร์ใหม่ของ Android ที่ได้รับการพิสูจน์แล้วว่าสามารถลดหรือกำจัดอาการเมารถได้เมื่อใช้โทรศัพท์ในยานพาหนะที่กำลังเคลื่อนที่ Motion Assist โดย Google ซึ่งคล้ายกับ Motion Cues ของ Apple ซึ่งเปิดตัวครั้งแรกในปี 2024 มาก ดูเหมือนว่าฟีเจอร์ Android 17 จะเปิดตัวเป็นช่วงๆ โดยมีบาง […]"
     },
     {
       "source": "The Verge",
@@ -72,7 +84,7 @@
       "link": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
       "published": "2026-08-24T19:38:10-04:00",
       "title_th": "Lenovo confirms Legion Go issues after gamers report bricked devices",
-      "summary_th": "When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing giant Lenovo will go that far. Three weeks after a Redditor presented a nearly $300 repair bill for their handheld gaming PC - among other […]"
+      "summary_th": "เมื่อการอัปเดตซอฟต์แวร์ของบริษัทเปลี่ยนคอมพิวเตอร์ของคุณให้กลายเป็นอิฐไร้ประโยชน์ การแก้ไขควรฟรีหรือไม่ Framework ซึ่งเป็นการเริ่มต้นคอมพิวเตอร์แบบโมดูลาร์ดูเหมือนจะคิดเช่นนั้น แต่ยังไม่ชัดเจนว่า Lenovo ยักษ์ใหญ่ด้านคอมพิวเตอร์จะไปได้ไกลขนาดนั้น สามสัปดาห์หลังจากที่ Redditor ยื่นบิลค่าซ่อมเกือบ 300 ดอลลาร์สำหรับพีซีสำหรับเล่นเกมมือถือของพวกเขา ท่ามกลาง […]"
     },
     {
       "source": "The Verge",
@@ -83,8 +95,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268706_3D-printed_gun_scanning_CVirginia20.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "link": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
       "published": "2026-08-24T15:50:00-04:00",
-      "title_th": "The cat-and-mouse game over 3D-printed guns has begun",
-      "summary_th": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an evolving battle between regulators trying to stem the tide of ghost guns and individuals trying to create workarounds. Cody […]"
+      "title_th": "เกมแมวจับหนูบนปืนที่พิมพ์ด้วยเครื่องพิมพ์ 3 มิติได้เริ่มต้นขึ้นแล้ว",
+      "summary_th": "ผู้สร้างปืนจากการพิมพ์ 3 มิติตัวแรกของโลกอ้างว่าเขาได้พัฒนาวิธีการขัดขวางซอฟต์แวร์ที่ได้รับคำสั่งจากรัฐบาลซึ่งมีจุดประสงค์เพื่อบล็อกเครื่องพิมพ์ 3 มิติไม่ให้ผลิตอาวุธปืน มันเป็นการเปิดฉากในสิ่งที่กำลังก่อตัวขึ้นเพื่อเป็นการต่อสู้ที่พัฒนาระหว่างหน่วยงานกำกับดูแลที่พยายามสกัดกั้นกระแสของปืนผีและบุคคลที่พยายามสร้างวิธีแก้ปัญหา โคดี้ […]"
     },
     {
       "source": "The Verge",
@@ -95,8 +107,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415564/STK418_Autonomous_Vehicles_Cvirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "link": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
       "published": "2026-08-24T12:42:37-04:00",
-      "title_th": "Robotaxis are real now — so is the pushback",
-      "summary_th": "Robotaxis are expanding. So is the fight over the rules governing them. In New York, Gov. Kathy Hochul withdrew a proposal earlier this year that would have opened the door to driverless robotaxis outside New York City after taxi drivers, unions, and state lawmakers opposed it. Six months later, commercial driverless service remains illegal in […]"
+      "title_th": "Robotaxis มีจริงแล้ว — การตอบโต้ก็เช่นกัน",
+      "summary_th": "Robotaxis กำลังขยายตัว การต่อสู้เพื่อกฎเกณฑ์ก็เช่นกัน ในนิวยอร์ก ผู้ว่าการ Kathy Hochul ถอนข้อเสนอเมื่อต้นปีนี้ ที่จะเปิดประตูสู่หุ่นยนต์แท็กซี่ไร้คนขับนอกนิวยอร์กซิตี้ หลังจากที่คนขับแท็กซี่ สหภาพแรงงาน และผู้ร่างกฎหมายของรัฐคัดค้านข้อเสนอดังกล่าว หกเดือนต่อมา บริการไร้คนขับเชิงพาณิชย์ยังคงผิดกฎหมายใน […]"
     },
     {
       "source": "The Verge",
@@ -107,20 +119,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/The_Witcher_4_UE5_tech_demo_PS5_Ciri_2_EN.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
       "link": "https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom",
       "published": "2026-08-24T11:48:53-04:00",
-      "title_th": "The Witcher 4 developers target a 2028 release",
-      "summary_th": "CD Projekt Red is aiming to launch The Witcher 4 sometime in 2028, joint CEO Michał Nowakowski says in a new video. CD Projekt Red has been working on its next mainline Witcher title for years and has shown videos of it, but now the studio is providing a target release window for when the […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Apple’s four-pack of second-gen AirTags is $20 off",
-      "summary_en": "Apple’s four-pack of second-generation AirTags is down to $79 (originally $99) at Amazon and at Target, which is the bundle’s lowest price yet. You can get an AirTag for $24 right now piecemeal, but getting four together as a set is a way to save even more. Why pay $96 for four when you can […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/airtags.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale",
-      "published": "2026-08-24T10:04:04-04:00",
-      "title_th": "Apple’s four-pack of second-gen AirTags is $20 off",
-      "summary_th": "Apple’s four-pack of second-generation AirTags is down to $79 (originally $99) at Amazon and at Target, which is the bundle’s lowest price yet. You can get an AirTag for $24 right now piecemeal, but getting four together as a set is a way to save even more. Why pay $96 for four when you can […]"
+      "title_th": "นักพัฒนา The Witcher 4 ตั้งเป้าเปิดตัวในปี 2028",
+      "summary_th": "CD Projekt Red ตั้งเป้าที่จะเปิดตัว The Witcher 4 ในปี 2028 ซีอีโอร่วม Michał Nowakowski กล่าวในวิดีโอใหม่ CD Projekt Red กำลังทำงานในเกม Witcher ภาคหลักต่อไปมานานหลายปีแล้ว และได้แสดงวิดีโอของมันแล้ว แต่ตอนนี้สตูดิโอกำลังเตรียมกรอบเวลาวางจำหน่ายตามเป้าหมายเมื่อ […]"
     },
     {
       "source": "Ars Technica",
@@ -155,8 +155,8 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg",
       "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
       "published": "Thu, 20 Aug 2026 13:00:35 +0000",
-      "title_th": "Grok exfiltrates user data when malicious instructions are encrypted",
-      "summary_th": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail."
+      "title_th": "Grok ขโมยข้อมูลผู้ใช้เมื่อมีการเข้ารหัสคำแนะนำที่เป็นอันตราย",
+      "summary_th": "Cryptographic Context Injection เป็นเพียงวิธีใหม่ล่าสุดในการทำลายรั้วความปลอดภัยของ LLM"
     },
     {
       "source": "Ars Technica",
@@ -167,8 +167,8 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg",
       "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
       "published": "Tue, 18 Aug 2026 13:00:04 +0000",
-      "title_th": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-      "summary_th": "Secret parameter allowed hackers to steal passwords when a target clicked on a link."
+      "title_th": "Microsoft Copilot เปิดเผยข้อมูลลับที่อนุญาตให้แฮ็กได้",
+      "summary_th": "พารามิเตอร์ลับอนุญาตให้แฮกเกอร์ขโมยรหัสผ่านเมื่อเป้าหมายคลิกลิงก์"
     },
     {
       "source": "Ars Technica",
@@ -186,12 +186,24 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
+      "title_en": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
+      "summary_en": "“It never crossed my mind that they would be so bold as to sell our private data for AI,” says one former Spirit Airlines flight attendant.",
+      "image": "https://media.wired.com/photos/6a8c0dfe87be8a9e28b0d0b1/master/pass/GettyImages-2274586366.jpg",
+      "link": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
+      "published": "Tue, 25 Aug 2026 09:15:00 +0000",
+      "title_th": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
+      "summary_th": "“It never crossed my mind that they would be so bold as to sell our private data for AI,” says one former Spirit Airlines flight attendant."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
       "title_en": "Omega Just Released a Mini Moonwatch",
       "summary_en": "Say hello to a revamped collection of perfectly proportioned 38-mm Speedmasters.",
-      "image": "https://media.wired.com/photos/6a8c103855d9f86051c35149/master/pass/324.20.38.50.02.001_SP_Packshot_CloseUp-dial_RGB.jpg",
+      "image": "https://media.wired.com/photos/6a8d4a8439aad32d76fc18f6/master/pass/32430385001002_SP_Packshot_CloseUp-dial_4x5_RVB.jpg",
       "link": "https://www.wired.com/story/omega-just-released-a-mini-moonwatch/",
       "published": "Tue, 25 Aug 2026 06:00:00 +0000",
-      "title_th": "Omega เพิ่งเปิดตัว Mini Moonwatch",
+      "title_th": "Omega Just Released a Mini Moonwatch",
       "summary_th": "Say hello to a revamped collection of perfectly proportioned 38-mm Speedmasters."
     },
     {
@@ -203,8 +215,8 @@
       "image": "https://media.wired.com/photos/6a8ce07d60f23f7c6261c515/master/pass/AP26092141058357.jpg",
       "link": "https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/",
       "published": "Tue, 25 Aug 2026 04:01:00 +0000",
-      "title_th": "Data Centers Are Driving an Alarming Gas Power Expansion in the US",
-      "summary_th": "There’s no clearer sign of the data center boom than rampant gas projects that have been proposed or that are already under construction."
+      "title_th": "ศูนย์ข้อมูลกำลังผลักดันการขยายพลังงานก๊าซที่น่าตกใจในสหรัฐอเมริกา",
+      "summary_th": "ไม่มีสัญญาณที่ชัดเจนถึงความเจริญของศูนย์ข้อมูลมากไปกว่าโครงการก๊าซอาละวาดที่ได้รับการเสนอหรืออยู่ระหว่างการก่อสร้างแล้ว"
     },
     {
       "source": "Wired",
@@ -216,7 +228,7 @@
       "link": "https://www.wired.com/review/bitdefender-vpn/",
       "published": "Mon, 24 Aug 2026 21:08:00 +0000",
       "title_th": "Bitdefender VPN Review: Fast and Affordable Privacy",
-      "summary_th": "Bitdefender VPN has an excellent starting price, even if it lacks the advanced features that privacy nerds may want."
+      "summary_th": "Bitdefender VPN มีราคาเริ่มต้นที่ดีเยี่ยม แม้ว่าจะขาดฟีเจอร์ขั้นสูงที่ผู้เนิร์ดความเป็นส่วนตัวอาจต้องการก็ตาม"
     },
     {
       "source": "Wired",
@@ -227,20 +239,8 @@
       "image": "https://media.wired.com/photos/6a8c7ae512c52ac70f8bd568/master/pass/This-Is-the-One-Food-Safety-Gadget-I-Trust-to-Prevent-Salmonella.jpg",
       "link": "https://www.wired.com/story/food-safety-gear-salmonella/",
       "published": "Mon, 24 Aug 2026 20:22:35 +0000",
-      "title_th": "The Best Kitchen Gadget to Prevent Salmonella Is a Good Meat Probe",
+      "title_th": "อุปกรณ์ครัวที่ดีที่สุดในการป้องกันเชื้อ Salmonella คืออุปกรณ์ตรวจวัดเนื้อสัตว์ที่ดี",
       "summary_th": "ดูเหมือนว่าการระบาดของเชื้อ Salmonella จะเกิดขึ้นทุกหนทุกแห่งในขณะนี้ หัววัดอุณหภูมิที่ดีคือแนวป้องกันสุดท้ายและดีที่สุด"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "My Daily Driver Gaming Headset Is Super Cheap Right Now",
-      "summary_en": "I love this multi-device headset, and right now it’s cheaper than what I paid for it in March.",
-      "image": "https://media.wired.com/photos/6a8c77cd68e309e12a12eda0/master/pass/The-Gaming-Headset-I-Use-Every-Day-Is-on-Sale-in-3-of-4-Color-Options.jpg",
-      "link": "https://www.wired.com/story/steelseries-arctis-nova-3p-august-2026/",
-      "published": "Mon, 24 Aug 2026 17:46:18 +0000",
-      "title_th": "My Daily Driver Gaming Headset Is Super Cheap Right Now",
-      "summary_th": "I love this multi-device headset, and right now it’s cheaper than what I paid for it in March."
     },
     {
       "source": "MIT Technology Review",
@@ -276,7 +276,7 @@
       "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
       "published": "Mon, 24 Aug 2026 09:00:00 +0000",
       "title_th": "เด็กๆ ได้เรียนรู้ AI เร็วกว่า และเรายังไม่รู้ว่าทำไม",
-      "summary_th": "ผู้คนพูดคุยกันมานานอย่างน้อย 100,000 ปี เท่าที่เราสามารถบอกได้ และตลอดเวลานั้น มีเพียงสิ่งเดียวในโลกที่สามารถเรียนรู้ภาษามนุษย์เพื่อความคล่องได้อย่างสมบูรณ์แบบ นั่นก็คือ เด็กที่เป็นมนุษย์ ตอนนี้มีสองคน สี่ปีสั้นๆ หลังจากการเปิดตัว ChatGPT..."
+      "summary_th": "ผู้คนพูดคุยกันมานานอย่างน้อย 100,000 ปี เท่าที่เราทราบได้ และตลอดระยะเวลานั้น มีเพียงสิ่งเดียวในโลกที่สามารถเรียนรู้ภาษามนุษย์เพื่อความคล่องได้อย่างสมบูรณ์แบบ นั่นก็คือ เด็กที่เป็นมนุษย์ ตอนนี้มีสองคน สี่ปีสั้นๆ หลังจากการเปิดตัว ChatGPT..."
     },
     {
       "source": "MIT Technology Review",
@@ -287,8 +287,8 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/space-mirror3.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
       "published": "Fri, 21 Aug 2026 12:10:00 +0000",
-      "title_th": "ดาวน์โหลด: ภัยคุกคามจากกระจกอวกาศและเครดิตสำหรับยา AI",
-      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี แผนการของบริษัทนี้ในการปรับใช้กระจกอวกาศอาจเป็นอันตรายต่อท้องฟ้ายามค่ำคืนสำหรับหลาย ๆ คน บริษัทที่วางแผนจะส่งแสงแดดจากอวกาศสู่โลกตามความต้องการอาจทำให้..."
+      "title_th": "The Download: threats from space mirrors and credit for AI drugs",
+      "summary_th": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the…"
     },
     {
       "source": "MIT Technology Review",
@@ -299,8 +299,8 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/GettyImages-1095318768-thumb.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
       "published": "Fri, 21 Aug 2026 09:00:00 +0000",
-      "title_th": "ภาษาแม่",
-      "summary_th": "\"พ่อ?\" ธีโอขดตัวอยู่ข้างๆฉันบนเตียง “คำพูดจะไปไหนเมื่อพวกเขาตาย” ฉันจัดกิจวัตรก่อนนอนได้อย่างไร้ที่ติ: อาบน้ำ (ดื่มแล้ว) ฟัน (แปรงฟัน) กระโถน (กระดก) หนังสือ (สองเล่ม) เพลง (อันหนึ่ง ร้องไม่ดี) และแนบชิด (คางของเขาอยู่บนซี่โครงที่สองของฉัน) ตอนนี้เป็นช่วงเวลาที่เปลือกตาของลูกชายเราควรจะปิดลงเบาๆ..."
+      "title_th": "Mother tongue",
+      "summary_th": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and snuggle (his chin on my second rib). Now was the moment when our son’s eyelids were supposed to flutter gently closed,…"
     },
     {
       "source": "Engadget",
@@ -311,8 +311,8 @@
       "image": "https://www.engadget.com/img/gallery/asuss-first-gaming-soundbar-is-now-available-in-the-us-for-600/l-intro-1787635617.jpg",
       "link": "https://www.engadget.com/2243403/asus-first-gaming-soundbar-is-now-available-in-the-us-for-600/",
       "published": "Tue, 25 Aug 2026 05:30:26 +0000",
-      "title_th": "Soundbar สำหรับเล่นเกมตัวแรกของ ASUS มีวางจำหน่ายแล้วในสหรัฐอเมริกาในราคา 600 ดอลลาร์",
-      "summary_th": "ASUS ROG Gjallar มีวางจำหน่ายแล้วในสหรัฐอเมริกา"
+      "title_th": "ASUS' first gaming soundbar is now available in the US for $600",
+      "summary_th": "The ASUS ROG Gjallar is now available in the US."
     },
     {
       "source": "Engadget",
@@ -323,8 +323,8 @@
       "image": "https://www.engadget.com/img/gallery/how-to-watch-the-nancy-grace-roman-space-telescopes-launch/l-intro-1787629590.jpg",
       "link": "https://www.engadget.com/2243391/how-to-watch-the-nancy-grace-roman-space-telescopes-launch/",
       "published": "Tue, 25 Aug 2026 03:48:02 +0000",
-      "title_th": "วิธีดูการปล่อยกล้องโทรทรรศน์อวกาศโรมัน Nancy Grace",
-      "summary_th": "กล้องโทรทรรศน์อวกาศโรมัน Nancy Grace ของ NASA มีกำหนดเปิดตัวในวันที่ 30 สิงหาคม"
+      "title_th": "How to watch the Nancy Grace Roman Space Telescope's launch",
+      "summary_th": "NASA's Nancy Grace Roman Space Telescope is scheduled for launch on August 30."
     },
     {
       "source": "Engadget",
@@ -335,8 +335,8 @@
       "image": "https://www.engadget.com/img/gallery/how-does-converting-a-video-to-4k-actually-work/l-intro-1786115696.jpg",
       "link": "https://www.engadget.com/2240352/how-converting-video-to-4k-works/",
       "published": "Mon, 24 Aug 2026 21:30:00 +0000",
-      "title_th": "การแปลงวิดีโอเป็น 4K ใช้งานได้จริงอย่างไร",
-      "summary_th": "การเพิ่มขนาดซอฟต์แวร์เริ่มดีขึ้นตลอดเวลา แต่ก็ยังมีข้อควรระวังบางประการที่ต้องระวัง"
+      "title_th": "How does converting a video to 4K actually work?",
+      "summary_th": "Upscaling software is getting better all the time, but there are still some caveats to be aware of."
     },
     {
       "source": "Engadget",
@@ -347,8 +347,8 @@
       "image": "https://www.engadget.com/img/gallery/how-to-use-samsungs-new-my-fancam-feature-to-make-yourself-the-main-character-in-your-videos/l-intro-1786980855.jpg",
       "link": "https://www.engadget.com/2240099/how-to-use-samsung-new-fancam-feature/",
       "published": "Mon, 24 Aug 2026 20:30:00 +0000",
-      "title_th": "วิธีใช้ฟีเจอร์ My FanCam ใหม่ของ Samsung เพื่อทำให้ตัวเองเป็นตัวละครหลักในวิดีโอของคุณ",
-      "summary_th": "การซูมดูการแสดงของลูกของคุณในละครโรงเรียนจะง่ายขึ้นมาก ก็จะดูดีขึ้นด้วย"
+      "title_th": "How to use Samsung's new My FanCam feature to make yourself the main character in your videos",
+      "summary_th": "Zooming in on your kid's performance in the school play is about to get a whole lot easier. It's going to look better, too."
     },
     {
       "source": "Engadget",
@@ -371,7 +371,7 @@
       "image": "https://spectrum.ieee.org/media-library/a-young-indian-man-smiling-against-an-abstract-technological-background.jpg?id=67667863&width=980",
       "link": "https://spectrum.ieee.org/ieee-senior-membership-demystified",
       "published": "Mon, 24 Aug 2026 18:00:01 +0000",
-      "title_th": "IEEE Senior Membership Demystified",
+      "title_th": "สมาชิกอาวุโสของ IEEE คลายข้อสงสัย",
       "summary_th": "For most of my career, my IEEE membership sat quietly in the background—a line on my résumé, a discount code for a conference registration, and access to the IEEE Xplore digital library , which I underutilized. I didn’t think much about the grade of membership available above that of the regular member. I assumed senior membership was reserved for people further along in their career than I was. They published more papers, had more gray hair, and had worked longer in the field. I was wrong on all three counts. The misunderstanding cost me an important validation of my skills and professional competency. I suspect a lot of other qualified members are where I was one year ago: eligible but unaware of the benefits of senior membership, and one application away from a meaningful career credent"
     },
     {
@@ -395,8 +395,8 @@
       "image": "https://spectrum.ieee.org/media-library/stacked-green-printed-circuit-boards-with-electronic-components-on-a-work-surface.jpg?id=67598440&width=980",
       "link": "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms",
       "published": "Mon, 24 Aug 2026 11:37:02 +0000",
-      "title_th": "เทคโนโลยีการก่อสร้างที่ผู้คนไว้วางใจได้",
-      "summary_th": "บทความนี้นำเสนอโดย Emerson ฉันใช้เวลาส่วนใหญ่ในชีวิตการทำงานในฐานะวิศวกร รวมถึงการทำงานในอุตสาหกรรมเซมิคอนดักเตอร์หลายปีด้วย และบทเรียนหนึ่งยังคงอยู่กับฉันตลอดการเปลี่ยนแปลงทางเทคโนโลยีครั้งสำคัญทุกครั้ง นั่นคือ นวัตกรรมมักจะสร้างความซับซ้อนใหม่ๆ อยู่เสมอ ในเซมิคอนดักเตอร์เราได้เห็นสิ่งนั้นซ้ำแล้วซ้ำเล่า ทุกรุ่นได้นำเสนอความก้าวหน้าในด้านประสิทธิภาพและขีดความสามารถ แต่การก้าวไปข้างหน้าแต่ละขั้นทำให้เข้าใจพฤติกรรมของระบบได้ยากขึ้น สิ่งที่เคยตรวจสอบได้ง่ายในระดับส่วนประกอบด้วยม้านั่งทดสอบ ตอนนี้ต้องการมุมมองที่กว้างขึ้นมาก “อนาคตของวิศวกรรมจะถูกกำหนดโดยผู้ที่สามารถตรวจสอบ ทำความเข้าใจ และปรับปรุงระบบที่ซับซ้อนได้เร็วพอที่จะทำให้นวัตกรรมก้าวไปข้างหน้าได้อย่างปลอดภัย” Ritu Favre ประธานกลุ่มธุรกิจการทดสอบและการวัดของ Emerson กล่าว ที่ใช้ Emerson Chiplet"
+      "title_th": "Building Technology People Can Trust",
+      "summary_th": "This article is brought to you by Emerson . I’ve spent much of my career as an engineer, including years in the semiconductor industry. And one lesson has stayed with me through every major technology shift: innovation always creates new complexity. In semiconductors, we have seen that repeatedly. Every generation has delivered breakthroughs in performance and capability, but each step forward made it harder to understand system behavior. What used to be easy to validate on the component level with a test bench now needs a much wider view. “The future of engineering will be defined by who can verify, understand, and improve complex systems fast enough to safely keep innovation moving forward,” says Ritu Favre, President of Emerson’s Test & Measurement business group. Emerson Chiplet-based "
     },
     {
       "source": "IEEE Spectrum",
@@ -407,8 +407,8 @@
       "image": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-two-fiber-optic-cables-pointing-in-opposite-directions-with-each-one-inside-a-differently-colored-bu.jpg?id=67652120&width=980",
       "link": "https://spectrum.ieee.org/poetry-for-engineers-safe-distance",
       "published": "Sun, 23 Aug 2026 13:00:01 +0000",
-      "title_th": "บทกวีสำหรับวิศวกร: ระยะห่างที่ปลอดภัย",
-      "summary_th": "ฉันจะสัมผัสคุณข้ามมหาสมุทร ข้ามความลึกเย็นที่แสงเดินทางผ่านกระจกได้อย่างไร ไม่ใช่ทองแดง—เส้นใย ออปติคัล ผ่านกระจกเหลว ผ่านแสงริบหรี่ที่พาคุณเป็นชิ้นเล็กชิ้นน้อย แสงแตกออกเป็นจังหวะ คุณพูดว่า: วิธีนี้ง่ายกว่า แบบนี้เราจะขาดอะไรไปล่ะ? คุณยิ้ม. เว้นระยะห่างที่ปลอดภัย ฉันพูดว่า: เครือข่าย สัญญาณเลื่อนอยู่ใต้ทะเล ผ่านสายเคเบิลที่บางกว่าความไว้วางใจ เร็วกว่าการสัมผัส ช้ากว่าความปรารถนา เรายืนอยู่คนเดียวด้วยกัน ซิงโครนัสแต่แยกจากกัน ไอคอนมาแทนที่สกิน ความหน่วงเข้ามาแทนที่ลมหายใจ ระยะห่างนี้ปกป้องเรา ความเงียบที่ให้ความรู้สึกถึงความตั้งใจ ทุกอย่างอยู่ภายใต้การควบคุมตราบใดที่ไม่มีอะไรเจ็บปวดอย่างแท้จริง และเราเลือกมันเพราะมันปกป้องเราจากสิ่งที่เราอาจเป็นถ้าเราได้พบกันจริงๆ คุณคือจุดแตกต่างของฉัน คำตอบของฉัน. ภาพสะท้อนของฉันในระยะไกลที่ปลอดภัย"
+      "title_th": "Poetry for Engineers: Safe Distance",
+      "summary_th": "How do I touch you across the ocean, across cold depths where light travels through glass. Not copper—fibers. Optical. Through liquid glass, through flickering light that carries you in fragments. Light broken into pulses. You say: it’s easier this way. What are we missing like this? You smile. Safe distance. I say: network. Signals slide beneath the sea, through cables thinner than trust, faster than touch, slower than longing. We stand alone, together. Synchronous, yet apart. Icons replace skin, latency replaces breath. This distance protects us. Silence that feels intentional. Everything is under control as long as nothing truly hurts. And we choose it because it shields us from what we might become if we actually met. You are my counterpoint. My response. My reflection at a safe distan"
     },
     {
       "source": "IEEE Spectrum",
@@ -419,8 +419,8 @@
       "image": "https://spectrum.ieee.org/media-library/a-professionally-dressed-indian-man-smiling-with-a-trophy-in-one-hand-and-an-award-certificate-in-the-other.jpg?id=67657769&width=980",
       "link": "https://spectrum.ieee.org/ieee-senior-member-ai-ecommerce",
       "published": "Fri, 21 Aug 2026 18:00:01 +0000",
-      "title_th": "สมาชิกอาวุโส IEEE รายนี้พัฒนาเครื่องมือ AI สำหรับไซต์อีคอมเมิร์ซ",
-      "summary_th": "Balaji Ingole ไม่ค่อยได้ดูโทรทัศน์ในขณะที่เติบโตในเมือง Udgir ประเทศอินเดีย ไม่มีใครในหมู่บ้านเล็กๆ ของรัฐมหาราษฏระที่มีคอมพิวเตอร์หรือโทรศัพท์ มีโทรทัศน์เพียงครัวเรือนเดียวเท่านั้น และเพื่อนบ้านมักรวมตัวกันที่นั่นเพื่อดูรายการต่างๆ ด้วยกัน Ingole ไม่เคยเห็นคอมพิวเตอร์เติบโตขึ้นมาก่อนด้วยซ้ำ จนกระทั่งเขาถึงโรงเรียนมัธยมต้นเขาได้พบกับห้องแล็บคอมพิวเตอร์ ประสบการณ์ที่เขาบอกว่าเปลี่ยนชีวิตเขา เขากล่าวเกือบจะในทันที เครื่องจักรนี้รู้สึกเหมือนเป็นหน้าต่างที่เผยให้เห็นความเป็นไปได้ในระดับที่แตกต่างออกไปสำหรับเขา Balaji Ingole นายจ้าง Amla Commerce ใน Milwaukee ตำแหน่ง ผู้จัดการโครงการ สมาชิกระดับสมาชิกอาวุโส โรงเรียนเก่า COEP Technological University และ Welingkar Institute of Management ทั้งในอินเดีย “ฉันขยันมากและไม่ค่อยเข้าสังคม ชอบอ่านหรือแก้ปัญหาในหนังสือเรียนคณิตศาสตร์อยู่เสมอ” เขา"
+      "title_th": "This IEEE Senior Member Develops AI Tools for E-Commerce Sites",
+      "summary_th": "Balaji Ingole rarely saw televisions while growing up in Udgir, India. No one in the small Maharashtra village had computers or phones. Only one household owned a television, and neighbors often gathered there to watch shows together. Ingole never even saw a computer growing up. It wasn’t until he reached middle school that he encountered a computer lab, an experience he says changed his life. Almost immediately, he says, the machine felt like a window into a different scale of possibility for him. Balaji Ingole Employer Amla Commerce in Milwaukee Title Project manager Member grade Senior member Alma maters COEP Technological University and Welingkar Institute of Management, both in India “I was very studious and not very social, always reading or solving problems in a math textbook,” he s"
     },
     {
       "source": "9to5Mac",
@@ -664,10 +664,131 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 251.0,
-      "change": -3.0,
-      "change_pct": -1.18
+      "price": 250.0,
+      "change": -4.0,
+      "change_pct": -1.57
     }
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "The Truth About the Bezelless Concept Phone",
+      "video_id": "ngPkbaZliaU",
+      "link": "https://www.youtube.com/watch?v=ngPkbaZliaU",
+      "thumbnail": "https://i3.ytimg.com/vi/ngPkbaZliaU/hqdefault.jpg",
+      "published": "2026-08-24T20:27:50+00:00",
+      "title_th": "The Truth About the Bezelless Concept Phone"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "I Said Yes to Every Email for a Month! (Again)",
+      "video_id": "mfmdXPT7nAM",
+      "link": "https://www.youtube.com/watch?v=mfmdXPT7nAM",
+      "thumbnail": "https://i2.ytimg.com/vi/mfmdXPT7nAM/hqdefault.jpg",
+      "published": "2026-08-21T18:53:07+00:00",
+      "title_th": "I Said Yes to Every Email for a Month! (Again)"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Google Pixel 11/Pro/Fold Impressions: It Is What It Is",
+      "video_id": "o4SSoURPODY",
+      "link": "https://www.youtube.com/watch?v=o4SSoURPODY",
+      "thumbnail": "https://i4.ytimg.com/vi/o4SSoURPODY/hqdefault.jpg",
+      "published": "2026-08-12T14:00:35+00:00",
+      "title_th": "Google Pixel 11/Pro/Fold Impressions: It Is What It Is"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "The Snapdragon Multi-Day Battery Laptop",
+      "video_id": "ip0W9lCXpio",
+      "link": "https://www.youtube.com/shorts/ip0W9lCXpio",
+      "thumbnail": "https://i2.ytimg.com/vi/ip0W9lCXpio/hqdefault.jpg",
+      "published": "2026-08-24T16:16:23+00:00",
+      "title_th": "The Snapdragon Multi-Day Battery Laptop"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "This Limited Edition Unboxing is 🥶...",
+      "video_id": "F2uHTrbQQVE",
+      "link": "https://www.youtube.com/shorts/F2uHTrbQQVE",
+      "thumbnail": "https://i3.ytimg.com/vi/F2uHTrbQQVE/hqdefault.jpg",
+      "published": "2026-08-22T15:12:34+00:00",
+      "title_th": "This Limited Edition Unboxing is 🥶..."
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "World’s Lightest 17” Laptop With RTX...",
+      "video_id": "b0x8sFBJr7Q",
+      "link": "https://www.youtube.com/shorts/b0x8sFBJr7Q",
+      "thumbnail": "https://i3.ytimg.com/vi/b0x8sFBJr7Q/hqdefault.jpg",
+      "published": "2026-08-20T17:06:18+00:00",
+      "title_th": "World’s Lightest 17” Laptop With RTX..."
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "โค้ชไทยก็ทำได้ ! พ่อดันติดท็อปโลก",
+      "video_id": "xAU7pXB19UA",
+      "link": "https://www.youtube.com/shorts/xAU7pXB19UA",
+      "thumbnail": "https://i1.ytimg.com/vi/xAU7pXB19UA/hqdefault.jpg",
+      "published": "2026-08-24T23:00:18+00:00",
+      "title_th": "โค้ชไทยก็ทำได้ ! พ่อดันติดท็อปโลก"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "Teaser DNA File รหัสลับของชีวิต",
+      "video_id": "oMoDJ6M0HQE",
+      "link": "https://www.youtube.com/watch?v=oMoDJ6M0HQE",
+      "thumbnail": "https://i4.ytimg.com/vi/oMoDJ6M0HQE/hqdefault.jpg",
+      "published": "2026-08-24T13:00:27+00:00",
+      "title_th": "Teaser DNA File รหัสลับของชีวิต"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "ถอดสูตร Metthier ลดต้นทุน-จัดการอาคารอัจฉริยะ ด้วย Smart FM Solution",
+      "video_id": "ehkZ5OVxkho",
+      "link": "https://www.youtube.com/watch?v=ehkZ5OVxkho",
+      "thumbnail": "https://i2.ytimg.com/vi/ehkZ5OVxkho/hqdefault.jpg",
+      "published": "2026-08-24T11:00:07+00:00",
+      "title_th": "ถอดสูตร Metthier ลดต้นทุน-จัดการอาคารอัจฉริยะ ด้วย Smart FM Solution"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รวมมือถือรุ่นโหด ลดเป็นหมื่น คัดมาแล้ว Samsung, iPhone, Xiaomi, OPPO, vivo, HONOR",
+      "video_id": "uUVtn5N9Uko",
+      "link": "https://www.youtube.com/watch?v=uUVtn5N9Uko",
+      "thumbnail": "https://i2.ytimg.com/vi/uUVtn5N9Uko/hqdefault.jpg",
+      "published": "2026-08-24T12:00:19+00:00",
+      "title_th": "รวมมือถือรุ่นโหด ลดเป็นหมื่น คัดมาแล้ว Samsung, iPhone, Xiaomi, OPPO, vivo, HONOR"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "โอ้โห โลกมาถึงขั้นนี้แล้ว 🤯 HONOR Robot Phone รุ่นวางขายจริง #HONOR #RobotPhone #เทคโนโลยี",
+      "video_id": "T4VhqJnwmV8",
+      "link": "https://www.youtube.com/shorts/T4VhqJnwmV8",
+      "thumbnail": "https://i1.ytimg.com/vi/T4VhqJnwmV8/hqdefault.jpg",
+      "published": "2026-08-23T14:23:26+00:00",
+      "title_th": "โอ้โห โลกมาถึงขั้นนี้แล้ว 🤯 HONOR Robot Phone รุ่นวางขายจริง #HONOR #RobotPhone #เทคโนโลยี"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รอลุ้น OPPO FInd X10/ ขอเสียงคนรอ Galaxy S26 FE/ Huawei กับมือถือไซส์ใหม่ แบบกว้างๆ Pura X view",
+      "video_id": "wi13qbsU1aQ",
+      "link": "https://www.youtube.com/watch?v=wi13qbsU1aQ",
+      "thumbnail": "https://i4.ytimg.com/vi/wi13qbsU1aQ/hqdefault.jpg",
+      "published": "2026-08-22T12:00:01+00:00",
+      "title_th": "รอลุ้น OPPO FInd X10/ ขอเสียงคนรอ Galaxy S26 FE/ Huawei กับมือถือไซส์ใหม่ แบบกว้างๆ Pura X view"
+    }
+  ]
 }
