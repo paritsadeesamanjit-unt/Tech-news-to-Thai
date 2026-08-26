@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-26T09:45:54.627798+00:00",
+  "generated_at": "2026-08-26T12:27:58.491163+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+      "summary_en": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/legato.png?resize=1200,751",
+      "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+      "published": "Wed, 26 Aug 2026 12:00:00 +0000",
+      "title_th": "Legato สตาร์ทอัพด้านเทคโนโลยีการได้ยิน ผงาดขึ้นมาจากการลักลอบด้วยเงิน 12 ล้านเหรียญสหรัฐ และแอบดูแว่นตาช่วยฟัง AI ของบริษัท",
+      "summary_th": "แว่นตาดังกล่าวมีชื่อว่า Legato Frames ซึ่งผสานรวมเทคโนโลยีเครื่องช่วยฟังที่ได้รับสิทธิบัตรของบริษัทเข้ากับแขนของกรอบแว่นตา"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      "summary_en": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/runable-co-founders-umesh-saksham.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+      "published": "Wed, 26 Aug 2026 11:00:00 +0000",
+      "title_th": "Runable ทำรายได้ถึง 21 ล้านเหรียญสหรัฐเพื่อเดิมพันว่าตัวแทน AI สามารถเปลี่ยนจากการสร้างธุรกิจไปสู่การเติบโตได้",
+      "summary_th": "Runable กล่าวว่า 60%–70% ของการใช้โทเค็นมากกว่า 1 ล้านล้านบวกในช่วง 90 วันที่ผ่านมามาจากลูกค้าที่จ่ายเงิน"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -11,8 +35,8 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/venture-platform-vc.jpg?resize=1200,778",
       "link": "https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/",
       "published": "Wed, 26 Aug 2026 07:00:00 +0000",
-      "title_th": "Ventures Platform goes bigger — and broader — with its second Africa fund",
-      "summary_th": "The Pan-African venture firm has raised $84 million and plans to invest in startups beyond its home market of Nigeria."
+      "title_th": "Ventures Platform มีขนาดใหญ่ขึ้นและกว้างขึ้นด้วยกองทุนที่สองในแอฟริกา",
+      "summary_th": "บริษัทร่วมทุนทั่วแอฟริการะดมทุนได้ 84 ล้านดอลลาร์ และวางแผนที่จะลงทุนในสตาร์ทอัพนอกเหนือจากตลาดบ้านเกิดในไนจีเรีย"
     },
     {
       "source": "TechCrunch",
@@ -23,8 +47,8 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/Ringg-Founder-Kali-CV-Siddharth-Tripathi-Utkarsh-Shukla.jpg?resize=1200,675",
       "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
       "published": "Wed, 26 Aug 2026 03:30:00 +0000",
-      "title_th": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-      "summary_th": "Ringg has raised $10 million from Peak XV as a part of its Series A extension."
+      "title_th": "Ringg ของอินเดียได้รับการสนับสนุนจาก Peak XV เนื่องจากระบบส่งเสียง AI ผ่านสายโทรศัพท์",
+      "summary_th": "Ringg ระดมทุนได้ 10 ล้านดอลลาร์จาก Peak XV ซึ่งเป็นส่วนหนึ่งของส่วนขยาย Series A"
     },
     {
       "source": "TechCrunch",
@@ -35,32 +59,44 @@
       "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849",
       "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
       "published": "Wed, 26 Aug 2026 00:40:59 +0000",
-      "title_th": "Robotics startup Generalist reaches $3B valuation, sources say",
-      "summary_th": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation."
+      "title_th": "Generalist สตาร์ทอัพด้านวิทยาการหุ่นยนต์มีมูลค่าถึง 3 พันล้านดอลลาร์ แหล่งข่าวกล่าว",
+      "summary_th": "การขยายเวลามูลค่า 200 ล้านดอลลาร์เกิดขึ้นเพียงไม่กี่เดือนหลังจากที่สตาร์ทอัพด้าน AI ทางกายภาพมีมูลค่าถึง 2 พันล้านดอลลาร์"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-      "summary_en": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-      "published": "Wed, 26 Aug 2026 00:06:20 +0000",
-      "title_th": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-      "summary_th": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\""
+      "category": "software",
+      "title_en": "The second-generation Bose QuietComfort Headphones are good, but don’t stand out",
+      "summary_en": "Bose QuietComfort headphones used to be innovative. Bose's noise-canceling research is the reason the technology is where it is today, and its headphones set the standard. They were the ubiquitous traveler's accessory. But over the past few years, it's felt like Bose has rested on that reputation, as other companies have caught up. Sony and […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268702_Bose_QuietComfort_Headphones_Gen_2_review_JHIGGINS_716A9403.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/984764/bose-quietcomfort-headphones-gen-2-review",
+      "published": "2026-08-26T08:00:00-04:00",
+      "title_th": "หูฟัง Bose QuietComfort รุ่นที่สองนั้นดี แต่ไม่โดดเด่น",
+      "summary_th": "หูฟัง Bose QuietComfort เคยเป็นนวัตกรรมมาก่อน การวิจัยด้านการตัดเสียงรบกวนของ Bose คือเหตุผลที่ทำให้เทคโนโลยีมาถึงทุกวันนี้ และหูฟังของ Bose ก็สร้างมาตรฐานขึ้นมา พวกเขาเป็นเครื่องประดับของนักเดินทางที่แพร่หลาย แต่ในช่วงไม่กี่ปีที่ผ่านมา รู้สึกเหมือนกับว่า Bose ได้พักอยู่บนชื่อเสียงนั้น เช่นเดียวกับบริษัทอื่นๆ ที่ตามทัน โซนี่ และ […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
-      "summary_en": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with editing software.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
-      "link": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
-      "published": "Tue, 25 Aug 2026 19:22:52 +0000",
-      "title_th": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
-      "summary_th": "Instagram says the process can produce a first pass in under 10 seconds, potentially saving creators significant editing time while making video creation more approachable for people who don't have much experience with editing software."
+      "category": "software",
+      "title_en": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
+      "summary_en": "Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI means for our collective future. Having been conspicuously quiet on AI issues recently, Gates is back with a nearly 6,000-word essay seeking […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2095072875.jpg?quality=90&strip=all&crop=0%2C10.740715542595%2C100%2C78.518568914811&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
+      "published": "2026-08-26T07:07:40-04:00",
+      "title_th": "Bill Gates กังวลอย่างมากเกี่ยวกับ AI และเขาก็ไม่อยู่เงียบๆ อีกต่อไป",
+      "summary_th": "Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI means for our collective future. Having been conspicuously quiet on AI issues recently, Gates is back with a nearly 6,000-word essay seeking […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Ikea’s Xbox collection includes a giant thumbstick stool",
+      "summary_en": "Ikea has teamed up with Microsoft to launch a new assortment of gaming-inspired furniture and home accessories, coinciding with the 25th anniversary of the first Xbox console. The nine-piece Yxstaby collection (good luck pronouncing that) includes a TV stand, laptop stand, side table, lounge chair, and multi-functional toolbox, with standout products like a stool, cushion, […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Ikea-Xbox-Yxstaby-collection.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool",
+      "published": "2026-08-26T06:00:00-04:00",
+      "title_th": "Ikea’s Xbox collection includes a giant thumbstick stool",
+      "summary_th": "Ikea ได้ร่วมมือกับ Microsoft เพื่อเปิดตัวเฟอร์นิเจอร์และของใช้ในบ้านที่ได้รับแรงบันดาลใจจากเกมประเภทใหม่ ซึ่งตรงกับวันครบรอบ 25 ปีของคอนโซล Xbox รุ่นแรก คอลเลกชัน Yxstaby เก้าชิ้น (ขอให้โชคดีนะ) มีขาตั้งทีวี ที่วางแล็ปท็อป โต๊ะข้าง เก้าอี้เลานจ์ และกล่องเครื่องมืออเนกประสงค์ พร้อมด้วยผลิตภัณฑ์ที่โดดเด่น เช่น เก้าอี้สตูล เบาะรองนั่ง […]"
     },
     {
       "source": "The Verge",
@@ -71,7 +107,7 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/garmin-fenix-9.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
       "link": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
       "published": "2026-08-25T18:20:17-04:00",
-      "title_th": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
+      "title_th": "Fenix ​​​​9 ใหม่ของ Garmin เพิ่มหน้าจอที่สว่างขึ้นและการแพนแผนที่ที่ราบรื่นยิ่งขึ้น",
       "summary_th": "Garmin just took the wraps off its new line of rugged Fenix 9 smartwatches, with the base model featuring an OLED display with a brightness of up to 3,000 nits, making it twice as bright as its predecessor. Starting at $999.99 for the 43mm case option, the Fenix 9 has 50 percent more RAM and […]"
     },
     {
@@ -83,44 +119,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257976_h1b_visa_chaos__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "link": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
       "published": "2026-08-25T17:45:00-04:00",
-      "title_th": "Trump is upping the price of Big Tech’s favorite visa",
-      "summary_th": "In the span of a few hours on Monday, the Department of Homeland Security announced that it would be implementing a fee of over $103,000 on H-1B visas, and news broke that the State Department plans on revoking the visas of up to 200,000 asylum seekers - which, according to The Associated Press, would be […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "At just $8, you owe it to yourself to grab Inscryption",
-      "summary_en": "If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you haven’t heard of him, get a crash course with a fantastic discount on Inscryption. Humble is currently selling Steam versions of the secret-packed deckbuilder for […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22976467/2021_10_27__7_.png?quality=90&strip=all&crop=0%2C2.9737823258766%2C100%2C94.052435348247&w=1200",
-      "link": "https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale",
-      "published": "2026-08-25T16:38:37-04:00",
-      "title_th": "At just $8, you owe it to yourself to grab Inscryption",
-      "summary_th": "If you watched the Gamescom 2026 announcements, you might have caught a trailer for the bizarre, frenetic Pony Island 2: Panda Circus, a game from Daniel Mullins. In case you haven’t heard of him, get a crash course with a fantastic discount on Inscryption. Humble is currently selling Steam versions of the secret-packed deckbuilder for […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "The Witcher 3 is getting a remaster",
-      "summary_en": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring improvements to visuals and combat, a \"reimagined\" skill tree, and more, and it also includes the first two […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/3-2.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "link": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
-      "published": "2026-08-25T16:24:24-04:00",
-      "title_th": "The Witcher 3 is getting a remaster",
-      "summary_th": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring improvements to visuals and combat, a \"reimagined\" skill tree, and more, and it also includes the first two […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Dreame’s dream of a rocket-powered car is dead",
-      "summary_en": "Dreame, the Chinese vacuum company that aspires to be a global technology giant, is reportedly shutting down its automotive project after funding from the government dried up. According to CarNewsChina, the company's automotive division called \"Project Starry Sky\" once employed over 1,000 people, but now only a handful legal and HR staffers remain, charged with […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268500_Dreame_NEXT_2026_KMcClellan_0065.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-      "link": "https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down",
-      "published": "2026-08-25T14:52:53-04:00",
-      "title_th": "Dreame’s dream of a rocket-powered car is dead",
-      "summary_th": "Dreame, the Chinese vacuum company that aspires to be a global technology giant, is reportedly shutting down its automotive project after funding from the government dried up. According to CarNewsChina, the company's automotive division called \"Project Starry Sky\" once employed over 1,000 people, but now only a handful legal and HR staffers remain, charged with […]"
+      "title_th": "ทรัมป์กำลังขึ้นราคาวีซ่าโปรดของ Big Tech",
+      "summary_th": "ในช่วงเวลาไม่กี่ชั่วโมงของวันจันทร์ กระทรวงความมั่นคงแห่งมาตุภูมิประกาศว่าจะดำเนินการเรียกเก็บค่าธรรมเนียมมากกว่า 103,000 ดอลลาร์สำหรับวีซ่า H-1B และมีข่าวว่ากระทรวงการต่างประเทศวางแผนที่จะเพิกถอนวีซ่าของผู้ขอลี้ภัยมากถึง 200,000 คน ซึ่งตามรายงานของ The Associated Press จะเป็น […]"
     },
     {
       "source": "Ars Technica",
@@ -143,8 +143,8 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_8bad1114-5b27-4fc9-8102-1cb63e7f76fb-1152x648.jpeg",
       "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
       "published": "Fri, 21 Aug 2026 13:11:35 +0000",
-      "title_th": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
-      "summary_th": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services."
+      "title_th": "Waymo เพิ่มการใช้จ่ายสองเท่าในการล็อบบี้ในการต่อสู้ robotaxi กับ Uber",
+      "summary_th": "บริษัทที่เป็นเจ้าของ Alphabet กำลังพยายามชักชวนหน่วยงานกำกับดูแลของสหรัฐฯ ให้เปิดทางสำหรับบริการแท็กซี่ไร้คนขับเต็มรูปแบบ"
     },
     {
       "source": "Ars Technica",
@@ -155,8 +155,8 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg",
       "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
       "published": "Thu, 20 Aug 2026 13:00:35 +0000",
-      "title_th": "Grok exfiltrates user data when malicious instructions are encrypted",
-      "summary_th": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail."
+      "title_th": "Grok ขโมยข้อมูลผู้ใช้เมื่อมีการเข้ารหัสคำแนะนำที่เป็นอันตราย",
+      "summary_th": "Cryptographic Context Injection เป็นเพียงวิธีใหม่ล่าสุดในการทำลายรั้วความปลอดภัยของ LLM"
     },
     {
       "source": "Ars Technica",
@@ -167,7 +167,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg",
       "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
       "published": "Tue, 18 Aug 2026 13:00:04 +0000",
-      "title_th": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+      "title_th": "Microsoft Copilot เปิดเผยข้อมูลลับที่อนุญาตให้แฮ็กได้",
       "summary_th": "พารามิเตอร์ลับอนุญาตให้แฮกเกอร์ขโมยรหัสผ่านเมื่อเป้าหมายคลิกลิงก์"
     },
     {
@@ -180,7 +180,43 @@
       "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
       "published": "Mon, 17 Aug 2026 14:22:54 +0000",
       "title_th": "Nvidia เปิดเผยสัดส่วนการถือหุ้น 21 พันล้านดอลลาร์ใน SpaceX",
-      "summary_th": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers."
+      "summary_th": "การยื่นฟ้องเกิดขึ้นหลังจากที่ Elon Musk ประกาศข้อตกลงพิเศษในการติดตั้งศูนย์ข้อมูล"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+",
+      "summary_en": "Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget.",
+      "image": "https://media.wired.com/photos/686729e7c3e228b35983727d/master/pass/Best%20Wifi%20Routers.png",
+      "link": "https://www.wired.com/gallery/best-wifi-routers/",
+      "published": "Wed, 26 Aug 2026 11:30:00 +0000",
+      "title_th": "เราเตอร์ Wi-Fi ที่ดีที่สุด (2026): ตัวเลือกที่ซื่อสัตย์ของฉันหลังจากการทดสอบมากกว่า 50 รายการ",
+      "summary_th": "ไม่ต้องทนทุกข์ทรมานกับบัฟเฟอร์ เราเตอร์สำหรับบ้านที่ทดสอบด้วย WIRED เหล่านี้จะให้บริการอินเทอร์เน็ตที่เชื่อถือได้ทั่วทั้งบ้านของคุณ ไม่ว่าคุณจะต้องการหรืองบประมาณใดก็ตาม"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "AI Slop Is Ruining Cute Animals on the Internet",
+      "summary_en": "Pet owners, rescue agencies, and wildlife groups are calling for new safeguards as AI makes it harder to tell whether animals, from polar bears to house cats, are real or fake.",
+      "image": "https://media.wired.com/photos/6a863dcae60bdcf9fa334f31/master/pass/AI-Slop-Is-Ruining-Internets-Cute-Animal-Economy-Business.jpg",
+      "link": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/",
+      "published": "Wed, 26 Aug 2026 11:00:00 +0000",
+      "title_th": "AI Slop กำลังทำลายสัตว์น่ารักบนอินเทอร์เน็ต",
+      "summary_th": "เจ้าของสัตว์เลี้ยง หน่วยงานช่วยเหลือ และกลุ่มสัตว์ป่าเรียกร้องให้มีมาตรการป้องกันใหม่ เนื่องจาก AI ทำให้ยากต่อการบอกได้ว่าสัตว์ต่างๆ ตั้งแต่หมีขั้วโลกไปจนถึงแมวบ้าน เป็นของจริงหรือของปลอม"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "review",
+      "title_en": "Green Chef Meal Kit Review (2026): Great Ingredients, Layered Flavor",
+      "summary_en": "HelloFresh’s organic meal kit Green Chef offers transparent sourcing, layered cooking, and trustworthy gluten-free dishes.",
+      "image": "",
+      "link": "https://www.wired.com/review/green-chef-meal-kit-2026/",
+      "published": "Wed, 26 Aug 2026 10:39:00 +0000",
+      "title_th": "รีวิวชุดอาหาร Green Chef (2026): ส่วนผสมชั้นเยี่ยม รสชาติหลายชั้น",
+      "summary_th": "ชุดอาหารออร์แกนิก Green Chef ของ HelloFresh นำเสนอการจัดหาที่โปร่งใส การทำอาหารหลายชั้น และอาหารปลอดกลูเตนที่เชื่อถือได้"
     },
     {
       "source": "Wired",
@@ -191,8 +227,8 @@
       "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
       "link": "https://www.wired.com/story/corsair-coupon/",
       "published": "Wed, 26 Aug 2026 05:00:00 +0000",
-      "title_th": "Corsair Discount Code: Up to 50% Off for August 2026",
-      "summary_th": "Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals."
+      "title_th": "รหัสส่วนลด Corsair: ลดสูงสุด 50% ในเดือนสิงหาคม 2569",
+      "summary_th": "อัปเกรดการตั้งค่าการเล่นเกมหรือการประกอบพีซีของคุณให้น้อยลงด้วยรหัสคูปอง Corsair ที่ได้รับการยืนยัน ส่วนลดสำหรับนักเรียน และข้อเสนอที่ได้รับการตกแต่งใหม่"
     },
     {
       "source": "Wired",
@@ -203,44 +239,32 @@
       "image": "https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg",
       "link": "https://www.wired.com/story/airdoctor-coupon-code/",
       "published": "Wed, 26 Aug 2026 05:00:00 +0000",
-      "title_th": "AirDoctor Coupon Codes: 40% Off | August 2026",
-      "summary_th": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026."
+      "title_th": "รหัสคูปอง AirDoctor: ลด 40% | สิงหาคม 2569",
+      "summary_th": "ประหยัดสูงสุดถึง $400 สำหรับเครื่องฟอกอากาศและตัวกรองชั้นนำด้วยรหัสโปรโมชัน AirDoctor ที่ตรวจสอบแล้วและข้อเสนอพิเศษสำหรับปี 2026"
     },
     {
-      "source": "Wired",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "HP Coupon Codes and Deals August 2026",
-      "summary_en": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
-      "image": "https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png",
-      "link": "https://www.wired.com/story/hp-coupon-code/",
-      "published": "Wed, 26 Aug 2026 05:00:00 +0000",
-      "title_th": "HP Coupon Codes and Deals August 2026",
-      "summary_th": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech."
-    },
-    {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
       "category": "ai",
-      "title_en": "The Best Early Labor Day Kitchen Deals to Ease You Back Into Fall (2026)",
-      "summary_en": "I found discounts on WIRED-tested tools that make school mornings, weeknight meals, and cool-weather baking a little easier.",
-      "image": "https://media.wired.com/photos/6a8e03bdbe28f254582eb85b/master/pass/These-Early-Labor-Day-Kitchen-Deals-Are-Perfect-for-the-Fall-Reset.jpg",
-      "link": "https://www.wired.com/story/early-labor-day-kitchen-appliance-deals-2026/",
-      "published": "Tue, 25 Aug 2026 21:26:24 +0000",
-      "title_th": "The Best Early Labor Day Kitchen Deals to Ease You Back Into Fall (2026)",
-      "summary_th": "I found discounts on WIRED-tested tools that make school mornings, weeknight meals, and cool-weather baking a little easier."
+      "title_en": "Raised on AI",
+      "summary_en": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet. Fast-forward a couple…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2025/06/mat_debrief-thumb.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+      "published": "Wed, 26 Aug 2026 09:00:00 +0000",
+      "title_th": "Raised on AI",
+      "summary_th": "เมื่อลูกคนโตของฉันเกิด ฉันตั้งค่าบัญชี Gmail และ Twitter ในนามของเธอทันที ฉันประกาศการเกิดของเธออย่างกว้างๆ ทางออนไลน์และเผยแพร่รูปถ่ายของเธอบนแพลตฟอร์มทุกประเภท กล่าวโดยสรุป ฉันเริ่มสร้างรอยเท้าดิจิทัลของเธอก่อนที่เธอจะยืนด้วยสองเท้าของตัวเองได้ กรอไปข้างหน้าสองสาม…"
     },
     {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
-      "category": "review",
-      "title_en": "Google Pixel 11 Pro Fold Review: Better, Not Best",
-      "summary_en": "A polished update to Google’s foldable brings real improvements, but the price bump and rampant competition make it a tough sell.",
-      "image": "https://media.wired.com/photos/6a8ddc85c2027e53c53387d2/master/pass/Pixel%2011%20Pro%20Fold%208%20SOURCE%20Simon%20Hill.jpg",
-      "link": "https://www.wired.com/review/google-pixel-11-pro-fold/",
-      "published": "Tue, 25 Aug 2026 18:45:00 +0000",
-      "title_th": "Google Pixel 11 Pro Fold Review: Better, Not Best",
-      "summary_th": "A polished update to Google’s foldable brings real improvements, but the price bump and rampant competition make it a tough sell."
+      "category": "ai",
+      "title_en": "AI models flub these intelligence tests. Can you fare any better?",
+      "summary_en": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/vincentkilbride-mit-technology-review-ai-puzzles.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "published": "Wed, 26 Aug 2026 09:00:00 +0000",
+      "title_th": "AI models flub these intelligence tests. Can you fare any better?",
+      "summary_th": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur…"
     },
     {
       "source": "MIT Technology Review",
@@ -251,8 +275,8 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT_07_21_2026_0057.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
       "published": "Wed, 26 Aug 2026 07:01:00 +0000",
-      "title_th": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-      "summary_th": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in…"
+      "title_th": "Bill Gates กล่าวว่าเราได้ผ่านเกณฑ์อันตรายของ AI แล้ว ตอนนี้อะไร?",
+      "summary_th": "วันนี้เป็นวันอันรุ่งโรจน์ในเคิร์กแลนด์ รัฐวอชิงตัน ชานเมืองซีแอตเทิลที่มั่งคั่งบนชายฝั่งตะวันออกของทะเลสาบวอชิงตัน อุณหภูมิอยู่ในช่วงกลางทศวรรษที่ 80 และท้องฟ้าไม่สามารถเป็นสีฟ้าได้อีก วิวจากห้องประชุม Gates Ventures มองเห็นท่าจอดเรือ Carillon Point Marina ซึ่งมีกองเรือราคาแพงแล่นเข้ามา..."
     },
     {
       "source": "MIT Technology Review",
@@ -263,8 +287,8 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Ferreira_photoKort-Duce_Dynamic-Tech-Media-thumb.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
       "published": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "title_th": "Addressing a sticking point in sustainable adhesives",
-      "summary_th": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers. “The labels on a container are held up with petroleum-based glue. And because of that, even though you’re putting the container in the recycle bin, it will not…"
+      "title_th": "จัดการกับจุดติดของกาวที่ยั่งยืน",
+      "summary_th": "กาวที่มีส่วนผสมของปิโตรเลียมมีอยู่ทั่วไป ไม่ว่าจะเป็นการติดไม้และผนังยิปซั่มในโครงการก่อสร้าง ยึดข้อต่อของเฟอร์นิเจอร์เข้าด้วยกัน และแม้แต่การติดฉลากบนภาชนะที่สามารถรีไซเคิลได้ “ฉลากบนบรรจุภัณฑ์ถูกยึดด้วยกาวที่มีส่วนผสมของปิโตรเลียม และด้วยเหตุนี้ แม้ว่าคุณจะใส่ภาชนะลงในถังรีไซเคิล มันก็จะไม่..."
     },
     {
       "source": "MIT Technology Review",
@@ -275,32 +299,20 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/GoharKhan2_courtesy-photo-thumb.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
       "published": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "title_th": "YouTuber finds niche as college admissions mentor",
-      "summary_th": "As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely on his own. He founded his YouTube channel, Gohar’s Guide, to make things easier for other young people. Today, more than 10 million people follow Khan on social media for college application advice, study tips, and…"
+      "title_th": "YouTuber ค้นพบช่องทางในการเป็นที่ปรึกษาการรับเข้าวิทยาลัย",
+      "summary_th": "ในฐานะนักเรียนรุ่นแรกจากเมืองเล็กๆ Gohar Khan ’21 ต้องดำเนินกระบวนการรับสมัครวิทยาลัยด้วยตัวเขาเองเป็นส่วนใหญ่ เขาก่อตั้งช่อง YouTube ของเขาชื่อ Gohar's Guide เพื่อทำให้สิ่งต่างๆ ง่ายขึ้นสำหรับคนหนุ่มสาว ปัจจุบัน ผู้คนมากกว่า 10 ล้านคนติดตาม Khan บนโซเชียลมีเดียเพื่อรับคำแนะนำในการสมัครเข้าวิทยาลัย เคล็ดลับการเรียน และ..."
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
       "category": "gadget",
-      "title_en": "Launching youth entrepreneurship",
-      "summary_en": "Even as a teenager, Laurie Stach ’06 says, she had a “crazy ambition to take on the world and solve problems.” At MIT, she realized she wasn’t the only one. “Adults always see these youth who are good at math and science and say, ‘You’re going to do great things—someday,’” says Stach. “Meanwhile, traditional education…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/LaurieStach_courtesyphoto-thumb.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
-      "published": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "title_th": "Launching youth entrepreneurship",
-      "summary_th": "Even as a teenager, Laurie Stach ’06 says, she had a “crazy ambition to take on the world and solve problems.” At MIT, she realized she wasn’t the only one. “Adults always see these youth who are good at math and science and say, ‘You’re going to do great things—someday,’” says Stach. “Meanwhile, traditional education…"
-    },
-    {
-      "source": "MIT Technology Review",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "A new stamp on cyberfraud prevention",
-      "summary_en": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detail and nuance that his MIT application essay said would make him a good engineer. Young is now chief product officer…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/RupertYoung_Photo-by-Shiftclickmedia.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
-      "published": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "title_th": "A new stamp on cyberfraud prevention",
-      "summary_th": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detail and nuance that his MIT application essay said would make him a good engineer. Young is now chief product officer…"
+      "title_en": "How to transfer data from your old iPhone to a new one",
+      "summary_en": "Quick Start makes things a lot easier.",
+      "image": "https://www.engadget.com/img/gallery/how-to-transfer-data-from-your-old-iphone-to-a-new-one/l-intro-1787595241.jpg",
+      "link": "https://www.engadget.com/2244153/how-to-transfer-data-old-iphone-to-new/",
+      "published": "Wed, 26 Aug 2026 12:00:00 +0000",
+      "title_th": "วิธีถ่ายโอนข้อมูลจาก iPhone เครื่องเก่าไปยังเครื่องใหม่",
+      "summary_th": "การเริ่มต้นอย่างรวดเร็วทำให้สิ่งต่างๆ ง่ายขึ้นมาก"
     },
     {
       "source": "Engadget",
@@ -311,7 +323,7 @@
       "image": "https://www.engadget.com/img/gallery/spacex-is-building-a-100-billion-starbase-launch-site-in-louisiana/l-intro-1787727542.jpg",
       "link": "https://www.engadget.com/2244379/spacex-is-building-a-100-billion-starbase-launch-site-in-louisiana/",
       "published": "Wed, 26 Aug 2026 07:05:00 +0000",
-      "title_th": "SpaceX is building a $100 billion 'Starbase' launch site in Louisiana",
+      "title_th": "SpaceX กำลังสร้างไซต์เปิดตัว 'Starbase' มูลค่า 100 พันล้านดอลลาร์ในรัฐลุยเซียนา",
       "summary_th": "'We're preparing to build a spaceport that, until now, has only existed in science fiction,'"
     },
     {
@@ -335,8 +347,8 @@
       "image": "https://www.engadget.com/img/gallery/lego-skylines-is-a-cozy-city-builder-from-the-studio-thats-repairing-cities-skylines-ii/l-intro-1787696785.jpg",
       "link": "https://www.engadget.com/2244251/lego-skylines-is-a-cozy-city-builder-from-the-studio-that-s-repairing-cities-skylines-ii/",
       "published": "Tue, 25 Aug 2026 22:30:31 +0000",
-      "title_th": "Lego Skylines is a cozy city builder from the studio that's repairing Cities: Skylines II",
-      "summary_th": "Iceflake Studios is preparing a cozy new city builder centered on the famous bricks."
+      "title_th": "Lego Skylines คือผู้สร้างเมืองแสนสบายจากสตูดิโอที่กำลังซ่อมแซม Cities: Skylines II",
+      "summary_th": "Iceflake Studios กำลังเตรียมการสร้างเมืองใหม่ที่สะดวกสบายโดยมีศูนย์กลางอยู่ที่อิฐอันโด่งดัง"
     },
     {
       "source": "Engadget",
@@ -347,20 +359,20 @@
       "image": "https://www.engadget.com/img/gallery/free-accounts-can-now-access-chatgpts-upgraded-task-scheduling-tool/l-intro-1787692592.jpg",
       "link": "https://www.engadget.com/2244194/free-accounts-can-now-access-chatgpts-upgraded-task-scheduling-tool/",
       "published": "Tue, 25 Aug 2026 21:17:23 +0000",
-      "title_th": "Free accounts can now access ChatGPT's upgraded task scheduling tool",
-      "summary_th": "Meanwhile, paid accounts can configure prompts to trigger when things happen in Gmail, Slack or GitHub."
+      "title_th": "บัญชีฟรีสามารถเข้าถึงเครื่องมือกำหนดเวลางานที่อัปเกรดแล้วของ ChatGPT ได้แล้ว",
+      "summary_th": "ในขณะเดียวกัน บัญชีที่ชำระเงินสามารถกำหนดค่าการแจ้งเตือนให้ทริกเกอร์เมื่อสิ่งต่างๆ เกิดขึ้นใน Gmail, Slack หรือ GitHub"
     },
     {
-      "source": "Engadget",
+      "source": "IEEE Spectrum",
       "flag": "US",
-      "category": "chip",
-      "title_en": "Check out this cool Cyberpunk 2077-edition Commodore 64",
-      "summary_en": "The revived Commodore has teamed up with CD Projekt Red to create this 2K77-themed Commodore 77.",
-      "image": "https://www.engadget.com/img/gallery/check-out-this-cool-cyberpunk-2077-edition-commodore-64/l-intro-1787648801.jpg",
-      "link": "https://www.engadget.com/2243450/commodore-64-cyberpunk-2077-commodore-77-edition/",
-      "published": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "title_th": "Check out this cool Cyberpunk 2077-edition Commodore 64",
-      "summary_th": "The revived Commodore has teamed up with CD Projekt Red to create this 2K77-themed Commodore 77."
+      "category": "robot",
+      "title_en": "A New NASA Design Turbocharges Nuclear Spacecraft",
+      "summary_en": "The biggest threat to any crewed expedition to Mars is time . NASA’s shortest blueprint for sending people to the Red Planet and back requires spending 620 days in space and 30 days on Mars. Even setting aside the compounding challenges of building life-support systems that can operate without resupply for that long, or the fact that longer journeys leave more time for unlucky accidents, life in microgravity and solar and cosmic radiation will inexorably exact their cumulative toll on human bodies. We want to make it possible to dramatically reduce the length of time crews must spend in space—down to just 335 days in transit or less. This will both simplify many engineering challenges and keep astronauts healthier and safer. We believe the key to this time reduction is a new approach to bu",
+      "image": "https://spectrum.ieee.org/media-library/a-spacecraft-with-a-yellow-tube-like-section-with-rocket-engine-nozzles-at-one-end-a-middle-section-composed-of-a-truss-and-whi.png?id=67669096&width=980",
+      "link": "https://spectrum.ieee.org/bimodal-nuclear-spacecraft",
+      "published": "Wed, 26 Aug 2026 12:00:01 +0000",
+      "title_th": "การออกแบบใหม่ของ NASA เทอร์โบชาร์จยานอวกาศนิวเคลียร์",
+      "summary_th": "ภัยคุกคามที่ใหญ่ที่สุดสำหรับการเดินทางที่มีลูกเรือไปยังดาวอังคารคือเวลา พิมพ์เขียวที่สั้นที่สุดของ NASA สำหรับการส่งผู้คนไปยังดาวเคราะห์สีแดงและด้านหลังต้องใช้เวลา 620 วันในอวกาศและ 30 วันบนดาวอังคาร แม้กระทั่งการละทิ้งความท้าทายที่ซับซ้อนในการสร้างระบบช่วยชีวิตที่สามารถทำงานได้โดยไม่ต้องเติมเสบียงเป็นเวลานานนั้น หรือความจริงที่ว่าการเดินทางที่ยาวนานกว่านั้นทำให้มีเวลามากขึ้นสำหรับอุบัติเหตุที่โชคร้าย ชีวิตในสภาวะไร้น้ำหนัก แสงอาทิตย์และรังสีคอสมิก ก็ยังจะคร่าชีวิตมนุษย์ที่สะสมอยู่อย่างไม่หยุดยั้ง เราต้องการทำให้สามารถลดระยะเวลาที่ลูกเรือต้องใช้ในอวกาศได้อย่างมาก โดยเหลือเพียง 335 วันหรือน้อยกว่านั้นในการขนส่ง สิ่งนี้จะช่วยลดความซับซ้อนของความท้าทายด้านวิศวกรรมหลายประการ และช่วยให้นักบินอวกาศมีสุขภาพแข็งแรงและปลอดภัยยิ่งขึ้น เราเชื่อว่ากุญแจสำคัญในการลดเวลานี้คือแนวทางใหม่ในการดำเนินการ"
     },
     {
       "source": "IEEE Spectrum",
@@ -371,8 +383,8 @@
       "image": "https://spectrum.ieee.org/media-library/two-men-stand-at-1960s-computer-consoles-containing-many-buttons-knobs-dials-and-lights.jpg?id=67651870&width=980",
       "link": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
       "published": "Tue, 25 Aug 2026 13:00:01 +0000",
-      "title_th": "IBM Built the Cold War’s Most Powerful Code Breaker for the NSA",
-      "summary_th": "At the height of the Cold War, one very specialized computer was so secret that the world didn’t know it existed. It ran its jobs up to 200 times as fast as any other computer of its time. It was the U.S. National Security Agency’s main cryptographic processor in operation from the time of the Cuban Missile Crisis in 1962 through the Vietnam War and on past the 1975 Helsinki Accords . The machine stopped running only when its moving parts finally gave out. The Harvest computer mattered because of what it was as well as when it ran. For 14 years, it was the engine processing the NSA’s most sensitive intercepts at a time when signals intelligence was as close to a strategic weapon as anything short of a warhead. Designed and built by IBM for the NSA, Harvest was one of the first machines des"
+      "title_th": "IBM ได้สร้าง Code Breaker ที่ทรงพลังที่สุดในสงครามเย็นให้กับ NSA",
+      "summary_th": "ในช่วงสงครามเย็นที่รุ่งเรืองที่สุด คอมพิวเตอร์เครื่องหนึ่งที่มีความเชี่ยวชาญเฉพาะด้านเป็นความลับมากจนโลกไม่รู้ว่ามีอยู่จริง มันทำงานได้เร็วกว่าคอมพิวเตอร์เครื่องอื่นๆ ในยุคนั้นถึง 200 เท่า มันเป็นหน่วยประมวลผลการเข้ารหัสลับหลักของสำนักงานความมั่นคงแห่งชาติของสหรัฐอเมริกาที่ดำเนินการตั้งแต่ช่วงเวลาวิกฤตการณ์ขีปนาวุธคิวบาในปี 1962 จนถึงสงครามเวียดนาม และในอดีตสนธิสัญญาเฮลซิงกิปี 1975 เครื่องจักรจะหยุดทำงานเมื่อชิ้นส่วนที่เคลื่อนไหวหลุดออกมาในที่สุดเท่านั้น คอมพิวเตอร์ Harvest มีความสำคัญเพราะว่ามันคืออะไรและทำงานเมื่อใด เป็นเวลา 14 ปีที่มันเป็นเครื่องยนต์ที่ประมวลผลการสกัดกั้นที่ละเอียดอ่อนที่สุดของ NSA ในเวลาที่ข่าวกรองสัญญาณมีความใกล้เคียงกับอาวุธทางยุทธศาสตร์พอๆ กับที่ไม่มีหัวรบ ออกแบบและสร้างโดย IBM สำหรับ NSA Harvest เป็นหนึ่งในเครื่องจักรรุ่นแรกๆ ที่ออกแบบ"
     },
     {
       "source": "IEEE Spectrum",
@@ -383,8 +395,8 @@
       "image": "https://spectrum.ieee.org/media-library/cute-home-robot-on-carpet-in-cozy-living-room-with-beige-sofa-and-warm-lighting.jpg?id=67154308&width=980",
       "link": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
       "published": "Tue, 25 Aug 2026 10:00:03 +0000",
-      "title_th": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
-      "summary_th": "This article is brought to you by Ollobot . From about 2017, individuals began to truly connect with the initial wave of companion robots. These devices had personality, moved around, joked, and answered when you spoke to them. Most early companion robots, however, were still limited by simple voice-command interactions and narrow functionality. Once the novelty wore off, many ended up sitting unused on shelves. As some of those companies went out of business and turned off their servers, many owners likened it to losing a pet. What Ollobot describes as “gentle intelligence” is a useful way to think about where the serious work in this category is going. Not toward more powerful assistants, but toward more present ones. The problem companion robots were trying to solve Loneliness is not a "
+      "title_th": "หุ่นยนต์คู่หู AI กำลังปิดการเชื่อมต่อของมนุษย์ในบ้านสมัยใหม่",
+      "summary_th": "บทความนี้นำเสนอโดย Ollobot ตั้งแต่ประมาณปี 2017 ผู้คนเริ่มเชื่อมต่อกับคลื่นลูกแรกของหุ่นยนต์คู่หูอย่างแท้จริง อุปกรณ์เหล่านี้มีบุคลิก ย้ายไปมา ล้อเล่น และตอบกลับเมื่อคุณพูดคุยกับอุปกรณ์เหล่านั้น อย่างไรก็ตาม หุ่นยนต์คู่หูในยุคแรกๆ ส่วนใหญ่ยังคงถูกจำกัดด้วยการโต้ตอบคำสั่งเสียงแบบง่ายๆ และฟังก์ชันการทำงานที่แคบ เมื่อความแปลกใหม่หมดไป หลายๆ คนก็ลงเอยด้วยการนั่งเฉยๆ บนชั้นวาง ในขณะที่บริษัทเหล่านั้นบางแห่งเลิกกิจการและปิดเซิร์ฟเวอร์ เจ้าของหลายรายก็เปรียบเสมือนการสูญเสียสัตว์เลี้ยง สิ่งที่ Ollobot อธิบายว่าเป็น “ความฉลาดที่อ่อนโยน” เป็นวิธีที่มีประโยชน์ในการพิจารณาว่างานที่จริงจังในหมวดนี้ดำเนินไปในทิศทางใด ไม่ใช่ต่อผู้ช่วยที่ทรงพลังกว่า แต่ต่อผู้ช่วยที่มีอยู่มากกว่า ปัญหาที่หุ่นยนต์สหายพยายามจะแก้ความเหงาไม่เป็น"
     },
     {
       "source": "IEEE Spectrum",
@@ -395,8 +407,8 @@
       "image": "https://spectrum.ieee.org/media-library/a-young-indian-man-smiling-against-an-abstract-technological-background.jpg?id=67667863&width=980",
       "link": "https://spectrum.ieee.org/ieee-senior-membership-demystified",
       "published": "Mon, 24 Aug 2026 18:00:01 +0000",
-      "title_th": "IEEE Senior Membership Demystified",
-      "summary_th": "For most of my career, my IEEE membership sat quietly in the background—a line on my résumé, a discount code for a conference registration, and access to the IEEE Xplore digital library , which I underutilized. I didn’t think much about the grade of membership available above that of the regular member. I assumed senior membership was reserved for people further along in their career than I was. They published more papers, had more gray hair, and had worked longer in the field. I was wrong on all three counts. The misunderstanding cost me an important validation of my skills and professional competency. I suspect a lot of other qualified members are where I was one year ago: eligible but unaware of the benefits of senior membership, and one application away from a meaningful career credent"
+      "title_th": "สมาชิกอาวุโสของ IEEE คลายข้อสงสัย",
+      "summary_th": "ตลอดอาชีพการงานของฉัน สมาชิก IEEE ของฉันนั่งเงียบๆ อยู่เบื้องหลัง ไม่ว่าจะเป็นบรรทัดในประวัติย่อของฉัน รหัสส่วนลดสำหรับการลงทะเบียนการประชุม และการเข้าถึงห้องสมุดดิจิทัล IEEE Xplore ซึ่งฉันใช้น้อยเกินไป ฉันไม่ได้คิดมากเกี่ยวกับระดับการเป็นสมาชิกที่มีให้สูงกว่าสมาชิกทั่วไป ฉันคิดว่าการเป็นสมาชิกระดับสูงนั้นสงวนไว้สำหรับคนในอาชีพการงานของพวกเขามากกว่าฉัน พวกเขาตีพิมพ์บทความมากขึ้น มีผมหงอกมากขึ้นและทำงานในสาขานี้นานขึ้น ฉันผิดทั้งสามข้อ ความเข้าใจผิดทำให้ฉันต้องประเมินทักษะและความสามารถทางวิชาชีพที่สำคัญของฉัน ฉันสงสัยว่าสมาชิกที่ผ่านการรับรองคนอื่นๆ จำนวนมากอยู่ในจุดเดียวกับฉันเมื่อหนึ่งปีที่แล้ว: มีสิทธิ์แต่ไม่รู้ถึงสิทธิประโยชน์ของการเป็นสมาชิกอาวุโส และใบสมัครหนึ่งใบที่ห่างไกลจากหนังสือรับรองอาชีพที่มีความหมาย"
     },
     {
       "source": "IEEE Spectrum",
@@ -407,20 +419,44 @@
       "image": "https://spectrum.ieee.org/media-library/silhouette-of-person-at-computer-atop-a-weather-vane-labeled-ai-against-sky-background.png?id=67652283&width=980",
       "link": "https://spectrum.ieee.org/adaptable-engineer-core-skills",
       "published": "Mon, 24 Aug 2026 14:00:01 +0000",
-      "title_th": "What It Takes to Be an Adaptable Engineer",
-      "summary_th": "The AI boom has disrupted the way engineers work, introducing new tools to learn, raising expectations for what teams can achieve in a workday, and making it harder to get hired in the first place. This makes it difficult to advise students on which specific coding languages or technical skills they should learn. So amidst the uncertainty, advice for young professionals often turns to a common refrain: Be adaptable. But what does adaptability look like in practice? Engineers often operate on the cutting edge of technology, so dealing with change is a normal part of the job, says Samantha Brunhaver , an associate professor of engineering at Arizona State University, in Tempe. Yet university curricula and training in the workplace often don’t prepare students for this. “We tell engineers tha"
+      "title_th": "สิ่งที่ต้องมีในการเป็นวิศวกรที่ปรับตัวได้",
+      "summary_th": "การเติบโตอย่างรวดเร็วของ AI ได้เข้ามาขัดขวางวิธีการทำงานของวิศวกร ทำให้เกิดเครื่องมือใหม่ๆ ที่จะเรียนรู้ เพิ่มความคาดหวังในสิ่งที่ทีมสามารถทำได้ในวันทำงาน และทำให้การได้รับการว่าจ้างทำได้ยากขึ้นตั้งแต่แรก ทำให้เป็นการยากที่จะแนะนำนักเรียนว่าควรเรียนรู้ภาษาการเขียนโค้ดหรือทักษะทางเทคนิคเฉพาะด้านใด ดังนั้น ท่ามกลางความไม่แน่นอน คำแนะนำสำหรับมืออาชีพรุ่นเยาว์มักจะหันไปใช้แนวทางทั่วไป: ปรับตัวได้ แต่ความสามารถในการปรับตัวในทางปฏิบัติมีลักษณะอย่างไร? วิศวกรมักจะทำงานโดยใช้เทคโนโลยีที่ล้ำหน้า ดังนั้นการจัดการกับการเปลี่ยนแปลงจึงเป็นเรื่องปกติของงาน Samantha Brunhaver รองศาสตราจารย์ด้านวิศวกรรมจาก Arizona State University ในเมือง Tempe กล่าว แต่หลักสูตรและการฝึกอบรมของมหาวิทยาลัยในที่ทำงานมักไม่ได้เตรียมนักเรียนให้พร้อมสำหรับสิ่งนี้ “เราบอกวิศวกรว่า"
     },
     {
-      "source": "IEEE Spectrum",
-      "flag": "US",
-      "category": "robot",
-      "title_en": "Building Technology People Can Trust",
-      "summary_en": "This article is brought to you by Emerson . I’ve spent much of my career as an engineer, including years in the semiconductor industry. And one lesson has stayed with me through every major technology shift: innovation always creates new complexity. In semiconductors, we have seen that repeatedly. Every generation has delivered breakthroughs in performance and capability, but each step forward made it harder to understand system behavior. What used to be easy to validate on the component level with a test bench now needs a much wider view. “The future of engineering will be defined by who can verify, understand, and improve complex systems fast enough to safely keep innovation moving forward,” says Ritu Favre, President of Emerson’s Test & Measurement business group. Emerson Chiplet-based ",
-      "image": "https://spectrum.ieee.org/media-library/stacked-green-printed-circuit-boards-with-electronic-components-on-a-work-surface.jpg?id=67598440&width=980",
-      "link": "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms",
-      "published": "Mon, 24 Aug 2026 11:37:02 +0000",
-      "title_th": "Building Technology People Can Trust",
-      "summary_th": "This article is brought to you by Emerson . I’ve spent much of my career as an engineer, including years in the semiconductor industry. And one lesson has stayed with me through every major technology shift: innovation always creates new complexity. In semiconductors, we have seen that repeatedly. Every generation has delivered breakthroughs in performance and capability, but each step forward made it harder to understand system behavior. What used to be easy to validate on the component level with a test bench now needs a much wider view. “The future of engineering will be defined by who can verify, understand, and improve complex systems fast enough to safely keep innovation moving forward,” says Ritu Favre, President of Emerson’s Test & Measurement business group. Emerson Chiplet-based "
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Instagram can now create Reels automatically – but Meta doesn’t want to upset creators",
+      "summary_en": "Instagram now has a new iPhone-exclusive feature that can create reels automatically. You just select your video clips and it creates an edit with a single tap. However, Meta is being extremely careful not to upset creators by implying that the app can replace their manual editing skills …",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Instagram-can-now-create-Reels-automatically-–-but-Meta-doesnt-want-to-upset-creators.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/08/26/instagram-can-now-create-reels-automatically-but-meta-doesnt-want-to-upset-creators/",
+      "published": "Wed, 26 Aug 2026 11:43:14 +0000",
+      "title_th": "ขณะนี้ Instagram สามารถสร้าง Reels ได้โดยอัตโนมัติ แต่ Meta ไม่ต้องการทำให้ผู้สร้างอารมณ์เสีย",
+      "summary_th": "ตอนนี้ Instagram มีคุณสมบัติพิเศษเฉพาะ iPhone ใหม่ที่สามารถสร้างวงล้อได้โดยอัตโนมัติ คุณเพียงแค่เลือกคลิปวิดีโอของคุณ และมันจะสร้างการแก้ไขด้วยการแตะเพียงครั้งเดียว อย่างไรก็ตาม Meta ระมัดระวังอย่างยิ่งที่จะไม่ทำให้ผู้สร้างอารมณ์เสียโดยบอกเป็นนัยว่าแอปสามารถแทนที่ทักษะการแก้ไขด้วยตนเองได้"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "25% of US adults are interested in the iPhone Ultra – but won’t pay for it",
+      "summary_en": "Sometimes a headline is the complete inverse of the real news in the story, and that’s the case with a new survey measuring interest in the upcoming iPhone Ultra . The headline says 75% of US adults aren’t interested in a folding iPhone, while the real surprise is that as many as 25% are. Apple shouldn’t get too excited by the results, however, as willingness to pay was way, way less than the price we’re expecting the company to announce …",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/08/26/25-of-us-adults-are-interested-in-the-iphone-ultra-but-wont-pay-for-it/",
+      "published": "Wed, 26 Aug 2026 11:23:25 +0000",
+      "title_th": "ผู้ใหญ่ 25% ในสหรัฐอเมริกาสนใจ iPhone Ultra แต่ไม่ยอมจ่ายเงินซื้อ",
+      "summary_th": "บางครั้งพาดหัวข่าวก็เป็นสิ่งที่ตรงกันข้ามกับข่าวจริงในเรื่องราว และนั่นเป็นกรณีของการสำรวจใหม่ที่วัดความสนใจใน iPhone Ultra ที่กำลังจะมาถึง พาดหัวข่าวระบุว่า 75% ของผู้ใหญ่ในสหรัฐอเมริกาไม่สนใจ iPhone แบบพับได้ ในขณะที่ที่น่าประหลาดใจจริงๆ ก็คือมากถึง 25% สนใจ อย่างไรก็ตาม Apple ไม่ควรตื่นเต้นกับผลลัพธ์มากนัก เนื่องจากความเต็มใจที่จะจ่ายนั้นน้อยกว่าราคาที่เราคาดหวังที่บริษัทจะประกาศ …"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "There’s a $300 gotcha in an M5 Max Mac Studio upgrade",
+      "summary_en": "There was a pleasant surprise in yesterday’s announcement of the Mac Studio with M5 Max chip : the starting price is unchanged from that of the M4 Max Mac Studio, at $2,499. However, if you want to upgrade the GPU, there is a gotcha in the cost of doing so – it will cost you $300 more than Apple’s website initially indicates …",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Theres-a-300-gotcha-in-an-M5-Max-Mac-Studio-upgrade.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/08/26/theres-a-300-gotcha-in-an-m5-max-mac-studio-upgrade/",
+      "published": "Wed, 26 Aug 2026 10:56:23 +0000",
+      "title_th": "มีเงิน $300 ในการอัปเกรด M5 Max Mac Studio",
+      "summary_th": "มีเรื่องน่าประหลาดใจในการประกาศ Mac Studio พร้อมชิป M5 Max เมื่อวานนี้ โดยราคาเริ่มต้นไม่เปลี่ยนแปลงจาก M4 Max Mac Studio ที่ 2,499 ดอลลาร์ อย่างไรก็ตาม หากคุณต้องการอัปเกรด GPU จะต้องเสียค่าใช้จ่ายในการดำเนินการดังกล่าว โดยคุณจะเสียค่าใช้จ่ายมากกว่าที่เว็บไซต์ของ Apple ระบุไว้ในตอนแรกถึง 300 เหรียญสหรัฐ"
     },
     {
       "source": "9to5Mac",
@@ -431,8 +467,8 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/08/25/apple-renews-push-for-expedited-discovery-in-openai-trade-secret-misappropriation-lawsuit/",
       "published": "Wed, 26 Aug 2026 02:58:54 +0000",
-      "title_th": "Apple renews push for expedited discovery in OpenAI trade secret misappropriation lawsuit",
-      "summary_th": "Apple has submitted its response to OpenAI’s attempt to block expedited discovery in its ongoing trade secret lawsuit . Here are the details."
+      "title_th": "Apple ต่ออายุการผลักดันให้เร่งการค้นพบในคดียักยอกความลับทางการค้าของ OpenAI",
+      "summary_th": "Apple ได้ยื่นตอบสนองต่อความพยายามของ OpenAI ที่จะบล็อกการค้นพบแบบเร่งด่วนในคดีความลับทางการค้าที่กำลังดำเนินอยู่ นี่คือรายละเอียด"
     },
     {
       "source": "9to5Mac",
@@ -444,43 +480,7 @@
       "link": "https://9to5mac.com/2026/08/25/apple-shares-behind-the-scenes-video-for-its-fun-new-mac-mini-ad/",
       "published": "Tue, 25 Aug 2026 23:26:35 +0000",
       "title_th": "Apple shares behind-the-scenes video for its fun new Mac mini ad",
-      "summary_th": "Apple today published a fun commercial promoting the new Mac mini with M6 . Now, the company has shared a short behind-the-scenes video showing some of the (extensive) work that went into producing the ad. Watch it below."
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Notability can now organize meeting recordings, transcriptions, and notes around your calendar",
-      "summary_en": "Notability today announced a new desktop workflow that lets Mac users start recording sessions directly from their calendar events, with the resulting notes automatically organized around their schedule. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/notability.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/25/notability-can-now-organize-meeting-recordings-transcriptions-and-notes-around-your-calendar/",
-      "published": "Tue, 25 Aug 2026 22:49:13 +0000",
-      "title_th": "Notability can now organize meeting recordings, transcriptions, and notes around your calendar",
-      "summary_th": "Notability today announced a new desktop workflow that lets Mac users start recording sessions directly from their calendar events, with the resulting notes automatically organized around their schedule. Here are the details."
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "9to5Mac Daily: August 25, 2026 – New Mac mini and Mac Studio unveiled",
-      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily .",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/25/daily-august-25-2026/",
-      "published": "Tue, 25 Aug 2026 22:48:14 +0000",
-      "title_th": "9to5Mac Daily: August 25, 2026 – New Mac mini and Mac Studio unveiled",
-      "summary_th": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily ."
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Here are all the Apple devices with full Wi-Fi 7 support",
-      "summary_en": "Today, Apple updated the Mac mini and Mac Studio , bringing Wi-Fi 7 support to both product lines for the first time. Here’s the full list of Apple devices that support all Wi-Fi 7 features .",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/01/Generic-Wi-Fi-icon.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/25/here-are-all-the-apple-devices-with-full-wi-fi-7-support/",
-      "published": "Tue, 25 Aug 2026 21:45:10 +0000",
-      "title_th": "Here are all the Apple devices with full Wi-Fi 7 support",
-      "summary_th": "Today, Apple updated the Mac mini and Mac Studio , bringing Wi-Fi 7 support to both product lines for the first time. Here’s the full list of Apple devices that support all Wi-Fi 7 features ."
+      "summary_th": "วันนี้ Apple ได้เผยแพร่โฆษณาสนุกๆ เพื่อโปรโมต Mac mini ใหม่ที่มี M6 ขณะนี้ บริษัทได้แชร์วิดีโอเบื้องหลังสั้นๆ ที่แสดงงานบางส่วน (ที่ครอบคลุม) ในการผลิตโฆษณา ดูได้ที่ด้านล่างนี้"
     },
     {
       "source": "9to5Google",
@@ -491,8 +491,8 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Android-Pulse-cover.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/08/25/android-pulse-app-google-play/",
       "published": "Wed, 26 Aug 2026 02:25:00 +0000",
-      "title_th": "What is the ‘Android Pulse’ app that just appeared in Google Play Store updates? [U]",
-      "summary_th": "On Saturday morning, you might have noticed an app called “Android Pulse” appearing in the list of available Google Play updates."
+      "title_th": "แอป 'Android Pulse' ที่เพิ่งปรากฏในการอัปเดตของ Google Play Store คืออะไร [คุณ]",
+      "summary_th": "ในเช้าวันเสาร์ คุณอาจสังเกตเห็นแอปชื่อ \"Android Pulse\" ปรากฏในรายการอัปเดตของ Google Play ที่มี"
     },
     {
       "source": "9to5Google",
@@ -503,8 +503,8 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Fitbit-Air-band-Whoop-comparison-1-2.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/08/25/fitbit-air-would-be-s-tier-good-bands-existed/",
       "published": "Tue, 25 Aug 2026 20:50:00 +0000",
-      "title_th": "The Fitbit Air would be S-tier if anyone made a band half as decent as Whoop’s",
-      "summary_th": "The Fitbit Air is being touted as a fantastic fitness tracker, but I don’t think its worth has quite yet been proven. Google-made and third-party bands do not make for a comfortable experience, and competitive trackers blow it out of the water in terms of fit."
+      "title_th": "Fitbit Air จะเป็น S-tier หากใครก็ตามสร้างวงดนตรีได้ครึ่งหนึ่งพอ ๆ กับ Whoop's",
+      "summary_th": "Fitbit Air ได้รับการขนานนามว่าเป็นเครื่องติดตามฟิตเนสที่ยอดเยี่ยม แต่ฉันไม่คิดว่าความคุ้มค่าจะยังได้รับการพิสูจน์มากนัก วงดนตรีที่ผลิตโดย Google และบุคคลที่สามไม่ได้สร้างมาเพื่อประสบการณ์ที่สะดวกสบาย และผู้ติดตามการแข่งขันก็ทำได้ดีเยี่ยมในแง่ของความพอดี"
     },
     {
       "source": "9to5Google",
@@ -515,8 +515,8 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/sideload-podcast-wider-copy-1.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/08/25/the-sideload-042-a-genderless-pixel-experience/",
       "published": "Tue, 25 Aug 2026 20:30:00 +0000",
-      "title_th": "The Sideload 042: A genderless Pixel experience",
-      "summary_th": "Welcome to episode 42 of The Sideload, a 9to5Google podcast. This week, Damien Wilde joins Will as they continue to break down what’s good — and not so good — about Google’s latest phones. Come for the Snapdragon-Tensor debate, stay for a sweaty analogy that compares the Pixel 11 series to various Halloween sequels. Sponsored by NordVPN : Listeners to The Sideload can save up to 76% on a two-year subscription alongside four extra months for absolutely free by signing up for NordVPN using this link . Thanks to NordVPN for sponsoring this week’s episode. Subscribe YouTube Podcasts Pocket Casts Spotify Apple Podcasts Amazon Music Subscribe to 9to5Google Pro for exclusive bonus content, podcast episodes, and more."
+      "title_th": "The Sideload 042: ประสบการณ์ Pixel ที่ไม่มีเพศ",
+      "summary_th": "ยินดีต้อนรับสู่ตอนที่ 42 ของ The Sideload ซึ่งเป็นพอดแคสต์ 9to5Google สัปดาห์นี้ Damien Wilde จะมาร่วมงานกับ Will ในขณะที่พวกเขายังคงแจกแจงว่าอะไรดีและไม่ดีนักเกี่ยวกับโทรศัพท์รุ่นล่าสุดของ Google มาที่การอภิปราย Snapdragon-Tensor อยู่เพื่อการเปรียบเทียบเหงื่อที่เปรียบเทียบซีรีส์ Pixel 11 กับภาคต่อของฮาโลวีนต่างๆ สนับสนุนโดย NordVPN: ผู้ฟัง The Sideload สามารถประหยัดได้ถึง 76% สำหรับการสมัครสมาชิกสองปี พร้อมฟรีเพิ่มอีกสี่เดือนโดยสมัครใช้งาน NordVPN โดยใช้ลิงก์นี้ ขอขอบคุณ NordVPN สำหรับการสนับสนุนตอนของสัปดาห์นี้ สมัครรับ YouTube Podcasts Pocket Casts Spotify Apple Podcasts เพลง Amazon สมัครสมาชิก 9to5Google Pro เพื่อรับเนื้อหาโบนัสพิเศษ ตอนพอดแคสต์ และอื่นๆ อีกมากมาย"
     },
     {
       "source": "9to5Google",
@@ -527,8 +527,8 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Rambler-example-on-Pixel-11.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/08/25/google-pixel-11-rambler-feature-upgrade-idea/",
       "published": "Tue, 25 Aug 2026 20:05:00 +0000",
-      "title_th": "Pixel 11’s ‘Rambler’ voice-to-text is a game-changer, but it should copy this feature [Video]",
-      "summary_th": "If there’s one part of using the Pixel 11 that I’ve really come to enjoy, it’s Gboard’s new voice-to-text tool, “Rambler.” But there is one big flaw, and that’s the lack of a live preview, and Nothing has just shown exactly what Google should do to fix that."
+      "title_th": "เสียงเป็นข้อความ 'Rambler' ของ Pixel 11 เป็นตัวเปลี่ยนเกม แต่ควรคัดลอกคุณสมบัตินี้ [วิดีโอ]",
+      "summary_th": "หากมีส่วนหนึ่งของการใช้ Pixel 11 ที่ฉันชอบมาก นี่คือเครื่องมือแปลงเสียงเป็นข้อความตัวใหม่ของ Gboard “Rambler” แต่มีข้อบกพร่องใหญ่ประการหนึ่ง นั่นคือการขาดการแสดงตัวอย่างสด และไม่มีอะไรที่แสดงให้เห็นอย่างชัดเจนว่า Google ควรทำสิ่งใดเพื่อแก้ไขปัญหานั้น"
     },
     {
       "source": "9to5Google",
@@ -539,8 +539,20 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pebblebee-loc8-find-hub-7.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/08/25/pebblebee-loc8-android-iphone-bike-tracker/",
       "published": "Tue, 25 Aug 2026 18:45:00 +0000",
-      "title_th": "This new Android & iPhone tracker hides in your bike or golf clubs with 3-year battery life [Gallery]",
-      "summary_th": "Pebblebee has launched “LÔC8,” a unique new Android Find Hub / Apple Find My tracker that’s designed to hide within your bike handles, golf clubs, and other places to help you keep tabs on your gear."
+      "title_th": "ตัวติดตาม Android และ iPhone ใหม่นี้ซ่อนอยู่ในจักรยานหรือไม้กอล์ฟของคุณด้วยอายุการใช้งานแบตเตอรี่ 3 ปี [แกลเลอรี]",
+      "summary_th": "Pebblebee ได้เปิดตัว \"LÔC8\" ซึ่งเป็น Android Find Hub / Apple Find My tracker ใหม่ที่ไม่เหมือนใคร ซึ่งออกแบบมาเพื่อซ่อนไว้ภายในแฮนด์จักรยาน ไม้กอล์ฟ และสถานที่อื่นๆ เพื่อช่วยให้คุณคอยดูอุปกรณ์ของคุณ"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "New electric Flyer promises 15 minute service from Chicago to O’Hare",
+      "summary_en": "A group of Chicago business leaders have announced plan to launch what they’re calling, “the first airport express train in the US.” The O’Hare Flyer is a fully electric train that will offer non-stop rides between downtown Chicago and America’s busiest airfield.",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/OHare-Flyer-15-minute-train.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/08/26/new-electric-flyer-promises-15-minute-service-from-chicago-to-ohare/",
+      "published": "Wed, 26 Aug 2026 11:46:46 +0000",
+      "title_th": "New Electric Flyer สัญญาว่าจะให้บริการ 15 นาทีจากชิคาโกไปยัง O'Hare",
+      "summary_th": "ผู้นำธุรกิจในชิคาโกกลุ่มหนึ่งได้ประกาศแผนการที่จะเปิดตัวสิ่งที่พวกเขาเรียกว่า “รถไฟด่วนสนามบินสายแรกในสหรัฐอเมริกา” O'Hare Flyer เป็นรถไฟฟ้าเต็มรูปแบบที่จะให้บริการเดินทางแบบไม่มีหยุดระหว่างตัวเมืองชิคาโกและสนามบินที่พลุกพล่านที่สุดของอเมริกา"
     },
     {
       "source": "Electrek",
@@ -551,8 +563,8 @@
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/BYD-Great-Seagull-EV-1.jpeg?quality=82&strip=all&resize=1200,628",
       "link": "https://electrek.co/2026/08/25/byds-low-cost-electric-hatch-bigger-sibling/",
       "published": "Tue, 25 Aug 2026 22:19:16 +0000",
-      "title_th": "BYD’s low-cost electric hatch is about to get a bigger sibling",
-      "summary_th": "BYD is preparing to launch a new electric hatch, positioned between the Dolphin and Seagull (Dolphin Surf) in terms of size."
+      "title_th": "ฟักไฟฟ้าราคาประหยัดของ BYD กำลังจะมีพี่น้องที่ใหญ่กว่า",
+      "summary_th": "BYD กำลังเตรียมที่จะเปิดตัวฟักไฟฟ้าแบบใหม่ ซึ่งวางตำแหน่งระหว่าง Dolphin และ Seagull (Dolphin Surf) ในแง่ของขนาด"
     },
     {
       "source": "Electrek",
@@ -563,8 +575,8 @@
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/dreame-rocket-car-cancelled.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://electrek.co/2026/08/25/robot-vacuum-company-cancels-its-rocket-powered-electric-car/",
       "published": "Tue, 25 Aug 2026 21:47:25 +0000",
-      "title_th": "Robot vacuum company cancels its rocket-boosted electric hypercar",
-      "summary_th": "Dreame is no longer planning to build the electric hypercar it unveiled in April, which it had said would have solid rocket boosters to achieve 0-60mph in 0.9 seconds. It’s also shuttering the rest of its car-related ambitions."
+      "title_th": "บริษัทหุ่นยนต์ดูดฝุ่น ยกเลิกไฮเปอร์คาร์ไฟฟ้าที่ขับเคลื่อนด้วยจรวด",
+      "summary_th": "Dreame ไม่ได้วางแผนที่จะสร้างไฮเปอร์คาร์ไฟฟ้าที่เปิดตัวในเดือนเมษายนอีกต่อไป ซึ่งทางบริษัทกล่าวว่าจะมีตัวกระตุ้นจรวดที่แข็งแกร่งเพื่อให้บรรลุ 0-60 ไมล์ต่อชั่วโมงใน 0.9 วินาที นอกจากนี้ยังปิดบังความทะเยอทะยานที่เกี่ยวข้องกับรถยนต์ที่เหลืออีกด้วย"
     },
     {
       "source": "Electrek",
@@ -575,8 +587,8 @@
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/traction-inverter-on-intelligent-chassis.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://electrek.co/2026/08/25/future-evs-could-get-more-range-from-this-tiny-ti-sensor/",
       "published": "Tue, 25 Aug 2026 20:51:58 +0000",
-      "title_th": "Future EVs could get more range from this tiny TI sensor",
-      "summary_th": "A tiny new sensor from Texas Instruments (TI) could help future EVs squeeze more range from their batteries while delivering smoother acceleration and less motor noise."
+      "title_th": "EV ในอนาคตอาจได้รับช่วงที่มากขึ้นจากเซ็นเซอร์ TI ขนาดเล็กนี้",
+      "summary_th": "เซ็นเซอร์ใหม่ขนาดเล็กจาก Texas Instruments (TI) สามารถช่วยให้ EV ในอนาคตบีบระยะจากแบตเตอรี่ได้มากขึ้น ในขณะที่ให้อัตราเร่งที่นุ่มนวลขึ้น และลดเสียงรบกวนของมอเตอร์"
     },
     {
       "source": "Electrek",
@@ -587,20 +599,8 @@
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/EcoFlow-Aventon-Anker-SOLIX-Greenworks-GDs-FI.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://electrek.co/2026/08/25/ecoflow-labor-day-power-station-sale-aventon-aventure-3-e-bike-anker-solix-more/",
       "published": "Tue, 25 Aug 2026 18:00:00 +0000",
-      "title_th": "EcoFlow Labor Day power station sale with up to 58% savings, Aventon Aventure 3 e-bike $1,799, Anker SOLIX bundle, more",
-      "summary_th": "Leading our Tuesday Green Deals is the newly launched EcoFlow Labor Day Sale with up to 58% power station discounts starting from $169 for the rest of August. Right behind that, we’re shining a spotlight on Aventon’s Aventure 3 Smart All-Terrain e-bike down at $1,799 in the brand’s Labor Day Sale event . We also have a one-day-only chance to grab Anker’s SOLIX C300X AC 288Wh Portable Power Station with a 60W solar panel for $300 , as well as the Greenworks Pro 80V 10-inch Cordless Electric Cultivator down at $290 , and more from Monarc Bikes, Jackery, and Whisker, too. And don’t forget we have all the hangover deals from yesterday that are down at the bottom of the page, like the early-bird launch deal on Heybike’s Titan Moto-Inspired Full Suspension e-bike , or the current Segway e-scoote"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Dubai VDX becomes world’s first purpose-built eVTOL vertiport",
-      "summary_en": "The developers behind the new Dubai VDX project are calling it the world’s first purpose-built commercial vertiport – and after receiving a green light from regulators the vertiport is ready to get started.",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/evtol-vertiport_MAIN.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/08/25/dubai-vdx-becomes-worlds-first-purpose-built-evtol-vertiport/",
-      "published": "Tue, 25 Aug 2026 17:55:00 +0000",
-      "title_th": "Dubai VDX becomes world’s first purpose-built eVTOL vertiport",
-      "summary_th": "The developers behind the new Dubai VDX project are calling it the world’s first purpose-built commercial vertiport – and after receiving a green light from regulators the vertiport is ready to get started."
+      "title_th": "การขายโรงไฟฟ้า EcoFlow Labor Day พร้อมส่วนลดสูงสุดถึง 58%, Aventon Aventure 3 e-bike 1,799 ดอลลาร์, ชุด Anker SOLIX และอีกมากมาย",
+      "summary_th": "ข้อเสนอที่เป็นมิตรต่อสิ่งแวดล้อมในวันอังคารของเราคือการเปิดตัว EcoFlow Labor Day Sale ที่เพิ่งเปิดตัวพร้อมส่วนลดโรงไฟฟ้าสูงสุดถึง 58% เริ่มต้นที่ 169 ดอลลาร์ในช่วงที่เหลือของเดือนสิงหาคม เบื้องหลังนั้น เรากำลังฉายสปอตไลต์ให้กับ e-bike Aventure 3 Smart All-Terrain ของ Aventon ที่ราคา 1,799 ดอลลาร์ในงานลดราคาวันแรงงานของแบรนด์ นอกจากนี้เรายังมีโอกาสวันเดียวเท่านั้นที่จะซื้อสถานีไฟฟ้าแบบพกพา SOLIX C300X AC 288Wh ของ Anker พร้อมแผงโซลาร์เซลล์ 60W ในราคา 300 ดอลลาร์ เช่นเดียวกับเครื่องเกษตรกรไฟฟ้าไร้สาย Greenworks Pro 80V ขนาด 10 นิ้ว ในราคา 290 ดอลลาร์ และอีกมากมายจาก Monarc Bikes, Jackery และ Whisker เช่นกัน และอย่าลืมว่าเรามีข้อเสนออาการเมาค้างทั้งหมดจากเมื่อวานที่ด้านล่างของหน้า เช่น ข้อตกลงการเปิดตัวนกก่อนใครใน e-bike Titan Moto-Inspired Full Suspension ของ Heybike หรือ Segway e-scoote ในปัจจุบัน"
     }
   ],
   "indices": [
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 252.0,
-      "change": 2.0,
-      "change_pct": 0.8
+      "price": 248.0,
+      "change": -2.0,
+      "change_pct": -0.8
     }
   ],
   "reviews": [
@@ -708,7 +708,7 @@
       "link": "https://www.youtube.com/shorts/ip0W9lCXpio",
       "thumbnail": "https://i2.ytimg.com/vi/ip0W9lCXpio/hqdefault.jpg",
       "published": "2026-08-24T16:16:23+00:00",
-      "title_th": "The Snapdragon Multi-Day Battery Laptop"
+      "title_th": "แล็ปท็อปแบตเตอรี่ Snapdragon หลายวัน"
     },
     {
       "channel": "Unbox Therapy",
@@ -718,7 +718,7 @@
       "link": "https://www.youtube.com/shorts/F2uHTrbQQVE",
       "thumbnail": "https://i3.ytimg.com/vi/F2uHTrbQQVE/hqdefault.jpg",
       "published": "2026-08-22T15:12:34+00:00",
-      "title_th": "This Limited Edition Unboxing is 🥶..."
+      "title_th": "Unboxing รุ่น Limited Edition นี้ 🥶..."
     },
     {
       "channel": "Unbox Therapy",
@@ -728,7 +728,7 @@
       "link": "https://www.youtube.com/shorts/b0x8sFBJr7Q",
       "thumbnail": "https://i3.ytimg.com/vi/b0x8sFBJr7Q/hqdefault.jpg",
       "published": "2026-08-20T17:06:18+00:00",
-      "title_th": "World’s Lightest 17” Laptop With RTX..."
+      "title_th": "แล็ปท็อปขนาด 17 นิ้วที่เบาที่สุดในโลกพร้อม RTX..."
     },
     {
       "channel": "Beartai",
