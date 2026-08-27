@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-08-26T19:39:30.421919+00:00",
+  "generated_at": "2026-08-27T00:30:17.759457+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+      "summary_en": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "published": "Wed, 26 Aug 2026 23:47:18 +0000",
+      "title_th": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+      "summary_th": "Amazon กำลังเพิ่มชิป Nvidia GPU อีก 2 ล้านตัวให้กับศูนย์ข้อมูลภายในสองปีข้างหน้า แต่ความร่วมมือที่ขยายออกไปนี้ครอบคลุมมากกว่าการซื้อชิปเพิ่ม"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well",
+      "summary_en": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2267997264.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
+      "published": "Wed, 26 Aug 2026 22:47:58 +0000",
+      "title_th": "ข้อตกลงด้านความปลอดภัยสำหรับเด็กมูลค่า 18 พันล้านดอลลาร์ของ Meta ขึ้นอยู่กับเทคโนโลยีการตรวจสอบอายุซึ่งทำงานได้ไม่ดีนัก",
+      "summary_th": "ข้อตกลงในอดีตจุดชนวนให้เกิดความกังวลอย่างต่อเนื่องเกี่ยวกับวิธีที่เทคโนโลยีการตรวจสอบอายุทำให้ความเป็นส่วนตัวตกอยู่ในความเสี่ยง"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "summary_en": "Consumer AI apps need to stop making users learn their product architecture.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImages-2276583186-1.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "published": "Wed, 26 Aug 2026 19:37:34 +0000",
+      "title_th": "Gemini ของ Google มีปัญหาในการสร้างแบรนด์ และ AI ที่เหลือก็เช่นกัน",
+      "summary_th": "แอป AI สำหรับผู้บริโภคจำเป็นต้องหยุดให้ผู้ใช้เรียนรู้สถาปัตยกรรมผลิตภัณฑ์ของตน"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "How do we explain OpenAI’s executive exodus?",
+      "summary_en": "Was Greg Brockman the right executive all along?",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "published": "Wed, 26 Aug 2026 19:34:04 +0000",
+      "title_th": "เราจะอธิบายการอพยพของผู้บริหารของ OpenAI ได้อย่างไร",
+      "summary_th": "Greg Brockman เป็นผู้บริหารที่ใช่มาตลอดหรือไม่?"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -11,56 +59,44 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
       "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
       "published": "Wed, 26 Aug 2026 19:05:22 +0000",
-      "title_th": "OpenAI เผยแพร่รายงานอย่างเป็นทางการเกี่ยวกับการละเมิด Hugging Face",
+      "title_th": "OpenAI releases its official report on the Hugging Face breach",
       "summary_th": "รายงานซึ่งครอบคลุมถึงการประนีประนอมด้านความปลอดภัยทางไซเบอร์หลายรายการ ถือเป็นรายงานเหตุการณ์ที่เกิดขึ้นอย่างสมบูรณ์ที่สุดในปัจจุบัน"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
-      "summary_en": "Flipboard is acquiring Bluesky feed-building startup Graze, bringing its privacy-friendly ad technology and creator monetization tools into Flipboard’s growing open social web ecosystem.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/05/Bluesky-in-Flipboard-logos.png?resize=1200,738",
-      "link": "https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/",
-      "published": "Wed, 26 Aug 2026 18:35:40 +0000",
-      "title_th": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
-      "summary_th": "Flipboard กำลังเข้าซื้อกิจการ Graze สตาร์ทอัพด้านการสร้างฟีดของ Bluesky โดยนำเทคโนโลยีโฆษณาที่เป็นมิตรต่อความเป็นส่วนตัวและเครื่องมือสร้างรายได้ของผู้สร้างมาสู่ระบบนิเวศเว็บโซเชียลแบบเปิดที่กำลังเติบโตของ Flipboard"
+      "category": "software",
+      "title_en": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+      "summary_en": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. Nvidia said in its latest earnings report that it brought in a record $96.2 billion […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+      "published": "2026-08-26T17:40:53-04:00",
+      "title_th": "Nvidia กำลังจะเป็นบริษัทที่มีมูลค่าแสนล้านดอลลาร์ต่อไตรมาส",
+      "summary_th": "Nvidia คาดการณ์ว่าจะดึงรายได้ 108 พันล้านดอลลาร์ภายในเวลาเพียงไม่กี่เดือน คงไม่ใช่บริษัทแรกที่ทำรายรับรายไตรมาสได้มากกว่า 100 พันล้านดอลลาร์ - Amazon, Apple และ Alphabet ได้บรรลุเป้าหมายครั้งแล้วครั้งเล่า Nvidia กล่าวในรายงานผลประกอบการล่าสุดว่าทำรายได้สูงสุดเป็นประวัติการณ์ที่ 96.2 พันล้านดอลลาร์ […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations",
-      "summary_en": "The company won't say if medical devices are affected or if any customer data was exfiltrated.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/boston-scientific-524267992.jpg?resize=1200,772",
-      "link": "https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/",
-      "published": "Wed, 26 Aug 2026 18:23:09 +0000",
-      "title_th": "Medical device maker Boston Scientific says a cyberattack is causing a ‘global disruption’ to its operations",
-      "summary_th": "The company won't say if medical devices are affected or if any customer data was exfiltrated."
+      "category": "software",
+      "title_en": "OpenAI’s rogue AI model incident was worse than we thought",
+      "summary_en": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face. It took nearly two weeks for OpenAI to […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+      "published": "2026-08-26T17:36:06-04:00",
+      "title_th": "เหตุการณ์โมเดล AI อันธพาลของ OpenAI เลวร้ายกว่าที่เราคิด",
+      "summary_th": "ในเดือนกรกฎาคม โมเดล OpenAI ที่ยังไม่ได้เผยแพร่หลุดออกจากสภาพแวดล้อมที่จำกัด ค้นพบวิธีเข้าถึงอินเทอร์เน็ต อนุญาตให้ตัวแทน AI พูดคุยกันโดยใช้ \"กระดานข้อความ\" ที่เป็นความลับ และแฮ็กเข้าสู่ระบบภายในของแล็บ AI อื่น Hugging Face OpenAI ใช้เวลาเกือบสองสัปดาห์ในการ […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
-      "summary_en": "The FBI has seized domains associated with a botnet that allowed Chinese-backed hackers to breach several U.S. government departments.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-flag.jpg?resize=1200,675",
-      "link": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
-      "published": "Wed, 26 Aug 2026 17:01:05 +0000",
-      "title_th": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
-      "summary_th": "The FBI has seized domains associated with a botnet that allowed Chinese-backed hackers to breach several U.S. government departments."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Capital F closes $17M debut fund with goal to back the future of the ‘female economy’",
-      "summary_en": "Capital F, one of the few all-female-led VC firms, announced Wednesday the $17 million close of its debut fund. The firm backs companies building in the “female economy” — or the markets where women drive demand. That mainly falls into three buckets for the firm, Margaret Coblentz, the firm’s co-founder, told TechCrunch — women’s health, […]",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Margaret-Coblentz-and-Dawn-Dobras.png?w=934",
-      "link": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/",
-      "published": "Wed, 26 Aug 2026 17:00:00 +0000",
-      "title_th": "Capital F ปิดกองทุนเปิดตัวมูลค่า 17 ล้านเหรียญสหรัฐ โดยมีเป้าหมายเพื่อรองรับอนาคตของ 'เศรษฐกิจสตรี'",
-      "summary_th": "Capital F, one of the few all-female-led VC firms, announced Wednesday the $17 million close of its debut fund. The firm backs companies building in the “female economy” — or the markets where women drive demand. That mainly falls into three buckets for the firm, Margaret Coblentz, the firm’s co-founder, told TechCrunch — women’s health, […]"
+      "category": "software",
+      "title_en": "All the ways Instagram and Facebook are changing for teens",
+      "summary_en": "Meta just agreed to make sweeping changes for teens as part of a child safety settlement reached with attorneys general across the US. Under the agreement, Meta must apply new safeguards across Instagram and Facebook that will change how teens interact with the social media platforms, as well as restrict their use during certain times. […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_2__STK043_META_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/985329/instagram-facebook-meta-settlement-changes",
+      "published": "2026-08-26T16:00:00-04:00",
+      "title_th": "All the ways Instagram and Facebook are changing for teens",
+      "summary_th": "Meta just agreed to make sweeping changes for teens as part of a child safety settlement reached with attorneys general across the US. Under the agreement, Meta must apply new safeguards across Instagram and Facebook that will change how teens interact with the social media platforms, as well as restrict their use during certain times. […]"
     },
     {
       "source": "The Verge",
@@ -83,44 +119,20 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/glossypikmin4mainRAW.jpg?quality=90&strip=all&crop=0%2C10.741445188627%2C100%2C78.517109622746&w=1200",
       "link": "https://www.theverge.com/gadgets/984331/switch-2-price-increase-psa",
       "published": "2026-08-26T14:00:00-04:00",
-      "title_th": "The Switch 2’s $50 price increase is happening next week",
+      "title_th": "การขึ้นราคา 50 ดอลลาร์ของ Switch 2 จะเกิดขึ้นในสัปดาห์หน้า",
       "summary_th": "This is a friendly reminder that the Nintendo Switch 2 will jump in price by $50 starting on September 1st. That’s next Tuesday! The company gave plenty of notice, but the time has finally come. The base 256GB model that ships without a game will go from $449.99 to $499.99. Nintendo recently announced two bundles […]"
     },
     {
-      "source": "The Verge",
+      "source": "Ars Technica",
       "flag": "US",
-      "category": "gadget",
-      "title_en": "Apple Maps has ads now",
-      "summary_en": "Ads have started popping up in Apple Maps, following Apple's announcement in March that it would let businesses pay for top spots. They're appearing on my iPhone as the first entry in the \"suggested places\" section in search, but Apple says they'll also show up at the top of search results. According to 9to5Mac, the […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Apple-Business-ads-on-Apple-Maps.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/985249/apple-maps-iphone-ads",
-      "published": "2026-08-26T13:34:32-04:00",
-      "title_th": "Apple Maps มีโฆษณาแล้ว",
-      "summary_th": "โฆษณาเริ่มปรากฏขึ้นใน Apple Maps ตามประกาศของ Apple ในเดือนมีนาคมที่จะอนุญาตให้ธุรกิจต่างๆ จ่ายเงินเพื่อจุดสูงสุด พวกเขาปรากฏบน iPhone ของฉันเป็นรายการแรกในส่วน \"สถานที่ที่แนะนำ\" ในการค้นหา แต่ Apple บอกว่าพวกเขาจะปรากฏที่ด้านบนของผลการค้นหาด้วย จากข้อมูลของ 9to5Mac นั้น […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
-      "summary_en": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waiting for Google to release the Gemini 3.5 Pro model that it […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-      "published": "2026-08-26T13:00:00-04:00",
-      "title_th": "การถอดเสียง AI ใหม่ของ Google จะแก้ไข 'ums' และ 'ahs' ของคุณ",
-      "summary_th": "Google ได้อัปเดต Gemini Audio ด้วยความสามารถในการถอดเสียงใหม่ที่ตรวจจับศัพท์แสงเฉพาะทางและภาษาต่างๆ มากกว่า 85 ภาษาโดยอัตโนมัติ Gemini 3.5 Transcribe เป็นส่วนเสริมใหม่ของตระกูล Gemini ที่เกิดขึ้นหลังจากการเปิดตัว 3.5 Live Translate และมาในขณะที่เรายังรอให้ Google เปิดตัวรุ่น Gemini 3.5 Pro ที่ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Apple announces September iPhone launch event",
-      "summary_en": "Apple's next launch event will take place on September 9th at 1PM ET. Invites to the event, which has a \"Surprise and shine\" tagline, were sent out on Wednesday. The event will take place at the Steve Jobs Theater in Apple Park, but there will also be a livestream on Apple's website. September's show could […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-26-at-9.17.30-AM.png?quality=90&strip=all&crop=4.9206194690266%2C0%2C90.158761061947%2C94.827045012242&w=1200",
-      "link": "https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date",
-      "published": "2026-08-26T12:03:49-04:00",
-      "title_th": "Apple announces September iPhone launch event",
-      "summary_th": "Apple's next launch event will take place on September 9th at 1PM ET. Invites to the event, which has a \"Surprise and shine\" tagline, were sent out on Wednesday. The event will take place at the Steve Jobs Theater in Apple Park, but there will also be a livestream on Apple's website. September's show could […]"
+      "category": "software",
+      "title_en": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+      "summary_en": "Report shows Meta's challenges replacing people with AI agents.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2171717886-1152x648.jpg",
+      "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+      "published": "Wed, 26 Aug 2026 21:25:27 +0000",
+      "title_th": "ตัวแทน AI มีวัตถุประสงค์เพื่อแทนที่คนงาน Meta ที่ทำ \"การกระทำขนาดใหญ่และก่อกวน\"",
+      "summary_th": "Report shows Meta's challenges replacing people with AI agents."
     },
     {
       "source": "Ars Technica",
@@ -132,7 +144,7 @@
       "link": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
       "published": "Mon, 24 Aug 2026 19:19:21 +0000",
       "title_th": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
-      "summary_th": "Is the technique outdated? Yes. Is it still creepy? Also yes."
+      "summary_th": "เทคนิคนี้ล้าสมัยหรือไม่? ใช่. มันยังน่าขนลุกอยู่เหรอ? ใช่เช่นกัน"
     },
     {
       "source": "Ars Technica",
@@ -143,8 +155,8 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_8bad1114-5b27-4fc9-8102-1cb63e7f76fb-1152x648.jpeg",
       "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
       "published": "Fri, 21 Aug 2026 13:11:35 +0000",
-      "title_th": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
-      "summary_th": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services."
+      "title_th": "Waymo เพิ่มการใช้จ่ายสองเท่าในการล็อบบี้ในการต่อสู้ robotaxi กับ Uber",
+      "summary_th": "บริษัทที่เป็นเจ้าของ Alphabet กำลังพยายามชักชวนหน่วยงานกำกับดูแลของสหรัฐฯ ให้เปิดทางสำหรับบริการแท็กซี่ไร้คนขับเต็มรูปแบบ"
     },
     {
       "source": "Ars Technica",
@@ -155,8 +167,8 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg",
       "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
       "published": "Thu, 20 Aug 2026 13:00:35 +0000",
-      "title_th": "Grok exfiltrates user data when malicious instructions are encrypted",
-      "summary_th": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail."
+      "title_th": "Grok ขโมยข้อมูลผู้ใช้เมื่อมีการเข้ารหัสคำแนะนำที่เป็นอันตราย",
+      "summary_th": "Cryptographic Context Injection เป็นเพียงวิธีใหม่ล่าสุดในการทำลายรั้วความปลอดภัยของ LLM"
     },
     {
       "source": "Ars Technica",
@@ -167,31 +179,43 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg",
       "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
       "published": "Tue, 18 Aug 2026 13:00:04 +0000",
-      "title_th": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+      "title_th": "Microsoft Copilot เปิดเผยข้อมูลลับที่อนุญาตให้แฮ็กได้",
       "summary_th": "Secret parameter allowed hackers to steal passwords when a target clicked on a link."
-    },
-    {
-      "source": "Ars Technica",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Nvidia discloses $21B stake in SpaceX",
-      "summary_en": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_116f79c4-b712-471b-b46a-ace5e4d7dda4.avif",
-      "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
-      "published": "Mon, 17 Aug 2026 14:22:54 +0000",
-      "title_th": "Nvidia discloses $21B stake in SpaceX",
-      "summary_th": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "OpenAI’s Hugging Face Hack Debrief Raises More Questions Than It Answers",
+      "title_en": "Democrats Just Might Win the Senate",
+      "summary_en": "Strategists in both parties have long thought that everything would need to go right for Democrats to take over Congress this fall. Their map, though, is becoming more forgiving.",
+      "image": "https://media.wired.com/photos/6a8e12acbbdee18b4a023905/master/pass/politics_democrats_senate.jpg",
+      "link": "https://www.wired.com/story/democrats-just-might-win-the-senate/",
+      "published": "Wed, 26 Aug 2026 21:00:00 +0000",
+      "title_th": "พรรคเดโมแครตอาจชนะวุฒิสภาได้",
+      "summary_th": "นักยุทธศาสตร์ของทั้งสองฝ่ายคิดมานานแล้วว่าทุกอย่างจะต้องถูกต้องเพื่อให้พรรคเดโมแครตเข้ารับตำแหน่งสภาคองเกรสในฤดูใบไม้ร่วงนี้ แผนที่ของพวกเขาเริ่มให้อภัยมากขึ้น"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Waffle House Teleporter Gregg Phillips Is Still on the Trump Administration’s Payroll",
+      "summary_en": "In June, a FEMA official infamous for claiming to have teleported to a Waffle House was reportedly ousted. He’s still employed by the government, though—and meeting with a Trump fixer.",
+      "image": "https://media.wired.com/photos/6a8f03eac7e16565c80849b7/master/pass/WaffleHouseGregg.jpg",
+      "link": "https://www.wired.com/story/waffle-house-teleporter-gregg-phillips-is-still-on-the-trump-administrations-payroll/",
+      "published": "Wed, 26 Aug 2026 20:18:12 +0000",
+      "title_th": "Waffle House Teleporter Gregg Phillips ยังคงอยู่ในบัญชีเงินเดือนของฝ่ายบริหารของทรัมป์",
+      "summary_th": "ในเดือนมิถุนายน มีรายงานว่าเจ้าหน้าที่ FEMA ที่มีชื่อเสียงฉาวโฉ่โดยอ้างว่าได้เคลื่อนย้ายไปยังบ้านวาฟเฟิลถูกขับออกไป แม้ว่าเขาจะยังคงทำงานอยู่ในรัฐบาล และได้พบกับผู้ให้บริการของทรัมป์"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "What We Still Don’t Know About OpenAI’s Hugging Face Hack",
       "summary_en": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see this fiasco coming.",
       "image": "https://media.wired.com/photos/6a8ec12c77fbaae8f5a47365/master/pass/OpenAIFaceHug.jpg",
       "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
       "published": "Wed, 26 Aug 2026 19:16:42 +0000",
-      "title_th": "OpenAI’s Hugging Face Hack Debrief Raises More Questions Than It Answers",
+      "title_th": "What We Still Don’t Know About OpenAI’s Hugging Face Hack",
       "summary_th": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see this fiasco coming."
     },
     {
@@ -203,7 +227,7 @@
       "image": "https://media.wired.com/photos/6a8dc4dc21bb5a1c3d158388/master/pass/AI-Lab-Robot-Games-Business.jpg",
       "link": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/",
       "published": "Wed, 26 Aug 2026 18:15:00 +0000",
-      "title_th": "หุ่นยนต์ฮิวแมนนอยด์ในเกมหุ่นยนต์ของจีนนั้นเร็วกว่า Usain Bolt – แต่ฉันประทับใจกับความเชี่ยวชาญของ Tweezer มากกว่า",
+      "title_th": "The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery",
       "summary_th": "เกมหุ่นยนต์ที่สนุกสนานไม่รู้จบของปักกิ่งมีการแสดงโลดโผนที่น่าประทับใจมากมาย แต่กลอุบายที่น่าเหลือเชื่อที่สุดนั้นท้าทายสมองของมนุษย์ ไม่ใช่ความแข็งแกร่ง"
     },
     {
@@ -219,28 +243,16 @@
       "summary_th": "แคมเปญแฮ็กของจีนพุ่งเป้าไปที่ NASA, Federal Reserve, วุฒิสภาสหรัฐอเมริกา, กระทรวงยุติธรรม และอื่นๆ อีกมากมาย ตามข้อมูลของ DOJ"
     },
     {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
       "category": "ai",
-      "title_en": "Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety",
-      "summary_en": "More than 15 politicians from across the country have signed on to the AI Pact, vowing to regulate data centers and AI. “We’ve got to get this right,” says Senate candidate Dan Osborn of Nebraska.",
-      "image": "https://media.wired.com/photos/6a8ded27f4779156570e0f64/master/pass/Politics_Politicians%20Are%20Signing%20a%20Pact%20Against%20Data%20Center%20Giveaways_v1.jpg",
-      "link": "https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/",
-      "published": "Wed, 26 Aug 2026 17:13:37 +0000",
-      "title_th": "ผู้สมัครกำลังลงนามในข้อตกลงการดำเนินการที่มีความหวังเกี่ยวกับศูนย์ข้อมูลและความปลอดภัยของ AI",
-      "summary_th": "นักการเมืองมากกว่า 15 คนจากทั่วประเทศได้ลงนามในสนธิสัญญา AI โดยให้คำมั่นว่าจะควบคุมศูนย์ข้อมูลและ AI “เราต้องทำให้ถูกต้อง” แดน ออสบอร์น ผู้สมัครวุฒิสภาจากเนแบรสกากล่าว"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "PeopleFinders’ New Website Runs Background Checks on Your Dates",
-      "summary_en": "The site, called Stud or Dud, helps daters dig up dirt on potential paramours. It’s fueled by the same public data as PeopleFinders.com—and comes with many of the same concerns.",
-      "image": "https://media.wired.com/photos/6a8dec9960465935e0bb1ba6/master/pass/Background-Check-Company-Makes-Dating-App-Culture.jpg",
-      "link": "https://www.wired.com/story/peoplefinders-new-website-stud-or-dud-runs-background-checks-on-your-dates/",
-      "published": "Wed, 26 Aug 2026 13:00:00 +0000",
-      "title_th": "เว็บไซต์ใหม่ของ PeopleFinders ดำเนินการตรวจสอบประวัติวันที่ของคุณ",
-      "summary_th": "เว็บไซต์ที่เรียกว่า Stud หรือ Dud ช่วยให้คู่เดทขุดคุ้ยเรื่องที่อาจเป็นคนรักได้ ข้อมูลสาธารณะแบบเดียวกับ PeopleFinders.com ขับเคลื่อนโดยข้อมูลดังกล่าว และมาพร้อมกับข้อกังวลหลายประการแบบเดียวกัน"
+      "title_en": "The inside story on why OpenAI agents hacked Hugging Face",
+      "summary_en": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-misalign.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "published": "Wed, 26 Aug 2026 19:00:00 +0000",
+      "title_th": "The inside story on why OpenAI agents hacked Hugging Face",
+      "summary_th": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’…"
     },
     {
       "source": "MIT Technology Review",
@@ -275,7 +287,7 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/vincentkilbride-mit-technology-review-ai-puzzles.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
       "published": "Wed, 26 Aug 2026 09:00:00 +0000",
-      "title_th": "AI models flub these intelligence tests. Can you fare any better?",
+      "title_th": "โมเดล AI ขัดขวางการทดสอบความฉลาดเหล่านี้ คุณสามารถค่าโดยสารที่ดีกว่านี้ได้ไหม?",
       "summary_th": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur…"
     },
     {
@@ -288,79 +300,79 @@
       "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
       "published": "Wed, 26 Aug 2026 07:01:00 +0000",
       "title_th": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-      "summary_th": "วันนี้เป็นวันอันรุ่งโรจน์ในเคิร์กแลนด์ รัฐวอชิงตัน ชานเมืองซีแอตเทิลที่มั่งคั่งบนชายฝั่งตะวันออกของทะเลสาบวอชิงตัน อุณหภูมิอยู่ในช่วงกลางทศวรรษที่ 80 และท้องฟ้าไม่สามารถเป็นสีฟ้าได้อีก วิวจากห้องประชุม Gates Ventures มองเห็นท่าจอดเรือ Carillon Point Marina ซึ่งมีกองเรือราคาแพงแล่นเข้ามา..."
-    },
-    {
-      "source": "MIT Technology Review",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Addressing a sticking point in sustainable adhesives",
-      "summary_en": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers. “The labels on a container are held up with petroleum-based glue. And because of that, even though you’re putting the container in the recycle bin, it will not…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Ferreira_photoKort-Duce_Dynamic-Tech-Media-thumb.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
-      "published": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "title_th": "จัดการกับจุดติดของกาวที่ยั่งยืน",
-      "summary_th": "กาวที่มีส่วนผสมของปิโตรเลียมมีอยู่ทั่วไป ไม่ว่าจะเป็นการติดไม้และผนังยิปซั่มในโครงการก่อสร้าง ยึดข้อต่อของเฟอร์นิเจอร์เข้าด้วยกัน และแม้แต่การติดฉลากบนภาชนะที่สามารถรีไซเคิลได้ “ฉลากบนบรรจุภัณฑ์ถูกยึดด้วยกาวที่มีส่วนผสมของปิโตรเลียม และด้วยเหตุนี้ แม้ว่าคุณจะใส่ภาชนะลงในถังรีไซเคิล มันก็จะไม่..."
+      "summary_th": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in…"
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Mac mini vs Mac Studio: Which desktop is right for you?",
-      "summary_en": "Which of Apple's new computers should you get?",
-      "image": "https://www.engadget.com/img/gallery/mac-mini-vs-mac-studio-which-desktop-is-right-for-you/l-intro-1787770929.jpg",
-      "link": "https://www.engadget.com/2244951/mac-mini-vs-studio-which-desktop-right-for-you/",
-      "published": "Wed, 26 Aug 2026 19:19:28 +0000",
-      "title_th": "Mac mini กับ Mac Studio: เดสก์ท็อปใดที่เหมาะกับคุณ",
-      "summary_th": "คุณควรซื้อคอมพิวเตอร์เครื่องใหม่ของ Apple เครื่องใด"
+      "title_en": "Australia's recording association bans AI-made music from charts",
+      "summary_en": "Songs using gen-AI as a support tool will still be allowed, so long as they're \"substantially human made.\"",
+      "image": "https://www.engadget.com/img/gallery/australias-recording-association-bans-ai-made-music-from-charts/l-intro-1787785022.jpg",
+      "link": "https://www.engadget.com/2245151/australia-s-recording-association-bans-ai-made-music-from-charts/",
+      "published": "Wed, 26 Aug 2026 23:00:49 +0000",
+      "title_th": "Australia's recording association bans AI-made music from charts",
+      "summary_th": "Songs using gen-AI as a support tool will still be allowed, so long as they're \"substantially human made.\""
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Devolver Digital squares up to Rockstar with a mascot platformer out the same day as GTA 6",
-      "summary_en": "Devolver Digital squares up to Rockstar with a mascot platformer out the same day as GTA 6.",
-      "image": "https://www.engadget.com/img/gallery/devolver-digital-squares-up-to-rockstar-with-a-mascot-platformer-out-the-same-day-as-gta-6/l-intro-1787770676.jpg",
-      "link": "https://www.engadget.com/2244925/devolver-digital-squares-up-to-rockstar-with-a-mascot-platformer-out-the-same-day-as-gta-6/",
-      "published": "Wed, 26 Aug 2026 18:59:18 +0000",
-      "title_th": "Devolver Digital squares up to Rockstar with a mascot platformer out the same day as GTA 6",
-      "summary_th": "Devolver Digital squares up to Rockstar with a mascot platformer out the same day as GTA 6."
+      "title_en": "Panic is refunding tariff fees paid by Playdate owners",
+      "summary_en": "The console was subject to added fees under the Trump administration's original tariff regime.",
+      "image": "https://www.engadget.com/img/gallery/panic-is-refunding-tariff-fees-paid-by-playdate-owners/l-intro-1787781335.jpg",
+      "link": "https://www.engadget.com/2245122/panic-is-refunding-tariff-fees-paid-by-playdate-owners/",
+      "published": "Wed, 26 Aug 2026 21:57:48 +0000",
+      "title_th": "Panic is refunding tariff fees paid by Playdate owners",
+      "summary_th": "The console was subject to added fees under the Trump administration's original tariff regime."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Ring introduces better default encryption standards to address privacy concerns",
-      "summary_en": "Ring data still gets sent to the cloud, but it'll be deleted after being used to power smart home controls.",
-      "image": "https://www.engadget.com/img/gallery/ring-introduces-better-default-encryption-standards-to-address-privacy-concerns/l-intro-1787770545.jpg",
-      "link": "https://www.engadget.com/2244922/ring-introduces-better-default-encryption-standards-to-address-privacy-concerns/",
-      "published": "Wed, 26 Aug 2026 18:56:52 +0000",
-      "title_th": "Ring introduces better default encryption standards to address privacy concerns",
-      "summary_th": "Ring data still gets sent to the cloud, but it'll be deleted after being used to power smart home controls."
+      "title_en": "OpenAI details the failures that led to Hugging Face breach in official report",
+      "summary_en": "Transparency from the company is good, but real trust in its people would be better.",
+      "image": "https://www.engadget.com/img/gallery/openai-details-the-failures-that-led-to-hugging-face-breach-in-official-report/l-intro-1787781084.jpg",
+      "link": "https://www.engadget.com/2245119/openai-details-the-failures-that-led-to-hugging-face-breach-in-official-report/",
+      "published": "Wed, 26 Aug 2026 21:54:58 +0000",
+      "title_th": "OpenAI details the failures that led to Hugging Face breach in official report",
+      "summary_th": "Transparency from the company is good, but real trust in its people would be better."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Meta reportedly abandoned an AI-focused restructuring plan that would have laid off thousands",
-      "summary_en": "The problem with Meta's AI restructuring plan is the AI wasn't good enough.",
-      "image": "https://www.engadget.com/img/gallery/meta-reportedly-abandoned-an-ai-focused-restructuring-plan-that-would-have-laid-off-thousands/l-intro-1787765724.jpg",
-      "link": "https://www.engadget.com/2244816/meta-reportedly-abandoned-an-ai-focused-restructuring-plan/",
-      "published": "Wed, 26 Aug 2026 17:36:41 +0000",
-      "title_th": "Meta reportedly abandoned an AI-focused restructuring plan that would have laid off thousands",
-      "summary_th": "ปัญหาเกี่ยวกับแผนการปรับโครงสร้าง AI ของ Meta คือ AI ไม่ดีพอ"
+      "title_en": "Why is the Mac mini M5 Pro more expensive than the M6?",
+      "summary_en": "When it comes to Apple Silicon, a higher number doesn't necessarily mean a better chip.",
+      "image": "https://www.engadget.com/img/gallery/why-is-the-mac-mini-m5-pro-more-expensive-than-the-m6/l-intro-1787768693.jpg",
+      "link": "https://www.engadget.com/2245011/why-mac-mini-m5-pro-more-expensive-than-m6/",
+      "published": "Wed, 26 Aug 2026 20:15:00 +0000",
+      "title_th": "Why is the Mac mini M5 Pro more expensive than the M6?",
+      "summary_th": "When it comes to Apple Silicon, a higher number doesn't necessarily mean a better chip."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Google says its latest Gemini transcription model can turn your ramblings into structured text",
-      "summary_en": "Google says Gemini 3.5 Transcribe will soon let you use speech-to-text in any web field in Chrome.",
-      "image": "https://www.engadget.com/img/gallery/google-gemini-latest-transcription-model-can-turn-ramblings-into-structured-text/l-intro-1787767502.jpg",
-      "link": "https://www.engadget.com/2244799/google-gemini-latest-transcription-model-can-turn-ramblings-into-structured-text/",
-      "published": "Wed, 26 Aug 2026 17:25:36 +0000",
-      "title_th": "Google กล่าวว่ารูปแบบการถอดความราศีเมถุนล่าสุดสามารถเปลี่ยนคำพูดของคุณให้เป็นข้อความที่มีโครงสร้างได้",
-      "summary_th": "Google กล่าวว่า Gemini 3.5 Transcribe จะช่วยให้คุณใช้คำพูดเป็นข้อความในเว็บฟิลด์ใดก็ได้ใน Chrome เร็วๆ นี้"
+      "title_en": "How to watch Grand Theft Auto VI: An Extended Look",
+      "summary_en": "Netflix is the exclusive home of the GTA VI trailer for six hours on Thursday.",
+      "image": "https://www.engadget.com/img/gallery/how-to-watch-grand-theft-auto-vi-an-extended-look/l-intro-1787765191.jpg",
+      "link": "https://www.engadget.com/2244813/how-to-watch-gta-6-extended-look-netflix-youtube/",
+      "published": "Wed, 26 Aug 2026 20:00:00 +0000",
+      "title_th": "How to watch Grand Theft Auto VI: An Extended Look",
+      "summary_th": "Netflix เป็นบ้านสุดพิเศษของตัวอย่าง GTA VI เป็นเวลา 6 ชั่วโมงในวันพฤหัสบดี"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "flag": "US",
+      "category": "robot",
+      "title_en": "IEEE Student Conference Provides Visibility to Budding Authors",
+      "summary_en": "The IEEE–Eta Kappa Nu (IEEE-HKN) honor society is preparing to host the Innovating the Future event on 6 November. The inaugural one-day, in-person event is designed to provide a forum for IEEE and IEEE-HKN undergraduate and graduate student authors to present their original research papers. A keynote address and thematic presentation sessions are planned as well. Student attendees can network with their peers and gain firsthand experience with the academic publishing process. To present at the conference, students had to submit an abstract of their research before 1 May. Students whose work was accepted were assigned a volunteer IEEE member to mentor them and guide them through the research writing process, including presenting and publishing their original work. Those whose paper was acc",
+      "image": "https://spectrum.ieee.org/media-library/white-woman-speaking-into-a-microphone-in-front-of-a-projected-presentation-screen.jpg?id=67680899&width=980",
+      "link": "https://spectrum.ieee.org/ieee-student-conference-budding-authors",
+      "published": "Wed, 26 Aug 2026 20:00:04 +0000",
+      "title_th": "การประชุมนักศึกษา IEEE ช่วยให้ผู้เขียนรุ่นใหม่มองเห็นได้",
+      "summary_th": "สมาคมเกียรติยศ IEEE–Eta Kappa Nu (IEEE-HKN) กำลังเตรียมจัดงาน Innovating the Future ในวันที่ 6 พฤศจิกายน กิจกรรมพบปะด้วยตนเองครั้งแรกที่จัดขึ้นหนึ่งวัน ได้รับการออกแบบเพื่อเป็นเวทีสำหรับนักเขียนระดับปริญญาตรีและนักศึกษาระดับบัณฑิตศึกษาของ IEEE และ IEEE-HKN เพื่อนำเสนอผลงานวิจัยต้นฉบับของตน มีการวางแผนการกล่าวปาฐกถาพิเศษและการนำเสนอตามหัวข้อด้วยเช่นกัน ผู้เข้าร่วมงานนักศึกษาสามารถสร้างเครือข่ายกับเพื่อนฝูงและได้รับประสบการณ์ตรงเกี่ยวกับกระบวนการเผยแพร่ทางวิชาการ ในการนำเสนอในที่ประชุม นักศึกษาจะต้องส่งบทคัดย่อผลงานวิจัยของตนเองก่อนวันที่ 1 พฤษภาคม นักศึกษาที่ผลงานได้รับการยอมรับจะได้รับมอบหมายให้เป็นสมาชิก IEEE อาสาสมัครเพื่อให้คำปรึกษาและแนะนำพวกเขาตลอดขั้นตอนการเขียนงานวิจัย รวมถึงการนำเสนอและตีพิมพ์ผลงานต้นฉบับของพวกเขา ผู้ที่มีกระดาษตามมาตรฐาน"
     },
     {
       "source": "IEEE Spectrum",
@@ -383,8 +395,8 @@
       "image": "https://spectrum.ieee.org/media-library/two-men-stand-at-1960s-computer-consoles-containing-many-buttons-knobs-dials-and-lights.jpg?id=67651870&width=980",
       "link": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
       "published": "Tue, 25 Aug 2026 13:00:01 +0000",
-      "title_th": "IBM ได้สร้าง Code Breaker ที่ทรงพลังที่สุดในสงครามเย็นให้กับ NSA",
-      "summary_th": "ในช่วงสงครามเย็นที่รุ่งเรืองที่สุด คอมพิวเตอร์เครื่องหนึ่งที่มีความเชี่ยวชาญเฉพาะด้านเป็นความลับมากจนโลกไม่รู้ว่ามีอยู่จริง มันทำงานได้เร็วกว่าคอมพิวเตอร์เครื่องอื่นๆ ในยุคนั้นถึง 200 เท่า มันเป็นหน่วยประมวลผลการเข้ารหัสลับหลักของสำนักงานความมั่นคงแห่งชาติของสหรัฐอเมริกาที่ดำเนินการตั้งแต่ช่วงเวลาวิกฤตการณ์ขีปนาวุธคิวบาในปี 1962 จนถึงสงครามเวียดนาม และในอดีตสนธิสัญญาเฮลซิงกิปี 1975 เครื่องจักรจะหยุดทำงานเมื่อชิ้นส่วนที่เคลื่อนไหวหลุดออกมาในที่สุดเท่านั้น คอมพิวเตอร์ Harvest มีความสำคัญเพราะว่ามันคืออะไรและทำงานเมื่อใด เป็นเวลา 14 ปีที่มันเป็นเครื่องยนต์ที่ประมวลผลการสกัดกั้นที่ละเอียดอ่อนที่สุดของ NSA ในเวลาที่ข่าวกรองสัญญาณมีความใกล้เคียงกับอาวุธทางยุทธศาสตร์พอๆ กับที่ไม่มีหัวรบ ออกแบบและสร้างโดย IBM สำหรับ NSA Harvest เป็นหนึ่งในเครื่องจักรรุ่นแรกๆ ที่ออกแบบ"
+      "title_th": "IBM Built the Cold War’s Most Powerful Code Breaker for the NSA",
+      "summary_th": "At the height of the Cold War, one very specialized computer was so secret that the world didn’t know it existed. It ran its jobs up to 200 times as fast as any other computer of its time. It was the U.S. National Security Agency’s main cryptographic processor in operation from the time of the Cuban Missile Crisis in 1962 through the Vietnam War and on past the 1975 Helsinki Accords . The machine stopped running only when its moving parts finally gave out. The Harvest computer mattered because of what it was as well as when it ran. For 14 years, it was the engine processing the NSA’s most sensitive intercepts at a time when signals intelligence was as close to a strategic weapon as anything short of a warhead. Designed and built by IBM for the NSA, Harvest was one of the first machines des"
     },
     {
       "source": "IEEE Spectrum",
@@ -395,7 +407,7 @@
       "image": "https://spectrum.ieee.org/media-library/cute-home-robot-on-carpet-in-cozy-living-room-with-beige-sofa-and-warm-lighting.jpg?id=67154308&width=980",
       "link": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
       "published": "Tue, 25 Aug 2026 10:00:03 +0000",
-      "title_th": "หุ่นยนต์คู่หู AI กำลังปิดการเชื่อมต่อของมนุษย์ในบ้านสมัยใหม่",
+      "title_th": "AI Companion Robots Are Closing the Human Connection in Modern Homes",
       "summary_th": "บทความนี้นำเสนอโดย Ollobot ตั้งแต่ประมาณปี 2017 ผู้คนเริ่มเชื่อมต่อกับคลื่นลูกแรกของหุ่นยนต์คู่หูอย่างแท้จริง อุปกรณ์เหล่านี้มีบุคลิก ย้ายไปมา ล้อเล่น และตอบกลับเมื่อคุณพูดคุยกับอุปกรณ์เหล่านั้น อย่างไรก็ตาม หุ่นยนต์คู่หูในยุคแรกๆ ส่วนใหญ่ยังคงถูกจำกัดด้วยการโต้ตอบคำสั่งเสียงแบบง่ายๆ และฟังก์ชันการทำงานที่แคบ เมื่อความแปลกใหม่หมดไป หลายๆ คนก็ลงเอยด้วยการนั่งเฉยๆ บนชั้นวาง ในขณะที่บริษัทเหล่านั้นบางแห่งเลิกกิจการและปิดเซิร์ฟเวอร์ เจ้าของหลายรายก็เปรียบเสมือนการสูญเสียสัตว์เลี้ยง สิ่งที่ Ollobot อธิบายว่าเป็น “ความฉลาดที่อ่อนโยน” เป็นวิธีที่มีประโยชน์ในการพิจารณาว่างานที่จริงจังในหมวดนี้ดำเนินไปในทิศทางใด ไม่ใช่ต่อผู้ช่วยที่ทรงพลังกว่า แต่ต่อผู้ช่วยที่มีอยู่มากกว่า ปัญหาที่หุ่นยนต์สหายพยายามจะแก้ความเหงาไม่เป็น"
     },
     {
@@ -407,80 +419,104 @@
       "image": "https://spectrum.ieee.org/media-library/a-young-indian-man-smiling-against-an-abstract-technological-background.jpg?id=67667863&width=980",
       "link": "https://spectrum.ieee.org/ieee-senior-membership-demystified",
       "published": "Mon, 24 Aug 2026 18:00:01 +0000",
-      "title_th": "สมาชิกอาวุโสของ IEEE คลายข้อสงสัย",
-      "summary_th": "ตลอดอาชีพการงานของฉัน สมาชิก IEEE ของฉันนั่งเงียบๆ อยู่เบื้องหลัง ไม่ว่าจะเป็นบรรทัดในประวัติย่อของฉัน รหัสส่วนลดสำหรับการลงทะเบียนการประชุม และการเข้าถึงห้องสมุดดิจิทัล IEEE Xplore ซึ่งฉันใช้น้อยเกินไป ฉันไม่ได้คิดมากเกี่ยวกับระดับการเป็นสมาชิกที่มีให้สูงกว่าสมาชิกทั่วไป ฉันคิดว่าการเป็นสมาชิกระดับสูงนั้นสงวนไว้สำหรับคนในอาชีพการงานของพวกเขามากกว่าฉัน พวกเขาตีพิมพ์บทความมากขึ้น มีผมหงอกมากขึ้นและทำงานในสาขานี้นานขึ้น ฉันผิดทั้งสามข้อ ความเข้าใจผิดทำให้ฉันต้องประเมินทักษะและความสามารถทางวิชาชีพที่สำคัญของฉัน ฉันสงสัยว่าสมาชิกที่ผ่านการรับรองคนอื่นๆ จำนวนมากอยู่ในจุดเดียวกับฉันเมื่อหนึ่งปีที่แล้ว: มีสิทธิ์แต่ไม่รู้ถึงสิทธิประโยชน์ของการเป็นสมาชิกอาวุโส และใบสมัครหนึ่งใบที่ห่างไกลจากหนังสือรับรองอาชีพที่มีความหมาย"
-    },
-    {
-      "source": "IEEE Spectrum",
-      "flag": "US",
-      "category": "robot",
-      "title_en": "What It Takes to Be an Adaptable Engineer",
-      "summary_en": "The AI boom has disrupted the way engineers work, introducing new tools to learn, raising expectations for what teams can achieve in a workday, and making it harder to get hired in the first place. This makes it difficult to advise students on which specific coding languages or technical skills they should learn. So amidst the uncertainty, advice for young professionals often turns to a common refrain: Be adaptable. But what does adaptability look like in practice? Engineers often operate on the cutting edge of technology, so dealing with change is a normal part of the job, says Samantha Brunhaver , an associate professor of engineering at Arizona State University, in Tempe. Yet university curricula and training in the workplace often don’t prepare students for this. “We tell engineers tha",
-      "image": "https://spectrum.ieee.org/media-library/silhouette-of-person-at-computer-atop-a-weather-vane-labeled-ai-against-sky-background.png?id=67652283&width=980",
-      "link": "https://spectrum.ieee.org/adaptable-engineer-core-skills",
-      "published": "Mon, 24 Aug 2026 14:00:01 +0000",
-      "title_th": "สิ่งที่ต้องมีในการเป็นวิศวกรที่ปรับตัวได้",
-      "summary_th": "การเติบโตอย่างรวดเร็วของ AI ได้เข้ามาขัดขวางวิธีการทำงานของวิศวกร ทำให้เกิดเครื่องมือใหม่ๆ ที่จะเรียนรู้ เพิ่มความคาดหวังในสิ่งที่ทีมสามารถทำได้ในวันทำงาน และทำให้การได้รับการว่าจ้างทำได้ยากขึ้นตั้งแต่แรก ทำให้เป็นการยากที่จะแนะนำนักเรียนว่าควรเรียนรู้ภาษาการเขียนโค้ดหรือทักษะทางเทคนิคเฉพาะด้านใด ดังนั้น ท่ามกลางความไม่แน่นอน คำแนะนำสำหรับมืออาชีพรุ่นเยาว์มักจะหันไปใช้แนวทางทั่วไป: ปรับตัวได้ แต่ความสามารถในการปรับตัวในทางปฏิบัติมีลักษณะอย่างไร? วิศวกรมักจะทำงานโดยใช้เทคโนโลยีที่ล้ำหน้า ดังนั้นการจัดการกับการเปลี่ยนแปลงจึงเป็นเรื่องปกติของงาน Samantha Brunhaver รองศาสตราจารย์ด้านวิศวกรรมจาก Arizona State University ในเมือง Tempe กล่าว แต่หลักสูตรและการฝึกอบรมของมหาวิทยาลัยในที่ทำงานมักไม่ได้เตรียมนักเรียนให้พร้อมสำหรับสิ่งนี้ “เราบอกวิศวกรว่า"
+      "title_th": "IEEE Senior Membership Demystified",
+      "summary_th": "For most of my career, my IEEE membership sat quietly in the background—a line on my résumé, a discount code for a conference registration, and access to the IEEE Xplore digital library , which I underutilized. I didn’t think much about the grade of membership available above that of the regular member. I assumed senior membership was reserved for people further along in their career than I was. They published more papers, had more gray hair, and had worked longer in the field. I was wrong on all three counts. The misunderstanding cost me an important validation of my skills and professional competency. I suspect a lot of other qualified members are where I was one year ago: eligible but unaware of the benefits of senior membership, and one application away from a meaningful career credent"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Leaker says iPhone Ultra will come in these colors, with one surprise",
-      "summary_en": "Leaker Evan Blass has just posted what he claims are the three colors coming to iPhone Ultra, and they include a surprising red option.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/26/leaker-says-iphone-ultra-will-come-in-these-colors-with-one-surprise/",
-      "published": "Wed, 26 Aug 2026 18:17:53 +0000",
-      "title_th": "Leaker กล่าวว่า iPhone Ultra จะมาพร้อมสีเหล่านี้ สิ่งหนึ่งที่น่าประหลาดใจก็คือ",
-      "summary_th": "Leaker Evan Blass เพิ่งโพสต์สิ่งที่เขาอ้างว่าเป็นสีสามสีที่มากับ iPhone Ultra และมีตัวเลือกสีแดงที่น่าประหลาดใจด้วย"
+      "title_en": "LM Studio adds GLM-5.3-Flash to Bionic, with image support and 1M-token context",
+      "summary_en": "LM Studio has added Z.ai’s new GLM-5.3-Flash model to Bionic, its AI agent platform, bringing multimodal input, a 1 million-token context window, and significantly lower pricing than GLM-5.2. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/lm-studio-bionic.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/08/26/lm-studio-adds-glm-5-3-flash-to-bionic-with-image-support-and-1m-token-context/",
+      "published": "Thu, 27 Aug 2026 00:10:19 +0000",
+      "title_th": "LM Studio เพิ่ม GLM-5.3-Flash ให้กับ Bionic พร้อมการรองรับรูปภาพและบริบทโทเค็น 1M",
+      "summary_th": "LM Studio ได้เพิ่มโมเดล GLM-5.3-Flash ใหม่ของ Z.ai ให้กับ Bionic ซึ่งเป็นแพลตฟอร์มเอเจนต์ AI ซึ่งนำอินพุตหลายรูปแบบ หน้าต่างบริบท 1 ล้านโทเค็น และราคาที่ต่ำกว่า GLM-5.2 อย่างมาก นี่คือรายละเอียด"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Astropad’s new Rock Paper Pencil 4 adds a graphite feel to Apple Pencil and iPad",
-      "summary_en": "Want the nano-texture feel on your iPad display without the commitment? Astropad has an all-new version of its excellent Rock Paper Pencil product that adds a second writing feel while retaining its removable design.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/rock-paper-pencil-4.webp?resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/26/astropads-new-rock-paper-pencil-4-adds-a-graphite-feel-to-apple-pencil-and-ipad/",
-      "published": "Wed, 26 Aug 2026 18:00:00 +0000",
-      "title_th": "Rock Paper Pencil 4 ใหม่ของ Astropad เพิ่มความรู้สึกเหมือนกราไฟต์ให้กับ Apple Pencil และ iPad",
-      "summary_th": "ต้องการสัมผัสพื้นผิวนาโนบนจอแสดงผล iPad ของคุณโดยไม่มีข้อผูกมัดหรือไม่? Astropad มีผลิตภัณฑ์ Rock Paper Pencil เวอร์ชันใหม่ล่าสุดที่เพิ่มความรู้สึกในการเขียนในขณะที่ยังคงดีไซน์แบบถอดได้"
+      "title_en": "PSA: Proton Mail and other Proton platforms facing widespread outage [U]",
+      "summary_en": "Update, 8:14 p.m. ET: Proton says “a fix has now been implemented, and we’re monitoring results,” adding that “this means most services have been recovered for most users now, but our efforts to recover the remaining instances continue.” We’ll continue monitoring the situation and update this story as more information becomes available or once Proton marks the issue as resolved. The original story follows below. Proton has confirmed a major outage affecting Proton Mail, Proton VPN, Lumo, and other platforms and services. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/12/biggest-internet-outages.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/08/26/psa-proton-mail-and-other-proton-platforms-facing-widespread-outage/",
+      "published": "Wed, 26 Aug 2026 23:45:19 +0000",
+      "title_th": "PSA: Proton Mail และแพลตฟอร์ม Proton อื่น ๆ ประสบปัญหาขัดข้องอย่างกว้างขวาง [U]",
+      "summary_th": "อัพเดท 20:14 น. ET: Proton กล่าวว่า “ขณะนี้มีการแก้ไขแล้ว และเรากำลังติดตามผลลัพธ์” กล่าวเสริมว่า “นี่หมายความว่าบริการส่วนใหญ่ได้รับการกู้คืนสำหรับผู้ใช้ส่วนใหญ่แล้ว แต่ความพยายามของเราในการกู้คืนอินสแตนซ์ที่เหลือยังคงดำเนินต่อไป” เราจะติดตามสถานการณ์ต่อไปและอัปเดตเรื่องราวนี้เมื่อมีข้อมูลเพิ่มเติมหรือเมื่อ Proton ทำเครื่องหมายว่าปัญหาได้รับการแก้ไขแล้ว เรื่องราวดั้งเดิมดังต่อไปนี้ Proton ได้ยืนยันการหยุดทำงานครั้งใหญ่ซึ่งส่งผลกระทบต่อ Proton Mail, Proton VPN, Lumo และแพลตฟอร์มและบริการอื่น ๆ นี่คือรายละเอียด"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "OpenAI expands free ChatGPT for Teachers to 55 school systems across 20 states",
-      "summary_en": "OpenAI first launched its free ChatGPT for Teachers program in 2025. Today the company announced a vast expansion of the program, covering 55 additional school systems across 20 states.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/chatgpt-teachers.webp?resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/26/free-chatgpt-for-teachers-expansion/",
-      "published": "Wed, 26 Aug 2026 17:46:34 +0000",
-      "title_th": "OpenAI ขยาย ChatGPT ฟรีสำหรับครูไปยังระบบโรงเรียน 55 แห่งใน 20 รัฐ",
-      "summary_th": "OpenAI เปิดตัวโปรแกรม ChatGPT สำหรับครูฟรีครั้งแรกในปี 2025 ในวันนี้บริษัทได้ประกาศการขยายโครงการอย่างกว้างขวาง โดยครอบคลุมระบบโรงเรียนเพิ่มเติม 55 ระบบใน 20 รัฐ"
+      "title_en": "Here’s how many foldable iPhones IDC expects Apple to ship in one year",
+      "summary_en": "As Apple reportedly gears up to announce its first foldable iPhone on September 9, Bloomberg reports that IDC has a bullish outlook on the device’s performance during its first year. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-blue.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/08/26/heres-how-many-foldable-iphones-idc-expects-apple-to-ship-in-one-year/",
+      "published": "Wed, 26 Aug 2026 21:13:32 +0000",
+      "title_th": "นี่คือจำนวน iPhone แบบพับได้ที่ IDC คาดว่า Apple จะจัดส่งได้ในหนึ่งปี",
+      "summary_th": "ตามที่ Apple รายงานว่าเตรียมเปิดตัว iPhone แบบพับได้เครื่องแรกในวันที่ 9 กันยายน Bloomberg รายงานว่า IDC มีมุมมองเชิงบวกต่อประสิทธิภาพของอุปกรณ์ในช่วงปีแรก นี่คือรายละเอียด"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "iPhone Ultra is coming: Three new features will be worth the wait",
-      "summary_en": "The iPhone Ultra will be unveiled very soon at the just-confirmed September 9 event . Apple’s foldable will debut seven years after competing products, but three key iPhone Ultra features should make the wait worth it. Here’s what’s coming.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/26/iphone-ultra-is-coming-three-new-features-will-be-worth-the-wait/",
-      "published": "Wed, 26 Aug 2026 17:18:11 +0000",
-      "title_th": "iPhone Ultra is coming: Three new features will be worth the wait",
-      "summary_th": "The iPhone Ultra will be unveiled very soon at the just-confirmed September 9 event . Apple’s foldable will debut seven years after competing products, but three key iPhone Ultra features should make the wait worth it. Here’s what’s coming."
+      "title_en": "Here’s everything new for Reminders in iOS 27",
+      "summary_en": "iOS 27 adds new features to Apple Notes , Messages , Wallet , and more , and it has a few improvements for the Reminders app too. Here’s everything new for Reminders in iOS 27.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/reminders-app-icon-ios-27.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/08/26/heres-everything-new-for-reminders-in-ios-27/",
+      "published": "Wed, 26 Aug 2026 20:24:07 +0000",
+      "title_th": "นี่คือทุกสิ่งใหม่สำหรับเตือนความจำใน iOS 27",
+      "summary_th": "iOS 27 เพิ่มคุณสมบัติใหม่ให้กับ Apple Notes , Messages , Wallet และอีกมากมาย และมีการปรับปรุงเล็กน้อยสำหรับแอพเตือนความจำด้วย นี่คือทุกสิ่งใหม่สำหรับเตือนความจำใน iOS 27"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple announces iPhone 18 Pro and foldable iPhone Ultra event: ‘Surprise and shine’",
-      "summary_en": "Apple has officially announced its next product event, where it will unveil the iPhone 18 Pro lineup and its first foldable iPhone. The event will take place on September 9 at 10 am, PT. The tagline reads “Surprise and shine,” and the invitation features a glowing Apple logo with a sun shining through.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-max-ultra-event.webp?resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/26/apple-officially-announces-iphone-18-pro-foldable-event/",
-      "published": "Wed, 26 Aug 2026 16:02:04 +0000",
-      "title_th": "Apple ประกาศกิจกรรม iPhone 18 Pro และ iPhone Ultra แบบพับได้: 'เซอร์ไพรส์และเปล่งประกาย'",
-      "summary_th": "Apple ได้ประกาศงานผลิตภัณฑ์ครั้งต่อไปอย่างเป็นทางการ ซึ่งจะเปิดตัวกลุ่มผลิตภัณฑ์ iPhone 18 Pro และ iPhone แบบพับได้เครื่องแรก กิจกรรมจะมีขึ้นในวันที่ 9 กันยายน เวลา 10.00 น. PT สโลแกนอ่านว่า “เซอร์ไพรส์และเปล่งประกาย” และคำเชิญมีโลโก้ Apple ที่เรืองแสงและมีแสงอาทิตย์ส่องผ่าน"
+      "title_en": "Counterpoint: iPhone 17 topped worldwide smartphone sales during Q2",
+      "summary_en": "In a report published today, Counterpoint Research says Apple once again secured five spots among the world’s 10 best-selling smartphones during the second quarter of 2026. Here are the details.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-17-purple-hand.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/08/26/counterpoint-iphone-17-topped-worldwide-smartphone-sales-during-q2/",
+      "published": "Wed, 26 Aug 2026 20:07:02 +0000",
+      "title_th": "ความแตกต่าง: iPhone 17 มียอดขายสมาร์ทโฟนทั่วโลกสูงสุดในช่วงไตรมาสที่ 2",
+      "summary_th": "ในรายงานที่เผยแพร่ในวันนี้ Counterpoint Research กล่าวว่า Apple ติดอันดับห้าในสมาร์ทโฟนที่ขายดีที่สุด 10 อันดับแรกของโลกอีกครั้งในช่วงไตรมาสที่สองของปี 2026 นี่คือรายละเอียด"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Google Keep for Android rolls out ‘Find in note’ search",
+      "summary_en": "The last big update to Google Keep was at the start of this year with the reminders-Tasks migration . Google has now updated Keep for Android with “Find in note” search.",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-keep-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/08/26/google-keep-find-note-android/",
+      "published": "Wed, 26 Aug 2026 22:18:03 +0000",
+      "title_th": "Google Keep สำหรับ Android เปิดตัวการค้นหา 'ค้นหาในบันทึก'",
+      "summary_th": "The last big update to Google Keep was at the start of this year with the reminders-Tasks migration . Google has now updated Keep for Android with “Find in note” search."
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "review",
+      "title_en": "Review: Google’s Pixel 11 Pro Fold just barely keeps up",
+      "summary_en": "The foldable market has been moving fast, with hardware and software we saw just a few years ago having been completely rethought and drastically improved. In the middle of it all, the Pixel 11 Pro Fold feels like a concerted effort to make the best of a tough situation – Google’s new foldable tries its darndest to keep up with the competition, and it does just enough to deserve your attention, save for a couple of sore points.",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/google-pixel-11-pro-fold-review-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/08/26/google-pixel-11-pro-fold-review/",
+      "published": "Wed, 26 Aug 2026 21:40:00 +0000",
+      "title_th": "Review: Google’s Pixel 11 Pro Fold just barely keeps up",
+      "summary_th": "ตลาดแบบพับได้มีการเคลื่อนไหวอย่างรวดเร็ว โดยฮาร์ดแวร์และซอฟต์แวร์ที่เราเห็นว่าเมื่อไม่กี่ปีที่ผ่านมาได้รับการคิดใหม่ทั้งหมดและปรับปรุงอย่างมาก ตรงกลางทั้งหมด Pixel 11 Pro Fold ให้ความรู้สึกเหมือนเป็นความพยายามร่วมกันเพื่อทำให้สถานการณ์ที่ยากลำบากดีที่สุด – อุปกรณ์พับได้ใหม่ของ Google พยายามอย่างเต็มที่เพื่อให้ทันกับการแข่งขัน และเพียงพอที่จะสมควรได้รับความสนใจจากคุณ ประหยัดสำหรับจุดที่เจ็บสองสามจุด"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "The ‘cheap smartphone era is over’ and price hikes are ‘permanent,’ bleak forecast reveals",
+      "summary_en": "According to the latest analyst forecasts, higher smartphone prices won’t be changing anytime soon amid a record-setting drop in shipments.",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-XL-and-iPhone-17-Pro-Max-design-2.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/08/26/smartphone-price-hikes-forecast/",
+      "published": "Wed, 26 Aug 2026 21:05:00 +0000",
+      "title_th": "'ยุคสมาร์ทโฟนราคาถูกจบลงแล้ว' และการขึ้นราคาเป็น 'ถาวร' การคาดการณ์ที่เยือกเย็นเผยให้เห็น",
+      "summary_th": "ตามการคาดการณ์ของนักวิเคราะห์ล่าสุด ราคาสมาร์ทโฟนที่สูงขึ้นจะไม่เปลี่ยนแปลงในเร็วๆ นี้ ท่ามกลางการจัดส่งที่ลดลงเป็นประวัติการณ์"
     },
     {
       "source": "9to5Google",
@@ -491,7 +527,7 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/nothing-headphone-a-1.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/08/26/nothing-headphone-a-deal/",
       "published": "Wed, 26 Aug 2026 18:35:00 +0000",
-      "title_th": "Nothing Headphone (a) is nearly 50% off today-only – yes, you should buy a pair",
+      "title_th": "ไม่มีอะไรที่ Headphone (a) ลดเกือบ 50% วันนี้เท่านั้น – ใช่ คุณควรซื้อสักคู่",
       "summary_th": "Nothing Headphone (a) launched earlier this year as a more affordable over-ear set of headphones, and now they’re even cheaper, down by nearly 50% of their usual $199 price tag. You should absolutely get a pair."
     },
     {
@@ -507,40 +543,40 @@
       "summary_th": "In response to the “significant hardware supply constraints that are altering device memory availability,” Google aims to reduce the memory usage of Android apps."
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Mid-week Android app deals and freebies: Turnip Boy Robs a Bank, LIMBO, Undead Slayer, more",
-      "summary_en": "Your mid-week afternoon lineup of the best Android game and app deals is now ready to roll, including titles like Turnip Boy Robs a Bank, Undead Slayer: Offline Premium, LIMBO, Townopolis, Isurvivor Premium, and more. Just be sure to dive into the best price ever on Nothing’s 2026 Headphone (a) and this solid all-time low on Nothing Phone (3) at $300 off – both for today only – before you scope out the apps below.",
-      "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/08/Google-Play-Aug-26-2.webp?resize=1200,628",
-      "link": "https://9to5toys.com/2026/08/26/mid-week-android-app-deals-turnip-boy/",
-      "published": "Wed, 26 Aug 2026 17:51:59 +0000",
-      "title_th": "ข้อเสนอแอป Android กลางสัปดาห์และของสมนาคุณฟรี: Turnip Boy Robs a Bank, LIMBO, Undead Slayer และอีกมากมาย",
-      "summary_th": "รายการเกม Android และข้อเสนอแอพที่ดีที่สุดช่วงบ่ายกลางสัปดาห์ของคุณพร้อมแล้ว รวมถึงเกมอย่าง Turnip Boy Robs a Bank, Undead Slayer: Offline Premium, LIMBO, Townopolis, Isurvivor Premium และอีกมากมาย อย่าลืมเข้าไปดูราคาที่ดีที่สุดสำหรับหูฟัง Nothing's 2026 (a) และราคาต่ำสุดตลอดกาลของ Nothing Phone (3) ที่ส่วนลด 300 ดอลลาร์ – ทั้งคู่สำหรับวันนี้เท่านั้น – ก่อนที่คุณจะเลือกดูแอปด้านล่าง"
+      "category": "ev",
+      "title_en": "Gary, Indiana is a warning: energy independence has gotten personal",
+      "summary_en": "Nearly two weeks after a summer derecho knocked out power, tens of thousands of people in Gary, Indiana were still without power, with many taking to social media to highlight the reality of living through a prolonged blackout. While the utility made excuses, the data centers that powered the community’s social media presence were humming along, built on a very different assumption: that the power MUST stay on . And, if you tilted your head just so, that humming might have sounded like a warning.",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/gary_dark.png?resize=1200,628",
+      "link": "https://electrek.co/2026/08/26/gary-indiana-is-a-warning-energy-independence-has-gotten-personal/",
+      "published": "Wed, 26 Aug 2026 22:59:38 +0000",
+      "title_th": "Gary, Indiana is a warning: energy independence has gotten personal",
+      "summary_th": "เกือบสองสัปดาห์หลังจากเหตุไฟฟ้าดับในฤดูร้อน ผู้คนนับหมื่นในแกรี รัฐอินเดียนา ยังคงไม่มีไฟฟ้าใช้ โดยหลายคนใช้โซเชียลมีเดียเพื่อเน้นย้ำความเป็นจริงของการใช้ชีวิตท่ามกลางไฟดับที่ยืดเยื้อเป็นเวลานาน ในขณะที่ยูทิลิตี้แก้ตัว ศูนย์ข้อมูลที่ขับเคลื่อนการแสดงตนบนโซเชียลมีเดียของชุมชนก็กำลังดำเนินไปด้วย โดยสร้างขึ้นบนสมมติฐานที่แตกต่างออกไปมาก นั่นคือ พลังจะต้องคงอยู่ และถ้าคุณเอียงศีรษะเพียงนั้น เสียงฮัมนั้นอาจฟังดูเหมือนเป็นการเตือน"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Gemini Live gets productivity upgrade with Spark, Gmail, and other integrations",
-      "summary_en": "Google today is significantly boosting the Gemini Live experience with several productivity-focused integrations.",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-live-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/08/26/gemini-live-productivity-upgrade/",
-      "published": "Wed, 26 Aug 2026 17:27:01 +0000",
-      "title_th": "Gemini Live ได้รับการอัปเกรดประสิทธิภาพการทำงานด้วย Spark, Gmail และการผสานรวมอื่นๆ",
-      "summary_th": "Google ในปัจจุบันกำลังส่งเสริมประสบการณ์ Gemini Live อย่างมากด้วยการบูรณาการที่เน้นประสิทธิภาพการทำงานหลายอย่าง"
+      "category": "ev",
+      "title_en": "Range Rover’s next EV breaks cover, and it’s not an SUV [Images]",
+      "summary_en": "Range Rover is adding a fifth member to its lineup, but this one is a bit of an outlier. The new GT brings a distinct fastback design to the family. Here’s our first look at it on the road.",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Range-Rover-GT-EV-spotted.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/08/26/range-rovers-next-ev-breaks-cover-not-an-suv-images/",
+      "published": "Wed, 26 Aug 2026 22:13:51 +0000",
+      "title_th": "EV ถัดไปของ Range Rover พังและไม่ใช่ SUV [ภาพ]",
+      "summary_th": "Range Rover is adding a fifth member to its lineup, but this one is a bit of an outlier. The new GT brings a distinct fastback design to the family. Here’s our first look at it on the road."
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Motorola details Android 17 update that you might get eventually",
-      "summary_en": "Motorola is bad at updates , but at least they arrive eventually . This week, Motorola is detailing its Android 17 update and what’s new, including the overdue adoption of themed icons.",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/motorola-razr-fold-review-17.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/08/26/motorola-details-android-17-update-that-you-might-get-eventually/",
-      "published": "Wed, 26 Aug 2026 17:05:00 +0000",
-      "title_th": "Motorola ให้รายละเอียดการอัปเดต Android 17 ที่คุณอาจได้รับในที่สุด",
-      "summary_th": "Motorola ไม่ค่อยเก่งในเรื่องการอัพเดท แต่อย่างน้อยก็มาถึงในที่สุด สัปดาห์นี้ Motorola กำลังให้รายละเอียดเกี่ยวกับการอัปเดต Android 17 และมีอะไรใหม่ รวมถึงการใช้ไอคอนตามธีมที่เกินกำหนด"
+      "category": "ev",
+      "title_en": "Genesis is no longer a dark horse in the luxury space, and the GV90 proves it",
+      "summary_en": "The GV90 is peak SUV luxury, complete with lavish features, coach doors, and every bell and whistle. Genesis is growing faster than any luxury marque to date, but this is just the start.",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Genesis-GV90-luxury-SUV.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/08/26/genesis-dark-horse-luxury-gv90-proves-it/",
+      "published": "Wed, 26 Aug 2026 20:30:04 +0000",
+      "title_th": "Genesis is no longer a dark horse in the luxury space, and the GV90 proves it",
+      "summary_th": "The GV90 is peak SUV luxury, complete with lavish features, coach doors, and every bell and whistle. Genesis is growing faster than any luxury marque to date, but this is just the start."
     },
     {
       "source": "Electrek",
@@ -551,7 +587,7 @@
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Black-NACS.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://electrek.co/2026/08/26/these-ev-chargers-hang-from-garage-ceilings-and-install-in-hours/",
       "published": "Wed, 26 Aug 2026 18:22:57 +0000",
-      "title_th": "These EV chargers hang from garage ceilings – and install in hours",
+      "title_th": "ที่ชาร์จ EV เหล่านี้ห้อยลงมาจากเพดานโรงรถ และติดตั้งได้ภายในไม่กี่ชั่วโมง",
       "summary_th": "Voltpost made its name turning lampposts into EV chargers. Now it wants to hang them from garage ceilings and bolt them to apartment-building walls."
     },
     {
@@ -563,44 +599,8 @@
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/tesla-fsd-featured.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://electrek.co/2026/08/26/tesla-owners-filming-breaking-law-fsd/",
       "published": "Wed, 26 Aug 2026 16:45:08 +0000",
-      "title_th": "Tesla owners are now filming themselves breaking the law on FSD — and posting it for clout",
+      "title_th": "ขณะนี้เจ้าของ Tesla กำลังถ่ายทำภาพตัวเองกำลังฝ่าฝืนกฎหมาย FSD และโพสต์ข้อความดังกล่าวเพื่อมีอิทธิพล",
       "summary_th": "Tesla owners used to hide the fact that they were abusing Full Self-Driving. Now they film it, add a caption, and post it for the algorithm. Sleeping at highway speed, gaming with a controller, watching live TV, answering emails on a laptop — a whole genre of “look what my Tesla lets me get away with” content has taken over Instagram, TikTok, and X, and almost every clip in it shows a driver doing something that is flatly illegal in the country where it was filmed."
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Bafang’s new electric bike motors produce 8x your own pedaling power",
-      "summary_en": "Bafang has never exactly been known for building timid e-bike motors, but its latest pair of high-performance e-MTB drives takes things to a whole new level. We’re talking up to 1,700 watts of peak power, 150 Nm of torque, and 800% pedal assistance. At that point, “pedal assist” is starting to do some pretty heavy lifting as a phrase.",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/bafang-motors-head-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/08/26/bafangs-new-electric-bike-motors-produce-8x-your-own-pedaling-power/",
-      "published": "Wed, 26 Aug 2026 15:12:04 +0000",
-      "title_th": "Bafang’s new electric bike motors produce 8x your own pedaling power",
-      "summary_th": "Bafang ไม่เคยเป็นที่รู้จักมาก่อนในการสร้างมอเตอร์ e-bike ที่ขี้อาย แต่ไดรฟ์ e-MTB ประสิทธิภาพสูงคู่ล่าสุดได้นำสิ่งต่าง ๆ ไปสู่อีกระดับหนึ่ง เรากำลังพูดถึงกำลังสูงสุด 1,700 วัตต์ แรงบิด 150 นิวตันเมตร และระบบช่วยเหยียบ 800% เมื่อถึงจุดนั้น “ระบบช่วยเหยียบ” ก็เริ่มยกของหนักขึ้นเป็นวลี"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Hyundai is about to shake things up with 100 new vehicles by 2030: Here’s what’s coming",
-      "summary_en": "Hyundai Motor Company , including Genesis, is about to get very busy, with plans to launch more than 100 new or updated vehicles by 2030, including its first extended-range EVs (EREVs).",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Hyundai-new-vehicle-roadmap.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/08/26/hyundai-shake-things-up-100-new-vehicles-2030/",
-      "published": "Wed, 26 Aug 2026 15:06:54 +0000",
-      "title_th": "Hyundai is about to shake things up with 100 new vehicles by 2030: Here’s what’s coming",
-      "summary_th": "Hyundai Motor Company , including Genesis, is about to get very busy, with plans to launch more than 100 new or updated vehicles by 2030, including its first extended-range EVs (EREVs)."
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "How Tesla’s solar business works in 2026 after killing Solar Roof",
-      "summary_en": "Tesla’s residential solar business has been shrinking for most of a decade, ever since the company absorbed SolarCity in 2016. Now, with electricity rates climbing across the US, Tesla is trying to revive it around a new in-house solar panel and Powerwall 3 — while quietly retiring the product it was once best known for. Earlier this month, Tesla discontinued its Solar Roof , the glass solar tile it launched in 2016. It was always a tiny piece of the business, and its end says more about where Tesla solar is going than where it’s been.",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/05/Tesla-solar-panels.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/08/26/tesla-solar-business-2026-how-it-works/",
-      "published": "Wed, 26 Aug 2026 14:55:32 +0000",
-      "title_th": "How Tesla’s solar business works in 2026 after killing Solar Roof",
-      "summary_th": "ธุรกิจพลังงานแสงอาทิตย์สำหรับที่อยู่อาศัยของ Tesla หดตัวลงเกือบตลอดทศวรรษ นับตั้งแต่บริษัทได้ดูดซับ SolarCity ในปี 2016 ขณะนี้ด้วยอัตราค่าไฟฟ้าที่เพิ่มขึ้นทั่วสหรัฐอเมริกา Tesla กำลังพยายามที่จะฟื้นฟูแผงโซลาร์เซลล์ภายในบริษัทใหม่และ Powerwall 3 — ในขณะที่กำลังเลิกผลิตผลิตภัณฑ์ที่ครั้งหนึ่งเคยเป็นที่รู้จักอย่างเงียบๆ เมื่อต้นเดือนที่ผ่านมา Tesla ยกเลิกหลังคาโซลาร์รูฟ ซึ่งเป็นกระเบื้องแก้วพลังงานแสงอาทิตย์ที่เปิดตัวในปี 2559 มันเป็นธุรกิจชิ้นเล็กๆ เสมอมา และจุดสิ้นสุดของมันก็บอกได้มากกว่าว่าพลังงานแสงอาทิตย์ของ Tesla กำลังดำเนินไปอย่างไรมากกว่าที่เคยเป็นมา"
     }
   ],
   "indices": [
@@ -608,65 +608,65 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 210.11,
-      "change": -2.94,
-      "change_pct": -1.38
+      "price": 209.66,
+      "change": -3.39,
+      "change_pct": -1.59
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 346.04,
-      "change": -4.21,
-      "change_pct": -1.2
+      "price": 345.82,
+      "change": -4.43,
+      "change_pct": -1.26
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 341.93,
-      "change": -5.03,
-      "change_pct": -1.45
+      "price": 342.0,
+      "change": -4.96,
+      "change_pct": -1.43
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 496.17,
-      "change": 4.46,
-      "change_pct": 0.91
+      "price": 496.37,
+      "change": 4.66,
+      "change_pct": 0.95
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 314.99,
-      "change": 5.1,
-      "change_pct": 1.64
+      "price": 313.45,
+      "change": 3.55,
+      "change_pct": 1.15
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 260.2,
-      "change": -0.86,
-      "change_pct": -0.33
+      "price": 260.28,
+      "change": -0.78,
+      "change_pct": -0.3
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 576.4,
-      "change": 6.35,
-      "change_pct": 1.11
+      "price": 576.14,
+      "change": 6.09,
+      "change_pct": 1.07
     },
     {
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 248.0,
+      "change": -2.0,
+      "change_pct": -0.8
     }
   ],
   "reviews": [
@@ -678,7 +678,7 @@
       "link": "https://www.youtube.com/shorts/v-_d2e7x4KA",
       "thumbnail": "https://i3.ytimg.com/vi/v-_d2e7x4KA/hqdefault.jpg",
       "published": "2026-08-25T23:23:55+00:00",
-      "title_th": "หุ่นยนต์กล้องที่ดุร้ายที่สุด"
+      "title_th": "The Wildest Camera Robot"
     },
     {
       "channel": "MKBHD",
@@ -688,7 +688,7 @@
       "link": "https://www.youtube.com/watch?v=ngPkbaZliaU",
       "thumbnail": "https://i3.ytimg.com/vi/ngPkbaZliaU/hqdefault.jpg",
       "published": "2026-08-24T20:27:50+00:00",
-      "title_th": "ความจริงเกี่ยวกับโทรศัพท์แนวคิด Bezelless"
+      "title_th": "The Truth About the Bezelless Concept Phone"
     },
     {
       "channel": "MKBHD",
@@ -708,7 +708,7 @@
       "link": "https://www.youtube.com/shorts/A02r1oFeMmo",
       "thumbnail": "https://i2.ytimg.com/vi/A02r1oFeMmo/hqdefault.jpg",
       "published": "2026-08-26T17:49:46+00:00",
-      "title_th": "This Phone Has a Subwoofer 🔊..."
+      "title_th": "โทรศัพท์นี้มีซับวูฟเฟอร์ 🔊..."
     },
     {
       "channel": "Unbox Therapy",
@@ -718,7 +718,7 @@
       "link": "https://www.youtube.com/shorts/ip0W9lCXpio",
       "thumbnail": "https://i2.ytimg.com/vi/ip0W9lCXpio/hqdefault.jpg",
       "published": "2026-08-24T16:16:23+00:00",
-      "title_th": "แล็ปท็อปแบตเตอรี่ Snapdragon หลายวัน"
+      "title_th": "The Snapdragon Multi-Day Battery Laptop"
     },
     {
       "channel": "Unbox Therapy",
@@ -729,6 +729,16 @@
       "thumbnail": "https://i3.ytimg.com/vi/F2uHTrbQQVE/hqdefault.jpg",
       "published": "2026-08-22T15:12:34+00:00",
       "title_th": "This Limited Edition Unboxing is 🥶..."
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "กล้ามเนื้อแต่ละขีด แพงกว่าทองอีก !",
+      "video_id": "fg-E0jXk9Rs",
+      "link": "https://www.youtube.com/shorts/fg-E0jXk9Rs",
+      "thumbnail": "https://i3.ytimg.com/vi/fg-E0jXk9Rs/hqdefault.jpg",
+      "published": "2026-08-26T23:00:10+00:00",
+      "title_th": "กล้ามเนื้อแต่ละขีด แพงกว่าทองอีก !"
     },
     {
       "channel": "Beartai",
@@ -749,16 +759,6 @@
       "thumbnail": "https://i4.ytimg.com/vi/7788qQzyUqY/hqdefault.jpg",
       "published": "2026-08-26T04:14:02+00:00",
       "title_th": "มีเพื่อนรักเป็นผู้จัดการส่วนตัว"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "จุดเริ่มต้น ตัน ภาสกรนที",
-      "video_id": "ddim6s1kZVk",
-      "link": "https://www.youtube.com/shorts/ddim6s1kZVk",
-      "thumbnail": "https://i1.ytimg.com/vi/ddim6s1kZVk/hqdefault.jpg",
-      "published": "2026-08-25T23:00:23+00:00",
-      "title_th": "จุดเริ่มต้น ตัน ภาสกรนที"
     },
     {
       "channel": "Droidsans",
