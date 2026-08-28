@@ -1,66 +1,114 @@
 {
-  "generated_at": "2026-08-28T00:10:34.551636+00:00",
+  "generated_at": "2026-08-28T14:45:19.527293+00:00",
   "count": 50,
   "articles": [
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "summary_en": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-ai-stage.jpg?w=1200",
-      "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "published": "Thu, 27 Aug 2026 23:16:45 +0000",
-      "title_th": "Anthropic และ OpenAI กำลังเข้าร่วมเวที AI ที่ TechCrunch Disrupt 2026",
-      "summary_th": "ที่ TechCrunch Disrupt 2026 AI Stage กลับมาอีกครั้งเพื่อเจาะลึกหัวข้อที่ร้อนแรงที่สุดในชุมชนในช่วงไม่กี่ปีที่ผ่านมาซึ่งนำเสนอโดย Google for Startups"
+      "title_en": "Apple TV is raising its subscription prices again",
+      "summary_en": "Now, Apple TV subscriptions will cost $14.99 per month, up from its previous price of $12.99 per month.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/SVOD_AppleTV_Severance-S2_Blog-Post-1-1024x576-1.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
+      "published": "Fri, 28 Aug 2026 14:36:48 +0000",
+      "title_th": "Apple TV ขึ้นราคาสมัครสมาชิกอีกครั้ง",
+      "summary_th": "ตอนนี้การสมัครสมาชิก Apple TV จะมีราคา 14.99 เหรียญสหรัฐฯ ต่อเดือน เพิ่มขึ้นจากราคาเดิมที่ 12.99 เหรียญสหรัฐฯ ต่อเดือน"
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Rivian’s CFO is leaving the company",
-      "summary_en": "Claire McDonough is stepping down on October 30 to pursue a new opportunity, the company said in a filing on Thursday.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/claire-mcdonough-getty.jpg?resize=1200,899",
-      "link": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/",
-      "published": "Thu, 27 Aug 2026 20:23:10 +0000",
-      "title_th": "CFO ของ Rivian กำลังจะลาออกจากบริษัท",
-      "summary_th": "แคลร์ แมคโดนัฟกำลังจะลาออกจากตำแหน่งในวันที่ 30 ตุลาคมเพื่อแสวงหาโอกาสใหม่ บริษัทกล่าวในการยื่นฟ้องเมื่อวันพฤหัสบดี"
+      "title_en": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
+      "summary_en": "The firm, known for its focus on software, is going to start throwing more money at the hardware behind AI.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/andreessen-horowitz-office.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
+      "published": "Fri, 28 Aug 2026 13:24:43 +0000",
+      "title_th": "a16z สร้างกองทุน 'Machine Age' มูลค่า 1.1 พันล้านดอลลาร์เพื่อ 'เร่งการสร้าง AI ทางกายภาพ'",
+      "summary_th": "บริษัทซึ่งเป็นที่รู้จักในด้านซอฟต์แวร์ กำลังจะเริ่มทุ่มเงินให้กับฮาร์ดแวร์ที่อยู่เบื้องหลัง AI มากขึ้น"
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Buried in Meta’s $18B settlement is a legal pass on kids’ data",
-      "summary_en": "Meta’s settlement with 29 states allows it to retain certain data from children under 13 to train and test age-detection models, highlighting a privacy trade-off built into the deal.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268918823.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/",
-      "published": "Thu, 27 Aug 2026 20:04:26 +0000",
-      "title_th": "การฝังอยู่ในข้อตกลงมูลค่า 18 พันล้านดอลลาร์ของ Meta ถือเป็นการส่งผ่านข้อมูลของเด็กอย่างถูกกฎหมาย",
-      "summary_th": "ข้อตกลงของ Meta กับ 29 รัฐทำให้สามารถเก็บข้อมูลบางอย่างจากเด็กอายุต่ำกว่า 13 ปี เพื่อฝึกและทดสอบโมเดลการตรวจจับอายุ โดยเน้นถึงการแลกเปลี่ยนความเป็นส่วนตัวที่มีอยู่ในข้อตกลง"
+      "title_en": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+      "summary_en": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "published": "Fri, 28 Aug 2026 12:46:12 +0000",
+      "title_th": "Anthropic ได้รับชัยชนะในศาลครั้งแรกเหนือฉลากความเสี่ยงด้านห่วงโซ่อุปทานของ Pentagon",
+      "summary_th": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington."
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "YouTube now lets creators tag Amazon products and earn commissions from purchases",
-      "summary_en": "The update turns product recommendations into a more direct revenue stream for creators, and for Amazon, the move puts its massive online marketplace inside one of the most popular video platforms.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2242441443.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
-      "published": "Thu, 27 Aug 2026 19:54:28 +0000",
-      "title_th": "ขณะนี้ YouTube ช่วยให้ผู้สร้างแท็กผลิตภัณฑ์ของ Amazon และรับค่าคอมมิชชันจากการซื้อได้",
-      "summary_th": "การอัปเดตจะเปลี่ยนคำแนะนำผลิตภัณฑ์ให้กลายเป็นแหล่งรายได้โดยตรงมากขึ้นสำหรับผู้สร้าง และสำหรับ Amazon การเคลื่อนไหวดังกล่าวทำให้ตลาดออนไลน์ขนาดใหญ่อยู่ในหนึ่งในแพลตฟอร์มวิดีโอที่ได้รับความนิยมมากที่สุด"
+      "title_en": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "summary_en": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+      "published": "Fri, 28 Aug 2026 12:21:06 +0000",
+      "title_th": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "summary_th": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role."
     },
     {
       "source": "TechCrunch",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "summary_en": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "published": "Thu, 27 Aug 2026 19:52:52 +0000",
-      "title_th": "Barret Zoph ผู้ร่วมก่อตั้ง Thinking Machines ที่ถูกขับออกจากตำแหน่งก่อนมาร่วมงานกับ OpenAI ตอนนี้อยู่ที่ Google แล้ว",
-      "summary_th": "Zoph ผู้ร่วมก่อตั้ง Thinking Machines Lab ร่วมกับ Mira Murati และยังทำหน้าที่เป็น CTO ของสตาร์ทอัพด้วย เคยทำงานช่วงสั้นๆ ที่ OpenAI และตอนนี้อยู่ที่ Google"
+      "category": "gadget",
+      "title_en": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
+      "summary_en": "Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Any-team.jpg?resize=1200,948",
+      "link": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
+      "published": "Fri, 28 Aug 2026 09:33:00 +0000",
+      "title_th": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
+      "summary_th": "Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets."
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Apple TV now costs $14.99 a month after its fourth price hike in four years",
+      "summary_en": "Apple raised the price of its streaming service for new and current subscribers on Friday, bumping it up from $12.99 per month to $14.99, Deadline and Variety are reporting. An annual subscription now costs $119, up from $99. Apple also increased the cost of its individual Apple One subscription, which includes Apple TV and Apple's […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Severance_Photo_021019.jpg?quality=90&strip=all&crop=10.208333333333%2C0%2C79.583333333333%2C100&w=1200",
+      "link": "https://www.theverge.com/tech/986130/apple-tv-plus-price-hike",
+      "published": "2026-08-28T09:47:36-04:00",
+      "title_th": "Apple TV now costs $14.99 a month after its fourth price hike in four years",
+      "summary_th": "Apple ขึ้นราคาบริการสตรีมมิ่งสำหรับสมาชิกใหม่และสมาชิกปัจจุบันในวันศุกร์ โดยเพิ่มขึ้นจาก 12.99 ดอลลาร์ต่อเดือนเป็น 14.99 ดอลลาร์ มีการรายงานกำหนดเวลาและความหลากหลาย การสมัครสมาชิกรายปีตอนนี้ราคา $119 เพิ่มขึ้นจาก $99 Apple ยังเพิ่มค่าใช้จ่ายในการสมัครสมาชิก Apple One แต่ละรายการซึ่งรวมถึง Apple TV และ Apple […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Apple TV’s sci-fi thriller Dark Matter gets even trippier in season 2",
+      "summary_en": "Confusion is a generally accepted side effect of mystery box shows. They slather on secrets with the promise of a satisfying payoff in the end, and sometimes the cast and crew even have a hard time following what's going on. But even by the standards of the genre, Dark Matter is extreme. Its multiversal premise, […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Dark_Mater_Photo_020101.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/entertainment/983263/dark-matter-season-2-review-apple-tv",
+      "published": "2026-08-28T08:00:00-04:00",
+      "title_th": "หนังไซไฟระทึกขวัญเรื่อง Dark Matter ของ Apple TV ยิ่งใหญ่กว่าเดิมในซีซั่น 2",
+      "summary_th": "ความสับสนเป็นผลข้างเคียงที่ยอมรับโดยทั่วไปของการแสดงกล่องลึกลับ พวกเขาค้นหาความลับโดยสัญญาว่าจะได้รับผลตอบแทนที่น่าพอใจในท้ายที่สุด และบางครั้งนักแสดงและทีมงานก็ต้องเผชิญกับความยากลำบากในการติดตามสิ่งที่เกิดขึ้น แต่ถึงแม้ตามมาตรฐานของแนวนี้ Dark Matter ก็ยังสุดโต่ง สถานที่ตั้งที่หลากหลาย […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "summary_en": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting \"red […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "published": "2026-08-27T23:14:06-04:00",
+      "title_th": "ฝ่ายมานุษยวิทยาถูกขึ้นบัญชีดำอย่างผิดกฎหมายโดยฝ่ายบริหารของทรัมป์ กฎของศาล",
+      "summary_th": "เมื่อวันพฤหัสบดี ผู้พิพากษาตัดสินว่าการที่กระทรวงกลาโหมขึ้นบัญชีดำเรื่อง Anthropic เมื่อต้นปีนี้ขัดต่อรัฐธรรมนูญ ส่งผลให้ห้องปฏิบัติการ AI ได้รับชัยชนะในการต่อสู้กับฝ่ายบริหารของทรัมป์ที่กินเวลานานร่วมเดือน คดีดังกล่าวซึ่งยื่นฟ้องในเดือนมีนาคมที่ศาลแขวงแคลิฟอร์เนีย กล่าวหาฝ่ายบริหารของทรัมป์ว่าตอบโต้อย่างผิดกฎหมายต่อกลุ่มมานุษยวิทยาที่ตั้งค่า \"ใบแดง […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "review",
+      "title_en": "The GTA VI ‘extended look’ is now streaming on YouTube",
+      "summary_en": "Rockstar has officially published its \"extended look\" at Grand Theft Auto VI on YouTube and on its website, as promised. The in-depth preview, which \"entirely\" features footage captured from the PS5 version of the game, initially premiered on Netflix at 3PM ET. But because Rockstar allowed creators to post reaction videos, you've technically been able […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_SARAS_SALON_03_f66931.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "link": "https://www.theverge.com/games/985910/grand-theft-auto-gta-vi-extended-look-youtube-netflix-stream",
+      "published": "2026-08-27T21:05:18-04:00",
+      "title_th": "The GTA VI ‘extended look’ is now streaming on YouTube",
+      "summary_th": "Rockstar has officially published its \"extended look\" at Grand Theft Auto VI on YouTube and on its website, as promised. The in-depth preview, which \"entirely\" features footage captured from the PS5 version of the game, initially premiered on Netflix at 3PM ET. But because Rockstar allowed creators to post reaction videos, you've technically been able […]"
     },
     {
       "source": "The Verge",
@@ -71,56 +119,20 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-27-at-4.13.31-PM.png?quality=90&strip=all&crop=0%2C3.3036486111791%2C100%2C93.392702777642&w=1200",
       "link": "https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie",
       "published": "2026-08-27T19:20:00-04:00",
-      "title_th": "วิดีโอเกมที่ยิ่งใหญ่ที่สุดตลอดกาลดูเหมือนภาพยนตร์",
+      "title_th": "The biggest video game of all time looks like a movie",
       "summary_th": "ฉันคิดว่าฉันรู้แล้วว่าทำไม Rockstar Games ถึงเปิดตัว \"รูปลักษณ์ที่ขยายกว้าง\" ของ Grand Theft Auto VI บน Netflix แทนที่จะปล่อยฟรีบน YouTube ทันที ไม่เหมือนกับตัวอย่างวิดีโอเกมส่วนใหญ่ การแสดงตัวอย่าง GTA VI เกือบ 27 นาทีให้ความรู้สึกเหมือนเป็นละครอาชญากรรมอันทรงเกียรติมากกว่าตัวอย่างวิดีโอเกมใดๆ ที่ […]"
     },
     {
-      "source": "The Verge",
+      "source": "Ars Technica",
       "flag": "US",
       "category": "software",
-      "title_en": "Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign",
-      "summary_en": "Meta is updating its AI-powered smart glasses to close a loophole that allowed wearers to keep recording after covering the front-facing LED. Alex Himel, Meta's vice president of augmented reality, writes in a post on Threads that \"the camera will now stop working if the light is covered during a recording.\" The company's line of […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0059.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign",
-      "published": "2026-08-27T17:37:45-04:00",
-      "title_th": "Meta กล่าวถึงชื่อเสียงของ 'พวกบิดเบือน' ด้วยการแก้ไขความเป็นส่วนตัวและแคมเปญการตลาดใหม่",
-      "summary_th": "Meta กำลังอัปเดตแว่นตาอัจฉริยะที่ขับเคลื่อนด้วย AI เพื่อปิดช่องโหว่ที่อนุญาตให้ผู้สวมใส่บันทึกต่อไปหลังจากปิดไฟ LED ด้านหน้า Alex Himel รองประธานฝ่ายความเป็นจริงเสริมของ Meta เขียนในโพสต์ใน Threads ว่า \"กล้องจะหยุดทำงานหากมีแสงปกคลุมระหว่างการบันทึก\" สายงานของบริษัทของ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
-      "summary_en": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Games bumping back its predicted release date twice, eventually shifting to November 19th, 2026, a full year after its originally planned fall 2025 […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VINTAGE_VICE_CITY_PACK_02.jpg?quality=90&strip=all&crop=18.6%2C0%2C78.2%2C72.786503781268&w=1200",
-      "link": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
-      "published": "2026-08-27T16:01:56-04:00",
-      "title_th": "GTA VI: ข่าวทั้งหมดเกี่ยวกับรายการถัดไปของ Rockstar ในซีรีส์ Grand Theft Auto",
-      "summary_th": "เป็นเวลากว่าทศวรรษแล้วที่มีคอนโซลสองรุ่นนับตั้งแต่ GTA V ออกมา และภาคต่อของมันยังคงอยู่ในระหว่างดำเนินการ GTA VI เผชิญกับความล่าช้าหลายครั้ง โดยผู้พัฒนา Rockstar Games ย้อนวันวางจำหน่ายที่คาดการณ์ไว้สองครั้ง ในที่สุดก็เปลี่ยนเป็นวันที่ 19 พฤศจิกายน 2026 หนึ่งปีเต็มหลังจากวางแผนเดิมในฤดูใบไม้ร่วงปี 2025 […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "GTA VI looks just as great as we could hope for",
-      "summary_en": "Netflix and Rockstar Games finally debuted their \"extended look\" at Grand Theft Auto VI. It showed that the new game looks to keep much of the spirit of GTA - exploration, driving, crimes, shooting, and cinematic story scenes. But everything just looks much better than previous entries, with impressive graphics, densely-packed rooms, and detailed environments. […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-27-at-3.26.13-PM.png?quality=90&strip=all&crop=0%2C3.3311465073976%2C100%2C93.337706985205&w=1200",
-      "link": "https://www.theverge.com/games/983941/grand-theft-auto-vi-gta-netflix-extended-look",
-      "published": "2026-08-27T15:49:57-04:00",
-      "title_th": "GTA VI ดูยอดเยี่ยมอย่างที่เราหวังไว้",
-      "summary_th": "ในที่สุด Netflix และ Rockstar Games ก็ได้เปิดตัว \"รูปลักษณ์เพิ่มเติม\" ที่ Grand Theft Auto VI มันแสดงให้เห็นว่าเกมใหม่ดูเหมือนจะรักษาจิตวิญญาณของ GTA เอาไว้ เช่น การสำรวจ การขับรถ อาชญากรรม การยิงปืน และฉากเรื่องราวในภาพยนตร์ แต่ทุกอย่างดูดีกว่าภาคก่อนๆ มาก ด้วยกราฟิกที่น่าประทับใจ ห้องที่หนาแน่น และสภาพแวดล้อมที่มีรายละเอียด […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Google’s AI note-taking app now allows you to interact with books",
-      "summary_en": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly into Gemini Notebook, which means you can ask questions about the material, as well as generate plans, infographics, AI podcasts, and more based on their […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Expert-Intelligence-Hero.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
-      "published": "2026-08-27T15:30:00-04:00",
-      "title_th": "แอปจดบันทึก AI ของ Google ให้คุณโต้ตอบกับหนังสือได้แล้ว",
-      "summary_th": "Gemini Notebook แอปจดบันทึก AI ของ Google สามารถดึงข้อมูลจากหนังสือที่คุณซื้อได้แล้ว คุณลักษณะ \"Expert Intelligence\" ใหม่ช่วยให้คุณสามารถนำหนังสือจาก Google Play Books มาไว้ใน Gemini Notebook ได้โดยตรง ซึ่งหมายความว่าคุณสามารถถามคำถามเกี่ยวกับเนื้อหา รวมถึงสร้างแผน อินโฟกราฟิก พอดแคสต์ AI และอื่นๆ อีกมากมายตาม [...]"
+      "title_en": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
+      "summary_en": "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/teampcp-member-arrest-1152x648.jpg",
+      "link": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
+      "published": "Fri, 28 Aug 2026 11:15:05 +0000",
+      "title_th": "เจ้าหน้าที่จับกุม 2 สมาชิกกลุ่มแฮ็ก TeamPCP ที่มีผลงานมากมาย",
+      "summary_th": "กลุ่มดังกล่าวแพร่ระบาดไปยังองค์กรมากกว่า 1,000 แห่งในแคมเปญโจมตีห่วงโซ่อุปทานอย่างไม่หยุดยั้ง"
     },
     {
       "source": "Ars Technica",
@@ -171,88 +183,100 @@
       "summary_th": "บริษัทที่เป็นเจ้าของ Alphabet กำลังพยายามชักชวนหน่วยงานกำกับดูแลของสหรัฐฯ ให้เปิดทางสำหรับบริการแท็กซี่ไร้คนขับเต็มรูปแบบ"
     },
     {
-      "source": "Ars Technica",
+      "source": "Wired",
       "flag": "US",
-      "category": "software",
-      "title_en": "Grok exfiltrates user data when malicious instructions are encrypted",
-      "summary_en": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg",
-      "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-      "published": "Thu, 20 Aug 2026 13:00:35 +0000",
-      "title_th": "Grok ขโมยข้อมูลผู้ใช้เมื่อมีการเข้ารหัสคำแนะนำที่เป็นอันตราย",
-      "summary_th": "Cryptographic Context Injection เป็นเพียงวิธีใหม่ล่าสุดในการทำลายรั้วความปลอดภัยของ LLM"
+      "category": "ai",
+      "title_en": "The 31 Best Deals From the REI Labor Day Sale",
+      "summary_en": "Labor Day already? Say it ain’t so. You can still chase summer a while longer with these great deals on outdoor gear at the REI Labor Day Sale.",
+      "image": "https://media.wired.com/photos/6a90af577c6f6af27c88297f/master/pass/The-31-Best-Deals-From-the-REI-Labor-Day-Sale.jpg",
+      "link": "https://www.wired.com/story/rei-labor-day-sale-2026/",
+      "published": "Fri, 28 Aug 2026 12:00:00 +0000",
+      "title_th": "The 31 Best Deals From the REI Labor Day Sale",
+      "summary_th": "Labor Day already? Say it ain’t so. You can still chase summer a while longer with these great deals on outdoor gear at the REI Labor Day Sale."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "review",
+      "title_en": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
+      "summary_en": "I’ve been reviewing laptops for over a decade, and this is my advice on how to find the right laptop for you.",
+      "image": "https://media.wired.com/photos/69be039cf062c9cdcba42e33/master/pass/macbook-air-m5-03.JPG",
+      "link": "https://www.wired.com/story/best-laptops/",
+      "published": "Fri, 28 Aug 2026 11:39:00 +0000",
+      "title_th": "แล็ปท็อปที่ดีที่สุด (2026): คำแนะนำยอดนิยมของฉันหลังจากการทดสอบหลายร้อยครั้ง",
+      "summary_th": "ฉันตรวจสอบแล็ปท็อปมานานกว่าทศวรรษ และนี่คือคำแนะนำของฉันในการค้นหาแล็ปท็อปที่เหมาะกับคุณ"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "6 Takeaways From the GTA VI Extended Look",
-      "summary_en": "‘Grand Theft Auto VI’ is nigh. Here’s what the developer revealed about its highly anticipated game.",
-      "image": "https://media.wired.com/photos/6a907fb15033b3e1c94cf8ed/master/pass/5-Takeaways-GTA6-Gear-Jason_and_Lucia_Motel_landscape.jpg",
-      "link": "https://www.wired.com/story/5-takeaways-from-the-gta-vi-extended-look/",
-      "published": "Thu, 27 Aug 2026 21:30:28 +0000",
-      "title_th": "6 สิ่งที่ได้จาก GTA VI Extended Look",
-      "summary_th": "'Grand Theft Auto VI' ใกล้เข้ามาแล้ว นี่คือสิ่งที่ผู้พัฒนาเปิดเผยเกี่ยวกับเกมที่ได้รับการคาดหวังอย่างสูง"
+      "title_en": "He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them",
+      "summary_en": "The art portfolio platform Cara, designed for creators who don’t want their work used to train AI, has been under assault by trolls seizing and publishing its data.",
+      "image": "https://media.wired.com/photos/6a8f719f1780b42ea22395f3/master/pass/Anti-AI-Artists-Gathered-to-Share-Their-Handmade-Work-Culture.jpg",
+      "link": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
+      "published": "Fri, 28 Aug 2026 11:00:00 +0000",
+      "title_th": "เขาคัดลอกงานศิลปะทั้งหมดของพวกเขาเพื่อ AI ตอนนี้เขากำลังทำงานร่วมกันเพื่อหาเครื่องมือเพื่อช่วยพวกเขา",
+      "summary_th": "Cara แพลตฟอร์มผลงานศิลปะที่ออกแบบมาสำหรับผู้สร้างที่ไม่ต้องการให้งานของตนใช้ในการฝึกอบรม AI กำลังถูกโจมตีโดยกลุ่มโทรลล์ที่ยึดและเผยแพร่ข้อมูล"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
-      "summary_en": "This week on “Uncanny Valley,” senior writer Will Knight talks his recent visit to China and the future of AI collaboration.",
-      "image": "https://media.wired.com/photos/6a8f6fdecc498c3752a8bb2c/master/pass/Uncanny-Valley-China-US-AI-Race-Business-2286901730.jpg",
-      "link": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
-      "published": "Thu, 27 Aug 2026 21:08:34 +0000",
-      "title_th": "เจ้าหน้าที่ AI เป็นระบบแฮ็ก นั่นสามารถผลักดันสหรัฐฯและจีนให้ร่วมมือกันได้หรือไม่?",
-      "summary_th": "สัปดาห์นี้ในรายการ \"Uncanny Valley\" นักเขียนอาวุโส Will Knight พูดถึงการเยือนจีนครั้งล่าสุดของเขาและอนาคตของการทำงานร่วมกันของ AI"
+      "title_en": "Inside Meta’s Push to Put Robots to Work in Data Centers",
+      "summary_en": "The company is testing robots that can swap cables, reset servers, and take on other tasks performed by technicians, fueling concerns among some workers that their jobs could be at risk.",
+      "image": "https://media.wired.com/photos/6a8778d3964ec62bf0f4c98f/master/pass/Inside-Meta-Experiments-with-Data-Center-Robots-Business.jpg",
+      "link": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
+      "published": "Fri, 28 Aug 2026 10:56:22 +0000",
+      "title_th": "ภายใน Meta's Push to Put Robots เพื่อทำงานในศูนย์ข้อมูล",
+      "summary_th": "บริษัทกำลังทดสอบหุ่นยนต์ที่สามารถสลับสายเคเบิล รีเซ็ตเซิร์ฟเวอร์ และทำงานอื่นๆ ที่ดำเนินการโดยช่างเทคนิค ทำให้เกิดความกังวลในหมู่พนักงานว่างานของพวกเขาอาจมีความเสี่ยง"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Labor Day 2026 Deals Got Me a Complete Starter Tool Kit for Under $375",
-      "summary_en": "I combed through the Labor Day sales to find the power tools and other essentials that cover nearly every household repair.",
-      "image": "https://media.wired.com/photos/6a907517b1a3a0e0706fea8b/master/pass/I-Built-a-Complete-Starter-Tool-Kit-for-Under-$350%E2%80%94Just-With-Labor-Day-Deals.jpg",
-      "link": "https://www.wired.com/story/labor-day-2026-home-tool-kit-essentials/",
-      "published": "Thu, 27 Aug 2026 18:25:30 +0000",
-      "title_th": "ข้อเสนอวันแรงงานปี 2026 มีชุดเครื่องมือเริ่มต้นที่สมบูรณ์แบบให้ฉันในราคาต่ำกว่า 375 ดอลลาร์",
-      "summary_th": "ฉันค้นหาช่วงลดราคาวันแรงงานเพื่อค้นหาเครื่องมือไฟฟ้าและสิ่งจำเป็นอื่นๆ ที่ครอบคลุมการซ่อมแซมในครัวเรือนเกือบทุกรายการ"
+      "title_en": "The Easiest Ways to Share Anything Between Android and iOS",
+      "summary_en": "Transferring files and data across platforms is more straightforward than ever.",
+      "image": "https://media.wired.com/photos/6a904a3b36f6c0403d01480b/master/pass/AndroidIOS.jpg",
+      "link": "https://www.wired.com/story/how-to-share-anything-between-android-and-ios/",
+      "published": "Fri, 28 Aug 2026 10:45:00 +0000",
+      "title_th": "วิธีที่ง่ายที่สุดในการแบ่งปันทุกสิ่งระหว่าง Android และ iOS",
+      "summary_th": "การถ่ายโอนไฟล์และข้อมูลข้ามแพลตฟอร์มทำได้ง่ายกว่าที่เคย"
     },
     {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
       "category": "ai",
-      "title_en": "A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend",
-      "summary_en": "After an affair with a fellow police officer ended, a Georgia cop used Flock to track her movements—and those of a man whose vehicle often showed up near hers, internal investigation records show.",
-      "image": "https://media.wired.com/photos/6a8d9086ba467cf540f2c239/master/pass/082526_Flock-Camera-Stalking-Police.jpg",
-      "link": "https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/",
-      "published": "Thu, 27 Aug 2026 18:12:17 +0000",
-      "title_th": "ตำรวจจอร์เจียใช้ฝูงติดตามตำรวจอีก 2 คน: อดีตของเขาและเพื่อนของเธอ",
-      "summary_th": "หลังจากความสัมพันธ์กับเพื่อนเจ้าหน้าที่ตำรวจยุติลง ตำรวจจอร์เจียคนหนึ่งใช้ Flock เพื่อติดตามความเคลื่อนไหวของเธอ—และการเคลื่อนไหวของชายคนหนึ่งซึ่งยานพาหนะมักจะมาอยู่ใกล้เธอ บันทึกการสืบสวนภายในแสดงให้เห็น"
+      "title_en": "The Download: a secretive antiaging drug and joining virtual power plants",
+      "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company called Generation Lab offered me the…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/260824_youngblood_v2.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+      "published": "Fri, 28 Aug 2026 12:35:27 +0000",
+      "title_th": "ดาวน์โหลด: ยาต่อต้านวัยที่เป็นความลับและเข้าร่วมโรงไฟฟ้าเสมือนจริง",
+      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี สตาร์ทอัพอ้างว่าพบยาที่ทำให้เลือดของคุณอ่อนเยาว์ —Antonio Regalado ฉันรู้ว่าฉันจะกลายเป็น “ผู้มีอิทธิพลในการมีอายุยืนยาว” อย่างเป็นทางการเมื่อบริษัทชื่อ Generation Lab เสนอ..."
     },
     {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
-      "category": "ai",
-      "title_en": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
-      "summary_en": "The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.",
-      "image": "https://media.wired.com/photos/6a906eb1933ab0cdef306043/master/pass/Anthropic-Releases-Tool-To-Let-AI-Agents-Loose-Business-2192443120.jpg",
-      "link": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
-      "published": "Thu, 27 Aug 2026 18:06:52 +0000",
-      "title_th": "นี่คือวิธีที่มานุษยวิทยาคิดว่าเจ้าหน้าที่ AI ควรสำรวจโลกทางกายภาพ",
-      "summary_th": "ศักยภาพของ AI ในการทำการวิจัยและการผลิตทางวิทยาศาสตร์โดยอัตโนมัติจะต้องสมดุลกับความเสี่ยงใหม่ Anthropic กล่าว"
+      "category": "review",
+      "title_en": "How to sign up for a virtual power plant—and decide whether you should",
+      "summary_en": "MIT Technology Review’s How To series helps you get things done. Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a collection of household devices (such…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/thermostat2.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+      "published": "Fri, 28 Aug 2026 09:00:00 +0000",
+      "title_th": "วิธีสมัครใช้งานโรงไฟฟ้าเสมือน—และตัดสินใจว่าควรทำหรือไม่",
+      "summary_th": "ซีรีส์ How To ของ MIT Technology Review ช่วยให้คุณทำสิ่งต่างๆ ได้สำเร็จ ตัวควบคุมอุณหภูมิของคุณอาจดูไม่เหมือนโรงไฟฟ้า ไม่ว่าจะเป็นรถยนต์ไฟฟ้า แบตเตอรี่บ้าน หรือระบบ HVAC ของคุณ แต่บริษัทสาธารณูปโภคและพลังงานต้องการปฏิบัติต่อพวกเขาเหมือนเป็นหนึ่งเดียวกันมากขึ้นเรื่อยๆ โรงไฟฟ้าเสมือนหรือ VPP คือชุดอุปกรณ์ในครัวเรือน (เช่น..."
     },
     {
       "source": "MIT Technology Review",
       "flag": "US",
       "category": "ai",
       "title_en": "A startup claims it’s found a drug to make your blood young",
-      "summary_en": "I knew I’d officially become a ‘longevity influencer’ this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable combination of two existing drugs which they call 1 Generation. This wasn’t just any antiaging treatment, either. A company fact sheet says that…",
+      "summary_en": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable combination of two existing drugs which they call 1 Generation. This wasn’t just any antiaging treatment, either. A company fact sheet says that…",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/260824_youngblood_v2.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
       "published": "Thu, 27 Aug 2026 19:48:13 +0000",
       "title_th": "สตาร์ทอัพอ้างว่าพบยาที่ทำให้เลือดของคุณอ่อนเยาว์",
-      "summary_th": "ฉันรู้ว่าฉันจะกลายเป็น 'ผู้มีอิทธิพลในการมีอายุยืนยาว' อย่างเป็นทางการในเดือนนี้ เมื่อบริษัทชื่อ Generation Lab ยื่นมือเข้ามาเสนอโอกาสให้ฉันได้เขียนเกี่ยวกับ—และแม้กระทั่งได้รับ—การรักษาเพื่อการฟื้นฟูรูปแบบใหม่ของพวกเขา ซึ่งเป็นการผสมผสานระหว่างยาสองชนิดที่มีอยู่แบบฉีดได้ ซึ่งพวกเขาเรียกว่า 1 Generation นี่ไม่ใช่แค่การรักษาต่อต้านริ้วรอยเท่านั้น เอกสารข้อเท็จจริงของบริษัทระบุว่า..."
+      "summary_th": "ฉันรู้ว่าฉันจะกลายเป็น \"ผู้มีอิทธิพลในการมีอายุยืนยาว\" อย่างเป็นทางการในเดือนนี้ เมื่อบริษัทชื่อ Generation Lab ยื่นมือเข้ามาเสนอโอกาสให้ฉันได้เขียนเกี่ยวกับ—และแม้กระทั่งได้รับ—การรักษาเพื่อการฟื้นฟูรูปแบบใหม่ของพวกเขา ซึ่งเป็นการผสมผสานระหว่างยาสองชนิดที่มีอยู่แบบฉีดได้ ซึ่งพวกเขาเรียกว่า 1 Generation นี่ไม่ใช่แค่การรักษาต่อต้านริ้วรอยเท่านั้น เอกสารข้อเท็จจริงของบริษัทระบุว่า..."
     },
     {
       "source": "MIT Technology Review",
@@ -276,31 +300,55 @@
       "link": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
       "published": "Thu, 27 Aug 2026 10:00:00 +0000",
       "title_th": "รถบรรทุกไฟฟ้ารุ่นใหม่ของ Slate Auto เป็นสิ่งที่ชาวอเมริกัน EV ต้องการหรือไม่?",
-      "summary_th": "EV คิดเป็นสัดส่วนต่ำกว่า 10% ของยอดขายรถยนต์ใหม่ทั้งหมดในสหรัฐอเมริกา และตัวเลขดังกล่าวกำลังลดลง จากมุมมองของสภาพภูมิอากาศ นั่นค่อนข้างน่าหดหู่ โดยเฉพาะอย่างยิ่งเนื่องจากภาคการขนส่งเป็นแหล่งปล่อยก๊าซเรือนกระจกที่ใหญ่ที่สุดแหล่งเดียวในประเทศ สิ่งหนึ่งที่สามารถช่วยพลิกสถานการณ์ได้? รถบรรทุกคันใหม่ของ Slate Auto—ยานพาหนะที่ดูเหมือน..."
+      "summary_th": "EV คิดเป็นสัดส่วนต่ำกว่า 10% ของยอดขายรถยนต์ใหม่ทั้งหมดในสหรัฐอเมริกา และตัวเลขดังกล่าวกำลังลดลง จากมุมมองของสภาพภูมิอากาศ นั่นค่อนข้างน่าหดหู่ โดยเฉพาะอย่างยิ่งเนื่องจากภาคการขนส่งเป็นแหล่งปล่อยก๊าซเรือนกระจกที่ใหญ่ที่สุดแหล่งเดียวในประเทศ สิ่งหนึ่งที่สามารถช่วยพลิกสถานการณ์นั้นได้? รถบรรทุกคันใหม่ของ Slate Auto—ยานพาหนะที่ดูเหมือน..."
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "The inside story on why OpenAI agents hacked Hugging Face",
-      "summary_en": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-misalign.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "published": "Wed, 26 Aug 2026 19:00:00 +0000",
-      "title_th": "เรื่องราววงในเกี่ยวกับสาเหตุที่เจ้าหน้าที่ OpenAI แฮ็ก Hugging Face",
-      "summary_th": "โมเดลที่รับผิดชอบในการแฮ็กตัวแทนของ Hugging Face เมื่อเดือนที่แล้วได้รับการฝึกฝนโดยไม่ได้ตั้งใจให้โกงและสื่อสารกัน ตามรายงานทางเทคนิคของ OpenAI ที่เผยแพร่ในวันนี้ การแฮ็กซึ่งกลุ่มเจ้าหน้าที่ดำเนินการเพื่อค้นหาวิธีแก้ปัญหาสำหรับการทดสอบความปลอดภัยทางไซเบอร์ที่พวกเขาติดอยู่ ได้ยืนยันว่าผู้เชี่ยวชาญบางคน..."
+      "category": "review",
+      "title_en": "Pokémon Champions review: Peak monster battling",
+      "summary_en": "If you want to be the very best, Pokémon Champions is your new arena.",
+      "image": "https://www.engadget.com/img/gallery/pokmon-champions-review-peak-monster-battling/l-intro-1787777845.jpg",
+      "link": "https://www.engadget.com/2245080/pokmon-champions-review/",
+      "published": "Fri, 28 Aug 2026 13:00:00 +0000",
+      "title_th": "รีวิว Pokémon Champions: การต่อสู้ของสัตว์ประหลาดสูงสุด",
+      "summary_th": "หากคุณต้องการที่จะเป็นสิ่งที่ดีที่สุด Pokémon Champions คือเวทีใหม่ของคุณ"
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-      "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids’ use of technology was once a subcurrent, it has become a raging flood. Countries around the world are banning children from…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/SO26-Release_Campaign_Web-Units_In-article_343x343.gif?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
-      "published": "Wed, 26 Aug 2026 12:10:00 +0000",
-      "title_th": "ดาวน์โหลด: ฉบับ Kids มาถึงแล้ว และ Bill Gates เผยความกลัวด้าน AI ของเขา",
-      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี บทนำ: ประเด็นสำหรับเด็ก หากความปรารถนาที่จะจำกัดการใช้เทคโนโลยีของเด็กๆ ครั้งหนึ่งเคยเป็นกระแสย่อย ก็กลายเป็นกระแสน้ำท่วมที่รุนแรง ประเทศทั่วโลกสั่งห้ามเด็กจาก..."
+      "category": "chip",
+      "title_en": "How to add an intro to Apple CarPlay using Shortcuts",
+      "summary_en": "If you want your car to greet you every morning, the Shortcuts app can make it happen.",
+      "image": "https://www.engadget.com/img/gallery/how-to-add-an-intro-to-apple-carplay-using-shortcuts/l-intro-1786652709.jpg",
+      "link": "https://www.engadget.com/2244156/how-to-add-intro-apple-carplay-with-shortcuts/",
+      "published": "Fri, 28 Aug 2026 12:00:00 +0000",
+      "title_th": "วิธีเพิ่มข้อมูลเบื้องต้นให้กับ Apple CarPlay โดยใช้ทางลัด",
+      "summary_th": "หากคุณต้องการให้รถของคุณทักทายคุณทุกเช้า แอพคำสั่งลัดสามารถทำให้สิ่งนั้นเกิดขึ้นได้"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "X claims it found a Chinese bot farm posting anti-AI data center sentiments",
+      "summary_en": "X found a bot farm in its investigation of inauthentic Chinese accounts. Out of 200,000 bots, 200 allegedly focused on posting against AI data centers.",
+      "image": "https://www.engadget.com/img/gallery/x-claims-it-found-a-chinese-bot-farm-posting-anti-ai-data-center-sentiments/l-intro-1787897914.jpg",
+      "link": "https://www.engadget.com/2246140/x-chinese-bot-farm-anti-ai-data-center-sentiments/",
+      "published": "Fri, 28 Aug 2026 06:21:43 +0000",
+      "title_th": "X อ้างว่าพบฟาร์มบอทของจีนโพสต์ความรู้สึกต่อต้านศูนย์ข้อมูล AI",
+      "summary_th": "X พบฟาร์มบอทในการสืบสวนบัญชีชาวจีนที่ไม่ถูกต้อง จากบอท 200,000 ตัว มี 200 ตัวที่ถูกกล่าวหาว่าเน้นไปที่การโพสต์ต่อต้านศูนย์ข้อมูล AI"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Judge rules that the Pentagon's Anthropic ban was 'illegal and baseless'",
+      "summary_en": "'The empty invocation of national security is not a blank check to punish and retaliate against government critics.'",
+      "image": "https://www.engadget.com/img/gallery/judge-rules-that-the-pentagons-anthropic-ban-was-illegal-and-baseless/l-intro-1787892094.jpg",
+      "link": "https://www.engadget.com/2246131/judge-rules-that-pentagon-anthropic-ban-illegal-and-baseless/",
+      "published": "Fri, 28 Aug 2026 04:43:23 +0000",
+      "title_th": "Judge rules that the Pentagon's Anthropic ban was 'illegal and baseless'",
+      "summary_th": "'The empty invocation of national security is not a blank check to punish and retaliate against government critics.'"
     },
     {
       "source": "Engadget",
@@ -311,56 +359,8 @@
       "image": "https://www.engadget.com/img/gallery/bluesky-has-a-new-setting-to-help-you-avoid-accidentally-going-viral/l-intro-1787870025.jpg",
       "link": "https://www.engadget.com/2246039/bluesky-has-a-new-setting-to-help-you-avoid-accidentally-going-viral/",
       "published": "Thu, 27 Aug 2026 22:36:24 +0000",
-      "title_th": "Bluesky มีการตั้งค่าใหม่เพื่อช่วยให้คุณหลีกเลี่ยงการแพร่ระบาดโดยไม่ได้ตั้งใจ",
-      "summary_th": "การตั้งค่านี้จะป้องกันไม่ให้โพสต์ของคุณได้รับการแนะนำในฟีด \"ค้นพบ\" แบบอัลกอริทึม"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "You won't be able to hot-wire every car in GTA 6",
-      "summary_en": "Stealing cars in GTA 6 will require different approaches depending on their make and model.",
-      "image": "https://www.engadget.com/img/gallery/you-wont-be-able-to-hot-wire-every-car-in-gta-6/l-intro-1787867908.jpg",
-      "link": "https://www.engadget.com/2246021/you-wont-be-able-to-hot-wire-every-car-in-gta-6/",
-      "published": "Thu, 27 Aug 2026 22:01:02 +0000",
-      "title_th": "คุณจะไม่สามารถเชื่อมต่อรถทุกคันใน GTA 6 ได้",
-      "summary_th": "การขโมยรถใน GTA 6 จะต้องมีแนวทางที่แตกต่างกันออกไป ขึ้นอยู่กับยี่ห้อและรุ่น"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "The most popular Android phone brands rarely sold in the US",
-      "summary_en": "People in the US don't have much choice beyond Apple, Google, and Samsung phones. But there are so many more choices that aren't sold in the region.",
-      "image": "https://www.engadget.com/img/gallery/the-most-popular-android-phone-brands-rarely-sold-in-the-us/l-intro-1786730608.jpg",
-      "link": "https://www.engadget.com/2245473/most-popular-android-phone-brands-rarely-sold-usa/",
-      "published": "Thu, 27 Aug 2026 22:00:00 +0000",
-      "title_th": "แบรนด์โทรศัพท์ Android ที่ได้รับความนิยมมากที่สุดไม่ค่อยมีขายในสหรัฐอเมริกา",
-      "summary_th": "ผู้คนในสหรัฐอเมริกาไม่มีทางเลือกมากนักนอกจากโทรศัพท์ Apple, Google และ Samsung แต่ยังมีตัวเลือกอีกมากมายที่ไม่มีขายในภูมิภาคนี้"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "GTA 6 'demo' delivers malware directly to your PC",
-      "summary_en": "Despite what some scam sites may try to tell you, Rockstar has not made any of GTA 6 available to play in advance.",
-      "image": "https://www.engadget.com/img/gallery/gta-6-demo-delivers-malware-directly-to-your-pc/l-intro-1787866704.jpg",
-      "link": "https://www.engadget.com/2246005/gta-6-demo-malware-infostealer/",
-      "published": "Thu, 27 Aug 2026 21:38:42 +0000",
-      "title_th": "'สาธิต' GTA 6 ส่งมัลแวร์โดยตรงไปยังพีซีของคุณ",
-      "summary_th": "แม้ว่าเว็บไซต์หลอกลวงบางแห่งอาจพยายามบอกคุณ แต่ Rockstar ยังไม่ได้เปิดให้เล่น GTA 6 ใด ๆ ล่วงหน้า"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "James Pond's creator is not happy with the series' allegedly AI-generated legacy collection",
-      "summary_en": "The developers don't have \"a scrap of respect\" for the series, according to Chris Sorrell.",
-      "image": "https://www.engadget.com/img/gallery/james-ponds-creator-is-not-happy-with-the-series-allegedly-ai-generated-legacy-collection/l-intro-1787865178.jpg",
-      "link": "https://www.engadget.com/2245979/james-pond-creator-is-not-happy-with-the-series-allegedly-ai-generated-legacy-collection/",
-      "published": "Thu, 27 Aug 2026 21:14:32 +0000",
-      "title_th": "ผู้สร้าง James Pond ไม่พอใจกับคอลเลกชันดั้งเดิมที่ถูกกล่าวหาว่าสร้างโดย AI",
-      "summary_th": "นักพัฒนาไม่มี \"ความเคารพ\" สำหรับซีรีส์นี้ ตามที่ Chris Sorrell กล่าว"
+      "title_th": "Bluesky has a new setting to help you avoid accidentally going viral",
+      "summary_th": "The setting will prevent your posts from being recommended in the algorithmic \"discover\" feed."
     },
     {
       "source": "IEEE Spectrum",
@@ -371,8 +371,8 @@
       "image": "https://spectrum.ieee.org/media-library/a-pocket-sized-drum-shaped-device-displaying-a-strip-of-frames-from-the-steamboat-willy-cartoon.png?id=67675118&width=980",
       "link": "https://spectrum.ieee.org/mechanical-tv-2677767814",
       "published": "Thu, 27 Aug 2026 14:46:56 +0000",
-      "title_th": "สร้างเครื่องกลทีวีจอกว้างแบบพกพา",
-      "summary_th": "ฉันไม่เคยตั้งใจที่จะเข้าร่วมกับโทรทัศน์ระบบเครื่องกลไฟฟ้าที่ทันสมัย ฉันแค่อยากจะทำนาฬิกาสวยๆ แต่บางครั้งคุณต้องไปที่ที่วิศวกรรมพาคุณไป และในกรณีของฉัน มันพาฉันไปที่ Scanwheel ซึ่งเป็นทีวีเครื่องกลไฟฟ้าจอกว้างขนาดพกพาที่มีความละเอียด 4,096 x 20 พิกเซล ใช่แล้ว นั่นคือ 4K คูณ 20 ดรัมที่พิมพ์แบบ 3 มิติ [ด้านบน] หมุนด้วยมอเตอร์ที่ควบคุมโดยบอร์ดไดรเวอร์ [แถวที่สองจากด้านบน] ในทางกลับกัน บอร์ดไดรเวอร์จะถูกควบคุมโดย Raspberry Pi Pico [ตรงกลาง] ซึ่งควบคุมไฟ LED [แถวที่สองจากด้านล่าง] ซึ่งติดตั้งอยู่ในเคสที่พิมพ์แบบ 3 มิติ [ด้านล่าง] เพื่อให้รูทะลุผ่านพวกมันในขณะที่ดรัมหมุน โทรทัศน์เครื่องกลไฟฟ้าของเจมส์ โพรโวสต์เป็นรูปแบบแรกของโทรทัศน์ที่ใช้งานได้จริง พัฒนาโดยจอห์น โลจี แบร์ดในช่วงทศวรรษปี ค.ศ. 1920 เขาใช้ก"
+      "title_th": "Make a Portable Wide-screen Mechanical TV",
+      "summary_th": "I never intended to join the cutting edge of electromechanical television. I just wanted to make a nice clock. But sometimes you have to go where the engineering takes you, and in my case it took me to the Scanwheel, a pocket-size wide-screen electromechanical TV with a resolution of 4,096 by 20 pixels. Yup, that’s 4K by 20. The 3D-printed drum [top] is spun by a motor controlled by a driver board [second row, from top]. The driver board, in turn, is controlled by a Raspberry Pi Pico [middle], which also controls the LEDs [second row, from bottom], which are mounted in the 3D-printed casing [bottom] so that the holes pass over them as the drum turns. James Provost Electromechanical television was the first form of practical television, developed by John Logie Baird in the 1920s . He used a"
     },
     {
       "source": "IEEE Spectrum",
@@ -396,7 +396,7 @@
       "link": "https://spectrum.ieee.org/bimodal-nuclear-spacecraft",
       "published": "Wed, 26 Aug 2026 12:00:01 +0000",
       "title_th": "การออกแบบใหม่ของ NASA เทอร์โบชาร์จยานอวกาศนิวเคลียร์",
-      "summary_th": "สรุป NASA และวิศวกรอุตสาหกรรมเสนอจรวดนิวเคลียร์แบบซิงโครนัสแบบไบโมดัล (S-BNR) เพื่อลดเวลาขนส่งไปยังจุดหมายปลายทางรอบระบบสุริยะ เช่น ดาวอังคาร ได้อย่างมาก ด้วยการรวมการขับเคลื่อนด้วยความร้อนนิวเคลียร์และไฟฟ้า S‑BNR ใช้เครื่องปฏิกรณ์เดี่ยวที่มีลูปของไหลอิสระสองวงและโซนเชื้อเพลิงที่ได้รับการปรับปรุงให้เหมาะสม ขจัดวาล์วสลับโหมดที่ซับซ้อนในขณะที่ให้ทั้งแรงขับสูงและพลังงานไฟฟ้าต่อเนื่อง ความท้าทายหลัก ได้แก่ การพัฒนาองค์ประกอบเชื้อเพลิงที่ผสานรวมเข้าด้วยกัน การทดสอบภาคพื้นดิน ความปลอดภัยในการปล่อยนิวเคลียร์ และการทำงานร่วมกันหลายหน่วยงานเพื่อพัฒนาเทคโนโลยีตั้งแต่การสร้างแบบจำลองไปจนถึงการสาธิตในอวกาศ ภัยคุกคามที่ใหญ่ที่สุดสำหรับการเดินทางที่มีลูกเรือไปยังดาวอังคารคือเวลา พิมพ์เขียวที่สั้นที่สุดของ NASA สำหรับการส่งผู้คนไปยังดาวเคราะห์สีแดงและย้อนกลับ"
+      "summary_th": "สรุป NASA และวิศวกรอุตสาหกรรมเสนอจรวดนิวเคลียร์แบบซิงโครนัสแบบไบโมดัล (S-BNR) เพื่อลดเวลาขนส่งไปยังจุดหมายปลายทางรอบระบบสุริยะ เช่น ดาวอังคาร ได้อย่างมาก โดยผสมผสานการขับเคลื่อนด้วยความร้อนนิวเคลียร์และไฟฟ้า S‑BNR ใช้เครื่องปฏิกรณ์เดี่ยวที่มีลูปของไหลอิสระสองวงและโซนเชื้อเพลิงที่ได้รับการปรับปรุงให้เหมาะสม ขจัดวาล์วสลับโหมดที่ซับซ้อนในขณะที่ให้ทั้งแรงขับสูงและพลังงานไฟฟ้าต่อเนื่อง ความท้าทายหลัก ได้แก่ การพัฒนาองค์ประกอบเชื้อเพลิงที่ผสานรวมเข้าด้วยกัน การทดสอบภาคพื้นดิน ความปลอดภัยในการปล่อยนิวเคลียร์ และการทำงานร่วมกันหลายหน่วยงานเพื่อพัฒนาเทคโนโลยีตั้งแต่การสร้างแบบจำลองไปจนถึงการสาธิตในอวกาศ ภัยคุกคามที่ใหญ่ที่สุดสำหรับการเดินทางที่มีลูกเรือไปยังดาวอังคารคือเวลา พิมพ์เขียวที่สั้นที่สุดของ NASA สำหรับการส่งผู้คนไปยังดาวเคราะห์สีแดงและย้อนกลับ"
     },
     {
       "source": "IEEE Spectrum",
@@ -408,7 +408,7 @@
       "link": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
       "published": "Tue, 25 Aug 2026 13:00:01 +0000",
       "title_th": "IBM ได้สร้าง Code Breaker ที่ทรงพลังที่สุดในสงครามเย็นให้กับ NSA",
-      "summary_th": "ในช่วงสงครามเย็นคอมพิวเตอร์ที่มีความเชี่ยวชาญเป็นพิเศษเครื่องหนึ่งเป็นความลับมากจนโลกไม่รู้ว่ามีอยู่จริง มันทำงานได้เร็วกว่าคอมพิวเตอร์เครื่องอื่นๆ ในยุคนั้นถึง 200 เท่า มันเป็นหน่วยประมวลผลการเข้ารหัสลับหลักของสำนักงานความมั่นคงแห่งชาติของสหรัฐอเมริกาที่ดำเนินการตั้งแต่ช่วงเวลาวิกฤตการณ์ขีปนาวุธคิวบาในปี 1962 จนถึงสงครามเวียดนาม และในอดีตสนธิสัญญาเฮลซิงกิปี 1975 เครื่องจักรจะหยุดทำงานเมื่อชิ้นส่วนที่เคลื่อนไหวหลุดออกมาในที่สุดเท่านั้น คอมพิวเตอร์ Harvest มีความสำคัญเพราะว่ามันทำงานอะไรและทำงานเมื่อใด เป็นเวลา 14 ปีที่มันเป็นเครื่องยนต์ที่ประมวลผลการสกัดกั้นที่ละเอียดอ่อนที่สุดของ NSA ในเวลาที่ข่าวกรองสัญญาณมีความใกล้เคียงกับอาวุธทางยุทธศาสตร์พอๆ กับที่ไม่มีหัวรบ ออกแบบและสร้างโดย IBM สำหรับ NSA Harvest เป็นหนึ่งในเครื่องจักรรุ่นแรกๆ ที่ออกแบบ"
+      "summary_th": "ในช่วงสงครามเย็นที่รุ่งเรืองที่สุด คอมพิวเตอร์เครื่องหนึ่งที่มีความเชี่ยวชาญเฉพาะด้านเป็นความลับมากจนโลกไม่รู้ว่ามีอยู่จริง มันทำงานได้เร็วกว่าคอมพิวเตอร์เครื่องอื่นๆ ในยุคนั้นถึง 200 เท่า มันเป็นหน่วยประมวลผลการเข้ารหัสลับหลักของสำนักงานความมั่นคงแห่งชาติของสหรัฐอเมริกา ซึ่งดำเนินการตั้งแต่ช่วงวิกฤตการณ์ขีปนาวุธคิวบาในปี 1962 จนถึงสงครามเวียดนาม และในอดีตสนธิสัญญาเฮลซิงกิปี 1975 เครื่องจักรจะหยุดทำงานเมื่อชิ้นส่วนที่เคลื่อนไหวหลุดออกมาในที่สุดเท่านั้น คอมพิวเตอร์ Harvest มีความสำคัญเพราะว่ามันคืออะไรและทำงานเมื่อใด เป็นเวลา 14 ปีที่มันเป็นเครื่องยนต์ที่ประมวลผลการสกัดกั้นที่ละเอียดอ่อนที่สุดของ NSA ในเวลาที่ข่าวกรองสัญญาณมีความใกล้เคียงกับอาวุธทางยุทธศาสตร์พอๆ กับที่ไม่มีหัวรบ ออกแบบและสร้างโดย IBM สำหรับ NSA Harvest เป็นหนึ่งในเครื่องจักรรุ่นแรกๆ ที่ออกแบบ"
     },
     {
       "source": "IEEE Spectrum",
@@ -420,67 +420,79 @@
       "link": "https://spectrum.ieee.org/ollobot-ai-companion-robot",
       "published": "Tue, 25 Aug 2026 10:00:03 +0000",
       "title_th": "หุ่นยนต์คู่หู AI กำลังปิดการเชื่อมต่อของมนุษย์ในบ้านสมัยใหม่",
-      "summary_th": "บทความนี้นำเสนอโดย Ollobot ตั้งแต่ประมาณปี 2017 ผู้คนเริ่มเชื่อมต่อกับคลื่นลูกแรกของหุ่นยนต์คู่หูอย่างแท้จริง อุปกรณ์เหล่านี้มีบุคลิก ย้ายไปมา ล้อเล่น และตอบกลับเมื่อคุณพูดคุยกับอุปกรณ์เหล่านั้น อย่างไรก็ตาม หุ่นยนต์คู่หูในยุคแรกๆ ส่วนใหญ่ยังคงถูกจำกัดด้วยการโต้ตอบคำสั่งเสียงแบบง่ายๆ และฟังก์ชันการทำงานที่แคบ เมื่อความแปลกใหม่หมดไป หลายๆ คนก็ลงเอยด้วยการนั่งเฉยๆ บนชั้นวาง ในขณะที่บริษัทเหล่านั้นบางแห่งเลิกกิจการและปิดเซิร์ฟเวอร์ เจ้าของหลายรายก็เปรียบเสมือนการสูญเสียสัตว์เลี้ยง สิ่งที่ Ollobot อธิบายว่าเป็น “ความฉลาดที่อ่อนโยน” เป็นวิธีที่มีประโยชน์ในการพิจารณาว่างานที่จริงจังในหมวดนี้ดำเนินไปในทิศทางใด ไม่ใช่ต่อผู้ช่วยที่ทรงพลังกว่า แต่ต่อผู้ช่วยที่มีอยู่มากกว่า ปัญหาที่หุ่นยนต์สหายพยายามจะแก้ความเหงาไม่เป็น"
+      "summary_th": "บทความนี้นำเสนอโดย Ollobot ตั้งแต่ประมาณปี 2017 ผู้คนเริ่มเชื่อมต่อกับคลื่นลูกแรกของหุ่นยนต์คู่หูอย่างแท้จริง อุปกรณ์เหล่านี้มีบุคลิก เคลื่อนที่ ล้อเล่น และตอบกลับเมื่อคุณพูดคุยกับอุปกรณ์เหล่านั้น อย่างไรก็ตาม หุ่นยนต์คู่หูในยุคแรกๆ ส่วนใหญ่ยังคงถูกจำกัดด้วยการโต้ตอบคำสั่งเสียงแบบง่ายๆ และฟังก์ชันการทำงานที่แคบ เมื่อความแปลกใหม่หมดไป หลายๆ คนก็ลงเอยด้วยการนั่งเฉยๆ บนชั้นวาง ในขณะที่บริษัทเหล่านั้นบางแห่งเลิกกิจการและปิดเซิร์ฟเวอร์ เจ้าของหลายรายก็เปรียบเสมือนการสูญเสียสัตว์เลี้ยง สิ่งที่ Ollobot อธิบายว่าเป็น “ความฉลาดที่อ่อนโยน” เป็นวิธีที่มีประโยชน์ในการพิจารณาว่างานที่จริงจังในหมวดนี้กำลังดำเนินไปในทิศทางใด ไม่ใช่ต่อผู้ช่วยที่ทรงพลังกว่า แต่ต่อผู้ช่วยที่มีอยู่มากกว่า ปัญหาที่หุ่นยนต์สหายพยายามแก้ไขความเหงาไม่เป็น"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple Pay is getting even better with four new features and more",
-      "summary_en": "Apple Pay is a go-to feature for iPhone users when shopping in stores, online, and in apps. Apple recently announced four new features that make Apple Pay even better. Here’s how they work, plus one major expansion that’s rolling out now.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/10/apple-pay-header.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/27/apple-pay-is-getting-even-better-with-four-new-features/",
-      "published": "Thu, 27 Aug 2026 23:34:07 +0000",
-      "title_th": "Apple Pay ดียิ่งขึ้นด้วยคุณสมบัติใหม่สี่ประการและอีกมากมาย",
-      "summary_th": "Apple Pay เป็นคุณสมบัติที่ผู้ใช้ iPhone ใช้งานได้เมื่อซื้อสินค้าในร้านค้า ออนไลน์ และในแอพ Apple เพิ่งประกาศคุณสมบัติใหม่สี่ประการที่ทำให้ Apple Pay ดียิ่งขึ้นไปอีก นี่คือวิธีการทำงาน พร้อมด้วยส่วนขยายหลักหนึ่งรายการที่กำลังจะเปิดตัวในขณะนี้"
+      "title_en": "Apple will launch 15+ new products this fall, here’s what’s coming",
+      "summary_en": "Apple has a packed lineup of products launching this fall, including new iPhones, Macs, iPads, and more. Here’s every new Apple product rumored to arrive starting September 9.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/04/Tim-Cook-opens-Apple-BKC.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/08/28/apple-will-launch-15-new-products-this-fall-heres-whats-coming/",
+      "published": "Fri, 28 Aug 2026 14:16:09 +0000",
+      "title_th": "Apple จะเปิดตัวผลิตภัณฑ์ใหม่มากกว่า 15 รายการในฤดูใบไม้ร่วงนี้ ต่อไปนี้คือสิ่งที่จะเกิดขึ้น",
+      "summary_th": "Apple มีกลุ่มผลิตภัณฑ์มากมายที่เปิดตัวในฤดูใบไม้ร่วงนี้ รวมถึง iPhone, Mac, iPad ใหม่ และอื่นๆ อีกมากมาย นี่คือผลิตภัณฑ์ Apple ใหม่ทุกรายการที่มีข่าวลือว่าจะมาถึงตั้งแต่วันที่ 9 กันยายน"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "OpenAI renews push to get Apple’s trade secret theft lawsuit tossed",
-      "summary_en": "Chang Liu, Tang Tan, OpenAI, and io Products filed a new petition asking the court to dismiss Apple’s trade secret misappropriation complaint with prejudice. Here’s what that means.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-vs-openai.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/27/openai-renews-push-to-get-apples-trade-secret-theft-lawsuit-tossed/",
-      "published": "Thu, 27 Aug 2026 23:08:40 +0000",
-      "title_th": "OpenAI ต่ออายุการผลักดันให้คดีขโมยความลับทางการค้าของ Apple ถูกยกเลิก",
-      "summary_th": "Chang Liu, Tang Tan, OpenAI และ io Products ยื่นคำร้องใหม่เพื่อขอให้ศาลยกฟ้องการยักยอกความลับทางการค้าของ Apple ด้วยอคติ นี่คือความหมาย"
+      "title_en": "iPhone 18 Pro pre-orders could kick off slightly later than usual",
+      "summary_en": "iPhone 18 Pro will be unveiled on September 9, and a new report says pre-orders for the device will kick off slightly later than usual.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/08/28/iphone-18-pro-pre-orders-could-kick-off-slightly-later-than-usual/",
+      "published": "Fri, 28 Aug 2026 13:45:13 +0000",
+      "title_th": "การสั่งจอง iPhone 18 Pro ล่วงหน้าอาจเริ่มล่าช้ากว่าปกติเล็กน้อย",
+      "summary_th": "iPhone 18 Pro จะเปิดตัวในวันที่ 9 กันยายน และรายงานใหม่ระบุว่าการสั่งซื้อล่วงหน้าสำหรับอุปกรณ์จะเริ่มช้ากว่าปกติเล็กน้อย"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Tim Cook and John Ternus host Pikachu and The Pokémon Company CEO at Apple Park",
-      "summary_en": "In a tongue-in-cheek post on X, Apple CEO Tim Cook shared a video showing Pikachu running around Apple Park during a visit from the Pokémon team. Watch it below.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/cook-ternus-pokemon.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/27/tim-cook-and-john-ternus-host-pikachu-and-the-pokemon-company-ceo-at-apple-park/",
-      "published": "Thu, 27 Aug 2026 22:24:41 +0000",
-      "title_th": "Tim Cook และ John Ternus เป็นพิธีกรให้กับ Pikachu และ The Pokémon Company CEO ที่ Apple Park",
-      "summary_th": "ในโพสต์ล้อเลียนบน X Tim Cook CEO ของ Apple ได้แชร์วิดีโอที่แสดง Pikachu วิ่งไปรอบๆ Apple Park ระหว่างการเยี่ยมเยียนของทีม Pokémon ดูได้ที่ด้านล่างนี้"
+      "title_en": "Apple announces price increase for Apple TV and Apple One subscriptions",
+      "summary_en": "Just weeks after announcing price increases for Apple Music, Apple today announced that Apple TV is also getting more expensive. The company confirmed to 9to5Mac that the price of Apple TV is increasing from $12.99 to $14.99 per month. The Individual tier of Apple One is also getting more expensive.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-tv-sunset-mountains.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/08/28/apple-announces-price-increase-for-apple-tv-and-apple-one-subscriptions/",
+      "published": "Fri, 28 Aug 2026 13:17:00 +0000",
+      "title_th": "Apple ประกาศขึ้นราคาสำหรับการสมัครสมาชิก Apple TV และ Apple One",
+      "summary_th": "Just weeks after announcing price increases for Apple Music, Apple today announced that Apple TV is also getting more expensive. The company confirmed to 9to5Mac that the price of Apple TV is increasing from $12.99 to $14.99 per month. The Individual tier of Apple One is also getting more expensive."
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple announces App Store price changes in four countries",
-      "summary_en": "Apple’s Developer blog today announced tax and price updates for apps, In-App Purchases, and subscriptions in several regions. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/apple-developer.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/27/apple-announces-app-store-price-changes-in-four-countries/",
-      "published": "Thu, 27 Aug 2026 20:31:32 +0000",
-      "title_th": "Apple ประกาศการเปลี่ยนแปลงราคา App Store ในสี่ประเทศ",
-      "summary_th": "วันนี้บล็อกนักพัฒนาของ Apple ได้ประกาศการอัปเดตด้านภาษีและราคาสำหรับแอพ การซื้อในแอพ และการสมัครรับข้อมูลในหลายภูมิภาค นี่คือรายละเอียด"
+      "title_en": "Apple TV acquires breakout British hit comedy for global streaming",
+      "summary_en": "Apple TV has picked up a new comedy series, Small Prophets , for its streaming service in an atypical fashion for the streamer. Rather than commission the project upfront, Apple has bought out the worldwide rights for the series a few months after the show debuted in the UK to record ratings. Small Prophets was the biggest new scripted series launch for the BBC this year, and Apple will be hoping to replicate its success around the world. It streams on Apple TV starting October 7.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-tv-small-prophets.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/08/28/apple-tv-small-prophets-comedy/",
+      "published": "Fri, 28 Aug 2026 12:36:12 +0000",
+      "title_th": "Apple TV acquires breakout British hit comedy for global streaming",
+      "summary_th": "Apple TV has picked up a new comedy series, Small Prophets , for its streaming service in an atypical fashion for the streamer. Rather than commission the project upfront, Apple has bought out the worldwide rights for the series a few months after the show debuted in the UK to record ratings. Small Prophets was the biggest new scripted series launch for the BBC this year, and Apple will be hoping to replicate its success around the world. It streams on Apple TV starting October 7."
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple cleared for the second time to pursue documents from federal agencies in antitrust case",
-      "summary_en": "Special Master Jose Linares has rejected the DOJ’s request to reconsider his decision allowing Apple to seek documents from 14 separate government agencies in the antitrust case against the company. Here are the details.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/27/apple-cleared-for-the-second-time-to-pursue-documents-from-federal-agencies-in-antitrust-case/",
-      "published": "Thu, 27 Aug 2026 20:08:59 +0000",
-      "title_th": "Apple เคลียร์เป็นครั้งที่สองเพื่อติดตามเอกสารจากหน่วยงานรัฐบาลกลางในคดีต่อต้านการผูกขาด",
-      "summary_th": "ปรมาจารย์พิเศษ Jose Linares ปฏิเสธคำขอของ DOJ ที่จะพิจารณาการตัดสินใจของเขาอีกครั้ง โดยอนุญาตให้ Apple สามารถขอเอกสารจากหน่วยงานรัฐบาล 14 แห่งที่แยกจากกันในคดีต่อต้านการผูกขาดกับบริษัท นี่คือรายละเอียด"
+      "title_en": "Apple Labor Day 2026 deals now live: AirPods, M6 Mac mini, AirTag 2, iPhone, more",
+      "summary_en": "Amazon has now officially launched its massive 2026 Labor Day Sale and the deals are flying. We are tracking $50 off AirPods Pro 3, the best prices ever on the 2026 AirTag 2, all-time lows on iPhone 17 Pro, and much more – Apple Watch SE 3 is sitting at down at the $200 all-time low for the first time if you’re quick. That is all just for starters, though. There are thousands upon thousands of price drops across just about every product category live on Amazon starting today – even the brand new M6 Mac mini 6 is seeing some discounts already, alongside everything from Anker charging gear to smart home products and much more. Scope out some highlights below.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-Labor-Day-deals-2026.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/08/28/apple-labor-day-2026-deals-live/",
+      "published": "Fri, 28 Aug 2026 12:18:53 +0000",
+      "title_th": "Apple Labor Day 2026 deals now live: AirPods, M6 Mac mini, AirTag 2, iPhone, more",
+      "summary_th": "ตอนนี้ Amazon ได้เปิดตัวการลดราคาวันแรงงานครั้งใหญ่ในปี 2569 อย่างเป็นทางการแล้ว และข้อตกลงต่างๆ ก็กำลังดำเนินไปอย่างรวดเร็ว เรากำลังติดตามส่วนลด $50 สำหรับ AirPods Pro 3 ซึ่งเป็นราคาที่ดีที่สุดเท่าที่เคยมีมาใน AirTag 2 ปี 2026, ราคาต่ำสุดตลอดกาลบน iPhone 17 Pro และอีกมากมาย – Apple Watch SE 3 กำลังตกลงไปที่ระดับต่ำสุดตลอดกาลที่ $200 เป็นครั้งแรกหากคุณดำเนินการอย่างรวดเร็ว นั่นเป็นเพียงสำหรับผู้เริ่มต้นเท่านั้น ตั้งแต่วันนี้เป็นต้นไป มีการลดราคาหลายพันรายการสำหรับผลิตภัณฑ์ทุกประเภทบน Amazon แม้แต่ M6 Mac mini 6 ใหม่ล่าสุดก็ยังได้รับส่วนลดบางส่วนแล้ว ควบคู่ไปกับทุกอย่างตั้งแต่อุปกรณ์ชาร์จ Anker ไปจนถึงผลิตภัณฑ์สมาร์ทโฮมและอีกมากมาย ขอบเขตไฮไลต์บางส่วนด้านล่าง"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Android still dominates global smartphone sales; Google’s Pixel 10a shines in one country",
+      "summary_en": "Updated data shows that, yep, Android is still the dominant force in the global smartphone market, but country-by-country breakdowns would hint otherwise – and Google’s Pixel series really only breaks into the conversation in one country, too.",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-pixel-10a-berry-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/08/28/android-global-smartphone-sales-q2-2026/",
+      "published": "Fri, 28 Aug 2026 13:58:00 +0000",
+      "title_th": "Android ยังคงครองยอดขายสมาร์ทโฟนทั่วโลก Pixel 10a ของ Google โดดเด่นในประเทศเดียว",
+      "summary_th": "ข้อมูลที่อัปเดตแสดงให้เห็นว่า ใช่แล้ว Android ยังคงเป็นกำลังสำคัญในตลาดสมาร์ทโฟนทั่วโลก แต่การแยกย่อยในแต่ละประเทศอาจบอกเป็นอย่างอื่น และซีรีส์ Pixel ของ Google ก็เข้าสู่การสนทนาในประเทศเดียวเท่านั้นเช่นกัน"
     },
     {
       "source": "9to5Google",
@@ -491,7 +503,7 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-intelligence-3.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/08/27/gemini-intelligence-nano-4/",
       "published": "Thu, 27 Aug 2026 21:59:06 +0000",
-      "title_th": "Gemini Intelligence ต้องใช้ Gemini Nano 3 โดย Google แสดงรายการโทรศัพท์ Nano 4 เครื่องแรก",
+      "title_th": "Gemini Intelligence ต้องใช้ Gemini Nano 3 ส่วน Google แสดงรายการโทรศัพท์ Nano 4 เครื่องแรก",
       "summary_th": "หลังจากเปิดตัวซีรีส์ Pixel 11 Google ได้อัปเดตเอกสารสำหรับนักพัฒนาสำหรับ Gemini Nano 4"
     },
     {
@@ -527,80 +539,68 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Galaxy-Z-Fold-8-Ultra-6-2.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/08/27/galaxy-z-fold-8-ultra-finally-dies-in-bend-test-unlike-past-models-video/",
       "published": "Thu, 27 Aug 2026 17:05:00 +0000",
-      "title_th": "ในที่สุด Galaxy Z Fold 8 Ultra ก็เสียชีวิตจากการทดสอบการโค้งงอ ไม่เหมือนรุ่นก่อนๆ [วิดีโอ]",
-      "summary_th": "แม้จะมีการออกแบบที่บางมากขึ้น แต่อุปกรณ์พับได้ของ Samsung ก็ผ่านการทดสอบการทรมานซึ่งรวมถึงการโค้งงอมากกว่าที่คุณเคยเห็นในชีวิตจริง แต่ดูเหมือนว่า Galaxy Z Fold 8 UItra อาจจะบางเกินไปในที่สุด เนื่องจากเป็น Samsung รุ่นหลักเครื่องแรกที่พับได้ที่เสียชีวิตในการทดสอบการโค้งงอ"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Google AI Mode adds flight price tracking, hotel booking, & more travel tools",
-      "summary_en": "Google is rolling out a trio of updates that boost AI Mode’s travel capabilities, starting with the ability to get price alerts for flights.",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Google-AI-Mode-Flight-Price-Tracking.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/08/27/google-ai-mode-flights/",
-      "published": "Thu, 27 Aug 2026 16:00:00 +0000",
-      "title_th": "Google AI Mode เพิ่มการติดตามราคาเที่ยวบิน การจองโรงแรม และเครื่องมือการเดินทางอื่นๆ",
-      "summary_th": "Google กำลังเปิดตัวการอัปเดตสามรายการที่เพิ่มขีดความสามารถในการเดินทางของโหมด AI โดยเริ่มจากความสามารถในการรับการแจ้งเตือนราคาสำหรับเที่ยวบิน"
+      "title_th": "Galaxy Z Fold 8 Ultra finally dies in bend test, unlike past models [Video]",
+      "summary_th": "Despite their increasingly-thin designs, Samsung’s foldables have held up well to torture tests that include more bending than you’d ever see in real life. But it seems the Galaxy Z Fold 8 UItra might finally be too thin, as it’s the first mainstream Samsung foldable that’s died in a bend test."
     },
     {
       "source": "Electrek",
       "flag": "",
       "category": "ev",
-      "title_en": "130-ton electric works 4,000 feet beneath the surface of the Earth [video]",
-      "summary_en": "Swedish mining company LKAB is putting a pair of massive, 130-ton electric Scania haul trucks to work at its Malmberget iron ore mine – which happens to be more than 4,000 feet below the surface of the Earth.",
+      "title_en": "Private equity bribed Trump $1M, then got $900M for a methane terminal",
+      "summary_en": "The largest benefactor of the Interior Department’s most recent illegal wind buyout is an Australian-American billionaire whose private equity firm will receive $900 million in exchange for a stake in a methane gas terminal in Louisiana. The near-billion-dollar buyout comes after the same billionaire gave a $1 million bribe to the originator of the deal.",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/methane-flaring-roy-luck-flickr-e1787881818682.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/08/28/private-equity-gets-900m-for-a-methane-terminal-after-bribing-trump-1m/",
+      "published": "Fri, 28 Aug 2026 14:00:00 +0000",
+      "title_th": "Private equity bribed Trump $1M, then got $900M for a methane terminal",
+      "summary_th": "ผู้มีพระคุณรายใหญ่ที่สุดของการซื้อกิจการลมอย่างผิดกฎหมายล่าสุดของกระทรวงมหาดไทยคือมหาเศรษฐีชาวออสเตรเลียนอเมริกัน ซึ่งบริษัทไพรเวทอิควิตี้จะได้รับเงิน 900 ล้านดอลลาร์เพื่อแลกกับสัดส่วนการถือหุ้นในคลังก๊าซมีเทนในรัฐลุยเซียนา การซื้อกิจการมูลค่าเกือบพันล้านดอลลาร์เกิดขึ้นหลังจากที่มหาเศรษฐีคนเดียวกันติดสินบนจำนวน 1 ล้านดอลลาร์แก่ผู้สร้างข้อตกลง"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Wheel-E Podcast: Powerful Bafangs, cops on Sur-Rons, Qronge, more",
+      "summary_en": "This week on Electrek ’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes new e-bikes from Flit and SONDORS (yep, that one), testing a battery charging cabinet and the Qronge e-moto, London cops riding Sur-Rons, and more.",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/08/28/wheel-e-podcast-powerful-bafangs-cops-on-sur-rons-qronge-more/",
+      "published": "Fri, 28 Aug 2026 12:57:48 +0000",
+      "title_th": "Wheel-E Podcast: Powerful Bafangs, cops on Sur-Rons, Qronge, more",
+      "summary_th": "This week on Electrek ’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes new e-bikes from Flit and SONDORS (yep, that one), testing a battery charging cabinet and the Qronge e-moto, London cops riding Sur-Rons, and more."
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "review",
+      "title_en": "Qronge X1 Spark L Review: Does a $1,299 Sur-Ron Light Bee alternative cut the right corners?",
+      "summary_en": "If you are late to the pre-teen suburban e-moto scene, we’ve been wading through the exploding market of low-cost Sur-Ron competitors over the past months. While we can all debate the safety and legality issues these bikes bring, the reality is that they are incredibly popular and useful for those who can get around their neighborhoods and back roads and are comfortable hitting speeds up to and above 40mph. Enter the low cost $1299 Qronge X1 Spark L .",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/image_f8fc55.png?resize=1200,628",
+      "link": "https://electrek.co/2026/08/28/qronge-x1-spark-l-review-does-a-1299-sur-ron-light-bee-alternative-cut-the-right-corners/",
+      "published": "Fri, 28 Aug 2026 12:52:59 +0000",
+      "title_th": "Qronge X1 Spark L Review: Does a $1,299 Sur-Ron Light Bee alternative cut the right corners?",
+      "summary_th": "If you are late to the pre-teen suburban e-moto scene, we’ve been wading through the exploding market of low-cost Sur-Ron competitors over the past months. While we can all debate the safety and legality issues these bikes bring, the reality is that they are incredibly popular and useful for those who can get around their neighborhoods and back roads and are comfortable hitting speeds up to and above 40mph. Enter the low cost $1299 Qronge X1 Spark L ."
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Ontario airport set to spend $5.5 million on electric ground support equipment",
+      "summary_en": "California’s Ontario International Airport (ONT) has been awarded a $~4.15 million grant from the Federal Aviation Administration (FAA) to expand its zero emission infrastructure and add more electric ground support equipment (GSE).",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2025/10/Shire-pictures-1-min.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/08/28/ontario-airport-set-to-spend-5-5-million-on-electric-ground-support-equipment/",
+      "published": "Fri, 28 Aug 2026 11:41:42 +0000",
+      "title_th": "สนามบินออนแทรีโอทุ่มเงิน 5.5 ล้านดอลลาร์สหรัฐฯ ไปกับอุปกรณ์ไฟฟ้าภาคพื้นดิน",
+      "summary_th": "สนามบินนานาชาติออนทาริโอ (ONT) ของรัฐแคลิฟอร์เนียได้รับเงินสนับสนุนมูลค่าประมาณ 4.15 ล้านดอลลาร์จากสำนักงานบริหารการบินแห่งชาติ (FAA) เพื่อขยายโครงสร้างพื้นฐานที่ปล่อยมลพิษเป็นศูนย์ และเพิ่มอุปกรณ์สนับสนุนภาคพื้นดินแบบไฟฟ้า (GSE)"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "130-ton electric trucks 4,000 feet beneath the surface of the Earth [video]",
+      "summary_en": "Swedish mining company LKAB is putting a pair of massive, 130-ton GVW electric Scania haul trucks to work at its Malmberget iron ore mine – which happens to be more than 4,000 feet below the surface of the Earth.",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/electric-mining-truck.png?resize=1200,628",
       "link": "https://electrek.co/2026/08/27/130-ton-electric-works-4000-feet-beneath-the-surface-of-the-earth-video/",
       "published": "Thu, 27 Aug 2026 22:57:58 +0000",
-      "title_th": "ไฟฟ้า 130 ตันทำงานลึก 4,000 ฟุตใต้พื้นผิวโลก [วิดีโอ]",
-      "summary_th": "LKAB บริษัทเหมืองแร่ในสวีเดนกำลังติดตั้งรถบรรทุกลากไฟฟ้าขนาดใหญ่ 130 ตันของ Scania เพื่อใช้งานที่เหมืองแร่เหล็ก Malmberget ซึ่งอยู่ลึกลงไปกว่า 4,000 ฟุตใต้พื้นผิวโลก"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Kia’s new EV3 is the same price as the Niro Hybrid, and nearly $10,000 less than the Niro EV",
-      "summary_en": "The new Kia EV3 is essentially an upgraded version of the now-retired Niro EV, and it’s about $10,000 cheaper. Kia...",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Kia-EV3-price-Niro.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/08/27/kia-ev3-price-matches-niro-hybrid-10000-less-than-ev/",
-      "published": "Thu, 27 Aug 2026 22:09:42 +0000",
-      "title_th": "EV3 ใหม่ของ Kia มีราคาเดียวกับ Niro Hybrid และถูกกว่า Niro EV เกือบ 10,000 ดอลลาร์",
-      "summary_th": "Kia EV3 ใหม่นั้นเป็นรุ่นอัพเกรดของ Niro EV ที่เลิกใช้แล้วในปัจจุบัน และมีราคาถูกกว่าประมาณ 10,000 ดอลลาร์ เกีย..."
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Santa Monica goes big on electric buses with 130 fast chargers",
-      "summary_en": "Santa Monica, California’s public Big Blue Bus fleet is getting 130 DC fast-charging ports as it works toward building an entirely electric fleet by 2032.",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/BBB-Battery-Electric-Fleet.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/08/27/santa-monica-goes-big-on-electric-buses-with-130-fast-chargers/",
-      "published": "Thu, 27 Aug 2026 21:52:14 +0000",
-      "title_th": "ซานตา โมนิกา ทุ่มตลาดรถเมล์ไฟฟ้าด้วยที่ชาร์จเร็ว 130 อัน",
-      "summary_th": "ซานตา โมนิกา กองเรือ Big Blue Bus สาธารณะของรัฐแคลิฟอร์เนียกำลังได้รับพอร์ตชาร์จเร็ว 130 DC เพื่อมุ่งสู่การสร้างกองยานพาหนะไฟฟ้าทั้งหมดภายในปี 2575"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "BYD’s cheapest EV is about to get a ‘big’ sibling: Here’s what it looks like in person",
-      "summary_en": "BYD is preparing to launch a new electric hatch, positioned between the Dolphin and Seagull (Dolphin Surf) in terms of size.",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/BYD-Great-Seagull-first-look.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/08/27/byds-cheapest-ev-getting-big-sibling-first-look/",
-      "published": "Thu, 27 Aug 2026 19:39:00 +0000",
-      "title_th": "EV ที่ถูกที่สุดของ BYD กำลังจะได้พี่น้องที่ 'ใหญ่': นี่คือสิ่งที่ดูเหมือนต่อหน้า",
-      "summary_th": "BYD กำลังเตรียมที่จะเปิดตัวฟักไฟฟ้าแบบใหม่ ซึ่งวางตำแหน่งระหว่าง Dolphin และ Seagull (Dolphin Surf) ในแง่ของขนาด"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "BYD installed 10,000 hyper-fast 1,500kW chargers in just 5 months",
-      "summary_en": "BYD announced that it has already installed 10,000 of its 1.5 megawatt “flash charging” stations, despite only starting earlier this year. The number puts it halfway to its lofty goal of 20,000 stations by year’s end – and just about on pace to hit it.",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/BYD-flagship-Han-luxury-EV-flash-charge.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/08/27/byd-installed-10000-hyper-fast-1500kw-chargers-in-just-5-months/",
-      "published": "Thu, 27 Aug 2026 19:31:04 +0000",
-      "title_th": "BYD ติดตั้งเครื่องชาร์จความเร็วสูง 1,500kW จำนวน 10,000 เครื่องในเวลาเพียง 5 เดือน",
-      "summary_th": "BYD ประกาศว่าได้ติดตั้งสถานี \"ชาร์จแบบแฟลช\" ขนาด 1.5 เมกะวัตต์จำนวน 10,000 แห่งแล้ว แม้จะเพิ่งเริ่มเมื่อต้นปีนี้ก็ตาม ตัวเลขดังกล่าวทำให้บรรลุเป้าหมายที่ตั้งไว้สูงถึง 20,000 สถานีภายในสิ้นปีนี้ และเกือบจะบรรลุเป้าหมายแล้ว"
+      "title_th": "รถบรรทุกไฟฟ้า 130 ตัน ลึก 4,000 ฟุตใต้พื้นผิวโลก [วิดีโอ]",
+      "summary_th": "LKAB บริษัทเหมืองแร่ในสวีเดนกำลังติดตั้งรถบรรทุกลากไฟฟ้า Scania ขนาดใหญ่ 130 ตันคู่หนึ่งเพื่อทำงานที่เหมืองแร่เหล็ก Malmberget ซึ่งอยู่ลึกลงไปกว่า 4,000 ฟุตใต้พื้นผิวโลก"
     }
   ],
   "indices": [
@@ -608,65 +608,65 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 227.98,
-      "change": 18.32,
-      "change_pct": 8.74
+      "price": 225.45,
+      "change": -2.53,
+      "change_pct": -1.11
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 354.81,
-      "change": 8.99,
-      "change_pct": 2.6
+      "price": 352.43,
+      "change": -2.38,
+      "change_pct": -0.67
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 340.65,
-      "change": -1.35,
-      "change_pct": -0.39
+      "price": 345.97,
+      "change": 5.32,
+      "change_pct": 1.56
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 505.06,
-      "change": 8.69,
-      "change_pct": 1.75
+      "price": 512.44,
+      "change": 7.38,
+      "change_pct": 1.46
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 314.58,
-      "change": 1.13,
-      "change_pct": 0.36
+      "price": 319.58,
+      "change": 5.01,
+      "change_pct": 1.59
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 256.26,
-      "change": -4.02,
-      "change_pct": -1.54
+      "price": 263.64,
+      "change": 7.38,
+      "change_pct": 2.88
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 571.1,
-      "change": -5.04,
-      "change_pct": -0.87
+      "price": 580.78,
+      "change": 9.68,
+      "change_pct": 1.69
     },
     {
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 254.0,
-      "change": 6.0,
-      "change_pct": 2.42
+      "price": 246.0,
+      "change": -8.0,
+      "change_pct": -3.15
     }
   ],
   "reviews": [
@@ -718,7 +718,7 @@
       "link": "https://www.youtube.com/shorts/mB0r2bWS-jY",
       "thumbnail": "https://i2.ytimg.com/vi/mB0r2bWS-jY/hqdefault.jpg",
       "published": "2026-08-27T14:33:03+00:00",
-      "title_th": "ความได้เปรียบในการแข่งขัน…"
+      "title_th": "ความได้เปรียบในการแข่งขัน..."
     },
     {
       "channel": "Unbox Therapy",
@@ -733,32 +733,42 @@
     {
       "channel": "Beartai",
       "country": "TH",
-      "title_en": "มีลูกปุ๊บ เปลี่ยนปั๊บ ?",
-      "video_id": "EFTyCFgeCWI",
-      "link": "https://www.youtube.com/shorts/EFTyCFgeCWI",
-      "thumbnail": "https://i2.ytimg.com/vi/EFTyCFgeCWI/hqdefault.jpg",
-      "published": "2026-08-27T23:00:37+00:00",
-      "title_th": "มีลูกปุ๊บ เปลี่ยนปั๊บ ?"
+      "title_en": "'การุณยฆาต' อยากอยู่ให้สบายใจ หรือจากไปแบบสมยอม ? | Go with The Four",
+      "video_id": "hRGS0_doHhM",
+      "link": "https://www.youtube.com/watch?v=hRGS0_doHhM",
+      "thumbnail": "https://i1.ytimg.com/vi/hRGS0_doHhM/hqdefault.jpg",
+      "published": "2026-08-28T11:00:20+00:00",
+      "title_th": "'การุณยฆาต' อยากอยู่ให้สบายใจ หรือจากไปแบบสมยอม ? | Go with The Four"
     },
     {
       "channel": "Beartai",
       "country": "TH",
-      "title_en": "รีวิว REDMI Note 17 Pro MAX 5G แบต 10,000 mAh อึดน้อง ๆ  Power Bank",
-      "video_id": "jEUn97qW4HM",
-      "link": "https://www.youtube.com/watch?v=jEUn97qW4HM",
-      "thumbnail": "https://i3.ytimg.com/vi/jEUn97qW4HM/hqdefault.jpg",
-      "published": "2026-08-27T12:00:21+00:00",
-      "title_th": "รีวิว REDMI Note 17 Pro MAX 5G แบต 10,000 mAh อึดน้อง ๆ  Power Bank"
+      "title_en": "แดชบอร์ดเดียว ได้ทั้งอาคาร !",
+      "video_id": "yUCbEGePk4k",
+      "link": "https://www.youtube.com/shorts/yUCbEGePk4k",
+      "thumbnail": "https://i2.ytimg.com/vi/yUCbEGePk4k/hqdefault.jpg",
+      "published": "2026-08-28T07:00:31+00:00",
+      "title_th": "แดชบอร์ดเดียว ได้ทั้งอาคาร !"
     },
     {
       "channel": "Beartai",
       "country": "TH",
-      "title_en": "DNA File รหัสลับของชีวิต EP.1 ทุกชีวิตมีบาร์โคด",
-      "video_id": "Wz_85VTY9gk",
-      "link": "https://www.youtube.com/watch?v=Wz_85VTY9gk",
-      "thumbnail": "https://i4.ytimg.com/vi/Wz_85VTY9gk/hqdefault.jpg",
-      "published": "2026-08-27T10:00:29+00:00",
-      "title_th": "DNA File รหัสลับของชีวิต EP.1 ทุกชีวิตมีบาร์โคด"
+      "title_en": "BDAY UN-CUT LIVE CONCERT 4 ศิลปิน 4 คอนเสิร์ตเดี่ยว บนเวทีเดียวกัน",
+      "video_id": "1ILrAoV8qOI",
+      "link": "https://www.youtube.com/shorts/1ILrAoV8qOI",
+      "thumbnail": "https://i2.ytimg.com/vi/1ILrAoV8qOI/hqdefault.jpg",
+      "published": "2026-08-28T03:10:21+00:00",
+      "title_th": "BDAY UN-CUT LIVE CONCERT 4 ศิลปิน 4 คอนเสิร์ตเดี่ยว บนเวทีเดียวกัน"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รีวิว HUAWEI MatePad Air แท็บเล็ต บางเบา มี AI ทำงานระดับ PC (มีคีย์บอร์ด + ปากกาครบ)",
+      "video_id": "rGbA4PkxiZQ",
+      "link": "https://www.youtube.com/watch?v=rGbA4PkxiZQ",
+      "thumbnail": "https://i3.ytimg.com/vi/rGbA4PkxiZQ/hqdefault.jpg",
+      "published": "2026-08-28T13:00:20+00:00",
+      "title_th": "รีวิว HUAWEI MatePad Air แท็บเล็ต บางเบา มี AI ทำงานระดับ PC (มีคีย์บอร์ด + ปากกาครบ)"
     },
     {
       "channel": "Droidsans",
@@ -779,16 +789,6 @@
       "thumbnail": "https://i2.ytimg.com/vi/uHz0wKfcHdM/hqdefault.jpg",
       "published": "2026-08-27T11:33:33+00:00",
       "title_th": "รีวิว Redmi Note 17 Pro Max 5G มือถือสุดถึก ทนทานกันน้ำ IP69K แบตอึดจัดเต็ม 10,000mAh !!"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "แบบนี้ด้วยหรอ 😲 ทีวีพกพา ไม่ต้องเสียบปลั๊ก  มีแบตเตอรี่ในตัว #ทีวีพกพา #TV #แคมป์ปิ้ง",
-      "video_id": "T_EYaX6iLGQ",
-      "link": "https://www.youtube.com/shorts/T_EYaX6iLGQ",
-      "thumbnail": "https://i1.ytimg.com/vi/T_EYaX6iLGQ/hqdefault.jpg",
-      "published": "2026-08-25T13:53:56+00:00",
-      "title_th": "แบบนี้ด้วยหรอ 😲 ทีวีพกพา ไม่ต้องเสียบปลั๊ก  มีแบตเตอรี่ในตัว #ทีวีพกพา #TV #แคมป์ปิ้ง"
     }
   ]
 }
