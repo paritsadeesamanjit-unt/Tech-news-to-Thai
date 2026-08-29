@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-08-29T15:50:42.034759+00:00",
+  "generated_at": "2026-08-29T20:09:22.385108+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "summary_en": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "published": "Sat, 29 Aug 2026 18:41:59 +0000",
+      "title_th": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "summary_th": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+      "summary_en": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/TechBBQ.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "published": "Sat, 29 Aug 2026 17:51:10 +0000",
+      "title_th": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+      "summary_th": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "summary_en": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Vijay-Pande.png?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "published": "Sat, 29 Aug 2026 17:36:47 +0000",
+      "title_th": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "summary_th": "Vijay Pande — ซึ่งออกจากการฝึกปฏิบัติด้านเทคโนโลยีชีวภาพมูลค่าประมาณ 4 พันล้านดอลลาร์ของ a16z ในปีที่แล้วเพื่อเริ่มต้น VZVC ที่ใช้ AI ซึ่งมีขนาดเล็กกว่ามาก — พูดถึงว่าทำไมในที่สุดชีววิทยาจึงเปลี่ยนจากวิทยาศาสตร์ \"การค้นพบ\" ไปเป็น \"วิศวกรรม\" ทำไมการทดลองทางคลินิกยังคงมีราคาแพงอย่างไร้ความปราณี และทำไมเขาถึงคิดว่าชุดข้อมูลแบบเปิดที่ใช้ร่วมกัน (ไม่ใช่ชุดข้อมูลที่ปิดล้อม) คือสิ่งที่จะทำให้ AI เปลี่ยนแปลงการแพทย์ได้จริง"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Hollywood celebs are getting into microdrama apps",
+      "summary_en": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/12/shutterstock_movie_director.jpg?resize=1200,717",
+      "link": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
+      "published": "Sat, 29 Aug 2026 16:10:00 +0000",
+      "title_th": "ดาราฮอลลีวูดกำลังเข้าสู่แอปไมโครดราม่า",
+      "summary_th": "ดาราดังฮอลลีวูดหลายคนเลิกใช้เช็คแปดหลักและฉากภาพยนตร์แปลกใหม่เพื่อสร้างรูปแบบที่เพิ่มขึ้น: ไมโครดรามา"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -11,56 +59,44 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/theragun-sense.png?resize=1200,788",
       "link": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
       "published": "Sat, 29 Aug 2026 14:00:00 +0000",
-      "title_th": "Theragun Sense ทำให้การฟื้นตัวในแต่ละวันเป็นเรื่องง่ายอย่างน่าประหลาดใจ",
-      "summary_th": "เมื่อวัย 20 ของฉันกำลังจะสิ้นสุดลงในปลายปีนี้ ฉันเข้าสู่วัยที่การนอนผิดท่าหรือยืดเส้นยืดสายมากเกินไปอาจทำให้เกิดอาการปวดเมื่อยได้ ฉันค่อนข้างสงสัยปืนนวดมาโดยตลอด ส่วนใหญ่เป็นเพราะฉันได้ลองใช้ปืนยี่ห้ออื่นมาบ้างแล้วและเพิ่งคิดว่า […]"
+      "title_th": "The Theragun Sense makes everyday recovery surprisingly easy",
+      "summary_th": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just assumed […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Nvidia’s AI advantage is moving beyond the GPU",
-      "summary_en": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "published": "Sat, 29 Aug 2026 13:00:00 +0000",
-      "title_th": "ข้อได้เปรียบด้าน AI ของ Nvidia กำลังก้าวไปไกลกว่า GPU",
-      "summary_th": "ระบบศูนย์ข้อมูลเจเนอเรชั่นใหม่กำลังเพิ่มประสิทธิภาพด้วยการควบคุมการรับส่งข้อมูลที่ชาญฉลาดยิ่งขึ้น แทนที่จะเพิ่มรอบของโปรเซสเซอร์"
+      "category": "software",
+      "title_en": "Alt-right troll Milo Yiannopoulos has been deported",
+      "summary_en": "Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the US legally in 2019, but overstayed his visa. After he failed to appear in court for an immigration hearing, […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13604714/milopatreon.jpeg?quality=90&strip=all&crop=0%2C7.6388888888889%2C100%2C69.808027923211&w=1200",
+      "link": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
+      "published": "2026-08-29T15:49:59-04:00",
+      "title_th": "Alt-right troll Milo Yiannopoulos has been deported",
+      "summary_th": "Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the US legally in 2019, but overstayed his visa. After he failed to appear in court for an immigration hearing, […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "ev",
-      "title_en": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
-      "summary_en": "Technical progress has encouraged a new batch of companies to jump in on the promise of profits from humanoid robots. And they're all Chinese automakers.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/xpeng-robot-Getty.jpg?resize=1200,848",
-      "link": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
-      "published": "Fri, 28 Aug 2026 23:24:27 +0000",
-      "title_th": "ผู้ผลิตรถยนต์สัญชาติจีนกำลังติดตามการเดิมพันของ Tesla ที่ว่าหุ่นยนต์จะเป็นเครื่องจักรที่ทำกำไรได้มหาศาลต่อไป",
-      "summary_th": "ความก้าวหน้าทางเทคนิคได้กระตุ้นให้บริษัทชุดใหม่ก้าวกระโดดตามคำมั่นสัญญาในการทำกำไรจากหุ่นยนต์ฮิวแมนนอยด์ และพวกเขาเป็นผู้ผลิตรถยนต์สัญชาติจีนทั้งหมด"
+      "category": "software",
+      "title_en": "Sony Music and Warner Chappell are suing Anthropic",
+      "summary_en": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "published": "2026-08-29T14:19:53-04:00",
+      "title_th": "Sony Music and Warner Chappell are suing Anthropic",
+      "summary_th": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Is the best way to watch a movie on a pair of sunglasses?",
-      "summary_en": "Are XREAL's smart glasses the way of the future for home entertainment?",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/P1110099.jpg?resize=1200,901",
-      "link": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
-      "published": "Fri, 28 Aug 2026 22:42:48 +0000",
-      "title_th": "วิธีที่ดีที่สุดในการชมภาพยนตร์โดยสวมแว่นกันแดดคือ?",
-      "summary_th": "แว่นตาอัจฉริยะของ XREAL คือหนทางแห่งอนาคตสำหรับความบันเทิงภายในบ้านหรือไม่?"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "summary_en": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
-      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "published": "Fri, 28 Aug 2026 20:24:11 +0000",
-      "title_th": "Neocloud Lambda มีหนี้ 1 พันล้านดอลลาร์เพื่อซื้อชิปเพิ่ม",
-      "summary_th": "Neocloud Lambda ระดมหนี้ภาคเอกชนมูลค่า 1 พันล้านดอลลาร์เพื่อซื้อชิป Nvidia AI และให้ Microsoft ให้เช่า นับเป็นเงินกู้ล่าสุดจำนวนหนึ่ง ซึ่งตอกย้ำถึงต้นทุนที่สูงของการเติบโตอย่างรวดเร็วของ AI"
+      "category": "software",
+      "title_en": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
+      "summary_en": "Joseph Fink is the cocreator and cowriter of Welcome to Night Vale, arguably the most important fiction podcast ever. He's also the creator of the noir podcast Unlicensed and Alice Isn't Dead, which takes some of the conspiratorial cosmic horror of Night Vale and turns it into fodder for a more serious series about relationships, […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/unnamed.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango",
+      "published": "2026-08-29T11:00:00-04:00",
+      "title_th": "Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango",
+      "summary_th": "Joseph Fink เป็นผู้สร้างร่วมและผู้เขียนร่วมของ Welcome to Night Vale ซึ่งเป็นพอดแคสต์นิยายที่สำคัญที่สุดเท่าที่เคยมีมา เขายังเป็นผู้สร้างพอดแคสต์นัวร์ Unlicensed และ Alice Isn't Dead ซึ่งนำเอาความสยองขวัญในจักรวาลสมคบคิดของ Night Vale มาเปลี่ยนให้กลายเป็นอาหารสำหรับซีรีส์ที่จริงจังมากขึ้นเกี่ยวกับความสัมพันธ์ […]"
     },
     {
       "source": "The Verge",
@@ -71,8 +107,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/samsung-galaxy-z-flip-8-review-13.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "link": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review",
       "published": "2026-08-29T09:00:00-04:00",
-      "title_th": "Galaxy Z Flip 8 จะทำงานได้ดีที่สุดเมื่อเกิดการเสียดสี",
-      "summary_th": "คุณต้องการอะไรจากโทรศัพท์ฝาพับเมื่อปิดอยู่? อินเทอร์เฟซที่เรียบง่าย อาจเป็นการแจ้งเตือนและวิดเจ็ตหนึ่งหรือสองอันสำหรับการจัดการพื้นฐาน หรือประสบการณ์ Android ที่เต็มเปี่ยมลดขนาดลงสำหรับฟอร์มแฟคเตอร์ Flip เป็นเวลาหลายปีที่ Samsung ยืนกรานในเรื่องแรกแม้ในขณะที่แฟน ๆ บางคน - และ Razr ก็เป็นคู่แข่งกับ Motorola […]"
+      "title_th": "The Galaxy Z Flip 8 is at its best when there’s friction",
+      "summary_th": "What do you want from a flip phone when it's closed? A simple interface, perhaps notifications and a widget or two, for handling the basics? Or a fully fledged Android experience shrunk down for the Flip form factor? For years, Samsung has insisted on the former, even as some fans - and Razr rival Motorola […]"
     },
     {
       "source": "The Verge",
@@ -87,42 +123,6 @@
       "summary_th": "เนื่องจากเครื่องมือและแพลตฟอร์มที่เน้นด้านเสียงมีความซับซ้อนมากขึ้น อินเทอร์เน็ตจึงเต็มไปด้วยเพลงที่สร้างโดย AI มากขึ้น ซึ่งท่วงทำนองและเสียงร้องได้มาจากอัลกอริธึมผลงานของศิลปินที่เป็นมนุษย์ ในขณะที่บางคนที่เผยแพร่เนื้อหาประเภทนี้ในทันทีนั้นเป็นเจ้าของการใช้ AI แต่คนอื่น ๆ ก็ปฏิเสธการใช้เทคโนโลยี […]"
     },
     {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Google further buries search results under AI mode",
-      "summary_en": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typical list of links from a search much farther down Google's results page; instead of seeing part of an AI Overview with […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
-      "published": "2026-08-28T18:48:11-04:00",
-      "title_th": "Google ฝังผลการค้นหาไว้ในโหมด AI เพิ่มเติม",
-      "summary_th": "ขณะนี้ Google กำลังขยายสรุปการค้นหาด้วย AI โดยอัตโนมัติที่ด้านบนของหน้าผลลัพธ์สำหรับการค้นหาบางส่วน ตามที่รายงานโดย Search Engine Roundtable การเปลี่ยนแปลงดังกล่าวจะผลักดันรายการลิงก์ทั่วไปจากการค้นหาที่อยู่ไกลออกไปในหน้าผลลัพธ์ของ Google แทนที่จะเห็นส่วนหนึ่งของภาพรวม AI ด้วย […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Xbox CEO calls Project Helix a ‘family of devices’",
-      "summary_en": "According to Xbox CEO Asha Sharma, Project Helix, which she announced in March as a codename for Microsoft's \"next generation console\" - phrasing that seemingly implied a singular device - will actually be a \"family\" of devices.\" \"We've been hard at work on a great next generation and a great family of devices for Helix, […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
-      "published": "2026-08-28T18:03:13-04:00",
-      "title_th": "CEO Xbox เรียก Project Helix ว่าเป็น 'ตระกูลอุปกรณ์'",
-      "summary_th": "ตามที่ Asha Sharma CEO ของ Xbox กล่าว Project Helix ซึ่งเธอได้ประกาศเมื่อเดือนมีนาคมว่าเป็นชื่อรหัสสำหรับ \"คอนโซลรุ่นต่อไป\" ของ Microsoft ซึ่งเป็นถ้อยคำที่ดูเหมือนจะสื่อถึงอุปกรณ์เอกพจน์ - จริงๆ แล้วจะเป็น \"ครอบครัว\" ของอุปกรณ์ \"\" เราทำงานอย่างหนักกับรุ่นต่อไปที่ยอดเยี่ยมและเป็นตระกูลอุปกรณ์ที่ยอดเยี่ยมสำหรับ Helix […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate",
-      "summary_en": "Amazon and Best Buy have the TCL QM7L mini-LED TV on sale for as low as $797.99 for the 55-inch model, a $200 discount from the usual price. We spotted scaling discounts on larger sizes as well, although Amazon already listed low stock on the 65-inch version. While OLED televisions are great for deep black […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/TCL-QM7L-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale",
-      "published": "2026-08-28T13:03:07-04:00",
-      "title_th": "ประหยัดหลายร้อยเมื่อซื้อทีวี TCL mini-LED ที่มีจุดควอนตัมและอัตรารีเฟรชที่สูง",
-      "summary_th": "Amazon และ Best Buy มีทีวี LED ขนาดเล็กของ TCL QM7L ลดราคาเหลือเพียง 797.99 ดอลลาร์สำหรับรุ่น 55 นิ้ว ส่วนลด 200 ดอลลาร์จากราคาปกติ เราพบว่ามีส่วนลดสำหรับขนาดที่ใหญ่ขึ้นเช่นกัน แม้ว่า Amazon จะแสดงรายการสต็อกต่ำในรุ่น 65 นิ้วแล้วก็ตาม ในขณะที่โทรทัศน์ OLED นั้นยอดเยี่ยมสำหรับสีดำเข้ม […]"
-    },
-    {
       "source": "Ars Technica",
       "flag": "US",
       "category": "software",
@@ -132,7 +132,7 @@
       "link": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
       "published": "Fri, 28 Aug 2026 11:15:05 +0000",
       "title_th": "เจ้าหน้าที่จับกุม 2 สมาชิกกลุ่มแฮ็ก TeamPCP ที่มีผลงานมากมาย",
-      "summary_th": "กลุ่มดังกล่าวแพร่ระบาดไปยังองค์กรมากกว่า 1,000 แห่งในแคมเปญโจมตีห่วงโซ่อุปทานอย่างไม่หยุดยั้ง"
+      "summary_th": "กลุ่มนี้แพร่เชื้อไปยังองค์กรมากกว่า 1,000 แห่งในแคมเปญโจมตีห่วงโซ่อุปทานอย่างไม่หยุดยั้ง"
     },
     {
       "source": "Ars Technica",
@@ -180,7 +180,7 @@
       "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
       "published": "Fri, 21 Aug 2026 13:11:35 +0000",
       "title_th": "Waymo เพิ่มการใช้จ่ายสองเท่าในการล็อบบี้ในการต่อสู้ robotaxi กับ Uber",
-      "summary_th": "บริษัทที่เป็นเจ้าของ Alphabet กำลังพยายามชักชวนหน่วยงานกำกับดูแลของสหรัฐฯ ให้เปิดทางสำหรับบริการแท็กซี่ไร้คนขับเต็มรูปแบบ"
+      "summary_th": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services."
     },
     {
       "source": "Wired",
@@ -191,8 +191,8 @@
       "image": "https://media.wired.com/photos/6a925150bb3a85e785f50cc3/master/pass/Review--Soundcore-Liberty-5-Pro.jpg",
       "link": "https://www.wired.com/review/soundcore-liberty-5-pro/",
       "published": "Sat, 29 Aug 2026 11:00:00 +0000",
-      "title_th": "รีวิว Soundcore Liberty 5 Pro: ผู้เชี่ยวชาญด้านการโทร",
-      "summary_th": "หูฟัง Liberty 5 Pro ของ Soundcore เป็นผู้เชี่ยวชาญในด้านคุณภาพเสียงและราคาต่ำกว่า 200 เหรียญ"
+      "title_th": "Soundcore Liberty 5 Pro Review: Master of Phone Calls",
+      "summary_th": "Soundcore’s Liberty 5 Pro earbuds are a jack-of-all-trades, a master in voice quality, and somehow cost less than $200."
     },
     {
       "source": "Wired",
@@ -204,7 +204,7 @@
       "link": "https://www.wired.com/story/nasas-nancy-grace-roman-space-telescope-coronagraph-leap/",
       "published": "Sat, 29 Aug 2026 10:30:00 +0000",
       "title_th": "กล้องโทรทรรศน์อวกาศโรมัน Nancy Grace ของ NASA มีการก้าวกระโดดทางเทคโนโลยีที่ซ่อนอยู่",
-      "summary_th": "นักดาราศาสตร์จะทดสอบอุปกรณ์ซึ่งหากประสบความสำเร็จ วันหนึ่งจะมีความสำคัญต่อการค้นพบดาวเคราะห์ที่มีลักษณะคล้ายโลก"
+      "summary_th": "Astronomers will test equipment that, if it’s successful, will one day be crucial for discovering Earthlike planets."
     },
     {
       "source": "Wired",
@@ -215,8 +215,8 @@
       "image": "https://media.wired.com/photos/6a921e363b3f20c2f80986f3/master/pass/Security-News-This-Week-The-AI-Cybersecurity-Apocalypse-Is-Coming.jpg",
       "link": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
       "published": "Sat, 29 Aug 2026 10:30:00 +0000",
-      "title_th": "Apocalypse ด้านความปลอดภัยทางไซเบอร์กำลังมาใน 'เดือน' ยักษ์ใหญ่ AI เตือน",
-      "summary_th": "นอกจากนี้: แฮกเกอร์กำหนดเป้าหมายระบบน้ำมากกว่า 100 แห่งในสหรัฐอเมริกา ICE สั่งให้สุนัขหุ่นยนต์ และคุณจะไม่มีทางเดาได้เลยว่า “MrChildPorn” ถูกจับกุมในข้อหาอะไร"
+      "title_th": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+      "summary_th": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for."
     },
     {
       "source": "Wired",
@@ -227,8 +227,8 @@
       "image": "https://media.wired.com/photos/6a915ae02fa9a47ca7d480c1/master/pass/RunAChatbot.jpg",
       "link": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
       "published": "Sat, 29 Aug 2026 10:00:00 +0000",
-      "title_th": "วิธีเรียกใช้ Chatbot บนคอมพิวเตอร์ของคุณเอง",
-      "summary_th": "การติดตั้งโมเดลภาษาขนาดใหญ่บนคอมพิวเตอร์ส่วนบุคคลของคุณจะช่วยให้คุณมีผู้ช่วยดิจิทัลที่มีประโยชน์ซึ่งจะไม่กระทบต่อความเป็นส่วนตัวของข้อมูลของคุณ"
+      "title_th": "How to Run a Chatbot on Your Own Computer",
+      "summary_th": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy."
     },
     {
       "source": "Wired",
@@ -239,8 +239,8 @@
       "image": "https://media.wired.com/photos/6a919be132e307274e3f30e1/master/pass/1398820822",
       "link": "https://www.wired.com/story/psilocybin-might-make-your-brain-live-in-the-moment/",
       "published": "Sat, 29 Aug 2026 09:00:00 +0000",
-      "title_th": "Psilocybin อาจทำให้สมองของคุณมีชีวิตชีวาในขณะนั้น",
-      "summary_th": "อาการประสาทหลอนมักเกี่ยวข้องกับการตัดขาดจากความเป็นจริง แต่การศึกษาเกี่ยวกับการสร้างภาพระบบประสาทเมื่อเร็ว ๆ นี้พบว่าแอลเอสแอลสามารถทำให้การทำงานของสมองของเราเชื่อมโยงกับโลกรอบตัวเรามากขึ้น"
+      "title_th": "Psilocybin Might Make Your Brain Live in the Moment",
+      "summary_th": "Psychedelics are often associated with disconnecting from reality, but a recent neuroimaging study found that psilocybin can actually make our brain activity more connected to the world around us."
     },
     {
       "source": "MIT Technology Review",
@@ -251,7 +251,7 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/260824_youngblood_v2.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
       "published": "Fri, 28 Aug 2026 12:35:27 +0000",
-      "title_th": "ดาวน์โหลด: ยาต่อต้านวัยที่เป็นความลับและเข้าร่วมโรงไฟฟ้าเสมือนจริง",
+      "title_th": "The Download: a secretive antiaging drug and joining virtual power plants",
       "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี สตาร์ทอัพอ้างว่าพบยาที่ทำให้เลือดของคุณอ่อนเยาว์ —Antonio Regalado ฉันรู้ว่าฉันจะกลายเป็น “ผู้มีอิทธิพลในการมีอายุยืนยาว” อย่างเป็นทางการเมื่อบริษัทชื่อ Generation Lab เสนอ..."
     },
     {
@@ -300,67 +300,67 @@
       "link": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
       "published": "Thu, 27 Aug 2026 10:00:00 +0000",
       "title_th": "รถบรรทุกไฟฟ้ารุ่นใหม่ของ Slate Auto เป็นสิ่งที่ชาวอเมริกัน EV ต้องการหรือไม่?",
-      "summary_th": "EV คิดเป็นสัดส่วนต่ำกว่า 10% ของยอดขายรถยนต์ใหม่ทั้งหมดในสหรัฐอเมริกา และตัวเลขดังกล่าวกำลังลดลง จากมุมมองของสภาพภูมิอากาศ นั่นค่อนข้างน่าหดหู่ โดยเฉพาะอย่างยิ่งเนื่องจากภาคการขนส่งเป็นแหล่งปล่อยก๊าซเรือนกระจกที่ใหญ่ที่สุดแหล่งเดียวในประเทศ สิ่งหนึ่งที่สามารถช่วยพลิกสถานการณ์นั้นได้? รถบรรทุกคันใหม่ของ Slate Auto—ยานพาหนะที่ดูเหมือน..."
+      "summary_th": "EV คิดเป็นสัดส่วนต่ำกว่า 10% ของยอดขายรถยนต์ใหม่ทั้งหมดในสหรัฐอเมริกา และตัวเลขดังกล่าวกำลังลดลง จากมุมมองของสภาพภูมิอากาศ นั่นค่อนข้างน่าหดหู่ โดยเฉพาะอย่างยิ่งเนื่องจากภาคการขนส่งเป็นแหล่งปล่อยก๊าซเรือนกระจกที่ใหญ่ที่สุดแหล่งเดียวในประเทศ สิ่งหนึ่งที่สามารถช่วยพลิกสถานการณ์ได้? รถบรรทุกคันใหม่ของ Slate Auto—ยานพาหนะที่ดูเหมือน..."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "OpenAI will pull its models from Cursor due to SpaceXAI acquisition",
-      "summary_en": "OpenAI is planning to cut off Cursor's access to its models on November 12, 2026.",
-      "image": "https://www.engadget.com/img/gallery/openai-will-pull-its-models-from-cursor-due-to-spacexai-acquisition/l-intro-1788015464.jpg",
-      "link": "https://www.engadget.com/2246969/openai-pull-its-models-from-cursor-due-to-spacexai-acquisition/",
-      "published": "Sat, 29 Aug 2026 14:58:40 +0000",
-      "title_th": "OpenAI จะดึงโมเดลออกจาก Cursor เนื่องจากการเข้าซื้อกิจการ SpaceXAI",
-      "summary_th": "OpenAI กำลังวางแผนที่จะตัดการเข้าถึงโมเดลของ Cursor ในวันที่ 12 พฤศจิกายน 2026"
+      "title_en": "Sony and Warner sue Anthropic for 'blatant violation' of copyright law",
+      "summary_en": "The two music publishing groups claim thousands of instances of copyright infringement.",
+      "image": "https://www.engadget.com/img/gallery/sony-and-warner-sue-anthropic-for-blatant-violation-of-copyright-law/l-intro-1788029514.jpg",
+      "link": "https://www.engadget.com/2246997/sony-warner-sue-anthropic-for-blatant-violation-of-copyright-law/",
+      "published": "Sat, 29 Aug 2026 18:52:22 +0000",
+      "title_th": "Sony และ Warner ฟ้อง Anthropic ฐานละเมิดกฎหมายลิขสิทธิ์อย่างโจ่งแจ้ง",
+      "summary_th": "กลุ่มผู้เผยแพร่เพลงทั้งสองกลุ่มอ้างว่ามีการละเมิดลิขสิทธิ์นับพันกรณี"
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Why clearing cache won't always speed up your devices",
-      "summary_en": "Clearing cache is a handy troubleshooting step, but you shouldn't use it all the time. Reckless use can actually slow your apps and devices down for a while.",
-      "image": "https://www.engadget.com/img/gallery/why-clearing-cache-wont-always-speed-up-your-devices/l-intro-1787585286.jpg",
-      "link": "https://www.engadget.com/2242753/why-clearing-cache-wont-always-speed-up-devices/",
-      "published": "Sat, 29 Aug 2026 14:30:00 +0000",
-      "title_th": "เหตุใดการล้างแคชจึงไม่ทำให้อุปกรณ์ของคุณเร็วขึ้นเสมอไป",
-      "summary_th": "การล้างแคชเป็นขั้นตอนการแก้ปัญหาที่สะดวก แต่คุณไม่ควรใช้งานตลอดเวลา การใช้งานโดยประมาทอาจทำให้แอปและอุปกรณ์ของคุณช้าลงได้ระยะหนึ่ง"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "review",
-      "title_en": "Engadget review recap: Google's Pixel 11 series and more",
-      "summary_en": "A roundup of recent reviews from Engadget.",
-      "image": "https://www.engadget.com/img/gallery/engadget-review-recap-google-pixel-11-series-and-more/l-intro-1787938082.jpg",
-      "link": "https://www.engadget.com/2246542/engadget-review-recap-googles-pixel-11-series-and-more/",
-      "published": "Sat, 29 Aug 2026 14:00:00 +0000",
-      "title_th": "สรุปรีวิว Engadget: ซีรีส์ Pixel 11 ของ Google และอีกมากมาย",
-      "summary_th": "สรุปบทวิจารณ์ล่าสุดจาก Engadget"
+      "title_en": "Why would you pay $359 for the most expensive Whoop membership?",
+      "summary_en": "Whoop Life is the highest tier of membership to the Whoop platform, and it does offer more data than the less expensive levels.",
+      "image": "https://www.engadget.com/img/gallery/why-would-you-pay-359-for-the-most-expensive-whoop-membership/l-intro-1787317096.jpg",
+      "link": "https://www.engadget.com/2242774/most-expensive-whoop-membership-life-why-pay/",
+      "published": "Sat, 29 Aug 2026 18:30:00 +0000",
+      "title_th": "ทำไมคุณถึงต้องจ่ายเงิน $359 สำหรับการเป็นสมาชิก Whoop ที่แพงที่สุด?",
+      "summary_th": "Whoop Life เป็นสมาชิกระดับสูงสุดของแพลตฟอร์ม Whoop และให้ข้อมูลมากกว่าระดับที่ถูกกว่า"
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "What You Should Look For In A USB To Bluetooth Adapter For PC",
-      "summary_en": "Not all adapters handle Bluetooth devices equally well. The right blend of speed, range, and reliability keeps your wireless gear working the way you expect.",
-      "image": "https://www.engadget.com/img/gallery/what-you-should-look-for-in-a-usb-to-bluetooth-adapter-for-pc/l-intro-1787329456.jpg",
-      "link": "https://www.engadget.com/2242750/usb-to-bluetooth-adapter-for-pc-what-should-look-for/",
-      "published": "Sat, 29 Aug 2026 13:30:00 +0000",
-      "title_th": "สิ่งที่คุณควรมองหาในอะแดปเตอร์ USB เป็น Bluetooth สำหรับพีซี",
-      "summary_th": "อะแดปเตอร์บางตัวอาจไม่รองรับอุปกรณ์ Bluetooth ได้ดีเท่าๆ กัน การผสมผสานความเร็ว ระยะ และความน่าเชื่อถือที่ลงตัวช่วยให้อุปกรณ์ไร้สายของคุณทำงานได้อย่างที่คุณคาดหวัง"
+      "title_en": "US appeals court sides with Nevada in legal fight with Kalshi",
+      "summary_en": "The ruling shoots down Kalshi's attempt to block the state from regulating its platform.",
+      "image": "https://www.engadget.com/img/gallery/us-appeals-court-sides-with-nevada-in-legal-fight-with-kalshi/l-intro-1788025747.jpg",
+      "link": "https://www.engadget.com/2246988/us-appeals-court-sides-with-nevada-in-legal-fight-with-kalshi/",
+      "published": "Sat, 29 Aug 2026 17:55:00 +0000",
+      "title_th": "สหรัฐฯ ยื่นอุทธรณ์ฝ่ายศาลกับเนวาดาเพื่อต่อสู้ทางกฎหมายกับคาลชี",
+      "summary_th": "คำตัดสินดังกล่าวเป็นการทำลายความพยายามของ Kalshi ที่จะขัดขวางรัฐไม่ให้ควบคุมแพลตฟอร์มของตน"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "What's the difference between TPU vs. GPU?",
+      "summary_en": "Google's Pixel 11 phone uses a Tensor G6 processor with a powerful TPU. How is it different from a GPU, and what does that mean in real-world use?",
+      "image": "https://www.engadget.com/img/gallery/whats-the-difference-between-tpu-vs-gpu/l-intro-1787582646.jpg",
+      "link": "https://www.engadget.com/2242759/tpu-vs-gpu-difference-between-processsors/",
+      "published": "Sat, 29 Aug 2026 17:30:00 +0000",
+      "title_th": "ความแตกต่างระหว่าง TPU กับ GPU คืออะไร?",
+      "summary_th": "โทรศัพท์ Pixel 11 ของ Google ใช้โปรเซสเซอร์ Tensor G6 พร้อม TPU อันทรงพลัง มันแตกต่างจาก GPU อย่างไร และนั่นหมายความว่าอย่างไรในการใช้งานจริง?"
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "How to use the new Siri app in iOS 27",
-      "summary_en": "How to use the new Siri app in iOS 27.",
-      "image": "https://www.engadget.com/img/gallery/how-to-use-the-new-siri-app-in-ios-27/l-intro-1787327971.jpg",
-      "link": "https://www.engadget.com/2242748/how-to-use-the-new-siri-app-in-ios-27/",
-      "published": "Sat, 29 Aug 2026 13:00:00 +0000",
-      "title_th": "วิธีใช้แอพ Siri ใหม่ใน iOS 27",
-      "summary_th": "วิธีใช้แอพ Siri ใหม่ใน iOS 27"
+      "title_en": "Anbernic's reimagining of the Switch Lite goes on sale August 31",
+      "summary_en": "The RG 55G1 is available in three colors and starts at $150.",
+      "image": "https://www.engadget.com/img/gallery/anbernics-reimagining-of-the-switch-lite-goes-on-sale-august-31/l-intro-1788021233.jpg",
+      "link": "https://www.engadget.com/2246977/anbernic-reimagining-of-switch-lite-goes-on-sale-august-31/",
+      "published": "Sat, 29 Aug 2026 16:43:11 +0000",
+      "title_th": "การปรับโฉม Switch Lite ใหม่ของ Anbernic จะวางจำหน่ายในวันที่ 31 สิงหาคม",
+      "summary_th": "RG 55G1 มีให้เลือกสามสีและเริ่มต้นที่ 150 ดอลลาร์"
     },
     {
       "source": "IEEE Spectrum",
@@ -396,7 +396,7 @@
       "link": "https://spectrum.ieee.org/mechanical-tv-2677767814",
       "published": "Thu, 27 Aug 2026 14:46:56 +0000",
       "title_th": "สร้างเครื่องกลทีวีจอกว้างแบบพกพา",
-      "summary_th": "ฉันไม่เคยตั้งใจที่จะเข้าร่วมกับโทรทัศน์ระบบเครื่องกลไฟฟ้าที่ทันสมัย ฉันแค่อยากจะทำนาฬิกาสวยๆ แต่บางครั้งคุณต้องไปที่ที่วิศวกรรมพาคุณไป และในกรณีของฉัน มันพาฉันไปที่ Scanwheel ซึ่งเป็นทีวีเครื่องกลไฟฟ้าจอกว้างขนาดพกพาที่มีความละเอียด 4,096 x 20 พิกเซล ใช่แล้ว นั่นคือ 4K คูณ 20 ดรัมที่พิมพ์แบบ 3 มิติ [ด้านบน] หมุนด้วยมอเตอร์ที่ควบคุมโดยบอร์ดไดรเวอร์ [แถวที่สองจากด้านบน] ในทางกลับกัน บอร์ดไดรเวอร์จะถูกควบคุมโดย Raspberry Pi Pico [ตรงกลาง] ซึ่งควบคุมไฟ LED ด้วย [แถวที่สองจากด้านล่าง] ซึ่งติดตั้งอยู่ในเคสที่พิมพ์แบบ 3 มิติ [ด้านล่าง] เพื่อให้รูทะลุผ่านพวกมันในขณะที่ดรัมหมุน โทรทัศน์เครื่องกลไฟฟ้าของเจมส์ โพรโวสต์เป็นรูปแบบแรกของโทรทัศน์ที่ใช้งานได้จริง พัฒนาโดยจอห์น โลจี แบร์ดในช่วงทศวรรษปี ค.ศ. 1920 เขาใช้ก"
+      "summary_th": "ฉันไม่เคยตั้งใจที่จะเข้าร่วมกับโทรทัศน์ระบบเครื่องกลไฟฟ้าที่ทันสมัย ฉันแค่อยากจะทำนาฬิกาสวยๆ แต่บางครั้งคุณต้องไปที่ที่วิศวกรรมพาคุณไป และในกรณีของฉัน มันพาฉันไปที่ Scanwheel ซึ่งเป็นทีวีเครื่องกลไฟฟ้าจอกว้างขนาดพกพาที่มีความละเอียด 4,096 x 20 พิกเซล ใช่แล้ว นั่นคือ 4K คูณ 20 ดรัมที่พิมพ์แบบ 3 มิติ [บนสุด] หมุนด้วยมอเตอร์ที่ควบคุมโดยบอร์ดควบคุม [แถวที่สองจากด้านบน] ในทางกลับกัน บอร์ดไดรเวอร์จะถูกควบคุมโดย Raspberry Pi Pico [ตรงกลาง] ซึ่งควบคุมไฟ LED [แถวที่สองจากด้านล่าง] ซึ่งติดตั้งอยู่ในเคสที่พิมพ์แบบ 3 มิติ [ด้านล่าง] เพื่อให้รูทะลุผ่านพวกมันในขณะที่ดรัมหมุน โทรทัศน์เครื่องกลไฟฟ้าของเจมส์ โพรโวสต์เป็นรูปแบบแรกของโทรทัศน์ที่ใช้งานได้จริง พัฒนาโดยจอห์น โลจี แบร์ดในช่วงทศวรรษปี ค.ศ. 1920 เขาใช้ก"
     },
     {
       "source": "IEEE Spectrum",
@@ -408,7 +408,7 @@
       "link": "https://spectrum.ieee.org/ieee-student-conference-budding-authors",
       "published": "Wed, 26 Aug 2026 20:00:04 +0000",
       "title_th": "การประชุมนักศึกษา IEEE ช่วยให้ผู้เขียนรุ่นใหม่มองเห็นได้",
-      "summary_th": "สมาคมเกียรติยศ IEEE–Eta Kappa Nu (IEEE-HKN) กำลังเตรียมจัดงาน Innovating the Future ในวันที่ 6 พฤศจิกายน กิจกรรมพบปะด้วยตนเองครั้งแรกที่จัดขึ้นหนึ่งวัน ได้รับการออกแบบมาเพื่อเป็นเวทีสำหรับนักเขียนระดับปริญญาตรีและนักศึกษาระดับบัณฑิตศึกษาของ IEEE และ IEEE-HKN เพื่อนำเสนอผลงานวิจัยต้นฉบับของตน มีการวางแผนการกล่าวปาฐกถาพิเศษและการนำเสนอตามหัวข้อด้วยเช่นกัน ผู้เข้าร่วมงานนักศึกษาสามารถสร้างเครือข่ายกับเพื่อนฝูงและได้รับประสบการณ์ตรงเกี่ยวกับกระบวนการเผยแพร่ทางวิชาการ ในการนำเสนอในที่ประชุม นักศึกษาจะต้องส่งบทคัดย่อผลงานวิจัยของตนเองก่อนวันที่ 1 พฤษภาคม นักศึกษาที่ผลงานได้รับการยอมรับจะได้รับมอบหมายให้เป็นสมาชิก IEEE อาสาสมัครเพื่อให้คำปรึกษาและแนะนำพวกเขาตลอดขั้นตอนการเขียนงานวิจัย รวมถึงการนำเสนอและตีพิมพ์ผลงานต้นฉบับของพวกเขา ผู้ที่มีกระดาษตามมาตรฐาน"
+      "summary_th": "สมาคมเกียรติยศ IEEE–Eta Kappa Nu (IEEE-HKN) กำลังเตรียมจัดงาน Innovating the Future ในวันที่ 6 พฤศจิกายน กิจกรรมพบปะด้วยตนเองครั้งแรกที่จัดขึ้นหนึ่งวัน ได้รับการออกแบบมาเพื่อเป็นเวทีสำหรับนักเขียนระดับปริญญาตรีและนักศึกษาระดับบัณฑิตศึกษาของ IEEE และ IEEE-HKN เพื่อนำเสนอผลงานวิจัยต้นฉบับของตน มีการวางแผนการกล่าวปาฐกถาพิเศษและการนำเสนอตามหัวข้อด้วยเช่นกัน ผู้เข้าร่วมที่เป็นนักศึกษาสามารถสร้างเครือข่ายกับเพื่อนฝูงและได้รับประสบการณ์ตรงเกี่ยวกับกระบวนการเผยแพร่ทางวิชาการ ในการนำเสนอในที่ประชุม นักศึกษาจะต้องส่งบทคัดย่อผลงานวิจัยของตนเองก่อนวันที่ 1 พฤษภาคม นักศึกษาที่ผลงานได้รับการยอมรับจะได้รับมอบหมายให้เป็นสมาชิก IEEE อาสาสมัครเพื่อให้คำปรึกษาและแนะนำพวกเขาตลอดขั้นตอนการเขียนงานวิจัย รวมถึงการนำเสนอและตีพิมพ์ผลงานต้นฉบับของพวกเขา ผู้ที่มีกระดาษตามมาตรฐาน"
     },
     {
       "source": "IEEE Spectrum",
@@ -420,7 +420,55 @@
       "link": "https://spectrum.ieee.org/bimodal-nuclear-spacecraft",
       "published": "Wed, 26 Aug 2026 12:00:01 +0000",
       "title_th": "การออกแบบใหม่ของ NASA เทอร์โบชาร์จยานอวกาศนิวเคลียร์",
-      "summary_th": "สรุป NASA และวิศวกรอุตสาหกรรมเสนอจรวดนิวเคลียร์แบบซิงโครนัสแบบไบโมดัล (S-BNR) เพื่อลดเวลาขนส่งไปยังจุดหมายปลายทางรอบระบบสุริยะ เช่น ดาวอังคาร ได้อย่างมาก โดยผสมผสานการขับเคลื่อนด้วยความร้อนนิวเคลียร์และไฟฟ้า S‑BNR ใช้เครื่องปฏิกรณ์เดี่ยวที่มีลูปของไหลอิสระสองวงและโซนเชื้อเพลิงที่ได้รับการปรับปรุงให้เหมาะสม ขจัดวาล์วสลับโหมดที่ซับซ้อนในขณะที่ให้ทั้งแรงขับสูงและพลังงานไฟฟ้าต่อเนื่อง ความท้าทายหลัก ได้แก่ การพัฒนาองค์ประกอบเชื้อเพลิงที่ผสานรวมเข้าด้วยกัน การทดสอบภาคพื้นดิน ความปลอดภัยในการปล่อยนิวเคลียร์ และการทำงานร่วมกันหลายหน่วยงานเพื่อพัฒนาเทคโนโลยีตั้งแต่การสร้างแบบจำลองไปจนถึงการสาธิตในอวกาศ ภัยคุกคามที่ใหญ่ที่สุดสำหรับการเดินทางที่มีลูกเรือไปยังดาวอังคารคือเวลา พิมพ์เขียวที่สั้นที่สุดของ NASA สำหรับการส่งผู้คนไปยังดาวเคราะห์สีแดงและย้อนกลับ"
+      "summary_th": "สรุป NASA และวิศวกรอุตสาหกรรมเสนอจรวดนิวเคลียร์แบบซิงโครนัสแบบไบโมดัล (S-BNR) เพื่อลดเวลาขนส่งไปยังจุดหมายปลายทางรอบระบบสุริยะ เช่น ดาวอังคาร ได้อย่างมาก ด้วยการรวมการขับเคลื่อนด้วยความร้อนนิวเคลียร์และไฟฟ้า S‑BNR ใช้เครื่องปฏิกรณ์เดี่ยวที่มีลูปของไหลอิสระสองวงและโซนเชื้อเพลิงที่ได้รับการปรับปรุงให้เหมาะสม ขจัดวาล์วสลับโหมดที่ซับซ้อนในขณะที่ให้ทั้งแรงขับสูงและพลังงานไฟฟ้าต่อเนื่อง ความท้าทายหลัก ได้แก่ การพัฒนาองค์ประกอบเชื้อเพลิงที่ผสานรวมเข้าด้วยกัน การทดสอบภาคพื้นดิน ความปลอดภัยในการปล่อยนิวเคลียร์ และการทำงานร่วมกันหลายหน่วยงานเพื่อพัฒนาเทคโนโลยีตั้งแต่การสร้างแบบจำลองไปจนถึงการสาธิตในอวกาศ ภัยคุกคามที่ใหญ่ที่สุดสำหรับการเดินทางที่มีลูกเรือไปยังดาวอังคารคือเวลา พิมพ์เขียวที่สั้นที่สุดของ NASA สำหรับการส่งผู้คนไปยังดาวเคราะห์สีแดงและย้อนกลับ"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Indie App Spotlight: ‘Laytr’ is a one stop shop for logging everything you want to see later",
+      "summary_en": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . If you lose track of things you’d like to reference later, Laytr might be a nice solution for you. All of us save things all over the place, whether that be browser bookmarks, built-in bookmarking features within apps, taking a screenshot to hopefully find later, or just leaving a tab open and hoping we find it again later. Laytr aims to be a nice all-in-one solution for keeping track of your digital bookmarks.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Laytr-app.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/08/29/indie-app-spotlight-laytr-is-a-one-stop-shop-for-logging-everything-you-want-to-find-later/",
+      "published": "Sat, 29 Aug 2026 19:30:00 +0000",
+      "title_th": "สปอตไลท์แอปอินดี้: \"Laytr\" เป็นร้านค้าครบวงจรสำหรับบันทึกทุกสิ่งที่คุณต้องการดูในภายหลัง",
+      "summary_th": "ยินดีต้อนรับสู่แอปอินดี้สปอตไลท์ นี่คือซีรีส์ 9to5Mac รายสัปดาห์ที่เรานำเสนอแอปล่าสุดในโลกของแอปอินดี้ หากคุณเป็นนักพัฒนาซอฟต์แวร์และต้องการให้แอปของคุณเป็นจุดเด่น โปรดติดต่อ หากคุณสูญเสียการติดตามสิ่งที่คุณต้องการอ้างอิงในภายหลัง Laytr อาจเป็นทางออกที่ดีสำหรับคุณ เราทุกคนบันทึกสิ่งต่าง ๆ ไว้ทุกที่ ไม่ว่าจะเป็นบุ๊กมาร์กของเบราว์เซอร์ คุณลักษณะการบุ๊กมาร์กในตัวภายในแอป การจับภาพหน้าจอหวังว่าจะพบในภายหลัง หรือเพียงแค่เปิดแท็บทิ้งไว้และหวังว่าเราจะพบมันอีกครั้งในภายหลัง Laytr มุ่งหวังที่จะเป็นโซลูชันครบวงจรที่ดีในการติดตามบุ๊กมาร์กดิจิทัลของคุณ"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "As a relatively new Apple Vision Pro user, this is my favorite way to use it",
+      "summary_en": "Apple Vision Pro is one of Apple’s most interesting hardware releases yet. It’s technically very impressive, yet it seems almost certain that this form factor won’t last – and is instead just a temporary platform to introduce visionOS to the world before we eventually get glasses. I did buy one late last year, and while I haven’t been a major user of it, there is one use case that genuinely makes it enjoyable.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/m5-vision-pro-chance.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/08/29/heres-how-i-enjoy-using-apple-vision-pro/",
+      "published": "Sat, 29 Aug 2026 17:50:00 +0000",
+      "title_th": "ในฐานะผู้ใช้ Apple Vision Pro ที่ค่อนข้างใหม่ นี่เป็นวิธีที่ฉันชอบใช้มากที่สุด",
+      "summary_th": "Apple Vision Pro เป็นหนึ่งในฮาร์ดแวร์ที่น่าสนใจที่สุดของ Apple เป็นเทคนิคที่น่าประทับใจมาก แต่ดูเหมือนว่าจะเกือบจะแน่ใจว่าฟอร์มแฟคเตอร์นี้จะไม่คงอยู่ และเป็นเพียงแพลตฟอร์มชั่วคราวที่แนะนำ VisionOS ให้กับโลกก่อนที่เราจะมีแว่นตาในที่สุด ฉันซื้อมันเมื่อปลายปีที่แล้ว และถึงแม้ว่าฉันจะไม่ใช่ผู้ใช้มันรายใหญ่ แต่ก็มีกรณีการใช้งานหนึ่งที่ทำให้สนุกได้อย่างแท้จริง"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple CarPlay gaining a new AI chatbot app before Siri AI arrives",
+      "summary_en": "Since iOS 26.4, Apple has supported conversational apps on CarPlay. This category includes AI chatbot apps. Siri AI joins the CarPlay party starting with iOS 27. The iPhone software update is currently in beta ahead of the official launch in September. Meanwhile, the fourth third-party AI chatbot has arrived with Apple CarPlay support: Meta AI.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/best-carplay-apps.webp?resize=1200,628",
+      "link": "https://9to5mac.com/2026/08/29/apple-carplay-gaining-a-new-ai-chatbot-app-before-siri-ai-arrives/",
+      "published": "Sat, 29 Aug 2026 17:13:20 +0000",
+      "title_th": "Apple CarPlay ได้รับแอปแชทบอท AI ใหม่ก่อนที่ Siri AI จะมาถึง",
+      "summary_th": "ตั้งแต่ iOS 26.4 เป็นต้นมา Apple ได้รองรับแอพสนทนาบน CarPlay หมวดหมู่นี้รวมถึงแอปแชทบอท AI Siri AI เข้าร่วมปาร์ตี้ CarPlay โดยเริ่มจาก iOS 27 ขณะนี้การอัปเดตซอฟต์แวร์ iPhone อยู่ในช่วงเบต้าก่อนการเปิดตัวอย่างเป็นทางการในเดือนกันยายน ในขณะเดียวกัน Chatbot AI บุคคลที่สามตัวที่สี่ก็มาพร้อมกับการรองรับ Apple CarPlay: Meta AI"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "review",
+      "title_en": "Tested: You have to see Sharge’s impressive new metal unibody power bank with display [Launch deal]",
+      "summary_en": "Not all power banks are made equal. Some feature one of the most impressive designs I have ever seen with an onboard display, the ability to charge two MacBooks at once, RGB lighting, and a a pair of window cutouts in the solid metal housing to put the internal tech on display – Sharge’s new Shargeek 300 Power Bank is amazing and you should, at the very least, check this thing out while the launch deal is live. Here are some of my hands-on impressions.",
+      "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/08/Shargeek-300-Power-Bank-review-FI.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5toys.com/2026/08/29/sharge-impressive-metal-power-bank-display-review/",
+      "published": "Sat, 29 Aug 2026 15:51:36 +0000",
+      "title_th": "ทดสอบแล้ว: คุณต้องเห็นธนาคารพลังงาน unibody โลหะใหม่ที่น่าประทับใจของ Sharge พร้อมจอแสดงผล [ข้อตกลงเปิดตัว]",
+      "summary_th": "พาวเวอร์แบงค์ไม่ได้ผลิตมาให้เท่ากันทั้งหมด คุณลักษณะบางอย่างมีหนึ่งในการออกแบบที่น่าประทับใจที่สุดที่ฉันเคยเห็นด้วยจอแสดงผลออนบอร์ด ความสามารถในการชาร์จ MacBooks สองเครื่องพร้อมกัน แสง RGB และช่องเจาะหน้าต่างคู่หนึ่งในตัวเครื่องโลหะแข็งเพื่อนำเทคโนโลยีภายในมาจัดแสดง – Sharge's ใหม่ Shargeek 300 Power Bank นั้นน่าทึ่ง และอย่างน้อยที่สุดคุณควรตรวจสอบสิ่งนี้ในขณะที่ข้อตกลงการเปิดตัวยังมีอยู่ นี่คือความประทับใจจากการลงมือทำจริงบางส่วนของฉัน"
     },
     {
       "source": "9to5Mac",
@@ -432,55 +480,19 @@
       "link": "https://9to5mac.com/2026/08/29/apple-first-ai-smart-glasses-feature-release-date-roundup/",
       "published": "Sat, 29 Aug 2026 14:48:00 +0000",
       "title_th": "Apple จะเปิดตัวแว่นตาอัจฉริยะคู่แรกในปีหน้า: นี่คือสิ่งที่จะเกิดขึ้น",
-      "summary_th": "ภายในปีหน้า Apple จะเปิดตัวแว่นตาอัจฉริยะที่ขับเคลื่อนด้วย AI คู่แรก พวกเขาจะบูรณาการ Visual Intelligence และนำ Siri ไปสู่โลกแห่งความเป็นจริง นี่คือสิ่งที่เราคาดหวัง"
+      "summary_th": "As soon as next year, Apple will be debuting its first pair of AI-powered smart glasses. They’ll integrate Visual Intelligence and bring Siri to the real world. Here’s what we’re expecting."
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple weekend deals: M6 Mac mini, AirPods Pro 3, AirTag 2, iPhone 17 Pro, more",
-      "summary_en": "We are ready to touch down for your 9to5Toys Lunch Break weekend edition. This time around our deals are landing alongside truck loads of price drops from the Amazon 2026 Labor Day sale, as well as the ongoing $50 discount on AirPods Pro 3 and the all-time low on AirTag 2 at $20 a pop. Some other highlights include Amazon’s best prices ever on iPhone 17 Pro at up to $290 off the new list prices and the very first discounts on Apple’s brand new M6 and M5 Pro Mac mini. Check it all out below – you’ll also find loads of deals on accessories, chargers, and smart home gear.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-weekend-deals-late-August-2026.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/29/apple-weekend-deals-m6-mac-mini-airpods-airtag-2/",
-      "published": "Sat, 29 Aug 2026 12:13:39 +0000",
-      "title_th": "ข้อเสนอสุดสัปดาห์ของ Apple: M6 Mac mini, AirPods Pro 3, AirTag 2, iPhone 17 Pro และอีกมากมาย",
-      "summary_th": "เราพร้อมที่จะสัมผัส 9to5Toys Lunch Break ฉบับสุดสัปดาห์แล้ว ข้อเสนอของเราในครั้งนี้มาพร้อมกับราคารถบรรทุกที่ลดลงจากการขายวันแรงงานใน Amazon ปี 2026 รวมถึงส่วนลดอย่างต่อเนื่อง $50 สำหรับ AirPods Pro 3 และ AirTag 2 ที่ต่ำเป็นประวัติการณ์ที่ $20 ต่อป๊อป ไฮไลท์อื่นๆ ได้แก่ ราคาที่ดีที่สุดของ Amazon บน iPhone 17 Pro โดยลดราคาสูงสุด 290 ดอลลาร์จากราคาปลีกใหม่ และส่วนลดแรกสุดสำหรับ M6 และ M5 Pro Mac mini ใหม่ล่าสุดของ Apple ลองดูทั้งหมดด้านล่าง – คุณยังจะพบข้อเสนอมากมายเกี่ยวกับอุปกรณ์เสริม ที่ชาร์จ และอุปกรณ์สมาร์ทโฮมอีกด้วย"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple @ Work: Parallels Desktop 27 brings OpenGL 4.3 and AI acceleration to Apple Silicon",
-      "summary_en": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . Virtualization on macOS has become rock-solid in the Apple Silicon era. Parallels Desktop 27 pushes that further with a new Metal-based graphics driver, OpenGL 4.3 support for Windows virtual machines on Apple silicon, faster local AI workloads, and a host of enterprise features aimed a",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Parallels-27-2.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/29/parallels-desktop-27/",
-      "published": "Sat, 29 Aug 2026 12:00:00 +0000",
-      "title_th": "Apple @ Work: Parallels Desktop 27 นำ OpenGL 4.3 และการเร่งความเร็ว AI มาสู่ Apple Silicon",
-      "summary_th": "Apple @ Work ให้บริการแก่คุณโดยเฉพาะโดย Mosyle ซึ่งเป็น Apple Unified Platform เพียงแห่งเดียว Mosyle เป็นโซลูชันเดียวที่ผสานรวมโซลูชันทั้งหมดที่จำเป็นในการปรับใช้ จัดการ และปกป้องอุปกรณ์ Apple ในที่ทำงานได้อย่างราบรื่นและอัตโนมัติในแพลตฟอร์มระดับมืออาชีพเพียงแพลตฟอร์มเดียว องค์กรกว่า 45,000 แห่งไว้วางใจให้ Mosyle สร้างสรรค์อุปกรณ์ Apple หลายล้านเครื่องให้พร้อมใช้งานโดยไม่ต้องใช้ความพยายามและในราคาที่เอื้อมถึง ขอรับการทดลองใช้เพิ่มเติมวันนี้ และทำความเข้าใจว่าเหตุใด Mosyle จึงเป็นทุกสิ่งที่คุณต้องการเพื่อร่วมงานกับ Apple การจำลองเสมือนบน macOS กลายเป็นจุดแข็งในยุค Apple Silicon Parallels Desktop 27 ผลักดันสิ่งนั้นให้ก้าวไกลยิ่งขึ้นด้วยไดรเวอร์กราฟิกแบบ Metal ใหม่ รองรับ OpenGL 4.3 สำหรับเครื่องเสมือน Windows บนซิลิคอนของ Apple ปริมาณงาน AI ภายในที่เร็วขึ้น และโฮสต์ของฟีเจอร์ระดับองค์กรที่มุ่งเป้าไปที่"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "9to5Mac Daily: August 28, 2026 – Foldable iPhone expectations, more",
-      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily .",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/28/9to5mac-daily-august-28-2026-foldable-iphone-expectations-more/",
-      "published": "Sat, 29 Aug 2026 01:02:53 +0000",
-      "title_th": "9to5Mac Daily: 28 สิงหาคม 2026 – ความคาดหวังของ iPhone แบบพับได้ และอื่นๆ อีกมากมาย",
-      "summary_th": "ฟังสรุปเรื่องเด่นประจำวันจาก 9to5Mac 9to5Mac Daily มีให้บริการบน iTunes และแอป Podcasts ของ Apple , Stitcher , TuneIn , Google Play หรือผ่านทางฟีด RSS เฉพาะของเราสำหรับ Overcast และเครื่องเล่นพอดแคสต์อื่นๆ สนับสนุนโดย Backblaze : การสำรองข้อมูลที่คุณวางใจได้ ประหยัด 20% ด้วยรหัส 9to5daily"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Most people overpay for their phone plan – Tello Mobile maxes out at $25/month",
-      "summary_en": "The US has some of the most expensive mobile phone plans in the world, and many people are paying $60 to $100 per month or more without questioning it. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, and even the unlimited plan is just $25 a month – all while using America’s largest 5G network …",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Banner-2-1920-x-1080.png?resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/28/most-people-overpay-phone-plan-tello-mobile-maxes-out-at-25-month/",
-      "published": "Fri, 28 Aug 2026 22:30:00 +0000",
-      "title_th": "คนส่วนใหญ่จ่ายเงินเกินสำหรับแผนบริการโทรศัพท์ของพวกเขา – Tello Mobile จ่ายสูงสุดที่ $25/เดือน",
-      "summary_th": "สหรัฐอเมริกามีแผนบริการโทรศัพท์มือถือที่แพงที่สุดในโลก และผู้คนจำนวนมากจ่ายเงิน 60 ถึง 100 ดอลลาร์ต่อเดือนหรือมากกว่านั้นโดยไม่มีข้อสงสัย การเปลี่ยนมาใช้ Tello Mobile ช่วยลดค่าใช้จ่ายตามแผนของคุณเหลือเพียง $5 ต่อเดือน และแม้แต่แผนไม่จำกัดก็เพียง $25 ต่อเดือน ทั้งหมดนี้ใช้เครือข่าย 5G ที่ใหญ่ที่สุดในอเมริกา …"
+      "title_en": "What new Google Messages features are rolling out [August 2026]",
+      "summary_en": "Like other Google apps, Messages for Android A/B tests many features. It can take the RCS/SMS client a rather long time to actually launch new functionality in stable. From various reports, Google announcements , and devices we’ve checked, this is the current state of Messages.",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/03/google-messages-logo-circle-2.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/08/29/new-google-messages-features/",
+      "published": "Sat, 29 Aug 2026 19:12:00 +0000",
+      "title_th": "What new Google Messages features are rolling out [August 2026]",
+      "summary_th": "เช่นเดียวกับแอปอื่นๆ ของ Google Messages สำหรับ Android A/B ทดสอบคุณสมบัติมากมาย ไคลเอ็นต์ RCS/SMS อาจใช้เวลานานพอสมควรในการเปิดใช้ฟังก์ชันการทำงานใหม่ในเวอร์ชันเสถียร จากรายงานต่างๆ ประกาศของ Google และอุปกรณ์ที่เราตรวจสอบ นี่คือสถานะปัจจุบันของ Messages"
     },
     {
       "source": "9to5Google",
@@ -492,7 +504,7 @@
       "link": "https://9to5google.com/2026/08/29/mammotion-luba-3-review-robot-lawnmower/",
       "published": "Sat, 29 Aug 2026 13:30:00 +0000",
       "title_th": "Mammotion Luba 3 เปลี่ยนใจฉันเกี่ยวกับหุ่นยนต์ตัดหญ้า",
-      "summary_th": "หุ่นยนต์ตัดหญ้าทำให้ฉันทึ่งมานานแล้ว แต่ฉันไม่เคยอยากได้มันเลย แต่หลังจากใช้งาน Mammotion Luba 3 ได้ไม่กี่สัปดาห์ ฉันก็ขายทิ้งไปแล้ว เพราะนี่เป็นการแก้ไขปัญหาที่ใหญ่ที่สุดของฉันกับรุ่นอื่นๆ"
+      "summary_th": "หุ่นยนต์ตัดหญ้าทำให้ฉันทึ่งมานานแล้ว แต่ฉันไม่เคยอยากได้มันเลย หลังจากนั้นไม่กี่สัปดาห์กับ Mammotion Luba 3 ฉันก็ขายทิ้งไปแล้ว เพราะนี่เป็นการแก้ไขปัญหาที่ใหญ่ที่สุดของฉันกับรุ่นอื่นๆ"
     },
     {
       "source": "9to5Google",
@@ -515,8 +527,8 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Dreambeans-3.webp?resize=1200,628",
       "link": "https://9to5google.com/2026/08/28/google-dreambeans-free/",
       "published": "Fri, 28 Aug 2026 22:54:04 +0000",
-      "title_th": "ฟีด 'Dreambeans' ที่เป็นส่วนตัวมากเกินไปของ Google เปิดให้ทดสอบฟรีแล้ว",
-      "summary_th": "Dreambeans เป็นแอปทดลองจาก Google Labs ที่จะ \"ฝันถึงเรื่องราวในแต่ละวันในแบบของคุณ\" หลังจากที่ต้องสมัครสมาชิกก่อนหน้านี้ ขณะนี้ Dreambeans เปิดให้ทดสอบบัญชี Google ฟรีในสหรัฐอเมริกาแล้ว"
+      "title_th": "ฟีด 'Dreambeans' ที่ได้รับการปรับให้เป็นส่วนตัวของ Google เปิดให้ทดสอบฟรีแล้ว",
+      "summary_th": "Dreambeans เป็นแอปทดลองจาก Google Labs ที่จะ \"ฝันถึงเรื่องราวในแต่ละวันในแบบของคุณ\" หลังจากที่ต้องสมัครสมาชิกก่อนหน้านี้ Dreambeans ก็เปิดให้ทดสอบบัญชี Google ฟรีในสหรัฐอเมริกาแล้ว"
     },
     {
       "source": "9to5Google",
@@ -531,16 +543,16 @@
       "summary_th": "Android 17 QPR2 ยังคงเพิ่มการเปลี่ยนแปลงที่ผู้ใช้เห็นอย่างต่อเนื่องด้วยการตั้งค่าแถบสถานะใหม่ในเบต้า 4 การอัปเดตนี้..."
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Android 17 QPR2 Beta 4 rolling out with many Pixel bug fixes",
-      "summary_en": "Following the big release two weeks ago , Google is rolling out Android 17 QPR2 Beta 4 for Pixel devices. As of Friday afternoon, the Pixel 11 series is not yet compatible, but Google says support is coming “soon.”",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-6.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/08/28/android-17-qpr2-beta-4-pixel/",
-      "published": "Fri, 28 Aug 2026 21:53:40 +0000",
-      "title_th": "Android 17 QPR2 Beta 4 เปิดตัวพร้อมการแก้ไขข้อบกพร่องของ Pixel มากมาย",
-      "summary_th": "Following the big release two weeks ago , Google is rolling out Android 17 QPR2 Beta 4 for Pixel devices. As of Friday afternoon, the Pixel 11 series is not yet compatible, but Google says support is coming “soon.”"
+      "category": "ev",
+      "title_en": "666 – il marchio della Spiaggia Lucciola Elettrica con un ricarico del 13 percento",
+      "summary_en": "The numbers 666 and 13 don’t have the best of reputations in certain circles, but Chinese car brand Nio hopes its latest Firefly hatchback will have better luck with them – offering a limited run of 666 special edition EVs at a price that’s 13% higher than usual.",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/spiaggia.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/08/29/666-il-marchio-della-spiaggia-lucciola-elettrica-con-un-ricarico-del-13-percento/",
+      "published": "Sat, 29 Aug 2026 16:08:01 +0000",
+      "title_th": "666 – แบรนด์ Spiaggia Lucciola Elettrica โดยมีมาร์กอัป 13 เปอร์เซ็นต์",
+      "summary_th": "หมายเลข 666 และ 13 ไม่ได้มีชื่อเสียงดีที่สุดในบางวงการ แต่ Nio แบรนด์รถยนต์สัญชาติจีนหวังว่า Firefly แฮทช์แบ็กรุ่นล่าสุดจะโชคดีกว่าด้วย โดยนำเสนอรถยนต์ไฟฟ้ารุ่นพิเศษจำนวน 666 คันในราคาที่สูงกว่าปกติถึง 13%"
     },
     {
       "source": "Electrek",
@@ -552,7 +564,7 @@
       "link": "https://electrek.co/2026/08/29/robot-delivery-dog-dumps-hot-steaming-packages-on-your-doorstep-video/",
       "published": "Sat, 29 Aug 2026 13:19:10 +0000",
       "title_th": "หุ่นยนต์สุนัขส่งของทิ้งพัสดุนึ่งร้อนไว้ที่หน้าประตูบ้านของคุณ [วิดีโอ]",
-      "summary_th": "หุ่นยนต์ส่งของ R-dog ตัวใหม่หวังที่จะแทนที่พนักงานกิ๊กในพื้นที่ของคุณด้วยใบหน้าที่เป็นมิตร หมวกสีแดง การออกแบบที่เข้าถึงได้ และแม้กระทั่งหางที่มีขนฟู ซึ่งล้วนแต่น่ารักและน่ารัก จนกระทั่งมันส่งพัสดุของคุณไปที่ระเบียงของคุณ โอ้ และมันแสดงโฆษณาตลอดเวลา"
+      "summary_th": "หุ่นยนต์ส่งของ R-dog ตัวใหม่หวังที่จะแทนที่พนักงานกิ๊กในพื้นที่ของคุณด้วยใบหน้าที่เป็นมิตร หมวกสีแดง การออกแบบที่เข้าถึงได้ และแม้แต่หางที่มีขนฟู ซึ่งทั้งหมดนี้น่ารักและน่ารัก จนกระทั่งมันส่งพัสดุของคุณไปที่ระเบียงของคุณ โอ้ และมันแสดงโฆษณาตลอดเวลา"
     },
     {
       "source": "Electrek",
@@ -575,8 +587,8 @@
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Mountain-Middle-School-Durango-CO-Shaw-Solar.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://electrek.co/2026/08/28/1-in-7-us-students-now-goes-to-a-solar-powered-school/",
       "published": "Fri, 28 Aug 2026 19:59:26 +0000",
-      "title_th": "1 in 7 US students now goes to a solar-powered school",
-      "summary_th": "Solar power now powers more than 10,800 US K-12 schools – that means 1 in 7 students goes to a school powered by the sun – but battery storage hasn’t quite caught on yet."
+      "title_th": "ขณะนี้นักเรียน 1 ใน 7 ของสหรัฐฯ ไปโรงเรียนที่ใช้พลังงานแสงอาทิตย์",
+      "summary_th": "ขณะนี้พลังงานแสงอาทิตย์ให้พลังงานแก่โรงเรียนระดับอนุบาลถึงมัธยมศึกษาตอนปลาย (K-12) ของสหรัฐอเมริกามากกว่า 10,800 แห่ง ซึ่งหมายความว่านักเรียน 1 ใน 7 คนไปโรงเรียนที่ใช้พลังงานแสงอาทิตย์ แต่พื้นที่จัดเก็บแบตเตอรี่ยังไม่ค่อยถูกใช้งาน"
     },
     {
       "source": "Electrek",
@@ -588,19 +600,7 @@
       "link": "https://electrek.co/2026/08/28/podcast-tesla-cybercab-launch-cybertruck-prices-rise-vw-launch-electric-camper-and-more/",
       "published": "Fri, 28 Aug 2026 19:51:01 +0000",
       "title_th": "พอดคาสต์: การเปิดตัว Tesla Cybercab, ราคา Cybertruck สูงขึ้น, VW เปิดตัวค่ายพักแรมไฟฟ้า และอีกมากมาย",
-      "summary_th": "ใน Electrek Podcast เราพูดคุยถึงข่าวยอดนิยมในโลกแห่งการขนส่งและพลังงานที่ยั่งยืน ในตอนของสัปดาห์นี้ เราจะพูดคุยกันถึง Tesla ที่ประกาศเปิดตัว Cybercab, ราคา Cybertruck สูงขึ้น, VW เปิดตัวรถแคมป์ไฟฟ้า และอื่นๆ ตอนของวันนี้ได้รับการสนับสนุนโดย GM การชาร์จ GM EV เป็นเรื่องง่ายด้วย Energy Pass และ Plug and Charge เรียนรู้เพิ่มเติมที่ https://gmenergy.gm.com/energypass"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Porsche Cayenne Turbo EV first drive: Most Powerful Porsche ever … is an SUV",
-      "summary_en": "After chomping on the bit for literally years, we finally got to drive – and I mean really drive – the Porsche Cayenne Electric, and it was everything we’d hoped for, and more. Porsche flew us out to Aspen, Colorado, and gave us a 250-ish-mile mountain road (and off-road) course to devour with their flagship SUV. The $163K monster did not disappoint in acceleration, air-supported suspension comfort, and even fast charging. But, there, as always, are some caveats beyond the huge price tag…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/image_42deb0.png?resize=1200,628",
-      "link": "https://electrek.co/2026/08/28/porsche-cayenne-turbo-ev-first-drive-most-powerful-porsche-ever-is-an-suv/",
-      "published": "Fri, 28 Aug 2026 19:44:53 +0000",
-      "title_th": "การขับขี่ครั้งแรกของ Porsche Cayenne Turbo EV: Porsche ที่ทรงพลังที่สุดเท่าที่เคยมีมา … คือ SUV",
-      "summary_th": "หลังจากลองขับมาหลายปี ในที่สุดเราก็ได้ขับรถ Porsche Cayenne Electric และมันก็เป็นทุกอย่างที่เราหวังไว้ และอื่นๆ อีกมากมาย ปอร์เช่พาเราไปที่แอสเพน โคโลราโด และมอบเส้นทางบนภูเขายาว 250 ไมล์ (และออฟโรด) เพื่อดื่มด่ำกับรถ SUV เรือธงของพวกเขา สัตว์ประหลาดมูลค่า 163,000 เหรียญตัวนี้ไม่ทำให้ผิดหวังในเรื่องอัตราเร่ง ระบบกันสะเทือนแบบรองรับอากาศ และแม้แต่การชาร์จที่รวดเร็ว แต่เช่นเคย มีคำเตือนบางประการนอกเหนือจากป้ายราคามหาศาล..."
+      "summary_th": "ใน Electrek Podcast เราพูดคุยถึงข่าวยอดนิยมในโลกแห่งการขนส่งและพลังงานที่ยั่งยืน ในตอนของสัปดาห์นี้ เราจะพูดถึง Tesla ที่ประกาศเปิดตัว Cybercab ราคา Cybertruck สูงขึ้น VW เปิดตัวรถแคมป์ไฟฟ้า และอื่นๆ ตอนของวันนี้ได้รับการสนับสนุนโดย GM การชาร์จ GM EV เป็นเรื่องง่ายด้วย Energy Pass และ Plug and Charge เรียนรู้เพิ่มเติมที่ https://gmenergy.gm.com/energypass"
     }
   ],
   "indices": [
@@ -608,57 +608,57 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 217.55,
+      "change": -10.43,
+      "change_pct": -4.57
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 348.75,
+      "change": -6.06,
+      "change_pct": -1.71
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 346.59,
+      "change": 5.94,
+      "change_pct": 1.74
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 513.53,
+      "change": 8.47,
+      "change_pct": 1.68
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 319.7,
+      "change": 5.12,
+      "change_pct": 1.63
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 266.43,
+      "change": 10.17,
+      "change_pct": 3.97
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 578.02,
+      "change": 6.92,
+      "change_pct": 1.21
     },
     {
       "symbol": "DELTA.BK",
@@ -703,6 +703,16 @@
     {
       "channel": "Unbox Therapy",
       "country": "US",
+      "title_en": "This is the iPhone 18 Pro Max",
+      "video_id": "LyxJWtoyK0o",
+      "link": "https://www.youtube.com/watch?v=LyxJWtoyK0o",
+      "thumbnail": "https://i1.ytimg.com/vi/LyxJWtoyK0o/hqdefault.jpg",
+      "published": "2026-08-29T19:38:22+00:00",
+      "title_th": "นี่คือ iPhone 18 Pro Max"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
       "title_en": "Watch This Lens Swap (SOUND ON 🔊)",
       "video_id": "gTP8orDab0w",
       "link": "https://www.youtube.com/shorts/gTP8orDab0w",
@@ -719,16 +729,6 @@
       "thumbnail": "https://i2.ytimg.com/vi/ihxHk6wYj8c/hqdefault.jpg",
       "published": "2026-08-27T20:09:40+00:00",
       "title_th": "แบตเตอรี่ 10,000 mAh…ในสมาร์ทโฟน..."
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "Competitive Advantage…",
-      "video_id": "mB0r2bWS-jY",
-      "link": "https://www.youtube.com/shorts/mB0r2bWS-jY",
-      "thumbnail": "https://i2.ytimg.com/vi/mB0r2bWS-jY/hqdefault.jpg",
-      "published": "2026-08-27T14:33:03+00:00",
-      "title_th": "ความได้เปรียบในการแข่งขัน..."
     },
     {
       "channel": "Beartai",
