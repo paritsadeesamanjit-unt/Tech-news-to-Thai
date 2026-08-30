@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-30T14:07:08.182023+00:00",
+  "generated_at": "2026-08-30T18:15:56.915337+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "summary_en": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Elon-Musk.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "published": "Sun, 30 Aug 2026 16:54:25 +0000",
+      "title_th": "เส้นทางที่เร็วกว่าของ Musk ไปยังกังหันก๊าซจำนวนมากขึ้นมาพร้อมกับปัญหามลพิษ",
+      "summary_th": "Elon Musk กล่าวว่าโรงหล่อ SpaceX แห่งใหม่ที่เป็นความลับจะช่วยให้เขาสร้างใบพัดกังหันของตัวเองและรับพลังงานก๊าซออนไลน์ได้เร็วกว่าใครๆ ถึง 18 เดือน แต่เป็นการเดิมพันกับแหล่งเชื้อเพลิงที่ก่อให้เกิดการฟ้องร้องและการศึกษาด้านสุขภาพในทุกที่ที่กังหันของเขา (และคนอื่นๆ) เข้าไป"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "TechCrunch Mobility: The hidden human cost of robotaxis",
+      "summary_en": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-jaguar-ipace.jpg?resize=1200,633",
+      "link": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+      "published": "Sun, 30 Aug 2026 16:03:00 +0000",
+      "title_th": "TechCrunch Mobility: ต้นทุนมนุษย์ที่ซ่อนอยู่ของโรบอตแท็กซี่",
+      "summary_th": "ยินดีต้อนรับกลับสู่ TechCrunch Mobility ศูนย์กลางของคุณสำหรับอนาคตของการขนส่ง และตอนนี้ AI มีบทบาทมากขึ้นกว่าเดิม"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "summary_en": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/01/caterpillar-lidar-booth.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "published": "Sun, 30 Aug 2026 15:00:00 +0000",
+      "title_th": "Caterpillar นำสิ่งที่เรียนรู้จากการทำเหมืองแบบอัตโนมัติมาสู่การปรับใช้ AI",
+      "summary_th": "Caterpillar ใช้เวลาหลายทศวรรษในการนำเครื่องจักรอัตโนมัติมาทำงานในพื้นที่ขุดเหมืองระยะไกล ตอนนี้กำลังนำประสบการณ์ดังกล่าวมาสู่การใช้งาน AI"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -27,40 +63,28 @@
       "summary_th": "นักลงทุน ผู้ก่อตั้ง และผู้ดำเนินการจากทั่วยุโรปเดินทางมาที่การประชุม Nordic TechBBQ ประจำปีเพื่อพูดคุยเกี่ยวกับวิธีที่มนุษย์มีสิทธิ์เสรีเหนือ AI"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-      "summary_en": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Vijay-Pande.png?resize=1200,800",
-      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "published": "Sat, 29 Aug 2026 17:36:47 +0000",
-      "title_th": "“เราไม่ได้เดิมพัน 30 ครั้งต่อปี”: Vijay Pande เกี่ยวกับการเดิมพันเล็กน้อยหลังจากทำเงิน 4 พันล้านดอลลาร์ที่ a16z",
-      "summary_th": "Vijay Pande — ซึ่งออกจากการฝึกปฏิบัติด้านเทคโนโลยีชีวภาพมูลค่าประมาณ 4 พันล้านดอลลาร์ของ a16z ในปีที่แล้วเพื่อเริ่มต้น VZVC ที่ใช้ AI ซึ่งมีขนาดเล็กกว่ามาก — พูดถึงว่าทำไมในที่สุดชีววิทยาจึงเปลี่ยนจากวิทยาศาสตร์ \"การค้นพบ\" ไปเป็น \"วิศวกรรม\" ทำไมการทดลองทางคลินิกยังคงมีราคาแพงอย่างไร้ความปราณี และทำไมเขาถึงคิดว่าชุดข้อมูลแบบเปิดที่ใช้ร่วมกัน (ไม่ใช่ชุดข้อมูลที่ปิดล้อม) คือสิ่งที่จะทำให้ AI เปลี่ยนแปลงการแพทย์ได้จริง"
+      "category": "gadget",
+      "title_en": "The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy",
+      "summary_en": "After funding struggles and a name change, the Nancy Grace Roman Space Telescope has been successfully launched. It will now make a three-month, one-million-mile journey to its orbit at the second Sun-Earth Lagrange point (L2) beyond the Moon. From this vantage point, Roman will conduct an unprecedented survey of the universe. Its field of view […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/NHQ20260830_admin_0002large.jpg?quality=90&strip=all&crop=0%2C10.70228295175%2C100%2C78.5954340965&w=1200",
+      "link": "https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch",
+      "published": "2026-08-30T12:36:39-04:00",
+      "title_th": "กล้องโทรทรรศน์อวกาศโรมัน Nancy Grace เปิดตัวเพื่อศึกษาสสารมืดและพลังงานมืด",
+      "summary_th": "หลังจากการดิ้นรนด้านเงินทุนและการเปลี่ยนชื่อ กล้องโทรทรรศน์อวกาศโรมันแนนซี เกรซ ก็สามารถเปิดตัวได้สำเร็จ ขณะนี้มันจะเดินทางเป็นเวลาสามเดือนหนึ่งล้านไมล์ไปยังวงโคจรของมันที่จุดลากรองจ์ดวงอาทิตย์-โลกที่สอง (L2) ที่อยู่เลยดวงจันทร์ จากจุดชมวิวนี้ โรมันจะทำการสำรวจจักรวาลอย่างที่ไม่เคยมีมาก่อน มุมมองของมัน […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Hollywood celebs are getting into microdrama apps",
-      "summary_en": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/12/shutterstock_movie_director.jpg?resize=1200,717",
-      "link": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
-      "published": "Sat, 29 Aug 2026 16:10:00 +0000",
-      "title_th": "ดาราฮอลลีวูดกำลังเข้าสู่แอปไมโครดราม่า",
-      "summary_th": "ดาราดังฮอลลีวูดหลายคนเลิกใช้เช็คแปดหลักและฉากภาพยนตร์แปลกใหม่เพื่อสร้างรูปแบบที่เพิ่มขึ้น: ไมโครดรามา"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "The Theragun Sense makes everyday recovery surprisingly easy",
-      "summary_en": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just assumed […]",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/theragun-sense.png?resize=1200,788",
-      "link": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
-      "published": "Sat, 29 Aug 2026 14:00:00 +0000",
-      "title_th": "Theragun Sense ทำให้การฟื้นตัวในแต่ละวันเป็นเรื่องง่ายอย่างน่าประหลาดใจ",
-      "summary_th": "เมื่อวัย 20 ของฉันกำลังจะสิ้นสุดลงในปลายปีนี้ ฉันเข้าสู่วัยที่การนอนผิดท่าหรือยืดเส้นยืดสายมากเกินไปอาจทำให้เกิดอาการปวดเมื่อยได้ ฉันค่อนข้างสงสัยปืนนวดมาโดยตลอด ส่วนใหญ่เป็นเพราะฉันได้ลองใช้ปืนยี่ห้ออื่นมาบ้างแล้วและเพิ่งคิดว่า […]"
+      "category": "software",
+      "title_en": "Texas Governor Abbott blocks funding for more Flock cameras",
+      "summary_en": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+      "published": "2026-08-30T11:35:10-04:00",
+      "title_th": "ผู้ว่าการรัฐเท็กซัส Abbott ระงับการระดมทุนเพื่อซื้อกล้อง Flock เพิ่ม",
+      "summary_th": "ในขณะที่การฟันเฟืองเกิดขึ้นกับกล้องวงจรปิด AI ของ Flock Greg Abbott ผู้ว่าการรัฐเท็กซัสได้ระงับการใช้จ่ายของรัฐสำหรับกล้องเหล่านี้ ความเคลื่อนไหวดังกล่าวเกิดขึ้นก่อนการตีพิมพ์การสืบสวนของ Texas Tribune ซึ่งเปิดเผยว่ารัฐใช้เงินกว่า 30 ล้านดอลลาร์ไปกับกล้อง Flock เงินดังกล่าวได้รับการระดมทุนเป็นหลักโดยการเก็บค่าธรรมเนียม 1 ดอลลาร์สำหรับกรมธรรม์ประกันภัย […]"
     },
     {
       "source": "The Verge",
@@ -97,30 +121,6 @@
       "published": "2026-08-29T16:59:26-04:00",
       "title_th": "เดินป่า Appalachian แทนใน A Trail Tale อันงดงาม",
       "summary_th": "ฉันเคยเป็นนักปีนเขาตัวยงและจะพยายามแบกเป้ปีละสองสามครั้ง ฉันใฝ่ฝันมาตลอดว่าจะได้เดินป่าตามเส้นทาง Appalachian Trail แต่ชีวิตกลับเจออุปสรรค (กลายเป็นว่างาน ภรรยา และลูกๆ ไม่ตื่นเต้นกับความคิดที่คุณหายตัวไปเป็นเวลาสามเดือน) แต่ฉันโหยหา […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Alt-right troll Milo Yiannopoulos has been deported",
-      "summary_en": "Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the US legally in 2019, but overstayed his visa. After he failed to appear in court for an immigration hearing, […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13604714/milopatreon.jpeg?quality=90&strip=all&crop=0%2C7.6388888888889%2C100%2C69.808027923211&w=1200",
-      "link": "https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice",
-      "published": "2026-08-29T15:49:59-04:00",
-      "title_th": "โทรลล์ Alt-ขวา Milo Yiannopoulos ถูกส่งตัวกลับประเทศแล้ว",
-      "summary_th": "Alt-right troll Milo Yiannopoulos was arrested by ICE on Thursday, and today the Department of Homeland Security confirmed to Reuters and the Washington Post that he had been deported to the UK. Yiannopoulos came to the US legally in 2019, but overstayed his visa. After he failed to appear in court for an immigration hearing, […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-      "summary_en": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "published": "2026-08-29T14:19:53-04:00",
-      "title_th": "Sony Music Publishing และ Warner Chappell กำลังฟ้องร้อง Anthropic",
-      "summary_th": "Sony Music Publishing และ Warner Chappell ได้ยื่นฟ้องคดี Anthropic ในศาลแขวงสหรัฐฯ ประจำเขตทางตอนเหนือของรัฐแคลิฟอร์เนีย เพื่อเรียกร้องค่าเสียหายจากผลงานที่มีลิขสิทธิ์ \"นับหมื่น\" บริษัทต่างๆ กำลังขอเงินสูงถึง 150,000 ดอลลาร์ต่องาน บวกอีก 25,000 ดอลลาร์สำหรับแต่ละกรณีเมื่อมีการถอดข้อมูลลิขสิทธิ์ที่สามารถระบุตัวตนได้ โดยรวมแล้ว […]"
     },
     {
       "source": "Ars Technica",
@@ -180,7 +180,7 @@
       "link": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
       "published": "Mon, 24 Aug 2026 19:19:21 +0000",
       "title_th": "เสียงที่ไม่ได้ยินที่ใช้ในเบราว์เซอร์ลายนิ้วมือจะตรวจจับ AliExpress มือแดง",
-      "summary_th": "เทคนิคนี้ล้าสมัยหรือไม่? ใช่. มันยังน่าขนลุกอยู่เหรอ? ใช่เช่นกัน"
+      "summary_th": "Is the technique outdated? Yes. Is it still creepy? Also yes."
     },
     {
       "source": "Wired",
@@ -191,7 +191,7 @@
       "image": "https://media.wired.com/photos/6a8f1c5ba84e455f12fd962b/master/pass/NoScreenWearable.jpg",
       "link": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
       "published": "Sun, 30 Aug 2026 10:30:00 +0000",
-      "title_th": "เหตุใดอุปกรณ์สวมใส่ใหม่ที่ร้อนแรงที่สุดจึงต้องการถูกละเลย",
+      "title_th": "Why the Hottest New Wearables Want to Be Ignored",
       "summary_th": "เหนื่อยหน่ายกับเสียงกระหึ่มที่ข้อมือและการแจ้งเตือนเกินพิกัดใช่ไหม? อุปกรณ์สวมใส่ที่เรียบง่ายรูปแบบใหม่สัญญาว่าจะรวบรวมข้อมูลสุขภาพของคุณโดยไม่ต้องเรียกร้องความสนใจจากคุณ"
     },
     {
@@ -306,6 +306,54 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "Not the GameCube, not the Wii U: This was Nintendo's most unsuccessful console",
+      "summary_en": "Nintendo's worst-ever console was awkward to use and didn't even sell a million units. But you can try it today if you're curious.",
+      "image": "https://www.engadget.com/img/gallery/not-the-gamecube-not-the-wii-u-this-was-nintendos-most-unsuccessful-console/l-intro-1786717178.jpg",
+      "link": "https://www.engadget.com/2242784/nintendo-most-unsuccessful-console-not-gamecube-wii-u/",
+      "published": "Sun, 30 Aug 2026 18:00:00 +0000",
+      "title_th": "ไม่ใช่ GameCube ไม่ใช่ Wii U: นี่เป็นคอนโซลที่ประสบความสำเร็จที่สุดของ Nintendo",
+      "summary_th": "คอนโซลที่แย่ที่สุดเท่าที่เคยมีมาของ Nintendo ใช้งานไม่สะดวกและขายได้ไม่ถึงล้านเครื่องด้วยซ้ำ แต่คุณสามารถลองได้วันนี้ถ้าคุณอยากรู้"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "What free gifts does Xbox give you on your birthday?",
+      "summary_en": "Microsoft awards points to Xbox users on their birthday if they are signed up for rewards and know how to claim them. Here",
+      "image": "https://www.engadget.com/img/gallery/what-free-gifts-does-xbox-give-you-on-your-birthday/l-intro-1786651298.jpg",
+      "link": "https://www.engadget.com/2242783/free-gifts-birthday-xbox/",
+      "published": "Sun, 30 Aug 2026 16:30:00 +0000",
+      "title_th": "Xbox ให้ของขวัญอะไรฟรีแก่คุณในวันเกิดของคุณ?",
+      "summary_th": "รางวัลของ Microsoft ชี้ไปที่ผู้ใช้ Xbox ในวันเกิดของพวกเขาหากพวกเขาลงทะเบียนเพื่อรับรางวัลและรู้วิธีรับสิทธิ์ ที่นี่"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Apple prototyped a stylus for the foldable iPhone that we may never see",
+      "summary_en": "On the bright side, Apple is more certainly working on an Apple Watch overhaul.",
+      "image": "https://www.engadget.com/img/gallery/apple-prototyped-a-stylus-for-the-foldable-iphone-that-we-may-never-see/l-intro-1788106865.jpg",
+      "link": "https://www.engadget.com/2247093/apple-prototyped-stylus-for-foldable-iphone-that-we-may-never-see/",
+      "published": "Sun, 30 Aug 2026 16:23:10 +0000",
+      "title_th": "Apple ได้สร้างต้นแบบปากกาสไตลัสสำหรับ iPhone แบบพับได้ที่เราอาจไม่เคยเห็นมาก่อน",
+      "summary_th": "หากมองในแง่ดี Apple กำลังทำงานในการยกเครื่อง Apple Watch อย่างแน่นอนยิ่งขึ้น"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Things to know before using your MacBook outside",
+      "summary_en": "Keep an eye on the temperature when using your MacBook outside.",
+      "image": "https://www.engadget.com/img/gallery/things-to-know-before-using-your-macbook-outside/l-intro-1786646118.jpg",
+      "link": "https://www.engadget.com/2242777/using-macbook-outside-consider-these-things/",
+      "published": "Sun, 30 Aug 2026 14:30:00 +0000",
+      "title_th": "สิ่งที่ควรรู้ก่อนใช้ MacBook ออกไปข้างนอก",
+      "summary_th": "จับตาดูอุณหภูมิเมื่อใช้ MacBook นอกบ้าน"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "Improve your Android Auto experience by doing these simple things",
       "summary_en": "Android Auto has several essential features enabled by default, but you may be surprised at how much it can really do.",
       "image": "https://www.engadget.com/img/gallery/improve-your-android-auto-experience-by-doing-these-simple-things/l-intro-1787319995.jpg",
@@ -313,54 +361,6 @@
       "published": "Sun, 30 Aug 2026 13:30:00 +0000",
       "title_th": "ปรับปรุงประสบการณ์ Android Auto ของคุณด้วยการทำสิ่งง่ายๆ เหล่านี้",
       "summary_th": "Android Auto มีคุณสมบัติที่สำคัญหลายประการที่เปิดใช้งานตามค่าเริ่มต้น แต่คุณอาจแปลกใจว่ามันสามารถทำได้มากเพียงใด"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "How much storage does a smart TV typically have?",
-      "summary_en": "Smart TVs store lots of data, and the amount they have to work with is often quite low. There are ways to maximize your storage space, though.",
-      "image": "https://www.engadget.com/img/gallery/how-much-storage-does-a-smart-tv-typically-have/l-intro-1787324309.jpg",
-      "link": "https://www.engadget.com/2242773/how-much-storage-does-smart-tv-have/",
-      "published": "Sun, 30 Aug 2026 13:00:00 +0000",
-      "title_th": "โดยทั่วไปแล้วสมาร์ททีวีจะมีพื้นที่เก็บข้อมูลเท่าใด",
-      "summary_th": "สมาร์ททีวีจัดเก็บข้อมูลได้มากมาย และปริมาณที่ต้องจัดการมักจะค่อนข้างต่ำ มีวิธีเพิ่มพื้นที่เก็บข้อมูลของคุณให้สูงสุดหลายวิธี"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Apple Arcade just got this retro-inspired gem",
-      "summary_en": "Retro Bowl College+ is in the Apple Arcade, which means you can play this retro football game with all paid features unlocked, if you",
-      "image": "https://www.engadget.com/img/gallery/apple-arcade-just-got-this-retro-inspired-gem/l-intro-1787341192.jpg",
-      "link": "https://www.engadget.com/2242771/apple-arcade-retro-bowl-college-plus/",
-      "published": "Sun, 30 Aug 2026 12:30:00 +0000",
-      "title_th": "Apple Arcade เพิ่งได้รับอัญมณีที่ได้รับแรงบันดาลใจย้อนยุคนี้",
-      "summary_th": "Retro Bowl College+ อยู่ใน Apple Arcade ซึ่งหมายความว่าคุณสามารถเล่นเกมฟุตบอลย้อนยุคนี้โดยปลดล็อคฟีเจอร์แบบชำระเงินทั้งหมดได้ หากคุณ"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "How to check if your TV is playing in 4K or not",
-      "summary_en": "There's plenty of 4K content to watch on your 4K TV, but not everything is in Ultra HD. Thankfully, you can check what you're currently seeing.",
-      "image": "https://www.engadget.com/img/gallery/how-to-check-if-your-tv-is-playing-in-4k-or-not/l-intro-1786659438.jpg",
-      "link": "https://www.engadget.com/2245493/how-to-check-if-tv-playing-4k/",
-      "published": "Sun, 30 Aug 2026 12:00:00 +0000",
-      "title_th": "วิธีการตรวจเช็คดูว่าทีวีของท่านเล่นแบบ 4K หรือไม่",
-      "summary_th": "มีเนื้อหา 4K มากมายให้รับชมบนทีวี 4K ของคุณ แต่ไม่ใช่ทุกอย่างที่เป็น Ultra HD โชคดีที่คุณสามารถตรวจสอบสิ่งที่คุณกำลังดูอยู่ได้"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Android Auto not working? Here's what to check first",
-      "summary_en": "Chances are there's a connection issue between your phone and car if Android auto isn't working.",
-      "image": "https://www.engadget.com/img/gallery/android-auto-not-working-heres-what-to-check-first/l-intro-1787158524.jpg",
-      "link": "https://www.engadget.com/2242769/android-auto-not-working-check-first/",
-      "published": "Sat, 29 Aug 2026 23:30:00 +0000",
-      "title_th": "Android Auto not working? Here's what to check first",
-      "summary_th": "Chances are there's a connection issue between your phone and car if Android auto isn't working."
     },
     {
       "source": "IEEE Spectrum",
@@ -408,7 +408,7 @@
       "link": "https://spectrum.ieee.org/ieee-student-conference-budding-authors",
       "published": "Wed, 26 Aug 2026 20:00:04 +0000",
       "title_th": "การประชุมนักศึกษา IEEE ช่วยให้ผู้เขียนรุ่นใหม่มองเห็นได้",
-      "summary_th": "The IEEE–Eta Kappa Nu (IEEE-HKN) honor society is preparing to host the Innovating the Future event on 6 November. The inaugural one-day, in-person event is designed to provide a forum for IEEE and IEEE-HKN undergraduate and graduate student authors to present their original research papers. A keynote address and thematic presentation sessions are planned as well. Student attendees can network with their peers and gain firsthand experience with the academic publishing process. To present at the conference, students had to submit an abstract of their research before 1 May. Students whose work was accepted were assigned a volunteer IEEE member to mentor them and guide them through the research writing process, including presenting and publishing their original work. Those whose paper was acc"
+      "summary_th": "สมาคมเกียรติยศ IEEE–Eta Kappa Nu (IEEE-HKN) กำลังเตรียมจัดงาน Innovating the Future ในวันที่ 6 พฤศจิกายน กิจกรรมพบปะด้วยตนเองครั้งแรกที่จัดขึ้นหนึ่งวัน ได้รับการออกแบบมาเพื่อเป็นเวทีสำหรับนักเขียนระดับปริญญาตรีและนักศึกษาระดับบัณฑิตศึกษาของ IEEE และ IEEE-HKN เพื่อนำเสนอผลงานวิจัยต้นฉบับของตน มีการวางแผนการกล่าวปาฐกถาพิเศษและการนำเสนอตามหัวข้อด้วยเช่นกัน ผู้เข้าร่วมที่เป็นนักศึกษาสามารถสร้างเครือข่ายกับเพื่อนฝูงและได้รับประสบการณ์ตรงเกี่ยวกับกระบวนการเผยแพร่ทางวิชาการ ในการนำเสนอในที่ประชุม นักศึกษาจะต้องส่งบทคัดย่อผลงานวิจัยของตนเองก่อนวันที่ 1 พฤษภาคม นักศึกษาที่ผลงานได้รับการยอมรับจะได้รับมอบหมายให้เป็นสมาชิก IEEE อาสาสมัครเพื่อให้คำปรึกษาและแนะนำพวกเขาตลอดขั้นตอนการเขียนงานวิจัย รวมถึงการนำเสนอและตีพิมพ์ผลงานต้นฉบับของพวกเขา ผู้ที่มีกระดาษตามมาตรฐาน"
     },
     {
       "source": "IEEE Spectrum",
@@ -426,13 +426,49 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "Apple’s next iPad mini is almost ready, here’s what to expect",
+      "summary_en": "Apple has a lot in store for this fall, headlined by the iPhone Ultra and iPhone 18 Pro launching next month. Apple is also working on a new iPad mini, and a new report today suggests it’s coming in October.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ipad-mini-6-jb.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/08/30/apples-next-ipad-mini-is-almost-here-heres-what-to-expect/",
+      "published": "Sun, 30 Aug 2026 16:54:54 +0000",
+      "title_th": "iPad mini เครื่องถัดไปของ Apple ใกล้จะพร้อมแล้ว ต่อไปนี้คือสิ่งที่คาดหวัง",
+      "summary_th": "Apple มีหลายสิ่งที่เตรียมไว้สำหรับฤดูใบไม้ร่วงนี้ นำโดย iPhone Ultra และ iPhone 18 Pro ที่จะเปิดตัวในเดือนหน้า Apple กำลังทำงานบน iPad mini ใหม่และรายงานใหม่ในวันนี้ระบุว่าจะเปิดตัวในเดือนตุลาคม"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple reportedly considered launching a new Apple Pencil for iPhone Ultra",
+      "summary_en": "Apple’s first foldable iPhone should be making its debut in just over a week. In the development process, Apple was reportedly mulling the idea of launching a new Apple Pencil to use alongside the iPhone Ultra – though it probably won’t make it to market.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-orange.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/08/30/iphone-ultra-apple-pencil-support-tested/",
+      "published": "Sun, 30 Aug 2026 14:38:37 +0000",
+      "title_th": "มีรายงานว่า Apple กำลังพิจารณาเปิดตัว Apple Pencil ใหม่สำหรับ iPhone Ultra",
+      "summary_th": "iPhone แบบพับได้เครื่องแรกของ Apple น่าจะเปิดตัวภายในเวลาไม่ถึงสัปดาห์ ในกระบวนการพัฒนา มีรายงานว่า Apple กำลังครุ่นคิดถึงแนวคิดในการเปิดตัว Apple Pencil ใหม่เพื่อใช้ร่วมกับ iPhone Ultra แม้ว่าอาจจะไม่ออกสู่ตลาดก็ตาม"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Report: Apple Watch Series 12 may feature always-on heart-rate tracking, new Fitness app",
+      "summary_en": "According to Bloomberg’s Mark Gurman , Apple has a couple new features in the pipeline for Apple Watch Series 12 and Ultra 4 that’ll make it much more appealing for health-conscious users. The company is also testing two finishes for the rumored ceramic version.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/07/apple-watch-heart-rate-app-watchos-10.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/08/30/apple-watch-series-12-last-minute-leaks-new-fitness-app-heart-rate/",
+      "published": "Sun, 30 Aug 2026 14:27:28 +0000",
+      "title_th": "รายงาน: Apple Watch Series 12 อาจมีการติดตามอัตราการเต้นของหัวใจตลอดเวลา แอปฟิตเนสใหม่",
+      "summary_th": "ตามรายงานของ Mark Gurman จาก Bloomberg Apple มีคุณสมบัติใหม่สองสามอย่างใน Apple Watch Series 12 และ Ultra 4 ซึ่งจะทำให้น่าดึงดูดยิ่งขึ้นสำหรับผู้ใช้ที่ใส่ใจสุขภาพ บริษัทกำลังทดสอบการเคลือบสองแบบสำหรับรุ่นเซรามิกที่มีข่าวลือด้วย"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Apple weekend deals: M6 Mac mini, AirPods Pro 3, AirTag 2, iPhone 17 Pro, more [Updated]",
-      "summary_en": "Update: The official Apple MagSafe Battery back down to the lowest price ever in brand new condition at 40% off . Or you can land one via Amazon Resale down at just $39 (60% off). We are ready to touch down for your 9to5Toys Lunch Break weekend edition. This time around our deals are landing alongside truck loads of price drops from the Amazon 2026 Labor Day sale, as well as the ongoing $50 discount on AirPods Pro 3 and the all-time low on AirTag 2 at $20 a pop. Some other highlights include Amazon’s best prices ever on iPhone 17 Pro at up to $290 off the new list prices and the very first discounts on Apple’s brand new M6 and M5 Pro Mac mini. Check it all out below – you’ll also find loads of deals on accessories, chargers, and smart home gear.",
+      "summary_en": "We are ready to touch down for your 9to5Toys Lunch Break weekend edition. This time around our deals are landing alongside truck loads of price drops from the Amazon 2026 Labor Day sale, as well as the ongoing $50 discount on AirPods Pro 3 and the all-time low on AirTag 2 at $20 a pop. Some other highlights include Amazon’s best prices ever on iPhone 17 Pro at up to $290 off the new list prices and the very first discounts on Apple’s brand new M6 and M5 Pro Mac mini. Check it all out below – you’ll also find loads of deals on accessories, chargers, and smart home gear.",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple-weekend-deals-late-August-2026.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/08/30/apple-weekend-deals-m6-mac-mini-airpods-airtag-2/",
       "published": "Sun, 30 Aug 2026 12:15:00 +0000",
       "title_th": "ข้อเสนอสุดสัปดาห์ของ Apple: M6 Mac mini, AirPods Pro 3, AirTag 2, iPhone 17 Pro, เพิ่มเติม [อัปเดต]",
-      "summary_th": "Update: The official Apple MagSafe Battery back down to the lowest price ever in brand new condition at 40% off . Or you can land one via Amazon Resale down at just $39 (60% off). We are ready to touch down for your 9to5Toys Lunch Break weekend edition. This time around our deals are landing alongside truck loads of price drops from the Amazon 2026 Labor Day sale, as well as the ongoing $50 discount on AirPods Pro 3 and the all-time low on AirTag 2 at $20 a pop. Some other highlights include Amazon’s best prices ever on iPhone 17 Pro at up to $290 off the new list prices and the very first discounts on Apple’s brand new M6 and M5 Pro Mac mini. Check it all out below – you’ll also find loads of deals on accessories, chargers, and smart home gear."
+      "summary_th": "เราพร้อมที่จะสัมผัส 9to5Toys Lunch Break ฉบับสุดสัปดาห์แล้ว ข้อเสนอของเราในครั้งนี้มาพร้อมกับราคารถบรรทุกที่ลดลงจากการขายวันแรงงานใน Amazon ปี 2026 รวมถึงส่วนลดอย่างต่อเนื่อง $50 สำหรับ AirPods Pro 3 และ AirTag 2 ที่ต่ำเป็นประวัติการณ์ที่ $20 ต่อป๊อป ไฮไลท์อื่นๆ ได้แก่ ราคาที่ดีที่สุดของ Amazon บน iPhone 17 Pro โดยลดราคาสูงสุด 290 ดอลลาร์จากราคาปลีกใหม่ และส่วนลดแรกสุดสำหรับ M6 และ M5 Pro Mac mini ใหม่ล่าสุดของ Apple ลองดูทั้งหมดด้านล่าง – คุณยังจะพบข้อเสนอมากมายเกี่ยวกับอุปกรณ์เสริม ที่ชาร์จ และอุปกรณ์สมาร์ทโฮมอีกด้วย"
     },
     {
       "source": "9to5Mac",
@@ -443,44 +479,8 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/apple-card-fi.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/08/29/apple-card-keeps-getting-better-heres-everything-new/",
       "published": "Sat, 29 Aug 2026 23:18:38 +0000",
-      "title_th": "Apple Card keeps getting better, here’s everything new",
-      "summary_th": "Apple Card launched seven years ago this month, and it keeps getting better. There are new features, perks, rewards, and more. Plus, there’s one major change looming. Here’s everything new with Apple Card lately."
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Will Apple’s ‘revamped’ Health app with AI health coach debut next month?",
-      "summary_en": "Earlier this year, rumors were rampant about a revamped Health app coming to iOS 26.4. Then the project was delayed, and iOS 27 came and went, and the revamp still didn’t arrive. With the new Apple Watch Series 12 and Ultra 4 debuting next month, it’s worth asking: will we see the features debut alongside new hardware?",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-watch-health.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/29/apple-health-revamp-ai-coach-new-apple-watch-next-month/",
-      "published": "Sat, 29 Aug 2026 21:38:00 +0000",
-      "title_th": "Will Apple’s ‘revamped’ Health app with AI health coach debut next month?",
-      "summary_th": "Earlier this year, rumors were rampant about a revamped Health app coming to iOS 26.4. Then the project was delayed, and iOS 27 came and went, and the revamp still didn’t arrive. With the new Apple Watch Series 12 and Ultra 4 debuting next month, it’s worth asking: will we see the features debut alongside new hardware?"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Indie App Spotlight: ‘Laytr’ is a one stop shop for logging everything you want to see later",
-      "summary_en": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . If you lose track of things you’d like to reference later, Laytr might be a nice solution for you. All of us save things all over the place, whether that be browser bookmarks, built-in bookmarking features within apps, taking a screenshot to hopefully find later, or just leaving a tab open and hoping we find it again later. Laytr aims to be a nice all-in-one solution for keeping track of your digital bookmarks.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Laytr-app.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/29/indie-app-spotlight-laytr-is-a-one-stop-shop-for-logging-everything-you-want-to-find-later/",
-      "published": "Sat, 29 Aug 2026 19:30:00 +0000",
-      "title_th": "Indie App Spotlight: ‘Laytr’ is a one stop shop for logging everything you want to see later",
-      "summary_th": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . If you lose track of things you’d like to reference later, Laytr might be a nice solution for you. All of us save things all over the place, whether that be browser bookmarks, built-in bookmarking features within apps, taking a screenshot to hopefully find later, or just leaving a tab open and hoping we find it again later. Laytr aims to be a nice all-in-one solution for keeping track of your digital bookmarks."
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "As a relatively new Apple Vision Pro user, this is my favorite way to use it",
-      "summary_en": "Apple Vision Pro is one of Apple’s most interesting hardware releases yet. It’s technically very impressive, yet it seems almost certain that this form factor won’t last – and is instead just a temporary platform to introduce visionOS to the world before we eventually get glasses. I did buy one late last year, and while I haven’t been a major user of it, there is one use case that genuinely makes it enjoyable.",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/m5-vision-pro-chance.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/29/heres-how-i-enjoy-using-apple-vision-pro/",
-      "published": "Sat, 29 Aug 2026 17:50:00 +0000",
-      "title_th": "ในฐานะผู้ใช้ Apple Vision Pro ที่ค่อนข้างใหม่ นี่เป็นวิธีที่ฉันชอบใช้มากที่สุด",
-      "summary_th": "Apple Vision Pro เป็นหนึ่งในฮาร์ดแวร์ที่น่าสนใจที่สุดของ Apple เป็นเทคนิคที่น่าประทับใจมาก แต่ดูเหมือนว่าจะเกือบจะแน่ใจว่าฟอร์มแฟคเตอร์นี้จะไม่คงอยู่ และเป็นเพียงแพลตฟอร์มชั่วคราวที่แนะนำ VisionOS ให้กับโลกก่อนที่เราจะมีแว่นตาในที่สุด ฉันซื้อมันเมื่อปลายปีที่แล้ว และถึงแม้ว่าฉันจะไม่ใช่ผู้ใช้มันรายใหญ่ แต่ก็มีกรณีการใช้งานหนึ่งที่ทำให้สนุกได้อย่างแท้จริง"
+      "title_th": "Apple Card ดีขึ้นเรื่อยๆ นี่คือทุกสิ่งใหม่",
+      "summary_th": "Apple Card เปิดตัวเมื่อเจ็ดปีที่แล้วในเดือนนี้ และจะดีขึ้นเรื่อยๆ มีฟีเจอร์ใหม่ สิทธิพิเศษ รางวัล และอื่นๆ อีกมากมาย นอกจากนี้ยังมีการเปลี่ยนแปลงสำคัญอย่างหนึ่งที่กำลังเกิดขึ้น นี่คือทุกสิ่งใหม่ใน Apple Card เมื่อเร็ว ๆ นี้"
     },
     {
       "source": "9to5Google",
@@ -504,7 +504,7 @@
       "link": "https://9to5google.com/2026/08/29/new-google-messages-features/",
       "published": "Sat, 29 Aug 2026 19:12:00 +0000",
       "title_th": "ฟีเจอร์ใหม่ของ Google Messages ที่จะเปิดตัว [สิงหาคม 2026]",
-      "summary_th": "Like other Google apps, Messages for Android A/B tests many features. It can take the RCS/SMS client a rather long time to actually launch new functionality in stable. From various reports, Google announcements , and devices we’ve checked, this is the current state of Messages."
+      "summary_th": "เช่นเดียวกับแอปอื่นๆ ของ Google Messages สำหรับ Android A/B ทดสอบคุณสมบัติมากมาย ไคลเอ็นต์ RCS/SMS อาจใช้เวลานานพอสมควรในการเปิดใช้ฟังก์ชันการทำงานใหม่ในเวอร์ชันเสถียร จากรายงานต่างๆ ประกาศของ Google และอุปกรณ์ที่เราตรวจสอบ นี่คือสถานะปัจจุบันของ Messages"
     },
     {
       "source": "9to5Google",
@@ -516,7 +516,7 @@
       "link": "https://9to5google.com/2026/08/29/mammotion-luba-3-review-robot-lawnmower/",
       "published": "Sat, 29 Aug 2026 13:30:00 +0000",
       "title_th": "Mammotion Luba 3 เปลี่ยนใจฉันเกี่ยวกับหุ่นยนต์ตัดหญ้า",
-      "summary_th": "Robot lawnmowers have long intrigued me, but I never really wanted one. After a few weeks with the Mammotion Luba 3, though, I’m sold, because this fixed my biggest issue with other models."
+      "summary_th": "หุ่นยนต์ตัดหญ้าทำให้ฉันทึ่งมานานแล้ว แต่ฉันไม่เคยอยากได้มันเลย หลังจากนั้นไม่กี่สัปดาห์กับ Mammotion Luba 3 ฉันก็ขายทิ้งไปแล้ว เพราะนี่เป็นการแก้ไขปัญหาที่ใหญ่ที่สุดของฉันกับรุ่นอื่นๆ"
     },
     {
       "source": "9to5Google",
@@ -527,8 +527,8 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/Android-17-logo-1.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/08/28/android-17-qpr2-beta-4-everything-new/",
       "published": "Fri, 28 Aug 2026 23:10:11 +0000",
-      "title_th": "Here’s everything new in Android 17 QPR2 Beta 4 [Gallery]",
-      "summary_th": "While not as big as the last release, Android 17 QPR2 Beta 4 is a sizable update ahead of the stable December release."
+      "title_th": "นี่คือทุกสิ่งใหม่ใน Android 17 QPR2 Beta 4 [แกลเลอรี]",
+      "summary_th": "แม้ว่าจะไม่ใหญ่เท่ากับรุ่นล่าสุด แต่ Android 17 QPR2 Beta 4 ก็เป็นการอัปเดตขนาดใหญ่ก่อนการเปิดตัวในเดือนธันวาคมที่เสถียร"
     },
     {
       "source": "9to5Google",
@@ -539,8 +539,32 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Dreambeans-3.webp?resize=1200,628",
       "link": "https://9to5google.com/2026/08/28/google-dreambeans-free/",
       "published": "Fri, 28 Aug 2026 22:54:04 +0000",
-      "title_th": "Google’s hyper-personalized ‘Dreambeans’ feed is now free to test",
-      "summary_th": "Dreambeans is an experimental app from Google Labs that will “proactively dream up personalized daily stories.” After previously requiring a subscription, Dreambeans is now available for free Google Accounts in the US to test."
+      "title_th": "ฟีด 'Dreambeans' ที่ได้รับการปรับให้เป็นส่วนตัวของ Google เปิดให้ทดสอบฟรีแล้ว",
+      "summary_th": "Dreambeans เป็นแอปทดลองจาก Google Labs ที่จะ \"ฝันถึงเรื่องราวในแต่ละวันในแบบของคุณ\" หลังจากที่ต้องสมัครสมาชิกก่อนหน้านี้ Dreambeans ก็เปิดให้ทดสอบบัญชี Google ฟรีในสหรัฐอเมริกาแล้ว"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Survey Sunday: will the Ford Fathom steal Slate Auto’s thunder?",
+      "summary_en": "For the last few weeks, we’ve been running a sidebar survey about whether Electrek readers believed the announcement of Ford’s upcoming, all-electric $30,000 Fathom pickup would sink Bezos-backed startup Slate Auto before it even got to set sail. After nearly 2,700 responses, here’s what you told us.",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/service-modules.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/08/30/survey-sunday-will-the-ford-fathom-steal-slate-autos-thunder/",
+      "published": "Sun, 30 Aug 2026 17:43:59 +0000",
+      "title_th": "สำรวจวันอาทิตย์: Ford Fathom จะขโมยฟ้าร้องของ Slate Auto หรือไม่",
+      "summary_th": "ในช่วงสองสามสัปดาห์ที่ผ่านมา เราได้ดำเนินการสำรวจแถบด้านข้างว่าผู้อ่าน Electrek เชื่อว่าการประกาศรถกระบะ Fathom ที่ใช้ไฟฟ้ามูลค่า 30,000 เหรียญสหรัฐที่กำลังจะมาถึงของ Ford จะทำให้บริษัท Slate Auto ที่ได้รับการสนับสนุนจาก Bezos จมก่อนที่จะออกเดินทางด้วยซ้ำ หลังจากการตอบกลับเกือบ 2,700 ครั้ง นี่คือสิ่งที่คุณบอกเรา"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Amazon’s massive 2026 Labor Day sale now live! Thousands of deals: Apple, Android, TVs, tech under $100, more from under $5",
+      "summary_en": "The official 2026 Amazon Labor Day Sale is now live. Featuring thousands and thousands of price drops across just about every product category, the Amazon Labor Day Sale has now taken the site over with deals on everything from AirPods Pro 3 and AirTag 2 through to Bose headphones, Anker charging gear, OLED TVs, coffee makers, smart home upgrades, and just about everything in between. Check it out right here and head below for more details.",
+      "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/08/Amazon-Labor-Day-sale-2026-live.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5toys.com/2026/08/30/amazon-2026-labor-day-now-live/",
+      "published": "Sun, 30 Aug 2026 17:21:38 +0000",
+      "title_th": "Amazon’s massive 2026 Labor Day sale now live! Thousands of deals: Apple, Android, TVs, tech under $100, more from under $5",
+      "summary_th": "The official 2026 Amazon Labor Day Sale is now live. Featuring thousands and thousands of price drops across just about every product category, the Amazon Labor Day Sale has now taken the site over with deals on everything from AirPods Pro 3 and AirTag 2 through to Bose headphones, Anker charging gear, OLED TVs, coffee makers, smart home upgrades, and just about everything in between. Check it out right here and head below for more details."
     },
     {
       "source": "Electrek",
@@ -551,7 +575,7 @@
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/slate-high-roof.png?resize=1200,628",
       "link": "https://electrek.co/2026/08/30/report-slate-will-offer-a-high-roof-cargo-version-of-its-compact-pickup/",
       "published": "Sun, 30 Aug 2026 13:38:25 +0000",
-      "title_th": "Slate will offer a high roof cargo version of its compact pickup – and you can buy it!",
+      "title_th": "Slate จะนำเสนอรถกระบะขนาดกะทัดรัดในรุ่นบรรทุกสินค้าหลังคาสูง และคุณสามารถซื้อได้!",
       "summary_th": "Slate Auto ที่ได้รับการสนับสนุนจาก Bezos จริงจังกับตลาดรถบรรทุกเพื่อการพาณิชย์ และทีมพัฒนาธุรกิจฟลีทของบริษัทได้แชร์ข้อมูลรายละเอียดบางส่วนเกี่ยวกับชุดบรรทุกสินค้าหลังคาสูงที่มีข่าวลือในงานอีเวนต์รถร่วมพอร์ตแลนด์ที่กำลังดำเนินอยู่ของแบรนด์"
     },
     {
@@ -564,7 +588,7 @@
       "link": "https://electrek.co/2026/08/30/e-quipment-highlight-tiger-electric-baggage-tug-hauls-30-tons-video/",
       "published": "Sun, 30 Aug 2026 13:00:18 +0000",
       "title_th": "จุดเด่นอุปกรณ์อิเลกทรอนิกส์ : รถลากจูงสัมภาระไฟฟ้า Tiger 30 TONS [วีดีโอ]",
-      "summary_th": "The Tiger Li-Ion electric baggage tug is quietly revolutionizing the airport ground handling and ground support equipment (GSE) market with silent, emission-free running, massive fuel savings, and a 60,000 lb. (!) payload capacity."
+      "summary_th": "รถลากจูงสัมภาระไฟฟ้า Tiger Li-Ion กำลังปฏิวัติตลาดอุปกรณ์ควบคุมภาคพื้นดินและอุปกรณ์สนับสนุนภาคพื้นดิน (GSE) ในสนามบินอย่างเงียบๆ ด้วยการทำงานที่เงียบ ไร้มลพิษ ประหยัดเชื้อเพลิงได้มหาศาล และสามารถรองรับน้ำหนักบรรทุกได้ 60,000 ปอนด์ (!)"
     },
     {
       "source": "Electrek",
@@ -577,30 +601,6 @@
       "published": "Sat, 29 Aug 2026 16:08:01 +0000",
       "title_th": "666 – แบรนด์ Spiaggia Lucciola Elettrica โดยมีมาร์กอัป 13 เปอร์เซ็นต์",
       "summary_th": "หมายเลข 666 และ 13 ไม่ได้มีชื่อเสียงดีที่สุดในบางวงการ แต่ Nio แบรนด์รถยนต์สัญชาติจีนหวังว่า Firefly แฮทช์แบ็กรุ่นล่าสุดจะโชคดีกว่าด้วย โดยนำเสนอรถยนต์ไฟฟ้ารุ่นพิเศษจำนวน 666 คันในราคาที่สูงกว่าปกติถึง 13%"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Robot delivery dog dumps hot steaming packages on your doorstep [video]",
-      "summary_en": "The new R-dog delivery robot hopes to replace your local gig-workers with a friendly face, red cap, approachable design, and even furry tail – all cute and adorable, until it poops your package onto your porch. Oh, and it runs ads the entire time.",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/delivery-dog_MAIN-copy.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/08/29/robot-delivery-dog-dumps-hot-steaming-packages-on-your-doorstep-video/",
-      "published": "Sat, 29 Aug 2026 13:19:10 +0000",
-      "title_th": "หุ่นยนต์สุนัขส่งของทิ้งพัสดุนึ่งร้อนไว้ที่หน้าประตูบ้านของคุณ [วิดีโอ]",
-      "summary_th": "หุ่นยนต์ส่งของ R-dog ตัวใหม่หวังที่จะแทนที่พนักงานกิ๊กในพื้นที่ของคุณด้วยใบหน้าที่เป็นมิตร หมวกสีแดง การออกแบบที่เข้าถึงได้ และแม้แต่หางที่มีขนฟู ซึ่งทั้งหมดนี้น่ารักและน่ารัก จนกระทั่งมันส่งพัสดุของคุณไปที่ระเบียงของคุณ โอ้ และมันแสดงโฆษณาตลอดเวลา"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Kia is recalling over 21,000 EV9 SUVs over a faulty airbag issue",
-      "summary_en": "Kia issued a recall affecting more than 21,000 EV9 SUVs because the airbag system may fail to detect a child in the front seat.",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Kia-EV9-recall.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/08/28/kia-is-recalling-over-21000-ev9-suvs-over-a-faulty-airbag-issue/",
-      "published": "Fri, 28 Aug 2026 21:06:03 +0000",
-      "title_th": "Kia เรียกคืนรถ SUV EV9 กว่า 21,000 คัน เหตุถุงลมนิรภัยทำงานผิดปกติ",
-      "summary_th": "Kia เรียกคืนรถ SUV EV9 มากกว่า 21,000 คัน เนื่องจากระบบถุงลมนิรภัยอาจตรวจไม่พบเด็กในเบาะหน้า"
     }
   ],
   "indices": [
@@ -703,6 +703,16 @@
     {
       "channel": "Unbox Therapy",
       "country": "US",
+      "title_en": "Heat Testing Against a Flagship… 🔥",
+      "video_id": "XI_VXoP9C28",
+      "link": "https://www.youtube.com/shorts/XI_VXoP9C28",
+      "thumbnail": "https://i1.ytimg.com/vi/XI_VXoP9C28/hqdefault.jpg",
+      "published": "2026-08-30T17:24:58+00:00",
+      "title_th": "การทดสอบความร้อนกับเรือธง… 🔥"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
       "title_en": "This is the iPhone 18 Pro Max",
       "video_id": "LyxJWtoyK0o",
       "link": "https://www.youtube.com/watch?v=LyxJWtoyK0o",
@@ -719,16 +729,6 @@
       "thumbnail": "https://i4.ytimg.com/vi/gTP8orDab0w/hqdefault.jpg",
       "published": "2026-08-28T16:30:48+00:00",
       "title_th": "ดูการสลับเลนส์นี้ (เปิดเสียง 🔊)"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "10,000 mAh Battery… In a Smartphone...",
-      "video_id": "ihxHk6wYj8c",
-      "link": "https://www.youtube.com/shorts/ihxHk6wYj8c",
-      "thumbnail": "https://i2.ytimg.com/vi/ihxHk6wYj8c/hqdefault.jpg",
-      "published": "2026-08-27T20:09:40+00:00",
-      "title_th": "แบตเตอรี่ 10,000 mAh…ในสมาร์ทโฟน..."
     },
     {
       "channel": "Beartai",
