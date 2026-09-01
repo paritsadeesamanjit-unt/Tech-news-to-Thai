@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-01T08:05:26.841928+00:00",
+  "generated_at": "2026-09-01T13:47:12.802221+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "If space data centers feel far-fetched, why not interstellar travel?",
+      "summary_en": "The team behind Starcloud's orbital data centers has a new high-risk space project: Sending a probe to Alpha Centauri.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Philip_AC_vertical-e1788214270919.jpeg?w=913",
+      "link": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/",
+      "published": "Tue, 01 Sep 2026 10:00:00 +0000",
+      "title_th": "หากศูนย์ข้อมูลอวกาศรู้สึกว่าเป็นเรื่องไกลตัว ทำไมไม่ลองเดินทางระหว่างดวงดาวดูล่ะ?",
+      "summary_th": "ทีมงานที่อยู่เบื้องหลังศูนย์ข้อมูลวงโคจรของ Starcloud มีโครงการอวกาศที่มีความเสี่ยงสูงใหม่: การส่งยานสำรวจไปยัง Alpha Centauri"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -51,76 +63,64 @@
       "summary_th": "บริษัท 1789 Capital เป็นผู้นำในการระดมทุนซึ่งมีรายงานว่ามีมูลค่ารวมประมาณ 1 พันล้านดอลลาร์"
     },
     {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "a16z brings growth fund to $8.5B days after launching new $1.1B fund",
-      "summary_en": "Andreessen Horowitz held out its hand and returned with billions more in new funds to invest in startups.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-495510896.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
-      "published": "Mon, 31 Aug 2026 23:14:14 +0000",
-      "title_th": "a16z เพิ่มกองทุนการเติบโตเป็น 8.5 พันล้านดอลลาร์หลังจากเปิดตัวกองทุนใหม่ 1.1 พันล้านดอลลาร์",
-      "summary_th": "Andreessen Horowitz ยื่นมือออกมาและกลับมาพร้อมกับกองทุนใหม่นับพันล้านเพื่อลงทุนในสตาร์ทอัพ"
-    },
-    {
       "source": "The Verge",
       "flag": "US",
       "category": "gadget",
-      "title_en": "The Google TV Streamer now costs $50 more",
-      "summary_en": "Google raised the price of its 4K streaming box to $149, up $50 from its original $99 price. The new price is currently live at the Google Store and Best Buy, but Amazon appears to still be offering the original price. The price hike comes just a couple of weeks after Google launched its new […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25562292/DSCF0055.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
-      "published": "2026-08-31T18:32:51-04:00",
-      "title_th": "ขณะนี้ Google TV Streamer มีราคาเพิ่มขึ้น 50 ดอลลาร์",
-      "summary_th": "Google ขึ้นราคากล่องสตรีมมิ่ง 4K เป็น 149 ดอลลาร์ เพิ่มขึ้น 50 ดอลลาร์จากราคาเดิม 99 ดอลลาร์ ขณะนี้ราคาใหม่มีให้บริการที่ Google Store และ Best Buy แต่ดูเหมือนว่า Amazon ยังคงเสนอราคาเดิม การขึ้นราคาเกิดขึ้นเพียงไม่กี่สัปดาห์หลังจากที่ Google เปิดตัว […]"
+      "title_en": "John Ternus takes over as Apple’s new CEO",
+      "summary_en": "The multitrillion-dollar home of the iPhone, Mac, and so many other tech gadgets has a new leaader, as Tim Cook has been replaced as CEO as of September 1st by former hardware boss John Ternus. How will we look back on Cook’s legacy, and what will Apple look like under the leadership of Ternus and […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Apple-John-Ternus-Tim-Cook.jpg?quality=90&strip=all&crop=0%2C5.6944444444444%2C100%2C93.077370564282&w=1200",
+      "link": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
+      "published": "2026-09-01T09:28:43-04:00",
+      "title_th": "John Ternus เข้ามารับตำแหน่ง CEO คนใหม่ของ Apple",
+      "summary_th": "บ้านที่มีมูลค่าหลายล้านล้านดอลลาร์ของ iPhone, Mac และอุปกรณ์เทคโนโลยีอื่น ๆ อีกมากมายมีผู้นำคนใหม่ เนื่องจาก Tim Cook ถูกแทนที่ด้วย CEO ณ วันที่ 1 กันยายนโดย John Ternus อดีตหัวหน้าฝ่ายฮาร์ดแวร์ เราจะมองย้อนกลับไปถึงมรดกของ Cook ได้อย่างไร และ Apple จะมีหน้าตาเป็นอย่างไรภายใต้การนำของ Ternus และ […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "software",
-      "title_en": "JMGO’s very bright all-in-one projector looks ideal for gamers and sports",
-      "summary_en": "JMGO's 4K 120Hz Iris Ultra Max all-in-one Google TV projector is now available outside China. It gets its name from a new dual-iris system that lets it produce an impressive 10,000:1 native contrast, according to JMGO. It boosts the contrast - always an issue with projectors - by placing two separate physical apertures (irises) along […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/01-lRIS-Ultra-Max-Right45.png?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-      "link": "https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs",
-      "published": "2026-08-31T18:00:00-04:00",
-      "title_th": "โปรเจ็กเตอร์ออลอินวันที่สว่างมากของ JMGO เหมาะอย่างยิ่งสำหรับนักเล่นเกมและกีฬา",
-      "summary_th": "โปรเจ็กเตอร์ Google TV ออลอินวัน 4K 120Hz Iris Ultra Max ของ JMGO วางจำหน่ายแล้วนอกประเทศจีน ได้ชื่อมาจากระบบดูอัลไอริสใหม่ที่ให้คอนทราสต์เนทิฟ 10,000:1 ที่น่าประทับใจ ตามข้อมูลของ JMGO มันช่วยเพิ่มคอนทราสต์ - ปัญหาที่เกิดกับโปรเจ็กเตอร์เสมอ - โดยการวางรูรับแสง (ไอริส) แยกกันสองอันตามแนว […]"
+      "title_en": "Florida blocks Flock cams on state highways",
+      "summary_en": "Florida is banning Flock cameras and other automated license plate readers across state highways, as reported earlier by NBC News and local news outlet WUSF. In a memo on Monday, Florida's Department of Transportation says it's revoking permits for all license plate readers, adding that they must be removed from state highways within 30 days. […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265184860.jpg?quality=90&strip=all&crop=0%2C10.735414032424%2C100%2C78.529171935151&w=1200",
+      "link": "https://www.theverge.com/tech/987353/florida-flock-cam-ban-state-highways",
+      "published": "2026-09-01T09:17:36-04:00",
+      "title_th": "ฟลอริดาปิดกล้อง Flock บนทางหลวงของรัฐ",
+      "summary_th": "ฟลอริดากำลังห้ามกล้อง Flock และเครื่องอ่านป้ายทะเบียนอัตโนมัติอื่นๆ ข้ามทางหลวงของรัฐ ตามที่รายงานก่อนหน้านี้โดย NBC News และสำนักข่าวท้องถิ่น WUSF ในบันทึกเมื่อวันจันทร์ กระทรวงคมนาคมของรัฐฟลอริดากล่าวว่าจะเพิกถอนใบอนุญาตสำหรับผู้อ่านป้ายทะเบียนทั้งหมด โดยเสริมว่าจะต้องถอดใบอนุญาตออกจากทางหลวงของรัฐภายใน 30 วัน […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Get ready for a really busy month of smartphones",
+      "summary_en": "We're not even half a day into September, and two new smartphones have already launched: the Poco F9 Pro and F9 Ultra. We're expecting more this week, as the IFA trade show kicks off in Berlin, before we get new iPhones a week after that. And that's only the beginning of what promises to be […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25642174/247288_Phone_Buying_Guides_2B_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/986236/smartphones-september-ifa-apple-iphone-oppo-vivo-xiaomi",
+      "published": "2026-09-01T09:00:00-04:00",
+      "title_th": "เตรียมพร้อมสำหรับเดือนแห่งสมาร์ทโฟนที่แสนจะยุ่งวุ่นวาย",
+      "summary_th": "เดือนกันยายนผ่านไปไม่ถึงครึ่งวันด้วยซ้ำ และมีสมาร์ทโฟนใหม่ 2 รุ่นเปิดตัวแล้ว: Poco F9 Pro และ F9 Ultra เราคาดว่าจะมีมากกว่านี้ในสัปดาห์นี้ เนื่องจากงานแสดงสินค้า IFA ในกรุงเบอร์ลิน ก่อนที่เราจะได้ iPhone ใหม่อีกหนึ่งสัปดาห์หลังจากนั้น และนั่นเป็นเพียงจุดเริ่มต้นของสิ่งที่สัญญาว่าจะเป็น […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Nvidia’s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+      "summary_en": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on RTX 50-series desktop and laptop GPUs and through GeForce Now […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/nba-2k-image.jpg?quality=90&strip=all&crop=0%2C10.724534322093%2C100%2C78.550931355815&w=1200",
+      "link": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+      "published": "2026-09-01T09:00:00-04:00",
+      "title_th": "DLSS 5 ที่เป็นที่ถกเถียงของ Nvidia มาถึงวันที่ 3 กันยายนและต้องใช้แรงม้าของ GPU อย่างมาก",
+      "summary_th": "Nvidia เปิดตัว DLSS 5 อย่างเป็นทางการในสัปดาห์นี้ หลังจากการประกาศแตกแยกในเดือนมีนาคม ซึ่งเราได้เปรียบเทียบเทคโนโลยีการลดขนาด AI กับ \"ตัวกรอง AI ที่สร้างแบบเรียลไทม์สำหรับวิดีโอเกม\" และ \"การปรับการเคลื่อนไหวให้ราบรื่นสำหรับวิดีโอเกม แต่แย่กว่านั้น\" DLSS 5 จะวางจำหน่ายอย่างเป็นทางการบนเดสก์ท็อปและแล็ปท็อป GPU ซีรีส์ RTX 50 และผ่าน GeForce Now […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "software",
-      "title_en": "FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads",
-      "summary_en": "The FTC and 22 state attorneys general are suing Amazon for allegedly using a \"secret ad surcharge\" to drive up prices for ads on its website and app. FTC chairman Andrew Ferguson claims in a blog post on the lawsuit that the higher advertising prices \"were largely passed on to American consumers.\" According to the […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit",
-      "published": "2026-08-31T17:41:42-04:00",
-      "title_th": "คดี FTC กล่าวหาว่า Amazon เรียกเก็บเงินค่าโฆษณาเกินจริง 'อย่างเป็นความลับและเป็นระบบ'",
-      "summary_th": "FTC และอัยการสูงสุดของรัฐ 22 แห่งกำลังฟ้องร้อง Amazon เนื่องจากถูกกล่าวหาว่าใช้ \"ค่าธรรมเนียมโฆษณาลับ\" เพื่อขึ้นราคาโฆษณาบนเว็บไซต์และแอป แอนดรูว์ เฟอร์กูสัน ประธาน FTC อ้างในบล็อกโพสต์เกี่ยวกับการฟ้องร้องว่าราคาโฆษณาที่สูงขึ้น \"ส่วนใหญ่ส่งต่อไปยังผู้บริโภคชาวอเมริกัน\" ตามที่ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "I went to the loneliest baseball game on Apple Vision Pro",
-      "summary_en": "This weekend, I strapped on an Apple Vision Pro to watch a baseball game in immersive virtual reality for the first time. It was technically impressive, visually pretty remarkable, and also didn't make that much sense. Apple and Major League Baseball chose a classic match-up of the Boston Red Sox and the New York Yankees […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2291930274.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/986967/apple-vision-pro-mlb-red-sox-yankees-immersive-game",
-      "published": "2026-08-31T17:18:27-04:00",
-      "title_th": "ฉันไปชมการแข่งขันเบสบอลที่โดดเดี่ยวที่สุดบน Apple Vision Pro",
-      "summary_th": "สุดสัปดาห์นี้ ฉันสวม Apple Vision Pro เพื่อชมเกมเบสบอลในความเป็นจริงเสมือนที่ดื่มด่ำเป็นครั้งแรก มันน่าประทับใจในทางเทคนิค มีรูปลักษณ์ที่โดดเด่นทีเดียว และไม่ได้สมเหตุสมผลขนาดนั้นด้วย Apple และ Major League Baseball เลือกการจับคู่แบบคลาสสิกระหว่าง Boston Red Sox และ New York Yankees […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Alienware’s budget-friendly QD-OLED is discounted for the first time",
-      "summary_en": "While memory and storage prices are still high, there are still good discounts on other gaming-related hardware. Take Alienware’s AW2726DM, for example. Dell is selling it for $319.99, a $30 break from the usual price of $349.99. The 27-inch gaming monitor features an QD-OLED panel for deep, immersive black levels, and quantum dots for full […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/aw4.jpg?quality=90&strip=all&crop=0%2C10.73839968634%2C100%2C78.523200627319&w=1200",
-      "link": "https://www.theverge.com/gadgets/986901/alienware-qdoled-2726dm-deal-sale",
-      "published": "2026-08-31T15:31:59-04:00",
-      "title_th": "QD-OLED ที่เป็นมิตรกับงบประมาณของ Alienware ลดราคาเป็นครั้งแรก",
-      "summary_th": "While memory and storage prices are still high, there are still good discounts on other gaming-related hardware. Take Alienware’s AW2726DM, for example. Dell is selling it for $319.99, a $30 break from the usual price of $349.99. The 27-inch gaming monitor features an QD-OLED panel for deep, immersive black levels, and quantum dots for full […]"
+      "title_en": "Nvidia’s DLSS 5, explained",
+      "summary_en": "Nvidia knows that DLSS 5 left a bad first impression. In March, many gamers took one look at Resident Evil Requiem protagonist Grace Ashcroft's DLSS 5-ified face and declared it AI slop. So this week, the company's re-introducing its controversial \"neural rendering\" with firm messaging about how it \"preserves artistic intent,\" \"respects the rendered frame,\" […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/dlss5-200.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/games/986980/nvidias-dlss-5-explained",
+      "published": "2026-09-01T09:00:00-04:00",
+      "title_th": "อธิบาย DLSS 5 ของ Nvidia",
+      "summary_th": "Nvidia รู้ดีว่า DLSS 5 ทิ้งความประทับใจแรกที่ไม่ดีไว้ ในเดือนมีนาคม นักเล่นเกมหลายคนได้ดูใบหน้า DLSS 5 ของ Grace Ashcroft ตัวเอกของ Resident Evil Requiem แล้วประกาศว่าเป็น AI ที่ไม่เหมาะสม ดังนั้นในสัปดาห์นี้ บริษัทจึงได้แนะนำ \"การเรนเดอร์ระบบประสาท\" ที่เป็นที่ถกเถียงกันอีกครั้ง พร้อมข้อความที่ชัดเจนเกี่ยวกับวิธีการ \"รักษาเจตนาทางศิลปะ\" \"เคารพเฟรมที่เรนเดอร์\" […]"
     },
     {
       "source": "Ars Technica",
@@ -143,8 +143,8 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
       "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
       "published": "Sun, 30 Aug 2026 11:03:47 +0000",
-      "title_th": "Inside Meta’s push to put robots to work in data centers",
-      "summary_th": "The company is testing robots on tasks that can performed by technicians."
+      "title_th": "Inside Meta ผลักดันให้หุ่นยนต์ทำงานในศูนย์ข้อมูล",
+      "summary_th": "บริษัทกำลังทดสอบหุ่นยนต์กับงานที่ช่างเทคนิคสามารถทำได้"
     },
     {
       "source": "Ars Technica",
@@ -156,7 +156,7 @@
       "link": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
       "published": "Fri, 28 Aug 2026 11:15:05 +0000",
       "title_th": "เจ้าหน้าที่จับกุม 2 สมาชิกกลุ่มแฮ็ก TeamPCP ที่มีผลงานมากมาย",
-      "summary_th": "กลุ่มดังกล่าวแพร่ระบาดไปยังองค์กรมากกว่า 1,000 แห่งในแคมเปญโจมตีห่วงโซ่อุปทานอย่างไม่หยุดยั้ง"
+      "summary_th": "กลุ่มนี้แพร่เชื้อไปยังองค์กรมากกว่า 1,000 แห่งในแคมเปญโจมตีห่วงโซ่อุปทานอย่างไม่หยุดยั้ง"
     },
     {
       "source": "Ars Technica",
@@ -185,62 +185,74 @@
     {
       "source": "Wired",
       "flag": "US",
-      "category": "ai",
-      "title_en": "LG Promo Codes and Coupons for September 2026",
-      "summary_en": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
-      "link": "https://www.wired.com/story/lg-promo-code/",
-      "published": "Tue, 01 Sep 2026 05:00:00 +0000",
-      "title_th": "รหัสโปรโมชันและคูปอง LG เดือนกันยายน 2569",
-      "summary_th": "ประหยัด 20% ด้วยรหัสโปรโมชั่น LG วันนี้ พร้อมส่วนลดเครื่องใช้ไฟฟ้าสูงสุด 1,000 ดอลลาร์ ส่วนลด 40% สำหรับทีวีและจอภาพที่ขายดีที่สุด"
+      "category": "gadget",
+      "title_en": "5 Best Folding Phones (2026): Samsung, Google, Motorola",
+      "summary_en": "Ready to move on from the traditional glass slab? Introduce a hinge into your life with these folding smartphones.",
+      "image": "https://media.wired.com/photos/6a95dec17beacade09680cbc/master/pass/The-Best-Folding-Phones.jpg",
+      "link": "https://www.wired.com/gallery/best-folding-phones/",
+      "published": "Tue, 01 Sep 2026 11:30:00 +0000",
+      "title_th": "5 โทรศัพท์พับได้ที่ดีที่สุด (2026): Samsung, Google, Motorola",
+      "summary_th": "พร้อมที่จะเปลี่ยนจากแผ่นกระจกแบบเดิมๆ แล้วหรือยัง? เพิ่มบานพับให้กับชีวิตของคุณด้วยสมาร์ทโฟนแบบพับได้เหล่านี้"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "review",
+      "title_en": "Sennheiser Momentum 5 Wireless Headphones Review (2026)",
+      "summary_en": "The flagship headphones get up to 57 hours of battery life and have easily replaceable batteries.",
+      "image": "https://media.wired.com/photos/6a95e27ca31f896f81e826b1/master/pass/Review--Sennheiser-Momentum-5-Wireless.jpg",
+      "link": "https://www.wired.com/review/sennheiser-momentum-5/",
+      "published": "Tue, 01 Sep 2026 11:00:00 +0000",
+      "title_th": "รีวิวหูฟังไร้สาย Sennheiser Momentum 5 (2026)",
+      "summary_th": "หูฟังรุ่นเรือธงมีอายุการใช้งานแบตเตอรี่สูงสุด 57 ชั่วโมงและมีแบตเตอรี่ที่เปลี่ยนได้ง่าย"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "gadget",
-      "title_en": "Dell Coupon Codes: 20% Off for September 2026",
-      "summary_en": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-      "image": "https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg",
-      "link": "https://www.wired.com/story/dell-coupon-code/",
-      "published": "Tue, 01 Sep 2026 05:00:00 +0000",
-      "title_th": "รหัสคูปองของ Dell: ลด 20% สำหรับเดือนกันยายน 2569",
-      "summary_th": "รับส่วนลด 20% ด้วยรหัสส่งเสริมการขายของ Dell ที่ได้รับการยืนยันแล้ว พร้อมคูปองวันนี้สำหรับแล็ปท็อป จอภาพ Alienware และเทคโนโลยีทั้งหมดสูงสุดถึง $600"
+      "title_en": "3 Best Sleep Tracker Picks for Optimizing Your Sleep (2026)",
+      "summary_en": "I tested the top sleep wearables for every type of sleeper, including devices from Oura, Google Fitbit, and Eight Sleep.",
+      "image": "https://media.wired.com/photos/6a95dc99b078e1ba9508d4d3/master/pass/The-Best-Sleep-Trackers-for-an-Optimal-Slumber.jpg",
+      "link": "https://www.wired.com/story/best-sleep-trackers/",
+      "published": "Tue, 01 Sep 2026 10:39:00 +0000",
+      "title_th": "3 ตัวติดตามการนอนหลับที่ดีที่สุดเพื่อเพิ่มประสิทธิภาพการนอนหลับของคุณ (2026)",
+      "summary_th": "ฉันทดสอบอุปกรณ์สวมใส่เพื่อการนอนยอดนิยมสำหรับผู้นอนทุกประเภท รวมถึงอุปกรณ์จาก Oura, Google Fitbit และ Eight Sleep"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Wayfair Coupons: Up to 80% Off September 2026",
-      "summary_en": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
-      "image": "https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png",
-      "link": "https://www.wired.com/story/wayfair-promo-code/",
-      "published": "Tue, 01 Sep 2026 05:00:00 +0000",
-      "title_th": "คูปอง Wayfair: ลดสูงสุดถึง 80% ในเดือนกันยายน 2569",
-      "summary_th": "รับส่วนลด 10% ด้วยรหัสโปรโมชั่น Wayfair เฟอร์นิเจอร์สูงสุดถึง 80% และคูปองยอดนิยมอื่นๆ อีกมากมาย"
+      "title_en": "Inside the Perimenopause Industrial Complex",
+      "summary_en": "How an alliance of tech startups, MAHA operatives, and actual medical experts made millennial women the new face of hormone therapy.",
+      "image": "https://media.wired.com/clips/6a918d8952b7eddd0dc4352c/master/pass/Animation-Wide-crop.mp4",
+      "link": "https://www.wired.com/story/inside-the-perimenopause-industrial-complex/",
+      "published": "Tue, 01 Sep 2026 10:00:00 +0000",
+      "title_th": "ภายในเขตอุตสาหกรรมรอบวัยหมดประจำเดือน",
+      "summary_th": "พันธมิตรของสตาร์ทอัพด้านเทคโนโลยี เจ้าหน้าที่ของ MAHA และผู้เชี่ยวชาญทางการแพทย์ทำให้ผู้หญิงยุคมิลเลนเนียลกลายเป็นโฉมหน้าใหม่ของการบำบัดด้วยฮอร์โมนได้อย่างไร"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Home Depot Promo Codes: 30% Off in September 2026",
-      "summary_en": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this September.",
-      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
-      "link": "https://www.wired.com/story/home-depot-promo-code/",
-      "published": "Tue, 01 Sep 2026 05:00:00 +0000",
-      "title_th": "รหัสโปรโมชัน Home Depot: ลด 30% ในเดือนกันยายน 2026",
-      "summary_th": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this September."
+      "title_en": "Dyson’s Next Act Is an Electric Toothbrush With a Camera",
+      "summary_en": "The company known for stick vacuums and hair dryers is coming for your teeth. The $499 Dyson CameraJet uses a tiny camera to aim streams of rinsing fluid into the gaps between your teeth.",
+      "image": "https://media.wired.com/photos/6a9163be72895b5a248bbc80/master/pass/OC01_PPIDROSSVL_084-CMYK-InSitu-Sink-Tap-A2_MIX.jpeg",
+      "link": "https://www.wired.com/story/dyson-camerajet-electric-toothbrush-and-flosser/",
+      "published": "Tue, 01 Sep 2026 09:30:00 +0000",
+      "title_th": "พระราชบัญญัติต่อไปของ Dyson คือแปรงสีฟันไฟฟ้าพร้อมกล้อง",
+      "summary_th": "บริษัทที่ขึ้นชื่อเรื่องเครื่องดูดฝุ่นแบบแท่งและเครื่องเป่าผมกำลังมาเพื่อฟันของคุณ Dyson CameraJet มูลค่า 499 เหรียญสหรัฐฯ ใช้กล้องขนาดเล็กเพื่อเล็งกระแสน้ำยาล้างเข้าไปในช่องว่างระหว่างฟันของคุณ"
     },
     {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
-      "category": "gadget",
-      "title_en": "Newegg Promo Codes and Coupons for September 2026",
-      "summary_en": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
-      "image": "https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg",
-      "link": "https://www.wired.com/story/newegg-promo-code/",
-      "published": "Tue, 01 Sep 2026 05:00:00 +0000",
-      "title_th": "Newegg Promo Codes and Coupons for September 2026",
-      "summary_th": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts."
+      "category": "ai",
+      "title_en": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+      "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions.…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/microbe-fertilizer.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+      "published": "Tue, 01 Sep 2026 12:10:00 +0000",
+      "title_th": "ดาวน์โหลด: จุลินทรีย์ที่ได้รับการออกแบบทางวิศวกรรมสำหรับพืชผล และปัญหาวัฒนธรรมของ OpenAI",
+      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี จุลินทรีย์ที่ได้รับการออกแบบสามารถช่วยเลี้ยงพืชผลของโลกได้อย่างไร ปุ๋ยมีความสำคัญต่อการจัดหาอาหารทั่วโลก แต่กลับทำให้ใช้พลังงานจำนวนมากและปล่อยก๊าซเรือนกระจกจำนวนมาก..."
     },
     {
       "source": "MIT Technology Review",
@@ -276,7 +288,7 @@
       "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
       "published": "Fri, 28 Aug 2026 09:00:00 +0000",
       "title_th": "วิธีสมัครใช้งานโรงไฟฟ้าเสมือน—และตัดสินใจว่าควรทำหรือไม่",
-      "summary_th": "ซีรีส์ How To ของ MIT Technology Review ช่วยให้คุณทำสิ่งต่างๆ ได้สำเร็จ ตัวควบคุมอุณหภูมิของคุณอาจดูไม่เหมือนโรงไฟฟ้า ไม่ว่าจะเป็นรถยนต์ไฟฟ้า แบตเตอรี่บ้าน หรือระบบ HVAC ของคุณ แต่บริษัทสาธารณูปโภคและพลังงานต้องการปฏิบัติต่อพวกเขาเหมือนเป็นหนึ่งเดียวกันมากขึ้นเรื่อยๆ โรงไฟฟ้าเสมือนหรือ VPP คือชุดอุปกรณ์ในครัวเรือน (เช่น..."
+      "summary_th": "ซีรีส์ How To ของ MIT Technology Review ช่วยให้คุณทำสิ่งต่างๆ ได้สำเร็จ ตัวควบคุมอุณหภูมิของคุณอาจดูไม่เหมือนโรงไฟฟ้า ไม่ว่าจะเป็นรถยนต์ไฟฟ้า แบตเตอรี่บ้าน หรือระบบ HVAC ของคุณ แต่บริษัทสาธารณูปโภคและพลังงานต้องการปฏิบัติต่อพวกเขาเหมือนเป็นหนึ่งเดียวกันมากขึ้น โรงไฟฟ้าเสมือนหรือ VPP คือชุดอุปกรณ์ในครัวเรือน (เช่น..."
     },
     {
       "source": "MIT Technology Review",
@@ -291,76 +303,64 @@
       "summary_th": "ฉันรู้ว่าฉันจะกลายเป็น \"ผู้มีอิทธิพลในการมีอายุยืนยาว\" อย่างเป็นทางการในเดือนนี้ เมื่อบริษัทชื่อ Generation Lab ยื่นมือเข้ามาเสนอโอกาสให้ฉันได้เขียนเกี่ยวกับ—และแม้กระทั่งได้รับ—การรักษาเพื่อการฟื้นฟูรูปแบบใหม่ของพวกเขา ซึ่งเป็นการผสมผสานระหว่างยาสองชนิดที่มีอยู่แบบฉีดได้ ซึ่งพวกเขาเรียกว่า 1 Generation นี่ไม่ใช่แค่การรักษาต่อต้านริ้วรอยเท่านั้น เอกสารข้อเท็จจริงของบริษัทระบุว่า..."
     },
     {
-      "source": "MIT Technology Review",
-      "flag": "US",
-      "category": "ev",
-      "title_en": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
-      "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-misalign.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
-      "published": "Thu, 27 Aug 2026 12:10:00 +0000",
-      "title_th": "การดาวน์โหลด: ภายในแฮ็ค Hugging Face ของ OpenAI และ EV ใหม่เข้าฉายในสหรัฐอเมริกา",
-      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี เรื่องราววงในเกี่ยวกับสาเหตุที่เจ้าหน้าที่ OpenAI แฮ็ก Hugging Face โมเดลที่รับผิดชอบในการแฮ็กตัวแทนของ Hugging Face เมื่อเดือนที่แล้ว ได้รับการฝึกฝนให้โกงและสื่อสารกับ..."
-    },
-    {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Roland's new digital piano has built-in Wi-Fi that integrates with a teaching app",
-      "summary_en": "Roland's latest digital piano will get software updates and have an improved teaching experience, thanks to built-in Wi-Fi.",
-      "image": "https://www.engadget.com/img/gallery/rolands-new-digital-piano-has-built-in-wi-fi-that-integrates-with-a-teaching-app/l-intro-1788199583.jpg",
-      "link": "https://www.engadget.com/2247836/roland-new-digital-piano-has-built-in-wi-fi-that-integrates-with-a-teaching-app/",
-      "published": "Tue, 01 Sep 2026 07:00:00 +0000",
-      "title_th": "เปียโนดิจิตอลรุ่นใหม่ของ Roland มี Wi-Fi ในตัวที่รวมเข้ากับแอปการสอน",
-      "summary_th": "เปียโนดิจิตอลรุ่นล่าสุดของ Roland จะได้รับการอัปเดตซอฟต์แวร์และมีประสบการณ์การสอนที่ดีขึ้นด้วย Wi-Fi ในตัว"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "The Google TV Streamer now costs $150 after a 50 percent price hike",
-      "summary_en": "Google's streaming device used to cost $100. Now, it'll set you back $150.",
-      "image": "https://www.engadget.com/img/gallery/the-google-tv-streamer-now-costs-150-after-a-50-percent-price-hike/l-intro-1788244048.jpg",
-      "link": "https://www.engadget.com/2248329/google-tv-streamer-150-50-percent-price-hike/",
-      "published": "Tue, 01 Sep 2026 06:31:03 +0000",
-      "title_th": "ขณะนี้ Google TV Streamer มีราคา 150 ดอลลาร์หลังจากขึ้นราคา 50 เปอร์เซ็นต์",
-      "summary_th": "อุปกรณ์สตรีมมิ่งของ Google เคยมีราคา 100 ดอลลาร์ ตอนนี้จะคืนเงินให้คุณ $150"
+      "title_en": "The pros and cons of using a TV as your computer monitor",
+      "summary_en": "In the age‑old debate over whether a TV can truly replace a computer monitor, several important differences in design and performance set the two apart.",
+      "image": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-a-tv-as-your-computer-monitor/l-intro-1787650779.jpg",
+      "link": "https://www.engadget.com/2244148/tv-as-computer-monitor-pros-cons/",
+      "published": "Tue, 01 Sep 2026 13:30:00 +0000",
+      "title_th": "ข้อดีและข้อเสียของการใช้ทีวีเป็นจอคอมพิวเตอร์",
+      "summary_th": "ในการถกเถียงกันมานานแล้วว่าทีวีจะเข้ามาแทนที่จอคอมพิวเตอร์ได้จริงหรือไม่ ความแตกต่างที่สำคัญหลายประการในด้านการออกแบบและประสิทธิภาพทำให้ทั้งสองมีความแตกต่างกัน"
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "gadget",
-      "title_en": "Samsung's new Galaxy Book 6 model is a budget-friendly $799 laptop",
-      "summary_en": "Samsung has released a more accessible and affordable Galaxy Book 6 laptop.",
-      "image": "https://www.engadget.com/img/gallery/samsungs-new-galaxy-book-6-model-is-a-budget-friendly-799-laptop/l-intro-1788238900.jpg",
-      "link": "https://www.engadget.com/2248309/samsung-galaxy-book-6-model-budget-friendly-799-laptop/",
-      "published": "Tue, 01 Sep 2026 05:01:49 +0000",
-      "title_th": "Samsung's new Galaxy Book 6 model is a budget-friendly $799 laptop",
-      "summary_th": "Samsung has released a more accessible and affordable Galaxy Book 6 laptop."
+      "title_en": "Sonos Open House: Live updates from the company's September 2026 product launch",
+      "summary_en": "Are you ready for some speakers and some AI?",
+      "image": "https://www.engadget.com/img/gallery/sonos-product-launch-live-blog-september-2026/l-intro-1788231315.jpg",
+      "link": "https://www.engadget.com/2248277/sonos-product-launch-live-blog-september-2026/",
+      "published": "Tue, 01 Sep 2026 13:00:00 +0000",
+      "title_th": "Sonos Open House: อัปเดตสดจากการเปิดตัวผลิตภัณฑ์ของบริษัทในเดือนกันยายน 2569",
+      "summary_th": "คุณพร้อมสำหรับวิทยากรและ AI บ้างไหม?"
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "How to make sure your Android phone is secure",
-      "summary_en": "Android can help you keep your phone safe from malicious apps, scam calls, invasions of privacy, and much more. You just need the right settings.",
-      "image": "https://www.engadget.com/img/gallery/how-to-make-sure-your-android-phone-is-secure/l-intro-1787681730.jpg",
-      "link": "https://www.engadget.com/2243954/how-to-make-sure-android-phone-secure/",
-      "published": "Mon, 31 Aug 2026 23:30:00 +0000",
-      "title_th": "วิธีตรวจสอบให้แน่ใจว่าโทรศัพท์ Android ของคุณปลอดภัย",
-      "summary_th": "Android สามารถช่วยให้คุณรักษาโทรศัพท์ของคุณให้ปลอดภัยจากแอปที่เป็นอันตราย การโทรหลอกลวง การบุกรุกความเป็นส่วนตัว และอื่นๆ อีกมากมาย คุณเพียงแค่ต้องมีการตั้งค่าที่ถูกต้อง"
+      "title_en": "You can use your phone as a Roku remote (and it's free)",
+      "summary_en": "The Roku mobile app is a great replacement for a lost remote, but it also makes typing much faster and enables streaming on the go.",
+      "image": "https://www.engadget.com/img/gallery/you-can-use-your-phone-as-a-roku-remote-and-its-free/l-intro-1786718485.jpg",
+      "link": "https://www.engadget.com/2244167/use-phone-as-roku-remote-free-app/",
+      "published": "Tue, 01 Sep 2026 13:00:00 +0000",
+      "title_th": "คุณสามารถใช้โทรศัพท์ของคุณเป็นรีโมท Roku ได้ (และฟรี)",
+      "summary_th": "แอปมือถือ Roku เป็นสิ่งทดแทนรีโมตที่สูญหายได้อย่างดีเยี่ยม แต่ยังทำให้การพิมพ์เร็วขึ้นมากและช่วยให้สามารถสตรีมได้ทุกที่ทุกเวลา"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "NVIDIA's DLSS 5 launches with NBA 2K27 on September 3, but there's little reason for excitement",
+      "summary_en": "NVIDIA's controversial DLSS 5 finally arrives this week, but there's little reason to celebrate it.",
+      "image": "https://www.engadget.com/img/gallery/nvidias-dlss-5-launches-with-nba-2k27-on-september-3-but-theres-little-reason-for-excitement/l-intro-1788263990.jpg",
+      "link": "https://www.engadget.com/2248399/nvidia-dlss-5-launches-nba-2k27-september-3/",
+      "published": "Tue, 01 Sep 2026 13:00:00 +0000",
+      "title_th": "DLSS 5 ของ NVIDIA เปิดตัวพร้อมกับ NBA 2K27 ในวันที่ 3 กันยายน แต่มีเหตุผลเพียงเล็กน้อยสำหรับความตื่นเต้น",
+      "summary_th": "ในที่สุด DLSS 5 ที่เป็นที่ถกเถียงของ NVIDIA ก็มาถึงในสัปดาห์นี้ แต่ไม่มีเหตุผลเพียงเล็กน้อยที่จะเฉลิมฉลอง"
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "The Starlink Mini X kit comes with an extra router, but do you really need it?",
-      "summary_en": "Starlink's extra router can be useful, but getting your main satellite dish positioned properly is more important.",
-      "image": "https://www.engadget.com/img/gallery/the-starlink-mini-x-kit-comes-with-an-extra-router-but-do-you-really-need-it/l-intro-1787581748.jpg",
-      "link": "https://www.engadget.com/2246412/starlink-mini-x-comes-with-extra-router-do-you-need-it/",
-      "published": "Mon, 31 Aug 2026 23:00:00 +0000",
-      "title_th": "ชุด Starlink Mini X มาพร้อมกับเราเตอร์เพิ่มเติม แต่คุณต้องการมันจริงๆ หรือไม่",
-      "summary_th": "เราเตอร์เพิ่มเติมของ Starlink อาจมีประโยชน์ แต่การวางตำแหน่งจานดาวเทียมหลักของคุณอย่างเหมาะสมนั้นสำคัญกว่า"
+      "title_en": "Roku is expanding its premium TV lineup with its first OLEDs",
+      "summary_en": "Roku has announced its first OLED TVs, available this fall from Amazon starting at $999.",
+      "image": "https://www.engadget.com/img/gallery/roku-is-expanding-its-premium-tv-lineup-with-its-first-oleds/l-intro-1787953247.jpg",
+      "link": "https://www.engadget.com/2246818/roku-is-expanding-its-premium-tv-lineup-with-its-first-oleds/",
+      "published": "Tue, 01 Sep 2026 13:00:00 +0000",
+      "title_th": "Roku กำลังขยายกลุ่มผลิตภัณฑ์ทีวีระดับพรีเมียมด้วย OLED ตัวแรก",
+      "summary_th": "Roku ได้ประกาศทีวี OLED เครื่องแรกซึ่งมีวางจำหน่ายใน Amazon ในฤดูใบไม้ร่วงนี้เริ่มต้นที่ 999 ดอลลาร์"
     },
     {
       "source": "IEEE Spectrum",
@@ -372,7 +372,7 @@
       "link": "https://spectrum.ieee.org/ruchira-shree-ham-radio",
       "published": "Mon, 31 Aug 2026 18:00:01 +0000",
       "title_th": "วัยรุ่นคนนี้ช่วยให้นักเรียนชาวอเมริกันพื้นเมืองได้รับใบอนุญาตวิทยุแฮม",
-      "summary_th": "สำหรับนักเรียนมัธยมปลายหลายๆ คน วันหยุดฤดูร้อนเป็นเวลาที่ต้องถอดปลั๊ก สำหรับ Ruchira Shree นักเรียนปีที่สองที่กำลังเติบโตที่ West Windsor–Plainsboro High School South ในรัฐนิวเจอร์ซีย์ การหยุดพักช่วยให้เธอสามารถมุ่งความสนใจไปที่กิจกรรมนอกหลักสูตรได้ เวลาส่วนใหญ่ของเธอถูกใช้ไปในการช่วยเหลือกิจกรรม IEEE Princeton Central Jersey Section เธอมีส่วนร่วมกับ PCJS เนื่องจากแม่ของเธอ Shubha Bommalingaiahnapallya ซึ่งเป็นสมาชิกอาวุโสของ IEEE ซึ่งเป็นรองประธานแผนก Bommalingaiahnapally เป็นวิศวกรหลักของ Intel “ฉันเริ่มเข้าร่วมการประชุม IEEE ตอนที่ฉันยังเป็นเด็ก” Shree กล่าว “ฉันเคยไปกับแม่และนั่งอยู่หลังห้อง” ฤดูร้อนนี้เธอบอกว่าเธอกำลังมุ่งเน้นไปที่การพัฒนาทักษะคณิตศาสตร์ของเธอโดยการเข้าร่วมหลักสูตรภาคฤดูร้อนหลักสูตรการคิดเชิงอัลกอริทึมและการคิดเชิงผสมผสาน"
+      "summary_th": "สำหรับนักเรียนมัธยมปลายหลายๆ คน วันหยุดฤดูร้อนเป็นเวลาที่ต้องถอดปลั๊ก สำหรับ Ruchira Shree นักเรียนปีที่สองที่กำลังเติบโตที่ West Windsor–Plainsboro High School South ในรัฐนิวเจอร์ซีย์ การหยุดพักช่วยให้เธอสามารถมุ่งความสนใจไปที่กิจกรรมนอกหลักสูตรได้ เวลาส่วนใหญ่ของเธอถูกใช้ไปในการช่วยเหลือกิจกรรม IEEE Princeton Central Jersey Section เธอมีส่วนร่วมกับ PCJS เนื่องจากแม่ของเธอ Shubha Bommalingaiahnapallya สมาชิกอาวุโสของ IEEE ซึ่งเป็นรองประธานแผนก Bommalingaiahnapallya เป็นวิศวกรหลักของ Intel “ฉันเริ่มเข้าร่วมการประชุม IEEE ตอนที่ฉันยังเป็นเด็ก” Shree กล่าว “ฉันเคยไปกับแม่และนั่งอยู่หลังห้อง” ฤดูร้อนนี้เธอบอกว่าเธอกำลังมุ่งเน้นไปที่การพัฒนาทักษะคณิตศาสตร์ของเธอโดยการเข้าร่วมหลักสูตรภาคฤดูร้อนหลักสูตรการคิดเชิงอัลกอริทึมและการคิดเชิงผสมผสาน"
     },
     {
       "source": "IEEE Spectrum",
@@ -384,7 +384,7 @@
       "link": "https://spectrum.ieee.org/europes-ai-drive",
       "published": "Mon, 31 Aug 2026 14:00:04 +0000",
       "title_th": "แรงผลักดัน AI ของสหภาพยุโรปบ่อนทำลายกลยุทธ์ชิปของตัวเอง",
-      "summary_th": "เรื่องราวนี้เผยแพร่ครั้งแรกโดย Tech Policy Press การผลักดันอธิปไตยทางเทคโนโลยีของสหภาพยุโรปเผชิญกับความขัดแย้งที่น่าอึดอัด เนื่องจากสหภาพยุโรป เปิดตัวโรงงาน AI, โรงงานขนาดใหญ่ และศูนย์ข้อมูลใหม่ ทำให้เกิดความต้องการอุปกรณ์เซมิคอนดักเตอร์ขั้นสูงที่เพิ่มสูงขึ้นซึ่งสนับสนุนปัญญาประดิษฐ์ แต่ยุโรปผลิตชิปน้อยกว่า 10 เปอร์เซ็นต์ของโลกและยังคงต้องพึ่งพานักออกแบบในสหรัฐฯ และผู้ผลิตในเอเชียสำหรับโปรเซสเซอร์ที่ทันสมัยที่สุด ความตึงเครียดดังกล่าวถือเป็นหัวใจสำคัญของ Chips Act 2.0 ซึ่งเป็นแผนยกเครื่องกลยุทธ์เซมิคอนดักเตอร์ของคณะกรรมาธิการยุโรป พระราชบัญญัติชิปดั้งเดิมซึ่งนำมาใช้ในปี 2566 พยายามที่จะเพิ่มส่วนแบ่งการผลิตเซมิคอนดักเตอร์ทั่วโลกของยุโรปเป็น 20 เปอร์เซ็นต์ภายในปี 2573 แต่ศาลผู้ตรวจสอบบัญชีแห่งยุโรปได้"
+      "summary_th": "เรื่องราวนี้เผยแพร่ครั้งแรกโดย Tech Policy Press การผลักดันอธิปไตยทางเทคโนโลยีของสหภาพยุโรปเผชิญกับความขัดแย้งที่น่าอึดอัด เนื่องจากสหภาพยุโรป เปิดตัวโรงงาน AI, โรงงานขนาดใหญ่ และศูนย์ข้อมูลใหม่ ทำให้เกิดความต้องการอุปกรณ์เซมิคอนดักเตอร์ขั้นสูงที่เพิ่มสูงขึ้นซึ่งสนับสนุนปัญญาประดิษฐ์ แต่ยุโรปผลิตชิปน้อยกว่า 10 เปอร์เซ็นต์ของโลกและยังคงต้องพึ่งพานักออกแบบในสหรัฐฯ และผู้ผลิตในเอเชียสำหรับโปรเซสเซอร์ที่ทันสมัยที่สุด ความตึงเครียดดังกล่าวเป็นหัวใจสำคัญของ Chips Act 2.0 ซึ่งเป็นแผนยกเครื่องกลยุทธ์เซมิคอนดักเตอร์ของคณะกรรมาธิการยุโรป พระราชบัญญัติชิปดั้งเดิมซึ่งนำมาใช้ในปี 2566 พยายามที่จะเพิ่มส่วนแบ่งการผลิตเซมิคอนดักเตอร์ทั่วโลกของยุโรปเป็น 20 เปอร์เซ็นต์ภายในปี 2573 แต่ศาลผู้ตรวจสอบบัญชีแห่งยุโรปได้"
     },
     {
       "source": "IEEE Spectrum",
@@ -396,7 +396,7 @@
       "link": "https://spectrum.ieee.org/voltaic-pile-first-battery",
       "published": "Mon, 31 Aug 2026 12:00:01 +0000",
       "title_th": "แบตเตอรี่ก้อนแรกได้รับแรงบันดาลใจจากกบตาย",
-      "summary_th": "ในกรณีจัดแสดงที่ชั้นล่างของพิพิธภัณฑ์ฟาราเดย์ที่ Royal Institution ในลอนดอน มีกองแผ่นโลหะสีเทาและกระดาษซับซ้อนกันที่ดูเรียบง่าย ไม่ชัดเจนว่าวัตถุธรรมดานี้เป็นจุดเริ่มต้นของอุตสาหกรรมแบตเตอรี่ทั่วโลกที่มีมูลค่าหลายพันล้านดอลลาร์ในปัจจุบัน สิ่งประดิษฐ์ของวัตถุดังกล่าวในปี 1799 เกิดขึ้นจากความขัดแย้งที่อเลสซานโดร โวลตา นักฟิสิกส์ชาวอิตาลี ซึ่งตั้งชื่อหน่วยวัดศักย์ไฟฟ้าไว้ ได้ทำร่วมกับเพื่อนของเขา ลุยจิ กัลวานี เหนือกบที่ตายแล้ว การอภิปรายเรื่องไฟฟ้าสำหรับสัตว์ กัลวานีเป็นแพทย์ชาวอิตาลีที่ได้รับความนับถือ ในช่วงทศวรรษที่ 1770 เขาเริ่มศึกษาการใช้ไฟฟ้าเพื่อกระตุ้นกล้ามเนื้อของกบที่ชำแหละ เขาสามารถติดอาวุธด้วยเครื่องกำเนิดไฟฟ้าสถิตและตัวเก็บประจุชนิดแรกๆ ที่เรียกว่าขวดเลย์เดน"
+      "summary_th": "ในกรณีจัดแสดงที่ชั้นล่างของพิพิธภัณฑ์ฟาราเดย์ที่ Royal Institution ในลอนดอน มีกองแผ่นโลหะสีเทาและกระดาษซับซ้อนกันที่ดูเรียบง่าย ไม่ชัดเจนว่าวัตถุธรรมดานี้เป็นจุดเริ่มต้นของอุตสาหกรรมแบตเตอรี่ทั่วโลกที่มีมูลค่าหลายพันล้านดอลลาร์ในปัจจุบัน สิ่งประดิษฐ์ของวัตถุดังกล่าวในปี 1799 เกิดขึ้นจากความขัดแย้งที่อเลสซานโดร โวลตา นักฟิสิกส์ชาวอิตาลี ซึ่งตั้งชื่อหน่วยวัดศักย์ไฟฟ้าไว้ ได้ทำร่วมกับเพื่อนของเขา ลุยจิ กัลวานี เหนือกบที่ตายแล้ว การอภิปรายเรื่องไฟฟ้าสำหรับสัตว์ Galvani เป็นแพทย์ชาวอิตาลีที่ได้รับความนับถือ ในช่วงทศวรรษที่ 1770 เขาเริ่มศึกษาการใช้ไฟฟ้าเพื่อกระตุ้นกล้ามเนื้อของกบที่ชำแหละ เขาสามารถติดอาวุธด้วยเครื่องกำเนิดไฟฟ้าสถิตและตัวเก็บประจุชนิดแรกๆ ที่เรียกว่าขวดเลย์เดน"
     },
     {
       "source": "IEEE Spectrum",
@@ -408,7 +408,7 @@
       "link": "https://spectrum.ieee.org/bimodal-nuclear-engine",
       "published": "Sat, 29 Aug 2026 15:35:01 +0000",
       "title_th": "บะหมี่บนเครื่องยนต์นิวเคลียร์",
-      "summary_th": "One day in 1982, Joseph “Rod” Canion and two colleagues from Texas Instruments sat down at the House of Pies in Houston and used a napkin to sketch out what would become Compaq’s portable PC. In 1996, Felix Zandman, founder of Vishay Intertechnology, dined at Husker Steak House in Columbus, Neb., grabbed a napkin and drafted a design for a power metal strip resistor, which became crucial to power-management components in industrial, automotive, and consumer applications. Now that wispy piece of paper resides at the Smithsonian’s National Museum of American History . Perhaps most famously, Robert Metcalfe, working at Xerox PARC in 1973, roughed out some early designs for what would become the Ethernet , though contrary to popular belief, no napkin was involved. Yet another napkin was presse"
+      "summary_th": "วันหนึ่งในปี 1982 Joseph “Rod” Canion และเพื่อนร่วมงานสองคนจาก Texas Instruments นั่งลงที่ House of Pies ในฮูสตัน และใช้ผ้าเช็ดปากเพื่อร่างภาพสิ่งที่จะกลายเป็นพีซีแบบพกพาของ Compaq ในปี 1996 Felix Zandman ผู้ก่อตั้ง Vishay Intertechnology รับประทานอาหารที่ Husker Steak House ในโคลัมบัส รัฐเนบิวลา คว้าผ้าเช็ดปากและร่างการออกแบบตัวต้านทานแถบโลหะกำลัง ซึ่งกลายมาเป็นสิ่งสำคัญต่อส่วนประกอบการจัดการพลังงานในการใช้งานทางอุตสาหกรรม ยานยนต์ และผู้บริโภค ขณะนี้กระดาษแผ่นเล็กๆ นั้นอยู่ที่พิพิธภัณฑ์ประวัติศาสตร์อเมริกันแห่งชาติของสมิธโซเนียน บางทีที่โด่งดังที่สุดก็คือ Robert Metcalfe ซึ่งทำงานที่ Xerox PARC ในปี 1973 ได้สรุปการออกแบบในช่วงแรกๆ สำหรับสิ่งที่จะกลายเป็นอีเธอร์เน็ต แม้ว่าจะตรงกันข้ามกับความเชื่อที่นิยม แต่ก็ไม่มีผ้าเช็ดปากเข้ามาเกี่ยวข้อง มีการรีดผ้าเช็ดปากอีกชิ้นหนึ่ง"
     },
     {
       "source": "IEEE Spectrum",
@@ -426,61 +426,97 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "9to5Mac Daily: August 31, 2026 – Apple TV price hikes, more",
-      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff : Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. A simple to-do list for iPhone, iPad, and Mac, with powerful tools that make organizing, tracking, and checking off your tasks a whole lot more satisfying. Get Stuff done. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/31/daily-august-31-2026/",
-      "published": "Tue, 01 Sep 2026 02:18:49 +0000",
-      "title_th": "9to5Mac รายวัน: 31 สิงหาคม 2569 – การขึ้นราคาของ Apple TV และอื่นๆ อีกมากมาย",
-      "summary_th": "ฟังสรุปเรื่องเด่นประจำวันจาก 9to5Mac 9to5Mac Daily มีให้บริการบน iTunes และแอป Podcasts ของ Apple , Stitcher , TuneIn , Google Play หรือผ่านทางฟีด RSS เฉพาะของเราสำหรับ Overcast และเครื่องเล่นพอดแคสต์อื่นๆ สนับสนุนโดย Stuff : Stuff ช่วยให้คุณดึงทุกอย่างออกจากหัวและเข้าสู่ระบบที่เรียบง่ายและสง่างาม—ปิดลูปแบบเปิดและลดความเครียดทางจิต รายการสิ่งที่ต้องทำง่ายๆ สำหรับ iPhone, iPad และ Mac พร้อมด้วยเครื่องมืออันทรงพลังที่ทำให้การจัดระเบียบ ติดตาม และการตรวจสอบงานของคุณน่าพึงพอใจยิ่งขึ้น ทำสิ่งต่าง ๆ ให้เสร็จ มากกว่า…"
+      "title_en": "Dropbox breach seemingly caused by egregious authentication failure",
+      "summary_en": "Multiple Dropbox users have been emailed by the cloud storage company to advise them that a security breach saw unauthorised access to their account. The root cause appears to be a lack of authentication by Dropbox when attackers created a single sign-on option through a third-party company … more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Dropbox-breach-seemingly-caused-by-egregious-authentication-failure.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/01/dropbox-login-breach-seemingly-caused-by-egregious-authentication-failure/",
+      "published": "Tue, 01 Sep 2026 12:54:49 +0000",
+      "title_th": "การละเมิด Dropbox ดูเหมือนจะเกิดจากความล้มเหลวในการตรวจสอบสิทธิ์อย่างร้ายแรง",
+      "summary_th": "บริษัทจัดเก็บข้อมูลบนคลาวด์ส่งอีเมลถึงผู้ใช้ Dropbox หลายคนเพื่อแจ้งให้ทราบว่าการละเมิดความปลอดภัยส่งผลให้มีการเข้าถึงบัญชีของพวกเขาโดยไม่ได้รับอนุญาต สาเหตุที่แท้จริงดูเหมือนจะเกิดจากการขาดการรับรองความถูกต้องโดย Dropbox เมื่อผู้โจมตีสร้างตัวเลือกการลงชื่อเข้าระบบครั้งเดียวผ่านบริษัทบุคคลที่สาม … เพิ่มเติม..."
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "How I’m using Codex and ChatGPT on my Mac",
-      "summary_en": "9to5Mac is brought to you by Memoket : The Memoket Gem is an 11g AI wearable that slots beside your Apple Watch in a co-wear band. Press once to capture a conversation, and Gem connects it to what you discussed weeks ago — surfacing the earlier thread with a source link. From $179, shipping August 2026 . In 2023, early adopters were just getting to know ChatGPT and AI chatbot tech. Three years later, OpenAI’s Codex agent, now part of the ChatGPT desktop app, has brought about a similar season of learning. Here’s how I’m using ChatGPT, Codex, and more on my Mac. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/codex_60df2b.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/31/codex-report-four-months-of-building-joy-on-my-mac-with-chatgpt/",
-      "published": "Mon, 31 Aug 2026 22:00:00 +0000",
-      "title_th": "ฉันจะใช้ Codex และ ChatGPT บน Mac ได้อย่างไร",
-      "summary_th": "9to5Mac นำเสนอให้คุณโดย Memoket : Memoket Gem เป็นอุปกรณ์สวมใส่ AI หนัก 11 กรัม โดยมีช่องข้าง Apple Watch ของคุณในสายแบบสวมร่วม กดหนึ่งครั้งเพื่อบันทึกการสนทนา และ Gem จะเชื่อมต่อกับสิ่งที่คุณพูดคุยเมื่อสัปดาห์ที่แล้ว — แสดงกระทู้ก่อนหน้าด้วยลิงก์แหล่งที่มา จาก $179 จัดส่งในเดือนสิงหาคม 2026 ในปี 2023 ผู้ใช้กลุ่มแรกๆ เพิ่งจะได้เรียนรู้เกี่ยวกับเทคโนโลยีแชทบอท ChatGPT และ AI สามปีต่อมา Codex agent ของ OpenAI ซึ่งปัจจุบันเป็นส่วนหนึ่งของแอปเดสก์ท็อป ChatGPT ได้นำมาซึ่งฤดูกาลแห่งการเรียนรู้ที่คล้ายคลึงกัน นี่คือวิธีที่ฉันใช้ ChatGPT, Codex และอื่นๆ บน Mac ของฉัน มากกว่า…"
+      "title_en": "AAPL gained 2,736% under Cook, but Ternus doesn’t have to emulate him",
+      "summary_en": "Bloomberg carries a piece noting the astonishing gains made by Apple stockholders during the time when Tim Cook was CEO. The cumulative gain was 2,275% – or a total return of 2,736% when accounting for dividend payments also. The site suggests this will make him a tough act to follow, but my own view is that new CEO John Ternus doesn’t have to emulate Cook’s management of the company … more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/m4-macbook-pro-video-event.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/01/aapl-gained-2736-under-cook-but-ternus-doesnt-have-to-emulate-him/",
+      "published": "Tue, 01 Sep 2026 11:46:06 +0000",
+      "title_th": "AAPL ได้รับ 2,736% ภายใต้คุก แต่ Ternus ไม่จำเป็นต้องเลียนแบบเขา",
+      "summary_th": "Bloomberg กล่าวถึงผลกำไรอันน่าอัศจรรย์ของผู้ถือหุ้น Apple ในช่วงเวลาที่ Tim Cook ดำรงตำแหน่ง CEO กำไรสะสมอยู่ที่ 2,275% หรือผลตอบแทนรวม 2,736% เมื่อพิจารณาการจ่ายเงินปันผลด้วย เว็บไซต์แนะนำว่าสิ่งนี้จะทำให้เขาเป็นการกระทำที่ยากจะปฏิบัติตาม แต่มุมมองของฉันเองก็คือ CEO คนใหม่ John Ternus ไม่จำเป็นต้องเลียนแบบการจัดการของ บริษัท Cook … เพิ่มเติม..."
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Save up to $1600 on Roborock products, including the flagship Saros 20",
-      "summary_en": "It’s Roborock’s 12th anniversary, and the high-tech cleaning company is celebrating by offering generous discounts across its range of robot cleaners and other products between now and September 6. Discounts range from 25% to over 50% across the products and bundles included in the anniversary sale, with savings as high as $1600 … more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Save-up-to-630-on-Roborock-products-including-the-flagship-Saros-20.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/31/save-1600-roborock-products-including-flagship-saros-20/",
-      "published": "Mon, 31 Aug 2026 22:00:00 +0000",
-      "title_th": "ประหยัดสูงสุดถึง $1,600 สำหรับผลิตภัณฑ์ Roborock รวมถึง Saros 20 รุ่นเรือธง",
-      "summary_th": "วันครบรอบ 12 ปีของ Roborock และบริษัททำความสะอาดสุดไฮเทคกำลังเฉลิมฉลองด้วยการนำเสนอส่วนลดมากมายสำหรับผลิตภัณฑ์ทำความสะอาดหุ่นยนต์และผลิตภัณฑ์อื่นๆ ตั้งแต่วันนี้ถึง 6 กันยายน ส่วนลดมีตั้งแต่ 25% ถึงมากกว่า 50% สำหรับผลิตภัณฑ์และชุดรวมที่รวมอยู่ในการลดราคาวันครบรอบ โดยประหยัดเงินได้สูงสุดถึง 1,600 ดอลลาร์ … เพิ่มเติม..."
+      "title_en": "OpenAI calls trade secret dispute ‘a mess of Apple’s own making’",
+      "summary_en": "Apple yesterday presented what it said was “ shocking evidence ” based on analysis of a MacBook owned by Chang Liu, a former employee who moved to OpenAI . The company is alleging that two of its former employees stole trade secrets relating to hardware design and more. The AI company hit back with its own legal filing, saying that the whole situation is “a mess of Apple’s own making” … more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/OpenAI-calls-trade-secret-dispute-a-mess-of-Apples-own-making.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/01/openai-calls-trade-secret-dispute-a-mess-of-apples-own-making/",
+      "published": "Tue, 01 Sep 2026 11:07:11 +0000",
+      "title_th": "OpenAI เรียกข้อพิพาทความลับทางการค้าว่า 'ความยุ่งเหยิงของ Apple เอง'",
+      "summary_th": "เมื่อวานนี้ Apple นำเสนอสิ่งที่เรียกว่า \"หลักฐานที่น่าตกใจ\" จากการวิเคราะห์ MacBook ของ Chang Liu ซึ่งเป็นอดีตพนักงานที่ย้ายไปใช้ OpenAI บริษัทกล่าวหาว่าอดีตพนักงานสองคนขโมยความลับทางการค้าที่เกี่ยวข้องกับการออกแบบฮาร์ดแวร์และอื่นๆ อีกมากมาย บริษัท AI โต้กลับด้วยการยื่นฟ้องทางกฎหมายโดยกล่าวว่าสถานการณ์ทั้งหมดเป็น “ความยุ่งเหยิงของ Apple ทำเอง” … เพิ่มเติม..."
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "iPhone 18 Pro: Three reasons you might want to upgrade from iPhone 17 Pro",
-      "summary_en": "iPhone 18 Pro will be unveiled next week , and while most iPhone 17 Pro owners won’t upgrade so soon, for those considering a new iPhone there are three main features likely to motivate them. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-17-pro-silver-camera-plateau.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/31/iphone-18-pro-three-reasons-you-might-want-to-upgrade-from-iphone-17-pro/",
-      "published": "Mon, 31 Aug 2026 20:21:16 +0000",
-      "title_th": "iPhone 18 Pro: เหตุผลสามประการที่คุณอาจต้องการอัพเกรดจาก iPhone 17 Pro",
-      "summary_th": "iPhone 18 Pro จะเปิดตัวในสัปดาห์หน้า และในขณะที่เจ้าของ iPhone 17 Pro ส่วนใหญ่จะไม่อัปเกรดเร็ว ๆ นี้ แต่สำหรับผู้ที่พิจารณา iPhone ใหม่ มีคุณสมบัติหลักสามประการที่น่าจะกระตุ้นพวกเขา มากกว่า…"
+      "title_en": "Security Bite Podcast: Why Apple’s making big changes to its bug bounty program (Part 1)",
+      "summary_en": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform . Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening & Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . This episode of the Security Bite Podcast ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/01/security-bite-podcast-why-apples-making-big-changes-to-its-bug-bounty-program-part-1/",
+      "published": "Tue, 01 Sep 2026 10:40:00 +0000",
+      "title_th": "Security Bite Podcast: เหตุใด Apple จึงทำการเปลี่ยนแปลงครั้งใหญ่กับโปรแกรม Bug Bounty (ตอนที่ 1)",
+      "summary_th": "9to5Mac Security Bite นำเสนอโดย Mosyle ซึ่งเป็น Apple Unified Platform เพียงแห่งเดียว การทำให้อุปกรณ์ Apple พร้อมทำงานและปลอดภัยสำหรับองค์กรคือสิ่งที่เราทำ แนวทางการจัดการและการรักษาความปลอดภัยแบบบูรณาการที่เป็นเอกลักษณ์ของเราผสมผสานโซลูชันการรักษาความปลอดภัยเฉพาะของ Apple ที่ล้ำสมัยสำหรับ Hardening & Compliance อัตโนมัติเต็มรูปแบบ EDR รุ่นต่อไป Zero Trust ที่ขับเคลื่อนด้วย AI และการจัดการสิทธิ์พิเศษเฉพาะกับ Apple MDM ที่ทรงพลังและทันสมัยที่สุดในตลาด ผลลัพธ์ที่ได้คือ Apple Unified Platform ที่เป็นอัตโนมัติโดยสมบูรณ์ ซึ่งปัจจุบันได้รับความไว้วางใจจากองค์กรกว่า 45,000 แห่ง เพื่อทำให้อุปกรณ์ Apple หลายล้านเครื่องพร้อมใช้งานโดยไม่ต้องเปลืองแรงและมีค่าใช้จ่ายที่เอื้อมถึง ขอรับการทดลองใช้เพิ่มเติมวันนี้ และทำความเข้าใจว่าเหตุใด Mosyle จึงเป็นทุกสิ่งที่คุณต้องการเพื่อร่วมงานกับ Apple รายการ Security Bite Podcast ตอนนี้"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple reveals ‘shocking evidence’ from ex-employee’s MacBook in OpenAI suit",
-      "summary_en": "Apple has filed a new document in its ongoing lawsuit against OpenAI as it continues to push for expedited discovery. In today’s filing, Apple says that it has new “shocking evidence” based on early forensic inspection of a laptop used by former engineer Chang Liu. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
-      "published": "Mon, 31 Aug 2026 20:20:00 +0000",
-      "title_th": "Apple เปิดเผย 'หลักฐานที่น่าตกใจ' จาก MacBook ของอดีตพนักงานในชุด OpenAI",
-      "summary_th": "Apple ได้ยื่นเอกสารใหม่ในคดีฟ้องร้อง OpenAI ที่กำลังดำเนินอยู่ เนื่องจากบริษัทยังคงผลักดันให้มีการค้นพบอย่างเร่งด่วน ในการยื่นฟ้องในวันนี้ Apple กล่าวว่ามี “หลักฐานที่น่าตกใจ” ใหม่จากการตรวจสอบทางนิติเวชเบื้องต้นของแล็ปท็อปที่อดีตวิศวกร Chang Liu ใช้ มากกว่า…"
+      "title_en": "Apple leadership page updated as John Ternus becomes the new CEO",
+      "summary_en": "Today is September 1st, and Apple has officially handed over the reins of CEO from Tim Cook to John Ternus. This commences a new era with Ternus leading the company. You can see the change reflected on the company’s newly-updated leadership page , with Ternus getting the CEO title and Cook moving to the Board of Directors section in his new role as Executive Chair. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-leadership-page-john-ternus.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/01/apple-leadership-page-updated-as-john-ternus-becomes-the-new-ceo/",
+      "published": "Tue, 01 Sep 2026 10:09:53 +0000",
+      "title_th": "หน้าผู้นำของ Apple อัปเดตเมื่อ John Ternus กลายเป็น CEO คนใหม่",
+      "summary_th": "วันนี้เป็นวันที่ 1 กันยายน และ Apple ได้ส่งมอบสายบังเหียนของ CEO จาก Tim Cook ให้กับ John Ternus อย่างเป็นทางการ นี่เป็นการเริ่มต้นยุคใหม่โดยมี Ternus เป็นผู้นำของบริษัท คุณสามารถเห็นการเปลี่ยนแปลงที่สะท้อนให้เห็นในหน้าความเป็นผู้นำที่ได้รับการอัปเดตใหม่ของบริษัท โดย Ternus ได้รับตำแหน่ง CEO และ Cook ได้ย้ายไปดำรงตำแหน่งคณะกรรมการบริหารในบทบาทใหม่ของเขาในฐานะประธานบริหาร มากกว่า…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Roku launches its first OLED TVs, available now starting at $999",
+      "summary_en": "Roku has just launched new first-party OLED TVs, the first from the company, which start at $999 and are available today.",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/roku-oled-tvs-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/01/roku-launches-its-first-oled-tvs-available-now-starting-at-999/",
+      "published": "Tue, 01 Sep 2026 13:00:00 +0000",
+      "title_th": "Roku เปิดตัวทีวี OLED เครื่องแรก วางจำหน่ายแล้ววันนี้เริ่มต้นที่ 999 ดอลลาร์",
+      "summary_th": "Roku has just launched new first-party OLED TVs, the first from the company, which start at $999 and are available today."
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Poco F9 Pro and F9 Ultra launch with 185Hz panels, 8 Elite Gen 5 chips, and huge batteries",
+      "summary_en": "Xiaomi sub-brand Poco is officially expanding its flagship smartphone line with the launch of the Poco F9 Pro and Poco F9 Ultra . more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/POCO-F9-Ultra_Red_Handheld_compressed.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/01/poco-f9-pro-and-f9-ultra-launch/",
+      "published": "Tue, 01 Sep 2026 12:45:00 +0000",
+      "title_th": "Poco F9 Pro และ F9 Ultra เปิดตัวพร้อมแผง 185Hz, ชิป Elite Gen 5 8 ตัว และแบตเตอรี่ขนาดใหญ่",
+      "summary_th": "Poco แบรนด์ย่อยของ Xiaomi กำลังขยายไลน์สมาร์ทโฟนเรือธงอย่างเป็นทางการด้วยการเปิดตัว Poco F9 Pro และ Poco F9 Ultra มากกว่า…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Be the MapQuest you want to see in the world",
+      "summary_en": "Google morning. How many times have you written that before? I hope you had a lovely final weekend before Labor Day. This morning, I’m reading about tens of thousands of dollars’ worth of pristine Duck Hunt cartridges found in a box in Wisconsin , vigorously nodding my head along to John Oliver’s takedown of subscription bloat (but remember to subscribe to 9to5Google Pro anyway!), and wishing I had a 3D printer to create my dream storage and organization system . As a reminder, Inbox is the tech newsletter that goes beyond the news cycle. We cover the most important 9to5Google stories from the last couple of days along with a few highlights from around the web. We publish every Tuesday and Thursday, and if you like what you read, please subscribe . more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/03/google-maps-android-16-live-notification-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/01/be-the-mapquest-you-want-to-see-in-the-world/",
+      "published": "Tue, 01 Sep 2026 11:00:00 +0000",
+      "title_th": "เป็น MapQuest ที่คุณต้องการเห็นในโลก",
+      "summary_th": "กูเกิ้ลยามเช้า. กี่ครั้งแล้วที่คุณเขียนเรื่องนี้มาก่อน? ฉันหวังว่าคุณจะมีสุดสัปดาห์สุดท้ายที่น่ารักก่อนวันแรงงาน เช้าวันนี้ ฉันกำลังอ่านตลับ Duck Hunt อันเก่าแก่มูลค่าหลายหมื่นดอลลาร์ที่พบในกล่องในรัฐวิสคอนซิน พยักหน้าอย่างแข็งขันให้ John Oliver ยกเลิกการสมัครรับข้อมูลที่เพิ่มขึ้น (แต่อย่าลืมสมัครสมาชิก 9to5Google Pro ต่อไป!) และหวังว่าฉันจะมีเครื่องพิมพ์ 3D เพื่อสร้างพื้นที่จัดเก็บข้อมูลและระบบองค์กรในฝันของฉัน ขอย้ำอีกครั้งว่า Inbox คือจดหมายข่าวเทคโนโลยีที่นอกเหนือไปจากวงจรข่าวสาร เรานำเสนอเรื่องราวของ 9to5Google ที่สำคัญที่สุดในช่วงสองสามวันที่ผ่านมา พร้อมด้วยไฮไลท์บางส่วนจากทั่วทั้งเว็บ เราเผยแพร่ทุกวันอังคารและพฤหัสบดี และหากคุณชอบสิ่งที่คุณอ่าน โปรดติดตาม มากกว่า…"
     },
     {
       "source": "9to5Google",
@@ -507,40 +543,16 @@
       "summary_th": "นอกเหนือจากการขึ้นราคาบน Google TV Streamer แล้ว กลุ่มผลิตภัณฑ์ Nest ยังเห็นว่าราคาเพิ่มขึ้นมีผลทันทีสำหรับกล้องและกริ่งประตูเกือบทุกตัวที่มีอยู่ในปัจจุบัน มากกว่า…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "What’s new in Android’s August 2026 Google System Updates [U]",
-      "summary_en": "The monthly “ Google System Release Notes ” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at developers. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-2.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/08/31/august-2026-google-system-updates/",
-      "published": "Mon, 31 Aug 2026 21:35:00 +0000",
-      "title_th": "มีอะไรใหม่ในการอัปเดตระบบ Google เดือนสิงหาคม 2569 ของ Android [U]",
-      "summary_th": "“ บันทึกประจำรุ่นของระบบ Google ” รายเดือนจะให้รายละเอียดเป็นหลักว่ามีอะไรใหม่ในบริการ Play, Play Store และการอัปเดตระบบ Play บนโทรศัพท์/แท็บเล็ต Android, Wear OS, Google/Android TV, Auto และพีซี คุณลักษณะบางอย่างมีผลกับผู้ใช้ปลายทาง ในขณะที่คุณลักษณะอื่นๆ มุ่งเป้าไปที่นักพัฒนา มากกว่า…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Google TV Streamer gets $50 price increase",
-      "summary_en": "Google has quietly raised the price of the Google TV Streamer to $149.99. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/06/Google-TV-Streamer-2.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/08/31/google-tv-streamer-increase/",
-      "published": "Mon, 31 Aug 2026 21:08:48 +0000",
-      "title_th": "Google TV Streamer ได้รับการขึ้นราคา 50 ดอลลาร์",
-      "summary_th": "Google ขึ้นราคา Google TV Streamer อย่างเงียบๆ เป็น 149.99 ดอลลาร์ มากกว่า…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Chrome’s Android navigation bar redesign has too much chrome",
-      "summary_en": "I quite like how Chrome for Android’s main interface has essentially remained the same since 2012. The consistency is refreshing as everything else on my phone changes. While I’m open to modernization, the latest attempt at a redesign suffers from too much chrome. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/google-chrome-navigation-gemini-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/08/31/chrome-redesign-too-much-ui/",
-      "published": "Mon, 31 Aug 2026 19:21:36 +0000",
-      "title_th": "การออกแบบแถบนำทาง Android ของ Chrome ใหม่มี Chrome มากเกินไป",
-      "summary_th": "ฉันค่อนข้างชอบที่อินเทอร์เฟซหลักของ Chrome สำหรับ Android ยังคงเหมือนเดิมมาตั้งแต่ปี 2012 ความสม่ำเสมอจะรีเฟรชเมื่อทุกอย่างในโทรศัพท์ของฉันเปลี่ยนไป แม้ว่าฉันจะเปิดรับการปรับปรุงให้ทันสมัย ​​แต่ความพยายามครั้งล่าสุดในการออกแบบใหม่กลับต้องทนทุกข์ทรมานจากการใช้โครเมียมมากเกินไป มากกว่า…"
+      "category": "ev",
+      "title_en": "Tracking the fatal Tesla Autopilot and FSD crashes hidden in its data",
+      "summary_en": "Tesla reports its Autopilot and “Full Self-Driving” crashes to the federal government, as it’s required to — and then blacks out almost everything in those reports, so the public never learns what happened in those crashes. Tesla always end up blaming the driver. We’re matching those redacted reports, one by one, to real fatal crashes that were covered in the news as ordinary accidents. This is a running investigation, and we’ll add each crash we confirm to this page. You can view this as an investigative hub keeping track of our ongoing investigation. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2021/12/Tesla-Model-Y-IIHSA-crash-test.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/01/tesla-autopilot-fsd-crashes-hidden-data/",
+      "published": "Tue, 01 Sep 2026 12:40:56 +0000",
+      "title_th": "ติดตามความล้มเหลวของ Tesla Autopilot และ FSD ที่ซ่อนอยู่ในข้อมูล",
+      "summary_th": "Tesla reports its Autopilot and “Full Self-Driving” crashes to the federal government, as it’s required to — and then blacks out almost everything in those reports, so the public never learns what happened in those crashes. Tesla always end up blaming the driver. We’re matching those redacted reports, one by one, to real fatal crashes that were covered in the news as ordinary accidents. This is a running investigation, and we’ll add each crash we confirm to this page. You can view this as an investigative hub keeping track of our ongoing investigation. more…"
     },
     {
       "source": "Electrek",
@@ -563,8 +575,8 @@
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/work_slate.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://electrek.co/2026/08/31/slate-gets-a-high-roof-cargo-variant-tiger-tugs-and-ceo-tim-cook-leaves-apple/",
       "published": "Tue, 01 Sep 2026 00:48:13 +0000",
-      "title_th": "Slate มีรุ่นบรรทุกสินค้าหลังคาสูง เรือลากจูง Tiger และ CEO Tim Cook ออกจาก Apple",
-      "summary_th": "ในตอนที่ทำงานหนักของ Quick Charge ในวันนี้ เราจะแนะนำหมวกโดยรวมของเราให้กับ Tim Cook ซีอีโอของ Apple ในวันสุดท้ายที่เขาทำงาน ก่อนที่จะพิจารณาแนวทางของ Slate Auto ที่ได้รับการสนับสนุนจาก Jeff Bezos ในตลาดรถบรรทุกขนาดกะทัดรัด และไตร่ตรองถึงโอกาสที่จะต่อสู้กับ The House That Henry Built มากกว่า…"
+      "title_th": "Slate ซื้อรถรุ่นบรรทุกสินค้าหลังคาสูง เรือลากจูง Tiger และ CEO Tim Cook ออกจาก Apple",
+      "summary_th": "ในตอนที่ทำงานหนักของ Quick Charge ในวันนี้ เราจะแนะนำหมวกโดยรวมของเราให้กับ Tim Cook ซีอีโอของ Apple ในวันสุดท้ายที่เขาทำงาน ก่อนที่จะพิจารณาแนวทางของ Slate Auto ที่ได้รับการสนับสนุนจาก Jeff Bezos ในตลาดรถบรรทุกขนาดกะทัดรัด และไตร่ตรองถึงโอกาสที่จะแข่งขันกับ The House That Henry Built มากกว่า…"
     },
     {
       "source": "Electrek",
@@ -587,20 +599,8 @@
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/BYD-Denza-Z-Lamborghini-race.jpeg?quality=82&strip=all&resize=1200,628",
       "link": "https://electrek.co/2026/08/31/byds-ev-supercar-offers-lambo-speed-for-less-than-a-porsche/",
       "published": "Mon, 31 Aug 2026 21:12:28 +0000",
-      "title_th": "ซุปเปอร์คาร์ไฟฟ้าของ BYD จะเอาชนะ Lambo ในการแข่งขัน และราคาถูกกว่า Porsche [วิดีโอ]",
-      "summary_th": "ด้วยมอเตอร์ไฟฟ้าสามตัวที่ให้กำลังมากกว่า 1,500 แรงม้า ทำให้ Denza Z สามารถเร่งความเร็วจาก 0 ถึง 100 ไมล์ต่อชั่วโมงได้ภายในเวลาไม่ถึง 2 วินาที มันสามารถเอาชนะ Lamborghini ได้ในการแข่งขัน และราคาถูกกว่า Porsche 911 Turbo S. อ่านเพิ่มเติม..."
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "A second Tesla driver died stopped on a freeway with Autopilot/Self-Driving on",
-      "summary_en": "Weeks after a Tesla Model 3 sat stopped in a live Florida interstate lane and its driver was killed, it happened again — a 2020 Model 3, stopped dead on a Phoenix-area freeway at 3 a.m., rear-ended by a pickup, its driver dead at the scene. And as in the Florida case that we revealed today, no one investigating knew what Tesla’s own data shows: the car’s driver-assist system was engaged. This is part of an ongoing Electrek series matching previously reported Tesla crashes to the company’s own redacted NHTSA data. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Tesla-crash-stopped-highway.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/08/31/tesla-driver-assist-stopped-freeway-mesa/",
-      "published": "Mon, 31 Aug 2026 20:40:21 +0000",
-      "title_th": "คนขับ Tesla คนที่สองเสียชีวิตขณะจอดบนฟรีเวย์โดยเปิดระบบ Autopilot/Self-Driving",
-      "summary_th": "ไม่กี่สัปดาห์หลังจากที่รถ Tesla Model 3 หยุดจอดในเลนระหว่างรัฐฟลอริดาและคนขับเสียชีวิต มันก็เกิดขึ้นอีกครั้ง โดยรถ Model 3 ปี 2020 หยุดเสียชีวิตบนทางด่วนในเขตฟีนิกซ์เมื่อเวลา 03.00 น. โดยมีรถกระบะชนท้าย คนขับเสียชีวิตในที่เกิดเหตุ และเช่นเดียวกับในกรณีของฟลอริดาที่เราเปิดเผยในวันนี้ ไม่มีใครสืบสวนรู้ว่าข้อมูลของ Tesla แสดงให้เห็นอะไร: ระบบช่วยเหลือผู้ขับขี่ของรถทำงานอยู่ นี่เป็นส่วนหนึ่งของซีรีส์ Electrek ที่กำลังดำเนินอยู่ ซึ่งตรงกับรายงานก่อนหน้านี้ของ Tesla ที่ขัดข้องกับข้อมูล NHTSA ของบริษัทเอง มากกว่า…"
+      "title_th": "ซุปเปอร์คาร์ไฟฟ้าของ BYD จะเอาชนะ Lambo ในการแข่งขันและราคาถูกกว่า Porsche [วิดีโอ]",
+      "summary_th": "ด้วยมอเตอร์ไฟฟ้าสามตัวที่ให้กำลังมากกว่า 1,500 แรงม้า ทำให้ Denza Z สามารถเร่งความเร็วจาก 0 ถึง 100 กิโลเมตรต่อชั่วโมงได้ภายในเวลาไม่ถึง 2 วินาที มันสามารถเอาชนะ Lamborghini ได้ในการแข่งขัน และราคาถูกกว่า Porsche 911 Turbo S เพิ่มเติม..."
     }
   ],
   "indices": [
@@ -608,57 +608,57 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 220.78,
-      "change": 3.23,
-      "change_pct": 1.48
+      "price": 215.78,
+      "change": -5.0,
+      "change_pct": -2.26
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 367.95,
-      "change": 19.2,
-      "change_pct": 5.51
+      "price": 356.86,
+      "change": -11.1,
+      "change_pct": -3.02
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 339.35,
-      "change": -7.24,
-      "change_pct": -2.09
+      "price": 336.17,
+      "change": -3.18,
+      "change_pct": -0.94
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 507.29,
-      "change": -6.24,
-      "change_pct": -1.22
+      "price": 505.29,
+      "change": -2.0,
+      "change_pct": -0.39
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 316.85,
-      "change": -2.85,
-      "change_pct": -0.89
+      "price": 320.06,
+      "change": 3.21,
+      "change_pct": 1.01
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 259.77,
-      "change": -6.66,
-      "change_pct": -2.5
+      "price": 255.3,
+      "change": -4.47,
+      "change_pct": -1.72
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 572.34,
-      "change": -5.68,
-      "change_pct": -0.98
+      "price": 567.22,
+      "change": -5.12,
+      "change_pct": -0.89
     },
     {
       "symbol": "DELTA.BK",
@@ -678,7 +678,7 @@
       "link": "https://www.youtube.com/shorts/v-_d2e7x4KA",
       "thumbnail": "https://i3.ytimg.com/vi/v-_d2e7x4KA/hqdefault.jpg",
       "published": "2026-08-25T23:23:55+00:00",
-      "title_th": "The Wildest Camera Robot"
+      "title_th": "หุ่นยนต์กล้องที่ดุร้ายที่สุด"
     },
     {
       "channel": "MKBHD",
@@ -733,6 +733,16 @@
     {
       "channel": "Beartai",
       "country": "TH",
+      "title_en": "“Transformation ไม่ใช่ทางเลือก แต่คือสิ่งที่องค์กรต้องทำเพื่ออยู่รอดและเติบโต”",
+      "video_id": "yISbhWsXbw4",
+      "link": "https://www.youtube.com/shorts/yISbhWsXbw4",
+      "thumbnail": "https://i2.ytimg.com/vi/yISbhWsXbw4/hqdefault.jpg",
+      "published": "2026-09-01T10:34:32+00:00",
+      "title_th": "“Transformation ไม่ใช่ทางเลือก แต่คือสิ่งที่องค์กรต้องทำเพื่ออยู่รอดและเติบโต”"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
       "title_en": "ยอดวิวสูง ไม่ได้แปลว่าดังจริง !",
       "video_id": "RkStqSvcUas",
       "link": "https://www.youtube.com/shorts/RkStqSvcUas",
@@ -749,16 +759,6 @@
       "thumbnail": "https://i3.ytimg.com/vi/6g3I4QBeNoA/hqdefault.jpg",
       "published": "2026-08-31T07:00:39+00:00",
       "title_th": "‘Metthier Academy’ อัปสกิลพนักงานสู่ผู้เชี่ยวชาญเฉพาะทาง"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "ทำน้อยได้มาก",
-      "video_id": "tAIAnB546q8",
-      "link": "https://www.youtube.com/shorts/tAIAnB546q8",
-      "thumbnail": "https://i1.ytimg.com/vi/tAIAnB546q8/hqdefault.jpg",
-      "published": "2026-08-30T23:00:27+00:00",
-      "title_th": "ทำน้อยได้มาก"
     },
     {
       "channel": "Droidsans",
