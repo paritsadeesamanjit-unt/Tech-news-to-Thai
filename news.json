@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T01:35:56.782318+00:00",
+  "generated_at": "2026-09-02T07:24:15.215612+00:00",
   "count": 50,
   "articles": [
     {
@@ -7,12 +7,12 @@
       "flag": "US",
       "category": "startup",
       "title_en": "Larry Page’s flying car company Pivotal loses its CEO",
-      "summary_en": "The company told TechCrunch he is \"pursuing new endeavors.\"",
+      "summary_en": "The company told TechCrunch he is \"pursuing new endeavors.\" Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in November 2025.",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/pivotal-helix.jpg?resize=1200,633",
       "link": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
       "published": "Tue, 01 Sep 2026 23:59:59 +0000",
       "title_th": "Pivotal บริษัทรถยนต์บินได้ของ Larry Page สูญเสีย CEO",
-      "summary_th": "บริษัทบอกกับ TechCrunch ว่าเขากำลัง \"แสวงหาความพยายามใหม่ๆ\""
+      "summary_th": "บริษัทบอกกับ TechCrunch ว่าเขากำลัง \"แสวงหาความพยายามใหม่ๆ\" Karklin จะถูกแทนที่ชั่วคราวโดย Mike Ross ผู้บริหารด้านการบินที่เข้าร่วมคณะกรรมการบริหารของ Pivotal ในเดือนพฤศจิกายน 2025"
     },
     {
       "source": "TechCrunch",
@@ -65,6 +65,30 @@
     {
       "source": "The Verge",
       "flag": "US",
+      "category": "gadget",
+      "title_en": "Dell’s newest laptop sounds a lot like a MacBook Neo",
+      "summary_en": "Dell's new Dell 14S laptop sounds a lot like a MacBook Neo: it comes in four colors, is aimed at students, and it starts with 8GB of RAM and 256GB of storage. Announced at IFA 2026, the 14S is meant to sit below the recently launched XPS 13 and offer another affordable laptop option as […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dell-14S_Velvet-Green_Lifestyle.jpg?quality=90&strip=all&crop=0%2C16.709105790342%2C100%2C66.581788419316&w=1200",
+      "link": "https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs",
+      "published": "2026-09-02T03:00:00-04:00",
+      "title_th": "แล็ปท็อปใหม่ล่าสุดของ Dell ฟังดูคล้ายกับ MacBook Neo มาก",
+      "summary_th": "แล็ปท็อป Dell 14S ใหม่ของ Dell ฟังดูคล้ายกับ MacBook Neo มาก โดยมีให้เลือก 4 สี มุ่งเป้าไปที่นักศึกษา โดยเริ่มต้นด้วย RAM 8GB และพื้นที่เก็บข้อมูล 256GB ประกาศในงาน IFA 2026 14S มีจุดมุ่งหมายให้อยู่ต่ำกว่า XPS 13 ที่เพิ่งเปิดตัวและเสนอตัวเลือกแล็ปท็อปราคาไม่แพงอีกตัวหนึ่งเป็น […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "This new Roomba seals itself to your carpet",
+      "summary_en": "iRobot has announced a new flagship robot vacuum, which it will showcase at IFA in Berlin this week, the company's first big tech trade show in years. The Roomba maker will be exhibiting under its new owner, Picea Robotics, the contract manufacturer that purchased the once-troubled American robotics company out of bankruptcy in January. The […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Roomba_Max_875_Combo_Email_Onboarding_Touch1_Hero_Mobile_425x300.jpg?quality=90&strip=all&crop=0,12.914485165794,100,74.171029668412",
+      "link": "https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced",
+      "published": "2026-09-02T02:00:00-04:00",
+      "title_th": "Roomba ใหม่นี้ปิดผนึกตัวเองเข้ากับพรมของคุณ",
+      "summary_th": "iRobot ได้ประกาศหุ่นยนต์ดูดฝุ่นเรือธงตัวใหม่ ซึ่งจะจัดแสดงที่ IFA ในกรุงเบอร์ลินในสัปดาห์นี้ ซึ่งเป็นงานแสดงสินค้าเทคโนโลยีครั้งใหญ่ครั้งแรกของบริษัทในรอบหลายปี ผู้ผลิต Roomba จะจัดแสดงภายใต้เจ้าของคนใหม่ Picea Robotics ซึ่งเป็นผู้ผลิตตามสัญญาที่ซื้อบริษัทหุ่นยนต์สัญชาติอเมริกันที่ครั้งหนึ่งเคยประสบปัญหานี้จากการล้มละลายในเดือนมกราคม […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
       "category": "software",
       "title_en": "Google needs Hollywood more than the studios need AI",
       "summary_en": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the studios that would also […]",
@@ -97,30 +121,6 @@
       "published": "2026-09-01T17:22:56-04:00",
       "title_th": "Apple Maps ติดตาม Google ในการเปลี่ยนชื่อ Lake Ontario",
       "summary_th": "Apple Maps ได้เปลี่ยนชื่ออย่างเป็นทางการของ Lake Ontario เป็น Lake America ตามที่ Bloomberg รายงานก่อนหน้านี้ บริษัทร่วมกับ Google ในการติดป้ายกำกับ Great Lake ใหม่ตามคำสั่งผู้บริหารที่ลงนามโดยประธานาธิบดีโดนัลด์ ทรัมป์ ท่ามกลางข้อพิพาททางการค้ากับแคนาดา Apple Maps เวอร์ชันแคนาดายังคงแสดง \"Lake Ontario\" […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "OpenAI delayed its new model’s development after the Hugging Face hack",
-      "summary_en": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI model broke out of its restricted environment, finagled its way into […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461999/STK155_OPEN_AI_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-      "published": "2026-09-01T16:45:49-04:00",
-      "title_th": "OpenAI ชะลอการพัฒนาโมเดลใหม่หลังจากการแฮ็ก Hugging Face",
-      "summary_th": "หลังจากโมเดล OpenAI ที่ยังไม่ได้เผยแพร่สร้างความหายนะมากพอที่จะเป็นหัวข้อข่าวต่างประเทศ OpenAI ได้ชะลอการพัฒนาชุดโมเดลที่ยังไม่ได้เผยแพร่อื่น Astra เพื่อที่จะสนับสนุนงานด้านความปลอดภัย บริษัท เขียนเมื่อวันอังคารในโพสต์บล็อก ในเดือนกรกฎาคม โมเดล OpenAI ที่ยังไม่เผยแพร่หลุดออกจากสภาพแวดล้อมที่จำกัด และปิดทางเข้าสู่ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "On first listen, the Sonos Beam Ultra sounds great",
-      "summary_en": "Sonos unveiled a bunch of new stuff today at its open house event. There's the $699 Beam Ultra soundbar and the $449 Ace Ultra headphones, plus several under-the-hood app updates (some coming sooner than others). While the show floor was a less than ideal venue to judge audio quality of either new product, a private […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/beamultra1.jpg?quality=90&strip=all&crop=0%2C10.737798197289%2C100%2C78.524403605422&w=1200",
-      "link": "https://www.theverge.com/tech/987574/sonos-beam-ultra-first-listen",
-      "published": "2026-09-01T16:08:38-04:00",
-      "title_th": "เมื่อฟังครั้งแรก Sonos Beam Ultra ให้เสียงที่ยอดเยี่ยม",
-      "summary_th": "Sonos เปิดตัวสิ่งใหม่มากมายในวันนี้ที่งานเปิดบ้าน มีแถบเสียง Beam Ultra มูลค่า 699 เหรียญสหรัฐ และหูฟัง Ace Ultra มูลค่า 449 เหรียญสหรัฐ พร้อมด้วยการอัปเดตแอปใหม่ ๆ มากมาย (บางรายการจะออกมาเร็วกว่าแอปอื่น) แม้ว่าพื้นที่จัดแสดงจะไม่ค่อยเหมาะนักในการตัดสินคุณภาพเสียงของผลิตภัณฑ์ใหม่ แต่ […]"
     },
     {
       "source": "Ars Technica",
@@ -185,62 +185,62 @@
     {
       "source": "Wired",
       "flag": "US",
-      "category": "ev",
-      "title_en": "The Range Rover Electric: Specs, Price, Availability",
-      "summary_en": "After long delays, JLR’s biggest gamble with its Range Rover brand is here with huge performance, range, and off-road EV skills. It’s mighty pricey, but the US gets a cheaper model.",
-      "image": "https://media.wired.com/photos/6a972c251a29cad3901a2042/master/pass/RANGE-ROVER-ELECTRIC-FRONT-02_09_26.jpg",
-      "link": "https://www.wired.com/story/the-range-rover-electric-has-finally-arrived/",
-      "published": "Tue, 01 Sep 2026 23:01:00 +0000",
-      "title_th": "Range Rover Electric: ข้อมูลจำเพาะ ราคา การวางจำหน่าย",
-      "summary_th": "หลังจากความล่าช้าอันยาวนาน การเดิมพันที่ใหญ่ที่สุดของ JLR กับแบรนด์ Range Rover ก็อยู่ที่นี่ด้วยสมรรถนะอันมหาศาล ระยะการเดินทาง และทักษะ EV ออฟโรด มันแพงมาก แต่สหรัฐฯ ได้รุ่นที่ถูกกว่า"
+      "category": "ai",
+      "title_en": "B&H Photo Promo Codes and Deals This September 2026",
+      "summary_en": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+      "image": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
+      "link": "https://www.wired.com/story/bh-photo-coupon/",
+      "published": "Wed, 02 Sep 2026 05:00:00 +0000",
+      "title_th": "รหัสโปรโมชั่นและข้อเสนอภาพถ่าย B&H ในเดือนกันยายน 2569 นี้",
+      "summary_th": "เพลิดเพลินกับข้อเสนอสุดพิเศษสำหรับกล้อง คอมพิวเตอร์ และอุปกรณ์เทคโนโลยีที่ B&H Photo"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "The Diamond Moon and Other Astronomical Events to See in September 2026",
-      "summary_en": "September is full of opportunities to expand your knowledge of the night sky. Mark your calendars.",
-      "image": "https://media.wired.com/photos/6a970ab972949d665b63334c/master/pass/474745466",
-      "link": "https://www.wired.com/story/diamond-moon-and-other-astronomical-events-september-2026/",
-      "published": "Tue, 01 Sep 2026 20:00:00 +0000",
-      "title_th": "Diamond Moon และเหตุการณ์ทางดาราศาสตร์อื่น ๆ ที่น่าจับตามองในเดือนกันยายน 2569",
-      "summary_th": "กันยายนเต็มไปด้วยโอกาสในการเพิ่มพูนความรู้เกี่ยวกับท้องฟ้ายามค่ำคืน ทำเครื่องหมายปฏิทินของคุณ"
+      "title_en": "Columbia Promo Codes: 15% Off | September 2026",
+      "summary_en": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
+      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
+      "link": "https://www.wired.com/story/columbia-promo-code/",
+      "published": "Wed, 02 Sep 2026 05:00:00 +0000",
+      "title_th": "รหัสส่งเสริมการขายโคลัมเบีย: ลด 15% | กันยายน 2026",
+      "summary_th": "สำรวจข้อเสนอปัจจุบันของโคลัมเบียเกี่ยวกับเสื้อแจ็คเก็ต อุปกรณ์เอาท์ดอร์ และเครื่องแต่งกาย ค้นหารหัสโปรโมชั่น Columbia ที่ใช้งานได้ ส่วนลดสำหรับนักเรียน และข้อเสนอการจัดส่งฟรีเพื่อประหยัดในการผจญภัยครั้งถัดไปของคุณ"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
-      "summary_en": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
-      "image": "https://media.wired.com/photos/6a9613c7a31f896f81e828e0/master/pass/OpenAI-AI-Safety-Business.jpg",
-      "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
-      "published": "Tue, 01 Sep 2026 20:00:00 +0000",
-      "title_th": "OpenAI กำลังจะเปิดตัวโมเดล AI แรกที่มีความสามารถทางไซเบอร์ 'สำคัญ'",
-      "summary_th": "บริษัทจะให้พันธมิตรที่ได้รับการคัดเลือกเข้าถึงโมเดล Astra AI ได้ก่อนใคร เพื่อให้พวกเขามีเวลาเสริมการป้องกัน"
+      "title_en": "Verizon Promo Codes: $200 Verizon Gift Cards | September 2026",
+      "summary_en": "Ready for an upgrade? Apply our latest promotional codes today and choose a select service plan to score a discount with Verizon.",
+      "image": "https://media.wired.com/photos/66ea076e97780c31bf362cf9/master/pass/WIRED-Coupons-14.jpg",
+      "link": "https://www.wired.com/story/verizon-promo-code/",
+      "published": "Wed, 02 Sep 2026 05:00:00 +0000",
+      "title_th": "รหัสส่งเสริมการขาย Verizon: บัตรของขวัญ Verizon มูลค่า 200 เหรียญ | กันยายน 2026",
+      "summary_th": "Ready for an upgrade? Apply our latest promotional codes today and choose a select service plan to score a discount with Verizon."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
-      "summary_en": "Sonos is cramming AI into its software because it’s “very hot these days.” The new features, which include agentic automation, are opt-in.",
-      "image": "https://media.wired.com/photos/6a95b91888d28650c3255bcd/master/pass/Sonos%20Ace%20Ultra%201.JPG",
-      "link": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
-      "published": "Tue, 01 Sep 2026 14:40:00 +0000",
-      "title_th": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
-      "summary_th": "Sonos กำลังอัด AI ลงในซอฟต์แวร์ของตนเพราะ \"ช่วงนี้ร้อนมาก\" คุณสมบัติใหม่ ซึ่งรวมถึงระบบอัตโนมัติแบบตัวแทน ได้รับการเลือกใช้"
+      "title_en": "Uplift Promo Codes: $300 Off",
+      "summary_en": "Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories during the Spring Setup Sale.",
+      "image": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png",
+      "link": "https://www.wired.com/story/uplift-desk-coupon-code/",
+      "published": "Wed, 02 Sep 2026 05:00:00 +0000",
+      "title_th": "รหัสส่งเสริมการขาย Uplift: ลด $300",
+      "summary_th": "อัปเกรดโฮมออฟฟิศของคุณด้วยรหัสส่วนลด Uplift Desk ที่ดีที่สุด ประหยัดค่าโต๊ะยืน เก้าอี้ที่เหมาะกับสรีระ และอุปกรณ์เสริมในช่วง Spring Setup Sale"
     },
     {
       "source": "Wired",
       "flag": "US",
-      "category": "gadget",
-      "title_en": "5 Best Folding Phones (2026): Samsung, Google, Motorola",
-      "summary_en": "Ready to move on from the traditional glass slab? Introduce a hinge into your life with these folding smartphones.",
-      "image": "https://media.wired.com/photos/6a95dec17beacade09680cbc/master/pass/The-Best-Folding-Phones.jpg",
-      "link": "https://www.wired.com/gallery/best-folding-phones/",
-      "published": "Tue, 01 Sep 2026 11:30:00 +0000",
-      "title_th": "5 โทรศัพท์พับได้ที่ดีที่สุด (2026): Samsung, Google, Motorola",
-      "summary_th": "พร้อมที่จะเปลี่ยนจากแผ่นกระจกแบบเดิมๆ แล้วหรือยัง? เพิ่มบานพับให้กับชีวิตของคุณด้วยสมาร์ทโฟนแบบพับได้เหล่านี้"
+      "category": "ai",
+      "title_en": "Altra Running Promo Codes: 10% Off September 2026",
+      "summary_en": "Score big savings on Altra Running shoes with up to 50% off sale styles, 20% off select models, 10% off your first order when you sign up, plus free standard delivery on every purchase.",
+      "image": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png",
+      "link": "https://www.wired.com/story/altra-promo-code/",
+      "published": "Wed, 02 Sep 2026 05:00:00 +0000",
+      "title_th": "รหัสส่งเสริมการขาย Altra Running: ลด 10% ในเดือนกันยายน 2026",
+      "summary_th": "ประหยัดสุดๆ กับรองเท้าวิ่ง Altra พร้อมส่วนลดสไตล์การขายสูงสุดถึง 50%, ส่วนลด 20% สำหรับรุ่นที่เลือก, ส่วนลด 10% สำหรับการสั่งซื้อครั้งแรกของคุณเมื่อคุณสมัคร พร้อมบริการจัดส่งแบบมาตรฐานฟรีสำหรับการซื้อทุกครั้ง"
     },
     {
       "source": "MIT Technology Review",
@@ -305,6 +305,18 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "gadget",
+      "title_en": "The Dell 14S is yet another cheap laptop chasing the MacBook Neo",
+      "summary_en": "Dell's latest attempt to match the MacBook Neo looks like a solid contender.",
+      "image": "https://www.engadget.com/img/gallery/the-dell-14s-is-yet-another-cheap-pc-chasing-the-macbook-neo/l-intro-1787672543.jpg",
+      "link": "https://www.engadget.com/2243741/dell-14s-is-yet-another-cheap-laptop-chasing-the-macbook-neo/",
+      "published": "Wed, 02 Sep 2026 07:00:00 +0000",
+      "title_th": "Dell 14S เป็นอีกหนึ่งแล็ปท็อปราคาถูกที่ไล่ตาม MacBook Neo",
+      "summary_th": "ความพยายามล่าสุดของ Dell ในการจับคู่ MacBook Neo ดูเหมือนจะเป็นคู่แข่งที่แข็งแกร่ง"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "chip",
       "title_en": "Android stuck in Safe Mode? Here's how to turn it off",
       "summary_en": "You're just a few taps away from getting your Android phone out of safe mode and back to normal.",
@@ -323,7 +335,7 @@
       "image": "https://www.engadget.com/img/gallery/lake-ontario-is-now-lake-america-on-apple-maps/l-intro-1788303163.jpg",
       "link": "https://www.engadget.com/2249159/lake-ontario-is-now-lake-america-on-apple-maps/",
       "published": "Tue, 01 Sep 2026 22:54:41 +0000",
-      "title_th": "Lake Ontario is now 'Lake America' on Apple Maps",
+      "title_th": "ตอนนี้ Lake Ontario เปลี่ยนชื่อเป็น 'Lake America' บน Apple Maps",
       "summary_th": "มีรายงานว่าประธานาธิบดีทรัมป์ \"ติดต่อโดยตรง\" กับบริษัท"
     },
     {
@@ -349,18 +361,6 @@
       "published": "Tue, 01 Sep 2026 22:00:00 +0000",
       "title_th": "ข้ามจอภาพ 5K สำหรับเล่นเกมไปเป็น 4K แทน นี่คือเหตุผล",
       "summary_th": "5K นั้นคมชัดกว่า 4K UHD เสียอีก แต่ก็มีไว้สำหรับผู้ชมเฉพาะกลุ่ม ในฐานะเกมเมอร์ คุณจะไม่สามารถใช้ประโยชน์จากมันได้มากเท่าที่คุณคิด"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Meta's new AI transcription model can distinguish between multiple speakers and languages in real-time",
-      "summary_en": "The latest release from Meta Superintelligence Lab is a powerful transcription model.",
-      "image": "https://www.engadget.com/img/gallery/metas-new-ai-transcription-model-can-distinguish-between-multiple-speakers-and-languages-in-real-time/l-intro-1788299695.jpg",
-      "link": "https://www.engadget.com/2249112/meta-new-ai-transcription-model-can-distinguist-between-multiple-speakers-and-languages-in-real-time/",
-      "published": "Tue, 01 Sep 2026 21:56:29 +0000",
-      "title_th": "โมเดลการถอดเสียง AI ใหม่ของ Meta สามารถแยกแยะระหว่างผู้พูดหลายคนและภาษาได้แบบเรียลไทม์",
-      "summary_th": "รุ่นล่าสุดจาก Meta Superintelligence Lab คือโมเดลการถอดเสียงที่มีประสิทธิภาพ"
     },
     {
       "source": "IEEE Spectrum",
@@ -432,7 +432,7 @@
       "link": "https://9to5mac.com/2026/09/01/apple-tells-mac-app-store-developers-they-can-now-drop-intel-support/",
       "published": "Wed, 02 Sep 2026 00:50:53 +0000",
       "title_th": "Apple แจ้งนักพัฒนา Mac App Store ว่าสามารถยกเลิกการรองรับ Intel ได้แล้ว",
-      "summary_th": "วันนี้ Apple เริ่มแจ้งให้นักพัฒนาทราบว่าแอพ macOS สากลบน Mac App Store ที่ต้องใช้ macOS 13 หรือใหม่กว่าสามารถยกเลิกการรองรับ Mac ที่ใช้ Intel ได้แล้ว มากกว่า…"
+      "summary_th": "Apple started informing developers today that universal macOS apps on the Mac App Store that require macOS 13 or later can now drop support for Intel-based Macs. more…"
     },
     {
       "source": "9to5Mac",
@@ -443,7 +443,7 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-maps-generic-3d.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/09/01/ford-explains-why-it-chose-apple-maps-over-google-for-its-new-evs/",
       "published": "Tue, 01 Sep 2026 23:33:07 +0000",
-      "title_th": "Ford อธิบายว่าทำไมจึงเลือก Apple Maps มากกว่า Google สำหรับ EV ใหม่",
+      "title_th": "Ford explains why it chose Apple Maps over Google for its new EVs",
       "summary_th": "เมื่อต้นปีที่ผ่านมา Apple ได้ประกาศความร่วมมือกับ Ford เพื่อนำการบูรณาการ Apple Maps เข้ากับแพลตฟอร์ม Universal Electric Vehicle (UEV) ของผู้ผลิตรถยนต์ ซึ่งรวมถึงสิ่งที่เรารู้ตอนนี้เรียกว่า Fathom มากกว่า…"
     },
     {
@@ -467,8 +467,8 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-maps-ios-27-app-icon-colors.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/09/01/apple-maps-renaming-lake-ontario-to-lake-america-following-trump-order/",
       "published": "Tue, 01 Sep 2026 20:49:50 +0000",
-      "title_th": "ขณะนี้ Apple Maps ใช้ 'Lake America' แทน 'Lake Ontario' หลังจากคำสั่งของทรัมป์",
-      "summary_th": "หากคุณไปที่ Apple Maps วันนี้ คุณจะสังเกตเห็นว่า Apple ได้เริ่มเปลี่ยนชื่อ Lake Ontario เป็น \"Lake America\" การเคลื่อนไหวดังกล่าวเป็นไปตามคำสั่งของทรัมป์เมื่อสัปดาห์ที่แล้วให้เปลี่ยนชื่อซึ่งเป็นส่วนหนึ่งของข้อพิพาททางการค้ากับแคนาดาที่กำลังดำเนินอยู่ มากกว่า…"
+      "title_th": "Apple Maps now uses ‘Lake America’ instead of ‘Lake Ontario’ after Trump order",
+      "summary_th": "If you head to Apple Maps today, you’ll notice that Apple has started renaming Lake Ontario to “Lake America.” The move follows Trump’s order last week to change the name as part of an ongoing trade dispute with Canada. more…"
     },
     {
       "source": "9to5Mac",
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 251.0,
-      "change": 2.0,
-      "change_pct": 0.8
+      "price": 247.0,
+      "change": -4.0,
+      "change_pct": -1.59
     }
   ],
   "reviews": [
