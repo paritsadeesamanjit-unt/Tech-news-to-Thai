@@ -1,66 +1,78 @@
 {
-  "generated_at": "2026-09-02T18:13:49.924116+00:00",
+  "generated_at": "2026-09-02T22:56:12.408881+00:00",
   "count": 50,
   "articles": [
     {
       "source": "TechCrunch",
       "flag": "US",
-      "category": "review",
-      "title_en": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-      "summary_en": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s real. A handful of startups have cropped up in the past couple of […]",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Pangram-founders.png?resize=1200,675",
-      "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-      "published": "Wed, 02 Sep 2026 17:18:13 +0000",
-      "title_th": "Max Spero จาก Pangram พูดถึงสาเหตุที่การตรวจจับ AI นั้นยากกว่า 'จริงหรือปลอม'",
-      "summary_th": "อินเทอร์เน็ตมีปัญหาเรื่องความน่าเชื่อถือ และไม่ใช่เพียงเพราะฟีดโซเชียลมีเดียเต็มไปด้วย AI ที่ไม่มีประสิทธิภาพ ข้อความและรูปภาพที่สร้างโดย AI กำลังเข้าสู่การสมัครงาน รีวิวผลิตภัณฑ์ และแม้กระทั่งการเคลมประกัน ทำให้แพลตฟอร์มและผู้ใช้ต่างตะเกียกตะกายเพื่อค้นหาว่าอะไรคือของจริง สตาร์ทอัพจำนวนหนึ่งได้เติบโตขึ้นในช่วงสองสามปีที่ผ่านมา […]"
+      "category": "startup",
+      "title_en": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "summary_en": "The acquisition also leaves Sequoia-backed Serval as the de-facto startup leader in AI IT service automation, industry watchers believe.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "published": "Wed, 02 Sep 2026 22:44:56 +0000",
+      "title_th": "Palo Alto Networks จ่ายเงิน 500 ล้านเหรียญสหรัฐสำหรับ Thrive-backed Console แหล่งข่าวกล่าว",
+      "summary_th": "การเข้าซื้อกิจการครั้งนี้ยังทำให้ Serval ที่ได้รับการสนับสนุนจาก Sequoia เป็นผู้นำสตาร์ทอัพด้านบริการ AI IT อัตโนมัติ ผู้สังเกตการณ์ในอุตสาหกรรมเชื่อ"
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "X shifts US creator payouts from Stripe to X Money",
-      "summary_en": "X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-10.24.40-AM.png?resize=1200,607",
-      "link": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
-      "published": "Wed, 02 Sep 2026 17:12:27 +0000",
-      "title_th": "X เลื่อนการจ่ายเงินสำหรับผู้สร้างในสหรัฐฯ จาก Stripe เป็น X Money",
-      "summary_th": "X กล่าวว่าการจ่ายเงินของครีเอเตอร์ในสหรัฐฯ จะได้รับการจัดการผ่านบริการชำระเงินของ X Money ซึ่งเป็นการเปลี่ยนแปลงที่ดูเหมือนจะมาแทนที่ระบบการจ่ายเงินของ Stripe ก่อนหน้านี้"
+      "title_en": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+      "summary_en": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200",
+      "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+      "published": "Wed, 02 Sep 2026 22:24:09 +0000",
+      "title_th": "TechCrunch Disrupt 2026 Real World AI Stage นำเสนอ Nvidia หุ่นยนต์ และสัตว์สูญพันธุ์",
+      "summary_th": "บนเวที Real World AI ใหม่ของเรา เราจะมุ่งเน้นไปที่จุดตัดระหว่างดิจิทัลและกายภาพ และทุกวิถีทางที่เราจะได้เห็นการผสมผสานของทั้งสองต่อไป"
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "summary_en": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "published": "Wed, 02 Sep 2026 17:09:06 +0000",
-      "title_th": "รัฐบาลสหรัฐฯ ร่วมมือกับ OpenAI ในประเด็นการฝึกอบรม LLM เกี่ยวกับเนื้อหาที่มีลิขสิทธิ์",
-      "summary_th": "“สหรัฐอเมริกามีความสนใจอย่างมากในการพัฒนาอุตสาหกรรมปัญญาประดิษฐ์ที่แข็งแกร่งและแข่งขันได้อย่างต่อเนื่อง ซึ่งกำหนดมาตรฐานสำหรับการปฏิบัติและขั้นตอนการใช้ AI ทั่วโลก” เนื้อหาสรุประบุ"
+      "title_en": "Google spared from ad-business breakup, but judge orders changes to how it operates",
+      "summary_en": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
+      "published": "Wed, 02 Sep 2026 21:38:34 +0000",
+      "title_th": "Google รอดพ้นจากการล่มสลายของธุรกิจโฆษณา แต่คำสั่งของผู้ตัดสินเปลี่ยนแปลงวิธีดำเนินการ",
+      "summary_th": "Google หลบเลี่ยงความพยายามที่จะแยกธุรกิจโฆษณาของตนออก แต่ผู้พิพากษากล่าวเมื่อวันพุธว่า บริษัทจะต้องปรับธุรกิจของตนเพื่อให้เป็นประโยชน์ต่อคู่แข่ง"
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
-      "summary_en": "Fervo's deal with Google could expand to 1 gigawatt of geothermal power, enough to supply a very large AI data center in Utah.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/fervo-geothermal-site-at-night.jpg?resize=1200,675",
-      "link": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
-      "published": "Wed, 02 Sep 2026 16:54:23 +0000",
-      "title_th": "ความร้อนใต้พิภพที่ได้รับการปรับปรุงได้รับชัยชนะอีกครั้งเมื่อ Google ซื้อ 400 MW จาก Fervo",
-      "summary_th": "ข้อตกลงของ Fervo กับ Google สามารถขยายพลังงานความร้อนใต้พิภพเป็น 1 กิกะวัตต์ ซึ่งเพียงพอที่จะจัดหาศูนย์ข้อมูล AI ขนาดใหญ่มากในยูทาห์"
+      "title_en": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "summary_en": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "published": "Wed, 02 Sep 2026 20:19:14 +0000",
+      "title_th": "เทคนิคการใช้เหตุผลใหม่ของ OpenAI เตือนผู้เชี่ยวชาญด้านความปลอดภัยของ AI",
+      "summary_th": "โมเดล Astra ใหม่ของ OpenAI จะใช้ \"ความลึกที่เกิดซ้ำ\" ซึ่งเป็นเทคนิคที่ช่วยให้โมเดลทำงานนอกเหนือจากการคิดตามลำดับที่แสดงลักษณะของโมเดลการใช้เหตุผลส่วนใหญ่"
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Wonderful more than doubles its valuation to $5B in under 6 months",
-      "summary_en": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
-      "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-      "published": "Wed, 02 Sep 2026 16:04:10 +0000",
-      "title_th": "Wonderful more than doubles its valuation to $5B in under 6 months",
-      "summary_th": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products."
+      "title_en": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
+      "summary_en": "The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/mapquest-lake-ontario.jpg?resize=1200,891",
+      "link": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
+      "published": "Wed, 02 Sep 2026 20:12:41 +0000",
+      "title_th": "MapQuest กลายเป็นแอปอันดับ 1 ของสหรัฐอเมริกาแล้ว หลังจากที่ขัดขวางการเปลี่ยนชื่อ 'Lake America' ของ Trump",
+      "summary_th": "แอปแผนที่ที่เคยโดดเด่นได้พุ่งขึ้นสู่อันดับสูงสุดใน App Store ของ Apple ในสหรัฐอเมริกา หลังจากปฏิเสธที่จะใช้ชื่อ “Lake America” ของทรัมป์ ดึงดูดมากกว่าครึ่งหนึ่งของการดาวน์โหลดในสหรัฐฯ ในปี 2026 ในเวลาเพียงหกวัน"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+      "summary_en": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "published": "2026-09-02T16:11:40-04:00",
+      "title_th": "Google กล่าวว่าโมเดล Gemini 3.8 Flash ใหม่ 'ทำงานหนักขึ้น' แต่อาจมีราคาสูงกว่า",
+      "summary_th": "Google เปิดตัว Gemini 3.8 Flash ซึ่งมาหลังจากรุ่นก่อนเพียงไม่กี่สัปดาห์ บริษัทอ้างว่าโมเดลใหม่ \"ทำงานหนักกว่า\" Gemini 3.7 Flash โดยทำตามขั้นตอนการให้เหตุผลเพิ่มเติมในงานที่ซับซ้อนและ \"เรียกเครื่องมือซ้ำๆ\" มีการกำหนดราคาเบื้องต้นเช่นเดียวกับ 3.7 Flash, 0.75 ดอลลาร์ต่อโทเค็นอินพุต 1 ล้าน และ 3.75 ดอลลาร์ต่อล้าน […]"
     },
     {
       "source": "The Verge",
@@ -111,16 +123,16 @@
       "summary_th": "OpenAI ใกล้จะเปิดตัวโมเดล AI ที่ทรงพลังที่สุดอย่าง Astra หลังจากหลายสัปดาห์แห่งความล่าช้าในการสนับสนุนโปรโตคอลความปลอดภัย หลังจากที่ตัวแทนโจมตีเป้าหมายจริงในระหว่างการทดสอบ ขณะที่รายละเอียดเกี่ยวกับโมเดลดังกล่าวหลุดออกมา นักวิจัยเตือนว่า \"อาจเป็นการพัฒนาที่เลวร้ายที่สุดสำหรับความปลอดภัย/ความปลอดภัยของ AI จนถึงปัจจุบัน\" ไม่นานหลังจากนั้น […]"
     },
     {
-      "source": "The Verge",
+      "source": "Ars Technica",
       "flag": "US",
       "category": "software",
-      "title_en": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
-      "summary_en": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and seeks to recoup \"billions of dollars\" in damages from […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462046/STK155_OPEN_AI_CVirginia_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
-      "published": "2026-09-02T12:12:25-04:00",
-      "title_th": "ฝ่ายบริหารของทรัมป์สนับสนุน OpenAI ในคดีลิขสิทธิ์ NYT",
-      "summary_th": "ฝ่ายบริหารของทรัมป์แทรกแซงการฟ้องร้องลิขสิทธิ์ของ The New York Times ต่อ OpenAI โดยโต้แย้งสนับสนุนห้องปฏิบัติการ AI คดีสำคัญซึ่งยื่นฟ้องในเดือนธันวาคม 2023 โดยกล่าวหาว่า OpenAI ฝึกอบรมระบบ AI อย่างผิดกฎหมายในบทความจาก The New York Times และพยายามชดใช้ค่าเสียหาย \"หลายพันล้านดอลลาร์\" จาก [ ... ]"
+      "title_en": "I rented a car, and within hours, my driver's license was for sale",
+      "summary_en": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Dan-stolen-driver-licence.png",
+      "link": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
+      "published": "Wed, 02 Sep 2026 20:32:02 +0000",
+      "title_th": "ฉันเช่ารถ และภายในไม่กี่ชั่วโมง ใบขับขี่ของฉันก็ถูกขายไป",
+      "summary_th": "มีรายงานว่า FBI กำลังสืบสวนการละเมิดข้อมูลขนาดใหญ่ที่กำลังเปิดเผยแบบเรียลไทม์"
     },
     {
       "source": "Ars Technica",
@@ -171,76 +183,64 @@
       "summary_th": "กลุ่มนี้แพร่เชื้อไปยังองค์กรมากกว่า 1,000 แห่งในแคมเปญโจมตีห่วงโซ่อุปทานอย่างไม่หยุดยั้ง"
     },
     {
-      "source": "Ars Technica",
+      "source": "Wired",
       "flag": "US",
-      "category": "software",
-      "title_en": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-      "summary_en": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-1152x648-1784927041.jpg",
-      "link": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "published": "Thu, 27 Aug 2026 12:58:59 +0000",
-      "title_th": "OpenAI ปล่อยให้กลุ่มตัวแทน LLM ทำการทดสอบและรื้อค้น Hugging Face ได้อย่างไร",
-      "summary_th": "โดยไม่ได้รับอนุญาต เจ้าหน้าที่ OpenAI 1,200 รายสมคบคิดกันเองเพื่อทำการทดสอบ"
+      "category": "ai",
+      "title_en": "Amazon’s 2026 Holiday Deals Are About to Look Better Than They Are",
+      "summary_en": "Amazon just hiked prices on Kindles, Echo speakers, Eero routers, and Fire TV devices ahead of the holiday shopping season.",
+      "image": "https://media.wired.com/photos/6a98485377625f71bd332e04/master/pass/Amazon-Raised-Its-Prices.-Don%E2%80%99t-Let-the-Next-Sale-Fool-You.jpg",
+      "link": "https://www.wired.com/story/amazon-increases-prices-kindle-echo-sept-2026/",
+      "published": "Wed, 02 Sep 2026 22:23:26 +0000",
+      "title_th": "ข้อเสนอวันหยุดปี 2026 ของ Amazon กำลังจะดูดีกว่าที่เป็นอยู่",
+      "summary_th": "Amazon เพิ่งขึ้นราคา Kindles, ลำโพง Echo, เราเตอร์ Eero และอุปกรณ์ Fire TV ก่อนเทศกาลช็อปปิ้งช่วงวันหยุด"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
-      "summary_en": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.",
-      "image": "https://media.wired.com/photos/6a95faca62c1ea4a51e42ed9/master/pass/Two-AI-Bots-Talking-to-Each-Other-Business-dv1959057.jpg",
-      "link": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
-      "published": "Wed, 02 Sep 2026 15:51:46 +0000",
-      "title_th": "จุดสิ้นสุดเชิงตรรกะของการสัมภาษณ์งาน AI คือบอทสองตัวพูดคุยกัน",
-      "summary_th": "คริสโตเฟอร์เบื่อหน่ายกับการถูกนายหน้า AI หลอกหลอน เขาจึงเปิดตัว ChatGPT ให้กับผู้สัมภาษณ์หุ่นยนต์ของเขา"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "The Cybercab Is Almost Here. Now Comes the Hard Part",
-      "summary_en": "The electric-auto maker will officially debut its steering-wheel-free robotaxi on Thursday. But building the vehicle is the easy part.",
-      "image": "https://media.wired.com/photos/6a9737841b1c34eff9cd25ce/master/pass/GettyImages-2259673201.jpg",
-      "link": "https://www.wired.com/story/here-comes-the-tesla-cybercab/",
-      "published": "Wed, 02 Sep 2026 11:30:00 +0000",
-      "title_th": "Cybercab ใกล้จะมาถึงแล้ว มาถึงส่วนที่ยากแล้ว",
-      "summary_th": "ผู้ผลิตรถยนต์ไฟฟ้าจะเปิดตัวโรโบแท็กซี่ไร้พวงมาลัยอย่างเป็นทางการในวันพฤหัสบดีนี้ แต่การสร้างยานพาหนะเป็นส่วนที่ง่าย"
+      "title_en": "Democrats Have a Plan to Force Trump’s Associates to Cooperate With Investigations",
+      "summary_en": "Donald Trump’s West Wing renovations and DC arch could be on the chopping block, should Democrats win the midterms—they could also be leverage.",
+      "image": "https://media.wired.com/photos/6a9753168e71dd67ca5defbc/master/pass/politics_democrats_prosecute_trump_family.jpg",
+      "link": "https://www.wired.com/story/democrats-have-a-plan-to-force-trumps-associates-to-cooperate-with-investigations/",
+      "published": "Wed, 02 Sep 2026 21:00:00 +0000",
+      "title_th": "พรรคเดโมแครตมีแผนบังคับให้เพื่อนร่วมงานของทรัมป์ให้ความร่วมมือกับการสืบสวน",
+      "summary_th": "การปรับปรุงปีกตะวันตกของโดนัลด์ ทรัมป์ และซุ้มโค้ง DC อาจกลายเป็นอุปสรรค หากพรรคเดโมแครตชนะการเลือกตั้งกลางภาค พวกเขาก็อาจได้รับประโยชน์เช่นกัน"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Best Sony Headphone Deals: WH-1000XM5 and More (2026)",
-      "summary_en": "I found the best deals on Sony headphones, including some of the lowest prices we’ve seen on our favorite models.",
-      "image": "https://media.wired.com/photos/6a9722800b666cfc32288461/master/pass/Our-Favorite-Sony-Headphones-Are-50-Percent-Off.jpg",
-      "link": "https://www.wired.com/story/sony-headphone-deals-september-2026/",
-      "published": "Wed, 02 Sep 2026 11:00:00 +0000",
-      "title_th": "ข้อเสนอหูฟัง Sony ที่ดีที่สุด: WH-1000XM5 และอีกมากมาย (2026)",
-      "summary_th": "ฉันพบข้อเสนอที่ดีที่สุดสำหรับหูฟัง Sony รวมถึงราคาต่ำสุดที่เราเคยเห็นในรุ่นโปรดของเราด้วย"
+      "title_en": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+      "summary_en": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
+      "image": "https://media.wired.com/photos/6a9847e0838ebf1a08f58e12/master/pass/GettyImages-2214107176.jpg",
+      "link": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+      "published": "Wed, 02 Sep 2026 18:41:02 +0000",
+      "title_th": "ฝ่ายบริหารของทรัมป์เข้าข้าง OpenAI ในคดีลิขสิทธิ์ของ New York Times",
+      "summary_th": "รัฐบาลสหรัฐฯ เขียนจดหมายสนับสนุนข้อโต้แย้งของ OpenAI ที่ว่าการฝึกอบรม AI เกี่ยวกับทรัพย์สินทางปัญญาของผู้อื่นถือเป็นการใช้งานโดยชอบธรรม"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
-      "summary_en": "Meet the AI police who can make or break careers—in publishing and beyond.",
-      "image": "https://media.wired.com/photos/6a96e7a402072373527ca410/master/pass/09012026-pangram-main.gif",
-      "link": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
-      "published": "Wed, 02 Sep 2026 10:00:00 +0000",
-      "title_th": "Pangram กลายเป็นมาตรฐานทองคำของการตรวจจับ AI คุณควรเชื่อถือมันไหม?",
-      "summary_th": "พบกับตำรวจ AI ที่สามารถสร้างหรือทำลายอาชีพ ทั้งในด้านการพิมพ์และอื่นๆ"
+      "title_en": "ICE Plans to Pay $5 Million to Create National Voting Database",
+      "summary_en": "As part of a broader DHS surge to investigate alleged voter fraud, ICE has announced it plans to pay up to $5 million to create what amounts to a federal voter database.",
+      "image": "https://media.wired.com/photos/6a982e027b4ef34fe0b39044/master/pass/GettyImages-2287296637.jpg",
+      "link": "https://www.wired.com/story/ice-plans-to-pay-5-million-to-create-national-voting-database/",
+      "published": "Wed, 02 Sep 2026 18:32:01 +0000",
+      "title_th": "ICE วางแผนที่จะจ่ายเงิน 5 ล้านดอลลาร์เพื่อสร้างฐานข้อมูลการลงคะแนนเสียงระดับชาติ",
+      "summary_th": "ในฐานะที่เป็นส่วนหนึ่งของ DHS ที่เพิ่มมากขึ้นในการสืบสวนการฉ้อโกงผู้มีสิทธิเลือกตั้งที่ถูกกล่าวหา ICE ได้ประกาศแผนที่จะจ่ายเงินสูงถึง 5 ล้านดอลลาร์เพื่อสร้างจำนวนฐานข้อมูลผู้มีสิทธิเลือกตั้งของรัฐบาลกลาง"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "The 42 Best Deals From the REI Labor Day Sale",
-      "summary_en": "Labor Day already? Say it ain’t so. You can still chase summer a while longer with these great deals on outdoor gear at the REI Labor Day Sale.",
-      "image": "https://media.wired.com/photos/6a90af577c6f6af27c88297f/master/pass/The-31-Best-Deals-From-the-REI-Labor-Day-Sale.jpg",
-      "link": "https://www.wired.com/story/rei-labor-day-sale-2026/",
-      "published": "Wed, 02 Sep 2026 09:36:00 +0000",
-      "title_th": "ข้อเสนอที่ดีที่สุด 42 ข้อจากการขายวันแรงงาน REI",
-      "summary_th": "วันแรงงานแล้วเหรอ? บอกว่ามันไม่ใช่อย่างนั้น คุณยังคงสามารถไล่ตามฤดูร้อนได้อีกต่อไปด้วยข้อเสนอสุดพิเศษสำหรับอุปกรณ์กลางแจ้งเหล่านี้ที่ REI Labor Day Sale"
+      "title_en": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
+      "summary_en": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
+      "image": "https://media.wired.com/photos/6a973d9ebb1b14821345f01b/master/pass/AI-Lab-Russian-Mathematicians-Got-AI-Models-to-Communicate-Subconsciously-Business.jpg",
+      "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+      "published": "Wed, 02 Sep 2026 18:20:00 +0000",
+      "title_th": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
+      "summary_th": "สตาร์ทอัพชื่อ Mostik มีแนวทางใหม่ในการรวมความสามารถของโมเดล AI"
     },
     {
       "source": "MIT Technology Review",
@@ -252,7 +252,7 @@
       "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
       "published": "Wed, 02 Sep 2026 14:00:00 +0000",
       "title_th": "อำนวยความสะดวกในการบูรณาการ AI ด้วยความเรียบง่ายในวงกว้าง",
-      "summary_th": "เมื่อบริษัทขยายใหญ่ขึ้น การดำเนินการสนับสนุนด้านเทคโนโลยีอาจกลายเป็นหนี้สินได้อย่างรวดเร็วพอๆ กับที่จะกลายเป็นสินทรัพย์ ระบบที่ขาดการเชื่อมต่อ เครื่องมือเฉพาะไซต์ สเปรดชีต และวิธีแก้ปัญหาด้วยตนเอง สามารถสร้างไซโลข้อมูลที่ทำให้ตรวจพบปัญหาตั้งแต่เนิ่นๆ ได้ยากขึ้น ประสานการตอบสนอง และตัดสินใจได้อย่างมั่นใจ สำหรับ Jabil บริษัทผู้ผลิตระดับโลกที่มีมากกว่า..."
+      "summary_th": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than…"
     },
     {
       "source": "MIT Technology Review",
@@ -300,7 +300,31 @@
       "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
       "published": "Tue, 01 Sep 2026 12:10:00 +0000",
       "title_th": "ดาวน์โหลด: จุลินทรีย์ที่ได้รับการออกแบบทางวิศวกรรมสำหรับพืชผล และปัญหาวัฒนธรรมของ OpenAI",
-      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี จุลินทรีย์ที่ได้รับการออกแบบสามารถช่วยเลี้ยงพืชผลของโลกได้อย่างไร ปุ๋ยมีความสำคัญต่อการจัดหาอาหารทั่วโลก แต่กลับใช้พลังงานจำนวนมากและก่อให้เกิดการปล่อยก๊าซเรือนกระจกจำนวนมาก..."
+      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี จุลินทรีย์ที่ได้รับการออกแบบสามารถช่วยเลี้ยงพืชผลของโลกได้อย่างไร ปุ๋ยมีความสำคัญต่อการจัดหาอาหารทั่วโลก แต่กลับทำให้ใช้พลังงานจำนวนมากและปล่อยก๊าซเรือนกระจกจำนวนมาก..."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "UN report says global warming will surpass the goal of 1.5 degrees Celsius",
+      "summary_en": "Climate scientists now aim to minimize time spent above the limit from the Paris Agreement.",
+      "image": "https://www.engadget.com/img/gallery/un-report-says-global-warming-will-surpass-the-goal-of-1-5-degrees-celsius/l-intro-1788380261.jpg",
+      "link": "https://www.engadget.com/2249905/un-report-says-global-warming-will-surpass-the-goal-of-1-5-degrees-celsius/",
+      "published": "Wed, 02 Sep 2026 20:18:43 +0000",
+      "title_th": "รายงาน UN ภาวะโลกร้อนจะเกินเป้าหมาย 1.5 องศาเซลเซียส",
+      "summary_th": "ขณะนี้นักวิทยาศาสตร์ด้านภูมิอากาศตั้งเป้าที่จะลดเวลาที่ใช้เกินขีดจำกัดจากข้อตกลงปารีสให้เหลือน้อยที่สุด"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "NYC bans the use of generative AI tools in public schools for students through eighth grade",
+      "summary_en": "NYC public schools are taking a year without generative AI tools.",
+      "image": "https://www.engadget.com/img/gallery/nyc-bans-the-use-of-generative-ai-tools-in-public-schools-for-students-through-eighth-grade/l-intro-1788374805.jpg",
+      "link": "https://www.engadget.com/2249790/nyc-generative-ai-ban-in-public-schools-through-eighth-grade/",
+      "published": "Wed, 02 Sep 2026 18:50:09 +0000",
+      "title_th": "NYC ห้ามใช้เครื่องมือ generative AI ในโรงเรียนรัฐบาลสำหรับนักเรียนจนถึงชั้นประถมศึกษาปีที่ 8",
+      "summary_th": "โรงเรียนรัฐบาลในนิวยอร์คใช้เวลาหนึ่งปีโดยไม่มีเครื่องมือ AI เชิงสร้างสรรค์"
     },
     {
       "source": "Engadget",
@@ -339,28 +363,16 @@
       "summary_th": "คอมพิวเตอร์ Apple I เครื่องเดียวกันขายได้ในราคามากกว่า 671,000 ดอลลาร์ในปี 2013"
     },
     {
-      "source": "Engadget",
+      "source": "IEEE Spectrum",
       "flag": "US",
-      "category": "chip",
-      "title_en": "Star Wars Zero Company is a great game that's busted and may never be fixed",
-      "summary_en": "It's hard to be confident about Star Wars Zero Company's future after the studio that made it furloughed most of its staff.",
-      "image": "https://www.engadget.com/img/gallery/star-wars-zero-company-is-a-great-game-thats-busted-and-may-never-be-fixed/l-intro-1788290496.jpg",
-      "link": "https://www.engadget.com/2248910/star-wars-zero-company-is-a-great-game-that-s-busted-and-may-never-be-fixed/",
-      "published": "Wed, 02 Sep 2026 13:00:00 +0000",
-      "title_th": "Star Wars Zero Company เป็นเกมที่ยอดเยี่ยมที่พังและอาจไม่มีวันได้รับการแก้ไข",
-      "summary_th": "เป็นเรื่องยากที่จะมั่นใจเกี่ยวกับอนาคตของ Star Wars Zero Company หลังจากที่สตูดิโอที่ทำให้บริษัทต้องเลิกจ้างพนักงานส่วนใหญ่"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "How to reset an Apple TV remote",
-      "summary_en": "Tips for fixing connection issues with the remote for Apple's streaming box.",
-      "image": "https://www.engadget.com/img/gallery/how-to-reset-an-apple-tv-remote/l-intro-1786389828.jpg",
-      "link": "https://www.engadget.com/2244155/how-to-reset-apple-tv-remote/",
-      "published": "Wed, 02 Sep 2026 12:00:00 +0000",
-      "title_th": "วิธีรีเซ็ตรีโมท Apple TV",
-      "summary_th": "เคล็ดลับในการแก้ไขปัญหาการเชื่อมต่อกับรีโมทสำหรับกล่องสตรีมมิ่งของ Apple"
+      "category": "robot",
+      "title_en": "Applying Different Forms of Mentorship",
+      "summary_en": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! Asking someone to be your mentor is weird. Walking up to someone and asking, “Will you be my mentor?” has always seemed to me like the adult version of a kid walking up to another kid at a party and asking, “Will you be my friend?” What you’re really asking is: “Will you commit some amount of unpaid time to guiding my career for an indefinite period?” Framed that way, of course some people hesitate to say yes. But formal mentorship isn’t the only way to benefit from the wisdom of those who came before. I’ve never formally asked anyone to mento",
+      "image": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=980",
+      "link": "https://spectrum.ieee.org/forms-of-engineering-mentorship",
+      "published": "Wed, 02 Sep 2026 19:45:58 +0000",
+      "title_th": "การใช้รูปแบบการให้คำปรึกษาที่แตกต่างกัน",
+      "summary_th": "บทความนี้คัดลอกมาจากจดหมายข่าวอาชีพของ IEEE Spectrum ลงทะเบียนตอนนี้เพื่อรับเคล็ดลับจากวงใน คำแนะนำจากผู้เชี่ยวชาญ และกลยุทธ์เชิงปฏิบัติ เขียนโดยความร่วมมือกับบริษัทพัฒนาอาชีพด้านเทคโนโลยี Parsity และส่งตรงถึงกล่องจดหมายของคุณฟรี! การขอให้ใครสักคนเป็นที่ปรึกษาของคุณนั้นแปลก เดินเข้าไปหาใครสักคนแล้วถามว่า “คุณจะเป็นที่ปรึกษาให้ผมไหม?” สำหรับฉันดูเหมือนเด็กผู้ใหญ่จะเดินไปหาเด็กอีกคนในงานปาร์ตี้แล้วถามว่า “คุณจะเป็นเพื่อนกับฉันไหม” สิ่งที่คุณถามจริงๆ คือ: “คุณจะสละเวลาโดยไม่ได้รับค่าตอบแทนเพื่อชี้แนะอาชีพของฉันเป็นระยะเวลาไม่มีกำหนดหรือไม่” ใส่ร้ายแบบนั้น แน่นอนว่าบางคนลังเลที่จะตอบตกลง แต่การให้คำปรึกษาอย่างเป็นทางการไม่ใช่วิธีเดียวที่จะได้รับประโยชน์จากภูมิปัญญาของผู้มาก่อน ฉันไม่เคยขอให้ใครให้คำปรึกษาอย่างเป็นทางการ"
     },
     {
       "source": "IEEE Spectrum",
@@ -384,7 +396,7 @@
       "link": "https://spectrum.ieee.org/ai-engineer-skills",
       "published": "Wed, 02 Sep 2026 13:00:04 +0000",
       "title_th": "ประสิทธิภาพของ AI อาจทำให้เราต้องสูญเสียผู้เชี่ยวชาญรุ่นต่อไป",
-      "summary_th": "เมื่อประมาณหนึ่งทศวรรษที่แล้ว ฉันเป็นผู้นำการออกแบบระบบควบคุมสำหรับระบบควบคุมดิจิทัลเต็มรูปแบบระบบแรกของโลกสำหรับโรงไฟฟ้านิวเคลียร์ในสหรัฐฯ มันเป็นเครื่องจักรที่สวยงามบนกระดาษ ซึ่งได้รับการออกแบบทางวิศวกรรมให้เดินเองได้ในแบบที่เครื่องบินโดยสารสมัยใหม่ทำ โดยมีผู้ปฏิบัติงานคอยดูแลระบบที่ไม่ค่อยจำเป็น และเราตัดสินใจว่าสำหรับผู้สังเกตการณ์ที่คำนึงถึงประสิทธิภาพแล้ว ให้มองย้อนกลับไป: เราจงใจทิ้งขั้นตอนแบบแมนนวลไว้ในลำดับที่ระบบสามารถดำเนินการได้ด้วยตัวเอง เรากำลังแก้ไขปัญหาเฉพาะ ผู้ปฏิบัติงานที่เคยดูแลระบบอัตโนมัติจะค่อยๆ เลิกเป็นผู้ปฏิบัติงาน มือเย็นไปหมด แบบจำลองทางจิตของสิ่งที่ต้นไม้กำลังทำอยู่นั้นไม่ชัดเจน และแล้วถึงวันที่เข็มนาฬิกาอัตโนมัติจะควบคุมกลับ เป็นวันที่แย่ที่สุดเสมอ เนื่องจากระบบอัตโนมัติจะหยุดทำงานเฉพาะเมื่อเกิดความสับสนหรือประสบปัญหาเท่านั้น"
+      "summary_th": "เมื่อประมาณหนึ่งทศวรรษที่แล้ว ฉันเป็นผู้นำการออกแบบระบบควบคุมสำหรับระบบควบคุมดิจิทัลเต็มรูปแบบระบบแรกของโลกสำหรับโรงไฟฟ้านิวเคลียร์ในสหรัฐฯ มันเป็นเครื่องจักรที่สวยงามบนกระดาษ ซึ่งได้รับการออกแบบทางวิศวกรรมให้ทำงานด้วยตัวเองในแบบที่เครื่องบินโดยสารสมัยใหม่ทำ โดยมีผู้ปฏิบัติงานคอยดูแลระบบที่ไม่ค่อยจำเป็น และเราตัดสินใจว่าสำหรับผู้สังเกตการณ์ที่คำนึงถึงประสิทธิภาพแล้ว ให้มองย้อนกลับไป: เราจงใจทิ้งขั้นตอนแบบแมนนวลไว้ในลำดับที่ระบบสามารถดำเนินการได้ด้วยตัวเอง เรากำลังแก้ไขปัญหาเฉพาะ ผู้ปฏิบัติงานที่เคยดูแลระบบอัตโนมัติจะค่อยๆ เลิกเป็นผู้ปฏิบัติงาน มือเย็นไปหมด แบบจำลองทางจิตของสิ่งที่ต้นไม้กำลังทำอยู่นั้นไม่ชัดเจน และแล้วถึงวันที่เข็มนาฬิกาอัตโนมัติจะควบคุมกลับ เป็นวันที่แย่ที่สุดเสมอ เนื่องจากระบบอัตโนมัติจะหยุดทำงานเฉพาะเมื่อเกิดความสับสนหรือประสบปัญหาเท่านั้น"
     },
     {
       "source": "IEEE Spectrum",
@@ -396,7 +408,7 @@
       "link": "https://spectrum.ieee.org/president-ieee-note-september-2026",
       "published": "Tue, 01 Sep 2026 18:00:04 +0000",
       "title_th": "หมายเหตุของประธาน IEEE: เทคโนโลยีเพื่อประโยชน์ทางสังคม",
-      "summary_th": "ทั่วทั้ง IEEE จุดแข็งของเราไม่เพียงแต่อยู่ที่ความเป็นเลิศของแต่ละชุมชนของเราเท่านั้น แต่ยังอยู่ในความสามารถของเราในการนำพวกเขามารวมกันเพื่อแก้ไขปัญหาที่มีร่วมกันซึ่งต้องการการแก้ปัญหาแบบสหวิทยาการ ภารกิจของเราในฐานะการกุศลสาธารณะ—เพื่อพัฒนาเทคโนโลยีเพื่อประโยชน์ของมนุษยชาติ—กำลังกลายเป็นผู้สร้างความแตกต่างที่ทรงพลังมากขึ้น มันเป็นมากกว่าการแถลงหลักการ มันเป็นข้อได้เปรียบเชิงกลยุทธ์ เมื่อวิศวกรและนักเทคโนโลยีให้บริการอย่างมีเป้าหมายและเป็นผู้นำด้วยใจ พวกเขาจะเสริมสร้างอนาคตของวิชาชีพของเรา และแสดงให้เห็นว่าเหตุใด IEEE จึงอยู่ในตำแหน่งที่โดดเด่นในการเป็นผู้นำที่จุดบรรจบกันของเทคโนโลยีและผลกระทบทางสังคม IEEE Humanitarian Technologies เป็นกลุ่มโครงการและโครงการริเริ่มที่ได้รับการสนับสนุนจากเครือข่ายอาสาสมัครและผู้เชี่ยวชาญด้านเทคนิคทั่วโลก ซึ่งทำงานร่วมกันเพื่อ"
+      "summary_th": "ทั่วทั้ง IEEE จุดแข็งของเราไม่เพียงแต่อยู่ที่ความเป็นเลิศของแต่ละชุมชนของเราเท่านั้น แต่ยังอยู่ในความสามารถของเราในการนำพวกเขามารวมกันเพื่อแก้ไขปัญหาที่มีร่วมกันซึ่งต้องการการแก้ปัญหาแบบสหวิทยาการ ภารกิจของเราในฐานะองค์กรการกุศลสาธารณะ—เพื่อพัฒนาเทคโนโลยีเพื่อประโยชน์ของมนุษยชาติ—กำลังกลายเป็นผู้สร้างความแตกต่างที่ทรงพลังมากขึ้น มันเป็นมากกว่าการแถลงหลักการ มันเป็นข้อได้เปรียบเชิงกลยุทธ์ เมื่อวิศวกรและนักเทคโนโลยีให้บริการอย่างมีเป้าหมายและเป็นผู้นำด้วยใจ พวกเขาจะเสริมสร้างอนาคตของวิชาชีพของเรา และแสดงให้เห็นว่าเหตุใด IEEE จึงอยู่ในตำแหน่งที่โดดเด่นในการเป็นผู้นำที่จุดบรรจบกันของเทคโนโลยีและผลกระทบทางสังคม IEEE Humanitarian Technologies เป็นกลุ่มโครงการและโครงการริเริ่มที่ได้รับการสนับสนุนจากเครือข่ายอาสาสมัครและผู้เชี่ยวชาญด้านเทคนิคทั่วโลก ซึ่งทำงานร่วมกันเพื่อ"
     },
     {
       "source": "IEEE Spectrum",
@@ -408,19 +420,55 @@
       "link": "https://spectrum.ieee.org/ruchira-shree-ham-radio",
       "published": "Mon, 31 Aug 2026 18:00:01 +0000",
       "title_th": "วัยรุ่นคนนี้ช่วยให้นักเรียนชาวอเมริกันพื้นเมืองได้รับใบอนุญาตวิทยุแฮม",
-      "summary_th": "สำหรับนักเรียนมัธยมปลายหลายๆ คน วันหยุดฤดูร้อนเป็นเวลาที่ต้องถอดปลั๊ก สำหรับ Ruchira Shree นักเรียนปีที่สองที่กำลังเติบโตที่ West Windsor–Plainsboro High School South ในรัฐนิวเจอร์ซีย์ การหยุดพักช่วยให้เธอสามารถมุ่งความสนใจไปที่กิจกรรมนอกหลักสูตรได้ เวลาส่วนใหญ่ของเธอถูกใช้ไปในการช่วยเหลือกิจกรรม IEEE Princeton Central Jersey Section เธอมีส่วนร่วมกับ PCJS เนื่องจากแม่ของเธอ Shubha Bommalingaiahnapallya ซึ่งเป็นสมาชิกอาวุโสของ IEEE ซึ่งเป็นรองประธานแผนก Bommalingaiahnapally เป็นวิศวกรหลักของ Intel “ฉันเริ่มเข้าร่วมการประชุม IEEE ตอนที่ฉันยังเป็นเด็ก” Shree กล่าว “ฉันเคยไปกับแม่และนั่งอยู่หลังห้อง” ฤดูร้อนนี้เธอบอกว่าเธอกำลังมุ่งเน้นไปที่การพัฒนาทักษะคณิตศาสตร์ของเธอโดยการเข้าร่วมหลักสูตรภาคฤดูร้อนหลักสูตรการคิดเชิงอัลกอริทึมและการคิดเชิงผสมผสาน"
+      "summary_th": "สำหรับนักเรียนมัธยมปลายหลายๆ คน วันหยุดฤดูร้อนเป็นเวลาที่ต้องถอดปลั๊ก สำหรับ Ruchira Shree นักเรียนปีที่สองที่กำลังเติบโตที่ West Windsor–Plainsboro High School South ในรัฐนิวเจอร์ซีย์ การหยุดพักช่วยให้เธอสามารถมุ่งความสนใจไปที่กิจกรรมนอกหลักสูตรได้ เวลาส่วนใหญ่ของเธอถูกใช้ไปในการช่วยเหลือกิจกรรม IEEE Princeton Central Jersey Section เธอมีส่วนร่วมกับ PCJS เนื่องจากแม่ของเธอ Shubha Bommalingaiahnapallya สมาชิกอาวุโสของ IEEE ซึ่งเป็นรองประธานแผนก Bommalingaiahnapallya เป็นวิศวกรหลักของ Intel “ฉันเริ่มเข้าร่วมการประชุม IEEE ตอนที่ฉันยังเป็นเด็ก” Shree กล่าว “ฉันเคยไปกับแม่และนั่งอยู่หลังห้อง” ฤดูร้อนนี้เธอบอกว่าเธอกำลังมุ่งเน้นไปที่การพัฒนาทักษะคณิตศาสตร์ของเธอโดยการเข้าร่วมหลักสูตรภาคฤดูร้อนหลักสูตรการคิดเชิงอัลกอริทึมและการคิดเชิงผสมผสาน"
     },
     {
-      "source": "IEEE Spectrum",
-      "flag": "US",
-      "category": "robot",
-      "title_en": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
-      "summary_en": "This story was originally published by Tech Policy Press . The European Union’s push for technological sovereignty faces an uncomfortable contradiction. As the E.U. rolls out AI factories, gigafactories, and new data centers, it is creating a surge in demand for the advanced semiconductors that underpin artificial intelligence. Yet Europe produces fewer than 10 percent of the world’s chips and remains heavily dependent on U.S. designers and Asian manufacturers for the most advanced processors. That tension sits at the heart of Chips Act 2.0 , the European Commission’s planned overhaul of its flagship semiconductor strategy. The original Chips Act, adopted in 2023, sought to raise Europe’s share of global semiconductor production to 20 percent by 2030. But the European Court of Auditors has",
-      "image": "https://spectrum.ieee.org/media-library/illustration-of-a-microchip-with-eu-flag-symbols.jpg?id=67681157&width=980",
-      "link": "https://spectrum.ieee.org/europes-ai-drive",
-      "published": "Mon, 31 Aug 2026 14:00:04 +0000",
-      "title_th": "แรงผลักดัน AI ของสหภาพยุโรปบ่อนทำลายกลยุทธ์ชิปของตัวเอง",
-      "summary_th": "เรื่องราวนี้เผยแพร่ครั้งแรกโดย Tech Policy Press การผลักดันอธิปไตยทางเทคโนโลยีของสหภาพยุโรปเผชิญกับความขัดแย้งที่น่าอึดอัด เนื่องจากสหภาพยุโรป เปิดตัวโรงงาน AI, โรงงานขนาดใหญ่ และศูนย์ข้อมูลใหม่ ทำให้เกิดความต้องการอุปกรณ์เซมิคอนดักเตอร์ขั้นสูงที่เพิ่มสูงขึ้นซึ่งสนับสนุนปัญญาประดิษฐ์ แต่ยุโรปผลิตชิปน้อยกว่า 10 เปอร์เซ็นต์ของโลกและยังคงต้องพึ่งพานักออกแบบในสหรัฐฯ และผู้ผลิตในเอเชียสำหรับโปรเซสเซอร์ที่ทันสมัยที่สุด ความตึงเครียดดังกล่าวถือเป็นหัวใจสำคัญของ Chips Act 2.0 ซึ่งเป็นแผนยกเครื่องกลยุทธ์เซมิคอนดักเตอร์ของคณะกรรมาธิการยุโรป พระราชบัญญัติชิปดั้งเดิมซึ่งนำมาใช้ในปี 2566 พยายามที่จะเพิ่มส่วนแบ่งการผลิตเซมิคอนดักเตอร์ทั่วโลกของยุโรปเป็น 20 เปอร์เซ็นต์ภายในปี 2573 แต่ศาลผู้ตรวจสอบบัญชีแห่งยุโรปได้"
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "review",
+      "title_en": "Ryan Reynolds’ new Apple TV spy movie is a winner, reviews here",
+      "summary_en": "Apple TV kicks off its big fall lineup this week with Mayday , a new Ryan Reynolds film that’s part buddy comedy, part action spy thriller. And the first reviews say the movie’s a winner. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ryan-reynolds-mayday-jacket.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/02/ryan-reynolds-new-apple-tv-spy-movie-is-a-winner-reviews-here/",
+      "published": "Wed, 02 Sep 2026 19:53:35 +0000",
+      "title_th": "ภาพยนตร์สายลับ Apple TV เรื่องใหม่ของ Ryan Reynolds เป็นผู้ชนะ บทวิจารณ์ที่นี่",
+      "summary_th": "Apple TV เปิดตัวรายการใหญ่ในช่วงฤดูใบไม้ร่วงในสัปดาห์นี้ด้วย Mayday ซึ่งเป็นภาพยนตร์เรื่องใหม่ของ Ryan Reynolds ที่เป็นส่วนหนึ่งของคอมเมดี้คู่หูและแอ็คชั่นระทึกขวัญสายลับ และบทวิจารณ์แรกๆ บอกว่าภาพยนตร์เรื่องนี้เป็นผู้ชนะ มากกว่า…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "iOS 27 fixes Apple Mail in three ways longtime users will love",
+      "summary_en": "iOS 27 is packed with powerful features like Siri AI and upgrades to productivity apps like Apple Mail , Notes , Reminders , and Calendar . But for many users, some of iOS 27’s best changes might be bug fixes that make apps run better than ever—here are three coming to Apple Mail. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-mail-app-icon-ios-27.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/02/ios-27-fixes-apple-mail-in-three-ways-longtime-users-will-love/",
+      "published": "Wed, 02 Sep 2026 19:00:40 +0000",
+      "title_th": "iOS 27 แก้ไข Apple Mail ด้วยสามวิธีที่ผู้ใช้ที่รู้จักกันมานานจะต้องชอบ",
+      "summary_th": "iOS 27 อัดแน่นไปด้วยคุณสมบัติอันทรงพลัง เช่น Siri AI และการอัปเกรดเป็นแอพเพิ่มประสิทธิภาพการทำงาน เช่น Apple Mail โน้ต เตือนความจำ และปฏิทิน แต่สำหรับผู้ใช้หลายๆ คน การเปลี่ยนแปลงที่ดีที่สุดบางประการของ iOS 27 อาจเป็นการแก้ไขข้อบกพร่องที่ทำให้แอปทำงานได้ดีขึ้นกว่าเดิม ต่อไปนี้คือ 3 การเปลี่ยนแปลงที่จะเกิดขึ้นกับ Apple Mail มากกว่า…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "iPhone 18 Pro will have three upgrades that have been rumored for years",
+      "summary_en": "iPhone 18 Pro is launching next week , and expected to feature three upgrades that have been rumored for years. Here’s what’s coming. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-blue-camera-array.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/02/iphone-18-pro-will-have-three-upgrades-that-have-been-rumored-for-years/",
+      "published": "Wed, 02 Sep 2026 18:21:33 +0000",
+      "title_th": "iPhone 18 Pro จะมีการอัปเกรดสามครั้งที่มีข่าวลือมานานหลายปี",
+      "summary_th": "iPhone 18 Pro จะเปิดตัวในสัปดาห์หน้า และคาดว่าจะมีการอัปเกรดสามรายการที่มีข่าวลือมานานหลายปี นี่คือสิ่งที่กำลังจะเกิดขึ้น มากกว่า…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "iOS 27 basically turns your iPhone and AirPods into an Apple Watch at the gym",
+      "summary_en": "GymKit has been one of Apple Watch’s smartest fitness features since it launched in 2017. Tap your watch to compatible gym equipment, and Apple Watch shares your heart rate while the machine sends back metrics like distance, incline, pace, and calories. With iOS 27, Apple is expanding that idea beyond Apple Watch. I tested the new GymKit on iPhone and AirPods Pro 3 experience with a GymKit-compatible treadmill . It basically gives you the Apple Watch GymKit workout tracking experience, just without the watch. This could be useful in a lot of scenarios. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-GymKit-iPhone.webp?resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/02/ios-27-basically-turns-your-iphone-and-airpods-into-an-apple-watch-at-the-gym/",
+      "published": "Wed, 02 Sep 2026 18:00:00 +0000",
+      "title_th": "iOS 27 โดยพื้นฐานแล้วจะเปลี่ยน iPhone และ AirPods ของคุณให้เป็น Apple Watch ที่ยิม",
+      "summary_th": "GymKit เป็นหนึ่งในคุณสมบัติด้านฟิตเนสที่ชาญฉลาดที่สุดของ Apple Watch นับตั้งแต่เปิดตัวในปี 2560 แตะนาฬิกาของคุณกับอุปกรณ์ออกกำลังกายที่รองรับ จากนั้น Apple Watch จะแชร์อัตราการเต้นของหัวใจของคุณในขณะที่เครื่องจะส่งค่าวัดกลับ เช่น ระยะทาง ความชัน อัตราก้าว และแคลอรี่ ด้วย iOS 27 Apple กำลังขยายแนวคิดดังกล่าวไปไกลกว่า Apple Watch ฉันทดสอบ GymKit ใหม่บน iPhone และ AirPods Pro 3 กับลู่วิ่งไฟฟ้าที่เข้ากันได้กับ GymKit โดยพื้นฐานแล้วมันจะทำให้คุณได้รับประสบการณ์การติดตามการออกกำลังกายของ Apple Watch GymKit โดยไม่ต้องใช้นาฬิกา สิ่งนี้อาจมีประโยชน์ในหลาย ๆ สถานการณ์ มากกว่า…"
     },
     {
       "source": "9to5Mac",
@@ -432,55 +480,43 @@
       "link": "https://9to5mac.com/2026/09/02/apples-new-film-from-best-picture-oscar-winner-gets-first-trailer/",
       "published": "Wed, 02 Sep 2026 16:41:31 +0000",
       "title_th": "ภาพยนตร์เรื่องใหม่ของ Apple จากผู้ชนะรางวัลออสการ์ 'Best Picture' ได้รับตัวอย่างแรก",
-      "summary_th": "Apple won the ‘Best Picture’ Oscar for CODA back in 2022, and now director Siân Heder is back with another potential winner: Being Heumann. Here’s the new trailer. more…"
+      "summary_th": "Apple คว้ารางวัลออสการ์สาขาภาพยนตร์ยอดเยี่ยมจาก CODA ในปี 2022 และตอนนี้ผู้กำกับ Siân Heder กลับมาพร้อมกับผู้ที่อาจเป็นผู้ชนะอีกคน นั่นก็คือ Being Heumann นี่คือตัวอย่างใหม่ มากกว่า…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "M6 MacBook Pro: Three new upgrades launching this fall",
-      "summary_en": "Apple has a new M6 MacBook Pro launching this fall with a 14-inch screen and the current industrial design. Now that the M6 chip has officially been unveiled, here are three upgrades to expect from the new MacBook Pro. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/m6-macbook-pro-angle.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/02/m6-macbook-pro-three-new-upgrades-launching-this-fall/",
-      "published": "Wed, 02 Sep 2026 15:36:43 +0000",
-      "title_th": "M6 MacBook Pro: การอัปเกรดใหม่ 3 รายการจะเปิดตัวในฤดูใบไม้ร่วงนี้",
-      "summary_th": "Apple เปิดตัว M6 MacBook Pro ใหม่ในฤดูใบไม้ร่วงนี้พร้อมหน้าจอขนาด 14 นิ้วและดีไซน์อุตสาหกรรมในปัจจุบัน ขณะนี้ชิป M6 ได้รับการเปิดเผยอย่างเป็นทางการแล้ว ต่อไปนี้เป็นการอัพเกรดสามประการที่คาดหวังจาก MacBook Pro ใหม่ มากกว่า…"
+      "title_en": "Pixel Now Playing update brings interface tweaks",
+      "summary_en": "The next wave of Pixel app updates is starting with Google rolling out the latest version of Now Playing with interface tweaks. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-pixel-now-playing-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/02/pixel-now-playing-tweaks/",
+      "published": "Wed, 02 Sep 2026 22:49:05 +0000",
+      "title_th": "การอัปเดต Pixel Now Playing นำเสนอการปรับแต่งอินเทอร์เฟซ",
+      "summary_th": "การอัปเดตแอป Pixel คลื่นลูกถัดไปเริ่มต้นโดยที่ Google เปิดตัวเวอร์ชันล่าสุดของ Now Playing พร้อมการปรับแต่งอินเทอร์เฟซ มากกว่า…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Deals: AirPods Pro 3 $50 off, M5 MacBook Air $240 off, M6 Mac mini, accessories from $5.50, more",
-      "summary_en": "Alongside the massive AirPods Pro 3 are now back down at $50 off . That offer joins the ongoing all-time low on AirTag 2 at $20 each and a sizable M5 MacBook Air re-stock in the official Apple Refurb Store (more details on those right here ). We have the going M6 Mac mini pre-order discounts alongside a series of official Apple accessories from $5.50 today – USB-C cables, Apple Watch bands, and more. Check it all out below. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-deals-AirPods-Pro-3-MacBook-Air-M5-Mac-mini-M6.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/02/deals-airpods-pro-3-m5-macbook-air-m6-mac-mini/",
-      "published": "Wed, 02 Sep 2026 15:27:42 +0000",
-      "title_th": "ข้อเสนอ: AirPods Pro 3 ลด 50 ดอลลาร์, M5 MacBook Air ลดราคา 240 ดอลลาร์, M6 Mac mini, อุปกรณ์เสริมจาก 5.50 ดอลลาร์และอีกมากมาย",
-      "summary_th": "นอกเหนือจาก AirPods Pro 3 ขนาดใหญ่แล้ว ตอนนี้ลดราคาเหลือ $50 ข้อเสนอดังกล่าวร่วมกับ AirTag 2 ที่ราคาต่ำสุดตลอดกาลที่ 20 ดอลลาร์ต่อเครื่อง และ MacBook Air รุ่น M5 ขนาดใหญ่ที่จำหน่ายใหม่ใน Apple Refurb Store อย่างเป็นทางการ (รายละเอียดเพิ่มเติมเกี่ยวกับข้อเสนอดังกล่าว ที่นี่ ) เรามีส่วนลดสำหรับการสั่งซื้อล่วงหน้า M6 Mac mini ควบคู่ไปกับชุดอุปกรณ์เสริมอย่างเป็นทางการของ Apple ราคาเริ่มต้นที่ 5.50 ดอลลาร์ในวันนี้ – สาย USB-C, สาย Apple Watch และอีกมากมาย ตรวจสอบทั้งหมดด้านล่าง มากกว่า…"
+      "title_en": "WhatsApp for Android loophole lets private photos be accessed without unlocking",
+      "summary_en": "A loophole in WhatsApp for Android lets someone see private photos on your device without the device being unlocked, which obviously isn’t supposed to happen. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/WhatsApp-logo-3.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/02/whatsapp-photo-loophole-android/",
+      "published": "Wed, 02 Sep 2026 19:40:00 +0000",
+      "title_th": "ช่องโหว่ WhatsApp สำหรับ Android ช่วยให้เข้าถึงรูปภาพส่วนตัวได้โดยไม่ต้องปลดล็อค",
+      "summary_th": "ช่องโหว่ใน WhatsApp สำหรับ Android ช่วยให้ผู้อื่นเห็นรูปถ่ายส่วนตัวบนอุปกรณ์ของคุณโดยไม่ต้องปลดล็อคอุปกรณ์ ซึ่งเห็นได้ชัดว่าไม่น่าจะเกิดขึ้น มากกว่า…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "iOS 27 gives Apple Pay its best upgrade in years with redesign",
-      "summary_en": "iOS 27 introduces several improvements for Apple Pay, including a fully overhauled checkout flow that’s the service’s best upgrade in years. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-pay-card-ios-27-checkout.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/02/ios-27-gives-apple-pay-its-best-upgrade-in-years-with-redesign/",
-      "published": "Wed, 02 Sep 2026 14:26:06 +0000",
-      "title_th": "iOS 27 ช่วยให้ Apple Pay อัปเกรดได้ดีที่สุดในรอบหลายปีด้วยการออกแบบใหม่",
-      "summary_th": "iOS 27 นำเสนอการปรับปรุงหลายประการสำหรับ Apple Pay รวมถึงขั้นตอนการชำระเงินที่ได้รับการปรับปรุงใหม่ทั้งหมด ซึ่งเป็นการอัปเกรดบริการที่ดีที่สุดในรอบหลายปี มากกว่า…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple Wallet driver’s license support launches in Oklahoma",
-      "summary_en": "Apple is rolling out support for Apple Wallet driver’s license integration to a new state. Starting today, Oklahoma residents can add their license to the Wallet app on iPhone and Apple Watch for easy mobile access. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ok.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/02/apple-wallet-drivers-license-support-launches-in-oklahoma/",
-      "published": "Wed, 02 Sep 2026 13:52:00 +0000",
-      "title_th": "การสนับสนุนใบอนุญาตขับขี่ของ Apple Wallet เปิดตัวในโอคลาโฮมา",
-      "summary_th": "Apple กำลังเปิดตัวการสนับสนุนสำหรับการรวมใบอนุญาตขับขี่ของ Apple Wallet เข้ากับสถานะใหม่ ตั้งแต่วันนี้เป็นต้นไป ผู้อยู่อาศัยในโอคลาโฮมาสามารถเพิ่มใบอนุญาตของตนลงในแอพ Wallet บน iPhone และ Apple Watch เพื่อให้เข้าถึงผ่านมือถือได้อย่างง่ายดาย มากกว่า…"
+      "title_en": "Mid-week Android app deals and freebies: Backrooms, Voltshadow, Undead Slayer, LIMBO, more",
+      "summary_en": "This massive Labor Day sales are now live at Amazon and Best Buy and we now have your mid-week afternoon lineup of the best Android game and app deals. Hghlights include Backrooms, Voltshadow, Undead Slayer: Offline Premium, LIMBO, Exolotl : Zian, Tiny Terraces, Box Head: Roguelike Premium, WINCH IT OUT, and more. Just be sure to also scope out these Pixel 11 series units at up to $320 off (open-box “excellent”) as well as the best price ever on the new Nothing Ear (3a) noise cancelling buds. The apps await below. more…",
+      "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/09/Google-Play-Sep-2-2.webp?resize=1200,628",
+      "link": "https://9to5toys.com/2026/09/02/android-app-deals-free-backrooms-voltshadow/",
+      "published": "Wed, 02 Sep 2026 18:23:33 +0000",
+      "title_th": "ข้อเสนอแอป Android กลางสัปดาห์และของแจกฟรี: Backrooms, Voltshadow, Undead Slayer, LIMBO และอีกมากมาย",
+      "summary_th": "การลดราคาวันแรงงานครั้งใหญ่นี้มีให้บริการแล้วที่ Amazon และ Best Buy และขณะนี้เรามีรายการเกมและแอพ Android ที่ดีที่สุดช่วงบ่ายกลางสัปดาห์ของคุณ Hghlights ได้แก่ Backrooms, Voltshadow, Undead Slayer: Offline Premium, LIMBO, Exolotl : Zian, Tiny Terraces, Box Head: Roguelike Premium, WINCH IT OUT และอื่นๆ อีกมากมาย อย่าลืมกำหนดขอบเขตหน่วยซีรีส์ Pixel 11 เหล่านี้ด้วยส่วนลดสูงสุดถึง $ 320 (เปิดกล่อง \"ยอดเยี่ยม\") และราคาที่ดีที่สุดเท่าที่เคยมีมาสำหรับหูฟัง Nothing Ear (3a) ใหม่ แอพกำลังรออยู่ด้านล่าง มากกว่า…"
     },
     {
       "source": "9to5Google",
@@ -507,40 +543,52 @@
       "summary_th": "Google ได้ทำข้อตกลงกับ MrBeast ซึ่งเป็น YouTuber ที่ได้รับความนิยมมากที่สุด เพื่อโปรโมต Gemini และ Google Health โดยหนึ่งในความร่วมมือแรกๆ ถือเป็นความท้าทายใน \"ภูมิประเทศที่ไม่น่าให้อภัยมากที่สุดในโลก\" มากกว่า…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Deals: Nothing Ear (3a) from $67, Galaxy Flip 8 $320 off, 2026 IdeaPad $620 off, Sony Google Gemini TV $800 off, more",
-      "summary_en": "The Labor Day sale at Amazon and the massive Best Buy event are now live , alongside a chance to land Pixel 11 series phones up to $320 off . However, today we are also featuring Nothing Ear (3a) buds at $79 as well as open-box listing now down at $67 alongside all Galaxy Z Flip 8 models at $150 off (bundle offers deliver up to $320 in savings ) Those offers join a giant $620 discount on Lenovo’s 2026 IdeaPad 2K touchscreen Copilot+ laptop , ASUS’ wild dual-screen 3K OLED Zephyrus Duo gaming laptop at $500 off , and Sony’s 2026 BRAVIA 7 II HDR Google TV with Gemini at $800 off for Labor Day. Check it out below. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/9to5Google-Sep-2-3.webp?resize=1200,628",
-      "link": "https://9to5google.com/2026/09/02/deals-nothing-ear-3a-galaxy-flip-8-2026-ideapad/",
-      "published": "Wed, 02 Sep 2026 15:46:49 +0000",
-      "title_th": "ข้อเสนอ: Nothing Ear (3a) จาก $ 67, Galaxy Flip 8 ลด $ 320, 2026 IdeaPad ลด $ 620, Sony Google Gemini TV ลด $ 800 และอีกมากมาย",
-      "summary_th": "การลดราคาวันแรงงานที่ Amazon และงาน Best Buy ครั้งใหญ่พร้อมให้ใช้งานแล้ว พร้อมกับโอกาสซื้อโทรศัพท์ Pixel 11 series สูงสุดถึง $320 อย่างไรก็ตาม วันนี้เรายังนำเสนอหูฟัง Nothing Ear (3a) ในราคา 79 ดอลลาร์ เช่นเดียวกับรายการแบบเปิดกล่องที่ลดราคา 67 ดอลลาร์ ควบคู่ไปกับ Galaxy Z Flip 8 ทุกรุ่นในราคา 150 ดอลลาร์ (ข้อเสนอแบบมัดจะช่วยประหยัดได้ถึง 320 ดอลลาร์) ข้อเสนอเหล่านั้นร่วมกับส่วนลดยักษ์ 620 ดอลลาร์สำหรับแล็ปท็อป Copilot+ หน้าจอสัมผัส IdeaPad 2K ปี 2026 ของ Lenovo แล็ปท็อปการเล่นเกม 3K OLED Zephyrus Duo หน้าจอคู่ของ ASUS ในราคาลด 500 ดอลลาร์ และ BRAVIA 7 II HDR Google TV รุ่น Gemini ปี 2026 ของ Sony พร้อมส่วนลด 800 ดอลลาร์ในวันแรงงาน ตรวจสอบด้านล่าง มากกว่า…"
+      "category": "ev",
+      "title_en": "$41M could bring 40 new EV fast-charging sites to Minnesota",
+      "summary_en": "Minnesota is getting ready to put a lot more EV fast chargers on the map – and this time, they’ll be located beyond the state’s three major interstates. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Kwik-Trip-NEVI-Minnesota-charging-station.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/02/41-million-could-bring-40-new-ev-fast-charging-sites-to-minnesota/",
+      "published": "Wed, 02 Sep 2026 21:32:56 +0000",
+      "title_th": "41 ล้านเหรียญสหรัฐสามารถนำสถานที่ชาร์จ EV เร็ว 40 แห่งมาสู่มินนิโซตา",
+      "summary_th": "รัฐมินนิโซตากำลังเตรียมพร้อมที่จะวางที่ชาร์จ EV แบบเร็วจำนวนมากขึ้นบนแผนที่ และในครั้งนี้ สถานีชาร์จจะตั้งอยู่เลยรัฐหลักสามแห่งของรัฐ มากกว่า…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Google Home update restores support for older Chromecast streamers, Home Mini",
-      "summary_en": "A rogue Google Home update earlier this year partially broke support for some older Chromecast streamers and other devices, but the latest update has restored it. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/chromecast-2013-google-home-mini-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/02/google-home-chromecast-mini-support-update/",
-      "published": "Wed, 02 Sep 2026 15:35:00 +0000",
-      "title_th": "การอัปเดต Google Home คืนการรองรับสตรีมเมอร์ Chromecast รุ่นเก่า Home Mini",
-      "summary_th": "การอัปเดต Google Home อันธพาลเมื่อต้นปีนี้ได้ทำลายการสนับสนุนสตรีม Chromecast รุ่นเก่าและอุปกรณ์อื่น ๆ บางส่วน แต่การอัปเดตล่าสุดได้กู้คืนแล้ว มากกว่า…"
+      "category": "ev",
+      "title_en": "Hyundai opens IONIQ 3 EV orders, starting at about $30,000",
+      "summary_en": "Hyundai opened orders for the IONIQ 3, its new entry-level electric hatch, starting at about $30,000. Hyundai opens IONIQ 3...",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Hyundai-IONIQ-3-orders-open.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/02/hyundai-opens-ioniq-3-ev-orders-starting-30000/",
+      "published": "Wed, 02 Sep 2026 21:03:28 +0000",
+      "title_th": "Hyundai เปิดคำสั่งซื้อ IONIQ 3 EV ในราคาเริ่มต้นประมาณ 30,000 ดอลลาร์",
+      "summary_th": "Hyundai เปิดรับคำสั่งซื้อ IONIQ 3 ซึ่งเป็นรถแฮทช์ไฟฟ้าระดับเริ่มต้นรุ่นใหม่ โดยเริ่มต้นที่ประมาณ 30,000 ดอลลาร์ ฮุนไดเปิด IONIQ 3..."
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Gemini 3.8 Flash rolling out three weeks after last release",
-      "summary_en": "After the last model release three weeks ago, Google today is rolling out Gemini 3.8 Flash. This marks the third Flash update in three months. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-logo.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/02/gemini-3-8-flash-launch/",
-      "published": "Wed, 02 Sep 2026 15:18:01 +0000",
-      "title_th": "Gemini 3.8 Flash เปิดตัวสามสัปดาห์หลังจากการเปิดตัวครั้งล่าสุด",
-      "summary_th": "หลังจากรุ่นสุดท้ายเปิดตัวเมื่อสามสัปดาห์ที่แล้ว Google ได้เปิดตัว Gemini 3.8 Flash ในวันนี้ นี่เป็นการอัปเดต Flash ครั้งที่สามในรอบสามเดือน มากกว่า…"
+      "category": "ev",
+      "title_en": "Kia launches the EV4 GT in Canada, bringing more power and attitude",
+      "summary_en": "Kia opened orders for the 2027 EV4 GT, its third “affordable” EV to receive the GT treatment in Canada. Kia...",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Kia-EV4-GT-Canada-launch-1.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/02/kia-launches-ev4-gt-canada-more-power-attitude/",
+      "published": "Wed, 02 Sep 2026 20:25:41 +0000",
+      "title_th": "Kia เปิดตัว EV4 GT ในแคนาดา นำพละกำลังและทัศนคติที่มากขึ้น",
+      "summary_th": "Kia เปิดรับคำสั่งซื้อ EV4 GT ปี 2027 ซึ่งเป็น EV ที่ \"ราคาไม่แพง\" ตัวที่สามที่ได้รับการปรับปรุง GT ในแคนาดา เกีย..."
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "A huge 800 MW wind farm could boost Maine’s onshore wind capacity by 66%",
+      "summary_en": "Maine regulators have picked Clearway Energy to develop an 800-megawatt (MW) wind farm in northern Maine – a project that would boost the state’s existing onshore wind capacity by about 66%. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/wind-turbine-clearway-energy.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/02/huge-800-mw-wind-farm-could-boost-maines-onshore-wind-capacity-by-66/",
+      "published": "Wed, 02 Sep 2026 19:29:41 +0000",
+      "title_th": "ฟาร์มกังหันลมขนาดใหญ่ 800 เมกะวัตต์สามารถเพิ่มกำลังการผลิตลมบนบกของรัฐเมนได้ 66%",
+      "summary_th": "หน่วยงานกำกับดูแลของรัฐเมนได้เลือก Clearway Energy เพื่อพัฒนาฟาร์มกังหันลมขนาด 800 เมกะวัตต์ (MW) ทางตอนเหนือของรัฐเมน ซึ่งเป็นโครงการที่จะช่วยเพิ่มกำลังการผลิตลมบนบกของรัฐได้ประมาณ 66% มากกว่า…"
     },
     {
       "source": "Electrek",
@@ -553,54 +601,6 @@
       "published": "Wed, 02 Sep 2026 18:00:11 +0000",
       "title_th": "Waymo รวบรวมตั๋วจอดรถ 8,300+ ใบใน SF และค่าปรับเกือบ 1 ล้านเหรียญสหรัฐ",
       "summary_th": "โรโบแท็กซี่ของ Waymo ได้รวบรวมตั๋วจอดรถมากกว่า 8,300 ใบในซานฟรานซิสโกนับตั้งแต่ต้นปี 2568 และมีค่าปรับเกือบ 1 ล้านดอลลาร์ตลอดเส้นทาง ข้อมูลอ้างอิงดังกล่าวติดตามการเติบโตอย่างรวดเร็วของกองเรือทั่วเมือง ในปี 2024 Waymo จับตั๋วได้เพียง 589 ใบ ขณะนี้เฉลี่ยมากกว่า 100 รายการต่อสัปดาห์ มากกว่า…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Bluetti 1,004Wh Elite 100 Mini power station exclusive launch deals, Anker SOLIX Labor Day Sale, Tenways CGO600 Pro e-bike, more",
-      "summary_en": "The Labor Day Sale train isn’t slowing down, and we have another jam-packed edition of Green Deals for the season, starting with the exclusive launch savings on Bluetti’s new Elite 100 Mini Portable Power Station starting from $408 . Right behind that, we’ve got Anker’s SOLIX Labor Day Sale lineup with our exclusive bonus savings code, FREE gift promotions, and refurbished deals starting from $231 . There’s also the Tenways Labor Day e-bike sale with up to $600 savings, including the CGO600 Pro Chain-Drive Commuter e-bike with a FREE $118 bundle at its $1,499 low for the first time in 2026, a returning low price on GoTrax’s new MK2 Electric Mini Motorbike for kids at $314 , a 2026 low on EGO’s 16-inch Cordless Electric Chainsaw, and more waiting for you below. As always, you can find the h",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Bluetti-Anker-SOLIX-Tenways-GoTrax-GDs-FI.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/02/bluetti-1004wh-elite-100-mini-power-station-anker-solix-labor-day-sale-tenways-cgo600-pro-e-bike-more/",
-      "published": "Wed, 02 Sep 2026 18:00:00 +0000",
-      "title_th": "Bluetti 1,004Wh Elite 100 Mini power station ข้อเสนอเปิดตัวสุดพิเศษ, Anker SOLIX Labor Day Sale, Tenways CGO600 Pro e-bike และอีกมากมาย",
-      "summary_th": "รถไฟลดราคาวันแรงงานไม่ได้ชะลอตัวลง และเรามี Green Deal อีกหนึ่งฉบับที่อัดแน่นไปด้วยสำหรับฤดูกาลนี้ โดยเริ่มต้นด้วยการประหยัดในการเปิดตัวสุดพิเศษสำหรับ Elite 100 Mini Portable Power Station ใหม่ของ Bluetti ในราคาเริ่มต้นที่ 408 ดอลลาร์ เบื้องหลังนั้น เรามีรายการสินค้าลดราคาวันแรงงาน SOLIX ของ Anker พร้อมรหัสส่วนลดพิเศษ โปรโมชั่นของขวัญฟรี และข้อเสนอที่ได้รับการตกแต่งใหม่เริ่มต้นที่ 231 ดอลลาร์ นอกจากนี้ยังมีการขาย e-bike ของ Tenways วันแรงงาน พร้อมส่วนลดสูงสุดถึง $600 รวมถึง e-bike CGO600 Pro Chain-Drive Commuter พร้อมชุดฟรี $118 ที่ราคาต่ำสุดที่ $1,499 เป็นครั้งแรกในปี 2026 ซึ่งเป็นราคาต่ำที่กลับมาอีกครั้งสำหรับ MK2 Electric Mini Motorcycle ของ GoTrax สำหรับเด็กที่ $314 ซึ่งเป็นราคาต่ำสุดในปี 2026 สำหรับไฟฟ้าไร้สายขนาด 16 นิ้วของ EGO เลื่อยไฟฟ้าและอีกมากมายรอคุณอยู่ด้านล่าง และเช่นเคย คุณสามารถค้นหา h"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "China now has more solar than coal to fuel its electric car boom",
-      "summary_en": "China, the world’s largest electricity market, now has more installed electricity generation capacity from solar than from coal plants. The news comes at just the right time – as China’s EV sales boom, as global energy prices spike, and as climate change continues to ravage the Earth. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/07/China-solar-farm-molten-salt.png?resize=1200,628",
-      "link": "https://electrek.co/2026/09/02/china-now-has-more-solar-than-coal-to-fuel-its-electric-car-boom/",
-      "published": "Wed, 02 Sep 2026 17:20:10 +0000",
-      "title_th": "ขณะนี้จีนมีพลังงานแสงอาทิตย์มากกว่าถ่านหินเพื่อใช้เป็นเชื้อเพลิงให้กับรถยนต์ไฟฟ้าที่กำลังเติบโต",
-      "summary_th": "ประเทศจีน ซึ่งเป็นตลาดไฟฟ้าที่ใหญ่ที่สุดในโลก ปัจจุบันมีกำลังการผลิตไฟฟ้าติดตั้งจากพลังงานแสงอาทิตย์มากกว่าจากโรงไฟฟ้าถ่านหิน ข่าวนี้มาในเวลาที่เหมาะสม ในขณะที่ยอดขายรถยนต์ไฟฟ้าของจีนพุ่งสูงขึ้น ขณะที่ราคาพลังงานทั่วโลกพุ่งสูงขึ้น และในขณะที่การเปลี่ยนแปลงสภาพภูมิอากาศยังคงทำลายล้างโลกอย่างต่อเนื่อง มากกว่า…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Toyota is delaying its 3-row electric SUV again: Here’s when it’s expected to launch now",
-      "summary_en": "Toyota is pushing back the launch of its first three-row electric SUV, the Highlander BEV, even further. Here’s when it’s now expected to go on sale. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/07/Toyota-delays-Highlander-EV.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/02/toyota-delaying-3-row-highlander-electric-suv-again/",
-      "published": "Wed, 02 Sep 2026 16:20:51 +0000",
-      "title_th": "โตโยต้ากำลังชะลอรถ SUV ไฟฟ้า 3 แถวอีกครั้ง: คาดว่าจะเปิดตัวในเวลานี้",
-      "summary_th": "โตโยต้ากำลังผลักดันการเปิดตัวรถเอสยูวีไฟฟ้าสามแถวรุ่นแรกอย่าง Highlander BEV ให้ดียิ่งขึ้นไปอีก นี่คือเวลาที่คาดว่าจะวางจำหน่าย มากกว่า…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Zero will soon add the main feature its electric motorcycles have always lacked",
-      "summary_en": "Zero Motorcycles just announced that coming in 2027 is a much requested feature that the company has yet to include on its electric motorcycles: DC fast charging. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/zerohead.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/02/zero-will-soon-add-the-main-feature-its-electric-motorcycles-have-always-lacked/",
-      "published": "Wed, 02 Sep 2026 15:04:17 +0000",
-      "title_th": "เร็วๆ นี้ Zero จะเพิ่มฟีเจอร์หลักที่มอเตอร์ไซค์ไฟฟ้ายังขาดมาตลอด",
-      "summary_th": "Zero Motorcycles เพิ่งประกาศว่าฟีเจอร์ที่ได้รับการร้องขออย่างมากในปี 2570 ที่บริษัทยังไม่ได้รวมไว้ในรถจักรยานยนต์ไฟฟ้า: DC การชาร์จอย่างรวดเร็ว มากกว่า…"
     }
   ],
   "indices": [
@@ -608,65 +608,65 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 224.66,
-      "change": 7.22,
-      "change_pct": 3.32
+      "price": 224.41,
+      "change": 6.97,
+      "change_pct": 3.21
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 352.17,
-      "change": -3.92,
-      "change_pct": -1.1
+      "price": 357.01,
+      "change": 0.92,
+      "change_pct": 0.26
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 337.9,
-      "change": 2.88,
-      "change_pct": 0.86
+      "price": 337.12,
+      "change": 2.1,
+      "change_pct": 0.63
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 496.24,
-      "change": -4.78,
-      "change_pct": -0.95
+      "price": 496.82,
+      "change": -4.2,
+      "change_pct": -0.84
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 325.96,
-      "change": 0.83,
-      "change_pct": 0.26
+      "price": 324.96,
+      "change": -0.17,
+      "change_pct": -0.05
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 254.85,
-      "change": -0.07,
-      "change_pct": -0.03
+      "price": 254.98,
+      "change": 0.06,
+      "change_pct": 0.02
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 592.52,
-      "change": 13.98,
-      "change_pct": 2.42
+      "price": 592.85,
+      "change": 14.31,
+      "change_pct": 2.47
     },
     {
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 246.0,
+      "change": -5.0,
+      "change_pct": -1.99
     }
   ],
   "reviews": [
