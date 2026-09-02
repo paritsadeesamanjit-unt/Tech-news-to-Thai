@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-09-01T22:55:42.474386+00:00",
+  "generated_at": "2026-09-02T01:35:56.782318+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Larry Page’s flying car company Pivotal loses its CEO",
+      "summary_en": "The company told TechCrunch he is \"pursuing new endeavors.\"",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/pivotal-helix.jpg?resize=1200,633",
+      "link": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+      "published": "Tue, 01 Sep 2026 23:59:59 +0000",
+      "title_th": "Pivotal บริษัทรถยนต์บินได้ของ Larry Page สูญเสีย CEO",
+      "summary_th": "บริษัทบอกกับ TechCrunch ว่าเขากำลัง \"แสวงหาความพยายามใหม่ๆ\""
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Reliance’s JioHotstar takes its streaming empire global — without sports",
+      "summary_en": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/JioHotstar-Brand-Identity-Horizontal-1.jpeg?resize=1200,675",
+      "link": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+      "published": "Tue, 01 Sep 2026 23:00:00 +0000",
+      "title_th": "JioHotstar จาก Reliance ครองอาณาจักรสตรีมมิ่งไปทั่วโลก โดยไม่ต้องมีกีฬา",
+      "summary_th": "JioHotstar จะมีเนื้อหาความบันเทิงเมื่อเปิดตัวในสหราชอาณาจักร แคนาดา และสิงคโปร์เท่านั้น"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -12,7 +36,7 @@
       "link": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
       "published": "Tue, 01 Sep 2026 22:13:34 +0000",
       "title_th": "Apple ติดตาม Google ในการใช้ชื่อ 'Lake America' ของ Trump",
-      "summary_th": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America."
+      "summary_th": "Apple Maps ปฏิบัติตามคำสั่งบริหารของประธานาธิบดีทรัมป์ให้เปลี่ยนชื่อทะเลสาบออนแทรีโอเป็นทะเลสาบอเมริกา"
     },
     {
       "source": "TechCrunch",
@@ -23,44 +47,20 @@
       "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1569337822.jpg?resize=1200,800",
       "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
       "published": "Tue, 01 Sep 2026 22:08:24 +0000",
-      "title_th": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "title_th": "มีรายงานว่า AfterQuery กลายเป็นยูนิคอร์นที่เร็วที่สุดเท่าที่เคยมีมาของ Y Combinator ซึ่งปัจจุบันมีมูลค่าอยู่ที่ 3.2 พันล้านดอลลาร์",
       "summary_th": "AfterQuery สตาร์ทอัพด้านการฝึกอบรมโมเดล AI ระดมทุนได้ 3.2 พันล้านดอลลาร์ เพียงห้าเดือนหลังจากประกาศ Series A มูลค่า 30 ล้านดอลลาร์ ที่มูลค่า 300 ล้านดอลลาร์ในเดือนเมษายน"
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "review",
-      "title_en": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+      "title_en": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
       "summary_en": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
       "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
       "published": "Tue, 01 Sep 2026 21:06:24 +0000",
-      "title_th": "โมเดล Astra ของ Open AI กำลังมาถึง — และเก่งมากในการเจาะเข้าสู่ระบบคอมพิวเตอร์",
+      "title_th": "โมเดล Astra ของ OpenAI กำลังมาถึง — และเก่งมากในการเจาะเข้าสู่ระบบคอมพิวเตอร์",
       "summary_th": "OpenAI แสดงตัวอย่างข้อควรระวังที่ใช้ในขณะที่เตรียมเปิดตัว Astra ซึ่งเป็น LLM ใหม่ล่าสุดที่มีความสำคัญทางไซเบอร์"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Google’s Android update tackles motion sickness, accessibility, and more",
-      "summary_en": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/MotionAssist-Google.png?w=1200",
-      "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-      "published": "Tue, 01 Sep 2026 20:53:05 +0000",
-      "title_th": "การอัปเดต Android ของ Google จัดการกับอาการเมารถ การเข้าถึง และอื่นๆ",
-      "summary_th": "แม้ว่าคุณลักษณะบางอย่างจะเห็นว่า Google กำลังไล่ตาม Apple ซึ่งมีคุณลักษณะที่คล้ายคลึงกันสำหรับผู้ใช้ iPhone อยู่แล้ว แต่คุณลักษณะอื่น ๆ ก็ใช้ประโยชน์จาก Gemini เพื่อปรับปรุงต่างๆ"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "X says attackers are targeting user accounts after the launch of X Money",
-      "summary_en": "X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/X-and-Threads-GettyImages-1763609384.jpeg?resize=1200,832",
-      "link": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
-      "published": "Tue, 01 Sep 2026 20:48:32 +0000",
-      "title_th": "X กล่าวว่าผู้โจมตีกำลังกำหนดเป้าหมายบัญชีผู้ใช้หลังจากเปิดตัว X Money",
-      "summary_th": "X กำลังตรวจสอบอีเมลรีเซ็ตรหัสผ่านที่ไม่พึงประสงค์จำนวนมาก ซึ่งเชื่อว่าอาจเชื่อมโยงกับการเปิดตัวบริการการชำระเงินใหม่"
     },
     {
       "source": "The Verge",
@@ -156,7 +156,7 @@
       "link": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
       "published": "Fri, 28 Aug 2026 11:15:05 +0000",
       "title_th": "เจ้าหน้าที่จับกุม 2 สมาชิกกลุ่มแฮ็ก TeamPCP ที่มีผลงานมากมาย",
-      "summary_th": "กลุ่มนี้แพร่เชื้อไปยังองค์กรมากกว่า 1,000 แห่งในแคมเปญโจมตีห่วงโซ่อุปทานอย่างไม่หยุดยั้ง"
+      "summary_th": "กลุ่มดังกล่าวแพร่ระบาดไปยังองค์กรมากกว่า 1,000 แห่งในแคมเปญโจมตีห่วงโซ่อุปทานอย่างไม่หยุดยั้ง"
     },
     {
       "source": "Ars Technica",
@@ -185,14 +185,14 @@
     {
       "source": "Wired",
       "flag": "US",
-      "category": "ai",
-      "title_en": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
-      "summary_en": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
-      "image": "https://media.wired.com/photos/6a9613c7a31f896f81e828e0/master/pass/OpenAI-AI-Safety-Business.jpg",
-      "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
-      "published": "Tue, 01 Sep 2026 20:00:00 +0000",
-      "title_th": "OpenAI กำลังจะเปิดตัวโมเดล AI แรกที่มีความสามารถทางไซเบอร์ 'สำคัญ'",
-      "summary_th": "บริษัทจะให้พันธมิตรที่ได้รับการคัดเลือกเข้าถึงโมเดล Astra AI ได้ก่อนใคร เพื่อให้พวกเขามีเวลาเสริมการป้องกัน"
+      "category": "ev",
+      "title_en": "The Range Rover Electric: Specs, Price, Availability",
+      "summary_en": "After long delays, JLR’s biggest gamble with its Range Rover brand is here with huge performance, range, and off-road EV skills. It’s mighty pricey, but the US gets a cheaper model.",
+      "image": "https://media.wired.com/photos/6a972c251a29cad3901a2042/master/pass/RANGE-ROVER-ELECTRIC-FRONT-02_09_26.jpg",
+      "link": "https://www.wired.com/story/the-range-rover-electric-has-finally-arrived/",
+      "published": "Tue, 01 Sep 2026 23:01:00 +0000",
+      "title_th": "Range Rover Electric: ข้อมูลจำเพาะ ราคา การวางจำหน่าย",
+      "summary_th": "หลังจากความล่าช้าอันยาวนาน การเดิมพันที่ใหญ่ที่สุดของ JLR กับแบรนด์ Range Rover ก็อยู่ที่นี่ด้วยสมรรถนะอันมหาศาล ระยะการเดินทาง และทักษะ EV ออฟโรด มันแพงมาก แต่สหรัฐฯ ได้รุ่นที่ถูกกว่า"
     },
     {
       "source": "Wired",
@@ -210,12 +210,24 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
+      "title_en": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+      "summary_en": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
+      "image": "https://media.wired.com/photos/6a9613c7a31f896f81e828e0/master/pass/OpenAI-AI-Safety-Business.jpg",
+      "link": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+      "published": "Tue, 01 Sep 2026 20:00:00 +0000",
+      "title_th": "OpenAI กำลังจะเปิดตัวโมเดล AI แรกที่มีความสามารถทางไซเบอร์ 'สำคัญ'",
+      "summary_th": "บริษัทจะให้พันธมิตรที่ได้รับการคัดเลือกเข้าถึงโมเดล Astra AI ได้ก่อนใคร เพื่อให้พวกเขามีเวลาเสริมการป้องกัน"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
       "title_en": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
       "summary_en": "Sonos is cramming AI into its software because it’s “very hot these days.” The new features, which include agentic automation, are opt-in.",
       "image": "https://media.wired.com/photos/6a95b91888d28650c3255bcd/master/pass/Sonos%20Ace%20Ultra%201.JPG",
       "link": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
       "published": "Tue, 01 Sep 2026 14:40:00 +0000",
-      "title_th": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric และแอปใหม่: ทุกสิ่งที่ Sonos เพิ่งประกาศ",
+      "title_th": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
       "summary_th": "Sonos กำลังอัด AI ลงในซอฟต์แวร์ของตนเพราะ \"ช่วงนี้ร้อนมาก\" คุณสมบัติใหม่ ซึ่งรวมถึงระบบอัตโนมัติแบบตัวแทน ได้รับการเลือกใช้"
     },
     {
@@ -229,18 +241,6 @@
       "published": "Tue, 01 Sep 2026 11:30:00 +0000",
       "title_th": "5 โทรศัพท์พับได้ที่ดีที่สุด (2026): Samsung, Google, Motorola",
       "summary_th": "พร้อมที่จะเปลี่ยนจากแผ่นกระจกแบบเดิมๆ แล้วหรือยัง? เพิ่มบานพับให้กับชีวิตของคุณด้วยสมาร์ทโฟนแบบพับได้เหล่านี้"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "review",
-      "title_en": "Sennheiser Momentum 5 Wireless Headphones Review (2026)",
-      "summary_en": "The flagship headphones get up to 57 hours of battery life and have easily replaceable batteries.",
-      "image": "https://media.wired.com/photos/6a95e27ca31f896f81e826b1/master/pass/Review--Sennheiser-Momentum-5-Wireless.jpg",
-      "link": "https://www.wired.com/review/sennheiser-momentum-5/",
-      "published": "Tue, 01 Sep 2026 11:00:00 +0000",
-      "title_th": "รีวิวหูฟังไร้สาย Sennheiser Momentum 5 (2026)",
-      "summary_th": "หูฟังรุ่นเรือธงมีอายุการใช้งานแบตเตอรี่สูงสุด 57 ชั่วโมงและมีแบตเตอรี่ที่เปลี่ยนได้ง่าย"
     },
     {
       "source": "MIT Technology Review",
@@ -305,6 +305,30 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "chip",
+      "title_en": "Android stuck in Safe Mode? Here's how to turn it off",
+      "summary_en": "You're just a few taps away from getting your Android phone out of safe mode and back to normal.",
+      "image": "https://www.engadget.com/img/gallery/android-stuck-in-safe-mode-heres-how-to-turn-it-off/l-intro-1785415003.jpg",
+      "link": "https://www.engadget.com/2244182/how-to-turn-off-safe-mode-on-android-phone/",
+      "published": "Tue, 01 Sep 2026 23:00:00 +0000",
+      "title_th": "Android ติดอยู่ใน Safe Mode? ต่อไปนี้เป็นวิธีปิด",
+      "summary_th": "เพียงแตะไม่กี่ครั้ง โทรศัพท์ Android ของคุณก็จะออกจากเซฟโหมดและกลับสู่สภาวะปกติ"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Lake Ontario is now 'Lake America' on Apple Maps",
+      "summary_en": "President Trump reportedly \"reached out directly\" to the company.",
+      "image": "https://www.engadget.com/img/gallery/lake-ontario-is-now-lake-america-on-apple-maps/l-intro-1788303163.jpg",
+      "link": "https://www.engadget.com/2249159/lake-ontario-is-now-lake-america-on-apple-maps/",
+      "published": "Tue, 01 Sep 2026 22:54:41 +0000",
+      "title_th": "Lake Ontario is now 'Lake America' on Apple Maps",
+      "summary_th": "มีรายงานว่าประธานาธิบดีทรัมป์ \"ติดต่อโดยตรง\" กับบริษัท"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "gadget",
       "title_en": "How to change the background on iPhone Messages",
       "summary_en": "How to change the background on iPhone Messages.",
@@ -324,7 +348,7 @@
       "link": "https://www.engadget.com/2244179/why-skip-5k-monitor-go-with-4k-instead/",
       "published": "Tue, 01 Sep 2026 22:00:00 +0000",
       "title_th": "ข้ามจอภาพ 5K สำหรับเล่นเกมไปเป็น 4K แทน นี่คือเหตุผล",
-      "summary_th": "5K นั้นคมชัดกว่า 4K UHD เสียด้วยซ้ำ แต่มันก็มีไว้สำหรับผู้ชมเฉพาะกลุ่ม ในฐานะเกมเมอร์ คุณจะไม่สามารถใช้ประโยชน์จากมันได้มากเท่าที่คุณคิด"
+      "summary_th": "5K นั้นคมชัดกว่า 4K UHD เสียอีก แต่ก็มีไว้สำหรับผู้ชมเฉพาะกลุ่ม ในฐานะเกมเมอร์ คุณจะไม่สามารถใช้ประโยชน์จากมันได้มากเท่าที่คุณคิด"
     },
     {
       "source": "Engadget",
@@ -337,30 +361,6 @@
       "published": "Tue, 01 Sep 2026 21:56:29 +0000",
       "title_th": "โมเดลการถอดเสียง AI ใหม่ของ Meta สามารถแยกแยะระหว่างผู้พูดหลายคนและภาษาได้แบบเรียลไทม์",
       "summary_th": "รุ่นล่าสุดจาก Meta Superintelligence Lab คือโมเดลการถอดเสียงที่มีประสิทธิภาพ"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "The new Street Fighter movie trailer looks fun in all the right ways",
-      "summary_en": "The Street Fighter movie looks silly and campy and that's just fine!",
-      "image": "https://www.engadget.com/img/gallery/the-new-street-fighter-movie-trailer-looks-fun-in-all-the-right-ways/l-intro-1788289751.jpg",
-      "link": "https://www.engadget.com/2248888/the-new-street-fighter-movie-trailer-looks-fun-in-all-the-right-ways/",
-      "published": "Tue, 01 Sep 2026 19:10:16 +0000",
-      "title_th": "ตัวอย่างภาพยนตร์ Street Fighter ใหม่ดูสนุกสนานในรูปแบบที่ถูกต้อง",
-      "summary_th": "ภาพยนตร์ Street Fighter ดูไร้สาระและเป็นแคมป์ และนั่นก็ไม่เป็นไร!"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "The Sonos Ace Ultra headphones and Beam Ultra soundbar are smarter than I expected",
-      "summary_en": "Sonos' latest hardware is smarter than ever about how it fits into your home.",
-      "image": "https://www.engadget.com/img/gallery/the-sonos-ace-ultra-headphones-and-beam-ultra-soundbar-are-smarter-than-i-expected/l-intro-1788288109.jpg",
-      "link": "https://www.engadget.com/2248883/sonos-ace-ultra-beam-ultra-hands-on-demos/",
-      "published": "Tue, 01 Sep 2026 19:03:10 +0000",
-      "title_th": "หูฟัง Sonos Ace Ultra และแถบเสียง Beam Ultra ฉลาดกว่าที่ฉันคาดไว้",
-      "summary_th": "ฮาร์ดแวร์ล่าสุดของ Sonos ชาญฉลาดกว่าที่เคยว่าเข้ากันได้ดีกับบ้านของคุณอย่างไร"
     },
     {
       "source": "IEEE Spectrum",
@@ -407,8 +407,8 @@
       "image": "https://spectrum.ieee.org/media-library/a-collage-of-historic-images-showing-two-men-in-18th-century-garb-with-background-illustrations-of-a-device-with-two-columns-and.jpg?id=67685016&width=980",
       "link": "https://spectrum.ieee.org/voltaic-pile-first-battery",
       "published": "Mon, 31 Aug 2026 12:00:01 +0000",
-      "title_th": "แบตเตอรี่ก้อนแรกได้รับแรงบันดาลใจจากกบตาย",
-      "summary_th": "ในกรณีจัดแสดงที่ชั้นล่างของพิพิธภัณฑ์ฟาราเดย์ที่ Royal Institution ในลอนดอน มีกองแผ่นโลหะสีเทาและกระดาษซับซ้อนกันที่ดูเรียบง่าย ไม่ชัดเจนว่าวัตถุธรรมดานี้เป็นจุดเริ่มต้นของอุตสาหกรรมแบตเตอรี่ทั่วโลกที่มีมูลค่าหลายพันล้านดอลลาร์ในปัจจุบัน สิ่งประดิษฐ์ของวัตถุดังกล่าวในปี 1799 เกิดขึ้นจากความขัดแย้งที่อเลสซานโดร โวลตา นักฟิสิกส์ชาวอิตาลี ซึ่งตั้งชื่อหน่วยวัดศักย์ไฟฟ้าไว้ ได้ทำร่วมกับเพื่อนของเขา ลุยจิ กัลวานี เหนือกบที่ตายแล้ว การอภิปรายเรื่องไฟฟ้าสำหรับสัตว์ Galvani เป็นแพทย์ชาวอิตาลีที่ได้รับความนับถือ ในช่วงทศวรรษที่ 1770 เขาเริ่มศึกษาการใช้ไฟฟ้าเพื่อกระตุ้นกล้ามเนื้อของกบที่ชำแหละ เขาสามารถติดอาวุธด้วยเครื่องกำเนิดไฟฟ้าสถิตและตัวเก็บประจุชนิดแรกๆ ที่เรียกว่าขวดเลย์เดน"
+      "title_th": "แบตเตอรี่ก้อนแรกได้รับแรงบันดาลใจจากกบที่ตายแล้ว",
+      "summary_th": "ในกรณีจัดแสดงที่ชั้นล่างของพิพิธภัณฑ์ฟาราเดย์ที่ Royal Institution ในลอนดอน มีกองแผ่นโลหะสีเทาและกระดาษซับที่วางซ้อนกันดูเรียบง่าย ไม่ชัดเจนว่าวัตถุธรรมดานี้เป็นจุดเริ่มต้นของอุตสาหกรรมแบตเตอรี่ทั่วโลกที่มีมูลค่าหลายพันล้านดอลลาร์ในปัจจุบัน สิ่งประดิษฐ์ของวัตถุดังกล่าวในปี 1799 เกิดขึ้นจากความขัดแย้งที่อเลสซานโดร โวลตา นักฟิสิกส์ชาวอิตาลี ซึ่งตั้งชื่อหน่วยวัดศักย์ไฟฟ้าไว้ ได้ทำร่วมกับเพื่อนของเขา ลุยจิ กัลวานี เหนือกบที่ตายแล้ว การอภิปรายเรื่องไฟฟ้าสำหรับสัตว์ กัลวานีเป็นแพทย์ชาวอิตาลีที่ได้รับความนับถือ ในช่วงทศวรรษที่ 1770 เขาเริ่มศึกษาการใช้ไฟฟ้าเพื่อกระตุ้นกล้ามเนื้อของกบที่ชำแหละ เขาสามารถติดอาวุธด้วยเครื่องกำเนิดไฟฟ้าสถิตและตัวเก็บประจุชนิดแรกๆ ที่เรียกว่าขวดเลย์เดน"
     },
     {
       "source": "IEEE Spectrum",
@@ -426,12 +426,36 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "Apple tells Mac App Store developers they can now drop Intel support",
+      "summary_en": "Apple started informing developers today that universal macOS apps on the Mac App Store that require macOS 13 or later can now drop support for Intel-based Macs. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/Sequoia-intel.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/01/apple-tells-mac-app-store-developers-they-can-now-drop-intel-support/",
+      "published": "Wed, 02 Sep 2026 00:50:53 +0000",
+      "title_th": "Apple แจ้งนักพัฒนา Mac App Store ว่าสามารถยกเลิกการรองรับ Intel ได้แล้ว",
+      "summary_th": "วันนี้ Apple เริ่มแจ้งให้นักพัฒนาทราบว่าแอพ macOS สากลบน Mac App Store ที่ต้องใช้ macOS 13 หรือใหม่กว่าสามารถยกเลิกการรองรับ Mac ที่ใช้ Intel ได้แล้ว มากกว่า…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Ford explains why it chose Apple Maps over Google for its new EVs",
+      "summary_en": "Earlier this year, Apple announced a partnership with Ford to bring native Apple Maps integration to the automaker’s upcoming Universal Electric Vehicle (UEV) Platform, including what we now know is called the Fathom . more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-maps-generic-3d.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/01/ford-explains-why-it-chose-apple-maps-over-google-for-its-new-evs/",
+      "published": "Tue, 01 Sep 2026 23:33:07 +0000",
+      "title_th": "Ford อธิบายว่าทำไมจึงเลือก Apple Maps มากกว่า Google สำหรับ EV ใหม่",
+      "summary_th": "เมื่อต้นปีที่ผ่านมา Apple ได้ประกาศความร่วมมือกับ Ford เพื่อนำการบูรณาการ Apple Maps เข้ากับแพลตฟอร์ม Universal Electric Vehicle (UEV) ของผู้ผลิตรถยนต์ ซึ่งรวมถึงสิ่งที่เรารู้ตอนนี้เรียกว่า Fathom มากกว่า…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Here’s how much Apple is paying John Ternus as CEO, Tim Cook as executive chairman",
       "summary_en": "In a new regulatory filing today, Apple revealed that new CEO John Ternus is receiving a pay package with $58 million in salary and target stock awards. The company also shared details on Tim Cook’s lucrative new deal as Apple’s executive chairman. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/cook-ternus-pokemon.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/09/01/john-ternus-gets-58m-pay-package-as-ceo-tim-cook-47m-as-chairman/",
       "published": "Tue, 01 Sep 2026 22:10:39 +0000",
-      "title_th": "นี่คือจำนวนเงินที่ Apple จ่ายให้ John Ternus ในฐานะ CEO, Tim Cook ในฐานะประธานกรรมการบริหาร",
+      "title_th": "นี่คือจำนวนเงินที่ Apple จ่ายให้กับ John Ternus ในฐานะ CEO, Tim Cook ในฐานะประธานกรรมการบริหาร",
       "summary_th": "ในการยื่นฟ้องตามกฎระเบียบใหม่ในวันนี้ Apple เปิดเผยว่า CEO คนใหม่ John Ternus ได้รับแพ็คเกจการจ่ายเงินพร้อมเงินเดือน 58 ล้านดอลลาร์และรางวัลหุ้นเป้าหมาย บริษัทยังได้แชร์รายละเอียดเกี่ยวกับข้อตกลงใหม่ที่มีกำไรของ Tim Cook ในฐานะประธานกรรมการบริหารของ Apple มากกว่า…"
     },
     {
@@ -459,30 +483,6 @@
       "summary_th": "สัปดาห์หน้า iPhone Ultra จะเปิดตัวในงานเดือนกันยายนของ Apple และในวันนี้การสัมภาษณ์ Tom's Guide ครั้งใหม่กับ Mark Gurman จะเปิดเผยรายละเอียดใหม่ๆ หลายประการเกี่ยวกับสิ่งที่คาดหวังจากข้อมูลจำเพาะ ซอฟต์แวร์ เวลาเปิดตัว และอื่นๆ มากกว่า…"
     },
     {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple Watch Series 12: Three new features coming next week",
-      "summary_en": "Apple Watch Series 12 is coming next week , launching at the September event alongside Apple Watch Ultra 4 . Here are three new features rumored for Apple Watch Series 12. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-watch-series-11-us.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/01/apple-watch-series-12-three-new-features-coming-next-week/",
-      "published": "Tue, 01 Sep 2026 19:18:04 +0000",
-      "title_th": "Apple Watch Series 12: คุณสมบัติใหม่สามประการจะมาในสัปดาห์หน้า",
-      "summary_th": "Apple Watch Series 12 จะเปิดตัวในสัปดาห์หน้า โดยเปิดตัวในงานเดือนกันยายนพร้อมกับ Apple Watch Ultra 4 นี่คือคุณสมบัติใหม่สามประการที่มีข่าวลือสำหรับ Apple Watch Series 12 เพิ่มเติม..."
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Anthropic upgrades Claude with new Fable 5.1 model, details here",
-      "summary_en": "In June, Anthropic first released Fable 5, its Mythos-class AI model for Claude. Three months later, Anthropic is enhancing Claude with its new Fable 5.1 model upgrade. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/01/anthropic-upgrades-claude-with-new-fable-5-1-model-details-here/",
-      "published": "Tue, 01 Sep 2026 18:10:16 +0000",
-      "title_th": "Anthropic อัปเกรด Claude ด้วยโมเดล Fable 5.1 ใหม่ ดูรายละเอียดที่นี่",
-      "summary_th": "ในเดือนมิถุนายน Anthropic เปิดตัว Fable 5 ซึ่งเป็นโมเดล AI ระดับ Mythos สำหรับ Claude สามเดือนต่อมา Anthropic กำลังปรับปรุง Claude ด้วยการอัปเกรดโมเดล Fable 5.1 ใหม่ มากกว่า…"
-    },
-    {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
@@ -491,7 +491,7 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-7-rereview-2.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/09/01/samsung-android-17-one-ui-9-beta-update-expand/",
       "published": "Tue, 01 Sep 2026 21:50:00 +0000",
-      "title_th": "Samsung’s Android 17-based One UI 9 beta expands to these Galaxy phones this month",
+      "title_th": "One UI 9 ที่ใช้ Android 17 ของ Samsung จะขยายไปยังโทรศัพท์ Galaxy เหล่านี้ในเดือนนี้",
       "summary_th": "Samsung กำลังขยายโปรแกรมเบต้า Android 17 / One UI 9 ไปยังสมาร์ทโฟน Galaxy ใหม่หลายรุ่นในเดือนนี้ ส่งสัญญาณว่าการเปิดตัวที่เสถียรนั้นอยู่ไม่ไกลเกินไป มากกว่า…"
     },
     {
@@ -504,7 +504,7 @@
       "link": "https://9to5google.com/2026/09/01/samsung-account-deactivated-issue/",
       "published": "Tue, 01 Sep 2026 21:35:00 +0000",
       "title_th": "Samsung สุ่มปิดการใช้งานบางบัญชีด้วยเหตุผลด้านความปลอดภัย",
-      "summary_th": "ปัญหาที่แปลกประหลาดทำให้เจ้าของ Samsung Galaxy จำนวนมากถูกล็อกออกจากบัญชี Samsung ของตนซึ่งถูก \"ปิดใช้งานด้วยเหตุผลด้านความปลอดภัย\" มากกว่า…"
+      "summary_th": "ปัญหาที่แปลกประหลาดทำให้เจ้าของ Samsung Galaxy จำนวนมากถูกล็อคออกจากบัญชี Samsung ของตนซึ่งถูก \"ปิดการใช้งานด้วยเหตุผลด้านความปลอดภัย\" มากกว่า…"
     },
     {
       "source": "9to5Google",
@@ -545,6 +545,18 @@
     {
       "source": "Electrek",
       "flag": "",
+      "category": "gadget",
+      "title_en": "E-quipment highlight: iPad-sized 70 kW electric PTO by Windrose",
+      "summary_en": "Electric semi truck brand Windrose has developed an all-electric power take-off (PTO) that puts out up to 70 kW of power without burning a drop of diesel – and it could give his big BEV a real market advantage. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/windrose_epto.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/01/e-quipment-highlight-ipad-sized-70-kw-electric-pto-by-windrose/",
+      "published": "Wed, 02 Sep 2026 00:50:08 +0000",
+      "title_th": "จุดเด่นของอุปกรณ์อิเล็กทรอนิกส์: PTO ไฟฟ้าขนาด 70 kW ขนาด iPad ของ Windrose",
+      "summary_th": "Windrose แบรนด์รถกึ่งรถบรรทุกไฟฟ้าได้พัฒนาระบบส่งกำลังด้วยไฟฟ้าทั้งหมด (PTO) ซึ่งสามารถส่งกำลังได้สูงสุดถึง 70 กิโลวัตต์ โดยไม่ต้องใช้น้ำมันดีเซลแม้แต่หยดเดียว และอาจทำให้รถยนต์ BEV คันใหญ่ของเขาได้เปรียบในตลาดอย่างแท้จริง มากกว่า…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
       "category": "ev",
       "title_en": "NeoVolta’s US battery factory gets a 9 GWh boost from SK On",
       "summary_en": "US battery storage company NeoVolta Power has locked in five years’ worth of US-made battery cells from Seoul-headquartered SK On to help scale up NeoVolta’s Georgia factory. more…",
@@ -564,7 +576,7 @@
       "link": "https://electrek.co/2026/09/01/ford-shares-closer-look-30000-fathom-ev-pickup-video/",
       "published": "Tue, 01 Sep 2026 21:17:43 +0000",
       "title_th": "Ford แบ่งปันรายละเอียดเกี่ยวกับรถกระบะ Fathom EV มูลค่า 30,000 เหรียญสหรัฐ [วิดีโอ]",
-      "summary_th": "Ford Fathom จะวางจำหน่ายในต้นปี 2570 ราคาเริ่มต้นที่ 28,350 ดอลลาร์ ในการเปิดตัวอย่างเป็นทางการที่กำลังจะมาถึง ฟอร์ดได้เปิดเผยภาพใหม่ของรถกระบะไฟฟ้าที่ให้รูปลักษณ์ที่ดีที่สุดของเรา มากกว่า…"
+      "summary_th": "Ford Fathom จะวางจำหน่ายในต้นปี 2570 ราคาเริ่มต้นที่ 28,350 ดอลลาร์ ด้วยการเปิดตัวอย่างเป็นทางการที่กำลังจะมาถึง ฟอร์ดได้เปิดเผยภาพใหม่ของรถกระบะไฟฟ้าที่ให้รูปลักษณ์ที่ดีที่สุดของเรา มากกว่า…"
     },
     {
       "source": "Electrek",
@@ -576,7 +588,7 @@
       "link": "https://electrek.co/2026/09/01/kias-hot-streak-warms-up-new-30000-ev3-launches/",
       "published": "Tue, 01 Sep 2026 19:43:31 +0000",
       "title_th": "สตรีคที่ร้อนแรงของ Kia เพิ่งเริ่มต้นเมื่อเปิดตัว EV3 มูลค่า 30,000 ดอลลาร์ใหม่",
-      "summary_th": "หลังจากอีกหนึ่งเดือนที่มียอดขายเป็นประวัติการณ์และการเปิดตัวรถเอสยูวีไฟฟ้า EV3 ราคาประหยัดรุ่นใหม่ Kia ก็กำลังก้าวสู่ปีที่สี่ของยอดขายประจำปีที่ทำลายสถิติในสหรัฐอเมริกา มากกว่า…"
+      "summary_th": "หลังจากอีกหนึ่งเดือนที่มียอดขายเป็นประวัติการณ์และการเปิดตัวรถเอสยูวีไฟฟ้า EV3 ราคาไม่แพงรุ่นใหม่ Kia ก็กำลังก้าวสู่ปีที่สี่ของยอดขายประจำปีที่ทำลายสถิติในสหรัฐอเมริกา มากกว่า…"
     },
     {
       "source": "Electrek",
@@ -589,18 +601,6 @@
       "published": "Tue, 01 Sep 2026 18:43:48 +0000",
       "title_th": "Tesla สังหาร Solar Roof ส่งผลให้ผู้ติดตั้งสูญเสียตัวเลขหกหลัก",
       "summary_th": "การตัดสินใจอย่างกะทันหันของ Tesla ที่จะยุติการติดตั้ง Solar Roof ส่งผลให้ผู้รับเหมาบุคคลที่สามที่ขายและติดตั้งผลิตภัณฑ์ต้องดูดซับผลกระทบดังกล่าว ซึ่งรวมถึงบางคนที่บอกกับ Electrek ว่าพวกเขาได้จมเงินหลายแสนดอลลาร์เข้าไปในโครงการ และตอนนี้แทบไม่มีสิ่งใดเลยที่จะแสดงให้เห็นด้วย Tesla หยุดจัดหากระเบื้องพลังงานแสงอาทิตย์ในเดือนสิงหาคม โดยแจ้งเครือข่ายผู้ติดตั้งที่ได้รับการรับรองว่าจะจัดส่งเฉพาะแผงโซลาร์เซลล์แบบธรรมดาเท่านั้นนับจากนี้เป็นต้นไป มากกว่า…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "I rode Juiced’s 70 MPH Nomadix electric dirt bike, and the $2,495 price is a steal",
-      "summary_en": "The electric dirt bike/e-moto market has developed a pretty obvious split over the last few years. On one end, there’s a seemingly endless supply of inexpensive no-name machines with questionable components and varying levels of quality. On the other, there are legitimately impressive machines from established brands, but they tend to come with prices to match. The new Juiced Nomadix R lands somewhere much more interesting in the middle, offering better quality components but at a price that competes well with the budget offerings. After spending several hours riding one off-road, I think Juiced may have just created one of the best performance-per-dollar electric dirt bikes on the market. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/juiced-nomadix-R-e-moto-dirt-e-bike-header.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/01/i-rode-juiceds-70-mph-nomadix-electric-dirt-bike-and-the-2495-price-is-a-steal/",
-      "published": "Tue, 01 Sep 2026 18:07:35 +0000",
-      "title_th": "ฉันขี่จักรยานสกปรกไฟฟ้า Nomadix ความเร็ว 70 ไมล์ต่อชั่วโมงของ Juiced และราคา 2,495 ดอลลาร์นั้นถือว่าถูกมาก",
-      "summary_th": "ตลาดจักรยานสกปรกไฟฟ้า / e-moto มีพัฒนาการแตกแยกที่ชัดเจนในช่วงไม่กี่ปีที่ผ่านมา ในด้านหนึ่ง ดูเหมือนมีเครื่องจักร no-name ราคาไม่แพงที่มีส่วนประกอบที่น่าสงสัยและระดับคุณภาพที่แตกต่างกันมากมายนับไม่ถ้วน ในทางกลับกัน มีเครื่องจักรที่น่าประทับใจอย่างถูกกฎหมายจากแบรนด์ที่มีชื่อเสียง แต่มักจะมาพร้อมกับราคาที่พอๆ กัน Juiced Nomadix R ใหม่มีจุดที่น่าสนใจมากขึ้นในช่วงกลางโดยนำเสนอส่วนประกอบที่มีคุณภาพดีกว่า แต่ในราคาที่แข่งขันได้ดีกับข้อเสนองบประมาณ หลังจากใช้เวลาหลายชั่วโมงในการขี่ออฟโรดครั้งหนึ่ง ฉันคิดว่า Juiced อาจเพิ่งสร้างหนึ่งในจักรยานวิบากไฟฟ้าที่มีสมรรถนะดีที่สุดต่อดอลลาร์ในตลาด มากกว่า…"
     }
   ],
   "indices": [
@@ -733,6 +733,16 @@
     {
       "channel": "Beartai",
       "country": "TH",
+      "title_en": "มะเร็งเต้านม รู้ไว...หายได้ !",
+      "video_id": "oG9x2I2qYfc",
+      "link": "https://www.youtube.com/shorts/oG9x2I2qYfc",
+      "thumbnail": "https://i4.ytimg.com/vi/oG9x2I2qYfc/hqdefault.jpg",
+      "published": "2026-09-01T23:00:12+00:00",
+      "title_th": "มะเร็งเต้านม รู้ไว...หายได้ !"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
       "title_en": "“Transformation ไม่ใช่ทางเลือก แต่คือสิ่งที่องค์กรต้องทำเพื่ออยู่รอดและเติบโต”",
       "video_id": "yISbhWsXbw4",
       "link": "https://www.youtube.com/shorts/yISbhWsXbw4",
@@ -749,16 +759,6 @@
       "thumbnail": "https://i3.ytimg.com/vi/RkStqSvcUas/hqdefault.jpg",
       "published": "2026-08-31T23:00:02+00:00",
       "title_th": "ยอดวิวสูง ไม่ได้แปลว่าดังจริง !"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "‘Metthier Academy’ อัปสกิลพนักงานสู่ผู้เชี่ยวชาญเฉพาะทาง",
-      "video_id": "6g3I4QBeNoA",
-      "link": "https://www.youtube.com/shorts/6g3I4QBeNoA",
-      "thumbnail": "https://i3.ytimg.com/vi/6g3I4QBeNoA/hqdefault.jpg",
-      "published": "2026-08-31T07:00:39+00:00",
-      "title_th": "‘Metthier Academy’ อัปสกิลพนักงานสู่ผู้เชี่ยวชาญเฉพาะทาง"
     },
     {
       "channel": "Droidsans",
