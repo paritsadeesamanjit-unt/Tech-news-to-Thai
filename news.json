@@ -1,66 +1,114 @@
 {
-  "generated_at": "2026-09-03T18:12:48.952985+00:00",
+  "generated_at": "2026-09-03T22:55:15.411882+00:00",
   "count": 50,
   "articles": [
     {
       "source": "TechCrunch",
       "flag": "US",
-      "category": "gadget",
-      "title_en": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "summary_en": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "published": "Thu, 03 Sep 2026 18:01:45 +0000",
-      "title_th": "OpenAI เปิดตัว Astra ซึ่งเป็นโมเดลใหม่ที่ทรงพลัง (และเป็นที่ถกเถียง)",
-      "summary_th": "OpenAI อ้างว่า Astra เป็นตัวแทนของ \"ขอบเขตใหม่ในการใช้คอมพิวเตอร์และเบราว์เซอร์\" และจัดการงานด้วย \"ความเร็ว ความแม่นยำ และความปลอดภัย\" ที่ไม่มีใครเทียบได้"
+      "category": "startup",
+      "title_en": "Oura files to go public",
+      "summary_en": "The ring maker says that its business has shown significant revenue growth over the past year.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/oura-ring-5.jpg?resize=1200,900",
+      "link": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
+      "published": "Thu, 03 Sep 2026 22:35:41 +0000",
+      "title_th": "ไฟล์ Oura เผยแพร่สู่สาธารณะ",
+      "summary_th": "ผู้ผลิตแหวนรายนี้กล่าวว่าธุรกิจของบริษัทมีรายได้เติบโตอย่างมากในปีที่ผ่านมา"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "ev",
+      "title_en": "Tesla is asking people if they want to buy and run Cybercab fleets",
+      "summary_en": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cybercab_76.jpg?resize=1200,675",
+      "link": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+      "published": "Thu, 03 Sep 2026 22:18:30 +0000",
+      "title_th": "Tesla กำลังถามผู้คนว่าพวกเขาต้องการซื้อและใช้งานกลุ่มยานยนต์ Cybercab หรือไม่",
+      "summary_th": "บริษัทเผยแพร่แบบฟอร์มบนเว็บไซต์เมื่อวันพฤหัสบดีเพื่อขอข้อมูลจากผู้ที่สนใจ \"การซื้อยานพาหนะของ Cybercab\""
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers",
-      "summary_en": "Ultrahuman is targeting a $200 million annual revenue run rate by January 2027 as it builds a new Qualcomm-powered smart ring.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ultrahuman-ring-pro.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
-      "published": "Thu, 03 Sep 2026 17:00:00 +0000",
-      "title_th": "Qualcomm สนับสนุน Ultrahuman ในรอบ 70 ล้านเหรียญสหรัฐเพื่อเปลี่ยนวงแหวนอัจฉริยะให้กลายเป็นคอมพิวเตอร์",
-      "summary_th": "Ultrahuman ตั้งเป้าหมายอัตราการสร้างรายได้ต่อปีที่ 200 ล้านดอลลาร์ภายในเดือนมกราคม 2570 ในขณะที่สร้างแหวนอัจฉริยะที่ขับเคลื่อนด้วย Qualcomm ใหม่"
+      "title_en": "Startup ARR is less secure than ever, new research shows",
+      "summary_en": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/PM-Images.jpg?resize=1200,855",
+      "link": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+      "published": "Thu, 03 Sep 2026 20:59:23 +0000",
+      "title_th": "ผลวิจัยใหม่เผย Startup ARR มีความปลอดภัยน้อยลงกว่าเดิม",
+      "summary_th": "ยุค AI ได้ทำลายรูปแบบการซื้อขององค์กรโดยสิ้นเชิง และสตาร์ทอัพยังไม่รู้ว่าจะนำทางอย่างไร"
     },
     {
       "source": "TechCrunch",
       "flag": "US",
-      "category": "gadget",
-      "title_en": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts",
-      "summary_en": "The Circular Ring 3 series announcement comes amid a year of heightened competition in the smart ring market, following the launches of the Oura Ring 5 and RingConn Gen 3.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Circular-Ring-3-Slim-Lineup.png?resize=1200,1200",
-      "link": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
-      "published": "Thu, 03 Sep 2026 16:42:54 +0000",
-      "title_th": "Circular เปิดตัวซีรีส์ Ring 3 พร้อมการชำระเงินแบบไร้สัมผัสและการแจ้งเตือนด้วยการสั่นบนนิ้ว",
-      "summary_th": "การประกาศซีรีส์ Circular Ring 3 เกิดขึ้นท่ามกลางการแข่งขันที่เพิ่มสูงขึ้นในตลาดแหวนอัจฉริยะในปีหนึ่ง หลังจากการเปิดตัว Oura Ring 5 และ RingConn Gen 3"
+      "category": "ev",
+      "title_en": "The Cybercab is Tesla’s ‘fork in the road’ moment",
+      "summary_en": "The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-austin-giga-getty.jpg?resize=1200,805",
+      "link": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
+      "published": "Thu, 03 Sep 2026 19:42:48 +0000",
+      "title_th": "Cybercab คือช่วงเวลา 'ทางแยก' ของ Tesla",
+      "summary_th": "บริษัทกำลังจะเปิดตัวรถยนต์สองที่นั่งสีทองอย่างเป็นทางการ โดยไม่มีพวงมาลัยหรือคันเหยียบ การเคลื่อนไหวที่อาจเปลี่ยนเทสลาไปตลอดกาล"
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-      "summary_en": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847",
-      "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-      "published": "Thu, 03 Sep 2026 16:09:01 +0000",
-      "title_th": "Ollie เดิมพันว่าการมุ่งเน้นไปที่ความเป็นส่วนตัวสามารถช่วยให้ชนะการแข่งขันผู้ช่วย AI ได้",
-      "summary_th": "ผู้ช่วย AI ที่เน้นครอบครัวต้องการเข้าถึงรายละเอียดในชีวิตประจำวันของคุณ แต่บอกว่าจะไม่ใช้ข้อมูลนั้นเพื่อฝึกโมเดล AI หรือแชร์กับผู้อื่น"
+      "title_en": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "summary_en": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Mira-Murati-at-Bloomberg.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "published": "Thu, 03 Sep 2026 19:36:29 +0000",
+      "title_th": "มีรายงานว่า Accel กำลังเจรจาเพื่อเป็นผู้นำรอบ 1 พันล้านดอลลาร์สำหรับ Thinking Machines ที่การประเมินมูลค่า 40 พันล้านดอลลาร์",
+      "summary_th": "อัตรารายได้ต่อปีของสตาร์ทอัพชื่อดังรายนี้อยู่ที่มากกว่า 100 ล้านดอลลาร์"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "gadget",
-      "title_en": "Google launches AI voice features in Gmail, Docs, and Keep",
-      "summary_en": "Users can search for emails or draft documents using the new conversational feature.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Gmail-Live-Docs-Live-Keep-Live.jpeg?resize=1200,675",
-      "link": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
-      "published": "Thu, 03 Sep 2026 16:00:00 +0000",
-      "title_th": "Google เปิดตัวฟีเจอร์เสียง AI ใน Gmail, Docs และ Keep",
-      "summary_th": "ผู้ใช้สามารถค้นหาอีเมลหรือเอกสารร่างโดยใช้คุณลักษณะการสนทนาใหม่"
+      "category": "software",
+      "title_en": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
+      "summary_en": "Does your power bank have \"CryoPulse technology\" or a \"Cyber Window\"? If you disappointingly answered \"no\" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power Bank. It's available starting today for $149.99, which puts it on the really expensive end of power banks with only a 10,000mAh battery, but […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ugreen1.jpg?quality=90&strip=all&crop=0%2C10.776325370133%2C100%2C78.447349259734&w=1200",
+      "link": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
+      "published": "2026-09-03T18:00:00-04:00",
+      "title_th": "คุณสามารถดูการไหลของน้ำหล่อเย็นภายในพาวเวอร์แบงค์ระบายความร้อนด้วยของเหลวของ Ugreen",
+      "summary_th": "พาวเวอร์แบงค์ของคุณมี \"เทคโนโลยี CryoPulse\" หรือ \"Cyber ​​Window\" หรือไม่? หากคุณตอบว่า \"ไม่\" ทั้งคู่อย่างน่าผิดหวัง คุณอาจต้องการพิจารณาอัปเกรดเป็น MagFlow Pro Magnetic Power Bank ใหม่ของ Ugreen เริ่มวางจำหน่ายตั้งแต่วันนี้ในราคา 149.99 ดอลลาร์ ซึ่งถือเป็นพาวเวอร์แบงค์ราคาแพงจริงๆ ที่มีแบตเตอรี่เพียง 10,000mAh เท่านั้น แต่ […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Dungeons & Dragons is getting a ‘Ravenloft’ live-action Netflix series",
+      "summary_en": "A Ravenloft series is currently in development from executive producer Alfonso Cuarón, writer and executive producer John August, and Hasbro Entertainment, Deadline reports. It could bring to life one of Dungeons & Dragons' most iconic campaign settings, which got an update earlier this year with Ravenloft: The Horrors Within. Netflix's Ravenloft series will reportedly center […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ravenloft-horrors-within-cover-strahd.jpg?quality=90&strip=all&crop=0%2C1.3544436718296%2C100%2C93.077370564282&w=1200",
+      "link": "https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix",
+      "published": "2026-09-03T16:48:05-04:00",
+      "title_th": "Dungeons & Dragons กำลังสร้างซีรีส์ Netflix ฉบับคนแสดงเรื่อง Ravenloft",
+      "summary_th": "ซีรีส์ Ravenloft กำลังอยู่ระหว่างการพัฒนาโดยผู้อำนวยการสร้างบริหาร Alfonso Cuarón, นักเขียนและผู้อำนวยการสร้าง John August และ Hasbro Entertainment, รายงานกำหนดเส้นตาย มันสามารถทำให้หนึ่งในฉากแคมเปญที่โดดเด่นที่สุดของ Dungeons & Dragons มีชีวิตขึ้นมา ซึ่งได้รับการอัปเดตเมื่อต้นปีนี้ด้วย Ravenloft: The Horrors Within มีรายงานว่าซีรีส์ Ravenloft ของ Netflix จะเป็นศูนย์กลาง […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Congressman says TikTok backed out of a meeting to avoid child safety questions",
+      "summary_en": "TikTok backed out of a congressional committee's \"public roundtable\" set for this month over concerns it would be asked about child safety practices, the chair of the committee said. After negotiating \"in good faith\" to bring TikTok's chief security officer before the House Select Committee on China to answer questions about Chinese government access to […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK051_TIKTOKBAN2_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "link": "https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety",
+      "published": "2026-09-03T14:37:57-04:00",
+      "title_th": "สมาชิกสภาผู้แทนราษฎรกล่าวว่า TikTok ถอยออกจากการประชุมเพื่อหลีกเลี่ยงคำถามเกี่ยวกับความปลอดภัยของเด็ก",
+      "summary_th": "TikTok ถอยออกจาก \"โต๊ะกลมสาธารณะ\" ของคณะกรรมการรัฐสภาที่กำหนดไว้สำหรับเดือนนี้ เนื่องจากมีข้อกังวลว่าจะมีการถามเกี่ยวกับหลักปฏิบัติด้านความปลอดภัยของเด็ก ประธานคณะกรรมการกล่าว หลังเจรจา “โดยสุจริต” เพื่อนำหัวหน้าเจ้าหน้าที่รักษาความปลอดภัยของ TikTok ขึ้นต่อหน้าคณะกรรมการคัดเลือกสภาผู้แทนราษฎรของจีน เพื่อตอบคำถามเกี่ยวกับการเข้าถึงของรัฐบาลจีน […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Samsung’s beloved Q Series sound system is hundreds off for Labor Day",
+      "summary_en": "Researching, buying, then finally assembling a sound system for your TV is daunting, but it doesn’t have to be. If you want one of the best kits you can get at a rare discount, Best Buy and Amazon are selling the Samsung Q990F Soundbar for $999.99. It normally retails between $1,300 and $1,600. This bundle […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Samsung-Q990F-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale",
+      "published": "2026-09-03T14:14:07-04:00",
+      "title_th": "ระบบเสียง Q Series อันเป็นที่รักของ Samsung ลดราคาหลายร้อยรายการในวันแรงงาน",
+      "summary_th": "การค้นคว้า ซื้อ และการประกอบระบบเสียงสำหรับทีวีในท้ายที่สุดนั้นเป็นเรื่องที่ยุ่งยาก แต่ก็ไม่จำเป็นต้องเป็นเช่นนั้น หากคุณต้องการชุดอุปกรณ์ที่ดีที่สุด คุณจะได้รับส่วนลดหายาก Best Buy และ Amazon ขาย Samsung Q990F Soundbar ในราคา 999.99 ดอลลาร์ โดยปกติจะขายปลีกระหว่าง 1,300 ถึง 1,600 เหรียญสหรัฐ ชุดนี้ […]"
     },
     {
       "source": "The Verge",
@@ -68,59 +116,11 @@
       "category": "software",
       "title_en": "OpenAI’s next big AI model has ‘entered the AGI era’",
       "summary_en": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKP221_GREG_BROCKMAN.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS522_AGI_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
       "published": "2026-09-03T14:00:00-04:00",
       "title_th": "โมเดล AI ขนาดใหญ่ถัดไปของ OpenAI ได้ 'เข้าสู่ยุค AGI' แล้ว",
       "summary_th": "รุ่นใหญ่ถัดไปของ OpenAI อยู่ที่นี่: GPT-6 Astra บริษัทเรียกสิ่งนี้ว่า \"ความสามารถแบบก้าวกระโดดในยุค\" สำหรับด้านต่างๆ เช่น ความปลอดภัยทางไซเบอร์ งานวิชาชีพ วิศวกรรมซอฟต์แวร์ วิทยาศาสตร์ และการใช้คอมพิวเตอร์ ตามที่ OpenAI ประกาศเมื่อต้นสัปดาห์นี้ มันก็ยังเป็นโมเดลแรกที่ได้รับมอบหมายให้เป็นไปตาม \"เกณฑ์ความสามารถด้านความปลอดภัยทางไซเบอร์ที่สำคัญ\" ของ OpenAI - แต่บริษัทสัญญาว่าจะไม่ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers",
-      "summary_en": "Microsoft is announcing some major changes to Xbox Cloud Gaming today, less than a year after opening up cloud gaming to its Xbox Game Pass Premium and Essential tiers. While all Game Pass plans have included unlimited cloud gaming over the past year, from November this will be limited to just 15 hours on Ultimate, […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-      "link": "https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes",
-      "published": "2026-09-03T13:00:00-04:00",
-      "title_th": "Microsoft หั่น Xbox Cloud Gaming เหลือเพียง 15 ชั่วโมงต่อเดือนสำหรับสมาชิก Ultimate",
-      "summary_th": "Microsoft กำลังประกาศการเปลี่ยนแปลงที่สำคัญบางอย่างกับ Xbox Cloud Gaming วันนี้ น้อยกว่าหนึ่งปีหลังจากเปิดเกมบนคลาวด์ในระดับ Xbox Game Pass Premium และ Essential แม้ว่าแผน Game Pass ทั้งหมดจะรวมการเล่นเกมบนคลาวด์แบบไม่จำกัดในปีที่ผ่านมา แต่ตั้งแต่เดือนพฤศจิกายนเป็นต้นไป แผน Ultimate จะถูกจำกัดไว้ที่ 15 ชั่วโมงเท่านั้น […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option",
-      "summary_en": "Microsoft says it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The change to a pay-as-you-go model is part of some sweeping changes to Xbox Cloud Gaming today, and is designed for people who don't use cloud access enough to warrant a monthly subscription. \"Players […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/xboxmobile.jpg?quality=90&strip=all&crop=0,3.4801106327551,100,93.03977873449",
-      "link": "https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option",
-      "published": "2026-09-03T13:00:00-04:00",
-      "title_th": "Microsoft เปิด Xbox Cloud Gaming ด้วยตัวเลือกการจ่ายตามการใช้งานใหม่",
-      "summary_th": "Microsoft กล่าวว่าจะอนุญาตให้ทุกคนเข้าถึง Xbox Cloud Gaming ได้ในเดือนพฤศจิกายน โดยไม่จำเป็นต้องสมัครรับ Xbox Game Pass การเปลี่ยนแปลงเป็นรูปแบบการจ่ายตามการใช้งานเป็นส่วนหนึ่งของการเปลี่ยนแปลงครั้งใหญ่ของ Xbox Cloud Gaming ในปัจจุบัน และได้รับการออกแบบมาสำหรับผู้ที่ไม่ได้ใช้การเข้าถึงระบบคลาวด์เพียงพอที่จะรับประกันการสมัครสมาชิกรายเดือน “ผู้เล่น […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "I held the first truly bezel-free phone",
-      "summary_en": "Cast your mind back a decade or so, and smartphone makers were obsessed with shrinking the bezel on phones. Screens got bigger, the black bars around them got smaller, and for a while it looked like truly edge-to-edge displays were imminent. Then, progress just stopped. The bezel shrunk down until it was a millimeter or […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/tecno-bezelless-concept-01.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-      "link": "https://www.theverge.com/tech/985009/tecno-bezelless-concept-phone-ifa",
-      "published": "2026-09-03T12:00:00-04:00",
-      "title_th": "ฉันถือโทรศัพท์ไร้ขอบเครื่องแรกจริงๆ",
-      "summary_th": "ย้อนกลับไปประมาณหนึ่งทศวรรษหรือมากกว่านั้น และผู้ผลิตสมาร์ทโฟนต่างก็หมกมุ่นอยู่กับการลดขนาดขอบของโทรศัพท์ หน้าจอใหญ่ขึ้น แถบสีดำรอบๆ ก็เล็กลง และสักพักหนึ่งดูเหมือนว่าจอแสดงผลแบบขอบจรดขอบใกล้เข้ามาแล้ว จากนั้นความคืบหน้าก็หยุดลง ขอบหน้าปัดหดลงจนเหลือเป็นมิลลิเมตรหรือ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Circular’s new smart rings add contactless payments and vibrating alerts",
-      "summary_en": "Circular announced its new Ring 3 Series today as a follow-up to the Ring 2 that debuted at CES 2025 with upgraded sensors and FDA-cleared atrial fibrillation detection. The new Ring 3 collection consists of both a Pro model that carries forward those same health-tracking features, and a smaller Slim option that offers more limited […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/circular1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts",
-      "published": "2026-09-03T12:00:00-04:00",
-      "title_th": "วงแหวนอัจฉริยะใหม่ของ Circular เพิ่มการชำระเงินแบบไร้สัมผัสและการแจ้งเตือนแบบสั่น",
-      "summary_th": "Circular ประกาศเปิดตัว Ring 3 Series ใหม่ในวันนี้ ซึ่งเป็นภาคต่อจาก Ring 2 ที่เปิดตัวในงาน CES 2025 พร้อมเซ็นเซอร์ที่ได้รับการอัปเกรดและการตรวจจับภาวะหัวใจห้องบนที่ผ่านการรับรองโดย FDA คอลเลกชัน Ring 3 ใหม่ประกอบด้วยทั้งรุ่น Pro ที่มีคุณสมบัติการติดตามสุขภาพแบบเดียวกัน และตัวเลือก Slim ที่เล็กกว่าซึ่งมีข้อจำกัดมากกว่า […]"
     },
     {
       "source": "Ars Technica",
@@ -180,7 +180,55 @@
       "link": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
       "published": "Fri, 28 Aug 2026 11:15:05 +0000",
       "title_th": "เจ้าหน้าที่จับกุม 2 สมาชิกกลุ่มแฮ็ก TeamPCP ที่มีผลงานมากมาย",
-      "summary_th": "กลุ่มดังกล่าวแพร่ระบาดไปยังองค์กรมากกว่า 1,000 แห่งในแคมเปญโจมตีห่วงโซ่อุปทานอย่างไม่หยุดยั้ง"
+      "summary_th": "กลุ่มนี้แพร่เชื้อไปยังองค์กรมากกว่า 1,000 แห่งในแคมเปญโจมตีห่วงโซ่อุปทานอย่างไม่หยุดยั้ง"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient",
+      "summary_en": "Gene-edited pig kidneys could offer a lifeline to patients stuck waiting for a human donor.",
+      "image": "https://media.wired.com/photos/6a99964bab64da8be39c7ad7/master/pass/20250125_kaf_transplant_001_srgb.jpg",
+      "link": "https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/",
+      "published": "Thu, 03 Sep 2026 22:30:00 +0000",
+      "title_th": "ไตหมูที่ปลูกถ่ายยังคงทำงานได้หลังจากบันทึกสถิติไว้ 9 เดือนในผู้ป่วย",
+      "summary_th": "ไตหมูที่ผ่านการตัดต่อยีนสามารถช่วยชีวิตผู้ป่วยที่รอผู้บริจาคได้"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+      "summary_en": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
+      "image": "https://media.wired.com/photos/6a99e16fbf4e66136bddbc74/master/pass/Security_AWaveofOutagesHitsLeadingAIChatbots_v1-ezgif.com-video-to-gif-converter%20(2).gif",
+      "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "published": "Thu, 03 Sep 2026 21:56:21 +0000",
+      "title_th": "ไม่มีใครบอกว่าเหตุใด OpenAI และ Anthropic จึงหยุดทำงานในวันนี้",
+      "summary_th": "ChatGPT, Claude และ Grok ต่างประสบปัญหาขัดข้องในเวลาเดียวกันด้วยเหตุผลที่ยังไม่ชัดเจน"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Prediction Market Betting Is Getting People Banned and Arrested",
+      "summary_en": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
+      "image": "https://media.wired.com/photos/6a98be202f048bd98be06316/master/pass/Uncanny-Valley-George-Santos-Politics-2211292507.jpg",
+      "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+      "published": "Thu, 03 Sep 2026 21:48:24 +0000",
+      "title_th": "การเดิมพันแบบทำนายตลาดทำให้ผู้คนถูกแบนและจับกุม",
+      "summary_th": "สัปดาห์นี้ที่ Uncanny Valley เราเจาะลึกตลาดการทำนายล่าสุด เครื่องมือค้นหาตำรวจที่ขับเคลื่อนด้วย AI ของ Flock และวิธีที่พี่น้องเทคโนโลยีไม่รู้ว่าจะพูดคุยเกี่ยวกับตัวแทน AI “สีแดง” ได้อย่างไร"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
+      "summary_en": "OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
+      "image": "https://media.wired.com/photos/6a99abf8b2409d6188eae980/master/pass/GPT-6-Can-Use-Computer-Better-Than-Human-Business-1015939026.jpg",
+      "link": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
+      "published": "Thu, 03 Sep 2026 18:06:24 +0000",
+      "title_th": "GPT-6 Astra มาถึงแล้ว และ OpenAI คิดว่าอาจเป็นการเริ่มต้นยุค AGI",
+      "summary_th": "ผู้นำ OpenAI คิดว่าโมเดลเจเนอเรชั่นถัดไปของบริษัท ซึ่งมีความเป็นเลิศในการใช้คอมพิวเตอร์และการเขียนโค้ด อาจเป็นก้าวสำคัญในการพัฒนา AI"
     },
     {
       "source": "Wired",
@@ -193,54 +241,6 @@
       "published": "Thu, 03 Sep 2026 16:42:40 +0000",
       "title_th": "OpenAI ตัดลูกค้านับพันล้านดอลลาร์เพื่อหลีกเลี่ยง Elon Musk",
       "summary_th": "เมื่อเร็ว ๆ นี้ OpenAI คาดการณ์ว่าความร่วมมือของ Cursor จะสร้างรายได้มากกว่า 1 พันล้านดอลลาร์ต่อปี WIRED ได้เรียนรู้ มันยังคงเดินจากไปหลังจากที่ SpaceX ของ Elon Musk เข้าซื้อกิจการสตาร์ทอัพการเข้ารหัส AI"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Lenovo’s Project AeroBlade Fanless Laptop Takes Thin and Light to the Extreme",
-      "summary_en": "Using Frore’s air-cooling technology, Lenovo’s Project AeroBlade Concept is an ultralightweight laptop with efficient heat management.",
-      "image": "https://media.wired.com/photos/6a9976cfd5c3390915dc9f8d/master/pass/comerce%20.jpg",
-      "link": "https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/",
-      "published": "Thu, 03 Sep 2026 16:00:00 +0000",
-      "title_th": "แล็ปท็อป Project AeroBlade Fanless ของ Lenovo นำความบางและเบาไปสู่ขีดสุด",
-      "summary_th": "Project AeroBlade Concept ของ Lenovo ใช้เทคโนโลยีระบายความร้อนด้วยอากาศของ Frore เป็นแล็ปท็อปน้ำหนักเบาพิเศษพร้อมการจัดการความร้อนที่มีประสิทธิภาพ"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
-      "summary_en": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer.",
-      "image": "https://media.wired.com/photos/6a988e1369e7125a8c650442/master/pass/We-Just-Got-Our-First-Real-Look-at-AI-PCs-with-Nvidia%E2%80%99s-RTX-Spark-%E2%80%98Superchip%E2%80%99.jpg",
-      "link": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
-      "published": "Thu, 03 Sep 2026 13:00:00 +0000",
-      "title_th": "Nvidia RTX Spark 'Superchip': พีซี AI เครื่องแรกอยู่ที่นี่",
-      "summary_th": "ที่งาน IFA 2026 ทาง Nvidia และพันธมิตรได้จัดแสดงแล็ปท็อปและมินิพีซีที่ขับเคลื่อนด้วย RTX Spark รุ่นแรก ซึ่งออกแบบมาเพื่อใช้งานโมเดล AI บนคอมพิวเตอร์ของคุณโดยตรง"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-      "summary_en": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets.",
-      "image": "https://media.wired.com/photos/6a906df0a8a32784cdb5c100/master/pass/Nvidia-Throws-Major-Weight-Behind-Open-Weights-Business-2286326275.jpg",
-      "link": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
-      "published": "Thu, 03 Sep 2026 12:43:09 +0000",
-      "title_th": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-      "summary_th": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Scientists Have Found the Most Convincing Evidence Yet of a Dark Matter Particle",
-      "summary_en": "An underground detector recorded a strange interaction pointing to a particle with some properties that signify dark matter. The detection is small but promising.",
-      "image": "https://media.wired.com/photos/6a98924a0e116056ac219f35/master/pass/932730082",
-      "link": "https://www.wired.com/story/scientists-find-most-convincing-evidence-yet-dark-matter-particle/",
-      "published": "Thu, 03 Sep 2026 11:30:00 +0000",
-      "title_th": "นักวิทยาศาสตร์พบหลักฐานที่น่าเชื่อถือที่สุดเกี่ยวกับอนุภาคสสารมืด",
-      "summary_th": "เครื่องตรวจจับใต้ดินบันทึกปฏิสัมพันธ์แปลกๆ ที่ชี้ไปที่อนุภาคซึ่งมีคุณสมบัติบางอย่างที่บ่งบอกถึงสสารมืด การตรวจจับมีขนาดเล็กแต่มีแนวโน้มดี"
     },
     {
       "source": "MIT Technology Review",
@@ -276,7 +276,7 @@
       "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
       "published": "Wed, 02 Sep 2026 14:00:00 +0000",
       "title_th": "อำนวยความสะดวกในการบูรณาการ AI ด้วยความเรียบง่ายในวงกว้าง",
-      "summary_th": "เมื่อบริษัทขยายใหญ่ขึ้น การดำเนินการสนับสนุนเทคโนโลยีอาจกลายเป็นหนี้สินได้อย่างรวดเร็วพอๆ กับที่จะกลายเป็นสินทรัพย์ ระบบที่ขาดการเชื่อมต่อ เครื่องมือเฉพาะไซต์ สเปรดชีต และวิธีแก้ปัญหาด้วยตนเอง สามารถสร้างไซโลข้อมูลที่ทำให้ตรวจพบปัญหาตั้งแต่เนิ่นๆ ได้ยากขึ้น ประสานการตอบสนอง และตัดสินใจได้อย่างมั่นใจ สำหรับ Jabil บริษัทผู้ผลิตระดับโลกที่มีมากกว่า..."
+      "summary_th": "เมื่อบริษัทขยายใหญ่ขึ้น การดำเนินการสนับสนุนด้านเทคโนโลยีอาจกลายเป็นหนี้สินได้อย่างรวดเร็วพอๆ กับที่จะกลายเป็นสินทรัพย์ ระบบที่ขาดการเชื่อมต่อ เครื่องมือเฉพาะไซต์ สเปรดชีต และวิธีแก้ปัญหาด้วยตนเอง สามารถสร้างไซโลข้อมูลที่ทำให้ตรวจพบปัญหาตั้งแต่เนิ่นๆ ได้ยากขึ้น ประสานการตอบสนอง และตัดสินใจได้อย่างมั่นใจ สำหรับ Jabil บริษัทผู้ผลิตระดับโลกที่มีมากกว่า..."
     },
     {
       "source": "MIT Technology Review",
@@ -306,61 +306,61 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Pre-orders for Sony's GTA 6-themed DualSense controllers will open on September 10",
-      "summary_en": "At $85, the hardware only costs a little bit more than the game.",
-      "image": "https://www.engadget.com/img/gallery/pre-orders-for-sonys-gta-6-themed-dualsense-controllers-will-open-on-september-10/l-intro-1788457849.jpg",
-      "link": "https://www.engadget.com/2250549/pre-orders-for-sony-gta-6-dualsense-controllers-open-on-september-10/",
-      "published": "Thu, 03 Sep 2026 18:01:05 +0000",
-      "title_th": "การสั่งซื้อล่วงหน้าสำหรับคอนโทรลเลอร์ DualSense ธีม GTA 6 ของ Sony จะเปิดในวันที่ 10 กันยายน",
-      "summary_th": "ราคาฮาร์ดแวร์อยู่ที่ 85 เหรียญสหรัฐฯ แพงกว่าเกมเพียงเล็กน้อยเท่านั้น"
+      "title_en": "Netflix has ordered a live-action adaptation of D&D's Ravenloft",
+      "summary_en": "Alfonso Cuarón will executive produce the dark fantasy vampire story based on the popular D&D campaign setting.",
+      "image": "https://www.engadget.com/img/gallery/netflix-has-ordered-a-live-action-adaptation-of-dds-ravenloft/l-intro-1788474684.jpg",
+      "link": "https://www.engadget.com/2250806/netflix-has-ordered-live-action-adaptation-of-dnd-ravenloft/",
+      "published": "Thu, 03 Sep 2026 22:35:24 +0000",
+      "title_th": "Netflix ได้สั่งให้ Ravenloft ของ D&D ดัดแปลงเป็นฉบับคนแสดง",
+      "summary_th": "อัลฟองโซ คัวรอนจะอำนวยการสร้างเรื่องราวแวมไพร์ดาร์กแฟนตาซีโดยอิงจากฉากแคมเปญ D&D ที่ได้รับความนิยม"
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Anthropic automatically signs out Claude users to protect them from hackers",
-      "summary_en": "Infostealer malware apparently had harvested active Claude login sessions from users' PCs.",
-      "image": "https://www.engadget.com/img/gallery/anthropic-automatically-signs-out-claude-users-to-protect-them-from-hackers/l-intro-1788452640.jpg",
-      "link": "https://www.engadget.com/2250467/claude-automatic-sign-out-hackers-explained/",
-      "published": "Thu, 03 Sep 2026 16:39:18 +0000",
-      "title_th": "Anthropic ออกจากระบบผู้ใช้ Claude โดยอัตโนมัติเพื่อปกป้องพวกเขาจากแฮกเกอร์",
-      "summary_th": "เห็นได้ชัดว่ามัลแวร์ Infostealer ได้รวบรวมข้อมูลเซสชันการเข้าสู่ระบบของ Claude จากพีซีของผู้ใช้"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Until Dawn 2 launches January 28",
-      "summary_en": "The interactive slasher Until Dawn 2 takes place on a tropical island and stars 'Stranger Things' actor Dacre Montgomery.",
-      "image": "https://www.engadget.com/img/gallery/until-dawn-2-launches-january-28/l-intro-1788451257.jpg",
-      "link": "https://www.engadget.com/2250420/until-dawn-2-launches-january-28/",
-      "published": "Thu, 03 Sep 2026 16:02:07 +0000",
-      "title_th": "Until Dawn 2 เปิดตัววันที่ 28 มกราคม",
-      "summary_th": "เกมสแลชเชอร์แบบอินเทอร์แอคทีฟเรื่อง Until Dawn 2 เกิดขึ้นบนเกาะเขตร้อนและมีนักแสดงจาก 'Stranger Things' ดาเคอร์ มอนต์โกเมอรี่"
+      "title_en": "Ugreen's new smart home ecosystem is built around local AI hubs",
+      "summary_en": "Ugreen has three new hubs that run your smart home with local AI rather than the cloud. The top model runs on Nvidia's Jetson Thor platform and costs $20,000.",
+      "image": "https://www.engadget.com/img/gallery/ugreens-new-smart-home-ecosystem-is-built-around-local-ai-hubs/l-intro-1788468967.jpg",
+      "link": "https://www.engadget.com/2250749/ugreen-smart-home-ecosystem-built-around-local-ai-hubs/",
+      "published": "Thu, 03 Sep 2026 22:00:00 +0000",
+      "title_th": "ระบบนิเวศบ้านอัจฉริยะใหม่ของ Ugreen สร้างขึ้นโดยมีศูนย์กลาง AI ในท้องถิ่น",
+      "summary_th": "Ugreen มีฮับใหม่สามแห่งที่ขับเคลื่อนบ้านอัจฉริยะของคุณด้วย AI ในพื้นที่แทนที่จะเป็นระบบคลาวด์ รุ่นท็อปทำงานบนแพลตฟอร์ม Jetson Thor ของ Nvidia และราคา 20,000 ดอลลาร์"
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Google rolls out AI-powered voice capabilities for Gmail, Docs and Keep",
-      "summary_en": "Google makes its suite of voice tools available for Gmail, Docs and Live - at least if you're a paying customer.",
-      "image": "https://www.engadget.com/img/gallery/google-rolls-out-ai-powered-voice-capabilities-for-gmail-docs-and-keep/l-intro-1788434756.jpg",
-      "link": "https://www.engadget.com/2250178/google-rolls-out-ai-voice-gmail-docs-keep/",
-      "published": "Thu, 03 Sep 2026 16:00:00 +0000",
-      "title_th": "Google เปิดตัวความสามารถด้านเสียงที่ขับเคลื่อนด้วย AI สำหรับ Gmail, Docs และ Keep",
-      "summary_th": "Google ทำให้ชุดเครื่องมือเสียงพร้อมใช้งานสำหรับ Gmail, Docs และ Live - อย่างน้อยก็ถ้าคุณเป็นลูกค้าที่จ่ายเงิน"
+      "title_en": "SpaceXAI apologizes for outage that affected Grok and other 'compute partners'",
+      "summary_en": "Several AI companies experienced issues at around the same time.",
+      "image": "https://www.engadget.com/img/gallery/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners/l-intro-1788472233.jpg",
+      "link": "https://www.engadget.com/2250789/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners/",
+      "published": "Thu, 03 Sep 2026 21:52:34 +0000",
+      "title_th": "SpaceXAI ขออภัยสำหรับการหยุดทำงานที่ส่งผลกระทบต่อ Grok และ 'พันธมิตรด้านคอมพิวเตอร์' อื่น ๆ",
+      "summary_th": "บริษัท AI หลายแห่งประสบปัญหาในเวลาเดียวกัน"
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "NVIDIA's PAIR lets you use idle PCs for AI computing tasks",
-      "summary_en": "NVIDIA's PAIR is a free, open-source tool that can distribute AI workloads across idle computers.",
-      "image": "https://www.engadget.com/img/gallery/nvidias-pair-lets-you-use-idle-pcs-for-ai-computing-tasks/l-intro-1788436911.jpg",
-      "link": "https://www.engadget.com/2250189/nvidia-ifa-2026-pair-distributed-ai-computing-home-network/",
-      "published": "Thu, 03 Sep 2026 16:00:00 +0000",
-      "title_th": "PAIR ของ NVIDIA ช่วยให้คุณใช้พีซีที่ไม่ได้ใช้งานสำหรับงานประมวลผล AI",
-      "summary_th": "PAIR ของ NVIDIA เป็นเครื่องมือโอเพ่นซอร์สฟรีที่สามารถกระจายปริมาณงาน AI ไปยังคอมพิวเตอร์ที่ไม่ได้ใช้งาน"
+      "title_en": "The Apple Vision Pro was used for a successful hip surgery",
+      "summary_en": "Stryker says its SportSuite Vision software for the headset received De Novo authorization from the FDA in July.",
+      "image": "https://www.engadget.com/img/gallery/apple-vision-pro-was-used-for-a-successful-hip-surgery/l-intro-1788469479.jpg",
+      "link": "https://www.engadget.com/2250758/stryker-apple-vision-pro-sportsuite-app-in-hip-arthroscopy/",
+      "published": "Thu, 03 Sep 2026 21:14:11 +0000",
+      "title_th": "Apple Vision Pro ใช้สำหรับการผ่าตัดสะโพกที่ประสบผลสำเร็จ",
+      "summary_th": "Stryker กล่าวว่าซอฟต์แวร์ SportSuite Vision สำหรับชุดหูฟังได้รับการอนุมัติจาก De Novo จาก FDA ในเดือนกรกฎาคม"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Google's new AI weather model uses live satellite data for higher-resolution forecasts",
+      "summary_en": "WeatherNext 3 is also supposed to be much better at predicting precipitation.",
+      "image": "https://www.engadget.com/img/gallery/googles-new-ai-weather-model-uses-live-satellite-data-for-higher-resolution-forecasts/l-intro-1788464884.jpg",
+      "link": "https://www.engadget.com/2250687/googles-new-ai-weather-model-uses-live-satellite-data-for-higher-resolution-forecasts/",
+      "published": "Thu, 03 Sep 2026 19:56:03 +0000",
+      "title_th": "โมเดลสภาพอากาศ AI ใหม่ของ Google ใช้ข้อมูลดาวเทียมสดเพื่อการพยากรณ์ที่มีความละเอียดสูงขึ้น",
+      "summary_th": "WeatherNext 3 ก็ควรจะพยากรณ์ปริมาณฝนได้ดีกว่ามากเช่นกัน"
     },
     {
       "source": "IEEE Spectrum",
@@ -384,7 +384,7 @@
       "link": "https://spectrum.ieee.org/forms-of-engineering-mentorship",
       "published": "Wed, 02 Sep 2026 19:45:58 +0000",
       "title_th": "การใช้รูปแบบการให้คำปรึกษาที่แตกต่างกัน",
-      "summary_th": "บทความนี้คัดลอกมาจากจดหมายข่าวอาชีพของ IEEE Spectrum ลงทะเบียนตอนนี้เพื่อรับเคล็ดลับจากวงใน คำแนะนำจากผู้เชี่ยวชาญ และกลยุทธ์เชิงปฏิบัติ เขียนโดยความร่วมมือกับบริษัทพัฒนาอาชีพด้านเทคโนโลยี Parsity และส่งตรงถึงกล่องจดหมายของคุณฟรี! การขอให้ใครสักคนเป็นที่ปรึกษาของคุณนั้นแปลก เดินเข้าไปหาใครสักคนแล้วถามว่า “คุณจะเป็นที่ปรึกษาให้ผมไหม?” สำหรับฉันดูเหมือนเด็กผู้ใหญ่จะเดินไปหาเด็กอีกคนในงานปาร์ตี้แล้วถามว่า “คุณจะเป็นเพื่อนกับฉันไหม” สิ่งที่คุณถามจริงๆ คือ: “คุณจะสละเวลาโดยไม่ได้รับค่าตอบแทนเพื่อชี้แนะอาชีพของฉันเป็นระยะเวลาไม่มีกำหนดหรือไม่” ใส่ร้ายแบบนั้น แน่นอนว่าบางคนลังเลที่จะตอบตกลง แต่การให้คำปรึกษาอย่างเป็นทางการไม่ใช่วิธีเดียวที่จะได้รับประโยชน์จากภูมิปัญญาของผู้มาก่อน ฉันไม่เคยขอให้ใครให้คำปรึกษาอย่างเป็นทางการ"
+      "summary_th": "บทความนี้คัดลอกมาจากจดหมายข่าวอาชีพของ IEEE Spectrum ลงทะเบียนตอนนี้เพื่อรับเคล็ดลับจากวงใน คำแนะนำจากผู้เชี่ยวชาญ และกลยุทธ์เชิงปฏิบัติ เขียนโดยความร่วมมือกับบริษัทพัฒนาอาชีพด้านเทคโนโลยี Parsity และส่งตรงถึงกล่องจดหมายของคุณฟรี! การขอให้ใครสักคนเป็นที่ปรึกษาของคุณนั้นแปลก เดินเข้าไปหาใครสักคนแล้วถามว่า “คุณจะเป็นที่ปรึกษาให้ผมไหม?” สำหรับฉันดูเหมือนเด็กผู้ใหญ่จะเดินไปหาเด็กอีกคนในงานปาร์ตี้แล้วถามว่า “คุณจะเป็นเพื่อนกับฉันไหม” สิ่งที่คุณถามจริงๆ คือ: “คุณจะสละเวลาโดยไม่ได้รับค่าตอบแทนเพื่อชี้แนะอาชีพของฉันเป็นระยะเวลาไม่มีกำหนดหรือไม่?” ใส่ร้ายแบบนั้น แน่นอนว่าบางคนลังเลที่จะตอบตกลง แต่การให้คำปรึกษาอย่างเป็นทางการไม่ใช่วิธีเดียวที่จะได้รับประโยชน์จากภูมิปัญญาของผู้มาก่อน ฉันไม่เคยขอให้ใครให้คำปรึกษาอย่างเป็นทางการ"
     },
     {
       "source": "IEEE Spectrum",
@@ -408,7 +408,7 @@
       "link": "https://spectrum.ieee.org/ai-engineer-skills",
       "published": "Wed, 02 Sep 2026 13:00:04 +0000",
       "title_th": "ประสิทธิภาพของ AI อาจทำให้เราต้องสูญเสียผู้เชี่ยวชาญรุ่นต่อไป",
-      "summary_th": "เมื่อประมาณหนึ่งทศวรรษที่แล้ว ฉันเป็นผู้นำการออกแบบระบบควบคุมสำหรับระบบควบคุมดิจิทัลเต็มรูปแบบระบบแรกของโลกสำหรับโรงไฟฟ้านิวเคลียร์ในสหรัฐฯ มันเป็นเครื่องจักรที่สวยงามบนกระดาษ ซึ่งได้รับการออกแบบทางวิศวกรรมให้ทำงานด้วยตัวเองในแบบที่เครื่องบินโดยสารสมัยใหม่ทำ โดยมีผู้ปฏิบัติงานคอยดูแลระบบที่ไม่ค่อยจำเป็น และเราตัดสินใจว่าสำหรับผู้สังเกตการณ์ที่คำนึงถึงประสิทธิภาพแล้ว ให้มองย้อนกลับไป: เราจงใจทิ้งขั้นตอนแบบแมนนวลไว้ในลำดับที่ระบบสามารถดำเนินการได้ด้วยตัวเอง เรากำลังแก้ไขปัญหาเฉพาะ ผู้ปฏิบัติงานที่เคยดูแลระบบอัตโนมัติจะค่อยๆ เลิกเป็นผู้ปฏิบัติงาน มือเย็นไปหมด แบบจำลองทางจิตของสิ่งที่ต้นไม้กำลังทำอยู่นั้นไม่ชัดเจน และแล้วถึงวันที่เข็มนาฬิกาอัตโนมัติจะควบคุมกลับ เป็นวันที่แย่ที่สุดเสมอ เนื่องจากระบบอัตโนมัติจะหยุดทำงานเฉพาะเมื่อเกิดความสับสนหรือประสบปัญหาเท่านั้น"
+      "summary_th": "เมื่อประมาณหนึ่งทศวรรษที่แล้ว ฉันเป็นผู้นำการออกแบบระบบควบคุมสำหรับระบบควบคุมดิจิทัลเต็มรูปแบบระบบแรกของโลกสำหรับโรงไฟฟ้านิวเคลียร์ในสหรัฐฯ มันเป็นเครื่องจักรที่สวยงามบนกระดาษ ซึ่งได้รับการออกแบบทางวิศวกรรมให้เดินเองได้ในแบบที่เครื่องบินโดยสารสมัยใหม่ทำ โดยมีผู้ปฏิบัติงานคอยดูแลระบบที่ไม่ค่อยจำเป็น และเราตัดสินใจว่าสำหรับผู้สังเกตการณ์ที่คำนึงถึงประสิทธิภาพแล้ว ให้มองย้อนกลับไป: เราจงใจทิ้งขั้นตอนแบบแมนนวลไว้ในลำดับที่ระบบสามารถดำเนินการได้ด้วยตัวเอง เรากำลังแก้ไขปัญหาเฉพาะ ผู้ปฏิบัติงานที่เคยดูแลระบบอัตโนมัติจะค่อยๆ เลิกเป็นผู้ปฏิบัติงาน มือเย็นไปหมด แบบจำลองทางจิตของสิ่งที่ต้นไม้กำลังทำอยู่นั้นไม่ชัดเจน และแล้วถึงวันที่เข็มนาฬิกาอัตโนมัติจะควบคุมกลับ เป็นวันที่แย่ที่สุดเสมอ เนื่องจากระบบอัตโนมัติจะหยุดทำงานเฉพาะเมื่อเกิดความสับสนหรือประสบปัญหาเท่านั้น"
     },
     {
       "source": "IEEE Spectrum",
@@ -420,187 +420,187 @@
       "link": "https://spectrum.ieee.org/president-ieee-note-september-2026",
       "published": "Tue, 01 Sep 2026 18:00:04 +0000",
       "title_th": "หมายเหตุของประธาน IEEE: เทคโนโลยีเพื่อประโยชน์ทางสังคม",
-      "summary_th": "ทั่วทั้ง IEEE จุดแข็งของเราไม่เพียงแต่อยู่ที่ความเป็นเลิศของแต่ละชุมชนของเราเท่านั้น แต่ยังอยู่ในความสามารถของเราในการนำพวกเขามารวมกันเพื่อแก้ไขปัญหาที่มีร่วมกันซึ่งต้องการการแก้ปัญหาแบบสหวิทยาการ ภารกิจของเราในฐานะองค์กรการกุศลสาธารณะ—เพื่อพัฒนาเทคโนโลยีเพื่อประโยชน์ของมนุษยชาติ—กำลังกลายเป็นผู้สร้างความแตกต่างที่ทรงพลังมากขึ้น มันเป็นมากกว่าการแถลงหลักการ มันเป็นข้อได้เปรียบเชิงกลยุทธ์ เมื่อวิศวกรและนักเทคโนโลยีให้บริการอย่างมีเป้าหมายและเป็นผู้นำด้วยใจ พวกเขาจะเสริมสร้างอนาคตของวิชาชีพของเรา และแสดงให้เห็นว่าเหตุใด IEEE จึงอยู่ในตำแหน่งที่โดดเด่นในการเป็นผู้นำที่จุดบรรจบกันของเทคโนโลยีและผลกระทบทางสังคม IEEE Humanitarian Technologies เป็นกลุ่มโครงการและโครงการริเริ่มที่ได้รับการสนับสนุนจากเครือข่ายอาสาสมัครและผู้เชี่ยวชาญด้านเทคนิคทั่วโลก ซึ่งทำงานร่วมกันเพื่อ"
+      "summary_th": "ทั่วทั้ง IEEE จุดแข็งของเราไม่เพียงแต่อยู่ที่ความเป็นเลิศของแต่ละชุมชนของเราเท่านั้น แต่ยังอยู่ในความสามารถของเราในการนำพวกเขามารวมกันเพื่อแก้ไขปัญหาที่มีร่วมกันซึ่งต้องการการแก้ปัญหาแบบสหวิทยาการ ภารกิจของเราในฐานะการกุศลสาธารณะ—เพื่อพัฒนาเทคโนโลยีเพื่อประโยชน์ของมนุษยชาติ—กำลังกลายเป็นผู้สร้างความแตกต่างที่ทรงพลังมากขึ้น มันเป็นมากกว่าการแถลงหลักการ มันเป็นข้อได้เปรียบเชิงกลยุทธ์ เมื่อวิศวกรและนักเทคโนโลยีให้บริการอย่างมีเป้าหมายและเป็นผู้นำด้วยใจ พวกเขาจะเสริมสร้างอนาคตของวิชาชีพของเรา และแสดงให้เห็นว่าเหตุใด IEEE จึงอยู่ในตำแหน่งที่โดดเด่นในการเป็นผู้นำที่จุดบรรจบกันของเทคโนโลยีและผลกระทบทางสังคม IEEE Humanitarian Technologies เป็นกลุ่มโครงการและโครงการริเริ่มที่ได้รับการสนับสนุนจากเครือข่ายอาสาสมัครและผู้เชี่ยวชาญด้านเทคนิคทั่วโลก ซึ่งทำงานร่วมกันเพื่อ"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple Vision Pro was just used in a first-of-its-kind surgery",
-      "summary_en": "We’ve seen several stories about Apple Vision Pro being used in healthcare settings. This week, Stryker announced the completion of the first surgical procedure using an innovative new app on Vision Pro. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ssv_press-release-hero.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/03/apple-vision-pro-was-just-used-in-a-first-of-its-kind-surgery/",
-      "published": "Thu, 03 Sep 2026 17:59:08 +0000",
-      "title_th": "เพิ่งมีการใช้ Apple Vision Pro ในการผ่าตัดครั้งแรกที่ไม่เหมือนใคร",
-      "summary_th": "เราได้เห็นเรื่องราวมากมายเกี่ยวกับ Apple Vision Pro ที่ใช้ในสถานพยาบาล สัปดาห์นี้ Stryker ได้ประกาศเสร็จสิ้นขั้นตอนการผ่าตัดครั้งแรกโดยใช้แอปนวัตกรรมใหม่บน Vision Pro มากกว่า…"
+      "title_en": "MacBook Neo 2: Here’s everything we know so far",
+      "summary_en": "Apple released the all-new MacBook Neo earlier this year, and it’s been a resounding success by all indications. Here’s everything we know so far about what’s next for Apple’s most affordable laptop … more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-hello-citrus.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/03/macbook-neo-2-features-release-date/",
+      "published": "Thu, 03 Sep 2026 21:00:37 +0000",
+      "title_th": "MacBook Neo 2: นี่คือทุกสิ่งที่เรารู้จนถึงตอนนี้",
+      "summary_th": "Apple เปิดตัว MacBook Neo โฉมใหม่เมื่อต้นปีนี้ และประสบความสำเร็จอย่างล้นหลามจากทุกข้อบ่งชี้ นี่คือทุกสิ่งที่เรารู้จนถึงตอนนี้เกี่ยวกับสิ่งต่อไปสำหรับแล็ปท็อปราคาประหยัดที่สุดของ Apple … เพิ่มเติม..."
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple Watch loses a useful multitasking feature in watchOS 27 that I’ve been missing",
-      "summary_en": "I mentioned today in my Siri AI Apple Watch piece that there’s one change I still hope Apple makes to watchOS 27 before it ships this month. It’s one of those common muscle-memory features that have existed for years, and I’ve been missing it all summer. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ultra-modular-face.webp?resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/03/apple-watch-loses-a-useful-multitasking-feature-in-watchos-27-that-ive-been-missing/",
-      "published": "Thu, 03 Sep 2026 17:44:55 +0000",
-      "title_th": "Apple Watch สูญเสียคุณสมบัติมัลติทาสกิ้งที่มีประโยชน์ใน watchOS 27 ที่ฉันขาดหายไป",
-      "summary_th": "วันนี้ฉันได้กล่าวถึงในชิ้นส่วน Siri AI Apple Watch ของฉันว่ามีการเปลี่ยนแปลงอย่างหนึ่งที่ฉันยังคงหวังว่า Apple จะทำกับ watchOS 27 ก่อนที่จะจัดส่งในเดือนนี้ นี่เป็นหนึ่งในคุณสมบัติความจำของกล้ามเนื้อทั่วไปที่มีอยู่มานานหลายปี และฉันก็พลาดมันไปตลอดฤดูร้อน มากกว่า…"
+      "title_en": "iPhone 18 Pro and Pro Max: Two new display upgrades coming next week",
+      "summary_en": "iPhone 18 Pro and Pro Max will have the same screen sizes as their predecessors, but rumors indicate their displays will be upgraded in two other ways. Here’s what’s coming. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-pro-max-cosmic-orange-fi-2.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/03/iphone-18-pro-new-display-upgrades-are-coming-in-two-ways/",
+      "published": "Thu, 03 Sep 2026 20:29:33 +0000",
+      "title_th": "iPhone 18 Pro และ Pro Max: การอัปเกรดจอแสดงผลใหม่สองรายการในสัปดาห์หน้า",
+      "summary_th": "iPhone 18 Pro และ Pro Max จะมีขนาดหน้าจอเหมือนกับรุ่นก่อน แต่มีข่าวลือว่าจอแสดงผลจะได้รับการอัปเกรดด้วยวิธีอื่นอีกสองวิธี นี่คือสิ่งที่กำลังจะเกิดขึ้น มากกว่า…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple has reportedly canceled innovative product that was ‘Ternus priority’",
-      "summary_en": "A new Omdia research note today outlined Apple’s reported Mac and iPad roadmap for the years ahead, and it also mentioned that a key rumored product has been canceled. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/john-ternus-apple-park.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/03/apple-has-reportedly-canceled-innovative-product-that-was-ternus-priority/",
-      "published": "Thu, 03 Sep 2026 16:24:22 +0000",
-      "title_th": "มีรายงานว่า Apple ได้ยกเลิกผลิตภัณฑ์นวัตกรรมที่เป็น 'ลำดับความสำคัญของ Ternus'",
-      "summary_th": "บันทึกการวิจัยใหม่ของ Omdia ในวันนี้ได้สรุปแผนงาน Mac และ iPad ที่รายงานของ Apple ในอีกหลายปีข้างหน้า และยังกล่าวถึงว่าผลิตภัณฑ์ที่มีข่าวลือสำคัญได้ถูกยกเลิกแล้ว นี่คือรายละเอียด มากกว่า…"
+      "title_en": "John Ternus is now Apple CEO, last-minute iPhone event rumors, Apple TV price increase",
+      "summary_en": "Benjamin and Chance talk about John Ternus’s first week in the job as Apple CEO, and how much Tim Cook will still be involved. Also, it’s the last chance for iPhone event rumors, with details about some health updates for the Apple Watch Series 12 coming to the fore. And there was an Apple TV subscription price hike, for the second time in as many years. And in Happy Hour Plus , on the eve of iPhone 18 Pro, we reflect on our overall positive experiences using the iPhone Air for the entire year. Subscribe at 9to5mac.com/join . Sponsored by Square : Get up to $200 off Square hardware when you sign up at square.com/go/happyhour . Sponsored by Bitwarden : Register for the free, virtual Open Source Security Summit on September 17, featuring cybersecurity leaders David Sanger and Joseph Menn — a",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/03/happy-hour-606/",
+      "published": "Thu, 03 Sep 2026 20:00:29 +0000",
+      "title_th": "John Ternus ตอนนี้เป็น CEO ของ Apple, ข่าวลือเรื่อง iPhone ในนาทีสุดท้าย, ราคา Apple TV เพิ่มขึ้น",
+      "summary_th": "Benjamin และ Chance พูดคุยเกี่ยวกับสัปดาห์แรกของ John Ternus ในตำแหน่ง CEO ของ Apple และ Tim Cook จะยังคงมีส่วนร่วมมากแค่ไหน นอกจากนี้ยังเป็นโอกาสสุดท้ายสำหรับข่าวลือเกี่ยวกับเหตุการณ์ iPhone โดยมีรายละเอียดเกี่ยวกับการอัปเดตด้านสุขภาพสำหรับ Apple Watch Series 12 ที่จะมาถึงข้างหน้า และมีการขึ้นราคาการสมัครสมาชิก Apple TV เป็นครั้งที่สองในรอบหลายปี และใน Happy Hour Plus ก่อนเปิดตัว iPhone 18 Pro เราได้สะท้อนให้เห็นถึงประสบการณ์เชิงบวกโดยรวมของเราในการใช้ iPhone Air ตลอดทั้งปี สมัครสมาชิกที่ 9to5mac.com/join สนับสนุนโดย Square : รับส่วนลดฮาร์ดแวร์ Square สูงสุดถึง $200 เมื่อคุณสมัครที่ square.com/go/happyhour สนับสนุนโดย Bitwarden : ลงทะเบียนเข้าร่วมการประชุมสุดยอด Open Source Security Summit เสมือนจริงฟรีในวันที่ 17 กันยายน โดยมีผู้นำด้านความปลอดภัยทางไซเบอร์ David Sanger และ Joseph Menn —"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Lenovo IdeaPad Vibe is a MacBook Neo competitor starting at $699",
-      "summary_en": "Lenovo is taking on the MacBook Neo with a colorful new laptop – the IdeaPad Vibe. Announced at Lenovo Innovation...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/lenovo-ideapad-vibe-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/03/lenovo-ideapad-vibe-is-a-macbook-neo-competitor-starting-at-699/",
-      "published": "Thu, 03 Sep 2026 16:08:40 +0000",
-      "title_th": "Lenovo IdeaPad Vibe เป็นคู่แข่งของ MacBook Neo ราคาเริ่มต้นที่ 699 ดอลลาร์",
-      "summary_th": "Lenovo เปิดตัว MacBook Neo ด้วยแล็ปท็อปสีสันสดใสรุ่นใหม่ IdeaPad Vibe ประกาศในงาน Lenovo Innovation..."
+      "title_en": "Apple’s Calendar app in iOS 27 has brand new design for key features",
+      "summary_en": "iOS 27 adds a variety of new features for popular apps like Notes , Reminders , and Calendar —and the Calendar app gets some notable design changes too. Here’s what’s new. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-calendar-app-icon-ios-27.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/03/apples-calendar-app-in-ios-27-has-brand-new-design-for-key-features/",
+      "published": "Thu, 03 Sep 2026 19:02:28 +0000",
+      "title_th": "แอพปฏิทินของ Apple ใน iOS 27 มีการออกแบบใหม่ล่าสุดสำหรับคุณสมบัติหลัก",
+      "summary_th": "iOS 27 เพิ่มคุณสมบัติใหม่ๆ มากมายให้กับแอพยอดนิยม เช่น Notes , Reminders และ Calendar และแอพ Calendar ก็มีการเปลี่ยนแปลงการออกแบบที่โดดเด่นเช่นกัน นี่คือสิ่งใหม่ๆ มากกว่า…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple’s big roadmap for new Mac and iPad models revealed: report",
-      "summary_en": "A new report from Omdia offers fresh details on Apple’s roadmap for new MacBook Pro, MacBook Air, and iPad models in the years ahead. Here’s what it says is coming. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/macbook-air-m4-m3.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/03/apples-big-roadmap-for-new-mac-and-ipad-models-revealed-report/",
-      "published": "Thu, 03 Sep 2026 15:49:51 +0000",
-      "title_th": "เผยแผนงานใหญ่ของ Apple สำหรับ Mac และ iPad รุ่นใหม่: รายงาน",
-      "summary_th": "รายงานใหม่จาก Omdia นำเสนอรายละเอียดใหม่เกี่ยวกับแผนงานของ Apple สำหรับ MacBook Pro, MacBook Air และ iPad รุ่นใหม่ๆ ในปีต่อๆ ไป นี่คือสิ่งที่บอกว่ากำลังจะมา มากกว่า…"
+      "title_en": "OpenAI releasing major upgrade to ChatGPT and Codex with GPT-6 Astra, details here",
+      "summary_en": "It’s been just over a year since OpenAI released the first GPT-5 models for ChatGPT. Now it’s time for GPT-6 Astra to upgrade ChatGPT and Codex capabilities. Details below. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/03/openai-releasing-major-upgrade-to-chatgpt-and-codex-with-gpt-6-astra-details-here/",
+      "published": "Thu, 03 Sep 2026 18:48:48 +0000",
+      "title_th": "OpenAI เปิดตัวการอัปเกรดครั้งใหญ่เป็น ChatGPT และ Codex ด้วย GPT-6 Astra รายละเอียดที่นี่",
+      "summary_th": "เป็นเวลากว่าหนึ่งปีแล้วที่ OpenAI เปิดตัว GPT-5 รุ่นแรกสำหรับ ChatGPT ตอนนี้ถึงเวลาที่ GPT-6 Astra จะอัปเกรดความสามารถของ ChatGPT และ Codex รายละเอียดด้านล่าง มากกว่า…"
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Google’s WeatherNext 3 AI model in Search, Gemini has ’50% more accurate precipitation forecasts’",
-      "summary_en": "Google today announced WeatherNext 3 as its “most advanced and accurate global weather AI model,” with immediate benefits for Search and Gemini. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/WeatherNext-3-cover.webp?resize=1200,628",
-      "link": "https://9to5google.com/2026/09/03/google-weathernext-3/",
-      "published": "Thu, 03 Sep 2026 17:47:04 +0000",
-      "title_th": "โมเดล AI WeatherNext 3 ของ Google ในการค้นหา Gemini มี 'การพยากรณ์ปริมาณน้ำฝนที่แม่นยำยิ่งขึ้น 50%'",
-      "summary_th": "วันนี้ Google ประกาศ WeatherNext 3 ว่าเป็น \"โมเดล AI สภาพอากาศทั่วโลกที่ทันสมัยและแม่นยำที่สุด\" พร้อมประโยชน์ทันทีสำหรับการค้นหาและราศีเมถุน มากกว่า…"
+      "title_en": "Ugreen’s ‘HomeAgent’ is a local AI smart home ecosystem for its new line of cameras, more",
+      "summary_en": "Ugreen might be most well-known for its chargers and device accessories, but its recent announcement might push it deeper into the smart home space. The company announced a local AI hub called the “HomeAgent,” alongside Ugreen’s new smart cameras and more. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Ugreen-HomeAgent-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/03/ugreen-announces-homeagent-smart-home-hub/",
+      "published": "Thu, 03 Sep 2026 22:00:00 +0000",
+      "title_th": "'HomeAgent' ของ Ugreen เป็นระบบนิเวศบ้านอัจฉริยะ AI ในพื้นที่สำหรับกล้องแนวใหม่และอีกมากมาย",
+      "summary_th": "Ugreen อาจเป็นที่รู้จักกันดีในเรื่องเครื่องชาร์จและอุปกรณ์เสริม แต่การประกาศล่าสุดอาจผลักดันให้ลึกเข้าไปในพื้นที่บ้านอัจฉริยะ บริษัทได้ประกาศศูนย์กลาง AI ในพื้นที่ที่เรียกว่า \"HomeAgent\" ควบคู่ไปกับกล้องอัจฉริยะตัวใหม่ของ Ugreen และอื่นๆ อีกมากมาย มากกว่า…"
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Lenovo’s new Android tablets get 7 years of updates, flagship chips, and 4K displays",
-      "summary_en": "Alongside new superpowered laptops and a MacBook Neo rival , Lenovo has new flagship Yoga Android tablets launching that don’t hold back. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/lenovo-yoga-tab-gen-2-ifa-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/03/lenovo-yoga-tab-gen-2-release-specs-updates/",
-      "published": "Thu, 03 Sep 2026 16:02:00 +0000",
-      "title_th": "แท็บเล็ต Android ใหม่ของ Lenovo ได้รับการอัปเดต 7 ปี ชิปเรือธง และจอแสดงผล 4K",
-      "summary_th": "นอกเหนือจากแล็ปท็อปพลังพิเศษใหม่และคู่แข่งของ MacBook Neo แล้ว Lenovo ยังมีแท็บเล็ต Yoga Android รุ่นใหม่ที่เปิดตัวอย่างไม่หยุดยั้ง มากกว่า…"
+      "title_en": "Gemini Spark rolling out Google Photos control for automated editing, sharing, & more",
+      "summary_en": "The latest first-party app that Gemini Spark can control is Google Photos. The personal agent can “handle complex, multi-stage workflows” with your library. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/Gemini-Spark.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/03/gemini-spark-google-photos/",
+      "published": "Thu, 03 Sep 2026 21:44:42 +0000",
+      "title_th": "Gemini Spark เปิดตัวการควบคุม Google Photos สำหรับการแก้ไขอัตโนมัติ การแชร์ และอื่นๆ",
+      "summary_th": "แอปบุคคลที่หนึ่งล่าสุดที่ Gemini Spark สามารถควบคุมได้คือ Google Photos ตัวแทนส่วนบุคคลสามารถ “จัดการขั้นตอนการทำงานที่ซับซ้อนและหลายขั้นตอน” ด้วยห้องสมุดของคุณได้ มากกว่า…"
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Lenovo’s first RTX Spark laptops can have up to 128GB of RAM",
-      "summary_en": "IFA 2026 is underway with Lenovo’s Innovation World event seeing the debut of the company’s first RTX Spark laptops as well as a flagship Android tablet and more. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/lenovo-yoga-pro-9n-1-copy.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/03/lenovos-first-rtx-spark-laptops-can-have-up-to-128gb-of-ram/",
-      "published": "Thu, 03 Sep 2026 16:01:00 +0000",
-      "title_th": "Lenovo’s first RTX Spark laptops can have up to 128GB of RAM",
-      "summary_th": "IFA 2026 กำลังดำเนินการกับงาน Innovation World ของ Lenovo โดยเปิดตัวแล็ปท็อป RTX Spark เครื่องแรกของบริษัท รวมถึงแท็บเล็ต Android รุ่นเรือธงและอีกมากมาย มากกว่า…"
+      "title_en": "How to check if Motion Assist has rolled out to your Android 17 phone",
+      "summary_en": "Following the announcement on Tuesday , Google is slowly rolling out Motion Assist to phones running Android 17. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Android-Motion-Assist-cover.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/03/android-motion-assist-rollout/",
+      "published": "Thu, 03 Sep 2026 21:02:00 +0000",
+      "title_th": "วิธีตรวจสอบว่า Motion Assist เปิดตัวในโทรศัพท์ Android 17 ของคุณหรือไม่",
+      "summary_th": "หลังจากประกาศเมื่อวันอังคาร Google จะค่อยๆ เปิดตัว Motion Assist บนโทรศัพท์ที่ใช้ Android 17 เพิ่มเติม..."
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Upgrade paths: Should Pixel 9 owners upgrade to Pixel 11? [Video]",
-      "summary_en": "We’ve seen a lot of people ask if making the jump from the Pixel 9 to a Pixel 11 is even worth it. The answer isn’t totally simple, but we’ll try our best to answer it here. Pixel 11 vs. Pixel 11 Pro: More similar than ever before [Video] more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Entire-Pixel-9-and-Pixel-11-family.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/03/upgrade-paths-should-pixel-9-owners-upgrade-to-pixel-11-video/",
-      "published": "Thu, 03 Sep 2026 16:00:00 +0000",
-      "title_th": "เส้นทางการอัปเกรด: เจ้าของ Pixel 9 ควรอัปเกรดเป็น Pixel 11 หรือไม่ [วิดีโอ]",
-      "summary_th": "เราได้เห็นผู้คนจำนวนมากถามว่าการกระโดดจาก Pixel 9 ไปเป็น Pixel 11 นั้นคุ้มค่าหรือไม่ คำตอบนั้นไม่ใช่เรื่องง่ายเลย แต่เราจะพยายามตอบให้ดีที่สุดที่นี่ Pixel 11 กับ Pixel 11 Pro: คล้ายกันมากขึ้นกว่าเดิม [วิดีโอ] เพิ่มเติม..."
+      "title_en": "OpenAI launches GPT-6 Astra, ‘the world’s most intelligent and aligned model’ that you can’t use just yet",
+      "summary_en": "Following an outage earlier today, OpenAI is launching GPT-6 Astra, it’s latest model which is “the world’s most intelligent.” more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/03/openai-logo-2.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/03/openai-gpt-6-astra-launch/",
+      "published": "Thu, 03 Sep 2026 20:50:00 +0000",
+      "title_th": "OpenAI เปิดตัว GPT-6 Astra ‘โมเดลที่ชาญฉลาดและสอดคล้องกันมากที่สุดในโลก’ ที่คุณยังใช้ไม่ได้",
+      "summary_th": "หลังจากการขัดข้องในวันนี้ OpenAI กำลังเปิดตัว GPT-6 Astra ซึ่งเป็นรุ่นล่าสุดที่ \"ฉลาดที่สุดในโลก\" มากกว่า…"
     },
     {
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Motorola is finally making a new Wear OS watch and it’s not called the Moto 360",
-      "summary_en": "It’s finally happening. Motorola is making a new Wear OS smartwatch, but it’s not a new Moto 360 – this is the Moto Watch Ultra. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/moto-watch-ultra-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/03/moto-watch-ultra-wear-os-smartwatch-motorola/",
-      "published": "Thu, 03 Sep 2026 16:00:00 +0000",
-      "title_th": "ในที่สุด Motorola ก็สร้างนาฬิกา Wear OS รุ่นใหม่ และไม่เรียกว่า Moto 360",
-      "summary_th": "ในที่สุดมันก็เกิดขึ้น Motorola กำลังสร้างสมาร์ทวอทช์ Wear OS ใหม่ แต่ไม่ใช่ Moto 360 ใหม่ – นี่คือ Moto Watch Ultra มากกว่า…"
+      "title_en": "Google Home update fixes alarms, improves media & smart home voice controls",
+      "summary_en": "The latest Google Home update is fixing issues with alarms that some users were experiencing while also improving media and smart home voice controls in Google’s continued effort to address pain points in Gemini for Home. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-9.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/03/google-home-update-fixes-alarms-improves-media-smart-home-voice-controls/",
+      "published": "Thu, 03 Sep 2026 19:35:00 +0000",
+      "title_th": "การอัปเดต Google Home แก้ไขการเตือน ปรับปรุงสื่อและการควบคุมด้วยเสียงในบ้านอัจฉริยะ",
+      "summary_th": "การอัปเดต Google Home ล่าสุดกำลังแก้ไขปัญหาเกี่ยวกับการเตือนที่ผู้ใช้บางคนพบในขณะเดียวกันก็ปรับปรุงสื่อและการควบคุมเสียงในบ้านอัจฉริยะด้วยความพยายามอย่างต่อเนื่องของ Google ในการจัดการกับปัญหาใน Gemini for Home มากกว่า…"
     },
     {
       "source": "Electrek",
       "flag": "",
       "category": "ev",
-      "title_en": "BEVs outsold every powertrain in August, so why is UK trying to roll back targets?",
-      "summary_en": "August sales numbers from the UK show a rosy picture for electric car sales, with BEVs being the most common powertrain and making up 30% of the market, up from 23% a year ago. The number is well ahead of the pace required to meet the UK’s current somewhat-ambitious target of 80% EV sales by 2030… so why is the UK government considering softening that target? more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2025/04/Ford-free-EV-chargers-offer-UK.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/03/bevs-outsold-every-powertrain-in-august-so-why-is-uk-trying-to-roll-back-targets/",
-      "published": "Thu, 03 Sep 2026 18:00:17 +0000",
-      "title_th": "BEV ขายได้มากกว่าระบบส่งกำลังทุกเครื่องในเดือนสิงหาคม แล้วเหตุใดสหราชอาณาจักรจึงพยายามย้อนกลับเป้าหมาย",
-      "summary_th": "ตัวเลขยอดขายในเดือนสิงหาคมจากสหราชอาณาจักรแสดงให้เห็นภาพที่สดใสสำหรับยอดขายรถยนต์ไฟฟ้า โดย BEV เป็นระบบส่งกำลังที่พบมากที่สุดและคิดเป็น 30% ของตลาด เพิ่มขึ้นจาก 23% ในปีที่แล้ว ตัวเลขดังกล่าวอยู่เหนือกว่าก้าวที่จำเป็นเพื่อให้บรรลุเป้าหมายปัจจุบันของสหราชอาณาจักรในการขาย EV 80% ภายในปี 2573 ดังนั้นเหตุใดรัฐบาลสหราชอาณาจักรจึงพิจารณาปรับเป้าหมายดังกล่าวให้อ่อนลง มากกว่า…"
+      "title_en": "IONNA knocks nearly 50% off EV fast charging for Labor Day",
+      "summary_en": "IONNA is giving Labor Day road-trippers a pretty awesome charging deal: From Friday, September 4, through Monday, September 7, charging across its entire network will cost just $0.20 per kWh, plus tax. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/05/BMW-20-discount-EV-charging.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/03/ionna-knocks-nearly-50-off-ev-fast-charging-for-labor-day/",
+      "published": "Thu, 03 Sep 2026 22:06:09 +0000",
+      "title_th": "IONNA ลดราคาการชาร์จ EV อย่างรวดเร็วเกือบ 50% สำหรับวันแรงงาน",
+      "summary_th": "IONNA มอบข้อตกลงการชาร์จที่ยอดเยี่ยมแก่นักเดินทางบนท้องถนนในวันแรงงาน: ตั้งแต่วันศุกร์ที่ 4 กันยายนถึงวันจันทร์ที่ 7 กันยายน การชาร์จทั่วทั้งเครือข่ายจะมีราคาเพียง 0.20 ดอลลาร์ต่อกิโลวัตต์ชั่วโมงรวมภาษี มากกว่า…"
     },
     {
       "source": "Electrek",
       "flag": "",
       "category": "ev",
-      "title_en": "Exclusive Jackery 5,040Wh power station $1,000 off + Labor Day Sale, Segway EVs 50% off, Anker eufy security cameras, more",
-      "summary_en": "Our Thursday Green Deals this week are largely stuffed with power station deals/sales, starting with the exclusive $1,000 savings our readers can get on the 5,040Wh Jackery Explorer 5000 Plus Portable Power Station at a $2,499 2026 low . Right behind that spotlight is Jackery’s full Labor Day Sale lineup with up to 50% savings, including some first-time offers like the expanded 4,096Wh HomePower 2000 Plus V2 bundle at $1,579 . We also have Segway’s Labor Day EV Sale with up to 50% savings starting from $160 , a roundup of Anker eufy security camera Labor Day deals with up to 43% savings starting from $60 , and a 24-hour deal on EcoFlow’s 499Wh RIVER 2 Max Lite (500) Power Station, and more below. As always, you can find the hangover deals from the last three days at the bottom of the page,",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Jackery-Segway-Anker-eufy-EcoFlow-GDs-FI.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/03/exclusive-jackery-5040wh-power-station-labor-day-sale-segway-anker-security-cameras-more/",
-      "published": "Thu, 03 Sep 2026 18:00:00 +0000",
-      "title_th": "Exclusive Jackery 5,040Wh power station $1,000 off + Labor Day Sale, Segway EVs 50% off, Anker eufy security cameras, more",
-      "summary_th": "ข้อเสนอสีเขียววันพฤหัสบดีของเราในสัปดาห์นี้อัดแน่นไปด้วยข้อเสนอ/การขายเกี่ยวกับโรงไฟฟ้าเป็นส่วนใหญ่ โดยเริ่มต้นด้วยการประหยัดพิเศษ 1,000 ดอลลาร์สหรัฐฯ ที่ผู้อ่านของเราจะได้รับจากโรงไฟฟ้าแบบพกพา Jackery Explorer 5000 Plus ขนาด 5,040Wh ในราคาต่ำเพียง 2,499 ดอลลาร์ในปี 2569 เบื้องหลังสปอตไลท์นั้นคือกลุ่มผลิตภัณฑ์ลดราคาวันแรงงานของ Jackery พร้อมส่วนลดสูงสุดถึง 50% รวมถึงข้อเสนอครั้งแรกบางอย่างเช่นชุด HomePower 2000 Plus V2 ที่ขยายเพิ่ม 4,096Wh ในราคา 1,579 ดอลลาร์ นอกจากนี้เรายังมีการขาย EV ในวันแรงงานของ Segway พร้อมส่วนลดสูงสุดถึง 50% เริ่มต้นที่ 160 ดอลลาร์ บทสรุปของกล้องรักษาความปลอดภัย Anker eufy ข้อเสนอวันแรงงานพร้อมส่วนลดสูงสุดถึง 43% เริ่มต้นที่ 60 ดอลลาร์ และข้อตกลง 24 ชั่วโมงสำหรับ 499Wh RIVER 2 Max Lite (500) Power Station ของ EcoFlow และอีกมากมายด้านล่าง และเช่นเคย คุณสามารถค้นหาข้อเสนออาการเมาค้างจากสามวันที่ผ่านมาได้ที่ด้านล่างของหน้า"
+      "title_en": "VW to cut 100k jobs and may stop building EVs at 4 plants",
+      "summary_en": "VW could stop building cars at four German plants as it prepares to cut another 50,000 jobs worldwide – bringing its total planned workforce reduction to around 100,000. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2023/09/Volkswagen-EV-jobs-2.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/03/vw-to-cut-100k-jobs-and-may-stop-building-evs-at-4-plants/",
+      "published": "Thu, 03 Sep 2026 21:18:35 +0000",
+      "title_th": "Volkswagen เตรียมลดพนักงาน 1 แสนคนและอาจหยุดสร้างรถยนต์ไฟฟ้าที่โรงงาน 4 แห่ง",
+      "summary_th": "Volkswagen อาจหยุดสร้างรถยนต์ที่โรงงานในเยอรมนี 4 แห่ง เนื่องจากเตรียมลดพนักงานอีก 50,000 ตำแหน่งทั่วโลก ส่งผลให้ยอดพนักงานตามแผนลดเหลือประมาณ 100,000 คน มากกว่า…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "review",
+      "title_en": "Kia’s bigger PV7 electric van caught in action, making the PV5 seem small",
+      "summary_en": "The PV7 was spotted testing days after Kia previewed the larger electric van for the first time, and it makes the PV5 seem tiny. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Kia-PV7-caught.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/03/kias-bigger-pv7-ev-van-spotted-making-pv5-seem-small/",
+      "published": "Thu, 03 Sep 2026 21:07:12 +0000",
+      "title_th": "รถตู้ไฟฟ้า PV7 ที่ใหญ่กว่าของ Kia ใช้งานได้จริง ทำให้ PV5 ดูเล็ก",
+      "summary_th": "PV7 ถูกพบเห็นในการทดสอบหลายวันหลังจากที่ Kia แสดงตัวอย่างรถตู้ไฟฟ้าขนาดใหญ่เป็นครั้งแรก และทำให้ PV5 ดูเล็กลง มากกว่า…"
     },
     {
       "source": "Electrek",
       "flag": "",
       "category": "ev",
-      "title_en": "Toyota denies it’s delaying the Highlander EV SUV again [Update]",
-      "summary_en": "Toyota is refuting a report claiming that it’s pushing back the launch of its first three-row electric SUV, the Highlander EV, again. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Toyota-Highlander-EV-side.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/03/toyota-denies-delaying-highlander-ev-suv-again/",
-      "published": "Thu, 03 Sep 2026 17:50:21 +0000",
-      "title_th": "โตโยต้าปฏิเสธว่าจะทำให้ Highlander EV SUV ล่าช้าอีกครั้ง [อัพเดต]",
-      "summary_th": "โตโยต้ากำลังปฏิเสธรายงานที่อ้างว่ากำลังผลักดันการเปิดตัวรถเอสยูวีไฟฟ้าสามแถวคันแรกอย่าง Highlander EV อีกครั้ง มากกว่า…"
+      "title_en": "These top-selling EVs are on sale for Labor Day",
+      "summary_en": "The Hyundai IONIQ 5 and Toyota bZ are on sale for Labor Day to clear inventory for the incoming 2027 models. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Hyundai-IONIQ-5-best-EV-2.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/03/top-selling-evs-on-sale-labor-day/",
+      "published": "Thu, 03 Sep 2026 19:42:31 +0000",
+      "title_th": "EV ที่ขายดีที่สุดเหล่านี้ลดราคาในวันแรงงาน",
+      "summary_th": "Hyundai IONIQ 5 และ Toyota bZ ลดราคาเนื่องในวันแรงงาน เพื่อเคลียร์สินค้าคงคลังสำหรับรุ่นปี 2027 ที่จะมาถึง มากกว่า…"
     },
     {
       "source": "Electrek",
       "flag": "",
       "category": "ev",
-      "title_en": "Xiaomi confirms 2027 Europe EV launch with 8 German dealer groups",
-      "summary_en": "Xiaomi Auto confirmed it will start selling electric vehicles in Europe, including Germany, in 2027, and it’s already lining up the dealers to sell them. At IFA Berlin today, the Chinese automaker signed memoranda of understanding with eight of Germany’s largest dealer groups. They’re its first retail partners on the continent. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/04/Xiaomi-SU7-nexr-gen-first-drive-hero.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/03/xiaomi-auto-2027-europe-germany-launch-dealer-groups/",
-      "published": "Thu, 03 Sep 2026 17:24:57 +0000",
-      "title_th": "Xiaomi ยืนยันการเปิดตัว EV ในยุโรปในปี 2027 พร้อมกลุ่มตัวแทนจำหน่ายในเยอรมนี 8 กลุ่ม",
-      "summary_th": "Xiaomi Auto ยืนยันว่าจะเริ่มจำหน่ายรถยนต์ไฟฟ้าในยุโรป รวมถึงเยอรมนี ในปี 2570 และได้รวบรวมตัวแทนจำหน่ายเพื่อจำหน่ายแล้ว วันนี้ที่งาน IFA เบอร์ลิน ผู้ผลิตรถยนต์สัญชาติจีนได้ลงนามในบันทึกความเข้าใจกับกลุ่มตัวแทนจำหน่ายรายใหญ่ที่สุดของเยอรมนี 8 กลุ่ม พวกเขาเป็นพันธมิตรผู้ค้าปลีกรายแรกในทวีป มากกว่า…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "BYD’s latest flagship SUV received over 12,000 orders within 1 day after its launch",
-      "summary_en": "Within 24 hours of going on sale, BYD confirmed that the Sealion 08 secured over 12,000 orders. BYD Sealion 08...",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/BYD-Sealion-08-orders.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/03/byds-latest-flagship-suv-received-over-12000-orders-within-1-day/",
-      "published": "Thu, 03 Sep 2026 16:30:38 +0000",
-      "title_th": "SUV เรือธงรุ่นล่าสุดของ BYD ได้รับคำสั่งซื้อมากกว่า 12,000 คันภายใน 1 วันหลังจากเปิดตัว",
-      "summary_th": "ภายใน 24 ชั่วโมงหลังวางจำหน่าย BYD ยืนยันว่า Sealion 08 ได้รับคำสั่งซื้อมากกว่า 12,000 รายการ บีวายดี ซีเลี่ยน 08..."
+      "title_en": "Equinor just brought its biggest US battery online in Texas",
+      "summary_en": "Equinor’s largest US battery energy storage project to date is now operating in South Texas, adding 100 megawatts (MW) of flexible capacity to the state’s fast-growing power grid. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Citrus-Flatts-Energy-Center-in-Cameron-County-TX.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/03/equinor-just-brought-its-biggest-us-battery-online-in-texas/",
+      "published": "Thu, 03 Sep 2026 18:45:39 +0000",
+      "title_th": "Equinor เพิ่งนำแบตเตอรี่ที่ใหญ่ที่สุดของสหรัฐอเมริกาทางออนไลน์ในเท็กซัส",
+      "summary_th": "โครงการจัดเก็บพลังงานแบตเตอรี่ที่ใหญ่ที่สุดในสหรัฐฯ ของ Equinor จนถึงปัจจุบันกำลังดำเนินการในเท็กซัสตอนใต้ โดยเพิ่มกำลังการผลิตแบบยืดหยุ่นได้ 100 เมกะวัตต์ (MW) ให้กับโครงข่ายไฟฟ้าที่เติบโตอย่างรวดเร็วของรัฐ มากกว่า…"
     }
   ],
   "indices": [
@@ -608,65 +608,65 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 230.04,
-      "change": 5.63,
-      "change_pct": 2.51
+      "price": 228.45,
+      "change": 4.04,
+      "change_pct": 1.8
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 382.45,
-      "change": 25.44,
-      "change_pct": 7.13
+      "price": 376.36,
+      "change": 19.35,
+      "change_pct": 5.42
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 342.7,
-      "change": 5.58,
-      "change_pct": 1.66
+      "price": 342.48,
+      "change": 5.36,
+      "change_pct": 1.59
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 514.64,
-      "change": 17.82,
-      "change_pct": 3.59
+      "price": 510.12,
+      "change": 13.3,
+      "change_pct": 2.68
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 327.3,
-      "change": 2.35,
-      "change_pct": 0.72
+      "price": 328.21,
+      "change": 3.25,
+      "change_pct": 1.0
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 259.33,
-      "change": 4.35,
-      "change_pct": 1.71
+      "price": 258.9,
+      "change": 3.92,
+      "change_pct": 1.54
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 614.88,
-      "change": 22.03,
-      "change_pct": 3.72
+      "price": 610.68,
+      "change": 17.83,
+      "change_pct": 3.01
     },
     {
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 243.0,
+      "change": -3.0,
+      "change_pct": -1.22
     }
   ],
   "reviews": [
@@ -703,6 +703,16 @@
     {
       "channel": "Unbox Therapy",
       "country": "US",
+      "title_en": "A Cost Perspective…",
+      "video_id": "ppH3kW0h_fc",
+      "link": "https://www.youtube.com/shorts/ppH3kW0h_fc",
+      "thumbnail": "https://i1.ytimg.com/vi/ppH3kW0h_fc/hqdefault.jpg",
+      "published": "2026-09-03T21:00:32+00:00",
+      "title_th": "มุมมองด้านต้นทุน..."
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
       "title_en": "LG’s New Budget Laptop...",
       "video_id": "3DVKs1wFoFw",
       "link": "https://www.youtube.com/watch?v=3DVKs1wFoFw",
@@ -719,16 +729,6 @@
       "thumbnail": "https://i1.ytimg.com/vi/TLl027cYgY4/hqdefault.jpg",
       "published": "2026-09-01T15:39:42+00:00",
       "title_th": "โทรศัพท์รุ่นใหม่นี้มีซับวูฟเฟอร์..."
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "Heat Testing Against a Flagship… 🔥",
-      "video_id": "XI_VXoP9C28",
-      "link": "https://www.youtube.com/shorts/XI_VXoP9C28",
-      "thumbnail": "https://i1.ytimg.com/vi/XI_VXoP9C28/hqdefault.jpg",
-      "published": "2026-08-30T17:24:58+00:00",
-      "title_th": "การทดสอบความร้อนกับเรือธง… 🔥"
     },
     {
       "channel": "Beartai",
