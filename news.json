@@ -1,18 +1,30 @@
 {
-  "generated_at": "2026-09-02T22:56:12.408881+00:00",
+  "generated_at": "2026-09-03T01:39:43.307036+00:00",
   "count": 50,
   "articles": [
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
+      "title_en": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "summary_en": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Builders-Stage_ArticleHeader_tc26_V2.png?resize=1200,675",
+      "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "published": "Wed, 02 Sep 2026 23:01:00 +0000",
+      "title_th": "Builders Stage นำเสนอกลยุทธ์เชิงปฏิบัติสำหรับการขยายขนาดสตาร์ทอัพสู่ TechCrunch Disrupt 2026",
+      "summary_th": "Builders Stage กำลังกลับมาสู่ TechCrunch Disrupt โดยนำผู้ก่อตั้ง ผู้ประกอบการสตาร์ทอัพ และนักลงทุนมารวมตัวกันเพื่อสนทนาเชิงปฏิบัติเกี่ยวกับสิ่งที่ต้องใช้ในการสร้างและขยายขนาด"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
       "title_en": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "summary_en": "The acquisition also leaves Sequoia-backed Serval as the de-facto startup leader in AI IT service automation, industry watchers believe.",
+      "summary_en": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
       "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800",
       "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
       "published": "Wed, 02 Sep 2026 22:44:56 +0000",
       "title_th": "Palo Alto Networks จ่ายเงิน 500 ล้านเหรียญสหรัฐสำหรับ Thrive-backed Console แหล่งข่าวกล่าว",
-      "summary_th": "การเข้าซื้อกิจการครั้งนี้ยังทำให้ Serval ที่ได้รับการสนับสนุนจาก Sequoia เป็นผู้นำสตาร์ทอัพด้านบริการ AI IT อัตโนมัติ ผู้สังเกตการณ์ในอุตสาหกรรมเชื่อ"
+      "summary_th": "การเข้าซื้อกิจการครั้งนี้ยังทำให้ Serval ที่ได้รับการสนับสนุนจาก Sequoia เป็นผู้นำสตาร์ทอัพโดยพฤตินัยในด้านบริการ AI IT อัตโนมัติ ผู้สังเกตการณ์ในอุตสาหกรรมเชื่อ"
     },
     {
       "source": "TechCrunch",
@@ -23,7 +35,7 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200",
       "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
       "published": "Wed, 02 Sep 2026 22:24:09 +0000",
-      "title_th": "TechCrunch Disrupt 2026 Real World AI Stage นำเสนอ Nvidia หุ่นยนต์ และสัตว์สูญพันธุ์",
+      "title_th": "TechCrunch Disrupt 2026 Real World AI Stage นำเสนอ Nvidia หุ่นยนต์และสัตว์สูญพันธุ์",
       "summary_th": "บนเวที Real World AI ใหม่ของเรา เราจะมุ่งเน้นไปที่จุดตัดระหว่างดิจิทัลและกายภาพ และทุกวิถีทางที่เราจะได้เห็นการผสมผสานของทั้งสองต่อไป"
     },
     {
@@ -47,20 +59,20 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
       "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
       "published": "Wed, 02 Sep 2026 20:19:14 +0000",
-      "title_th": "เทคนิคการใช้เหตุผลใหม่ของ OpenAI เตือนผู้เชี่ยวชาญด้านความปลอดภัยของ AI",
+      "title_th": "เทคนิคการให้เหตุผลใหม่ของ OpenAI เตือนผู้เชี่ยวชาญด้านความปลอดภัยของ AI",
       "summary_th": "โมเดล Astra ใหม่ของ OpenAI จะใช้ \"ความลึกที่เกิดซ้ำ\" ซึ่งเป็นเทคนิคที่ช่วยให้โมเดลทำงานนอกเหนือจากการคิดตามลำดับที่แสดงลักษณะของโมเดลการใช้เหตุผลส่วนใหญ่"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
-      "summary_en": "The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/mapquest-lake-ontario.jpg?resize=1200,891",
-      "link": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
-      "published": "Wed, 02 Sep 2026 20:12:41 +0000",
-      "title_th": "MapQuest กลายเป็นแอปอันดับ 1 ของสหรัฐอเมริกาแล้ว หลังจากที่ขัดขวางการเปลี่ยนชื่อ 'Lake America' ของ Trump",
-      "summary_th": "แอปแผนที่ที่เคยโดดเด่นได้พุ่งขึ้นสู่อันดับสูงสุดใน App Store ของ Apple ในสหรัฐอเมริกา หลังจากปฏิเสธที่จะใช้ชื่อ “Lake America” ของทรัมป์ ดึงดูดมากกว่าครึ่งหนึ่งของการดาวน์โหลดในสหรัฐฯ ในปี 2026 ในเวลาเพียงหกวัน"
+      "category": "gadget",
+      "title_en": "Uber beats Waymo as first to launch robotaxis in London",
+      "summary_en": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behind the wheel. The launch is a milestone for Uber, which has been plotting a UK launch with Wayve for several years. […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Photo-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
+      "published": "2026-09-02T19:00:00-04:00",
+      "title_th": "Uber เอาชนะ Waymo เป็นคนแรกที่เปิดตัว robotaxis ในลอนดอน",
+      "summary_th": "Uber เอาชนะ Waymo ในการเปิดตัวบริการโรบอตแท็กซี่เชิงพาณิชย์ในลอนดอน ซึ่งถือเป็นครั้งแรกของเมือง ยานพาหนะเหล่านี้ใช้เทคโนโลยีการขับขี่อัตโนมัติที่พัฒนาโดย Wayve ซึ่งเป็นสตาร์ทอัพจากสหราชอาณาจักร และในขั้นต้นจะมีผู้ขับด้านความปลอดภัยอยู่หลังพวงมาลัย การเปิดตัวครั้งนี้ถือเป็นก้าวสำคัญของ Uber ซึ่งวางแผนเปิดตัวในสหราชอาณาจักรร่วมกับ Wayve มาหลายปีแล้ว […]"
     },
     {
       "source": "The Verge",
@@ -72,7 +84,7 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
       "published": "2026-09-02T16:11:40-04:00",
       "title_th": "Google กล่าวว่าโมเดล Gemini 3.8 Flash ใหม่ 'ทำงานหนักขึ้น' แต่อาจมีราคาสูงกว่า",
-      "summary_th": "Google เปิดตัว Gemini 3.8 Flash ซึ่งมาหลังจากรุ่นก่อนเพียงไม่กี่สัปดาห์ บริษัทอ้างว่าโมเดลใหม่ \"ทำงานหนักกว่า\" Gemini 3.7 Flash โดยทำตามขั้นตอนการให้เหตุผลเพิ่มเติมในงานที่ซับซ้อนและ \"เรียกเครื่องมือซ้ำๆ\" มีการกำหนดราคาเบื้องต้นเช่นเดียวกับ 3.7 Flash, 0.75 ดอลลาร์ต่อโทเค็นอินพุต 1 ล้าน และ 3.75 ดอลลาร์ต่อล้าน […]"
+      "summary_th": "Google เปิดตัว Gemini 3.8 Flash ซึ่งมาหลังจากรุ่นก่อนเพียงไม่กี่สัปดาห์ บริษัทอ้างว่าโมเดลใหม่ \"ทำงานหนักกว่า\" Gemini 3.7 Flash โดยทำตามขั้นตอนการให้เหตุผลเพิ่มเติมในงานที่ซับซ้อนและ \"เรียกเครื่องมือซ้ำๆ\" มันมีราคาเบื้องต้นเหมือนกับ 3.7 Flash, $0.75 ต่อโทเค็นอินพุตหนึ่งล้าน และ $3.75 ต่อล้าน […]"
     },
     {
       "source": "The Verge",
@@ -104,23 +116,11 @@
       "category": "software",
       "title_en": "The best tech and gadgets announced at IFA so far",
       "summary_en": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of the best new gadgets and upgrades from the show - including […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer.jpg?quality=90&strip=all&crop=0%2C10.704467941918%2C100%2C78.591064116164&w=1200",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/acer2.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
       "link": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
       "published": "2026-09-02T12:43:50-04:00",
       "title_th": "เทคโนโลยีและอุปกรณ์ที่ดีที่สุดที่ประกาศในงาน IFA จนถึงตอนนี้",
       "summary_th": "ประตูสู่งานแสดงเทคโนโลยีสำหรับผู้บริโภคที่ใหญ่ที่สุดในยุโรปยังไม่เปิดให้สาธารณชนเข้าชม แต่มีข่าวมากมายจากงาน IFA 2026 ที่กรุงเบอร์ลิน ประเทศเยอรมนี หากคุณกำลังดิ้นรนเพื่อให้ทันกับสิ่งที่ได้ประกาศไปแล้ว นี่คืออุปกรณ์และการอัปเกรดใหม่ที่ดีที่สุดบางส่วนจากรายการ รวมถึง […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
-      "summary_en": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst development for AI security/safety to date.\" Shortly after […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2287521404.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-      "published": "2026-09-02T12:40:50-04:00",
-      "title_th": "นักวิจัยกลัวภัยพิบัติด้านความปลอดภัยก่อนการเปิดตัว Astra ของ OpenAI",
-      "summary_th": "OpenAI ใกล้จะเปิดตัวโมเดล AI ที่ทรงพลังที่สุดอย่าง Astra หลังจากหลายสัปดาห์แห่งความล่าช้าในการสนับสนุนโปรโตคอลความปลอดภัย หลังจากที่ตัวแทนโจมตีเป้าหมายจริงในระหว่างการทดสอบ ขณะที่รายละเอียดเกี่ยวกับโมเดลดังกล่าวหลุดออกมา นักวิจัยเตือนว่า \"อาจเป็นการพัฒนาที่เลวร้ายที่สุดสำหรับความปลอดภัย/ความปลอดภัยของ AI จนถึงปัจจุบัน\" ไม่นานหลังจากนั้น […]"
     },
     {
       "source": "Ars Technica",
@@ -192,7 +192,7 @@
       "link": "https://www.wired.com/story/amazon-increases-prices-kindle-echo-sept-2026/",
       "published": "Wed, 02 Sep 2026 22:23:26 +0000",
       "title_th": "ข้อเสนอวันหยุดปี 2026 ของ Amazon กำลังจะดูดีกว่าที่เป็นอยู่",
-      "summary_th": "Amazon เพิ่งขึ้นราคา Kindles, ลำโพง Echo, เราเตอร์ Eero และอุปกรณ์ Fire TV ก่อนเทศกาลช็อปปิ้งช่วงวันหยุด"
+      "summary_th": "Amazon เพิ่งขึ้นราคาสำหรับ Kindles, ลำโพง Echo, เราเตอร์ Eero และอุปกรณ์ Fire TV ก่อนเทศกาลช็อปปิ้งในช่วงวันหยุด"
     },
     {
       "source": "Wired",
@@ -203,8 +203,8 @@
       "image": "https://media.wired.com/photos/6a9753168e71dd67ca5defbc/master/pass/politics_democrats_prosecute_trump_family.jpg",
       "link": "https://www.wired.com/story/democrats-have-a-plan-to-force-trumps-associates-to-cooperate-with-investigations/",
       "published": "Wed, 02 Sep 2026 21:00:00 +0000",
-      "title_th": "พรรคเดโมแครตมีแผนบังคับให้เพื่อนร่วมงานของทรัมป์ให้ความร่วมมือกับการสืบสวน",
-      "summary_th": "การปรับปรุงปีกตะวันตกของโดนัลด์ ทรัมป์ และซุ้มโค้ง DC อาจกลายเป็นอุปสรรค หากพรรคเดโมแครตชนะการเลือกตั้งกลางภาค พวกเขาก็อาจได้รับประโยชน์เช่นกัน"
+      "title_th": "Democrats Have a Plan to Force Trump’s Associates to Cooperate With Investigations",
+      "summary_th": "การปรับปรุงเวสต์วิงของโดนัลด์ ทรัมป์ และซุ้มโค้ง DC อาจกลายเป็นอุปสรรค หากพรรคเดโมแครตชนะการเลือกตั้งกลางภาค พวกเขาก็อาจได้รับประโยชน์เช่นกัน"
     },
     {
       "source": "Wired",
@@ -228,7 +228,7 @@
       "link": "https://www.wired.com/story/ice-plans-to-pay-5-million-to-create-national-voting-database/",
       "published": "Wed, 02 Sep 2026 18:32:01 +0000",
       "title_th": "ICE วางแผนที่จะจ่ายเงิน 5 ล้านดอลลาร์เพื่อสร้างฐานข้อมูลการลงคะแนนเสียงระดับชาติ",
-      "summary_th": "ในฐานะที่เป็นส่วนหนึ่งของ DHS ที่เพิ่มมากขึ้นในการสืบสวนการฉ้อโกงผู้มีสิทธิเลือกตั้งที่ถูกกล่าวหา ICE ได้ประกาศแผนที่จะจ่ายเงินสูงถึง 5 ล้านดอลลาร์เพื่อสร้างจำนวนฐานข้อมูลผู้มีสิทธิเลือกตั้งของรัฐบาลกลาง"
+      "summary_th": "ในฐานะที่เป็นส่วนหนึ่งของ DHS ที่เพิ่มมากขึ้นในการสอบสวนข้อกล่าวหาเรื่องการฉ้อโกงผู้มีสิทธิเลือกตั้ง ICE ได้ประกาศแผนที่จะจ่ายเงินสูงถึง 5 ล้านดอลลาร์เพื่อสร้างจำนวนฐานข้อมูลผู้มีสิทธิเลือกตั้งของรัฐบาลกลาง"
     },
     {
       "source": "Wired",
@@ -239,7 +239,7 @@
       "image": "https://media.wired.com/photos/6a973d9ebb1b14821345f01b/master/pass/AI-Lab-Russian-Mathematicians-Got-AI-Models-to-Communicate-Subconsciously-Business.jpg",
       "link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
       "published": "Wed, 02 Sep 2026 18:20:00 +0000",
-      "title_th": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
+      "title_th": "นักคณิตศาสตร์ชาวรัสเซียเหล่านี้สอนโมเดล AI ให้พูดคุยกันโดยไม่ต้องใช้คำพูด",
       "summary_th": "สตาร์ทอัพชื่อ Mostik มีแนวทางใหม่ในการรวมความสามารถของโมเดล AI"
     },
     {
@@ -252,7 +252,7 @@
       "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
       "published": "Wed, 02 Sep 2026 14:00:00 +0000",
       "title_th": "อำนวยความสะดวกในการบูรณาการ AI ด้วยความเรียบง่ายในวงกว้าง",
-      "summary_th": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than…"
+      "summary_th": "เมื่อบริษัทขยายใหญ่ขึ้น การดำเนินการสนับสนุนด้านเทคโนโลยีอาจกลายเป็นหนี้สินได้อย่างรวดเร็วพอๆ กับที่จะกลายเป็นสินทรัพย์ ระบบที่ขาดการเชื่อมต่อ เครื่องมือเฉพาะไซต์ สเปรดชีต และวิธีแก้ปัญหาด้วยตนเอง สามารถสร้างไซโลข้อมูลที่ทำให้ตรวจพบปัญหาตั้งแต่เนิ่นๆ ได้ยากขึ้น ประสานการตอบสนอง และตัดสินใจได้อย่างมั่นใจ สำหรับ Jabil บริษัทผู้ผลิตระดับโลกที่มีมากกว่า..."
     },
     {
       "source": "MIT Technology Review",
@@ -300,7 +300,43 @@
       "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
       "published": "Tue, 01 Sep 2026 12:10:00 +0000",
       "title_th": "ดาวน์โหลด: จุลินทรีย์ที่ได้รับการออกแบบทางวิศวกรรมสำหรับพืชผล และปัญหาวัฒนธรรมของ OpenAI",
-      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี จุลินทรีย์ที่ได้รับการออกแบบสามารถช่วยเลี้ยงพืชผลของโลกได้อย่างไร ปุ๋ยมีความสำคัญต่อการจัดหาอาหารทั่วโลก แต่กลับทำให้ใช้พลังงานจำนวนมากและปล่อยก๊าซเรือนกระจกจำนวนมาก..."
+      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี จุลินทรีย์ที่ได้รับการออกแบบสามารถช่วยเลี้ยงพืชผลของโลกได้อย่างไร ปุ๋ยมีความสำคัญต่อการจัดหาอาหารทั่วโลก แต่กลับใช้พลังงานจำนวนมากและก่อให้เกิดการปล่อยก๊าซเรือนกระจกจำนวนมาก..."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Adobe brings 70+ tools from Photoshop, Illustrator and more to Slack",
+      "summary_en": "Adobe added dozens of tools from its creative apps like Illustrator and Premiere Pro into Slack, allowing you to ask Slackbot to do the Photoshopping for you.",
+      "image": "https://www.engadget.com/img/gallery/adobe-brings-70-tools-from-photoshop-illustrator-and-more-to-slack/l-intro-1788393296.jpg",
+      "link": "https://www.engadget.com/2250051/adobe-slack-over-70-tools-added/",
+      "published": "Thu, 03 Sep 2026 00:10:45 +0000",
+      "title_th": "Adobe นำเครื่องมือกว่า 70+ รายการจาก Photoshop, Illustrator และอื่นๆ มาสู่ Slack",
+      "summary_th": "Adobe ได้เพิ่มเครื่องมือมากมายจากแอปสร้างสรรค์ เช่น Illustrator และ Premiere Pro ลงใน Slack ซึ่งช่วยให้คุณสามารถขอให้ Slackbot ทำ Photoshop ให้กับคุณได้"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "What is a cold wallet and how does it work?",
+      "summary_en": "With cryptocurrency wallets becoming huge targets for hackers, using a cold wallet to protect your private keys has never been more important.",
+      "image": "https://www.engadget.com/img/gallery/what-is-a-cold-wallet-and-how-does-it-work/l-intro-1787690754.jpg",
+      "link": "https://www.engadget.com/2246424/what-is-cold-wallet-how-works/",
+      "published": "Wed, 02 Sep 2026 23:00:00 +0000",
+      "title_th": "กระเป๋าเงินเย็นคืออะไรและทำงานอย่างไร?",
+      "summary_th": "เนื่องจากกระเป๋าเงินดิจิทัลกลายเป็นเป้าหมายใหญ่สำหรับแฮกเกอร์ การใช้กระเป๋าเงินเย็นเพื่อปกป้องคีย์ส่วนตัวของคุณจึงมีความสำคัญมากขึ้นอย่างที่ไม่เคยมีมาก่อน"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Uber launches first robotaxis in London (with human supervisors)",
+      "summary_en": "Uber launches first robotaxis in London (with human supervisors).",
+      "image": "https://www.engadget.com/img/gallery/uber-launches-first-robotaxis-in-london-with-human-supervisors/l-intro-1788276614.jpg",
+      "link": "https://www.engadget.com/2248610/uber-launches-first-robotaxis-in-london-with-human-supervisors/",
+      "published": "Wed, 02 Sep 2026 23:00:00 +0000",
+      "title_th": "Uber เปิดตัวโรบอตแท็กซี่ตัวแรกในลอนดอน (พร้อมหัวหน้างานที่เป็นมนุษย์)",
+      "summary_th": "Uber เปิดตัวโรบอตแท็กซี่ตัวแรกในลอนดอน (พร้อมหัวหน้างานที่เป็นมนุษย์)"
     },
     {
       "source": "Engadget",
@@ -327,42 +363,6 @@
       "summary_th": "โรงเรียนรัฐบาลในนิวยอร์คใช้เวลาหนึ่งปีโดยไม่มีเครื่องมือ AI เชิงสร้างสรรค์"
     },
     {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Modding platform Nexus Mods now owns SteamDB",
-      "summary_en": "Nexus Mods said the community-led SteamDB site will operate as it always has, while becoming stronger and better resourced.",
-      "image": "https://www.engadget.com/img/gallery/modding-platform-nexus-mods-now-owns-steamdb/l-intro-1788368765.jpg",
-      "link": "https://www.engadget.com/2249669/modding-platform-nexus-mods-now-owns-steamdb/",
-      "published": "Wed, 02 Sep 2026 17:07:41 +0000",
-      "title_th": "แพลตฟอร์ม Modding Nexus Mods เป็นเจ้าของ SteamDB แล้ว",
-      "summary_th": "Nexus Mods กล่าวว่าไซต์ SteamDB ที่นำโดยชุมชนจะทำงานเหมือนเดิม ขณะเดียวกันก็แข็งแกร่งขึ้นและมีทรัพยากรที่ดีขึ้น"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Google won't be forced to sell its ad exchange following antitrust ruling",
-      "summary_en": "A judge previously determined that Google illegally monopolized a pair of ad tech markets.",
-      "image": "https://www.engadget.com/img/gallery/google-wont-be-forced-to-sell-its-ad-exchange-following-antitrust-ruling/l-intro-1788368569.jpg",
-      "link": "https://www.engadget.com/2249664/google-wont-be-forced-to-sell-its-ad-exchange-following-antitrust-ruling/",
-      "published": "Wed, 02 Sep 2026 17:04:00 +0000",
-      "title_th": "Google จะไม่ถูกบังคับให้ขาย Ad Exchange หลังคำตัดสินต่อต้านการผูกขาด",
-      "summary_th": "ก่อนหน้านี้ผู้พิพากษาตัดสินว่า Google ผูกขาดตลาดเทคโนโลยีโฆษณาสองแห่งอย่างผิดกฎหมาย"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Rare, working Apple I computer heads to auction",
-      "summary_en": "The same Apple I computer sold for over $671,000 in 2013.",
-      "image": "https://www.engadget.com/img/gallery/rare-working-apple-i-computer-heads-to-auction/l-intro-1788367978.jpg",
-      "link": "https://www.engadget.com/2249655/rare-working-apple-1-computer-heads-to-auction/",
-      "published": "Wed, 02 Sep 2026 16:54:59 +0000",
-      "title_th": "คอมพิวเตอร์ Apple I ที่หายากและใช้งานได้กำลังมุ่งหน้าสู่การประมูล",
-      "summary_th": "คอมพิวเตอร์ Apple I เครื่องเดียวกันขายได้ในราคามากกว่า 671,000 ดอลลาร์ในปี 2013"
-    },
-    {
       "source": "IEEE Spectrum",
       "flag": "US",
       "category": "robot",
@@ -372,7 +372,7 @@
       "link": "https://spectrum.ieee.org/forms-of-engineering-mentorship",
       "published": "Wed, 02 Sep 2026 19:45:58 +0000",
       "title_th": "การใช้รูปแบบการให้คำปรึกษาที่แตกต่างกัน",
-      "summary_th": "บทความนี้คัดลอกมาจากจดหมายข่าวอาชีพของ IEEE Spectrum ลงทะเบียนตอนนี้เพื่อรับเคล็ดลับจากวงใน คำแนะนำจากผู้เชี่ยวชาญ และกลยุทธ์เชิงปฏิบัติ เขียนโดยความร่วมมือกับบริษัทพัฒนาอาชีพด้านเทคโนโลยี Parsity และส่งตรงถึงกล่องจดหมายของคุณฟรี! การขอให้ใครสักคนเป็นที่ปรึกษาของคุณนั้นแปลก เดินเข้าไปหาใครสักคนแล้วถามว่า “คุณจะเป็นที่ปรึกษาให้ผมไหม?” สำหรับฉันดูเหมือนเด็กผู้ใหญ่จะเดินไปหาเด็กอีกคนในงานปาร์ตี้แล้วถามว่า “คุณจะเป็นเพื่อนกับฉันไหม” สิ่งที่คุณถามจริงๆ คือ: “คุณจะสละเวลาโดยไม่ได้รับค่าตอบแทนเพื่อชี้แนะอาชีพของฉันเป็นระยะเวลาไม่มีกำหนดหรือไม่” ใส่ร้ายแบบนั้น แน่นอนว่าบางคนลังเลที่จะตอบตกลง แต่การให้คำปรึกษาอย่างเป็นทางการไม่ใช่วิธีเดียวที่จะได้รับประโยชน์จากภูมิปัญญาของผู้มาก่อน ฉันไม่เคยขอให้ใครให้คำปรึกษาอย่างเป็นทางการ"
+      "summary_th": "บทความนี้คัดลอกมาจากจดหมายข่าวอาชีพของ IEEE Spectrum ลงทะเบียนตอนนี้เพื่อรับเคล็ดลับจากวงใน คำแนะนำจากผู้เชี่ยวชาญ และกลยุทธ์เชิงปฏิบัติ เขียนโดยความร่วมมือกับบริษัทพัฒนาอาชีพด้านเทคโนโลยี Parsity และส่งตรงถึงกล่องจดหมายของคุณฟรี! การขอให้ใครสักคนเป็นที่ปรึกษาของคุณนั้นแปลก เดินเข้าไปหาใครสักคนแล้วถามว่า “คุณจะเป็นที่ปรึกษาให้ผมไหม?” สำหรับฉันดูเหมือนเด็กผู้ใหญ่จะเดินไปหาเด็กอีกคนในงานปาร์ตี้แล้วถามว่า “คุณจะเป็นเพื่อนกับฉันไหม” สิ่งที่คุณถามจริงๆ คือ: “คุณจะสละเวลาโดยไม่ได้รับค่าตอบแทนเพื่อชี้แนะอาชีพของฉันเป็นระยะเวลาไม่มีกำหนดหรือไม่?” ใส่ร้ายแบบนั้น แน่นอนว่าบางคนลังเลที่จะตอบตกลง แต่การให้คำปรึกษาอย่างเป็นทางการไม่ใช่วิธีเดียวที่จะได้รับประโยชน์จากภูมิปัญญาของผู้มาก่อน ฉันไม่เคยขอให้ใครให้คำปรึกษาอย่างเป็นทางการ"
     },
     {
       "source": "IEEE Spectrum",
@@ -395,8 +395,8 @@
       "image": "https://spectrum.ieee.org/media-library/human-and-robotic-hands-share-a-caliper-over-technical-engineering-blueprints.png?id=67702640&width=980",
       "link": "https://spectrum.ieee.org/ai-engineer-skills",
       "published": "Wed, 02 Sep 2026 13:00:04 +0000",
-      "title_th": "ประสิทธิภาพของ AI อาจทำให้เราต้องสูญเสียผู้เชี่ยวชาญรุ่นต่อไป",
-      "summary_th": "เมื่อประมาณหนึ่งทศวรรษที่แล้ว ฉันเป็นผู้นำการออกแบบระบบควบคุมสำหรับระบบควบคุมดิจิทัลเต็มรูปแบบระบบแรกของโลกสำหรับโรงไฟฟ้านิวเคลียร์ในสหรัฐฯ มันเป็นเครื่องจักรที่สวยงามบนกระดาษ ซึ่งได้รับการออกแบบทางวิศวกรรมให้ทำงานด้วยตัวเองในแบบที่เครื่องบินโดยสารสมัยใหม่ทำ โดยมีผู้ปฏิบัติงานคอยดูแลระบบที่ไม่ค่อยจำเป็น และเราตัดสินใจว่าสำหรับผู้สังเกตการณ์ที่คำนึงถึงประสิทธิภาพแล้ว ให้มองย้อนกลับไป: เราจงใจทิ้งขั้นตอนแบบแมนนวลไว้ในลำดับที่ระบบสามารถดำเนินการได้ด้วยตัวเอง เรากำลังแก้ไขปัญหาเฉพาะ ผู้ปฏิบัติงานที่เคยดูแลระบบอัตโนมัติจะค่อยๆ เลิกเป็นผู้ปฏิบัติงาน มือเย็นไปหมด แบบจำลองทางจิตของสิ่งที่ต้นไม้กำลังทำอยู่นั้นไม่ชัดเจน และแล้วถึงวันที่เข็มนาฬิกาอัตโนมัติจะควบคุมกลับ เป็นวันที่แย่ที่สุดเสมอ เนื่องจากระบบอัตโนมัติจะหยุดทำงานเฉพาะเมื่อเกิดความสับสนหรือประสบปัญหาเท่านั้น"
+      "title_th": "AI Efficiency Could Cost Us the Next Generation of Experts",
+      "summary_th": "เมื่อประมาณหนึ่งทศวรรษที่แล้ว ฉันเป็นผู้นำการออกแบบระบบควบคุมสำหรับระบบควบคุมดิจิทัลเต็มรูปแบบระบบแรกของโลกสำหรับโรงไฟฟ้านิวเคลียร์ในสหรัฐฯ มันเป็นเครื่องจักรที่สวยงามบนกระดาษ ซึ่งได้รับการออกแบบทางวิศวกรรมให้เดินเองได้ในแบบที่เครื่องบินโดยสารสมัยใหม่ทำ โดยมีผู้ปฏิบัติงานคอยดูแลระบบที่ไม่ค่อยจำเป็น และเราตัดสินใจว่าสำหรับผู้สังเกตการณ์ที่คำนึงถึงประสิทธิภาพแล้ว ให้มองย้อนกลับไป: เราจงใจทิ้งขั้นตอนแบบแมนนวลไว้ในลำดับที่ระบบสามารถดำเนินการได้ด้วยตัวเอง เรากำลังแก้ไขปัญหาเฉพาะ ผู้ปฏิบัติงานที่เคยดูแลระบบอัตโนมัติจะค่อยๆ เลิกเป็นผู้ปฏิบัติงาน มือเย็นไปหมด แบบจำลองทางจิตของสิ่งที่ต้นไม้กำลังทำอยู่นั้นไม่ชัดเจน และแล้วถึงวันที่เข็มนาฬิกาอัตโนมัติจะควบคุมกลับ เป็นวันที่แย่ที่สุดเสมอ เนื่องจากระบบอัตโนมัติจะหยุดทำงานเฉพาะเมื่อเกิดความสับสนหรือประสบปัญหาเท่านั้น"
     },
     {
       "source": "IEEE Spectrum",
@@ -408,7 +408,7 @@
       "link": "https://spectrum.ieee.org/president-ieee-note-september-2026",
       "published": "Tue, 01 Sep 2026 18:00:04 +0000",
       "title_th": "หมายเหตุของประธาน IEEE: เทคโนโลยีเพื่อประโยชน์ทางสังคม",
-      "summary_th": "ทั่วทั้ง IEEE จุดแข็งของเราไม่เพียงแต่อยู่ที่ความเป็นเลิศของแต่ละชุมชนของเราเท่านั้น แต่ยังอยู่ในความสามารถของเราในการนำพวกเขามารวมกันเพื่อแก้ไขปัญหาที่มีร่วมกันซึ่งต้องการการแก้ปัญหาแบบสหวิทยาการ ภารกิจของเราในฐานะองค์กรการกุศลสาธารณะ—เพื่อพัฒนาเทคโนโลยีเพื่อประโยชน์ของมนุษยชาติ—กำลังกลายเป็นผู้สร้างความแตกต่างที่ทรงพลังมากขึ้น มันเป็นมากกว่าการแถลงหลักการ มันเป็นข้อได้เปรียบเชิงกลยุทธ์ เมื่อวิศวกรและนักเทคโนโลยีให้บริการอย่างมีเป้าหมายและเป็นผู้นำด้วยใจ พวกเขาจะเสริมสร้างอนาคตของวิชาชีพของเรา และแสดงให้เห็นว่าเหตุใด IEEE จึงอยู่ในตำแหน่งที่โดดเด่นในการเป็นผู้นำที่จุดบรรจบกันของเทคโนโลยีและผลกระทบทางสังคม IEEE Humanitarian Technologies เป็นกลุ่มโครงการและโครงการริเริ่มที่ได้รับการสนับสนุนจากเครือข่ายอาสาสมัครและผู้เชี่ยวชาญด้านเทคนิคทั่วโลก ซึ่งทำงานร่วมกันเพื่อ"
+      "summary_th": "ทั่วทั้ง IEEE จุดแข็งของเราไม่เพียงแต่อยู่ที่ความเป็นเลิศของแต่ละชุมชนของเราเท่านั้น แต่ยังอยู่ในความสามารถของเราในการนำพวกเขามารวมกันเพื่อแก้ไขปัญหาที่มีร่วมกันซึ่งต้องการการแก้ปัญหาแบบสหวิทยาการ ภารกิจของเราในฐานะการกุศลสาธารณะ—เพื่อพัฒนาเทคโนโลยีเพื่อประโยชน์ของมนุษยชาติ—กำลังกลายเป็นผู้สร้างความแตกต่างที่ทรงพลังมากขึ้น มันเป็นมากกว่าการแถลงหลักการ มันเป็นข้อได้เปรียบเชิงกลยุทธ์ เมื่อวิศวกรและนักเทคโนโลยีให้บริการอย่างมีเป้าหมายและเป็นผู้นำด้วยใจ พวกเขาจะเสริมสร้างอนาคตของวิชาชีพของเรา และแสดงให้เห็นว่าเหตุใด IEEE จึงอยู่ในตำแหน่งที่โดดเด่นในการเป็นผู้นำที่จุดบรรจบกันของเทคโนโลยีและผลกระทบทางสังคม IEEE Humanitarian Technologies เป็นกลุ่มโครงการและโครงการริเริ่มที่ได้รับการสนับสนุนจากเครือข่ายอาสาสมัครและผู้เชี่ยวชาญด้านเทคนิคทั่วโลก ซึ่งทำงานร่วมกันเพื่อ"
     },
     {
       "source": "IEEE Spectrum",
@@ -420,7 +420,19 @@
       "link": "https://spectrum.ieee.org/ruchira-shree-ham-radio",
       "published": "Mon, 31 Aug 2026 18:00:01 +0000",
       "title_th": "วัยรุ่นคนนี้ช่วยให้นักเรียนชาวอเมริกันพื้นเมืองได้รับใบอนุญาตวิทยุแฮม",
-      "summary_th": "สำหรับนักเรียนมัธยมปลายหลายๆ คน วันหยุดฤดูร้อนเป็นเวลาที่ต้องถอดปลั๊ก สำหรับ Ruchira Shree นักเรียนปีที่สองที่กำลังเติบโตที่ West Windsor–Plainsboro High School South ในรัฐนิวเจอร์ซีย์ การหยุดพักช่วยให้เธอสามารถมุ่งความสนใจไปที่กิจกรรมนอกหลักสูตรได้ เวลาส่วนใหญ่ของเธอถูกใช้ไปในการช่วยเหลือกิจกรรม IEEE Princeton Central Jersey Section เธอมีส่วนร่วมกับ PCJS เนื่องจากแม่ของเธอ Shubha Bommalingaiahnapallya สมาชิกอาวุโสของ IEEE ซึ่งเป็นรองประธานแผนก Bommalingaiahnapallya เป็นวิศวกรหลักของ Intel “ฉันเริ่มเข้าร่วมการประชุม IEEE ตอนที่ฉันยังเป็นเด็ก” Shree กล่าว “ฉันเคยไปกับแม่และนั่งอยู่หลังห้อง” ฤดูร้อนนี้เธอบอกว่าเธอกำลังมุ่งเน้นไปที่การพัฒนาทักษะคณิตศาสตร์ของเธอโดยการเข้าร่วมหลักสูตรภาคฤดูร้อนหลักสูตรการคิดเชิงอัลกอริทึมและการคิดเชิงผสมผสาน"
+      "summary_th": "สำหรับนักเรียนมัธยมปลายหลายๆ คน วันหยุดฤดูร้อนเป็นเวลาที่ต้องถอดปลั๊ก สำหรับ Ruchira Shree นักเรียนปีที่สองที่กำลังเติบโตที่ West Windsor–Plainsboro High School South ในรัฐนิวเจอร์ซีย์ การหยุดพักช่วยให้เธอสามารถมุ่งความสนใจไปที่กิจกรรมนอกหลักสูตรได้ เวลาส่วนใหญ่ของเธอถูกใช้ไปในการช่วยเหลือกิจกรรม IEEE Princeton Central Jersey Section เธอมีส่วนร่วมกับ PCJS เนื่องจากแม่ของเธอ Shubha Bommalingaiahnapallya ซึ่งเป็นสมาชิกอาวุโสของ IEEE ซึ่งเป็นรองประธานแผนก Bommalingaiahnapally เป็นวิศวกรหลักของ Intel “ฉันเริ่มเข้าร่วมการประชุม IEEE ตอนที่ฉันยังเป็นเด็ก” Shree กล่าว “ฉันเคยไปกับแม่และนั่งอยู่หลังห้อง” ฤดูร้อนนี้เธอบอกว่าเธอกำลังมุ่งเน้นไปที่การพัฒนาทักษะคณิตศาสตร์ของเธอโดยการเข้าร่วมหลักสูตรภาคฤดูร้อนหลักสูตรการคิดเชิงอัลกอริทึมและการคิดเชิงผสมผสาน"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "When is Apple releasing new AirPods?",
+      "summary_en": "Apple’s AirPods lineup is stronger than ever, but there are already rumors about what’s coming next. Here’s everything we know so far about when Apple will release new AirPods. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/airpods-pro-3-table.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/02/when-is-apple-releasing-new-airpods/",
+      "published": "Thu, 03 Sep 2026 00:47:20 +0000",
+      "title_th": "Apple จะเปิดตัว AirPods ใหม่เมื่อใด",
+      "summary_th": "กลุ่มผลิตภัณฑ์ AirPods ของ Apple แข็งแกร่งกว่าที่เคย แต่มีข่าวลือเกี่ยวกับสิ่งที่จะเกิดขึ้นต่อไปแล้ว นี่คือทุกสิ่งที่เรารู้จนถึงตอนนี้ว่า Apple จะเปิดตัว AirPods ใหม่เมื่อใด มากกว่า…"
     },
     {
       "source": "9to5Mac",
@@ -444,7 +456,7 @@
       "link": "https://9to5mac.com/2026/09/02/ios-27-fixes-apple-mail-in-three-ways-longtime-users-will-love/",
       "published": "Wed, 02 Sep 2026 19:00:40 +0000",
       "title_th": "iOS 27 แก้ไข Apple Mail ด้วยสามวิธีที่ผู้ใช้ที่รู้จักกันมานานจะต้องชอบ",
-      "summary_th": "iOS 27 อัดแน่นไปด้วยคุณสมบัติอันทรงพลัง เช่น Siri AI และการอัปเกรดเป็นแอพเพิ่มประสิทธิภาพการทำงาน เช่น Apple Mail โน้ต เตือนความจำ และปฏิทิน แต่สำหรับผู้ใช้หลายๆ คน การเปลี่ยนแปลงที่ดีที่สุดบางประการของ iOS 27 อาจเป็นการแก้ไขข้อบกพร่องที่ทำให้แอปทำงานได้ดีขึ้นกว่าเดิม ต่อไปนี้คือ 3 การเปลี่ยนแปลงที่จะเกิดขึ้นกับ Apple Mail มากกว่า…"
+      "summary_th": "iOS 27 อัดแน่นไปด้วยคุณสมบัติอันทรงพลัง เช่น Siri AI และการอัปเกรดเป็นแอพเพิ่มประสิทธิภาพการทำงาน เช่น Apple Mail โน้ต เตือนความจำ และปฏิทิน แต่สำหรับผู้ใช้หลายๆ คน การเปลี่ยนแปลงที่ดีที่สุดบางประการของ iOS 27 อาจเป็นการแก้ไขข้อบกพร่องที่ทำให้แอพทำงานได้ดีขึ้นกว่าเดิม ต่อไปนี้คือ 3 การเปลี่ยนแปลงที่จะเกิดขึ้นกับ Apple Mail มากกว่า…"
     },
     {
       "source": "9to5Mac",
@@ -471,16 +483,28 @@
       "summary_th": "GymKit เป็นหนึ่งในคุณสมบัติด้านฟิตเนสที่ชาญฉลาดที่สุดของ Apple Watch นับตั้งแต่เปิดตัวในปี 2560 แตะนาฬิกาของคุณกับอุปกรณ์ออกกำลังกายที่รองรับ จากนั้น Apple Watch จะแชร์อัตราการเต้นของหัวใจของคุณในขณะที่เครื่องจะส่งค่าวัดกลับ เช่น ระยะทาง ความชัน อัตราก้าว และแคลอรี่ ด้วย iOS 27 Apple กำลังขยายแนวคิดดังกล่าวไปไกลกว่า Apple Watch ฉันทดสอบ GymKit ใหม่บน iPhone และ AirPods Pro 3 กับลู่วิ่งไฟฟ้าที่เข้ากันได้กับ GymKit โดยพื้นฐานแล้วมันจะทำให้คุณได้รับประสบการณ์การติดตามการออกกำลังกายของ Apple Watch GymKit โดยไม่ต้องใช้นาฬิกา สิ่งนี้อาจมีประโยชน์ในหลาย ๆ สถานการณ์ มากกว่า…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple’s new film from ‘Best Picture’ Oscar winner gets first trailer",
-      "summary_en": "Apple won the ‘Best Picture’ Oscar for CODA back in 2022, and now director Siân Heder is back with another potential winner: Being Heumann. Here’s the new trailer. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/being-heumann-courtroom.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/02/apples-new-film-from-best-picture-oscar-winner-gets-first-trailer/",
-      "published": "Wed, 02 Sep 2026 16:41:31 +0000",
-      "title_th": "ภาพยนตร์เรื่องใหม่ของ Apple จากผู้ชนะรางวัลออสการ์ 'Best Picture' ได้รับตัวอย่างแรก",
-      "summary_th": "Apple คว้ารางวัลออสการ์สาขาภาพยนตร์ยอดเยี่ยมจาก CODA ในปี 2022 และตอนนี้ผู้กำกับ Siân Heder กลับมาพร้อมกับผู้ที่อาจเป็นผู้ชนะอีกคน นั่นก็คือ Being Heumann นี่คือตัวอย่างใหม่ มากกว่า…"
+      "title_en": "Google’s next Pixel Fold reportedly adopting the same crease-less display as Apple",
+      "summary_en": "We’re still a few days out from the debut of Apple’s first iPhone foldable which, as many have expected for years, will have a crease-less display. According to a new report, Google’s Pixel 12 Pro Fold will be adopting the same technology as Apple’s foldable. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-pro-fold-15.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/02/google-pixel-12-pro-fold-crease-less-display-report/",
+      "published": "Thu, 03 Sep 2026 00:30:00 +0000",
+      "title_th": "มีรายงานว่า Pixel Fold ถัดไปของ Google ใช้จอแสดงผลไร้รอยพับแบบเดียวกับ Apple",
+      "summary_th": "เรายังเหลือเวลาอีกไม่กี่วันจากการเปิดตัว iPhone แบบพับได้เครื่องแรกของ Apple ซึ่งหลายคนคาดหวังมานานหลายปีว่าจะมีจอแสดงผลไร้รอยยับ ตามรายงานใหม่ Pixel 12 Pro Fold ของ Google จะใช้เทคโนโลยีเดียวกับแบบพับได้ของ Apple มากกว่า…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "MapQuest is back, at the top of the charts, and rushing to add Android Auto support",
+      "summary_en": "In a “that’s a name I’ve not heard in a long time” move, MapQuest is back to being a household name, as the original mapping app has found itself as the top of app store charts – it’s also rushing to add support for Android Auto. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/mapquest-logo-2026-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/02/mapquest-app-top-charts-android-auto/",
+      "published": "Wed, 02 Sep 2026 23:50:00 +0000",
+      "title_th": "MapQuest กลับมาอยู่ในอันดับต้นๆ ของชาร์ต และเร่งเพิ่มการรองรับ Android Auto",
+      "summary_th": "ในการย้าย \"นั่นคือชื่อที่ฉันไม่ได้ยินมานาน\" MapQuest กลับมาเป็นชื่อที่คุ้นเคยอีกครั้ง เนื่องจากแอปแผนที่ดั้งเดิมพบว่าตัวเองอยู่ในอันดับต้นๆ ของชาร์ต App Store และยังเร่งเพิ่มการรองรับ Android Auto อีกด้วย มากกว่า…"
     },
     {
       "source": "9to5Google",
@@ -492,7 +516,7 @@
       "link": "https://9to5google.com/2026/09/02/pixel-now-playing-tweaks/",
       "published": "Wed, 02 Sep 2026 22:49:05 +0000",
       "title_th": "การอัปเดต Pixel Now Playing นำเสนอการปรับแต่งอินเทอร์เฟซ",
-      "summary_th": "การอัปเดตแอป Pixel คลื่นลูกถัดไปเริ่มต้นโดยที่ Google เปิดตัวเวอร์ชันล่าสุดของ Now Playing พร้อมการปรับแต่งอินเทอร์เฟซ มากกว่า…"
+      "summary_th": "The next wave of Pixel app updates is starting with Google rolling out the latest version of Now Playing with interface tweaks. more…"
     },
     {
       "source": "9to5Google",
@@ -519,30 +543,6 @@
       "summary_th": "การลดราคาวันแรงงานครั้งใหญ่นี้มีให้บริการแล้วที่ Amazon และ Best Buy และขณะนี้เรามีรายการเกมและแอพ Android ที่ดีที่สุดช่วงบ่ายกลางสัปดาห์ของคุณ Hghlights ได้แก่ Backrooms, Voltshadow, Undead Slayer: Offline Premium, LIMBO, Exolotl : Zian, Tiny Terraces, Box Head: Roguelike Premium, WINCH IT OUT และอื่นๆ อีกมากมาย อย่าลืมกำหนดขอบเขตหน่วยซีรีส์ Pixel 11 เหล่านี้ด้วยส่วนลดสูงสุดถึง $ 320 (เปิดกล่อง \"ยอดเยี่ยม\") และราคาที่ดีที่สุดเท่าที่เคยมีมาสำหรับหูฟัง Nothing Ear (3a) ใหม่ แอพกำลังรออยู่ด้านล่าง มากกว่า…"
     },
     {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Dell’s new 14S laptop exists to challenge MacBook Neo and, somehow, might be even cheaper",
-      "summary_en": "Apple’s MacBook Neo has made waves in the laptop world because it’s a remarkably well-built and reliable laptop at a very affordable price – though one that’s a bit higher now thanks to RAMageddon. Dell is ready to challenge that with its new Dell 14S laptop announced at IFA, and it somehow might be even cheaper. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/dell-14s-macbook-neo-rival-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/02/dell-14s-laptop-announcement/",
-      "published": "Wed, 02 Sep 2026 17:10:00 +0000",
-      "title_th": "แล็ปท็อป 14S ใหม่ของ Dell มีไว้เพื่อท้าทาย MacBook Neo และอาจมีราคาถูกกว่าด้วยซ้ำ",
-      "summary_th": "MacBook Neo ของ Apple สร้างความฮือฮาให้กับโลกแล็ปท็อปเนื่องจากเป็นแล็ปท็อปที่ออกแบบมาอย่างดีและเชื่อถือได้ในราคาที่เอื้อมถึง แม้ว่าตอนนี้จะสูงขึ้นเล็กน้อยแล้วก็ตามด้วย RAMageddon Dell พร้อมที่จะท้าทายสิ่งนั้นด้วยแล็ปท็อป Dell 14S รุ่นใหม่ที่ประกาศในงาน IFA และมันอาจจะถูกกว่าด้วยซ้ำ มากกว่า…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "MrBeast will try to survive ‘the planet’s most unforgiving landscapes’ using Gemini and Fitbit Air in deal with Google",
-      "summary_en": "Google has struck a deal with MrBeast, the most popular YouTuber, to promote Gemini and Google Health, with one of the first partnerships being a challenge in “the planet’s most unforgiving landscapes.” more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/mrbeast-google-fitbit-air-deal.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/02/google-mrbeast-fitbit-air-gemini-deal/",
-      "published": "Wed, 02 Sep 2026 16:35:00 +0000",
-      "title_th": "MrBeast จะพยายามเอาตัวรอดจาก 'ภูมิประเทศที่เลวร้ายที่สุดในโลก' โดยใช้ Gemini และ Fitbit Air ร่วมกับ Google",
-      "summary_th": "Google ได้ทำข้อตกลงกับ MrBeast ซึ่งเป็น YouTuber ที่ได้รับความนิยมมากที่สุด เพื่อโปรโมต Gemini และ Google Health โดยหนึ่งในความร่วมมือแรกๆ ถือเป็นความท้าทายใน \"ภูมิประเทศที่ไม่น่าให้อภัยมากที่สุดในโลก\" มากกว่า…"
-    },
-    {
       "source": "Electrek",
       "flag": "",
       "category": "ev",
@@ -564,7 +564,7 @@
       "link": "https://electrek.co/2026/09/02/hyundai-opens-ioniq-3-ev-orders-starting-30000/",
       "published": "Wed, 02 Sep 2026 21:03:28 +0000",
       "title_th": "Hyundai เปิดคำสั่งซื้อ IONIQ 3 EV ในราคาเริ่มต้นประมาณ 30,000 ดอลลาร์",
-      "summary_th": "Hyundai เปิดรับคำสั่งซื้อ IONIQ 3 ซึ่งเป็นรถแฮทช์ไฟฟ้าระดับเริ่มต้นรุ่นใหม่ โดยเริ่มต้นที่ประมาณ 30,000 ดอลลาร์ ฮุนไดเปิด IONIQ 3..."
+      "summary_th": "Hyundai เปิดรับคำสั่งซื้อ IONIQ 3 ซึ่งเป็นรถยนต์ไฟฟ้ารุ่นเริ่มต้นใหม่ในราคาเริ่มต้นประมาณ 30,000 ดอลลาร์ ฮุนไดเปิด IONIQ 3..."
     },
     {
       "source": "Electrek",
@@ -576,7 +576,7 @@
       "link": "https://electrek.co/2026/09/02/kia-launches-ev4-gt-canada-more-power-attitude/",
       "published": "Wed, 02 Sep 2026 20:25:41 +0000",
       "title_th": "Kia เปิดตัว EV4 GT ในแคนาดา นำพละกำลังและทัศนคติที่มากขึ้น",
-      "summary_th": "Kia เปิดรับคำสั่งซื้อ EV4 GT ปี 2027 ซึ่งเป็น EV ที่ \"ราคาไม่แพง\" ตัวที่สามที่ได้รับการปรับปรุง GT ในแคนาดา เกีย..."
+      "summary_th": "Kia เปิดรับคำสั่งซื้อ EV4 GT ปี 2027 ซึ่งเป็น EV ที่ \"ราคาไม่แพง\" คันที่สามที่ได้รับการปรับปรุง GT ในแคนาดา เกีย..."
     },
     {
       "source": "Electrek",
@@ -608,57 +608,57 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 224.41,
-      "change": 6.97,
-      "change_pct": 3.21
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 357.01,
-      "change": 0.92,
-      "change_pct": 0.26
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 337.12,
-      "change": 2.1,
-      "change_pct": 0.63
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 496.82,
-      "change": -4.2,
-      "change_pct": -0.84
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 324.96,
-      "change": -0.17,
-      "change_pct": -0.05
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 254.98,
-      "change": 0.06,
-      "change_pct": 0.02
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 592.85,
-      "change": 14.31,
-      "change_pct": 2.47
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "DELTA.BK",
@@ -678,7 +678,7 @@
       "link": "https://www.youtube.com/shorts/v-_d2e7x4KA",
       "thumbnail": "https://i3.ytimg.com/vi/v-_d2e7x4KA/hqdefault.jpg",
       "published": "2026-08-25T23:23:55+00:00",
-      "title_th": "หุ่นยนต์กล้องที่ดุร้ายที่สุด"
+      "title_th": "The Wildest Camera Robot"
     },
     {
       "channel": "MKBHD",
@@ -688,7 +688,7 @@
       "link": "https://www.youtube.com/watch?v=ngPkbaZliaU",
       "thumbnail": "https://i3.ytimg.com/vi/ngPkbaZliaU/hqdefault.jpg",
       "published": "2026-08-24T20:27:50+00:00",
-      "title_th": "ความจริงเกี่ยวกับโทรศัพท์แนวคิด Bezelless"
+      "title_th": "The Truth About the Bezelless Concept Phone"
     },
     {
       "channel": "MKBHD",
@@ -729,66 +729,6 @@
       "thumbnail": "https://i1.ytimg.com/vi/LyxJWtoyK0o/hqdefault.jpg",
       "published": "2026-08-29T19:38:22+00:00",
       "title_th": "นี่คือ iPhone 18 Pro Max"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "มะเร็งเต้านม รู้ไว...หายได้ !",
-      "video_id": "oG9x2I2qYfc",
-      "link": "https://www.youtube.com/shorts/oG9x2I2qYfc",
-      "thumbnail": "https://i4.ytimg.com/vi/oG9x2I2qYfc/hqdefault.jpg",
-      "published": "2026-09-01T23:00:12+00:00",
-      "title_th": "มะเร็งเต้านม รู้ไว...หายได้ !"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "“Transformation ไม่ใช่ทางเลือก แต่คือสิ่งที่องค์กรต้องทำเพื่ออยู่รอดและเติบโต”",
-      "video_id": "yISbhWsXbw4",
-      "link": "https://www.youtube.com/shorts/yISbhWsXbw4",
-      "thumbnail": "https://i2.ytimg.com/vi/yISbhWsXbw4/hqdefault.jpg",
-      "published": "2026-09-01T10:34:32+00:00",
-      "title_th": "“Transformation ไม่ใช่ทางเลือก แต่คือสิ่งที่องค์กรต้องทำเพื่ออยู่รอดและเติบโต”"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "ยอดวิวสูง ไม่ได้แปลว่าดังจริง !",
-      "video_id": "RkStqSvcUas",
-      "link": "https://www.youtube.com/shorts/RkStqSvcUas",
-      "thumbnail": "https://i3.ytimg.com/vi/RkStqSvcUas/hqdefault.jpg",
-      "published": "2026-08-31T23:00:02+00:00",
-      "title_th": "ยอดวิวสูง ไม่ได้แปลว่าดังจริง !"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "รีวิว HONOR Robot Phone มือถือ + กล้องกิมบอล ทำไป ทำไม ?",
-      "video_id": "TE4UrTXTA4g",
-      "link": "https://www.youtube.com/watch?v=TE4UrTXTA4g",
-      "thumbnail": "https://i1.ytimg.com/vi/TE4UrTXTA4g/hqdefault.jpg",
-      "published": "2026-08-31T12:30:28+00:00",
-      "title_th": "รีวิว HONOR Robot Phone มือถือ + กล้องกิมบอล ทำไป ทำไม ?"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "รัฐบาลจีนจะเลิกใช้ Windows / อัพเดตข่าว iPhone 18 Ultra / ทวิตเตอร์จะกลับมา ? #หิวข่าว",
-      "video_id": "bSqYb-rGND0",
-      "link": "https://www.youtube.com/watch?v=bSqYb-rGND0",
-      "thumbnail": "https://i3.ytimg.com/vi/bSqYb-rGND0/hqdefault.jpg",
-      "published": "2026-08-29T13:00:01+00:00",
-      "title_th": "รัฐบาลจีนจะเลิกใช้ Windows / อัพเดตข่าว iPhone 18 Ultra / ทวิตเตอร์จะกลับมา ? #หิวข่าว"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "วิธีย้ายข้อมูล iPhone ไป Samsung Galaxy ง่ายๆ อัปเดต 2026 | แชท LINE / รูป / แอป / รหัสผ่าน ไม่หาย !",
-      "video_id": "Ln_7rXla5fo",
-      "link": "https://www.youtube.com/watch?v=Ln_7rXla5fo",
-      "thumbnail": "https://i1.ytimg.com/vi/Ln_7rXla5fo/hqdefault.jpg",
-      "published": "2026-08-29T09:00:14+00:00",
-      "title_th": "วิธีย้ายข้อมูล iPhone ไป Samsung Galaxy ง่ายๆ อัปเดต 2026 | แชท LINE / รูป / แอป / รหัสผ่าน ไม่หาย !"
     }
   ]
 }
