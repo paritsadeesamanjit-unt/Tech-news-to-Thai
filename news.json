@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-04T01:33:57.225584+00:00",
+  "generated_at": "2026-09-04T07:29:44.438717+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "The sameness problem behind those unappetizing AI-generated menus",
+      "summary_en": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cheeseburger-stack.png?resize=1200,800",
+      "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "published": "Fri, 04 Sep 2026 04:21:03 +0000",
+      "title_th": "ปัญหาความเหมือนกันเบื้องหลังเมนูที่สร้างโดย AI ที่ไม่น่ารับประทาน",
+      "summary_th": "แม้ว่าเจ้าของร้านอาหารอาจมองว่า AI เจนเนอเรชั่นเป็นทางลัดในการจัดเมนูให้เรียบร้อย ลูกค้าสามารถรับรู้ได้อย่างชัดเจนว่ามีบางอย่างผิดปกติกับอาหาร"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -51,76 +63,64 @@
       "summary_th": "ยุค AI ได้ทำลายรูปแบบการซื้อขององค์กรโดยสิ้นเชิง และสตาร์ทอัพยังไม่รู้ว่าจะนำทางอย่างไร"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "ev",
-      "title_en": "The Cybercab is Tesla’s ‘fork in the road’ moment",
-      "summary_en": "The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-austin-giga-getty.jpg?resize=1200,805",
-      "link": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
-      "published": "Thu, 03 Sep 2026 19:42:48 +0000",
-      "title_th": "Cybercab คือช่วงเวลา 'ทางแยก' ของ Tesla",
-      "summary_th": "บริษัทกำลังจะเปิดตัวรถยนต์สองที่นั่งสีทองอย่างเป็นทางการ โดยไม่มีพวงมาลัยหรือคันเหยียบ การเคลื่อนไหวที่อาจเปลี่ยนเทสลาไปตลอดกาล"
+      "category": "gadget",
+      "title_en": "Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick",
+      "summary_en": "Following the lead of companies like Xteink, Lexar is the latest to sacrifice a USB-C port in the pursuit of slimming down its hardware. When the Lexar Muse Ultra-Slim Portable SSD launches later this year in 512GB and 1TB capacities it will be one of the slimmest you can buy. At its thickest point in […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/lexarmuse1.jpg?quality=90&strip=all&crop=0,10.766205118665,100,78.46758976267",
+      "link": "https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable",
+      "published": "2026-09-04T03:00:00-04:00",
+      "title_th": "Muse ของ Lexar เป็น SSD แบบพกพาขนาดบางพิเศษที่มีความหนาน้อยกว่า 4 มม",
+      "summary_th": "ตามการเป็นผู้นำของบริษัทอย่าง Xteink Lexar คือบริษัทล่าสุดที่เสียสละพอร์ต USB-C เพื่อแสวงหาการลดขนาดฮาร์ดแวร์ลง เมื่อ Lexar Muse Ultra-Slim Portable SSD เปิดตัวในปลายปีนี้ด้วยความจุ 512GB และ 1TB มันจะเป็นหนึ่งใน SSD ที่บางที่สุดที่คุณสามารถซื้อได้ เมื่อถึงจุดที่หนาที่สุดใน […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Aqara goes all in on smart lighting",
+      "summary_en": "After showing off several smart home firsts at CES, Aqara has returned to IFA with a major lineup of smart lighting compatible with both Zigbee and Thread. One of these new devices is the Floor Lamp T1, which trades the look of a typical lamp for an LED-equipped pole attached to a base. The lamp […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Floor-Lamp-T1-Image_1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "link": "https://www.theverge.com/tech/989581/aqara-smart-lighting-ifa-2026",
+      "published": "2026-09-04T03:00:00-04:00",
+      "title_th": "Aqara ทุ่มเต็มที่ในเรื่องระบบไฟอัจฉริยะ",
+      "summary_th": "หลังจากจัดแสดงสมาร์ทโฮมหลายรายการครั้งแรกในงาน CES แล้ว Aqara ก็กลับมาที่ IFA พร้อมกับกลุ่มผลิตภัณฑ์ไฟอัจฉริยะหลักที่เข้ากันได้กับทั้ง Zigbee และ Thread หนึ่งในอุปกรณ์ใหม่เหล่านี้คือโคมไฟตั้งพื้น T1 ซึ่งเปลี่ยนรูปลักษณ์ของโคมไฟทั่วไปกับเสาที่ติดตั้ง LED ที่ติดอยู่กับฐาน โคมไฟ […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "This rugged phone’s removable camera can survive and capture your extreme adventures",
+      "summary_en": "RugOne's Xsnap 7 Pro comes with both an IP68 and IP69K rating, meaning the rugged phone can survive intense water blasts and complete submersion for up to 30 minutes. But what really sets the Xsnap 7 Pro apart from everything else on the market is that one of its three rear cameras can be removed […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/rugone1.jpg?quality=90&strip=all&crop=0%2C10.723395278369%2C100%2C78.553209443262&w=1200",
+      "link": "https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof",
+      "published": "2026-09-04T03:00:00-04:00",
+      "title_th": "กล้องแบบถอดได้ของโทรศัพท์ที่ทนทานนี้สามารถอยู่รอดและบันทึกภาพการผจญภัยสุดขั้วของคุณได้",
+      "summary_th": "Xsnap 7 Pro ของ RugOne มาพร้อมกับทั้งระดับ IP68 และ IP69K ซึ่งหมายความว่าโทรศัพท์ที่ทนทานสามารถทนต่อการระเบิดของน้ำที่รุนแรงและจมอยู่ใต้น้ำได้นานถึง 30 นาที แต่สิ่งที่ทำให้ Xsnap 7 Pro แตกต่างจากอย่างอื่นในตลาดจริงๆ คือสามารถถอดกล้องหลังหนึ่งในสามตัวของมันออกได้ […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
+      "summary_en": "Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision. But unofficially, modders have already ported a leaked version of DLSS 5 to run on just about anything while cranking […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25256536/246993_Nvidia_RTX_4080_Super_TWarren_0002.jpg?quality=90&strip=all&crop=0%2C10.471204188482%2C100%2C79.057591623037&w=1200",
+      "link": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
+      "published": "2026-09-03T21:49:25-04:00",
+      "title_th": "Nvidia จะนำ DLSS 5 มาสู่ GPU รุ่นเก่าอย่างเป็นทางการ แต่จะไม่ทำให้นักเล่นเกมควบคุมได้อย่างเต็มที่",
+      "summary_th": "อย่างเป็นทางการการเรนเดอร์ DLSS 5 AI ที่เป็นที่ถกเถียงของ Nvidia ควรจะเปิดตัวในเย็นวันนี้ด้วยเกมเดียวเท่านั้นบน RTX 50 GPU ล่าสุดของ Nvidia และให้นักพัฒนาควบคุมวิสัยทัศน์ทางศิลปะของตนได้อย่างเต็มที่ แต่อย่างไม่เป็นทางการ modders ได้ย้าย DLSS 5 เวอร์ชันที่รั่วไหลออกมาแล้วเพื่อให้ทำงานได้เกือบทุกอย่างในขณะที่หมุน […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "ev",
       "title_en": "The unusually muted Tesla Cybercab launch",
-      "summary_en": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous vehicles, and humanoid robots. It was an […]",
+      "summary_en": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous vehicles, and humanoid robots. It […]",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2265246421.jpg?quality=90&strip=all&crop=0%2C15.098136889637%2C100%2C69.803726220726&w=1200",
       "link": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
       "published": "2026-09-03T20:25:06-04:00",
       "title_th": "การเปิดตัว Tesla Cybercab ที่เงียบผิดปกติ",
-      "summary_th": "ที่งานส่วนตัวแบบปิดในเมืองออสติน รัฐเท็กซัส วันนี้ Tesla ได้เปิดตัวรถยนต์สีทองแห่งอนาคตอย่างเป็นทางการ ถือเป็นก้าวสำคัญสำหรับ Elon Musk ผู้ซึ่งคอยกระตุ้นการมาถึงของรถยนต์ไร้คนขับที่ใกล้จะมาถึงมานานหลายปี และได้เดิมพันอนาคตของบริษัทของเขาเกี่ยวกับ AI, ยานพาหนะที่ขับเคลื่อนอัตโนมัติ และหุ่นยนต์ฮิวแมนนอยด์ มันเป็น […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
-      "summary_en": "Last September, Steve Ballmer insisted in an ESPN interview that the Clippers weren't involved in a shady-looking $28 million endorsement deal for his star player, Kawhi Leonard, that involved no actual endorsing. Now, the former Microsoft CEO has been suspended by the NBA for a year, while the league says his team will forfeit five […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2166198274.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
-      "published": "2026-09-03T19:37:37-04:00",
-      "title_th": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
-      "summary_th": "เมื่อเดือนกันยายนปีที่แล้ว Steve Ballmer ยืนกรานในการให้สัมภาษณ์กับ ESPN ว่า Clippers ไม่ได้มีส่วนเกี่ยวข้องกับข้อตกลงการรับรองมูลค่า 28 ล้านดอลลาร์สำหรับ Kawhi Leonard นักเตะดาวเด่นของเขา ซึ่งไม่ได้เกี่ยวข้องกับการรับรองจริงๆ ตอนนี้ อดีต CEO ของ Microsoft ถูก NBA ระงับเป็นเวลาหนึ่งปี ในขณะที่ลีกบอกว่าทีมของเขาจะถูกปรับแพ้ห้า […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
-      "summary_en": "Does your power bank have \"CryoPulse technology\" or a \"Cyber Window\"? If you disappointingly answered \"no\" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power Bank. It's available starting today for $149.99, which puts it on the really expensive end of power banks with only a 10,000mAh battery, but […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ugreen1.jpg?quality=90&strip=all&crop=0%2C10.776325370133%2C100%2C78.447349259734&w=1200",
-      "link": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
-      "published": "2026-09-03T18:00:00-04:00",
-      "title_th": "คุณสามารถดูการไหลของน้ำหล่อเย็นภายในพาวเวอร์แบงค์ระบายความร้อนด้วยของเหลวของ Ugreen",
-      "summary_th": "พาวเวอร์แบงค์ของคุณมี \"เทคโนโลยี CryoPulse\" หรือ \"Cyber ​​Window\" หรือไม่? หากคุณตอบว่า \"ไม่\" ทั้งคู่อย่างน่าผิดหวัง คุณอาจต้องการพิจารณาอัปเกรดเป็น MagFlow Pro Magnetic Power Bank ใหม่ของ Ugreen เริ่มวางจำหน่ายตั้งแต่วันนี้ในราคา 149.99 ดอลลาร์ ซึ่งถือเป็นพาวเวอร์แบงค์ราคาแพงจริงๆ ที่มีแบตเตอรี่เพียง 10,000mAh เท่านั้น แต่ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Dungeons & Dragons is getting a ‘Ravenloft’ live-action Netflix series",
-      "summary_en": "A Ravenloft series is currently in development from executive producer Alfonso Cuarón, writer and executive producer John August, and Hasbro Entertainment, Deadline reports. It could bring to life one of Dungeons & Dragons' most iconic campaign settings, which got an update earlier this year with Ravenloft: The Horrors Within. Netflix's Ravenloft series will reportedly center […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ravenloft-horrors-within-cover-strahd.jpg?quality=90&strip=all&crop=0%2C1.3544436718296%2C100%2C93.077370564282&w=1200",
-      "link": "https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix",
-      "published": "2026-09-03T16:48:05-04:00",
-      "title_th": "Dungeons & Dragons กำลังสร้างซีรีส์ Netflix ฉบับคนแสดงเรื่อง Ravenloft",
-      "summary_th": "ซีรีส์ Ravenloft กำลังอยู่ระหว่างการพัฒนาโดยผู้อำนวยการสร้างบริหาร Alfonso Cuarón, นักเขียนและผู้อำนวยการสร้าง John August และ Hasbro Entertainment, รายงานกำหนดเส้นตาย มันสามารถทำให้หนึ่งในฉากแคมเปญที่โดดเด่นที่สุดของ Dungeons & Dragons มีชีวิตขึ้นมา ซึ่งได้รับการอัปเดตเมื่อต้นปีนี้ด้วย Ravenloft: The Horrors Within มีรายงานว่าซีรีส์ Ravenloft ของ Netflix จะเป็นศูนย์กลาง […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Congressman says TikTok backed out of a meeting to avoid child safety questions",
-      "summary_en": "TikTok backed out of a congressional committee's \"public roundtable\" set for this month over concerns it would be asked about child safety practices, the chair of the committee said. After negotiating \"in good faith\" to bring TikTok's chief security officer before the House Select Committee on China to answer questions about Chinese government access to […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK051_TIKTOKBAN2_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-      "link": "https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety",
-      "published": "2026-09-03T14:37:57-04:00",
-      "title_th": "สมาชิกสภาผู้แทนราษฎรกล่าวว่า TikTok ถอยออกจากการประชุมเพื่อหลีกเลี่ยงคำถามเกี่ยวกับความปลอดภัยของเด็ก",
-      "summary_th": "TikTok ถอยออกจาก \"โต๊ะกลมสาธารณะ\" ของคณะกรรมการรัฐสภาที่กำหนดไว้สำหรับเดือนนี้ เนื่องจากมีข้อกังวลว่าจะมีการถามเกี่ยวกับหลักปฏิบัติด้านความปลอดภัยของเด็ก ประธานคณะกรรมการกล่าว หลังเจรจา “โดยสุจริต” เพื่อนำหัวหน้าเจ้าหน้าที่รักษาความปลอดภัยของ TikTok ขึ้นต่อหน้าคณะกรรมการคัดเลือกสภาผู้แทนราษฎรของจีน เพื่อตอบคำถามเกี่ยวกับการเข้าถึงของรัฐบาลจีน […]"
+      "summary_th": "ที่งานส่วนตัวแบบปิดในเมืองออสติน รัฐเท็กซัส วันนี้ Tesla ได้เปิดตัวรถยนต์สีทองแห่งอนาคตอย่างเป็นทางการ นั่นคือ Cybercab ถือเป็นก้าวสำคัญสำหรับ Elon Musk ผู้ซึ่งคอยกระตุ้นการมาถึงของรถยนต์ไร้คนขับที่ใกล้จะมาถึงมานานหลายปี และได้เดิมพันอนาคตของบริษัทของเขาเกี่ยวกับ AI, ยานพาหนะที่ขับเคลื่อนอัตโนมัติ และหุ่นยนต์ฮิวแมนนอยด์ มัน […]"
     },
     {
       "source": "Ars Technica",
@@ -186,61 +186,61 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "5 Best Video Doorbell Cameras (2026): Subscription-Free, Video, and More",
-      "summary_en": "Never miss a delivery. These WIRED-tested picks will help you keep tabs on your front door from anywhere.",
-      "image": "https://media.wired.com/photos/69c6cf4311f836e20d54dee4/master/pass/Nest%20Doorbell%20Wired%203rd%20Gen%201%20SOURCE%20Julian%20Chokkattu.jpg",
-      "link": "https://www.wired.com/gallery/best-video-doorbells/",
-      "published": "Thu, 03 Sep 2026 22:48:55 +0000",
-      "title_th": "กล้องออดวิดีโอที่ดีที่สุด 5 อันดับ (2026): ไม่ต้องสมัครสมาชิก วิดีโอและอื่น ๆ อีกมากมาย",
-      "summary_th": "ไม่พลาดการส่งมอบ ตัวเลือกที่ผ่านการทดสอบแบบมีสายเหล่านี้จะช่วยให้คุณจับแท็บที่ประตูหน้าของคุณได้จากทุกที่"
+      "title_en": "Foreo Discount Codes and Deals: Up to 50% Off",
+      "summary_en": "Save on Foreo favorites, including LUNA cleansing brushes, BEAR microcurrent devices, and masks and accessories to level up your daily skincare routine at home.",
+      "image": "https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png",
+      "link": "https://www.wired.com/story/foreo-promo-code/",
+      "published": "Fri, 04 Sep 2026 05:00:00 +0000",
+      "title_th": "รหัสส่วนลดและข้อเสนอของ Foreo: ลดสูงสุดถึง 50%",
+      "summary_th": "ประหยัดไปกับผลิตภัณฑ์ยอดนิยมของ Foreo รวมถึงแปรงทำความสะอาด LUNA อุปกรณ์ไมโครกระแสไฟ BEAR และมาส์กและอุปกรณ์เสริมเพื่อยกระดับกิจวัตรการดูแลผิวประจำวันของคุณที่บ้าน"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient",
-      "summary_en": "Gene-edited pig kidneys could offer a lifeline to patients stuck waiting for a human donor.",
-      "image": "https://media.wired.com/photos/6a99964bab64da8be39c7ad7/master/pass/20250125_kaf_transplant_001_srgb.jpg",
-      "link": "https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/",
-      "published": "Thu, 03 Sep 2026 22:30:00 +0000",
-      "title_th": "ไตหมูที่ปลูกถ่ายยังคงทำงานได้หลังจากบันทึกสถิติไว้ 9 เดือนในผู้ป่วย",
-      "summary_th": "ไตหมูที่ผ่านการตัดต่อยีนสามารถช่วยชีวิตผู้ป่วยที่รอผู้บริจาคได้"
+      "title_en": "Medicube Coupon Code: 40% Off for September 2026",
+      "summary_en": "Upgrade your K-beauty routine with these active Medicube promo codes. Save on Age-R devices, serums, and masks with student discounts and referral rewards.",
+      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
+      "link": "https://www.wired.com/story/medicube-coupon-code/",
+      "published": "Fri, 04 Sep 2026 05:00:00 +0000",
+      "title_th": "รหัสคูปอง Medicube: ลด 40% สำหรับเดือนกันยายน 2569",
+      "summary_th": "อัปเกรดกิจวัตร K-beauty ของคุณด้วยรหัสโปรโมชั่น Medicube ที่ใช้งานได้เหล่านี้ ประหยัดเมื่อซื้ออุปกรณ์ Age-R เซรั่ม และมาส์กพร้อมส่วนลดสำหรับนักเรียนและรางวัลการแนะนำ"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
-      "summary_en": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
-      "image": "https://media.wired.com/photos/6a99e16fbf4e66136bddbc74/master/pass/Security_AWaveofOutagesHitsLeadingAIChatbots_v1-ezgif.com-video-to-gif-converter%20(2).gif",
-      "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-      "published": "Thu, 03 Sep 2026 21:56:21 +0000",
-      "title_th": "ไม่มีใครบอกว่าเหตุใด OpenAI และ Anthropic จึงหยุดทำงานในวันนี้",
-      "summary_th": "ChatGPT, Claude และ Grok ต่างประสบปัญหาขัดข้องในเวลาเดียวกันด้วยเหตุผลที่ยังไม่ชัดเจน"
+      "title_en": "Bartesian Discount Codes: 35% Off",
+      "summary_en": "Upgrade your home bar with the latest Bartesian coupon codes and discounts. Save on the Professional Cocktail Maker, enjoy subscription discounts, and get free shipping on your favorite capsules.",
+      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
+      "link": "https://www.wired.com/story/bartesian-discount-code/",
+      "published": "Fri, 04 Sep 2026 05:00:00 +0000",
+      "title_th": "รหัสส่วนลด Bartesian: ลด 35%",
+      "summary_th": "อัปเกรดแถบบ้านของคุณด้วยรหัสคูปองและส่วนลด Bartesian ล่าสุด ประหยัดกับเครื่องทำค็อกเทลมืออาชีพ เพลิดเพลินกับส่วนลดการสมัครสมาชิก และรับค่าจัดส่งฟรีสำหรับแคปซูลที่คุณชื่นชอบ"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Prediction Market Betting Is Getting People Banned and Arrested",
-      "summary_en": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
-      "image": "https://media.wired.com/photos/6a98be202f048bd98be06316/master/pass/Uncanny-Valley-George-Santos-Politics-2211292507.jpg",
-      "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
-      "published": "Thu, 03 Sep 2026 21:48:24 +0000",
-      "title_th": "การเดิมพันแบบทำนายตลาดทำให้ผู้คนถูกแบนและจับกุม",
-      "summary_th": "สัปดาห์นี้ที่ Uncanny Valley เราเจาะลึกตลาดการทำนายล่าสุด เครื่องมือค้นหาตำรวจที่ขับเคลื่อนด้วย AI ของ Flock และวิธีที่พี่น้องเทคโนโลยีไม่รู้ว่าจะพูดคุยเกี่ยวกับตัวแทน AI “สีแดง” ได้อย่างไร"
+      "title_en": "Dermstore Coupons: 25% Off for September 2026",
+      "summary_en": "Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.",
+      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png",
+      "link": "https://www.wired.com/story/dermstore-promo-code/",
+      "published": "Fri, 04 Sep 2026 05:00:00 +0000",
+      "title_th": "คูปอง Dermstore: ลด 25% สำหรับเดือนกันยายน 2569",
+      "summary_th": "ประหยัดได้มากสำหรับผลิตภัณฑ์ดูแลผิวระดับพรีเมียม ผลิตภัณฑ์ดูแลเส้นผม และเครื่องสำอางด้วยรหัสส่วนลดและข้อเสนอรางวัลจาก Dermstore ที่ตรวจสอบแล้วเหล่านี้"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
-      "summary_en": "OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
-      "image": "https://media.wired.com/photos/6a99abf8b2409d6188eae980/master/pass/GPT-6-Can-Use-Computer-Better-Than-Human-Business-1015939026.jpg",
-      "link": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
-      "published": "Thu, 03 Sep 2026 18:06:24 +0000",
-      "title_th": "GPT-6 Astra มาถึงแล้ว และ OpenAI คิดว่าอาจเป็นการเริ่มต้นยุค AGI",
-      "summary_th": "ผู้นำ OpenAI คิดว่าโมเดลเจเนอเรชั่นถัดไปของบริษัท ซึ่งมีความเป็นเลิศในการใช้คอมพิวเตอร์และการเขียนโค้ด อาจเป็นก้าวสำคัญในการพัฒนา AI"
+      "title_en": "Groupon Promo Codes: 60% Off in September 2026",
+      "summary_en": "Unlock up to 60% off, 40% off packages, and 20% off with top Groupon coupon codes. Explore coupons to save extra on travel getaways, holiday gifts, spa days, and event tickets.",
+      "image": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg",
+      "link": "https://www.wired.com/story/groupon-promo-code/",
+      "published": "Fri, 04 Sep 2026 05:00:00 +0000",
+      "title_th": "รหัสโปรโมชั่น Groupon: ลด 60% ในเดือนกันยายน 2569",
+      "summary_th": "ปลดล็อกส่วนลดสูงสุดถึง 60% ลดแพ็คเกจ 40% และลด 20% พร้อมรหัสคูปอง Groupon ชั้นนำ สำรวจคูปองเพื่อรับส่วนลดพิเศษสำหรับการเดินทางท่องเที่ยว ของขวัญวันหยุด วันสปา และตั๋วกิจกรรม"
     },
     {
       "source": "MIT Technology Review",
@@ -299,8 +299,32 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/centauri-route2.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
       "published": "Tue, 01 Sep 2026 19:10:36 +0000",
-      "title_th": "How AI plotted an interstellar journey to Alpha Centauri",
+      "title_th": "AI วางแผนการเดินทางระหว่างดวงดาวไปยัง Alpha Centauri ได้อย่างไร",
       "summary_th": "องค์กรไม่แสวงหาผลกำไรชื่อ Fermi Explorer Mission ประกาศในวันนี้ว่าตั้งใจที่จะเปิดตัวยานอวกาศไปยังระบบดาวที่ใกล้ที่สุดภายในสิ้นปี 2572 ภารกิจนี้มีความทะเยอทะยานอย่างมาก หากทุกอย่างเป็นไปด้วยดี ยานอวกาศอาจใช้เวลาถึง 80,000 ปีจึงจะมาถึง Alpha Centauri ซึ่งอยู่ห่างออกไป 4.4 ปีแสง และ..."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "This rugged smartphone's camera is a removable action cam",
+      "summary_en": "RugOne's newest ruggedized phone has a waterproof action cam that you can remove.",
+      "image": "https://www.engadget.com/img/gallery/this-rugged-smartphones-camera-is-a-removable-action-cam/l-intro-1788261828.jpg",
+      "link": "https://www.engadget.com/2248386/rugged-smartphones-camera-is-a-removable-action-cam-ifa-2026/",
+      "published": "Fri, 04 Sep 2026 07:00:00 +0000",
+      "title_th": "กล้องของสมาร์ทโฟนที่ทนทานนี้เป็นกล้องแอ็คชั่นแบบถอดได้",
+      "summary_th": "โทรศัพท์ที่ทนทานใหม่ล่าสุดของ RugOne มีกล้องแอคชั่นกันน้ำที่คุณสามารถถอดออกได้"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "ev",
+      "title_en": "Tesla starts offering Cybercab robotaxi rides",
+      "summary_en": "Tesla has officially launched the Cybercab, its autonomous vehicle with no steering wheel.",
+      "image": "https://www.engadget.com/img/gallery/tesla-offering-cybercab-robotaxi-rides/l-intro-1788504257.jpg",
+      "link": "https://www.engadget.com/2250874/tesla-offering-cybercab-robotaxi-rides/",
+      "published": "Fri, 04 Sep 2026 06:41:33 +0000",
+      "title_th": "Tesla เริ่มให้บริการขี่ Cybercab robotaxi แล้ว",
+      "summary_th": "Tesla เปิดตัว Cybercab รถยนต์ขับเคลื่อนอัตโนมัติไร้พวงมาลัยอย่างเป็นทางการ"
     },
     {
       "source": "Engadget",
@@ -339,30 +363,6 @@
       "summary_th": "Ugreen มีฮับใหม่สามแห่งที่ขับเคลื่อนบ้านอัจฉริยะของคุณด้วย AI ในพื้นที่แทนที่จะเป็นระบบคลาวด์ รุ่นท็อปทำงานบนแพลตฟอร์ม Jetson Thor ของ Nvidia และราคา 20,000 ดอลลาร์"
     },
     {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "SpaceXAI apologizes for outage that affected Grok and other 'compute partners'",
-      "summary_en": "Several AI companies experienced issues at around the same time.",
-      "image": "https://www.engadget.com/img/gallery/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners/l-intro-1788472233.jpg",
-      "link": "https://www.engadget.com/2250789/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners/",
-      "published": "Thu, 03 Sep 2026 21:52:34 +0000",
-      "title_th": "SpaceXAI ขออภัยสำหรับการหยุดทำงานที่ส่งผลกระทบต่อ Grok และ 'พันธมิตรด้านคอมพิวเตอร์' อื่น ๆ",
-      "summary_th": "บริษัท AI หลายแห่งประสบปัญหาในเวลาเดียวกัน"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "The Apple Vision Pro was used for a successful hip surgery",
-      "summary_en": "Stryker says its SportSuite Vision software for the headset received De Novo authorization from the FDA in July.",
-      "image": "https://www.engadget.com/img/gallery/apple-vision-pro-was-used-for-a-successful-hip-surgery/l-intro-1788469479.jpg",
-      "link": "https://www.engadget.com/2250758/stryker-apple-vision-pro-sportsuite-app-in-hip-arthroscopy/",
-      "published": "Thu, 03 Sep 2026 21:14:11 +0000",
-      "title_th": "The Apple Vision Pro was used for a successful hip surgery",
-      "summary_th": "Stryker says its SportSuite Vision software for the headset received De Novo authorization from the FDA in July."
-    },
-    {
       "source": "IEEE Spectrum",
       "flag": "US",
       "category": "robot",
@@ -371,8 +371,8 @@
       "image": "https://spectrum.ieee.org/media-library/industrial-robotic-arm-with-cable-management-system-and-flexible-energy-chains.jpg?id=67633840&width=980",
       "link": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
       "published": "Thu, 03 Sep 2026 12:18:21 +0000",
-      "title_th": "Protecting Dynamic Industrial Robot Cable Carriers",
-      "summary_th": "This article is brought to you by Tsubaki KabelSchlepp . In modern automated manufacturing, six-axis articulated robots perform high-speed, multidirectional maneuvers under demanding operational cycles. However, as robot arms swivel, rotate, and extend, the electrical cables, fiber optics, and pneumatic hoses supplying them endure severe mechanical stress. Torsional twist, rapid acceleration, and repeated contact with machine structures often lead to premature conductor fatigue, insulation breakdown, and costly unplanned production halts. To overcome these multi-axis motion challenges, the Tsubaki KabelSchlepp Robotrax System provides a specialized three-dimensional cable carrier engineered specifically for complex robotic motion. Managing High Tensile Forces With Central Steel Technology "
+      "title_th": "การปกป้องผู้ให้บริการเคเบิลหุ่นยนต์อุตสาหกรรมแบบไดนามิก",
+      "summary_th": "บทความนี้นำเสนอโดย Tsubaki KabelSchlepp ในการผลิตแบบอัตโนมัติสมัยใหม่ หุ่นยนต์แบบข้อต่อหกแกนดำเนินการควบคุมด้วยความเร็วสูงหลายทิศทางภายใต้วงจรการปฏิบัติงานที่มีความต้องการสูง อย่างไรก็ตาม ในขณะที่แขนหุ่นยนต์หมุน หมุน และยืดออก สายเคเบิลไฟฟ้า ไฟเบอร์ออปติก และท่อนิวแมติกที่จ่ายให้กับแขนจะต้องทนต่อความเครียดทางกลที่รุนแรง การบิดตัวแบบบิด การเร่งความเร็วอย่างรวดเร็ว และการสัมผัสกับโครงสร้างของเครื่องจักรซ้ำๆ มักจะนำไปสู่ความล้าของตัวนำก่อนเวลาอันควร ฉนวนพังทลาย และการหยุดการผลิตโดยไม่ได้วางแผนซึ่งมีค่าใช้จ่ายสูง เพื่อเอาชนะความท้าทายในการเคลื่อนที่แบบหลายแกนเหล่านี้ Tsubaki KabelSchlepp Robotrax System จึงมอบตัวพาสายเคเบิลสามมิติพิเศษที่ออกแบบเป็นพิเศษสำหรับการเคลื่อนที่ของหุ่นยนต์ที่ซับซ้อน การจัดการแรงดึงสูงด้วยเทคโนโลยี Central Steel"
     },
     {
       "source": "IEEE Spectrum",
@@ -383,8 +383,8 @@
       "image": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=980",
       "link": "https://spectrum.ieee.org/forms-of-engineering-mentorship",
       "published": "Wed, 02 Sep 2026 19:45:58 +0000",
-      "title_th": "Applying Different Forms of Mentorship",
-      "summary_th": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! Asking someone to be your mentor is weird. Walking up to someone and asking, “Will you be my mentor?” has always seemed to me like the adult version of a kid walking up to another kid at a party and asking, “Will you be my friend?” What you’re really asking is: “Will you commit some amount of unpaid time to guiding my career for an indefinite period?” Framed that way, of course some people hesitate to say yes. But formal mentorship isn’t the only way to benefit from the wisdom of those who came before. I’ve never formally asked anyone to mento"
+      "title_th": "การใช้รูปแบบการให้คำปรึกษาที่แตกต่างกัน",
+      "summary_th": "บทความนี้คัดลอกมาจากจดหมายข่าวอาชีพของ IEEE Spectrum ลงทะเบียนตอนนี้เพื่อรับเคล็ดลับจากวงใน คำแนะนำจากผู้เชี่ยวชาญ และกลยุทธ์เชิงปฏิบัติ เขียนโดยความร่วมมือกับบริษัทพัฒนาอาชีพด้านเทคโนโลยี Parsity และส่งตรงถึงกล่องจดหมายของคุณฟรี! การขอให้ใครสักคนเป็นที่ปรึกษาของคุณนั้นแปลก เดินเข้าไปหาใครสักคนแล้วถามว่า “คุณจะเป็นที่ปรึกษาให้ผมไหม?” สำหรับฉันดูเหมือนเด็กผู้ใหญ่จะเดินไปหาเด็กอีกคนในงานปาร์ตี้แล้วถามว่า “คุณจะเป็นเพื่อนกับฉันไหม” สิ่งที่คุณถามจริงๆ คือ: “คุณจะสละเวลาโดยไม่ได้รับค่าตอบแทนเพื่อชี้แนะอาชีพของฉันเป็นระยะเวลาไม่มีกำหนดหรือไม่?” ใส่ร้ายแบบนั้น แน่นอนว่าบางคนลังเลที่จะตอบตกลง แต่การให้คำปรึกษาอย่างเป็นทางการไม่ใช่วิธีเดียวที่จะได้รับประโยชน์จากภูมิปัญญาของผู้มาก่อน ฉันไม่เคยขอให้ใครให้คำปรึกษาอย่างเป็นทางการ"
     },
     {
       "source": "IEEE Spectrum",
@@ -395,8 +395,8 @@
       "image": "https://spectrum.ieee.org/media-library/close-up-of-an-extended-robotic-arm-in-low-earth-orbit.jpg?id=67717218&width=980",
       "link": "https://spectrum.ieee.org/canadarm-ieee-300th-milestone",
       "published": "Wed, 02 Sep 2026 18:00:03 +0000",
-      "title_th": "NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone",
-      "summary_th": "In the 1960s NASA began developing a system of reusable space shuttles to make its work more efficient and to reduce costs. The shuttles could launch like rockets, maneuver in Earth’s orbit, and land like airplanes. They also could carry large satellites to and from orbit. Like other types of transportation, machinery eventually breaks down, and parts need to be replaced or fixed. And the cargo being carried to and from Earth has to be moved to its final destination. To complete such tasks, Spar Aerospace (now part of MDA Space ) of Brampton, Ont., Canada, and the National Research Council in Ottawa developed a robotic arm, the Shuttle Remote Manipulator System . The project was a joint venture between the U.S. and Canadian governments. Known as Canadarms , the robotic tools attached to sh"
+      "title_th": "แขนหุ่นยนต์ขนย้ายสินค้าของ NASA ได้รับรางวัล IEEE ครั้งที่ 300",
+      "summary_th": "ในทศวรรษ 1960 NASA เริ่มพัฒนาระบบกระสวยอวกาศที่นำกลับมาใช้ใหม่ได้เพื่อให้งานมีประสิทธิภาพมากขึ้นและลดต้นทุน กระสวยอวกาศสามารถพุ่งได้เหมือนจรวด เคลื่อนตัวในวงโคจรของโลก และลงจอดได้เหมือนเครื่องบิน พวกเขายังสามารถบรรทุกดาวเทียมขนาดใหญ่เข้าและออกจากวงโคจรได้ เช่นเดียวกับการขนส่งประเภทอื่นๆ เครื่องจักรจะพังในที่สุด และจำเป็นต้องเปลี่ยนหรือซ่อมแซมชิ้นส่วนต่างๆ และสินค้าที่ถูกขนส่งเข้าและออกจากโลกจะต้องถูกย้ายไปยังจุดหมายปลายทางสุดท้าย เพื่อทำงานดังกล่าวให้เสร็จสิ้น Spar Aerospace (ปัจจุบันเป็นส่วนหนึ่งของ MDA Space) ในเมืองแบรมป์ตัน รัฐออนแทรีโอ แคนาดา และสภาวิจัยแห่งชาติในออตตาวาได้พัฒนาแขนหุ่นยนต์ที่เรียกว่า Shuttle Remote Manipulator System โครงการนี้เป็นการร่วมทุนระหว่างรัฐบาลสหรัฐฯ และแคนาดา รู้จักกันในชื่อ Canadarms ซึ่งเป็นเครื่องมือหุ่นยนต์ที่ติดอยู่กับ sh"
     },
     {
       "source": "IEEE Spectrum",
@@ -455,7 +455,7 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/09/03/happy-hour-606/",
       "published": "Thu, 03 Sep 2026 20:00:29 +0000",
-      "title_th": "John Ternus is now Apple CEO, last-minute iPhone event rumors, Apple TV price increase",
+      "title_th": "John Ternus ตอนนี้เป็น CEO ของ Apple, ข่าวลือเรื่อง iPhone ในนาทีสุดท้าย, ราคา Apple TV เพิ่มขึ้น",
       "summary_th": "Benjamin และ Chance พูดคุยเกี่ยวกับสัปดาห์แรกของ John Ternus ในตำแหน่ง CEO ของ Apple และ Tim Cook จะยังคงมีส่วนร่วมมากแค่ไหน นอกจากนี้ยังเป็นโอกาสสุดท้ายสำหรับข่าวลือเกี่ยวกับเหตุการณ์ iPhone โดยมีรายละเอียดเกี่ยวกับการอัปเดตด้านสุขภาพสำหรับ Apple Watch Series 12 ที่จะมาถึงข้างหน้า และมีการขึ้นราคาการสมัครสมาชิก Apple TV เป็นครั้งที่สองในรอบหลายปี และใน Happy Hour Plus ก่อนเปิดตัว iPhone 18 Pro เราได้สะท้อนให้เห็นถึงประสบการณ์เชิงบวกโดยรวมของเราในการใช้ iPhone Air ตลอดทั้งปี สมัครสมาชิกที่ 9to5mac.com/join สนับสนุนโดย Square : รับส่วนลดฮาร์ดแวร์ Square สูงสุดถึง $200 เมื่อคุณสมัครที่ square.com/go/happyhour สนับสนุนโดย Bitwarden : ลงทะเบียนเข้าร่วมการประชุมสุดยอด Open Source Security Summit เสมือนจริงฟรีในวันที่ 17 กันยายน โดยมีผู้นำด้านความปลอดภัยทางไซเบอร์ David Sanger และ Joseph Menn —"
     },
     {
@@ -527,8 +527,8 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Android-Motion-Assist-cover.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/09/03/android-motion-assist-rollout/",
       "published": "Thu, 03 Sep 2026 21:02:00 +0000",
-      "title_th": "วิธีตรวจสอบว่า Motion Assist เปิดตัวในโทรศัพท์ Android 17 ของคุณหรือไม่",
-      "summary_th": "หลังจากประกาศเมื่อวันอังคาร Google จะค่อยๆ เปิดตัว Motion Assist บนโทรศัพท์ที่ใช้ Android 17 เพิ่มเติม..."
+      "title_th": "How to check if Motion Assist has rolled out to your Android 17 phone",
+      "summary_th": "Following the announcement on Tuesday , Google is slowly rolling out Motion Assist to phones running Android 17. more…"
     },
     {
       "source": "9to5Google",
@@ -541,6 +541,18 @@
       "published": "Thu, 03 Sep 2026 20:50:00 +0000",
       "title_th": "OpenAI เปิดตัว GPT-6 Astra ‘โมเดลที่ชาญฉลาดและสอดคล้องกันมากที่สุดในโลก’ ที่คุณยังใช้ไม่ได้",
       "summary_th": "หลังจากการขัดข้องในวันนี้ OpenAI กำลังเปิดตัว GPT-6 Astra ซึ่งเป็นรุ่นล่าสุดที่ \"ฉลาดที่สุดในโลก\" มากกว่า…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Tesla announces Robotaxi has driven 1 million unsupervised miles",
+      "summary_en": "Tesla said today that its Robotaxis have driven a total of 1 million miles without a human driver supervising them. The number is more than double what we heard at the last check-in just six weeks ago, as Tesla finally shifts away from human “safety drivers.” more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2025/06/tesla-robotaxi-hero.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/03/tesla-announces-1-million-unsupervised-miles-driven-by-robotaxi/",
+      "published": "Fri, 04 Sep 2026 05:04:32 +0000",
+      "title_th": "Tesla ประกาศว่า Robotaxi ขับขี่ไปแล้ว 1 ล้านไมล์โดยไม่ได้รับการดูแล",
+      "summary_th": "Tesla กล่าวในวันนี้ว่า Robotaxis ของตนได้ขับเคลื่อนเป็นระยะทางรวม 1 ล้านไมล์โดยไม่มีคนขับคอยดูแล จำนวนดังกล่าวมากกว่าสองเท่าของสิ่งที่เราได้ยินในการเช็คอินครั้งล่าสุดเมื่อหกสัปดาห์ที่แล้ว เนื่องจากในที่สุด Tesla ก็เปลี่ยนจาก \"ผู้ขับเคลื่อนความปลอดภัย\" ของมนุษย์ มากกว่า…"
     },
     {
       "source": "Electrek",
@@ -589,18 +601,6 @@
       "published": "Thu, 03 Sep 2026 21:07:12 +0000",
       "title_th": "รถตู้ไฟฟ้า PV7 ที่ใหญ่กว่าของ Kia ใช้งานได้จริง ทำให้ PV5 ดูเล็ก",
       "summary_th": "PV7 ถูกพบเห็นในการทดสอบหลายวันหลังจากที่ Kia แสดงตัวอย่างรถตู้ไฟฟ้าขนาดใหญ่เป็นครั้งแรก และทำให้ PV5 ดูเล็กลง มากกว่า…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "These top-selling EVs are on sale for Labor Day",
-      "summary_en": "The Hyundai IONIQ 5 and Toyota bZ are on sale for Labor Day to clear inventory for the incoming 2027 models. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Hyundai-IONIQ-5-best-EV-2.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/03/top-selling-evs-on-sale-labor-day/",
-      "published": "Thu, 03 Sep 2026 19:42:31 +0000",
-      "title_th": "EV ที่ขายดีที่สุดเหล่านี้ลดราคาในวันแรงงาน",
-      "summary_th": "Hyundai IONIQ 5 และ Toyota bZ ลดราคาเนื่องในวันแรงงาน เพื่อเคลียร์สินค้าคงคลังสำหรับรุ่นปี 2027 ที่จะมาถึง มากกว่า…"
     }
   ],
   "indices": [
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 243.0,
-      "change": -3.0,
-      "change_pct": -1.22
+      "price": 248.0,
+      "change": 5.0,
+      "change_pct": 2.06
     }
   ],
   "reviews": [
@@ -698,7 +698,7 @@
       "link": "https://www.youtube.com/watch?v=ngPkbaZliaU",
       "thumbnail": "https://i3.ytimg.com/vi/ngPkbaZliaU/hqdefault.jpg",
       "published": "2026-08-24T20:27:50+00:00",
-      "title_th": "The Truth About the Bezelless Concept Phone"
+      "title_th": "ความจริงเกี่ยวกับโทรศัพท์แนวคิด Bezelless"
     },
     {
       "channel": "Unbox Therapy",
@@ -733,6 +733,16 @@
     {
       "channel": "Beartai",
       "country": "TH",
+      "title_en": "รีวิว Denon Home 2 Series ทุกรุ่น เติมเสียงให้ทั่วบ้าน",
+      "video_id": "F5kKkPtggk4",
+      "link": "https://www.youtube.com/watch?v=F5kKkPtggk4",
+      "thumbnail": "https://i3.ytimg.com/vi/F5kKkPtggk4/hqdefault.jpg",
+      "published": "2026-09-04T04:00:36+00:00",
+      "title_th": "รีวิว Denon Home 2 Series ทุกรุ่น เติมเสียงให้ทั่วบ้าน"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
       "title_en": "ก้าวข้ามคำว่า 'ก๊อปปี้'",
       "video_id": "r5tj0v8vxts",
       "link": "https://www.youtube.com/shorts/r5tj0v8vxts",
@@ -749,16 +759,6 @@
       "thumbnail": "https://i4.ytimg.com/vi/CUnF6Cxzq3I/hqdefault.jpg",
       "published": "2026-09-03T10:00:11+00:00",
       "title_th": "DNA File รหัสลับของชีวิต EP.2 เราทุกคนคือผู้มาเยือน"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "GCNT Expo 2026: จาก Shock สู่ Shift เปลี่ยนวิกฤตประเทศไทยให้ไปต่ออย่างยั่งยืน",
-      "video_id": "1Dm97YVomV4",
-      "link": "https://www.youtube.com/shorts/1Dm97YVomV4",
-      "thumbnail": "https://i2.ytimg.com/vi/1Dm97YVomV4/hqdefault.jpg",
-      "published": "2026-09-03T09:16:44+00:00",
-      "title_th": "GCNT Expo 2026: จาก Shock สู่ Shift เปลี่ยนวิกฤตประเทศไทยให้ไปต่ออย่างยั่งยืน"
     },
     {
       "channel": "Droidsans",
