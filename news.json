@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-04T07:29:44.438717+00:00",
+  "generated_at": "2026-09-04T13:03:09.258486+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "ev",
+      "title_en": "Feds launch investigation into Tesla’s Cybercab deployment",
+      "summary_en": "The investigation was launched just a few hours after Tesla put the first production Cybercabs on the road in Austin.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
+      "published": "Fri, 04 Sep 2026 12:01:14 +0000",
+      "title_th": "Feds เริ่มการสอบสวนการใช้งาน Cybercab ของ Tesla",
+      "summary_th": "การสอบสวนเริ่มขึ้นเพียงไม่กี่ชั่วโมงหลังจากที่ Tesla นำ Cybercabs การผลิตครั้งแรกออกสู่ท้องถนนในออสติน"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -12,7 +24,7 @@
       "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
       "published": "Fri, 04 Sep 2026 04:21:03 +0000",
       "title_th": "ปัญหาความเหมือนกันเบื้องหลังเมนูที่สร้างโดย AI ที่ไม่น่ารับประทาน",
-      "summary_th": "แม้ว่าเจ้าของร้านอาหารอาจมองว่า AI เจนเนอเรชั่นเป็นทางลัดในการจัดเมนูให้เรียบร้อย ลูกค้าสามารถรับรู้ได้อย่างชัดเจนว่ามีบางอย่างผิดปกติกับอาหาร"
+      "summary_th": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food."
     },
     {
       "source": "TechCrunch",
@@ -51,76 +63,64 @@
       "summary_th": "บริษัทเผยแพร่แบบฟอร์มบนเว็บไซต์เมื่อวันพฤหัสบดีเพื่อขอข้อมูลจากผู้ที่สนใจ \"การซื้อยานพาหนะของ Cybercab\""
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Startup ARR is less secure than ever, new research shows",
-      "summary_en": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/PM-Images.jpg?resize=1200,855",
-      "link": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
-      "published": "Thu, 03 Sep 2026 20:59:23 +0000",
-      "title_th": "ผลวิจัยใหม่เผย Startup ARR มีความปลอดภัยน้อยลงกว่าเดิม",
-      "summary_th": "ยุค AI ได้ทำลายรูปแบบการซื้อขององค์กรโดยสิ้นเชิง และสตาร์ทอัพยังไม่รู้ว่าจะนำทางอย่างไร"
+      "category": "gadget",
+      "title_en": "iRobot unveils the Roomba Duo",
+      "summary_en": "The original robot vacuum company showed off a concept robot at the IFA tech show in Berlin today. The Roomba Duo combines a heavy-duty floor-washing machine with a smaller, slimmer Roomba. The two floor cleaners can move around your home together, with the main unit mopping and sweeping larger floor areas and the smaller unit […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/LR6B5785.jpeg?quality=90&strip=all&crop=0%2C10.729258416383%2C100%2C78.541483167234&w=1200",
+      "link": "https://www.theverge.com/tech/990045/irobot-roomba-duo-concept-robot-vacuum",
+      "published": "2026-09-04T08:53:49-04:00",
+      "title_th": "iRobot เปิดตัว Roomba Duo",
+      "summary_th": "บริษัทหุ่นยนต์ดูดฝุ่นดั้งเดิมได้แสดงแนวคิดหุ่นยนต์ที่งานแสดงเทคโนโลยี IFA ในกรุงเบอร์ลินวันนี้ Roomba Duo ผสมผสานเครื่องซักผ้าถูพื้นสำหรับงานหนักเข้ากับ Roomba ที่เล็กกว่าและบางกว่า น้ำยาทำความสะอาดพื้นสองตัวสามารถเคลื่อนที่ไปรอบๆ บ้านของคุณพร้อมๆ กัน โดยยูนิตหลักจะถูพื้นและกวาดพื้นที่ขนาดใหญ่ขึ้นและยูนิตที่เล็กกว่า […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "gadget",
-      "title_en": "Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick",
-      "summary_en": "Following the lead of companies like Xteink, Lexar is the latest to sacrifice a USB-C port in the pursuit of slimming down its hardware. When the Lexar Muse Ultra-Slim Portable SSD launches later this year in 512GB and 1TB capacities it will be one of the slimmest you can buy. At its thickest point in […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/lexarmuse1.jpg?quality=90&strip=all&crop=0,10.766205118665,100,78.46758976267",
-      "link": "https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable",
-      "published": "2026-09-04T03:00:00-04:00",
-      "title_th": "Muse ของ Lexar เป็น SSD แบบพกพาขนาดบางพิเศษที่มีความหนาน้อยกว่า 4 มม",
-      "summary_th": "ตามการเป็นผู้นำของบริษัทอย่าง Xteink Lexar คือบริษัทล่าสุดที่เสียสละพอร์ต USB-C เพื่อแสวงหาการลดขนาดฮาร์ดแวร์ลง เมื่อ Lexar Muse Ultra-Slim Portable SSD เปิดตัวในปลายปีนี้ด้วยความจุ 512GB และ 1TB มันจะเป็นหนึ่งใน SSD ที่บางที่สุดที่คุณสามารถซื้อได้ เมื่อถึงจุดที่หนาที่สุดใน […]"
+      "title_en": "Bluetti launches ‘e-generator’ to take on noisy, stinky, polluting gas generators",
+      "summary_en": "Bluetti doesn't want you to call the Pioneer 5000 a solar generator (SoGen), even though that's what it is. What makes it slightly different from other large power stations that can be charged off solar - aka, a SoGen - is the dolly cart and up to 18KW of instant surge power available to start […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/bluetti-egenerator.png?quality=90&strip=all&crop=0%2C13.903612890638%2C100%2C72.192774218725&w=1200",
+      "link": "https://www.theverge.com/tech/986123/bluetti-pioneer-5000-solar-generator",
+      "published": "2026-09-04T08:00:00-04:00",
+      "title_th": "Bluetti เปิดตัว 'e-generator' เพื่อจัดการกับเครื่องกำเนิดก๊าซที่มีเสียงดัง เหม็น และก่อให้เกิดมลพิษ",
+      "summary_th": "Bluetti doesn't want you to call the Pioneer 5000 a solar generator (SoGen), even though that's what it is. What makes it slightly different from other large power stations that can be charged off solar - aka, a SoGen - is the dolly cart and up to 18KW of instant surge power available to start […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "software",
-      "title_en": "Aqara goes all in on smart lighting",
-      "summary_en": "After showing off several smart home firsts at CES, Aqara has returned to IFA with a major lineup of smart lighting compatible with both Zigbee and Thread. One of these new devices is the Floor Lamp T1, which trades the look of a typical lamp for an LED-equipped pole attached to a base. The lamp […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Floor-Lamp-T1-Image_1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "link": "https://www.theverge.com/tech/989581/aqara-smart-lighting-ifa-2026",
-      "published": "2026-09-04T03:00:00-04:00",
-      "title_th": "Aqara ทุ่มเต็มที่ในเรื่องระบบไฟอัจฉริยะ",
-      "summary_th": "หลังจากจัดแสดงสมาร์ทโฮมหลายรายการครั้งแรกในงาน CES แล้ว Aqara ก็กลับมาที่ IFA พร้อมกับกลุ่มผลิตภัณฑ์ไฟอัจฉริยะหลักที่เข้ากันได้กับทั้ง Zigbee และ Thread หนึ่งในอุปกรณ์ใหม่เหล่านี้คือโคมไฟตั้งพื้น T1 ซึ่งเปลี่ยนรูปลักษณ์ของโคมไฟทั่วไปกับเสาที่ติดตั้ง LED ที่ติดอยู่กับฐาน โคมไฟ […]"
+      "title_en": "We spent the week testing IFA’s best (and weirdest) gadgets, ask us anything",
+      "summary_en": "Europe's biggest tech trade show, IFA, has taken over Berlin this week - and we've been on the ground all week checking it out in person. We figure you have questions, so we're hosting an AMA that's exclusive to Verge subscribers at 12PM ET today. That's when we'll start dropping answers, but you can ask […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ifa-ama-2026.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+      "link": "https://www.theverge.com/tech/989199/ifa-berlin-2026-gadgets-ask-us-anything",
+      "published": "2026-09-04T08:00:00-04:00",
+      "title_th": "เราใช้เวลาหนึ่งสัปดาห์ในการทดสอบอุปกรณ์ที่ดีที่สุด (และแปลกประหลาดที่สุด) ของ IFA ถามเราได้ทุกอย่าง",
+      "summary_th": "งานแสดงสินค้าเทคโนโลยีที่ใหญ่ที่สุดของยุโรป IFA ได้เข้ายึดกรุงเบอร์ลินในสัปดาห์นี้ และเราได้ลงพื้นที่ตลอดทั้งสัปดาห์เพื่อตรวจสอบด้วยตนเอง เราคิดว่าคุณมีคำถาม ดังนั้นเราจึงจัดงาน AMA ที่เป็นเอกสิทธิ์สำหรับสมาชิก Verge วันนี้เวลา 12.00 น. ET นั่นคือเวลาที่เราจะเริ่มทิ้งคำตอบ แต่คุณสามารถถาม […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "software",
-      "title_en": "This rugged phone’s removable camera can survive and capture your extreme adventures",
-      "summary_en": "RugOne's Xsnap 7 Pro comes with both an IP68 and IP69K rating, meaning the rugged phone can survive intense water blasts and complete submersion for up to 30 minutes. But what really sets the Xsnap 7 Pro apart from everything else on the market is that one of its three rear cameras can be removed […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/rugone1.jpg?quality=90&strip=all&crop=0%2C10.723395278369%2C100%2C78.553209443262&w=1200",
-      "link": "https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof",
-      "published": "2026-09-04T03:00:00-04:00",
-      "title_th": "กล้องแบบถอดได้ของโทรศัพท์ที่ทนทานนี้สามารถอยู่รอดและบันทึกภาพการผจญภัยสุดขั้วของคุณได้",
-      "summary_th": "Xsnap 7 Pro ของ RugOne มาพร้อมกับทั้งระดับ IP68 และ IP69K ซึ่งหมายความว่าโทรศัพท์ที่ทนทานสามารถทนต่อการระเบิดของน้ำที่รุนแรงและจมอยู่ใต้น้ำได้นานถึง 30 นาที แต่สิ่งที่ทำให้ Xsnap 7 Pro แตกต่างจากอย่างอื่นในตลาดจริงๆ คือสามารถถอดกล้องหลังหนึ่งในสามตัวของมันออกได้ […]"
+      "title_en": "Instagram’s AI detection is a mess (again)",
+      "summary_en": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to images that they didn't create or edit using generative AI […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268439_ai_art_label_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+      "published": "2026-09-04T08:00:00-04:00",
+      "title_th": "การตรวจจับ AI ของ Instagram นั้นยุ่งเหยิง (อีกครั้ง)",
+      "summary_th": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to images that they didn't create or edit using generative AI […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
-      "category": "gadget",
-      "title_en": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
-      "summary_en": "Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision. But unofficially, modders have already ported a leaked version of DLSS 5 to run on just about anything while cranking […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25256536/246993_Nvidia_RTX_4080_Super_TWarren_0002.jpg?quality=90&strip=all&crop=0%2C10.471204188482%2C100%2C79.057591623037&w=1200",
-      "link": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
-      "published": "2026-09-03T21:49:25-04:00",
-      "title_th": "Nvidia จะนำ DLSS 5 มาสู่ GPU รุ่นเก่าอย่างเป็นทางการ แต่จะไม่ทำให้นักเล่นเกมควบคุมได้อย่างเต็มที่",
-      "summary_th": "อย่างเป็นทางการการเรนเดอร์ DLSS 5 AI ที่เป็นที่ถกเถียงของ Nvidia ควรจะเปิดตัวในเย็นวันนี้ด้วยเกมเดียวเท่านั้นบน RTX 50 GPU ล่าสุดของ Nvidia และให้นักพัฒนาควบคุมวิสัยทัศน์ทางศิลปะของตนได้อย่างเต็มที่ แต่อย่างไม่เป็นทางการ modders ได้ย้าย DLSS 5 เวอร์ชันที่รั่วไหลออกมาแล้วเพื่อให้ทำงานได้เกือบทุกอย่างในขณะที่หมุน […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "ev",
-      "title_en": "The unusually muted Tesla Cybercab launch",
-      "summary_en": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous vehicles, and humanoid robots. It […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2265246421.jpg?quality=90&strip=all&crop=0%2C15.098136889637%2C100%2C69.803726220726&w=1200",
-      "link": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
-      "published": "2026-09-03T20:25:06-04:00",
-      "title_th": "การเปิดตัว Tesla Cybercab ที่เงียบผิดปกติ",
-      "summary_th": "ที่งานส่วนตัวแบบปิดในเมืองออสติน รัฐเท็กซัส วันนี้ Tesla ได้เปิดตัวรถยนต์สีทองแห่งอนาคตอย่างเป็นทางการ นั่นคือ Cybercab ถือเป็นก้าวสำคัญสำหรับ Elon Musk ผู้ซึ่งคอยกระตุ้นการมาถึงของรถยนต์ไร้คนขับที่ใกล้จะมาถึงมานานหลายปี และได้เดิมพันอนาคตของบริษัทของเขาเกี่ยวกับ AI, ยานพาหนะที่ขับเคลื่อนอัตโนมัติ และหุ่นยนต์ฮิวแมนนอยด์ มัน […]"
+      "category": "software",
+      "title_en": "Why AI food looks like that",
+      "summary_en": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, and noodle-like pastries and stringy chicken. There's also construction material masquerading as ice cream, ice cream masquerading […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268722_Why_does_AI_food_look_like_that_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+      "published": "2026-09-04T07:00:00-04:00",
+      "title_th": "Why AI food looks like that",
+      "summary_th": "มีเรื่องไร้สาระที่ไม่น่ารับประทานมากมายที่มาจากร้านอาหาร ร้านกาแฟ และแบรนด์ต่างๆ ที่หันมาใช้ AI มากขึ้นเพื่อสร้างภาพที่โปรโมตอาหารของพวกเขา การแสดงสยองขวัญที่เกิดขึ้น ได้แก่ กุ้งโดนัท รูเบนส์จากเส้นบะหมี่ที่มีลักษณะคล้ายตัวหนอน และขนมอบคล้ายเส้นก๋วยเตี๋ยวและไก่เส้น นอกจากนี้ยังมีวัสดุก่อสร้างที่ปลอมตัวเป็นไอศกรีม ไอศกรีมที่ปลอมตัว […]"
     },
     {
       "source": "Ars Technica",
@@ -185,62 +185,86 @@
     {
       "source": "Wired",
       "flag": "US",
-      "category": "ai",
-      "title_en": "Foreo Discount Codes and Deals: Up to 50% Off",
-      "summary_en": "Save on Foreo favorites, including LUNA cleansing brushes, BEAR microcurrent devices, and masks and accessories to level up your daily skincare routine at home.",
-      "image": "https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png",
-      "link": "https://www.wired.com/story/foreo-promo-code/",
-      "published": "Fri, 04 Sep 2026 05:00:00 +0000",
-      "title_th": "รหัสส่วนลดและข้อเสนอของ Foreo: ลดสูงสุดถึง 50%",
-      "summary_th": "ประหยัดไปกับผลิตภัณฑ์ยอดนิยมของ Foreo รวมถึงแปรงทำความสะอาด LUNA อุปกรณ์ไมโครกระแสไฟ BEAR และมาส์กและอุปกรณ์เสริมเพื่อยกระดับกิจวัตรการดูแลผิวประจำวันของคุณที่บ้าน"
+      "category": "gadget",
+      "title_en": "Japan Is Launching a Probe to Collect the First-Ever Samples From a Martian Moon",
+      "summary_en": "The mission to Phobos, Japan’s first Mars probe launch in 28 years, may reveal new information about our closest planetary neighbor.",
+      "image": "https://media.wired.com/photos/6a970a6fa68d74f184f30efc/master/pass/mmx.jpg",
+      "link": "https://www.wired.com/story/japan-launching-probe-to-collect-first-ever-samples-martian-moon/",
+      "published": "Fri, 04 Sep 2026 12:00:00 +0000",
+      "title_th": "ญี่ปุ่นเริ่มส่งยานสำรวจเก็บตัวอย่างจากดวงจันทร์ดาวอังคารครั้งแรก",
+      "summary_th": "ภารกิจสำรวจโฟบอส ซึ่งเป็นการสำรวจดาวอังคารครั้งแรกของญี่ปุ่นในรอบ 28 ปี อาจเปิดเผยข้อมูลใหม่เกี่ยวกับดาวเคราะห์เพื่อนบ้านที่ใกล้ที่สุดของเรา"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Medicube Coupon Code: 40% Off for September 2026",
-      "summary_en": "Upgrade your K-beauty routine with these active Medicube promo codes. Save on Age-R devices, serums, and masks with student discounts and referral rewards.",
-      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
-      "link": "https://www.wired.com/story/medicube-coupon-code/",
-      "published": "Fri, 04 Sep 2026 05:00:00 +0000",
-      "title_th": "รหัสคูปอง Medicube: ลด 40% สำหรับเดือนกันยายน 2569",
-      "summary_th": "อัปเกรดกิจวัตร K-beauty ของคุณด้วยรหัสโปรโมชั่น Medicube ที่ใช้งานได้เหล่านี้ ประหยัดเมื่อซื้ออุปกรณ์ Age-R เซรั่ม และมาส์กพร้อมส่วนลดสำหรับนักเรียนและรางวัลการแนะนำ"
+      "title_en": "The Best Automatic Litter Box of 2026: Petkit and Litter-Robot",
+      "summary_en": "With these high-tech automatic litter boxes, gone are the days of scooping and smells. Welcome to the future.",
+      "image": "https://media.wired.com/photos/69d4403d94490f13c636bd21/master/pass/The-Best-Automatic-Litter-Boxes-Tested-by-Our-Spoiled-Cats.jpg",
+      "link": "https://www.wired.com/gallery/best-automatic-cat-litter-boxes/",
+      "published": "Fri, 04 Sep 2026 11:08:00 +0000",
+      "title_th": "กล่องทิ้งขยะอัตโนมัติที่ดีที่สุดของปี 2026: Petkit และ Litter-Robot",
+      "summary_th": "ด้วยกระบะทรายอัตโนมัติสุดไฮเทคเหล่านี้ หมดยุคแห่งการตักและดมกลิ่นอีกต่อไป ยินดีต้อนรับสู่อนาคต"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Bartesian Discount Codes: 35% Off",
-      "summary_en": "Upgrade your home bar with the latest Bartesian coupon codes and discounts. Save on the Professional Cocktail Maker, enjoy subscription discounts, and get free shipping on your favorite capsules.",
-      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
-      "link": "https://www.wired.com/story/bartesian-discount-code/",
-      "published": "Fri, 04 Sep 2026 05:00:00 +0000",
-      "title_th": "รหัสส่วนลด Bartesian: ลด 35%",
-      "summary_th": "อัปเกรดแถบบ้านของคุณด้วยรหัสคูปองและส่วนลด Bartesian ล่าสุด ประหยัดกับเครื่องทำค็อกเทลมืออาชีพ เพลิดเพลินกับส่วนลดการสมัครสมาชิก และรับค่าจัดส่งฟรีสำหรับแคปซูลที่คุณชื่นชอบ"
+      "title_en": "ICE Wants to Know Everyone Who Bought a Certain Green Beanie From REI in the Last 2 Years",
+      "summary_en": "Homeland Security Investigations agents hit the outdoor retailer with a controversial subpoena as part of a dragnet search for the identities of protesters who entered a Minnesota church in March.",
+      "image": "https://media.wired.com/photos/6a9a00ee5d2ca173f400bbc9/master/pass/Security_ICE%20Wants%20to%20Know%20Who%20Bought%20a%20Certain%20Green%20Beanie%20From%20REI%20in%20the%20Last%202%20Years_v1.jpg",
+      "link": "https://www.wired.com/story/ice-wants-to-know-who-bought-a-certain-green-beanie-from-rei-in-the-last-2-years/",
+      "published": "Fri, 04 Sep 2026 10:30:00 +0000",
+      "title_th": "ICE ต้องการรู้จักทุกคนที่ซื้อหมวกสีเขียวจาก REI ในช่วง 2 ปีที่ผ่านมา",
+      "summary_th": "เจ้าหน้าที่สืบสวนความมั่นคงแห่งมาตุภูมิโจมตีร้านค้าปลีกกลางแจ้งด้วยหมายศาลที่เป็นข้อขัดแย้ง ซึ่งเป็นส่วนหนึ่งของการค้นหาตัวตนของผู้ประท้วงที่เข้าไปในโบสถ์ในรัฐมินนิโซตาเมื่อเดือนมีนาคม"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Dermstore Coupons: 25% Off for September 2026",
-      "summary_en": "Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.",
-      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png",
-      "link": "https://www.wired.com/story/dermstore-promo-code/",
-      "published": "Fri, 04 Sep 2026 05:00:00 +0000",
-      "title_th": "คูปอง Dermstore: ลด 25% สำหรับเดือนกันยายน 2569",
-      "summary_th": "ประหยัดได้มากสำหรับผลิตภัณฑ์ดูแลผิวระดับพรีเมียม ผลิตภัณฑ์ดูแลเส้นผม และเครื่องสำอางด้วยรหัสส่วนลดและข้อเสนอรางวัลจาก Dermstore ที่ตรวจสอบแล้วเหล่านี้"
+      "title_en": "AI Use in the Job Market Is Creating an Infinite Doom Loop",
+      "summary_en": "Job seekers are trying to game the application process using AI. It’s not working, and not for the reasons you might think.",
+      "image": "https://media.wired.com/photos/6a9822cefee0db870262b29d/master/pass/AIvsAIJob.jpg",
+      "link": "https://www.wired.com/story/ai-job-market-infinite-doom-loop/",
+      "published": "Fri, 04 Sep 2026 10:00:00 +0000",
+      "title_th": "การใช้ AI ในตลาดงานกำลังสร้าง Doom Loop ที่ไม่มีที่สิ้นสุด",
+      "summary_th": "ผู้หางานพยายามเล่นเกมกระบวนการสมัครงานโดยใช้ AI มันใช้งานไม่ได้และไม่ใช่ด้วยเหตุผลที่คุณคิด"
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Groupon Promo Codes: 60% Off in September 2026",
-      "summary_en": "Unlock up to 60% off, 40% off packages, and 20% off with top Groupon coupon codes. Explore coupons to save extra on travel getaways, holiday gifts, spa days, and event tickets.",
-      "image": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg",
-      "link": "https://www.wired.com/story/groupon-promo-code/",
-      "published": "Fri, 04 Sep 2026 05:00:00 +0000",
-      "title_th": "รหัสโปรโมชั่น Groupon: ลด 60% ในเดือนกันยายน 2569",
-      "summary_th": "ปลดล็อกส่วนลดสูงสุดถึง 60% ลดแพ็คเกจ 40% และลด 20% พร้อมรหัสคูปอง Groupon ชั้นนำ สำรวจคูปองเพื่อรับส่วนลดพิเศษสำหรับการเดินทางท่องเที่ยว ของขวัญวันหยุด วันสปา และตั๋วกิจกรรม"
+      "title_en": "Silicon Valley Is Having a ‘Hot Girl Renaissance’",
+      "summary_en": "A San Francisco “Hot List” is trying to buck stereotypes about dating in tech circles amid wider debates about the value of being perceived as attractive.",
+      "image": "https://media.wired.com/photos/6a99faed6f7d62b638e21a4d/master/pass/SF-Tech-Girlies-Obsessed-With-Being-Hot-Culture.jpg",
+      "link": "https://www.wired.com/story/silicon-valley-is-having-a-hot-girl-renaissance/",
+      "published": "Fri, 04 Sep 2026 09:00:00 +0000",
+      "title_th": "Silicon Valley กำลังมี 'เรอเนซองส์สาวสุดฮอต'",
+      "summary_th": "“รายชื่อยอดนิยม” ในซานฟรานซิสโกพยายามต่อต้านทัศนคติแบบเหมารวมเกี่ยวกับการออกเดทในแวดวงเทคโนโลยี ท่ามกลางการถกเถียงในวงกว้างเกี่ยวกับคุณค่าของการถูกมองว่าน่าดึงดูด"
+    },
+    {
+      "source": "MIT Technology Review",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "The Download: selling battlefield drone data and AI reshaping language",
+      "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI’s impact on democracy, who previously served in the…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/drone-data.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+      "published": "Fri, 04 Sep 2026 12:10:00 +0000",
+      "title_th": "ดาวน์โหลด: ขายข้อมูลโดรนในสนามรบและภาษาที่ปรับรูปแบบ AI",
+      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี ข้อมูลจากโดรนในยูเครนกำลังขับเคลื่อนตลาด Wild West แห่งใหม่ — Cory Alpert นักวิจัยจากมหาวิทยาลัยเมลเบิร์นกำลังศึกษาผลกระทบของ AI ต่อประชาธิปไตย ซึ่งก่อนหน้านี้ทำหน้าที่ใน..."
+    },
+    {
+      "source": "MIT Technology Review",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "summary_en": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/drone-data.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "published": "Fri, 04 Sep 2026 09:25:19 +0000",
+      "title_th": "ข้อมูลจากโดรนในยูเครนกำลังขับเคลื่อนตลาด Wild West แห่งใหม่",
+      "summary_th": "สนามรบในยูเครนเกลื่อนไปด้วยเศษโดรน ซึ่งปัจจุบันได้รับการยอมรับอย่างมั่นคงว่าเป็นอาวุธสำคัญในการทำสงครามสมัยใหม่ แต่เบื้องหลังซากปรักหักพังทั้งหมดนั้น มีเหมืองทองคำใหม่สำหรับภาคการป้องกัน โดรนข้อมูลที่สร้างขึ้นจะอยู่ได้นานกว่าสงครามที่พวกเขาใช้ในการต่อสู้ และกลายเป็นส่วนหนึ่งมากขึ้นเรื่อยๆ..."
     },
     {
       "source": "MIT Technology Review",
@@ -276,31 +300,43 @@
       "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
       "published": "Wed, 02 Sep 2026 14:00:00 +0000",
       "title_th": "อำนวยความสะดวกในการบูรณาการ AI ด้วยความเรียบง่ายในวงกว้าง",
-      "summary_th": "เมื่อบริษัทขยายใหญ่ขึ้น การดำเนินการสนับสนุนด้านเทคโนโลยีอาจกลายเป็นหนี้สินได้อย่างรวดเร็วพอๆ กับที่จะกลายเป็นสินทรัพย์ ระบบที่ขาดการเชื่อมต่อ เครื่องมือเฉพาะไซต์ สเปรดชีต และวิธีแก้ปัญหาด้วยตนเอง สามารถสร้างไซโลข้อมูลที่ทำให้ตรวจพบปัญหาตั้งแต่เนิ่นๆ ได้ยากขึ้น ประสานการตอบสนอง และตัดสินใจได้อย่างมั่นใจ สำหรับ Jabil บริษัทผู้ผลิตระดับโลกที่มีมากกว่า..."
+      "summary_th": "เมื่อบริษัทขยายใหญ่ขึ้น การดำเนินการสนับสนุนเทคโนโลยีอาจกลายเป็นหนี้สินได้อย่างรวดเร็วพอๆ กับที่จะกลายเป็นสินทรัพย์ ระบบที่ขาดการเชื่อมต่อ เครื่องมือเฉพาะไซต์ สเปรดชีต และวิธีแก้ปัญหาด้วยตนเอง สามารถสร้างไซโลข้อมูลที่ทำให้ตรวจพบปัญหาตั้งแต่เนิ่นๆ ได้ยากขึ้น ประสานการตอบสนอง และตัดสินใจได้อย่างมั่นใจ สำหรับ Jabil บริษัทผู้ผลิตระดับโลกที่มีมากกว่า..."
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "The Download: AI puzzles and a path to our nearest star system",
-      "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/vincentkilbride-mit-technology-review-ai-puzzles-mobile.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
-      "published": "Wed, 02 Sep 2026 12:10:00 +0000",
-      "title_th": "ดาวน์โหลด: ปริศนา AI และเส้นทางสู่ระบบดาวที่ใกล้ที่สุด",
-      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี โมเดล AI ขัดขวางการทดสอบความฉลาดเหล่านี้ คุณสามารถค่าโดยสารที่ดีกว่านี้ได้ไหม? ปริศนาและเกมถือเป็นหัวใจสำคัญของการพัฒนา AI มาโดยตลอด คำว่า “การเรียนรู้ของเครื่อง” ได้รับความนิยมในบทความปี 1959..."
+      "category": "review",
+      "title_en": "Boox Go 6 (Gen II) review: A worthy Android ereader, with some tradeoffs",
+      "summary_en": "The Boox Go 6 (Gen II) is a versatile Android ereader with the ability to take notes directly in books.",
+      "image": "https://www.engadget.com/img/gallery/boox-go-6-gen-ii-review-a-worthy-android-ereader-with-some-tradeoffs/l-intro-1788378540.jpg",
+      "link": "https://www.engadget.com/2249888/boox-go-6-gen-ii-review/",
+      "published": "Fri, 04 Sep 2026 12:30:00 +0000",
+      "title_th": "รีวิว Boox Go 6 (Gen II): ereader Android ที่คุ้มค่าพร้อมข้อดีบางประการ",
+      "summary_th": "Boox Go 6 (Gen II) เป็นเครื่องอ่าน Android อเนกประสงค์ที่มีความสามารถในการจดบันทึกลงในหนังสือได้โดยตรง"
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "gadget",
-      "title_en": "How AI plotted an interstellar journey to Alpha Centauri",
-      "summary_en": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029. It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/centauri-route2.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
-      "published": "Tue, 01 Sep 2026 19:10:36 +0000",
-      "title_th": "AI วางแผนการเดินทางระหว่างดวงดาวไปยัง Alpha Centauri ได้อย่างไร",
-      "summary_th": "องค์กรไม่แสวงหาผลกำไรชื่อ Fermi Explorer Mission ประกาศในวันนี้ว่าตั้งใจที่จะเปิดตัวยานอวกาศไปยังระบบดาวที่ใกล้ที่สุดภายในสิ้นปี 2572 ภารกิจนี้มีความทะเยอทะยานอย่างมาก หากทุกอย่างเป็นไปด้วยดี ยานอวกาศอาจใช้เวลาถึง 80,000 ปีจึงจะมาถึง Alpha Centauri ซึ่งอยู่ห่างออกไป 4.4 ปีแสง และ..."
+      "category": "chip",
+      "title_en": "I flossed fake teeth with Dyson's tech-riddled CameraJet toothbrush",
+      "summary_en": "Don't worry, we didn't share $500 CameraJet toothbrush.",
+      "image": "https://www.engadget.com/img/gallery/i-flossed-fake-teeth-with-dysons-tech-riddled-toothbrush/l-intro-1788522450.jpg",
+      "link": "https://www.engadget.com/2250930/dyson-camerajet-toothbrush-hands-on-ifa-2026/",
+      "published": "Fri, 04 Sep 2026 11:56:53 +0000",
+      "title_th": "ฉันใช้ไหมขัดฟันปลอมด้วยแปรงสีฟัน CameraJet ที่เต็มไปด้วยเทคโนโลยีของ Dyson",
+      "summary_th": "ไม่ต้องกังวล เราไม่ได้แบ่งปันแปรงสีฟัน CameraJet มูลค่า 500 ดอลลาร์"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Volkswagen confirms cutting 50,000 jobs as part of its survival plan",
+      "summary_en": "The Volkswagen Group has revealed a 'transformation program' that includes layoffs, potential factory closures and brand shutdowns.",
+      "image": "https://www.engadget.com/img/gallery/volkswagen-confirms-cutting-50000-jobs-as-part-of-its-survival-plan/l-intro-1788522292.jpg",
+      "link": "https://www.engadget.com/2250927/volkswagen-confirms-future-plan-2030-50000-job-cuts/",
+      "published": "Fri, 04 Sep 2026 11:46:06 +0000",
+      "title_th": "Volkswagen confirms cutting 50,000 jobs as part of its survival plan",
+      "summary_th": "The Volkswagen Group has revealed a 'transformation program' that includes layoffs, potential factory closures and brand shutdowns."
     },
     {
       "source": "Engadget",
@@ -324,43 +360,7 @@
       "link": "https://www.engadget.com/2250874/tesla-offering-cybercab-robotaxi-rides/",
       "published": "Fri, 04 Sep 2026 06:41:33 +0000",
       "title_th": "Tesla เริ่มให้บริการขี่ Cybercab robotaxi แล้ว",
-      "summary_th": "Tesla เปิดตัว Cybercab รถยนต์ขับเคลื่อนอัตโนมัติไร้พวงมาลัยอย่างเป็นทางการ"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "OpenAI says GPT-6 Astra is 'the most intelligent and aligned model in the world'",
-      "summary_en": "The new frontier model is particularly competent at agentic, computer-use tasks.",
-      "image": "https://www.engadget.com/img/gallery/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world/l-intro-1788476205.jpg",
-      "link": "https://www.engadget.com/2250814/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world/",
-      "published": "Thu, 03 Sep 2026 22:58:12 +0000",
-      "title_th": "OpenAI กล่าวว่า GPT-6 Astra เป็น 'โมเดลที่ชาญฉลาดและสอดคล้องที่สุดในโลก'",
-      "summary_th": "โมเดลฟรอนเทียร์ใหม่มีความสามารถพิเศษในงานเอเจนต์และการใช้คอมพิวเตอร์"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Netflix has ordered a live-action adaptation of D&D's Ravenloft",
-      "summary_en": "Alfonso Cuarón will executive produce the dark fantasy vampire story based on the popular D&D campaign setting.",
-      "image": "https://www.engadget.com/img/gallery/netflix-has-ordered-a-live-action-adaptation-of-dds-ravenloft/l-intro-1788474684.jpg",
-      "link": "https://www.engadget.com/2250806/netflix-has-ordered-live-action-adaptation-of-dnd-ravenloft/",
-      "published": "Thu, 03 Sep 2026 22:35:24 +0000",
-      "title_th": "Netflix ได้สั่งให้ Ravenloft ของ D&D ดัดแปลงเป็นฉบับคนแสดง",
-      "summary_th": "อัลฟองโซ คัวรอนจะอำนวยการสร้างเรื่องราวแวมไพร์ดาร์กแฟนตาซีโดยอิงจากฉากแคมเปญ D&D ที่ได้รับความนิยม"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Ugreen's new smart home ecosystem is built around local AI hubs",
-      "summary_en": "Ugreen has three new hubs that run your smart home with local AI rather than the cloud. The top model runs on Nvidia's Jetson Thor platform and costs $20,000.",
-      "image": "https://www.engadget.com/img/gallery/ugreens-new-smart-home-ecosystem-is-built-around-local-ai-hubs/l-intro-1788468967.jpg",
-      "link": "https://www.engadget.com/2250749/ugreen-smart-home-ecosystem-built-around-local-ai-hubs/",
-      "published": "Thu, 03 Sep 2026 22:00:00 +0000",
-      "title_th": "ระบบนิเวศบ้านอัจฉริยะใหม่ของ Ugreen สร้างขึ้นโดยมีศูนย์กลาง AI ในท้องถิ่น",
-      "summary_th": "Ugreen มีฮับใหม่สามแห่งที่ขับเคลื่อนบ้านอัจฉริยะของคุณด้วย AI ในพื้นที่แทนที่จะเป็นระบบคลาวด์ รุ่นท็อปทำงานบนแพลตฟอร์ม Jetson Thor ของ Nvidia และราคา 20,000 ดอลลาร์"
+      "summary_th": "Tesla has officially launched the Cybercab, its autonomous vehicle with no steering wheel."
     },
     {
       "source": "IEEE Spectrum",
@@ -371,8 +371,8 @@
       "image": "https://spectrum.ieee.org/media-library/industrial-robotic-arm-with-cable-management-system-and-flexible-energy-chains.jpg?id=67633840&width=980",
       "link": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
       "published": "Thu, 03 Sep 2026 12:18:21 +0000",
-      "title_th": "การปกป้องผู้ให้บริการเคเบิลหุ่นยนต์อุตสาหกรรมแบบไดนามิก",
-      "summary_th": "บทความนี้นำเสนอโดย Tsubaki KabelSchlepp ในการผลิตแบบอัตโนมัติสมัยใหม่ หุ่นยนต์แบบข้อต่อหกแกนดำเนินการควบคุมด้วยความเร็วสูงหลายทิศทางภายใต้วงจรการปฏิบัติงานที่มีความต้องการสูง อย่างไรก็ตาม ในขณะที่แขนหุ่นยนต์หมุน หมุน และยืดออก สายเคเบิลไฟฟ้า ไฟเบอร์ออปติก และท่อนิวแมติกที่จ่ายให้กับแขนจะต้องทนต่อความเครียดทางกลที่รุนแรง การบิดตัวแบบบิด การเร่งความเร็วอย่างรวดเร็ว และการสัมผัสกับโครงสร้างของเครื่องจักรซ้ำๆ มักจะนำไปสู่ความล้าของตัวนำก่อนเวลาอันควร ฉนวนพังทลาย และการหยุดการผลิตโดยไม่ได้วางแผนซึ่งมีค่าใช้จ่ายสูง เพื่อเอาชนะความท้าทายในการเคลื่อนที่แบบหลายแกนเหล่านี้ Tsubaki KabelSchlepp Robotrax System จึงมอบตัวพาสายเคเบิลสามมิติพิเศษที่ออกแบบเป็นพิเศษสำหรับการเคลื่อนที่ของหุ่นยนต์ที่ซับซ้อน การจัดการแรงดึงสูงด้วยเทคโนโลยี Central Steel"
+      "title_th": "Protecting Dynamic Industrial Robot Cable Carriers",
+      "summary_th": "This article is brought to you by Tsubaki KabelSchlepp . In modern automated manufacturing, six-axis articulated robots perform high-speed, multidirectional maneuvers under demanding operational cycles. However, as robot arms swivel, rotate, and extend, the electrical cables, fiber optics, and pneumatic hoses supplying them endure severe mechanical stress. Torsional twist, rapid acceleration, and repeated contact with machine structures often lead to premature conductor fatigue, insulation breakdown, and costly unplanned production halts. To overcome these multi-axis motion challenges, the Tsubaki KabelSchlepp Robotrax System provides a specialized three-dimensional cable carrier engineered specifically for complex robotic motion. Managing High Tensile Forces With Central Steel Technology "
     },
     {
       "source": "IEEE Spectrum",
@@ -396,7 +396,7 @@
       "link": "https://spectrum.ieee.org/canadarm-ieee-300th-milestone",
       "published": "Wed, 02 Sep 2026 18:00:03 +0000",
       "title_th": "แขนหุ่นยนต์ขนย้ายสินค้าของ NASA ได้รับรางวัล IEEE ครั้งที่ 300",
-      "summary_th": "ในทศวรรษ 1960 NASA เริ่มพัฒนาระบบกระสวยอวกาศที่นำกลับมาใช้ใหม่ได้เพื่อให้งานมีประสิทธิภาพมากขึ้นและลดต้นทุน กระสวยอวกาศสามารถพุ่งได้เหมือนจรวด เคลื่อนตัวในวงโคจรของโลก และลงจอดได้เหมือนเครื่องบิน พวกเขายังสามารถบรรทุกดาวเทียมขนาดใหญ่เข้าและออกจากวงโคจรได้ เช่นเดียวกับการขนส่งประเภทอื่นๆ เครื่องจักรจะพังในที่สุด และจำเป็นต้องเปลี่ยนหรือซ่อมแซมชิ้นส่วนต่างๆ และสินค้าที่ถูกขนส่งเข้าและออกจากโลกจะต้องถูกย้ายไปยังจุดหมายปลายทางสุดท้าย เพื่อทำงานดังกล่าวให้เสร็จสิ้น Spar Aerospace (ปัจจุบันเป็นส่วนหนึ่งของ MDA Space) ในเมืองแบรมป์ตัน รัฐออนแทรีโอ แคนาดา และสภาวิจัยแห่งชาติในออตตาวาได้พัฒนาแขนหุ่นยนต์ที่เรียกว่า Shuttle Remote Manipulator System โครงการนี้เป็นการร่วมทุนระหว่างรัฐบาลสหรัฐฯ และแคนาดา รู้จักกันในชื่อ Canadarms ซึ่งเป็นเครื่องมือหุ่นยนต์ที่ติดอยู่กับ sh"
+      "summary_th": "ในทศวรรษ 1960 NASA เริ่มพัฒนาระบบกระสวยอวกาศที่นำกลับมาใช้ใหม่ได้เพื่อให้งานมีประสิทธิภาพมากขึ้นและลดต้นทุน กระสวยอวกาศสามารถพุ่งได้เหมือนจรวด เคลื่อนตัวในวงโคจรของโลก และลงจอดได้เหมือนเครื่องบิน พวกเขายังสามารถบรรทุกดาวเทียมขนาดใหญ่เข้าและออกจากวงโคจรได้ เช่นเดียวกับการขนส่งประเภทอื่นๆ เครื่องจักรจะพังในที่สุด และจำเป็นต้องเปลี่ยนหรือซ่อมแซมชิ้นส่วนต่างๆ และสินค้าที่ถูกขนส่งเข้าและออกจากโลกจะต้องถูกย้ายไปยังจุดหมายปลายทางสุดท้าย เพื่อทำงานดังกล่าวให้สำเร็จ Spar Aerospace (ปัจจุบันเป็นส่วนหนึ่งของ MDA Space) ในเมืองแบรมป์ตัน รัฐออนแทรีโอ แคนาดา และสภาวิจัยแห่งชาติในออตตาวาได้พัฒนาแขนหุ่นยนต์ที่เรียกว่า Shuttle Remote Manipulator System โครงการนี้เป็นการร่วมทุนระหว่างรัฐบาลสหรัฐฯ และแคนาดา รู้จักกันในชื่อ Canadarms ซึ่งเป็นเครื่องมือหุ่นยนต์ที่ติดอยู่กับ sh"
     },
     {
       "source": "IEEE Spectrum",
@@ -420,7 +420,19 @@
       "link": "https://spectrum.ieee.org/president-ieee-note-september-2026",
       "published": "Tue, 01 Sep 2026 18:00:04 +0000",
       "title_th": "หมายเหตุของประธาน IEEE: เทคโนโลยีเพื่อประโยชน์ทางสังคม",
-      "summary_th": "ทั่วทั้ง IEEE จุดแข็งของเราไม่เพียงแต่อยู่ที่ความเป็นเลิศของแต่ละชุมชนของเราเท่านั้น แต่ยังอยู่ในความสามารถของเราในการนำพวกเขามารวมกันเพื่อแก้ไขปัญหาที่มีร่วมกันซึ่งต้องการการแก้ปัญหาแบบสหวิทยาการ ภารกิจของเราในฐานะการกุศลสาธารณะ—เพื่อพัฒนาเทคโนโลยีเพื่อประโยชน์ของมนุษยชาติ—กำลังกลายเป็นผู้สร้างความแตกต่างที่ทรงพลังมากขึ้น มันเป็นมากกว่าการแถลงหลักการ มันเป็นข้อได้เปรียบเชิงกลยุทธ์ เมื่อวิศวกรและนักเทคโนโลยีให้บริการอย่างมีเป้าหมายและเป็นผู้นำด้วยใจ พวกเขาจะเสริมสร้างอนาคตของวิชาชีพของเรา และแสดงให้เห็นว่าเหตุใด IEEE จึงอยู่ในตำแหน่งที่โดดเด่นในการเป็นผู้นำที่จุดบรรจบกันของเทคโนโลยีและผลกระทบทางสังคม IEEE Humanitarian Technologies เป็นกลุ่มโครงการและโครงการริเริ่มที่ได้รับการสนับสนุนจากเครือข่ายอาสาสมัครและผู้เชี่ยวชาญด้านเทคนิคทั่วโลก ซึ่งทำงานร่วมกันเพื่อ"
+      "summary_th": "ทั่วทั้ง IEEE จุดแข็งของเราไม่เพียงแต่อยู่ที่ความเป็นเลิศของแต่ละชุมชนของเราเท่านั้น แต่ยังอยู่ในความสามารถของเราในการนำพวกเขามารวมกันเพื่อแก้ไขปัญหาที่มีร่วมกันซึ่งต้องการการแก้ปัญหาแบบสหวิทยาการ ภารกิจของเราในฐานะองค์กรการกุศลสาธารณะ—เพื่อพัฒนาเทคโนโลยีเพื่อประโยชน์ของมนุษยชาติ—กำลังกลายเป็นผู้สร้างความแตกต่างที่ทรงพลังมากขึ้น มันเป็นมากกว่าการแถลงหลักการ มันเป็นข้อได้เปรียบเชิงกลยุทธ์ เมื่อวิศวกรและนักเทคโนโลยีให้บริการอย่างมีเป้าหมายและเป็นผู้นำด้วยใจ พวกเขาจะเสริมสร้างอนาคตของวิชาชีพของเรา และแสดงให้เห็นว่าเหตุใด IEEE จึงอยู่ในตำแหน่งที่โดดเด่นในการเป็นผู้นำที่จุดบรรจบกันของเทคโนโลยีและผลกระทบทางสังคม IEEE Humanitarian Technologies เป็นกลุ่มโครงการและโครงการริเริ่มที่ได้รับการสนับสนุนจากเครือข่ายอาสาสมัครและผู้เชี่ยวชาญด้านเทคนิคทั่วโลก ซึ่งทำงานร่วมกันเพื่อ"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "New action comedy movie Mayday is now streaming on Apple TV",
+      "summary_en": "There’s a new original movie streaming today on Apple TV: a new action-comedy called Mayday , starring Ryan Reynolds and Kenneth Branagh. Streaming for free with an Apple TV subscription , Mayday sees Troy (Reynolds) infiltrate Russian territory amidst the Cold War. Ex-KGB agent Nikolai (Branagh) becomes an unlikely ally in this caper. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-tv-mayday.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/04/new-action-comedy-movie-mayday-is-now-streaming-on-apple-tv/",
+      "published": "Fri, 04 Sep 2026 09:10:03 +0000",
+      "title_th": "ภาพยนตร์แอ็คชั่นคอมเมดี้เรื่องใหม่ Mayday กำลังสตรีมบน Apple TV แล้ว",
+      "summary_th": "วันนี้มีภาพยนตร์ต้นฉบับเรื่องใหม่สตรีมมิ่งบน Apple TV: ภาพยนตร์แอ็คชั่นคอมเมดี้เรื่องใหม่เรื่อง Mayday นำแสดงโดย Ryan Reynolds และ Kenneth Branagh สตรีมมิ่งฟรีด้วยการสมัครสมาชิก Apple TV เมย์เดย์เห็นทรอย (เรย์โนลด์ส) แทรกซึมเข้าไปในดินแดนรัสเซียท่ามกลางสงครามเย็น อดีตเจ้าหน้าที่เคจีบี นิโคไล (บรานาห์) กลายเป็นพันธมิตรที่ไม่น่าเป็นไปได้ในการกระโดดโลดเต้นครั้งนี้ มากกว่า…"
     },
     {
       "source": "9to5Mac",
@@ -455,7 +467,7 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/09/03/happy-hour-606/",
       "published": "Thu, 03 Sep 2026 20:00:29 +0000",
-      "title_th": "John Ternus ตอนนี้เป็น CEO ของ Apple, ข่าวลือเรื่อง iPhone ในนาทีสุดท้าย, ราคา Apple TV เพิ่มขึ้น",
+      "title_th": "John Ternus is now Apple CEO, last-minute iPhone event rumors, Apple TV price increase",
       "summary_th": "Benjamin และ Chance พูดคุยเกี่ยวกับสัปดาห์แรกของ John Ternus ในตำแหน่ง CEO ของ Apple และ Tim Cook จะยังคงมีส่วนร่วมมากแค่ไหน นอกจากนี้ยังเป็นโอกาสสุดท้ายสำหรับข่าวลือเกี่ยวกับเหตุการณ์ iPhone โดยมีรายละเอียดเกี่ยวกับการอัปเดตด้านสุขภาพสำหรับ Apple Watch Series 12 ที่จะมาถึงข้างหน้า และมีการขึ้นราคาการสมัครสมาชิก Apple TV เป็นครั้งที่สองในรอบหลายปี และใน Happy Hour Plus ก่อนเปิดตัว iPhone 18 Pro เราได้สะท้อนให้เห็นถึงประสบการณ์เชิงบวกโดยรวมของเราในการใช้ iPhone Air ตลอดทั้งปี สมัครสมาชิกที่ 9to5mac.com/join สนับสนุนโดย Square : รับส่วนลดฮาร์ดแวร์ Square สูงสุดถึง $200 เมื่อคุณสมัครที่ square.com/go/happyhour สนับสนุนโดย Bitwarden : ลงทะเบียนเข้าร่วมการประชุมสุดยอด Open Source Security Summit เสมือนจริงฟรีในวันที่ 17 กันยายน โดยมีผู้นำด้านความปลอดภัยทางไซเบอร์ David Sanger และ Joseph Menn —"
     },
     {
@@ -468,19 +480,7 @@
       "link": "https://9to5mac.com/2026/09/03/apples-calendar-app-in-ios-27-has-brand-new-design-for-key-features/",
       "published": "Thu, 03 Sep 2026 19:02:28 +0000",
       "title_th": "แอพปฏิทินของ Apple ใน iOS 27 มีการออกแบบใหม่ล่าสุดสำหรับคุณสมบัติหลัก",
-      "summary_th": "iOS 27 เพิ่มคุณสมบัติใหม่ๆ มากมายให้กับแอพยอดนิยม เช่น Notes , Reminders และ Calendar และแอพ Calendar ก็มีการเปลี่ยนแปลงการออกแบบที่โดดเด่นเช่นกัน นี่คือสิ่งใหม่ๆ มากกว่า…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "OpenAI releasing major upgrade to ChatGPT and Codex with GPT-6 Astra, details here",
-      "summary_en": "It’s been just over a year since OpenAI released the first GPT-5 models for ChatGPT. Now it’s time for GPT-6 Astra to upgrade ChatGPT and Codex capabilities. Details below. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/03/openai-releasing-major-upgrade-to-chatgpt-and-codex-with-gpt-6-astra-details-here/",
-      "published": "Thu, 03 Sep 2026 18:48:48 +0000",
-      "title_th": "OpenAI เปิดตัวการอัปเกรดครั้งใหญ่เป็น ChatGPT และ Codex ด้วย GPT-6 Astra รายละเอียดที่นี่",
-      "summary_th": "เป็นเวลากว่าหนึ่งปีแล้วที่ OpenAI เปิดตัว GPT-5 รุ่นแรกสำหรับ ChatGPT ตอนนี้ถึงเวลาที่ GPT-6 Astra จะอัปเกรดความสามารถของ ChatGPT และ Codex รายละเอียดด้านล่าง มากกว่า…"
+      "summary_th": "iOS 27 เพิ่มคุณสมบัติใหม่ๆ มากมายสำหรับแอพยอดนิยม เช่น Notes , Reminders และ Calendar และแอพ Calendar ก็มีการเปลี่ยนแปลงการออกแบบที่โดดเด่นเช่นกัน นี่คือสิ่งใหม่ๆ มากกว่า…"
     },
     {
       "source": "9to5Google",
@@ -515,8 +515,8 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/Gemini-Spark.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/09/03/gemini-spark-google-photos/",
       "published": "Thu, 03 Sep 2026 21:44:42 +0000",
-      "title_th": "Gemini Spark เปิดตัวการควบคุม Google Photos สำหรับการแก้ไขอัตโนมัติ การแชร์ และอื่นๆ",
-      "summary_th": "แอปบุคคลที่หนึ่งล่าสุดที่ Gemini Spark สามารถควบคุมได้คือ Google Photos ตัวแทนส่วนบุคคลสามารถ “จัดการขั้นตอนการทำงานที่ซับซ้อนและหลายขั้นตอน” ด้วยห้องสมุดของคุณได้ มากกว่า…"
+      "title_th": "Gemini Spark เปิดตัวการควบคุม Google Photos สำหรับการแก้ไข การแชร์ และอื่นๆ โดยอัตโนมัติ",
+      "summary_th": "แอปบุคคลที่หนึ่งล่าสุดที่ Gemini Spark สามารถควบคุมได้คือ Google Photos ตัวแทนส่วนบุคคลสามารถ “จัดการขั้นตอนการทำงานที่ซับซ้อนและหลายขั้นตอน” ด้วยไลบรารีของคุณได้ มากกว่า…"
     },
     {
       "source": "9to5Google",
@@ -527,8 +527,8 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Android-Motion-Assist-cover.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/09/03/android-motion-assist-rollout/",
       "published": "Thu, 03 Sep 2026 21:02:00 +0000",
-      "title_th": "How to check if Motion Assist has rolled out to your Android 17 phone",
-      "summary_th": "Following the announcement on Tuesday , Google is slowly rolling out Motion Assist to phones running Android 17. more…"
+      "title_th": "วิธีตรวจสอบว่า Motion Assist เปิดตัวในโทรศัพท์ Android 17 ของคุณหรือไม่",
+      "summary_th": "หลังจากประกาศเมื่อวันอังคาร Google จะค่อยๆ เปิดตัว Motion Assist บนโทรศัพท์ที่ใช้ Android 17 เพิ่มเติม..."
     },
     {
       "source": "9to5Google",
@@ -539,8 +539,20 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/03/openai-logo-2.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/09/03/openai-gpt-6-astra-launch/",
       "published": "Thu, 03 Sep 2026 20:50:00 +0000",
-      "title_th": "OpenAI เปิดตัว GPT-6 Astra ‘โมเดลที่ชาญฉลาดและสอดคล้องกันมากที่สุดในโลก’ ที่คุณยังใช้ไม่ได้",
+      "title_th": "OpenAI launches GPT-6 Astra, ‘the world’s most intelligent and aligned model’ that you can’t use just yet",
       "summary_th": "หลังจากการขัดข้องในวันนี้ OpenAI กำลังเปิดตัว GPT-6 Astra ซึ่งเป็นรุ่นล่าสุดที่ \"ฉลาดที่สุดในโลก\" มากกว่า…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Tesla Cybercab is already under NHTSA investigation after launch",
+      "summary_en": "Tesla’s Cybercab is already under federal investigation. NHTSA opened an audit into how Tesla certified the vehicle the same day the company started putting passengers in it in Austin. The probe targets the exact thing that makes the Cybercab unusual: it has no steering wheel, no pedals, and no mirrors, and Tesla certified it as road-legal anyway. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Tesla-Cybercab-with-Starlink.png?resize=1200,628",
+      "link": "https://electrek.co/2026/09/04/tesla-cybercab-nhtsa-investigation-fmvss-certification/",
+      "published": "Fri, 04 Sep 2026 12:46:21 +0000",
+      "title_th": "Tesla Cybercab อยู่ภายใต้การสอบสวนของ NHTSA หลังจากเปิดตัวแล้ว",
+      "summary_th": "Cybercab ของ Tesla อยู่ระหว่างการสอบสวนของรัฐบาลกลางแล้ว NHTSA เปิดการตรวจสอบว่า Tesla รับรองยานพาหนะอย่างไรในวันเดียวกับที่บริษัทเริ่มนำผู้โดยสารขึ้นรถในออสติน ยานสำรวจมุ่งเป้าไปที่สิ่งที่ทำให้ Cybercab ไม่ธรรมดา นั่นคือไม่มีพวงมาลัย ไม่มีแป้นเหยียบ และไม่มีกระจก และ Tesla ก็รับรองว่าถูกต้องตามกฎหมายบนท้องถนนอยู่แล้ว มากกว่า…"
     },
     {
       "source": "Electrek",
@@ -552,7 +564,7 @@
       "link": "https://electrek.co/2026/09/03/tesla-announces-1-million-unsupervised-miles-driven-by-robotaxi/",
       "published": "Fri, 04 Sep 2026 05:04:32 +0000",
       "title_th": "Tesla ประกาศว่า Robotaxi ขับขี่ไปแล้ว 1 ล้านไมล์โดยไม่ได้รับการดูแล",
-      "summary_th": "Tesla กล่าวในวันนี้ว่า Robotaxis ของตนได้ขับเคลื่อนเป็นระยะทางรวม 1 ล้านไมล์โดยไม่มีคนขับคอยดูแล จำนวนดังกล่าวมากกว่าสองเท่าของสิ่งที่เราได้ยินในการเช็คอินครั้งล่าสุดเมื่อหกสัปดาห์ที่แล้ว เนื่องจากในที่สุด Tesla ก็เปลี่ยนจาก \"ผู้ขับเคลื่อนความปลอดภัย\" ของมนุษย์ มากกว่า…"
+      "summary_th": "Tesla กล่าวในวันนี้ว่า Robotaxis ของตนได้ขับเคลื่อนเป็นระยะทางรวม 1 ล้านไมล์โดยไม่มีคนขับคอยดูแล จำนวนนี้มากกว่าสองเท่าของสิ่งที่เราได้ยินในการเช็คอินครั้งล่าสุดเมื่อหกสัปดาห์ที่แล้ว เนื่องจากในที่สุด Tesla ก็เปลี่ยนจาก \"ผู้ขับเคลื่อนความปลอดภัย\" ของมนุษย์ มากกว่า…"
     },
     {
       "source": "Electrek",
@@ -575,7 +587,7 @@
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/05/BMW-20-discount-EV-charging.jpeg?quality=82&strip=all&resize=1200,628",
       "link": "https://electrek.co/2026/09/03/ionna-knocks-nearly-50-off-ev-fast-charging-for-labor-day/",
       "published": "Thu, 03 Sep 2026 22:06:09 +0000",
-      "title_th": "IONNA ลดราคาการชาร์จ EV อย่างรวดเร็วเกือบ 50% สำหรับวันแรงงาน",
+      "title_th": "IONNA ลดราคาการชาร์จ EV เกือบ 50% ในวันแรงงาน",
       "summary_th": "IONNA มอบข้อตกลงการชาร์จที่ยอดเยี่ยมแก่นักเดินทางบนท้องถนนในวันแรงงาน: ตั้งแต่วันศุกร์ที่ 4 กันยายนถึงวันจันทร์ที่ 7 กันยายน การชาร์จทั่วทั้งเครือข่ายจะมีราคาเพียง 0.20 ดอลลาร์ต่อกิโลวัตต์ชั่วโมงรวมภาษี มากกว่า…"
     },
     {
@@ -588,19 +600,7 @@
       "link": "https://electrek.co/2026/09/03/vw-to-cut-100k-jobs-and-may-stop-building-evs-at-4-plants/",
       "published": "Thu, 03 Sep 2026 21:18:35 +0000",
       "title_th": "Volkswagen เตรียมลดพนักงาน 1 แสนคนและอาจหยุดสร้างรถยนต์ไฟฟ้าที่โรงงาน 4 แห่ง",
-      "summary_th": "Volkswagen อาจหยุดสร้างรถยนต์ที่โรงงานในเยอรมนี 4 แห่ง เนื่องจากเตรียมลดพนักงานอีก 50,000 ตำแหน่งทั่วโลก ส่งผลให้ยอดพนักงานตามแผนลดเหลือประมาณ 100,000 คน มากกว่า…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "review",
-      "title_en": "Kia’s bigger PV7 electric van caught in action, making the PV5 seem small",
-      "summary_en": "The PV7 was spotted testing days after Kia previewed the larger electric van for the first time, and it makes the PV5 seem tiny. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Kia-PV7-caught.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/03/kias-bigger-pv7-ev-van-spotted-making-pv5-seem-small/",
-      "published": "Thu, 03 Sep 2026 21:07:12 +0000",
-      "title_th": "รถตู้ไฟฟ้า PV7 ที่ใหญ่กว่าของ Kia ใช้งานได้จริง ทำให้ PV5 ดูเล็ก",
-      "summary_th": "PV7 ถูกพบเห็นในการทดสอบหลายวันหลังจากที่ Kia แสดงตัวอย่างรถตู้ไฟฟ้าขนาดใหญ่เป็นครั้งแรก และทำให้ PV5 ดูเล็กลง มากกว่า…"
+      "summary_th": "Volkswagen อาจหยุดสร้างรถยนต์ที่โรงงานในเยอรมนี 4 แห่ง เนื่องจากเตรียมลดพนักงานอีก 50,000 ตำแหน่งทั่วโลก ส่งผลให้บริษัทมีแผนลดพนักงานทั้งหมดประมาณ 100,000 คน มากกว่า…"
     }
   ],
   "indices": [
@@ -608,65 +608,65 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 228.45,
+      "change": 4.04,
+      "change_pct": 1.8
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 376.37,
+      "change": 19.36,
+      "change_pct": 5.42
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 342.48,
+      "change": 5.36,
+      "change_pct": 1.59
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 510.12,
+      "change": 13.3,
+      "change_pct": 2.68
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 328.21,
+      "change": 3.25,
+      "change_pct": 1.0
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 258.9,
+      "change": 3.92,
+      "change_pct": 1.54
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 610.68,
+      "change": 17.83,
+      "change_pct": 3.01
     },
     {
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 248.0,
-      "change": 5.0,
-      "change_pct": 2.06
+      "price": 256.0,
+      "change": 13.0,
+      "change_pct": 5.35
     }
   ],
   "reviews": [
@@ -733,6 +733,26 @@
     {
       "channel": "Beartai",
       "country": "TH",
+      "title_en": "(Hand Review) Sony WH-1000X The Collexion",
+      "video_id": "jpgtiSNTpSk",
+      "link": "https://www.youtube.com/shorts/jpgtiSNTpSk",
+      "thumbnail": "https://i3.ytimg.com/vi/jpgtiSNTpSk/hqdefault.jpg",
+      "published": "2026-09-04T13:00:09+00:00",
+      "title_th": "(รีวิวมือ) Sony WH-1000X The Collectionxion"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "หลากความเชี่ยวชาญ หรือหนึ่งงานทั้งชีวิต ? | Go with The Four",
+      "video_id": "o-RUp7maXhQ",
+      "link": "https://www.youtube.com/watch?v=o-RUp7maXhQ",
+      "thumbnail": "https://i4.ytimg.com/vi/o-RUp7maXhQ/hqdefault.jpg",
+      "published": "2026-09-04T11:00:20+00:00",
+      "title_th": "หลากความเชี่ยวชาญ หรือหนึ่งงานทั้งชีวิต ? | Go with The Four"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
       "title_en": "รีวิว Denon Home 2 Series ทุกรุ่น เติมเสียงให้ทั่วบ้าน",
       "video_id": "F5kKkPtggk4",
       "link": "https://www.youtube.com/watch?v=F5kKkPtggk4",
@@ -741,24 +761,14 @@
       "title_th": "รีวิว Denon Home 2 Series ทุกรุ่น เติมเสียงให้ทั่วบ้าน"
     },
     {
-      "channel": "Beartai",
+      "channel": "Droidsans",
       "country": "TH",
-      "title_en": "ก้าวข้ามคำว่า 'ก๊อปปี้'",
-      "video_id": "r5tj0v8vxts",
-      "link": "https://www.youtube.com/shorts/r5tj0v8vxts",
-      "thumbnail": "https://i3.ytimg.com/vi/r5tj0v8vxts/hqdefault.jpg",
-      "published": "2026-09-03T23:00:40+00:00",
-      "title_th": "ก้าวข้ามคำว่า 'ก๊อปปี้'"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "DNA File รหัสลับของชีวิต EP.2 เราทุกคนคือผู้มาเยือน",
-      "video_id": "CUnF6Cxzq3I",
-      "link": "https://www.youtube.com/watch?v=CUnF6Cxzq3I",
-      "thumbnail": "https://i4.ytimg.com/vi/CUnF6Cxzq3I/hqdefault.jpg",
-      "published": "2026-09-03T10:00:11+00:00",
-      "title_th": "DNA File รหัสลับของชีวิต EP.2 เราทุกคนคือผู้มาเยือน"
+      "title_en": "เลือกลำโพงยังไงให้พอดีห้อง ? รีวิว DENON Home 200 / 400 / 600 รุ่นไหนเหมาะกับใคร!",
+      "video_id": "73D1l3LWB14",
+      "link": "https://www.youtube.com/watch?v=73D1l3LWB14",
+      "thumbnail": "https://i4.ytimg.com/vi/73D1l3LWB14/hqdefault.jpg",
+      "published": "2026-09-04T11:00:17+00:00",
+      "title_th": "เลือกลำโพงยังไงให้พอดีห้อง ? รีวิว DENON Home 200 / 400 / 600 รุ่นไหนเหมาะกับใคร!"
     },
     {
       "channel": "Droidsans",
@@ -779,16 +789,6 @@
       "thumbnail": "https://i1.ytimg.com/vi/TE4UrTXTA4g/hqdefault.jpg",
       "published": "2026-08-31T12:30:28+00:00",
       "title_th": "รีวิว HONOR Robot Phone มือถือ + กล้องกิมบอล ทำไป ทำไม ?"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "รัฐบาลจีนจะเลิกใช้ Windows / อัพเดตข่าว iPhone 18 Ultra / ทวิตเตอร์จะกลับมา ? #หิวข่าว",
-      "video_id": "bSqYb-rGND0",
-      "link": "https://www.youtube.com/watch?v=bSqYb-rGND0",
-      "thumbnail": "https://i3.ytimg.com/vi/bSqYb-rGND0/hqdefault.jpg",
-      "published": "2026-08-29T13:00:01+00:00",
-      "title_th": "รัฐบาลจีนจะเลิกใช้ Windows / อัพเดตข่าว iPhone 18 Ultra / ทวิตเตอร์จะกลับมา ? #หิวข่าว"
     }
   ]
 }
