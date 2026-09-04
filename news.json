@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-03T22:55:15.411882+00:00",
+  "generated_at": "2026-09-04T01:33:57.225584+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Crusoe reportedly raises $3B at a $30B valuation",
+      "summary_en": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2245923419.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "published": "Fri, 04 Sep 2026 00:48:42 +0000",
+      "title_th": "มีรายงานว่า Crusoe ระดมทุนได้ 3 พันล้านดอลลาร์ที่การประเมินมูลค่า 30 พันล้านดอลลาร์",
+      "summary_th": "การระดมทุนครั้งนี้เกิดขึ้นหลังจากที่ผู้พัฒนาศูนย์ข้อมูลรายดังกล่าวได้รับสัญญามูลค่า 13,000 ล้านดอลลาร์กับ Jane Street"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -51,16 +63,28 @@
       "summary_th": "บริษัทกำลังจะเปิดตัวรถยนต์สองที่นั่งสีทองอย่างเป็นทางการ โดยไม่มีพวงมาลัยหรือคันเหยียบ การเคลื่อนไหวที่อาจเปลี่ยนเทสลาไปตลอดกาล"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-      "summary_en": "The high-profile startup's annual revenue run rate stands at over $100 million.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Mira-Murati-at-Bloomberg.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-      "published": "Thu, 03 Sep 2026 19:36:29 +0000",
-      "title_th": "มีรายงานว่า Accel กำลังเจรจาเพื่อเป็นผู้นำรอบ 1 พันล้านดอลลาร์สำหรับ Thinking Machines ที่การประเมินมูลค่า 40 พันล้านดอลลาร์",
-      "summary_th": "อัตรารายได้ต่อปีของสตาร์ทอัพชื่อดังรายนี้อยู่ที่มากกว่า 100 ล้านดอลลาร์"
+      "category": "ev",
+      "title_en": "The unusually muted Tesla Cybercab launch",
+      "summary_en": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous vehicles, and humanoid robots. It was an […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2265246421.jpg?quality=90&strip=all&crop=0%2C15.098136889637%2C100%2C69.803726220726&w=1200",
+      "link": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
+      "published": "2026-09-03T20:25:06-04:00",
+      "title_th": "การเปิดตัว Tesla Cybercab ที่เงียบผิดปกติ",
+      "summary_th": "ที่งานส่วนตัวแบบปิดในเมืองออสติน รัฐเท็กซัส วันนี้ Tesla ได้เปิดตัวรถยนต์สีทองแห่งอนาคตอย่างเป็นทางการ ถือเป็นก้าวสำคัญสำหรับ Elon Musk ผู้ซึ่งคอยกระตุ้นการมาถึงของรถยนต์ไร้คนขับที่ใกล้จะมาถึงมานานหลายปี และได้เดิมพันอนาคตของบริษัทของเขาเกี่ยวกับ AI, ยานพาหนะที่ขับเคลื่อนอัตโนมัติ และหุ่นยนต์ฮิวแมนนอยด์ มันเป็น […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
+      "summary_en": "Last September, Steve Ballmer insisted in an ESPN interview that the Clippers weren't involved in a shady-looking $28 million endorsement deal for his star player, Kawhi Leonard, that involved no actual endorsing. Now, the former Microsoft CEO has been suspended by the NBA for a year, while the league says his team will forfeit five […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2166198274.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
+      "published": "2026-09-03T19:37:37-04:00",
+      "title_th": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
+      "summary_th": "เมื่อเดือนกันยายนปีที่แล้ว Steve Ballmer ยืนกรานในการให้สัมภาษณ์กับ ESPN ว่า Clippers ไม่ได้มีส่วนเกี่ยวข้องกับข้อตกลงการรับรองมูลค่า 28 ล้านดอลลาร์สำหรับ Kawhi Leonard นักเตะดาวเด่นของเขา ซึ่งไม่ได้เกี่ยวข้องกับการรับรองจริงๆ ตอนนี้ อดีต CEO ของ Microsoft ถูก NBA ระงับเป็นเวลาหนึ่งปี ในขณะที่ลีกบอกว่าทีมของเขาจะถูกปรับแพ้ห้า […]"
     },
     {
       "source": "The Verge",
@@ -97,30 +121,6 @@
       "published": "2026-09-03T14:37:57-04:00",
       "title_th": "สมาชิกสภาผู้แทนราษฎรกล่าวว่า TikTok ถอยออกจากการประชุมเพื่อหลีกเลี่ยงคำถามเกี่ยวกับความปลอดภัยของเด็ก",
       "summary_th": "TikTok ถอยออกจาก \"โต๊ะกลมสาธารณะ\" ของคณะกรรมการรัฐสภาที่กำหนดไว้สำหรับเดือนนี้ เนื่องจากมีข้อกังวลว่าจะมีการถามเกี่ยวกับหลักปฏิบัติด้านความปลอดภัยของเด็ก ประธานคณะกรรมการกล่าว หลังเจรจา “โดยสุจริต” เพื่อนำหัวหน้าเจ้าหน้าที่รักษาความปลอดภัยของ TikTok ขึ้นต่อหน้าคณะกรรมการคัดเลือกสภาผู้แทนราษฎรของจีน เพื่อตอบคำถามเกี่ยวกับการเข้าถึงของรัฐบาลจีน […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Samsung’s beloved Q Series sound system is hundreds off for Labor Day",
-      "summary_en": "Researching, buying, then finally assembling a sound system for your TV is daunting, but it doesn’t have to be. If you want one of the best kits you can get at a rare discount, Best Buy and Amazon are selling the Samsung Q990F Soundbar for $999.99. It normally retails between $1,300 and $1,600. This bundle […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Samsung-Q990F-roundup.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale",
-      "published": "2026-09-03T14:14:07-04:00",
-      "title_th": "ระบบเสียง Q Series อันเป็นที่รักของ Samsung ลดราคาหลายร้อยรายการในวันแรงงาน",
-      "summary_th": "การค้นคว้า ซื้อ และการประกอบระบบเสียงสำหรับทีวีในท้ายที่สุดนั้นเป็นเรื่องที่ยุ่งยาก แต่ก็ไม่จำเป็นต้องเป็นเช่นนั้น หากคุณต้องการชุดอุปกรณ์ที่ดีที่สุด คุณจะได้รับส่วนลดหายาก Best Buy และ Amazon ขาย Samsung Q990F Soundbar ในราคา 999.99 ดอลลาร์ โดยปกติจะขายปลีกระหว่าง 1,300 ถึง 1,600 เหรียญสหรัฐ ชุดนี้ […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "OpenAI’s next big AI model has ‘entered the AGI era’",
-      "summary_en": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS522_AGI_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-      "published": "2026-09-03T14:00:00-04:00",
-      "title_th": "โมเดล AI ขนาดใหญ่ถัดไปของ OpenAI ได้ 'เข้าสู่ยุค AGI' แล้ว",
-      "summary_th": "รุ่นใหญ่ถัดไปของ OpenAI อยู่ที่นี่: GPT-6 Astra บริษัทเรียกสิ่งนี้ว่า \"ความสามารถแบบก้าวกระโดดในยุค\" สำหรับด้านต่างๆ เช่น ความปลอดภัยทางไซเบอร์ งานวิชาชีพ วิศวกรรมซอฟต์แวร์ วิทยาศาสตร์ และการใช้คอมพิวเตอร์ ตามที่ OpenAI ประกาศเมื่อต้นสัปดาห์นี้ มันก็ยังเป็นโมเดลแรกที่ได้รับมอบหมายให้เป็นไปตาม \"เกณฑ์ความสามารถด้านความปลอดภัยทางไซเบอร์ที่สำคัญ\" ของ OpenAI - แต่บริษัทสัญญาว่าจะไม่ […]"
     },
     {
       "source": "Ars Technica",
@@ -186,6 +186,18 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
+      "title_en": "5 Best Video Doorbell Cameras (2026): Subscription-Free, Video, and More",
+      "summary_en": "Never miss a delivery. These WIRED-tested picks will help you keep tabs on your front door from anywhere.",
+      "image": "https://media.wired.com/photos/69c6cf4311f836e20d54dee4/master/pass/Nest%20Doorbell%20Wired%203rd%20Gen%201%20SOURCE%20Julian%20Chokkattu.jpg",
+      "link": "https://www.wired.com/gallery/best-video-doorbells/",
+      "published": "Thu, 03 Sep 2026 22:48:55 +0000",
+      "title_th": "กล้องออดวิดีโอที่ดีที่สุด 5 อันดับ (2026): ไม่ต้องสมัครสมาชิก วิดีโอและอื่น ๆ อีกมากมาย",
+      "summary_th": "ไม่พลาดการส่งมอบ ตัวเลือกที่ผ่านการทดสอบแบบมีสายเหล่านี้จะช่วยให้คุณจับแท็บที่ประตูหน้าของคุณได้จากทุกที่"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
       "title_en": "Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient",
       "summary_en": "Gene-edited pig kidneys could offer a lifeline to patients stuck waiting for a human donor.",
       "image": "https://media.wired.com/photos/6a99964bab64da8be39c7ad7/master/pass/20250125_kaf_transplant_001_srgb.jpg",
@@ -229,18 +241,6 @@
       "published": "Thu, 03 Sep 2026 18:06:24 +0000",
       "title_th": "GPT-6 Astra มาถึงแล้ว และ OpenAI คิดว่าอาจเป็นการเริ่มต้นยุค AGI",
       "summary_th": "ผู้นำ OpenAI คิดว่าโมเดลเจเนอเรชั่นถัดไปของบริษัท ซึ่งมีความเป็นเลิศในการใช้คอมพิวเตอร์และการเขียนโค้ด อาจเป็นก้าวสำคัญในการพัฒนา AI"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
-      "summary_en": "OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk’s SpaceX acquired the AI coding startup.",
-      "image": "https://media.wired.com/photos/6a9996ebd275abfc723b2792/master/pass/Model-Behavior-Elon-Musk-Costs-OpenAI-Billion-Dollar-Customer-Business.jpg",
-      "link": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
-      "published": "Thu, 03 Sep 2026 16:42:40 +0000",
-      "title_th": "OpenAI ตัดลูกค้านับพันล้านดอลลาร์เพื่อหลีกเลี่ยง Elon Musk",
-      "summary_th": "เมื่อเร็ว ๆ นี้ OpenAI คาดการณ์ว่าความร่วมมือของ Cursor จะสร้างรายได้มากกว่า 1 พันล้านดอลลาร์ต่อปี WIRED ได้เรียนรู้ มันยังคงเดินจากไปหลังจากที่ SpaceX ของ Elon Musk เข้าซื้อกิจการสตาร์ทอัพการเข้ารหัส AI"
     },
     {
       "source": "MIT Technology Review",
@@ -299,8 +299,20 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/centauri-route2.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
       "published": "Tue, 01 Sep 2026 19:10:36 +0000",
-      "title_th": "AI วางแผนการเดินทางระหว่างดวงดาวไปยัง Alpha Centauri ได้อย่างไร",
+      "title_th": "How AI plotted an interstellar journey to Alpha Centauri",
       "summary_th": "องค์กรไม่แสวงหาผลกำไรชื่อ Fermi Explorer Mission ประกาศในวันนี้ว่าตั้งใจที่จะเปิดตัวยานอวกาศไปยังระบบดาวที่ใกล้ที่สุดภายในสิ้นปี 2572 ภารกิจนี้มีความทะเยอทะยานอย่างมาก หากทุกอย่างเป็นไปด้วยดี ยานอวกาศอาจใช้เวลาถึง 80,000 ปีจึงจะมาถึง Alpha Centauri ซึ่งอยู่ห่างออกไป 4.4 ปีแสง และ..."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "OpenAI says GPT-6 Astra is 'the most intelligent and aligned model in the world'",
+      "summary_en": "The new frontier model is particularly competent at agentic, computer-use tasks.",
+      "image": "https://www.engadget.com/img/gallery/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world/l-intro-1788476205.jpg",
+      "link": "https://www.engadget.com/2250814/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world/",
+      "published": "Thu, 03 Sep 2026 22:58:12 +0000",
+      "title_th": "OpenAI กล่าวว่า GPT-6 Astra เป็น 'โมเดลที่ชาญฉลาดและสอดคล้องที่สุดในโลก'",
+      "summary_th": "โมเดลฟรอนเทียร์ใหม่มีความสามารถพิเศษในงานเอเจนต์และการใช้คอมพิวเตอร์"
     },
     {
       "source": "Engadget",
@@ -347,20 +359,8 @@
       "image": "https://www.engadget.com/img/gallery/apple-vision-pro-was-used-for-a-successful-hip-surgery/l-intro-1788469479.jpg",
       "link": "https://www.engadget.com/2250758/stryker-apple-vision-pro-sportsuite-app-in-hip-arthroscopy/",
       "published": "Thu, 03 Sep 2026 21:14:11 +0000",
-      "title_th": "Apple Vision Pro ใช้สำหรับการผ่าตัดสะโพกที่ประสบผลสำเร็จ",
-      "summary_th": "Stryker กล่าวว่าซอฟต์แวร์ SportSuite Vision สำหรับชุดหูฟังได้รับการอนุมัติจาก De Novo จาก FDA ในเดือนกรกฎาคม"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Google's new AI weather model uses live satellite data for higher-resolution forecasts",
-      "summary_en": "WeatherNext 3 is also supposed to be much better at predicting precipitation.",
-      "image": "https://www.engadget.com/img/gallery/googles-new-ai-weather-model-uses-live-satellite-data-for-higher-resolution-forecasts/l-intro-1788464884.jpg",
-      "link": "https://www.engadget.com/2250687/googles-new-ai-weather-model-uses-live-satellite-data-for-higher-resolution-forecasts/",
-      "published": "Thu, 03 Sep 2026 19:56:03 +0000",
-      "title_th": "โมเดลสภาพอากาศ AI ใหม่ของ Google ใช้ข้อมูลดาวเทียมสดเพื่อการพยากรณ์ที่มีความละเอียดสูงขึ้น",
-      "summary_th": "WeatherNext 3 ก็ควรจะพยากรณ์ปริมาณฝนได้ดีกว่ามากเช่นกัน"
+      "title_th": "The Apple Vision Pro was used for a successful hip surgery",
+      "summary_th": "Stryker says its SportSuite Vision software for the headset received De Novo authorization from the FDA in July."
     },
     {
       "source": "IEEE Spectrum",
@@ -371,8 +371,8 @@
       "image": "https://spectrum.ieee.org/media-library/industrial-robotic-arm-with-cable-management-system-and-flexible-energy-chains.jpg?id=67633840&width=980",
       "link": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
       "published": "Thu, 03 Sep 2026 12:18:21 +0000",
-      "title_th": "การปกป้องผู้ให้บริการเคเบิลหุ่นยนต์อุตสาหกรรมแบบไดนามิก",
-      "summary_th": "บทความนี้นำเสนอโดย Tsubaki KabelSchlepp ในการผลิตแบบอัตโนมัติสมัยใหม่ หุ่นยนต์แบบข้อต่อหกแกนดำเนินการควบคุมด้วยความเร็วสูงหลายทิศทางภายใต้วงจรการปฏิบัติงานที่มีความต้องการสูง อย่างไรก็ตาม ในขณะที่แขนหุ่นยนต์หมุน หมุน และยืดออก สายเคเบิลไฟฟ้า ไฟเบอร์ออปติก และท่อนิวแมติกที่จ่ายให้กับแขนจะต้องทนต่อความเครียดทางกลที่รุนแรง การบิดตัวแบบบิด การเร่งความเร็วอย่างรวดเร็ว และการสัมผัสกับโครงสร้างของเครื่องจักรซ้ำๆ มักจะนำไปสู่ความล้าของตัวนำก่อนเวลาอันควร ฉนวนพังทลาย และการหยุดการผลิตโดยไม่ได้วางแผนซึ่งมีค่าใช้จ่ายสูง เพื่อเอาชนะความท้าทายในการเคลื่อนที่แบบหลายแกนเหล่านี้ Tsubaki KabelSchlepp Robotrax System จึงมอบตัวพาสายเคเบิลสามมิติพิเศษที่ออกแบบเป็นพิเศษสำหรับการเคลื่อนที่ของหุ่นยนต์ที่ซับซ้อน การจัดการแรงดึงสูงด้วยเทคโนโลยี Central Steel"
+      "title_th": "Protecting Dynamic Industrial Robot Cable Carriers",
+      "summary_th": "This article is brought to you by Tsubaki KabelSchlepp . In modern automated manufacturing, six-axis articulated robots perform high-speed, multidirectional maneuvers under demanding operational cycles. However, as robot arms swivel, rotate, and extend, the electrical cables, fiber optics, and pneumatic hoses supplying them endure severe mechanical stress. Torsional twist, rapid acceleration, and repeated contact with machine structures often lead to premature conductor fatigue, insulation breakdown, and costly unplanned production halts. To overcome these multi-axis motion challenges, the Tsubaki KabelSchlepp Robotrax System provides a specialized three-dimensional cable carrier engineered specifically for complex robotic motion. Managing High Tensile Forces With Central Steel Technology "
     },
     {
       "source": "IEEE Spectrum",
@@ -383,8 +383,8 @@
       "image": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=980",
       "link": "https://spectrum.ieee.org/forms-of-engineering-mentorship",
       "published": "Wed, 02 Sep 2026 19:45:58 +0000",
-      "title_th": "การใช้รูปแบบการให้คำปรึกษาที่แตกต่างกัน",
-      "summary_th": "บทความนี้คัดลอกมาจากจดหมายข่าวอาชีพของ IEEE Spectrum ลงทะเบียนตอนนี้เพื่อรับเคล็ดลับจากวงใน คำแนะนำจากผู้เชี่ยวชาญ และกลยุทธ์เชิงปฏิบัติ เขียนโดยความร่วมมือกับบริษัทพัฒนาอาชีพด้านเทคโนโลยี Parsity และส่งตรงถึงกล่องจดหมายของคุณฟรี! การขอให้ใครสักคนเป็นที่ปรึกษาของคุณนั้นแปลก เดินเข้าไปหาใครสักคนแล้วถามว่า “คุณจะเป็นที่ปรึกษาให้ผมไหม?” สำหรับฉันดูเหมือนเด็กผู้ใหญ่จะเดินไปหาเด็กอีกคนในงานปาร์ตี้แล้วถามว่า “คุณจะเป็นเพื่อนกับฉันไหม” สิ่งที่คุณถามจริงๆ คือ: “คุณจะสละเวลาโดยไม่ได้รับค่าตอบแทนเพื่อชี้แนะอาชีพของฉันเป็นระยะเวลาไม่มีกำหนดหรือไม่?” ใส่ร้ายแบบนั้น แน่นอนว่าบางคนลังเลที่จะตอบตกลง แต่การให้คำปรึกษาอย่างเป็นทางการไม่ใช่วิธีเดียวที่จะได้รับประโยชน์จากภูมิปัญญาของผู้มาก่อน ฉันไม่เคยขอให้ใครให้คำปรึกษาอย่างเป็นทางการ"
+      "title_th": "Applying Different Forms of Mentorship",
+      "summary_th": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! Asking someone to be your mentor is weird. Walking up to someone and asking, “Will you be my mentor?” has always seemed to me like the adult version of a kid walking up to another kid at a party and asking, “Will you be my friend?” What you’re really asking is: “Will you commit some amount of unpaid time to guiding my career for an indefinite period?” Framed that way, of course some people hesitate to say yes. But formal mentorship isn’t the only way to benefit from the wisdom of those who came before. I’ve never formally asked anyone to mento"
     },
     {
       "source": "IEEE Spectrum",
@@ -395,8 +395,8 @@
       "image": "https://spectrum.ieee.org/media-library/close-up-of-an-extended-robotic-arm-in-low-earth-orbit.jpg?id=67717218&width=980",
       "link": "https://spectrum.ieee.org/canadarm-ieee-300th-milestone",
       "published": "Wed, 02 Sep 2026 18:00:03 +0000",
-      "title_th": "แขนหุ่นยนต์ขนย้ายสินค้าของ NASA ได้รับรางวัล IEEE ครั้งที่ 300",
-      "summary_th": "ในทศวรรษ 1960 NASA เริ่มพัฒนาระบบกระสวยอวกาศที่นำกลับมาใช้ใหม่ได้เพื่อให้งานมีประสิทธิภาพมากขึ้นและลดต้นทุน กระสวยอวกาศสามารถพุ่งได้เหมือนจรวด เคลื่อนตัวในวงโคจรของโลก และลงจอดได้เหมือนเครื่องบิน พวกเขายังสามารถบรรทุกดาวเทียมขนาดใหญ่เข้าและออกจากวงโคจรได้ เช่นเดียวกับการขนส่งประเภทอื่นๆ เครื่องจักรจะพังในที่สุด และจำเป็นต้องเปลี่ยนหรือซ่อมแซมชิ้นส่วนต่างๆ และสินค้าที่ถูกขนส่งเข้าและออกจากโลกจะต้องถูกย้ายไปยังจุดหมายปลายทางสุดท้าย เพื่อทำงานดังกล่าวให้เสร็จสิ้น Spar Aerospace (ปัจจุบันเป็นส่วนหนึ่งของ MDA Space) ในเมืองแบรมป์ตัน รัฐออนแทรีโอ แคนาดา และสภาวิจัยแห่งชาติในออตตาวาได้พัฒนาแขนหุ่นยนต์ที่เรียกว่า Shuttle Remote Manipulator System โครงการนี้เป็นการร่วมทุนระหว่างรัฐบาลสหรัฐฯ และแคนาดา รู้จักกันในชื่อ Canadarms ซึ่งเป็นเครื่องมือหุ่นยนต์ที่ติดอยู่กับ sh"
+      "title_th": "NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone",
+      "summary_th": "In the 1960s NASA began developing a system of reusable space shuttles to make its work more efficient and to reduce costs. The shuttles could launch like rockets, maneuver in Earth’s orbit, and land like airplanes. They also could carry large satellites to and from orbit. Like other types of transportation, machinery eventually breaks down, and parts need to be replaced or fixed. And the cargo being carried to and from Earth has to be moved to its final destination. To complete such tasks, Spar Aerospace (now part of MDA Space ) of Brampton, Ont., Canada, and the National Research Council in Ottawa developed a robotic arm, the Shuttle Remote Manipulator System . The project was a joint venture between the U.S. and Canadian governments. Known as Canadarms , the robotic tools attached to sh"
     },
     {
       "source": "IEEE Spectrum",
@@ -455,7 +455,7 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/09/03/happy-hour-606/",
       "published": "Thu, 03 Sep 2026 20:00:29 +0000",
-      "title_th": "John Ternus ตอนนี้เป็น CEO ของ Apple, ข่าวลือเรื่อง iPhone ในนาทีสุดท้าย, ราคา Apple TV เพิ่มขึ้น",
+      "title_th": "John Ternus is now Apple CEO, last-minute iPhone event rumors, Apple TV price increase",
       "summary_th": "Benjamin และ Chance พูดคุยเกี่ยวกับสัปดาห์แรกของ John Ternus ในตำแหน่ง CEO ของ Apple และ Tim Cook จะยังคงมีส่วนร่วมมากแค่ไหน นอกจากนี้ยังเป็นโอกาสสุดท้ายสำหรับข่าวลือเกี่ยวกับเหตุการณ์ iPhone โดยมีรายละเอียดเกี่ยวกับการอัปเดตด้านสุขภาพสำหรับ Apple Watch Series 12 ที่จะมาถึงข้างหน้า และมีการขึ้นราคาการสมัครสมาชิก Apple TV เป็นครั้งที่สองในรอบหลายปี และใน Happy Hour Plus ก่อนเปิดตัว iPhone 18 Pro เราได้สะท้อนให้เห็นถึงประสบการณ์เชิงบวกโดยรวมของเราในการใช้ iPhone Air ตลอดทั้งปี สมัครสมาชิกที่ 9to5mac.com/join สนับสนุนโดย Square : รับส่วนลดฮาร์ดแวร์ Square สูงสุดถึง $200 เมื่อคุณสมัครที่ square.com/go/happyhour สนับสนุนโดย Bitwarden : ลงทะเบียนเข้าร่วมการประชุมสุดยอด Open Source Security Summit เสมือนจริงฟรีในวันที่ 17 กันยายน โดยมีผู้นำด้านความปลอดภัยทางไซเบอร์ David Sanger และ Joseph Menn —"
     },
     {
@@ -481,6 +481,18 @@
       "published": "Thu, 03 Sep 2026 18:48:48 +0000",
       "title_th": "OpenAI เปิดตัวการอัปเกรดครั้งใหญ่เป็น ChatGPT และ Codex ด้วย GPT-6 Astra รายละเอียดที่นี่",
       "summary_th": "เป็นเวลากว่าหนึ่งปีแล้วที่ OpenAI เปิดตัว GPT-5 รุ่นแรกสำหรับ ChatGPT ตอนนี้ถึงเวลาที่ GPT-6 Astra จะอัปเกรดความสามารถของ ChatGPT และ Codex รายละเอียดด้านล่าง มากกว่า…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Google Clock rolls out redesign of Timers with presets on Android",
+      "summary_en": "Following the new app icon, Google Clock has rolled out a redesigned Timers tab. This follows yesterday’s update to the Now Playing app . more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-new-icons-2.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/03/google-clock-timers-redesign/",
+      "published": "Thu, 03 Sep 2026 23:44:57 +0000",
+      "title_th": "Google Clock เปิดตัวตัวจับเวลาที่ออกแบบใหม่พร้อมการตั้งค่าล่วงหน้าบน Android",
+      "summary_th": "ตามไอคอนแอปใหม่ Google Clock ได้เปิดตัวแท็บตัวจับเวลาที่ออกแบบใหม่ การดำเนินการนี้เกิดขึ้นหลังจากการอัปเดตแอป Now Playing เมื่อวานนี้ มากกว่า…"
     },
     {
       "source": "9to5Google",
@@ -531,16 +543,16 @@
       "summary_th": "หลังจากการขัดข้องในวันนี้ OpenAI กำลังเปิดตัว GPT-6 Astra ซึ่งเป็นรุ่นล่าสุดที่ \"ฉลาดที่สุดในโลก\" มากกว่า…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Google Home update fixes alarms, improves media & smart home voice controls",
-      "summary_en": "The latest Google Home update is fixing issues with alarms that some users were experiencing while also improving media and smart home voice controls in Google’s continued effort to address pain points in Gemini for Home. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-9.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/03/google-home-update-fixes-alarms-improves-media-smart-home-voice-controls/",
-      "published": "Thu, 03 Sep 2026 19:35:00 +0000",
-      "title_th": "การอัปเดต Google Home แก้ไขการเตือน ปรับปรุงสื่อและการควบคุมด้วยเสียงในบ้านอัจฉริยะ",
-      "summary_th": "การอัปเดต Google Home ล่าสุดกำลังแก้ไขปัญหาเกี่ยวกับการเตือนที่ผู้ใช้บางคนพบในขณะเดียวกันก็ปรับปรุงสื่อและการควบคุมเสียงในบ้านอัจฉริยะด้วยความพยายามอย่างต่อเนื่องของ Google ในการจัดการกับปัญหาใน Gemini for Home มากกว่า…"
+      "category": "ev",
+      "title_en": "Tesla opens search for Cybercab fleet sales, but FSD owners are still left out",
+      "summary_en": "Tesla has started distributing a “Robotaxi interest form,” collecting interest from fleet buyers who would want to build a Robotaxi network or provide related infrastructure services. It’s the first step in allowing non-Tesla entities to make money off of Tesla’s FSD driver-assist software… but the owners who were promised they could make passive income with their cars are still out of luck. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Robotaxi-Own-An-Autonomous-Fleet-e1788480399278.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/03/tesla-opens-search-for-cybercab-fleet-sales-but-fsd-owners-are-still-left-out/",
+      "published": "Fri, 04 Sep 2026 01:05:58 +0000",
+      "title_th": "Tesla เปิดการค้นหาการขายยานพาหนะ Cybercab แต่เจ้าของ FSD ยังคงถูกละเลย",
+      "summary_th": "Tesla ได้เริ่มแจกจ่าย \"แบบฟอร์มดอกเบี้ย Robotaxi\" โดยรวบรวมความสนใจจากผู้ซื้อยานพาหนะที่ต้องการสร้างเครือข่าย Robotaxi หรือให้บริการโครงสร้างพื้นฐานที่เกี่ยวข้อง นี่เป็นก้าวแรกในการอนุญาตให้หน่วยงานที่ไม่ใช่ Tesla สร้างรายได้จากซอฟต์แวร์ช่วยเหลือคนขับ FSD ของ Tesla… แต่เจ้าของที่ได้รับการสัญญาว่าจะสามารถสร้างรายได้แบบพาสซีฟด้วยรถยนต์ของพวกเขายังคงโชคไม่ดี มากกว่า…"
     },
     {
       "source": "Electrek",
@@ -589,18 +601,6 @@
       "published": "Thu, 03 Sep 2026 19:42:31 +0000",
       "title_th": "EV ที่ขายดีที่สุดเหล่านี้ลดราคาในวันแรงงาน",
       "summary_th": "Hyundai IONIQ 5 และ Toyota bZ ลดราคาเนื่องในวันแรงงาน เพื่อเคลียร์สินค้าคงคลังสำหรับรุ่นปี 2027 ที่จะมาถึง มากกว่า…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Equinor just brought its biggest US battery online in Texas",
-      "summary_en": "Equinor’s largest US battery energy storage project to date is now operating in South Texas, adding 100 megawatts (MW) of flexible capacity to the state’s fast-growing power grid. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Citrus-Flatts-Energy-Center-in-Cameron-County-TX.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/03/equinor-just-brought-its-biggest-us-battery-online-in-texas/",
-      "published": "Thu, 03 Sep 2026 18:45:39 +0000",
-      "title_th": "Equinor เพิ่งนำแบตเตอรี่ที่ใหญ่ที่สุดของสหรัฐอเมริกาทางออนไลน์ในเท็กซัส",
-      "summary_th": "โครงการจัดเก็บพลังงานแบตเตอรี่ที่ใหญ่ที่สุดในสหรัฐฯ ของ Equinor จนถึงปัจจุบันกำลังดำเนินการในเท็กซัสตอนใต้ โดยเพิ่มกำลังการผลิตแบบยืดหยุ่นได้ 100 เมกะวัตต์ (MW) ให้กับโครงข่ายไฟฟ้าที่เติบโตอย่างรวดเร็วของรัฐ มากกว่า…"
     }
   ],
   "indices": [
@@ -608,57 +608,57 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 228.45,
-      "change": 4.04,
-      "change_pct": 1.8
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 376.36,
-      "change": 19.35,
-      "change_pct": 5.42
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 342.48,
-      "change": 5.36,
-      "change_pct": 1.59
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 510.12,
-      "change": 13.3,
-      "change_pct": 2.68
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 328.21,
-      "change": 3.25,
-      "change_pct": 1.0
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 258.9,
-      "change": 3.92,
-      "change_pct": 1.54
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 610.68,
-      "change": 17.83,
-      "change_pct": 3.01
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "DELTA.BK",
@@ -670,6 +670,16 @@
     }
   ],
   "reviews": [
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "I Made a Bet with Tesla",
+      "video_id": "fo-uubnajWM",
+      "link": "https://www.youtube.com/watch?v=fo-uubnajWM",
+      "thumbnail": "https://i3.ytimg.com/vi/fo-uubnajWM/hqdefault.jpg",
+      "published": "2026-09-04T01:18:34+00:00",
+      "title_th": "ฉันเดิมพันกับเทสลา"
+    },
     {
       "channel": "MKBHD",
       "country": "US",
@@ -688,17 +698,7 @@
       "link": "https://www.youtube.com/watch?v=ngPkbaZliaU",
       "thumbnail": "https://i3.ytimg.com/vi/ngPkbaZliaU/hqdefault.jpg",
       "published": "2026-08-24T20:27:50+00:00",
-      "title_th": "ความจริงเกี่ยวกับโทรศัพท์แนวคิด Bezelless"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "I Said Yes to Every Email for a Month! (Again)",
-      "video_id": "mfmdXPT7nAM",
-      "link": "https://www.youtube.com/watch?v=mfmdXPT7nAM",
-      "thumbnail": "https://i2.ytimg.com/vi/mfmdXPT7nAM/hqdefault.jpg",
-      "published": "2026-08-21T18:53:07+00:00",
-      "title_th": "ฉันตอบตกลงทุกอีเมลเป็นเวลาหนึ่งเดือน! (อีกครั้ง)"
+      "title_th": "The Truth About the Bezelless Concept Phone"
     },
     {
       "channel": "Unbox Therapy",
@@ -733,6 +733,16 @@
     {
       "channel": "Beartai",
       "country": "TH",
+      "title_en": "ก้าวข้ามคำว่า 'ก๊อปปี้'",
+      "video_id": "r5tj0v8vxts",
+      "link": "https://www.youtube.com/shorts/r5tj0v8vxts",
+      "thumbnail": "https://i3.ytimg.com/vi/r5tj0v8vxts/hqdefault.jpg",
+      "published": "2026-09-03T23:00:40+00:00",
+      "title_th": "ก้าวข้ามคำว่า 'ก๊อปปี้'"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
       "title_en": "DNA File รหัสลับของชีวิต EP.2 เราทุกคนคือผู้มาเยือน",
       "video_id": "CUnF6Cxzq3I",
       "link": "https://www.youtube.com/watch?v=CUnF6Cxzq3I",
@@ -749,16 +759,6 @@
       "thumbnail": "https://i2.ytimg.com/vi/1Dm97YVomV4/hqdefault.jpg",
       "published": "2026-09-03T09:16:44+00:00",
       "title_th": "GCNT Expo 2026: จาก Shock สู่ Shift เปลี่ยนวิกฤตประเทศไทยให้ไปต่ออย่างยั่งยืน"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "ทำไงให้หายปวดเมื่อย ?",
-      "video_id": "kbUaoKsKLss",
-      "link": "https://www.youtube.com/shorts/kbUaoKsKLss",
-      "thumbnail": "https://i4.ytimg.com/vi/kbUaoKsKLss/hqdefault.jpg",
-      "published": "2026-09-02T23:00:05+00:00",
-      "title_th": "ทำไงให้หายปวดเมื่อย ?"
     },
     {
       "channel": "Droidsans",
