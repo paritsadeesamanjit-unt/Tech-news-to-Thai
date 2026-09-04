@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-04T20:04:27.050691+00:00",
+  "generated_at": "2026-09-04T22:42:07.431674+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "summary_en": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2266843677.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "published": "Fri, 04 Sep 2026 21:12:11 +0000",
+      "title_th": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "summary_th": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -11,7 +23,7 @@
       "image": "https://techcrunch.com/wp-content/uploads/2023/07/x-logo-impales-twitter-bird.jpg?resize=1200,675",
       "link": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
       "published": "Fri, 04 Sep 2026 17:52:05 +0000",
-      "title_th": "ผู้พิพากษาบล็อก X คู่แข่งไม่ให้ใช้ชื่อ Twitter แต่อนุญาตให้ 'ทวีต' ในตอนนี้",
+      "title_th": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
       "summary_th": "ผู้พิพากษาของรัฐบาลกลางห้ามมิให้คู่แข่ง X ใช้ชื่อ Twitter ชั่วคราว แต่พบว่า X มีแนวโน้มที่จะละทิ้งเครื่องหมายการค้า \"Tweet\" และโลโก้รูปนก สตาร์ทอัพดังกล่าวได้เปิดตัวอีกครั้งในชื่อ Tweet.app"
     },
     {
@@ -24,7 +36,7 @@
       "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
       "published": "Fri, 04 Sep 2026 17:18:00 +0000",
       "title_th": "ยุค John Ternus ของ Apple จะเป็นอย่างไร?",
-      "summary_th": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far, though: he’s staying on as Executive Chairman, focused on the kind of policy […]"
+      "summary_th": "เข้าสู่ยุค Ternus อย่างเป็นทางการของ Apple Tim Cook ก้าวลงจากตำแหน่ง CEO ในสัปดาห์นี้ โดยมอบบริษัทให้กับอดีตหัวหน้าฝ่ายฮาร์ดแวร์ John Ternus ซึ่งบันทึกครั้งแรกสัญญาว่าจะ \"เปิดตัวครั้งใหญ่ในสัปดาห์หน้า\" ซึ่งเป็นจังหวะที่ทำให้งาน iPhone ครั้งถัดไปของ Apple เกิดขึ้นบนโต๊ะของเขาก่อนที่เขาจะเข้ามามีส่วนร่วมด้วยซ้ำ แม้ว่า Cook จะอยู่ไม่ไกล: เขายังคงอยู่ในฐานะประธานกรรมการบริหารโดยมุ่งเน้นไปที่ประเภทของนโยบาย […]"
     },
     {
       "source": "TechCrunch",
@@ -35,7 +47,7 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-open.jpg?resize=1200,856",
       "link": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
       "published": "Fri, 04 Sep 2026 16:51:23 +0000",
-      "title_th": "No little kids allowed, and other new info about Tesla’s Cybercab",
+      "title_th": "ไม่อนุญาตให้เด็กเล็กเข้า และข้อมูลใหม่อื่นๆ เกี่ยวกับ Cybercab ของ Tesla",
       "summary_th": "บริษัทบอกว่าเด็กอายุต่ำกว่า 13 ปีไม่สามารถนั่งรถได้ แม้จะเดินทางพร้อมผู้ปกครองก็ตาม นั่นเป็นข้อ จำกัด มากกว่า SUV รุ่น Y ที่ใช้เป็นโรบอตแท็กซี่"
     },
     {
@@ -48,19 +60,19 @@
       "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
       "published": "Fri, 04 Sep 2026 16:21:11 +0000",
       "title_th": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "summary_th": "ถือเป็นความล้มเหลวครั้งล่าสุดของระบบตรวจสอบภายในและรักษาความปลอดภัยของ OpenAI"
+      "summary_th": "It's the latest failure of OpenAI's internal monitoring and security systems."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "CD sales are making an unexpected comeback amid a retro tech boom",
-      "summary_en": "U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/compact-discs-and-headphones.jpg?resize=1200,402",
-      "link": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
-      "published": "Fri, 04 Sep 2026 15:00:00 +0000",
-      "title_th": "ยอดขายซีดีกำลังกลับมาอย่างไม่คาดคิดท่ามกลางกระแสเทคโนโลยีย้อนยุคที่บูม",
-      "summary_th": "รายรับจากซีดีในสหรัฐฯ เพิ่มขึ้น 58.6% ในช่วงครึ่งแรกของปี 2569 พลิกกลับการลดลงในปีที่แล้ว เนื่องจากความสนใจในเทคโนโลยีย้อนยุคและสื่อทางกายภาพยังคงเติบโตอย่างต่อเนื่อง"
+      "category": "software",
+      "title_en": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
+      "summary_en": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early rendition that was circulating last October. But more importantly, all the promised improvements to […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Audacity-4.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "link": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
+      "published": "2026-09-04T17:23:50-04:00",
+      "title_th": "Audacity 4 เป็นการปรับปรุงตัวแก้ไขเสียงที่ 'ได้รับความนิยมมากที่สุดในโลก' ใหม่ทั้งหมด",
+      "summary_th": "Audacity 4 อยู่ในผลงานมาระยะหนึ่งแล้ว และมีข้อโต้แย้งเล็กๆ น้อยๆ ของตัวเองเมื่อปีที่แล้ว เมื่อโลโก้ที่โชคร้ายที่ออกแบบใหม่เริ่มปรากฏขึ้น ไอคอนใหม่เวอร์ชันสุดท้ายไม่ได้แย่เท่ากับเวอร์ชันแรกที่เผยแพร่เมื่อเดือนตุลาคมปีที่แล้ว แต่ที่สำคัญกว่านั้นคือการปรับปรุงที่สัญญาไว้ทั้งหมดสำหรับ […]"
     },
     {
       "source": "The Verge",
@@ -71,7 +83,7 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-04-at-3.23.13-PM.png?quality=90&strip=all&crop=0%2C16.030389447569%2C100%2C67.939221104862&w=1200",
       "link": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
       "published": "2026-09-04T15:42:54-04:00",
-      "title_th": "ทำเนียบขาวกำลังทำให้เกมอาร์เคดเหยียดเชื้อชาติ",
+      "title_th": "The White House is making arcade games racist",
       "summary_th": "ผู้บงการการประชาสัมพันธ์ที่ทำเนียบขาวเพิ่งเปิดตัวซีรีส์เกม \"อาร์เคด\" ที่มีธีมนโยบายคลุมเครือ ซึ่งบางเกมเป็นการเหยียดเชื้อชาติ และจำลองมาจากเกมจริงซึ่งผู้ถือลิขสิทธิ์อาจไม่พอใจเกินไปที่จะเชื่อมโยงกับวาระ MAGA บริษัท Tetris ได้ตอบสนองต่อ \"Build the Wall\" แล้ว ซึ่งเห็นได้ชัดว่า […]"
     },
     {
@@ -83,8 +95,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/09-4-mission1-pro-pdp-desktop.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
       "link": "https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter",
       "published": "2026-09-04T14:00:45-04:00",
-      "title_th": "GoPro บอกว่ายังคงมุ่งมั่น 'เพื่อสโต๊คโดยรวมของคุณ'",
-      "summary_th": "GoPro CEO Nick Woodman said in a letter to customers that making cameras is still his company's \"core DNA,\" after a proposed $285 million acquisition by Starman was announced earlier this week. He claims the merger puts GoPro in a better position to continue developing its content creation tech, after saying in the deal announcement […]"
+      "title_th": "GoPro says it’s still committed ‘to your collective stoke’",
+      "summary_th": "Nick Woodman ซีอีโอของ GoPro กล่าวในจดหมายถึงลูกค้าว่าการผลิตกล้องยังคงเป็น \"DNA หลัก\" ของบริษัทของเขา หลังจากที่ Starman เสนอซื้อกิจการมูลค่า 285 ล้านดอลลาร์เมื่อต้นสัปดาห์นี้ เขาอ้างว่าการควบรวมกิจการทำให้ GoPro อยู่ในตำแหน่งที่ดีขึ้นเพื่อพัฒนาเทคโนโลยีการสร้างเนื้อหาต่อไป หลังจากกล่าวในการประกาศข้อตกลง […]"
     },
     {
       "source": "The Verge",
@@ -95,8 +107,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Melody_Flip_Palettes-Fav.png?quality=90&strip=all&crop=0%2C10.595205290714%2C100%2C78.809589418573&w=1200",
       "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
       "published": "2026-09-04T13:51:35-04:00",
-      "title_th": "Roland is getting into generative AI music with Melody Flip",
-      "summary_th": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from […]"
+      "title_th": "Roland เข้าสู่วงการเพลง AI เชิงสร้างสรรค์ด้วย Melody Flip",
+      "summary_th": "แม้จะไม่ใช่ \"ปุ่มกด รับเพลง\" ของ Suno แต่เครื่องมือ Melody Flip ใหม่ของ Roland ถือเป็นการบุกโจมตีของบริษัทในด้านเพลง AI ที่สร้างใหม่ Melody Flip มีจำหน่ายในรูปแบบปลั๊กอินสำหรับเวิร์กสเตชันเสียงดิจิทัล (DAW) นำเสนอ \"จานสี\" ประมาณ 250 รายการ ซึ่งเป็นคอลเลกชันที่มีธีมหลักสำหรับแนวคิดทางดนตรีโดยจัดเรียงตามประเภท คุณสามารถเริ่มต้นได้ตั้งแต่ […]"
     },
     {
       "source": "The Verge",
@@ -108,19 +120,7 @@
       "link": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be",
       "published": "2026-09-04T13:16:49-04:00",
       "title_th": "AGI คือสิ่งที่คุณต้องการให้เป็น",
-      "summary_th": "OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that \"the AGI era\" is here now. Today on The Vergecast, we've got an all-star panel to break down the news of the week. First, senior AI reporter Hayden Field joins us to talk about our supposed AGI era and Nvidia's acquisition […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-      "summary_en": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors. As part of the lawsuit's discovery, Microsoft provided 8.2 million Copilot […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK259_MICROSOFT_COPILOT_2__B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-      "published": "2026-09-04T12:05:57-04:00",
-      "title_th": "Microsoft กล่าวว่าแทบไม่มีใครหยิบบทความ NYT ผ่านทางแชทบอท",
-      "summary_th": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors. As part of the lawsuit's discovery, Microsoft provided 8.2 million Copilot […]"
+      "summary_th": "OpenAI ประกาศเปิดตัวโมเดลใหญ่ตัวต่อไป GPT-6 Astra และอีกอย่างว่า \"ยุค AGI\" มาถึงแล้ว วันนี้ที่ The Vergecast เรามีแผงดาราที่จะแจกแจงข่าวประจำสัปดาห์ ก่อนอื่น Hayden Field นักข่าว AI อาวุโสมาร่วมกับเราเพื่อพูดคุยเกี่ยวกับยุค AGI ที่เราคาดไว้และการเข้าซื้อกิจการของ Nvidia […]"
     },
     {
       "source": "Ars Technica",
@@ -131,7 +131,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg",
       "link": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
       "published": "Fri, 04 Sep 2026 17:35:02 +0000",
-      "title_th": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
+      "title_th": "“ความน่าเชื่อถือ ไม่ใช่ฟีเจอร์ คือการขาดดุลอย่างแท้จริง”: VMware พยายามเอาใจ SMB",
       "summary_th": "Broadcom admits it put “too big a focus on VCF.”..."
     },
     {
@@ -156,7 +156,7 @@
       "link": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
       "published": "Wed, 02 Sep 2026 20:32:02 +0000",
       "title_th": "I rented a car, and within hours, my driver's license was for sale",
-      "summary_th": "The FBI is reportedly investigating a massive data breach that is unfolding in real time."
+      "summary_th": "มีรายงานว่า FBI กำลังสืบสวนการละเมิดข้อมูลขนาดใหญ่ที่กำลังเปิดเผยแบบเรียลไทม์"
     },
     {
       "source": "Ars Technica",
@@ -167,8 +167,8 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-11477585601-1000x648.jpg",
       "link": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
       "published": "Wed, 02 Sep 2026 11:00:43 +0000",
-      "title_th": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
-      "summary_th": "What can we learn from a BGP hijacking that poisoned production software? Plenty."
+      "title_th": "การจี้ BGP บนเครือข่ายที่ติดไวรัสซึ่งเกิดจากข้อผิดพลาดที่ไม่ตลกเลย",
+      "summary_th": "เราเรียนรู้อะไรได้บ้างจากการจี้ BGP ที่ทำให้ซอฟต์แวร์การผลิตเสียหาย มากมาย."
     },
     {
       "source": "Ars Technica",
@@ -179,7 +179,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/superbox-s7-pro-1152x648.webp",
       "link": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
       "published": "Mon, 31 Aug 2026 16:33:38 +0000",
-      "title_th": "Think twice before installing this device promising free movies",
+      "title_th": "คิดให้รอบคอบก่อนติดตั้งอุปกรณ์นี้พร้อมรับภาพยนตร์ฟรี",
       "summary_th": "เพื่อแลกกับของฟรี อุปกรณ์ต่างๆ จะทำให้การเชื่อมต่อภายในบ้านเป็นส่วนหนึ่งของเครือข่ายพร็อกซี"
     },
     {
@@ -192,7 +192,7 @@
       "link": "https://www.wired.com/story/casio-g-shock-casionaut-looks-like-a-patek-philippe-classic/",
       "published": "Fri, 04 Sep 2026 18:41:47 +0000",
       "title_th": "Casio 'CasioNaut' G-Shock GMC-2500 ซีรี่ส์ GAC-2500: ราคา, ข้อมูลจำเพาะ, การวางจำหน่าย",
-      "summary_th": "In what appears to be a follow-up to the mighty “CasiOak,” the rugged Japanese watch brand is expected to release an all-new luxury homage."
+      "summary_th": "ในสิ่งที่ดูเหมือนจะเป็นการติดตามผลของ \"CasiOak\" อันยิ่งใหญ่ คาดว่าแบรนด์นาฬิกาญี่ปุ่นที่แข็งแกร่งจะเปิดตัวการแสดงความเคารพต่อความหรูหรารูปแบบใหม่ทั้งหมด"
     },
     {
       "source": "Wired",
@@ -203,7 +203,7 @@
       "image": "https://media.wired.com/photos/6a9ad63d482e2501722eeac3/master/pass/GettyImages-2193378836.jpg",
       "link": "https://www.wired.com/story/tesla-cybercab-officially-launches-today-its-already-under-investigation/",
       "published": "Fri, 04 Sep 2026 15:17:12 +0000",
-      "title_th": "Cybercab ของ Tesla เปิดตัวอย่างเป็นทางการแล้ววันนี้ อยู่ระหว่างการสอบสวนแล้ว",
+      "title_th": "Tesla’s Cybercab Officially Launches Today. It’s Already Under Investigation",
       "summary_th": "รัฐบาลสหรัฐฯ กำลังตรวจสอบว่า Cybercab ซึ่งไม่มีพวงมาลัยและแป้นเหยียบ เป็นไปตามมาตรฐานความปลอดภัยของยานพาหนะหรือไม่"
     },
     {
@@ -240,7 +240,7 @@
       "link": "https://www.wired.com/gallery/best-automatic-cat-litter-boxes/",
       "published": "Fri, 04 Sep 2026 11:08:00 +0000",
       "title_th": "กล่องทิ้งขยะอัตโนมัติที่ดีที่สุดของปี 2026: Petkit และ Litter-Robot",
-      "summary_th": "ด้วยกระบะทรายอัตโนมัติสุดไฮเทคเหล่านี้ หมดยุคแห่งการตักและกลิ่นอีกต่อไป ยินดีต้อนรับสู่อนาคต"
+      "summary_th": "ด้วยกระบะทรายอัตโนมัติสุดไฮเทคเหล่านี้ หมดยุคแห่งการตักและดมกลิ่นอีกต่อไป ยินดีต้อนรับสู่อนาคต"
     },
     {
       "source": "MIT Technology Review",
@@ -252,7 +252,7 @@
       "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
       "published": "Fri, 04 Sep 2026 18:39:19 +0000",
       "title_th": "การสร้างสถาปัตยกรรมหน่วยความจำและการจัดเก็บข้อมูลในยุค AI",
-      "summary_th": "ยุคของการอนุมาน AI มาถึงแล้ว Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while…"
+      "summary_th": "ยุคของการอนุมาน AI มาถึงแล้ว ลองนึกภาพระบบการดูแลสุขภาพที่วิเคราะห์จุดข้อมูลนับล้านแบบเรียลไทม์เพื่อเร่งการวิจัยทางการแพทย์ที่ช่วยชีวิต หรือผู้ช่วยอัจฉริยะที่แก้ไขความต้องการที่ซับซ้อนของลูกค้านับพันได้ในคราวเดียว ความก้าวหน้าในโลกแห่งความเป็นจริงเหล่านี้อาศัยโครงสร้างพื้นฐานขั้นสูงที่ทำหน้าที่เป็นกลไกของข่าวกรองอย่างต่อเนื่อง ขับเคลื่อนบริการแบบเรียลไทม์ในขณะที่..."
     },
     {
       "source": "MIT Technology Review",
@@ -306,13 +306,25 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "The Tetris Company wants nothing to do with the White House's new copycat game",
+      "summary_en": "Tetris knockoff 'Build the Wall' is one of six new games hosted on the White House website, and The Tetris Company is not happy.",
+      "image": "https://www.engadget.com/img/gallery/the-tetris-company-wants-nothing-to-do-with-the-white-houses-new-copycat-game/l-intro-1788559067.jpg",
+      "link": "https://www.engadget.com/2251585/the-tetris-company-wants-nothing-to-do-with-the-white-house-s-new-copycat-game/",
+      "published": "Fri, 04 Sep 2026 22:01:12 +0000",
+      "title_th": "บริษัท Tetris ไม่ต้องการทำอะไรกับเกมลอกเลียนแบบใหม่ของทำเนียบขาว",
+      "summary_th": "Tetris knockoff 'Build the Wall' เป็นหนึ่งในหกเกมใหม่ที่โฮสต์บนเว็บไซต์ White House และ The Tetris Company ไม่พอใจ"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "Nintendo just announced two Direct livestream events for next week",
       "summary_en": "Zelda takes center stage on September 8 and everything else is being saved for September 9.",
       "image": "https://www.engadget.com/img/gallery/nintendo-just-announced-two-direct-livestream-events-for-next-week/l-intro-1788535661.jpg",
       "link": "https://www.engadget.com/2251134/nintendo-announced-two-direct-livestream-events-for-next-week/",
       "published": "Fri, 04 Sep 2026 15:32:50 +0000",
       "title_th": "Nintendo เพิ่งประกาศกิจกรรม Direct livestream สองกิจกรรมในสัปดาห์หน้า",
-      "summary_th": "Zelda ขึ้นเวทีกลางในวันที่ 8 กันยายน และทุกอย่างจะถูกบันทึกไว้ในวันที่ 9 กันยายน"
+      "summary_th": "Zelda ขึ้นเวทีกลางในวันที่ 8 กันยายน ส่วนอื่นๆ จะถูกบันทึกไว้ในวันที่ 9 กันยายน"
     },
     {
       "source": "Engadget",
@@ -335,8 +347,8 @@
       "image": "https://www.engadget.com/img/gallery/teslas-cybercab-is-under-federal-investigation-almost-immediately-after-hitting-the-streets/l-intro-1788532681.jpg",
       "link": "https://www.engadget.com/2251066/tesla-cybercab-under-federal-investigation-almost-immediately-after-hitting-streets/",
       "published": "Fri, 04 Sep 2026 14:42:01 +0000",
-      "title_th": "Cybercab ของ Tesla อยู่ภายใต้การสอบสวนของรัฐบาลกลางเกือบจะในทันทีหลังจากชนถนน",
-      "summary_th": "หน่วยงานกำกับดูแลจะตรวจสอบกระบวนการและข้อมูลที่ Tesla ใช้ในการรับรองรถยนต์ด้วยตนเอง"
+      "title_th": "Tesla's Cybercab is under federal investigation almost immediately after hitting the streets",
+      "summary_th": "Regulators will review the process and data Tesla used to self-certify the vehicle."
     },
     {
       "source": "Engadget",
@@ -347,20 +359,8 @@
       "image": "https://www.engadget.com/img/gallery/microsoft-announces-project-zenith-a-clutter-free-windows-experience-meant-to-entice-developers/l-intro-1788530489.jpg",
       "link": "https://www.engadget.com/2251018/microsoft-announces-project-zenith-clutter-free-windows-experience/",
       "published": "Fri, 04 Sep 2026 14:05:32 +0000",
-      "title_th": "Microsoft ประกาศ Project Zenith ซึ่งเป็นประสบการณ์ Windows ที่ไม่เกะกะซึ่งออกแบบมาเพื่อดึงดูดนักพัฒนา",
-      "summary_th": "แต่คุณจะต้องมีระบบที่ทรงพลังพร้อม RAM ขนาด 64GB เพื่อใช้งาน"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "review",
-      "title_en": "Boox Go 6 (Gen II) review: A worthy Android ereader, with some tradeoffs",
-      "summary_en": "The Boox Go 6 (Gen II) is a versatile Android ereader with the ability to take notes directly in books.",
-      "image": "https://www.engadget.com/img/gallery/boox-go-6-gen-ii-review-a-worthy-android-ereader-with-some-tradeoffs/l-intro-1788378540.jpg",
-      "link": "https://www.engadget.com/2249888/boox-go-6-gen-ii-review/",
-      "published": "Fri, 04 Sep 2026 12:30:00 +0000",
-      "title_th": "รีวิว Boox Go 6 (Gen II): ereader Android ที่คุ้มค่าพร้อมข้อดีบางประการ",
-      "summary_th": "Boox Go 6 (Gen II) เป็นเครื่องอ่าน Android อเนกประสงค์ที่มีความสามารถในการจดบันทึกลงในหนังสือได้โดยตรง"
+      "title_th": "Microsoft announces Project Zenith, a clutter-free Windows experience meant to entice developers",
+      "summary_th": "But you'll need a powerful system with 64GB of RAM to use it."
     },
     {
       "source": "IEEE Spectrum",
@@ -384,7 +384,7 @@
       "link": "https://spectrum.ieee.org/forms-of-engineering-mentorship",
       "published": "Wed, 02 Sep 2026 19:45:58 +0000",
       "title_th": "การใช้รูปแบบการให้คำปรึกษาที่แตกต่างกัน",
-      "summary_th": "บทความนี้คัดลอกมาจากจดหมายข่าวอาชีพของ IEEE Spectrum ลงทะเบียนตอนนี้เพื่อรับเคล็ดลับจากวงใน คำแนะนำจากผู้เชี่ยวชาญ และกลยุทธ์เชิงปฏิบัติ เขียนโดยความร่วมมือกับบริษัทพัฒนาอาชีพด้านเทคโนโลยี Parsity และส่งตรงถึงกล่องจดหมายของคุณฟรี! การขอให้ใครสักคนเป็นที่ปรึกษาของคุณนั้นแปลก เดินเข้าไปหาใครสักคนแล้วถามว่า “คุณจะเป็นที่ปรึกษาให้ผมไหม?” สำหรับฉันดูเหมือนเด็กผู้ใหญ่จะเดินไปหาเด็กอีกคนในงานปาร์ตี้แล้วถามว่า “คุณจะเป็นเพื่อนกับฉันไหม” สิ่งที่คุณถามจริงๆ คือ: “คุณจะสละเวลาโดยไม่ได้รับค่าตอบแทนเพื่อชี้แนะอาชีพของฉันเป็นระยะเวลาไม่มีกำหนดหรือไม่” ใส่ร้ายแบบนั้น แน่นอนว่าบางคนลังเลที่จะตอบตกลง แต่การให้คำปรึกษาอย่างเป็นทางการไม่ใช่วิธีเดียวที่จะได้รับประโยชน์จากภูมิปัญญาของผู้มาก่อน ฉันไม่เคยขอให้ใครให้คำปรึกษาอย่างเป็นทางการ"
+      "summary_th": "บทความนี้คัดลอกมาจากจดหมายข่าวอาชีพของ IEEE Spectrum ลงทะเบียนตอนนี้เพื่อรับเคล็ดลับจากวงใน คำแนะนำจากผู้เชี่ยวชาญ และกลยุทธ์เชิงปฏิบัติ เขียนโดยความร่วมมือกับบริษัทพัฒนาอาชีพด้านเทคโนโลยี Parsity และส่งตรงถึงกล่องจดหมายของคุณฟรี! การขอให้ใครสักคนเป็นที่ปรึกษาของคุณนั้นแปลก เดินเข้าไปหาใครสักคนแล้วถามว่า “คุณจะเป็นที่ปรึกษาให้ผมไหม?” สำหรับฉันดูเหมือนเด็กผู้ใหญ่จะเดินไปหาเด็กอีกคนในงานปาร์ตี้แล้วถามว่า “คุณจะเป็นเพื่อนกับฉันไหม” สิ่งที่คุณถามจริงๆ คือ: “คุณจะสละเวลาโดยไม่ได้รับค่าตอบแทนเพื่อชี้แนะอาชีพของฉันเป็นระยะเวลาไม่มีกำหนดหรือไม่?” ใส่ร้ายแบบนั้น แน่นอนว่าบางคนลังเลที่จะตอบตกลง แต่การให้คำปรึกษาอย่างเป็นทางการไม่ใช่วิธีเดียวที่จะได้รับประโยชน์จากภูมิปัญญาของผู้มาก่อน ฉันไม่เคยขอให้ใครให้คำปรึกษาอย่างเป็นทางการ"
     },
     {
       "source": "IEEE Spectrum",
@@ -396,7 +396,7 @@
       "link": "https://spectrum.ieee.org/canadarm-ieee-300th-milestone",
       "published": "Wed, 02 Sep 2026 18:00:03 +0000",
       "title_th": "แขนหุ่นยนต์ขนย้ายสินค้าของ NASA ได้รับรางวัล IEEE ครั้งที่ 300",
-      "summary_th": "In the 1960s NASA began developing a system of reusable space shuttles to make its work more efficient and to reduce costs. The shuttles could launch like rockets, maneuver in Earth’s orbit, and land like airplanes. They also could carry large satellites to and from orbit. Like other types of transportation, machinery eventually breaks down, and parts need to be replaced or fixed. And the cargo being carried to and from Earth has to be moved to its final destination. To complete such tasks, Spar Aerospace (now part of MDA Space ) of Brampton, Ont., Canada, and the National Research Council in Ottawa developed a robotic arm, the Shuttle Remote Manipulator System . The project was a joint venture between the U.S. and Canadian governments. Known as Canadarms , the robotic tools attached to sh"
+      "summary_th": "ในช่วงทศวรรษ 1960 NASA เริ่มพัฒนาระบบกระสวยอวกาศที่นำกลับมาใช้ใหม่ได้เพื่อให้งานมีประสิทธิภาพมากขึ้นและลดต้นทุน กระสวยอวกาศสามารถพุ่งได้เหมือนจรวด เคลื่อนตัวในวงโคจรของโลก และลงจอดได้เหมือนเครื่องบิน พวกเขายังสามารถบรรทุกดาวเทียมขนาดใหญ่เข้าและออกจากวงโคจรได้ เช่นเดียวกับการขนส่งประเภทอื่นๆ เครื่องจักรจะพังในที่สุด และจำเป็นต้องเปลี่ยนหรือซ่อมแซมชิ้นส่วนต่างๆ และสินค้าที่ถูกขนส่งเข้าและออกจากโลกจะต้องถูกย้ายไปยังจุดหมายปลายทางสุดท้าย เพื่อทำงานดังกล่าวให้เสร็จสิ้น Spar Aerospace (ปัจจุบันเป็นส่วนหนึ่งของ MDA Space) ในเมืองแบรมป์ตัน รัฐออนแทรีโอ แคนาดา และสภาวิจัยแห่งชาติในออตตาวาได้พัฒนาแขนหุ่นยนต์ที่เรียกว่า Shuttle Remote Manipulator System โครงการนี้เป็นการร่วมทุนระหว่างรัฐบาลสหรัฐฯ และแคนาดา รู้จักกันในชื่อ Canadarms ซึ่งเป็นเครื่องมือหุ่นยนต์ที่ติดอยู่กับ sh"
     },
     {
       "source": "IEEE Spectrum",
@@ -407,8 +407,8 @@
       "image": "https://spectrum.ieee.org/media-library/human-and-robotic-hands-share-a-caliper-over-technical-engineering-blueprints.png?id=67702640&width=980",
       "link": "https://spectrum.ieee.org/ai-engineer-skills",
       "published": "Wed, 02 Sep 2026 13:00:04 +0000",
-      "title_th": "AI Efficiency Could Cost Us the Next Generation of Experts",
-      "summary_th": "เมื่อประมาณหนึ่งทศวรรษที่แล้ว ฉันเป็นผู้นำการออกแบบระบบควบคุมสำหรับระบบควบคุมดิจิทัลเต็มรูปแบบระบบแรกของโลกสำหรับโรงไฟฟ้านิวเคลียร์ในสหรัฐฯ มันเป็นเครื่องจักรที่สวยงามบนกระดาษ ซึ่งได้รับการออกแบบทางวิศวกรรมให้ทำงานด้วยตัวเองในแบบที่เครื่องบินโดยสารสมัยใหม่ทำ โดยมีผู้ปฏิบัติงานคอยดูแลระบบที่ไม่ค่อยจำเป็น และเราตัดสินใจว่าสำหรับผู้สังเกตการณ์ที่คำนึงถึงประสิทธิภาพแล้ว ให้มองย้อนกลับไป: เราจงใจทิ้งขั้นตอนแบบแมนนวลไว้ในลำดับที่ระบบสามารถดำเนินการได้ด้วยตัวเอง เรากำลังแก้ไขปัญหาเฉพาะ ผู้ปฏิบัติงานที่เคยดูแลระบบอัตโนมัติจะค่อยๆ เลิกเป็นผู้ปฏิบัติงาน มือเย็นไปหมด แบบจำลองทางจิตของสิ่งที่โรงงานกำลังทำอยู่นั้นไม่ชัดเจน และแล้วถึงวันที่เข็มนาฬิกาอัตโนมัติจะควบคุมกลับ เป็นวันที่แย่ที่สุดเสมอ เนื่องจากระบบอัตโนมัติจะหยุดทำงานเฉพาะเมื่อเกิดความสับสนหรือประสบปัญหาเท่านั้น"
+      "title_th": "ประสิทธิภาพของ AI อาจทำให้เราต้องสูญเสียผู้เชี่ยวชาญรุ่นต่อไป",
+      "summary_th": "เมื่อประมาณหนึ่งทศวรรษที่แล้ว ฉันเป็นผู้นำการออกแบบระบบควบคุมสำหรับระบบควบคุมดิจิทัลเต็มรูปแบบระบบแรกของโลกสำหรับโรงไฟฟ้านิวเคลียร์ในสหรัฐฯ มันเป็นเครื่องจักรที่สวยงามบนกระดาษ ซึ่งได้รับการออกแบบทางวิศวกรรมให้เดินเองได้ในแบบที่เครื่องบินโดยสารสมัยใหม่ทำ โดยมีผู้ปฏิบัติงานคอยดูแลระบบที่ไม่ค่อยจำเป็น และเราตัดสินใจว่าสำหรับผู้สังเกตการณ์ที่คำนึงถึงประสิทธิภาพแล้ว ให้มองย้อนกลับไป: เราจงใจทิ้งขั้นตอนแบบแมนนวลไว้ในลำดับที่ระบบสามารถดำเนินการได้ด้วยตัวเอง เรากำลังแก้ไขปัญหาเฉพาะ ผู้ปฏิบัติงานที่เคยดูแลระบบอัตโนมัติจะค่อยๆ เลิกเป็นผู้ปฏิบัติงาน มือเย็นไปหมด แบบจำลองทางจิตของสิ่งที่โรงงานกำลังทำอยู่นั้นไม่ชัดเจน และแล้วถึงวันที่เข็มนาฬิกาอัตโนมัติจะควบคุมกลับ เป็นวันที่แย่ที่สุดเสมอ เนื่องจากระบบอัตโนมัติจะหยุดทำงานเฉพาะเมื่อเกิดความสับสนหรือประสบปัญหาเท่านั้น"
     },
     {
       "source": "IEEE Spectrum",
@@ -420,7 +420,31 @@
       "link": "https://spectrum.ieee.org/president-ieee-note-september-2026",
       "published": "Tue, 01 Sep 2026 18:00:04 +0000",
       "title_th": "หมายเหตุของประธาน IEEE: เทคโนโลยีเพื่อประโยชน์ทางสังคม",
-      "summary_th": "ทั่วทั้ง IEEE จุดแข็งของเราไม่เพียงแต่อยู่ที่ความเป็นเลิศของแต่ละชุมชนของเราเท่านั้น แต่ยังอยู่ในความสามารถของเราในการนำพวกเขามารวมกันเพื่อแก้ไขปัญหาที่มีร่วมกันซึ่งต้องการการแก้ปัญหาแบบสหวิทยาการ ภารกิจของเราในฐานะองค์กรการกุศลสาธารณะ—เพื่อพัฒนาเทคโนโลยีเพื่อประโยชน์ของมนุษยชาติ—กำลังกลายเป็นผู้สร้างความแตกต่างที่ทรงพลังมากขึ้น มันเป็นมากกว่าการแถลงหลักการ มันเป็นข้อได้เปรียบเชิงกลยุทธ์ เมื่อวิศวกรและนักเทคโนโลยีให้บริการอย่างมีเป้าหมายและเป็นผู้นำด้วยใจ พวกเขาจะเสริมสร้างอนาคตของวิชาชีพของเรา และแสดงให้เห็นว่าเหตุใด IEEE จึงอยู่ในตำแหน่งที่โดดเด่นในการเป็นผู้นำที่จุดบรรจบกันของเทคโนโลยีและผลกระทบทางสังคม IEEE Humanitarian Technologies เป็นกลุ่มโครงการและโครงการริเริ่มที่ได้รับการสนับสนุนจากเครือข่ายอาสาสมัครและผู้เชี่ยวชาญด้านเทคนิคทั่วโลก ซึ่งทำงานร่วมกันเพื่อ"
+      "summary_th": "ทั่วทั้ง IEEE จุดแข็งของเราไม่เพียงแต่อยู่ที่ความเป็นเลิศของแต่ละชุมชนของเราเท่านั้น แต่ยังอยู่ในความสามารถของเราในการนำพวกเขามารวมกันเพื่อแก้ไขปัญหาที่มีร่วมกันซึ่งต้องการการแก้ปัญหาแบบสหวิทยาการ ภารกิจของเราในฐานะการกุศลสาธารณะ—เพื่อพัฒนาเทคโนโลยีเพื่อประโยชน์ของมนุษยชาติ—กำลังกลายเป็นผู้สร้างความแตกต่างที่ทรงพลังมากขึ้น มันเป็นมากกว่าการแถลงหลักการ มันเป็นข้อได้เปรียบเชิงกลยุทธ์ เมื่อวิศวกรและนักเทคโนโลยีให้บริการอย่างมีเป้าหมายและเป็นผู้นำด้วยใจ พวกเขาจะเสริมสร้างอนาคตของวิชาชีพของเรา และแสดงให้เห็นว่าเหตุใด IEEE จึงอยู่ในตำแหน่งที่โดดเด่นในการเป็นผู้นำที่จุดบรรจบกันของเทคโนโลยีและผลกระทบทางสังคม IEEE Humanitarian Technologies เป็นกลุ่มโครงการและโครงการริเริ่มที่ได้รับการสนับสนุนจากเครือข่ายอาสาสมัครและผู้เชี่ยวชาญด้านเทคนิคทั่วโลก ซึ่งทำงานร่วมกันเพื่อ"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "CarPlay now works with five major chatbot apps",
+      "summary_en": "CarPlay has picked up its fifth major AI chatbot app with the addition of Claude. Anthropic’s iPhone app adding CarPlay is the second AI chatbot app to be updated with support this week. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/04/carplay-now-works-with-five-major-chatbot-apps/",
+      "published": "Fri, 04 Sep 2026 21:17:46 +0000",
+      "title_th": "ตอนนี้ CarPlay ใช้งานได้กับแอพแชทบอทหลักห้าแอพแล้ว",
+      "summary_th": "CarPlay ได้เลือกแอปแชทบอท AI ที่สำคัญลำดับที่ห้าพร้อมกับการเพิ่ม Claude แอพ iPhone ของ Anthropic ที่เพิ่ม CarPlay เป็นแอพแชทบอท AI ตัวที่สองที่ได้รับการอัปเดตพร้อมรองรับในสัปดาห์นี้ มากกว่า…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "watchOS 27 removes three features that Apple Watch users might miss after updating",
+      "summary_en": "When watchOS 27 is released later this month, Apple Watch users may notice that some things work a bit differently. The upcoming software update removes three features that users may miss after updating. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-apple-watch-1.webp?resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/04/watchos-27-removes-three-features-that-apple-watch-users-might-miss-after-updating/",
+      "published": "Fri, 04 Sep 2026 20:36:32 +0000",
+      "title_th": "watchOS 27 ลบคุณสมบัติสามประการที่ผู้ใช้ Apple Watch อาจพลาดหลังจากอัพเดต",
+      "summary_th": "เมื่อ watchOS 27 เปิดตัวปลายเดือนนี้ ผู้ใช้ Apple Watch อาจสังเกตเห็นว่าบางสิ่งทำงานแตกต่างออกไปเล็กน้อย การอัปเดตซอฟต์แวร์ที่กำลังจะมีขึ้นจะลบคุณสมบัติสามประการที่ผู้ใช้อาจพลาดหลังจากการอัปเดต มากกว่า…"
     },
     {
       "source": "9to5Mac",
@@ -459,28 +483,28 @@
       "summary_th": "อัปเดต: หนึ่งวันต่อมา GPT-6 Astra กำลังเปิดตัวให้กับลูกค้า Business และ Pro ในแผน $100/เดือนหรือ $200/เดือน สิ่งนี้เป็นไปตามการเปิดตัวโมเดลใหม่อื่นๆ ก่อนที่ลูกค้า Plus ที่ใช้แผน $20/เดือนจะสามารถเข้าถึงได้ เป็นเวลากว่าหนึ่งปีแล้วที่ OpenAI เปิดตัว GPT-5 รุ่นแรกสำหรับ ChatGPT ตอนนี้ถึงเวลาที่ GPT-6 Astra จะอัปเกรดความสามารถของ ChatGPT และ Codex รายละเอียดด้านล่าง มากกว่า…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "HomeKit Weekly: ULTRALOQ’s Bolt Fingerprint has everything you’d want except Home Key",
-      "summary_en": "My door has had a smart lock on it for 5-6 years, and I’ve tried plenty of options. The ULTRALOQ Bolt Fingerprint is a great option for almost anyone thanks to its Apple Home integration, built-in Wi-Fi, and plenty of ways to lock and unlock your door. Whether you’re looking for fingerprint ID unlock or a simple PIN, this lock has almost everything. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ULTRALOQ-Bolt-Fingerprint-WiFi-Smart-Lock-2.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/04/ultraloq-bolt-fingerprint/",
-      "published": "Fri, 04 Sep 2026 18:39:00 +0000",
-      "title_th": "HomeKit Weekly: Boltลายนิ้วมือของ ULTRALOQ มีทุกสิ่งที่คุณต้องการยกเว้นปุ่มโฮม",
-      "summary_th": "ประตูของฉันมีระบบล็อคอัจฉริยะติดอยู่มา 5-6 ปีแล้ว และฉันได้ลองใช้ตัวเลือกต่างๆ มากมาย ULTRALOQ Boltลายนิ้วมือเป็นตัวเลือกที่ยอดเยี่ยมสำหรับเกือบทุกคนด้วยการบูรณาการ Apple Home, Wi-Fi ในตัว และวิธีการล็อคและปลดล็อคประตูของคุณหลายวิธี ไม่ว่าคุณกำลังมองหาการปลดล็อครหัสลายนิ้วมือหรือ PIN ธรรมดา การล็อคนี้มีเกือบทุกอย่าง มากกว่า…"
+      "title_en": "Gemini overlay gets bubble minimization and multitasking on Android",
+      "summary_en": "The Gemini overlay on Android now has a multitasking option that gives you a floating bubble shortcut when you Minimize. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Gemini-Overlay.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/04/gemini-minimize-bubble/",
+      "published": "Fri, 04 Sep 2026 21:44:00 +0000",
+      "title_th": "Gemini overlay gets bubble minimization and multitasking on Android",
+      "summary_th": "โอเวอร์เลย์ราศีเมถุนบน Android ตอนนี้มีตัวเลือกมัลติทาสกิ้งที่ให้ทางลัดฟองลอยเมื่อคุณย่อเล็กสุด มากกว่า…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "SpaceXAI expands Grok Bot to iPad as access expands to cheaper plans",
-      "summary_en": "Last month, SpaceXAI launched Grok Bot, an iMessage-style AI system that displays agents as teammates. The product originally arrived as an iPhone and Mac app with a very expensive price tag. In the weeks since launch, Grok Bot has expanded to the iPad and dramatically lowered the cost. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/grokbot.webp?resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/04/spacexai-expands-grok-bot-to-ipad-as-access-expands-to-cheaper-plans/",
-      "published": "Fri, 04 Sep 2026 18:30:53 +0000",
-      "title_th": "SpaceXAI ขยาย Grok Bot ไปสู่ ​​iPad เนื่องจากการเข้าถึงขยายไปยังแผนที่ถูกกว่า",
-      "summary_th": "เมื่อเดือนที่แล้ว SpaceXAI ได้เปิดตัว Grok Bot ซึ่งเป็นระบบ AI สไตล์ iMessage ที่แสดงตัวแทนเป็นเพื่อนร่วมทีม เดิมทีผลิตภัณฑ์นี้มาถึงในรูปแบบแอป iPhone และ Mac โดยมีป้ายราคาที่แพงมาก ในช่วงหลายสัปดาห์นับตั้งแต่เปิดตัว Grok Bot ได้ขยายไปสู่ ​​iPad และลดต้นทุนลงได้อย่างมาก มากกว่า…"
+      "title_en": "Pixelated 115: All wallets are designed badly",
+      "summary_en": "Welcome to Pixelated episode 115. This week, Damien, Abner, and Will dig through Google’s latest Android Drop and discuss their most-wanted feature additions for Android. Enjoy the episode? You can listen to our brand new weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro for just $5 per month. Sponsored by Bitwarden : Pixelated listeners can get started with Bitwarden’s free individual plan by clicking this link , and check out the Open Source Security Summit on September 17th. Thanks to Bitwarden for sponsoring! Sponsored by Proton Unlimited : Pixelated listeners can save 30% on an annual subscription to the company’s suite of privacy-friendly services by signing up using our link . Thanks to Proton Unlimited for sponsoring the podcast. Subscribe YouTube Pod",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/04/pixelated-115-all-wallets-are-designed-badly/",
+      "published": "Fri, 04 Sep 2026 20:30:00 +0000",
+      "title_th": "Pixelated 115: กระเป๋าเงินทั้งหมดได้รับการออกแบบมาไม่ดี",
+      "summary_th": "ยินดีต้อนรับสู่ Pixelated ตอนที่ 115 สัปดาห์นี้ Damien, Abner และ Will จะเจาะลึก Android Drop ล่าสุดของ Google และพูดคุยเกี่ยวกับฟีเจอร์เพิ่มเติมสำหรับ Android ที่เป็นที่ต้องการมากที่สุด สนุกกับตอนนี้ไหม? คุณสามารถฟังตอนโบนัส Pixelated Pro ใหม่ล่าสุดประจำสัปดาห์สำหรับสมาชิกเท่านั้นโดยลงชื่อสมัครใช้ 9to5Google Pro ในราคาเพียง $5 ต่อเดือน สนับสนุนโดย Bitwarden : ผู้ฟังแบบ Pixelated สามารถเริ่มต้นใช้งานแผนส่วนบุคคลฟรีของ Bitwarden ได้โดยคลิกที่ลิงก์นี้ และดูการประชุมสุดยอดด้านความปลอดภัยของโอเพ่นซอร์สในวันที่ 17 กันยายน ขอขอบคุณ Bitwarden สำหรับการสนับสนุน! สนับสนุนโดย Proton Unlimited: ผู้ฟังแบบพิกเซลสามารถประหยัด 30% สำหรับการสมัครสมาชิกรายปีสำหรับชุดบริการที่เป็นมิตรต่อความเป็นส่วนตัวของบริษัท โดยการลงทะเบียนโดยใช้ลิงก์ของเรา ขอขอบคุณ Proton Unlimited ที่สนับสนุนพอดแคสต์ สมัครสมาชิก YouTube Pod"
     },
     {
       "source": "9to5Google",
@@ -491,7 +515,7 @@
       "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/09/Google-Play-Sep-4-2.webp?resize=1200,628",
       "link": "https://9to5toys.com/2026/09/04/friday-android-app-deals-free-friend-slime-tiny-bang-story/",
       "published": "Fri, 04 Sep 2026 17:56:55 +0000",
-      "title_th": "ข้อเสนอแอป Android และของแจกฟรีประจำวันศุกร์: Friend of a Slime, Tiny Bang Story, Guardians Of Light และอีกมากมาย",
+      "title_th": "ข้อเสนอแอป Android และของแจกฟรีในวันศุกร์: Friend of a Slime, Tiny Bang Story, Guardians Of Light และอีกมากมาย",
       "summary_th": "เนื่องในโอกาสลดราคาวันแรงงานที่ Best Buy และ Amazon รายการเกม Android และข้อเสนอแอพที่ดีที่สุดช่วงบ่ายวันศุกร์ของคุณพร้อมแล้ว: Friend of a Slime: Survivors, The Tiny Bang Story: Premium, Majesty: The Fantasy Kingdom, Radiant: Guardians Of Light, Halls of Torment: Premium, Guardian War: Ultimate Edition, Super Dark Deception และอื่นๆ อีกมากมาย เรามี Galaxy S26 FE ใหม่เปิดตัววันนี้พร้อมบัตรของขวัญ Amazon ฟรีมูลค่า 200 ดอลลาร์ ส่วนลดมหาศาล 600 ดอลลาร์สำหรับ Galaxy Z Fold 8 Ultra รวมถึงทีวี OLED ขนาด 65 นิ้ว 2026 ที่ราคาไม่แพงที่สุดของ LG ซึ่งลดราคา Amazon ต่ำตลอดกาลด้วยส่วนลด 800 ดอลลาร์เช่นกัน แต่แอปรออยู่ด้านล่าง มากกว่า…"
     },
     {
@@ -515,32 +539,32 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/9to5Google-Sep-4-3.webp?resize=1200,628",
       "link": "https://9to5google.com/2026/09/04/deals-galaxy-s26-fe-amazon-gift-card-fold-8-ultra/",
       "published": "Fri, 04 Sep 2026 15:47:01 +0000",
-      "title_th": "Deals: Galaxy S26 FE + FREE $200 Amazon gift card, Fold 8 Ultra up to $600 off, LG 65-inch OLED TV $800 off, more",
+      "title_th": "ข้อเสนอ: Galaxy S26 FE + ฟรีบัตรของขวัญ Amazon มูลค่า 200 ดอลลาร์, Fold 8 Ultra ส่วนลดสูงสุด 600 ดอลลาร์, ทีวี OLED ขนาด 65 นิ้วของ LG ส่วนลด 800 ดอลลาร์และอีกมากมาย",
       "summary_th": "วันแรงงานอเมซอนครั้งใหญ่กำลังดำเนินอยู่ และ Moto Tag 2 ราคาเริ่มต้นที่ 17.50 ดอลลาร์ แต่ช่วงพักกลางวันวันนี้มีจุดเด่นอยู่ที่ข้อเสนอการเปิดตัว Samsung Galaxy S26 FE ใหม่ล่าสุด พร้อมบัตรของขวัญ Amazon มูลค่า 200 ดอลลาร์ฟรี และดีลยักษ์บางอย่างใน Amazon ส่วนลดต่ำสุดตลอดกาลที่ 800 ดอลลาร์ ทุกสิ่งทุกอย่างรออยู่ด้านล่าง มากกว่า…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Moto Tag 2, aka Android’s AirTag, is currently $70 for a 4-pack",
-      "summary_en": "Motorola’s latest Android Find Hub tracker is arguably the best option on the market today and, right now, it’s also the best deal at just $70 for a 4-pack – that’s around $17 per tracker. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/01/moto-tag-2-.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/04/moto-tag-2-4-pack-deal-android-find-hub-tracker/",
-      "published": "Fri, 04 Sep 2026 15:25:00 +0000",
-      "title_th": "Moto Tag 2 หรือที่รู้จักในชื่อ AirTag ของ Android มีราคาอยู่ที่ 70 เหรียญสหรัฐฯ สำหรับแพ็ก 4 ชิ้น",
-      "summary_th": "ตัวติดตาม Android Find Hub ล่าสุดของ Motorola อาจเป็นตัวเลือกที่ดีที่สุดในตลาดปัจจุบัน และตอนนี้ยังเป็นข้อตกลงที่ดีที่สุดเพียง $ 70 สำหรับ 4 แพ็ค – นั่นคือประมาณ $ 17 ต่อตัวติดตาม มากกว่า…"
+      "category": "ev",
+      "title_en": "All press is good press, right? Cybercab event leaves more questions than answers",
+      "summary_en": "On today’s pressing episode of Quick Charge , we challenge the notion that all press is good press by filling the void of information surrounding this week’s Tesla Cybercab launch with a whole lot of bad news for the Full Self Driving brand. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/04/all-press-is-good-press-right-cybercab-event-leaves-more-questions-than-answers/",
+      "published": "Fri, 04 Sep 2026 21:51:56 +0000",
+      "title_th": "กดทั้งหมดคือกดดีใช่ไหม? งาน Cybercab ทิ้งคำถามมากกว่าคำตอบ",
+      "summary_th": "ในตอนเร่งด่วนของวันนี้ของ Quick Charge เราท้าทายความคิดที่ว่าสื่อทั้งหมดเป็นสื่อที่ดีโดยการเติมเต็มช่องว่างของข้อมูลที่เกี่ยวกับการเปิดตัว Tesla Cybercab ในสัปดาห์นี้ด้วยข่าวร้ายมากมายสำหรับแบรนด์ Full Self Driving มากกว่า…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Pixel 11 lets you make any Camera Look default with this buried setting",
-      "summary_en": "The Pixel 11 series is out in the hands of plenty of (hopefully) happy users, and for the most part , I can count myself among them. This generation marks a massive shift for the camera in particular, as Google has finally loosened up its HDR-centric grip on processing. Really, the only big downsides with Camera Looks appeared to be how it saved your default look — and, as it turns out, there’s a setting to fix that, too. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-base-model-with-Camera-Looks-UI-2.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/04/pixel-11-lets-you-make-any-camera-look-default-with-this-buried-setting/",
-      "published": "Fri, 04 Sep 2026 15:08:00 +0000",
-      "title_th": "Pixel 11 ให้คุณตั้งค่ารูปแบบกล้องเป็นค่าเริ่มต้นด้วยการตั้งค่าแบบฝังนี้",
-      "summary_th": "The Pixel 11 series is out in the hands of plenty of (hopefully) happy users, and for the most part , I can count myself among them. This generation marks a massive shift for the camera in particular, as Google has finally loosened up its HDR-centric grip on processing. Really, the only big downsides with Camera Looks appeared to be how it saved your default look — and, as it turns out, there’s a setting to fix that, too. more…"
+      "category": "ev",
+      "title_en": "BYD’s most affordable EV is about to get a ‘big’ sibling",
+      "summary_en": "BYD is preparing to launch a new electric hatch, positioned between the Dolphin and Seagull (Dolphin Surf) in size and price. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/BYD-Great-Seagull-first-look.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/04/byds-most-affordable-ev-big-sibling/",
+      "published": "Fri, 04 Sep 2026 20:59:32 +0000",
+      "title_th": "EV ที่ราคาไม่แพงที่สุดของ BYD กำลังจะได้พี่น้องที่ 'ใหญ่'",
+      "summary_th": "BYD เตรียมเปิดตัวฟักไฟฟ้ารุ่นใหม่ วางตำแหน่งระหว่าง Dolphin และ Seagull (Dolphin Surf) ทั้งในด้านขนาดและราคา มากกว่า…"
     },
     {
       "source": "Electrek",
@@ -551,8 +575,8 @@
       "image": "https://electrek.co/wp-content/uploads/sites/3/2025/10/Jeep-first-range-extended-EV.jpeg?quality=82&strip=all&resize=1200,628",
       "link": "https://electrek.co/2026/09/04/jeep-wagoneer-rams-extended-range-ev-face-another-delay/",
       "published": "Fri, 04 Sep 2026 19:51:31 +0000",
-      "title_th": "The Jeep Wagoneer and Ram 1500 extended-range EVs face another delay",
-      "summary_th": "The Jeep Grand Wagoneer and Ram 1500 extended-range electric vehicles (EREVs) may not arrive as soon as expected after yet another delay. more…"
+      "title_th": "Jeep Wagoneer และ Ram 1500 EVs ระยะยาวเผชิญกับความล่าช้าอีกครั้ง",
+      "summary_th": "ยานพาหนะไฟฟ้าระยะยาว (EREV) ของ Jeep Grand Wagoneer และ Ram 1500 อาจไม่มาถึงอย่างที่คาดหลังจากเกิดความล่าช้าอีกครั้ง มากกว่า…"
     },
     {
       "source": "Electrek",
@@ -563,8 +587,8 @@
       "image": "https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://electrek.co/2026/09/04/podcast-tesla-has-another-cyberflop-lots-of-cheap-ford-electric-pickups-vw-in-trouble-and-more/",
       "published": "Fri, 04 Sep 2026 19:30:31 +0000",
-      "title_th": "Podcast: Tesla has another Cyberflop, lots of cheap Ford electric pickups, VW in trouble, and more",
-      "summary_th": "In the Electrek Podcast , we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla’s latest Cyberflop, lots of cheap Ford electric pickups, VW in trouble, and more. more…"
+      "title_th": "พอดคาสต์: Tesla มี Cyberflop อีกรุ่นหนึ่ง รถปิคอัพไฟฟ้า Ford ราคาถูกจำนวนมาก VW กำลังประสบปัญหา และอื่นๆ อีกมากมาย",
+      "summary_th": "ใน Electrek Podcast เราพูดคุยถึงข่าวยอดนิยมในโลกแห่งการขนส่งและพลังงานที่ยั่งยืน ในตอนประจำสัปดาห์นี้ เราจะพูดถึง Cyberflop ล่าสุดของ Tesla, รถปิคอัพไฟฟ้า Ford ราคาถูกจำนวนมาก, Volkswagen ประสบปัญหา และอื่นๆ อีกมากมาย มากกว่า…"
     },
     {
       "source": "Electrek",
@@ -577,30 +601,6 @@
       "published": "Fri, 04 Sep 2026 19:21:20 +0000",
       "title_th": "Uber just launched the UK’s first autonomous rides in London",
       "summary_th": "Uber and Wayve launch the UK's first autonomous rides in London using electric Ford Mustang Mach-Es – but drivers remain on board."
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Tesla’s new rare-earth-free EV motor is a big deal, but not THAT big a deal",
-      "summary_en": "Alongside Tesla’s low-key Cybercab event this week, the company showed off its new rare earth-free Cybercab motor, which reportedly increases power density and efficiency significantly. It’s some kind of an achievement, but to understand how much of an achievement it is, we must first understand what all of this actually means. Strap in. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2023/03/Screenshot-2023-03-01-at-2.36.50-PM.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/04/teslas-new-rare-earth-free-ev-motor-is-a-big-deal-but-not-that-big-a-deal/",
-      "published": "Fri, 04 Sep 2026 19:00:06 +0000",
-      "title_th": "Tesla’s new rare-earth-free EV motor is a big deal, but not THAT big a deal",
-      "summary_th": "Alongside Tesla’s low-key Cybercab event this week, the company showed off its new rare earth-free Cybercab motor, which reportedly increases power density and efficiency significantly. It’s some kind of an achievement, but to understand how much of an achievement it is, we must first understand what all of this actually means. Strap in. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "ENGWE E26 3.0 full suspension all-terrain e-bike launch deal, Navee Labor Day e-scooter sale, Tenways Wayfarer e-bike $877 off, more",
-      "summary_en": "Whereas yesterday’s Green Deals mostly focused on power stations, today’s edition is all about EV Labor Day deals, starting with the $699 off launch deal for ENGWE’s E26 3.0 Dual-Motor Full Suspension All-Terrain e-bike at $1,799 . Right behind it we have both a spotlight on Navee’s premium UT5 Ultra X Electric SuperScooter at a new $1,785 low ahead of the brand’s Labor Day Sale lineup with up to $800 discounts + bonus extra savings. There’s also the Tenways Wayfarer Cruiser e-bike with a FREE $277 bundle at a new $1,599 low , as well as an extra battery bundle on Velotric’s Nomad 2 Off-Road e-bike at $1,999 – plus, more EV sales down below. And don’t forget that you can find the hangover deals from this week at the bottom of the page, like yesterday’s Segway Labor Day Sale lineup of up to",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/ENGWE-Navee-Tenways-Velotric-GDs-FI.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/04/engwe-e26-3-0-all-terrain-e-bike-navee-labor-day-tenways-wayfarer-e-bike-more/",
-      "published": "Fri, 04 Sep 2026 18:00:00 +0000",
-      "title_th": "ENGWE E26 3.0 full suspension all-terrain e-bike launch deal, Navee Labor Day e-scooter sale, Tenways Wayfarer e-bike $877 off, more",
-      "summary_th": "ในขณะที่ข้อเสนอสีเขียวของเมื่อวานมุ่งเน้นไปที่โรงไฟฟ้าเป็นหลัก แต่ฉบับวันนี้เป็นเรื่องเกี่ยวกับข้อเสนอวันแรงงานของ EV โดยเริ่มต้นด้วยข้อเสนอส่วนลด $699 สำหรับ e-bike E26 3.0 Dual-Motor Full Suspension All-Terrain ของ ENGWE ที่ราคา $1,799 เบื้องหลังนั้น เราต่างก็มีจุดเด่นอยู่ที่ UT5 Ultra X Electric SuperScooter ระดับพรีเมียมของ Navee ด้วยราคาต่ำสุดใหม่อยู่ที่ 1,785 ดอลลาร์ ก่อนกลุ่มผลิตภัณฑ์ลดราคาวันแรงงานของแบรนด์ พร้อมส่วนลดสูงสุดถึง 800 ดอลลาร์ + โบนัสประหยัดพิเศษ นอกจากนี้ยังมี e-bike Tenways Wayfarer Cruiser พร้อมชุดรวมฟรี 277 ดอลลาร์ เหลือเพียง 1,599 ดอลลาร์ เหลือเพียง 1,599 ดอลลาร์ เช่นเดียวกับชุดแบตเตอรี่เสริมสำหรับ e-bike Nomad 2 Off-Road ของ Velotric ในราคา 1,999 ดอลลาร์ บวกกับยอดขาย EV เพิ่มเติมด้านล่าง และอย่าลืมว่าคุณสามารถค้นหาข้อเสนออาการเมาค้างจากสัปดาห์นี้ที่ด้านล่างของหน้า เช่นรายการ Segway Labor Day Sale เมื่อวานนี้มากถึง"
     }
   ],
   "indices": [
@@ -678,7 +678,7 @@
       "link": "https://www.youtube.com/watch?v=fo-uubnajWM",
       "thumbnail": "https://i3.ytimg.com/vi/fo-uubnajWM/hqdefault.jpg",
       "published": "2026-09-04T01:18:34+00:00",
-      "title_th": "ฉันเดิมพันกับเทสลา"
+      "title_th": "I Made a Bet with Tesla"
     },
     {
       "channel": "MKBHD",
