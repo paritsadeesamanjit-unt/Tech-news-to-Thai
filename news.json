@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-09-04T22:42:07.431674+00:00",
+  "generated_at": "2026-09-05T01:34:02.543757+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "summary_en": "The round is being raised just months after the robot data startup exited from stealth.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/DSC_2479.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "published": "Fri, 04 Sep 2026 23:36:14 +0000",
+      "title_th": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "summary_th": "รอบนี้กำลังถูกยกขึ้นเพียงไม่กี่เดือนหลังจากการเริ่มต้นข้อมูลหุ่นยนต์ออกจากการลักลอบ"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "review",
+      "title_en": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "summary_en": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+      "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "published": "Fri, 04 Sep 2026 23:15:11 +0000",
+      "title_th": "เจ้าหน้าที่อันธพาลของ OpenAI ยังคงหลบหนีโดยไม่มีกระบวนการอย่างเป็นทางการในการสอบสวนพวกเขา",
+      "summary_th": "เหตุการณ์กลุ่มตัวแทนล่าสุดของ OpenAI เพิ่มความเร่งด่วนในการเรียกร้องให้มีการสอบสวนโดยอิสระ เนื่องจากนักวิจัยและผู้ร่างกฎหมายตั้งคำถามว่าห้องปฏิบัติการ AI ควรควบคุมขอบเขตการตรวจสอบความปลอดภัยของตนเองหรือไม่"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -11,8 +35,8 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2266843677.jpg?resize=1200,800",
       "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
       "published": "Fri, 04 Sep 2026 21:12:11 +0000",
-      "title_th": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "summary_th": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO."
+      "title_th": "ผู้ให้บริการประมวลผล AI Nscale กำลังมองหาเงินทุน 3.5 พันล้านดอลลาร์ก่อนการเสนอขายหุ้น IPO",
+      "summary_th": "Nscale ซึ่งเพิ่งทำข้อตกลงกับ Anthropic มูลค่า 45 พันล้านดอลลาร์ กำลังอยู่ในระหว่างการเจรจาเพื่อระดมทุนเพิ่มเติมเพื่อรอการเสนอขายหุ้น IPO ที่จะเกิดขึ้น"
     },
     {
       "source": "TechCrunch",
@@ -23,7 +47,7 @@
       "image": "https://techcrunch.com/wp-content/uploads/2023/07/x-logo-impales-twitter-bird.jpg?resize=1200,675",
       "link": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
       "published": "Fri, 04 Sep 2026 17:52:05 +0000",
-      "title_th": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
+      "title_th": "ผู้พิพากษาบล็อก X คู่แข่งไม่ให้ใช้ชื่อ Twitter แต่อนุญาตให้ 'ทวีต' ในตอนนี้",
       "summary_th": "ผู้พิพากษาของรัฐบาลกลางห้ามมิให้คู่แข่ง X ใช้ชื่อ Twitter ชั่วคราว แต่พบว่า X มีแนวโน้มที่จะละทิ้งเครื่องหมายการค้า \"Tweet\" และโลโก้รูปนก สตาร์ทอัพดังกล่าวได้เปิดตัวอีกครั้งในชื่อ Tweet.app"
     },
     {
@@ -37,30 +61,6 @@
       "published": "Fri, 04 Sep 2026 17:18:00 +0000",
       "title_th": "ยุค John Ternus ของ Apple จะเป็นอย่างไร?",
       "summary_th": "เข้าสู่ยุค Ternus อย่างเป็นทางการของ Apple Tim Cook ก้าวลงจากตำแหน่ง CEO ในสัปดาห์นี้ โดยมอบบริษัทให้กับอดีตหัวหน้าฝ่ายฮาร์ดแวร์ John Ternus ซึ่งบันทึกครั้งแรกสัญญาว่าจะ \"เปิดตัวครั้งใหญ่ในสัปดาห์หน้า\" ซึ่งเป็นจังหวะที่ทำให้งาน iPhone ครั้งถัดไปของ Apple เกิดขึ้นบนโต๊ะของเขาก่อนที่เขาจะเข้ามามีส่วนร่วมด้วยซ้ำ แม้ว่า Cook จะอยู่ไม่ไกล: เขายังคงอยู่ในฐานะประธานกรรมการบริหารโดยมุ่งเน้นไปที่ประเภทของนโยบาย […]"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "ev",
-      "title_en": "No little kids allowed, and other new info about Tesla’s Cybercab",
-      "summary_en": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-open.jpg?resize=1200,856",
-      "link": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
-      "published": "Fri, 04 Sep 2026 16:51:23 +0000",
-      "title_th": "ไม่อนุญาตให้เด็กเล็กเข้า และข้อมูลใหม่อื่นๆ เกี่ยวกับ Cybercab ของ Tesla",
-      "summary_th": "บริษัทบอกว่าเด็กอายุต่ำกว่า 13 ปีไม่สามารถนั่งรถได้ แม้จะเดินทางพร้อมผู้ปกครองก็ตาม นั่นเป็นข้อ จำกัด มากกว่า SUV รุ่น Y ที่ใช้เป็นโรบอตแท็กซี่"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "summary_en": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-04-at-8.49.39-AM-e1788537064907.png?w=839",
-      "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "published": "Fri, 04 Sep 2026 16:21:11 +0000",
-      "title_th": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "summary_th": "It's the latest failure of OpenAI's internal monitoring and security systems."
     },
     {
       "source": "The Verge",
@@ -83,7 +83,7 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-04-at-3.23.13-PM.png?quality=90&strip=all&crop=0%2C16.030389447569%2C100%2C67.939221104862&w=1200",
       "link": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
       "published": "2026-09-04T15:42:54-04:00",
-      "title_th": "The White House is making arcade games racist",
+      "title_th": "ทำเนียบขาวกำลังทำให้เกมอาร์เคดเหยียดเชื้อชาติ",
       "summary_th": "ผู้บงการการประชาสัมพันธ์ที่ทำเนียบขาวเพิ่งเปิดตัวซีรีส์เกม \"อาร์เคด\" ที่มีธีมนโยบายคลุมเครือ ซึ่งบางเกมเป็นการเหยียดเชื้อชาติ และจำลองมาจากเกมจริงซึ่งผู้ถือลิขสิทธิ์อาจไม่พอใจเกินไปที่จะเชื่อมโยงกับวาระ MAGA บริษัท Tetris ได้ตอบสนองต่อ \"Build the Wall\" แล้ว ซึ่งเห็นได้ชัดว่า […]"
     },
     {
@@ -95,7 +95,7 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/09-4-mission1-pro-pdp-desktop.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
       "link": "https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter",
       "published": "2026-09-04T14:00:45-04:00",
-      "title_th": "GoPro says it’s still committed ‘to your collective stoke’",
+      "title_th": "GoPro บอกว่ายังคงมุ่งมั่น 'เพื่อสโต๊คโดยรวมของคุณ'",
       "summary_th": "Nick Woodman ซีอีโอของ GoPro กล่าวในจดหมายถึงลูกค้าว่าการผลิตกล้องยังคงเป็น \"DNA หลัก\" ของบริษัทของเขา หลังจากที่ Starman เสนอซื้อกิจการมูลค่า 285 ล้านดอลลาร์เมื่อต้นสัปดาห์นี้ เขาอ้างว่าการควบรวมกิจการทำให้ GoPro อยู่ในตำแหน่งที่ดีขึ้นเพื่อพัฒนาเทคโนโลยีการสร้างเนื้อหาต่อไป หลังจากกล่าวในการประกาศข้อตกลง […]"
     },
     {
@@ -107,8 +107,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Melody_Flip_Palettes-Fav.png?quality=90&strip=all&crop=0%2C10.595205290714%2C100%2C78.809589418573&w=1200",
       "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
       "published": "2026-09-04T13:51:35-04:00",
-      "title_th": "Roland เข้าสู่วงการเพลง AI เชิงสร้างสรรค์ด้วย Melody Flip",
-      "summary_th": "แม้จะไม่ใช่ \"ปุ่มกด รับเพลง\" ของ Suno แต่เครื่องมือ Melody Flip ใหม่ของ Roland ถือเป็นการบุกโจมตีของบริษัทในด้านเพลง AI ที่สร้างใหม่ Melody Flip มีจำหน่ายในรูปแบบปลั๊กอินสำหรับเวิร์กสเตชันเสียงดิจิทัล (DAW) นำเสนอ \"จานสี\" ประมาณ 250 รายการ ซึ่งเป็นคอลเลกชันที่มีธีมหลักสำหรับแนวคิดทางดนตรีโดยจัดเรียงตามประเภท คุณสามารถเริ่มต้นได้ตั้งแต่ […]"
+      "title_th": "Roland is getting into generative AI music with Melody Flip",
+      "summary_th": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from […]"
     },
     {
       "source": "The Verge",
@@ -126,13 +126,25 @@
       "source": "Ars Technica",
       "flag": "US",
       "category": "software",
+      "title_en": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "summary_en": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
+      "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "published": "Fri, 04 Sep 2026 22:17:36 +0000",
+      "title_th": "เจ้าหน้าที่ OpenAI หารือถึงวิธีการหลบหนีแซนด์บ็อกซ์บนวิกิสาธารณะ",
+      "summary_th": "โดยรวมแล้ว มีตัวแทนภายใน 3,700 รายโพสต์ข้อความ 18,000 ข้อความพูดคุยเกี่ยวกับการโกงข้อสอบ"
+    },
+    {
+      "source": "Ars Technica",
+      "flag": "US",
+      "category": "software",
       "title_en": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
       "summary_en": "Broadcom admits it put “too big a focus on VCF.”...",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg",
       "link": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
       "published": "Fri, 04 Sep 2026 17:35:02 +0000",
       "title_th": "“ความน่าเชื่อถือ ไม่ใช่ฟีเจอร์ คือการขาดดุลอย่างแท้จริง”: VMware พยายามเอาใจ SMB",
-      "summary_th": "Broadcom admits it put “too big a focus on VCF.”..."
+      "summary_th": "Broadcom ยอมรับว่า \"ให้ความสำคัญกับ VCF มากเกินไป\"..."
     },
     {
       "source": "Ars Technica",
@@ -143,8 +155,8 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-1152x648.jpg",
       "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
       "published": "Fri, 04 Sep 2026 17:18:12 +0000",
-      "title_th": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-      "summary_th": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use."
+      "title_th": "เมื่อครั้งหนึ่งเคยได้รับความนิยมในการโจมตี AI การลักลอบขนของ ASCII ได้รับการยอมรับจากผู้ส่งอีเมลขยะ",
+      "summary_th": "บล็อกยูนิโค้ดที่ครั้งหนึ่งเคยถูกมองข้ามซึ่งมนุษย์มองไม่เห็นกำลังได้รับการใช้งานในวงกว้างมากขึ้น"
     },
     {
       "source": "Ars Technica",
@@ -155,7 +167,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Dan-stolen-driver-licence.png",
       "link": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
       "published": "Wed, 02 Sep 2026 20:32:02 +0000",
-      "title_th": "I rented a car, and within hours, my driver's license was for sale",
+      "title_th": "ฉันเช่ารถ และภายในไม่กี่ชั่วโมง ใบขับขี่ของฉันก็ถูกขายไป",
       "summary_th": "มีรายงานว่า FBI กำลังสืบสวนการละเมิดข้อมูลขนาดใหญ่ที่กำลังเปิดเผยแบบเรียลไทม์"
     },
     {
@@ -169,18 +181,6 @@
       "published": "Wed, 02 Sep 2026 11:00:43 +0000",
       "title_th": "การจี้ BGP บนเครือข่ายที่ติดไวรัสซึ่งเกิดจากข้อผิดพลาดที่ไม่ตลกเลย",
       "summary_th": "เราเรียนรู้อะไรได้บ้างจากการจี้ BGP ที่ทำให้ซอฟต์แวร์การผลิตเสียหาย มากมาย."
-    },
-    {
-      "source": "Ars Technica",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Think twice before installing this device promising free movies",
-      "summary_en": "In exchange for free stuff, devices make home connections part of a proxy network.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/superbox-s7-pro-1152x648.webp",
-      "link": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
-      "published": "Mon, 31 Aug 2026 16:33:38 +0000",
-      "title_th": "คิดให้รอบคอบก่อนติดตั้งอุปกรณ์นี้พร้อมรับภาพยนตร์ฟรี",
-      "summary_th": "เพื่อแลกกับของฟรี อุปกรณ์ต่างๆ จะทำให้การเชื่อมต่อภายในบ้านเป็นส่วนหนึ่งของเครือข่ายพร็อกซี"
     },
     {
       "source": "Wired",
@@ -203,7 +203,7 @@
       "image": "https://media.wired.com/photos/6a9ad63d482e2501722eeac3/master/pass/GettyImages-2193378836.jpg",
       "link": "https://www.wired.com/story/tesla-cybercab-officially-launches-today-its-already-under-investigation/",
       "published": "Fri, 04 Sep 2026 15:17:12 +0000",
-      "title_th": "Tesla’s Cybercab Officially Launches Today. It’s Already Under Investigation",
+      "title_th": "Cybercab ของ Tesla เปิดตัวอย่างเป็นทางการแล้ววันนี้ อยู่ระหว่างการสอบสวนแล้ว",
       "summary_th": "รัฐบาลสหรัฐฯ กำลังตรวจสอบว่า Cybercab ซึ่งไม่มีพวงมาลัยและแป้นเหยียบ เป็นไปตามมาตรฐานความปลอดภัยของยานพาหนะหรือไม่"
     },
     {
@@ -306,6 +306,18 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "How to see what's taking up space on your Windows PC",
+      "summary_en": "Use a methodical approach to see what's using the most space on your PC and easily clean it up.",
+      "image": "https://www.engadget.com/img/gallery/how-to-see-whats-taking-up-space-on-your-windows-pc/l-intro-1787945949.jpg",
+      "link": "https://www.engadget.com/2247848/how-to-see-whats-taking-up-space-windows/",
+      "published": "Fri, 04 Sep 2026 23:00:00 +0000",
+      "title_th": "วิธีดูว่ามีอะไรกินพื้นที่บนพีซี Windows ของคุณ",
+      "summary_th": "ใช้วิธีการที่เป็นระบบเพื่อดูว่าสิ่งใดใช้พื้นที่บนพีซีของคุณมากที่สุด และทำความสะอาดได้อย่างง่ายดาย"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "The Tetris Company wants nothing to do with the White House's new copycat game",
       "summary_en": "Tetris knockoff 'Build the Wall' is one of six new games hosted on the White House website, and The Tetris Company is not happy.",
       "image": "https://www.engadget.com/img/gallery/the-tetris-company-wants-nothing-to-do-with-the-white-houses-new-copycat-game/l-intro-1788559067.jpg",
@@ -347,20 +359,8 @@
       "image": "https://www.engadget.com/img/gallery/teslas-cybercab-is-under-federal-investigation-almost-immediately-after-hitting-the-streets/l-intro-1788532681.jpg",
       "link": "https://www.engadget.com/2251066/tesla-cybercab-under-federal-investigation-almost-immediately-after-hitting-streets/",
       "published": "Fri, 04 Sep 2026 14:42:01 +0000",
-      "title_th": "Tesla's Cybercab is under federal investigation almost immediately after hitting the streets",
-      "summary_th": "Regulators will review the process and data Tesla used to self-certify the vehicle."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Microsoft announces Project Zenith, a clutter-free Windows experience meant to entice developers",
-      "summary_en": "But you'll need a powerful system with 64GB of RAM to use it.",
-      "image": "https://www.engadget.com/img/gallery/microsoft-announces-project-zenith-a-clutter-free-windows-experience-meant-to-entice-developers/l-intro-1788530489.jpg",
-      "link": "https://www.engadget.com/2251018/microsoft-announces-project-zenith-clutter-free-windows-experience/",
-      "published": "Fri, 04 Sep 2026 14:05:32 +0000",
-      "title_th": "Microsoft announces Project Zenith, a clutter-free Windows experience meant to entice developers",
-      "summary_th": "But you'll need a powerful system with 64GB of RAM to use it."
+      "title_th": "Cybercab ของ Tesla อยู่ภายใต้การสอบสวนของรัฐบาลกลางเกือบจะในทันทีหลังจากชนถนน",
+      "summary_th": "หน่วยงานกำกับดูแลจะตรวจสอบกระบวนการและข้อมูลที่ Tesla ใช้ในการรับรองรถยนต์ด้วยตนเอง"
     },
     {
       "source": "IEEE Spectrum",
@@ -475,12 +475,12 @@
       "flag": "",
       "category": "gadget",
       "title_en": "OpenAI releasing major upgrade to ChatGPT and Codex with GPT-6 Astra, details here",
-      "summary_en": "Update: A day later, GPT-6 Astra is rolling out to Business and Pro customers on the $100/month or $200/month plan. This follows other new model releases before Plus customers on the $20/month plan gain access. It’s been just over a year since OpenAI released the first GPT-5 models for ChatGPT. Now it’s time for GPT-6 Astra to upgrade ChatGPT and Codex capabilities. Details below. more…",
+      "summary_en": "Update: A day later, GPT-6 Astra is rolling out to Business and Pro customers on the $100/month or $200/month plan. This follows other new model releases before Plus customers on the $20/month plan gain access. Update #2: A few hours later, Plus users with the $20/month subscription now have Astra access as well. It’s been just over a year since OpenAI released the first GPT-5 models for ChatGPT. Now it’s time for GPT-6 Astra to upgrade ChatGPT and Codex capabilities. Details below. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?resize=1200,628",
       "link": "https://9to5mac.com/2026/09/04/openai-releasing-major-upgrade-to-chatgpt-and-codex-with-gpt-6-astra-details-here/",
       "published": "Fri, 04 Sep 2026 18:52:35 +0000",
       "title_th": "OpenAI เปิดตัวการอัปเกรดครั้งใหญ่เป็น ChatGPT และ Codex ด้วย GPT-6 Astra รายละเอียดที่นี่",
-      "summary_th": "อัปเดต: หนึ่งวันต่อมา GPT-6 Astra กำลังเปิดตัวให้กับลูกค้า Business และ Pro ในแผน $100/เดือนหรือ $200/เดือน สิ่งนี้เป็นไปตามการเปิดตัวโมเดลใหม่อื่นๆ ก่อนที่ลูกค้า Plus ที่ใช้แผน $20/เดือนจะสามารถเข้าถึงได้ เป็นเวลากว่าหนึ่งปีแล้วที่ OpenAI เปิดตัว GPT-5 รุ่นแรกสำหรับ ChatGPT ตอนนี้ถึงเวลาที่ GPT-6 Astra จะอัปเกรดความสามารถของ ChatGPT และ Codex รายละเอียดด้านล่าง มากกว่า…"
+      "summary_th": "อัปเดต: หนึ่งวันต่อมา GPT-6 Astra กำลังเปิดตัวให้กับลูกค้า Business และ Pro ในแผน $100/เดือนหรือ $200/เดือน สิ่งนี้เป็นไปตามการเปิดตัวโมเดลใหม่อื่นๆ ก่อนที่ลูกค้า Plus ที่ใช้แผน $20/เดือนจะสามารถเข้าถึงได้ อัปเดต #2: ไม่กี่ชั่วโมงต่อมา ผู้ใช้ Plus ที่สมัครสมาชิก $20/เดือน ก็สามารถเข้าถึง Astra ได้เช่นกัน เป็นเวลากว่าหนึ่งปีแล้วที่ OpenAI เปิดตัว GPT-5 รุ่นแรกสำหรับ ChatGPT ตอนนี้ถึงเวลาที่ GPT-6 Astra จะอัปเกรดความสามารถของ ChatGPT และ Codex รายละเอียดด้านล่าง มากกว่า…"
     },
     {
       "source": "9to5Google",
@@ -491,7 +491,7 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Gemini-Overlay.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/09/04/gemini-minimize-bubble/",
       "published": "Fri, 04 Sep 2026 21:44:00 +0000",
-      "title_th": "Gemini overlay gets bubble minimization and multitasking on Android",
+      "title_th": "การซ้อนทับของราศีเมถุนได้รับการย่อขนาดฟองและการทำงานหลายอย่างพร้อมกันบน Android",
       "summary_th": "โอเวอร์เลย์ราศีเมถุนบน Android ตอนนี้มีตัวเลือกมัลติทาสกิ้งที่ให้ทางลัดฟองลอยเมื่อคุณย่อเล็กสุด มากกว่า…"
     },
     {
@@ -599,7 +599,7 @@
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Wayve-Vehicle.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://electrek.co/2026/09/04/uber-just-launched-the-uks-first-autonomous-rides-in-london/",
       "published": "Fri, 04 Sep 2026 19:21:20 +0000",
-      "title_th": "Uber just launched the UK’s first autonomous rides in London",
+      "title_th": "Uber เพิ่งเปิดตัวการเดินทางอัตโนมัติครั้งแรกของสหราชอาณาจักรในลอนดอน",
       "summary_th": "Uber and Wayve launch the UK's first autonomous rides in London using electric Ford Mustang Mach-Es – but drivers remain on board."
     }
   ],
@@ -608,57 +608,57 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 230.36,
-      "change": 1.91,
-      "change_pct": 0.84
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 354.08,
-      "change": -22.29,
-      "change_pct": -5.92
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 338.46,
-      "change": -4.02,
-      "change_pct": -1.17
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 499.7,
-      "change": -10.42,
-      "change_pct": -2.04
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 319.97,
-      "change": -8.24,
-      "change_pct": -2.51
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 258.51,
-      "change": -0.39,
-      "change_pct": -0.15
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 616.77,
-      "change": 6.09,
-      "change_pct": 1.0
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "DELTA.BK",
@@ -678,7 +678,7 @@
       "link": "https://www.youtube.com/watch?v=fo-uubnajWM",
       "thumbnail": "https://i3.ytimg.com/vi/fo-uubnajWM/hqdefault.jpg",
       "published": "2026-09-04T01:18:34+00:00",
-      "title_th": "I Made a Bet with Tesla"
+      "title_th": "ฉันเดิมพันกับเทสลา"
     },
     {
       "channel": "MKBHD",
@@ -733,6 +733,16 @@
     {
       "channel": "Beartai",
       "country": "TH",
+      "title_en": "การนวดไม่ใช่การรักษา ?",
+      "video_id": "wJXTlDFOmKg",
+      "link": "https://www.youtube.com/shorts/wJXTlDFOmKg",
+      "thumbnail": "https://i4.ytimg.com/vi/wJXTlDFOmKg/hqdefault.jpg",
+      "published": "2026-09-04T23:00:02+00:00",
+      "title_th": "การนวดไม่ใช่การรักษา ?"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
       "title_en": "(Hand Review) Sony WH-1000X The Collexion",
       "video_id": "jpgtiSNTpSk",
       "link": "https://www.youtube.com/shorts/jpgtiSNTpSk",
@@ -749,16 +759,6 @@
       "thumbnail": "https://i4.ytimg.com/vi/o-RUp7maXhQ/hqdefault.jpg",
       "published": "2026-09-04T11:00:20+00:00",
       "title_th": "หลากความเชี่ยวชาญ หรือหนึ่งงานทั้งชีวิต ? | Go with The Four"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "รีวิว Denon Home 2 Series ทุกรุ่น เติมเสียงให้ทั่วบ้าน",
-      "video_id": "F5kKkPtggk4",
-      "link": "https://www.youtube.com/watch?v=F5kKkPtggk4",
-      "thumbnail": "https://i3.ytimg.com/vi/F5kKkPtggk4/hqdefault.jpg",
-      "published": "2026-09-04T04:00:36+00:00",
-      "title_th": "รีวิว Denon Home 2 Series ทุกรุ่น เติมเสียงให้ทั่วบ้าน"
     },
     {
       "channel": "Droidsans",
