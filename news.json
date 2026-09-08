@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-08T01:44:21.618706+00:00",
+  "generated_at": "2026-09-08T07:34:01.081481+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+      "summary_en": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through smartphones and Meta's AI glasses, backed by $25 million from Elad Gil, Khosla Ventures, and Lennar to tackle a labor shortage severe enough that data center projects alone now need 4,000 to 5,000 workers apiece.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Construction-worker-Ray-Bans.png?resize=1200,800",
+      "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+      "published": "Tue, 08 Sep 2026 02:16:39 +0000",
+      "title_th": "บริษัทใหม่ล่าสุดของ Eric Wu ซึ่งเลิกกิจการตั้งแต่เดือนพฤษภาคม กำลังเผชิญกับวิกฤติแรงงานในการก่อสร้าง",
+      "summary_th": "Eric Wu ผู้สร้างและบริหาร Opendoor ก่อนที่จะลาออกไปในปี 2022 ได้ก่อตั้งบริษัทใหม่ของเขา NavigateAI ซึ่งเลิกกิจการแล้วตั้งแต่เดือนพฤษภาคม โดยสร้าง copilots AI ที่ให้คำแนะนำแบบแฮนด์ฟรีแก่คนงานก่อสร้างแบบเรียลไทม์ผ่านสมาร์ทโฟนและแว่นตา AI ของ Meta ซึ่งได้รับการสนับสนุน 25 ล้านดอลลาร์จาก Elad Gil, Khosla Ventures และ Lennar เพื่อจัดการกับปัญหาการขาดแคลนแรงงานที่รุนแรงเพียงพอที่โครงการศูนย์ข้อมูลเพียงอย่างเดียวในขณะนี้ต้องการพนักงาน 4,000 ถึง 5,000 คน คนละอัน"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -11,8 +23,8 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800",
       "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "published": "Mon, 07 Sep 2026 19:24:00 +0000",
-      "title_th": "Opaque recurrence, and other AI terms that you should probably know",
-      "summary_th": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+      "title_th": "การกลับเป็นซ้ำแบบทึบ และคำศัพท์ AI อื่นๆ ที่คุณควรรู้",
+      "summary_th": "การเพิ่มขึ้นของ AI ทำให้เกิดคำศัพท์และคำสแลงใหม่ๆ มากมาย นี่คืออภิธานศัพท์พร้อมคำจำกัดความของคำและวลีที่สำคัญที่สุดที่คุณอาจพบ"
     },
     {
       "source": "TechCrunch",
@@ -35,8 +47,8 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1182217069.jpg?resize=1200,800",
       "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
       "published": "Mon, 07 Sep 2026 15:58:00 +0000",
-      "title_th": "What we expect from the upcoming Apple launch",
-      "summary_th": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods."
+      "title_th": "สิ่งที่เราคาดหวังจากการเปิดตัว Apple ที่กำลังจะมาถึง",
+      "summary_th": "แม้ว่า iPhone Ultra แบบพับได้เครื่องแรกของ Apple จะพาดหัวข่าวในการเปิดตัวในวันที่ 9 กันยายน แต่เราก็คาดว่าจะมีข่าวเกี่ยวกับ AirPods และ HomePods ด้วย"
     },
     {
       "source": "TechCrunch",
@@ -47,20 +59,32 @@
       "image": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022-a.jpg?resize=1200,675",
       "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
       "published": "Sun, 06 Sep 2026 21:41:06 +0000",
-      "title_th": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-      "summary_th": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store."
+      "title_th": "มีรายงานว่าทางออก App Store ของ Phil Schiller ได้รับแรงหนุนจากการระมัดระวังเกี่ยวกับแผนการในอนาคต",
+      "summary_th": "มีรายงานว่า Schiller มีข้อสงวนเกี่ยวกับเป้าหมายของ CEO คนใหม่ John Ternus ในการนำรายได้ประจำจาก App Store มากขึ้น"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "summary_en": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "published": "Sun, 06 Sep 2026 20:47:37 +0000",
-      "title_th": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "summary_th": "Authors say publishers seem to be claiming more than their fair share of settlement payments."
+      "category": "gadget",
+      "title_en": "Xiaomi’s wide foldable promises more power than Samsung’s",
+      "summary_en": "Xiaomi is the latest manufacturer to release a short, wide foldable phone, in the same week Apple is expected to do the same. I got to try the 18 Fold behind closed doors at IFA last week, and while it looks and feels similar enough to Samsung's Galaxy Z Fold 8, superior specs make it […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xiaomi-18-fold-hands-on-impressions-10.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
+      "published": "2026-09-08T03:00:00-04:00",
+      "title_th": "ที่วางพับได้แบบกว้างของ Xiaomi ให้พลังมากกว่าของ Samsung",
+      "summary_th": "Xiaomi เป็นผู้ผลิตรายล่าสุดที่เปิดตัวโทรศัพท์พับได้ขนาดสั้นและกว้าง โดยในสัปดาห์เดียวกันนั้น Apple ก็คาดว่าจะทำเช่นเดียวกัน ฉันได้ลอง 18 พับหลังประตูแบบปิดในงาน IFA เมื่อสัปดาห์ที่แล้ว และถึงแม้ว่ามันจะดูและให้ความรู้สึกคล้ายกับ Galaxy Z Fold 8 ของ Samsung มากพอ แต่สเปคที่เหนือกว่าก็ทำให้ [...]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
+      "summary_en": "China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics processor inside its custom Xring O3 chip. What's so special about that? After five years of development, Arm now has […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xiaomi-18-fold-3-1.webp?quality=90&strip=all&crop=0%2C28.875924057724%2C62.2%2C48.848255011163&w=1200",
+      "link": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+      "published": "2026-09-07T22:00:00-04:00",
+      "title_th": "Xiaomi คนแรก จากนั้นก็เป็นโลก: ทำไม Arm ถึงเพิ่มพลังกราฟิกให้กับการเล่นเกมทางโทรศัพท์ได้อย่างมาก",
+      "summary_th": "จีนกำลังเริ่มเจาะลึกเทคโนโลยีของอังกฤษเป็นครั้งแรกซึ่งอาจเปลี่ยนแปลงวิธีการสร้างและเล่นเกมบนมือถือ วันนี้ Xiaomi 18 Fold เปิดตัวในจีนแผ่นดินใหญ่พร้อมกับโปรเซสเซอร์กราฟิก Arm Mali G2-Ultra NX ภายในชิป Xring O3 แบบกำหนดเอง มีอะไรพิเศษเกี่ยวกับเรื่องนี้? หลังจากห้าปีของการพัฒนา ตอนนี้ Arm มี […]"
     },
     {
       "source": "The Verge",
@@ -71,8 +95,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/A264389_large.jpg?quality=90&strip=all&crop=0%2C15.107708235453%2C100%2C69.784583529094&w=1200",
       "link": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
       "published": "2026-09-07T16:03:41-04:00",
-      "title_th": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
-      "summary_th": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable? Great, here's a range loser. Want something that goes the distance? Be ready to pay the price. Surprisingly, here comes […]"
+      "title_th": "A2 E-tron ใหม่ของ Audi เป็นรถยนต์ EV ที่ราคาไม่แพงและมีประสิทธิภาพมากที่สุด",
+      "summary_th": "เมื่อเลือกซื้อรถยนต์ไฟฟ้า ความสามารถในการจ่ายได้กลายเป็นเรื่องปกติมากขึ้น แต่ราคาไม่แพงและประหยัดพลังงานเป็นสายพันธุ์ที่หายากอย่างแท้จริง บ่อยครั้งที่คุณต้องเสียสละสิ่งหนึ่งเพื่ออีกสิ่งหนึ่ง ต้องการสิ่งที่ราคาไม่แพง? เยี่ยมเลย นี่คือผู้แพ้ระยะ ต้องการบางสิ่งบางอย่างที่ไปไกล? เตรียมพร้อมที่จะจ่ายราคา น่าแปลกที่มาที่นี่ […]"
     },
     {
       "source": "The Verge",
@@ -83,8 +107,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/sony-wh-1000xm4c-headphones-comparison.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "link": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
       "published": "2026-09-07T12:00:00-04:00",
-      "title_th": "Six years later, Sony revisits its legendary XM4 headphones",
-      "summary_th": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones lists for years, thanks to their great sound, competitive ANC, and compact size, […]"
+      "title_th": "หกปีต่อมา Sony กลับมาอีกครั้งกับหูฟัง XM4 ระดับตำนาน",
+      "summary_th": "เมื่อหกปีที่แล้ว Sony และ Bose อยู่ท่ามกลางการต่อสู้เพื่อตัดเสียงรบกวน โดยหูฟังรุ่นใหม่แต่ละรุ่นดีกว่ารุ่นก่อนๆ ในฤดูใบไม้ร่วงปี 2020 Sony ได้เปิดตัวหูฟัง WH-1000XM4 ที่ได้รับเสียงชื่นชมอย่างกว้างขวาง พวกเขาติดอันดับหูฟังที่ดีที่สุดมานานหลายปี ต้องขอบคุณเสียงที่ยอดเยี่ยม ANC ที่แข่งขันได้ และขนาดที่กะทัดรัด […]"
     },
     {
       "source": "The Verge",
@@ -95,32 +119,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IFA_R4_0.3kWh_Outdoor.jpg?quality=90&strip=all&crop=0%2C3.0977312390925%2C100%2C93.804537521815&w=1200",
       "link": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller",
       "published": "2026-09-07T10:59:41-04:00",
-      "title_th": "EcoFlow makes the miniature power station even smaller",
-      "summary_th": "If you're in the market for a tiny power station that punches well above its size and weight then have a look at EcoFlow's new fourth-generation River series. The River 260 Gen4 features a 256Wh capacity battery while the 520 Gen4 packs in 512Wh - storing about 2.5x and 5x the energy of the largest […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "The real reason your phone is getting more expensive",
-      "summary_en": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have become unavoidable - with no end to the memory crunch in sight. Call it \"chipflation\" […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257955_iPhone_17_ProMax_Air_VPavic_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
-      "published": "2026-09-07T08:00:00-04:00",
-      "title_th": "The real reason your phone is getting more expensive",
-      "summary_th": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have become unavoidable - with no end to the memory crunch in sight. Call it \"chipflation\" […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "ev",
-      "title_en": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
-      "summary_en": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac's Celestiq is taking bespoke to a whole new level, and Mercedes has given the EQS the full Maybach treatment. From Volkswagen Auto Group, Bentley […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/BentleyTorcalEV5.jpg?quality=90&strip=all&crop=0%2C3.4695867913185%2C100%2C93.060826417363&w=1200",
-      "link": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
-      "published": "2026-09-07T07:00:00-04:00",
-      "title_th": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
-      "summary_th": "ด้วยความสามารถในการให้การขับขี่ที่ราบรื่นและระบบส่งกำลังที่เงียบอย่างง่ายดาย ยานพาหนะไฟฟ้าจึงเป็นตัวเลือกที่แท้จริงสำหรับกลุ่มยานยนต์หรูระดับไฮเอนด์ Rolls-Royce มี Spectre, Celestiq ของ Cadillac กำลังยกระดับไปอีกขั้น และ Mercedes ได้มอบ EQS ให้กับ Maybach อย่างเต็มรูปแบบ จาก Volkswagen Auto Group, เบนท์ลีย์ […]"
+      "title_th": "EcoFlow ทำให้โรงไฟฟ้าขนาดเล็กมีขนาดเล็กลง",
+      "summary_th": "หากคุณอยู่ในตลาดโรงไฟฟ้าขนาดเล็กที่เจาะทะลุขนาดและน้ำหนักได้มาก ลองดูซีรีส์ River รุ่นที่สี่ใหม่ของ EcoFlow River 260 Gen4 มีแบตเตอรี่ความจุ 256Wh ในขณะที่ 520 Gen4 บรรจุใน 512Wh - เก็บพลังงานได้ประมาณ 2.5x และ 5x ของแบตเตอรี่ที่ใหญ่ที่สุด […]"
     },
     {
       "source": "Ars Technica",
@@ -156,7 +156,7 @@
       "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
       "published": "Fri, 04 Sep 2026 17:18:12 +0000",
       "title_th": "ครั้งหนึ่งเคยได้รับความนิยมในการโจมตี AI การลักลอบขนของ ASCII ได้รับการยอมรับจากผู้ส่งอีเมลขยะ",
-      "summary_th": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use."
+      "summary_th": "บล็อกยูนิโค้ดที่ครั้งหนึ่งเคยถูกมองข้ามซึ่งมนุษย์มองไม่เห็นกำลังได้รับความนิยมเพิ่มมากขึ้น"
     },
     {
       "source": "Ars Technica",
@@ -167,8 +167,8 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Dan-stolen-driver-licence.png",
       "link": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
       "published": "Wed, 02 Sep 2026 20:32:02 +0000",
-      "title_th": "I rented a car, and within hours, my driver's license was for sale",
-      "summary_th": "The FBI is reportedly investigating a massive data breach that is unfolding in real time."
+      "title_th": "ฉันเช่ารถ และภายในไม่กี่ชั่วโมง ใบขับขี่ของฉันก็ถูกขายไป",
+      "summary_th": "มีรายงานว่า FBI กำลังสืบสวนการละเมิดข้อมูลขนาดใหญ่ที่กำลังเปิดเผยแบบเรียลไทม์"
     },
     {
       "source": "Ars Technica",
@@ -179,7 +179,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-11477585601-1000x648.jpg",
       "link": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
       "published": "Wed, 02 Sep 2026 11:00:43 +0000",
-      "title_th": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
+      "title_th": "การจี้ BGP บนเครือข่ายที่ติดไวรัสซึ่งเกิดจากข้อผิดพลาดที่ไม่ตลกเลย",
       "summary_th": "เราเรียนรู้อะไรได้บ้างจากการจี้ BGP ที่ทำให้ซอฟต์แวร์การผลิตเสียหาย มากมาย."
     },
     {
@@ -204,7 +204,7 @@
       "link": "https://www.wired.com/story/tech-labor-day-sales-2026/",
       "published": "Mon, 07 Sep 2026 16:33:37 +0000",
       "title_th": "ยอดขายวันแรงงานเทคโนโลยีที่ดีที่สุดที่ฉันซื้อเอง (2569): เครื่องดูดฝุ่นหูฟังและอื่น ๆ",
-      "summary_th": "From cordless vacuums to the best wireless earbuds we’ve tested, some of our favorite tech is on sale for Labor Day this year."
+      "summary_th": "ตั้งแต่เครื่องดูดฝุ่นไร้สายไปจนถึงหูฟังไร้สายที่ดีที่สุดที่เราทดสอบ เทคโนโลยีที่เราชื่นชอบบางส่วนจะลดราคาในวันแรงงานในปีนี้"
     },
     {
       "source": "Wired",
@@ -215,8 +215,8 @@
       "image": "https://media.wired.com/photos/6a90af577c6f6af27c88297f/master/pass/The-31-Best-Deals-From-the-REI-Labor-Day-Sale.jpg",
       "link": "https://www.wired.com/story/rei-labor-day-sale-2026/",
       "published": "Mon, 07 Sep 2026 13:33:30 +0000",
-      "title_th": "The 57 Best Deals From the REI Labor Day Sale",
-      "summary_th": "Labor Day already? Say it ain’t so. Today is the last day to shop the best deals on WIRED-tested outdoor gear from REI, Nemo, MSR, Coleman, and more during REI’s Labor Day sale."
+      "title_th": "57 ข้อเสนอที่ดีที่สุดจากการขายวันแรงงาน REI",
+      "summary_th": "วันแรงงานแล้วเหรอ? บอกว่ามันไม่ใช่อย่างนั้น วันนี้เป็นวันสุดท้ายที่จะซื้อข้อเสนอที่ดีที่สุดเกี่ยวกับอุปกรณ์กลางแจ้งที่ทดสอบโดย WIRED จาก REI, Nemo, MSR, Coleman และอีกมากมายในช่วงลดราคาวันแรงงานของ REI"
     },
     {
       "source": "Wired",
@@ -227,8 +227,8 @@
       "image": "https://media.wired.com/photos/6a98bd433546f162bf782073/master/pass/noirlab2620a.jpg",
       "link": "https://www.wired.com/story/astronomers-complete-largest-map-of-space-yes-you-can-play-with-it/",
       "published": "Mon, 07 Sep 2026 11:30:00 +0000",
-      "title_th": "Astronomers Have Completed the Largest Map of Space. Yes, You Can Play With It.",
-      "summary_th": "The intricate, 5.6 trillion-pixel map covers approximately 75 percent of the sky and includes about 4 billion celestial objects."
+      "title_th": "นักดาราศาสตร์ได้สร้างแผนที่อวกาศที่ใหญ่ที่สุดสำเร็จแล้ว ใช่ คุณสามารถเล่นกับมันได้",
+      "summary_th": "แผนที่ที่ซับซ้อนขนาด 5.6 ล้านล้านพิกเซลครอบคลุมพื้นที่ประมาณ 75 เปอร์เซ็นต์ของท้องฟ้า และรวมถึงวัตถุท้องฟ้าประมาณ 4 พันล้านชิ้น"
     },
     {
       "source": "Wired",
@@ -239,8 +239,8 @@
       "image": "https://media.wired.com/photos/6a995c3bbf4e66136bddb446/master/pass/GettyImages-2286563830.jpg",
       "link": "https://www.wired.com/story/every-samsung-galaxy-phone-comes-with-this-unique-add-on/",
       "published": "Mon, 07 Sep 2026 11:00:00 +0000",
-      "title_th": "Every Samsung Galaxy Phone Comes With This Unique Add-On",
-      "summary_th": "It’s called the Edge Panel. Here’s how to make the most of it."
+      "title_th": "โทรศัพท์ Samsung Galaxy ทุกเครื่องมาพร้อมกับส่วนเสริมพิเศษนี้",
+      "summary_th": "เรียกว่าแผงขอบ ต่อไปนี้เป็นวิธีใช้ประโยชน์สูงสุดจากมัน"
     },
     {
       "source": "MIT Technology Review",
@@ -251,8 +251,8 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/H2-Site-thumb.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
       "published": "Mon, 07 Sep 2026 12:10:00 +0000",
-      "title_th": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-      "summary_th": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has…"
+      "title_th": "การดาวน์โหลด: การตามล่าหาไฮโดรเจนใต้ดินและตัวแทน OpenAI ที่โกงมากขึ้น",
+      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี ไฮโดรเจนรอเราอยู่ใต้ดินมากแค่ไหน? ความพยายามในการสำรวจจำนวนมากกำลังค้นหาแหล่งกักเก็บก๊าซไฮโดรเจนใต้ดิน ซึ่งอาจเป็นแหล่งเชื้อเพลิงที่มีค่าคาร์บอนเป็นศูนย์ การตามล่ามี..."
     },
     {
       "source": "MIT Technology Review",
@@ -263,8 +263,8 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/iStock-2239372581.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
       "published": "Fri, 04 Sep 2026 18:39:19 +0000",
-      "title_th": "Architecting memory and storage in the AI era",
-      "summary_th": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while…"
+      "title_th": "การสร้างสถาปัตยกรรมหน่วยความจำและการจัดเก็บข้อมูลในยุค AI",
+      "summary_th": "ยุคของการอนุมาน AI มาถึงแล้ว ลองนึกภาพระบบการดูแลสุขภาพที่วิเคราะห์จุดข้อมูลนับล้านแบบเรียลไทม์เพื่อเร่งการวิจัยทางการแพทย์ที่ช่วยชีวิต หรือผู้ช่วยอัจฉริยะที่แก้ไขความต้องการที่ซับซ้อนของลูกค้านับพันได้ในคราวเดียว ความก้าวหน้าในโลกแห่งความเป็นจริงเหล่านี้อาศัยโครงสร้างพื้นฐานขั้นสูงที่ทำหน้าที่เป็นกลไกของข่าวกรองอย่างต่อเนื่อง ขับเคลื่อนบริการแบบเรียลไทม์ในขณะที่..."
     },
     {
       "source": "MIT Technology Review",
@@ -275,8 +275,8 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/drone-data.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
       "published": "Fri, 04 Sep 2026 12:10:00 +0000",
-      "title_th": "The Download: selling battlefield drone data and AI reshaping language",
-      "summary_th": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI’s impact on democracy, who previously served in the…"
+      "title_th": "ดาวน์โหลด: ขายข้อมูลโดรนในสนามรบและภาษาที่ปรับรูปแบบ AI",
+      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี ข้อมูลจากโดรนในยูเครนกำลังขับเคลื่อนตลาด Wild West แห่งใหม่ — Cory Alpert นักวิจัยจากมหาวิทยาลัยเมลเบิร์น ศึกษาผลกระทบของ AI ต่อประชาธิปไตย ซึ่งก่อนหน้านี้ทำหน้าที่ใน..."
     },
     {
       "source": "MIT Technology Review",
@@ -288,7 +288,7 @@
       "link": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
       "published": "Fri, 04 Sep 2026 09:25:19 +0000",
       "title_th": "ข้อมูลจากโดรนในยูเครนกำลังขับเคลื่อนตลาด Wild West แห่งใหม่",
-      "summary_th": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part…"
+      "summary_th": "สนามรบในยูเครนเต็มไปด้วยซากโดรน ซึ่งปัจจุบันได้รับการยอมรับอย่างมั่นคงว่าเป็นอาวุธสำคัญในการทำสงครามสมัยใหม่ แต่เบื้องหลังซากปรักหักพังทั้งหมดนั้น มีเหมืองทองคำใหม่สำหรับภาคการป้องกัน โดรนข้อมูลที่สร้างขึ้นจะอยู่ได้นานกว่าสงครามที่พวกเขาใช้ในการต่อสู้ และกลายเป็นส่วนหนึ่งมากขึ้นเรื่อยๆ..."
     },
     {
       "source": "MIT Technology Review",
@@ -299,8 +299,20 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT-Tech_Review-Opener-FINAL-thumb.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
       "published": "Thu, 03 Sep 2026 12:10:00 +0000",
-      "title_th": "The Download: rethinking child safety and fossil-fueled farming",
-      "summary_th": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails,…"
+      "title_th": "ดาวน์โหลด: ทบทวนความปลอดภัยของเด็กและการทำฟาร์มที่ใช้เชื้อเพลิงฟอสซิล",
+      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี แอปติดตามเด็กอาจต้องรีบูต อันตรายทางดิจิทัลกลายเป็นสิ่งที่ผู้ปกครองชาวอเมริกันหวาดกลัว เพื่อเป็นการตอบสนอง พวกเขาหันมาใช้แอปตรวจสอบเนื้อหาที่สแกนข้อความ รูปภาพ อีเมล..."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "review",
+      "title_en": "Xiaomi 18 Fold hands-on: An attractive 'mid-size' foldable with powerful specs",
+      "summary_en": "Xiaomi's impressive-sounding new foldable arrives on the eve of Apple's big foldable iPhone event.",
+      "image": "https://www.engadget.com/img/gallery/xiaomi-18-fold-hands-on-an-attractive-mid-size-foldable-with-fewer-compromises/l-intro-1788851546.jpg",
+      "link": "https://www.engadget.com/2252401/xiaomi-18-fold-hands-on-ifa-2026/",
+      "published": "Tue, 08 Sep 2026 07:16:20 +0000",
+      "title_th": "Xiaomi 18 Fold ลงมือจริง: 'ขนาดกลาง' ที่น่าดึงดูดใจพร้อมสเปคอันทรงพลัง",
+      "summary_th": "อุปกรณ์พับได้ใหม่ที่ฟังดูน่าประทับใจของ Xiaomi จะมาถึงก่อนงาน iPhone แบบพับได้ครั้งใหญ่ของ Apple"
     },
     {
       "source": "Engadget",
@@ -311,7 +323,7 @@
       "image": "https://www.engadget.com/img/gallery/how-to-reset-the-camera-settings-on-your-iphone/l-intro-1788368872.jpg",
       "link": "https://www.engadget.com/2249676/how-to-reset-iphone-camera-settings/",
       "published": "Tue, 08 Sep 2026 00:30:00 +0000",
-      "title_th": "How To Reset The Camera Settings On Your iPhone",
+      "title_th": "วิธีรีเซ็ตการตั้งค่ากล้องบน iPhone ของคุณ",
       "summary_th": "เราทุกคนต้องการถ่ายภาพที่ดีที่สุดด้วยอุปกรณ์ราคา 1,000 ดอลลาร์ของเรา และบางครั้งนั่นหมายถึงการย้อนกลับการตั้งค่าพิเศษเหล่านั้นทั้งหมดในแอพกล้องกลับเป็นศูนย์"
     },
     {
@@ -323,8 +335,8 @@
       "image": "https://www.engadget.com/img/gallery/pros-and-cons-of-using-a-chromebook-as-your-everyday-pc/l-intro-1788367547.jpg",
       "link": "https://www.engadget.com/2249648/chromebook-pros-and-cons-as-main-pc/",
       "published": "Tue, 08 Sep 2026 00:00:00 +0000",
-      "title_th": "Pros and cons of using a Chromebook as your everyday PC",
-      "summary_th": "Chromebooks are great devices, but they might not be able to do everything a Windows or Mac device can. Consider carefully before using one daily."
+      "title_th": "ข้อดีและข้อเสียของการใช้ Chromebook เป็นพีซีในชีวิตประจำวันของคุณ",
+      "summary_th": "Chromebook เป็นอุปกรณ์ที่ยอดเยี่ยม แต่อาจไม่สามารถทำทุกอย่างที่อุปกรณ์ Windows หรือ Mac สามารถทำได้ พิจารณาอย่างรอบคอบก่อนใช้ทุกวัน"
     },
     {
       "source": "Engadget",
@@ -335,8 +347,8 @@
       "image": "https://www.engadget.com/img/gallery/how-long-should-a-laptop-battery-last-on-a-single-charge/l-intro-1788364724.jpg",
       "link": "https://www.engadget.com/2249568/how-long-laptop-battery-should-last-without-recharging/",
       "published": "Mon, 07 Sep 2026 23:30:00 +0000",
-      "title_th": "How Long Should A Laptop Battery Last On A Single Charge?",
-      "summary_th": "In the market for a new laptop? You'll want to know just how long it'll run without being plugged in, and how you can maximize the efficiency of its battery."
+      "title_th": "แบตเตอรี่แล็ปท็อปควรมีอายุการใช้งานนานเท่าใดต่อการชาร์จหนึ่งครั้ง?",
+      "summary_th": "ในตลาดแล็ปท็อปเครื่องใหม่หรือไม่? คุณจะต้องการทราบว่าแบตเตอรี่ใช้งานได้นานแค่ไหนโดยไม่ต้องเสียบปลั๊ก และคุณจะเพิ่มประสิทธิภาพแบตเตอรี่ให้สูงสุดได้อย่างไร"
     },
     {
       "source": "Engadget",
@@ -347,20 +359,8 @@
       "image": "https://www.engadget.com/img/gallery/gms-breakup-with-carplay-and-android-auto-has-one-exception/l-intro-1788364414.jpg",
       "link": "https://www.engadget.com/2249559/carplay-android-auto-carplay-gm-breakup-one-exception-2027-cadillac-lyriq/",
       "published": "Mon, 07 Sep 2026 23:00:00 +0000",
-      "title_th": "GM's breakup with CarPlay and Android Auto has one exception",
-      "summary_th": "GM's lineup is dropping Apple CarPlay and Android Auto in favor of its own infotainment systems. But one model is keeping the phone-mirroring capabilities."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "A new Elizabeth Holmes documentary from Nathan Fielder and Lance Oppenheim is coming from A24",
-      "summary_en": "'You Can See Everything' was filmed in 2023 before Elizabeth Holmes reported to prison to serve an 11-year sentence for defrauding Theranos investors.",
-      "image": "https://www.engadget.com/img/gallery/a-new-elizabeth-holmes-documentary-by-nathan-fielder-and-lance-oppenheim-is-coming-from-a24/l-intro-1788820819.jpg",
-      "link": "https://www.engadget.com/2252334/new-elizabeth-holmes-documentary-nathan-fielder-and-lance-oppenheim-coming-from-a24/",
-      "published": "Mon, 07 Sep 2026 22:45:02 +0000",
-      "title_th": "A new Elizabeth Holmes documentary from Nathan Fielder and Lance Oppenheim is coming from A24",
-      "summary_th": "'You Can See Everything' was filmed in 2023 before Elizabeth Holmes reported to prison to serve an 11-year sentence for defrauding Theranos investors."
+      "title_th": "การเลิกราของ GM กับ CarPlay และ Android Auto มีข้อยกเว้นประการหนึ่ง",
+      "summary_th": "ผู้เล่นตัวจริงของ GM กำลังทิ้ง Apple CarPlay และ Android Auto เพื่อสนับสนุนระบบสาระบันเทิงของตัวเอง แต่มีรุ่นหนึ่งที่ยังคงความสามารถในการมิเรอร์โทรศัพท์ไว้"
     },
     {
       "source": "IEEE Spectrum",
@@ -371,8 +371,8 @@
       "image": "https://spectrum.ieee.org/media-library/a-group-of-adults-dressed-in-ugandan-garb-looking-thoughtfully-in-the-distance-while-seated-in-a-university-classroom.jpg?id=67725356&width=980",
       "link": "https://spectrum.ieee.org/ieee-workshop-xplore-africa",
       "published": "Mon, 07 Sep 2026 18:00:03 +0000",
-      "title_th": "Workshops Educate African Researchers On How to Publish With IEEE",
-      "summary_th": "Many researchers and students in Kenya, Rwanda, and Uganda struggle to access and publish scientific and technical articles because of financial barriers including publishing fees and subscriptions to research libraries. To help, IEEE has made its Xplore Digital Library more accessible by offering discounts on subscriptions and lowering fees to publish articles. But the number of papers published by technologists in the three nations still lags behind those from other developing countries. It might be that many researchers haven’t received training in methodology, been instructed on how to write academic articles, or fully understand the process for publishing in scientific journals. Staff from the IEEE Publication and Information Products group and IEEE volunteers held educational worksho"
+      "title_th": "เวิร์กช็อปให้ความรู้แก่นักวิจัยชาวแอฟริกันเกี่ยวกับวิธีการเผยแพร่ด้วย IEEE",
+      "summary_th": "นักวิจัยและนักศึกษาจำนวนมากในเคนยา รวันดา และยูกันดาประสบปัญหาในการเข้าถึงและตีพิมพ์บทความทางวิทยาศาสตร์และทางเทคนิค เนื่องจากมีอุปสรรคทางการเงิน รวมถึงค่าธรรมเนียมการตีพิมพ์และการสมัครใช้บริการห้องสมุดวิจัย เพื่อช่วย IEEE ได้ทำให้ Xplore Digital Library เข้าถึงได้ง่ายขึ้นโดยเสนอส่วนลดสำหรับการสมัครสมาชิกและลดค่าธรรมเนียมในการเผยแพร่บทความ แต่จำนวนบทความที่ตีพิมพ์โดยนักเทคโนโลยีในสามประเทศยังคงตามหลังจากประเทศกำลังพัฒนาอื่นๆ อาจเป็นไปได้ว่านักวิจัยจำนวนมากยังไม่ได้รับการฝึกอบรมด้านระเบียบวิธี ได้รับคำแนะนำในการเขียนบทความวิชาการ หรือเข้าใจกระบวนการตีพิมพ์ในวารสารวิทยาศาสตร์อย่างถ่องแท้ เจ้าหน้าที่จากกลุ่มผลิตภัณฑ์สิ่งพิมพ์และข้อมูลสารสนเทศของ IEEE และอาสาสมัคร IEEE ได้จัดงานเวิร์คช็อปด้านการศึกษา"
     },
     {
       "source": "IEEE Spectrum",
@@ -383,7 +383,7 @@
       "image": "https://spectrum.ieee.org/media-library/industrial-robotic-arm-with-cable-management-system-and-flexible-energy-chains.jpg?id=67633840&width=980",
       "link": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
       "published": "Thu, 03 Sep 2026 12:18:21 +0000",
-      "title_th": "Protecting Dynamic Industrial Robot Cable Carriers",
+      "title_th": "การปกป้องผู้ให้บริการเคเบิลหุ่นยนต์อุตสาหกรรมแบบไดนามิก",
       "summary_th": "This article is brought to you by Tsubaki KabelSchlepp . In modern automated manufacturing, six-axis articulated robots perform high-speed, multidirectional maneuvers under demanding operational cycles. However, as robot arms swivel, rotate, and extend, the electrical cables, fiber optics, and pneumatic hoses supplying them endure severe mechanical stress. Torsional twist, rapid acceleration, and repeated contact with machine structures often lead to premature conductor fatigue, insulation breakdown, and costly unplanned production halts. To overcome these multi-axis motion challenges, the Tsubaki KabelSchlepp Robotrax System provides a specialized three-dimensional cable carrier engineered specifically for complex robotic motion. Managing High Tensile Forces With Central Steel Technology "
     },
     {
@@ -396,7 +396,7 @@
       "link": "https://spectrum.ieee.org/forms-of-engineering-mentorship",
       "published": "Wed, 02 Sep 2026 19:45:58 +0000",
       "title_th": "Applying Different Forms of Mentorship",
-      "summary_th": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! Asking someone to be your mentor is weird. Walking up to someone and asking, “Will you be my mentor?” has always seemed to me like the adult version of a kid walking up to another kid at a party and asking, “Will you be my friend?” What you’re really asking is: “Will you commit some amount of unpaid time to guiding my career for an indefinite period?” Framed that way, of course some people hesitate to say yes. But formal mentorship isn’t the only way to benefit from the wisdom of those who came before. I’ve never formally asked anyone to mento"
+      "summary_th": "บทความนี้คัดลอกมาจากจดหมายข่าวอาชีพของ IEEE Spectrum ลงทะเบียนตอนนี้เพื่อรับเคล็ดลับจากวงใน คำแนะนำจากผู้เชี่ยวชาญ และกลยุทธ์เชิงปฏิบัติ เขียนโดยความร่วมมือกับบริษัทพัฒนาอาชีพด้านเทคโนโลยี Parsity และส่งตรงถึงกล่องจดหมายของคุณฟรี! การขอให้ใครสักคนเป็นที่ปรึกษาของคุณนั้นแปลก เดินเข้าไปหาใครสักคนแล้วถามว่า “คุณจะเป็นที่ปรึกษาให้ผมไหม?” สำหรับฉันดูเหมือนเด็กผู้ใหญ่เดินไปหาเด็กอีกคนในงานปาร์ตี้แล้วถามว่า “คุณจะเป็นเพื่อนกับฉันไหม” สิ่งที่คุณถามจริงๆ คือ: “คุณจะสละเวลาโดยไม่ได้รับค่าตอบแทนเพื่อชี้แนะอาชีพของฉันเป็นระยะเวลาไม่มีกำหนดหรือไม่?” ใส่ร้ายแบบนั้น แน่นอนว่าบางคนลังเลที่จะตอบตกลง แต่การให้คำปรึกษาอย่างเป็นทางการไม่ใช่วิธีเดียวที่จะได้รับประโยชน์จากภูมิปัญญาของผู้มาก่อน ฉันไม่เคยขอให้ใครให้คำปรึกษาอย่างเป็นทางการ"
     },
     {
       "source": "IEEE Spectrum",
@@ -407,8 +407,8 @@
       "image": "https://spectrum.ieee.org/media-library/close-up-of-an-extended-robotic-arm-in-low-earth-orbit.jpg?id=67717218&width=980",
       "link": "https://spectrum.ieee.org/canadarm-ieee-300th-milestone",
       "published": "Wed, 02 Sep 2026 18:00:03 +0000",
-      "title_th": "NASA’s Cargo-Moving Robotic Arm Named 300th IEEE Milestone",
-      "summary_th": "In the 1960s NASA began developing a system of reusable space shuttles to make its work more efficient and to reduce costs. The shuttles could launch like rockets, maneuver in Earth’s orbit, and land like airplanes. They also could carry large satellites to and from orbit. Like other types of transportation, machinery eventually breaks down, and parts need to be replaced or fixed. And the cargo being carried to and from Earth has to be moved to its final destination. To complete such tasks, Spar Aerospace (now part of MDA Space ) of Brampton, Ont., Canada, and the National Research Council in Ottawa developed a robotic arm, the Shuttle Remote Manipulator System . The project was a joint venture between the U.S. and Canadian governments. Known as Canadarms , the robotic tools attached to sh"
+      "title_th": "แขนหุ่นยนต์ขนย้ายสินค้าของ NASA ได้รับรางวัล IEEE ครั้งที่ 300",
+      "summary_th": "ในช่วงทศวรรษ 1960 NASA เริ่มพัฒนาระบบกระสวยอวกาศที่นำกลับมาใช้ใหม่ได้เพื่อให้งานมีประสิทธิภาพมากขึ้นและลดต้นทุน กระสวยอวกาศสามารถพุ่งได้เหมือนจรวด เคลื่อนตัวในวงโคจรของโลก และลงจอดได้เหมือนเครื่องบิน พวกเขายังสามารถบรรทุกดาวเทียมขนาดใหญ่เข้าและออกจากวงโคจรได้ เช่นเดียวกับการขนส่งประเภทอื่นๆ เครื่องจักรจะพังในที่สุด และจำเป็นต้องเปลี่ยนหรือซ่อมแซมชิ้นส่วนต่างๆ และสินค้าที่ถูกขนส่งเข้าและออกจากโลกจะต้องถูกย้ายไปยังจุดหมายปลายทางสุดท้าย เพื่อทำงานดังกล่าวให้สำเร็จ Spar Aerospace (ปัจจุบันเป็นส่วนหนึ่งของ MDA Space) ในเมืองแบรมป์ตัน รัฐออนแทรีโอ แคนาดา และสภาวิจัยแห่งชาติในออตตาวาได้พัฒนาแขนหุ่นยนต์ที่เรียกว่า Shuttle Remote Manipulator System โครงการนี้เป็นการร่วมทุนระหว่างรัฐบาลสหรัฐฯ และแคนาดา รู้จักกันในชื่อ Canadarms ซึ่งเป็นเครื่องมือหุ่นยนต์ที่ติดอยู่กับ sh"
     },
     {
       "source": "IEEE Spectrum",
@@ -419,8 +419,32 @@
       "image": "https://spectrum.ieee.org/media-library/human-and-robotic-hands-share-a-caliper-over-technical-engineering-blueprints.png?id=67702640&width=980",
       "link": "https://spectrum.ieee.org/ai-engineer-skills",
       "published": "Wed, 02 Sep 2026 13:00:04 +0000",
-      "title_th": "AI Efficiency Could Cost Us the Next Generation of Experts",
+      "title_th": "ประสิทธิภาพของ AI อาจทำให้ผู้เชี่ยวชาญรุ่นต่อไปต้องเสียค่าใช้จ่าย",
       "summary_th": "A little over a decade ago, I led the controls design for a first-of-its-kind full digital-control system for a U.S. nuclear plant. It was, on paper, a beautiful machine—engineered to run itself the way a modern airliner does, with operators watching over a system that rarely needed them. And we made a decision that, to an efficiency-minded observer, looked backward: We deliberately left manual steps inside sequences the system could execute on its own. We were solving a specific problem. An operator who only ever supervises automation slowly stops being an operator. The hands go cold. The mental model of what the plant is actually doing gets fuzzy. Then comes the day the automation hands control back. It’s always the worst day, because automation only quits when it’s confused or in troubl"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "9to5Mac Overtime 080: Six new Apple products",
+      "summary_en": "Fernando connects from IFA in Berlin to discuss Apple’s forthcoming iPhone Ultra, alongside the five other products that will be announced at this Wednesday’s Surprise and Shine event. Sponsored by Bitwarden: Register for the free, virtual Open Source Security Summit on September 17, featuring cybersecurity leaders David Sanger and Joseph Menn — and check out Bitwarden for trusted open source password, passkey, and secrets management, with end-to-end encryption and seamless autofill across all your devices. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/9to5Mac-Overtime-080.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/07/9to5mac-overtime-080-six-new-apple-products/",
+      "published": "Tue, 08 Sep 2026 02:38:32 +0000",
+      "title_th": "9to5Mac Overtime 080: ผลิตภัณฑ์ Apple ใหม่หกรายการ",
+      "summary_th": "Fernando ติดต่อจาก IFA ในเบอร์ลินเพื่อหารือเกี่ยวกับ iPhone Ultra ที่กำลังจะมาถึงของ Apple ควบคู่ไปกับผลิตภัณฑ์อื่นๆ อีก 5 รายการที่จะประกาศในงาน Surprise and Shine ในวันพุธนี้ สนับสนุนโดย Bitwarden: ลงทะเบียนเข้าร่วมการประชุมสุดยอด Open Source Security Summit เสมือนจริงฟรีในวันที่ 17 กันยายน โดยมีผู้นำด้านความปลอดภัยทางไซเบอร์อย่าง David Sanger และ Joseph Menn — และตรวจสอบ Bitwarden สำหรับรหัสผ่านโอเพ่นซอร์ส รหัสผ่าน และการจัดการความลับที่เชื่อถือได้ พร้อมการเข้ารหัสจากต้นทางถึงปลายทางและการกรอกอัตโนมัติที่ราบรื่นในทุกอุปกรณ์ของคุณ มากกว่า…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "BASF subsidiary sues Apple over alleged Face ID patent infringement",
+      "summary_en": "TrinamiX, a subsidiary of BASF, says Apple’s current implementation of Face ID is infringing on several of its patents. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/face-id-liquid-glass.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/07/basf-subsidiary-sues-apple-over-alleged-face-id-patent-infringement/",
+      "published": "Tue, 08 Sep 2026 01:34:36 +0000",
+      "title_th": "บริษัทในเครือ BASF ฟ้อง Apple ฐานละเมิดสิทธิบัตร Face ID",
+      "summary_th": "TrinamiX ซึ่งเป็นบริษัทในเครือของ BASF กล่าวว่าการนำ Face ID ของ Apple ไปใช้ในปัจจุบันกำลังละเมิดสิทธิบัตรหลายฉบับ นี่คือรายละเอียด มากกว่า…"
     },
     {
       "source": "9to5Mac",
@@ -431,8 +455,8 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-02.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/09/07/whatsapp-will-soon-let-users-chat-with-up-to-five-third-party-ai-agents/",
       "published": "Mon, 07 Sep 2026 21:36:39 +0000",
-      "title_th": "WhatsApp will soon let users chat with up to five third-party AI agents",
-      "summary_th": "WhatsApp is working on a new feature that will let users connect third-party AI agents to the app, chat with them, and give them instructions to carry out tasks on their behalf. Here are the details. more…"
+      "title_th": "WhatsApp จะอนุญาตให้ผู้ใช้แชทกับตัวแทน AI บุคคลที่สามได้ถึงห้าคนในเร็วๆ นี้",
+      "summary_th": "WhatsApp กำลังทำงานในฟีเจอร์ใหม่ที่จะช่วยให้ผู้ใช้เชื่อมต่อตัวแทน AI บุคคลที่สามกับแอพ แชทกับพวกเขา และให้คำแนะนำในการดำเนินงานในนามของพวกเขา นี่คือรายละเอียด มากกว่า…"
     },
     {
       "source": "9to5Mac",
@@ -443,7 +467,7 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/safari-27.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/09/07/apple-invites-developers-to-submit-browser-interoperability-ideas-for-interop-2027/",
       "published": "Mon, 07 Sep 2026 20:31:22 +0000",
-      "title_th": "Apple เชิญชวนนักพัฒนาส่งแนวคิดการทำงานร่วมกันของเบราว์เซอร์สำหรับ Interop 2027",
+      "title_th": "Apple เชิญชวนนักพัฒนาส่งแนวคิดเกี่ยวกับการทำงานร่วมกันของเบราว์เซอร์สำหรับ Interop 2027",
       "summary_th": "ทีม WebKit ของ Apple ขอเชิญนักพัฒนาส่งแนวคิดสำหรับ Interop 2027 ซึ่งเป็นโครงการริเริ่มข้ามเบราว์เซอร์รุ่นถัดไปที่มุ่งปรับปรุงความสามารถในการทำงานร่วมกันของเว็บ นี่คือรายละเอียด มากกว่า…"
     },
     {
@@ -455,32 +479,8 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-tv-silo.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/09/07/report-apple-tv-working-on-silo-spin-off/",
       "published": "Mon, 07 Sep 2026 17:15:35 +0000",
-      "title_th": "รายงาน: Apple TV กำลังเตรียมแยกซีรีส์ยอดนิยมเรื่อง Silo",
-      "summary_th": "Apple TV เพิ่งเสร็จสิ้นฤดูกาลที่สามของซีรีส์ไซไฟยอดนิยมเรื่อง Silo โดยฤดูกาลที่สี่และเป็นฤดูกาลสุดท้ายได้ลงวันที่แล้วในฤดูร้อนปีหน้า แต่ดูเหมือนว่าสตรีมเมอร์จะมีแผนการที่ทะเยอทะยานมากกว่านี้ ตามรายงานของ Sigmund Judge นักข่าว Apple TV ที่เชื่อถือได้ Apple กำลังทำงานในรายการแยกที่อาจเข้าสู่ขั้นตอนก่อนการผลิตในปลายปีนี้ มากกว่า…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "A foldable Mac is years away, but Apple is still working on it",
-      "summary_en": "There have long been reports and rumours about Apple working on a foldable clamshell device that is either an iPad , a Mac , one of each , or a hybrid of the two . A recent report said that although this was once a priority for new CEO John Ternus, the project had been cancelled – but I don’t think that’s entirely accurate … more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/Folding-MacBook-would-be-along-the-lines-of-the-Lenovo-Yogabook.webp?resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/07/a-foldable-mac-is-years-away-but-apple-is-still-working-on-it/",
-      "published": "Mon, 07 Sep 2026 14:58:43 +0000",
-      "title_th": "Mac แบบพับได้นั้นอยู่ห่างออกไปหลายปีแล้ว แต่ Apple ยังคงพัฒนาอยู่",
-      "summary_th": "มีรายงานและข่าวลือมานานแล้วเกี่ยวกับ Apple ที่กำลังพัฒนาอุปกรณ์ฝาพับแบบพับได้ ซึ่งได้แก่ iPad, Mac, อย่างใดอย่างหนึ่ง หรือเป็นลูกผสมของทั้งสอง รายงานล่าสุดระบุว่าแม้ว่านี่จะเคยเป็นสิ่งสำคัญสำหรับ CEO คนใหม่ John Ternus แต่โครงการก็ถูกยกเลิกไป แต่ฉันไม่คิดว่านั่นจะแม่นยำทั้งหมด ... มากกว่า..."
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "iPhone 18 Pro appears to show new colors in a retail store, but likely fake",
-      "summary_en": "A video shared by a leaker with some track record appears to show two of the new iPhone 18 Pro colors as part of a display at a retail store. The brief video clip shows both the dark cherry and blue colors we’re expecting, but it is almost certainly fake … more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iPhone-18-Pro-appears-to-show-new-colors-in-a-retail-store-but-likely-fake.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/07/iphone-18-pro-appears-to-show-new-colors-in-a-retail-store-but-likely-fake/",
-      "published": "Mon, 07 Sep 2026 13:30:52 +0000",
-      "title_th": "ดูเหมือนว่า iPhone 18 Pro จะแสดงสีใหม่ในร้านค้าปลีก แต่อาจเป็นของปลอม",
-      "summary_th": "วิดีโอที่แชร์โดยแหล่งรั่วไหลซึ่งมีประวัติบางส่วนดูเหมือนจะแสดง iPhone 18 Pro ใหม่สองสีโดยเป็นส่วนหนึ่งของการแสดงผลที่ร้านค้าปลีก คลิปวิดีโอสั้นๆ แสดงทั้งสีเชอร์รี่สีเข้มและสีน้ำเงินที่เราคาดหวัง แต่เกือบจะเป็นของปลอมอย่างแน่นอน … เพิ่มเติม..."
+      "title_th": "รายงาน: Apple TV กำลังทำงานแยกซีรีย์ยอดนิยม Silo",
+      "summary_th": "Apple TV เพิ่งเสร็จสิ้นฤดูกาลที่สามของซีรีส์ไซไฟยอดนิยมเรื่อง Silo โดยฤดูกาลที่สี่และเป็นฤดูกาลสุดท้ายจะออกฉายในฤดูร้อนปีหน้าแล้ว แต่ดูเหมือนว่าสตรีมเมอร์จะมีแผนการที่ทะเยอทะยานมากกว่านี้ ตามรายงานของ Sigmund Judge นักข่าว Apple TV ที่เชื่อถือได้ Apple กำลังทำงานในรายการแยกที่อาจเข้าสู่ขั้นตอนก่อนการผลิตในปลายปีนี้ มากกว่า…"
     },
     {
       "source": "9to5Google",
@@ -492,7 +492,7 @@
       "link": "https://9to5google.com/2026/09/07/september-2026-google-system-updates/",
       "published": "Mon, 07 Sep 2026 22:58:00 +0000",
       "title_th": "มีอะไรใหม่ในการอัปเดตระบบ Google เดือนกันยายน 2569 ของ Android [U]",
-      "summary_th": "“ บันทึกประจำรุ่นของระบบ Google ” รายเดือนจะให้รายละเอียดเป็นหลักว่ามีอะไรใหม่ในบริการ Play, Play Store และการอัปเดตระบบ Play บนโทรศัพท์/แท็บเล็ต Android, Wear OS, Google/Android TV, Auto และพีซี คุณสมบัติบางอย่างมีผลกับผู้ใช้ปลายทาง ในขณะที่คุณสมบัติอื่นๆ มุ่งเป้าไปที่นักพัฒนา มากกว่า…"
+      "summary_th": "“ บันทึกประจำรุ่นของระบบ Google ” รายเดือนจะให้รายละเอียดเป็นหลักว่ามีอะไรใหม่ในบริการ Play, Play Store และการอัปเดตระบบ Play บนโทรศัพท์/แท็บเล็ต Android, Wear OS, Google/Android TV, Auto และพีซี คุณลักษณะบางอย่างมีผลกับผู้ใช้ปลายทาง ในขณะที่คุณลักษณะอื่นๆ มุ่งเป้าไปที่นักพัฒนา มากกว่า…"
     },
     {
       "source": "9to5Google",
@@ -503,7 +503,7 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/huawei-mate-xt2-1.webp?resize=1200,628",
       "link": "https://9to5google.com/2026/09/07/samsungs-privacy-display-and-trifold-merge-in-the-huawei-mate-xt2/",
       "published": "Mon, 07 Sep 2026 21:35:00 +0000",
-      "title_th": "Privacy Display ของ Samsung และ TriFold รวมอยู่ใน Huawei Mate XT2",
+      "title_th": "Samsung’s Privacy Display and TriFold merge in the Huawei Mate XT2",
       "summary_th": "Huawei ได้เปิดตัว Mate XT2 พับได้ใหม่ โดยมีการออกแบบสามพับที่ใช้คุณสมบัติ Privacy Display ของ Samsung จาก Galaxy S26 Ultra มากกว่า…"
     },
     {
@@ -515,8 +515,8 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/sony-wh1000xm4c-1.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/09/07/sony-wh-1000xm4c-launch-for-299-alongside-two-more-affordable-headphones/",
       "published": "Mon, 07 Sep 2026 21:15:00 +0000",
-      "title_th": "Sony WH-1000XM4C เปิดตัวในราคา 299 ดอลลาร์พร้อมกับหูฟังราคาไม่แพงอีกสองตัว",
-      "summary_th": "ตามข่าวลือ Sony กำลังฟื้นฟูหูฟัง WH-1000XM4 ด้วยการรีบูต WH-1000XM4C ใหม่ โดยนำสีใหม่บางส่วนมาสู่ตลาดที่ราคาไม่แพงมากเมื่อเทียบกับเรือธงของ บริษัท มากกว่า…"
+      "title_th": "Sony WH-1000XM4C launch for $299 alongside two more affordable headphones",
+      "summary_th": "As rumored, Sony is reviving its WH-1000XM4 headphones with a new WH-1000XM4C reboot, bringing some new colors to a much more affordable entry to the market compared to the company’s flagship. more…"
     },
     {
       "source": "9to5Google",
@@ -527,8 +527,8 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/03/google-messages-logo-circle-2.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/09/07/new-google-messages-features/",
       "published": "Mon, 07 Sep 2026 18:24:00 +0000",
-      "title_th": "ฟีเจอร์ใหม่ของ Google Messages ที่จะเปิดตัว [กันยายน 2026]",
-      "summary_th": "เช่นเดียวกับแอปอื่นๆ ของ Google Messages สำหรับ Android A/B ทดสอบคุณสมบัติหลายอย่าง ไคลเอ็นต์ RCS/SMS อาจใช้เวลานานพอสมควรในการเปิดใช้ฟังก์ชันการทำงานใหม่ในเวอร์ชันเสถียร จากรายงานต่างๆ ประกาศของ Google และอุปกรณ์ที่เราตรวจสอบ นี่คือสถานะปัจจุบันของ Messages มากกว่า…"
+      "title_th": "What new Google Messages features are rolling out [September 2026]",
+      "summary_th": "Like other Google apps, Messages for Android A/B tests many features. It can take the RCS/SMS client a rather long time to actually launch new functionality in stable. From various reports, Google announcements , and devices we’ve checked, this is the current state of Messages. more…"
     },
     {
       "source": "9to5Google",
@@ -539,8 +539,20 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Passport-and-Z-Fold-8-compared.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/09/07/annoyingly-the-galaxy-z-fold-8-is-the-best-advert-for-an-iphone-fold-yet/",
       "published": "Mon, 07 Sep 2026 17:00:00 +0000",
-      "title_th": "น่าแปลกที่ Galaxy Z Fold 8 เป็นโฆษณาที่ดีที่สุดสำหรับ iPhone Fold",
-      "summary_th": "Samsung เอาชนะ Apple อย่างดุเดือด แต่ฉันรำคาญที่ในความเป็นจริงแล้ว มันเป็นอุปกรณ์ที่ยอดเยี่ยม แต่มันจะช่วยหนุนยอดขาย iPhone Fold ที่มีข่าวลือมายาวนานเท่านั้น มากกว่า…"
+      "title_th": "Annoyingly, the Galaxy Z Fold 8 is the best advert for an iPhone Fold yet",
+      "summary_th": "Samsung has beaten Apple to the punch, but I’m annoyed that while it’s, in fact, a fantastic device, it’ll only help bolster the sales of the long-rumored iPhone Fold. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "XPeng starts IRON humanoid robot production as Tesla Optimus stalls",
+      "summary_en": "XPeng has switched on what it calls the world’s first automated production line for advanced humanoid robots, and its IRON robot walked off that line under its own power. The Chinese automaker says the line runs with more than 80% of its core processes automated. It’s the clearest signal yet that IRON is headed for real manufacturing and not just stage demos. XPeng is targeting mass production by the end of 2026. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/xpeng-iron-production-line.png?resize=1200,628",
+      "link": "https://electrek.co/2026/09/07/xpeng-iron-humanoid-robot-production-line/",
+      "published": "Tue, 08 Sep 2026 02:40:34 +0000",
+      "title_th": "XPeng เริ่มการผลิตหุ่นยนต์ฮิวแมนนอยด์ IRON ขณะที่แผงขาย Tesla Optimus",
+      "summary_th": "XPeng ได้เปิดสิ่งที่เรียกว่าสายการผลิตอัตโนมัติเครื่องแรกของโลกสำหรับหุ่นยนต์ฮิวแมนนอยด์ขั้นสูง และหุ่นยนต์ IRON ของมันก็เดินออกจากสายการผลิตนั้นด้วยพลังของมันเอง ผู้ผลิตรถยนต์สัญชาติจีนรายนี้กล่าวว่าสายการผลิตทำงานด้วยกระบวนการหลักมากกว่า 80% ที่เป็นอัตโนมัติ มันเป็นสัญญาณที่ชัดเจนที่สุดว่า IRON กำลังมุ่งหน้าไปสู่การผลิตจริง ไม่ใช่แค่การสาธิตบนเวทีเท่านั้น XPeng ตั้งเป้าการผลิตจำนวนมากภายในสิ้นปี 2569 อ่านเพิ่มเติม..."
     },
     {
       "source": "Electrek",
@@ -551,8 +563,8 @@
       "image": "https://electrek.co/wp-content/uploads/sites/3/2024/12/xtracycle-hopper-header-image.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://electrek.co/2026/09/07/this-family-of-four-put-1000-km-on-a-cargo-e-bike-instead-of-buying-a-second-car/",
       "published": "Mon, 07 Sep 2026 18:54:15 +0000",
-      "title_th": "ครอบครัวสี่คนนี้ใช้เวลา 1,000 กม. ด้วยจักรยานไฟฟ้าแบบบรรทุกสินค้า แทนที่จะซื้อรถคันที่สอง",
-      "summary_th": "ฉันทำงานในอุตสาหกรรมจักรยานไฟฟ้ามาเกือบสองทศวรรษแล้ว และรีวิว e-bikes ต่อสาธารณะมาประมาณครึ่งหนึ่งของจำนวนนั้น ฉันเคยบอกว่าฉันเคยสัมผัส e-bikes หลายร้อยคัน แต่ตอนนี้ฉันนับไม่ไหวแล้ว ฉันไม่แปลกใจเลยที่ต้องเพิ่มตัวเลขลงไป ด้วยอานม้ามากมายที่ฉันต้องนั่ง ฉันจึงได้ขี่จักรยานไฟฟ้าหลายคันเป็นเวลาสองสามสัปดาห์ แต่ฉันแทบจะไม่ได้ใช้เวลาหลายเดือนกับจักรยานคันใดเลย ดังนั้นเมื่อฉันรีวิวจักรยานบรรทุกสินค้าไฟฟ้า Xtracycle Hopper หนึ่งเดือนเสร็จ และมีโอกาสพิเศษสำหรับโครงการระยะยาว ฉันก็รีบลงมือทำเลย เพื่อนที่ดีที่สุดของฉันและภรรยาของเขามีลูกสองสามคนและเป็นครอบครัวที่เป็นมิตรกับจักรยาน ฉันจึงยื่นข้อเสนอให้เขา: เอาจักรยานคันนี้ไปขี่ให้มากที่สุดเท่าที่จะทำได้ ตอนนี้ หลังจากเดินทางได้ไกลถึง 1,000 กม. (620 ไมล์) แล้ว เขาจึงกลับมาแบ่งปัน"
+      "title_th": "This family of four put 1,000 km on a cargo e-bike instead of buying a second car",
+      "summary_th": "I’ve been working in the electric bike industry for nearly two decades, and publicly reviewing e-bikes for around half of that. I used to say I’ve touched hundreds of e-bikes, but now that I’ve lost count, I wouldn’t be surprised to find I need to add a digit to that. With so many saddles that I have to sit on, I get to ride a lot of e-bikes for a few weeks, but I rarely get to spend months on any one bike. So when I finished my one-month review of the Xtracycle Hopper electric cargo bike and had a unique opportunity for a longer-term project, I jumped on it. My best friend and his wife have a couple of kids and are a bike-friendly family, so I made him an offer: take this bike and ride it as much as you guys can. Now, having just hit 1,000 km (620 miles) on the thing, he’s back to share h"
     },
     {
       "source": "Electrek",
@@ -563,8 +575,8 @@
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/VNR-Electric-6x4-On-Port-1400.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://electrek.co/2026/09/07/port-authority-of-ny-and-nj-calstart-launch-45m-electric-truck-plan/",
       "published": "Mon, 07 Sep 2026 18:44:55 +0000",
-      "title_th": "การท่าเรือแห่งนิวยอร์กและนิวเจอร์ซี CALSTART เปิดตัวแผนรถบรรทุกไฟฟ้ามูลค่า 45 ล้านดอลลาร์",
-      "summary_th": "การท่าเรือแห่งนิวยอร์กและนิวเจอร์ซีย์กำลังทำงานร่วมกับ CALSTART องค์กรไม่แสวงผลกำไรด้านการขนส่งชั้นนำ เพื่อเปิดตัวโครงการจูงใจมูลค่า 45 ล้านดอลลาร์ เพื่อช่วยใช้พลังงานไฟฟ้าให้กับกลุ่มรถบรรทุกหนักของผู้ปฏิบัติงานในท่าเรือ มากกว่า…"
+      "title_th": "Port Authority of NY and NJ, CALSTART launch $45M electric truck plan",
+      "summary_th": "The Port Authority of New York and New Jersey is working with leading transportation nonprofit CALSTART to roll out a $45 million incentive program to help electrify the port’s operators’ heavy truck fleets. more…"
     },
     {
       "source": "Electrek",
@@ -575,7 +587,7 @@
       "image": "https://electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/",
       "published": "Mon, 07 Sep 2026 18:41:15 +0000",
-      "title_th": "รถยนต์ Tesla วิ่งฝ่าป้ายหยุดและมีผู้เสียชีวิต 1 ราย บันทึกยืนยันว่าระบบขับเคลื่อนอัตโนมัติ/ระบบขับเคลื่อนอัตโนมัติเปิดอยู่",
+      "title_th": "รถยนต์ Tesla วิ่งฝ่าป้ายหยุดและคร่าชีวิตชายคนหนึ่ง บันทึกยืนยันว่าระบบขับเคลื่อนอัตโนมัติ/ระบบขับเคลื่อนอัตโนมัติเต็มรูปแบบเปิดอยู่",
       "summary_th": "รถยนต์ Tesla Model 3 วิ่งไปตามป้ายหยุดในเมือง Buena Vista Township รัฐนิวเจอร์ซีย์ และชนรถยนต์ Honda Civic โดยเลี้ยวซ้ายผ่านทางแยก สตีเฟน ฟิลด์ วัย 82 ปี คนขับรถของเดอะซีวิค เสียชีวิต ตำรวจแจ้งว่าเป็นรถไม่สามารถหยุดได้ สิ่งที่ไม่มีใครรายงานก็คือข้อมูลของ Tesla ระบุว่าระบบช่วยเหลือผู้ขับขี่ของรถทำงานอยู่ นี่เป็นส่วนหนึ่งของการจับคู่การสืบสวนของ Electrek ที่กำลังดำเนินอยู่ซึ่งรายงานข้อขัดข้องกับข้อมูล NHTSA ที่แก้ไขแล้วของ Tesla มากกว่า…"
     },
     {
@@ -589,18 +601,6 @@
       "published": "Mon, 07 Sep 2026 18:24:50 +0000",
       "title_th": "Kia เปิดตัวรถยนต์ GT ไฟฟ้าใหม่สามรุ่น: พบกับ EV3 GT, EV4 GT และ EV5 GT",
       "summary_th": "Kia ขยายกลุ่มผลิตภัณฑ์ GT ไฟฟ้าด้วย EV3 GT, EV4 GT และ EV5 GT ซึ่งวางจำหน่ายแล้ว เกีย EV3..."
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Green Deals Labor Day – EcoFlow power station flash sale from $599, Hiboy EVs 47% off from $300, Autel 80A EV charger low, more",
-      "summary_en": "It’s the final day of Amazon’s Labor Day Sale event, as well as Best Buy’s Labor Day Sale , not to mention a bunch of other direct sales we’ve been featuring the last two weeks – with all the deals we’ve spotted rounded up together in our one-stop-shop Labor Day Green Deals hub here . For our Monday edition, we’ve got a fresh EcoFlow Labor Day flash sale with up to 33% savings on four units starting from $599 , as well as Hiboy’s full Labor Day EV Sale lineup that starts from $300 . There’s also the Autel MaxiCharger AC Pro 80A Level 2 EV Charger back at its $909 low , as well as the advanced carbon-fiber EGO 10-inch Pole Saw with an LED Indicator down at $339 . Like I said, for all the other deals we’ve spotted leading up to today, you can find those within the convenient Holiday Green De",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/EcoFlow-DELTA-3-Classic-Portable-Power-Station-5.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/07/labor-day-ecoflow-power-station-flash-sale-hiboy-evs-autel-80a-ev-charger-more/",
-      "published": "Mon, 07 Sep 2026 18:00:00 +0000",
-      "title_th": "วันแรงงานข้อเสนอสีเขียว – การขายแฟลชสถานีพลังงาน EcoFlow จาก $ 599, Hiboy EVs ลด 47% จาก $ 300, ที่ชาร์จ Autel 80A EV ต่ำ, มากขึ้น",
-      "summary_th": "วันนี้เป็นวันสุดท้ายของงานลดราคาวันแรงงานของ Amazon และงานลดราคาวันแรงงานของ Best Buy ไม่ต้องพูดถึงการขายตรงอื่นๆ ที่เรานำเสนอในช่วงสองสัปดาห์ที่ผ่านมา พร้อมข้อเสนอทั้งหมดที่เราพบมารวมกันในศูนย์รวมข้อเสนอสีเขียววันแรงงานแบบครบวงจรของเราที่นี่ สำหรับฉบับวันจันทร์ เรามีแฟลชเซล EcoFlow Labor Day ใหม่ล่าสุดพร้อมส่วนลดสูงสุดถึง 33% สำหรับสี่ยูนิตเริ่มต้นที่ $599 เช่นเดียวกับรายการสินค้าลดราคา Labor Day EV ทั้งหมดของ Hiboy ที่เริ่มต้นที่ $300 นอกจากนี้ยังมีที่ชาร์จ Autel MaxiCharger AC Pro 80A Level 2 EV ที่ราคาต่ำเพียง 909 ดอลลาร์ เช่นเดียวกับเครื่องเลื่อยเสา EGO ขนาด 10 นิ้วคาร์บอนไฟเบอร์ขั้นสูงพร้อมไฟ LED ในราคา 339 ดอลลาร์ อย่างที่ฉันบอกไป สำหรับดีลอื่นๆ ทั้งหมดที่เราเห็นจนถึงวันนี้ คุณจะพบข้อเสนอที่อยู่ใน Holiday Green De ที่สะดวกสบาย"
     }
   ],
   "indices": [
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 276.0,
-      "change": 20.0,
-      "change_pct": 7.81
+      "price": 274.0,
+      "change": -2.0,
+      "change_pct": -0.72
     }
   ],
   "reviews": [
@@ -701,6 +701,36 @@
       "title_th": "หุ่นยนต์กล้องที่ดุร้ายที่สุด"
     },
     {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "How do they get them So Light?",
+      "video_id": "ppH3kW0h_fc",
+      "link": "https://www.youtube.com/shorts/ppH3kW0h_fc",
+      "thumbnail": "https://i1.ytimg.com/vi/ppH3kW0h_fc/hqdefault.jpg",
+      "published": "2026-09-03T21:00:32+00:00",
+      "title_th": "พวกเขาได้รับ So Light ได้อย่างไร?"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "LG’s New Budget Laptop...",
+      "video_id": "3DVKs1wFoFw",
+      "link": "https://www.youtube.com/watch?v=3DVKs1wFoFw",
+      "thumbnail": "https://i4.ytimg.com/vi/3DVKs1wFoFw/hqdefault.jpg",
+      "published": "2026-09-03T16:58:33+00:00",
+      "title_th": "แล็ปท็อปราคาประหยัดรุ่นใหม่ของ LG..."
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "This New Phone Has a Subwoofer...",
+      "video_id": "TLl027cYgY4",
+      "link": "https://www.youtube.com/watch?v=TLl027cYgY4",
+      "thumbnail": "https://i1.ytimg.com/vi/TLl027cYgY4/hqdefault.jpg",
+      "published": "2026-09-01T15:39:42+00:00",
+      "title_th": "โทรศัพท์รุ่นใหม่นี้มีซับวูฟเฟอร์..."
+    },
+    {
       "channel": "Beartai",
       "country": "TH",
       "title_en": "อุปกรณ์ฟื้นฟูกล้ามเนื้อ ตัวช่วยสายออกกำลัง",
@@ -729,6 +759,36 @@
       "thumbnail": "https://i1.ytimg.com/vi/TRVdRi5_8Ug/hqdefault.jpg",
       "published": "2026-09-06T23:00:33+00:00",
       "title_th": "อยากเห็นโลกด้วยตาตัวเอง"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รีวิว ASUS V700 Mini Tower คอมตั้งโต๊ะ ดีไซน์มินิมอล | AI จัดเต็ม Copilot+ PC ขุมพลัง Ryzen AI 5",
+      "video_id": "2-vnPL5cmrs",
+      "link": "https://www.youtube.com/watch?v=2-vnPL5cmrs",
+      "thumbnail": "https://i3.ytimg.com/vi/2-vnPL5cmrs/hqdefault.jpg",
+      "published": "2026-09-07T12:00:23+00:00",
+      "title_th": "รีวิว ASUS V700 Mini Tower คอมตั้งโต๊ะ ดีไซน์มินิมอล | AI จัดเต็ม Copilot+ PC ขุมพลัง Ryzen AI 5"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "🔴  ยิ้มรับ iPhone 18 Pro | 18 Pro Max และ iPhone Ultra มือถือจับพับรุ่นแรกจาก Apple ไปพร้อมกัน",
+      "video_id": "N4X-pnnW3A0",
+      "link": "https://www.youtube.com/watch?v=N4X-pnnW3A0",
+      "thumbnail": "https://i3.ytimg.com/vi/N4X-pnnW3A0/hqdefault.jpg",
+      "published": "2026-09-06T11:32:13+00:00",
+      "title_th": "🔴  ยิ้มรับ iPhone 18 Pro | 18 Pro Max และ iPhone Ultra มือถือจับพับรุ่นแรกจาก Apple ไปพร้อมกัน"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "Google เอาจริง ! \"บล็อกการติดตั้งแอป\" นอก Store กระทบผู้ใช้แค่ไหน ? | สัมภาษณ์พิเศษ Google",
+      "video_id": "tJw6RmQ4Xi4",
+      "link": "https://www.youtube.com/watch?v=tJw6RmQ4Xi4",
+      "thumbnail": "https://i1.ytimg.com/vi/tJw6RmQ4Xi4/hqdefault.jpg",
+      "published": "2026-09-06T09:00:28+00:00",
+      "title_th": "Google เอาจริง ! \"บล็อกการติดตั้งแอป\" นอก Store กระทบผู้ใช้แค่ไหน ? | สัมภาษณ์พิเศษ Google"
     }
   ]
 }
