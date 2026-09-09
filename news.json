@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-09-09T01:46:09.310356+00:00",
+  "generated_at": "2026-09-09T07:38:41.595405+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
+      "summary_en": "Fusionality is developing control systems and simulation environments to help fusion power startups move faster.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Fusionality_Founders_3.jpeg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
+      "published": "Wed, 09 Sep 2026 06:00:00 +0000",
+      "title_th": "ศิษย์เก่า Google DeepMind กำลังสร้างเครื่องมือเพื่อเร่งพลังฟิวชั่นสำหรับโครงข่ายไฟฟ้า",
+      "summary_th": "Fusionality กำลังพัฒนาระบบควบคุมและสภาพแวดล้อมการจำลองเพื่อช่วยให้สตาร์ทอัพพลังงานฟิวชันดำเนินไปได้เร็วขึ้น"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
+      "summary_en": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Theo-Saville-CloudNC.jpg?resize=1200,675",
+      "link": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+      "published": "Wed, 09 Sep 2026 04:01:00 +0000",
+      "title_th": "CloudNC ระดมทุน 20 ล้านเหรียญสหรัฐเพื่อทำให้ปัญหาคอขวดที่เร่งด่วนที่สุดของการผลิตเป็นไปโดยอัตโนมัติ",
+      "summary_th": "CloudNC บริษัทสตาร์ทอัพซอฟต์แวร์ด้านการผลิตในสหราชอาณาจักรประกาศขยายเวลา B มูลค่า 20 ล้านดอลลาร์เมื่อวันพุธ ทำให้ยอดรวมตลอดอายุการใช้งานเพิ่มขึ้นเป็น 128 ล้านดอลลาร์"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -11,8 +35,8 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286058347.jpg?w=1024",
       "link": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
       "published": "Tue, 08 Sep 2026 23:23:23 +0000",
-      "title_th": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
-      "summary_th": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\""
+      "title_th": "ทำเนียบขาวล้มเกม \"Build the Wall\" หลังบริษัท Tetris บ่น",
+      "summary_th": "ตอนนี้ไม่พบเกมอาร์เคดอายุสั้นของฝ่ายบริหารของทรัมป์แล้ว หลังจากที่บริษัท Tetris โพสต์ว่า \"การละเมิดลิขสิทธิ์เป็นเรื่องร้ายแรงมาก\""
     },
     {
       "source": "TechCrunch",
@@ -23,7 +47,7 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
       "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
       "published": "Tue, 08 Sep 2026 21:10:27 +0000",
-      "title_th": "Hackers are stealing Claude tokens from subscribers",
+      "title_th": "แฮกเกอร์กำลังขโมยโทเค็นของ Claude จากสมาชิก",
       "summary_th": "เมื่อเดือนที่แล้ว ผู้ใช้ Claude สังเกตเห็นว่าบัญชีของเขาใช้โทเค็นแม้ว่าเขาจะไม่ได้ทำงานก็ตาม ตั้งแต่นั้นมา Anthropic ได้เตือนผู้ใช้เกี่ยวกับแฮกเกอร์"
     },
     {
@@ -36,31 +60,19 @@
       "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
       "published": "Tue, 08 Sep 2026 21:04:06 +0000",
       "title_th": "Cognition มีมูลค่าถึง 48 พันล้านดอลลาร์ ส่งสัญญาณให้นักลงทุนเชื่อว่าการเข้ารหัส AI ยังห่างไกลจากตลาดที่ชนะได้ทุกอย่าง",
-      "summary_th": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX."
+      "summary_th": "การประเมินมูลค่าของ Cognition สูงกว่าของ Cursor ก่อนที่จะขายให้กับ SpaceX"
     },
     {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "The Exploration Company nabs $450 million to challenge SpaceX",
-      "summary_en": "The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1794387622.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
-      "published": "Tue, 08 Sep 2026 20:47:34 +0000",
-      "title_th": "The Exploration Company nabs $450 million to challenge SpaceX",
-      "summary_th": "The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”"
-    },
-    {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
       "category": "gadget",
-      "title_en": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "summary_en": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Muse-Neswsroom-Banner.jpg?resize=1200,675",
-      "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "published": "Tue, 08 Sep 2026 19:00:00 +0000",
-      "title_th": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "summary_th": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data."
+      "title_en": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000",
+      "summary_en": "With only a few hours left until the first iPhone launch event since John Ternus took over as the CEO of Apple, Bloomberg reporter Mark Gurman says the name of the company's long-rumored folding phone is the iPhone Duo. The midnight report suggests it will have a price starting at $2,000 for a model with […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK071_APPLE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable",
+      "published": "2026-09-09T01:26:53-04:00",
+      "title_th": "มีรายงานว่า 'iPhone Duo' แบบพับได้ของ Apple จะมีราคาเริ่มต้นที่ 2,000 ดอลลาร์",
+      "summary_th": "เหลือเวลาอีกเพียงไม่กี่ชั่วโมงก่อนงานเปิดตัว iPhone ครั้งแรกนับตั้งแต่ John Ternus เข้ามารับตำแหน่ง CEO ของ Apple Mark Gurman นักข่าวของ Bloomberg กล่าวว่าชื่อของโทรศัพท์แบบพับได้ที่มีข่าวลือมายาวนานของบริษัทคือ iPhone Duo รายงานเที่ยงคืนแนะนำว่าจะมีราคาเริ่มต้นที่ 2,000 ดอลลาร์สำหรับรุ่นที่มี […]"
     },
     {
       "source": "The Verge",
@@ -71,8 +83,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717617/247361_PS5_Pro_VPavic_224.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
       "link": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
       "published": "2026-09-08T17:52:13-04:00",
-      "title_th": "Sony isn’t phasing out discs quite as quickly as we thought",
-      "summary_th": "Sony isn't backing away from its decision to kill the video game disc in January 2028. But Sony isn't shutting down production as quickly as we thought, either. Two months after reports that Sony's last discmaking plant was already being repurposed, the company's discmaking division now says that one widely reported detail was wrong. Originally, […]"
+      "title_th": "Sony ไม่ได้เลิกจำหน่ายแผ่นดิสก์เร็วเท่าที่เราคิด",
+      "summary_th": "Sony ไม่ได้ถอยห่างจากการตัดสินใจยุติการผลิตแผ่นวิดีโอเกมในเดือนมกราคม 2571 แต่ Sony ก็ไม่ได้ปิดการผลิตเร็วอย่างที่เราคิดเช่นกัน สองเดือนหลังจากรายงานว่าโรงงานผลิตแผ่นดิสก์แห่งสุดท้ายของ Sony ได้ถูกนำมาใช้ใหม่แล้ว แผนกผลิตแผ่นดิสก์ของบริษัทได้แจ้งว่ามีรายละเอียดที่มีการรายงานอย่างกว้างขวางแห่งหนึ่งไม่ถูกต้อง เดิมที […]"
     },
     {
       "source": "The Verge",
@@ -83,7 +95,7 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25844039/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
       "published": "2026-09-08T16:53:52-04:00",
-      "title_th": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "title_th": "ดราม่าหมุนวนไปรอบเหตุการณ์สำคัญทางคณิตศาสตร์ในตำนานของ OpenAI",
       "summary_th": "OpenAI กล่าวว่าพบวิธีแก้ปัญหาทางคณิตศาสตร์ที่สำคัญซึ่งยังคงไม่มีใครแก้ไขได้เป็นเวลาประมาณ 90 ปี ตามที่รายงานโดย The New York Times และ Wired ก่อนหน้านี้ ในบล็อกโพสต์เมื่อวันอังคาร OpenAI ประกาศว่าได้ค้นพบวิธีแก้ไขปัญหา Navier-Stokes ซึ่งเกี่ยวข้องกับการไหลของของเหลวและ […]"
     },
     {
@@ -109,18 +121,6 @@
       "published": "2026-09-08T16:39:49-04:00",
       "title_th": "ชุดหูฟังสำหรับเล่นเกมที่ติดตั้ง ANC ของ Razer สำหรับ PS5 และ Xbox ลดราคาเกือบ 100 ดอลลาร์",
       "summary_th": "เป็นเรื่องยากที่จะพบคุณสมบัติระดับไฮเอนด์ เช่น การตัดเสียงรบกวนแบบแอคทีฟในชุดหูฟังสำหรับเล่นเกมราคาต่ำกว่า 200 ดอลลาร์ ดังนั้นเราจึงรู้สึกตื่นเต้นที่ Razer BlackShark V3 Pro จำหน่ายที่ Woot ในราคา 164.99 ดอลลาร์ มีบางรุ่นที่วางตลาดบน Xbox และ PlayStation แต่เวอร์ชัน Xbox เป็นตัวเลือกที่ดีที่สุดเพราะรองรับ PlayStation, PC, Nintendo […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-      "summary_en": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-      "published": "2026-09-08T16:16:09-04:00",
-      "title_th": "ChatGPT Sketch เปลี่ยนภาพวาดที่ไม่ดีของคุณให้กลายเป็นภาพ AI ที่มีรายละเอียด",
-      "summary_th": "OpenAI ประกาศ ChatGPT Images 2.5 เมื่อวันอังคาร และกำลังเพิ่มวิธีใหม่ในการบอก ChatGPT ว่าคุณต้องการให้สร้างภาพอะไร โดยการวาดภาพดูเดิล ด้วยฟีเจอร์ใหม่ที่เรียกว่า Sketch คุณสามารถวาดบางสิ่งลงใน ChatGPT แล้วบอก ChatGPT ว่าคุณอยากให้มันสร้างภาพอย่างไร […]"
     },
     {
       "source": "Ars Technica",
@@ -186,12 +186,48 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
+      "title_en": "Valvoline Coupons and Promo Codes for September 2026",
+      "summary_en": "We've gathered all the top Valvoline coupons and promo codes for September 2026, including deals on full synthetic oil changes and other essential maintenance.",
+      "image": "https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png",
+      "link": "https://www.wired.com/story/valvoline-coupons/",
+      "published": "Wed, 09 Sep 2026 05:00:00 +0000",
+      "title_th": "คูปองและรหัสส่งเสริมการขาย Valvoline สำหรับเดือนกันยายน 2569",
+      "summary_th": "เราได้รวบรวมคูปอง Valvoline และรหัสโปรโมชันยอดนิยมทั้งหมดสำหรับเดือนกันยายน 2026 รวมถึงข้อเสนอเกี่ยวกับการเปลี่ยนถ่ายน้ำมันเครื่องสังเคราะห์แท้และการบำรุงรักษาที่จำเป็นอื่นๆ"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "review",
+      "title_en": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
+      "summary_en": "Save over 25% when you opt for H&R Block’s free online offering, plus a tax pro review.",
+      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
+      "link": "https://www.wired.com/story/hr-block-coupon/",
+      "published": "Wed, 09 Sep 2026 05:00:00 +0000",
+      "title_th": "คูปองบล็อก H&R: ลด 25% DIY + Tax Pro Assist",
+      "summary_th": "ประหยัดมากกว่า 25% เมื่อคุณเลือกรับข้อเสนอออนไลน์ฟรีของ H&R Block พร้อมการตรวจสอบภาษีโปร"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Sony Coupons: 45% Off Sony Headphones and Sony Cameras September 2026",
+      "summary_en": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.",
+      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
+      "link": "https://www.wired.com/story/sony-promo-code/",
+      "published": "Wed, 09 Sep 2026 05:00:00 +0000",
+      "title_th": "Sony Coupons: 45% Off Sony Headphones and Sony Cameras September 2026",
+      "summary_th": "อัปเกรดการตั้งค่าของคุณด้วยผลิตภัณฑ์ใหม่ล่าสุดจาก Sony ประหยัดกับระบบเสียงตัดเสียงรบกวนชั้นนำของอุตสาหกรรม และกล้อง Alpha ระดับมืออาชีพ"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
       "title_en": "Cockroach Milk, How to Blow Your Nose, and Mosquito Printers: The Ig Nobels of 2026",
       "summary_en": "Every year, the prizes recognize the weirdest research that often raises some very serious scientific questions.",
       "image": "https://media.wired.com/photos/6aa056924ee73bc2e37a3111/master/pass/2292854766",
       "link": "https://www.wired.com/story/cockroach-milk-mosquito-printers-ig-nobels-of-2026/",
       "published": "Tue, 08 Sep 2026 21:15:00 +0000",
-      "title_th": "นมแมลงสาบ วิธีสั่งน้ำมูก และเครื่องพิมพ์ยุง: รางวัลโนเบลแห่งปี 2026",
+      "title_th": "Cockroach Milk, How to Blow Your Nose, and Mosquito Printers: The Ig Nobels of 2026",
       "summary_th": "ทุกปี รางวัลจะเชิดชูงานวิจัยที่แปลกประหลาดที่สุดซึ่งมักก่อให้เกิดคำถามทางวิทยาศาสตร์ที่จริงจังมาก"
     },
     {
@@ -207,40 +243,16 @@
       "summary_th": "ออกแบบมาเพื่อแข่งขันกับ OpenClaw และ Instinct บริษัทกล่าวว่า Muse สามารถทำทุกอย่างตั้งแต่การขายรถไปจนถึงการจองตั๋วเครื่องบินให้คุณ"
     },
     {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
       "category": "ai",
-      "title_en": "Apple and Google Miss Deadline to Block Child Nudity on Their Phones in the UK",
-      "summary_en": "Now the UK government plans to introduce new legislation that would see companies face fines and potential criminal liability, and signaled similar plans could extend to Snapchat and Instagram.",
-      "image": "https://media.wired.com/photos/6aa03e5ade01d165fd766963/master/pass/UK-Gave-Apple-Google-Three-Months-To-Block-Child-Nudity-Business-961092282.jpg",
-      "link": "https://www.wired.com/story/apple-and-google-miss-deadline-to-block-child-nudity-on-their-phones-in-the-uk/",
-      "published": "Tue, 08 Sep 2026 18:13:26 +0000",
-      "title_th": "Apple และ Google Miss Deadline ที่จะบล็อกภาพเปลือยของเด็กบนโทรศัพท์ในสหราชอาณาจักร",
-      "summary_th": "ขณะนี้รัฐบาลสหราชอาณาจักรวางแผนที่จะแนะนำกฎหมายใหม่ที่จะทำให้บริษัทต่างๆ ต้องเผชิญกับค่าปรับและความรับผิดทางอาญา และส่งสัญญาณว่าแผนที่คล้ายกันอาจขยายไปยัง Snapchat และ Instagram"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
-      "summary_en": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
-      "image": "https://media.wired.com/photos/6aa02435e4af4176b7305e6a/master/pass/OpenAI-Antrophic-MathProblem.jpg",
-      "link": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
-      "published": "Tue, 08 Sep 2026 16:42:05 +0000",
-      "title_th": "OpenAI เพิ่งอ้างสิทธิ์ในการค้นพบทางคณิตศาสตร์ครั้งใหญ่ นักวิชาการบางคนกำลังร้องไห้เหม็น",
-      "summary_th": "ประกาศสำคัญโดยห้องปฏิบัติการ AI ชายแดนถูกบดบังด้วยการกล่าวหาว่าไม่เหมาะสม"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Here’s Samsung’s Advice for Apple and Its Upcoming Folding iPhone",
-      "summary_en": "The competition is “absolutely welcome” by the pioneering Korean giant, but Samsung warns that the device’s “weight” is crucial.",
-      "image": "https://media.wired.com/photos/6a9a9f34f91d7f394a999078/master/pass/DSC_9107.jpg",
-      "link": "https://www.wired.com/story/samsung-advice-for-apple-and-its-upcoming-folding-iphone/",
-      "published": "Tue, 08 Sep 2026 16:00:00 +0000",
-      "title_th": "นี่คือคำแนะนำของ Samsung สำหรับ Apple และ iPhone แบบพับได้ที่กำลังจะมีขึ้น",
-      "summary_th": "การแข่งขันได้รับการ \"ต้อนรับอย่างแน่นอน\" จากยักษ์ใหญ่เกาหลีผู้บุกเบิก แต่ Samsung เตือนว่า \"น้ำหนัก\" ของอุปกรณ์เป็นสิ่งสำคัญ"
+      "title_en": "What OpenAI’s latest controversy tells us about the future of math",
+      "summary_en": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/math-2c.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "published": "Wed, 09 Sep 2026 03:10:08 +0000",
+      "title_th": "ข้อโต้แย้งล่าสุดของ OpenAI บอกเราเกี่ยวกับอนาคตของคณิตศาสตร์อย่างไร",
+      "summary_th": "เหตุการณ์สำคัญทางคณิตศาสตร์ล่าสุดของ OpenAI กลายเป็นประเด็นถกเถียงอย่างรวดเร็ว วันนี้ บริษัทประกาศว่าตัวแทนของตนได้แก้ไขปัญหาหนึ่งในรางวัลแห่งสหัสวรรษ ซึ่งเป็นปัญหาเปิดที่สำคัญที่สุดบางข้อในวิชาคณิตศาสตร์ ภายใต้สถานการณ์ปกติ วิธีแก้ปัญหาดังกล่าวจะถือเป็นขนนกขนาดใหญ่ใน OpenAI แต่การประกาศดังกล่าวกลับถูกบดบังด้วยข้อกล่าวหา..."
     },
     {
       "source": "MIT Technology Review",
@@ -291,16 +303,28 @@
       "summary_th": "อุตสาหกรรมเหล็กไม่เป็นที่รู้จักในด้านนวัตกรรมอย่างแน่นอน มีการเปลี่ยนแปลงน้อยมากเกี่ยวกับการทำให้แร่เหล็กบริสุทธิ์นับตั้งแต่กระบวนการนี้ถูกประดิษฐ์ขึ้นและจำหน่ายในเชิงพาณิชย์ในช่วงทศวรรษที่ 1850 ผู้ผลิตเหล็กส่วนใหญ่ละลายแร่เหล็กแข็งที่อุณหภูมิสูงจนน่าเวียนหัวภายในเตาถลุงเหล็ก ซึ่งวัสดุจะทำปฏิกิริยากับก๊าซเพื่อกระตุ้นให้เกิดปฏิกิริยาเคมีที่ดึงออกซิเจนออกไป มัน…"
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "This geneticist’s age-reversal tech could help restore sight",
-      "summary_en": "Yuancheng (Ryan) Lu is obsessed with aging. And with eyes. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the sun. Age-related blindness runs in his family. A great-aunt in China, the story goes, was killed crossing a road because she couldn’t see oncoming traffic. And Lu’s own…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/733-MITtech-Ryan-RTF-0318.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/",
-      "published": "Tue, 08 Sep 2026 10:32:00 +0000",
-      "title_th": "เทคโนโลยีการพลิกกลับอายุของนักพันธุศาสตร์คนนี้สามารถช่วยฟื้นฟูการมองเห็นได้",
-      "summary_th": "หยวนเฉิง (ไรอัน) หลู่หมกมุ่นอยู่กับความชรา และด้วยสายตา ขณะที่เขาก้าวออกไปนอกสถาบันไวท์เฮดในเคมบริดจ์ รัฐแมสซาชูเซตส์ แว่นตานักบินของเขาจะปรับให้มืดลงโดยอัตโนมัติเมื่อโดนแสงแดด อาการตาบอดที่เกี่ยวข้องกับอายุเกิดขึ้นในครอบครัวของเขา เรื่องราวเล่าว่าป้าทวดคนหนึ่งในประเทศจีนถูกฆ่าตายขณะข้ามถนนเพราะเธอมองไม่เห็นการจราจรที่สวนทางมา และของลูเอง…"
+      "category": "gadget",
+      "title_en": "How to watch Apple unveil the new iPhones on September 9",
+      "summary_en": "New Apple CEO John Ternus will be revealing new iPhone and Apple Watch models this week.",
+      "image": "https://www.engadget.com/img/gallery/how-to-watch-apple-unveil-the-new-iphones-on-september-9/l-intro-1788872448.jpg",
+      "link": "https://www.engadget.com/2252525/how-to-watch-apple-event-september-9-2026/",
+      "published": "Wed, 09 Sep 2026 01:00:00 +0000",
+      "title_th": "วิธีดู Apple เปิดตัว iPhone ใหม่ในวันที่ 9 กันยายน",
+      "summary_th": "John Ternus CEO คนใหม่ของ Apple จะเปิดเผย iPhone และ Apple Watch รุ่นใหม่ในสัปดาห์นี้"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "What are the major changes coming to Apple HomeKit in iOS 27?",
+      "summary_en": "iOS 27 isn't leaving out HomeKit and the Home app in its list of AI revamps and improvements.",
+      "image": "https://www.engadget.com/img/gallery/what-are-the-major-changes-coming-to-apple-homekit-in-ios-27/l-intro-1788792476.jpg",
+      "link": "https://www.engadget.com/2252811/major-changes-coming-apple-homekit-ios-27/",
+      "published": "Wed, 09 Sep 2026 00:00:00 +0000",
+      "title_th": "การเปลี่ยนแปลงสำคัญที่จะเกิดขึ้นกับ Apple HomeKit ใน iOS 27 มีอะไรบ้าง",
+      "summary_th": "iOS 27 จะไม่ละทิ้ง HomeKit และแอพ Home ในรายการการปรับปรุงและปรับปรุง AI"
     },
     {
       "source": "Engadget",
@@ -337,30 +361,6 @@
       "published": "Tue, 08 Sep 2026 22:11:24 +0000",
       "title_th": "เกิดอะไรขึ้นกับข้อโต้แย้งของ OpenAI และ Navier-Stokes",
       "summary_th": "ปัญญาประดิษฐ์ช่วยแก้ปัญหาทางคณิตศาสตร์ที่สำคัญได้ แต่เครดิตสำหรับความสำเร็จนี้ยังไม่ชัดเจน"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "How to use the AI Clean Up tool in iOS 27 to remove unwanted objects in iPhone Photos",
-      "summary_en": "Clean Up has been a handy tool for removing unwanted elements from photos since iOS 18, but iOS 27 upgrades it even further.",
-      "image": "https://www.engadget.com/img/gallery/how-to-use-the-ai-clean-up-tool-in-ios-27-to-remove-unwanted-objects-in-iphone-photos/l-intro-1788794561.jpg",
-      "link": "https://www.engadget.com/2252838/how-to-use-ios-27-ai-clean-up-tool-iphone-photos/",
-      "published": "Tue, 08 Sep 2026 22:00:00 +0000",
-      "title_th": "วิธีใช้เครื่องมือ AI Clean Up ใน iOS 27 เพื่อลบวัตถุที่ไม่ต้องการใน iPhone Photos",
-      "summary_th": "Clean Up เป็นเครื่องมือที่มีประโยชน์ในการลบองค์ประกอบที่ไม่ต้องการออกจากรูปภาพตั้งแต่ iOS 18 แต่ iOS 27 จะอัปเกรดให้ดียิ่งขึ้นไปอีก"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "What is Roku's secret menu and how do you unlock it?",
-      "summary_en": "Roku has multiple secret menus that will allow you to make changes to how it behaves and even adjust your ad preferences.",
-      "image": "https://www.engadget.com/img/gallery/what-is-rokus-secret-menu-and-how-do-you-unlock-it/l-intro-1788528910.jpg",
-      "link": "https://www.engadget.com/2251017/roku-secret-menu-how-to-unlock/",
-      "published": "Tue, 08 Sep 2026 20:00:00 +0000",
-      "title_th": "เมนูลับของ Roku คืออะไร และคุณจะปลดล็อคได้อย่างไร?",
-      "summary_th": "Roku มีเมนูลับมากมายที่จะช่วยให้คุณเปลี่ยนแปลงลักษณะการทำงานและแม้แต่ปรับการตั้งค่าโฆษณาของคุณได้"
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,30 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "iPhone Duo: Apple’s new foldable reportedly not named Ultra, plus price, colors, more",
+      "summary_en": "Apple is officially set to unveil its first foldable iPhone in a few hours. On the eve of the event, Mark Gurman at Bloomberg has reported some last-minute details, including a spoiler for the foldable iPhone’s actual name: iPhone Duo. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Will-the-iPhone-Ultra-avoid-the-issue-that-can-still-kill-Samsung-foldables.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/08/iphone-duo-apples-new-foldable-reportedly-not-named-ultra-plus-price-colors-more/",
+      "published": "Wed, 09 Sep 2026 04:43:16 +0000",
+      "title_th": "iPhone Duo: มีรายงานว่า Apple แบบพับได้รุ่นใหม่ไม่มีชื่อว่า Ultra รวมถึงราคา สี และอื่นๆ อีกมากมาย",
+      "summary_th": "Apple เตรียมเปิดตัว iPhone แบบพับได้เครื่องแรกอย่างเป็นทางการภายในไม่กี่ชั่วโมง ก่อนงาน Mark Gurman จาก Bloomberg ได้รายงานรายละเอียดในนาทีสุดท้าย ซึ่งรวมถึงสปอยเลอร์สำหรับชื่อจริงของ iPhone แบบพับได้: iPhone Duo มากกว่า…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "iPhone Ultra is coming, here’s what the final rumors say",
+      "summary_en": "Apple is expected to announce its first-ever foldable iPhone tomorrow, which rumors say could be called the iPhone Ultra. Here are some last-minute rumors about what to expect. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/08/iphone-ultra-is-coming-heres-what-the-final-rumors-are-saying/",
+      "published": "Wed, 09 Sep 2026 02:15:37 +0000",
+      "title_th": "iPhone Ultra กำลังมา นี่คือสิ่งที่ข่าวลือสุดท้ายกล่าว",
+      "summary_th": "คาดว่า Apple จะเปิดตัว iPhone แบบพับได้เครื่องแรกในวันพรุ่งนี้ ซึ่งมีข่าวลือว่าอาจเรียกว่า iPhone Ultra ต่อไปนี้เป็นข่าวลือในนาทีสุดท้ายเกี่ยวกับสิ่งที่คาดหวัง มากกว่า…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Crime thriller ‘Last Seen’ premieres on Apple TV",
       "summary_en": "Apple TV subscribers can now watch the first two episodes of “ Last Seen ,” an Australian kidnapping drama starring Patrick Brammall ( Glitch ). Watch the trailer below. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/last-seen-Patrick-Brammall.jpg?quality=82&strip=all&resize=1200,628",
@@ -457,30 +481,6 @@
       "published": "Wed, 09 Sep 2026 00:25:34 +0000",
       "title_th": "9to5Mac Daily: 8 กันยายน 2026 – ข่าวลือ HomePod, การเปลี่ยนแปลง App Store",
       "summary_th": "ฟังสรุปเรื่องเด่นประจำวันจาก 9to5Mac 9to5Mac Daily มีให้บริการบน iTunes และแอป Podcasts ของ Apple , Stitcher , TuneIn , Google Play หรือผ่านทางฟีด RSS เฉพาะของเราสำหรับ Overcast และเครื่องเล่นพอดแคสต์อื่นๆ สนับสนุนโดย Stuff :Stuff ช่วยให้คุณดึงทุกสิ่งทุกอย่างออกจากหัวและเข้าสู่ระบบที่เรียบง่ายและสง่างาม—ปิดลูปแบบเปิดและลดความเครียดทางจิต รายการสิ่งที่ต้องทำง่ายๆ สำหรับ iPhone, iPad และ Mac พร้อมด้วยเครื่องมืออันทรงพลังที่ทำให้การจัดระเบียบ ติดตาม และการตรวจสอบงานของคุณน่าพึงพอใจยิ่งขึ้น ทำสิ่งต่าง ๆ ให้เสร็จ สนับสนุนโดย iMazing : แพลตฟอร์มของ iMazing สำหรับการถ่ายโอนข้อมูลและการจัดการอุปกรณ์ดีขึ้นเรื่อยๆ รับส่วนลด 20% สำหรับ iMazing ด้วยโค้ด 9TO5-SEP26-20OFF มากกว่า…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple adds 37 hardware identifiers ahead of ‘Surprise and Shine’ event",
-      "summary_en": "Apple has added new hardware identifiers for iPhones, iPads, Macs, and other devices, some of which could be announced as soon as tomorrow at its “Surprise and Shine” event. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-event-logo-surprise-shine-september-9-small.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/08/apple-adds-37-hardware-identifiers-ahead-of-surprise-and-shine-event/",
-      "published": "Tue, 08 Sep 2026 23:27:28 +0000",
-      "title_th": "Apple เพิ่มตัวระบุฮาร์ดแวร์ 37 ตัวก่อนงาน 'Surprise and Shine'",
-      "summary_th": "Apple ได้เพิ่มตัวระบุฮาร์ดแวร์ใหม่สำหรับ iPhone, iPad, Mac และอุปกรณ์อื่นๆ ซึ่งบางส่วนสามารถประกาศได้ในวันพรุ่งนี้ที่งาน \"Surprise and Shine\" นี่คือรายละเอียด มากกว่า…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple faces new UK rules over nude images on children’s iPhones",
-      "summary_en": "Bloomberg reports that the UK intends to introduce legislation that would require Apple and Google to “stop children from taking, sharing or viewing nude images on their phones and tablets.” Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/camera-app-icon-fi-highres.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/08/apple-faces-new-uk-rules-over-nude-images-on-childrens-iphones/",
-      "published": "Tue, 08 Sep 2026 21:20:19 +0000",
-      "title_th": "Apple เผชิญกับกฎใหม่ของสหราชอาณาจักรเกี่ยวกับภาพเปลือยบน iPhone สำหรับเด็ก",
-      "summary_th": "Bloomberg รายงานว่าสหราชอาณาจักรตั้งใจที่จะเปิดตัวกฎหมายที่กำหนดให้ Apple และ Google “หยุดไม่ให้เด็กๆ ถ่าย แบ่งปัน หรือดูภาพเปลือยบนโทรศัพท์และแท็บเล็ตของพวกเขา” นี่คือรายละเอียด มากกว่า…"
     },
     {
       "source": "9to5Google",
@@ -551,8 +551,8 @@
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Kia-EV3-GT-EV4-GT-EV5-GT.jpeg?quality=82&strip=all&resize=1200,628",
       "link": "https://electrek.co/2026/09/08/kia-launches-three-new-gt-evs-hot-hatch-suvs/",
       "published": "Tue, 08 Sep 2026 21:41:42 +0000",
-      "title_th": "Kia เปิดตัว GT EV ใหม่ 3 รุ่น รวมถึงรถฮอตแฮทช์ไฟฟ้า และ SUV 2 รุ่น [ภาพ]",
-      "summary_th": "Kia มอบรถยนต์ไฟฟ้าใหม่สามรุ่น ได้แก่ EV3, EV4 และ EV5 ซึ่งเป็นรุ่น GT เกีย EV3 GT, EV4..."
+      "title_th": "Kia launches three new GT EVs, including an electric hot hatch and two SUVs [Images]",
+      "summary_th": "Kia gave three of its new electric vehicles, the EV3, EV4, and EV5, the GT treatment. Kia EV3 GT, EV4..."
     },
     {
       "source": "Electrek",
@@ -665,8 +665,8 @@
       "name": "Delta Electronics",
       "market": "TH",
       "price": 275.0,
-      "change": -1.0,
-      "change_pct": -0.36
+      "change": 0.0,
+      "change_pct": 0.0
     }
   ],
   "reviews": [
@@ -733,6 +733,16 @@
     {
       "channel": "Beartai",
       "country": "TH",
+      "title_en": "เจาะมุมที่แอปเปิลไม่บอกใน iPhone จอพับ",
+      "video_id": "CLWv2vETpHo",
+      "link": "https://www.youtube.com/watch?v=CLWv2vETpHo",
+      "thumbnail": "https://i4.ytimg.com/vi/CLWv2vETpHo/hqdefault.jpg",
+      "published": "2026-09-09T05:11:55+00:00",
+      "title_th": "เจาะมุมที่แอปเปิลไม่บอกใน iPhone จอพับ"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
       "title_en": "เลี้ยงลูกให้เป็นเพื่อน",
       "video_id": "tjqQkGFRum8",
       "link": "https://www.youtube.com/shorts/tjqQkGFRum8",
@@ -749,16 +759,6 @@
       "thumbnail": "https://i4.ytimg.com/vi/oI0mp7pHTt8/hqdefault.jpg",
       "published": "2026-09-07T23:00:27+00:00",
       "title_th": "อุปกรณ์ฟื้นฟูกล้ามเนื้อ ตัวช่วยสายออกกำลัง"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "ตรวจโรคมะเร็งแบบรู้ตำแหน่ง โรงพยาบาลจุฬาภรณ์",
-      "video_id": "0s-v0-aqelQ",
-      "link": "https://www.youtube.com/watch?v=0s-v0-aqelQ",
-      "thumbnail": "https://i1.ytimg.com/vi/0s-v0-aqelQ/hqdefault.jpg",
-      "published": "2026-09-07T10:00:07+00:00",
-      "title_th": "ตรวจโรคมะเร็งแบบรู้ตำแหน่ง โรงพยาบาลจุฬาภรณ์"
     },
     {
       "channel": "Droidsans",
