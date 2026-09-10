@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T01:41:01.917261+00:00",
+  "generated_at": "2026-09-10T07:36:26.745941+00:00",
   "count": 50,
   "articles": [
     {
@@ -65,13 +65,25 @@
     {
       "source": "The Verge",
       "flag": "US",
+      "category": "software",
+      "title_en": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
+      "summary_en": "It's been about three years since Volvo discontinued its plug-in hybrid XC40. The mild hybrid version remains on sale in the US and elsewhere, alongside the electric EX40. Today, Volvo announced it was bringing back the PHEV version and giving it a major facelift. When it arrives at dealerships early next year, the new XC40 […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/The_New_Volvo_XC40_Studio_Front_34.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+      "link": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
+      "published": "2026-09-10T03:00:00-04:00",
+      "title_th": "Volvo XC40 PHEV กลับมาพร้อมกับรูปลักษณ์ใหม่ เซ็นเซอร์ที่ดีขึ้น และ Gemini AI",
+      "summary_th": "เป็นเวลาประมาณสามปีแล้วที่ Volvo หยุดผลิต Plug-in Hybrid XC40 รุ่นมิลด์ไฮบริดยังคงจำหน่ายในสหรัฐอเมริกาและที่อื่นๆ ควบคู่ไปกับ EX40 ระบบไฟฟ้า วันนี้ Volvo ประกาศว่าจะนำรุ่น PHEV กลับมาและปรับโฉมครั้งใหญ่ เมื่อมาถึงตัวแทนจำหน่ายในต้นปีหน้า XC40 ใหม่ […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
       "category": "gadget",
       "title_en": "There aren’t AirPods with cameras yet and I hope it stays that way",
       "summary_en": "September Apple events are always a swirl of information and new, exciting products, and today's was no different. Apple announced its first foldable, the iPhone Duo, alongside the iPhone 18 Pro and Pro Max; active noise cancellation (ANC) is now on the cheapest AirPods model, the AirPods 5; and a Siri Recap feature comes to […]",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0108.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "link": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event",
       "published": "2026-09-09T19:00:04-04:00",
-      "title_th": "There aren’t AirPods with cameras yet and I hope it stays that way",
+      "title_th": "ยังไม่มี AirPods พร้อมกล้อง และฉันหวังว่ามันจะคงเป็นเช่นนั้น",
       "summary_th": "กิจกรรมในเดือนกันยายนของ Apple เต็มไปด้วยข้อมูลและผลิตภัณฑ์ใหม่ๆ ที่น่าตื่นเต้นอยู่เสมอ และวันนี้ก็ไม่แตกต่างกัน Apple ประกาศเปิดตัว iPhone Duo แบบพับได้รุ่นแรก ควบคู่ไปกับ iPhone 18 Pro และ Pro Max การตัดเสียงรบกวนแบบแอคทีฟ (ANC) อยู่ใน AirPods รุ่นที่ถูกที่สุดอย่าง AirPods 5; และฟีเจอร์ Siri Recap มาถึง […]"
     },
     {
@@ -83,7 +95,7 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_NPatel_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "link": "https://www.theverge.com/tech/993048/iphone-18-pro-black-color",
       "published": "2026-09-09T18:37:51-04:00",
-      "title_th": "iPhone Pro สีดำกลับมาแล้ว",
+      "title_th": "The black iPhone Pro returns",
       "summary_th": "Apple has seen reason: It has a black model in the iPhone Pro lineup again. Last year, Apple went bold with its colors for the iPhone 17 Pro, offering a flashy orange, a shiny silver, and a dark blue. Don't get me wrong, they looked nice. But there was no black (or dark gray) for […]"
     },
     {
@@ -107,20 +119,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2181259946.jpg?quality=90&strip=all&crop=0%2C10.664146549656%2C100%2C78.671706900689&w=1200",
       "link": "https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence",
       "published": "2026-09-09T18:15:52-04:00",
-      "title_th": "Matt Mullenweg ซีอีโอ Automattic ถูกพักงาน",
+      "title_th": "Automattic CEO Matt Mullenweg placed on leave",
       "summary_th": "Matt Mullenweg, the CEO of WordPress.com owner Automattic, has been placed on a paid leave of absence, as reported earlier by 404 Media. In an internal message by the outlet, Mullenweg claims Automattic chief financial officer Mark Davies \"conspired\" with board members to place him on leave. \"They voted to put me on a paid […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "It’s the year of smartphone price hikes",
-      "summary_en": "Paying more for a new phone seems almost unavoidable after Apple's event today. The new iPhone 18 Pro and Pro Max start at $1,199 and $1,299, respectively - a $100 price hike over their predecessors. You can't dodge the price hike by opting for an older iPhone, either, because Apple raised prices on those by […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_NPatel_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro",
-      "published": "2026-09-09T17:52:43-04:00",
-      "title_th": "เป็นปีแห่งการขึ้นราคาสมาร์ทโฟน",
-      "summary_th": "ดูเหมือนว่าแทบจะหลีกเลี่ยงไม่ได้ที่จะจ่ายเงินเพิ่มเพื่อซื้อโทรศัพท์เครื่องใหม่หลังจากงานของ Apple ในวันนี้ iPhone 18 Pro และ Pro Max ใหม่เริ่มต้นที่ 1,199 ดอลลาร์และ 1,299 ดอลลาร์ตามลำดับ ซึ่งเพิ่มขึ้น 100 ดอลลาร์จากรุ่นก่อน คุณไม่สามารถหลีกเลี่ยงการขึ้นราคาโดยเลือกใช้ iPhone รุ่นเก่าได้ เนื่องจาก Apple ขึ้นราคาโดย […]"
     },
     {
       "source": "Ars Technica",
@@ -143,7 +143,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
       "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
       "published": "Tue, 08 Sep 2026 21:11:46 +0000",
-      "title_th": "เหตุใดการเปิดตัวแพทช์ของ Microsoft ในเดือนนี้จึงดูน่าเบื่อ",
+      "title_th": "Why this month's Microsoft patch release is a doozy",
       "summary_th": "พวกโนมส์รักษาความปลอดภัยกำลังออกแพทช์ก่อนการโจมตีที่คาดว่าจะได้รับจากการโจมตีที่ได้รับความช่วยเหลือจาก AI"
     },
     {
@@ -155,7 +155,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
       "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
       "published": "Fri, 04 Sep 2026 22:17:36 +0000",
-      "title_th": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "title_th": "เจ้าหน้าที่ OpenAI หารือถึงวิธีการหลบหนีแซนด์บ็อกซ์บนวิกิสาธารณะ",
       "summary_th": "โดยรวมแล้ว เจ้าหน้าที่ภายใน 3,700 รายโพสต์ข้อความ 18,000 ข้อความพูดคุยเกี่ยวกับการโกงข้อสอบ"
     },
     {
@@ -180,7 +180,19 @@
       "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
       "published": "Fri, 04 Sep 2026 17:18:12 +0000",
       "title_th": "เมื่อได้รับความนิยมในการโจมตี AI การลักลอบขนของ ASCII ก็ได้รับการยอมรับจากผู้ส่งอีเมลขยะ",
-      "summary_th": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use."
+      "summary_th": "บล็อกยูนิโค้ดที่ครั้งหนึ่งเคยถูกมองข้ามซึ่งมนุษย์มองไม่เห็นนั้นกำลังมีการใช้กันอย่างแพร่หลายมากขึ้น"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Trump Offers Every American $5,000 If Republicans Win The Midterms",
+      "summary_en": "The extraordinary proposal, delivered during the president's speech at the midterm convention, would cost $1.2 trillion and raised immediate ethical questions.",
+      "image": "",
+      "link": "https://www.wired.com/story/trump-offers-every-american-5000-if-republicans-win-the-midterms/",
+      "published": "Thu, 10 Sep 2026 06:30:32 +0000",
+      "title_th": "ทรัมป์เสนอเงินอเมริกันทุก ๆ 5,000 ดอลลาร์ หากพรรครีพับลิกันชนะการเลือกตั้งกลางภาค",
+      "summary_th": "ข้อเสนอพิเศษดังกล่าวซึ่งส่งมอบในระหว่างการกล่าวสุนทรพจน์ของประธานาธิบดีในการประชุมกลางภาคนั้น มีมูลค่าสูงถึง 1.2 ล้านล้านดอลลาร์ และก่อให้เกิดคำถามด้านจริยธรรมในทันที"
     },
     {
       "source": "Wired",
@@ -215,8 +227,8 @@
       "image": "https://media.wired.com/photos/6aa1ab8746f4d5ae971c75d5/master/pass/nl-inner-loop-iowa-midterms-turning-point.jpg",
       "link": "https://www.wired.com/story/a-year-after-charlie-kirks-death-turning-point-plans-to-spend-big-on-the-midterms/",
       "published": "Wed, 09 Sep 2026 21:00:00 +0000",
-      "title_th": "A Year After Charlie Kirk’s Death, Turning Point Plans to Spend Big on the Midterms",
-      "summary_th": "Turning Point will spend tens of millions on ads and turnout, sources say, with a focus on New Hampshire, Arizona, and Nevada."
+      "title_th": "หนึ่งปีหลังจากการเสียชีวิตของชาร์ลี เคิร์ก จุดเปลี่ยนวางแผนที่จะทุ่มเงินมหาศาลในการสอบกลางภาค",
+      "summary_th": "Turning Point จะใช้เงินหลายสิบล้านไปกับโฆษณาและการออกผลิตภัณฑ์ แหล่งข่าวกล่าว โดยเน้นที่นิวแฮมป์เชียร์ แอริโซนา และเนวาดา"
     },
     {
       "source": "Wired",
@@ -229,18 +241,6 @@
       "published": "Wed, 09 Sep 2026 19:21:18 +0000",
       "title_th": "ทุกสิ่งที่ Apple ประกาศ: iPhone Duo, iPhone 18 Pro, Apple Watch, AirPods 5",
       "summary_th": "งานเดือนกันยายนของบริษัทได้เปิดตัว iPhone แบบพับได้เครื่องแรกของ Apple พร้อมด้วย iPhone 18 Pro รุ่นใหม่ การอัพเดต Apple Watch, AirPods บางรุ่น และความก้าวหน้าเพิ่มเติมของ Siri AI"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Apple Doesn’t Want You to Worry About the New Apple Watch’s Listening Features",
-      "summary_en": "The new Apple Watch includes several “intelligent” listening features that have privacy and security baked in. But the protections can’t change the facts of what the tools do.",
-      "image": "https://media.wired.com/photos/6aa1b207ccc1bba18de2d004/master/pass/GettyImages-2293832136.jpg",
-      "link": "https://www.wired.com/story/apple-doesnt-want-you-to-worry-about-the-new-apple-watchs-listening-features/",
-      "published": "Wed, 09 Sep 2026 19:14:26 +0000",
-      "title_th": "Apple ไม่ต้องการให้คุณกังวลเกี่ยวกับคุณสมบัติการฟังใหม่ของ Apple Watch",
-      "summary_th": "Apple Watch ใหม่มีคุณสมบัติการฟัง \"อัจฉริยะ\" หลายประการที่มีความเป็นส่วนตัวและความปลอดภัย แต่การป้องกันไม่สามารถเปลี่ยนแปลงข้อเท็จจริงของสิ่งที่เครื่องมือทำ"
     },
     {
       "source": "MIT Technology Review",
@@ -305,6 +305,30 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "ev",
+      "title_en": "2028 Volvo XC40 First Look: Hello new tech, goodbye EV",
+      "summary_en": "Volvo refreshed the XC40, but it's sadly doing away with the all-electric EX40 in the US.",
+      "image": "https://www.engadget.com/img/gallery/2028-volvo-xc40-first-look-hello-new-tech-goodbye-ev/l-intro-1788868210.jpg",
+      "link": "https://www.engadget.com/2252476/2028-volvo-xc40-first-look/",
+      "published": "Thu, 10 Sep 2026 07:00:00 +0000",
+      "title_th": "2028 Volvo XC40 โฉมแรก: สวัสดีเทคโนโลยีใหม่ ลาก่อน EV",
+      "summary_th": "Volvo รีเฟรช XC40 แต่น่าเสียดายที่เลิกใช้ EX40 ที่ใช้ไฟฟ้าทั้งหมดในสหรัฐอเมริกา"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Google has removed the Pixel Tablet from its store",
+      "summary_en": "Google has erased the listing for the Pixel Tablet from its e-commerce store, signaling that the device has been discontinued.",
+      "image": "https://www.engadget.com/img/gallery/google-has-removed-the-pixel-tablet-from-its-store/l-intro-1789020324.jpg",
+      "link": "https://www.engadget.com/2254487/google-store-removed-pixel-tablet/",
+      "published": "Thu, 10 Sep 2026 06:11:07 +0000",
+      "title_th": "Google ได้ลบ Pixel Tablet ออกจากร้านค้าแล้ว",
+      "summary_th": "Google ได้ลบรายชื่อ Pixel Tablet ออกจากร้านค้าอีคอมเมิร์ซแล้ว ซึ่งเป็นการส่งสัญญาณว่าอุปกรณ์ดังกล่าวถูกยกเลิกการผลิตแล้ว"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "chip",
       "title_en": "Apple Wallet is not the same as Apple Pay: Here's how they differ",
       "summary_en": "Apple Wallet and Apple Pay serve different functions, but you need them both to make online payments and store your cards.",
@@ -337,30 +361,6 @@
       "published": "Wed, 09 Sep 2026 22:05:38 +0000",
       "title_th": "Engadget Podcast: เจาะลึก iPhone Duo, iPhone 18 Pro และฮาร์ดแวร์ใหม่ของ Apple",
       "summary_th": "ในที่สุดเราก็มี Apple แบบพับได้ และมันก็ดูน่าสนใจทีเดียว"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "review",
-      "title_en": "iPhone Duo hands-on: Apple's most exciting device in a decade",
-      "summary_en": "The iPhone Duo makes a great first impression, I just wish it had three cameras in back.",
-      "image": "https://www.engadget.com/img/gallery/iphone-duo-hands-on-apple-s-most-exciting-device-in-a-decade/l-intro-1788993120.jpg",
-      "link": "https://www.engadget.com/2254389/iphone-duo-hands-on-apple-s-most-exciting-device-in-a-decade/",
-      "published": "Wed, 09 Sep 2026 21:49:36 +0000",
-      "title_th": "iPhone Duo ภาคปฏิบัติ: อุปกรณ์ที่น่าตื่นเต้นที่สุดของ Apple ในรอบทศวรรษ",
-      "summary_th": "iPhone Duo สร้างความประทับใจแรกที่ยอดเยี่ยม ฉันหวังว่ามันจะมีกล้องสามตัวอยู่ด้านหลัง"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Motorola teases new compact foldable Razr",
-      "summary_en": "Right on cue, Motorola has teased a wide new foldable to compete with the Galaxy Fold 8 and iPhone Duo.",
-      "image": "https://www.engadget.com/img/gallery/motorola-teases-new-compact-foldable-razr/l-intro-1788989915.jpg",
-      "link": "https://www.engadget.com/2254380/motorola-teases-new-compact-foldable-razr/",
-      "published": "Wed, 09 Sep 2026 21:40:03 +0000",
-      "title_th": "Motorola ปล่อยทีเซอร์ Razr พับได้รุ่นใหม่",
-      "summary_th": "โมโตโรล่าได้ล้อเลียนสมาร์ทโฟนพับได้รุ่นใหม่เพื่อแข่งขันกับ Galaxy Fold 8 และ iPhone Duo"
     },
     {
       "source": "IEEE Spectrum",
@@ -425,6 +425,18 @@
     {
       "source": "9to5Mac",
       "flag": "",
+      "category": "gadget",
+      "title_en": "9to5Mac Daily: September 9, 2026 – iPhone 18 Pro and iPhone Duo are here",
+      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff : Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. A simple to-do list for iPhone, iPad, and Mac, with powerful tools that make organizing, tracking, and checking off your tasks a whole lot more satisfying. Get Stuff done. Sponsored by iMazing : iMazing’s platform for data transfer and device management keeps getting better. Get 20% off iMazing with code 9TO5-SEP26-20OFF. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/09/september-9-2026-iphone-18-pro-and-iphone-duo-are-here/",
+      "published": "Thu, 10 Sep 2026 05:37:31 +0000",
+      "title_th": "9to5Mac Daily: September 9, 2026 – iPhone 18 Pro and iPhone Duo are here",
+      "summary_th": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff : Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. A simple to-do list for iPhone, iPad, and Mac, with powerful tools that make organizing, tracking, and checking off your tasks a whole lot more satisfying. Get Stuff done. Sponsored by iMazing : iMazing’s platform for data transfer and device management keeps getting better. Get 20% off iMazing with code 9TO5-SEP26-20OFF. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
       "category": "review",
       "title_en": "Hands-on with the foldable iPhone Duo [Gallery]",
       "summary_en": "Apple unveiled the highly anticipated iPhone Duo today, its first-ever foldable iPhone. I spent a quick few minutes with the device after it was announced, here’s what it looks like in the real world. more…",
@@ -443,7 +455,7 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/get-ready-iphone-duo.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/09/09/apple-launches-iphone-duo-developer-resources-ahead-of-october-release/",
       "published": "Wed, 09 Sep 2026 23:09:19 +0000",
-      "title_th": "Apple launches iPhone Duo developer resources ahead of October release",
+      "title_th": "Apple เปิดตัวแหล่งข้อมูลสำหรับนักพัฒนา iPhone Duo ก่อนการเปิดตัวในเดือนตุลาคม",
       "summary_th": "หลังจากการประกาศเปิดตัว iPhone Duo ในวันนี้ Apple ได้เปิดตัวแหล่งข้อมูลชุดใหม่เพื่อช่วยนักพัฒนาในการเตรียมแอพของตนสำหรับ iPhone แบบพับได้เครื่องแรกของบริษัท นี่คือรายละเอียด มากกว่า…"
     },
     {
@@ -469,18 +481,6 @@
       "published": "Wed, 09 Sep 2026 21:40:39 +0000",
       "title_th": "ใช้งานได้จริงด้วย Siri Modular หน้าปัด Apple Watch ใหม่ของ watchOS 27",
       "summary_th": "watchOS 27 มีหน้าปัดนาฬิกาใหม่หนึ่งหน้าปัด: Siri Modular หน้าปัดใหม่มีจำหน่ายทั้งรุ่น Apple Watch Series และ Ultra อย่างไรก็ตาม เวอร์ชันของ Ultra มีตัวเลือกการปรับแต่งเพิ่มเติมเล็กน้อย ตรวจสอบออก มากกว่า…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple shares more details about Apple Intelligence usage limits and terms",
-      "summary_en": "Apple today published a new support article that provides more detail on Apple Intelligence usage terms, limits, and restrictions. Here’s what the company says. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/apple-intelligence-liquid-glass.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/09/apple-shares-more-details-about-apple-intelligence-usage-limits-and-terms/",
-      "published": "Wed, 09 Sep 2026 21:27:07 +0000",
-      "title_th": "Apple แชร์รายละเอียดเพิ่มเติมเกี่ยวกับขีดจำกัดและข้อกำหนดการใช้งาน Apple Intelligence",
-      "summary_th": "วันนี้ Apple เผยแพร่บทความสนับสนุนใหม่ที่ให้รายละเอียดเพิ่มเติมเกี่ยวกับข้อกำหนดการใช้งาน ขีดจำกัด และข้อจำกัดของ Apple Intelligence นี่คือสิ่งที่บริษัทกล่าว มากกว่า…"
     },
     {
       "source": "9to5Google",
@@ -515,8 +515,8 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/iPhone-Duo-hands-on-1.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/09/09/iphone-duo-hands-on-reveals-crease-and-camera/",
       "published": "Wed, 09 Sep 2026 22:10:00 +0000",
-      "title_th": "iPhone Duo hands-on videos reveal Android foldable pain points we know too well",
-      "summary_th": "Apple has a track record of waiting until the kinks get worked out before it tries its own hand at new devices, but hands-on videos of the iPhone Duo are already starting to show that Apple suffers from some of the same pain points other manufacturers like Samsung do, like the beloved screen crease. more…"
+      "title_th": "วิดีโอเชิงปฏิบัติของ iPhone Duo เผยให้เห็นจุดด้อยของ Android แบบพับได้ที่เรารู้จักดีเช่นกัน",
+      "summary_th": "Apple มีประวัติในการรอจนกว่าข้อบกพร่องต่างๆ จะได้รับการแก้ไขก่อนที่จะลองใช้อุปกรณ์ใหม่ด้วยตนเอง แต่วิดีโอเชิงปฏิบัติของ iPhone Duo เริ่มแสดงให้เห็นว่า Apple ทนทุกข์ทรมานจากจุดเจ็บปวดเดียวกันกับที่ผู้ผลิตรายอื่นเช่น Samsung ทำ เช่นเดียวกับรอยพับหน้าจออันเป็นที่รัก มากกว่า…"
     },
     {
       "source": "9to5Google",
@@ -541,6 +541,18 @@
       "published": "Wed, 09 Sep 2026 20:51:33 +0000",
       "title_th": "Motorola ล้อเลียน Razr Fold แบบกว้างว่าเป็น 'ก้าวต่อไป' เพื่อตอบสนองต่อการเปิดตัว iPhone Duo",
       "summary_th": "การประกาศ iPhone Duo ของ Apple กระตุ้นให้เกิดบริษัทสองสามแห่ง และเห็นได้ชัดว่ารับประกันอย่างน้อยหนึ่งทีเซอร์สำหรับแบบพับได้มากยิ่งขึ้น อันนี้ดูเหมือนจะเป็น Motorola Razr Fold รุ่นกว้าง มากกว่า…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "US solar can now power 50M homes – and red states led the boom",
+      "summary_en": "The US achieved a pretty big solar milestone in Q2 2026: it now has enough installed capacity to generate clean electricity equivalent to that used by more than 50 million homes. That’s more than one-third of all US households. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/Green-River-Energy-Center-Utah.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/09/483577/",
+      "published": "Thu, 10 Sep 2026 04:01:00 +0000",
+      "title_th": "ขณะนี้พลังงานแสงอาทิตย์ของสหรัฐฯ สามารถจ่ายไฟให้กับบ้านเรือนได้ 50 ล้านหลัง และรัฐสีแดงเป็นผู้นำในการเติบโต",
+      "summary_th": "สหรัฐอเมริกาบรรลุเป้าหมายสำคัญด้านพลังงานแสงอาทิตย์ในไตรมาสที่ 2 ปี 2026 โดยขณะนี้มีกำลังการผลิตติดตั้งเพียงพอที่จะผลิตไฟฟ้าสะอาดเทียบเท่ากับบ้านมากกว่า 50 ล้านหลังที่ใช้ นั่นมากกว่าหนึ่งในสามของครัวเรือนทั้งหมดในสหรัฐอเมริกา มากกว่า…"
     },
     {
       "source": "Electrek",
@@ -589,18 +601,6 @@
       "published": "Wed, 09 Sep 2026 17:07:05 +0000",
       "title_th": "นี่คือรูปลักษณ์แรกของ Pixo EV ระดับเริ่มต้นใหม่ของ Nissan [ภาพ]",
       "summary_th": "Nissan กำลังเตรียมนำ Pixo กลับมาอีกครั้ง โดยคราวนี้เป็นรถยนต์ไฟฟ้าขนาดเล็กกว่าและราคาไม่แพงกว่า โดยมีราคาเริ่มต้นต่ำกว่า 25,000 ดอลลาร์ มากกว่า…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "EVgo is adding 400+ fast chargers where you grocery shop",
-      "summary_en": "EVgo is adding more than 400 fast-charging stalls at grocery-anchored shopping centers across the US, giving EV drivers more places to plug in while they shop or grab a coffee. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/mandarin-landing-jacksonville-florida.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/09/evgo-is-adding-400-fast-chargers-where-you-grocery-shop/",
-      "published": "Wed, 09 Sep 2026 16:13:25 +0000",
-      "title_th": "EVgo กำลังเพิ่มที่ชาร์จแบบเร็วมากกว่า 400+ อันในร้านขายของชำของคุณ",
-      "summary_th": "EVgo กำลังเพิ่มแผงชาร์จเร็วมากกว่า 400 แผงในศูนย์การค้าที่ร้านขายของชำทั่วสหรัฐอเมริกา ทำให้ผู้ขับขี่รถยนต์ EV มีที่ว่างมากขึ้นในการเสียบปลั๊กขณะช็อปปิ้งหรือดื่มกาแฟ มากกว่า…"
     }
   ],
   "indices": [
@@ -664,12 +664,22 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 270.0,
-      "change": -5.0,
-      "change_pct": -1.82
+      "price": 268.0,
+      "change": -2.0,
+      "change_pct": -0.74
     }
   ],
   "reviews": [
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "iPhone Duo is here",
+      "video_id": "R6yNUnRXZ64",
+      "link": "https://www.youtube.com/shorts/R6yNUnRXZ64",
+      "thumbnail": "https://i3.ytimg.com/vi/R6yNUnRXZ64/hqdefault.jpg",
+      "published": "2026-09-10T07:02:22+00:00",
+      "title_th": "iPhone Duo มาแล้ว"
+    },
     {
       "channel": "MKBHD",
       "country": "US",
@@ -689,16 +699,6 @@
       "thumbnail": "https://i2.ytimg.com/vi/ANmTVYkEtLw/hqdefault.jpg",
       "published": "2026-09-05T21:18:49+00:00",
       "title_th": "รีวิว Google Pixel 11/Pro: Poker Face"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "I Made a Bet with Tesla",
-      "video_id": "fo-uubnajWM",
-      "link": "https://www.youtube.com/watch?v=fo-uubnajWM",
-      "thumbnail": "https://i3.ytimg.com/vi/fo-uubnajWM/hqdefault.jpg",
-      "published": "2026-09-04T01:18:34+00:00",
-      "title_th": "ฉันเดิมพันกับเทสลา"
     },
     {
       "channel": "Unbox Therapy",
@@ -729,6 +729,66 @@
       "thumbnail": "https://i1.ytimg.com/vi/TLl027cYgY4/hqdefault.jpg",
       "published": "2026-09-01T15:39:42+00:00",
       "title_th": "โทรศัพท์รุ่นใหม่นี้มีซับวูฟเฟอร์..."
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "มาจริงไม่จกตา! สรุปเปิดตัว iPhone 18 และ iPhone Duo เครื่องพับตัวแรกของ Apple!?",
+      "video_id": "JyezklTJ9Sc",
+      "link": "https://www.youtube.com/watch?v=JyezklTJ9Sc",
+      "thumbnail": "https://i3.ytimg.com/vi/JyezklTJ9Sc/hqdefault.jpg",
+      "published": "2026-09-10T02:51:01+00:00",
+      "title_th": "มาจริงไม่จกตา! สรุปเปิดตัว iPhone 18 และ iPhone Duo เครื่องพับตัวแรกของ Apple!?"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "เจาะมุมที่แอปเปิลไม่บอกในงานเปิดตัว iPhone",
+      "video_id": "CLWv2vETpHo",
+      "link": "https://www.youtube.com/watch?v=CLWv2vETpHo",
+      "thumbnail": "https://i4.ytimg.com/vi/CLWv2vETpHo/hqdefault.jpg",
+      "published": "2026-09-10T01:22:13+00:00",
+      "title_th": "เจาะมุมที่แอปเปิลไม่บอกในงานเปิดตัว iPhone"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "เทคนิคมัดใจลูกค้าและพนักงาน",
+      "video_id": "FuYwPsPYGao",
+      "link": "https://www.youtube.com/shorts/FuYwPsPYGao",
+      "thumbnail": "https://i3.ytimg.com/vi/FuYwPsPYGao/hqdefault.jpg",
+      "published": "2026-09-09T23:00:20+00:00",
+      "title_th": "เทคนิคมัดใจลูกค้าและพนักงาน"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "สรุปเปิดตัว iPhone 18 Pro, iPhone Duo (ไม่ใช่ Ultra), Apple Watch, AirPod มีอะไรใหม่ ราคาเท่าไหร่ ?",
+      "video_id": "BO2QJQHxZ28",
+      "link": "https://www.youtube.com/watch?v=BO2QJQHxZ28",
+      "thumbnail": "https://i3.ytimg.com/vi/BO2QJQHxZ28/hqdefault.jpg",
+      "published": "2026-09-09T22:14:28+00:00",
+      "title_th": "สรุปเปิดตัว iPhone 18 Pro, iPhone Duo (ไม่ใช่ Ultra), Apple Watch, AirPod มีอะไรใหม่ ราคาเท่าไหร่ ?"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "🔴  ยิ้มรับ iPhone 18 Pro | 18 Pro Max และ iPhone Ultra มือถือจับพับรุ่นแรกจาก Apple ไปพร้อมกัน",
+      "video_id": "N4X-pnnW3A0",
+      "link": "https://www.youtube.com/watch?v=N4X-pnnW3A0",
+      "thumbnail": "https://i3.ytimg.com/vi/N4X-pnnW3A0/hqdefault.jpg",
+      "published": "2026-09-09T18:40:22+00:00",
+      "title_th": "🔴  ยิ้มรับ iPhone 18 Pro | 18 Pro Max และ iPhone Ultra มือถือจับพับรุ่นแรกจาก Apple ไปพร้อมกัน"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รีวิว Google Pixel 11 Pro XL มือถือที่ฉลาดล้ำที่สุด การใช้งานเป็นไง ควรค่าแก่การอัปเกรดมั้ย ?",
+      "video_id": "hyG1MqXrLD8",
+      "link": "https://www.youtube.com/watch?v=hyG1MqXrLD8",
+      "thumbnail": "https://i1.ytimg.com/vi/hyG1MqXrLD8/hqdefault.jpg",
+      "published": "2026-09-09T11:01:25+00:00",
+      "title_th": "รีวิว Google Pixel 11 Pro XL มือถือที่ฉลาดล้ำที่สุด การใช้งานเป็นไง ควรค่าแก่การอัปเกรดมั้ย ?"
     }
   ]
 }
