@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-10T17:59:04.940658+00:00",
+  "generated_at": "2026-09-10T20:19:08.146862+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Meta’s AI agent Muse is now the No. 2 app in the US",
+      "summary_en": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "published": "Thu, 10 Sep 2026 19:50:04 +0000",
+      "title_th": "Meta’s AI agent Muse is now the No. 2 app in the US",
+      "summary_th": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
+      "summary_en": "Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key component to its reactor design.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Proxima-Manufacturing-7.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
+      "published": "Thu, 10 Sep 2026 18:38:00 +0000",
+      "title_th": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
+      "summary_th": "Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key component to its reactor design."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Amazon makes it easier to buy what you see on Prime Video",
+      "summary_en": "Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of shows, movies, and live sports through X-Ray, its shopping app, and a new Lens-powered “Shop the Scene” feature.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/3.-X-Ray-Shop-Tab.png?resize=1200,675",
+      "link": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
+      "published": "Thu, 10 Sep 2026 18:10:36 +0000",
+      "title_th": "Amazon makes it easier to buy what you see on Prime Video",
+      "summary_th": "Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of shows, movies, and live sports through X-Ray, its shopping app, and a new Lens-powered “Shop the Scene” feature."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -11,8 +47,8 @@
       "image": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1356934365-e1695303681636.jpg?resize=1200,676",
       "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
       "published": "Thu, 10 Sep 2026 17:54:44 +0000",
-      "title_th": "Anthropic เผยว่าเจ้าหน้าที่ AI อันธพาลเกลียด CAPTCHA เช่นเดียวกับคุณ",
-      "summary_th": "เข้ามาในใจของบอทที่พยายามโน้มน้าวอินเทอร์เน็ตว่าเป็นมนุษย์"
+      "title_th": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "summary_th": "Come inside the mind of a bot trying to convince the internet it's human."
     },
     {
       "source": "TechCrunch",
@@ -23,44 +59,20 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/pocket-fm.jpg?resize=1200,800",
       "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
       "published": "Thu, 10 Sep 2026 17:45:00 +0000",
-      "title_th": "Pocket FM ของอินเดียเพิ่มอัตราการสร้างรายได้เป็นสองเท่าเป็น 500 ล้านเหรียญสหรัฐ เนื่องจาก AI ขับเคลื่อนเนื้อหาเสียงถึง 93%",
-      "summary_th": "Pocket FM ใช้ AI ในการผลิตเนื้อหาใหม่ถึง 99% ซึ่งช่วยทำให้การผลิตเนื้อหาถูกลงประมาณ 80 เท่า"
+      "title_th": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "summary_th": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Instagram’s latest feature lets you add tagged posts to your profile grid",
-      "summary_en": "Instagram's newest feature lets users take posts from the Tagged tab and move it to their main profile grid instead.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Instagram-tagged-posts.png?resize=1200,675",
-      "link": "https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/",
-      "published": "Thu, 10 Sep 2026 16:31:25 +0000",
-      "title_th": "คุณสมบัติล่าสุดของ Instagram ช่วยให้คุณเพิ่มโพสต์ที่แท็กลงในตารางโปรไฟล์ของคุณ",
-      "summary_th": "ฟีเจอร์ใหม่ล่าสุดของ Instagram ช่วยให้ผู้ใช้โพสต์จากแท็บแท็กแล้วย้ายไปยังตารางโปรไฟล์หลักแทนได้"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Google is making it easier to switch between password managers on Android",
-      "summary_en": "Google's new feature will transfer your passkeys as well.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Hero-Image.jpeg?resize=1200,675",
-      "link": "https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/",
-      "published": "Thu, 10 Sep 2026 16:00:00 +0000",
-      "title_th": "Google ทำให้การสลับระหว่างตัวจัดการรหัสผ่านบน Android ง่ายขึ้น",
-      "summary_th": "คุณสมบัติใหม่ของ Google จะถ่ายโอนรหัสผ่านของคุณเช่นกัน"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "The Boring Company raises $3B in round led by UAE",
-      "summary_en": "The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1311710604.jpg?resize=1200,770",
-      "link": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
-      "published": "Thu, 10 Sep 2026 15:07:27 +0000",
-      "title_th": "The Boring Company ระดมทุนได้ 3 พันล้านดอลลาร์ในรอบที่นำโดย UAE",
-      "summary_th": "บริษัทกล่าวว่ามีแผนที่จะขุดอุโมงค์มากกว่า 150 กิโลเมตรในประเทศตะวันออกกลาง"
+      "category": "software",
+      "title_en": "Schools are catching on to Big Tech’s playbook",
+      "summary_en": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI companies are pitching schools on […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK483_EDUCATION_D.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+      "published": "2026-09-10T15:44:20-04:00",
+      "title_th": "Schools are catching on to Big Tech’s playbook",
+      "summary_th": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI companies are pitching schools on […]"
     },
     {
       "source": "The Verge",
@@ -95,8 +107,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
       "published": "2026-09-10T11:38:19-04:00",
-      "title_th": "Universal Music กำลังเปิดตัวแพลตฟอร์มเพลง AI ร่วมกับ ElevenLabs",
-      "summary_th": "Universal Music Group กำลังเปิดตัวแพลตฟอร์มที่ขับเคลื่อนด้วย AI ใหม่ที่จะช่วยให้ผู้ใช้สามารถดึงข้อมูลจากแคตตาล็อกเพลงลิขสิทธิ์เพื่อสร้างเพลงรีมิกซ์ ผสมและเพลงใหม่ ๆ ตามประกาศเมื่อวันพฤหัสบดี ค่ายเพลงกำลังพัฒนาแพลตฟอร์มผ่านข้อตกลงลิขสิทธิ์หลายปีกับ ElevenLabs ซึ่งเป็นบริษัทที่เชี่ยวชาญ […]"
+      "title_th": "Universal Music is launching an AI music platform with ElevenLabs",
+      "summary_th": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multiyear licensing agreement with ElevenLabs, a company that specializes […]"
     },
     {
       "source": "The Verge",
@@ -107,20 +119,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0035.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "link": "https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy",
       "published": "2026-09-10T11:00:00-04:00",
-      "title_th": "จะสั่งซื้อ Apple Watch Series 12 และ Ultra 4 ใหม่ล่วงหน้าได้ที่ไหน",
-      "summary_th": "iPhone Duo เป็นดาวเด่นในงาน \"เซอร์ไพรส์และเปล่งประกาย\" ของ Apple แต่ไม่ใช่สำหรับผู้ที่ให้ความสนใจกับข่าวเกี่ยวกับอุปกรณ์สวมใส่เป็นส่วนใหญ่ โชคดีที่ Apple มีอะไรมากมายที่จะแบ่งปันเกี่ยวกับ Apple Watch Series 12 และ Ultra 4 ใหม่ ไม่มีการอัพเดตรุ่น SE สำหรับปี 2026 ซึ่งไม่จำเป็น […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Wolverine on the PS5 goes back to a simpler (and bloodier) style of action game",
-      "summary_en": "Marvel's Wolverine captures just how angry its lead character is. The latest PS5 exclusive from Spider-Man developer Insomniac, Wolverine is a straightforward action game that is at its best when you're (literally) slicing through enemies or thrust into a sequence pulled from a blockbuster movie, like climbing the fuselage of a plane as it careens […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/MW_ExtGameplay_WolverineHero_4k_2026.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "link": "https://www.theverge.com/games/992937/wolverine-review-ps5",
-      "published": "2026-09-10T11:00:00-04:00",
-      "title_th": "Wolverine บน PS5 กลับไปสู่รูปแบบเกมแอคชั่นที่เรียบง่าย (และนองเลือดมากขึ้น)",
-      "summary_th": "Wolverine ของ Marvel จับภาพได้ว่าตัวละครนำโกรธแค่ไหน เกม PS5 ล่าสุดสุดพิเศษจาก Insomniac ผู้พัฒนา Spider-Man เกม Wolverine เป็นเกมแอคชั่นที่ตรงไปตรงมาซึ่งจะดีที่สุดเมื่อคุณฟันฝ่าศัตรู (ตามตัวอักษร) หรือพุ่งเข้าไปในฉากที่ดึงมาจากภาพยนตร์บล็อกบัสเตอร์ เช่น การปีนลำตัวเครื่องบินในขณะที่มันดูแล […]"
+      "title_th": "Where to preorder the new Apple Watch Series 12 and Ultra 4",
+      "summary_th": "The iPhone Duo was the unequivocal star of Apple's \"Surprise and shine\" event, but not for people who were mostly paying attention for news on wearables. Thankfully, Apple had a lot to share about its new Apple Watch Series 12 and Ultra 4. There's no update to the SE model for 2026, which isn't necessarily […]"
     },
     {
       "source": "Ars Technica",
@@ -131,8 +131,8 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
       "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
       "published": "Wed, 09 Sep 2026 20:55:02 +0000",
-      "title_th": "สี่กลุ่มถูกจับได้โดยใช้ชุดช่องโหว่ Chrome และ Windows ชุดเดียวกัน",
-      "summary_th": "ช่องว่างแพตช์และความเร่งรีบของการค้นพบช่องโหว่บน AI มีแนวโน้มว่ามีส่วนสนับสนุน"
+      "title_th": "Four groups caught using the same Chrome and Windows exploit kit",
+      "summary_th": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors."
     },
     {
       "source": "Ars Technica",
@@ -143,8 +143,8 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
       "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
       "published": "Tue, 08 Sep 2026 21:11:46 +0000",
-      "title_th": "เหตุใดการเปิดตัวแพทช์ของ Microsoft ในเดือนนี้จึงดูน่าเบื่อ",
-      "summary_th": "พวกโนมส์รักษาความปลอดภัยกำลังออกแพทช์ก่อนการโจมตีที่คาดว่าจะได้รับจากการโจมตีที่ได้รับความช่วยเหลือจาก AI"
+      "title_th": "Why this month's Microsoft patch release is a doozy",
+      "summary_th": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks."
     },
     {
       "source": "Ars Technica",
@@ -155,8 +155,8 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
       "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
       "published": "Fri, 04 Sep 2026 22:17:36 +0000",
-      "title_th": "เจ้าหน้าที่ OpenAI หารือถึงวิธีการหลบหนีจากแซนด์บ็อกซ์บนวิกิสาธารณะ",
-      "summary_th": "โดยรวมแล้ว เจ้าหน้าที่ภายใน 3,700 รายโพสต์ข้อความ 18,000 ข้อความพูดคุยเกี่ยวกับการโกงข้อสอบ"
+      "title_th": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "summary_th": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test."
     },
     {
       "source": "Ars Technica",
@@ -167,8 +167,8 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg",
       "link": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
       "published": "Fri, 04 Sep 2026 17:35:02 +0000",
-      "title_th": "“ความน่าเชื่อถือ ไม่ใช่ฟีเจอร์ คือจุดบกพร่องที่แท้จริง”: VMware พยายามเอาใจ SMB",
-      "summary_th": "Broadcom ยอมรับว่า \"ให้ความสำคัญกับ VCF มากเกินไป\"..."
+      "title_th": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
+      "summary_th": "Broadcom admits it put “too big a focus on VCF.”..."
     },
     {
       "source": "Ars Technica",
@@ -179,20 +179,20 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-1152x648.jpg",
       "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
       "published": "Fri, 04 Sep 2026 17:18:12 +0000",
-      "title_th": "เมื่อได้รับความนิยมในการโจมตี AI การลักลอบขนของ ASCII ก็ได้รับการยอมรับจากผู้ส่งอีเมลขยะ",
-      "summary_th": "บล็อกยูนิโค้ดที่ครั้งหนึ่งเคยถูกมองข้ามซึ่งมนุษย์มองไม่เห็นนั้นกำลังมีการใช้กันอย่างแพร่หลายมากขึ้น"
+      "title_th": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+      "summary_th": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "gadget",
       "title_en": "Which iPhone 18 Model Should You Buy?",
-      "summary_en": "Apple's new folding iPhone Duo is finally here, alongside refreshed Pro models. Our primer has all the details you need to choose the iPhone 18 that's right for you.",
+      "summary_en": "Apple’s new folding iPhone Duo is finally here, alongside refreshed Pro models. Our primer has all the details you need to choose the iPhone 18 that’s right for you.",
       "image": "https://media.wired.com/photos/6aa2d2e676850b4862a36c92/master/pass/Which-iPhone-18-Model-Should-You-Buy-.jpg",
       "link": "https://www.wired.com/story/which-apple-iphone-18-models-to-buy/",
       "published": "Thu, 10 Sep 2026 16:30:00 +0000",
-      "title_th": "คุณควรซื้อ iPhone 18 รุ่นใด",
-      "summary_th": "ในที่สุด iPhone Duo แบบพับได้ใหม่ของ Apple ก็มาถึงแล้ว พร้อมกับรุ่น Pro ที่ได้รับการปรับปรุงใหม่ ไพรเมอร์ของเรามีรายละเอียดทั้งหมดที่คุณต้องการเพื่อเลือก iPhone 18 ที่เหมาะกับคุณ"
+      "title_th": "Which iPhone 18 Model Should You Buy?",
+      "summary_th": "Apple’s new folding iPhone Duo is finally here, alongside refreshed Pro models. Our primer has all the details you need to choose the iPhone 18 that’s right for you."
     },
     {
       "source": "Wired",
@@ -203,8 +203,8 @@
       "image": "https://media.wired.com/photos/6a3221464e63d441b28e3620/master/pass/The-Best-Robot-Lawn-Mowers.jpg",
       "link": "https://www.wired.com/gallery/best-robot-lawn-mowers/",
       "published": "Thu, 10 Sep 2026 16:04:02 +0000",
-      "title_th": "หุ่นยนต์ตัดหญ้าที่ดีที่สุด (2026): แบบจำลอง 12+ ผ่านการทดสอบมากกว่า 3 ปี",
-      "summary_th": "เครื่องตัดหญ้าอัจฉริยะเป็นทางเลือกที่มีราคาแพงแทนงานสวนแบบเดิมๆ แต่ในที่สุดก็ดีพอที่จะพิจารณาว่าคุณอยากจะจิบชาเย็นแล้วดูหุ่นยนต์ควบคุมสนามหญ้าของคุณหรือไม่"
+      "title_th": "Best Robot Lawn Mowers (2026): 12+ Models Tested Over 3 Years",
+      "summary_th": "Smart mowers are an expensive alternative to old-fashioned yard work, but they’re finally good enough to consider if you’d rather sip an iced tea and watch a robot tame your lawn."
     },
     {
       "source": "Wired",
@@ -215,8 +215,8 @@
       "image": "https://media.wired.com/photos/6aa18f229ba60a161c7e4cb9/master/pass/charlie-kirk-conspiracies.jpg",
       "link": "https://www.wired.com/story/charlie-kirk-was-shot-a-year-ago-the-conspiracy-theories-are-more-rampant-than-ever/",
       "published": "Thu, 10 Sep 2026 14:34:36 +0000",
-      "title_th": "Charlie Kirk ถูกยิงเมื่อปีก่อน ทฤษฎีสมคบคิดแพร่หลายมากขึ้นกว่าเดิม",
-      "summary_th": "ผู้เชี่ยวชาญกล่าวว่าทฤษฎีสมคบคิดเกี่ยวกับตัวตนและแรงจูงใจของฆาตกรชาร์ลี เคิร์ก น่าจะดำเนินต่อไปอีกนาน"
+      "title_th": "Charlie Kirk Was Shot a Year Ago. The Conspiracy Theories Are More Rampant Than Ever",
+      "summary_th": "Experts say conspiracy theorizing about the identity and motive of Charlie Kirk’s killer will likely continue for a long time to come."
     },
     {
       "source": "Wired",
@@ -288,7 +288,7 @@
       "link": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
       "published": "Thu, 10 Sep 2026 10:00:00 +0000",
       "title_th": "ตลาดแบตเตอรี่ของสหรัฐฯ จะสามารถแก้ปัญหาจากจีนได้หรือไม่?",
-      "summary_th": "สหรัฐอเมริกากำลังสร้างสถิติการเติบโตอย่างรวดเร็วของตลาดกักเก็บพลังงาน ซึ่งจะช่วยเสริมโครงข่ายไฟฟ้า เพิ่มความน่าเชื่อถือ และลดการปล่อยก๊าซเรือนกระจก เนื่องจากแบตเตอรี่สามารถช่วยกักเก็บพลังงานจากพลังงานหมุนเวียนที่ไม่ต่อเนื่อง เช่น ลมและแสงอาทิตย์ สิ่งสำคัญที่สุดคือทั้งหมดนี้เกิดขึ้นด้วยความช่วยเหลือของแบตเตอรี่จีนราคาถูก..."
+      "summary_th": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from intermittent renewables like wind and solar. Crucially, this is all happening with the help of cheap Chinese batteries,…"
     },
     {
       "source": "MIT Technology Review",
@@ -299,8 +299,32 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Regalados_DSF7279-crop.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
       "published": "Thu, 10 Sep 2026 09:00:00 +0000",
-      "title_th": "พระเจ้าบอกให้พวกเขาขาย crypto นักลงทุนของพวกเขาสูญเสียทุกสิ่งทุกอย่าง",
-      "summary_th": "บทความนี้จัดทำขึ้นโดยความร่วมมือกับ Type Investigations และได้รับการสนับสนุนจากกองทุนเพื่อวารสารศาสตร์เชิงสืบสวน เมื่อเอลี เรกาลาโดได้ยินพระเจ้าตรัสกับเขาเป็นครั้งแรก เขาสงสัยว่าเขากำลังประสาทหลอนหรือเปล่า ตอนนี้เขาเปรียบประสบการณ์กับการมี “ความคิดที่ไม่ใช่ความคิดของฉัน” คำพูดศักดิ์สิทธิ์สะท้อนอยู่ในใจของเขาราวกับ..."
+      "title_th": "God told them to sell crypto. Their investors lost everything.",
+      "summary_th": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Now he likens the experience to having “a thought that is not my thought.” Divine words echo in his mind like a…"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "A native Gemini app is finally available for Windows PCs",
+      "summary_en": "There's a keyboard shortcut to open it up, just like the Mac version.",
+      "image": "https://www.engadget.com/img/gallery/a-native-gemini-app-is-finally-available-for-windows-pcs/l-intro-1789064836.jpg",
+      "link": "https://www.engadget.com/2255197/a-native-gemini-app-is-finally-available-for-windows-pcs/",
+      "published": "Thu, 10 Sep 2026 18:30:00 +0000",
+      "title_th": "A native Gemini app is finally available for Windows PCs",
+      "summary_th": "มีแป้นพิมพ์ลัดสำหรับเปิดขึ้น เช่นเดียวกับเวอร์ชัน Mac"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "How to watch the Flame Fatales 2026 speedrunning marathon",
+      "summary_en": "The fundraiser for Malala Fund runs September 13-19.",
+      "image": "https://www.engadget.com/img/gallery/how-to-watch-the-flame-fatales-2026-speedrunning-marathon/l-intro-1789064566.jpg",
+      "link": "https://www.engadget.com/2255188/how-to-watch-the-flame-fatales-2026-speedrunning-marathon/",
+      "published": "Thu, 10 Sep 2026 18:25:12 +0000",
+      "title_th": "วิธีดู Flame Fatales 2026 speedrunning มาราธอน",
+      "summary_th": "งานระดมทุนสำหรับ Malala Fund จะจัดขึ้นในวันที่ 13-19 กันยายน"
     },
     {
       "source": "Engadget",
@@ -336,31 +360,19 @@
       "link": "https://www.engadget.com/2254860/yoto-just-announced-two-new-audio-devices-for-kids/",
       "published": "Thu, 10 Sep 2026 15:47:08 +0000",
       "title_th": "Yoto เพิ่งเปิดตัวอุปกรณ์เสียงใหม่สองชิ้นสำหรับเด็ก",
-      "summary_th": "การอัพเกรดบางอย่างทำให้อุปกรณ์เหล่านี้มีความสามารถมากขึ้นและใช้งานง่ายขึ้นสำหรับมือเล็กๆ"
+      "summary_th": "Some upgrades make these more capable and easier to use for small hands."
     },
     {
-      "source": "Engadget",
+      "source": "IEEE Spectrum",
       "flag": "US",
-      "category": "chip",
-      "title_en": "Nintendo's latest sale is 'made possible' by the tariff refunds it's hoarding",
-      "summary_en": "Another way to appreciate customers might be returning their money.",
-      "image": "https://www.engadget.com/img/gallery/nintendos-latest-sale-is-made-possible-by-the-tariff-refunds-its-hoarding/l-intro-1789052374.jpg",
-      "link": "https://www.engadget.com/2254785/nintendos-latest-sale-is-made-possible-by-the-tariff-refunds-its-hoarding/",
-      "published": "Thu, 10 Sep 2026 15:00:56 +0000",
-      "title_th": "การขายล่าสุดของ Nintendo นั้น 'เป็นไปได้' โดยการขอคืนภาษีที่สะสมอยู่",
-      "summary_th": "อีกวิธีหนึ่งในการขอบคุณลูกค้าคือการคืนเงิน"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Instagram now lets you add tagged photos to your profile grid",
-      "summary_en": "Instagram now lets you bring tagged photos to your main profile feed, and here's how to do it.",
-      "image": "https://www.engadget.com/img/gallery/instagram-now-lets-you-add-tagged-photos-to-your-profile-grid/l-intro-1789041407.jpg",
-      "link": "https://www.engadget.com/2254580/instagram-lets-you-add-tagged-photos-to-profile-grid/",
-      "published": "Thu, 10 Sep 2026 15:00:00 +0000",
-      "title_th": "Instagram ให้คุณเพิ่มรูปภาพที่แท็กลงในตารางโปรไฟล์ของคุณแล้ว",
-      "summary_th": "ตอนนี้ Instagram ให้คุณนำรูปภาพที่แท็กไปยังฟีดโปรไฟล์หลักของคุณได้ และนี่คือวิธีการ"
+      "category": "robot",
+      "title_en": "Codeveloper of Ethernet Predecessor Dies at 91",
+      "summary_en": "Franklin “Frank” Kuo Codeveloper of ALOHAnet Fellow, 91; died 14 April Kuo helped develop ALOHAnet , a pioneering computer system at the University of Hawaii at Mānoa , in Honolulu. The system went online in 1971 and represented the first public demonstration of a wireless packet data network . It was an inspiration for Robert Metcalfe ’s development of Ethernet a couple of years later. In 2020 ALOHAnet was designated as an IEEE Milestone . Kuo earned bachelor’s, master’s, and doctoral degrees in electrical engineering from the University of Illinois , Urbana-Champaign. After earning his Ph.D. in 1960, he joined Bell Labs in Murray Hill, N.J. , where he conducted research in computer communications. After six years at the company, Kuo left to become a professor of electrical engineering at",
+      "image": "https://spectrum.ieee.org/media-library/black-and-white-photograph-of-a-young-asian-man-in-a-suit-and-tie.jpg?id=67750969&width=980",
+      "link": "https://spectrum.ieee.org/codeveloper-of-ethernet-predecessor-dies",
+      "published": "Thu, 10 Sep 2026 20:00:04 +0000",
+      "title_th": "Codeveloper of Ethernet Predecessor Dies at 91",
+      "summary_th": "แฟรงคลิน “แฟรงค์” คูโอ ผู้พัฒนาร่วมของ ALOHAnet Fellow, 91; เสียชีวิตเมื่อวันที่ 14 เมษายน Kuo ช่วยพัฒนา ALOHAnet ซึ่งเป็นระบบคอมพิวเตอร์รุ่นบุกเบิกที่มหาวิทยาลัยฮาวายที่ Mānoa ในโฮโนลูลู ระบบดังกล่าวเริ่มออนไลน์ในปี พ.ศ. 2514 และเป็นการสาธิตสู่สาธารณะครั้งแรกของเครือข่ายข้อมูลแพ็กเก็ตไร้สาย นี่เป็นแรงบันดาลใจในการพัฒนา Ethernet ของ Robert Metcalfe ในอีกสองสามปีต่อมา ในปี 2020 ALOHAnet ถูกกำหนดให้เป็น IEEE Milestone Kuo สำเร็จการศึกษาระดับปริญญาตรี ปริญญาโท และปริญญาเอกสาขาวิศวกรรมไฟฟ้าจากมหาวิทยาลัยอิลลินอยส์ เออร์บานา-แชมเปญจน์ หลังจากได้รับปริญญาเอก ในปี 1960 เขาได้ร่วมงานกับ Bell Labs ในเมอร์เรย์ฮิลล์ รัฐนิวเจอร์ซี ซึ่งเขาได้ดำเนินการวิจัยด้านการสื่อสารด้วยคอมพิวเตอร์ หลังจากทำงานที่บริษัทได้หกปี Kuo ก็ลาออกไปเป็นศาสตราจารย์ด้านวิศวกรรมไฟฟ้าที่"
     },
     {
       "source": "IEEE Spectrum",
@@ -395,8 +407,8 @@
       "image": "https://spectrum.ieee.org/media-library/a-road-scene-shot-from-the-perspective-of-a-driver-shows-red-splotches-to-indicate-where-nearby-vehicles-were-detected-using-l.png?id=67724498&width=980",
       "link": "https://spectrum.ieee.org/are-self-driving-cars-safe",
       "published": "Tue, 08 Sep 2026 12:59:04 +0000",
-      "title_th": "ข้อพิสูจน์ที่เพิ่มขึ้นว่ารถยนต์ขับเคลื่อนอัตโนมัติช่วยชีวิตได้",
-      "summary_th": "ผู้คนจำนวนมากยังคงหวาดกลัวกับรถยนต์ขับเคลื่อนอัตโนมัติหรือ AV ผู้เชี่ยวชาญและผู้กำหนดนโยบายบางคนเตือนว่า AV ไม่ได้ทำให้ถนนปลอดภัยขึ้นเสมอไป เมื่อพูดถึงความเป็นอิสระบางส่วนหรือทั้งหมด ภาพอาจไม่ชัดเจนนัก ส่วนหนึ่งเป็นเพราะไม่มีรถยนต์ที่ขับเคลื่อนด้วยตนเองไม่เพียงพอที่จะเปรียบเทียบระหว่างแอปเปิ้ลกับแอปเปิลได้อย่างมีความหมาย อย่างไรก็ตาม การวิจัยที่เพิ่มขึ้นชี้ให้เห็นว่ารถยนต์ที่ขับเคลื่อนด้วยตนเองชนกันน้อยกว่าผู้คนอย่างมาก และมีอาการบาดเจ็บน้อยกว่ามาก หลักฐานยังแสดงให้เห็นว่าระบบช่วยเหลือผู้ขับขี่ขั้นสูง (ADAS) และส่วนประกอบอื่นๆ ของระบบขับเคลื่อนอัตโนมัติ ซึ่งบางส่วนได้รับคำสั่งจากรถใหม่ทุกคัน ยังช่วยลดการบาดเจ็บและการเสียชีวิตของผู้โดยสารและคนเดินถนน รวมถึงการเคลมประกันอีกด้วย ที่หน้า ADAS สถาบันประกันภัยเพื่อความปลอดภัยบนทางหลวงพบว่าเกิดขึ้นโดยอัตโนมัติ"
+      "title_th": "The Growing Proof That Autonomous Cars Save Lives",
+      "summary_th": "Plenty of people remain spooked by autonomous vehicles, or AVs. Some experts and policymakers have cautioned that AVs won’t necessarily make roads safer. When it comes to partial or full autonomy, the picture isn’t entirely clear, in part because there aren’t enough self-driving cars to make meaningful apples-to-apples comparisons. Yet mounting research suggests that self-driving cars crash significantly less often than people, and with far fewer injuries. Evidence also shows that advanced driver assistance systems (ADAS) and other building blocks of autonomy—some of which are already mandated on every new car—are also reducing occupant and pedestrian injuries and deaths, along with insurance claims. On the ADAS front, the Insurance Institute for Highway Safety found that automatic emergen"
     },
     {
       "source": "IEEE Spectrum",
@@ -411,16 +423,52 @@
       "summary_th": "นักวิจัยและนักศึกษาจำนวนมากในเคนยา รวันดา และยูกันดาประสบปัญหาในการเข้าถึงและตีพิมพ์บทความทางวิทยาศาสตร์และทางเทคนิค เนื่องจากมีอุปสรรคทางการเงิน รวมถึงค่าธรรมเนียมการตีพิมพ์และการสมัครใช้บริการห้องสมุดวิจัย เพื่อช่วย IEEE ได้ทำให้ Xplore Digital Library เข้าถึงได้ง่ายขึ้นโดยเสนอส่วนลดสำหรับการสมัครสมาชิกและลดค่าธรรมเนียมในการเผยแพร่บทความ แต่จำนวนบทความที่ตีพิมพ์โดยนักเทคโนโลยีในสามประเทศยังคงตามหลังจากประเทศกำลังพัฒนาอื่นๆ อาจเป็นไปได้ว่านักวิจัยจำนวนมากยังไม่ได้รับการฝึกอบรมด้านระเบียบวิธี ได้รับคำแนะนำในการเขียนบทความวิชาการ หรือเข้าใจกระบวนการตีพิมพ์ในวารสารวิทยาศาสตร์อย่างถ่องแท้ เจ้าหน้าที่จากกลุ่มผลิตภัณฑ์สิ่งพิมพ์และข้อมูลสารสนเทศของ IEEE และอาสาสมัคร IEEE ได้จัดงานเวิร์คช็อปด้านการศึกษา"
     },
     {
-      "source": "IEEE Spectrum",
-      "flag": "US",
-      "category": "robot",
-      "title_en": "Protecting Dynamic Industrial Robot Cable Carriers",
-      "summary_en": "This article is brought to you by Tsubaki KabelSchlepp . In modern automated manufacturing, six-axis articulated robots perform high-speed, multidirectional maneuvers under demanding operational cycles. However, as robot arms swivel, rotate, and extend, the electrical cables, fiber optics, and pneumatic hoses supplying them endure severe mechanical stress. Torsional twist, rapid acceleration, and repeated contact with machine structures often lead to premature conductor fatigue, insulation breakdown, and costly unplanned production halts. To overcome these multi-axis motion challenges, the Tsubaki KabelSchlepp Robotrax System provides a specialized three-dimensional cable carrier engineered specifically for complex robotic motion. Managing High Tensile Forces With Central Steel Technology ",
-      "image": "https://spectrum.ieee.org/media-library/industrial-robotic-arm-with-cable-management-system-and-flexible-energy-chains.jpg?id=67633840&width=980",
-      "link": "https://spectrum.ieee.org/industrial-robot-cable-carrier-protection",
-      "published": "Thu, 03 Sep 2026 12:18:21 +0000",
-      "title_th": "การปกป้องผู้ให้บริการเคเบิลหุ่นยนต์อุตสาหกรรมแบบไดนามิก",
-      "summary_th": "บทความนี้นำเสนอโดย Tsubaki KabelSchlepp ในการผลิตแบบอัตโนมัติสมัยใหม่ หุ่นยนต์แบบข้อต่อหกแกนดำเนินการควบคุมด้วยความเร็วสูงหลายทิศทางภายใต้วงจรการปฏิบัติงานที่มีความต้องการสูง อย่างไรก็ตาม ในขณะที่แขนหุ่นยนต์หมุน หมุน และยืดออก สายเคเบิลไฟฟ้า ไฟเบอร์ออปติก และท่อนิวแมติกที่จ่ายให้กับแขนจะต้องทนต่อความเครียดทางกลที่รุนแรง การบิดตัวแบบบิด การเร่งความเร็วอย่างรวดเร็ว และการสัมผัสกับโครงสร้างของเครื่องจักรซ้ำๆ มักจะนำไปสู่ความล้าของตัวนำก่อนเวลาอันควร ฉนวนพังทลาย และการหยุดการผลิตโดยไม่ได้วางแผนซึ่งมีค่าใช้จ่ายสูง เพื่อเอาชนะความท้าทายในการเคลื่อนที่แบบหลายแกนเหล่านี้ Tsubaki KabelSchlepp Robotrax System จึงมอบตัวพาสายเคเบิลสามมิติพิเศษที่ออกแบบเป็นพิเศษสำหรับการเคลื่อนที่ของหุ่นยนต์ที่ซับซ้อน การจัดการแรงดึงสูงด้วยเทคโนโลยี Central Steel"
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Report: iPhone Duo could give Apple a 25% share of foldable market in 2026",
+      "summary_en": "A new TrendForce report says the iPhone Duo is expected to capture 24,8% of the foldable smartphone market in 2026 alone, countering a 20% slump in the segment. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iPhone-Duo-apps.webp?resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/10/report-iphone-duo-could-give-apple-a-25-share-of-foldable-market-in-2026/",
+      "published": "Thu, 10 Sep 2026 20:04:18 +0000",
+      "title_th": "รายงาน: iPhone Duo อาจทำให้ Apple มีส่วนแบ่งตลาดแบบพับได้ 25% ในปี 2026",
+      "summary_th": "รายงาน TrendForce ใหม่ระบุว่า iPhone Duo คาดว่าจะครองตลาดสมาร์ทโฟนแบบพับได้ 24.8% ในปี 2569 เพียงปีเดียว เทียบกับการตกต่ำ 20% ในกลุ่มนี้ นี่คือรายละเอียด มากกว่า…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple shares fun, 95-second recap of yesterday’s ‘Surprise and Shine’ event",
+      "summary_en": "If you missed yesterday’s “Surprise and Shine” event and don’t feel like watching the entire hour-plus-long video, Apple’s YouTube Channel has got you covered. Watch the event recap below. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-event-recap.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/10/apple-shares-fun-95-second-recap-of-yesterdays-surprise-and-shine-event/",
+      "published": "Thu, 10 Sep 2026 19:31:51 +0000",
+      "title_th": "Apple แบ่งปันความสนุกสนาน 95 วินาทีสรุปกิจกรรม 'Surprise and Shine' เมื่อวานนี้",
+      "summary_th": "If you missed yesterday’s “Surprise and Shine” event and don’t feel like watching the entire hour-plus-long video, Apple’s YouTube Channel has got you covered. Watch the event recap below. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple will launch 7+ new products in October, here’s what’s coming",
+      "summary_en": "iPhone Duo was unveiled this week, but won’t ship until October . And Apple reportedly has many other new products set to debut in October too, here’s what’s coming. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-sep-2026-keynote.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/10/apple-will-launch-7-new-products-in-october-heres-whats-coming/",
+      "published": "Thu, 10 Sep 2026 18:52:24 +0000",
+      "title_th": "Apple จะเปิดตัวผลิตภัณฑ์ใหม่มากกว่า 7 รายการในเดือนตุลาคม ต่อไปนี้คือสิ่งที่กำลังจะตามมา",
+      "summary_th": "iPhone Duo เปิดตัวในสัปดาห์นี้ แต่จะไม่จัดส่งจนถึงเดือนตุลาคม และมีรายงานว่า Apple ยังมีผลิตภัณฑ์ใหม่อื่นๆ อีกมากมายที่จะเปิดตัวในเดือนตุลาคมด้วย นี่คือสิ่งที่จะเกิดขึ้น มากกว่า…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple TV Remote app has hidden features that could be coming to iOS 27",
+      "summary_en": "Apple is giving the Apple TV Remote app experience a lot of love in iOS 27. That’s as good a sign as any that a new Apple TV 4K box is on the way. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/remote.webp?resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/10/apple-tv-remote-app-has-hidden-features-that-could-be-coming-to-ios-27/",
+      "published": "Thu, 10 Sep 2026 18:13:28 +0000",
+      "title_th": "แอพ Apple TV Remote มีคุณสมบัติที่ซ่อนอยู่ซึ่งอาจมาใน iOS 27",
+      "summary_th": "Apple is giving the Apple TV Remote app experience a lot of love in iOS 27. That’s as good a sign as any that a new Apple TV 4K box is on the way. more…"
     },
     {
       "source": "9to5Mac",
@@ -431,56 +479,20 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-air-falling.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/09/10/iphone-airs-200-premium-disappears-when-you-trade-it-in/",
       "published": "Thu, 10 Sep 2026 16:53:51 +0000",
-      "title_th": "พรีเมี่ยมมูลค่า 200 ดอลลาร์ของ iPhone Air จะหายไปเมื่อคุณนำเครื่องมาแลก",
-      "summary_th": "หลังจากการประกาศ iPhone 18 Pro และ iPhone Duo ในสัปดาห์นี้ Apple ได้เริ่มรับการแลกเปลี่ยน iPhone Air และ iPhone 17 เป็นเครดิต อย่างไรก็ตาม ข้อเสนอ iPhone Air ค่อนข้างน่าปวดหัว โดยเฉพาะอย่างยิ่งหลังจากที่ราคาเพิ่มขึ้นในสัปดาห์นี้ มากกว่า…"
+      "title_th": "iPhone Air’s $200 premium disappears when you trade it in",
+      "summary_th": "Following the iPhone 18 Pro and iPhone Duo announcement this week, Apple has started accepting iPhone Air and iPhone 17 trade-ins for credit. However, the iPhone Air offer is a bit of a sore spot, especially after this week’s price increases. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple TV is about to kick off four weeks straight of big premieres",
-      "summary_en": "Apple TV has a strong fall lineup coming up , including four weeks straight of big premieres that kick off next week with critical hit Slow Horses. Here’s what’s coming. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-tv-logo-lg-stars.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/10/apple-tv-is-about-to-kick-off-four-weeks-of-big-premieres/",
-      "published": "Thu, 10 Sep 2026 16:53:48 +0000",
-      "title_th": "Apple TV กำลังจะฉายรอบปฐมทัศน์ครั้งใหญ่ติดต่อกันสี่สัปดาห์",
-      "summary_th": "Apple TV มีรายการที่น่าสนใจในช่วงฤดูใบไม้ร่วงที่กำลังจะมาถึง รวมถึงการฉายรอบปฐมทัศน์ครั้งใหญ่ติดต่อกันสี่สัปดาห์ซึ่งจะเริ่มต้นในสัปดาห์หน้าด้วยเพลงฮิตอย่าง Slow Horses นี่คือสิ่งที่กำลังจะเกิดขึ้น มากกว่า…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "AirPods 5, Apple Watch Series 12, and Ultra 4 now available on Amazon",
-      "summary_en": "Apple unveiled its new Apple Watch Ultra 4 and Apple Watch Series 12 lineup yesterday, plus the all-new AirPods 5. They hit shelves next Friday, September 18. Ahead of that launch, Apple’s new lineup is now available to pre-order on Amazon. Pre-order AirPods 5 Pre-order Apple Watch Series 12 Pre-order Apple Watch Ultra 4 more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-airpods-5.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/10/airpods-5-apple-watch-series-12-and-ultra-4-now-available-on-amazon/",
-      "published": "Thu, 10 Sep 2026 16:25:39 +0000",
-      "title_th": "AirPods 5, Apple Watch Series 12 และ Ultra 4 มีวางจำหน่ายแล้วที่ Amazon",
-      "summary_th": "Apple เปิดตัวกลุ่มผลิตภัณฑ์ Apple Watch Ultra 4 และ Apple Watch Series 12 ใหม่เมื่อวานนี้ พร้อมด้วย AirPods 5 ใหม่ทั้งหมด ซึ่งจะวางจำหน่ายในวันศุกร์ที่ 18 กันยายนหน้า ก่อนการเปิดตัว กลุ่มผลิตภัณฑ์ใหม่ของ Apple พร้อมให้สั่งซื้อล่วงหน้าบน Amazon แล้ว สั่งซื้อ AirPods 5 ล่วงหน้า สั่งซื้อ Apple Watch Series 12 ล่วงหน้า สั่งซื้อ Apple Watch Ultra 4 เพิ่มเติม…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "iPhone Duo is no Apple Vision Pro",
-      "summary_en": "Look, no offense to Apple Vision Pro. I’m sure Apple Vision Pro is a very nice person. But iPhone Duo and Apple Vision Pro are not the same. There’s a take that the iPhone Duo may have the Apple Vision Pro problem. The idea is that due to its price and device-specific software, it may be a miss and not a hit. The two things are not the same. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-ios-27-fold.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/10/iphone-duo-is-no-apple-vision-pro/",
-      "published": "Thu, 10 Sep 2026 16:21:52 +0000",
-      "title_th": "iPhone Duo ไม่ใช่ Apple Vision Pro",
-      "summary_th": "ดูสิ ไม่มีการละเมิด Apple Vision Pro ฉันแน่ใจว่า Apple Vision Pro เป็นคนดีมาก แต่ iPhone Duo และ Apple Vision Pro ไม่เหมือนกัน มีข้อที่ iPhone Duo อาจมีปัญหา Apple Vision Pro แนวคิดก็คือเนื่องจากราคาและซอฟต์แวร์เฉพาะอุปกรณ์ จึงอาจพลาดและไม่ได้รับความนิยม ทั้งสองสิ่งไม่เหมือนกัน มากกว่า…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "This might be iPhone 18 Pro’s best camera feature for most users",
-      "summary_en": "iPhone 18 Pro packs lots of camera upgrades ( great rundown here ), with the tentpole addition being variable aperture. But there’s one other Main camera change that users like me might deem their favorite. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-burgundy-rear-camera.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/10/this-might-be-iphone-18-pros-best-camera-feature-for-most-users/",
-      "published": "Thu, 10 Sep 2026 15:40:51 +0000",
-      "title_th": "นี่อาจเป็นคุณสมบัติกล้องที่ดีที่สุดของ iPhone 18 Pro สำหรับผู้ใช้ส่วนใหญ่",
-      "summary_th": "iPhone 18 Pro มีการอัพเกรดกล้องมากมาย (บทสรุปที่ดีที่นี่) โดยการเพิ่มเสาเต็นท์เป็นรูรับแสงแบบปรับได้ แต่ยังมีการเปลี่ยนแปลงกล้องหลักอีกประการหนึ่งที่ผู้ใช้เช่นฉันอาจมองว่าตนชื่นชอบ มากกว่า…"
+      "title_en": "Google’s hyper-personalized ‘Dreambeans’ feed is now free to test [U]",
+      "summary_en": "Dreambeans is an experimental app from Google Labs that will “proactively dream up personalized daily stories.” After previously requiring a subscription, Dreambeans is now available for free Google Accounts in the US to test. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Dreambeans-3.webp?resize=1200,628",
+      "link": "https://9to5google.com/2026/09/10/google-dreambeans-free/",
+      "published": "Thu, 10 Sep 2026 19:30:00 +0000",
+      "title_th": "ฟีด 'Dreambeans' ที่เป็นส่วนตัวของ Google เปิดให้ทดสอบฟรีแล้ว [U]",
+      "summary_th": "Dreambeans เป็นแอปทดลองจาก Google Labs ที่จะ \"ฝันถึงเรื่องราวในแต่ละวันในแบบของคุณ\" หลังจากที่ต้องสมัครสมาชิกก่อนหน้านี้ ขณะนี้ Dreambeans เปิดให้ทดสอบบัญชี Google ฟรีในสหรัฐอเมริกาแล้ว มากกว่า…"
     },
     {
       "source": "9to5Google",
@@ -515,8 +527,8 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/comulytic-note-pro-2.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/09/10/comus-action-pro-is-a-great-meeting-recorder-that-struggles-to-justify-its-ai-premium/",
       "published": "Thu, 10 Sep 2026 17:22:21 +0000",
-      "title_th": "Action Pro ของ Comu เป็นเครื่องบันทึกการประชุมที่ยอดเยี่ยมที่พยายามดิ้นรนเพื่อให้ได้มาซึ่ง AI ระดับพรีเมียม",
-      "summary_th": "เมื่อบ้านของฉันเริ่มเต็มไปด้วยเศษเสี้ยวของการเลี้ยงดูลูกมากขึ้นเรื่อยๆ ฉันได้พยายามกำจัดส่วนเกินทั้งทางกายภาพและทางดิจิทัลออกจากชีวิตของฉัน นอกจากจะเป็นเรื่องของการควบคุมแล้ว ยังเกี่ยวกับสุขภาพจิตด้วย ฉันใช้โทรศัพท์มากเกินไปอยู่แล้ว ดังนั้นการเพิ่มอีกอย่างลงในกระเป๋าเป้สะพายหลังหรือในกระเป๋าเสื้อก็ให้ความรู้สึกที่พิเศษกว่านั้น มากกว่า…"
+      "title_th": "Comu’s Action Pro is a great meeting recorder that struggles to justify its AI premium",
+      "summary_th": "As my house becomes increasingly strewn with the detritus of parenting, I’ve made the inverse effort to eliminate excess, physical and digital, from my life. As much as it is about control, it’s also about mental health; I already use my phone too much, so adding yet another thing to the backpack, to the pocket, feels anything but additive. more…"
     },
     {
       "source": "9to5Google",
@@ -527,80 +539,68 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/android-adb-wifi-2-1.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/09/10/google-details-adb-wi-fi-2-0-for-more-reliable-wireless-android-debugging/",
       "published": "Thu, 10 Sep 2026 16:40:00 +0000",
-      "title_th": "Google ให้รายละเอียด ADB Wi-Fi 2.0 สำหรับการดีบัก Android ไร้สายที่เชื่อถือได้มากขึ้น",
-      "summary_th": "Google พร้อมให้บริการในฐานะส่วนหนึ่งของ Android 17 ทำให้การแก้ไขจุดบกพร่องแบบไร้สายมีความน่าเชื่อถือมากขึ้นด้วย ADB Wi-Fi 2.0 มากกว่า…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Google brings Gemini for desktop app to Windows",
-      "summary_en": "Following the macOS launch in April, Google is bringing the Gemini for desktop app to Windows. Launched with Alt + Space...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Gemini-desktop-app-Windows.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/10/gemini-windows-app/",
-      "published": "Thu, 10 Sep 2026 16:33:42 +0000",
-      "title_th": "Google นำแอพ Gemini สำหรับเดสก์ท็อปมาสู่ Windows",
-      "summary_th": "หลังจากเปิดตัว macOS ในเดือนเมษายน Google จะนำแอพ Gemini สำหรับเดสก์ท็อปมาสู่ Windows เปิดตัวด้วย Alt + Space..."
+      "title_th": "Google details ADB Wi-Fi 2.0 for more reliable wireless Android debugging",
+      "summary_th": "Available as a part of Android 17, Google is making wireless debugging a whole lot more reliable with ADB Wi-Fi 2.0. more…"
     },
     {
       "source": "Electrek",
       "flag": "",
       "category": "ev",
-      "title_en": "Toyota recalls 8,521 electric C-HR SUVs [Update]",
-      "summary_en": "Toyota is recalling 8,521 electric C-HR vehicles because a software glitch can cause the vehicle to suddenly lose power while driving. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Toyota-C-HR-EV-recall-update.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/10/toyota-recalls-8521-electric-c-hr-suvs-update/",
-      "published": "Thu, 10 Sep 2026 17:31:26 +0000",
-      "title_th": "Toyota เรียกคืน C-HR SUV ไฟฟ้า 8,521 คัน [อัพเดท]",
-      "summary_th": "โตโยต้าเรียกคืนรถยนต์ไฟฟ้า C-HR จำนวน 8,521 คัน เนื่องจากข้อผิดพลาดของซอฟต์แวร์อาจทำให้รถยนต์สูญเสียพลังงานกะทันหันขณะขับขี่ มากกว่า…"
+      "title_en": "Kia reveals EV3 lease offer for $349 a month, but there’s a catch",
+      "summary_en": "The EV3 is now on sale as Kia’s most affordable electric vehicle, starting at $29,890. So, how much does it cost to lease? more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Kia-EV3-lease-offers.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/10/kia-ev3-lease-offer-349-a-month/",
+      "published": "Thu, 10 Sep 2026 19:52:47 +0000",
+      "title_th": "Kia เปิดเผยข้อเสนอการเช่า EV3 ในราคา 349 เหรียญต่อเดือน แต่ก็มีข้อดีอยู่",
+      "summary_th": "EV3 วางจำหน่ายแล้วในฐานะรถยนต์ไฟฟ้าราคาประหยัดที่สุดของ Kia ในราคาเริ่มต้นที่ 29,890 ดอลลาร์ แล้วค่าเช่าเท่าไหร่ครับ? มากกว่า…"
     },
     {
       "source": "Electrek",
       "flag": "",
       "category": "ev",
-      "title_en": "China exported more cars in 8 months than in all of 2025 – and most are EVs",
-      "summary_en": "China has already crossed its record car export number from last year, and we’re only 2/3 of the way through the year. It shows how China’s EV choices are leading the country to dominate manufacturing, while the rest of the world’s automaking nations simply stand by and eagerly enable it. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2024/02/BYD-first-cargo-ship-1.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/10/china-exported-more-cars-in-8-months-than-in-all-of-2025-and-most-are-evs/",
-      "published": "Thu, 10 Sep 2026 17:07:30 +0000",
-      "title_th": "จีนส่งออกรถยนต์ในช่วง 8 เดือนมากกว่าในปี 2568 ทั้งหมด และส่วนใหญ่เป็นรถยนต์ไฟฟ้า",
-      "summary_th": "จีนได้ก้าวข้ามสถิติการส่งออกรถยนต์จากปีที่แล้ว และเราเป็นเพียง 2/3 ของการส่งออกรถยนต์ในปีนี้ มันแสดงให้เห็นว่าตัวเลือก EV ของจีนกำลังนำประเทศไปสู่การครองการผลิต ในขณะที่ประเทศผู้ผลิตรถยนต์อื่นๆ ในโลกเพียงยืนหยัดและกระตือรือร้นที่จะเปิดใช้งาน มากกว่า…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Volkswagen ID. Buzz gains a new rear view camera system and more for 2027",
-      "summary_en": "Volkswagen launched the latest version of its IQ.Drive ADAS system across its 2027 vehicles, including the Atlas, Golf, ID. Buzz , and Tiguan. The electric ID. Buzz van returns in 2027, bringing several upgrades. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Volkswagen-ID-Buzz-2027.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/10/volkswagen-id-buzz-gains-new-camera-system-and-more-2027/",
-      "published": "Thu, 10 Sep 2026 16:29:16 +0000",
-      "title_th": "รหัสโฟล์คสวาเกน Buzz มีระบบกล้องมองหลังใหม่และอีกมากมายในปี 2570",
-      "summary_th": "Volkswagen เปิดตัวระบบ IQ.Drive ADAS เวอร์ชันล่าสุดในรถยนต์ปี 2027 รวมถึง Atlas, Golf, ID บัซ และทิกวน. รหัสไฟฟ้า Buzz van กลับมาอีกครั้งในปี 2027 พร้อมการอัพเกรดหลายอย่าง มากกว่า…"
+      "title_en": "Tesla Cybertruck Powershare finally backs up homes with a Powerwall 3",
+      "summary_en": "Tesla’s Cybertruck Powershare feature can now back up your home at the same time as a Powerwall 3, the company announced Thursday. Run together, the truck and the battery add more than three days of backup power, which Tesla says is the equivalent of nine extra Powerwalls. It’s a feature Tesla first promised for 2025, and it’s showing up nearly two years after Cybertruck deliveries began. But it finally closes one of Powershare’s most annoying gaps. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2024/04/Tesla-Cybertruck-Powershare-installation.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/10/tesla-cybertruck-powershare-powerwall-3-home-backup/",
+      "published": "Thu, 10 Sep 2026 19:27:50 +0000",
+      "title_th": "Tesla Cybertruck Powershare finally backs up homes with a Powerwall 3",
+      "summary_th": "Tesla’s Cybertruck Powershare feature can now back up your home at the same time as a Powerwall 3, the company announced Thursday. Run together, the truck and the battery add more than three days of backup power, which Tesla says is the equivalent of nine extra Powerwalls. It’s a feature Tesla first promised for 2025, and it’s showing up nearly two years after Cybertruck deliveries began. But it finally closes one of Powershare’s most annoying gaps. more…"
     },
     {
       "source": "Electrek",
       "flag": "",
       "category": "ev",
-      "title_en": "Congressman presses DOT on Tesla FSD after 43 sleeping-driver videos",
-      "summary_en": "A US congressman is demanding the Department of Transportation explain what it’s doing about Tesla’s Autopilot and Full Self-Driving after an NBC News investigation surfaced dozens of videos of drivers apparently asleep at the wheel. Rep. Raja Krishnamoorthi gave Transportation Secretary Sean Duffy until September 30 to answer five questions about the systems, which Tesla itself says “require active driver supervision and are not autonomous driving systems.” more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2025/11/Tesla-Robotaxi-driver-asleep.png?resize=1200,628",
-      "link": "https://electrek.co/2026/09/10/congressman-dot-tesla-fsd-sleeping-drivers/",
-      "published": "Thu, 10 Sep 2026 15:48:13 +0000",
-      "title_th": "สมาชิกสภาคองเกรสกด DOT บน Tesla FSD หลังจากวิดีโอไดรเวอร์หลับ 43 รายการ",
-      "summary_th": "สมาชิกสภาผู้แทนราษฎรของสหรัฐอเมริกาเรียกร้องให้กระทรวงคมนาคมอธิบายว่ากำลังทำอะไรเกี่ยวกับระบบขับเคลื่อนอัตโนมัติและการขับขี่ด้วยตนเองของ Tesla หลังจากการสอบสวนของ NBC News เผยให้เห็นวิดีโอหลายสิบรายการที่คนขับหลับใหลอยู่บนพวงมาลัย ตัวแทน Raja Krishnamoorthi ให้เวลารัฐมนตรีกระทรวงคมนาคม Sean Duffy จนถึงวันที่ 30 กันยายน เพื่อตอบคำถามห้าข้อเกี่ยวกับระบบ ซึ่ง Tesla เองกล่าวว่า \"ต้องมีการควบคุมดูแลผู้ขับขี่และไม่ใช่ระบบขับขี่อัตโนมัติ\" มากกว่า…"
+      "title_en": "Tesla Autopilot was on in I-35 crash that killed its driver",
+      "summary_en": "A 2024 Tesla Model Y ran off Interstate 35 in rural Missouri, struck a guardrail, and killed its driver, a 64-year-old woman from Raymore. Troopers reported a single-vehicle wreck and said the car “went off the road.” What they didn’t say, and likely didn’t know, is that Tesla’s own report to federal regulators says the car’s driver-assist system was engaged. This is part of an ongoing Electrek investigation matching reported crashes to Tesla’s redacted NHTSA data. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Autopilot-Radar-e1603395743425.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/10/tesla-driver-assist-i35-guardrail-pattonsburg/",
+      "published": "Thu, 10 Sep 2026 19:18:47 +0000",
+      "title_th": "Tesla Autopilot was on in I-35 crash that killed its driver",
+      "summary_th": "A 2024 Tesla Model Y ran off Interstate 35 in rural Missouri, struck a guardrail, and killed its driver, a 64-year-old woman from Raymore. Troopers reported a single-vehicle wreck and said the car “went off the road.” What they didn’t say, and likely didn’t know, is that Tesla’s own report to federal regulators says the car’s driver-assist system was engaged. This is part of an ongoing Electrek investigation matching reported crashes to Tesla’s redacted NHTSA data. more…"
     },
     {
       "source": "Electrek",
       "flag": "",
       "category": "ev",
-      "title_en": "Volvo kills off another EV for the US, but it has a replacement coming in 2027",
-      "summary_en": "Volvo is pulling the EX40 from its US lineup, leaving the $60,000 EX60 as the brand’s most affordable EV, at least for now. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Volvo-EX40-discontinued-US.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/10/volvo-kills-off-another-ev-us-replacement-coming/",
-      "published": "Thu, 10 Sep 2026 14:56:37 +0000",
-      "title_th": "Volvo ยุติการผลิตรถยนต์ EV อีกคันในสหรัฐฯ แต่จะมีรถยนต์ทดแทนมาทดแทนในปี 2570",
-      "summary_th": "Volvo กำลังดึง EX40 ออกจากกลุ่มผลิตภัณฑ์ในสหรัฐฯ โดยปล่อยให้ EX60 มูลค่า 60,000 ดอลลาร์เป็น EV ที่ราคาไม่แพงที่สุดของแบรนด์ อย่างน้อยก็ในตอนนี้ มากกว่า…"
+      "title_en": "A new Arizona plant is going after the rare earth supply crunch",
+      "summary_en": "A new rare earth recycling plant in Arizona could create another domestic source of materials needed for EV motors, wind turbines, and a long list of other products. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Cyclic-Materials-Mesa-Az.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/10/a-new-arizona-plant-is-going-after-the-rare-earth-supply-crunch/",
+      "published": "Thu, 10 Sep 2026 18:50:00 +0000",
+      "title_th": "A new Arizona plant is going after the rare earth supply crunch",
+      "summary_th": "โรงงานรีไซเคิลแร่หายากแห่งใหม่ในรัฐแอริโซนาสามารถสร้างแหล่งวัสดุในประเทศอีกแห่งที่จำเป็นสำหรับมอเตอร์ไฟฟ้า กังหันลม และผลิตภัณฑ์อื่นๆ อีกมากมาย มากกว่า…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Segway Myon e-bike + $150 FREE accessory credit $1,800 ($350 off), EcoFlow 50% off power station sale, Anker security, more",
+      "summary_en": "We’ve got a jam-packed Thursday Green Deals for you, starting with Segway’s September Back to School e-bike sale that is offering a FREE $150 accessory credit with the latest Myon Smart Electric Bike down at $1,800 , among other e-bike lows. Right behind that is EcoFlow’s Home Preparedness Month Sale with continuing Labor Day power station deals and a bonus savings code – all starting from $299 . We also have returning low prices on Anker’s newest eufy E50 NVR 4K Bullet-PTZ Multi-Cam Security Systems with 2TB or 4TB hubs at up to $300 off, a 50% markdown on Worx’s 20V 20-inch Attachment-Capable Cordless Pole Hedge Trimmer , deals on a budget-friendly Greenworks string trimmer, a pro-tier 60V 4.0Ah battery, a DEWALT oscillating tool kit, and more – including the updated continuing Labor Day",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Segway-EcoFlow-Anker-eufy-Worx-GDs-FI.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/10/segway-myon-e-bike-ecoflow-power-station-sale-anker-security-more/",
+      "published": "Thu, 10 Sep 2026 18:00:00 +0000",
+      "title_th": "Segway Myon e-bike + เครดิตอุปกรณ์เสริมฟรี $ 150 $ 1,800 (ส่วนลด $ 350), EcoFlow ส่วนลด 50% จากการขายสถานีพลังงาน, การรักษาความปลอดภัย Anker และอีกมากมาย",
+      "summary_th": "เรามีข้อเสนอ Green Friday ที่อัดแน่นไปด้วยข้อเสนอสำหรับคุณ เริ่มต้นด้วยการขาย e-bike Back to School ของ Segway ในเดือนกันยายน โดยเสนอเครดิตเสริมฟรีมูลค่า 150 เหรียญสหรัฐพร้อมกับ Myon Smart Electric Bike รุ่นล่าสุดที่ราคา 1,800 เหรียญสหรัฐ ท่ามกลางราคาต่ำของ e-bike อื่น ๆ เบื้องหลังคือการขายเดือนเตรียมความพร้อมสำหรับบ้านของ EcoFlow พร้อมด้วยข้อเสนอโรงไฟฟ้าวันแรงงานอย่างต่อเนื่องและรหัสออมทรัพย์โบนัส - ทั้งหมดนี้เริ่มต้นที่ 299 ดอลลาร์ นอกจากนี้เรายังคืนราคาต่ำให้กับระบบรักษาความปลอดภัยหลายกล้อง Bullet-PTZ eufy E50 NVR 4K ใหม่ล่าสุดของ Anker พร้อมฮับ 2TB หรือ 4TB พร้อมส่วนลดสูงสุดถึง 300 ดอลลาร์ ลดราคา 50% สำหรับเครื่องตัดแต่งกิ่งไม้ไร้สายแบบเสียบเสาไร้สายขนาด 20 นิ้วของ Worx ขนาด 20 นิ้วของ Worx ข้อเสนอเกี่ยวกับเครื่องตัดแต่งกิ่งไม้ Greenworks ที่ประหยัดงบประมาณ แบตเตอรี่ 60V 4.0Ah ระดับโปร และ DEWALT ชุดเครื่องมือสั่น และอื่นๆ อีกมากมาย รวมถึงการอัปเดตวันแรงงานต่อเนื่องด้วย"
     }
   ],
   "indices": [
@@ -608,65 +608,65 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 218.4,
-      "change": -5.26,
-      "change_pct": -2.35
+      "price": 218.36,
+      "change": -5.31,
+      "change_pct": -2.37
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 365.9,
-      "change": -1.91,
-      "change_pct": -0.52
+      "price": 363.56,
+      "change": -4.25,
+      "change_pct": -1.16
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 331.73,
-      "change": 1.08,
-      "change_pct": 0.33
+      "price": 332.6,
+      "change": 1.95,
+      "change_pct": 0.59
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 492.23,
-      "change": 0.58,
-      "change_pct": 0.12
+      "price": 492.44,
+      "change": 0.79,
+      "change_pct": 0.16
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 325.46,
-      "change": 10.12,
-      "change_pct": 3.21
+      "price": 326.57,
+      "change": 11.23,
+      "change_pct": 3.56
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 252.11,
-      "change": -0.29,
-      "change_pct": -0.11
+      "price": 251.89,
+      "change": -0.51,
+      "change_pct": -0.2
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 648.03,
-      "change": -5.66,
-      "change_pct": -0.87
+      "price": 644.38,
+      "change": -9.31,
+      "change_pct": -1.42
     },
     {
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 268.0,
+      "change": -2.0,
+      "change_pct": -0.74
     }
   ],
   "reviews": [
