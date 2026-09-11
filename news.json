@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-11T18:00:24.927466+00:00",
+  "generated_at": "2026-09-11T20:28:03.017817+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "summary_en": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "published": "Fri, 11 Sep 2026 19:35:54 +0000",
+      "title_th": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "summary_th": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+      "summary_en": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, including the web.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Build_Flow_16x9-EN.jpeg?resize=1200,675",
+      "link": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+      "published": "Fri, 11 Sep 2026 19:00:00 +0000",
+      "title_th": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+      "summary_th": "At its annual Roblox Developer Conference (RDC), the company announced several new features, including new game-creation tools, expanded NPC capabilities, and the ability to make games available across platforms, including the web."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
+      "summary_en": "Cerberus, WeGlobal AI, and LOOQ took the top three spots at the regional final of Road to TechCrunch Startup Battlefield 2026 and will represent Central Eurasia in the Startup Battlefield 200 at TechCrunch Disrupt in San Francisco this October.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Regional-Final-R2B-2026-2.png?resize=1200,675",
+      "link": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
+      "published": "Fri, 11 Sep 2026 18:58:01 +0000",
+      "title_th": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
+      "summary_th": "Cerberus, WeGlobal AI และ LOOQ คว้าสามอันดับแรกในการแข่งขันรอบสุดท้ายระดับภูมิภาคของ Road to TechCrunch Startup Battlefield 2026 และจะเป็นตัวแทนของ Central Eurasia ในการแข่งขัน Startup Battlefield 200 ที่ TechCrunch Disrupt ในซานฟรานซิสโกในเดือนตุลาคมนี้"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -12,7 +48,7 @@
       "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
       "published": "Fri, 11 Sep 2026 16:46:25 +0000",
       "title_th": "Nscale เพิ่มอดีตผู้บริหาร OpenAI Fidji Simo เข้าสู่คณะกรรมการก่อนที่จะเสนอขายหุ้น IPO",
-      "summary_th": "ผู้บริหารอันดับ 2 ของ OpenAI ยังนำ Instacart ผ่านการเสนอขายหุ้น IPO ในปี 2566"
+      "summary_th": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023."
     },
     {
       "source": "TechCrunch",
@@ -23,44 +59,8 @@
       "image": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-disrupt.jpg?resize=1200,800",
       "link": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
       "published": "Fri, 11 Sep 2026 15:19:00 +0000",
-      "title_th": "Matt Mullenweg บอก (โทรลล์?) เจ้าหน้าที่ Automattic บอกว่าเขากลับมาควบคุมได้อีกครั้งหลังจากการขับไล่ CEO",
+      "title_th": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
       "summary_th": "ในข้อความ Slack ที่ TechCrunch เห็น Matt Mullenweg บอกกับพนักงาน Automattic ว่าเขากลับมาควบคุมบริษัทอีกครั้ง ไม่กี่วันหลังจากที่บอร์ดบริหารให้เขาลาออก Automattic ยังไม่ได้ยืนยันการกลับรายการที่ชัดเจน"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
-      "summary_en": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
-      "image": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-887657568.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
-      "published": "Fri, 11 Sep 2026 13:32:54 +0000",
-      "title_th": "นักหลอกลวงมุ่งเป้าไปที่เจ้าของ crypto หลายแสนคนหลังจาก Trezor ยืนยันการละเมิดข้อมูลของผู้ให้บริการอีเมล",
-      "summary_th": "นี่เป็นการละเมิดข้อมูลครั้งที่สองที่ส่งผลกระทบต่อบริษัทที่ Trezor ผู้ผลิตกระเป๋าสตางค์คริปโตฮาร์ดแวร์ใช้อยู่"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
-      "summary_en": "Collaborative Fund just bought into D.C. United and its stadium, with firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/DC-United.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
-      "published": "Thu, 10 Sep 2026 22:30:00 +0000",
-      "title_th": "Thrive Capital นำ VC เข้ามาเป็นเจ้าของกีฬามืออาชีพ Collaborative Fund เพิ่งเพิ่มการเล่นนั้น",
-      "summary_th": "Collaborative Fund เพิ่งซื้อกิจการให้กับ D.C. United และสนามกีฬาของบริษัท โดย Craig Shapiro ผู้ก่อตั้งบริษัทได้นำเสนอกองทุนดังกล่าวเพื่อเป็นแนวทางในการจัดแสดงสตาร์ทอัพของบริษัท"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-      "summary_en": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781",
-      "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-      "published": "Thu, 10 Sep 2026 21:51:59 +0000",
-      "title_th": "Jensen Huang อธิบายว่าทำไม Nvidia ถึงเติบโตอย่างน่าประหลาดใจถึง 70% ในปีหน้า",
-      "summary_th": "Nvidia ใส่ใจในทุก ๆ ด้าน และมองเห็นอนาคตที่สดใสอีกปีหนึ่ง Jensen Huang กล่าว แต่เขายืนยันว่าข้อตกลงดังกล่าวไม่เป็นวงกลม"
     },
     {
       "source": "The Verge",
@@ -71,8 +71,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2181956675.jpg?quality=90&strip=all&crop=0%2C10.699286964525%2C100%2C78.601426070949&w=1200",
       "link": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
       "published": "2026-09-11T13:16:59-04:00",
-      "title_th": "มีรายงานว่า Matt Mullenweg กลับมาดำรงตำแหน่ง CEO ของ Automattic สองวันหลังจากถูกบูต",
-      "summary_th": "สองวันหลังจากถูกกำหนดให้ลาพักงานโดยได้รับค่าจ้าง Matt Mullenweg กล่าวว่าเขาได้รับการแต่งตั้งให้เป็น CEO ของ Automattic ตามข้อความ Slack ที่ TechCrunch เห็น ตามที่ 404 Media รายงานเมื่อวันพุธ Mullenweg ได้บอกกับเจ้าหน้าที่ใน Slack ว่า CFO Mark Davies \"สมรู้ร่วมคิด\" กับคณะกรรมการบริหารซึ่งลงคะแนนให้ […]"
+      "title_th": "Matt Mullenweg reportedly returns as Automattic CEO two days after getting booted",
+      "summary_th": "Two days after being placed on a paid leave of absence, Matt Mullenweg says he has been reinstated as CEO of Automattic, according to a Slack message seen by TechCrunch. As 404 Media reported on Wednesday, Mullenweg had told staff in Slack that CFO Mark Davies \"conspired\" with the board of directors, who voted to […]"
     },
     {
       "source": "The Verge",
@@ -96,7 +96,7 @@
       "link": "https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful",
       "published": "2026-09-11T12:21:19-04:00",
       "title_th": "ทำเนียบขาวกล่าวว่า Truth Social เป็น 'แพลตฟอร์มโซเชียลมีเดียที่ทรงพลังและได้รับความนิยมมากที่สุดในโลก'",
-      "summary_th": "ทำเนียบขาวอ้างว่า Truth Social ของโดนัลด์ ทรัมป์ เป็น \"แพลตฟอร์มโซเชียลมีเดียที่ทรงพลังและได้รับความนิยมมากที่สุดในโลก\" คำแถลงที่เดวิส อิงเกิล โฆษกทำเนียบขาว มอบให้กับเดอะนิวยอร์กไทมส์ ขัดแย้งกับจำนวนผู้ใช้จากแพลตฟอร์มโซเชียลมีเดียที่ใหญ่ที่สุดบางแห่งบนเว็บ ข้อมูลที่รวบรวม […]"
+      "summary_th": "The White House claims the Donald Trump-owned Truth Social is the \"most powerful and popular social media platform in the world.\" The statement, provided to The New York Times by White House spokesperson Davis Ingle, is at odds with the user counts from some of the biggest social media platforms on the web. Data gathered […]"
     },
     {
       "source": "The Verge",
@@ -107,8 +107,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
       "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
       "published": "2026-09-11T12:09:14-04:00",
-      "title_th": "สัปดาห์นี้ Anthropic ใช้เวลาในประเด็นเรื่องความปลอดภัยทางไซเบอร์",
-      "summary_th": "หลังจากยอมรับเมื่อต้นปีนี้ว่าโมเดล AI ของตนได้แฮ็กระบบของบริษัทอื่นหลายครั้ง Anthropic ได้ออกรายงานฉบับใหม่เมื่อวันพุธที่ให้รายละเอียดเกี่ยวกับการโจมตี โดยเผยให้เห็นเหตุการณ์ต่างๆ มากมายที่แสดงให้เห็นว่า Anthropic มองว่า \"ความประมาท\" ของโมเดลของตนที่มีใจเดียว - และมีแนวโน้มว่าจะกระตุ้นให้เกิดความกังวลเกี่ยวกับความปลอดภัยทางไซเบอร์และ AI ที่โหมกระหน่ำอยู่แล้ว […]"
+      "title_th": "Anthropic spent this week in hot water over cybersecurity",
+      "summary_th": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded \"recklessness\" - and will likely fuel already raging concerns about cybersecurity and AI. […]"
     },
     {
       "source": "The Verge",
@@ -119,8 +119,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/rx_attach_thumb.jpg?quality=90&strip=all&crop=5.4765628342629%2C2.4549586366983%2C94.523437165737%2C79.181932059882&w=1200",
       "link": "https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak",
       "published": "2026-09-11T11:38:31-04:00",
-      "title_th": "Meta อาจรั่วไหลออกมาในรูปลักษณ์แรกของชุดหูฟัง 'Project Phoenix' ที่บางเฉียบ",
-      "summary_th": "เพียงไม่กี่สัปดาห์ก่อนที่ Meta Connect จะเริ่มในวันที่ 23 กันยายน UploadVR ได้โพสต์ภาพที่ดูเหมือนจะเผยให้เห็นการออกแบบสำหรับชุดหูฟัง \"Project Phoenix\" ของ Meta ภาพที่ UploadVR กล่าวว่า \"พบในแพ็คเกจเฟิร์มแวร์ HorizonOS Prescription Lens\" แนะนำว่า Meta อาจต้องการแข่งขันกับอุปกรณ์เช่น Xreal หรือ Viture บริษัทเหล่านี้ […]"
+      "title_th": "Meta may have leaked the first look at its slim ‘Project Phoenix’ headset",
+      "summary_th": "Just a couple of weeks before Meta Connect starts on September 23rd, UploadVR posted images seemingly revealing the design for Meta's \"Project Phoenix\" headset. The images, which UploadVR says were \"found in the HorizonOS Prescription Lens firmware package,\" suggest Meta may be looking to compete with devices like those from Xreal or Viture. These companies' […]"
     },
     {
       "source": "Ars Technica",
@@ -131,8 +131,8 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
       "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
       "published": "Wed, 09 Sep 2026 20:55:02 +0000",
-      "title_th": "สี่กลุ่มถูกจับได้โดยใช้ชุดช่องโหว่ Chrome และ Windows ชุดเดียวกัน",
-      "summary_th": "ช่องว่างแพตช์และความเร่งรีบของการค้นพบช่องโหว่บน AI มีแนวโน้มว่ามีส่วนสนับสนุน"
+      "title_th": "Four groups caught using the same Chrome and Windows exploit kit",
+      "summary_th": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors."
     },
     {
       "source": "Ars Technica",
@@ -143,7 +143,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
       "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
       "published": "Tue, 08 Sep 2026 21:11:46 +0000",
-      "title_th": "เหตุใดการเปิดตัวแพทช์ของ Microsoft ในเดือนนี้จึงดูน่าเบื่อ",
+      "title_th": "Why this month's Microsoft patch release is a doozy",
       "summary_th": "พวกโนมส์รักษาความปลอดภัยกำลังออกแพทช์ก่อนการโจมตีที่คาดว่าจะได้รับจากการโจมตีที่ได้รับความช่วยเหลือจาก AI"
     },
     {
@@ -155,8 +155,8 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
       "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
       "published": "Fri, 04 Sep 2026 22:17:36 +0000",
-      "title_th": "เจ้าหน้าที่ OpenAI หารือถึงวิธีการหลบหนีแซนด์บ็อกซ์บนวิกิสาธารณะ",
-      "summary_th": "โดยรวมแล้ว เจ้าหน้าที่ภายใน 3,700 รายโพสต์ข้อความ 18,000 ข้อความพูดคุยเกี่ยวกับการโกงข้อสอบ"
+      "title_th": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "summary_th": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test."
     },
     {
       "source": "Ars Technica",
@@ -167,7 +167,7 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg",
       "link": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
       "published": "Fri, 04 Sep 2026 17:35:02 +0000",
-      "title_th": "“ความน่าเชื่อถือ ไม่ใช่ฟีเจอร์ คือการขาดดุลอย่างแท้จริง”: VMware พยายามเอาใจ SMB",
+      "title_th": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
       "summary_th": "Broadcom ยอมรับว่า \"ให้ความสำคัญกับ VCF มากเกินไป\"..."
     },
     {
@@ -181,6 +181,42 @@
       "published": "Fri, 04 Sep 2026 17:18:12 +0000",
       "title_th": "ครั้งหนึ่งเคยได้รับความนิยมในการโจมตี AI การลักลอบขนของ ASCII ได้รับการยอมรับจากผู้ส่งอีเมลขยะ",
       "summary_th": "บล็อกยูนิโค้ดที่ครั้งหนึ่งเคยถูกมองข้ามซึ่งมนุษย์มองไม่เห็นนั้นกำลังมีการใช้กันอย่างแพร่หลายมากขึ้น"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "The 9 Best TV Shows to Stream This Month (September 2026)",
+      "summary_en": "South Park, Slow Horses, Neon Genesis Evangelion, and a Lego-fied Mandalorian are just a few of the things you should be watching right now.",
+      "image": "https://media.wired.com/photos/6aa43cf5acc1ba98aeac1316/master/pass/Show-Watch-Guide-Culture-LegoMandalorian_01.jpg",
+      "link": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now/",
+      "published": "Fri, 11 Sep 2026 19:36:43 +0000",
+      "title_th": "รายการทีวีที่ดีที่สุด 9 รายการที่จะสตรีมในเดือนนี้ (กันยายน 2569)",
+      "summary_th": "South Park, Slow Horses, Neon Genesis Evangelion และ Lego-fied Mandalorian เป็นเพียงตัวอย่างบางส่วนที่คุณควรรับชมในตอนนี้"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "The US Government Launched 3 Previously Unreported Investigations of Polymarket Trades",
+      "summary_en": "The agency that oversees prediction markets has investigated Polymarket trades on Biden pardons and the Iran war—and even more potential insider trading at Google, documents obtained by WIRED show.",
+      "image": "https://media.wired.com/photos/6aa423dcb30233b4abc2d13c/master/pass/Business_US%20Government%20Looked%20Into%20Insider%20Trading%20Allegations%20Over%20Biden%20Pardons%20on%20Polymarket_v1.jpg",
+      "link": "https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/",
+      "published": "Fri, 11 Sep 2026 19:21:34 +0000",
+      "title_th": "รัฐบาลสหรัฐฯ เปิดตัวการสืบสวน 3 ครั้งก่อนหน้านี้เกี่ยวกับการค้า Polymarket ที่ไม่ได้รายงานไว้",
+      "summary_th": "The agency that oversees prediction markets has investigated Polymarket trades on Biden pardons and the Iran war—and even more potential insider trading at Google, documents obtained by WIRED show."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
+      "summary_en": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face recognition feature.",
+      "image": "https://media.wired.com/photos/6aa4120d92d2b4de236f2240/master/pass/GettyImages-2289768151.jpg",
+      "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
+      "published": "Fri, 11 Sep 2026 18:59:25 +0000",
+      "title_th": "Meta ฟ้องร้องข้อมูลการฝึกอบรมสำหรับระบบ AI และระบบจดจำใบหน้า",
+      "summary_th": "การดำเนินคดีในชั้นเรียนที่เสนออ้างว่า Meta เก็บเกี่ยวภาพถ่าย Facebook และ Instagram ของผู้คนอย่างผิดกฎหมาย เพื่อฝึกโมเดลการสร้างภาพ AI และสร้างคุณสมบัติการจดจำใบหน้า \"NameTag\" ที่ยังไม่เผยแพร่"
     },
     {
       "source": "Wired",
@@ -204,43 +240,7 @@
       "link": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
       "published": "Fri, 11 Sep 2026 15:00:00 +0000",
       "title_th": "หนึ่งในนักวิจารณ์ที่ดุเดือดที่สุดของ AI กล่าวว่าการพูดคุยเรื่อง Doom ทั้งหมดนั้น 'มีจุดมุ่งหมายเพื่อเบี่ยงเบนความสนใจของเรา'",
-      "summary_th": "Timnit Gebru ให้เหตุผลว่าบริษัท AI กำลังกระตุ้นความกลัวการสูญพันธุ์เพื่อหลีกเลี่ยงการพูดถึงอันตรายที่เกิดขึ้นจริง เช่น อาวุธอัตโนมัติ"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "This Man Has a Cult Internet Following Over His Olive Garden Lifetime Pasta Pass",
-      "summary_en": "Braden Sinclair is one of just 50 people in the world who can have unlimited pasta at the chain for life. Now, fans are deciding what he should eat next.",
-      "image": "https://media.wired.com/photos/6aa1b0826e35b597d5b3992c/master/pass/OLIVEGARDEN_BRADENSINCLAIR_BONNIEDURHAM-9368.jpg",
-      "link": "https://www.wired.com/story/this-man-has-a-cult-internet-following-over-his-olive-garden-lifetime-pasta-pass/",
-      "published": "Fri, 11 Sep 2026 11:00:00 +0000",
-      "title_th": "ผู้ชายคนนี้มีอินเทอร์เน็ตลัทธิติดตามพาสต้าพาสตลอดชีวิตของเขาในสวนมะกอก",
-      "summary_th": "Braden Sinclair เป็นหนึ่งใน 50 คนในโลกที่สามารถรับประทานพาสต้าแบบไม่จำกัดได้ตลอดชีวิต ตอนนี้แฟนๆ กำลังตัดสินใจว่าเขาจะกินอะไรต่อไป"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "8 Best Travel Adapters (2026): 20+ Models Tested",
-      "summary_en": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers that I’ve tested myself.",
-      "image": "https://media.wired.com/photos/69f5039cd2f33f723151e0ca/master/pass/The-Best-Travel-Adapters.jpg",
-      "link": "https://www.wired.com/gallery/best-travel-adapters/",
-      "published": "Fri, 11 Sep 2026 11:00:00 +0000",
-      "title_th": "8 อะแดปเตอร์สำหรับการเดินทางที่ดีที่สุด (2026): ผ่านการทดสอบแล้วมากกว่า 20 รุ่น",
-      "summary_th": "เมื่อเดินทางไปต่างประเทศ ปลั๊กที่เหมาะสมถือเป็นสิ่งสำคัญในการชาร์จอุปกรณ์ของคุณ นี่คืออะแดปเตอร์และอุปกรณ์ชาร์จสำหรับการเดินทางที่ฉันชื่นชอบซึ่งฉันได้ทดสอบด้วยตัวเอง"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "I Fixed a Tractor Using John Deere’s Self-Repair Service. Farmers Aren’t Sold on It",
-      "summary_en": "The agricultural machine manufacturer has a subscription service that lets owners repair their own equipment. Why is barely anybody using it?",
-      "image": "https://media.wired.com/photos/6aa34b1b31130b4af58e1d2b/master/pass/John-Deere-5ML-Tractor.jpg",
-      "link": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
-      "published": "Fri, 11 Sep 2026 10:45:00 +0000",
-      "title_th": "ฉันซ่อมรถแทรกเตอร์โดยใช้บริการซ่อมด้วยตนเองของ John Deere เกษตรกรไม่ได้ขายมัน",
-      "summary_th": "ผู้ผลิตเครื่องจักรกลการเกษตรมีบริการสมัครสมาชิกที่ให้เจ้าของสามารถซ่อมแซมอุปกรณ์ของตนเองได้ ทำไมแทบไม่มีใครใช้เลย?"
+      "summary_th": "Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons."
     },
     {
       "source": "MIT Technology Review",
@@ -251,8 +251,8 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/circles-bio2a.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
       "published": "Fri, 11 Sep 2026 12:10:00 +0000",
-      "title_th": "ดาวน์โหลด: อนาคตของเทคโนโลยีชีวภาพและเหล็กที่สะอาดและถูกกว่า",
-      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี พบกับผู้ที่มีอายุต่ำกว่า 35 ปีซึ่งกำหนดอนาคตของเทคโนโลยีชีวภาพ ทุกปี MIT Technology Review จะรวบรวมนักนวัตกรรม 35 คนที่มีอายุต่ำกว่า 35 ปีของเรา รายชื่อผู้มีความคิดรุ่นเยาว์ที่ฉลาดและดีที่สุดบางส่วน..."
+      "title_th": "The Download: biotech’s future and cheaper, cleaner steel",
+      "summary_th": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the brightest and best young minds…"
     },
     {
       "source": "MIT Technology Review",
@@ -275,8 +275,8 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Regalados_DSF7279-mobile.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
       "published": "Thu, 10 Sep 2026 12:10:00 +0000",
-      "title_th": "การดาวน์โหลด: สกุลเงินดิจิทัล “ที่ขับเคลื่อนโดยพระเจ้า” และแผนงานด้านวิศวกรรมพลังงานแสงอาทิตย์",
-      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี พระเจ้าบอกให้พวกเขาขาย crypto นักลงทุนของพวกเขาสูญเสียทุกสิ่งทุกอย่าง เมื่อเอลี เรกาลาโดได้ยินพระเจ้าตรัสกับเขาเป็นครั้งแรก เขาสงสัยว่าเขากำลังประสาทหลอนหรือเปล่า ตามที่เอลีและภรรยาของเขากล่าวไว้..."
+      "title_th": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+      "summary_th": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. According to Eli and his wife,…"
     },
     {
       "source": "MIT Technology Review",
@@ -287,8 +287,8 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/ON-contributed-image.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
       "published": "Thu, 10 Sep 2026 11:00:00 +0000",
-      "title_th": "การขับเคลื่อน AI เป็นปัญหาทางสถาปัตยกรรม",
-      "summary_th": "เมื่อวันที่ 22 กรกฎาคม 2026 เหตุขัดข้องในสายส่งในเมืองแอชเบิร์น รัฐเวอร์จิเนีย ซึ่งเป็นหัวใจสำคัญของคลัสเตอร์ศูนย์ข้อมูลที่ใหญ่ที่สุดในโลก ได้ทำลายโหลดมากกว่า 3 กิกะวัตต์ออกจากกริดภายในไม่กี่วินาที และนี่ไม่ใช่ครั้งแรก เมื่อสองปีก่อน อุปกรณ์ป้องกันไฟกระชากที่ล้มเหลวเพียงตัวเดียวได้ทิ้งโรงงานในเวอร์จิเนียประมาณ 60 แห่งและผลิตไฟฟ้าได้ 1,500 เมกะวัตต์ในคราวเดียว เลขที่…"
+      "title_th": "Powering AI is an architecture problem",
+      "summary_th": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No…"
     },
     {
       "source": "MIT Technology Review",
@@ -299,8 +299,44 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/sky-roadmap2a.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
       "published": "Thu, 10 Sep 2026 11:00:00 +0000",
-      "title_th": "แผนงานนี้สามารถช่วยให้เราตัดสินใจว่าจะปรับใช้ภูมิวิศวกรรมพลังงานแสงอาทิตย์หรือไม่",
-      "summary_th": "องค์กรไม่แสวงผลกำไรในซานฟรานซิสโกได้เผยแพร่แผนงานโดยละเอียดของการทดลอง การศึกษา และโครงสร้างพื้นฐานที่ระบุว่าจำเป็นต่อการตัดสินใจอย่างมีข้อมูลเกี่ยวกับการใช้วิศวกรรมภูมิศาสตร์พลังงานแสงอาทิตย์ MIT Technology Review สามารถเปิดเผยได้ ขณะนี้นักวิทยาศาสตร์ใช้เวลาครึ่งศตวรรษในการสำรวจความเป็นไปได้ที่เราสามารถรับมือกับการเปลี่ยนแปลงสภาพภูมิอากาศด้วยการปล่อย..."
+      "title_th": "This road map could help us decide whether to deploy solar geoengineering",
+      "summary_th": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal. Scientists have now spent half a century exploring the possibility that we could counteract climate change by releasing…"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Lenovo's Googlebook 15 seems decidedly premium based on a new leak",
+      "summary_en": "The Lenovo Googlebook 15 will reportedly have a high-resolution, high-refresh rate display and an Intel Core Ultra 5 chip.",
+      "image": "https://www.engadget.com/img/gallery/lenovos-googlebook-15-seems-decidedly-premium-based-on-a-new-leak/l-intro-1789156841.jpg",
+      "link": "https://www.engadget.com/2256453/lenovo-googlebook-15-seems-decidedly-premium-based-on-a-new-leak/",
+      "published": "Fri, 11 Sep 2026 20:01:58 +0000",
+      "title_th": "Googlebook 15 ของ Lenovo ดูเหมือนจะพรีเมี่ยมอย่างแน่นอนจากการรั่วไหลครั้งใหม่",
+      "summary_th": "ตามรายงาน Lenovo Googlebook 15 จะมีจอแสดงผลที่มีความละเอียดสูง อัตราการรีเฟรชสูง และชิป Intel Core Ultra 5"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "iPhone 18 Pro vs Pixel 11 Pro: How Apple and Google's flagships stack up",
+      "summary_en": "Google and Apple's latest flagships feature more AI, better cameras and few reasons to switch ecosystems.",
+      "image": "https://www.engadget.com/img/gallery/iphone-18-pro-vs-pixel-11-pro-how-apple-and-googles-flagships-stack-up/l-intro-1789154173.jpg",
+      "link": "https://www.engadget.com/2256364/iphone-18-pro-vs-pixel-11-pro/",
+      "published": "Fri, 11 Sep 2026 19:17:46 +0000",
+      "title_th": "iPhone 18 Pro กับ Pixel 11 Pro: เรือธงของ Apple และ Google เรียงกันอย่างไร",
+      "summary_th": "เรือธงล่าสุดของ Google และ Apple มี AI มากขึ้น กล้องที่ดีกว่า และเหตุผลบางประการในการเปลี่ยนระบบนิเวศ"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Roblox will soon add offline and browser-based play modes",
+      "summary_en": "Roblox has revealed that players will be able to play in-browser and offline in the near future.",
+      "image": "https://www.engadget.com/img/gallery/roblox-will-soon-add-offline-and-browser-based-play-modes/l-intro-1789127924.jpg",
+      "link": "https://www.engadget.com/2255734/roblox-bringing-offline-browser-based-play/",
+      "published": "Fri, 11 Sep 2026 19:00:00 +0000",
+      "title_th": "Roblox will soon add offline and browser-based play modes",
+      "summary_th": "Roblox has revealed that players will be able to play in-browser and offline in the near future."
     },
     {
       "source": "Engadget",
@@ -311,8 +347,8 @@
       "image": "https://www.engadget.com/img/gallery/new-images-show-a-detailed-view-of-metas-upcoming-mixed-reality-headset/l-intro-1789147626.jpg",
       "link": "https://www.engadget.com/2256177/new-images-show-a-detailed-view-of-metas-upcoming-mixed-reality-headset/",
       "published": "Fri, 11 Sep 2026 17:28:11 +0000",
-      "title_th": "รูปภาพใหม่แสดงมุมมองโดยละเอียดของชุดหูฟังความเป็นจริงผสมที่กำลังจะมาถึงของ Meta",
-      "summary_th": "อุปกรณ์ที่เรียกว่า Project Phoenix เป็นรูปแบบใหม่สำหรับ Meta"
+      "title_th": "New images show a detailed view of Meta's upcoming mixed reality headset",
+      "summary_th": "The device known as Project Phoenix is a new form factor for Meta."
     },
     {
       "source": "Engadget",
@@ -323,44 +359,20 @@
       "image": "https://www.engadget.com/img/gallery/where-should-apple-go-after-the-iphone-duo-bring-on-smaller-and-larger-foldables/l-intro-1789139664.jpg",
       "link": "https://www.engadget.com/2255941/where-should-apple-go-after-the-iphone-duo/",
       "published": "Fri, 11 Sep 2026 15:30:00 +0000",
-      "title_th": "Apple ควรติดตาม iPhone Duo ไปที่ไหน? นำพับขนาดเล็กและใหญ่ขึ้น",
+      "title_th": "Where should Apple go after the iPhone Duo? Bring on smaller and larger foldables",
       "summary_th": "เอาล่ะ Apple เพียงเดินตามรอยของ Samsung, ASUS และผู้ผลิตพับได้อื่นๆ อีกมากมาย"
     },
     {
-      "source": "Engadget",
+      "source": "IEEE Spectrum",
       "flag": "US",
-      "category": "review",
-      "title_en": "Bose QuietComfort Headphones (2nd gen) review: Upgraded in all the right places",
-      "summary_en": "Ultra-level features and a few design tweaks highlight the updates on the second-gen QuietComfort Headphones.",
-      "image": "https://www.engadget.com/img/gallery/bose-quietcomfort-headphones-2nd-gen-review-upgraded-in-all-the-right-places/l-intro-1788899173.jpg",
-      "link": "https://www.engadget.com/2253293/bose-quietcomfort-headphones-2nd-gen-review/",
-      "published": "Fri, 11 Sep 2026 13:00:00 +0000",
-      "title_th": "รีวิวหูฟัง Bose QuietComfort (รุ่นที่ 2): อัปเกรดในตำแหน่งที่ถูกต้องแล้ว",
-      "summary_th": "คุณสมบัติระดับพิเศษและการปรับแต่งการออกแบบบางส่วนเน้นการอัปเดตของหูฟัง QuietComfort รุ่นที่สอง"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Apple's iPhone Handoff feature will cost you $5 a month on T-Mobile",
-      "summary_en": "Apple will release iPhone Handoff with iOS 27 this month, but it will only be available to T-Mobile subscribers in the US at launch.",
-      "image": "https://www.engadget.com/img/gallery/apples-iphone-handoff-feature-will-cost-you-5-a-month-on-t-mobile/l-intro-1789121929.jpg",
-      "link": "https://www.engadget.com/2255731/apple-iphone-handoff-5-a-month-on-t-mobile/",
-      "published": "Fri, 11 Sep 2026 11:57:16 +0000",
-      "title_th": "คุณลักษณะ iPhone Handoff ของ Apple มีราคา 5 เหรียญต่อเดือนบน T-Mobile",
-      "summary_th": "Apple จะปล่อย iPhone Handoff พร้อม iOS 27 ในเดือนนี้ แต่จะใช้ได้เฉพาะกับสมาชิก T-Mobile ในสหรัฐอเมริกาเมื่อเปิดตัวเท่านั้น"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "iPhone 18 Pro Max vs Samsung Galaxy S26 Ultra: How these XL phones compete",
-      "summary_en": "Apple or Samsung? It really comes down to which ecosystem you prefer.",
-      "image": "https://www.engadget.com/img/gallery/iphone-18-pro-max-vs-samsung-galaxy-s26-ultra-how-these-xl-phones-compete/l-intro-1789068272.jpg",
-      "link": "https://www.engadget.com/2255321/iphone-18-pro-max-vs-samsung-galaxy-s26-ultra-comparison/",
-      "published": "Thu, 10 Sep 2026 23:00:00 +0000",
-      "title_th": "iPhone 18 Pro Max กับ Samsung Galaxy S26 Ultra: โทรศัพท์ XL เหล่านี้แข่งขันกันอย่างไร",
-      "summary_th": "แอปเปิ้ลหรือซัมซุง? มันขึ้นอยู่กับระบบนิเวศที่คุณต้องการจริงๆ"
+      "category": "robot",
+      "title_en": "IEEE to Reward Sections for High Voter Turnout in Annual Election",
+      "summary_en": "For this year’s IEEE annual election , the IEEE Tellers Committee will recognize the Sections with the highest voter turnout (based on total eligible voters) in each Region with an incentive reward after the election results are accepted by the IEEE Board of Directors .The incentive initiative is managed by the Tellers Committee, which retains full authority over all rules, operations, and decisions regarding the program. Incentive guidelines The Section sizes and their respective reward amounts are: Large sections consist of more than 1,501 eligible voting members. The top-performing large section in each IEEE region will be rewarded with US $1,000. Medium sections consist of 501 to 1,500 eligible voting members. Each region’s top-performing medium section will receive $600. Small section",
+      "image": "https://spectrum.ieee.org/media-library/illustration-of-a-ballot-box-inside-a-dollar-bill-symbolizing-money-in-elections.jpg?id=67749579&width=980",
+      "link": "https://spectrum.ieee.org/ieee-to-reward-sections",
+      "published": "Fri, 11 Sep 2026 18:00:02 +0000",
+      "title_th": "IEEE to Reward Sections for High Voter Turnout in Annual Election",
+      "summary_th": "For this year’s IEEE annual election , the IEEE Tellers Committee will recognize the Sections with the highest voter turnout (based on total eligible voters) in each Region with an incentive reward after the election results are accepted by the IEEE Board of Directors .The incentive initiative is managed by the Tellers Committee, which retains full authority over all rules, operations, and decisions regarding the program. Incentive guidelines The Section sizes and their respective reward amounts are: Large sections consist of more than 1,501 eligible voting members. The top-performing large section in each IEEE region will be rewarded with US $1,000. Medium sections consist of 501 to 1,500 eligible voting members. Each region’s top-performing medium section will receive $600. Small section"
     },
     {
       "source": "IEEE Spectrum",
@@ -371,8 +383,8 @@
       "image": "https://spectrum.ieee.org/media-library/black-and-white-photograph-of-a-young-asian-man-in-a-suit-and-tie.jpg?id=67750969&width=980",
       "link": "https://spectrum.ieee.org/codeveloper-of-ethernet-predecessor-dies",
       "published": "Thu, 10 Sep 2026 20:00:04 +0000",
-      "title_th": "ผู้พัฒนาร่วมของ Ethernet รุ่นก่อนเสียชีวิตแล้วในวัย 91 ปี",
-      "summary_th": "แฟรงคลิน “แฟรงค์” คูโอ ผู้พัฒนาร่วมของ ALOHAnet Fellow, 91; เสียชีวิตเมื่อวันที่ 14 เมษายน Kuo ช่วยพัฒนา ALOHAnet ซึ่งเป็นระบบคอมพิวเตอร์รุ่นบุกเบิกที่มหาวิทยาลัยฮาวายที่ Mānoa ในโฮโนลูลู ระบบดังกล่าวเริ่มออนไลน์ในปี พ.ศ. 2514 และเป็นการสาธิตสู่สาธารณะครั้งแรกของเครือข่ายข้อมูลแพ็กเก็ตไร้สาย นี่เป็นแรงบันดาลใจในการพัฒนา Ethernet ของ Robert Metcalfe ในอีกสองสามปีต่อมา ในปี 2020 ALOHAnet ถูกกำหนดให้เป็น IEEE Milestone Kuo สำเร็จการศึกษาระดับปริญญาตรี ปริญญาโท และปริญญาเอกสาขาวิศวกรรมไฟฟ้าจากมหาวิทยาลัยอิลลินอยส์ เออร์บานา-แชมเปญจน์ หลังจากได้รับปริญญาเอก ในปี 1960 เขาได้ร่วมงานกับ Bell Labs ในเมอร์เรย์ฮิลล์ รัฐนิวเจอร์ซี ซึ่งเขาได้ดำเนินการวิจัยด้านการสื่อสารด้วยคอมพิวเตอร์ หลังจากทำงานที่บริษัทได้หกปี Kuo ก็ลาออกไปเป็นศาสตราจารย์ด้านวิศวกรรมไฟฟ้าที่"
+      "title_th": "Codeveloper of Ethernet Predecessor Dies at 91",
+      "summary_th": "Franklin “Frank” Kuo Codeveloper of ALOHAnet Fellow, 91; died 14 April Kuo helped develop ALOHAnet , a pioneering computer system at the University of Hawaii at Mānoa , in Honolulu. The system went online in 1971 and represented the first public demonstration of a wireless packet data network . It was an inspiration for Robert Metcalfe ’s development of Ethernet a couple of years later. In 2020 ALOHAnet was designated as an IEEE Milestone . Kuo earned bachelor’s, master’s, and doctoral degrees in electrical engineering from the University of Illinois , Urbana-Champaign. After earning his Ph.D. in 1960, he joined Bell Labs in Murray Hill, N.J. , where he conducted research in computer communications. After six years at the company, Kuo left to become a professor of electrical engineering at"
     },
     {
       "source": "IEEE Spectrum",
@@ -411,76 +423,88 @@
       "summary_th": "ผู้คนจำนวนมากยังคงหวาดกลัวกับรถยนต์ขับเคลื่อนอัตโนมัติหรือ AV ผู้เชี่ยวชาญและผู้กำหนดนโยบายบางคนเตือนว่า AV ไม่ได้ทำให้ถนนปลอดภัยขึ้นเสมอไป เมื่อพูดถึงความเป็นอิสระบางส่วนหรือทั้งหมด ภาพอาจไม่ชัดเจนนัก ส่วนหนึ่งเป็นเพราะไม่มีรถยนต์ที่ขับเคลื่อนด้วยตนเองไม่เพียงพอที่จะเปรียบเทียบระหว่างแอปเปิ้ลกับแอปเปิลได้อย่างมีความหมาย อย่างไรก็ตาม การวิจัยที่เพิ่มขึ้นชี้ให้เห็นว่ารถยนต์ที่ขับเคลื่อนด้วยตนเองชนกันน้อยกว่าผู้คนอย่างมาก และมีอาการบาดเจ็บน้อยกว่ามาก หลักฐานยังแสดงให้เห็นว่าระบบช่วยเหลือผู้ขับขี่ขั้นสูง (ADAS) และส่วนประกอบอื่นๆ ของระบบขับเคลื่อนอัตโนมัติ ซึ่งบางส่วนได้รับคำสั่งจากรถใหม่ทุกคัน ยังช่วยลดการบาดเจ็บและการเสียชีวิตของผู้โดยสารและคนเดินถนน รวมถึงการเคลมประกันอีกด้วย ที่หน้า ADAS สถาบันประกันภัยเพื่อความปลอดภัยบนทางหลวงพบว่าเกิดขึ้นโดยอัตโนมัติ"
     },
     {
-      "source": "IEEE Spectrum",
-      "flag": "US",
-      "category": "robot",
-      "title_en": "Workshops Educate African Researchers On How to Publish With IEEE",
-      "summary_en": "Many researchers and students in Kenya, Rwanda, and Uganda struggle to access and publish scientific and technical articles because of financial barriers including publishing fees and subscriptions to research libraries. To help, IEEE has made its Xplore Digital Library more accessible by offering discounts on subscriptions and lowering fees to publish articles. But the number of papers published by technologists in the three nations still lags behind those from other developing countries. It might be that many researchers haven’t received training in methodology, been instructed on how to write academic articles, or fully understand the process for publishing in scientific journals. Staff from the IEEE Publication and Information Products group and IEEE volunteers held educational worksho",
-      "image": "https://spectrum.ieee.org/media-library/a-group-of-adults-dressed-in-ugandan-garb-looking-thoughtfully-in-the-distance-while-seated-in-a-university-classroom.jpg?id=67725356&width=980",
-      "link": "https://spectrum.ieee.org/ieee-workshop-xplore-africa",
-      "published": "Mon, 07 Sep 2026 18:00:03 +0000",
-      "title_th": "เวิร์กช็อปให้ความรู้แก่นักวิจัยชาวแอฟริกันเกี่ยวกับวิธีการเผยแพร่ด้วย IEEE",
-      "summary_th": "นักวิจัยและนักศึกษาจำนวนมากในเคนยา รวันดา และยูกันดาประสบปัญหาในการเข้าถึงและตีพิมพ์บทความทางวิทยาศาสตร์และทางเทคนิค เนื่องจากมีอุปสรรคทางการเงิน รวมถึงค่าธรรมเนียมการตีพิมพ์และการสมัครใช้บริการห้องสมุดวิจัย เพื่อช่วย IEEE ได้ทำให้ Xplore Digital Library เข้าถึงได้ง่ายขึ้นโดยเสนอส่วนลดสำหรับการสมัครสมาชิกและลดค่าธรรมเนียมในการเผยแพร่บทความ แต่จำนวนบทความที่ตีพิมพ์โดยนักเทคโนโลยีในสามประเทศยังคงตามหลังจากประเทศกำลังพัฒนาอื่นๆ อาจเป็นไปได้ว่านักวิจัยจำนวนมากยังไม่ได้รับการฝึกอบรมด้านระเบียบวิธี ได้รับคำแนะนำในการเขียนบทความวิชาการ หรือเข้าใจกระบวนการตีพิมพ์ในวารสารวิทยาศาสตร์อย่างถ่องแท้ เจ้าหน้าที่จากกลุ่มผลิตภัณฑ์สิ่งพิมพ์และข้อมูลสารสนเทศของ IEEE และอาสาสมัคร IEEE ได้จัดงานเวิร์คช็อปด้านการศึกษา"
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Counterpoint: Apple foldable panel shipments could rise 167% by 2030",
+      "summary_en": "Counterpoint Research has released a new report examining the impact of the iPhone Duo on the foldable smartphone market, display suppliers, and the segment’s growth through 2030. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-1.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/11/counterpoint-apple-foldable-panel-shipments-could-rise-167-by-2030/",
+      "published": "Fri, 11 Sep 2026 19:57:28 +0000",
+      "title_th": "ความแตกต่าง: การจัดส่งแผงแบบพับได้ของ Apple อาจเพิ่มขึ้น 167% ภายในปี 2573",
+      "summary_th": "Counterpoint Research ได้เผยแพร่รายงานฉบับใหม่ที่ตรวจสอบผลกระทบของ iPhone Duo ในตลาดสมาร์ทโฟนแบบพับได้ ซัพพลายเออร์จอภาพ และการเติบโตของกลุ่มจนถึงปี 2030 นี่คือรายละเอียด มากกว่า…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "iOS 27.1 release date: Here’s when to expect the new iPhone update",
-      "summary_en": "iOS 27 launches for all users next week , and will be followed not long after by the first iOS 27.1 beta and public launch. Here’s when to expect iOS 27.1’s arrival. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ios-27.1-02.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/11/ios-27-1-release-date-heres-when-to-expect-the-new-iphone-update/",
-      "published": "Fri, 11 Sep 2026 17:28:37 +0000",
-      "title_th": "วันที่เผยแพร่ iOS 27.1: นี่คือเวลาที่คาดว่าจะมีการอัปเดต iPhone ใหม่",
-      "summary_th": "iOS 27 เปิดตัวสำหรับผู้ใช้ทุกคนในสัปดาห์หน้า และจะตามมาด้วย iOS 27.1 เบต้าครั้งแรกและการเปิดตัวสู่สาธารณะหลังจากนั้นไม่นาน นี่คือเวลาที่คาดว่าจะมาถึงของ iOS 27.1 มากกว่า…"
+      "title_en": "Apple Watch Series 12 makes a big change to a small complication that I’m excited about",
+      "summary_en": "Apple Watch Series 12 is a major upgrade to the core health and fitness tracking wearable. That’s because of the new Health Sensing System that includes an even more capable heart rate monitor. The new hardware doesn’t just extend to more accurate health data. There’s a big change to a small complication that I’m seeing in Apple’s marketing material. It’s just one thing I’m excited about with the new Series 12 and Ultra 4 models. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-heart.webp?resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/11/apple-watch-series-12-makes-a-big-change-to-a-small-complication-that-im-excited-about/",
+      "published": "Fri, 11 Sep 2026 19:50:23 +0000",
+      "title_th": "Apple Watch Series 12 ทำการเปลี่ยนแปลงครั้งใหญ่กับภาวะแทรกซ้อนเล็กๆ น้อยๆ ที่ฉันตื่นเต้น",
+      "summary_th": "Apple Watch Series 12 เป็นการอัปเกรดครั้งใหญ่สำหรับการติดตามสุขภาพและการออกกำลังกายหลักที่สวมใส่ได้ นั่นเป็นเพราะระบบตรวจจับสุขภาพใหม่ที่มีเครื่องวัดอัตราการเต้นของหัวใจที่มีความสามารถมากยิ่งขึ้น ฮาร์ดแวร์ใหม่ไม่เพียงขยายไปสู่ข้อมูลด้านสุขภาพที่แม่นยำยิ่งขึ้นเท่านั้น ภาวะแทรกซ้อนเล็กๆ น้อยๆ ที่ฉันเห็นในเอกสารทางการตลาดของ Apple มีการเปลี่ยนแปลงครั้งใหญ่ เป็นเพียงสิ่งหนึ่งที่ฉันรู้สึกตื่นเต้นกับรุ่น Series 12 และ Ultra 4 ใหม่ มากกว่า…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple hid a classic Mac easter egg in the iOS 27 Settings app",
-      "summary_en": "Many have complained that Apple design has been sapped of some of its trademark whimsy in recent years. Well, here’s the latest example of how the tides seem to be changing. Buried in the Settings app on iOS 27, Apple has hidden an easter egg that hails back from classic Mac OS; Clarus the Dogcow. Here’s how to trigger it … more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-ios-27-dogcow-moof.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/11/apple-hid-a-classic-mac-easter-egg-in-the-ios-27-settings-app/",
-      "published": "Fri, 11 Sep 2026 17:23:24 +0000",
-      "title_th": "Apple ซ่อนไข่อีสเตอร์ Mac แบบคลาสสิกในแอปการตั้งค่า iOS 27",
-      "summary_th": "หลายคนบ่นว่าการออกแบบของ Apple ได้ถูกมองข้ามไปจากความแปลกประหลาดของเครื่องหมายการค้าในช่วงไม่กี่ปีที่ผ่านมา นี่คือตัวอย่างล่าสุดว่ากระแสน้ำดูเหมือนจะเปลี่ยนแปลงไปอย่างไร Apple ได้ซ่อนไข่อีสเตอร์ที่มาจาก Mac OS แบบคลาสสิกซึ่งฝังอยู่ในแอปการตั้งค่าบน iOS 27 คลารัสเจ้าหมา. ต่อไปนี้เป็นวิธีกระตุ้น … เพิ่มเติม…"
+      "title_en": "Apple says two iOS 27 features aren’t coming until a ‘future software update’",
+      "summary_en": "This week, Apple announced that iOS 27 will be released to everyone on Monday, September 14. Along with that, the company now says two features included in the iOS 27 betas have been removed and will be released in a “future software update” for iPhone: suggestions in Messages and automatic password changes. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/passwords-ios-27.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/11/apple-says-two-ios-27-features-arent-coming-until-a-future-software-update/",
+      "published": "Fri, 11 Sep 2026 19:46:45 +0000",
+      "title_th": "Apple กล่าวว่าฟีเจอร์ iOS 27 สองฟีเจอร์จะไม่มาจนกว่าจะมี 'การอัปเดตซอฟต์แวร์ในอนาคต'",
+      "summary_th": "ในสัปดาห์นี้ Apple ประกาศว่า iOS 27 จะเปิดตัวให้กับทุกคนในวันจันทร์ที่ 14 กันยายน นอกจากนั้น บริษัทยังกล่าวอีกว่าฟีเจอร์สองรายการที่รวมอยู่ใน iOS 27 เบต้าได้ถูกลบออกแล้ว และจะเปิดตัวใน \"การอัปเดตซอฟต์แวร์ในอนาคต\" สำหรับ iPhone: คำแนะนำในข้อความและการเปลี่ยนรหัสผ่านอัตโนมัติ มากกว่า…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple sets cutoff time for getting faster iPhone 18 Pro pre-order",
-      "summary_en": "iPhone 18 Pro pre-orders start tomorrow , and you can “Get Ready” by making your selections in advance via the online Apple Store. Here’s the deadline for when those decisions need to be locked in ahead of pre-orders opening. more…",
+      "title_en": "Apple Watch Series 12 vs Series 11: Here’s everything new",
+      "summary_en": "Apple Watch Series 12 improves many of the core components that power watchOS and the device’s health and fitness features, plus unlocks new AI capabilities. Here’s everything new in Apple Watch Series 12 vs Series 11. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-pearl-white-ceramic.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/11/apple-watch-series-12-vs-series-11-heres-everything-new/",
+      "published": "Fri, 11 Sep 2026 19:35:28 +0000",
+      "title_th": "Apple Watch Series 12 กับ Series 11: นี่คือทุกสิ่งใหม่",
+      "summary_th": "Apple Watch Series 12 ปรับปรุงองค์ประกอบหลักหลายอย่างที่ขับเคลื่อน watchOS รวมถึงคุณสมบัติด้านสุขภาพและฟิตเนสของอุปกรณ์ พร้อมทั้งปลดล็อคความสามารถ AI ใหม่ นี่คือทุกสิ่งใหม่ใน Apple Watch Series 12 และ Series 11 เพิ่มเติม..."
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple’s iPhone 18 Pro cases are already in stores, and not just for the new models",
+      "summary_en": "Apple’s new iPhone 18 Pro cases and other accessories are now available in Apple Stores. Pre-orders for the new phones start tomorrow ahead of the launch in one week. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-pro-max-hand.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/11/apple-sets-cutoff-time-for-getting-faster-iphone-18-pro-pre-order/",
-      "published": "Fri, 11 Sep 2026 17:05:08 +0000",
-      "title_th": "Apple กำหนดเวลารับคำสั่งซื้อ iPhone 18 Pro ล่วงหน้าเร็วขึ้น",
-      "summary_th": "การสั่งซื้อ iPhone 18 Pro ล่วงหน้าจะเริ่มในวันพรุ่งนี้ และคุณสามารถ “เตรียมพร้อม” ได้โดยทำการเลือกล่วงหน้าผ่านทาง Apple Store ออนไลน์ นี่คือกำหนดเวลาที่ต้องล็อคการตัดสินใจเหล่านั้นไว้ก่อนการเปิดสั่งจองล่วงหน้า มากกว่า…"
+      "link": "https://9to5mac.com/2026/09/11/apples-iphone-18-pro-cases-are-already-in-stores-and-not-just-for-the-new-models/",
+      "published": "Fri, 11 Sep 2026 18:54:43 +0000",
+      "title_th": "Apple’s iPhone 18 Pro cases are already in stores, and not just for the new models",
+      "summary_th": "Apple’s new iPhone 18 Pro cases and other accessories are now available in Apple Stores. Pre-orders for the new phones start tomorrow ahead of the launch in one week. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Four ways to achieve shallow depth of field without buying the iPhone 18 Pro",
-      "summary_en": "The variable aperture lens of the shiny new iPhone 18 Pro goes almost one stop wider than the fixed aperture lens in its predecessor: up from f/1.78 in the iPhone 17 Pro to f/1.48 (a smaller number is wider). In principle, this will allow for slightly shallower depth of field, enabling greater separation between your subject and the background – although it’s a relatively small difference . But there are four ways to achieve shallow depth of field (DOF) with much older iPhones … more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Four-ways-to-achieve-shallow-depth-of-field-with-an-older-iPhone.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/11/four-ways-to-achieve-shallow-depth-of-field-with-an-older-iphone/",
-      "published": "Fri, 11 Sep 2026 16:00:00 +0000",
-      "title_th": "สี่วิธีเพื่อให้ได้ระยะชัดตื้นโดยไม่ต้องซื้อ iPhone 18 Pro",
-      "summary_th": "เลนส์ที่มีรูรับแสงแบบปรับได้ของ iPhone 18 Pro ใหม่แวววาวมีความกว้างมากกว่าเลนส์ที่มีรูรับแสงคงที่ในรุ่นก่อนเกือบหนึ่งสต็อป โดยเพิ่มขึ้นจาก f/1.78 ใน iPhone 17 Pro เป็น f/1.48 (จำนวนที่น้อยลงจะกว้างขึ้น) โดยหลักการแล้ว สิ่งนี้จะช่วยให้ระยะชัดลึกตื้นขึ้นเล็กน้อย ทำให้สามารถแยกตัวแบบของคุณกับพื้นหลังได้มากขึ้น แม้ว่าจะมีความแตกต่างค่อนข้างน้อยก็ตาม แต่มีสี่วิธีในการบรรลุระยะชัดตื้น (DOF) ด้วย iPhone รุ่นเก่ามาก … เพิ่มเติม…"
+      "title_en": "Google Health 5.08 rolling out on Android & iOS",
+      "summary_en": "Google Health 5.08 is rolling out on Android and iOS as the smallest update since the May redesign. A pair of...",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-health-logo-4.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/11/google-health-5-08-release-notes/",
+      "published": "Fri, 11 Sep 2026 18:16:15 +0000",
+      "title_th": "Google Health 5.08 rolling out on Android & iOS",
+      "summary_th": "Google Health 5.08 is rolling out on Android and iOS as the smallest update since the May redesign. A pair of..."
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Here’s why I left T-Mobile for an MVNO",
-      "summary_en": "I had been a loyal T-Mobile customer since 2016, when the company introduced its T-Mobile ONE plan. I had a military discount the entire time I was with them, but even with that discount my bill eventually ballooned to $113 a month thanks to T-Mobile’s price hikes . I decided enough was enough, so I started looking for a cheaper alternative. Plus, with Apple’s iPhone 18 Pro costing at least $100 more this year, I thought cutting my cell phone bill might help soften the blow if I upgraded to a new device. And so, I sought out an MVNO. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/t-mobile-trash.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/11/heres-why-i-left-t-mobile-for-an-mvno/",
-      "published": "Fri, 11 Sep 2026 15:44:16 +0000",
-      "title_th": "นี่คือเหตุผลที่ฉันออกจาก T-Mobile เพื่อรับ MVNO",
-      "summary_th": "ฉันเป็นลูกค้า T-Mobile ที่ภักดีมาตั้งแต่ปี 2559 เมื่อบริษัทเปิดตัวแผน T-Mobile ONE ฉันมีส่วนลดทหารตลอดเวลาที่อยู่กับพวกเขา แต่ถึงแม้จะมีส่วนลดนั้น ในที่สุดบิลของฉันก็เพิ่มเป็น 113 ดอลลาร์ต่อเดือนเนื่องจากการขึ้นราคาของ T-Mobile ฉันตัดสินใจว่าเพียงพอแล้ว ดังนั้นฉันจึงเริ่มมองหาทางเลือกที่ถูกกว่า นอกจากนี้ ด้วย iPhone 18 Pro ของ Apple ที่มีราคาเพิ่มขึ้นอย่างน้อย $100 ในปีนี้ ฉันคิดว่าการลดค่าโทรศัพท์มือถืออาจช่วยลดปัญหาได้หากฉันอัปเกรดเป็นอุปกรณ์ใหม่ ดังนั้นฉันจึงค้นหา MVNO มากกว่า…"
+      "title_en": "It took way too long for someone to make USB-C cables that say what they can actually do [Gallery]",
+      "summary_en": "Life with USB-C is great, except for the one nagging problem that’s been there since the beginning – you never really know what you’re getting. While it’s not quite the “Wild West” anymore, I was thrilled to see that someone finally made a collection of USB-C cables that not only do what they say they’ll do, but literally have their specs printed on the cable itself. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/ltt-truespec-cables-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/11/usb-c-cable-ltt-truespec/",
+      "published": "Fri, 11 Sep 2026 18:15:00 +0000",
+      "title_th": "ใช้เวลานานเกินไปสำหรับใครบางคนในการสร้างสาย USB-C ที่บอกว่าพวกเขาสามารถทำอะไรได้บ้าง [แกลเลอรี]",
+      "summary_th": "Life with USB-C is great, except for the one nagging problem that’s been there since the beginning – you never really know what you’re getting. While it’s not quite the “Wild West” anymore, I was thrilled to see that someone finally made a collection of USB-C cables that not only do what they say they’ll do, but literally have their specs printed on the cable itself. more…"
     },
     {
       "source": "9to5Google",
@@ -492,7 +516,7 @@
       "link": "https://9to5google.com/2026/09/11/motorolas-wide-razr-fold-wants-3d-glass-and-creaseless-display/",
       "published": "Fri, 11 Sep 2026 16:55:16 +0000",
       "title_th": "Razr Fold ที่กว้างของ Motorola ต้องการมี 'กระจก 3 มิติ' และจอแสดงผลไร้รอยยับ",
-      "summary_th": "ชิ้นส่วนปริศนาสำหรับ Razr Fold รุ่นกว้างของ Motorola กำลังค่อยๆ มารวมกัน รายการ World Power Consortium ล่าสุดสำหรับอุปกรณ์ดังกล่าว พร้อมด้วยการจำลองภายในที่รั่วไหลออกมาจากทีมออกแบบของ Motorola ทำให้ Wide Razr Fold เหนียวแน่นในการทำงานกับ Galaxy Fold 8 และ iPhone Duo ไม่มากก็น้อย มากกว่า…"
+      "summary_th": "The puzzle pieces for the Motorola wide Razr Fold are slowly coming together. A recent World Power Consortium listing for the device, along with leaked internal mockups from Motorola’s design team, more or less cements a Wide Razr Fold in the works to take on the Galaxy Fold 8 and iPhone Duo. more…"
     },
     {
       "source": "9to5Google",
@@ -503,8 +527,8 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/Find-Hub-app-icon-1.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/09/11/find-hub-remembered/",
       "published": "Fri, 11 Sep 2026 16:00:00 +0000",
-      "title_th": "Google Find Hub เปิดตัวแท็บ \"จดจำ\" ใหม่พร้อมราศีเมถุน [U]",
-      "summary_th": "หลังจาก Android Drop เมื่อสัปดาห์ที่แล้ว Google กำลังเปิดตัวการอัปเดตแอปที่นำแท็บ \"จำได้\" ไปยัง Find Hub มากกว่า…"
+      "title_th": "Google Find Hub rolls out new ‘Remembered’ tab with Gemini [U]",
+      "summary_th": "Following last week’s Android Drop , Google is now rolling out an app update that brings the “Remembered” tab to Find Hub. more…"
     },
     {
       "source": "9to5Google",
@@ -515,92 +539,68 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/9to5Google-Sep-11.webp?resize=1200,628",
       "link": "https://9to5google.com/2026/09/11/deals-galaxy-z-fold-8-metal-smart-display-power-bank/",
       "published": "Fri, 11 Sep 2026 15:45:54 +0000",
-      "title_th": "ข้อเสนอ: Galaxy Z Fold 8 ลด 250 ดอลลาร์ + Buds 4 Pro ในราคา 25 ดอลลาร์, ธนาคารพลังงานจอแสดงผลอัจฉริยะโลหะ ส่วนลด 50 ดอลลาร์, ค้นหาการ์ด Hub และอีกมากมาย",
-      "summary_th": "ช่วงพักกลางวันของ 9to5Toys วันนี้พาดหัวข่าวด้วยข้อเสนอสุดพิเศษอื่นๆ บน Galaxy Z Fold 8 ในราคาส่วนลด 250 ดอลลาร์สหรัฐฯ พร้อม Galaxy Buds 4 Pro ที่มาพร้อมกับราคาเพียง 25 ดอลลาร์สหรัฐฯ (หรือมากกว่า 530 ดอลลาร์สหรัฐฯ ขึ้นไปจากยูนิตแบบเปิดกล่อง) นอกจากนี้เรายังมีพาวเวอร์แบงค์จอแสดงผลอัจฉริยะโลหะ 300W ที่น่าประทับใจของ Sharge กลับมาในราคาประหยัดตลอดกาลด้วยส่วนลด 50 ดอลลาร์ การ์ดติดตามกระเป๋าสตางค์ Ghost Google Find Hub โปร่งแสงของ KeySmart ในราคาที่ถูกที่สุดใน Amazon และพาวเวอร์แบงค์ Qi2.2 MagFlow Pro 25W Qi2.2 ระบายความร้อนด้วยของเหลวของ UGREEN ในราคาลด 50 ดอลลาร์ มุ่งหน้าไปด้านล่างเพื่อดูอย่างใกล้ชิดและอีกมากมาย มากกว่า…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "‘Lenovo Googlebook 15’ specs leak in full with ‘Google facial authentication’",
-      "summary_en": "Following some past leaks , another new report reveals basically everything about the upcoming “Lenovo Googlebook 15” including its full specs, but without a price tag. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/lenovo-googlebook-mo-leak-6.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/11/lenovo-googlebook-15-specs-leak/",
-      "published": "Fri, 11 Sep 2026 15:10:00 +0000",
-      "title_th": "ข้อมูลจำเพาะ 'Lenovo Googlebook 15' รั่วไหลเต็มรูปแบบพร้อม 'การตรวจสอบใบหน้าของ Google'",
-      "summary_th": "จากการรั่วไหลในอดีต รายงานใหม่อีกฉบับเผยให้เห็นโดยพื้นฐานทุกอย่างเกี่ยวกับ “Lenovo Googlebook 15” ที่กำลังจะมาถึง รวมถึงสเป็คทั้งหมด แต่ไม่มีป้ายราคา มากกว่า…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Instagram chief thinks a chronological feed is ‘much worse’ and says the quiet part out loud",
-      "summary_en": "As new legislation in Australia aims to let users opt out of the algorithmic nature of modern social media, Instagram’s Adam Mosseri has said that the experience of a chronological feed is “much worse.” more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/09/instagram-02.webp?resize=1200,628",
-      "link": "https://9to5google.com/2026/09/11/instagram-chronological-feed-much-worse/",
-      "published": "Fri, 11 Sep 2026 15:05:00 +0000",
-      "title_th": "หัวหน้า Instagram คิดว่าฟีดตามลำดับเวลานั้น 'แย่กว่ามาก' และพูดส่วนที่เงียบ ๆ ออกมาดัง ๆ",
-      "summary_th": "เนื่องจากกฎหมายใหม่ในออสเตรเลียมีเป้าหมายเพื่อให้ผู้ใช้เลือกไม่ใช้ลักษณะอัลกอริธึมของโซเชียลมีเดียสมัยใหม่ Adam Mosseri จาก Instagram กล่าวว่าประสบการณ์ฟีดตามลำดับเวลานั้น \"แย่กว่ามาก\" มากกว่า…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Hyundai’s IONIQ 6 N looks ready for its US launch with a fresh new attitude [Image]",
-      "summary_en": "Hyundai is set to launch the IONIQ 6 N in the US by the end of the year, its second electric N vehicle following the IONIQ 5. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Hyundai-IONIQ-6-N-US-launch-1.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/11/hyundais-ioniq-6-n-looks-ready-us-launch-image/",
-      "published": "Fri, 11 Sep 2026 17:55:21 +0000",
-      "title_th": "IONIQ 6 N ของ Hyundai ดูพร้อมสำหรับการเปิดตัวในสหรัฐอเมริกาด้วยทัศนคติใหม่ที่สดใหม่ [ภาพ]",
-      "summary_th": "Hyundai มีกำหนดจะเปิดตัว IONIQ 6 N ในสหรัฐอเมริกาภายในสิ้นปีนี้ ซึ่งเป็นรถยนต์ไฟฟ้า N คันที่สองรองจาก IONIQ 5 เพิ่มเติม..."
+      "title_th": "Deals: Galaxy Z Fold 8 $250 off + Buds 4 Pro for $25, metal smart display power bank $50 off, Find Hub card, more",
+      "summary_th": "Today’s 9to5Toys Lunch Break is headlined by even more super notable deals on Galaxy Z Fold 8 at $250 off with Galaxy Buds 4 Pro bundled at just $25 (or massive $530+ off open-box units ). We also have Sharge’s impressive metal 300W smart display power bank back to all-time low pricing a t $50 off , KeySmart’s translucent Ghost Google Find Hub wallet tracker card at its lowest Amazon price yet , and UGREEN’s liquid-cooled Qi2.2 MagFlow Pro 25W Qi2.2 power bank at $50 off . Head below for a closer look and even more. more…"
     },
     {
       "source": "Electrek",
       "flag": "",
       "category": "ev",
-      "title_en": "First look at Tesla Cybercab’s steering: a Cybertruck wheel bolted on",
-      "summary_en": "A pre-production Tesla Cybercab was spotted parked on a street in Berkeley, California, and it gives us the clearest look yet at how Tesla puts a steering wheel into a car it designed to have none. The photos, shared with Electrek by reader Adam Machacek, show a Cybertruck steering wheel mounted on an exposed steering column that has been bolted into the two-seat robotaxi. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/tesla-cybercab-steering-featured.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/11/tesla-cybercab-steering-wheel-assembly-first-look/",
-      "published": "Fri, 11 Sep 2026 17:24:39 +0000",
-      "title_th": "ดูพวงมาลัยของ Tesla Cybercab เป็นครั้งแรก: ล้อ Cybertruck ติดอยู่",
-      "summary_th": "มีผู้พบเห็น Tesla Cybercab รุ่นก่อนการผลิตที่จอดอยู่บนถนนในเบิร์กลีย์ รัฐแคลิฟอร์เนีย และช่วยให้เราเห็นภาพที่ชัดเจนที่สุดว่า Tesla ใส่พวงมาลัยลงในรถที่ออกแบบมาให้ไม่มีเลยได้อย่างไร ภาพถ่ายที่ผู้อ่าน Adam Machacek แบ่งปันกับ Electrek แสดงให้เห็นพวงมาลัย Cybertruck ที่ติดตั้งอยู่บนคอพวงมาลัยแบบเปลือยซึ่งถูกยึดเข้ากับโรโบแท็กซี่สองที่นั่ง มากกว่า…"
+      "title_en": "One panel per minute: Solar recycling is going big in Texas",
+      "summary_en": "Old solar panels contain valuable silver, copper, silicon, aluminum, and glass. A new Texas solar recycling plant aims to recover nearly all of it without sending partially processed materials overseas. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/WRS_Rendering_Texas-Facility-_Wide_Credit_WeRecycleSolar.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/11/one-panel-per-minute-solar-recycling-is-going-big-in-texas/",
+      "published": "Fri, 11 Sep 2026 19:43:52 +0000",
+      "title_th": "One panel per minute: Solar recycling is going big in Texas",
+      "summary_th": "Old solar panels contain valuable silver, copper, silicon, aluminum, and glass. A new Texas solar recycling plant aims to recover nearly all of it without sending partially processed materials overseas. more…"
     },
     {
       "source": "Electrek",
       "flag": "",
       "category": "ev",
-      "title_en": "Nissan undercuts Kia to retake the crown as Canada’s most affordable EV",
-      "summary_en": "The Kia EV3 is no longer Canada’s most affordable electric vehicle with the new 2027 Nissan Leaf S starting at under CA$35,000. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Nissan-Canadas-most-affordable-EV.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/11/nissan-undercuts-kia-retake-title-canadas-most-affordable-ev/",
-      "published": "Fri, 11 Sep 2026 16:03:20 +0000",
-      "title_th": "Nissan ทุบตี Kia เพื่อชิงตำแหน่ง EV ที่ราคาไม่แพงที่สุดของแคนาดา",
-      "summary_th": "Kia EV3 ไม่ใช่รถยนต์ไฟฟ้าราคาประหยัดที่สุดในแคนาดาอีกต่อไปแล้ว ด้วย Nissan Leaf S ปี 2027 ใหม่ ที่มีราคาเริ่มต้นต่ำกว่า 35,000 ดอลลาร์แคนาดา มากกว่า…"
+      "title_en": "Podcast: Tesla Semi, mixed bag of EV sales, Chinese EVs in the US, and more",
+      "summary_en": "In the Electrek Podcast , we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss the Tesla Semi launch in Europe, mixed bag of EV sales, Chinese EVs in the US, and more. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/11/podcast-tesla-semi-mixed-bag-of-ev-sales-chinese-evs-in-the-us-and-more/",
+      "published": "Fri, 11 Sep 2026 19:40:59 +0000",
+      "title_th": "พอดคาสต์: Tesla Semi, ยอดขาย EV แบบผสมผสาน, EV จีนในสหรัฐอเมริกา และอีกมากมาย",
+      "summary_th": "ใน Electrek Podcast เราพูดคุยถึงข่าวยอดนิยมในโลกแห่งการขนส่งและพลังงานที่ยั่งยืน ในตอนของสัปดาห์นี้ เราจะพูดถึงการเปิดตัว Tesla Semi ในยุโรป การขาย EV แบบผสมผสาน EV จีนในสหรัฐอเมริกา และอื่นๆ อีกมากมาย มากกว่า…"
     },
     {
       "source": "Electrek",
       "flag": "",
       "category": "ev",
-      "title_en": "Tesla reveals European Semi specs: 550 km range, 800 kW charging",
-      "summary_en": "Tesla revealed the European specs for its Semi electric truck, and they don’t match the version already in production in the US. The truck will offer up to 550 km (342 miles) of range at 40 tonnes fully loaded. Tesla Europe posted the numbers today, days before the company plans to formally launch the Semi in Europe at the IAA Transportation show in Hannover. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Tesla-Semi-electric-truck-Europe.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/11/tesla-european-semi-specs-550-km-800-kw/",
-      "published": "Fri, 11 Sep 2026 15:43:33 +0000",
-      "title_th": "Tesla เผยสเปก European Semi: ระยะ 550 กม. ชาร์จ 800 กิโลวัตต์",
-      "summary_th": "Tesla เปิดเผยข้อมูลจำเพาะของยุโรปสำหรับรถบรรทุกกึ่งไฟฟ้า และไม่ตรงกับเวอร์ชันที่ผลิตในสหรัฐอเมริกาแล้ว รถบรรทุกคันนี้จะมีพิสัยการเดินทางสูงสุด 550 กม. (342 ไมล์) โดยมีน้ำหนักบรรทุกเต็มที่ 40 ตัน Tesla Europe โพสต์ตัวเลขในวันนี้ ไม่กี่วันก่อนที่บริษัทมีแผนจะเปิดตัว Semi อย่างเป็นทางการในยุโรปที่งาน IAA Transportation ในเมืองฮันโนเวอร์ มากกว่า…"
+      "title_en": "EV prices are falling while the average new car tops $50K",
+      "summary_en": "The average new EV got cheaper in August, even as the average transaction price (ATP) paid for a new vehicle in the US climbed back above $50,000. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/2026-tesla-model-y-driving-front-3qtr.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/11/ev-prices-are-falling-while-the-average-new-car-tops-50k/",
+      "published": "Fri, 11 Sep 2026 19:07:23 +0000",
+      "title_th": "ราคา EV กำลังลดลงในขณะที่รถยนต์ใหม่โดยเฉลี่ยมีมูลค่าสูงถึง 50,000 ดอลลาร์",
+      "summary_th": "EV ใหม่โดยเฉลี่ยมีราคาถูกกว่าในเดือนสิงหาคม แม้ว่าราคาธุรกรรมเฉลี่ย (ATP) ที่จ่ายสำหรับยานพาหนะใหม่ในสหรัฐฯ จะกลับมาสูงกว่า 50,000 ดอลลาร์ก็ตาม มากกว่า…"
     },
     {
       "source": "Electrek",
       "flag": "",
       "category": "ev",
-      "title_en": "Kia deploys 200 PV5 electric vans for mail delivery",
-      "summary_en": "Kia developed a custom PV5 for mail delivery. Starting this month, Kia will begin deploying 200 electric vans to post offices. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Kia-PV5-mail-delivery.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/11/kia-deploys-200-pv5-electric-vans-mail-delivery/",
-      "published": "Fri, 11 Sep 2026 14:11:00 +0000",
-      "title_th": "Kia ติดตั้งรถตู้ไฟฟ้า PV5 จำนวน 200 คันเพื่อจัดส่งทางไปรษณีย์",
-      "summary_th": "Kia พัฒนา PV5 แบบกำหนดเองสำหรับการส่งทางไปรษณีย์ ตั้งแต่เดือนนี้เป็นต้นไป Kia จะเริ่มจัดส่งรถตู้ไฟฟ้า 200 คันไปยังที่ทำการไปรษณีย์ มากกว่า…"
+      "title_en": "Learn how to save money on gas at US Drive Electric Month events, all Sept.",
+      "summary_en": "Drive Electric Month kicks off this week with over 150 online and in-person events celebrating electric vehicles over the course of the next month. Events will be held for the next several weekends, with events in most US states, and one in Canada. And in the midst of a global oil price spike, there couldn’t be a better time to learn how to become energy independent. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2024/09/2468-e1727225870138.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/11/learn-how-to-save-money-on-gas-at-us-drive-electric-month-events-all-month/",
+      "published": "Fri, 11 Sep 2026 19:00:00 +0000",
+      "title_th": "เรียนรู้วิธีประหยัดเงินค่าน้ำมันในงาน US Drive Electric Month ทุกเดือนกันยายน",
+      "summary_th": "Drive Electric Month เริ่มต้นในสัปดาห์นี้ด้วยกิจกรรมออนไลน์และแบบเข้าร่วมด้วยตนเองมากกว่า 150 กิจกรรมเพื่อเฉลิมฉลองยานพาหนะไฟฟ้าตลอดเดือนหน้า กิจกรรมจะจัดขึ้นในช่วงสุดสัปดาห์ถัดไป โดยจะมีกิจกรรมในรัฐส่วนใหญ่ของสหรัฐอเมริกา และอีกกิจกรรมในแคนาดา และท่ามกลางราคาน้ำมันที่พุ่งสูงขึ้นทั่วโลก ไม่มีเวลาใดที่จะดีไปกว่านี้ในการเรียนรู้วิธีเป็นอิสระด้านพลังงาน มากกว่า…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Upcoming electric Porsche Boxster spotted with no camo on Nurburgring",
+      "summary_en": "Porsche was seen testing its upcoming 718 Boxster at the Nürburgring, the famous and grueling race track in Germany. It’s the first we’ve seen the vehicle uncamouflaged, and comes after Porsche’s new CEO quashed rumors of the model’s cancellation. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2024/03/Porsche-retires-Boxster.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/11/upcoming-electric-porsche-boxster-spotted-with-no-camo-on-nurburgring/",
+      "published": "Fri, 11 Sep 2026 18:47:03 +0000",
+      "title_th": "Upcoming electric Porsche Boxster spotted with no camo on Nurburgring",
+      "summary_th": "Porsche was seen testing its upcoming 718 Boxster at the Nürburgring, the famous and grueling race track in Germany. It’s the first we’ve seen the vehicle uncamouflaged, and comes after Porsche’s new CEO quashed rumors of the model’s cancellation. more…"
     }
   ],
   "indices": [
@@ -608,65 +608,65 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 219.12,
-      "change": 0.76,
-      "change_pct": 0.35
+      "price": 218.29,
+      "change": -0.07,
+      "change_pct": -0.03
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 365.1,
-      "change": 1.54,
-      "change_pct": 0.42
+      "price": 365.44,
+      "change": 1.88,
+      "change_pct": 0.52
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 340.3,
-      "change": 7.7,
-      "change_pct": 2.32
+      "price": 338.5,
+      "change": 5.9,
+      "change_pct": 1.77
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 495.3,
-      "change": 2.86,
-      "change_pct": 0.58
+      "price": 495.63,
+      "change": 3.19,
+      "change_pct": 0.65
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 333.36,
-      "change": 6.79,
-      "change_pct": 2.08
+      "price": 332.27,
+      "change": 5.7,
+      "change_pct": 1.75
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 256.89,
-      "change": 5.0,
-      "change_pct": 1.98
+      "price": 256.78,
+      "change": 4.89,
+      "change_pct": 1.94
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 649.68,
-      "change": 5.3,
-      "change_pct": 0.82
+      "price": 648.03,
+      "change": 3.65,
+      "change_pct": 0.57
     },
     {
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 264.0,
+      "change": -4.0,
+      "change_pct": -1.49
     }
   ],
   "reviews": [
@@ -678,7 +678,7 @@
       "link": "https://www.youtube.com/watch?v=Od6M0AXpcxQ",
       "thumbnail": "https://i4.ytimg.com/vi/Od6M0AXpcxQ/hqdefault.jpg",
       "published": "2026-09-10T07:29:55+00:00",
-      "title_th": "การแสดงผล iPhone 18 Pro/Duo: Mogged"
+      "title_th": "iPhone 18 Pro/Duo Impressions: Mogged"
     },
     {
       "channel": "MKBHD",
@@ -688,7 +688,7 @@
       "link": "https://www.youtube.com/shorts/R6yNUnRXZ64",
       "thumbnail": "https://i3.ytimg.com/vi/R6yNUnRXZ64/hqdefault.jpg",
       "published": "2026-09-10T07:02:22+00:00",
-      "title_th": "iPhone Duo มาแล้ว"
+      "title_th": "iPhone Duo is here"
     },
     {
       "channel": "MKBHD",
@@ -698,7 +698,7 @@
       "link": "https://www.youtube.com/shorts/uJdjKOBikTE",
       "thumbnail": "https://i2.ytimg.com/vi/uJdjKOBikTE/hqdefault.jpg",
       "published": "2026-09-09T22:14:37+00:00",
-      "title_th": "แอนิเมชัน iPhone Duo นี้ 👀"
+      "title_th": "This iPhone Duo Animation 👀"
     },
     {
       "channel": "Unbox Therapy",
@@ -708,7 +708,7 @@
       "link": "https://www.youtube.com/watch?v=w_iHZi4fb8k",
       "thumbnail": "https://i4.ytimg.com/vi/w_iHZi4fb8k/hqdefault.jpg",
       "published": "2026-09-10T15:00:03+00:00",
-      "title_th": "สิ่งแปลกประหลาดของ Apple ได้รับการแก้ไขแล้ว"
+      "title_th": "Apple's Weird Thing is Fixed."
     },
     {
       "channel": "Unbox Therapy",
@@ -718,7 +718,7 @@
       "link": "https://www.youtube.com/shorts/ppH3kW0h_fc",
       "thumbnail": "https://i1.ytimg.com/vi/ppH3kW0h_fc/hqdefault.jpg",
       "published": "2026-09-03T21:00:32+00:00",
-      "title_th": "พวกเขาได้รับ So Light ได้อย่างไร?"
+      "title_th": "How do they get them So Light?"
     },
     {
       "channel": "Unbox Therapy",
@@ -728,7 +728,7 @@
       "link": "https://www.youtube.com/watch?v=3DVKs1wFoFw",
       "thumbnail": "https://i4.ytimg.com/vi/3DVKs1wFoFw/hqdefault.jpg",
       "published": "2026-09-03T16:58:33+00:00",
-      "title_th": "แล็ปท็อปราคาประหยัดรุ่นใหม่ของ LG..."
+      "title_th": "LG’s New Budget Laptop..."
     },
     {
       "channel": "Beartai",
