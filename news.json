@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-09-12T17:36:22.854850+00:00",
+  "generated_at": "2026-09-12T19:57:11.049450+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Anthropic CEO outlines plan to slow AI development",
+      "summary_en": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "published": "Sat, 12 Sep 2026 19:34:44 +0000",
+      "title_th": "Anthropic CEO outlines plan to slow AI development",
+      "summary_th": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "ev",
+      "title_en": "Tesla says it will finally unveil the second generation Roadster on October 1",
+      "summary_en": "Tesla’s halo sports car was first announced in November 2017.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/tesla-roadster-2.jpg?resize=1200,822",
+      "link": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+      "published": "Sat, 12 Sep 2026 19:21:19 +0000",
+      "title_th": "Tesla says it will finally unveil the second generation Roadster on October 1",
+      "summary_th": "Tesla’s halo sports car was first announced in November 2017."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -11,7 +35,7 @@
       "image": "https://techcrunch.com/wp-content/uploads/2025/11/revolut.png?resize=1200,629",
       "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
       "published": "Sat, 12 Sep 2026 14:40:00 +0000",
-      "title_th": "Revolut ยืนยันการละเมิดข้อมูลลูกค้าผ่านคำขอของรัฐบาลปลอม",
+      "title_th": "Revolut confirms customer data breach through fake government requests",
       "summary_th": "Revolut กล่าวว่าได้แจ้งให้ลูกค้าที่ได้รับผลกระทบและแจ้งเตือนหน่วยงานรัฐบาล หน่วยงานบังคับใช้กฎหมาย และหน่วยงานกำกับดูแลทางการเงินที่เกี่ยวข้อง"
     },
     {
@@ -23,8 +47,8 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
       "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
       "published": "Fri, 11 Sep 2026 22:58:17 +0000",
-      "title_th": "Mecka AI ใกล้ประเมินมูลค่า 500 ล้านดอลลาร์ในข้อตกลงที่นำโดย Sequoia ท่ามกลางความเร่งรีบสำหรับข้อมูลการฝึกหุ่นยนต์",
-      "summary_th": "รอบสำหรับสตาร์ทอัพอายุ 2 ปีกำลังจะมาพร้อมกันหลายเดือนหลังจากที่ Mecka ประกาศ Series A"
+      "title_th": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "summary_th": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
     },
     {
       "source": "TechCrunch",
@@ -35,32 +59,8 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Keith-Rabois.jpg?resize=1200,896",
       "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
       "published": "Fri, 11 Sep 2026 21:19:05 +0000",
-      "title_th": "Khosla Ventures กำลังจะเปิดสำนักงานในนิวยอร์กในฤดูใบไม้ร่วงนี้ ซึ่งเป็นด่านหน้าแห่งแรกนอกถนน Sand Hill",
-      "summary_th": "“จริงๆ แล้วมันถูกกล่าวหาว่ากำลังถูกสร้างขึ้นในขณะนี้” ราบัวส์ ซึ่งเห็นได้ชัดว่าต้องจัดการกับระยะเวลาการก่อสร้างที่พลาดไปหรือสองประการกล่าว"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-      "summary_en": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
-      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "published": "Fri, 11 Sep 2026 20:59:47 +0000",
-      "title_th": "Garry Tan จาก Y Combinator ต้องการให้ห้องปฏิบัติการ AI แบบเปิดของสหรัฐฯ 'กลั่นกรอง' โมเดลชายแดนด้วย",
-      "summary_th": "Tan ต้องการห้องปฏิบัติการ AI แบบเปิดของอเมริกาที่มีขนาดเล็กกว่า เพื่อใช้เทคนิคการฝึกอบรมแบบเดียวกันในห้องปฏิบัติการ AI ชายแดนของอเมริกา ทำให้สหรัฐฯ มีตัวเลือกสำหรับตัวเลือกแบบเปิดที่ไม่ใช่ภาษาจีนที่มีประสิทธิภาพมากขึ้น"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "OpenAI’s feud with mathematicians is only escalating",
-      "summary_en": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "published": "Fri, 11 Sep 2026 20:57:36 +0000",
-      "title_th": "ความบาดหมางของ OpenAI กับนักคณิตศาสตร์กำลังทวีความรุนแรงขึ้นเท่านั้น",
-      "summary_th": "นักคณิตศาสตร์ชั้นนำ 25 คนลงนามในจดหมายเปิดผนึกโดยโต้แย้งว่าห้องปฏิบัติการ AI กำลังคุกคามงานทางปัญญาของพวกเขา"
+      "title_th": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
+      "summary_th": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two."
     },
     {
       "source": "The Verge",
@@ -71,8 +71,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Sylvan_Esso_-_Ow__-_Photo_By_Tonje_Thilesen.jpg?quality=90&strip=all&crop=0%2C10.956690481872%2C100%2C78.086619036256&w=1200",
       "link": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music",
       "published": "2026-09-12T12:35:00-04:00",
-      "title_th": "Sylvan Esso คิดว่าคุณควรทุ่มโยเกิร์ตคุณภาพดี",
-      "summary_th": "Amelia Meath และ Nick Sanborn หรือที่รู้จักกันดีในชื่อ Sylvan Esso นำเสนออิเล็กโทรป็อปแบบโลว์คีย์สู่คนทั่วไปมาตั้งแต่ปี 2014 โดยโด่งดังด้วยอัลบั้มเปิดตัวในชื่อตัวเองและซิงเกิล \"Hey Mami\" ในช่วงหลายปีที่ผ่านมา พวกเขาได้สร้างสถิติที่ยอดเยี่ยมมากมาย โดยอาศัยพื้นผิวที่ละเอียดและเปราะบางยิ่งขึ้นใน Free Love, […]"
+      "title_th": "Sylvan Esso think you should splurge on good-quality yogurt",
+      "summary_th": "Amelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with their self-titled debut album and the single \"Hey Mami.\" Over the years, they've put out a number of excellent records, dabbling in dustier, more fragile textures on Free Love, […]"
     },
     {
       "source": "The Verge",
@@ -83,8 +83,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
       "published": "2026-09-12T12:23:40-04:00",
-      "title_th": "Anthropic CEO กล่าวว่าถึงเวลาที่ต้องเบรก AI แล้ว",
-      "summary_th": "Dario Amodei CEO ของ Anthropic กล่าวว่าถึงเวลาแล้วที่จะต้องชะลอการพัฒนา AI และจะให้ผู้ประเมินบุคคลที่สาม เช่น METR เข้าถึงโมเดลของตน เพื่อช่วยให้แน่ใจว่า \"จะปฏิบัติตามแนวทางปฏิบัติด้านความปลอดภัยและความมุ่งมั่น\" ในบทความที่คดเคี้ยว Amodei เสนอแผนสามขั้นตอนในการ \"ก้าวข้ามพรมแดน\" - ศัพท์เฉพาะที่หมายถึงการชะลอ […]"
+      "title_th": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "summary_th": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow […]"
     },
     {
       "source": "The Verge",
@@ -95,8 +95,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/LG-B4-Press-Image-3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "link": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
       "published": "2026-09-12T11:19:44-04:00",
-      "title_th": "LG ตอบโต้ข้อกล่าวหาสอดแนมทีวี",
-      "summary_th": "เมื่อต้นสัปดาห์นี้ Gamers Nexus, Level1Techs และนักวิจัยด้านความปลอดภัยอิสระ ให้รายละเอียดการค้นพบที่น่าตกใจบางประการเกี่ยวกับวิธีที่ทีวีของ LG บันทึกและอัพโหลดข้อมูลเกี่ยวกับผู้ใช้ ขณะนี้บริษัทกำลังต่อต้านข้อกล่าวหาเหล่านั้น โดยกล่าวว่า \"การรายงานข่าวของสื่อเมื่อเร็วๆ นี้อาจมีส่วนทำให้เกิดความเข้าใจผิดเกี่ยวกับวิธีการทำงานของสมาร์ททีวีของ LG\" แอลจี เปิดตัว […]"
+      "title_th": "LG responds to TV spying allegations",
+      "summary_th": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. Now the company is pushing back against those allegations, saying that \"Some recent media coverage may have contributed to misconceptions about how LG smart TVs work.\" LG released a […]"
     },
     {
       "source": "The Verge",
@@ -107,8 +107,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
       "published": "2026-09-12T10:41:27-04:00",
-      "title_th": "ทรัมป์กำลังให้ศูนย์ข้อมูลผ่านมลพิษ",
-      "summary_th": "ประธานาธิบดีโดนัลด์ ทรัมป์ กำลังลดกฎระเบียบด้านสิ่งแวดล้อมในนามของการเร่งสร้างศูนย์ข้อมูล AI ซึ่งเพิ่มความเสี่ยงด้านสุขภาพให้กับชาวอเมริกัน กลุ่มอดีตเจ้าหน้าที่ EPA กล่าวในสัปดาห์นี้ในการบรรยายสรุปและรายงานฉบับใหม่ พวกเขากำลังเรียกร้องให้ประธานาธิบดีใช้ \"การคุ้มครองสุขภาพศูนย์ข้อมูล […]"
+      "title_th": "Trump is giving data centers a pass to pollute",
+      "summary_th": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a \"Data Center Health Protection […]"
     },
     {
       "source": "The Verge",
@@ -119,8 +119,8 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/img-260ce3af-8e70-4401-9a35-9eb971697f7b.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
       "link": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian",
       "published": "2026-09-12T09:00:00-04:00",
-      "title_th": "Wildwood แฟนตาซีสต็อปโมชั่นของ Laika ดูเรียบเนียนมาก",
-      "summary_th": "เนื่องจากเหตุขัดข้องเรื่องกำหนดการ ฉันจึงได้ดูภาพยนตร์เพียงสองเรื่องในวันที่สองของฉันที่เทศกาลภาพยนตร์นานาชาติโตรอนโต แต่ฉันก็สามารถได้ดูตั้งแต่เนิ่นๆ และรายละเอียดที่น่าสนใจของภาพยนตร์ที่ฉันคาดหวังมากที่สุดเรื่องหนึ่งในปีนี้ แม้จะไม่รู้ชื่อก็ตาม […]"
+      "title_th": "Laika’s stop-motion fantasy Wildwood looks so smooth",
+      "summary_th": "Due to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival - but I did manage to get an early look at and some fascinating details on one of my most anticipated films this year. Even if you don't know the name […]"
     },
     {
       "source": "Ars Technica",
@@ -131,8 +131,8 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
       "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
       "published": "Wed, 09 Sep 2026 20:55:02 +0000",
-      "title_th": "สี่กลุ่มถูกจับได้โดยใช้ชุดช่องโหว่ Chrome และ Windows ชุดเดียวกัน",
-      "summary_th": "ช่องว่างแพตช์และความเร่งรีบของการค้นพบช่องโหว่บน AI มีแนวโน้มว่ามีส่วนสนับสนุน"
+      "title_th": "Four groups caught using the same Chrome and Windows exploit kit",
+      "summary_th": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors."
     },
     {
       "source": "Ars Technica",
@@ -143,8 +143,8 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
       "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
       "published": "Tue, 08 Sep 2026 21:11:46 +0000",
-      "title_th": "เหตุใดการเปิดตัวแพทช์ของ Microsoft ในเดือนนี้จึงดูน่าเบื่อ",
-      "summary_th": "พวกโนมส์รักษาความปลอดภัยกำลังออกแพทช์ก่อนการโจมตีที่คาดว่าจะได้รับจากการโจมตีที่ได้รับความช่วยเหลือจาก AI"
+      "title_th": "Why this month's Microsoft patch release is a doozy",
+      "summary_th": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks."
     },
     {
       "source": "Ars Technica",
@@ -155,8 +155,8 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
       "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
       "published": "Fri, 04 Sep 2026 22:17:36 +0000",
-      "title_th": "เจ้าหน้าที่ OpenAI หารือถึงวิธีการหลบหนีแซนด์บ็อกซ์บนวิกิสาธารณะ",
-      "summary_th": "โดยรวมแล้ว เจ้าหน้าที่ภายใน 3,700 รายโพสต์ข้อความ 18,000 ข้อความพูดคุยเกี่ยวกับการโกงข้อสอบ"
+      "title_th": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "summary_th": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test."
     },
     {
       "source": "Ars Technica",
@@ -167,8 +167,8 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718-1152x648.jpg",
       "link": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
       "published": "Fri, 04 Sep 2026 17:35:02 +0000",
-      "title_th": "“ความน่าเชื่อถือ ไม่ใช่ฟีเจอร์ คือจุดบกพร่องที่แท้จริง”: VMware พยายามเอาใจ SMB",
-      "summary_th": "Broadcom ยอมรับว่า \"ให้ความสำคัญกับ VCF มากเกินไป\"..."
+      "title_th": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
+      "summary_th": "Broadcom admits it put “too big a focus on VCF.”..."
     },
     {
       "source": "Ars Technica",
@@ -179,8 +179,8 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-1152x648.jpg",
       "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
       "published": "Fri, 04 Sep 2026 17:18:12 +0000",
-      "title_th": "ครั้งหนึ่งเคยได้รับความนิยมในการโจมตี AI การลักลอบขนของ ASCII ได้รับการยอมรับจากผู้ส่งอีเมลขยะ",
-      "summary_th": "บล็อกยูนิโค้ดที่ครั้งหนึ่งเคยถูกมองข้ามซึ่งมนุษย์มองไม่เห็นนั้นกำลังมีการใช้กันอย่างแพร่หลายมากขึ้น"
+      "title_th": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+      "summary_th": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use."
     },
     {
       "source": "Wired",
@@ -191,8 +191,8 @@
       "image": "https://media.wired.com/photos/6aa2e470eb334db5ae141f8b/master/pass/Right-Wingers-Melting-Down-Over-GTA-Culture-Jason_Duval_06.jpg",
       "link": "https://www.wired.com/story/the-anti-woke-right-cant-figure-out-how-to-stop-grand-theft-auto-vi/",
       "published": "Sat, 12 Sep 2026 11:00:00 +0000",
-      "title_th": "Anti-Woke Right ไม่สามารถหาวิธีหยุด 'Grand Theft Auto VI' ได้",
-      "summary_th": "นักเล่นเกมชายกลุ่มหนึ่งใช้เวลาหลายปีเตือนว่าซีรีส์ที่ล่วงละเมิดนั้นถูกทำหมันโดยนักพัฒนาที่ก้าวหน้า แต่ฟันเฟืองกลับไม่ได้เกิดขึ้น"
+      "title_th": "The Anti-Woke Right Can’t Figure Out How to Stop ‘Grand Theft Auto VI’",
+      "summary_th": "A subset of male gamers have spent years warning that the transgressive series has been neutered by progressive developers, but the backlash isn’t taking hold."
     },
     {
       "source": "Wired",
@@ -203,8 +203,8 @@
       "image": "https://media.wired.com/photos/685f456cde3ddb7f4c50fa01/master/pass/Update-%20The%20Best%203-in-1%20Apple%20Wireless%20Chargers.png",
       "link": "https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/",
       "published": "Sat, 12 Sep 2026 10:30:00 +0000",
-      "title_th": "สถานีชาร์จ Apple 3-in-1 ที่ดีที่สุดหลังจากทดสอบรุ่นมากกว่า 30 รุ่น",
-      "summary_th": "ฉันลองใช้รุ่นยอดนิยมทั้งหมดเพื่อค้นหาแท่นชาร์จ แผ่นรองชาร์จของ Apple แบบ 3-in-1 ที่ดีที่สุด และอื่นๆ อีกมากมาย รักษา iPhone, Apple Watch และ AirPods ของคุณให้เต็มอยู่เสมอด้วยระบบเชื่อมต่อที่ทดสอบโดย WIRED"
+      "title_th": "The Best 3-in-1 Apple Charging Stations After Testing 30+ Models",
+      "summary_th": "I tried all the top models to find the best 3-in-1 Apple charging stations, pads, and more. Keep your iPhone, Apple Watch, and AirPods topped up with these WIRED-tested docking systems."
     },
     {
       "source": "Wired",
@@ -215,8 +215,20 @@
       "image": "https://media.wired.com/photos/6aa46e54cc5cd3bf9174f66e/master/pass/SecurityRoundUp_09122026_v1-ezgif.com-video-to-gif-converter.gif",
       "link": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
       "published": "Sat, 12 Sep 2026 10:30:00 +0000",
-      "title_th": "ตั้งแต่การแฮ็กไปจนถึงอาวุธชีวภาพ การใช้ Claude ในทางที่ผิดมีอยู่ทุกหนทุกแห่ง",
+      "title_th": "From Hacks to Bioweapons, Claude Misuse Is Now Everywhere",
       "summary_th": "นอกจากนี้: สหรัฐฯ ขัดขวางตลาดมืดที่ใหญ่ที่สุดในอินเทอร์เน็ต แฮกเกอร์ Conti แรนซัมแวร์ได้รับโทษจำคุก Meta ล้มเหลวในการหยุดวิดีโอการล่วงละเมิดเด็กที่สร้างโดย AI"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "review",
+      "title_en": "Branch Ergonomic Chair Pro (Sega Edition) Review: Comfy, Not Boring",
+      "summary_en": "Turns out that the best office chair is also the best gaming chair, now with aesthetics to match.",
+      "image": "https://media.wired.com/photos/6aa44e74dc225a8b7147e28f/master/pass/Review--Branch-Ergonomic-Chair-Pro-(Sega-Edition).jpg",
+      "link": "https://www.wired.com/review/branch-ergonomic-chair-pro-sega-edition/",
+      "published": "Sat, 12 Sep 2026 10:00:00 +0000",
+      "title_th": "Branch Ergonomic Chair Pro (Sega Edition) Review: Comfy, Not Boring",
+      "summary_th": "ปรากฎว่าเก้าอี้สำนักงานที่ดีที่สุดก็คือเก้าอี้เล่นเกมที่ดีที่สุดเช่นกัน ซึ่งมีความสวยงามที่เข้ากัน"
     },
     {
       "source": "Wired",
@@ -228,19 +240,7 @@
       "link": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
       "published": "Sat, 12 Sep 2026 10:00:00 +0000",
       "title_th": "'ฉันกลัวจริงๆ': นักคณิตศาสตร์ต้องต่อสู้กับความก้าวหน้าล่าสุดของ AI",
-      "summary_th": "Steven Strogatz ร่วมเขียนหนังสือเกี่ยวกับวิธีที่คณิตศาสตร์ก้าวไปไกลกว่าความเข้าใจของมนุษย์ เขาได้พูดคุยกับ WIRED เกี่ยวกับผลกระทบจากแผ่นดินไหวที่ปัญญาประดิษฐ์มีต่องานในชีวิตของเขา"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "review",
-      "title_en": "Branch Ergonomic Chair Pro (Sega Edition) Review: Comfy, Not Boring",
-      "summary_en": "Turns out that the best office chair is also the best gaming chair, now with aesthetics to match.",
-      "image": "https://media.wired.com/photos/6aa44e74dc225a8b7147e28f/master/pass/Review--Branch-Ergonomic-Chair-Pro-(Sega-Edition).jpg",
-      "link": "https://www.wired.com/review/branch-ergonomic-chair-pro-sega-edition/",
-      "published": "Sat, 12 Sep 2026 10:00:00 +0000",
-      "title_th": "รีวิว Branch Ergonomic Chair Pro (Sega Edition): สบายไม่น่าเบื่อ",
-      "summary_th": "ปรากฎว่าเก้าอี้สำนักงานที่ดีที่สุดก็คือเก้าอี้เล่นเกมที่ดีที่สุดเช่นกัน ซึ่งมีความสวยงามที่เข้ากัน"
+      "summary_th": "Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life’s work."
     },
     {
       "source": "MIT Technology Review",
@@ -251,8 +251,8 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2024/01/September.26_Roundtables-Assets.png?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
       "published": "Fri, 11 Sep 2026 20:05:06 +0000",
-      "title_th": "Roundtables: AI สามารถฆ่าเราทุกคนได้จริงหรือ?",
-      "summary_th": "พนักงานในห้องปฏิบัติการ AI ชั้นนำของโลกกล่าวว่ามีความเป็นไปได้จริงที่ AI ขั้นสูงสามารถทำลายมนุษยชาติได้ ใช่มั้ย? หรือนี่เป็นเรื่องที่น่าหวาดกลัวและโฆษณาเกินจริง? เข้าร่วม Niall Firth บรรณาธิการบริหารของ MIT Technology Review เพื่อสนทนากับ Will Douglas Heaven บรรณาธิการอาวุโสด้าน AI และ Grace Huckins นักข่าว AI ที่กำลังแกะกล่องการสูญพันธุ์ของ AI..."
+      "title_th": "Roundtables: Could AI really kill us all?",
+      "summary_th": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction…"
     },
     {
       "source": "MIT Technology Review",
@@ -263,8 +263,8 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/circles-bio2a.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
       "published": "Fri, 11 Sep 2026 12:10:00 +0000",
-      "title_th": "ดาวน์โหลด: อนาคตของเทคโนโลยีชีวภาพและเหล็กที่สะอาดและถูกกว่า",
-      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี พบกับผู้ที่มีอายุต่ำกว่า 35 ปีซึ่งกำหนดอนาคตของเทคโนโลยีชีวภาพ ทุกปี MIT Technology Review จะรวบรวมนักนวัตกรรม 35 คนที่มีอายุต่ำกว่า 35 ปีของเรา รายชื่อผู้มีความคิดรุ่นเยาว์ที่ฉลาดและดีที่สุดบางส่วน..."
+      "title_th": "The Download: biotech’s future and cheaper, cleaner steel",
+      "summary_th": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the brightest and best young minds…"
     },
     {
       "source": "MIT Technology Review",
@@ -275,8 +275,8 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/circles-bio2a.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
       "published": "Fri, 11 Sep 2026 09:00:00 +0000",
-      "title_th": "พบกับผู้ที่มีอายุต่ำกว่า 35 ปี ผู้กำหนดอนาคตของเทคโนโลยีชีวภาพ",
-      "summary_th": "ทุกปี MIT Technology Review จะรวบรวมรายชื่อเยาวชนที่ฉลาดและเก่งที่สุดที่ทำงานด้านวิทยาศาสตร์และเทคโนโลยี ผู้สร้างนวัตกรรม 35 คนของเราที่มีอายุต่ำกว่า 35 ปีคือบุคคลที่ควรจับตามอง บุคคลซึ่งงานวิจัยและงานด้านเทคนิคมีส่วนกำหนดอนาคตของสาขาของตน ในปีนี้รายชื่อมีเก้าคนที่..."
+      "title_th": "Meet the under-35s shaping the future of biotech",
+      "summary_th": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includes nine people who are…"
     },
     {
       "source": "MIT Technology Review",
@@ -287,8 +287,8 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Regalados_DSF7279-mobile.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
       "published": "Thu, 10 Sep 2026 12:10:00 +0000",
-      "title_th": "ดาวน์โหลด: สกุลเงินดิจิทัล “ที่ขับเคลื่อนโดยพระเจ้า” และแผนงานด้านวิศวกรรมพลังงานแสงอาทิตย์",
-      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี พระเจ้าบอกให้พวกเขาขาย crypto นักลงทุนของพวกเขาสูญเสียทุกสิ่งทุกอย่าง เมื่อเอลี เรกาลาโดได้ยินพระเจ้าตรัสกับเขาเป็นครั้งแรก เขาสงสัยว่าเขากำลังประสาทหลอนหรือเปล่า ตามที่เอลีและภรรยาของเขากล่าวไว้..."
+      "title_th": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+      "summary_th": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. According to Eli and his wife,…"
     },
     {
       "source": "MIT Technology Review",
@@ -299,8 +299,44 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/ON-contributed-image.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
       "published": "Thu, 10 Sep 2026 11:00:00 +0000",
-      "title_th": "การขับเคลื่อน AI เป็นปัญหาทางสถาปัตยกรรม",
-      "summary_th": "เมื่อวันที่ 22 กรกฎาคม 2026 เหตุขัดข้องในสายส่งในเมืองแอชเบิร์น รัฐเวอร์จิเนีย ซึ่งเป็นหัวใจสำคัญของคลัสเตอร์ศูนย์ข้อมูลที่ใหญ่ที่สุดในโลก ได้ทำลายโหลดมากกว่า 3 กิกะวัตต์ออกจากกริดภายในไม่กี่วินาที และนี่ไม่ใช่ครั้งแรก เมื่อสองปีก่อน อุปกรณ์ป้องกันไฟกระชากที่ล้มเหลวเพียงตัวเดียวสามารถทิ้งโรงงานในเวอร์จิเนียได้ประมาณ 60 แห่งและผลิตไฟฟ้าได้ 1,500 เมกะวัตต์ในคราวเดียว เลขที่…"
+      "title_th": "Powering AI is an architecture problem",
+      "summary_th": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No…"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Diablo V is coming out in spring 2029",
+      "summary_en": "Blizzard also confirmed that a Diablo animated series is in development with Netflix.",
+      "image": "https://www.engadget.com/img/gallery/diablo-v-is-coming-out-in-spring-2029/l-intro-1789240583.jpg",
+      "link": "https://www.engadget.com/2256735/diablo-v-is-coming-out-in-spring-2029/",
+      "published": "Sat, 12 Sep 2026 19:19:48 +0000",
+      "title_th": "Diablo V is coming out in spring 2029",
+      "summary_th": "Blizzard also confirmed that a Diablo animated series is in development with Netflix."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "How to add your driver's license to Apple Wallet and where you can use it",
+      "summary_en": "Your Apple Wallet can hold more than cards; those in certain states can also store a digital copy of their driver's license.",
+      "image": "https://www.engadget.com/img/gallery/how-to-add-your-drivers-license-to-apple-wallet-and-where-you-can-use-it/l-intro-1788379166.jpg",
+      "link": "https://www.engadget.com/2252801/how-to-add-drivers-license-apple-wallet/",
+      "published": "Sat, 12 Sep 2026 18:30:00 +0000",
+      "title_th": "How to add your driver's license to Apple Wallet and where you can use it",
+      "summary_th": "Your Apple Wallet can hold more than cards; those in certain states can also store a digital copy of their driver's license."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "LG denies accusations of smart TVs continuously recording its users",
+      "summary_en": "The company said that user privacy is a \"fundamental principle\" of its products.",
+      "image": "https://www.engadget.com/img/gallery/lg-denies-accusations-of-smart-tvs-continuously-recording-its-users/l-intro-1789236532.jpg",
+      "link": "https://www.engadget.com/2256728/lg-denies-accusations-of-smart-tvs-continuously-recording-its-users/",
+      "published": "Sat, 12 Sep 2026 18:17:55 +0000",
+      "title_th": "LG denies accusations of smart TVs continuously recording its users",
+      "summary_th": "The company said that user privacy is a \"fundamental principle\" of its products."
     },
     {
       "source": "Engadget",
@@ -311,8 +347,8 @@
       "image": "https://www.engadget.com/img/gallery/anthropics-ceo-proposes-a-three-step-plan-to-curb-ai-development/l-intro-1789230534.jpg",
       "link": "https://www.engadget.com/2256718/anthropics-ceo-proposes-a-three-step-plan-to-curb-ai-development/",
       "published": "Sat, 12 Sep 2026 16:37:31 +0000",
-      "title_th": "CEO ของ Anthropic เสนอแผนสามขั้นตอนเพื่อควบคุมการพัฒนา AI",
-      "summary_th": "Dario Amodei กล่าวว่า \"เราเป็นหนี้มนุษยชาติที่จะลอง\""
+      "title_th": "Anthropic's CEO proposes a three-step plan to curb AI development",
+      "summary_th": "Dario Amodei said that \"we owe it to humanity to try.\""
     },
     {
       "source": "Engadget",
@@ -323,44 +359,8 @@
       "image": "https://www.engadget.com/img/gallery/how-to-share-your-iphones-location-for-just-as-long-as-you-need/l-intro-1787842240.jpg",
       "link": "https://www.engadget.com/2252782/how-to-share-iphone-location-find-my-for-as-long-needed/",
       "published": "Sat, 12 Sep 2026 16:30:00 +0000",
-      "title_th": "วิธีแชร์ตำแหน่ง iPhone ของคุณได้นานเท่าที่คุณต้องการ",
-      "summary_th": "ในบางครั้ง การแชร์ Find My จะถูกจำกัดไว้ที่หนึ่งชั่วโมง ต่อวัน หรืออย่างไม่มีกำหนด การเปลี่ยนแปลงดังกล่าวใน iOS 27 ต้องขอบคุณไทม์ไลน์ที่ยืดหยุ่นมากขึ้น"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "ev",
-      "title_en": "How to know it's time to replace your EV battery",
-      "summary_en": "EV batteries usually fade gradually, so the real warning signs are often changes in behavior rather than age alone.",
-      "image": "https://www.engadget.com/img/gallery/how-to-know-its-time-to-replace-your-ev-battery/l-intro-1787858122.jpg",
-      "link": "https://www.engadget.com/2252773/how-to-know-time-replace-ev-battery/",
-      "published": "Sat, 12 Sep 2026 15:30:00 +0000",
-      "title_th": "จะรู้ได้อย่างไรว่าถึงเวลาเปลี่ยนแบตเตอรี่ EV",
-      "summary_th": "แบตเตอรี่ EV มักจะค่อยๆ จางลง ดังนั้นสัญญาณเตือนที่แท้จริงจึงมักมีการเปลี่ยนแปลงพฤติกรรมมากกว่าอายุเพียงอย่างเดียว"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Are you using the right Ethernet port on your router? Here's how to know",
-      "summary_en": "The various Ethernet ports on your router can serve different purposes, depending on the model. Thankfully, it's not hard to discern what they're for.",
-      "image": "https://www.engadget.com/img/gallery/are-you-using-the-right-ethernet-port-on-your-router-heres-how-to-know/l-intro-1787853916.jpg",
-      "link": "https://www.engadget.com/2252768/using-right-ethernet-port-on-router/",
-      "published": "Sat, 12 Sep 2026 15:00:00 +0000",
-      "title_th": "คุณใช้พอร์ต Ethernet ที่ถูกต้องบนเราเตอร์ของคุณหรือไม่? ต่อไปนี้คือวิธีการทราบ",
-      "summary_th": "The various Ethernet ports on your router can serve different purposes, depending on the model. Thankfully, it's not hard to discern what they're for."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "How to properly clean and sanitize your secondhand tech finds",
-      "summary_en": "Cleaning secondhand gadgets is essential, since you never know how dirty something is. Thankfully, it's not hard to polish them up before reuse.",
-      "image": "https://www.engadget.com/img/gallery/how-to-properly-clean-and-sanitize-your-secondhand-tech-finds/l-intro-1787851067.jpg",
-      "link": "https://www.engadget.com/2252766/how-to-clean-sanitize-secondhand-electronics-tech/",
-      "published": "Sat, 12 Sep 2026 14:30:00 +0000",
-      "title_th": "How to properly clean and sanitize your secondhand tech finds",
-      "summary_th": "Cleaning secondhand gadgets is essential, since you never know how dirty something is. Thankfully, it's not hard to polish them up before reuse."
+      "title_th": "How to share your iPhone's location for just as long as you need",
+      "summary_th": "For some time, Find My sharing was limited to an hour, a day, or indefinitely. That's changing in iOS 27, thanks to more flexible timelines."
     },
     {
       "source": "IEEE Spectrum",
@@ -395,8 +395,8 @@
       "image": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=980",
       "link": "https://spectrum.ieee.org/how-to-survive-a-layoff",
       "published": "Wed, 09 Sep 2026 15:03:38 +0000",
-      "title_th": "คู่มือวิศวกรเพื่อความอยู่รอดจากการเลิกจ้าง",
-      "summary_th": "บทความนี้คัดลอกมาจากจดหมายข่าวอาชีพของ IEEE Spectrum ลงทะเบียนตอนนี้เพื่อรับเคล็ดลับจากวงใน คำแนะนำจากผู้เชี่ยวชาญ และกลยุทธ์เชิงปฏิบัติ เขียนโดยความร่วมมือกับบริษัทพัฒนาอาชีพด้านเทคโนโลยี Parsity และส่งตรงถึงกล่องจดหมายของคุณฟรี! ฉันสูญเสียตำแหน่งผู้บริหารด้านวิศวกรรมที่แสนสบายไปพร้อมๆ กับที่ฉันซื้อธุรกิจพร้อมสินเชื่อจำนอง ลูกสามคน และภาระผูกพันทางการเงินอื่นๆ ทั้งหมดของการเป็นผู้ใหญ่ มันเป็นช่วงที่เครียดที่สุดช่วงหนึ่งในชีวิตของฉัน หากมีสิ่งที่คล้ายกันเกิดขึ้นกับคุณ ฉันรู้สึกถึงความเจ็บปวดของคุณ คุณสูญเสียมากกว่ารายได้ สำหรับพวกเราหลายๆ คน งานของเรากลายเป็นตัวตนของเรา เราจึงไม่คิดแค่ว่า “ฉันไม่มีงานแล้ว” เราเริ่มคิดว่า “ฉันไม่ใช่วิศวกรอีกต่อไปแล้ว” ต้นแอปเปิ้ลในฤดูหนาวยังคงเป็นต้นแอปเปิ้ล รถยนต์ที่จอดอยู่ในทางรถจอดอยู่"
+      "title_th": "An Engineer’s Guide to Surviving a Layoff",
+      "summary_th": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! I lost a cushy engineering management position at the same time I purchased a business, with a mortgage, three kids, and every other financial obligation of being an adult. It was one of the most stressful stretches of my life. If something similar has happened to you, I feel your pain. You lose more than the income For many of us, our work became our identity, so we don’t just think, “I don’t have a job anymore.” We start thinking, “I’m not an engineer anymore.” An apple tree in winter is still an apple tree. A car parked in a driveway is sti"
     },
     {
       "source": "IEEE Spectrum",
@@ -443,8 +443,8 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/1.-KV.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/09/12/esrs-iphone-accessory-lineup-ready-apples-foldable-era/",
       "published": "Sat, 12 Sep 2026 16:00:00 +0000",
-      "title_th": "กลุ่มอุปกรณ์เสริม iPhone ของ ESR พร้อมแล้วสำหรับยุคจอพับได้ของ Apple",
-      "summary_th": "การประกาศเปิดตัว iPhone ใหม่หมายถึงการเร่งรีบสำหรับอุปกรณ์เสริมที่จะมาถึงเมื่ออุปกรณ์ใหม่ของคุณมาถึง และในปีนี้ก็รวมหมวดหมู่ใหม่ทั้งหมดด้วย iPhone Duo ESR เป็นชื่อที่ได้รับการยอมรับอย่างดีในอุปกรณ์เสริมของ Apple และกลุ่มผลิตภัณฑ์ iPhone 18 ครอบคลุม iPhone Duo ใหม่, รุ่น iPhone 18 Pro และทุกสิ่งที่ติดตัวไปด้วย เช่น การชาร์จ, AirPods, Apple Watch และกระเป๋าเงิน MagSafe ต่อไปนี้คือสิ่งที่มาจาก ESR สำหรับกลุ่มผลิตภัณฑ์ iPhone ใหม่ของ Apple มากกว่า…"
+      "title_th": "ESR’s iPhone accessory lineup is ready for Apple’s foldable era",
+      "summary_th": "A new iPhone announcement always means a mad rush for accessories that will arrive when your new device arrives, and this year that includes an entirely new category with the iPhone Duo. ESR is a well-respected name in Apple accessories, and its iPhone 18 lineup covers the new iPhone Duo, the iPhone 18 Pro models, and everything that goes with them: charging, AirPods, Apple Watch, and MagSafe wallets. Here’s a look at what’s coming from ESR for Apple’s new iPhone lineup. more…"
     },
     {
       "source": "9to5Mac",
@@ -455,8 +455,8 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-shift-left-edge-setting.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/09/12/iphone-duo-fake-bezel-case-compatibility/",
       "published": "Sat, 12 Sep 2026 15:32:31 +0000",
-      "title_th": "iPhone Duo สามารถเพิ่มกรอบปลอมไปที่หน้าจอด้านนอกได้เพื่อให้เคสเข้ากันได้ดีขึ้น",
-      "summary_th": "Blogger Nicolas Lellouche ขุดคุ้ยการตั้งค่า iPhone Duo ในระหว่างที่เขาใช้อุปกรณ์ตรงเวลา เขาพบตัวเลือกใหม่ที่น่าสงสัยในการตั้งค่าการแสดงผลที่เรียกว่า 'Shift Left Edge' เมื่อเปิดใช้งาน การตั้งค่านี้จะเพิ่มขอบสีดำเล็กน้อยทางด้านซ้าย โดยเพิ่มกรอบปลอมบนหน้าจอด้านนอก เพื่อดันเนื้อหาออกจากขอบพับ มากกว่า…"
+      "title_th": "iPhone Duo can add fake bezel to the outside screen for better case compatibility",
+      "summary_th": "Blogger Nicolas Lellouche went digging in the iPhone Duo settings during his hands on time with the device. He found a curious new option in the display settings called ‘Shift Left Edge’. When enabled, this setting adds a bit of a black border to the left side, essentially adding fake bezel on the outside screen, pushing content away from the folding edge. more…"
     },
     {
       "source": "9to5Mac",
@@ -467,8 +467,8 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/09/12/apple-work-the-three-prongs-of-software-updates-in-the-ai-era/",
       "published": "Sat, 12 Sep 2026 13:33:00 +0000",
-      "title_th": "Apple @ Work: สามง่ามของการอัพเดตซอฟต์แวร์ในยุค AI",
-      "summary_th": "Apple @ Work ให้บริการแก่คุณโดยเฉพาะโดย Mosyle ซึ่งเป็น Apple Unified Platform เพียงแห่งเดียว Mosyle เป็นโซลูชันเดียวที่ผสานรวมโซลูชันทั้งหมดที่จำเป็นในการปรับใช้ จัดการ และปกป้องอุปกรณ์ Apple ในที่ทำงานได้อย่างราบรื่นและอัตโนมัติในแพลตฟอร์มระดับมืออาชีพเพียงแพลตฟอร์มเดียว องค์กรกว่า 45,000 แห่งไว้วางใจให้ Mosyle สร้างสรรค์อุปกรณ์ Apple หลายล้านเครื่องให้พร้อมใช้งานโดยไม่ต้องใช้ความพยายามและในราคาที่เอื้อมถึง ขอรับการทดลองใช้เพิ่มเติมวันนี้ และทำความเข้าใจว่าเหตุใด Mosyle จึงเป็นทุกสิ่งที่คุณต้องการเพื่อร่วมงานกับ Apple ตลอดอาชีพไอทีของฉัน การอัปเดตซอฟต์แวร์ดำเนินการตามกำหนดเวลาที่คาดเดาได้ ผู้ดูแลระบบไอทีได้รับการกำหนดเงื่อนไขให้สร้างเวิร์กโฟลว์เกี่ยวกับการเผยแพร่จุดรายไตรมาสหรือรอบการแพตช์รายเดือน (Patch Tuesday) อย่างไรก็ตาม เนื่องจากเครื่องมือ AI มีความเชี่ยวชาญอย่างมากในการค้นพบโดยอัตโนมัติ"
+      "title_th": "Apple @ Work: The three prongs of software updates in the AI era",
+      "summary_th": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . For my entire IT career, software updates have operated on a predictable schedule. IT administrators have been conditioned to build workflows around quarterly point releases or monthly patching cycles (Patch Tuesday). However, as AI tools become very proficient at automatically discover"
     },
     {
       "source": "9to5Mac",
@@ -479,8 +479,8 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-weekend-deals-AirPods-5-Series-12.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/09/12/weekend-apple-deals-airpods-5-apple-watch-series-12/",
       "published": "Sat, 12 Sep 2026 13:29:05 +0000",
-      "title_th": "ข้อเสนอสุดสัปดาห์ของ Apple: AirPods 5, Pro 3, Apple Watch Series 12, AirTag 2, Studio Display, MacBook และอีกมากมาย",
-      "summary_th": "ถึงเวลาแล้วที่ 9to5Toys Lunch Break ฉบับสุดสัปดาห์จะครอบคลุมข้อเสนอที่ดีที่สุดของ Apple ทั้งหมดในสัปดาห์นี้ การสั่งซื้อล่วงหน้า AirPods 5, Apple Watch Ultra 4 และ Apple Watch Series 12 ใหม่ทั้งหมดนั้นใช้งานได้จริง และเรากำลังติดตามข้อเสนอบางอย่างเกี่ยวกับพวกเขาแล้ว นอกจากนี้เรายังลดราคา AirPods Pro 3 ลง 50 ดอลลาร์ เช่นเดียวกับการคืนราคาต่ำสุดตลอดกาลด้วย AirTag 2 เพียงอย่าลืมกำหนดขอบเขตข้อเสนอการสั่งซื้อล่วงหน้า M6 Mac mini ที่กำลังดำเนินอยู่ก่อนส่งมอบในเดือนนี้ รวมถึงราคาต่ำสุดตลอดกาลใหม่สำหรับรุ่น Studio Display ที่ราคาไม่แพงที่สุด และการลดราคาครั้งใหญ่ 500 ดอลลาร์สำหรับ M5 Pro MacBook Pro ขนาด 2TB ทั้งหมดนั้นและอีกมากมายกำลังรออยู่ด้านล่าง มากกว่า…"
+      "title_th": "Weekend Apple deals: AirPods 5, Pro 3, Apple Watch Series 12, AirTag 2, Studio Display, MacBook, more",
+      "summary_th": "It’s time for your 9to5Toys Lunch Break weekend edition to scope out all of this week’s best Apple deals. The all-new AirPods 5, Apple Watch Ultra 4, and Apple Watch Series 12 pre-orders are live, and we are already tracking some deals on them. We also also have a $50 price drop on AirPods Pro 3 as well as a return all-time lows on AirTag 2. Just be sure to scope out the ongoing M6 Mac mini pre-order deals before delivery this month, as well as a new all-time low on the most affordable Studio Display model, and this giant $500 price drop on the 2TB M5 Pro MacBook Pro. All of that and more awaits below. more…"
     },
     {
       "source": "9to5Google",
@@ -491,7 +491,7 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-repair-tensor-g5-1.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/09/12/the-google-pixel-is-fine-and-all-but-still-needs-a-ryzen-moment-video/",
       "published": "Sat, 12 Sep 2026 15:30:00 +0000",
-      "title_th": "Google Pixel นั้นใช้ได้ทุกอย่าง แต่ก็ยังต้องการ 'ช่วงเวลาของ Ryzen' [วิดีโอ]",
+      "title_th": "The Google Pixel is fine and all, but still needs a ‘Ryzen moment’ [Video]",
       "summary_th": "“สบายดี” รู้สึกว่ากำลังช่วยยกปัญหาหนักที่อาจเกิดขึ้นในอนาคตในช่วงใด มีการพูดคุยกันเกี่ยวกับชิปเทนเซอร์ในโทรศัพท์ Pixel แต่ถึงเวลาที่เราจะได้เห็นประสิทธิภาพในโลกแห่งความเป็นจริงเพิ่มขึ้นไม่ใช่หรือ? ความจริงก็คือเราอาจต้องการช่วงเวลา Ryzen สำหรับชิป Tensor มากกว่า…"
     },
     {
@@ -504,7 +504,7 @@
       "link": "https://9to5google.com/2026/09/12/dbrand-mnml-pixel-11-pro-hands-on/",
       "published": "Sat, 12 Sep 2026 12:30:00 +0000",
       "title_th": "Hands-on: เคส MNML Pixel 11 Pro ของ Dbrand นั้นดีและนั่นคือประเด็น [แกลเลอรี]",
-      "summary_th": "Dbrand is definitely best-known for its flashy skins and bombastic personality, but the company is now launching a more subtle brand in “MNML,” aiming to offer dead-simple cases that are comfortable and have good quality. These are available for the latest Pixel 11 Pro phones and, in person, they certainly get the job done. more…"
+      "summary_th": "Dbrand เป็นที่รู้จักกันดีในเรื่องของสกินที่ฉูดฉาดและบุคลิกที่ร่าเริง แต่ขณะนี้บริษัทกำลังเปิดตัวแบรนด์ที่ละเอียดอ่อนยิ่งขึ้นใน “MNML” โดยมีเป้าหมายที่จะนำเสนอเคสที่เรียบง่าย สะดวกสบายและมีคุณภาพดี สิ่งเหล่านี้มีให้ในโทรศัพท์ Pixel 11 Pro รุ่นล่าสุด และแน่นอนว่าพวกเขาทำงานให้สำเร็จด้วยตนเอง มากกว่า…"
     },
     {
       "source": "9to5Google",
@@ -515,8 +515,8 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/09/11/pixelated-116-how-dynamic-is-this-duo/",
       "published": "Fri, 11 Sep 2026 20:30:00 +0000",
-      "title_th": "Pixelated 116: How dynamic is this Duo?",
-      "summary_th": "Welcome to Pixelated episode 116. This week, we’re talking about Apple’s entry into the foldable market. What does the iPhone Duo take from Android foldables, where does it look to improve on efforts from the likes of Samsung and Google, and what can those brands learn from Apple for their next-gen hardware? Enjoy the episode? You can listen to our brand new weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro for just $5 per month. Sponsored by Bitwarden : Pixelated listeners can get started with Bitwarden’s free individual plan by clicking this link , and check out the Open Source Security Summit on September 17th. Thanks to Bitwarden for sponsoring! Sponsored by Proton Unlimited : Pixelated listeners can save 30% on an annual subscription to the company’s sui"
+      "title_th": "Pixelated 116: Duo นี้มีพลังแค่ไหน?",
+      "summary_th": "ยินดีต้อนรับสู่ Pixelated ตอนที่ 116 สัปดาห์นี้เรากำลังพูดถึงการเข้าสู่ตลาดพับได้ของ Apple iPhone Duo ได้อะไรจากอุปกรณ์พับได้ของ Android, จะต้องปรับปรุงอะไรจากความพยายามของ Samsung และ Google และแบรนด์เหล่านั้นสามารถเรียนรู้อะไรจาก Apple สำหรับฮาร์ดแวร์รุ่นต่อไปของพวกเขา สนุกกับตอนนี้ไหม? คุณสามารถฟังตอนโบนัส Pixelated Pro ใหม่ล่าสุดประจำสัปดาห์สำหรับสมาชิกเท่านั้นโดยลงชื่อสมัครใช้ 9to5Google Pro ในราคาเพียง $5 ต่อเดือน สนับสนุนโดย Bitwarden : ผู้ฟังแบบ Pixelated สามารถเริ่มต้นใช้งานแผนส่วนบุคคลฟรีของ Bitwarden ได้โดยคลิกลิงก์นี้ และดูการประชุมสุดยอดด้านความปลอดภัยของโอเพ่นซอร์สในวันที่ 17 กันยายน ขอขอบคุณ Bitwarden สำหรับการสนับสนุน! สนับสนุนโดย Proton Unlimited : ผู้ฟังแบบพิกเซลสามารถประหยัด 30% จากการสมัครสมาชิกรายปีไปยังบริษัท"
     },
     {
       "source": "9to5Google",
@@ -527,8 +527,8 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-health-logo-4.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/09/11/google-health-5-08-release-notes/",
       "published": "Fri, 11 Sep 2026 18:16:15 +0000",
-      "title_th": "Google Health 5.08 rolling out on Android & iOS",
-      "summary_th": "Google Health 5.08 is rolling out on Android and iOS as the smallest update since the May redesign. A pair of..."
+      "title_th": "Google Health 5.08 เปิดตัวบน Android และ iOS",
+      "summary_th": "Google Health 5.08 กำลังเปิดตัวบน Android และ iOS ซึ่งเป็นการอัปเดตที่เล็กที่สุดนับตั้งแต่การออกแบบใหม่ในเดือนพฤษภาคม คู่ของ..."
     },
     {
       "source": "9to5Google",
@@ -539,8 +539,20 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/ltt-truespec-cables-1.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/09/11/usb-c-cable-ltt-truespec/",
       "published": "Fri, 11 Sep 2026 18:15:00 +0000",
-      "title_th": "It took way too long for someone to make USB-C cables that say what they can actually do [Gallery]",
+      "title_th": "ใช้เวลานานเกินไปสำหรับใครบางคนในการสร้างสาย USB-C ที่บอกว่าพวกเขาสามารถทำอะไรได้บ้าง [แกลเลอรี]",
       "summary_th": "ชีวิตกับ USB-C นั้นยอดเยี่ยม ยกเว้นปัญหาที่จู้จี้จุกจิกที่เกิดขึ้นตั้งแต่แรกเริ่ม คุณไม่มีทางรู้ได้เลยว่าคุณกำลังเจออะไรอยู่ แม้ว่าจะไม่ใช่ \"Wild West\" อีกต่อไปแล้ว แต่ฉันตื่นเต้นมากที่ได้เห็นว่าในที่สุดก็มีคนสร้างชุดสาย USB-C ที่ไม่เพียงแต่ทำในสิ่งที่พวกเขาบอกว่าจะทำเท่านั้น แต่ยังได้พิมพ์ข้อมูลจำเพาะไว้บนสายเคเบิลด้วย มากกว่า…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Tesla teases new Roadster reveal for October 1: ‘Go for launch’",
+      "summary_en": "Tesla is teasing an October 1 reveal for the new Tesla Roadster, nine years after it first showed the prototype. The company posted a “Go for launch” teaser image Friday showing the electric hypercar bathed in rocket-launch lighting, with the date “10.01” stamped across it. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/image.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/12/tesla-roadster-october-1-reveal-teaser/",
+      "published": "Sat, 12 Sep 2026 19:15:44 +0000",
+      "title_th": "Tesla ล้อเลียน Roadster ใหม่เปิดเผยในวันที่ 1 ตุลาคม: 'ไปเพื่อเปิดตัว'",
+      "summary_th": "Tesla is teasing an October 1 reveal for the new Tesla Roadster, nine years after it first showed the prototype. The company posted a “Go for launch” teaser image Friday showing the electric hypercar bathed in rocket-launch lighting, with the date “10.01” stamped across it. more…"
     },
     {
       "source": "Electrek",
@@ -551,8 +563,8 @@
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/byd_ship.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://electrek.co/2026/09/12/last-year-byd-bought-the-worlds-largest-car-carrier-they-just-ordered-10-more/",
       "published": "Sat, 12 Sep 2026 17:07:36 +0000",
-      "title_th": "Last year, BYD bought the world’s largest car carrier – they just ordered 10 more",
-      "summary_th": "Last year, the BYD “Shenzhen” set sail on its first voyage with 9,200 parking spots – or enough space to fill 20 football fields, making BYD’s transport ship easily the world’s largest. Now, as the Chinese car brand sets its sights on Europe and North America, it’s ordering 10 more. more…"
+      "title_th": "เมื่อปีที่แล้ว BYD ซื้อผู้ให้บริการขนส่งรถยนต์รายใหญ่ที่สุดของโลก โดยเพิ่งสั่งซื้อเพิ่มอีก 10 คัน",
+      "summary_th": "เมื่อปีที่แล้ว BYD “Shenzhen” ได้ออกเดินทางครั้งแรกด้วยที่จอดรถ 9,200 คัน หรือมีพื้นที่เพียงพอสำหรับสนามฟุตบอล 20 สนาม ส่งผลให้เรือขนส่งของ BYD กลายเป็นเรือที่ใหญ่ที่สุดในโลกได้อย่างง่ายดาย ขณะนี้แบรนด์รถยนต์จีนตั้งเป้าไปที่ยุโรปและอเมริกาเหนือ จึงสั่งเพิ่มอีก 10 คัน มากกว่า…"
     },
     {
       "source": "Electrek",
@@ -563,8 +575,8 @@
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/tv100ev-mediagallery.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://electrek.co/2026/09/12/e-quipment-highlight-wreck-stuff-anywhere-with-case-tl100ev-video/",
       "published": "Sat, 12 Sep 2026 15:46:32 +0000",
-      "title_th": "E-quipment highlight: wreck stuff anywhere with CASE TL100EV [video]",
-      "summary_th": "CASE’s new TL100EV mini track loader is finally reaching real-world customers, and they’re putting it to work in some of the industry’s most demanding applications – from low-emission zones and no-drip job sites and noise-sensitive locations. Even indoors! more…"
+      "title_th": "จุดเด่นของอุปกรณ์อิเล็กทรอนิกส์: ทำลายสิ่งของได้ทุกที่ด้วย CASE TL100EV [วิดีโอ]",
+      "summary_th": "รถตักตีนตะขาบขนาดเล็ก TL100EV ใหม่ของ CASE เข้าถึงลูกค้าในโลกแห่งความเป็นจริงได้ในที่สุด และพวกเขากำลังนำมันไปใช้งานในการใช้งานที่ต้องการความต้องการมากที่สุดในอุตสาหกรรม ตั้งแต่โซนที่มีการปล่อยมลพิษต่ำ และไซต์งานที่ไม่มีน้ำหยด และสถานที่ซึ่งไวต่อเสียงรบกวน แม้แต่ในบ้าน! มากกว่า…"
     },
     {
       "source": "Electrek",
@@ -575,8 +587,8 @@
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/uk-electric-rail.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://electrek.co/2026/09/12/new-fleet-of-battery-electric-trains-promises-faster-more-reliable-uk-travel/",
       "published": "Sat, 12 Sep 2026 14:50:51 +0000",
-      "title_th": "New fleet of battery electric trains promises faster, more reliable UK travel",
-      "summary_th": "A new fleet of British-designed and built battery electric trains has been announced, promising thousands of new jobs, faster and more reliable rail service, and significant reductions in carbon emissions across northern England. more…"
+      "title_th": "ขบวนรถไฟฟ้าแบตเตอรี่ใหม่รับประกันการเดินทางในสหราชอาณาจักรที่รวดเร็วและเชื่อถือได้มากขึ้น",
+      "summary_th": "มีการประกาศขบวนรถไฟฟ้าแบตเตอรี่ชุดใหม่ที่ออกแบบและสร้างโดยอังกฤษ คาดว่าจะมีงานใหม่หลายพันตำแหน่ง บริการรถไฟที่รวดเร็วและเชื่อถือได้มากขึ้น และลดการปล่อยก๊าซคาร์บอนอย่างมีนัยสำคัญทั่วภาคเหนือของอังกฤษ มากกว่า…"
     },
     {
       "source": "Electrek",
@@ -588,19 +600,7 @@
       "link": "https://electrek.co/2026/09/12/evs-solar-v2h-hedge-energy-crisis/",
       "published": "Sat, 12 Sep 2026 14:17:32 +0000",
       "title_th": "รถยนต์ไฟฟ้าและพลังงานแสงอาทิตย์เป็นเครื่องป้องกันวิกฤตพลังงานที่ไม่สามารถควบคุมได้",
-      "summary_th": "A drone strike shut down Saudi Arabia’s East-West oil pipeline this week, knocking roughly 5 million barrels a day offline. That’s about 5% of global supply, and it pushed Brent crude above $104. US diesel is at record highs. That’s the fossil fuel crisis making headlines. The quieter one is on your own utility bill, and it’s not getting better either. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Amazon puts 50 Mercedes-Benz eActros electric semi trucks to work in Germany",
-      "summary_en": "From sea to shining sea, Amazon is serious about electrifying its delivery fleet – now, the company is taking that seriousness across the pond, announcing plans to deploy 50 of Mercedes-Benz’ new battery-electric eActros semi trucks before the end of 2026. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/assets.aboutamazon-copy.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/11/amazon-puts-50-mercedes-benz-eactros-electric-semi-trucks-to-work-in-germany/",
-      "published": "Sat, 12 Sep 2026 00:33:03 +0000",
-      "title_th": "Amazon puts 50 Mercedes-Benz eActros electric semi trucks to work in Germany",
-      "summary_th": "From sea to shining sea, Amazon is serious about electrifying its delivery fleet – now, the company is taking that seriousness across the pond, announcing plans to deploy 50 of Mercedes-Benz’ new battery-electric eActros semi trucks before the end of 2026. more…"
+      "summary_th": "การโจมตีด้วยโดรนได้ปิดท่อส่งน้ำมันตะวันออก-ตะวันตกของซาอุดีอาระเบียในสัปดาห์นี้ โดยทำลายน้ำมันราว 5 ล้านบาร์เรลต่อวันแบบออฟไลน์ นั่นคือประมาณ 5% ของอุปทานทั่วโลก และผลักดันน้ำมันดิบเบรนท์ให้อยู่เหนือ 104 ดอลลาร์ ดีเซลสหรัฐทำสถิติสูงสุด นั่นคือวิกฤตเชื้อเพลิงฟอสซิลที่เป็นพาดหัวข่าว สิ่งที่เงียบกว่านั้นขึ้นอยู่กับบิลค่าสาธารณูปโภคของคุณเอง และมันก็ไม่ได้ดีขึ้นเช่นกัน มากกว่า…"
     }
   ],
   "indices": [
@@ -678,7 +678,7 @@
       "link": "https://www.youtube.com/watch?v=Od6M0AXpcxQ",
       "thumbnail": "https://i4.ytimg.com/vi/Od6M0AXpcxQ/hqdefault.jpg",
       "published": "2026-09-10T07:29:55+00:00",
-      "title_th": "iPhone 18 Pro/Duo Impressions: Mogged"
+      "title_th": "การแสดงผล iPhone 18 Pro/Duo: Mogged"
     },
     {
       "channel": "MKBHD",
@@ -688,7 +688,7 @@
       "link": "https://www.youtube.com/shorts/R6yNUnRXZ64",
       "thumbnail": "https://i3.ytimg.com/vi/R6yNUnRXZ64/hqdefault.jpg",
       "published": "2026-09-10T07:02:22+00:00",
-      "title_th": "iPhone Duo is here"
+      "title_th": "iPhone Duo มาแล้ว"
     },
     {
       "channel": "MKBHD",
@@ -698,7 +698,7 @@
       "link": "https://www.youtube.com/shorts/uJdjKOBikTE",
       "thumbnail": "https://i2.ytimg.com/vi/uJdjKOBikTE/hqdefault.jpg",
       "published": "2026-09-09T22:14:37+00:00",
-      "title_th": "This iPhone Duo Animation 👀"
+      "title_th": "แอนิเมชัน iPhone Duo นี้ 👀"
     },
     {
       "channel": "Unbox Therapy",
@@ -708,7 +708,7 @@
       "link": "https://www.youtube.com/watch?v=w_iHZi4fb8k",
       "thumbnail": "https://i4.ytimg.com/vi/w_iHZi4fb8k/hqdefault.jpg",
       "published": "2026-09-10T15:00:03+00:00",
-      "title_th": "Apple's Weird Thing is Fixed."
+      "title_th": "สิ่งแปลกประหลาดของ Apple ได้รับการแก้ไขแล้ว"
     },
     {
       "channel": "Unbox Therapy",
@@ -718,7 +718,7 @@
       "link": "https://www.youtube.com/shorts/ppH3kW0h_fc",
       "thumbnail": "https://i1.ytimg.com/vi/ppH3kW0h_fc/hqdefault.jpg",
       "published": "2026-09-03T21:00:32+00:00",
-      "title_th": "How do they get them So Light?"
+      "title_th": "พวกเขาได้รับ So Light ได้อย่างไร?"
     },
     {
       "channel": "Unbox Therapy",
@@ -728,7 +728,7 @@
       "link": "https://www.youtube.com/watch?v=3DVKs1wFoFw",
       "thumbnail": "https://i4.ytimg.com/vi/3DVKs1wFoFw/hqdefault.jpg",
       "published": "2026-09-03T16:58:33+00:00",
-      "title_th": "LG’s New Budget Laptop..."
+      "title_th": "แล็ปท็อปราคาประหยัดรุ่นใหม่ของ LG..."
     },
     {
       "channel": "Beartai",
