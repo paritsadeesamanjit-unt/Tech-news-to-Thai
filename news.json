@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-13T18:05:31.930592+00:00",
+  "generated_at": "2026-09-13T20:14:49.641883+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "What’s behind the AI industry’s latest warnings of doom?",
+      "summary_en": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233466982.jpg?resize=1200,821",
+      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "published": "Sun, 13 Sep 2026 19:40:15 +0000",
+      "title_th": "What’s behind the AI industry’s latest warnings of doom?",
+      "summary_th": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -51,16 +63,28 @@
       "summary_th": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\""
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "summary_en": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "published": "Sat, 12 Sep 2026 20:19:16 +0000",
-      "title_th": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "summary_th": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
+      "category": "software",
+      "title_en": "Trump and Mike Johnson think the AI industry is overreacting",
+      "summary_en": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "published": "2026-09-13T15:41:48-04:00",
+      "title_th": "Trump and Mike Johnson think the AI industry is overreacting",
+      "summary_th": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Apple is reportedly working on iPhone game controllers",
+      "summary_en": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported finding two references in macOS 26.7's code to two game controllers identified as first-party […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24522825/4._Ultimate_2.4_Whit___iPhone.jpg?quality=90&strip=all&crop=0%2C10.76363770124%2C100%2C78.472724597521&w=1200",
+      "link": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+      "published": "2026-09-13T14:30:16-04:00",
+      "title_th": "Apple is reportedly working on iPhone game controllers",
+      "summary_th": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors reported finding two references in macOS 26.7's code to two game controllers identified as first-party […]"
     },
     {
       "source": "The Verge",
@@ -97,30 +121,6 @@
       "published": "2026-09-13T08:00:00-04:00",
       "title_th": "Your car is selling your data",
       "summary_th": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on cars, data privacy, and autonomous vehicles, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Earlier this year, the Federal Trade Commission […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Apple’s new phones are here",
-      "summary_en": "Hi, friends! Welcome to Installer No. 143, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage.) This week, I've been devouring every iPhone Duo video I can find, clicking on […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/installer-1.jpg?quality=90&strip=all&crop=0%2C3.428851907255%2C100%2C93.14229618549&w=1200",
-      "link": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
-      "published": "2026-09-13T08:00:00-04:00",
-      "title_th": "Apple’s new phones are here",
-      "summary_th": "Hi, friends! Welcome to Installer No. 143, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage.) This week, I've been devouring every iPhone Duo video I can find, clicking on […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "OpenAI’s rogue AI tried to hack another company in May",
-      "summary_en": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-      "published": "2026-09-12T17:41:36-04:00",
-      "title_th": "OpenAI’s rogue AI tried to hack another company in May",
-      "summary_th": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a […]"
     },
     {
       "source": "Ars Technica",
@@ -305,6 +305,54 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "ev",
+      "title_en": "Tesla's second-gen Roadster is finally getting a debut nearly a decade later",
+      "summary_en": "The reveal is scheduled for October 10, so long as it's not delayed again.",
+      "image": "https://www.engadget.com/img/gallery/teslas-second-gen-roadster-is-finally-getting-a-debut-nearly-a-decade-later/l-intro-1789326134.jpg",
+      "link": "https://www.engadget.com/2256966/teslas-second-gen-roadster-is-finally-getting-a-debut-nearly-a-decade-later/",
+      "published": "Sun, 13 Sep 2026 19:10:31 +0000",
+      "title_th": "Tesla's second-gen Roadster is finally getting a debut nearly a decade later",
+      "summary_th": "The reveal is scheduled for October 10, so long as it's not delayed again."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "What's the difference between AppleCare+ and AppleCare One?",
+      "summary_en": "Should you get AppleCare+ or AppleCare One? We explain the difference in this post.",
+      "image": "https://www.engadget.com/img/gallery/whats-the-difference-between-applecare-and-applecare-one/l-intro-1788626998.jpg",
+      "link": "https://www.engadget.com/2252855/applecare-plus-vs-applecare-one-differences/",
+      "published": "Sun, 13 Sep 2026 18:30:00 +0000",
+      "title_th": "What's the difference between AppleCare+ and AppleCare One?",
+      "summary_th": "Should you get AppleCare+ or AppleCare One? We explain the difference in this post."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Apple's rumored gaming controller for iPhone could feature Beats branding",
+      "summary_en": "Bloomberg's Mark Gurman said there are two gaming controllers in the works.",
+      "image": "https://www.engadget.com/img/gallery/apples-rumored-gaming-controller-for-iphone-could-feature-beats-branding/l-intro-1789322321.jpg",
+      "link": "https://www.engadget.com/2256955/apples-rumored-gaming-controller-for-iphone-could-feature-beats-branding/",
+      "published": "Sun, 13 Sep 2026 18:02:36 +0000",
+      "title_th": "Apple's rumored gaming controller for iPhone could feature Beats branding",
+      "summary_th": "Bloomberg's Mark Gurman said there are two gaming controllers in the works."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Stop wasting your Wi-Fi router's USB port — try this instead",
+      "summary_en": "If you have a USB port on the back of your router and don't know what to do with it, try some of these straightforward options.",
+      "image": "https://www.engadget.com/img/gallery/stop-wasting-your-wi-fi-routers-usb-port-try-this-instead/l-intro-1788811827.jpg",
+      "link": "https://www.engadget.com/2252851/wifi-router-usb-port-explained/",
+      "published": "Sun, 13 Sep 2026 18:00:00 +0000",
+      "title_th": "Stop wasting your Wi-Fi router's USB port — try this instead",
+      "summary_th": "If you have a USB port on the back of your router and don't know what to do with it, try some of these straightforward options."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "chip",
       "title_en": "Car manufacturers are ditching CarPlay in 2026: Here's why",
       "summary_en": "CarPlay lets you bypass your car's lousy infotainment system, but some manufacturers have decided they don't want you doing that anymore.",
@@ -313,54 +361,6 @@
       "published": "Sun, 13 Sep 2026 17:30:00 +0000",
       "title_th": "Car manufacturers are ditching CarPlay in 2026: Here's why",
       "summary_th": "CarPlay lets you bypass your car's lousy infotainment system, but some manufacturers have decided they don't want you doing that anymore."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "What was the PSX? The souped-up PS2 rarely sold outside of Japan",
-      "summary_en": "The PSX isn't just an alternative name for the first PlayStation. It was also a failed Sony console that never got a release outside Japan.",
-      "image": "https://www.engadget.com/img/gallery/what-was-the-psx-the-souped-up-ps2-rarely-sold-outside-of-japan/l-intro-1788802988.jpg",
-      "link": "https://www.engadget.com/2252840/psx-ps2-console-history-rarely-sold-outside-japan/",
-      "published": "Sun, 13 Sep 2026 16:00:00 +0000",
-      "title_th": "What was the PSX? The souped-up PS2 rarely sold outside of Japan",
-      "summary_th": "The PSX isn't just an alternative name for the first PlayStation. It was also a failed Sony console that never got a release outside Japan."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "If your laptop trackpad is popping out, stop using it immediately",
-      "summary_en": "Your trackpad probably covers a part of your laptop that can become a fire hazard in a hurry, so if your trackpad is shifting, it needs immediate attention.",
-      "image": "https://www.engadget.com/img/gallery/if-your-laptop-trackpad-is-popping-out-stop-using-it-immediately/l-intro-1788789654.jpg",
-      "link": "https://www.engadget.com/2252834/laptop-trackpad-popping-out-stop-using-immediately-battery-swelling/",
-      "published": "Sun, 13 Sep 2026 15:30:00 +0000",
-      "title_th": "If your laptop trackpad is popping out, stop using it immediately",
-      "summary_th": "Your trackpad probably covers a part of your laptop that can become a fire hazard in a hurry, so if your trackpad is shifting, it needs immediate attention."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Are Apple's wired EarPods still worth buying?",
-      "summary_en": "Wired earbuds like EarPods might seem like a relic of the past, but they still have their place (and come at a great price).",
-      "image": "https://www.engadget.com/img/gallery/are-apples-wired-earpods-still-worth-buying/l-intro-1788531895.jpg",
-      "link": "https://www.engadget.com/2251050/apple-wired-earpods-still-worth-buying/",
-      "published": "Sun, 13 Sep 2026 15:00:00 +0000",
-      "title_th": "Are Apple's wired EarPods still worth buying?",
-      "summary_th": "Wired earbuds like EarPods might seem like a relic of the past, but they still have their place (and come at a great price)."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "How to set up HDMI-CEC on your Samsung TV",
-      "summary_en": "HDMI-CEC, or Anynet+ on Samsung TVs, lets you control all your devices with fewer remotes and button presses. It's well worth setting up properly.",
-      "image": "https://www.engadget.com/img/gallery/how-to-set-up-hdmi-cec-on-your-samsung-tv/l-intro-1788376547.jpg",
-      "link": "https://www.engadget.com/2252825/how-to-set-up-hdmi-cec-samsung-tv/",
-      "published": "Sun, 13 Sep 2026 14:00:00 +0000",
-      "title_th": "How to set up HDMI-CEC on your Samsung TV",
-      "summary_th": "HDMI-CEC, or Anynet+ on Samsung TVs, lets you control all your devices with fewer remotes and button presses. It's well worth setting up properly."
     },
     {
       "source": "IEEE Spectrum",
