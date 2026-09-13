@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-12T22:48:41.911453+00:00",
+  "generated_at": "2026-09-13T01:47:11.838782+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+      "summary_en": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg.jpg?resize=1200,799",
+      "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "published": "Sat, 12 Sep 2026 23:25:38 +0000",
+      "title_th": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+      "summary_th": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\""
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -49,18 +61,6 @@
       "published": "Sat, 12 Sep 2026 14:40:00 +0000",
       "title_th": "Revolut confirms customer data breach through fake government requests",
       "summary_th": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "summary_en": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
-      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "published": "Fri, 11 Sep 2026 22:58:17 +0000",
-      "title_th": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "summary_th": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
     },
     {
       "source": "The Verge",
@@ -120,7 +120,7 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
       "published": "2026-09-12T12:23:40-04:00",
       "title_th": "Anthropic CEO says it’s time to pump the brakes on AI",
-      "summary_th": "Dario Amodei CEO ของ Anthropic กล่าวว่าถึงเวลาแล้วที่จะต้องชะลอการพัฒนา AI และจะให้ผู้ประเมินบุคคลที่สาม เช่น METR เข้าถึงโมเดลของตน เพื่อช่วยให้แน่ใจว่า \"จะปฏิบัติตามแนวทางปฏิบัติด้านความปลอดภัยและความมุ่งมั่น\" ในบทความที่คดเคี้ยว Amodei เสนอแผนสามขั้นตอนในการ \"ก้าวข้ามพรมแดน\" - ศัพท์เฉพาะที่หมายถึงการชะลอ […]"
+      "summary_th": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow […]"
     },
     {
       "source": "Ars Technica",
@@ -131,8 +131,8 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
       "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
       "published": "Wed, 09 Sep 2026 20:55:02 +0000",
-      "title_th": "สี่กลุ่มถูกจับได้โดยใช้ชุดช่องโหว่ Chrome และ Windows ชุดเดียวกัน",
-      "summary_th": "ช่องว่างของแพตช์และความเร่งรีบของการค้นพบช่องโหว่บน AI มีแนวโน้มว่ามีส่วนสนับสนุน"
+      "title_th": "Four groups caught using the same Chrome and Windows exploit kit",
+      "summary_th": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors."
     },
     {
       "source": "Ars Technica",
@@ -227,8 +227,8 @@
       "image": "https://media.wired.com/photos/6aa44e74dc225a8b7147e28f/master/pass/Review--Branch-Ergonomic-Chair-Pro-(Sega-Edition).jpg",
       "link": "https://www.wired.com/review/branch-ergonomic-chair-pro-sega-edition/",
       "published": "Sat, 12 Sep 2026 10:00:00 +0000",
-      "title_th": "รีวิว Branch Ergonomic Chair Pro (Sega Edition): สบายไม่น่าเบื่อ",
-      "summary_th": "ปรากฎว่าเก้าอี้สำนักงานที่ดีที่สุดก็คือเก้าอี้เล่นเกมที่ดีที่สุดเช่นกัน ซึ่งมีความสวยงามที่เข้ากัน"
+      "title_th": "Branch Ergonomic Chair Pro (Sega Edition) Review: Comfy, Not Boring",
+      "summary_th": "Turns out that the best office chair is also the best gaming chair, now with aesthetics to match."
     },
     {
       "source": "Wired",
@@ -251,8 +251,8 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2024/01/September.26_Roundtables-Assets.png?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
       "published": "Fri, 11 Sep 2026 20:05:06 +0000",
-      "title_th": "Roundtables: AI สามารถฆ่าเราทุกคนได้จริงหรือ?",
-      "summary_th": "พนักงานในห้องปฏิบัติการ AI ชั้นนำของโลกกล่าวว่ามีความเป็นไปได้จริงที่ AI ขั้นสูงสามารถทำลายมนุษยชาติได้ ใช่มั้ย? หรือนี่เป็นเรื่องที่น่าหวาดกลัวและโฆษณาเกินจริง? เข้าร่วม Niall Firth บรรณาธิการบริหารของ MIT Technology Review เพื่อสนทนากับบรรณาธิการอาวุโสของ AI Will Douglas Heaven และนักข่าว AI Grace Huckins แกะกล่องการสูญพันธุ์ของ AI..."
+      "title_th": "Roundtables: Could AI really kill us all?",
+      "summary_th": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction…"
     },
     {
       "source": "MIT Technology Review",
@@ -263,8 +263,8 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/circles-bio2a.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
       "published": "Fri, 11 Sep 2026 12:10:00 +0000",
-      "title_th": "ดาวน์โหลด: อนาคตของเทคโนโลยีชีวภาพและเหล็กที่สะอาดและถูกกว่า",
-      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี พบกับผู้ที่มีอายุต่ำกว่า 35 ปีซึ่งกำหนดอนาคตของเทคโนโลยีชีวภาพ ทุกปี MIT Technology Review จะรวบรวมนักนวัตกรรม 35 คนที่มีอายุต่ำกว่า 35 ปีของเรา รายชื่อผู้มีความคิดรุ่นเยาว์ที่ฉลาดและดีที่สุดบางส่วน..."
+      "title_th": "The Download: biotech’s future and cheaper, cleaner steel",
+      "summary_th": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the brightest and best young minds…"
     },
     {
       "source": "MIT Technology Review",
@@ -275,8 +275,8 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/circles-bio2a.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
       "published": "Fri, 11 Sep 2026 09:00:00 +0000",
-      "title_th": "พบกับผู้ที่มีอายุต่ำกว่า 35 ปี ผู้กำหนดอนาคตของเทคโนโลยีชีวภาพ",
-      "summary_th": "ทุกปี MIT Technology Review จะรวบรวมรายชื่อเยาวชนที่ฉลาดและเก่งที่สุดที่ทำงานด้านวิทยาศาสตร์และเทคโนโลยี ผู้สร้างนวัตกรรม 35 คนของเราที่มีอายุต่ำกว่า 35 ปีคือบุคคลที่ควรจับตามอง บุคคลซึ่งงานวิจัยและงานด้านเทคนิคมีส่วนกำหนดอนาคตของสาขาของตน ในปีนี้รายชื่อมีเก้าคนที่..."
+      "title_th": "Meet the under-35s shaping the future of biotech",
+      "summary_th": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list includes nine people who are…"
     },
     {
       "source": "MIT Technology Review",
@@ -287,8 +287,8 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Regalados_DSF7279-mobile.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
       "published": "Thu, 10 Sep 2026 12:10:00 +0000",
-      "title_th": "ดาวน์โหลด: สกุลเงินดิจิทัล “ที่ขับเคลื่อนโดยพระเจ้า” และแผนงานด้านวิศวกรรมพลังงานแสงอาทิตย์",
-      "summary_th": "นี่คือ The Download ฉบับวันนี้ ซึ่งเป็นจดหมายข่าววันธรรมดาของเราที่ให้ข้อมูลรายวันเกี่ยวกับสิ่งที่เกิดขึ้นในโลกแห่งเทคโนโลยี พระเจ้าบอกให้พวกเขาขาย crypto นักลงทุนของพวกเขาสูญเสียทุกสิ่งทุกอย่าง เมื่อเอลี เรกาลาโดได้ยินพระเจ้าตรัสกับเขาเป็นครั้งแรก เขาสงสัยว่าเขากำลังประสาทหลอนหรือเปล่า ตามที่เอลีและภรรยาของเขากล่าวไว้..."
+      "title_th": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+      "summary_th": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. According to Eli and his wife,…"
     },
     {
       "source": "MIT Technology Review",
@@ -299,8 +299,32 @@
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/ON-contributed-image.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
       "published": "Thu, 10 Sep 2026 11:00:00 +0000",
-      "title_th": "การขับเคลื่อน AI เป็นปัญหาทางสถาปัตยกรรม",
-      "summary_th": "เมื่อวันที่ 22 กรกฎาคม 2026 เหตุขัดข้องในสายส่งในเมืองแอชเบิร์น รัฐเวอร์จิเนีย ซึ่งเป็นหัวใจสำคัญของคลัสเตอร์ศูนย์ข้อมูลที่ใหญ่ที่สุดในโลก ได้ทำลายโหลดมากกว่า 3 กิกะวัตต์ออกจากกริดภายในไม่กี่วินาที และนี่ไม่ใช่ครั้งแรก เมื่อสองปีก่อน อุปกรณ์ป้องกันไฟกระชากที่ล้มเหลวเพียงตัวเดียวได้ทิ้งโรงงานในเวอร์จิเนียประมาณ 60 แห่งและผลิตไฟฟ้าได้ 1,500 เมกะวัตต์ในคราวเดียว เลขที่…"
+      "title_th": "Powering AI is an architecture problem",
+      "summary_th": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No…"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "What is the difference between a dead pixel and a stuck pixel?",
+      "summary_en": "These issues may appear similar, but there's an easy way to tell them apart.",
+      "image": "https://www.engadget.com/img/gallery/what-is-the-difference-between-a-dead-pixel-and-a-stuck-pixel/l-intro-1788884014.jpg",
+      "link": "https://www.engadget.com/2252808/dead-pixel-vs-stuck-difference-between/",
+      "published": "Sun, 13 Sep 2026 00:00:00 +0000",
+      "title_th": "What is the difference between a dead pixel and a stuck pixel?",
+      "summary_th": "These issues may appear similar, but there's an easy way to tell them apart."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "One problem with Android Auto can be fixed with a simple update",
+      "summary_en": "If you've already tried updating your phone, the car's software might be the issue.",
+      "image": "https://www.engadget.com/img/gallery/one-problem-with-android-auto-can-be-fixed-with-a-simple-update/l-intro-1788714341.jpg",
+      "link": "https://www.engadget.com/2252806/android-auto-problem-fixed-simple-firmware-update/",
+      "published": "Sat, 12 Sep 2026 23:00:00 +0000",
+      "title_th": "One problem with Android Auto can be fixed with a simple update",
+      "summary_th": "If you've already tried updating your phone, the car's software might be the issue."
     },
     {
       "source": "Engadget",
@@ -311,8 +335,8 @@
       "image": "https://www.engadget.com/img/gallery/whats-the-difference-between-your-iphones-do-not-disturb-and-focus-modes/l-intro-1788382014.jpg",
       "link": "https://www.engadget.com/2252804/iphone-do-not-disturb-vs-focus-mode-difference-between/",
       "published": "Sat, 12 Sep 2026 22:30:00 +0000",
-      "title_th": "โหมดห้ามรบกวนและโหมดโฟกัสของ iPhone ของคุณแตกต่างกันอย่างไร",
-      "summary_th": "โหมดโฟกัสของ iPhone รวมถึงโหมดห้ามรบกวนเป็นวิธีที่ดีในการลดการรบกวน แต่วิธีการทำงานแตกต่างกันอย่างไร?"
+      "title_th": "What's the difference between your iPhone's Do Not Disturb and Focus modes?",
+      "summary_th": "Your iPhone's Focus modes, including Do Not Disturb, are a great way to reduce interruptions. But what's the difference in how they work?"
     },
     {
       "source": "Engadget",
@@ -323,8 +347,8 @@
       "image": "https://www.engadget.com/img/gallery/how-to-change-amazon-alexas-voice-and-personality/l-intro-1788374760.jpg",
       "link": "https://www.engadget.com/2252800/how-to-change-alexa-voice-personality/",
       "published": "Sat, 12 Sep 2026 22:00:00 +0000",
-      "title_th": "วิธีเปลี่ยนเสียงและบุคลิกภาพของ Amazon Alexa",
-      "summary_th": "คุณมีตัวเลือกใหม่มากมายสำหรับเสียงและบุคลิกภาพของ Alexa ต่อไปนี้เป็นวิธีค้นหาและเปลี่ยนแปลงการตั้งค่าเหล่านั้น"
+      "title_th": "How to change Amazon Alexa's voice and personality",
+      "summary_th": "You have several new options for Alexa's voice and personality. Here's how to find and change those settings."
     },
     {
       "source": "Engadget",
@@ -335,32 +359,8 @@
       "image": "https://www.engadget.com/img/gallery/blizzard-is-reviving-starcraft-as-an-open-world-shooter-but-itll-be-a-long-wait/l-intro-1789248367.jpg",
       "link": "https://www.engadget.com/2256750/blizzard-is-reviving-starcraft-as-an-open-world-shooter-but-itll-be-a-long-wait/",
       "published": "Sat, 12 Sep 2026 21:28:36 +0000",
-      "title_th": "Blizzard กำลังฟื้น StarCraft ในฐานะเกมยิงแบบเปิดโลก แต่จะต้องรอนาน",
-      "summary_th": "ประกาศที่ BlizzCon 2026 StarCraft ใหม่จะไม่อยู่ที่นี่จนกว่าจะถึงฤดูใบไม้ผลิปี 2030"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Why is the internet so upset about NVIDIA's DLSS 5?",
-      "summary_en": "NVIDIA calls DLSS 5 the biggest graphics breakthrough since ray tracing; critics call it an AI slop filter.",
-      "image": "https://www.engadget.com/img/gallery/why-is-the-internet-so-upset-about-nvidias-dlss-5/l-intro-1788358512.jpg",
-      "link": "https://www.engadget.com/2252797/nvidia-dlss-5-why-internet-people-upset-issues/",
-      "published": "Sat, 12 Sep 2026 20:00:00 +0000",
-      "title_th": "เหตุใดอินเทอร์เน็ตจึงไม่พอใจกับ DLSS 5 ของ NVIDIA",
-      "summary_th": "NVIDIA เรียก DLSS 5 ว่าเป็นการพัฒนากราฟิกที่ยิ่งใหญ่ที่สุดนับตั้งแต่ Ray Tracing; นักวิจารณ์เรียกมันว่า AI slop filter"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "OpenAI agents hacked a software service before the Hugging Face incident",
-      "summary_en": "The agents OpenAI was testing attacked a software service called RubyGems in May, months before the attacks on Hugging Face.",
-      "image": "https://www.engadget.com/img/gallery/openai-agents-hacked-a-software-service-before-the-hugging-face-incident/l-intro-1789242724.jpg",
-      "link": "https://www.engadget.com/2256741/openai-agents-hacked-rubygems/",
-      "published": "Sat, 12 Sep 2026 19:53:01 +0000",
-      "title_th": "เจ้าหน้าที่ OpenAI แฮ็กบริการซอฟต์แวร์ก่อนเกิดเหตุการณ์ Hugging Face",
-      "summary_th": "เจ้าหน้าที่ OpenAI กำลังทดสอบการโจมตีบริการซอฟต์แวร์ชื่อ RubyGems ในเดือนพฤษภาคม หลายเดือนก่อนการโจมตี Hugging Face"
+      "title_th": "Blizzard is reviving StarCraft as an open-world shooter, but it'll be a long wait",
+      "summary_th": "Announced at BlizzCon 2026, the new StarCraft won't be here until spring 2030."
     },
     {
       "source": "IEEE Spectrum",
@@ -371,8 +371,8 @@
       "image": "https://spectrum.ieee.org/media-library/illustration-of-a-ballot-box-inside-a-dollar-bill-symbolizing-money-in-elections.jpg?id=67749579&width=980",
       "link": "https://spectrum.ieee.org/ieee-to-reward-sections",
       "published": "Fri, 11 Sep 2026 18:00:02 +0000",
-      "title_th": "IEEE จะให้รางวัลแก่ส่วนต่างๆ สำหรับผู้มีสิทธิ์ลงคะแนนเสียงสูงในการเลือกตั้งประจำปี",
-      "summary_th": "สำหรับการเลือกตั้งประจำปีของ IEEE ในปีนี้ คณะกรรมการ IEEE Tellers จะยกย่องส่วนต่างๆ ที่มีผู้ลงคะแนนเสียงออกมาใช้สิทธิ์สูงสุด (ขึ้นอยู่กับผู้ลงคะแนนที่มีสิทธิ์ทั้งหมด) ในแต่ละภูมิภาค พร้อมด้วยรางวัลจูงใจ หลังจากที่คณะกรรมการ IEEE ยอมรับผลการเลือกตั้ง โครงการริเริ่มสิ่งจูงใจได้รับการจัดการโดย Tellers Committee ซึ่งยังคงมีอำนาจเต็มเหนือกฎเกณฑ์ การดำเนินการ และการตัดสินใจทั้งหมดที่เกี่ยวข้องกับโครงการ หลักเกณฑ์สิ่งจูงใจ ขนาดส่วนและจำนวนรางวัลตามลำดับคือ: ส่วนขนาดใหญ่ประกอบด้วยสมาชิกที่มีสิทธิ์ลงคะแนนเสียงมากกว่า 1,501 คน ส่วนขนาดใหญ่ที่มีประสิทธิภาพสูงสุดในแต่ละภูมิภาค IEEE จะได้รับรางวัล 1,000 ดอลลาร์สหรัฐ ส่วนขนาดกลางประกอบด้วยสมาชิกที่มีสิทธิ์ลงคะแนนเสียงจำนวน 501 ถึง 1,500 คน ส่วนสื่อที่มีประสิทธิภาพสูงสุดของแต่ละภูมิภาคจะได้รับเงินรางวัล 600 ดอลลาร์ ส่วนเล็กๆ"
+      "title_th": "IEEE to Reward Sections for High Voter Turnout in Annual Election",
+      "summary_th": "For this year’s IEEE annual election , the IEEE Tellers Committee will recognize the Sections with the highest voter turnout (based on total eligible voters) in each Region with an incentive reward after the election results are accepted by the IEEE Board of Directors .The incentive initiative is managed by the Tellers Committee, which retains full authority over all rules, operations, and decisions regarding the program. Incentive guidelines The Section sizes and their respective reward amounts are: Large sections consist of more than 1,501 eligible voting members. The top-performing large section in each IEEE region will be rewarded with US $1,000. Medium sections consist of 501 to 1,500 eligible voting members. Each region’s top-performing medium section will receive $600. Small section"
     },
     {
       "source": "IEEE Spectrum",
@@ -383,8 +383,8 @@
       "image": "https://spectrum.ieee.org/media-library/black-and-white-photograph-of-a-young-asian-man-in-a-suit-and-tie.jpg?id=67750969&width=980",
       "link": "https://spectrum.ieee.org/codeveloper-of-ethernet-predecessor-dies",
       "published": "Thu, 10 Sep 2026 20:00:04 +0000",
-      "title_th": "ผู้พัฒนาร่วมของ Ethernet รุ่นก่อนเสียชีวิตแล้วในวัย 91 ปี",
-      "summary_th": "แฟรงคลิน “แฟรงค์” คูโอ ผู้พัฒนาร่วมของ ALOHAnet Fellow, 91; เสียชีวิตเมื่อวันที่ 14 เมษายน Kuo ช่วยพัฒนา ALOHAnet ซึ่งเป็นระบบคอมพิวเตอร์รุ่นบุกเบิกที่มหาวิทยาลัยฮาวายที่ Mānoa ในโฮโนลูลู ระบบดังกล่าวเริ่มออนไลน์ในปี พ.ศ. 2514 และเป็นการสาธิตสู่สาธารณะครั้งแรกของเครือข่ายข้อมูลแพ็กเก็ตไร้สาย นี่เป็นแรงบันดาลใจในการพัฒนา Ethernet ของ Robert Metcalfe ในอีกสองสามปีต่อมา ในปี 2020 ALOHAnet ถูกกำหนดให้เป็น IEEE Milestone Kuo สำเร็จการศึกษาระดับปริญญาตรี ปริญญาโท และปริญญาเอกสาขาวิศวกรรมไฟฟ้าจากมหาวิทยาลัยอิลลินอยส์ เออร์บานา-แชมเปญจน์ หลังจากได้รับปริญญาเอก ในปี 1960 เขาได้ร่วมงานกับ Bell Labs ในเมอร์เรย์ฮิลล์ รัฐนิวเจอร์ซี ซึ่งเขาได้ดำเนินการวิจัยด้านการสื่อสารด้วยคอมพิวเตอร์ หลังจากทำงานที่บริษัทได้หกปี Kuo ก็ลาออกไปเป็นศาสตราจารย์ด้านวิศวกรรมไฟฟ้าที่"
+      "title_th": "Codeveloper of Ethernet Predecessor Dies at 91",
+      "summary_th": "Franklin “Frank” Kuo Codeveloper of ALOHAnet Fellow, 91; died 14 April Kuo helped develop ALOHAnet , a pioneering computer system at the University of Hawaii at Mānoa , in Honolulu. The system went online in 1971 and represented the first public demonstration of a wireless packet data network . It was an inspiration for Robert Metcalfe ’s development of Ethernet a couple of years later. In 2020 ALOHAnet was designated as an IEEE Milestone . Kuo earned bachelor’s, master’s, and doctoral degrees in electrical engineering from the University of Illinois , Urbana-Champaign. After earning his Ph.D. in 1960, he joined Bell Labs in Murray Hill, N.J. , where he conducted research in computer communications. After six years at the company, Kuo left to become a professor of electrical engineering at"
     },
     {
       "source": "IEEE Spectrum",
@@ -395,8 +395,8 @@
       "image": "https://spectrum.ieee.org/media-library/an-illustration-of-stylized-people-wearing-business-casual-clothing.webp?id=65257424&width=980",
       "link": "https://spectrum.ieee.org/how-to-survive-a-layoff",
       "published": "Wed, 09 Sep 2026 15:03:38 +0000",
-      "title_th": "คู่มือวิศวกรเพื่อความอยู่รอดจากการเลิกจ้าง",
-      "summary_th": "บทความนี้คัดลอกมาจากจดหมายข่าวอาชีพของ IEEE Spectrum ลงทะเบียนตอนนี้เพื่อรับเคล็ดลับจากวงใน คำแนะนำจากผู้เชี่ยวชาญ และกลยุทธ์เชิงปฏิบัติ เขียนโดยความร่วมมือกับบริษัทพัฒนาอาชีพด้านเทคโนโลยี Parsity และส่งตรงถึงกล่องจดหมายของคุณฟรี! ฉันสูญเสียตำแหน่งผู้บริหารด้านวิศวกรรมที่แสนสบายไปพร้อมๆ กับที่ฉันซื้อธุรกิจพร้อมสินเชื่อจำนอง ลูกสามคน และภาระผูกพันทางการเงินอื่นๆ ทั้งหมดของการเป็นผู้ใหญ่ มันเป็นช่วงที่เครียดที่สุดช่วงหนึ่งในชีวิตของฉัน หากมีสิ่งที่คล้ายกันเกิดขึ้นกับคุณ ฉันรู้สึกถึงความเจ็บปวดของคุณ คุณสูญเสียมากกว่ารายได้ สำหรับพวกเราหลายๆ คน งานของเรากลายเป็นตัวตนของเรา เราจึงไม่คิดแค่ว่า “ฉันไม่มีงานแล้ว” เราเริ่มคิดว่า “ฉันไม่ใช่วิศวกรอีกต่อไปแล้ว” ต้นแอปเปิ้ลในฤดูหนาวยังคงเป็นต้นแอปเปิ้ล รถยนต์ที่จอดอยู่ในทางรถจอดอยู่"
+      "title_th": "An Engineer’s Guide to Surviving a Layoff",
+      "summary_th": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! I lost a cushy engineering management position at the same time I purchased a business, with a mortgage, three kids, and every other financial obligation of being an adult. It was one of the most stressful stretches of my life. If something similar has happened to you, I feel your pain. You lose more than the income For many of us, our work became our identity, so we don’t just think, “I don’t have a job anymore.” We start thinking, “I’m not an engineer anymore.” An apple tree in winter is still an apple tree. A car parked in a driveway is sti"
     },
     {
       "source": "IEEE Spectrum",
@@ -407,8 +407,8 @@
       "image": "https://spectrum.ieee.org/media-library/two-men-in-dark-blue-shirts-watch-suvs-being-put-together-on-an-assembly-line.jpg?id=67724197&width=980",
       "link": "https://spectrum.ieee.org/rivian-self-driving",
       "published": "Tue, 08 Sep 2026 13:00:04 +0000",
-      "title_th": "กลเม็ดของ Rivian เพื่อความเป็นอิสระเต็มรูปแบบ",
-      "summary_th": "ฉันกำลังนั่งอยู่ในรถ SUV Rivian R1S ขณะที่มันขับไปตามถนนอันร่มรื่นของปาโลอัลโต แคลิฟอร์เนีย ผ่านพื้นที่ที่อัดแน่นไปด้วยประวัติศาสตร์ทางเทคโนโลยี เราล่องเรือใกล้กับสถานที่สำคัญอย่าง HP Garage ซึ่งเป็นเวิร์กช็อปที่มีรถยนต์คันเดียวซึ่งฮิวเลตต์-แพคการ์ดและซิลิคอนแวลลีย์ก่อตั้งขึ้นในปี 1939 ฉันอยู่รอบๆ มหาวิทยาลัยสแตนฟอร์ด ซึ่งทีมที่นำโดยศาสตราจารย์ด้านวิทยาการคอมพิวเตอร์ Sebastian Thrun ได้รับรางวัล DARPA Grand Challenge มูลค่า 2 ล้านดอลลาร์สหรัฐในปี 2548 Volkswagen SUV ของทีมชื่อ Stanley กลายเป็นยานพาหนะคันแรกของโลกที่นำทางในเส้นทางทะเลทรายโมฮาวีระยะทาง 212 กิโลเมตรอันแสนทรหดโดยไม่มีคนขับ การแทรกแซงของมนุษย์ Rivian คันนี้อาจดูเหมือนรถ SUV ไฟฟ้าคันอื่นๆ ในเมืองที่มั่งคั่งแห่งนี้ โดยมีกลุ่มบริษัทเทคโนโลยี ร่วมลงทุน และบริษัทสตาร์ทอัพหลายแห่ง แต่ภายใน EV แบบกล่องนี้มีสิ่งพิเศษ: ระบบ Autonomy+"
+      "title_th": "Rivian’s Gambit for Full Autonomy",
+      "summary_th": "I’m sitting in a Rivian R1S SUV as it drives itself down the leafy streets of Palo Alto, Calif. , through areas crowded with touchstones of tech history. We cruise near the landmark HP Garage , the one-car workshop where Hewlett-Packard, and, arguably, Silicon Valley, was founded in 1939. I skirt Stanford University, where a team led by computer science professor Sebastian Thrun won a US $2 million DARPA Grand Challenge in 2005. The team’s Volkswagen SUV, named Stanley, became the world’s first vehicle to navigate a grueling 212-kilometer Mojave Desert course with no human intervention. This Rivian might look like any other electric SUV in this affluent town, with its concentration of tech bros, venture capital, and startups. But inside this boxy EV is something special: an Autonomy+ syste"
     },
     {
       "source": "IEEE Spectrum",
@@ -419,8 +419,32 @@
       "image": "https://spectrum.ieee.org/media-library/a-road-scene-shot-from-the-perspective-of-a-driver-shows-red-splotches-to-indicate-where-nearby-vehicles-were-detected-using-l.png?id=67724498&width=980",
       "link": "https://spectrum.ieee.org/are-self-driving-cars-safe",
       "published": "Tue, 08 Sep 2026 12:59:04 +0000",
-      "title_th": "ข้อพิสูจน์ที่เพิ่มขึ้นว่ารถยนต์ขับเคลื่อนอัตโนมัติช่วยชีวิตได้",
-      "summary_th": "ผู้คนจำนวนมากยังคงหวาดกลัวกับรถยนต์ขับเคลื่อนอัตโนมัติหรือ AV ผู้เชี่ยวชาญและผู้กำหนดนโยบายบางคนเตือนว่า AV ไม่ได้ทำให้ถนนปลอดภัยขึ้นเสมอไป เมื่อพูดถึงความเป็นอิสระบางส่วนหรือทั้งหมด ภาพอาจไม่ชัดเจนนัก ส่วนหนึ่งเป็นเพราะไม่มีรถยนต์ที่ขับเคลื่อนด้วยตนเองไม่เพียงพอที่จะเปรียบเทียบระหว่างแอปเปิ้ลกับแอปเปิลได้อย่างมีความหมาย อย่างไรก็ตาม การวิจัยที่เพิ่มขึ้นชี้ให้เห็นว่ารถยนต์ที่ขับเคลื่อนด้วยตนเองชนกันน้อยกว่าผู้คนอย่างมาก และมีอาการบาดเจ็บน้อยกว่ามาก หลักฐานยังแสดงให้เห็นว่าระบบช่วยเหลือผู้ขับขี่ขั้นสูง (ADAS) และส่วนประกอบอื่นๆ ของระบบขับเคลื่อนอัตโนมัติ ซึ่งบางส่วนได้รับคำสั่งจากรถใหม่ทุกคัน ยังช่วยลดการบาดเจ็บและการเสียชีวิตของผู้โดยสารและคนเดินถนน รวมถึงการเคลมประกันอีกด้วย ที่หน้า ADAS สถาบันประกันภัยเพื่อความปลอดภัยบนทางหลวงพบว่าเกิดขึ้นโดยอัตโนมัติ"
+      "title_th": "The Growing Proof That Autonomous Cars Save Lives",
+      "summary_th": "Plenty of people remain spooked by autonomous vehicles, or AVs. Some experts and policymakers have cautioned that AVs won’t necessarily make roads safer. When it comes to partial or full autonomy, the picture isn’t entirely clear, in part because there aren’t enough self-driving cars to make meaningful apples-to-apples comparisons. Yet mounting research suggests that self-driving cars crash significantly less often than people, and with far fewer injuries. Evidence also shows that advanced driver assistance systems (ADAS) and other building blocks of autonomy—some of which are already mandated on every new car—are also reducing occupant and pedestrian injuries and deaths, along with insurance claims. On the ADAS front, the Insurance Institute for Highway Safety found that automatic emergen"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "iPhone 18 Pro pre-orders: Here’s what still arrives on launch day",
+      "summary_en": "Apple’s new iPhone 18 Pro and iPhone 18 Pro Max lineup went up for pre-order today , ahead of the September 18 launch day. As of Saturday evening, shipping estimates for some configurations have slipped to October — especially for the iPhone 18 Pro Max. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-pro-max-hand.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/12/iphone-18-pro-pre-orders-heres-what-still-arrives-on-launch-day/",
+      "published": "Sun, 13 Sep 2026 00:38:49 +0000",
+      "title_th": "iPhone 18 Pro pre-orders: Here’s what still arrives on launch day",
+      "summary_th": "Apple’s new iPhone 18 Pro and iPhone 18 Pro Max lineup went up for pre-order today , ahead of the September 18 launch day. As of Saturday evening, shipping estimates for some configurations have slipped to October — especially for the iPhone 18 Pro Max. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Here are my favorite fast charger recommendations for iPhone 18 Pro",
+      "summary_en": "Over the past year, I’ve had the pleasure of testing out loads of chargers and MagSafe charging stands for Apple devices. If you just preordered a new iPhone 18 Pro and you’re looking for the best ways to take advantage of fast charging, these are my top picks. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-13.19.58.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/12/best-fast-chargers-for-iphone-18-pro/",
+      "published": "Sun, 13 Sep 2026 00:35:29 +0000",
+      "title_th": "Here are my favorite fast charger recommendations for iPhone 18 Pro",
+      "summary_th": "Over the past year, I’ve had the pleasure of testing out loads of chargers and MagSafe charging stands for Apple devices. If you just preordered a new iPhone 18 Pro and you’re looking for the best ways to take advantage of fast charging, these are my top picks. more…"
     },
     {
       "source": "9to5Mac",
@@ -431,8 +455,8 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Farwave-app.png?resize=1200,628",
       "link": "https://9to5mac.com/2026/09/12/indie-app-spotlight-farwave-lets-you-listen-to-radio-stations-around-the-world/",
       "published": "Sat, 12 Sep 2026 19:30:00 +0000",
-      "title_th": "แอพอินดี้เด่น: 'Farwave' ให้คุณฟังสถานีวิทยุทั่วโลก",
-      "summary_th": "ยินดีต้อนรับสู่แอปอินดี้สปอตไลท์ นี่คือซีรีส์ 9to5Mac รายสัปดาห์ที่เรานำเสนอแอปล่าสุดในโลกของแอปอินดี้ หากคุณเป็นนักพัฒนาซอฟต์แวร์และต้องการให้แอปของคุณเป็นจุดเด่น โปรดติดต่อ Farwave ใช้แนวทางใหม่ที่น่าสนใจกับแอปเครื่องเล่นเสียงโดยการวางแอปไว้ทั่วโลก คุณสามารถสำรวจโลกและค้นหาสถานีวิทยุทั่วโลกด้วยภาพ 3 มิติที่สวยงามในแอป สำหรับพอดแคสต์และเพลงที่คุณต้องการฟัง คุณสามารถสำรวจได้ในแอพด้วยภาพแยกกัน มากกว่า…"
+      "title_th": "Indie App Spotlight: ‘Farwave’ lets you listen to radio stations around the world",
+      "summary_th": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . Farwave takes an interesting new approach to audio player apps, by placing them around the globe. You can explore the world and find radio stations across the planet, with a nice 3D visual in the app. For podcasts and music you want to listen to, you can also explore them in the app with separate visuals. more…"
     },
     {
       "source": "9to5Mac",
@@ -443,8 +467,8 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-14.16.28.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/09/12/apple-nailed-iphone-duo-split-screen-even-as-ipad-multitasking-feels-convoluted/",
       "published": "Sat, 12 Sep 2026 16:47:34 +0000",
-      "title_th": "Apple ตอกย้ำการแบ่งหน้าจอ iPhone Duo แม้ว่าการทำงานมัลติทาสก์ของ iPad จะรู้สึกซับซ้อนก็ตาม",
-      "summary_th": "สัปดาห์นี้ Apple เปิดตัวกลุ่มผลิตภัณฑ์ iPhone ใหม่ รวมถึง iPhone แบบพับได้เครื่องแรก – iPhone Duo แม้ว่า Duo จะเป็นอุปกรณ์ที่ยอดเยี่ยม แต่ฉันหวังว่า Apple จะทำงานได้ดีกว่าสำหรับ iPad มากกว่า…"
+      "title_th": "Apple nailed iPhone Duo split screen, even as iPad multitasking feels convoluted",
+      "summary_th": "Apple this week unveiled its new iPhone lineup , including the first ever foldable iPhone – the iPhone Duo. While the Duo itself is a fantastic device, it does leave me wishing that Apple did better for the iPad. more…"
     },
     {
       "source": "9to5Mac",
@@ -455,32 +479,8 @@
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/1.-KV.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/09/12/esrs-iphone-accessory-lineup-ready-apples-foldable-era/",
       "published": "Sat, 12 Sep 2026 16:00:00 +0000",
-      "title_th": "กลุ่มอุปกรณ์เสริม iPhone ของ ESR พร้อมแล้วสำหรับยุคจอพับได้ของ Apple",
-      "summary_th": "การประกาศเปิดตัว iPhone ใหม่หมายถึงการเร่งรีบสำหรับอุปกรณ์เสริมที่จะมาถึงเมื่ออุปกรณ์ใหม่ของคุณมาถึง และในปีนี้ก็รวมหมวดหมู่ใหม่ทั้งหมดด้วย iPhone Duo ESR เป็นชื่อที่ได้รับการยอมรับอย่างดีในอุปกรณ์เสริมของ Apple และกลุ่มผลิตภัณฑ์ iPhone 18 ครอบคลุม iPhone Duo ใหม่, รุ่น iPhone 18 Pro และทุกสิ่งที่ติดตัวไปด้วย เช่น การชาร์จ, AirPods, Apple Watch และกระเป๋าเงิน MagSafe ต่อไปนี้คือสิ่งที่มาจาก ESR สำหรับกลุ่มผลิตภัณฑ์ iPhone ใหม่ของ Apple มากกว่า…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "review",
-      "title_en": "iPhone Duo can add fake bezel to the outside screen for better case compatibility",
-      "summary_en": "Blogger Nicolas Lellouche went digging in the iPhone Duo settings during his hands on time with the device. He found a curious new option in the display settings called ‘Shift Left Edge’. When enabled, this setting adds a bit of a black border to the left side, essentially adding fake bezel on the outside screen, pushing content away from the folding edge. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-shift-left-edge-setting.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/12/iphone-duo-fake-bezel-case-compatibility/",
-      "published": "Sat, 12 Sep 2026 15:32:31 +0000",
-      "title_th": "iPhone Duo สามารถเพิ่มกรอบปลอมไปที่หน้าจอด้านนอกได้เพื่อให้ใช้งานร่วมกับเคสได้ดีขึ้น",
-      "summary_th": "Blogger Nicolas Lellouche ศึกษาการตั้งค่า iPhone Duo ในระหว่างที่เขาใช้อุปกรณ์ตรงเวลา เขาพบตัวเลือกใหม่ที่น่าสงสัยในการตั้งค่าการแสดงผลที่เรียกว่า 'Shift Left Edge' เมื่อเปิดใช้งาน การตั้งค่านี้จะเพิ่มขอบสีดำเล็กน้อยทางด้านซ้าย โดยเพิ่มกรอบปลอมบนหน้าจอด้านนอก เพื่อดันเนื้อหาออกจากขอบพับ มากกว่า…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple @ Work: The three prongs of software updates in the AI era",
-      "summary_en": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . For my entire IT career, software updates have operated on a predictable schedule. IT administrators have been conditioned to build workflows around quarterly point releases or monthly patching cycles (Patch Tuesday). However, as AI tools become very proficient at automatically discover",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/12/apple-work-the-three-prongs-of-software-updates-in-the-ai-era/",
-      "published": "Sat, 12 Sep 2026 13:33:00 +0000",
-      "title_th": "Apple @ Work: สามง่ามของการอัพเดตซอฟต์แวร์ในยุค AI",
-      "summary_th": "Apple @ Work ให้บริการแก่คุณโดยเฉพาะโดย Mosyle ซึ่งเป็น Apple Unified Platform เพียงแห่งเดียว Mosyle เป็นโซลูชันเดียวที่ผสานรวมโซลูชันทั้งหมดที่จำเป็นในการปรับใช้ จัดการ และปกป้องอุปกรณ์ Apple ในที่ทำงานได้อย่างราบรื่นและอัตโนมัติในแพลตฟอร์มระดับมืออาชีพเพียงแพลตฟอร์มเดียว องค์กรกว่า 45,000 แห่งไว้วางใจให้ Mosyle สร้างสรรค์อุปกรณ์ Apple หลายล้านเครื่องให้พร้อมใช้งานโดยไม่ต้องใช้ความพยายามและในราคาที่เอื้อมถึง ขอรับการทดลองใช้เพิ่มเติมวันนี้ และทำความเข้าใจว่าเหตุใด Mosyle จึงเป็นทุกสิ่งที่คุณต้องการเพื่อร่วมงานกับ Apple ตลอดอาชีพไอทีของฉัน การอัปเดตซอฟต์แวร์ดำเนินการตามกำหนดเวลาที่คาดเดาได้ ผู้ดูแลระบบไอทีได้รับการกำหนดเงื่อนไขให้สร้างเวิร์กโฟลว์เกี่ยวกับการเผยแพร่จุดรายไตรมาสหรือรอบการแพตช์รายเดือน (Patch Tuesday) อย่างไรก็ตาม เนื่องจากเครื่องมือ AI มีความเชี่ยวชาญอย่างมากในการค้นพบโดยอัตโนมัติ"
+      "title_th": "ESR’s iPhone accessory lineup is ready for Apple’s foldable era",
+      "summary_th": "A new iPhone announcement always means a mad rush for accessories that will arrive when your new device arrives, and this year that includes an entirely new category with the iPhone Duo. ESR is a well-respected name in Apple accessories, and its iPhone 18 lineup covers the new iPhone Duo, the iPhone 18 Pro models, and everything that goes with them: charging, AirPods, Apple Watch, and MagSafe wallets. Here’s a look at what’s coming from ESR for Apple’s new iPhone lineup. more…"
     },
     {
       "source": "9to5Google",
@@ -492,7 +492,7 @@
       "link": "https://9to5google.com/2026/09/12/the-google-pixel-is-fine-and-all-but-still-needs-a-ryzen-moment-video/",
       "published": "Sat, 12 Sep 2026 15:30:00 +0000",
       "title_th": "Google Pixel นั้นใช้ได้ทุกอย่าง แต่ก็ยังต้องการ 'ช่วงเวลาของ Ryzen' [วิดีโอ]",
-      "summary_th": "“สบายดี” รู้สึกว่ากำลังช่วยยกปัญหาหนักที่อาจเกิดขึ้นในอนาคตในช่วงใด มีการพูดคุยกันเกี่ยวกับชิปเทนเซอร์ในโทรศัพท์ Pixel แต่ถึงเวลาที่เราจะได้เห็นประสิทธิภาพในโลกแห่งความเป็นจริงเพิ่มขึ้นไม่ใช่หรือ? ความจริงก็คือเราอาจต้องการช่วงเวลา Ryzen สำหรับชิป Tensor มากกว่า…"
+      "summary_th": "At what stage does “fine” feel like it’s doing heavy lifting for problems that might appear in the future? It’s something talked about around the Tensor chip in Pixel phones, but isn’t it about time we saw real-world performance gains? The truth is, we probably need a Ryzen moment for the Tensor chip. more…"
     },
     {
       "source": "9to5Google",
@@ -503,8 +503,8 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/dbrand-mnml-pixel-11-pro-9.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/09/12/dbrand-mnml-pixel-11-pro-hands-on/",
       "published": "Sat, 12 Sep 2026 12:30:00 +0000",
-      "title_th": "Hands-on: เคส MNML Pixel 11 Pro ของ Dbrand นั้นดีและนั่นคือประเด็น [แกลเลอรี]",
-      "summary_th": "Dbrand เป็นที่รู้จักกันดีในเรื่องของสกินที่ฉูดฉาดและบุคลิกที่ร่าเริง แต่ขณะนี้บริษัทกำลังเปิดตัวแบรนด์ที่ละเอียดอ่อนยิ่งขึ้นใน “MNML” โดยมีเป้าหมายที่จะนำเสนอเคสที่เรียบง่าย สะดวกสบายและมีคุณภาพดี สิ่งเหล่านี้มีให้ในโทรศัพท์ Pixel 11 Pro รุ่นล่าสุด และแน่นอนว่าพวกเขาทำงานให้สำเร็จด้วยตนเอง มากกว่า…"
+      "title_th": "Hands-on: Dbrand’s MNML Pixel 11 Pro cases are simply good, and that’s the point [Gallery]",
+      "summary_th": "Dbrand is definitely best-known for its flashy skins and bombastic personality, but the company is now launching a more subtle brand in “MNML,” aiming to offer dead-simple cases that are comfortable and have good quality. These are available for the latest Pixel 11 Pro phones and, in person, they certainly get the job done. more…"
     },
     {
       "source": "9to5Google",
@@ -515,8 +515,8 @@
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5google.com/2026/09/11/pixelated-116-how-dynamic-is-this-duo/",
       "published": "Fri, 11 Sep 2026 20:30:00 +0000",
-      "title_th": "Pixelated 116: Duo นี้มีพลังแค่ไหน?",
-      "summary_th": "ยินดีต้อนรับสู่ Pixelated ตอนที่ 116 สัปดาห์นี้เรากำลังพูดถึงการเข้าสู่ตลาดพับได้ของ Apple iPhone Duo ได้อะไรจากอุปกรณ์พับได้ของ Android, จะต้องปรับปรุงอะไรจากความพยายามของ Samsung และ Google และแบรนด์เหล่านั้นสามารถเรียนรู้อะไรจาก Apple สำหรับฮาร์ดแวร์รุ่นต่อไปของพวกเขา สนุกกับตอนนี้ไหม? คุณสามารถฟังตอนโบนัส Pixelated Pro ใหม่ล่าสุดประจำสัปดาห์สำหรับสมาชิกเท่านั้นโดยลงชื่อสมัครใช้ 9to5Google Pro ในราคาเพียง $5 ต่อเดือน สนับสนุนโดย Bitwarden : ผู้ฟังแบบ Pixelated สามารถเริ่มต้นใช้งานแผนส่วนบุคคลฟรีของ Bitwarden ได้โดยคลิกลิงก์นี้ และดูการประชุมสุดยอดด้านความปลอดภัยของโอเพ่นซอร์สในวันที่ 17 กันยายน ขอขอบคุณ Bitwarden สำหรับการสนับสนุน! สนับสนุนโดย Proton Unlimited : ผู้ฟังแบบพิกเซลสามารถประหยัด 30% จากการสมัครสมาชิกรายปีไปยังบริษัท"
+      "title_th": "Pixelated 116: How dynamic is this Duo?",
+      "summary_th": "Welcome to Pixelated episode 116. This week, we’re talking about Apple’s entry into the foldable market. What does the iPhone Duo take from Android foldables, where does it look to improve on efforts from the likes of Samsung and Google, and what can those brands learn from Apple for their next-gen hardware? Enjoy the episode? You can listen to our brand new weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro for just $5 per month. Sponsored by Bitwarden : Pixelated listeners can get started with Bitwarden’s free individual plan by clicking this link , and check out the Open Source Security Summit on September 17th. Thanks to Bitwarden for sponsoring! Sponsored by Proton Unlimited : Pixelated listeners can save 30% on an annual subscription to the company’s sui"
     },
     {
       "source": "9to5Google",
@@ -708,7 +708,7 @@
       "link": "https://www.youtube.com/watch?v=w_iHZi4fb8k",
       "thumbnail": "https://i4.ytimg.com/vi/w_iHZi4fb8k/hqdefault.jpg",
       "published": "2026-09-10T15:00:03+00:00",
-      "title_th": "สิ่งแปลกประหลาดของ Apple ได้รับการแก้ไขแล้ว"
+      "title_th": "Apple's Weird Thing is Fixed."
     },
     {
       "channel": "Unbox Therapy",
@@ -718,7 +718,7 @@
       "link": "https://www.youtube.com/shorts/ppH3kW0h_fc",
       "thumbnail": "https://i1.ytimg.com/vi/ppH3kW0h_fc/hqdefault.jpg",
       "published": "2026-09-03T21:00:32+00:00",
-      "title_th": "พวกเขาได้รับ So Light ได้อย่างไร?"
+      "title_th": "How do they get them So Light?"
     },
     {
       "channel": "Unbox Therapy",
@@ -728,7 +728,17 @@
       "link": "https://www.youtube.com/watch?v=3DVKs1wFoFw",
       "thumbnail": "https://i4.ytimg.com/vi/3DVKs1wFoFw/hqdefault.jpg",
       "published": "2026-09-03T16:58:33+00:00",
-      "title_th": "แล็ปท็อปราคาประหยัดรุ่นใหม่ของ LG..."
+      "title_th": "LG’s New Budget Laptop..."
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "จินตนาการ ทรัพย์สินที่มีมูลค่ามากที่สุด",
+      "video_id": "QcIsFmtQ8lM",
+      "link": "https://www.youtube.com/shorts/QcIsFmtQ8lM",
+      "thumbnail": "https://i2.ytimg.com/vi/QcIsFmtQ8lM/hqdefault.jpg",
+      "published": "2026-09-12T23:00:28+00:00",
+      "title_th": "จินตนาการ ทรัพย์สินที่มีมูลค่ามากที่สุด"
     },
     {
       "channel": "Beartai",
@@ -749,16 +759,6 @@
       "thumbnail": "https://i3.ytimg.com/vi/NRm6sgGDbBs/hqdefault.jpg",
       "published": "2026-09-12T06:49:05+00:00",
       "title_th": "ย้อนวัยได้ ด้วยไขมัน ! | bt Originals Life Series x หมอต้น PMED"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "รู้ทัน 'ความดุ' มะเร็งเต้านม",
-      "video_id": "Dg2Kc4YTOVI",
-      "link": "https://www.youtube.com/shorts/Dg2Kc4YTOVI",
-      "thumbnail": "https://i1.ytimg.com/vi/Dg2Kc4YTOVI/hqdefault.jpg",
-      "published": "2026-09-11T23:00:17+00:00",
-      "title_th": "รู้ทัน 'ความดุ' มะเร็งเต้านม"
     },
     {
       "channel": "Droidsans",
