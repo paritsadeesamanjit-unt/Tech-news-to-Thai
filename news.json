@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T02:10:43.178462+00:00",
+  "generated_at": "2026-09-14T08:29:56.502848+00:00",
   "count": 50,
   "articles": [
     {
@@ -546,6 +546,18 @@
       "source": "Electrek",
       "flag": "",
       "category": "ev",
+      "title_en": "EPA plans to raise your health costs by $120B on Monday",
+      "summary_en": "The EPA plans to announce a new policy on Monday that will eliminate limits on power plant pollution, saddling Americans with another $120 billion in long-term health costs, in the latest step of Trump’s assault on Americans’ pocketbooks. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2024/11/Lee_Zeldin_48513771307.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/13/epa-plans-to-raise-your-energy-costs-by-120b-on-monday/",
+      "published": "Mon, 14 Sep 2026 03:31:47 +0000",
+      "title_th": "EPA plans to raise your health costs by $120B on Monday",
+      "summary_th": "The EPA plans to announce a new policy on Monday that will eliminate limits on power plant pollution, saddling Americans with another $120 billion in long-term health costs, in the latest step of Trump’s assault on Americans’ pocketbooks. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
       "title_en": "Zürich Airport deploys L4 autonomous shuttle – WITHOUT a human monitor",
       "summary_en": "Zürich Airport has deployed not one but two fully automated electric shuttle buses on the grounds of Zürich Airport. Crucially, these self-driving vehicles are operating without a human safety monitor, making Zürich one of the first airports in Europe to test L4 autonomy in a live environment. more…",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/weride-e-shuttle-zuerich.jpg?quality=82&strip=all&resize=1200,628",
@@ -589,18 +601,6 @@
       "published": "Sat, 12 Sep 2026 17:07:36 +0000",
       "title_th": "Last year, BYD bought the world’s largest car carrier – they just ordered 10 more",
       "summary_th": "Last year, the BYD “Shenzhen” set sail on its first voyage with 9,200 parking spots – or enough space to fill 20 football fields, making BYD’s transport ship easily the world’s largest. Now, as the Chinese car brand sets its sights on Europe and North America, it’s ordering 10 more. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "E-quipment highlight: wreck stuff anywhere with CASE TL100EV [video]",
-      "summary_en": "CASE’s new TL100EV mini track loader is finally reaching real-world customers, and they’re putting it to work in some of the industry’s most demanding applications – from low-emission zones and no-drip job sites and noise-sensitive locations. Even indoors! more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/tv100ev-mediagallery.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/12/e-quipment-highlight-wreck-stuff-anywhere-with-case-tl100ev-video/",
-      "published": "Sat, 12 Sep 2026 15:46:32 +0000",
-      "title_th": "E-quipment highlight: wreck stuff anywhere with CASE TL100EV [video]",
-      "summary_th": "CASE’s new TL100EV mini track loader is finally reaching real-world customers, and they’re putting it to work in some of the industry’s most demanding applications – from low-emission zones and no-drip job sites and noise-sensitive locations. Even indoors! more…"
     }
   ],
   "indices": [
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 264.0,
-      "change": -4.0,
-      "change_pct": -1.49
+      "price": 254.0,
+      "change": -10.0,
+      "change_pct": -3.79
     }
   ],
   "reviews": [
