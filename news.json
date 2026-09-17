@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-09-16T23:38:20.915396+00:00",
+  "generated_at": "2026-09-17T02:12:36.921656+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Snap tries to make the case again for its $2,200 smart glasses",
+      "summary_en": "Snap unveiled new features for its smart glasses this week.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/SPECS26_Home-Menu.png?resize=1200,675",
+      "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "published": "Thu, 17 Sep 2026 00:58:49 +0000",
+      "title_th": "Snap tries to make the case again for its $2,200 smart glasses",
+      "summary_th": "Snap unveiled new features for its smart glasses this week."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Al Gore has a surprisingly calm take on the AI data center backlash",
+      "summary_en": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-812005316.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "published": "Wed, 16 Sep 2026 23:43:09 +0000",
+      "title_th": "Al Gore has a surprisingly calm take on the AI data center backlash",
+      "summary_th": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -39,28 +63,28 @@
       "summary_th": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-      "summary_en": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/zuck-glasses-2173579471-e1788354102893.jpg?resize=1200,761",
-      "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-      "published": "Wed, 16 Sep 2026 20:12:00 +0000",
-      "title_th": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-      "summary_th": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?"
+      "category": "gadget",
+      "title_en": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "summary_en": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Specs Intelligence as an \"anticipatory AI service\" that \"helps you […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-15-at-9.05.55-PM.png?quality=90&strip=all&crop=5.0466377440347%2C0%2C89.906724511931%2C100&w=1200",
+      "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "published": "2026-09-16T19:40:00-04:00",
+      "title_th": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "summary_th": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Specs Intelligence as an \"anticipatory AI service\" that \"helps you […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster",
-      "summary_en": "CFO Mark Davies and legal chief Andy Missan signed each other’s severance agreements while Matt Mullenweg was on leave, providing a year of salary and additional equity vesting if their departures qualify for the benefits.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Matt-Mullenweg.jpg?resize=1200,799",
-      "link": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/",
-      "published": "Wed, 16 Sep 2026 19:35:29 +0000",
-      "title_th": "Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster",
-      "summary_th": "CFO Mark Davies and legal chief Andy Missan signed each other’s severance agreements while Matt Mullenweg was on leave, providing a year of salary and additional equity vesting if their departures qualify for the benefits."
+      "category": "software",
+      "title_en": "I wore Snap’s $2,200 smart glasses",
+      "summary_en": "My favorite part of wearing the Specs, Snap's new augmented reality glasses, was playing dominoes. Sitting across the table from a Snap employee wearing the same pair of chunky glasses, I could select a virtual domino with a pinch and then move my hand to drop it in place, watching the tile snap down in […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268716_Snap_Specs_NMonroe_0038_crop_ce3bfd.jpg?quality=90&strip=all&crop=5.153125%2C12.770360674811%2C94.846875%2C74.459278650378&w=1200",
+      "link": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
+      "published": "2026-09-16T19:40:00-04:00",
+      "title_th": "I wore Snap’s $2,200 smart glasses",
+      "summary_th": "My favorite part of wearing the Specs, Snap's new augmented reality glasses, was playing dominoes. Sitting across the table from a Snap employee wearing the same pair of chunky glasses, I could select a virtual domino with a pinch and then move my hand to drop it in place, watching the tile snap down in […]"
     },
     {
       "source": "The Verge",
@@ -97,30 +121,6 @@
       "published": "2026-09-16T14:45:35-04:00",
       "title_th": "Resident Evil is a comedy first and a thrilling nightmare second",
       "summary_th": "When Paul W.S. Anderson's Resident Evil hit theaters in 2002, video game movies were largely seen as a niche. Films like Mortal Kombat and Tomb Raider had proven that big-screen game adaptations could be successful, but the commercial and critical failure of projects like the 1993 Super Mario Bros. still cast a long shadow. And […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Walmart takes a bite off the cost of Metroid Ravenous physical preorders",
-      "summary_en": "The Metroid series is going back to its 2D roots again with Metroid Ravenous for the Nintendo Switch 2, the first side-scrolling game in the series since 2021’s Metroid Dread for the Nintendo Switch. If you’re already excited enough to consider preordering, you can save $10 on the physical version of the game when you […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-09-at-7.44.37-AM.png?quality=90&strip=all&crop=0%2C2.8499270178814%2C100%2C94.300145964237&w=1200",
-      "link": "https://www.theverge.com/gadgets/996379/metroid-ravenous-preorder-deal-sale",
-      "published": "2026-09-16T14:20:38-04:00",
-      "title_th": "Walmart takes a bite off the cost of Metroid Ravenous physical preorders",
-      "summary_th": "The Metroid series is going back to its 2D roots again with Metroid Ravenous for the Nintendo Switch 2, the first side-scrolling game in the series since 2021’s Metroid Dread for the Nintendo Switch. If you’re already excited enough to consider preordering, you can save $10 on the physical version of the game when you […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Apple might make servers again to cash in on the AI rush",
-      "summary_en": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI industry continues to […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
-      "published": "2026-09-16T13:20:29-04:00",
-      "title_th": "Apple might make servers again to cash in on the AI rush",
-      "summary_th": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI industry continues to […]"
     },
     {
       "source": "Ars Technica",
@@ -186,6 +186,30 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
+      "title_en": "Meet Dyson's New Robot Vacuum Line: The Dyson Nurovi Line (2026)",
+      "summary_en": "The Nurovi line includes three lidar-powered robovacs. But to get the model I’m most intrigued by, you’ll need a Costco membership.",
+      "image": "https://media.wired.com/photos/6aab23852d174664403341f6/master/pass/Dyson-Just-Dropped-New-Lidar-Powered-Robot-Vacuums.-Here%E2%80%99s-a-Look-at-Each-Model.jpg",
+      "link": "https://www.wired.com/story/dyson-robot-vacuum-nurovi-line/",
+      "published": "Wed, 16 Sep 2026 23:42:55 +0000",
+      "title_th": "Meet Dyson's New Robot Vacuum Line: The Dyson Nurovi Line (2026)",
+      "summary_th": "The Nurovi line includes three lidar-powered robovacs. But to get the model I’m most intrigued by, you’ll need a Costco membership."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Here’s What Snap’s Expensive Specs Can Actually Do",
+      "summary_en": "Snap thinks its chunky, pricey smart glasses are the future of human computing, powered by a new AI app and features that do everything from translating languages to improving your golf swing.",
+      "image": "https://media.wired.com/photos/6aaaa2878e983d8bad151ae0/master/pass/Kaia_Gerber_SPECS_Visionary.png",
+      "link": "https://www.wired.com/story/what-snap-expensive-specs-can-actually-do/",
+      "published": "Wed, 16 Sep 2026 23:40:00 +0000",
+      "title_th": "Here’s What Snap’s Expensive Specs Can Actually Do",
+      "summary_th": "Snap thinks its chunky, pricey smart glasses are the future of human computing, powered by a new AI app and features that do everything from translating languages to improving your golf swing."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
       "title_en": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
       "summary_en": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
       "image": "https://media.wired.com/photos/6aaade9cf251bfe9554bf39a/master/pass/OpenAI-Releases-New-AI-Policy-Business-2294958021.jpg",
@@ -217,30 +241,6 @@
       "published": "Wed, 16 Sep 2026 19:29:15 +0000",
       "title_th": "MacOS 27 Golden Gate: Top New Features",
       "summary_th": "Siri’s reintroduction takes center stage as Apple officially rolls out the latest version of macOS to download and install."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
-      "summary_en": "I used an open-source map of a fruit fly’s brain to vibe code a website called PitchFly. Its headline suggestions were delightfully bananas.",
-      "image": "https://media.wired.com/photos/6aa8849459082b83fd22fcf8/master/pass/AI-Lab-This-Fly-Can-Come-Up-With-WIRED-Stories-Businesspsd.jpg",
-      "link": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
-      "published": "Wed, 16 Sep 2026 19:00:00 +0000",
-      "title_th": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
-      "summary_th": "I used an open-source map of a fruit fly’s brain to vibe code a website called PitchFly. Its headline suggestions were delightfully bananas."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "The Best Movies to Stream This Month (September 2026)",
-      "summary_en": "“The Mandalorian and Grogu,” “The Wild Robot,” and “Obsession” are among the must-watch films arriving this month.",
-      "image": "https://media.wired.com/photos/6aa88437de90a0411e10b820/master/pass/Movie-Guide-Obsession-Culture-MCDOBSE_UC009.jpg",
-      "link": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
-      "published": "Wed, 16 Sep 2026 18:23:37 +0000",
-      "title_th": "The Best Movies to Stream This Month (September 2026)",
-      "summary_th": "“The Mandalorian and Grogu,” “The Wild Robot,” and “Obsession” are among the must-watch films arriving this month."
     },
     {
       "source": "MIT Technology Review",
@@ -305,6 +305,30 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "review",
+      "title_en": "Snap Specs hands on: Standalone AR glasses are here",
+      "summary_en": "The glasses come with AR apps that actually feel useful, but is that enough to get people excited for the $2,195 device?",
+      "image": "https://www.engadget.com/img/gallery/snap-specs-hands-on-standalone-ar-glasses-are-here/l-intro-1789586955.jpg",
+      "link": "https://www.engadget.com/2260675/snap-specs-hands-on-standalone-ar-glasses-are-here/",
+      "published": "Wed, 16 Sep 2026 23:40:00 +0000",
+      "title_th": "Snap Specs hands on: Standalone AR glasses are here",
+      "summary_th": "The glasses come with AR apps that actually feel useful, but is that enough to get people excited for the $2,195 device?"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Snap introduces a standalone AI assistant, Specs Intelligence",
+      "summary_en": "The new assistant works with the company's new AR glasses, but will also have its own mobile and desktop apps.",
+      "image": "https://www.engadget.com/img/gallery/snap-introduces-a-standalone-ai-assistant-specs-intelligence/l-intro-1789590420.jpg",
+      "link": "https://www.engadget.com/2260736/snap-introduces-a-standalone-ai-assistant-specs-intelligence/",
+      "published": "Wed, 16 Sep 2026 23:40:00 +0000",
+      "title_th": "Snap introduces a standalone AI assistant, Specs Intelligence",
+      "summary_th": "The new assistant works with the company's new AR glasses, but will also have its own mobile and desktop apps."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "chip",
       "title_en": "Japanese company develops a humanoid robot 'ambulance' for on-the-spot repairs",
       "summary_en": "It turns out that breaking down at work isn't a uniquely human experience.",
@@ -337,30 +361,6 @@
       "published": "Wed, 16 Sep 2026 21:11:21 +0000",
       "title_th": "Hyper Light Drifter dev at risk of closing after laying off 'nearly everyone'",
       "summary_th": "A tough end for another indie darling."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "MindsEye developer Build A Rocket Boy is reportedly shutting down",
-      "summary_en": "It's not terribly surprising after repeated rounds of layoffs.",
-      "image": "https://www.engadget.com/img/gallery/mindseye-developer-build-a-rocket-boy-is-reportedly-shutting-down/l-intro-1789580821.jpg",
-      "link": "https://www.engadget.com/2260473/mindseye-developer-build-a-rocket-boy-is-reportedly-shutting-down/",
-      "published": "Wed, 16 Sep 2026 17:47:51 +0000",
-      "title_th": "MindsEye developer Build A Rocket Boy is reportedly shutting down",
-      "summary_th": "It's not terribly surprising after repeated rounds of layoffs."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "The Boox Note Air6C E Ink tablet flips pages nearly 40 percent faster",
-      "summary_en": "The 10.3-inch color ereader runs Android 16 and can access the Google Play Store.",
-      "image": "https://www.engadget.com/img/gallery/the-boox-note-air6c-e-ink-tablet-flips-pages-nearly-40-percent-faster/l-intro-1789580101.jpg",
-      "link": "https://www.engadget.com/2260455/the-boox-note-air6c-e-ink-tablet-flips-pages-nearly-40-percent-faster/",
-      "published": "Wed, 16 Sep 2026 17:36:21 +0000",
-      "title_th": "The Boox Note Air6C E Ink tablet flips pages nearly 40 percent faster",
-      "summary_th": "The 10.3-inch color ereader runs Android 16 and can access the Google Play Store."
     },
     {
       "source": "IEEE Spectrum",
@@ -425,6 +425,30 @@
     {
       "source": "9to5Mac",
       "flag": "",
+      "category": "review",
+      "title_en": "Photographer Tyler Stalman reviews the iPhone 18 Pro’s new camera with variable aperture",
+      "summary_en": "Photographer Tyler Stalman is back with his annual iPhone camera review. Here’s what he had to say about the iPhone 18 Pro’s new variable aperture, photographic styles, Apple Reference Image, and more. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/tyler-review.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/16/photographer-tyler-stalman-reviews-the-iphone-18-pros-new-camera-with-variable-aperture/",
+      "published": "Thu, 17 Sep 2026 01:24:30 +0000",
+      "title_th": "Photographer Tyler Stalman reviews the iPhone 18 Pro’s new camera with variable aperture",
+      "summary_th": "Photographer Tyler Stalman is back with his annual iPhone camera review. Here’s what he had to say about the iPhone 18 Pro’s new variable aperture, photographic styles, Apple Reference Image, and more. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Snap announces Specs Intelligence app for iPhone and Mac, cellular variant of Specs",
+      "summary_en": "After unveiling the design of its consumer-grade Spectacles back in June, Snap is now announcing that they’ll be available for pre-order starting today with a new 5G carrying case. The company also introduced a new proactive AI agent called Specs Intelligence, which despite being Specs branded, will be available on iPhone and Mac regardless of if you own a pair. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/image_8852d8.png?resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/16/snap-specs-intelligence-cellular-support/",
+      "published": "Wed, 16 Sep 2026 23:40:00 +0000",
+      "title_th": "Snap announces Specs Intelligence app for iPhone and Mac, cellular variant of Specs",
+      "summary_th": "After unveiling the design of its consumer-grade Spectacles back in June, Snap is now announcing that they’ll be available for pre-order starting today with a new 5G carrying case. The company also introduced a new proactive AI agent called Specs Intelligence, which despite being Specs branded, will be available on iPhone and Mac regardless of if you own a pair. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
       "category": "gadget",
       "title_en": "WhatsApp may soon let iPhone users add a third account",
       "summary_en": "After recently letting iPhone users add a second account to the same app, WhatsApp is now working on expanding support to up to three accounts. Here are the details. more…",
@@ -457,30 +481,6 @@
       "published": "Wed, 16 Sep 2026 22:00:00 +0000",
       "title_th": "Upgrade your Mac desk setup with the Sihoo B300 Pro for under $300",
       "summary_th": "A Mac desk setup usually starts with the computer, maybe a display, and a few favorite accessories. But the chair deserves a place on that upgrade list, too. It’s what supports you. Whether you spend your day writing, editing photos, or moving between meetings, it’s something you use in every part of the workday. The Sihoo B300 Pro puts adjustability at the center of that setup. It combines 4D MicroFit Lumbar Support, 6D All-around Armrests, backrest and seat depth adjustments, an intelligent recline system, and breathable mesh. Together, those features give you more ways to tailor the chair to your body and the way you work. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Judge scrutinizes Musk’s move to drop Apple from antitrust lawsuit involving OpenAI",
-      "summary_en": "Federal judge Mark Pittman wants details on any agreement that may have led Elon Musk’s companies to drop their antitrust claims against Apple. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/Meta-community-notes-now-open-to-contributors-as-Musk-threatens-to-fix-them-on-X.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/16/judge-scrutinizes-musks-move-to-drop-apple-from-antitrust-lawsuit-involving-openai/",
-      "published": "Wed, 16 Sep 2026 21:26:54 +0000",
-      "title_th": "Judge scrutinizes Musk’s move to drop Apple from antitrust lawsuit involving OpenAI",
-      "summary_th": "Federal judge Mark Pittman wants details on any agreement that may have led Elon Musk’s companies to drop their antitrust claims against Apple. Here are the details. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "iOS 27.2 will help users move data and settings from an old app to its replacement",
-      "summary_en": "Starting with iOS 27.2, developers will be able to offer users a way to move their data and settings from an existing app to its designated replacement. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/app-migration.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/16/ios-27-2-will-help-users-move-data-and-settings-from-an-old-app-to-its-replacement/",
-      "published": "Wed, 16 Sep 2026 21:03:28 +0000",
-      "title_th": "iOS 27.2 will help users move data and settings from an old app to its replacement",
-      "summary_th": "Starting with iOS 27.2, developers will be able to offer users a way to move their data and settings from an existing app to its designated replacement. Here are the details. more…"
     },
     {
       "source": "9to5Google",
@@ -656,9 +656,9 @@
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 673.31,
-      "change": 3.07,
-      "change_pct": 0.46
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "DELTA.BK",
@@ -669,126 +669,5 @@
       "change_pct": 0.0
     }
   ],
-  "reviews": [
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "iPhone 18 Pro Review: All About that Chip",
-      "video_id": "ohqxP8EEumo",
-      "link": "https://www.youtube.com/watch?v=ohqxP8EEumo",
-      "thumbnail": "https://i4.ytimg.com/vi/ohqxP8EEumo/hqdefault.jpg",
-      "published": "2026-09-16T12:01:27+00:00",
-      "title_th": "iPhone 18 Pro Review: All About that Chip"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "iPhone Duo: What We Missed!",
-      "video_id": "6D__H_DO2Xk",
-      "link": "https://www.youtube.com/watch?v=6D__H_DO2Xk",
-      "thumbnail": "https://i3.ytimg.com/vi/6D__H_DO2Xk/hqdefault.jpg",
-      "published": "2026-09-12T21:36:57+00:00",
-      "title_th": "iPhone Duo: What We Missed!"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "iPhone 18 Pro/Duo Impressions: Mogged",
-      "video_id": "Od6M0AXpcxQ",
-      "link": "https://www.youtube.com/watch?v=Od6M0AXpcxQ",
-      "thumbnail": "https://i4.ytimg.com/vi/Od6M0AXpcxQ/hqdefault.jpg",
-      "published": "2026-09-10T07:29:55+00:00",
-      "title_th": "iPhone 18 Pro/Duo Impressions: Mogged"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "The Gold Standard... The New Lawn Mower Ultra Gen 6 by @Manscaped",
-      "video_id": "PX9QhKZJUeU",
-      "link": "https://www.youtube.com/shorts/PX9QhKZJUeU",
-      "thumbnail": "https://i1.ytimg.com/vi/PX9QhKZJUeU/hqdefault.jpg",
-      "published": "2026-09-16T15:43:49+00:00",
-      "title_th": "The Gold Standard... The New Lawn Mower Ultra Gen 6 by @Manscaped"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "The Ultimate Adventure Camera...",
-      "video_id": "PDytCGbgyvo",
-      "link": "https://www.youtube.com/shorts/PDytCGbgyvo",
-      "thumbnail": "https://i1.ytimg.com/vi/PDytCGbgyvo/hqdefault.jpg",
-      "published": "2026-09-15T20:57:17+00:00",
-      "title_th": "The Ultimate Adventure Camera..."
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "Unboxing a 170kg Desktop Factory #InfiMaker",
-      "video_id": "w_iHZi4fb8k",
-      "link": "https://www.youtube.com/watch?v=w_iHZi4fb8k",
-      "thumbnail": "https://i4.ytimg.com/vi/w_iHZi4fb8k/hqdefault.jpg",
-      "published": "2026-09-10T15:00:03+00:00",
-      "title_th": "Unboxing a 170kg Desktop Factory #InfiMaker"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "การนอน คือกระดุมเม็ดแรกของวันพรุ่งนี้",
-      "video_id": "u13IpNZNcrE",
-      "link": "https://www.youtube.com/shorts/u13IpNZNcrE",
-      "thumbnail": "https://i2.ytimg.com/vi/u13IpNZNcrE/hqdefault.jpg",
-      "published": "2026-09-16T23:00:26+00:00",
-      "title_th": "การนอน คือกระดุมเม็ดแรกของวันพรุ่งนี้"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "ฉีดไขมันเข้าเบ้า เยาว์วัย ไม่อันตราย ?",
-      "video_id": "8LrLPg40AwM",
-      "link": "https://www.youtube.com/shorts/8LrLPg40AwM",
-      "thumbnail": "https://i1.ytimg.com/vi/8LrLPg40AwM/hqdefault.jpg",
-      "published": "2026-09-16T03:00:33+00:00",
-      "title_th": "ฉีดไขมันเข้าเบ้า เยาว์วัย ไม่อันตราย ?"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "iOS27 สามารถ Undo การจัดหน้าโฮมได้!",
-      "video_id": "v6lO4NW-dn4",
-      "link": "https://www.youtube.com/shorts/v6lO4NW-dn4",
-      "thumbnail": "https://i3.ytimg.com/vi/v6lO4NW-dn4/hqdefault.jpg",
-      "published": "2026-09-16T03:00:02+00:00",
-      "title_th": "iOS27 สามารถ Undo การจัดหน้าโฮมได้!"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "รีวิว HUAWEI Watch GT 7 Pro สมาร์ทวอทช์เรือนหรู สายสุขภาพตัวจริง แบตอึดยาวนาน 21 วัน",
-      "video_id": "q2GEwaL5FeU",
-      "link": "https://www.youtube.com/watch?v=q2GEwaL5FeU",
-      "thumbnail": "https://i2.ytimg.com/vi/q2GEwaL5FeU/hqdefault.jpg",
-      "published": "2026-09-14T12:00:35+00:00",
-      "title_th": "รีวิว HUAWEI Watch GT 7 Pro สมาร์ทวอทช์เรือนหรู สายสุขภาพตัวจริง แบตอึดยาวนาน 21 วัน"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "Samsung Galaxy S25 Ultra กับ S26 FE ราคาห่างกันเท่านี้ บอกเลยหวานเจี๊ยบ #GalaxyS26FE #GalaxyS25Ultra",
-      "video_id": "XaDsw7mnaRY",
-      "link": "https://www.youtube.com/shorts/XaDsw7mnaRY",
-      "thumbnail": "https://i1.ytimg.com/vi/XaDsw7mnaRY/hqdefault.jpg",
-      "published": "2026-09-13T15:32:40+00:00",
-      "title_th": "Samsung Galaxy S25 Ultra กับ S26 FE ราคาห่างกันเท่านี้ บอกเลยหวานเจี๊ยบ #GalaxyS26FE #GalaxyS25Ultra"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "iPhone , Samsung ขึ้นราคาแพ็คคู่/ AI อันตรายเกินควบคุม/ vivo X500 / OPPON Find X20/ Xiaomi 18 Fold",
-      "video_id": "jLRvekZ0lWk",
-      "link": "https://www.youtube.com/watch?v=jLRvekZ0lWk",
-      "thumbnail": "https://i3.ytimg.com/vi/jLRvekZ0lWk/hqdefault.jpg",
-      "published": "2026-09-12T13:00:02+00:00",
-      "title_th": "iPhone , Samsung ขึ้นราคาแพ็คคู่/ AI อันตรายเกินควบคุม/ vivo X500 / OPPON Find X20/ Xiaomi 18 Fold"
-    }
-  ]
+  "reviews": []
 }
