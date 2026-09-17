@@ -1,29 +1,53 @@
 {
-  "generated_at": "2026-09-17T02:12:36.921656+00:00",
+  "generated_at": "2026-09-17T08:20:52.036325+00:00",
   "count": 50,
   "articles": [
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "gadget",
-      "title_en": "Snap tries to make the case again for its $2,200 smart glasses",
-      "summary_en": "Snap unveiled new features for its smart glasses this week.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/SPECS26_Home-Menu.png?resize=1200,675",
-      "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-      "published": "Thu, 17 Sep 2026 00:58:49 +0000",
-      "title_th": "Snap tries to make the case again for its $2,200 smart glasses",
-      "summary_th": "Snap unveiled new features for its smart glasses this week."
+      "title_en": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "summary_en": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Treble-Physical-AI-PR-image_no-brand-1.jpeg?resize=1200,670",
+      "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "published": "Thu, 17 Sep 2026 05:00:00 +0000",
+      "title_th": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "summary_th": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies"
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Al Gore has a surprisingly calm take on the AI data center backlash",
+      "title_en": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "summary_en": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
+      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "published": "Thu, 17 Sep 2026 03:30:00 +0000",
+      "title_th": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "summary_th": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Snap tries to make the case again for its $2,200 smart glasses",
+      "summary_en": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/SPECS26_Home-Menu.png?resize=1200,675",
+      "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "published": "Thu, 17 Sep 2026 00:58:49 +0000",
+      "title_th": "Snap tries to make the case again for its $2,200 smart glasses",
+      "summary_th": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Al Gore says the real AI risk isn’t data centers",
       "summary_en": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-812005316.jpg?w=1024",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Al-Gore.jpg?resize=1200,800",
       "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
       "published": "Wed, 16 Sep 2026 23:43:09 +0000",
-      "title_th": "Al Gore has a surprisingly calm take on the AI data center backlash",
+      "title_th": "Al Gore says the real AI risk isn’t data centers",
       "summary_th": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed."
     },
     {
@@ -37,30 +61,6 @@
       "published": "Wed, 16 Sep 2026 22:37:08 +0000",
       "title_th": "US automakers could soon be forced to include AM radio for free",
       "summary_th": "The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Noise wants to help everyday people become paid content creators",
-      "summary_en": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/NOISE.png?resize=1200,803",
-      "link": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
-      "published": "Wed, 16 Sep 2026 21:35:00 +0000",
-      "title_th": "Noise wants to help everyday people become paid content creators",
-      "summary_th": "Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "summary_en": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "published": "Wed, 16 Sep 2026 21:07:24 +0000",
-      "title_th": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "summary_th": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation."
     },
     {
       "source": "The Verge",
@@ -305,6 +305,18 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "gadget",
+      "title_en": "An iOS 27 bug can temporarily freeze your iPhone",
+      "summary_en": "If your newly updated iPhone suddenly freezes, don't panic. Here's how to fix it.",
+      "image": "https://www.engadget.com/img/gallery/an-ios-27-bug-can-temporarily-freeze-your-iphone/l-intro-1789625007.jpg",
+      "link": "https://www.engadget.com/2260916/ios-27-bug-temporarily-freeze-iphone/",
+      "published": "Thu, 17 Sep 2026 06:08:09 +0000",
+      "title_th": "An iOS 27 bug can temporarily freeze your iPhone",
+      "summary_th": "If your newly updated iPhone suddenly freezes, don't panic. Here's how to fix it."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "review",
       "title_en": "Snap Specs hands on: Standalone AR glasses are here",
       "summary_en": "The glasses come with AR apps that actually feel useful, but is that enough to get people excited for the $2,195 device?",
@@ -349,18 +361,6 @@
       "published": "Wed, 16 Sep 2026 21:18:43 +0000",
       "title_th": "Apple's redesigned Health app is available now in the iOS 27.2 developer beta",
       "summary_th": "New features like Health Age bring Apple's app more in line with competitors like Whoop and Oura."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Hyper Light Drifter dev at risk of closing after laying off 'nearly everyone'",
-      "summary_en": "A tough end for another indie darling.",
-      "image": "https://www.engadget.com/img/gallery/hyper-light-drifter-dev-at-risk-of-closing-after-laying-off-nearly-everyone/l-intro-1789592859.jpg",
-      "link": "https://www.engadget.com/2260787/hyper-light-drifter-dev-at-risk-of-closing-after-laying-off-nearly-everyone/",
-      "published": "Wed, 16 Sep 2026 21:11:21 +0000",
-      "title_th": "Hyper Light Drifter dev at risk of closing after laying off 'nearly everyone'",
-      "summary_th": "A tough end for another indie darling."
     },
     {
       "source": "IEEE Spectrum",
@@ -425,6 +425,18 @@
     {
       "source": "9to5Mac",
       "flag": "",
+      "category": "gadget",
+      "title_en": "Apple rolls out first Release Candidates for macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1",
+      "summary_en": "After releasing macOS 27.2 beta 1 earlier today, Apple is now rolling out the first RCs of macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/macOS-Tahoe.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/16/apple-rolls-out-first-release-candidates-for-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
+      "published": "Thu, 17 Sep 2026 02:18:51 +0000",
+      "title_th": "Apple rolls out first Release Candidates for macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1",
+      "summary_th": "After releasing macOS 27.2 beta 1 earlier today, Apple is now rolling out the first RCs of macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
       "category": "review",
       "title_en": "Photographer Tyler Stalman reviews the iPhone 18 Pro’s new camera with variable aperture",
       "summary_en": "Photographer Tyler Stalman is back with his annual iPhone camera review. Here’s what he had to say about the iPhone 18 Pro’s new variable aperture, photographic styles, Apple Reference Image, and more. more…",
@@ -469,18 +481,6 @@
       "published": "Wed, 16 Sep 2026 22:12:09 +0000",
       "title_th": "Tripsy’s iOS 27 update includes smarter imports, on-device AI insights, more",
       "summary_th": "Travel planning app Tripsy was updated this week with support for iOS 27’s extra-large widget, a new Smart Import tool, AI-powered features, and more. Here are the details. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Upgrade your Mac desk setup with the Sihoo B300 Pro for under $300",
-      "summary_en": "A Mac desk setup usually starts with the computer, maybe a display, and a few favorite accessories. But the chair deserves a place on that upgrade list, too. It’s what supports you. Whether you spend your day writing, editing photos, or moving between meetings, it’s something you use in every part of the workday. The Sihoo B300 Pro puts adjustability at the center of that setup. It combines 4D MicroFit Lumbar Support, 6D All-around Armrests, backrest and seat depth adjustments, an intelligent recline system, and breathable mesh. Together, those features give you more ways to tailor the chair to your body and the way you work. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Sihoo-B300-Pro.webp?resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/16/upgrade-mac-desk-setup-with-sihoo-b300-pro-under-300/",
-      "published": "Wed, 16 Sep 2026 22:00:00 +0000",
-      "title_th": "Upgrade your Mac desk setup with the Sihoo B300 Pro for under $300",
-      "summary_th": "A Mac desk setup usually starts with the computer, maybe a display, and a few favorite accessories. But the chair deserves a place on that upgrade list, too. It’s what supports you. Whether you spend your day writing, editing photos, or moving between meetings, it’s something you use in every part of the workday. The Sihoo B300 Pro puts adjustability at the center of that setup. It combines 4D MicroFit Lumbar Support, 6D All-around Armrests, backrest and seat depth adjustments, an intelligent recline system, and breathable mesh. Together, those features give you more ways to tailor the chair to your body and the way you work. more…"
     },
     {
       "source": "9to5Google",
@@ -656,18 +656,139 @@
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 673.31,
+      "change": 3.07,
+      "change_pct": 0.46
     },
     {
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 233.0,
-      "change": 0.0,
-      "change_pct": 0.0
+      "price": 237.0,
+      "change": 4.0,
+      "change_pct": 1.72
     }
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "iPhone 18 Pro Review: All About that Chip",
+      "video_id": "ohqxP8EEumo",
+      "link": "https://www.youtube.com/watch?v=ohqxP8EEumo",
+      "thumbnail": "https://i4.ytimg.com/vi/ohqxP8EEumo/hqdefault.jpg",
+      "published": "2026-09-16T12:01:27+00:00",
+      "title_th": "iPhone 18 Pro Review: All About that Chip"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "iPhone Duo: What We Missed!",
+      "video_id": "6D__H_DO2Xk",
+      "link": "https://www.youtube.com/watch?v=6D__H_DO2Xk",
+      "thumbnail": "https://i3.ytimg.com/vi/6D__H_DO2Xk/hqdefault.jpg",
+      "published": "2026-09-12T21:36:57+00:00",
+      "title_th": "iPhone Duo: What We Missed!"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "iPhone 18 Pro/Duo Impressions: Mogged",
+      "video_id": "Od6M0AXpcxQ",
+      "link": "https://www.youtube.com/watch?v=Od6M0AXpcxQ",
+      "thumbnail": "https://i4.ytimg.com/vi/Od6M0AXpcxQ/hqdefault.jpg",
+      "published": "2026-09-10T07:29:55+00:00",
+      "title_th": "iPhone 18 Pro/Duo Impressions: Mogged"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "The Gold Standard... The New Lawn Mower Ultra Gen 6 by @Manscaped",
+      "video_id": "PX9QhKZJUeU",
+      "link": "https://www.youtube.com/shorts/PX9QhKZJUeU",
+      "thumbnail": "https://i1.ytimg.com/vi/PX9QhKZJUeU/hqdefault.jpg",
+      "published": "2026-09-16T15:43:49+00:00",
+      "title_th": "The Gold Standard... The New Lawn Mower Ultra Gen 6 by @Manscaped"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "The Ultimate Adventure Camera...",
+      "video_id": "PDytCGbgyvo",
+      "link": "https://www.youtube.com/shorts/PDytCGbgyvo",
+      "thumbnail": "https://i1.ytimg.com/vi/PDytCGbgyvo/hqdefault.jpg",
+      "published": "2026-09-15T20:57:17+00:00",
+      "title_th": "The Ultimate Adventure Camera..."
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Unboxing a 170kg Desktop Factory #InfiMaker",
+      "video_id": "w_iHZi4fb8k",
+      "link": "https://www.youtube.com/watch?v=w_iHZi4fb8k",
+      "thumbnail": "https://i4.ytimg.com/vi/w_iHZi4fb8k/hqdefault.jpg",
+      "published": "2026-09-10T15:00:03+00:00",
+      "title_th": "Unboxing a 170kg Desktop Factory #InfiMaker"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "สรุปงาน GCNT Expo 2026 พลิกวิกฤตโลก สู่โอกาสของประเทศไทย",
+      "video_id": "kCPmVt8hbjU",
+      "link": "https://www.youtube.com/watch?v=kCPmVt8hbjU",
+      "thumbnail": "https://i4.ytimg.com/vi/kCPmVt8hbjU/hqdefault.jpg",
+      "published": "2026-09-17T07:24:39+00:00",
+      "title_th": "สรุปงาน GCNT Expo 2026 พลิกวิกฤตโลก สู่โอกาสของประเทศไทย"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "การนอน คือกระดุมเม็ดแรกของวันพรุ่งนี้",
+      "video_id": "u13IpNZNcrE",
+      "link": "https://www.youtube.com/shorts/u13IpNZNcrE",
+      "thumbnail": "https://i2.ytimg.com/vi/u13IpNZNcrE/hqdefault.jpg",
+      "published": "2026-09-16T23:00:26+00:00",
+      "title_th": "การนอน คือกระดุมเม็ดแรกของวันพรุ่งนี้"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "ฉีดไขมันเข้าเบ้า เยาว์วัย ไม่อันตราย ?",
+      "video_id": "8LrLPg40AwM",
+      "link": "https://www.youtube.com/shorts/8LrLPg40AwM",
+      "thumbnail": "https://i1.ytimg.com/vi/8LrLPg40AwM/hqdefault.jpg",
+      "published": "2026-09-16T03:00:33+00:00",
+      "title_th": "ฉีดไขมันเข้าเบ้า เยาว์วัย ไม่อันตราย ?"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รีวิว HUAWEI Watch GT 7 Pro สมาร์ทวอทช์เรือนหรู สายสุขภาพตัวจริง แบตอึดยาวนาน 21 วัน",
+      "video_id": "q2GEwaL5FeU",
+      "link": "https://www.youtube.com/watch?v=q2GEwaL5FeU",
+      "thumbnail": "https://i2.ytimg.com/vi/q2GEwaL5FeU/hqdefault.jpg",
+      "published": "2026-09-14T12:00:35+00:00",
+      "title_th": "รีวิว HUAWEI Watch GT 7 Pro สมาร์ทวอทช์เรือนหรู สายสุขภาพตัวจริง แบตอึดยาวนาน 21 วัน"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "Samsung Galaxy S25 Ultra กับ S26 FE ราคาห่างกันเท่านี้ บอกเลยหวานเจี๊ยบ #GalaxyS26FE #GalaxyS25Ultra",
+      "video_id": "XaDsw7mnaRY",
+      "link": "https://www.youtube.com/shorts/XaDsw7mnaRY",
+      "thumbnail": "https://i1.ytimg.com/vi/XaDsw7mnaRY/hqdefault.jpg",
+      "published": "2026-09-13T15:32:40+00:00",
+      "title_th": "Samsung Galaxy S25 Ultra กับ S26 FE ราคาห่างกันเท่านี้ บอกเลยหวานเจี๊ยบ #GalaxyS26FE #GalaxyS25Ultra"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "iPhone , Samsung ขึ้นราคาแพ็คคู่/ AI อันตรายเกินควบคุม/ vivo X500 / OPPON Find X20/ Xiaomi 18 Fold",
+      "video_id": "jLRvekZ0lWk",
+      "link": "https://www.youtube.com/watch?v=jLRvekZ0lWk",
+      "thumbnail": "https://i3.ytimg.com/vi/jLRvekZ0lWk/hqdefault.jpg",
+      "published": "2026-09-12T13:00:02+00:00",
+      "title_th": "iPhone , Samsung ขึ้นราคาแพ็คคู่/ AI อันตรายเกินควบคุม/ vivo X500 / OPPON Find X20/ Xiaomi 18 Fold"
+    }
+  ]
 }
