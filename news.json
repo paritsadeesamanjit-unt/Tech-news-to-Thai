@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-17T23:29:05.729804+00:00",
+  "generated_at": "2026-09-18T01:59:57.552597+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+      "summary_en": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/Mazama-oregon.jpeg?resize=1200,675",
+      "link": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+      "published": "Fri, 18 Sep 2026 00:02:36 +0000",
+      "title_th": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+      "summary_th": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "summary_en": "The round values the data center giant at $30.9 billion.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "published": "Thu, 17 Sep 2026 23:25:52 +0000",
+      "title_th": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "summary_th": "The round values the data center giant at $30.9 billion."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Google DeepMind launches institute to widen the AGI debate",
+      "summary_en": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1481927442.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "published": "Thu, 17 Sep 2026 23:21:17 +0000",
+      "title_th": "Google DeepMind launches institute to widen the AGI debate",
+      "summary_th": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\""
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -25,42 +61,6 @@
       "published": "Thu, 17 Sep 2026 22:34:09 +0000",
       "title_th": "PrismML hopes its tiny LLM will change how we all use AI",
       "summary_th": "If AI lab PrismML isn't on your radar yet, it should be."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "The FAA’s plan to fix air traffic? $875M worth of AI",
-      "summary_en": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/NYC_Archer_United_3.png?resize=1200,802",
-      "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-      "published": "Thu, 17 Sep 2026 22:14:59 +0000",
-      "title_th": "The FAA’s plan to fix air traffic? $875M worth of AI",
-      "summary_th": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "review",
-      "title_en": "The fix for rogue AI agents could be more AI",
-      "summary_en": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-      "published": "Thu, 17 Sep 2026 20:34:47 +0000",
-      "title_th": "The fix for rogue AI agents could be more AI",
-      "summary_th": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "summary_en": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1014496212.jpg?resize=1200,600",
-      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-      "published": "Thu, 17 Sep 2026 20:34:24 +0000",
-      "title_th": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "summary_th": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it."
     },
     {
       "source": "The Verge",
@@ -426,6 +426,30 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "Judge rejects OpenAI’s bid to see X’s confidential settlement with Apple in antitrust lawsuit",
+      "summary_en": "Judge Mark Pittman today rejected OpenAI’s request to obtain X and SpaceXAI’s confidential settlement agreement with Apple in their ongoing antitrust case. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/Meta-community-notes-now-open-to-contributors-as-Musk-threatens-to-fix-them-on-X.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/17/judge-rejects-openais-bid-to-see-xs-confidential-settlement-with-apple-in-antitrust-lawsuit/",
+      "published": "Fri, 18 Sep 2026 01:14:35 +0000",
+      "title_th": "Judge rejects OpenAI’s bid to see X’s confidential settlement with Apple in antitrust lawsuit",
+      "summary_th": "Judge Mark Pittman today rejected OpenAI’s request to obtain X and SpaceXAI’s confidential settlement agreement with Apple in their ongoing antitrust case. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Report: Apple leads slowing true wireless stereo market as open-ear earbuds gain ground",
+      "summary_en": "Apple reportedly maintained its lead in the global true wireless stereo (TWS) market and saw modest year-over-year growth, even as overall shipments declined. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Apple-AirPods-Pro-3-lifestyle-01-250909.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/17/report-apple-leads-slowing-true-wireless-stereo-market-as-open-ear-earbuds-gain-ground/",
+      "published": "Fri, 18 Sep 2026 00:45:55 +0000",
+      "title_th": "Report: Apple leads slowing true wireless stereo market as open-ear earbuds gain ground",
+      "summary_th": "Apple reportedly maintained its lead in the global true wireless stereo (TWS) market and saw modest year-over-year growth, even as overall shipments declined. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Apple pushes UK court to lift secrecy around encryption backdoor order",
       "summary_en": "In a hearing today, Apple challenged the UK government’s refusal to publicly confirm whether it has issued an order requiring the company to provide access to encrypted user data. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/apple-icloud-advanced-data-protection.jpg?quality=82&strip=all&resize=1200,628",
@@ -459,28 +483,16 @@
       "summary_th": "9to5Mac is brought to you by CleanMyMac by MacPaw . With the release of macOS 27 Golden Gate, use CleanMyMac first to free up space, optimize your system, and ensure your new Mac runs at 100% on day one. Learn more . macOS 27 Golden Gate doesn’t give the Photos app a dramatic redesign. Instead, Photos gains a surprisingly broad set of various improvements this year. These range from Apple Intelligence-powered editing, new ways to organize and sort your collection, better sharing tools, and much more. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple showcases iPhone 18 Pro camera with new ‘What Holds Us’ photography exhibition",
-      "summary_en": "Apple is holding a new photography exhibition in New York City this weekend to showcase the iPhone 18 Pro camera. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/what-holds-us.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/17/apple-showcases-iphone-18-pro-camera-with-new-what-holds-us-photography-exhibition/",
-      "published": "Thu, 17 Sep 2026 21:42:41 +0000",
-      "title_th": "Apple showcases iPhone 18 Pro camera with new ‘What Holds Us’ photography exhibition",
-      "summary_th": "Apple is holding a new photography exhibition in New York City this weekend to showcase the iPhone 18 Pro camera. Here are the details. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Out-of-warranty iPhone 18 Pro batteries are more expensive to replace",
-      "summary_en": "Apple has updated its “ Apple Service and Repair for iPhone ” support page with service prices for the iPhone 18 Pro and the iPhone 18 Pro Max, revealing a pricier battery replacement. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-battery.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/17/out-of-warranty-iphone-18-pro-batteries-are-more-expensive-to-replace/",
-      "published": "Thu, 17 Sep 2026 20:47:09 +0000",
-      "title_th": "Out-of-warranty iPhone 18 Pro batteries are more expensive to replace",
-      "summary_th": "Apple has updated its “ Apple Service and Repair for iPhone ” support page with service prices for the iPhone 18 Pro and the iPhone 18 Pro Max, revealing a pricier battery replacement. Here are the details. more…"
+      "title_en": "Google Keep update tweaks the homescreen widget on Android",
+      "summary_en": "Google Keep for Android has rolled out a small tweak to the “Note collection” widget that shows a feed on your homescreen. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-keep-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/17/google-keep-widget-tweak/",
+      "published": "Thu, 17 Sep 2026 23:09:21 +0000",
+      "title_th": "Google Keep update tweaks the homescreen widget on Android",
+      "summary_th": "Google Keep for Android has rolled out a small tweak to the “Note collection” widget that shows a feed on your homescreen. more…"
     },
     {
       "source": "9to5Google",
@@ -529,18 +541,6 @@
       "published": "Thu, 17 Sep 2026 18:02:22 +0000",
       "title_th": "Google goes in-depth, and a bit NSFW, on Noto 3D emoji as Android rollout expands",
       "summary_th": "Google Design published a more detailed explanation of Noto 3D today as it expands beyond Pixel devices . more…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Google ‘AI contribution pilot’ tests paying websites when they’re used in AI results",
-      "summary_en": "Through a new “AI contribution pilot,” Google is testing directly paying websites and publishers when their content is used to flesh out AI Overviews and other AI results. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/05/AI-overviews-io-24.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/17/google-ai-contribution-pilot-tests-paying-websites-when-theyre-used-in-ai-results/",
-      "published": "Thu, 17 Sep 2026 16:50:00 +0000",
-      "title_th": "Google ‘AI contribution pilot’ tests paying websites when they’re used in AI results",
-      "summary_th": "Through a new “AI contribution pilot,” Google is testing directly paying websites and publishers when their content is used to flesh out AI Overviews and other AI results. more…"
     },
     {
       "source": "Electrek",
@@ -608,57 +608,57 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 219.34,
-      "change": 5.44,
-      "change_pct": 2.54
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 366.2,
-      "change": 8.12,
-      "change_pct": 2.27
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 347.33,
-      "change": 4.46,
-      "change_pct": 1.3
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 497.75,
-      "change": 7.45,
-      "change_pct": 1.52
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 337.0,
-      "change": 4.59,
-      "change_pct": 1.38
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 251.19,
-      "change": 5.23,
-      "change_pct": 2.13
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 682.31,
-      "change": 9.0,
-      "change_pct": 1.34
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "DELTA.BK",
@@ -669,126 +669,5 @@
       "change_pct": 3.0
     }
   ],
-  "reviews": [
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "iPhone 18 Pro Review: All About that Chip",
-      "video_id": "ohqxP8EEumo",
-      "link": "https://www.youtube.com/watch?v=ohqxP8EEumo",
-      "thumbnail": "https://i4.ytimg.com/vi/ohqxP8EEumo/hqdefault.jpg",
-      "published": "2026-09-16T12:01:27+00:00",
-      "title_th": "iPhone 18 Pro Review: All About that Chip"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "iPhone Duo: What We Missed!",
-      "video_id": "6D__H_DO2Xk",
-      "link": "https://www.youtube.com/watch?v=6D__H_DO2Xk",
-      "thumbnail": "https://i3.ytimg.com/vi/6D__H_DO2Xk/hqdefault.jpg",
-      "published": "2026-09-12T21:36:57+00:00",
-      "title_th": "iPhone Duo: What We Missed!"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "iPhone 18 Pro/Duo Impressions: Mogged",
-      "video_id": "Od6M0AXpcxQ",
-      "link": "https://www.youtube.com/watch?v=Od6M0AXpcxQ",
-      "thumbnail": "https://i4.ytimg.com/vi/Od6M0AXpcxQ/hqdefault.jpg",
-      "published": "2026-09-10T07:29:55+00:00",
-      "title_th": "iPhone 18 Pro/Duo Impressions: Mogged"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "The Gold Standard... The New Lawn Mower Ultra Gen 6 by @Manscaped",
-      "video_id": "PX9QhKZJUeU",
-      "link": "https://www.youtube.com/shorts/PX9QhKZJUeU",
-      "thumbnail": "https://i1.ytimg.com/vi/PX9QhKZJUeU/hqdefault.jpg",
-      "published": "2026-09-16T15:43:49+00:00",
-      "title_th": "The Gold Standard... The New Lawn Mower Ultra Gen 6 by @Manscaped"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "The Ultimate Adventure Camera...",
-      "video_id": "PDytCGbgyvo",
-      "link": "https://www.youtube.com/shorts/PDytCGbgyvo",
-      "thumbnail": "https://i1.ytimg.com/vi/PDytCGbgyvo/hqdefault.jpg",
-      "published": "2026-09-15T20:57:17+00:00",
-      "title_th": "The Ultimate Adventure Camera..."
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "Unboxing a 170kg Desktop Factory #InfiMaker",
-      "video_id": "w_iHZi4fb8k",
-      "link": "https://www.youtube.com/watch?v=w_iHZi4fb8k",
-      "thumbnail": "https://i4.ytimg.com/vi/w_iHZi4fb8k/hqdefault.jpg",
-      "published": "2026-09-10T15:00:03+00:00",
-      "title_th": "Unboxing a 170kg Desktop Factory #InfiMaker"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "ทุกปัญหามีทางออก",
-      "video_id": "3cJDIJM3lmg",
-      "link": "https://www.youtube.com/shorts/3cJDIJM3lmg",
-      "thumbnail": "https://i4.ytimg.com/vi/3cJDIJM3lmg/hqdefault.jpg",
-      "published": "2026-09-17T23:00:21+00:00",
-      "title_th": "ทุกปัญหามีทางออก"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "สรุปงาน GCNT Expo 2026 พลิกวิกฤตโลก สู่โอกาสของประเทศไทย",
-      "video_id": "kCPmVt8hbjU",
-      "link": "https://www.youtube.com/watch?v=kCPmVt8hbjU",
-      "thumbnail": "https://i4.ytimg.com/vi/kCPmVt8hbjU/hqdefault.jpg",
-      "published": "2026-09-17T07:24:39+00:00",
-      "title_th": "สรุปงาน GCNT Expo 2026 พลิกวิกฤตโลก สู่โอกาสของประเทศไทย"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "การนอน คือกระดุมเม็ดแรกของวันพรุ่งนี้",
-      "video_id": "u13IpNZNcrE",
-      "link": "https://www.youtube.com/shorts/u13IpNZNcrE",
-      "thumbnail": "https://i2.ytimg.com/vi/u13IpNZNcrE/hqdefault.jpg",
-      "published": "2026-09-16T23:00:26+00:00",
-      "title_th": "การนอน คือกระดุมเม็ดแรกของวันพรุ่งนี้"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "รีวิว HUAWEI Watch GT 7 Pro สมาร์ทวอทช์เรือนหรู สายสุขภาพตัวจริง แบตอึดยาวนาน 21 วัน",
-      "video_id": "q2GEwaL5FeU",
-      "link": "https://www.youtube.com/watch?v=q2GEwaL5FeU",
-      "thumbnail": "https://i2.ytimg.com/vi/q2GEwaL5FeU/hqdefault.jpg",
-      "published": "2026-09-14T12:00:35+00:00",
-      "title_th": "รีวิว HUAWEI Watch GT 7 Pro สมาร์ทวอทช์เรือนหรู สายสุขภาพตัวจริง แบตอึดยาวนาน 21 วัน"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "Samsung Galaxy S25 Ultra กับ S26 FE ราคาห่างกันเท่านี้ บอกเลยหวานเจี๊ยบ #GalaxyS26FE #GalaxyS25Ultra",
-      "video_id": "XaDsw7mnaRY",
-      "link": "https://www.youtube.com/shorts/XaDsw7mnaRY",
-      "thumbnail": "https://i1.ytimg.com/vi/XaDsw7mnaRY/hqdefault.jpg",
-      "published": "2026-09-13T15:32:40+00:00",
-      "title_th": "Samsung Galaxy S25 Ultra กับ S26 FE ราคาห่างกันเท่านี้ บอกเลยหวานเจี๊ยบ #GalaxyS26FE #GalaxyS25Ultra"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "iPhone , Samsung ขึ้นราคาแพ็คคู่/ AI อันตรายเกินควบคุม/ vivo X500 / OPPON Find X20/ Xiaomi 18 Fold",
-      "video_id": "jLRvekZ0lWk",
-      "link": "https://www.youtube.com/watch?v=jLRvekZ0lWk",
-      "thumbnail": "https://i3.ytimg.com/vi/jLRvekZ0lWk/hqdefault.jpg",
-      "published": "2026-09-12T13:00:02+00:00",
-      "title_th": "iPhone , Samsung ขึ้นราคาแพ็คคู่/ AI อันตรายเกินควบคุม/ vivo X500 / OPPON Find X20/ Xiaomi 18 Fold"
-    }
-  ]
+  "reviews": []
 }
