@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T07:58:33.110293+00:00",
+  "generated_at": "2026-09-18T13:31:58.971728+00:00",
   "count": 50,
   "articles": [
     {
@@ -65,6 +65,18 @@
     {
       "source": "The Verge",
       "flag": "US",
+      "category": "software",
+      "title_en": "Flash floods can strike without warning — this new technology could change that",
+      "summary_en": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is over there, […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268746_new_technology_could_change_how_we_predict_flash_floods_for_good_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+      "published": "2026-09-18T07:00:00-04:00",
+      "title_th": "Flash floods can strike without warning — this new technology could change that",
+      "summary_th": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is over there, […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
       "category": "gadget",
       "title_en": "Waymo says Singapore will be its next international robotaxi city",
       "summary_en": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in \"the coming months,\" the company says, in preparation of mapping and autonomous testing with human safety drivers behind the wheel in 2027. Waymo says […]",
@@ -109,18 +121,6 @@
       "published": "2026-09-17T13:14:07-04:00",
       "title_th": "Save $30 or more on a refurbished Apple TV 4K",
       "summary_th": "Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lower than the new retail price. The […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Xbox’s clever disc-to-digital feature was 15 years in the making",
-      "summary_en": "When Xbox announced a new feature last month that lets you digitize existing physical game collections, I immediately thought of the Xbox One. Disc-to-digital seems like a clever new feature for Xbox, perfectly timed as a response to Sony killing PlayStation discs. But the reality is that it has been 15 years in the making […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25480192/247141_NOTEPAD_X_BOX_CVIRGINIA.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad",
-      "published": "2026-09-17T12:00:00-04:00",
-      "title_th": "Xbox’s clever disc-to-digital feature was 15 years in the making",
-      "summary_th": "When Xbox announced a new feature last month that lets you digitize existing physical game collections, I immediately thought of the Xbox One. Disc-to-digital seems like a clever new feature for Xbox, perfectly timed as a response to Sony killing PlayStation discs. But the reality is that it has been 15 years in the making […]"
     },
     {
       "source": "Ars Technica",
@@ -185,62 +185,98 @@
     {
       "source": "Wired",
       "flag": "US",
+      "category": "ai",
+      "title_en": "Meta’s Copyright System Is Being Weaponized Against Albanian Protesters",
+      "summary_en": "After three months of daily anti-government protests—dubbed the Flamingo Revolution—the sudden mass suspension of Instagram accounts has led to fears of brigading against demonstrators.",
+      "image": "https://media.wired.com/photos/6aaa98e271eb023ce9cd04f2/master/pass/091626-Flaminggo%20Albania%20Meta.jpg",
+      "link": "https://www.wired.com/story/metas-copyright-system-is-being-weaponized-against-albanian-protesters/",
+      "published": "Fri, 18 Sep 2026 13:00:00 +0000",
+      "title_th": "Meta’s Copyright System Is Being Weaponized Against Albanian Protesters",
+      "summary_th": "After three months of daily anti-government protests—dubbed the Flamingo Revolution—the sudden mass suspension of Instagram accounts has led to fears of brigading against demonstrators."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "He Won the Nobel Prize for Protein Design. Now He Uses AI to Create Molecules Not Found in Nature",
+      "summary_en": "David Baker spoke with WIRED en Español about where biological design is headed next and the great potential and risks of taking biology outside the bounds of the natural world.",
+      "image": "https://media.wired.com/photos/6aa98f4f37ffd297aa0995f9/master/pass/WR-Nobel.jpg",
+      "link": "https://www.wired.com/story/nobel-prize-protein-design-now-using-ai-to-create-molecules-beyond-nature/",
+      "published": "Fri, 18 Sep 2026 10:30:00 +0000",
+      "title_th": "He Won the Nobel Prize for Protein Design. Now He Uses AI to Create Molecules Not Found in Nature",
+      "summary_th": "David Baker spoke with WIRED en Español about where biological design is headed next and the great potential and risks of taking biology outside the bounds of the natural world."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "The Leftist Split Over AI Doom",
+      "summary_en": "The left wants AI regulation. They just can't agree on what it should look like or how concerned they should be.",
+      "image": "https://media.wired.com/photos/6aa9a061b69918de8da37621/master/pass/DSA-split-AI-regulation.jpg",
+      "link": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
+      "published": "Fri, 18 Sep 2026 10:15:00 +0000",
+      "title_th": "The Leftist Split Over AI Doom",
+      "summary_th": "The left wants AI regulation. They just can't agree on what it should look like or how concerned they should be."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
       "category": "gadget",
-      "title_en": "Dell Coupon Codes: 20% Off for September 2026",
-      "summary_en": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-      "image": "https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg",
-      "link": "https://www.wired.com/story/dell-coupon-code/",
-      "published": "Fri, 18 Sep 2026 05:00:00 +0000",
-      "title_th": "Dell Coupon Codes: 20% Off for September 2026",
-      "summary_th": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech."
+      "title_en": "Mophie’s Extendable MagSafe 3-in-1 Charging Stand Is 50 Percent Off",
+      "summary_en": "Charge your trio of Apple gadgets–iPhone, Apple Watch, and AirPods–with one of my favorite telescopic stands.",
+      "image": "https://media.wired.com/photos/6aacd7dc1ceb32b96a8cbdc7/master/pass/One-of-My-Favorite-Apple-3-in-1-Charging-Stands-Is-Half-Off-Today.jpg",
+      "link": "https://www.wired.com/story/mophie-magsafe-3-in-1-wireless-charging-stand-deal/",
+      "published": "Fri, 18 Sep 2026 10:00:00 +0000",
+      "title_th": "Mophie’s Extendable MagSafe 3-in-1 Charging Stand Is 50 Percent Off",
+      "summary_th": "Charge your trio of Apple gadgets–iPhone, Apple Watch, and AirPods–with one of my favorite telescopic stands."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Dyson Promo Codes: 25% Off in September 2026",
-      "summary_en": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
-      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
-      "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
-      "published": "Fri, 18 Sep 2026 05:00:00 +0000",
-      "title_th": "Dyson Promo Codes: 25% Off in September 2026",
-      "summary_th": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more."
+      "title_en": "Napster Is Back, and It Wants to Digitally Clone Teachers",
+      "summary_en": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom.",
+      "image": "https://media.wired.com/photos/6aac1a9a4ac258f87bea84bd/master/pass/Napster_lead.jpg",
+      "link": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
+      "published": "Fri, 18 Sep 2026 09:15:00 +0000",
+      "title_th": "Napster Is Back, and It Wants to Digitally Clone Teachers",
+      "summary_th": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom."
     },
     {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
-      "category": "ai",
-      "title_en": "iRobot Promo Code: 15% Off",
-      "summary_en": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration.",
-      "image": "https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png",
-      "link": "https://www.wired.com/story/irobot-promo-code/",
-      "published": "Fri, 18 Sep 2026 05:00:00 +0000",
-      "title_th": "iRobot Promo Code: 15% Off",
-      "summary_th": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration."
+      "category": "review",
+      "title_en": "The Download: AI’s extinction risk and bioweapons threat",
+      "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260917_RoundTable2.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+      "published": "Fri, 18 Sep 2026 12:10:00 +0000",
+      "title_th": "The Download: AI’s extinction risk and bioweapons threat",
+      "summary_th": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could…"
     },
     {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
-      "category": "ai",
-      "title_en": "Here’s What the AI Apocalypse Could Look Like",
-      "summary_en": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
-      "image": "https://media.wired.com/photos/6aab06ffc34fee882b3a156d/master/pass/Uncanny-Valley-Sam-Altman-AI-Risk-Debate-Business-2294955001.jpg",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
-      "published": "Thu, 17 Sep 2026 22:20:21 +0000",
-      "title_th": "Here’s What the AI Apocalypse Could Look Like",
-      "summary_th": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI."
+      "category": "review",
+      "title_en": "Could AI really kill us all? Your questions, answered.",
+      "summary_en": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260917_RoundTable2.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "published": "Fri, 18 Sep 2026 11:29:22 +0000",
+      "title_th": "Could AI really kill us all? Your questions, answered.",
+      "summary_th": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and…"
     },
     {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
       "category": "ai",
-      "title_en": "The AI ‘Slowdown’ Is an Antitrust Mess",
-      "summary_en": "By framing their efforts as a “slowdown” rather than an industry-wide push for better security standards, AI labs may have set themselves up for years of regulatory headaches.",
-      "image": "https://media.wired.com/photos/6aab095b6efac6d4d3b8cb0b/master/pass/AI-Slowdown-Antitrust-Mess-Business.jpg",
-      "link": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
-      "published": "Thu, 17 Sep 2026 19:58:28 +0000",
-      "title_th": "The AI ‘Slowdown’ Is an Antitrust Mess",
-      "summary_th": "By framing their efforts as a “slowdown” rather than an industry-wide push for better security standards, AI labs may have set themselves up for years of regulatory headaches."
+      "title_en": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "summary_en": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I agree with Dario that we need to pace the…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_TheCheckup.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "published": "Fri, 18 Sep 2026 09:00:00 +0000",
+      "title_th": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "summary_th": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I agree with Dario that we need to pace the…"
     },
     {
       "source": "MIT Technology Review",
@@ -267,40 +303,52 @@
       "summary_th": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over the world in the climate…"
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "Meet a mouse whose brain cortex is made up of human cells",
-      "summary_en": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor. The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tissues of distant species is…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_HumanBrainTissueMice.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
-      "published": "Wed, 16 Sep 2026 15:00:00 +0000",
-      "title_th": "Meet a mouse whose brain cortex is made up of human cells",
-      "summary_th": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor. The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tissues of distant species is…"
+      "category": "review",
+      "title_en": "Samsung Galaxy S26 FE review: An incremental price hike for incremental updates",
+      "summary_en": "It's tough times for the midrange phone.",
+      "image": "https://www.engadget.com/img/gallery/samsung-galaxy-s26-fe-review-an-incremental-price-hike-for-incremental-updates/l-intro-1789562892.jpg",
+      "link": "https://www.engadget.com/2260026/samsung-galaxy-s26-fe-review/",
+      "published": "Fri, 18 Sep 2026 13:00:00 +0000",
+      "title_th": "Samsung Galaxy S26 FE review: An incremental price hike for incremental updates",
+      "summary_th": "It's tough times for the midrange phone."
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "Building the materials foundation for AI",
-      "summary_en": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Mike-Finelli-business-lab.png?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "published": "Wed, 16 Sep 2026 12:47:34 +0000",
-      "title_th": "Building the materials foundation for AI",
-      "summary_th": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do…"
+      "category": "gadget",
+      "title_en": "Apple Watch Ultra 4 vs. Galaxy Watch Ultra 2: Comparing their features, durability and displays",
+      "summary_en": "Here's everything you'll get with Apple and Samsung's latest high-end smartwatches.",
+      "image": "https://www.engadget.com/img/gallery/apple-watch-ultra-4-vs-galaxy-watch-ultra-2-comparing-their-features-durability-and-displays/l-intro-1789675512.jpg",
+      "link": "https://www.engadget.com/2261803/apple-watch-ultra-4-vs-galaxy-watch-ultra-2-comparison/",
+      "published": "Fri, 18 Sep 2026 12:00:00 +0000",
+      "title_th": "Apple Watch Ultra 4 vs. Galaxy Watch Ultra 2: Comparing their features, durability and displays",
+      "summary_th": "Here's everything you'll get with Apple and Samsung's latest high-end smartwatches."
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
-      "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impact on the economy over the next few years,…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/ai-buildout-bets2a.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
-      "published": "Wed, 16 Sep 2026 12:10:00 +0000",
-      "title_th": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
-      "summary_th": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impact on the economy over the next few years,…"
+      "category": "chip",
+      "title_en": "NASA's moon orbiter has spotted an impact crater that only happens once a century",
+      "summary_en": "Images taken by the Lunar Reconnaissance Orbiter led to the discovery of a moon crater that's 728 feet wide. Impacts like that only happen once a century.",
+      "image": "https://www.engadget.com/img/gallery/nasas-moon-orbiter-has-spotted-an-impact-crater-that-only-happens-once-a-century/l-intro-1789730692.jpg",
+      "link": "https://www.engadget.com/2262061/nasa-moon-orbiter-finds-largest-impact-crater-in-the-solar-system/",
+      "published": "Fri, 18 Sep 2026 11:26:23 +0000",
+      "title_th": "NASA's moon orbiter has spotted an impact crater that only happens once a century",
+      "summary_th": "Images taken by the Lunar Reconnaissance Orbiter led to the discovery of a moon crater that's 728 feet wide. Impacts like that only happen once a century."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Microsoft executive called OpenAI's web scraping the 'largest theft of labor in human history'",
+      "summary_en": "Executives from OpenAI and Microsoft were reportedly worried about ChatGPT training that scraped millions of news articles.",
+      "image": "https://www.engadget.com/img/gallery/microsoft-executive-called-openais-web-scraping-the-largest-theft-of-labor-in-human-history/l-intro-1789729969.jpg",
+      "link": "https://www.engadget.com/2262055/microsoft-openai-internet-scraping-largest-theft-of-labor/",
+      "published": "Fri, 18 Sep 2026 11:22:31 +0000",
+      "title_th": "Microsoft executive called OpenAI's web scraping the 'largest theft of labor in human history'",
+      "summary_th": "Executives from OpenAI and Microsoft were reportedly worried about ChatGPT training that scraped millions of news articles."
     },
     {
       "source": "Engadget",
@@ -313,54 +361,6 @@
       "published": "Thu, 17 Sep 2026 22:55:08 +0000",
       "title_th": "Google's revamped CC is an AI agent for families and groups",
       "summary_th": "CC gives an AI agent its own Google account in your family or group and sends all members a daily briefing."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Anthropic says Claude 'leads' 26 percent of its AI R&D work",
-      "summary_en": "The company shared the stat alongside three measurements that help communicate the pace of AI development.",
-      "image": "https://www.engadget.com/img/gallery/anthropic-says-claude-leads-26-percent-of-its-ai-rd-work/l-intro-1789684114.jpg",
-      "link": "https://www.engadget.com/2261909/anthropic-says-claude-leads-26-percent-of-its-ai-research-and-development/",
-      "published": "Thu, 17 Sep 2026 22:30:01 +0000",
-      "title_th": "Anthropic says Claude 'leads' 26 percent of its AI R&D work",
-      "summary_th": "The company shared the stat alongside three measurements that help communicate the pace of AI development."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "FAA says laser strikes on aircraft fell for the third consecutive year",
-      "summary_en": "The FAA says the 4,470 laser strikes recorded so far this year is \"still too high.\"",
-      "image": "https://www.engadget.com/img/gallery/faa-says-laser-strikes-on-aircraft-fell-for-the-third-consecutive-year/l-intro-1789682631.jpg",
-      "link": "https://www.engadget.com/2261903/faa-says-laser-strikes-on-aircraft-fell-for-the-third-consecutive-year/",
-      "published": "Thu, 17 Sep 2026 22:15:46 +0000",
-      "title_th": "FAA says laser strikes on aircraft fell for the third consecutive year",
-      "summary_th": "The FAA says the 4,470 laser strikes recorded so far this year is \"still too high.\""
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Candy Crush developers are planning a strike for next week",
-      "summary_en": "King's staff want to get negotiations back on track after years of bargaining.",
-      "image": "https://www.engadget.com/img/gallery/candy-crush-developers-are-planning-a-strike-for-next-week/l-intro-1789671447.jpg",
-      "link": "https://www.engadget.com/2261707/candy-crush-developers-are-planning-a-strike-for-next-week/",
-      "published": "Thu, 17 Sep 2026 18:58:17 +0000",
-      "title_th": "Candy Crush developers are planning a strike for next week",
-      "summary_th": "King's staff want to get negotiations back on track after years of bargaining."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Lofi Girl returns with a new house music station and vinyl compilation",
-      "summary_en": "The old \"where'd lofi girl go\" trick again, I see.",
-      "image": "https://www.engadget.com/img/gallery/lofi-girl-returns-with-a-new-house-music-station-and-vinyl-compilation/l-intro-1789584503.jpg",
-      "link": "https://www.engadget.com/2260588/lofi-girl-returns-with-a-new-house-music-station-and-vinyl-compilation/",
-      "published": "Thu, 17 Sep 2026 17:00:00 +0000",
-      "title_th": "Lofi Girl returns with a new house music station and vinyl compilation",
-      "summary_th": "The old \"where'd lofi girl go\" trick again, I see."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,18 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "iOS 27: My favorite new iPhone features (other than AI)",
+      "summary_en": "Apple released iOS 27 to everyone this week, and the headlining changes are Siri AI and the array of new Apple Intelligence features. However, the update also includes plenty of non-AI features. Here are a few of my favorite iOS 27 features (other than Siri and AI). more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-lock-screen-clock-small.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/18/ios-27-my-favorite-new-iphone-features-other-than-ai/",
+      "published": "Fri, 18 Sep 2026 11:40:01 +0000",
+      "title_th": "iOS 27: My favorite new iPhone features (other than AI)",
+      "summary_th": "Apple released iOS 27 to everyone this week, and the headlining changes are Siri AI and the array of new Apple Intelligence features. However, the update also includes plenty of non-AI features. Here are a few of my favorite iOS 27 features (other than Siri and AI). more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "WebKit blog breaks down what’s new with Safari 27 for developers, including MCP support",
       "summary_en": "Following the rollout of Apple’s 2027 system releases, the WebKit blog has now published an in-depth look at what’s new with Safari 27.0. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/safari-27.jpg?quality=82&strip=all&resize=1200,628",
@@ -469,18 +481,6 @@
       "published": "Fri, 18 Sep 2026 00:45:55 +0000",
       "title_th": "Report: Apple leads slowing true wireless stereo market as open-ear earbuds gain ground",
       "summary_th": "Apple reportedly maintained its lead in the global true wireless stereo (TWS) market and saw modest year-over-year growth, even as overall shipments declined. Here are the details. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple pushes UK court to lift secrecy around encryption backdoor order",
-      "summary_en": "In a hearing today, Apple challenged the UK government’s refusal to publicly confirm whether it has issued an order requiring the company to provide access to encrypted user data. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/apple-icloud-advanced-data-protection.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/17/apple-pushes-uk-court-to-lift-secrecy-around-encryption-backdoor-order/",
-      "published": "Thu, 17 Sep 2026 22:56:50 +0000",
-      "title_th": "Apple pushes UK court to lift secrecy around encryption backdoor order",
-      "summary_th": "In a hearing today, Apple challenged the UK government’s refusal to publicly confirm whether it has issued an order requiring the company to provide access to encrypted user data. Here are the details. more…"
     },
     {
       "source": "9to5Google",
@@ -608,65 +608,65 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 219.34,
-      "change": 5.44,
-      "change_pct": 2.54
+      "price": 218.81,
+      "change": -0.53,
+      "change_pct": -0.24
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 366.2,
-      "change": 8.12,
-      "change_pct": 2.27
+      "price": 369.73,
+      "change": 3.52,
+      "change_pct": 0.96
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 347.33,
-      "change": 4.46,
-      "change_pct": 1.3
+      "price": 356.42,
+      "change": 9.09,
+      "change_pct": 2.62
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 497.75,
-      "change": 7.45,
-      "change_pct": 1.52
+      "price": 496.71,
+      "change": -1.04,
+      "change_pct": -0.21
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 337.0,
-      "change": 4.59,
-      "change_pct": 1.38
+      "price": 338.36,
+      "change": 1.36,
+      "change_pct": 0.4
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 251.19,
-      "change": 5.23,
-      "change_pct": 2.13
+      "price": 252.96,
+      "change": 1.77,
+      "change_pct": 0.7
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 682.31,
-      "change": 9.0,
-      "change_pct": 1.34
+      "price": 685.4,
+      "change": 3.09,
+      "change_pct": 0.45
     },
     {
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 242.0,
-      "change": 2.0,
-      "change_pct": 0.83
+      "price": 241.0,
+      "change": 1.0,
+      "change_pct": 0.42
     }
   ],
   "reviews": [
@@ -733,6 +733,16 @@
     {
       "channel": "Beartai",
       "country": "TH",
+      "title_en": "ตามโลกให้ทัน หรือช่างมันบ้างก็ได้ ? | Go with The Four",
+      "video_id": "I6qpJay49MM",
+      "link": "https://www.youtube.com/watch?v=I6qpJay49MM",
+      "thumbnail": "https://i2.ytimg.com/vi/I6qpJay49MM/hqdefault.jpg",
+      "published": "2026-09-18T12:00:21+00:00",
+      "title_th": "ตามโลกให้ทัน หรือช่างมันบ้างก็ได้ ? | Go with The Four"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
       "title_en": "แอป Photos ใน iOS 27 ฉลาดขึ้นด้วย Siri AI",
       "video_id": "f89AbvaGX88",
       "link": "https://www.youtube.com/shorts/f89AbvaGX88",
@@ -749,16 +759,6 @@
       "thumbnail": "https://i3.ytimg.com/vi/2o-lwDx4lio/hqdefault.jpg",
       "published": "2026-09-18T02:50:55+00:00",
       "title_th": "iPhone 18 จับจริงทุกสี Part 2/2"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "iPhone 18 จับจริงทุกสี Part 1/2",
-      "video_id": "U7FmB0-qiBY",
-      "link": "https://www.youtube.com/shorts/U7FmB0-qiBY",
-      "thumbnail": "https://i2.ytimg.com/vi/U7FmB0-qiBY/hqdefault.jpg",
-      "published": "2026-09-18T02:50:47+00:00",
-      "title_th": "iPhone 18 จับจริงทุกสี Part 1/2"
     },
     {
       "channel": "Droidsans",
