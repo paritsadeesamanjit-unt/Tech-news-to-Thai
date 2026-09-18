@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-18T20:23:23.787156+00:00",
+  "generated_at": "2026-09-18T23:12:51.738510+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Anthropic’s first embedded evaluator is … Accenture?",
+      "summary_en": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2194795244.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "published": "Fri, 18 Sep 2026 21:44:33 +0000",
+      "title_th": "Anthropic’s first embedded evaluator is … Accenture?",
+      "summary_th": "Accenture is about to take on its most high-risk consulting engagement ever."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
+      "summary_en": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
+      "link": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
+      "published": "Fri, 18 Sep 2026 20:24:33 +0000",
+      "title_th": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
+      "summary_th": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "World model companies are keeping a lot of secrets",
+      "summary_en": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "published": "Fri, 18 Sep 2026 20:18:14 +0000",
+      "title_th": "World model companies are keeping a lot of secrets",
+      "summary_th": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -27,40 +63,16 @@
       "summary_th": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "gadget",
-      "title_en": "In India, the new iPhone can arrive faster than a pizza",
-      "summary_en": "Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iphone-18-pro-quick-commerce-india.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
-      "published": "Fri, 18 Sep 2026 17:45:00 +0000",
-      "title_th": "In India, the new iPhone can arrive faster than a pizza",
-      "summary_th": "Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-      "summary_en": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675",
-      "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-      "published": "Fri, 18 Sep 2026 17:33:50 +0000",
-      "title_th": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-      "summary_th": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
-      "summary_en": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Joby-autonomy-Tour.jpg?resize=1200,633",
-      "link": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
-      "published": "Fri, 18 Sep 2026 17:26:41 +0000",
-      "title_th": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
-      "summary_th": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point."
+      "category": "software",
+      "title_en": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "summary_en": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS534_AI_DOOMSDAY2_B.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "published": "2026-09-18T17:07:24-04:00",
+      "title_th": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "summary_th": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it […]"
     },
     {
       "source": "The Verge",
@@ -109,18 +121,6 @@
       "published": "2026-09-18T13:04:51-04:00",
       "title_th": "Gavin Newsom is pushing for an AI kill switch",
       "summary_th": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene a group of experts that will deliver recommendations within two months on how to […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "What Hollywood thinks about existential AI warnings",
-      "summary_en": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have started using AI, as well film startups focused on bringing generative AI into the mainstream […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-      "published": "2026-09-18T12:35:19-04:00",
-      "title_th": "What Hollywood thinks about existential AI warnings",
-      "summary_th": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have started using AI, as well film startups focused on bringing generative AI into the mainstream […]"
     },
     {
       "source": "Ars Technica",
@@ -306,6 +306,42 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "AI almost led the US military to start a war with China, report says",
+      "summary_en": "CNN's sources claim the US nearly attacked a Chinese ship it believed was carrying nuclear weapon components.",
+      "image": "https://www.engadget.com/img/gallery/ai-almost-led-the-us-military-to-attack-china-report-says/l-intro-1789771253.jpg",
+      "link": "https://www.engadget.com/2263043/ai-almost-led-the-us-military-to-attack-china-report-says/",
+      "published": "Fri, 18 Sep 2026 22:44:45 +0000",
+      "title_th": "AI almost led the US military to start a war with China, report says",
+      "summary_th": "CNN's sources claim the US nearly attacked a Chinese ship it believed was carrying nuclear weapon components."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Sony Music and UMG say Suno's new models still violates their copyright",
+      "summary_en": "In a new lawsuit, the labels argue Suno found a roundabout way to train its v6 models on unlicensed music.",
+      "image": "https://www.engadget.com/img/gallery/sony-music-and-umg-say-sunos-new-models-still-violates-their-copyright/l-intro-1789765357.jpg",
+      "link": "https://www.engadget.com/2262978/sony-music-and-umg-say-sunos-new-models-still-violates-their-copyright/",
+      "published": "Fri, 18 Sep 2026 21:06:27 +0000",
+      "title_th": "Sony Music and UMG say Suno's new models still violates their copyright",
+      "summary_th": "In a new lawsuit, the labels argue Suno found a roundabout way to train its v6 models on unlicensed music."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "What to expect at Meta Connect 2026: New AI glasses, a mixed reality headset and more",
+      "summary_en": "There's a lot for Mark Zuckerberg to cover at this year's keynote.",
+      "image": "https://www.engadget.com/img/gallery/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/l-intro-1789763272.jpg",
+      "link": "https://www.engadget.com/2262932/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/",
+      "published": "Fri, 18 Sep 2026 20:35:11 +0000",
+      "title_th": "What to expect at Meta Connect 2026: New AI glasses, a mixed reality headset and more",
+      "summary_th": "There's a lot for Mark Zuckerberg to cover at this year's keynote."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "The new Resident Evil movie captures the survival horror magic of the games",
       "summary_en": "Resident Evil is yet another horror classic from the director of Weapons.",
       "image": "https://www.engadget.com/img/gallery/the-new-resident-evil-movie-captures-the-survival-horror-magic-of-the-games/l-intro-1789757717.jpg",
@@ -325,42 +361,6 @@
       "published": "Fri, 18 Sep 2026 18:36:47 +0000",
       "title_th": "Disney hires ex-CEO of AI company it accused of copyright infringement",
       "summary_th": "What's a little IP theft between friends?"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "FCC allows Gulf state wealth funds to own nearly half of Paramount-Warner Bros.",
-      "summary_en": "Great news for the Ellisons and Saudi Arabia. Everyone else: not so much!",
-      "image": "https://www.engadget.com/img/gallery/fcc-allows-gulf-state-wealth-funds-to-own-nearly-half-of-paramount-warner-bros/l-intro-1789755542.jpg",
-      "link": "https://www.engadget.com/2262681/fcc-allows-gulf-state-wealth-funds-to-own-nearly-half-of-paramount-warner-bros/",
-      "published": "Fri, 18 Sep 2026 18:22:10 +0000",
-      "title_th": "FCC allows Gulf state wealth funds to own nearly half of Paramount-Warner Bros.",
-      "summary_th": "Great news for the Ellisons and Saudi Arabia. Everyone else: not so much!"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "review",
-      "title_en": "The Transformers: The Movie re-review: Still the best (and it's not close)",
-      "summary_en": "In honor of its 40th anniversary, we celebrate the greatest Transformers movie ever made.",
-      "image": "https://www.engadget.com/img/gallery/the-transformers-the-movie-re-review-still-the-best-and-its-not-close/l-intro-1789742579.jpg",
-      "link": "https://www.engadget.com/2262294/the-transformers-the-movie-re-review-40th-anniversary/",
-      "published": "Fri, 18 Sep 2026 15:15:00 +0000",
-      "title_th": "The Transformers: The Movie re-review: Still the best (and it's not close)",
-      "summary_th": "In honor of its 40th anniversary, we celebrate the greatest Transformers movie ever made."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "review",
-      "title_en": "Apple AirPods 5 review: The choice is clear",
-      "summary_en": "The most notable AirPods 5 upgrades are available on both models, but you'll be happier with the pricier one.",
-      "image": "https://www.engadget.com/img/gallery/apple-airpods-5-review-spend-the-extra-20/l-intro-1789670880.jpg",
-      "link": "https://www.engadget.com/2261751/apple-airpods-5-review/",
-      "published": "Fri, 18 Sep 2026 14:00:00 +0000",
-      "title_th": "Apple AirPods 5 review: The choice is clear",
-      "summary_th": "The most notable AirPods 5 upgrades are available on both models, but you'll be happier with the pricier one."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,30 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "iOS 27 and iPadOS 27 expand language support for Dictionary, QuickType Keyboard, more",
+      "summary_en": "Apple today updated its iOS and iPadOS 27 Feature Availability page, confirming that more than 30 new languages and language variants are now supported across features such as Dictionary: Thesaurus, Activate with Siri, and Visual Look Up. Here’s what’s new. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27-keyboard.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/18/ios-27-and-ipados-27-expand-language-support-for-dictionary-quicktype-keyboard-more/",
+      "published": "Fri, 18 Sep 2026 20:31:30 +0000",
+      "title_th": "iOS 27 and iPadOS 27 expand language support for Dictionary, QuickType Keyboard, more",
+      "summary_th": "Apple today updated its iOS and iPadOS 27 Feature Availability page, confirming that more than 30 new languages and language variants are now supported across features such as Dictionary: Thesaurus, Activate with Siri, and Visual Look Up. Here’s what’s new. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Download the iPhone Duo’s official light and dark wallpapers here",
+      "summary_en": "Although Apple did not include the iPhone Duo’s wallpapers in iOS 27, the company did include them in the iPhone simulator in Xcode 27.1 beta, released earlier today, which means now you can download them. Get them below. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-wallpapers.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/18/download-the-iphone-duos-official-light-and-dark-wallpapers-here/",
+      "published": "Fri, 18 Sep 2026 20:05:43 +0000",
+      "title_th": "Download the iPhone Duo’s official light and dark wallpapers here",
+      "summary_th": "Although Apple did not include the iPhone Duo’s wallpapers in iOS 27, the company did include them in the iPhone simulator in Xcode 27.1 beta, released earlier today, which means now you can download them. Get them below. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "AirPods Pro 3 keep getting better, here’s what’s new in iOS 27",
       "summary_en": "AirPods just got a variety of new features in iOS 27, several of which are exclusive to AirPods Pro 3. Here’s everything new. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-w-case-apple.jpg?quality=82&strip=all&resize=1200,628",
@@ -459,28 +483,28 @@
       "summary_th": "Firmware updates have been the weakest link for a decade with smart homes. Every sensor, light bulb, and smart lock in your house runs software that should be updated regularly . This is on top of even if they have software updates. Homey just announced a fix for a big piece of that, and the way it handles Matter devices is the part that Apple Home users should take note of. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple VP of hardware talks iPhone Duo durability, crease, hinge, and more",
-      "summary_en": "Apple’s new Vice President of Hardware Engineering, Tom Marieb, sat down with TechRadar for an interview all about iPhone Duo. Here’s what he said about iPhone Duo’s durability, the hinge, display crease, and more. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-1.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/18/apple-vp-of-hardware-talks-iphone-duo-durability-crease-hinge-and-more/",
-      "published": "Fri, 18 Sep 2026 17:52:15 +0000",
-      "title_th": "Apple VP of hardware talks iPhone Duo durability, crease, hinge, and more",
-      "summary_th": "Apple’s new Vice President of Hardware Engineering, Tom Marieb, sat down with TechRadar for an interview all about iPhone Duo. Here’s what he said about iPhone Duo’s durability, the hinge, display crease, and more. more…"
+      "title_en": "Pixelated 117: Googlebook Eve",
+      "summary_en": "Welcome to Pixelated episode 117. This week, Damien and Will discuss Android 17 QPR1 and the upcoming launch of Android on laptops. Enjoy the episode? You can listen to our brand new weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro for just $5 per month. Sponsored by Bitwarden : Pixelated listeners can get started with Bitwarden’s free individual plan by clicking this link , and check out the Open Source Security Summit . Thanks to Bitwarden for sponsoring! Sponsored by Proton Unlimited : Pixelated listeners can save 30% on an annual subscription to the company’s suite of privacy-friendly services by signing up using our link . Thanks to Proton Unlimited for sponsoring the podcast. Subscribe YouTube Podcasts Pocket Casts Spotify Amazon Music Apple Podcasts O",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/18/pixelated-117-googlebook-eve/",
+      "published": "Fri, 18 Sep 2026 20:43:01 +0000",
+      "title_th": "Pixelated 117: Googlebook Eve",
+      "summary_th": "Welcome to Pixelated episode 117. This week, Damien and Will discuss Android 17 QPR1 and the upcoming launch of Android on laptops. Enjoy the episode? You can listen to our brand new weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro for just $5 per month. Sponsored by Bitwarden : Pixelated listeners can get started with Bitwarden’s free individual plan by clicking this link , and check out the Open Source Security Summit . Thanks to Bitwarden for sponsoring! Sponsored by Proton Unlimited : Pixelated listeners can save 30% on an annual subscription to the company’s suite of privacy-friendly services by signing up using our link . Thanks to Proton Unlimited for sponsoring the podcast. Subscribe YouTube Podcasts Pocket Casts Spotify Amazon Music Apple Podcasts O"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple releases Xcode 27.1 beta, enabling iPhone Duo app development",
-      "summary_en": "Apple has released Xcode 27.1 beta 1 for developers. This version specifically enables app development that targets the new foldable iPhone Duo. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/xcode.webp?resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/18/apple-releases-xcode-27-1-beta-enabling-iphone-duo-app-development/",
-      "published": "Fri, 18 Sep 2026 17:50:45 +0000",
-      "title_th": "Apple releases Xcode 27.1 beta, enabling iPhone Duo app development",
-      "summary_th": "Apple has released Xcode 27.1 beta 1 for developers. This version specifically enables app development that targets the new foldable iPhone Duo. more…"
+      "title_en": "Asus Googlebook shows off a big trackpad and plenty of ports in leaked images [Gallery]",
+      "summary_en": "New images of a Googlebook laptop from Asus have surfaced, showing off of selection of ports and a big ol’ trackpad. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/asus-googlebook-leak-6.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/18/asus-googlebook-shows-off-a-big-trackpad-and-plenty-of-ports-in-leaked-images-gallery/",
+      "published": "Fri, 18 Sep 2026 20:25:00 +0000",
+      "title_th": "Asus Googlebook shows off a big trackpad and plenty of ports in leaked images [Gallery]",
+      "summary_th": "New images of a Googlebook laptop from Asus have surfaced, showing off of selection of ports and a big ol’ trackpad. more…"
     },
     {
       "source": "9to5Google",
@@ -519,28 +543,16 @@
       "summary_th": "Joining some ongoing price drops on Pixel Buds Pro 2 as part of the early Amazon fall Prime Day deals, today’s 9to5Toys Lunch Break is headlined by Galaxy Z Fold 8 deals – $250 off new or $380+ off open-box – as well as some even deeper deals on Galaxy Z Fold 8 Ultra – $300 off at Amazon or a massive $577 off Best Buy open-box . Next up, we move over to Best Buy’s 1-day Windows Copilot+ PC flash sale with up to $650 off laptops and desktops , including this huge $650 discount on Lenovo’s Snapdragon X2 Elite Yoga Slim 7x Copilot+ PC . Scope it all out below. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Android Auto update might fix cellular signal icon – is it back for you?",
-      "summary_en": "For months now , there have been reports of Android Auto’s status bar having a broken icon for cellular signal, but the latest updates seem to finally put an end to the debacle. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/05/Android-Auto-Maps-and-Music-playback-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/18/android-auto-update-might-fix-cellular-signal-icon-is-it-back-for-you/",
-      "published": "Fri, 18 Sep 2026 15:05:00 +0000",
-      "title_th": "Android Auto update might fix cellular signal icon – is it back for you?",
-      "summary_th": "For months now , there have been reports of Android Auto’s status bar having a broken icon for cellular signal, but the latest updates seem to finally put an end to the debacle. more…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Valve’s open-source ‘Lepton’ brings Android games to the $1,059 Steam Frame",
-      "summary_en": "Valve has just released its Lepton tool as an open-source resource for bringing Android-native games to Linux and, in turn, Steam. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/steam-frame-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/18/valves-open-source-lepton-brings-android-games-to-the-1059-steam-frame/",
-      "published": "Fri, 18 Sep 2026 14:30:00 +0000",
-      "title_th": "Valve’s open-source ‘Lepton’ brings Android games to the $1,059 Steam Frame",
-      "summary_th": "Valve has just released its Lepton tool as an open-source resource for bringing Android-native games to Linux and, in turn, Steam. more…"
+      "category": "ev",
+      "title_en": "Toyota’s new electric SUVs are catching on, with nearly 5,000 sold in August",
+      "summary_en": "Toyota led US new EV sales growth last month with a refreshed lineup of electric SUVs. The Toyota bZ remains...",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/04/Toyota-bZ-EV-range-4.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/18/toyotas-new-evs-catching-on-5000-sold-august/",
+      "published": "Fri, 18 Sep 2026 20:39:19 +0000",
+      "title_th": "Toyota’s new electric SUVs are catching on, with nearly 5,000 sold in August",
+      "summary_th": "Toyota led US new EV sales growth last month with a refreshed lineup of electric SUVs. The Toyota bZ remains..."
     },
     {
       "source": "Electrek",
@@ -589,18 +601,6 @@
       "published": "Fri, 18 Sep 2026 18:00:00 +0000",
       "title_th": "Anker SOLIX E10 system sale starts from exclusive $3,799 low, Heybike ALPHA mid-drive e-bike $1,099 low, EcoFlow, more",
       "summary_th": "We’re closing out the week’s Green Deals with a jam-packed edition, led by Anker’s SOLIX E10 Whole-Home Backup System Sale with exclusive bonus savings that starts the pricing from a $3,799 low . Right behind it is an exclusive $700 discount on Heybike’s ALPHA All-Terrain Mid-Drive e-bike at its $1,099 low , followed by an EcoFlow flash sale that gives you the upper-tier 3,072Wh DELTA 3 Ultra Plus Power Station with a 500W modular solar panel down at $1,899 , among other units. We also have EGO’s Multi-Head System with an 8-inch Carbon-Fiber Edger Attachment at a new $173 low , the roborock RockMow X115H and X130H Robot Mowers at all-time lows from $1,500 , as well as low prices on a 24V 4.0Ah Greenworks battery 2-pack, the meross two-zone smart water timer, and more. There’s also the hang"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "XPeng shops its self-driving tech to automakers — Tesla found no takers",
-      "summary_en": "XPeng is trying to turn its self-driving and smart-cockpit systems into a licensing business, courting automakers, suppliers, and software firms well beyond its existing Volkswagen deal, according to a Reuters report. It’s the exact playbook Tesla has been pitching for years with “Full Self-Driving.” The difference is that XPeng is finding interest. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/04/Xpeng-VLA-2-test-drive.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/18/xpeng-license-self-driving-tech-automakers-tesla-fsd/",
-      "published": "Fri, 18 Sep 2026 15:43:15 +0000",
-      "title_th": "XPeng shops its self-driving tech to automakers — Tesla found no takers",
-      "summary_th": "XPeng is trying to turn its self-driving and smart-cockpit systems into a licensing business, courting automakers, suppliers, and software firms well beyond its existing Volkswagen deal, according to a Reuters report. It’s the exact playbook Tesla has been pitching for years with “Full Self-Driving.” The difference is that XPeng is finding interest. more…"
     }
   ],
   "indices": [
@@ -729,66 +729,6 @@
       "thumbnail": "https://i1.ytimg.com/vi/PDytCGbgyvo/hqdefault.jpg",
       "published": "2026-09-15T20:57:17+00:00",
       "title_th": "The Ultimate Adventure Camera..."
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "ตามโลกให้ทัน หรือช่างมันบ้างก็ได้ ? | Go with The Four",
-      "video_id": "I6qpJay49MM",
-      "link": "https://www.youtube.com/watch?v=I6qpJay49MM",
-      "thumbnail": "https://i2.ytimg.com/vi/I6qpJay49MM/hqdefault.jpg",
-      "published": "2026-09-18T12:00:21+00:00",
-      "title_th": "ตามโลกให้ทัน หรือช่างมันบ้างก็ได้ ? | Go with The Four"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "แอป Photos ใน iOS 27 ฉลาดขึ้นด้วย Siri AI",
-      "video_id": "f89AbvaGX88",
-      "link": "https://www.youtube.com/shorts/f89AbvaGX88",
-      "thumbnail": "https://i3.ytimg.com/vi/f89AbvaGX88/hqdefault.jpg",
-      "published": "2026-09-18T04:15:24+00:00",
-      "title_th": "แอป Photos ใน iOS 27 ฉลาดขึ้นด้วย Siri AI"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "iPhone 18 จับจริงทุกสี Part 2/2",
-      "video_id": "2o-lwDx4lio",
-      "link": "https://www.youtube.com/shorts/2o-lwDx4lio",
-      "thumbnail": "https://i3.ytimg.com/vi/2o-lwDx4lio/hqdefault.jpg",
-      "published": "2026-09-18T02:50:55+00:00",
-      "title_th": "iPhone 18 จับจริงทุกสี Part 2/2"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "รีวิว iPhone 18 Pro | 18 Pro Max เลือกรุ่นไหน หรือเปลี่ยนใจมา 17 Pro Max",
-      "video_id": "78siNyfqldk",
-      "link": "https://www.youtube.com/watch?v=78siNyfqldk",
-      "thumbnail": "https://i4.ytimg.com/vi/78siNyfqldk/hqdefault.jpg",
-      "published": "2026-09-18T14:44:25+00:00",
-      "title_th": "รีวิว iPhone 18 Pro | 18 Pro Max เลือกรุ่นไหน หรือเปลี่ยนใจมา 17 Pro Max"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "รีวิว HUAWEI Watch GT 7 Pro สมาร์ทวอทช์เรือนหรู สายสุขภาพตัวจริง แบตอึดยาวนาน 21 วัน",
-      "video_id": "q2GEwaL5FeU",
-      "link": "https://www.youtube.com/watch?v=q2GEwaL5FeU",
-      "thumbnail": "https://i2.ytimg.com/vi/q2GEwaL5FeU/hqdefault.jpg",
-      "published": "2026-09-14T12:00:35+00:00",
-      "title_th": "รีวิว HUAWEI Watch GT 7 Pro สมาร์ทวอทช์เรือนหรู สายสุขภาพตัวจริง แบตอึดยาวนาน 21 วัน"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "Samsung Galaxy S25 Ultra กับ S26 FE ราคาห่างกันเท่านี้ บอกเลยหวานเจี๊ยบ #GalaxyS26FE #GalaxyS25Ultra",
-      "video_id": "XaDsw7mnaRY",
-      "link": "https://www.youtube.com/shorts/XaDsw7mnaRY",
-      "thumbnail": "https://i1.ytimg.com/vi/XaDsw7mnaRY/hqdefault.jpg",
-      "published": "2026-09-13T15:32:40+00:00",
-      "title_th": "Samsung Galaxy S25 Ultra กับ S26 FE ราคาห่างกันเท่านี้ บอกเลยหวานเจี๊ยบ #GalaxyS26FE #GalaxyS25Ultra"
     }
   ]
 }
