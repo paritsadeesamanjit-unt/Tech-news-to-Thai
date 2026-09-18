@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-09-18T18:15:36.088541+00:00",
+  "generated_at": "2026-09-18T20:23:23.787156+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "summary_en": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200",
+      "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "published": "Fri, 18 Sep 2026 18:49:30 +0000",
+      "title_th": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "summary_th": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+      "summary_en": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
+      "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "published": "Fri, 18 Sep 2026 17:59:53 +0000",
+      "title_th": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+      "summary_th": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -39,28 +63,28 @@
       "summary_th": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-      "summary_en": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang. Watch […]",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294935494.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-      "published": "Fri, 18 Sep 2026 17:09:56 +0000",
-      "title_th": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-      "summary_th": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang. Watch […]"
+      "category": "software",
+      "title_en": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "summary_en": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch officials from signing nondisclosure agreements […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2295948062.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+      "published": "2026-09-18T14:29:17-04:00",
+      "title_th": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "summary_th": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch officials from signing nondisclosure agreements […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-      "summary_en": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2278374931.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-      "published": "Fri, 18 Sep 2026 16:35:49 +0000",
-      "title_th": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-      "summary_th": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation."
+      "category": "software",
+      "title_en": "Disney’s first CTO is Character.AI’s former CEO",
+      "summary_en": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will report directly to recently […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK080_VRG_Illo_N_Barclay_9_disney_.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
+      "published": "2026-09-18T14:27:04-04:00",
+      "title_th": "Disney’s first CTO is Character.AI’s former CEO",
+      "summary_th": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will report directly to recently […]"
     },
     {
       "source": "The Verge",
@@ -97,30 +121,6 @@
       "published": "2026-09-18T12:35:19-04:00",
       "title_th": "What Hollywood thinks about existential AI warnings",
       "summary_th": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have started using AI, as well film startups focused on bringing generative AI into the mainstream […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Security researchers used Claude to help them hack into OpenAI",
-      "summary_en": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monorepo,\" which reportedly contains \"OpenAI's algorithmic secrets,\" according to The […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
-      "published": "2026-09-18T11:30:16-04:00",
-      "title_th": "Security researchers used Claude to help them hack into OpenAI",
-      "summary_th": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monorepo,\" which reportedly contains \"OpenAI's algorithmic secrets,\" according to The […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Brendan Carr’s FCC is more worried about who The View interviews than foreign governments owning Paramount",
-      "summary_en": "The FCC has announced it's waiving its rules limiting foreign equity ownership to 25 percent in the Paramount-Warner Bros. case and will allow three sovereign wealth funds run by the governments of Saudi Arabia, Qatar, and Abu Dhabi to own 49.5 percent of the company. During Brendan Carr's tenure, the FCC has repeatedly threatened ABC, […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2262365040.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/policy/997416/brendan-carr-fcc-foreign-governments-paramount",
-      "published": "2026-09-18T11:12:41-04:00",
-      "title_th": "Brendan Carr’s FCC is more worried about who The View interviews than foreign governments owning Paramount",
-      "summary_th": "The FCC has announced it's waiving its rules limiting foreign equity ownership to 25 percent in the Paramount-Warner Bros. case and will allow three sovereign wealth funds run by the governments of Saudi Arabia, Qatar, and Abu Dhabi to own 49.5 percent of the company. During Brendan Carr's tenure, the FCC has repeatedly threatened ABC, […]"
     },
     {
       "source": "Ars Technica",
@@ -185,6 +185,30 @@
     {
       "source": "Wired",
       "flag": "US",
+      "category": "review",
+      "title_en": "Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap",
+      "summary_en": "The Ultra 4 gets smarter about health tracking and lasts longer between charges. But for most people, the Series 12 gets close enough.",
+      "image": "https://media.wired.com/photos/6aad91660b25c8351b67323b/master/pass/2293832250",
+      "link": "https://www.wired.com/review/apple-watch-ultra-4/",
+      "published": "Fri, 18 Sep 2026 19:36:48 +0000",
+      "title_th": "Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap",
+      "summary_th": "The Ultra 4 gets smarter about health tracking and lasts longer between charges. But for most people, the Series 12 gets close enough."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Here’s How an AI Slowdown Could Actually Be Enforced",
+      "summary_en": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
+      "image": "https://media.wired.com/photos/6aab266a1bcc9d144a552a68/master/pass/How-AI-Slow-Down-Would-Happen-Business-AB12706.jpg",
+      "link": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
+      "published": "Fri, 18 Sep 2026 19:21:09 +0000",
+      "title_th": "Here’s How an AI Slowdown Could Actually Be Enforced",
+      "summary_th": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
       "category": "ai",
       "title_en": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
       "summary_en": "TeamPCP pulled off the worst-ever software supply-chain hacking spree and breached thousands of companies. Now Google’s threat intelligence group says it had a mole inside the hackers’ inner circle.",
@@ -217,30 +241,6 @@
       "published": "Fri, 18 Sep 2026 15:00:00 +0000",
       "title_th": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
       "summary_th": "Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Adopt This Data Center Plushie and Hear Its Piercing Scream",
-      "summary_en": "The satirical collaboration between a creative studio and the music producer behind Big Data, “Bezzy” is a cute little doll that spews the sounds of real data centers.",
-      "image": "https://media.wired.com/photos/6aac7385c5520f8d5bff0aea/master/pass/AdoptADataCenter-Bezzy-Sitting.png",
-      "link": "https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/",
-      "published": "Fri, 18 Sep 2026 13:30:00 +0000",
-      "title_th": "Adopt This Data Center Plushie and Hear Its Piercing Scream",
-      "summary_th": "The satirical collaboration between a creative studio and the music producer behind Big Data, “Bezzy” is a cute little doll that spews the sounds of real data centers."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Meta’s Copyright System Is Being Weaponized Against Albanian Protesters",
-      "summary_en": "After three months of daily anti-government protests—dubbed the Flamingo Revolution—the sudden mass suspension of Instagram accounts has led to fears of brigading against demonstrators.",
-      "image": "https://media.wired.com/photos/6aaa98e271eb023ce9cd04f2/master/pass/091626-Flaminggo%20Albania%20Meta.jpg",
-      "link": "https://www.wired.com/story/metas-copyright-system-is-being-weaponized-against-albanian-protesters/",
-      "published": "Fri, 18 Sep 2026 13:00:00 +0000",
-      "title_th": "Meta’s Copyright System Is Being Weaponized Against Albanian Protesters",
-      "summary_th": "After three months of daily anti-government protests—dubbed the Flamingo Revolution—the sudden mass suspension of Instagram accounts has led to fears of brigading against demonstrators."
     },
     {
       "source": "MIT Technology Review",
@@ -305,6 +305,42 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "chip",
+      "title_en": "The new Resident Evil movie captures the survival horror magic of the games",
+      "summary_en": "Resident Evil is yet another horror classic from the director of Weapons.",
+      "image": "https://www.engadget.com/img/gallery/the-new-resident-evil-movie-captures-the-survival-horror-magic-of-the-games/l-intro-1789757717.jpg",
+      "link": "https://www.engadget.com/2262746/the-new-resident-evil-movie-captures-the-survival-horror-magic-of-the-games/",
+      "published": "Fri, 18 Sep 2026 18:56:15 +0000",
+      "title_th": "The new Resident Evil movie captures the survival horror magic of the games",
+      "summary_th": "Resident Evil is yet another horror classic from the director of Weapons."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Disney hires ex-CEO of AI company it accused of copyright infringement",
+      "summary_en": "What's a little IP theft between friends?",
+      "image": "https://www.engadget.com/img/gallery/disney-hires-ex-ceo-of-chatbot-company-it-accused-of-copyright-infringement/l-intro-1789756518.jpg",
+      "link": "https://www.engadget.com/2262703/disney-hires-ex-ceo-of-ai-company-it-accused-of-copyright-infringement/",
+      "published": "Fri, 18 Sep 2026 18:36:47 +0000",
+      "title_th": "Disney hires ex-CEO of AI company it accused of copyright infringement",
+      "summary_th": "What's a little IP theft between friends?"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "FCC allows Gulf state wealth funds to own nearly half of Paramount-Warner Bros.",
+      "summary_en": "Great news for the Ellisons and Saudi Arabia. Everyone else: not so much!",
+      "image": "https://www.engadget.com/img/gallery/fcc-allows-gulf-state-wealth-funds-to-own-nearly-half-of-paramount-warner-bros/l-intro-1789755542.jpg",
+      "link": "https://www.engadget.com/2262681/fcc-allows-gulf-state-wealth-funds-to-own-nearly-half-of-paramount-warner-bros/",
+      "published": "Fri, 18 Sep 2026 18:22:10 +0000",
+      "title_th": "FCC allows Gulf state wealth funds to own nearly half of Paramount-Warner Bros.",
+      "summary_th": "Great news for the Ellisons and Saudi Arabia. Everyone else: not so much!"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "review",
       "title_en": "The Transformers: The Movie re-review: Still the best (and it's not close)",
       "summary_en": "In honor of its 40th anniversary, we celebrate the greatest Transformers movie ever made.",
@@ -327,40 +363,16 @@
       "summary_th": "The most notable AirPods 5 upgrades are available on both models, but you'll be happier with the pricier one."
     },
     {
-      "source": "Engadget",
+      "source": "IEEE Spectrum",
       "flag": "US",
-      "category": "review",
-      "title_en": "Samsung Galaxy S26 FE review: An incremental price hike for incremental updates",
-      "summary_en": "It's tough times for the midrange phone.",
-      "image": "https://www.engadget.com/img/gallery/samsung-galaxy-s26-fe-review-an-incremental-price-hike-for-incremental-updates/l-intro-1789562892.jpg",
-      "link": "https://www.engadget.com/2260026/samsung-galaxy-s26-fe-review/",
-      "published": "Fri, 18 Sep 2026 13:00:00 +0000",
-      "title_th": "Samsung Galaxy S26 FE review: An incremental price hike for incremental updates",
-      "summary_th": "It's tough times for the midrange phone."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Apple Watch Ultra 4 vs. Galaxy Watch Ultra 2: Comparing their features, durability and displays",
-      "summary_en": "Here's everything you'll get with Apple and Samsung's latest high-end smartwatches.",
-      "image": "https://www.engadget.com/img/gallery/apple-watch-ultra-4-vs-galaxy-watch-ultra-2-comparing-their-features-durability-and-displays/l-intro-1789675512.jpg",
-      "link": "https://www.engadget.com/2261803/apple-watch-ultra-4-vs-galaxy-watch-ultra-2-comparison/",
-      "published": "Fri, 18 Sep 2026 12:00:00 +0000",
-      "title_th": "Apple Watch Ultra 4 vs. Galaxy Watch Ultra 2: Comparing their features, durability and displays",
-      "summary_th": "Here's everything you'll get with Apple and Samsung's latest high-end smartwatches."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "NASA's moon orbiter has spotted an impact crater that only happens once a century",
-      "summary_en": "Images taken by the Lunar Reconnaissance Orbiter led to the discovery of a moon crater that's 728 feet wide. Impacts like that only happen once a century.",
-      "image": "https://www.engadget.com/img/gallery/nasas-moon-orbiter-has-spotted-an-impact-crater-that-only-happens-once-a-century/l-intro-1789730692.jpg",
-      "link": "https://www.engadget.com/2262061/nasa-moon-orbiter-finds-largest-impact-crater-in-the-solar-system/",
-      "published": "Fri, 18 Sep 2026 11:26:23 +0000",
-      "title_th": "NASA's moon orbiter has spotted an impact crater that only happens once a century",
-      "summary_th": "Images taken by the Lunar Reconnaissance Orbiter led to the discovery of a moon crater that's 728 feet wide. Impacts like that only happen once a century."
+      "category": "robot",
+      "title_en": "Turning Tech Talent Into Leadership Legacy",
+      "summary_en": "Transitioning from years of working in a senior technical or executive role to a leadership position is one of the most challenging phases of a STEM career. It requires moving away from making decisions on your own to mentoring others, making strategic decisions for the organization, and collaborating with coworkers from different generations. The shift in mindset is known as “legacy leadership,” a philosophy whereby success is no longer measured by personal achievements but by how effectively a senior leader empowers others. To help seasoned professionals and senior experts navigate the transition, the inaugural IEEE International Leadership Conference (ILC) will provide attendees practical advice on cultivating collaborations and guiding emerging talent. “Early in our STEM careers, we me",
+      "image": "https://spectrum.ieee.org/media-library/a-team-of-seven-people-having-a-work-meeting-in-an-open-concept-office-space.jpg?id=67787397&width=980",
+      "link": "https://spectrum.ieee.org/tech-talent-into-leadership-legacy",
+      "published": "Fri, 18 Sep 2026 18:00:04 +0000",
+      "title_th": "Turning Tech Talent Into Leadership Legacy",
+      "summary_th": "Transitioning from years of working in a senior technical or executive role to a leadership position is one of the most challenging phases of a STEM career. It requires moving away from making decisions on your own to mentoring others, making strategic decisions for the organization, and collaborating with coworkers from different generations. The shift in mindset is known as “legacy leadership,” a philosophy whereby success is no longer measured by personal achievements but by how effectively a senior leader empowers others. To help seasoned professionals and senior experts navigate the transition, the inaugural IEEE International Leadership Conference (ILC) will provide attendees practical advice on cultivating collaborations and guiding emerging talent. “Early in our STEM careers, we me"
     },
     {
       "source": "IEEE Spectrum",
@@ -411,16 +423,40 @@
       "summary_th": "In 2003, Martin Eberhard, a cofounder of Tesla Motors , decided it was time to start wooing investors. To do that, however, he needed an electric car. So he talked to Alan Cocconi and asked if he could borrow the tZero , the revolutionary and blazingly fast electric roadster that Cocconi had built at AC Propulsion . Eberhard’s idea was to drive the tZero up and down Sand Hill Road in the heart of Silicon Valley and do demonstrations for curious entrepreneurs and VCs. Eberhard was joined by Tom Gage , Cocconi’s partner at AC Propulsion, on many of the visits. Like Tesla, AC Propulsion was also seeking investors, but to build a considerably more utilitarian EV. Adapted with permission from The EV Guys: How Caltech Engineers Reinvented the Electric Car , by Charles J. Murray, published by Pur"
     },
     {
-      "source": "IEEE Spectrum",
-      "flag": "US",
-      "category": "robot",
-      "title_en": "Countries Seek to Curb Social Media Addiction for Kids",
-      "summary_en": "Social media plays a significant, multifaceted role in adolescents’ development, influencing how they communicate, learn, socialize, and express themselves. The benefits, however, are accompanied by risks that can undermine youngsters’ character as well as their cognitive and social development. The potential problems include excessive screen time , social media addiction , cyberbullying , misinformation , radicalization , privacy violations , exposure to inappropriate content , sextortion , and doomscrolling . A recent study published in Nature: Human Behaviour found that adolescents who begin using social media at an early age tend to have significantly lower academic performance. A Mashable article highlights additional issues including effects on mental health , self-harm , addiction t",
-      "image": "https://spectrum.ieee.org/media-library/students-in-red-uniforms-sit-outside-looking-at-smartphones.jpg?id=67749623&width=980",
-      "link": "https://spectrum.ieee.org/countries-seek-to-curb-social-media-addiction-for-kids",
-      "published": "Mon, 14 Sep 2026 18:00:04 +0000",
-      "title_th": "Countries Seek to Curb Social Media Addiction for Kids",
-      "summary_th": "Social media plays a significant, multifaceted role in adolescents’ development, influencing how they communicate, learn, socialize, and express themselves. The benefits, however, are accompanied by risks that can undermine youngsters’ character as well as their cognitive and social development. The potential problems include excessive screen time , social media addiction , cyberbullying , misinformation , radicalization , privacy violations , exposure to inappropriate content , sextortion , and doomscrolling . A recent study published in Nature: Human Behaviour found that adolescents who begin using social media at an early age tend to have significantly lower academic performance. A Mashable article highlights additional issues including effects on mental health , self-harm , addiction t"
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "AirPods Pro 3 keep getting better, here’s what’s new in iOS 27",
+      "summary_en": "AirPods just got a variety of new features in iOS 27, several of which are exclusive to AirPods Pro 3. Here’s everything new. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-w-case-apple.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/18/airpods-pro-3-keep-getting-better-heres-whats-new-ios-27/",
+      "published": "Fri, 18 Sep 2026 19:45:30 +0000",
+      "title_th": "AirPods Pro 3 keep getting better, here’s what’s new in iOS 27",
+      "summary_th": "AirPods just got a variety of new features in iOS 27, several of which are exclusive to AirPods Pro 3. Here’s everything new. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple Intelligence has 20+ brand new features in iOS 27, here’s the full list",
+      "summary_en": "iOS 27 is here, and many of its new features are powered by the next generation of Apple Intelligence. Here are 20+ new Apple Intelligence features in iOS 27. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/18/apple-intelligence-has-20-brand-new-features-in-ios-27-heres-the-full-list/",
+      "published": "Fri, 18 Sep 2026 18:56:01 +0000",
+      "title_th": "Apple Intelligence has 20+ brand new features in iOS 27, here’s the full list",
+      "summary_th": "iOS 27 is here, and many of its new features are powered by the next generation of Apple Intelligence. Here are 20+ new Apple Intelligence features in iOS 27. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "HomeKit Weekly: Homey’s new Device Updates feature shows what Matter was supposed to be all along",
+      "summary_en": "Firmware updates have been the weakest link for a decade with smart homes. Every sensor, light bulb, and smart lock in your house runs software that should be updated regularly . This is on top of even if they have software updates. Homey just announced a fix for a big piece of that, and the way it handles Matter devices is the part that Apple Home users should take note of. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Homey-Pro-2026-—-Interior-5-2.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/18/homeys-new-device-updates-feature-shows-what-matter-was-supposed-to-be-all-along/",
+      "published": "Fri, 18 Sep 2026 18:33:00 +0000",
+      "title_th": "HomeKit Weekly: Homey’s new Device Updates feature shows what Matter was supposed to be all along",
+      "summary_th": "Firmware updates have been the weakest link for a decade with smart homes. Every sensor, light bulb, and smart lock in your house runs software that should be updated regularly . This is on top of even if they have software updates. Homey just announced a fix for a big piece of that, and the way it handles Matter devices is the part that Apple Home users should take note of. more…"
     },
     {
       "source": "9to5Mac",
@@ -447,40 +483,28 @@
       "summary_th": "Apple has released Xcode 27.1 beta 1 for developers. This version specifically enables app development that targets the new foldable iPhone Duo. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Meta’s new Muse AI agent app overtakes ChatGPT as top iPhone app",
-      "summary_en": "Meta’s new Muse AI agent app has taken the top spot on the free iPhone charts for the U.S. App Store, displacing OpenAI’s ChatGPT from the first place. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Muse-by-Meta.webp?resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app/",
-      "published": "Fri, 18 Sep 2026 17:47:37 +0000",
-      "title_th": "Meta’s new Muse AI agent app overtakes ChatGPT as top iPhone app",
-      "summary_th": "Meta’s new Muse AI agent app has taken the top spot on the free iPhone charts for the U.S. App Store, displacing OpenAI’s ChatGPT from the first place. more…"
+      "title_en": "Samsung’s battery upgrades for Galaxy S27 Ultra and Pro leak – is it enough?",
+      "summary_en": "A new leak reveals the battery sizes of Samsung’s upcoming Galaxy S27 Ultra and S27 Pro including some long overdue upgrades, but do you think it’s enough? more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/galaxy-s27-pro-leak-onl-1.webp?resize=1200,628",
+      "link": "https://9to5google.com/2026/09/18/samsung-galaxy-s27-ultra-pro-battery-upgrades-leak/",
+      "published": "Fri, 18 Sep 2026 20:00:00 +0000",
+      "title_th": "Samsung’s battery upgrades for Galaxy S27 Ultra and Pro leak – is it enough?",
+      "summary_th": "A new leak reveals the battery sizes of Samsung’s upcoming Galaxy S27 Ultra and S27 Pro including some long overdue upgrades, but do you think it’s enough? more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "9to5Mac Daily: September 18, 2026 – More on iOS 27, iPhone Duo",
-      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff :Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. A simple to-do list for iPhone, iPad, and Mac, with powerful tools that make organizing, tracking, and checking off your tasks a whole lot more satisfying. Get Stuff done. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/18/daily-september-18-2026/",
-      "published": "Fri, 18 Sep 2026 16:34:51 +0000",
-      "title_th": "9to5Mac Daily: September 18, 2026 – More on iOS 27, iPhone Duo",
-      "summary_th": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff :Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. A simple to-do list for iPhone, iPad, and Mac, with powerful tools that make organizing, tracking, and checking off your tasks a whole lot more satisfying. Get Stuff done. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Best iPhone 18 Pro cases now available for purchase [Updated]",
-      "summary_en": "It is time to take a look at the best new iPhone 18 Pro cases. Apple has a new slate of Silicone and TechWoven models in color-matched treatments, joined by loads of our favorite third-party solutions we have been using for years. From built-in stands in new burgundy colorways, ultra grippy customizable models , and some of the best leather options in the game from brands like Nomad and Burton Goods . We have some super affordable models starting from $14 from budget-friendly brands like Spigen and more. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-case-now-available-for-purchase.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/18/best-iphone-18-pro-cases-now-available/",
-      "published": "Fri, 18 Sep 2026 16:24:00 +0000",
-      "title_th": "Best iPhone 18 Pro cases now available for purchase [Updated]",
-      "summary_th": "It is time to take a look at the best new iPhone 18 Pro cases. Apple has a new slate of Silicone and TechWoven models in color-matched treatments, joined by loads of our favorite third-party solutions we have been using for years. From built-in stands in new burgundy colorways, ultra grippy customizable models , and some of the best leather options in the game from brands like Nomad and Burton Goods . We have some super affordable models starting from $14 from budget-friendly brands like Spigen and more. more…"
+      "title_en": "Friday’s Android app deals and freebies: Greak Memories of Azur, Fernz Gate, Legna Tactica, more",
+      "summary_en": "Today’s best Google Play app and game deals are ready, including Greak: Memories of Azur, Heroes Infinity Premium, Element TD, [Premium] RPG Fernz Gate, SRPG Eldgear, [Premium]RPG Asdivine Hearts 2, SRPG Legna Tactica, Premium- Marenian Tavern Story, and more. On your way down, scope out today’s deals on Galaxy Z Fold 8 at up to $380+ off and the Ultra Fold 8 model at a massive $577 off . The apps await below. more…",
+      "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/09/Google-Play-collage_105fdc.webp?resize=1200,628",
+      "link": "https://9to5toys.com/2026/09/18/todays-highlight-google-play-deals-10/",
+      "published": "Fri, 18 Sep 2026 19:21:05 +0000",
+      "title_th": "Friday’s Android app deals and freebies: Greak Memories of Azur, Fernz Gate, Legna Tactica, more",
+      "summary_th": "Today’s best Google Play app and game deals are ready, including Greak: Memories of Azur, Heroes Infinity Premium, Element TD, [Premium] RPG Fernz Gate, SRPG Eldgear, [Premium]RPG Asdivine Hearts 2, SRPG Legna Tactica, Premium- Marenian Tavern Story, and more. On your way down, scope out today’s deals on Galaxy Z Fold 8 at up to $380+ off and the Ultra Fold 8 model at a massive $577 off . The apps await below. more…"
     },
     {
       "source": "9to5Google",
@@ -519,28 +543,52 @@
       "summary_th": "Valve has just released its Lepton tool as an open-source resource for bringing Android-native games to Linux and, in turn, Steam. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Clicks Communicator lands in December with 12GB RAM, two months of free data",
-      "summary_en": "Clicks — the company bringing physical keyboards back to mobile — is getting ready to ship its first-ever Android smartphone , and it’s shaping up to be a pretty interesting device. Ahead of its launch later this year, the company is upgrading a handful of the Clicks Communicator’s specs and announcing new accessories, protection coverage options, and eSIM plans. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/1.-Clicks-Communicator-Smoke-with-Vino-Charging-Cover.png?resize=1200,628",
-      "link": "https://9to5google.com/2026/09/18/clicks-communicator-lands-in-december-with-12gb-ram-two-months-of-free-data/",
-      "published": "Fri, 18 Sep 2026 14:01:14 +0000",
-      "title_th": "Clicks Communicator lands in December with 12GB RAM, two months of free data",
-      "summary_th": "Clicks — the company bringing physical keyboards back to mobile — is getting ready to ship its first-ever Android smartphone , and it’s shaping up to be a pretty interesting device. Ahead of its launch later this year, the company is upgrading a handful of the Clicks Communicator’s specs and announcing new accessories, protection coverage options, and eSIM plans. more…"
+      "category": "ev",
+      "title_en": "Podcast: Tesla Roadster gets a date, VW XL1 comes back electric, BYD’s new Tesla fighter, and more",
+      "summary_en": "In the Electrek Podcast , we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss the Tesla Roadster getting a reveal date, VW XL1 coming back electric, BYD’s new Tesla fighter, and more. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/18/podcast-tesla-roadster-gets-a-date-vw-xl1-comes-back-electric-byds-new-tesla-fighter-and-more/",
+      "published": "Fri, 18 Sep 2026 19:36:33 +0000",
+      "title_th": "Podcast: Tesla Roadster gets a date, VW XL1 comes back electric, BYD’s new Tesla fighter, and more",
+      "summary_th": "In the Electrek Podcast , we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss the Tesla Roadster getting a reveal date, VW XL1 coming back electric, BYD’s new Tesla fighter, and more. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Motorola confirms ‘Signature 27’ debut next week alongside new Snapdragon chips",
-      "summary_en": "As part of next week’s Snapdragon Summit, Motorola has confirmed that it will be detailing its new “Signature 27” device on September 22. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/01/motorola-signature-2.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/18/motorola-signature-27-teaser-snapdragon/",
-      "published": "Fri, 18 Sep 2026 13:55:00 +0000",
-      "title_th": "Motorola confirms ‘Signature 27’ debut next week alongside new Snapdragon chips",
-      "summary_th": "As part of next week’s Snapdragon Summit, Motorola has confirmed that it will be detailing its new “Signature 27” device on September 22. more…"
+      "category": "ev",
+      "title_en": "Want to get off gas? Learn how at Drive Electric Month events across the US",
+      "summary_en": "Drive Electric Month continues this week with over 150 online and in-person events celebrating electric vehicles through most of September and the start of October. Events will be held for the next few weekends, with events in most US states, and one in Canada. And in the midst of a global oil price spike, there couldn’t be a better time to learn how to become energy independent. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2024/09/2468-e1727225870138.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/18/learn-how-to-save-money-on-gas-at-us-drive-electric-month-events-all-month/",
+      "published": "Fri, 18 Sep 2026 19:00:00 +0000",
+      "title_th": "Want to get off gas? Learn how at Drive Electric Month events across the US",
+      "summary_th": "Drive Electric Month continues this week with over 150 online and in-person events celebrating electric vehicles through most of September and the start of October. Events will be held for the next few weekends, with events in most US states, and one in Canada. And in the midst of a global oil price spike, there couldn’t be a better time to learn how to become energy independent. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Hyundai warns the US may be next in line for a wave of cheaper Chinese EVs",
+      "summary_en": "Chinese automakers like BYD are quickly taking over global markets with low-cost electric vehicles, and Hyundai Motor’s CEO Jose Munoz warned the US could be next without safeguards. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2025/06/BYDs-EV-price-cuts-1.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/18/hyundai-warns-us-wave-cheaper-chinese-evs/",
+      "published": "Fri, 18 Sep 2026 18:10:04 +0000",
+      "title_th": "Hyundai warns the US may be next in line for a wave of cheaper Chinese EVs",
+      "summary_th": "Chinese automakers like BYD are quickly taking over global markets with low-cost electric vehicles, and Hyundai Motor’s CEO Jose Munoz warned the US could be next without safeguards. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Anker SOLIX E10 system sale starts from exclusive $3,799 low, Heybike ALPHA mid-drive e-bike $1,099 low, EcoFlow, more",
+      "summary_en": "We’re closing out the week’s Green Deals with a jam-packed edition, led by Anker’s SOLIX E10 Whole-Home Backup System Sale with exclusive bonus savings that starts the pricing from a $3,799 low . Right behind it is an exclusive $700 discount on Heybike’s ALPHA All-Terrain Mid-Drive e-bike at its $1,099 low , followed by an EcoFlow flash sale that gives you the upper-tier 3,072Wh DELTA 3 Ultra Plus Power Station with a 500W modular solar panel down at $1,899 , among other units. We also have EGO’s Multi-Head System with an 8-inch Carbon-Fiber Edger Attachment at a new $173 low , the roborock RockMow X115H and X130H Robot Mowers at all-time lows from $1,500 , as well as low prices on a 24V 4.0Ah Greenworks battery 2-pack, the meross two-zone smart water timer, and more. There’s also the hang",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Anker-SOLIX-Heybike-EcoFlow-Roborock-EGO-GDs-FI.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/18/anker-solix-e10-system-exclusive-heybike-alpha-mid-drive-e-bike-ecoflow-more/",
+      "published": "Fri, 18 Sep 2026 18:00:00 +0000",
+      "title_th": "Anker SOLIX E10 system sale starts from exclusive $3,799 low, Heybike ALPHA mid-drive e-bike $1,099 low, EcoFlow, more",
+      "summary_th": "We’re closing out the week’s Green Deals with a jam-packed edition, led by Anker’s SOLIX E10 Whole-Home Backup System Sale with exclusive bonus savings that starts the pricing from a $3,799 low . Right behind it is an exclusive $700 discount on Heybike’s ALPHA All-Terrain Mid-Drive e-bike at its $1,099 low , followed by an EcoFlow flash sale that gives you the upper-tier 3,072Wh DELTA 3 Ultra Plus Power Station with a 500W modular solar panel down at $1,899 , among other units. We also have EGO’s Multi-Head System with an 8-inch Carbon-Fiber Edger Attachment at a new $173 low , the roborock RockMow X115H and X130H Robot Mowers at all-time lows from $1,500 , as well as low prices on a 24V 4.0Ah Greenworks battery 2-pack, the meross two-zone smart water timer, and more. There’s also the hang"
     },
     {
       "source": "Electrek",
@@ -553,54 +601,6 @@
       "published": "Fri, 18 Sep 2026 15:43:15 +0000",
       "title_th": "XPeng shops its self-driving tech to automakers — Tesla found no takers",
       "summary_th": "XPeng is trying to turn its self-driving and smart-cockpit systems into a licensing business, courting automakers, suppliers, and software firms well beyond its existing Volkswagen deal, according to a Reuters report. It’s the exact playbook Tesla has been pitching for years with “Full Self-Driving.” The difference is that XPeng is finding interest. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Volkswagen’s EV van drove through 92 countries to set a new Guinness World Record",
-      "summary_en": "The Volkswagen ID. Buzz set a new Guinness World Record for “the most countries visited in a continuous journey” by an EV, covering nearly 100,000 km across 92 countries. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Volkswagen-ID-Buzz-EV-world-record-US-1.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/18/vws-ev-van-drove-through-92-countries-set-new-world-record/",
-      "published": "Fri, 18 Sep 2026 14:26:27 +0000",
-      "title_th": "Volkswagen’s EV van drove through 92 countries to set a new Guinness World Record",
-      "summary_th": "The Volkswagen ID. Buzz set a new Guinness World Record for “the most countries visited in a continuous journey” by an EV, covering nearly 100,000 km across 92 countries. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "144 Tesla Megapacks power Australia’s first 8-hour grid battery",
-      "summary_en": "Australia just switched on its longest-duration grid battery, and it runs on 144 Tesla Megapacks. RWE’s Limondale battery in New South Wales can discharge for a full eight hours — four times longer than the two-hour batteries that dominate the Australian grid. It’s the first project of its kind in the country. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Tesla-8-hour-battery.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/18/tesla-megapack-australia-first-8-hour-battery-rwe-limondale/",
-      "published": "Fri, 18 Sep 2026 14:12:33 +0000",
-      "title_th": "144 Tesla Megapacks power Australia’s first 8-hour grid battery",
-      "summary_th": "Australia just switched on its longest-duration grid battery, and it runs on 144 Tesla Megapacks. RWE’s Limondale battery in New South Wales can discharge for a full eight hours — four times longer than the two-hour batteries that dominate the Australian grid. It’s the first project of its kind in the country. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Hyundai opens orders for its new electric van, starting at about $66,500",
-      "summary_en": "Hyundai’s electric van is bigger than the Kia PV5 and Volkswagen ID. Buzz, with enough room for nine passengers. Hyundai...",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Hyundai-electric-van-orders.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/17/hyundai-opens-orders-new-ev-van-starting-about-66500/",
-      "published": "Thu, 17 Sep 2026 20:39:58 +0000",
-      "title_th": "Hyundai opens orders for its new electric van, starting at about $66,500",
-      "summary_th": "Hyundai’s electric van is bigger than the Kia PV5 and Volkswagen ID. Buzz, with enough room for nine passengers. Hyundai..."
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "BYD upgrades top-selling small electric SUV with more range, now starting at about $11,000",
-      "summary_en": "BYD introduced the upgraded Yuan Up, sold overseas as the Atto 2, with more range and a lower starting price. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/BYD-upgraded-Yuan-Up-front.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/17/byd-upgrades-small-suv-more-range-starting-11k/",
-      "published": "Thu, 17 Sep 2026 19:38:26 +0000",
-      "title_th": "BYD upgrades top-selling small electric SUV with more range, now starting at about $11,000",
-      "summary_th": "BYD introduced the upgraded Yuan Up, sold overseas as the Atto 2, with more range and a lower starting price. more…"
     }
   ],
   "indices": [
@@ -608,65 +608,65 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 219.55,
-      "change": 0.21,
-      "change_pct": 0.1
+      "price": 222.27,
+      "change": 2.93,
+      "change_pct": 1.34
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 362.43,
-      "change": -3.77,
-      "change_pct": -1.03
+      "price": 364.27,
+      "change": -1.93,
+      "change_pct": -0.53
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 350.62,
-      "change": 3.29,
-      "change_pct": 0.95
+      "price": 349.54,
+      "change": 2.21,
+      "change_pct": 0.64
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 494.77,
-      "change": -2.98,
-      "change_pct": -0.6
+      "price": 493.78,
+      "change": -3.97,
+      "change_pct": -0.8
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 335.51,
-      "change": -1.49,
-      "change_pct": -0.44
+      "price": 336.13,
+      "change": -0.87,
+      "change_pct": -0.26
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 253.15,
-      "change": 1.96,
-      "change_pct": 0.78
+      "price": 253.71,
+      "change": 2.52,
+      "change_pct": 1.0
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 670.8,
-      "change": -11.51,
-      "change_pct": -1.69
+      "price": 665.75,
+      "change": -16.56,
+      "change_pct": -2.43
     },
     {
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 241.0,
+      "change": 1.0,
+      "change_pct": 0.42
     }
   ],
   "reviews": [
