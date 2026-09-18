@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T01:59:57.552597+00:00",
+  "generated_at": "2026-09-18T07:58:33.110293+00:00",
   "count": 50,
   "articles": [
     {
@@ -65,6 +65,18 @@
     {
       "source": "The Verge",
       "flag": "US",
+      "category": "gadget",
+      "title_en": "Waymo says Singapore will be its next international robotaxi city",
+      "summary_en": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in \"the coming months,\" the company says, in preparation of mapping and autonomous testing with human safety drivers behind the wheel in 2027. Waymo says […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2291354590.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
+      "published": "2026-09-17T22:00:00-04:00",
+      "title_th": "Waymo says Singapore will be its next international robotaxi city",
+      "summary_th": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in \"the coming months,\" the company says, in preparation of mapping and autonomous testing with human safety drivers behind the wheel in 2027. Waymo says […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
       "category": "software",
       "title_en": "The AI Superintelligence Slowdown",
       "summary_en": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time […]",
@@ -111,16 +123,16 @@
       "summary_th": "When Xbox announced a new feature last month that lets you digitize existing physical game collections, I immediately thought of the Xbox One. Disc-to-digital seems like a clever new feature for Xbox, perfectly timed as a response to Sony killing PlayStation discs. But the reality is that it has been 15 years in the making […]"
     },
     {
-      "source": "The Verge",
+      "source": "Ars Technica",
       "flag": "US",
       "category": "software",
-      "title_en": "Camp Snap’s 110D gives slim retro film cameras a digital upgrade",
-      "summary_en": "Camp Snap is expanding its small collection of screenless digital point-and-shoot cameras with the new pocket-friendly 110D featuring a thin horizontal design first popularized by Kodak film cameras in the 1970s. The Camp Snap 110D is available for preorder starting today for $74.95 in back in black (black and gray) or dreamsicle (white and orange) […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/campsnap2.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-      "link": "https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film",
-      "published": "2026-09-17T11:00:00-04:00",
-      "title_th": "Camp Snap’s 110D gives slim retro film cameras a digital upgrade",
-      "summary_th": "Camp Snap is expanding its small collection of screenless digital point-and-shoot cameras with the new pocket-friendly 110D featuring a thin horizontal design first popularized by Kodak film cameras in the 1970s. The Camp Snap 110D is available for preorder starting today for $74.95 in back in black (black and gray) or dreamsicle (white and orange) […]"
+      "title_en": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "summary_en": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-1152x556.jpg",
+      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "published": "Thu, 17 Sep 2026 18:33:13 +0000",
+      "title_th": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "summary_th": "SynthID can cause models to follow harmful instructions they would otherwise refuse."
     },
     {
       "source": "Ars Technica",
@@ -171,16 +183,40 @@
       "summary_th": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks."
     },
     {
-      "source": "Ars Technica",
+      "source": "Wired",
       "flag": "US",
-      "category": "software",
-      "title_en": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "summary_en": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
-      "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-      "published": "Fri, 04 Sep 2026 22:17:36 +0000",
-      "title_th": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "summary_th": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test."
+      "category": "gadget",
+      "title_en": "Dell Coupon Codes: 20% Off for September 2026",
+      "summary_en": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
+      "image": "https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg",
+      "link": "https://www.wired.com/story/dell-coupon-code/",
+      "published": "Fri, 18 Sep 2026 05:00:00 +0000",
+      "title_th": "Dell Coupon Codes: 20% Off for September 2026",
+      "summary_th": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Dyson Promo Codes: 25% Off in September 2026",
+      "summary_en": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
+      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
+      "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+      "published": "Fri, 18 Sep 2026 05:00:00 +0000",
+      "title_th": "Dyson Promo Codes: 25% Off in September 2026",
+      "summary_th": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "iRobot Promo Code: 15% Off",
+      "summary_en": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration.",
+      "image": "https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png",
+      "link": "https://www.wired.com/story/irobot-promo-code/",
+      "published": "Fri, 18 Sep 2026 05:00:00 +0000",
+      "title_th": "iRobot Promo Code: 15% Off",
+      "summary_th": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration."
     },
     {
       "source": "Wired",
@@ -205,42 +241,6 @@
       "published": "Thu, 17 Sep 2026 19:58:28 +0000",
       "title_th": "The AI ‘Slowdown’ Is an Antitrust Mess",
       "summary_th": "By framing their efforts as a “slowdown” rather than an industry-wide push for better security standards, AI labs may have set themselves up for years of regulatory headaches."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Customer Data Permanently Lost in Iran Strikes on Amazon Data Centers",
-      "summary_en": "Amazon Web Services didn’t design its data centers to withstand war, and now the company admits it can’t recover what’s been lost.",
-      "image": "https://media.wired.com/photos/6aac35ba7233731358b63aab/master/pass/Iran-Strikes-on-Amazon-Data-Centers-Business.jpg",
-      "link": "https://www.wired.com/story/customer-data-permanently-lost-in-iran-strikes-on-amazon-data-centers/",
-      "published": "Thu, 17 Sep 2026 19:15:00 +0000",
-      "title_th": "Customer Data Permanently Lost in Iran Strikes on Amazon Data Centers",
-      "summary_th": "Amazon Web Services didn’t design its data centers to withstand war, and now the company admits it can’t recover what’s been lost."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "The AI Slowdown Debate Crashed Salesforce’s Party",
-      "summary_en": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down.",
-      "image": "https://media.wired.com/photos/6aab113b6146f3a3b3e310bc/master/pass/Model-Behavior-Year-Dreamforce-Was-Overtaken-by--Debate-Over-Existential-AI-Fears-Business.jpg",
-      "link": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
-      "published": "Thu, 17 Sep 2026 18:42:25 +0000",
-      "title_th": "The AI Slowdown Debate Crashed Salesforce’s Party",
-      "summary_th": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "review",
-      "title_en": "Apple Watch Series 12 Review: Finally, a Readiness Score (2026)",
-      "summary_en": "After wearing it day and night for a week, I found that better health tracking, faster charging, and a simpler interface make Apple’s latest smartwatch noticeably easier to live with.",
-      "image": "https://media.wired.com/photos/6aab51d5fb7533563c98fa41/master/pass/GettyImages-2293832395.jpg",
-      "link": "https://www.wired.com/review/apple-watch-series-12/",
-      "published": "Thu, 17 Sep 2026 12:01:00 +0000",
-      "title_th": "Apple Watch Series 12 Review: Finally, a Readiness Score (2026)",
-      "summary_th": "After wearing it day and night for a week, I found that better health tracking, faster charging, and a simpler interface make Apple’s latest smartwatch noticeably easier to live with."
     },
     {
       "source": "MIT Technology Review",
@@ -426,6 +426,30 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "WebKit blog breaks down what’s new with Safari 27 for developers, including MCP support",
+      "summary_en": "Following the rollout of Apple’s 2027 system releases, the WebKit blog has now published an in-depth look at what’s new with Safari 27.0. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/safari-27.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/17/webkit-blog-breaks-down-whats-new-with-safari-27-for-developers-including-mcp-support/",
+      "published": "Fri, 18 Sep 2026 02:18:35 +0000",
+      "title_th": "WebKit blog breaks down what’s new with Safari 27 for developers, including MCP support",
+      "summary_th": "Following the rollout of Apple’s 2027 system releases, the WebKit blog has now published an in-depth look at what’s new with Safari 27.0. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "WhatsApp starts rolling out new in-chat search button on iOS",
+      "summary_en": "Following a few weeks of beta testing, WhatsApp is now rolling out its new in-chat search button to iPhone users. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/whatsapp-ios27.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/17/whatsapp-starts-rolling-out-new-in-chat-search-button-on-ios/",
+      "published": "Fri, 18 Sep 2026 01:41:34 +0000",
+      "title_th": "WhatsApp starts rolling out new in-chat search button on iOS",
+      "summary_th": "Following a few weeks of beta testing, WhatsApp is now rolling out its new in-chat search button to iPhone users. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Judge rejects OpenAI’s bid to see X’s confidential settlement with Apple in antitrust lawsuit",
       "summary_en": "Judge Mark Pittman today rejected OpenAI’s request to obtain X and SpaceXAI’s confidential settlement agreement with Apple in their ongoing antitrust case. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/Meta-community-notes-now-open-to-contributors-as-Musk-threatens-to-fix-them-on-X.jpg?quality=82&strip=all&resize=1200,628",
@@ -459,28 +483,16 @@
       "summary_th": "In a hearing today, Apple challenged the UK government’s refusal to publicly confirm whether it has issued an order requiring the company to provide access to encrypted user data. Here are the details. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Meta AI launches Muse personal agent, including apps for iPhone and Mac",
-      "summary_en": "Update: Nine days later, Muse now includes a Mac app. You can download it here . Meta AI just launched a brand-new iPhone app called Muse from Meta. Similar to Grok Bot in presentation, Muse is a personal AI agent that handles tasks for you. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/muse-agent.webp?resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/17/meta-ai-launches-muse-personal-agent-including-a-new-mobile-app-for-iphone/",
-      "published": "Thu, 17 Sep 2026 22:30:10 +0000",
-      "title_th": "Meta AI launches Muse personal agent, including apps for iPhone and Mac",
-      "summary_th": "Update: Nine days later, Muse now includes a Mac app. You can download it here . Meta AI just launched a brand-new iPhone app called Muse from Meta. Similar to Grok Bot in presentation, Muse is a personal AI agent that handles tasks for you. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "macOS 27: What’s new for the Photos app?",
-      "summary_en": "9to5Mac is brought to you by CleanMyMac by MacPaw . With the release of macOS 27 Golden Gate, use CleanMyMac first to free up space, optimize your system, and ensure your new Mac runs at 100% on day one. Learn more . macOS 27 Golden Gate doesn’t give the Photos app a dramatic redesign. Instead, Photos gains a surprisingly broad set of various improvements this year. These range from Apple Intelligence-powered editing, new ways to organize and sort your collection, better sharing tools, and much more. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/photos-macos-27-golden-gate.webp?resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/17/macos-27-whats-new-for-the-photos-app/",
-      "published": "Thu, 17 Sep 2026 21:52:38 +0000",
-      "title_th": "macOS 27: What’s new for the Photos app?",
-      "summary_th": "9to5Mac is brought to you by CleanMyMac by MacPaw . With the release of macOS 27 Golden Gate, use CleanMyMac first to free up space, optimize your system, and ensure your new Mac runs at 100% on day one. Learn more . macOS 27 Golden Gate doesn’t give the Photos app a dramatic redesign. Instead, Photos gains a surprisingly broad set of various improvements this year. These range from Apple Intelligence-powered editing, new ways to organize and sort your collection, better sharing tools, and much more. more…"
+      "title_en": "Pixel Now Playing update brings interface tweaks & notifications [U]",
+      "summary_en": "The next wave of Pixel app updates is starting with Google rolling out the latest version of Now Playing with interface tweaks. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-pixel-now-playing-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/17/pixel-now-playing-tweaks/",
+      "published": "Fri, 18 Sep 2026 02:57:00 +0000",
+      "title_th": "Pixel Now Playing update brings interface tweaks & notifications [U]",
+      "summary_th": "The next wave of Pixel app updates is starting with Google rolling out the latest version of Now Playing with interface tweaks. more…"
     },
     {
       "source": "9to5Google",
@@ -529,18 +541,6 @@
       "published": "Thu, 17 Sep 2026 18:11:27 +0000",
       "title_th": "Today’s Android app deals and freebies: Aporkalypse, One More Button, Dead Cells, more",
       "summary_th": "Today’s best Google Play app and game deals are ready, including Aporkalypse – Pigs of Doom, Titan Quest, TLOTS: Gold Edition, Neighbours back From Hell, One More Button, Dead Cells, Defenchick: tower defense, Last Survivor: Survival Pro, and more. Just be sure to dive into Google’s vibrant new Hibiscus Pixel 11 down at the Amazon all-time low and Pixel Watch 5 LTE at $100 off via Amazon . The apps await below. more…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Google goes in-depth, and a bit NSFW, on Noto 3D emoji as Android rollout expands",
-      "summary_en": "Google Design published a more detailed explanation of Noto 3D today as it expands beyond Pixel devices . more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Noto-3D-cover.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/17/google-noto-3d-emoji-rollout/",
-      "published": "Thu, 17 Sep 2026 18:02:22 +0000",
-      "title_th": "Google goes in-depth, and a bit NSFW, on Noto 3D emoji as Android rollout expands",
-      "summary_th": "Google Design published a more detailed explanation of Noto 3D today as it expands beyond Pixel devices . more…"
     },
     {
       "source": "Electrek",
@@ -608,66 +608,187 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 219.34,
+      "change": 5.44,
+      "change_pct": 2.54
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 366.2,
+      "change": 8.12,
+      "change_pct": 2.27
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 347.33,
+      "change": 4.46,
+      "change_pct": 1.3
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 497.75,
+      "change": 7.45,
+      "change_pct": 1.52
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 337.0,
+      "change": 4.59,
+      "change_pct": 1.38
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 251.19,
+      "change": 5.23,
+      "change_pct": 2.13
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 682.31,
+      "change": 9.0,
+      "change_pct": 1.34
     },
     {
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 240.0,
-      "change": 7.0,
-      "change_pct": 3.0
+      "price": 242.0,
+      "change": 2.0,
+      "change_pct": 0.83
     }
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "iPhone 18 Pro Review: All About that Chip",
+      "video_id": "ohqxP8EEumo",
+      "link": "https://www.youtube.com/watch?v=ohqxP8EEumo",
+      "thumbnail": "https://i4.ytimg.com/vi/ohqxP8EEumo/hqdefault.jpg",
+      "published": "2026-09-16T12:01:27+00:00",
+      "title_th": "iPhone 18 Pro Review: All About that Chip"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "iPhone Duo: What We Missed!",
+      "video_id": "6D__H_DO2Xk",
+      "link": "https://www.youtube.com/watch?v=6D__H_DO2Xk",
+      "thumbnail": "https://i3.ytimg.com/vi/6D__H_DO2Xk/hqdefault.jpg",
+      "published": "2026-09-12T21:36:57+00:00",
+      "title_th": "iPhone Duo: What We Missed!"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "iPhone 18 Pro/Duo Impressions: Mogged",
+      "video_id": "Od6M0AXpcxQ",
+      "link": "https://www.youtube.com/watch?v=Od6M0AXpcxQ",
+      "thumbnail": "https://i4.ytimg.com/vi/Od6M0AXpcxQ/hqdefault.jpg",
+      "published": "2026-09-10T07:29:55+00:00",
+      "title_th": "iPhone 18 Pro/Duo Impressions: Mogged"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "The Gold Standard... The New Lawn Mower Ultra Gen 6 by @Manscaped",
+      "video_id": "PX9QhKZJUeU",
+      "link": "https://www.youtube.com/shorts/PX9QhKZJUeU",
+      "thumbnail": "https://i1.ytimg.com/vi/PX9QhKZJUeU/hqdefault.jpg",
+      "published": "2026-09-16T15:43:49+00:00",
+      "title_th": "The Gold Standard... The New Lawn Mower Ultra Gen 6 by @Manscaped"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "The Ultimate Adventure Camera...",
+      "video_id": "PDytCGbgyvo",
+      "link": "https://www.youtube.com/shorts/PDytCGbgyvo",
+      "thumbnail": "https://i1.ytimg.com/vi/PDytCGbgyvo/hqdefault.jpg",
+      "published": "2026-09-15T20:57:17+00:00",
+      "title_th": "The Ultimate Adventure Camera..."
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Unboxing a 170kg Desktop Factory #InfiMaker",
+      "video_id": "w_iHZi4fb8k",
+      "link": "https://www.youtube.com/watch?v=w_iHZi4fb8k",
+      "thumbnail": "https://i4.ytimg.com/vi/w_iHZi4fb8k/hqdefault.jpg",
+      "published": "2026-09-10T15:00:03+00:00",
+      "title_th": "Unboxing a 170kg Desktop Factory #InfiMaker"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "แอป Photos ใน iOS 27 ฉลาดขึ้นด้วย Siri AI",
+      "video_id": "f89AbvaGX88",
+      "link": "https://www.youtube.com/shorts/f89AbvaGX88",
+      "thumbnail": "https://i3.ytimg.com/vi/f89AbvaGX88/hqdefault.jpg",
+      "published": "2026-09-18T04:15:24+00:00",
+      "title_th": "แอป Photos ใน iOS 27 ฉลาดขึ้นด้วย Siri AI"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "iPhone 18 จับจริงทุกสี Part 2/2",
+      "video_id": "2o-lwDx4lio",
+      "link": "https://www.youtube.com/shorts/2o-lwDx4lio",
+      "thumbnail": "https://i3.ytimg.com/vi/2o-lwDx4lio/hqdefault.jpg",
+      "published": "2026-09-18T02:50:55+00:00",
+      "title_th": "iPhone 18 จับจริงทุกสี Part 2/2"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "iPhone 18 จับจริงทุกสี Part 1/2",
+      "video_id": "U7FmB0-qiBY",
+      "link": "https://www.youtube.com/shorts/U7FmB0-qiBY",
+      "thumbnail": "https://i2.ytimg.com/vi/U7FmB0-qiBY/hqdefault.jpg",
+      "published": "2026-09-18T02:50:47+00:00",
+      "title_th": "iPhone 18 จับจริงทุกสี Part 1/2"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รีวิว HUAWEI Watch GT 7 Pro สมาร์ทวอทช์เรือนหรู สายสุขภาพตัวจริง แบตอึดยาวนาน 21 วัน",
+      "video_id": "q2GEwaL5FeU",
+      "link": "https://www.youtube.com/watch?v=q2GEwaL5FeU",
+      "thumbnail": "https://i2.ytimg.com/vi/q2GEwaL5FeU/hqdefault.jpg",
+      "published": "2026-09-14T12:00:35+00:00",
+      "title_th": "รีวิว HUAWEI Watch GT 7 Pro สมาร์ทวอทช์เรือนหรู สายสุขภาพตัวจริง แบตอึดยาวนาน 21 วัน"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "Samsung Galaxy S25 Ultra กับ S26 FE ราคาห่างกันเท่านี้ บอกเลยหวานเจี๊ยบ #GalaxyS26FE #GalaxyS25Ultra",
+      "video_id": "XaDsw7mnaRY",
+      "link": "https://www.youtube.com/shorts/XaDsw7mnaRY",
+      "thumbnail": "https://i1.ytimg.com/vi/XaDsw7mnaRY/hqdefault.jpg",
+      "published": "2026-09-13T15:32:40+00:00",
+      "title_th": "Samsung Galaxy S25 Ultra กับ S26 FE ราคาห่างกันเท่านี้ บอกเลยหวานเจี๊ยบ #GalaxyS26FE #GalaxyS25Ultra"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "iPhone , Samsung ขึ้นราคาแพ็คคู่/ AI อันตรายเกินควบคุม/ vivo X500 / OPPON Find X20/ Xiaomi 18 Fold",
+      "video_id": "jLRvekZ0lWk",
+      "link": "https://www.youtube.com/watch?v=jLRvekZ0lWk",
+      "thumbnail": "https://i3.ytimg.com/vi/jLRvekZ0lWk/hqdefault.jpg",
+      "published": "2026-09-12T13:00:02+00:00",
+      "title_th": "iPhone , Samsung ขึ้นราคาแพ็คคู่/ AI อันตรายเกินควบคุม/ vivo X500 / OPPON Find X20/ Xiaomi 18 Fold"
+    }
+  ]
 }
