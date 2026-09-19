@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-09-19T19:57:42.845116+00:00",
+  "generated_at": "2026-09-19T22:52:03.197945+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "summary_en": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/flock-protest.jpg?resize=1131,1200",
+      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "published": "Sat, 19 Sep 2026 20:39:13 +0000",
+      "title_th": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "summary_th": "Without buyouts, Flock would \"almost certainly\" need to lay off staff."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "summary_en": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/donald-trump-open-mouth.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "published": "Sat, 19 Sep 2026 19:57:47 +0000",
+      "title_th": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "summary_th": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -18,12 +42,12 @@
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors",
+      "title_en": "The US Navy just told us what’s on its tech wish list for the next several years",
       "summary_en": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Commercial-plane-clouds.jpg?w=719",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Navy-shopping-cart.png?resize=1200,800",
       "link": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
       "published": "Sat, 19 Sep 2026 17:00:00 +0000",
-      "title_th": "Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors",
+      "title_th": "The US Navy just told us what’s on its tech wish list for the next several years",
       "summary_th": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next."
     },
     {
@@ -39,28 +63,16 @@
       "summary_th": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "AI safety conversations have gotten unbelievable",
-      "summary_en": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1662708140-e1721664527112.jpg?resize=1200,676",
-      "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-      "published": "Sat, 19 Sep 2026 15:00:00 +0000",
-      "title_th": "AI safety conversations have gotten unbelievable",
-      "summary_th": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Prices go up in 7 days. Get your Disrupt ticket now.",
-      "summary_en": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/02/38818582982_37b9719635_o.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-      "published": "Sat, 19 Sep 2026 14:00:00 +0000",
-      "title_th": "Prices go up in 7 days. Get your Disrupt ticket now.",
-      "summary_th": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.."
+      "category": "software",
+      "title_en": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "summary_en": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257890_Chatbot_secrets_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "published": "2026-09-19T16:44:40-04:00",
+      "title_th": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "summary_th": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads […]"
     },
     {
       "source": "The Verge",
@@ -109,18 +121,6 @@
       "published": "2026-09-19T10:00:00-04:00",
       "title_th": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
       "summary_th": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "It’s not just LG. Every TV company is spying on you",
-      "summary_en": "The TV world has been a pot of controversy thanks to a two-hour-and-15-minute video from Gamers Nexus claiming LG TVs are nefariously spying on everything you do. They can record and store audio even when they seem to be off, track everything you watch, and could even be hacked remotely and turned into covert surveillance […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258078_LG_G5_OLED_TV_JHiggins_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/997682/every-tv-company-is-spying",
-      "published": "2026-09-19T09:00:00-04:00",
-      "title_th": "It’s not just LG. Every TV company is spying on you",
-      "summary_th": "The TV world has been a pot of controversy thanks to a two-hour-and-15-minute video from Gamers Nexus claiming LG TVs are nefariously spying on everything you do. They can record and store audio even when they seem to be off, track everything you watch, and could even be hacked remotely and turned into covert surveillance […]"
     },
     {
       "source": "Ars Technica",
@@ -366,18 +366,6 @@
       "source": "IEEE Spectrum",
       "flag": "US",
       "category": "robot",
-      "title_en": "Parallel Reads and Write Optimization for Large-Scale Data Replication",
-      "summary_en": "This White Paper gives data engineers and architects a practical overview of how parallel partitioned reads, write-path optimization, and cloud-native bulk loading reduce large-table replication times, and why replication speed has become a business concern as data volumes grow. Download this free whitepaper now!",
-      "image": "https://assets.rbl.ms/67794446/origin.png",
-      "link": "https://content.knowledgehub.wiley.com/76-faster-replication-same-infrastructure/",
-      "published": "Fri, 18 Sep 2026 18:29:50 +0000",
-      "title_th": "Parallel Reads and Write Optimization for Large-Scale Data Replication",
-      "summary_th": "This White Paper gives data engineers and architects a practical overview of how parallel partitioned reads, write-path optimization, and cloud-native bulk loading reduce large-table replication times, and why replication speed has become a business concern as data volumes grow. Download this free whitepaper now!"
-    },
-    {
-      "source": "IEEE Spectrum",
-      "flag": "US",
-      "category": "robot",
       "title_en": "Turning Tech Talent Into Leadership Legacy",
       "summary_en": "Transitioning from years of working in a senior technical or executive role to a leadership position is one of the most challenging phases of a STEM career. It requires moving away from making decisions on your own to mentoring others, making strategic decisions for the organization, and collaborating with coworkers from different generations. The shift in mindset is known as “legacy leadership,” a philosophy whereby success is no longer measured by personal achievements but by how effectively a senior leader empowers others. To help seasoned professionals and senior experts navigate the transition, the inaugural IEEE International Leadership Conference (ILC) will provide attendees practical advice on cultivating collaborations and guiding emerging talent. “Early in our STEM careers, we me",
       "image": "https://spectrum.ieee.org/media-library/a-team-of-seven-people-having-a-work-meeting-in-an-open-concept-office-space.jpg?id=67787397&width=980",
@@ -423,6 +411,54 @@
       "summary_th": "Since about 2020, AI has largely focused on training bigger and better models. Large language models (LLMs) ballooned from millions of parameters to trillions. This proved effective: The largest version of OpenAI’s GPT-3, released in 2020, correctly answered just 43.9 percent of questions on a popular knowledge-and-reasoning benchmark. Just four years later, GPT-4o reached a score of 88.7 percent on the same exam, effectively matching those of human experts. Advanced AI labs are still training ever larger models, but that training has somewhat receded to the background of the AI conversation. In 2026, inference—the use of trained models to produce code, write essays, or make images of ourselves as elves—has come to the forefront. “It’s like training is yesterday’s news,” says Matt Kimball "
     },
     {
+      "source": "IEEE Spectrum",
+      "flag": "US",
+      "category": "ev",
+      "title_en": "The Mind-bending Joyrides That Gave Rise to Tesla",
+      "summary_en": "In 2003, Martin Eberhard, a cofounder of Tesla Motors , decided it was time to start wooing investors. To do that, however, he needed an electric car. So he talked to Alan Cocconi and asked if he could borrow the tZero , the revolutionary and blazingly fast electric roadster that Cocconi had built at AC Propulsion . Eberhard’s idea was to drive the tZero up and down Sand Hill Road in the heart of Silicon Valley and do demonstrations for curious entrepreneurs and VCs. Eberhard was joined by Tom Gage , Cocconi’s partner at AC Propulsion, on many of the visits. Like Tesla, AC Propulsion was also seeking investors, but to build a considerably more utilitarian EV. Adapted with permission from The EV Guys: How Caltech Engineers Reinvented the Electric Car , by Charles J. Murray, published by Pur",
+      "image": "https://spectrum.ieee.org/media-library/a-collage-shows-four-men-and-two-sports-cars-one-red-and-one-yellow.jpg?id=67759786&width=980",
+      "link": "https://spectrum.ieee.org/elon-musk-tesla",
+      "published": "Tue, 15 Sep 2026 12:13:58 +0000",
+      "title_th": "The Mind-bending Joyrides That Gave Rise to Tesla",
+      "summary_th": "In 2003, Martin Eberhard, a cofounder of Tesla Motors , decided it was time to start wooing investors. To do that, however, he needed an electric car. So he talked to Alan Cocconi and asked if he could borrow the tZero , the revolutionary and blazingly fast electric roadster that Cocconi had built at AC Propulsion . Eberhard’s idea was to drive the tZero up and down Sand Hill Road in the heart of Silicon Valley and do demonstrations for curious entrepreneurs and VCs. Eberhard was joined by Tom Gage , Cocconi’s partner at AC Propulsion, on many of the visits. Like Tesla, AC Propulsion was also seeking investors, but to build a considerably more utilitarian EV. Adapted with permission from The EV Guys: How Caltech Engineers Reinvented the Electric Car , by Charles J. Murray, published by Pur"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple Watch Series 12 and Ultra 4 missing one health-focused feature",
+      "summary_en": "Well, this is odd. The handwashing timer feature is currently absent from the new Apple Watch Series 12 and Ultra 4 hardware. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12.webp?resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/19/apple-watch-series-12-ultra-4-missing-one-health-feature/",
+      "published": "Sat, 19 Sep 2026 22:16:41 +0000",
+      "title_th": "Apple Watch Series 12 and Ultra 4 missing one health-focused feature",
+      "summary_th": "Well, this is odd. The handwashing timer feature is currently absent from the new Apple Watch Series 12 and Ultra 4 hardware. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple is taking a little bit of a gamble with iPhone Duo software: Will it pay off?",
+      "summary_en": "With the new iPhone Duo, Apple is taking a little bit of a software gamble. All apps, in order to take advantage of the larger inner display of iPhone Duo, will need to be recompiled for iOS 27.0 at a minimum. To use the Duo’s unique new tab bar and other UI components, you’ll need iOS 27.1 . Of course, this means a lot of developers will have to rebuild to support the Duo. On the flip side, it also means Apple is taking a risk of many apps on iPhone Duo being stuck in black bars . more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-official-front.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/19/apples-iphone-duo-software-gamble/",
+      "published": "Sat, 19 Sep 2026 20:46:00 +0000",
+      "title_th": "Apple is taking a little bit of a gamble with iPhone Duo software: Will it pay off?",
+      "summary_th": "With the new iPhone Duo, Apple is taking a little bit of a software gamble. All apps, in order to take advantage of the larger inner display of iPhone Duo, will need to be recompiled for iOS 27.0 at a minimum. To use the Duo’s unique new tab bar and other UI components, you’ll need iOS 27.1 . Of course, this means a lot of developers will have to rebuild to support the Duo. On the flip side, it also means Apple is taking a risk of many apps on iPhone Duo being stuck in black bars . more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Indie App Spotlight: ‘GasPulse’ lets you keep an eye on gas price trends around you",
+      "summary_en": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . In this day and age, gas prices fluctuate quite a lot. If you want to have a better idea of how things are flowing, GasPulse is a great tool – giving you trends, historical prices, and an outlook to follow on your iPhone. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/GasPulse-app.png?resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/19/indie-app-spotlight-gaspulse-lets-you-keep-an-eye-on-gas-price-trends-around-you/",
+      "published": "Sat, 19 Sep 2026 19:30:00 +0000",
+      "title_th": "Indie App Spotlight: ‘GasPulse’ lets you keep an eye on gas price trends around you",
+      "summary_th": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . In this day and age, gas prices fluctuate quite a lot. If you want to have a better idea of how things are flowing, GasPulse is a great tool – giving you trends, historical prices, and an outlook to follow on your iPhone. more…"
+    },
+    {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
@@ -445,42 +481,6 @@
       "published": "Sat, 19 Sep 2026 13:57:00 +0000",
       "title_th": "Our top iPhone 18 Pro accessories to upgrade your setup [Updated]",
       "summary_th": "We are taking look at some of the iPhone 18 Pro accessories we are picking up for ourselves this year before Friday’s delivery day. If you ask me Apple’s AirTag 2 and a fresh set of AirPods Pro 3 (or AirPods 5) are the best accessories you can buy for your new iPhone 18 Pro, never mind the world’s greatest Polishing Cloth, but we are digging in a bit deeper here – chargers, MagSafe mounts, cases, wallets, and more. Check it all out below. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple @ Work: Enterprise oassword management is still hard, and Dashlane’s new Vault Enforcement aims to fix it",
-      "summary_en": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . There was a post on X going viral a few weeks ago about password management. The password keeper book is more secure than most people want to admit. As the user said: Reminder that it is quite difficult to hack a piece of paper. Nobody is gonna zero day a book on a shelf in your house, ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/19/apple-work-password-management-is-still-hard-and-dashlanes-new-vault-enforcement-admits-it/",
-      "published": "Sat, 19 Sep 2026 13:00:00 +0000",
-      "title_th": "Apple @ Work: Enterprise oassword management is still hard, and Dashlane’s new Vault Enforcement aims to fix it",
-      "summary_th": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . There was a post on X going viral a few weeks ago about password management. The password keeper book is more secure than most people want to admit. As the user said: Reminder that it is quite difficult to hack a piece of paper. Nobody is gonna zero day a book on a shelf in your house, "
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple weekend deals: AirPods up to $100 off, Apple Watch Series 12, MacBook Air, Mac mini, more",
-      "summary_en": "Your weekend Apple deals have arrived, much like the first wave of iPhone 18 Pro orders and all of the discounts we are tracking on cases and accessories as part of Amazon’s early fall Prime Day deals. Those offers join a $50 price drop on AirPods Pro 3, and the $100 discount AirPods Max 2. Alongside some Apple Watch Series 12 and Apple Watch Ultra 4 price drops, we have the return of pre-order discounts on the new M6 Mac mini and Mac Studio joined by solid $150 price drops on M5 MacBook Air models, and more. Check it out below. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-Weekend-deals-AirPods-Series-12-MacBook.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/19/apple-weekend-deals-airpods-apple-watch/",
-      "published": "Sat, 19 Sep 2026 12:01:56 +0000",
-      "title_th": "Apple weekend deals: AirPods up to $100 off, Apple Watch Series 12, MacBook Air, Mac mini, more",
-      "summary_th": "Your weekend Apple deals have arrived, much like the first wave of iPhone 18 Pro orders and all of the discounts we are tracking on cases and accessories as part of Amazon’s early fall Prime Day deals. Those offers join a $50 price drop on AirPods Pro 3, and the $100 discount AirPods Max 2. Alongside some Apple Watch Series 12 and Apple Watch Ultra 4 price drops, we have the return of pre-order discounts on the new M6 Mac mini and Mac Studio joined by solid $150 price drops on M5 MacBook Air models, and more. Check it out below. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "iPhone 18 Pro Max still uses a Qualcomm modem in the US, teardown confirms",
-      "summary_en": "TechInsights has published one of the first in-depth iPhone 18 Pro Max teardowns. Most notably, the teardown confirms that the iPhone 18 Pro Max sold in the United States still uses a Qualcomm modem. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-41.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/19/iphone-18-pro-max-still-uses-a-qualcomm-modem-in-the-us-teardown-confirms/",
-      "published": "Sat, 19 Sep 2026 11:45:46 +0000",
-      "title_th": "iPhone 18 Pro Max still uses a Qualcomm modem in the US, teardown confirms",
-      "summary_th": "TechInsights has published one of the first in-depth iPhone 18 Pro Max teardowns. Most notably, the teardown confirms that the iPhone 18 Pro Max sold in the United States still uses a Qualcomm modem. more…"
     },
     {
       "source": "9to5Google",
