@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-09-20T18:05:10.988177+00:00",
+  "generated_at": "2026-09-20T20:11:25.184007+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Is the AI industry really ready to slow down?",
+      "summary_en": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "published": "Sun, 20 Sep 2026 18:56:04 +0000",
+      "title_th": "Is the AI industry really ready to slow down?",
+      "summary_th": "On Equity, we debated whether Ai executives are serious about wanting to slow down."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "ScrollEd wants to turn textbooks into TikTok",
+      "summary_en": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Socrates-as-Tik-Tok-feed.png?resize=1200,800",
+      "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "published": "Sun, 20 Sep 2026 18:00:00 +0000",
+      "title_th": "ScrollEd wants to turn textbooks into TikTok",
+      "summary_th": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -39,28 +63,16 @@
       "summary_th": "Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bought them. Putnam, a trained ballerina with a small chain of boutique studios, built the connected-fitness company Mirror and sold it to Lululemon for $500 million in cash less than three years later. […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "6 days left to get ahead at TechCrunch Disrupt 2026",
-      "summary_en": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/05/ac_crowd.png?resize=1200,675",
-      "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-      "published": "Sun, 20 Sep 2026 14:00:00 +0000",
-      "title_th": "6 days left to get ahead at TechCrunch Disrupt 2026",
-      "summary_th": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Flock reportedly tries to shrink workforce with employee buyouts",
-      "summary_en": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/flock-protest.jpg?resize=1131,1200",
-      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-      "published": "Sat, 19 Sep 2026 20:39:13 +0000",
-      "title_th": "Flock reportedly tries to shrink workforce with employee buyouts",
-      "summary_th": "Without buyouts, Flock would \"almost certainly\" need to lay off staff."
+      "category": "software",
+      "title_en": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+      "summary_en": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "published": "2026-09-20T14:50:18-04:00",
+      "title_th": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+      "summary_th": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the […]"
     },
     {
       "source": "The Verge",
@@ -109,18 +121,6 @@
       "published": "2026-09-20T08:00:00-04:00",
       "title_th": "The hidden monopoly behind your TI graphing calculator",
       "summary_th": "The same calculator has been on most kids' back to school shopping list since the early 2000's and the dominance of Texas Instruments' calculator division goes back even farther. In the next episode of Version History, David Pierce is joined by The Verge's Nilay Patel and Victoria Song to tell the story of TI graphing […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-      "summary_en": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive in residence for public safety and resilience at […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220309_4977_0292.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-      "published": "2026-09-20T08:00:00-04:00",
-      "title_th": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-      "summary_th": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive in residence for public safety and resilience at […]"
     },
     {
       "source": "Ars Technica",
@@ -306,6 +306,18 @@
       "source": "Engadget",
       "flag": "US",
       "category": "gadget",
+      "title_en": "The benefits of using an E Ink tablet over an iPad",
+      "summary_en": "E Ink excels for tasks like reading and note-taking.",
+      "image": "https://www.engadget.com/img/gallery/the-benefits-of-using-an-e-ink-tablet-over-an-ipad/l-intro-1789507702.jpg",
+      "link": "https://www.engadget.com/2259639/using-e-ink-tablets-over-ipad-benefits/",
+      "published": "Sun, 20 Sep 2026 18:00:00 +0000",
+      "title_th": "The benefits of using an E Ink tablet over an iPad",
+      "summary_th": "E Ink excels for tasks like reading and note-taking."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
       "title_en": "How to customize the side button on your Samsung Galaxy phone",
       "summary_en": "The side button on Samsung's Galaxy phones has performed different functions over the years, but you can really make it do whatever you want.",
       "image": "https://www.engadget.com/img/gallery/how-to-customize-the-side-button-on-your-samsung-galaxy-phone/l-intro-1788956479.jpg",
@@ -349,18 +361,6 @@
       "published": "Sun, 20 Sep 2026 16:00:00 +0000",
       "title_th": "How to use your phone as a remote for any smart TV",
       "summary_th": "Some phones have IR blasters to enable remote functions, but even if yours doesn't, you can do quite a lot over Bluetooth and Wi-Fi."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "How to set up your Sonos speakers using the app",
-      "summary_en": "Whether you just got a Sonos speaker or you're adding one to your current setup, you'll need to use the app.",
-      "image": "https://www.engadget.com/img/gallery/how-to-set-up-your-sonos-speakers-using-the-app/l-intro-1789153054.jpg",
-      "link": "https://www.engadget.com/2259348/how-to-set-up-sonos-speakers-using-app/",
-      "published": "Sun, 20 Sep 2026 15:30:00 +0000",
-      "title_th": "How to set up your Sonos speakers using the app",
-      "summary_th": "Whether you just got a Sonos speaker or you're adding one to your current setup, you'll need to use the app."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,18 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "Five ways that the new Siri AI is frustrating iPhone and Apple Watch users",
+      "summary_en": "The new version of Siri, Siri AI, launched to the masses this month as part of iOS 27. The new Siri is rolling out gradually to users via a waitlist, and is labelled as a ‘beta’ indicating that Apple still has some work to do in follow-up releases. The new Siri is much better at answering questions with access to rich knowledge, can search through your messages and notes for personal context queries, and can take action based on what is on your screen with onscreen awareness. However, the new Siri is not being welcomed with open arms by everyone … more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/20/five-ways-that-the-new-siri-ai-is-frustrating-iphone-and-apple-watch-users/",
+      "published": "Sun, 20 Sep 2026 18:35:12 +0000",
+      "title_th": "Five ways that the new Siri AI is frustrating iPhone and Apple Watch users",
+      "summary_th": "The new version of Siri, Siri AI, launched to the masses this month as part of iOS 27. The new Siri is rolling out gradually to users via a waitlist, and is labelled as a ‘beta’ indicating that Apple still has some work to do in follow-up releases. The new Siri is much better at answering questions with access to rich knowledge, can search through your messages and notes for personal context queries, and can take action based on what is on your screen with onscreen awareness. However, the new Siri is not being welcomed with open arms by everyone … more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Here’s why Apple scrapped its shorter Apple Pencil designed for iPhone Duo: report",
       "summary_en": "Leading into the iPhone Duo launch, we heard from Bloomberg’s Mark Gurman that Apple was considering a new Apple Pencil for iPhone Duo, though it was unlikely that the company would go forward with it. Of course, the iPhone Duo keynote came, and Apple did announce support for the USB-C Apple Pencil. Here’s how that happened. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-side-angle-unfolded.jpg?quality=82&strip=all&resize=1200,628",
@@ -469,18 +481,6 @@
       "published": "Sat, 19 Sep 2026 20:46:00 +0000",
       "title_th": "Apple is taking a little bit of a gamble with iPhone Duo software: Will it pay off?",
       "summary_th": "With the new iPhone Duo, Apple is taking a little bit of a software gamble. All apps, in order to take advantage of the larger inner display of iPhone Duo, will need to be recompiled for iOS 27.0 at a minimum. To use the Duo’s unique new tab bar and other UI components, you’ll need iOS 27.1 . Of course, this means a lot of developers will have to rebuild to support the Duo. On the flip side, it also means Apple is taking a risk of many apps on iPhone Duo being stuck in black bars . more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Indie App Spotlight: ‘GasPulse’ lets you keep an eye on gas price trends around you",
-      "summary_en": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . In this day and age, gas prices fluctuate quite a lot. If you want to have a better idea of how things are flowing, GasPulse is a great tool – giving you trends, historical prices, and an outlook to follow on your iPhone. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/GasPulse-app.png?resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/19/indie-app-spotlight-gaspulse-lets-you-keep-an-eye-on-gas-price-trends-around-you/",
-      "published": "Sat, 19 Sep 2026 19:30:00 +0000",
-      "title_th": "Indie App Spotlight: ‘GasPulse’ lets you keep an eye on gas price trends around you",
-      "summary_th": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . In this day and age, gas prices fluctuate quite a lot. If you want to have a better idea of how things are flowing, GasPulse is a great tool – giving you trends, historical prices, and an outlook to follow on your iPhone. more…"
     },
     {
       "source": "9to5Google",
