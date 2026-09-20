@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T08:17:16.298853+00:00",
+  "generated_at": "2026-09-20T13:34:47.351519+00:00",
   "count": 50,
   "articles": [
     {
@@ -126,6 +126,18 @@
       "source": "Ars Technica",
       "flag": "US",
       "category": "software",
+      "title_en": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+      "summary_en": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2216350484-1152x648.jpg",
+      "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+      "published": "Sun, 20 Sep 2026 11:07:00 +0000",
+      "title_th": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+      "summary_th": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle."
+    },
+    {
+      "source": "Ars Technica",
+      "flag": "US",
+      "category": "software",
       "title_en": "LLMs respond differently to harmful prompts when AI watermarking is used",
       "summary_en": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-1152x556.jpg",
@@ -171,76 +183,64 @@
       "summary_th": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors."
     },
     {
-      "source": "Ars Technica",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Why this month's Microsoft patch release is a doozy",
-      "summary_en": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-      "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-      "published": "Tue, 08 Sep 2026 21:11:46 +0000",
-      "title_th": "Why this month's Microsoft patch release is a doozy",
-      "summary_th": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
-      "summary_en": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
-      "image": "https://media.wired.com/photos/6aada5d618f30d6f17ee2971/master/pass/Kernal-Panic-AI-SlowDown-Wont-Stop-Security-Vulnerability-Explosion-Security.jpg",
-      "link": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
-      "published": "Sat, 19 Sep 2026 11:00:00 +0000",
-      "title_th": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
-      "summary_th": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Tired of Cluttered Productivity Apps? This One’s Just a Text Document",
-      "summary_en": "The totally free macOS app Tasks.txt makes up for missing features with sheer elegance.",
-      "image": "https://media.wired.com/photos/6aacfa7099aa97f60264424c/master/pass/091826-Productivity%20Doc.jpg",
-      "link": "https://www.wired.com/story/productivity-app-tasks-txt-is-just-a-text-document/",
-      "published": "Sat, 19 Sep 2026 10:30:00 +0000",
-      "title_th": "Tired of Cluttered Productivity Apps? This One’s Just a Text Document",
-      "summary_th": "The totally free macOS app Tasks.txt makes up for missing features with sheer elegance."
-    },
-    {
       "source": "Wired",
       "flag": "US",
       "category": "review",
-      "title_en": "Samsung Galaxy Watch9 Review: I Don’t Need Another Health Score",
-      "summary_en": "Samsung’s latest smartwatch adds even more health metrics to its suite. I spent two weeks testing whether they’re actually useful.",
-      "image": "https://media.wired.com/photos/6aadfb978ffbfab4b483f09a/master/pass/Review--Samsung-Galaxy-Watch9.jpg",
-      "link": "https://www.wired.com/review/samsung-galaxy-watch9/",
-      "published": "Sat, 19 Sep 2026 10:08:00 +0000",
-      "title_th": "Samsung Galaxy Watch9 Review: I Don’t Need Another Health Score",
-      "summary_th": "Samsung’s latest smartwatch adds even more health metrics to its suite. I spent two weeks testing whether they’re actually useful."
+      "title_en": "Thermacell LIV 2.0 Review: Taking My Yard Back",
+      "summary_en": "Thermacell LIV 2.0 is expensive and imperfect, but it outperforms nearly every mosquito-control method I’ve tried.",
+      "image": "https://media.wired.com/photos/6aae0145c68108fad4b9bc12/master/pass/Review--Thermacell-LIV-Smart-Mosquito-Repellent-System-2.0.jpg",
+      "link": "https://www.wired.com/review/thermacell-liv-smart-mosquito-repellent-system-2/",
+      "published": "Sun, 20 Sep 2026 11:07:00 +0000",
+      "title_th": "Thermacell LIV 2.0 Review: Taking My Yard Back",
+      "summary_th": "Thermacell LIV 2.0 is expensive and imperfect, but it outperforms nearly every mosquito-control method I’ve tried."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Mathematicians Hate AI. They Can’t Quit It",
-      "summary_en": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
-      "image": "https://media.wired.com/photos/6aad73fd03ca378a32980599/master/pass/091826-Math%20Hate%20AI.jpg",
-      "link": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
-      "published": "Sat, 19 Sep 2026 10:00:00 +0000",
-      "title_th": "Mathematicians Hate AI. They Can’t Quit It",
-      "summary_th": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful."
+      "title_en": "Meta's Muse Is Better at Surveilling Than Helping Me",
+      "summary_en": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
+      "image": "https://media.wired.com/photos/6aaa7e94f251bfe9554bf013/master/pass/091626-Meta%20Muse.jpg",
+      "link": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
+      "published": "Sun, 20 Sep 2026 10:30:00 +0000",
+      "title_th": "Meta's Muse Is Better at Surveilling Than Helping Me",
+      "summary_th": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Residents Harmed by Oil Drilling May Soon Receive Reparations Under New California Law",
-      "summary_en": "While lawmakers iron out the details, advocates hope this approach could serve as a model for addressing histories of environmental hazards often concentrated in Black and low-income neighborhoods.",
-      "image": "https://media.wired.com/photos/6aad6cbb8ffbfab4b483eaae/master/pass/IMG_2220.jpg",
-      "link": "https://www.wired.com/story/residents-harmed-by-oil-drilling-may-soon-receive-reparations-under-new-california-law/",
-      "published": "Sat, 19 Sep 2026 09:30:00 +0000",
-      "title_th": "Residents Harmed by Oil Drilling May Soon Receive Reparations Under New California Law",
-      "summary_th": "While lawmakers iron out the details, advocates hope this approach could serve as a model for addressing histories of environmental hazards often concentrated in Black and low-income neighborhoods."
+      "title_en": "It’s Donald Trump Versus MAGA on Data Centers",
+      "summary_en": "The president has doubled down on data centers and AI. His base is running in the opposite direction.",
+      "image": "https://media.wired.com/photos/6aad9a65289841154fbf8f24/master/pass/Trump-MAGA-Data-Centers-Column-Science.jpg",
+      "link": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers/",
+      "published": "Sun, 20 Sep 2026 10:30:00 +0000",
+      "title_th": "It’s Donald Trump Versus MAGA on Data Centers",
+      "summary_th": "The president has doubled down on data centers and AI. His base is running in the opposite direction."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Meet the Academics Trying to Stop You From Having Sex in Robotaxis",
+      "summary_en": "“You know ‘Bang Bus’? We don’t want that.”",
+      "image": "https://media.wired.com/photos/6aad1f8e3467874a950d97a5/master/pass/091826-Robotaxi%20No%20Sex.jpg",
+      "link": "https://www.wired.com/story/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis/",
+      "published": "Sun, 20 Sep 2026 10:00:00 +0000",
+      "title_th": "Meet the Academics Trying to Stop You From Having Sex in Robotaxis",
+      "summary_th": "“You know ‘Bang Bus’? We don’t want that.”"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "What ChatGPT Thinks It Knows About You Is Affecting Its Answers. Here’s How to Change That",
+      "summary_en": "Understanding how ChatGPT’s latest memory upgrade works will help you get even more out of OpenAI’s productivity tool.",
+      "image": "https://media.wired.com/photos/6aad0d966fc219f441397668/master/pass/091826-What%20Chat%20GOT%20Remember.jpg",
+      "link": "https://www.wired.com/story/how-to-use-memory-in-chatgpt/",
+      "published": "Sun, 20 Sep 2026 09:30:00 +0000",
+      "title_th": "What ChatGPT Thinks It Knows About You Is Affecting Its Answers. Here’s How to Change That",
+      "summary_th": "Understanding how ChatGPT’s latest memory upgrade works will help you get even more out of OpenAI’s productivity tool."
     },
     {
       "source": "MIT Technology Review",
@@ -306,6 +306,30 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "Here's what you should look for when buying an Android phone for gaming",
+      "summary_en": "If you like gaming on your Android phone, you need a phone that can handle the graphics and processing required.",
+      "image": "https://www.engadget.com/img/gallery/heres-what-you-should-look-for-when-buying-an-android-phone-for-gaming/l-intro-1789484905.jpg",
+      "link": "https://www.engadget.com/2259047/gaming-android-phone-what-to-look-for-when-buying/",
+      "published": "Sun, 20 Sep 2026 12:30:00 +0000",
+      "title_th": "Here's what you should look for when buying an Android phone for gaming",
+      "summary_th": "If you like gaming on your Android phone, you need a phone that can handle the graphics and processing required."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Wired vs. wireless charging: Which is better for battery health?",
+      "summary_en": "Wireless charging offers convenience, to be sure, but how does it affect your battery over time? And is it a problem if your phone heats up?",
+      "image": "https://www.engadget.com/img/gallery/wired-vs-wireless-charging-which-is-better-for-battery-health/l-intro-1789481518.jpg",
+      "link": "https://www.engadget.com/2258952/wired-vs-wireless-charging-better-battery-health/",
+      "published": "Sun, 20 Sep 2026 12:00:00 +0000",
+      "title_th": "Wired vs. wireless charging: Which is better for battery health?",
+      "summary_th": "Wireless charging offers convenience, to be sure, but how does it affect your battery over time? And is it a problem if your phone heats up?"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "How long can you expect your old cassette tapes to last?",
       "summary_en": "Controlling the environmental conditions where your tapes are stored is key to their longevity.",
       "image": "https://www.engadget.com/img/gallery/how-long-can-you-expect-your-old-cassette-tapes-to-last/l-intro-1789054447.jpg",
@@ -337,30 +361,6 @@
       "published": "Sat, 19 Sep 2026 23:30:00 +0000",
       "title_th": "What is the difference between Apple CarPlay and CarPlay Ultra?",
       "summary_th": "CarPlay provides a great iOS-like experience in your vehicle. CarPlay Ultra expands that, but isn't widely available yet."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "The pros and cons of using wired vs. wireless Xbox controllers",
-      "summary_en": "A wireless Xbox controller lets you move around freely, but you have to worry about batteries. Wired controllers can pose a hazard, but never run out of charge.",
-      "image": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-wired-vs-wireless-xbox-controllers/l-intro-1789482961.jpg",
-      "link": "https://www.engadget.com/2258987/wired-vs-wireless-xbox-controllers-pros-cons/",
-      "published": "Sat, 19 Sep 2026 23:00:00 +0000",
-      "title_th": "The pros and cons of using wired vs. wireless Xbox controllers",
-      "summary_th": "A wireless Xbox controller lets you move around freely, but you have to worry about batteries. Wired controllers can pose a hazard, but never run out of charge."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "What are the downsides of robot vacuums?",
-      "summary_en": "Robot vacuums save a lot of time and effort with their ability to clean autonomously. However, there are a number of reasons why they might not work for you.",
-      "image": "https://www.engadget.com/img/gallery/what-are-the-downsides-of-robot-vacuums/l-intro-1789465840.jpg",
-      "link": "https://www.engadget.com/2258772/robot-vacuum-downsides/",
-      "published": "Sat, 19 Sep 2026 22:00:00 +0000",
-      "title_th": "What are the downsides of robot vacuums?",
-      "summary_th": "Robot vacuums save a lot of time and effort with their ability to clean autonomously. However, there are a number of reasons why they might not work for you."
     },
     {
       "source": "IEEE Spectrum",
@@ -546,6 +546,42 @@
       "source": "Electrek",
       "flag": "",
       "category": "ev",
+      "title_en": "As diesel hits $10/gal., rumors swirl that stations are running out",
+      "summary_en": "Last week, a number of diesel stations in California appeared on social media with the prices pinned at 9.99 – the highest number the pumps could display. Today, the pictures are showing something different: gas stations that are out of diesel entirely . more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/diesel-price_out-of-fuel.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/20/as-diesel-hits-10-gal-rumors-swirl-that-stations-are-running-out/",
+      "published": "Sun, 20 Sep 2026 13:06:10 +0000",
+      "title_th": "As diesel hits $10/gal., rumors swirl that stations are running out",
+      "summary_th": "Last week, a number of diesel stations in California appeared on social media with the prices pinned at 9.99 – the highest number the pumps could display. Today, the pictures are showing something different: gas stations that are out of diesel entirely . more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "From 10-97% SOC in 9 minutes: Sunwoda joins the flash charging race",
+      "summary_en": "Chinese battery brand Sunwoda has just revealed a new EV battery charging system that can add 100 km (~62 miles) of range to an EV every minute, and can take a battery from from 10-97% SOC in less than 10 minutes. At room temperature . more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/sunwoda.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/20/from-10-97-soc-in-9-minutes-sunwoda-joins-the-flash-charging-race/",
+      "published": "Sun, 20 Sep 2026 11:55:09 +0000",
+      "title_th": "From 10-97% SOC in 9 minutes: Sunwoda joins the flash charging race",
+      "summary_th": "Chinese battery brand Sunwoda has just revealed a new EV battery charging system that can add 100 km (~62 miles) of range to an EV every minute, and can take a battery from from 10-97% SOC in less than 10 minutes. At room temperature . more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "SONDORS’ abandoned 3-wheeled electric car just showed up for sale on eBay",
+      "summary_en": "If you’ve ever wanted to own a genuine piece of electric vehicle vaporware history, now might be your chance. One of the most interesting artifacts from SONDORS’ more ambitious days has just surfaced for sale on eBay: the company’s three-wheeled electric car prototype. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2017/12/p1250248-e1512156239153.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/20/sondors-forgotten-3-wheeled-electric-car-just-showed-up-for-sale-on-ebay/",
+      "published": "Sun, 20 Sep 2026 09:55:29 +0000",
+      "title_th": "SONDORS’ abandoned 3-wheeled electric car just showed up for sale on eBay",
+      "summary_th": "If you’ve ever wanted to own a genuine piece of electric vehicle vaporware history, now might be your chance. One of the most interesting artifacts from SONDORS’ more ambitious days has just surfaced for sale on eBay: the company’s three-wheeled electric car prototype. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
       "title_en": "Here’s all the dumb oil wars that electric cars have nothing to do with",
       "summary_en": "We’ve all heard about the Strait of Hormuz, currently closed to most ship traffic as a result of a now six month long war of choice that seems to have no real strategy attached. But that’s just one of many oil conflicts that are currently affecting oil availability… and electric cars have nothing to do with any of them. more…",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2025/06/gas-vs-electric.png?resize=1200,628",
@@ -565,42 +601,6 @@
       "published": "Sat, 19 Sep 2026 15:00:00 +0000",
       "title_th": "Climate XChange is giving away more EVs than ever before in its 11th Annual EV Raffle",
       "summary_th": "What would you choose with up to $120,000 to spend on a fully customized EV – a Lucid Air, Rivian R1S, Porsche Macan Electric, BMW i7, or perhaps two EVs instead of one? more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "E-quipment highlight: 4,400 hp Wabtec FLXDrive electric locomotive [update]",
-      "summary_en": "After nearly a year of operation on a dedicated track line at the Jimblebar iron ore mine in Australia, BHP is proving that these 4,400 hp battery-electric powered heavy-haul locomotives are ready for prime time. UPDATE 19SEP2026 : there’s a video! more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/BHP-battery-electric-locos-in-Port-Hedland-scaled-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/19/e-quipment-highlight-4400-hp-wabtec-flxdrive-electric-locomotive/",
-      "published": "Sat, 19 Sep 2026 14:00:00 +0000",
-      "title_th": "E-quipment highlight: 4,400 hp Wabtec FLXDrive electric locomotive [update]",
-      "summary_th": "After nearly a year of operation on a dedicated track line at the Jimblebar iron ore mine in Australia, BHP is proving that these 4,400 hp battery-electric powered heavy-haul locomotives are ready for prime time. UPDATE 19SEP2026 : there’s a video! more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Swaptopus inches towards reality as CATL reveals new semi truck battery",
-      "summary_en": "In a move that challenges Orange Juicer and Buick Electra for the highly coveted Best Name in the EV Business title, a new venture between CATL and Octopus Energy called “Swaptopus” has been formed to build out a European battery swap network for commercial trucks. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/volvo_wireless_dhl.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/19/swaptopus-inches-towards-reality-as-catl-reveals-new-semi-truck-battery/",
-      "published": "Sat, 19 Sep 2026 13:08:21 +0000",
-      "title_th": "Swaptopus inches towards reality as CATL reveals new semi truck battery",
-      "summary_th": "In a move that challenges Orange Juicer and Buick Electra for the highly coveted Best Name in the EV Business title, a new venture between CATL and Octopus Energy called “Swaptopus” has been formed to build out a European battery swap network for commercial trucks. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "It’s finally here: Porsche puts wireless EV charging into production [video]",
-      "summary_en": "Buried in a press release titled, “Even more colours and even greater convenience for the Cayenne Electric” was news that Porsche, for the first time, would be offering electrically wireless inductive charging on its impressively powerful Cayenne Electric SUV. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/wireless_main.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/18/its-finally-here-porsche-puts-wireless-ev-charging-into-production-video/",
-      "published": "Sat, 19 Sep 2026 01:26:44 +0000",
-      "title_th": "It’s finally here: Porsche puts wireless EV charging into production [video]",
-      "summary_th": "Buried in a press release titled, “Even more colours and even greater convenience for the Cayenne Electric” was news that Porsche, for the first time, would be offering electrically wireless inductive charging on its impressively powerful Cayenne Electric SUV. more…"
     }
   ],
   "indices": [
@@ -763,6 +763,16 @@
     {
       "channel": "Droidsans",
       "country": "TH",
+      "title_en": "เทียบกล้อง iPhone 18 Pro Max VS S26 Ultra | Xiaomi 17 Ultra | vivo X300 Ultra | OPPO Find X9 Ultra",
+      "video_id": "wAa0lf4WYjo",
+      "link": "https://www.youtube.com/watch?v=wAa0lf4WYjo",
+      "thumbnail": "https://i4.ytimg.com/vi/wAa0lf4WYjo/hqdefault.jpg",
+      "published": "2026-09-20T11:00:01+00:00",
+      "title_th": "เทียบกล้อง iPhone 18 Pro Max VS S26 Ultra | Xiaomi 17 Ultra | vivo X300 Ultra | OPPO Find X9 Ultra"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
       "title_en": "สายคอนเทนต์ต้องมี! #DJIOsmo360II ถ่าย Slow ได้ถึง 4K 240fps ติดตามตัวแบบอัตโนมัติ #DJI",
       "video_id": "m1j50aePnZE",
       "link": "https://www.youtube.com/shorts/m1j50aePnZE",
@@ -779,16 +789,6 @@
       "thumbnail": "https://i3.ytimg.com/vi/zugYjql_v7k/hqdefault.jpg",
       "published": "2026-09-19T13:09:53+00:00",
       "title_th": "ชิป Exynos 2700 & Dimensity 9600 Pro / AI เริ่มเก่งจนต้องชะลอการพัฒนา #หิวข่าว"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "รีวิว iPhone 18 Pro | 18 Pro Max เลือกรุ่นไหน หรือเปลี่ยนใจมา 17 Pro Max",
-      "video_id": "78siNyfqldk",
-      "link": "https://www.youtube.com/watch?v=78siNyfqldk",
-      "thumbnail": "https://i4.ytimg.com/vi/78siNyfqldk/hqdefault.jpg",
-      "published": "2026-09-18T14:44:25+00:00",
-      "title_th": "รีวิว iPhone 18 Pro | 18 Pro Max เลือกรุ่นไหน หรือเปลี่ยนใจมา 17 Pro Max"
     }
   ]
 }
