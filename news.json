@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T02:07:19.304359+00:00",
+  "generated_at": "2026-09-21T08:34:38.094635+00:00",
   "count": 50,
   "articles": [
     {
@@ -66,12 +66,12 @@
       "source": "The Verge",
       "flag": "US",
       "category": "software",
-      "title_en": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+      "title_en": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
       "summary_en": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the […]",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
       "published": "2026-09-20T14:50:18-04:00",
-      "title_th": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+      "title_th": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
       "summary_th": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the […]"
     },
     {
@@ -366,18 +366,6 @@
       "source": "IEEE Spectrum",
       "flag": "US",
       "category": "robot",
-      "title_en": "Parallel Reads and Write Optimization for Large-Scale Data Replication",
-      "summary_en": "This White Paper gives data engineers and architects a practical overview of how parallel partitioned reads, write-path optimization, and cloud-native bulk loading reduce large-table replication times, and why replication speed has become a business concern as data volumes grow. Download this free whitepaper now!",
-      "image": "https://assets.rbl.ms/67794446/origin.png",
-      "link": "https://content.knowledgehub.wiley.com/76-faster-replication-same-infrastructure/",
-      "published": "Fri, 18 Sep 2026 18:29:50 +0000",
-      "title_th": "Parallel Reads and Write Optimization for Large-Scale Data Replication",
-      "summary_th": "This White Paper gives data engineers and architects a practical overview of how parallel partitioned reads, write-path optimization, and cloud-native bulk loading reduce large-table replication times, and why replication speed has become a business concern as data volumes grow. Download this free whitepaper now!"
-    },
-    {
-      "source": "IEEE Spectrum",
-      "flag": "US",
-      "category": "robot",
       "title_en": "Turning Tech Talent Into Leadership Legacy",
       "summary_en": "Transitioning from years of working in a senior technical or executive role to a leadership position is one of the most challenging phases of a STEM career. It requires moving away from making decisions on your own to mentoring others, making strategic decisions for the organization, and collaborating with coworkers from different generations. The shift in mindset is known as “legacy leadership,” a philosophy whereby success is no longer measured by personal achievements but by how effectively a senior leader empowers others. To help seasoned professionals and senior experts navigate the transition, the inaugural IEEE International Leadership Conference (ILC) will provide attendees practical advice on cultivating collaborations and guiding emerging talent. “Early in our STEM careers, we me",
       "image": "https://spectrum.ieee.org/media-library/a-team-of-seven-people-having-a-work-meeting-in-an-open-concept-office-space.jpg?id=67787397&width=980",
@@ -421,6 +409,18 @@
       "published": "Tue, 15 Sep 2026 13:00:05 +0000",
       "title_th": "The AI Inference Revolution Is Here",
       "summary_th": "Since about 2020, AI has largely focused on training bigger and better models. Large language models (LLMs) ballooned from millions of parameters to trillions. This proved effective: The largest version of OpenAI’s GPT-3, released in 2020, correctly answered just 43.9 percent of questions on a popular knowledge-and-reasoning benchmark. Just four years later, GPT-4o reached a score of 88.7 percent on the same exam, effectively matching those of human experts. Advanced AI labs are still training ever larger models, but that training has somewhat receded to the background of the AI conversation. In 2026, inference—the use of trained models to produce code, write essays, or make images of ourselves as elves—has come to the forefront. “It’s like training is yesterday’s news,” says Matt Kimball "
+    },
+    {
+      "source": "IEEE Spectrum",
+      "flag": "US",
+      "category": "ev",
+      "title_en": "The Mind-bending Joyrides That Gave Rise to Tesla",
+      "summary_en": "In 2003, Martin Eberhard, a cofounder of Tesla Motors , decided it was time to start wooing investors. To do that, however, he needed an electric car. So he talked to Alan Cocconi and asked if he could borrow the tZero , the revolutionary and blazingly fast electric roadster that Cocconi had built at AC Propulsion . Eberhard’s idea was to drive the tZero up and down Sand Hill Road in the heart of Silicon Valley and do demonstrations for curious entrepreneurs and VCs. Eberhard was joined by Tom Gage , Cocconi’s partner at AC Propulsion, on many of the visits. Like Tesla, AC Propulsion was also seeking investors, but to build a considerably more utilitarian EV. Adapted with permission from The EV Guys: How Caltech Engineers Reinvented the Electric Car , by Charles J. Murray, published by Pur",
+      "image": "https://spectrum.ieee.org/media-library/a-collage-shows-four-men-and-two-sports-cars-one-red-and-one-yellow.jpg?id=67759786&width=980",
+      "link": "https://spectrum.ieee.org/elon-musk-tesla",
+      "published": "Tue, 15 Sep 2026 12:13:58 +0000",
+      "title_th": "The Mind-bending Joyrides That Gave Rise to Tesla",
+      "summary_th": "In 2003, Martin Eberhard, a cofounder of Tesla Motors , decided it was time to start wooing investors. To do that, however, he needed an electric car. So he talked to Alan Cocconi and asked if he could borrow the tZero , the revolutionary and blazingly fast electric roadster that Cocconi had built at AC Propulsion . Eberhard’s idea was to drive the tZero up and down Sand Hill Road in the heart of Silicon Valley and do demonstrations for curious entrepreneurs and VCs. Eberhard was joined by Tom Gage , Cocconi’s partner at AC Propulsion, on many of the visits. Like Tesla, AC Propulsion was also seeking investors, but to build a considerably more utilitarian EV. Adapted with permission from The EV Guys: How Caltech Engineers Reinvented the Electric Car , by Charles J. Murray, published by Pur"
     },
     {
       "source": "9to5Mac",
@@ -664,10 +664,131 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 241.0,
-      "change": 1.0,
-      "change_pct": 0.42
+      "price": 246.0,
+      "change": 5.0,
+      "change_pct": 2.07
     }
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "iPhone 18 Pro Review: All About that Chip",
+      "video_id": "ohqxP8EEumo",
+      "link": "https://www.youtube.com/watch?v=ohqxP8EEumo",
+      "thumbnail": "https://i4.ytimg.com/vi/ohqxP8EEumo/hqdefault.jpg",
+      "published": "2026-09-16T12:01:27+00:00",
+      "title_th": "iPhone 18 Pro Review: All About that Chip"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "iPhone Duo: What We Missed!",
+      "video_id": "6D__H_DO2Xk",
+      "link": "https://www.youtube.com/watch?v=6D__H_DO2Xk",
+      "thumbnail": "https://i3.ytimg.com/vi/6D__H_DO2Xk/hqdefault.jpg",
+      "published": "2026-09-12T21:36:57+00:00",
+      "title_th": "iPhone Duo: What We Missed!"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "iPhone 18 Pro/Duo Impressions: Mogged",
+      "video_id": "Od6M0AXpcxQ",
+      "link": "https://www.youtube.com/watch?v=Od6M0AXpcxQ",
+      "thumbnail": "https://i4.ytimg.com/vi/Od6M0AXpcxQ/hqdefault.jpg",
+      "published": "2026-09-10T07:29:55+00:00",
+      "title_th": "iPhone 18 Pro/Duo Impressions: Mogged"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "iPhone 18 Pro Max Unboxing: Worth the Upgrade?",
+      "video_id": "I6nYySJavMg",
+      "link": "https://www.youtube.com/watch?v=I6nYySJavMg",
+      "thumbnail": "https://i2.ytimg.com/vi/I6nYySJavMg/hqdefault.jpg",
+      "published": "2026-09-19T19:45:26+00:00",
+      "title_th": "iPhone 18 Pro Max Unboxing: Worth the Upgrade?"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "iPhone 18 Pro Unboxing: A Detail Nobody Noticed...",
+      "video_id": "pJzuFc52oWk",
+      "link": "https://www.youtube.com/watch?v=pJzuFc52oWk",
+      "thumbnail": "https://i1.ytimg.com/vi/pJzuFc52oWk/hqdefault.jpg",
+      "published": "2026-09-19T18:36:59+00:00",
+      "title_th": "iPhone 18 Pro Unboxing: A Detail Nobody Noticed..."
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "The New Charging Champ?",
+      "video_id": "QFRUcffdWmc",
+      "link": "https://www.youtube.com/watch?v=QFRUcffdWmc",
+      "thumbnail": "https://i2.ytimg.com/vi/QFRUcffdWmc/hqdefault.jpg",
+      "published": "2026-09-18T16:00:29+00:00",
+      "title_th": "The New Charging Champ?"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "\"อย่าเลิกรักพ่อนะ\"",
+      "video_id": "13QbQkamo3c",
+      "link": "https://www.youtube.com/shorts/13QbQkamo3c",
+      "thumbnail": "https://i2.ytimg.com/vi/13QbQkamo3c/hqdefault.jpg",
+      "published": "2026-09-20T23:00:21+00:00",
+      "title_th": "\"อย่าเลิกรักพ่อนะ\""
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "รายได้โปรเทนนิส",
+      "video_id": "iH82OGrEzzE",
+      "link": "https://www.youtube.com/shorts/iH82OGrEzzE",
+      "thumbnail": "https://i2.ytimg.com/vi/iH82OGrEzzE/hqdefault.jpg",
+      "published": "2026-09-19T23:00:26+00:00",
+      "title_th": "รายได้โปรเทนนิส"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "ถือ iPhone 18 Pro Max รู้สึกยังไง สีไหนดี",
+      "video_id": "R90ciX3wlC8",
+      "link": "https://www.youtube.com/watch?v=R90ciX3wlC8",
+      "thumbnail": "https://i3.ytimg.com/vi/R90ciX3wlC8/hqdefault.jpg",
+      "published": "2026-09-19T02:53:14+00:00",
+      "title_th": "ถือ iPhone 18 Pro Max รู้สึกยังไง สีไหนดี"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "iPhone 18 Pro Max ปะทะเรือธงกล้องเทพ 4 ค่าย ใครจะชนะ ? | Samsung, vivo, OPPO, Xiaomi",
+      "video_id": "wAa0lf4WYjo",
+      "link": "https://www.youtube.com/watch?v=wAa0lf4WYjo",
+      "thumbnail": "https://i4.ytimg.com/vi/wAa0lf4WYjo/hqdefault.jpg",
+      "published": "2026-09-20T11:00:01+00:00",
+      "title_th": "iPhone 18 Pro Max ปะทะเรือธงกล้องเทพ 4 ค่าย ใครจะชนะ ? | Samsung, vivo, OPPO, Xiaomi"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "สายคอนเทนต์ต้องมี! #DJIOsmo360II ถ่าย Slow ได้ถึง 4K 240fps ติดตามตัวแบบอัตโนมัติ #DJI",
+      "video_id": "m1j50aePnZE",
+      "link": "https://www.youtube.com/shorts/m1j50aePnZE",
+      "thumbnail": "https://i2.ytimg.com/vi/m1j50aePnZE/hqdefault.jpg",
+      "published": "2026-09-19T15:44:28+00:00",
+      "title_th": "สายคอนเทนต์ต้องมี! #DJIOsmo360II ถ่าย Slow ได้ถึง 4K 240fps ติดตามตัวแบบอัตโนมัติ #DJI"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "ชิป Exynos 2700 & Dimensity 9600 Pro / AI เริ่มเก่งจนต้องชะลอการพัฒนา #หิวข่าว",
+      "video_id": "zugYjql_v7k",
+      "link": "https://www.youtube.com/watch?v=zugYjql_v7k",
+      "thumbnail": "https://i3.ytimg.com/vi/zugYjql_v7k/hqdefault.jpg",
+      "published": "2026-09-19T13:09:53+00:00",
+      "title_th": "ชิป Exynos 2700 & Dimensity 9600 Pro / AI เริ่มเก่งจนต้องชะลอการพัฒนา #หิวข่าว"
+    }
+  ]
 }
