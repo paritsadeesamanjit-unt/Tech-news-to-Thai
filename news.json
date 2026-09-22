@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-21T21:36:24.946784+00:00",
+  "generated_at": "2026-09-22T02:18:09.148391+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "summary_en": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1227849474.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "published": "Mon, 21 Sep 2026 23:44:28 +0000",
+      "title_th": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "summary_th": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -51,28 +63,40 @@
       "summary_th": "Future Google supplier Kairos Power inked a deal with Samsung C&T to help build its first 50-megawatt nuclear power plant."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Meta’s AI agent has been blocked from using Amazon.com",
-      "summary_en": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "published": "Mon, 21 Sep 2026 17:55:18 +0000",
-      "title_th": "Meta’s AI agent has been blocked from using Amazon.com",
-      "summary_th": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?"
+      "category": "software",
+      "title_en": "A cut cable disrupted hundreds of flights across the US",
+      "summary_en": "Hundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for air traffic control. FAA Administrator Bryan Bedford said that a circuit failure led to the discovery of the severed fiber cable, ABC News reports. The outage hammered airports across the Northeast, causing […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2242804026.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+      "link": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
+      "published": "2026-09-21T19:48:56-04:00",
+      "title_th": "A cut cable disrupted hundreds of flights across the US",
+      "summary_th": "Hundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for air traffic control. FAA Administrator Bryan Bedford said that a circuit failure led to the discovery of the severed fiber cable, ABC News reports. The outage hammered airports across the Northeast, causing […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
+      "summary_en": "Amazon plans to spend $20 million on water conservation projects along the Colorado River, a crucial but dwindling water supply for 40 million people in the Western US. The initiative comes as Amazon and other tech companies face mounting scrutiny over how much water their data centers use. Amazon has a goal of becoming water […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13443464/acastro_181114_1777_amazon_hq2_0004.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
+      "published": "2026-09-21T19:15:32-04:00",
+      "title_th": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
+      "summary_th": "Amazon plans to spend $20 million on water conservation projects along the Colorado River, a crucial but dwindling water supply for 40 million people in the Western US. The initiative comes as Amazon and other tech companies face mounting scrutiny over how much water their data centers use. Amazon has a goal of becoming water […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "software",
       "title_en": "California tightens rules on AI data center energy and water use",
-      "summary_en": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers, while forcing them to pay for upgrades to […]",
+      "summary_en": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers while forcing them to pay for upgrades to […]",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2286055476.jpg?quality=90&strip=all&crop=0%2C10.022372800543%2C100%2C79.955254398914&w=1200",
       "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
       "published": "2026-09-21T16:29:45-04:00",
       "title_th": "California tightens rules on AI data center energy and water use",
-      "summary_th": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers, while forcing them to pay for upgrades to […]"
+      "summary_th": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers while forcing them to pay for upgrades to […]"
     },
     {
       "source": "The Verge",
@@ -99,28 +123,16 @@
       "summary_th": "Months after seemingly giving up on Destiny 2, Bungie now says it's planning to restore vaulted content in the game like campaigns, destinations, and raids. The decision reverses the Destiny Content Vault that Bungie created six years ago, controversially removing older content from Destiny 2 that players had paid to access. \"We understand that removing […]"
     },
     {
-      "source": "The Verge",
+      "source": "Ars Technica",
       "flag": "US",
       "category": "software",
-      "title_en": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
-      "summary_en": "Newegg is hosting a bundle that includes Microsoft’s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depending on the color you want, this is a fantastic value since it essentially knocks its price down to $30. Another way […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xboxcontroller.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale",
-      "published": "2026-09-21T11:13:32-04:00",
-      "title_th": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
-      "summary_th": "Newegg is hosting a bundle that includes Microsoft’s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depending on the color you want, this is a fantastic value since it essentially knocks its price down to $30. Another way […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Can John Ternus find Apple’s next big thing?",
-      "summary_en": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On. Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported ahead of time by Mark. But this event was […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/JohnTernus_Decoder.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
-      "published": "2026-09-21T10:00:00-04:00",
-      "title_th": "Can John Ternus find Apple’s next big thing?",
-      "summary_th": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On. Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported ahead of time by Mark. But this event was […]"
+      "title_en": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "summary_en": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
+      "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "published": "Mon, 21 Sep 2026 22:24:38 +0000",
+      "title_th": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "summary_th": "A simple ClickFix attack is only one way to completely hijack the new agent."
     },
     {
       "source": "Ars Technica",
@@ -169,18 +181,6 @@
       "published": "Mon, 14 Sep 2026 21:04:32 +0000",
       "title_th": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
       "summary_th": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”..."
-    },
-    {
-      "source": "Ars Technica",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Four groups caught using the same Chrome and Windows exploit kit",
-      "summary_en": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
-      "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
-      "published": "Wed, 09 Sep 2026 20:55:02 +0000",
-      "title_th": "Four groups caught using the same Chrome and Windows exploit kit",
-      "summary_th": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors."
     },
     {
       "source": "Wired",
@@ -305,6 +305,42 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "chip",
+      "title_en": "Why it's important to unplug your PC during a power outage",
+      "summary_en": "Power outages can damage your tech, but the bigger risk happens when the electricity comes back on. Don't let your tech get fried.",
+      "image": "https://www.engadget.com/img/gallery/why-its-important-to-unplug-your-pc-during-a-power-outage/l-intro-1789669119.jpg",
+      "link": "https://www.engadget.com/2261632/why-important-unplug-pc-power-outage/",
+      "published": "Tue, 22 Sep 2026 00:30:00 +0000",
+      "title_th": "Why it's important to unplug your PC during a power outage",
+      "summary_th": "Power outages can damage your tech, but the bigger risk happens when the electricity comes back on. Don't let your tech get fried."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Why is your laptop fan so loud?",
+      "summary_en": "Laptop fans do an important job, but sometimes they get annoyingly loud. Here's what it might mean and whether you should be concerned.",
+      "image": "https://www.engadget.com/img/gallery/why-is-your-laptop-fan-so-loud/l-intro-1789667073.jpg",
+      "link": "https://www.engadget.com/2261591/why-laptop-fan-so-loud/",
+      "published": "Tue, 22 Sep 2026 00:00:00 +0000",
+      "title_th": "Why is your laptop fan so loud?",
+      "summary_th": "Laptop fans do an important job, but sometimes they get annoyingly loud. Here's what it might mean and whether you should be concerned."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "How to turn your old Windows PC into a Chromebook for free",
+      "summary_en": "Don't count your old Windows laptop out yet. Installing ChromeOS Flex is a great option to keep it usable, even if it's not as fast as it once was.",
+      "image": "https://www.engadget.com/img/gallery/how-to-turn-your-old-windows-pc-into-a-chromebook-for-free/l-intro-1789665326.jpg",
+      "link": "https://www.engadget.com/2261523/how-to-turn-your-old-windows-pc-into-chromebook-free/",
+      "published": "Mon, 21 Sep 2026 23:00:00 +0000",
+      "title_th": "How to turn your old Windows PC into a Chromebook for free",
+      "summary_th": "Don't count your old Windows laptop out yet. Installing ChromeOS Flex is a great option to keep it usable, even if it's not as fast as it once was."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "gadget",
       "title_en": "Does your iPhone's Safari browser privacy features actually make you safer?",
       "summary_en": "Safari on iPhone is more private than many other browsers by default, but it can't keep your information safe from everything.",
@@ -325,42 +361,6 @@
       "published": "Mon, 21 Sep 2026 19:53:53 +0000",
       "title_th": "The EU will force data centers to disclose their energy and water use",
       "summary_th": "The EU has proposed a sustainability labeling system ahead of bringing in minimum data center performance standards."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "X now tells users when local laws have reduced their posts' visibility",
-      "summary_en": "The latest addition to X's Under the Hood feature could stave off claims around shadowbanning.",
-      "image": "https://www.engadget.com/img/gallery/x-now-tells-users-when-local-laws-have-reduced-their-posts-visibility/l-intro-1790019777.jpg",
-      "link": "https://www.engadget.com/2264585/x-now-tells-users-when-local-laws-have-reduced-their-posts-visibility/",
-      "published": "Mon, 21 Sep 2026 19:44:35 +0000",
-      "title_th": "X now tells users when local laws have reduced their posts' visibility",
-      "summary_th": "The latest addition to X's Under the Hood feature could stave off claims around shadowbanning."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Here's why Apple's Mac Studio has become so expensive",
-      "summary_en": "A big part of the story is soaring memory and storage prices, but other factors come into play as well.",
-      "image": "https://www.engadget.com/img/gallery/heres-why-apples-mac-studio-has-become-so-expensive/l-intro-1790010905.jpg",
-      "link": "https://www.engadget.com/2264291/why-apple-mac-studio-so-expensive/",
-      "published": "Mon, 21 Sep 2026 18:30:00 +0000",
-      "title_th": "Here's why Apple's Mac Studio has become so expensive",
-      "summary_th": "A big part of the story is soaring memory and storage prices, but other factors come into play as well."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Paramount settles US states' antitrust lawsuit, clearing the way for its Warner Bros. acquisition",
-      "summary_en": "The mega-merger of the year will apparently go forward.",
-      "image": "https://www.engadget.com/img/gallery/paramount-settles-us-state-antitrust-lawsuit-clearing-warner-bros-acquisition-plans/l-intro-1790015946.jpg",
-      "link": "https://www.engadget.com/2264474/paramount-settles-us-state-antitrust-lawsuit-clearing-warner-bros-acquisition-plans/",
-      "published": "Mon, 21 Sep 2026 18:28:27 +0000",
-      "title_th": "Paramount settles US states' antitrust lawsuit, clearing the way for its Warner Bros. acquisition",
-      "summary_th": "The mega-merger of the year will apparently go forward."
     },
     {
       "source": "IEEE Spectrum",
@@ -425,62 +425,74 @@
     {
       "source": "9to5Mac",
       "flag": "",
-      "category": "gadget",
-      "title_en": "AI coding platform Bitrig adds iPhone Duo support with interactive 3D simulator",
-      "summary_en": "Following the release of Xcode 27.1 beta 1 last week, Bitrig has added support for building and testing iPhone Duo apps, complete with an interactive 3D simulator that lets developers fold, tilt, rotate, and position the device however they want. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/bitrig-iphone-duo.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/21/ai-coding-platform-bitrig-adds-iphone-duo-support-with-interactive-3d-simulator/",
-      "published": "Mon, 21 Sep 2026 21:01:08 +0000",
-      "title_th": "AI coding platform Bitrig adds iPhone Duo support with interactive 3D simulator",
-      "summary_th": "Following the release of Xcode 27.1 beta 1 last week, Bitrig has added support for building and testing iPhone Duo apps, complete with an interactive 3D simulator that lets developers fold, tilt, rotate, and position the device however they want. Here are the details. more…"
+      "category": "review",
+      "title_en": "Apple challenges OpenAI’s forensic analysis in trade secrets case, seeks access to hardware R&D",
+      "summary_en": "Apple has asked the court overseeing its lawsuit against OpenAI and other defendants to let its own experts review forensic images used in the case, while also seeking documents related to parts of OpenAI’s hardware R&D. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/21/apple-challenges-openais-forensic-analysis-in-trade-secrets-case-seeks-access-to-hardware-rd/",
+      "published": "Tue, 22 Sep 2026 01:37:18 +0000",
+      "title_th": "Apple challenges OpenAI’s forensic analysis in trade secrets case, seeks access to hardware R&D",
+      "summary_th": "Apple has asked the court overseeing its lawsuit against OpenAI and other defendants to let its own experts review forensic images used in the case, while also seeking documents related to parts of OpenAI’s hardware R&D. Here are the details. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "9to5Mac Daily: September 21, 2026 – More iPhone 18 Pro, iOS 27.2",
-      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff :Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. A simple to-do list for iPhone, iPad, and Mac, with powerful tools that make organizing, tracking, and checking off your tasks a whole lot more satisfying. Get Stuff done. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/21/daily-september-21-2026/",
-      "published": "Mon, 21 Sep 2026 20:59:43 +0000",
-      "title_th": "9to5Mac Daily: September 21, 2026 – More iPhone 18 Pro, iOS 27.2",
-      "summary_th": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff :Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. A simple to-do list for iPhone, iPad, and Mac, with powerful tools that make organizing, tracking, and checking off your tasks a whole lot more satisfying. Get Stuff done. more…"
+      "title_en": "Here’s what’s really going on with GM’s CarPlay strategy (or lack thereof)",
+      "summary_en": "Despite headlines to the contrary, GM isn’t changing its position on CarPlay and Android Auto support. The automaker is not bringing phone projection support back to any cars from which it has already been removed. Here’s what’s really happening. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/carplay-ios-27-apple-official-site.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/21/heres-whats-really-going-on-with-gms-carplay-strategy-or-lack-thereof/",
+      "published": "Mon, 21 Sep 2026 23:18:47 +0000",
+      "title_th": "Here’s what’s really going on with GM’s CarPlay strategy (or lack thereof)",
+      "summary_th": "Despite headlines to the contrary, GM isn’t changing its position on CarPlay and Android Auto support. The automaker is not bringing phone projection support back to any cars from which it has already been removed. Here’s what’s really happening. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple Notes adds a power user feature in iOS 27 that’s rare in other apps",
-      "summary_en": "Apple Notes in iOS 27 adds a variety of new features , including one that power users are sure to appreciate: section links. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/notes-app-icon-ios-27.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/21/apple-notes-adds-a-power-user-feature-in-ios-27-thats-rare-in-other-apps/",
-      "published": "Mon, 21 Sep 2026 20:13:30 +0000",
-      "title_th": "Apple Notes adds a power user feature in iOS 27 that’s rare in other apps",
-      "summary_th": "Apple Notes in iOS 27 adds a variety of new features , including one that power users are sure to appreciate: section links. more…"
+      "title_en": "iPhone users running iOS 27 can no longer downgrade to iOS 26",
+      "summary_en": "Apple today stopped signing iOS 26.6.2 , which means iPhone users can no longer downgrade to non-iOS 27 system versions. Here’s why. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26-6-lg-iphone.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/21/iphone-users-running-ios-27-can-no-longer-downgrade-to-ios-26/",
+      "published": "Mon, 21 Sep 2026 23:12:03 +0000",
+      "title_th": "iPhone users running iOS 27 can no longer downgrade to iOS 26",
+      "summary_th": "Apple today stopped signing iOS 26.6.2 , which means iPhone users can no longer downgrade to non-iOS 27 system versions. Here’s why. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Our favorite accessories to elevate your new M6 Mac mini and Mac Studio rig",
-      "summary_en": "Apple’s all-new M6 Mac mini, M5 Pro mini, and Mac Studio officially release tomorrow and, alongside the early pre-order deals on most of them, we are taking a look at some of our favorite Mac accessories here today. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-Mac-mini-Mac-Studio-accessories.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/21/our-favorite-accessories-new-mac-mini-studio/",
-      "published": "Mon, 21 Sep 2026 20:06:28 +0000",
-      "title_th": "Our favorite accessories to elevate your new M6 Mac mini and Mac Studio rig",
-      "summary_th": "Apple’s all-new M6 Mac mini, M5 Pro mini, and Mac Studio officially release tomorrow and, alongside the early pre-order deals on most of them, we are taking a look at some of our favorite Mac accessories here today. more…"
+      "title_en": "WhatsApp now lets Apple Watch users react with any emoji",
+      "summary_en": "Following WhatsApp’s initial limited rollout of emoji reactions on the Apple Watch, the app is now rolling out support for the full set of emojis available on watchOS. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/whatsapp-glass.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/21/whatsapp-now-lets-apple-watch-users-react-with-any-emoji/",
+      "published": "Mon, 21 Sep 2026 22:07:49 +0000",
+      "title_th": "WhatsApp now lets Apple Watch users react with any emoji",
+      "summary_th": "Following WhatsApp’s initial limited rollout of emoji reactions on the Apple Watch, the app is now rolling out support for the full set of emojis available on watchOS. Here are the details. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Report: AI glasses shipments surged 263% in H1 2026 as Apple prepares to enter the market",
-      "summary_en": "Counterpoint Research says global AI glasses shipments surged 263% during the first half of 2026, with Meta comfortably leading the display-less segment amid growing privacy concerns. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/Ray-Ban-Meta-smart-glasses-could-get-a-display-next-year.webp?resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/21/report-ai-glasses-shipments-surged-263-in-h1-2026-as-apple-prepares-to-enter-the-market/",
-      "published": "Mon, 21 Sep 2026 19:55:41 +0000",
-      "title_th": "Report: AI glasses shipments surged 263% in H1 2026 as Apple prepares to enter the market",
-      "summary_th": "Counterpoint Research says global AI glasses shipments surged 263% during the first half of 2026, with Meta comfortably leading the display-less segment amid growing privacy concerns. Here are the details. more…"
+      "title_en": "iOS 27.2 beta 2 reveals new details about unnanounced iPhone anti-snatching feature",
+      "summary_en": "Apple continues to work on a feature that automatically locks an iPhone when it detects that the device has been snatched from its owner’s hand. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/restricted-locked-iphone.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/21/ios-27-2-beta-2-reveals-new-details-about-unnanounced-iphone-anti-snatching-feature/",
+      "published": "Mon, 21 Sep 2026 21:53:37 +0000",
+      "title_th": "iOS 27.2 beta 2 reveals new details about unnanounced iPhone anti-snatching feature",
+      "summary_th": "Apple continues to work on a feature that automatically locks an iPhone when it detects that the device has been snatched from its owner’s hand. Here are the details. more…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "What’s new in Android’s September 2026 Google System Updates [U]",
+      "summary_en": "The monthly “ Google System Release Notes ” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at developers. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/21/september-2026-google-system-updates/",
+      "published": "Mon, 21 Sep 2026 22:03:00 +0000",
+      "title_th": "What’s new in Android’s September 2026 Google System Updates [U]",
+      "summary_th": "The monthly “ Google System Release Notes ” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at developers. more…"
     },
     {
       "source": "9to5Google",
@@ -529,18 +541,6 @@
       "published": "Mon, 21 Sep 2026 16:05:00 +0000",
       "title_th": "MediaTek’s flagship laptop chip is the Dimensity CX C10 Max, debuts in a Lenovo Googlebook",
       "summary_th": "The initial batch of Googlebook laptops that debuted earlier today use either Intel or Qualcomm chipsets, but MediaTek has confirmed it will also be backing the platform with the debut of its flagship laptop chip, the Dimensity CX C10 Max, which will show up in an incoming Lenovo Googlebook. more…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Deals: Googlebook pre-order + FREE Pixel Buds, Nothing Ear (3a) all-time low, desktop charger with display, more",
-      "summary_en": "Alongside the early fall Prime Day deals at Amazon, today’s 9to5Toys Lunch Break is headlined by the now live Googlebook pre-orders with FREE Pixel Buds . We also have Nothing Ear (3a) back down at the $79 Amazon low and price drops on Nothing Phone (4a) joined by TCL NXTPAPER 70 Pro Android phones from $280. Just be sure to scope out this ongoing deal on Galaxy Z Fold 8 at up to $380 off , Acer’s touchscreen 14-inch Kompanio Ultra Chromebook at $250 off , and some exclusive discounts on Satechi’s 2026 ChargeView Desktop Charger with display . Check it all out below. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/9to5Google-Sep-21.webp?resize=1200,628",
-      "link": "https://9to5google.com/2026/09/21/deals-googlebook-free-pixel-buds-nothing-ear-3a/",
-      "published": "Mon, 21 Sep 2026 15:46:50 +0000",
-      "title_th": "Deals: Googlebook pre-order + FREE Pixel Buds, Nothing Ear (3a) all-time low, desktop charger with display, more",
-      "summary_th": "Alongside the early fall Prime Day deals at Amazon, today’s 9to5Toys Lunch Break is headlined by the now live Googlebook pre-orders with FREE Pixel Buds . We also have Nothing Ear (3a) back down at the $79 Amazon low and price drops on Nothing Phone (4a) joined by TCL NXTPAPER 70 Pro Android phones from $280. Just be sure to scope out this ongoing deal on Galaxy Z Fold 8 at up to $380 off , Acer’s touchscreen 14-inch Kompanio Ultra Chromebook at $250 off , and some exclusive discounts on Satechi’s 2026 ChargeView Desktop Charger with display . Check it all out below. more…"
     },
     {
       "source": "Electrek",
@@ -656,9 +656,9 @@
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 741.24,
-      "change": 75.49,
-      "change_pct": 11.34
+      "price": 741.25,
+      "change": 76.02,
+      "change_pct": 11.43
     },
     {
       "symbol": "DELTA.BK",
@@ -699,66 +699,6 @@
       "thumbnail": "https://i4.ytimg.com/vi/Od6M0AXpcxQ/hqdefault.jpg",
       "published": "2026-09-10T07:29:55+00:00",
       "title_th": "iPhone 18 Pro/Duo Impressions: Mogged"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "iPhone 18 Pro Max Unboxing: Worth the Upgrade?",
-      "video_id": "I6nYySJavMg",
-      "link": "https://www.youtube.com/watch?v=I6nYySJavMg",
-      "thumbnail": "https://i2.ytimg.com/vi/I6nYySJavMg/hqdefault.jpg",
-      "published": "2026-09-19T19:45:26+00:00",
-      "title_th": "iPhone 18 Pro Max Unboxing: Worth the Upgrade?"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "iPhone 18 Pro Unboxing: A Detail Nobody Noticed...",
-      "video_id": "pJzuFc52oWk",
-      "link": "https://www.youtube.com/watch?v=pJzuFc52oWk",
-      "thumbnail": "https://i1.ytimg.com/vi/pJzuFc52oWk/hqdefault.jpg",
-      "published": "2026-09-19T18:36:59+00:00",
-      "title_th": "iPhone 18 Pro Unboxing: A Detail Nobody Noticed..."
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "The New Charging Champ?",
-      "video_id": "QFRUcffdWmc",
-      "link": "https://www.youtube.com/watch?v=QFRUcffdWmc",
-      "thumbnail": "https://i2.ytimg.com/vi/QFRUcffdWmc/hqdefault.jpg",
-      "published": "2026-09-18T16:00:29+00:00",
-      "title_th": "The New Charging Champ?"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "รีวิว Beolab 8 จุดเริ่มต้นสู่ Luxury Audio จาก B&O",
-      "video_id": "iPUjUdsvqH0",
-      "link": "https://www.youtube.com/watch?v=iPUjUdsvqH0",
-      "thumbnail": "https://i2.ytimg.com/vi/iPUjUdsvqH0/hqdefault.jpg",
-      "published": "2026-09-21T10:00:31+00:00",
-      "title_th": "รีวิว Beolab 8 จุดเริ่มต้นสู่ Luxury Audio จาก B&O"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "รีวิว Bose QuietComfort Headphones (2nd Gen)",
-      "video_id": "r-WEONe7cYs",
-      "link": "https://www.youtube.com/shorts/r-WEONe7cYs",
-      "thumbnail": "https://i3.ytimg.com/vi/r-WEONe7cYs/hqdefault.jpg",
-      "published": "2026-09-21T08:31:00+00:00",
-      "title_th": "รีวิว Bose QuietComfort Headphones (2nd Gen)"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "\"อย่าเลิกรักพ่อนะ\"",
-      "video_id": "13QbQkamo3c",
-      "link": "https://www.youtube.com/shorts/13QbQkamo3c",
-      "thumbnail": "https://i2.ytimg.com/vi/13QbQkamo3c/hqdefault.jpg",
-      "published": "2026-09-20T23:00:21+00:00",
-      "title_th": "\"อย่าเลิกรักพ่อนะ\""
     },
     {
       "channel": "Droidsans",
