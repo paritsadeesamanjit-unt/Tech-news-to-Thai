@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-09-23T19:02:19.886440+00:00",
+  "generated_at": "2026-09-23T23:34:50.211358+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Anthropic says its biology lab has already found something big",
+      "summary_en": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/Claude_3-7_illustration.jpg?resize=1200,675",
+      "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "published": "Wed, 23 Sep 2026 22:17:39 +0000",
+      "title_th": "Anthropic says its biology lab has already found something big",
+      "summary_th": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+      "summary_en": "The VC firm says that AI-native companies are growing faster than any technology, ever.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
+      "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
+      "published": "Wed, 23 Sep 2026 20:35:17 +0000",
+      "title_th": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+      "summary_th": "The VC firm says that AI-native companies are growing faster than any technology, ever."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "summary_en": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/06/220509-Enveda-1038.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "published": "Wed, 23 Sep 2026 19:31:28 +0000",
+      "title_th": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "summary_th": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Modal Motors is trying to cut China out of electric motors entirely",
+      "summary_en": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-23-at-11.23.50-AM.png?w=1194",
+      "link": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
+      "published": "Wed, 23 Sep 2026 19:05:00 +0000",
+      "title_th": "Modal Motors is trying to cut China out of electric motors entirely",
+      "summary_th": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -15,112 +63,64 @@
       "summary_th": "At the same time, Disney appears to be exploring new ways to expand its streaming business beyond simply raising subscription prices."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "The old cybersecurity model is breaking",
-      "summary_en": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world. We’re even seeing companies like Instinct and Simile bring in nine-figure checks and valuations that wouldn’t have made sense a […]",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233776792.jpg?resize=1200,750",
-      "link": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
-      "published": "Wed, 23 Sep 2026 17:44:02 +0000",
-      "title_th": "The old cybersecurity model is breaking",
-      "summary_th": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world. We’re even seeing companies like Instinct and Simile bring in nine-figure checks and valuations that wouldn’t have made sense a […]"
+      "category": "gadget",
+      "title_en": "Meta Connect 2026: The biggest news and announcements",
+      "summary_en": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been facing significant scrutiny because of how some users […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268639_Meta_Adventurer_glasses_AKrales_0241.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+      "published": "2026-09-23T18:45:00-04:00",
+      "title_th": "Meta Connect 2026: The biggest news and announcements",
+      "summary_th": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables like smart glasses, it seems likely that we’ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been facing significant scrutiny because of how some users […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms",
-      "summary_en": "The repeated incidents led one worker to file a complaint with the Occupational Safety and Health Administration, which opened an inquiry and told Zoox to investigate the exposures.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/zoox-highlander-getty.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/",
-      "published": "Wed, 23 Sep 2026 17:28:38 +0000",
-      "title_th": "Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms",
-      "summary_th": "The repeated incidents led one worker to file a complaint with the Occupational Safety and Health Administration, which opened an inquiry and told Zoox to investigate the exposures."
+      "category": "gadget",
+      "title_en": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+      "summary_en": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be about how \"Meta is building a future for everyone\" - something he wrote at length about in a recent […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/lcimg-0c8c71e4-02c2-4138-9524-cf0a79ed0b16.webp?quality=90&strip=all&crop=0%2C10.928342580292%2C100%2C78.143314839415&w=1200",
+      "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
+      "published": "2026-09-23T18:30:00-04:00",
+      "title_th": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+      "summary_th": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be about how \"Meta is building a future for everyone\" - something he wrote at length about in a recent […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "ChatGPT mobile app gets voice-based agentic features",
-      "summary_en": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-      "published": "Wed, 23 Sep 2026 17:00:00 +0000",
-      "title_th": "ChatGPT mobile app gets voice-based agentic features",
-      "summary_th": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks."
+      "category": "gadget",
+      "title_en": "Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus",
+      "summary_en": "Microsoft is refreshing its Surface Pro 12-inch and Surface Laptop 13-inch devices with Qualcomm's latest Snapdragon X2 Plus chips. The smaller Surface devices retain the same design and hardware features from last year, with faster and more capable chips inside and higher price tags (thanks RAMageddon!). While the 12-inch Surface Pro started at $799.99 last […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Surface-Laptop-Image.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "link": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus",
+      "published": "2026-09-23T16:30:00-04:00",
+      "title_th": "Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus",
+      "summary_th": "Microsoft is refreshing its Surface Pro 12-inch and Surface Laptop 13-inch devices with Qualcomm's latest Snapdragon X2 Plus chips. The smaller Surface devices retain the same design and hardware features from last year, with faster and more capable chips inside and higher price tags (thanks RAMageddon!). While the 12-inch Surface Pro started at $799.99 last […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Even Americans who use AI every day are worried about it",
-      "summary_en": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
-      "image": "https://techcrunch.com/wp-content/uploads/2016/02/worried.jpg?resize=1200,900",
-      "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
-      "published": "Wed, 23 Sep 2026 16:49:58 +0000",
-      "title_th": "Even Americans who use AI every day are worried about it",
-      "summary_th": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation."
+      "category": "gadget",
+      "title_en": "Microsoft’s new Surface Mouse has haptic feedback and a customizable action button",
+      "summary_en": "Microsoft is launching a second generation of its Surface Mouse next month that includes haptic feedback support. The Surface Mouse also has a customizable action button for the first time, which is primarily designed for quick access to Copilot (of course), but can be configured to work with other shortcuts from the Surface app. \"Its […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Surface-Mouse-Image.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "link": "https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback",
+      "published": "2026-09-23T16:30:00-04:00",
+      "title_th": "Microsoft’s new Surface Mouse has haptic feedback and a customizable action button",
+      "summary_th": "Microsoft is launching a second generation of its Surface Mouse next month that includes haptic feedback support. The Surface Mouse also has a customizable action button for the first time, which is primarily designed for quick access to Copilot (of course), but can be configured to work with other shortcuts from the Surface app. \"Its […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "software",
-      "title_en": "Data centers are black boxes, but California wants to change that",
-      "summary_en": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. As data centers invade a growing number of communities across the US, they've triggered protests over how the infrastructure underpinning AI […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
-      "published": "2026-09-23T14:22:57-04:00",
-      "title_th": "Data centers are black boxes, but California wants to change that",
-      "summary_th": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. As data centers invade a growing number of communities across the US, they've triggered protests over how the infrastructure underpinning AI […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Anthropic’s biolab made a discovery it’s comparing to Crispr",
-      "summary_en": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prepares to go public. The company says Claude found the enzyme system after […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB364_CLAUDE_2_C_96d15c-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
-      "published": "2026-09-23T14:00:00-04:00",
-      "title_th": "Anthropic’s biolab made a discovery it’s comparing to Crispr",
-      "summary_th": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prepares to go public. The company says Claude found the enzyme system after […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
-      "summary_en": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of the \"destruction or disempowerment of humanity,\" including by overthrowing the government. Under the Ban Artificial Superintelligence Act, AI leaders would face up to 20 years […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294931488.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
-      "published": "2026-09-23T12:23:05-04:00",
-      "title_th": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
-      "summary_th": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of the \"destruction or disempowerment of humanity,\" including by overthrowing the government. Under the Ban Artificial Superintelligence Act, AI leaders would face up to 20 years […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Logitech’s new Blue Yeti 2 mic adjusts itself to where you are",
-      "summary_en": "The original Blue Yeti has been one of the most recognizable go-to USB microphones for content creators since it launched in 2009, and now it finally has a successor. Launching today under Logitech G, the Blue Yeti 2 adds some modern upgrades, including an interactive LED display, AI de-noising, and a proximity based voice sensor […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Blue-Yeti-2-USB-mic-hero-black.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability",
-      "published": "2026-09-23T12:01:45-04:00",
-      "title_th": "Logitech’s new Blue Yeti 2 mic adjusts itself to where you are",
-      "summary_th": "The original Blue Yeti has been one of the most recognizable go-to USB microphones for content creators since it launched in 2009, and now it finally has a successor. Launching today under Logitech G, the Blue Yeti 2 adds some modern upgrades, including an interactive LED display, AI de-noising, and a proximity based voice sensor […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Logitech’s new haptics-based gaming mouse is a little better and $20 more",
-      "summary_en": "The G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decreases latency and allows for a custom click feel (the click can be super subtle, more jolty, or turned off entirely). The tech debuted in […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price",
-      "published": "2026-09-23T12:00:00-04:00",
-      "title_th": "Logitech’s new haptics-based gaming mouse is a little better and $20 more",
-      "summary_th": "The G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decreases latency and allows for a custom click feel (the click can be super subtle, more jolty, or turned off entirely). The tech debuted in […]"
+      "title_en": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+      "summary_en": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of. You're telling me a tree branch fell in the backyard and now I have to figure out what to […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04272_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+      "published": "2026-09-23T15:00:00-04:00",
+      "title_th": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+      "summary_th": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of. You're telling me a tree branch fell in the backyard and now I have to figure out what to […]"
     },
     {
       "source": "Ars Technica",
@@ -186,6 +186,18 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
+      "title_en": "A US-China AI Hotline Won't Be Ready For a While",
+      "summary_en": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues.",
+      "image": "https://media.wired.com/photos/6ab2ef34ade3d66cae78e17b/master/pass/politics_us_china_ai_talk.jpg",
+      "link": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
+      "published": "Wed, 23 Sep 2026 21:00:00 +0000",
+      "title_th": "A US-China AI Hotline Won't Be Ready For a While",
+      "summary_th": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
       "title_en": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
       "summary_en": "A clandestine card-counting operation suggests we may need new ways to spot agent-to-agent deception.",
       "image": "https://media.wired.com/photos/6ab16fccade3d66cae78d5ff/master/pass/AI-Lab-How-Bunch-of-AI-Agents-Planned-Casino-Heist-Business.jpg",
@@ -231,18 +243,6 @@
       "summary_th": "Meta says it issued a fix for the Muse zero-day vulnerability that would have let attackers do “whatever” they wanted on a victim’s Mac, highlighting the inherent dangers of AI helpers."
     },
     {
-      "source": "Wired",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "The Best Samsung Phones of 2026: Ultra, Fold, Budget",
-      "summary_en": "From flagship and budget to flipping and folding, Samsung’s Galaxy range spans the breadth of the smartphone cosmos. WIRED’s here to help you make your choice.",
-      "image": "https://media.wired.com/photos/6ab2d5c26c487a05d975772b/master/pass/Samsung%20Galaxy%20S26%20and%20S26+%20SOURCE%20Julian%20Chokkattu.jpg",
-      "link": "https://www.wired.com/gallery/best-samsung-phones/",
-      "published": "Wed, 23 Sep 2026 11:30:00 +0000",
-      "title_th": "The Best Samsung Phones of 2026: Ultra, Fold, Budget",
-      "summary_th": "From flagship and budget to flipping and folding, Samsung’s Galaxy range spans the breadth of the smartphone cosmos. WIRED’s here to help you make your choice."
-    },
-    {
       "source": "MIT Technology Review",
       "flag": "US",
       "category": "review",
@@ -270,6 +270,18 @@
       "source": "MIT Technology Review",
       "flag": "US",
       "category": "ai",
+      "title_en": "The AI Hype Index: AI loves cheating",
+      "summary_en": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/09-Hype-thumb.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "published": "Wed, 23 Sep 2026 09:00:00 +0000",
+      "title_th": "The AI Hype Index: AI loves cheating",
+      "summary_th": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s…"
+    },
+    {
+      "source": "MIT Technology Review",
+      "flag": "US",
+      "category": "ai",
       "title_en": "Smart glasses are already causing havoc in India",
       "summary_en": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this spring against a bill that would have narrowed the legal recognition for transgender people in…",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/260824_metaindia.jpg?resize=1200,600",
@@ -291,16 +303,40 @@
       "summary_th": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers…"
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
-      "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Don’t be fooled by this summer of AI hype —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender, professor of linguistics at the University of…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/summer-hype2.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
-      "published": "Tue, 22 Sep 2026 12:10:00 +0000",
-      "title_th": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
-      "summary_th": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Don’t be fooled by this summer of AI hype —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender, professor of linguistics at the University of…"
+      "category": "gadget",
+      "title_en": "The purpose of the triangle symbol on your Samsung Galaxy phone",
+      "summary_en": "Samsung phones have a few different triangle symbols that can display in the status bar in different scenarios. This is how to tell what they mean.",
+      "image": "https://www.engadget.com/img/gallery/the-purpose-of-the-triangle-symbol-on-your-samsung-galaxy-phone/l-intro-1790087422.jpg",
+      "link": "https://www.engadget.com/2265257/triangle-symbol-samsung-galaxy-phone-meaning-data-saver-setting/",
+      "published": "Wed, 23 Sep 2026 23:00:00 +0000",
+      "title_th": "The purpose of the triangle symbol on your Samsung Galaxy phone",
+      "summary_th": "Samsung phones have a few different triangle symbols that can display in the status bar in different scenarios. This is how to tell what they mean."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "ShinyHunters hackers claim to have 2-3TB of sensitive information about FBI employees",
+      "summary_en": "Financial extortion doesn't seem to be the group's goal this time.",
+      "image": "https://www.engadget.com/img/gallery/shinyhunters-hackers-claim-to-have-2-3tb-of-sensitive-information-about-fbi-employees/l-intro-1790198064.jpg",
+      "link": "https://www.engadget.com/2267075/shinyhunters-hackers-claim-to-have-2-3tb-of-sensitive-information-about-fbi-employees/",
+      "published": "Wed, 23 Sep 2026 21:15:51 +0000",
+      "title_th": "ShinyHunters hackers claim to have 2-3TB of sensitive information about FBI employees",
+      "summary_th": "Financial extortion doesn't seem to be the group's goal this time."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Microsoft's new Surface Pro 12 and Surface Laptop 13 feature Snapdragon X2 Plus chips",
+      "summary_en": "Microsoft's smaller Surface Pro 12 and Surface Laptop 13 are getting a much-needed chip upgrade.",
+      "image": "https://www.engadget.com/img/gallery/microsofts-new-surface-pro-12-and-surface-laptop-13-feature-snapdragon-x2-plus-chips/l-intro-1790183051.jpg",
+      "link": "https://www.engadget.com/2266680/microsofts-new-surface-pro-12-and-surface-laptop-13-feature-snapdragon-x2-plus-chips/",
+      "published": "Wed, 23 Sep 2026 20:30:00 +0000",
+      "title_th": "Microsoft's new Surface Pro 12 and Surface Laptop 13 feature Snapdragon X2 Plus chips",
+      "summary_th": "Microsoft's smaller Surface Pro 12 and Surface Laptop 13 are getting a much-needed chip upgrade."
     },
     {
       "source": "Engadget",
@@ -325,42 +361,6 @@
       "published": "Wed, 23 Sep 2026 16:01:00 +0000",
       "title_th": "Logitech's Yeti 2 brings the 17-year-old USB mic into the modern age",
       "summary_th": "In case you missed it, Logitech bough Blue, actually kind of a while ago!"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Logitech just unveiled several new gaming accessories in its Pro line",
-      "summary_en": "For $60 it had better be a pretty incredible mouse pad.",
-      "image": "https://www.engadget.com/img/gallery/logitech-just-unveiled-several-new-gaming-accessories-in-its-pro-line/l-intro-1790103226.jpg",
-      "link": "https://www.engadget.com/2265768/logitech-just-unveiled-several-new-gaming-accessories-in-its-pro-line/",
-      "published": "Wed, 23 Sep 2026 16:01:00 +0000",
-      "title_th": "Logitech just unveiled several new gaming accessories in its Pro line",
-      "summary_th": "For $60 it had better be a pretty incredible mouse pad."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Meta Connect 2026 live: Updates from Mark Zuckerberg's keynote on AI glasses, VR and more",
-      "summary_en": "More smart glasses and possibly a VR headset are expected today",
-      "image": "https://www.engadget.com/img/gallery/meta-connect-2026-live-updates-from-mark-zuckerbergs-keynote-on-ai-vr-and-more/l-intro-1790135167.jpg",
-      "link": "https://www.engadget.com/2266105/meta-connect-2026-live-blog-ai-vr/",
-      "published": "Wed, 23 Sep 2026 16:00:00 +0000",
-      "title_th": "Meta Connect 2026 live: Updates from Mark Zuckerberg's keynote on AI glasses, VR and more",
-      "summary_th": "More smart glasses and possibly a VR headset are expected today"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Never use ChatGPT for these five tasks",
-      "summary_en": "ChatGPT and other chatbots are useful for a lot, but remember that what you type into them is not protected and could cause trouble later.",
-      "image": "https://www.engadget.com/img/gallery/never-use-chatgpt-for-these-five-tasks/l-intro-1790086331.jpg",
-      "link": "https://www.engadget.com/2265219/chatgpt-tasks-never-use-for/",
-      "published": "Wed, 23 Sep 2026 12:00:00 +0000",
-      "title_th": "Never use ChatGPT for these five tasks",
-      "summary_th": "ChatGPT and other chatbots are useful for a lot, but remember that what you type into them is not protected and could cause trouble later."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,61 +426,97 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "9to5Mac Daily: September 23, 2026 – Apple wearable rumors, more",
-      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff :Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. A simple to-do list for iPhone, iPad, and Mac, with powerful tools that make organizing, tracking, and checking off your tasks a whole lot more satisfying. Get Stuff done. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/23/daily-september-23-2026/",
-      "published": "Wed, 23 Sep 2026 18:12:42 +0000",
-      "title_th": "9to5Mac Daily: September 23, 2026 – Apple wearable rumors, more",
-      "summary_th": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff :Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. A simple to-do list for iPhone, iPad, and Mac, with powerful tools that make organizing, tracking, and checking off your tasks a whole lot more satisfying. Get Stuff done. more…"
+      "title_en": "Watch the trailer for Apple TV’s ‘Where’s Wanda?’ season 2",
+      "summary_en": "Apple TV today released the trailer for the second season of “ Where’s Wanda? ,” a German-language dark comedy returning to the service on October 21. Watch it below. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/wheres-wanda.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/23/watch-the-trailer-for-apple-tvs-wheres-wanda-season-2/",
+      "published": "Wed, 23 Sep 2026 22:11:54 +0000",
+      "title_th": "Watch the trailer for Apple TV’s ‘Where’s Wanda?’ season 2",
+      "summary_th": "Apple TV today released the trailer for the second season of “ Where’s Wanda? ,” a German-language dark comedy returning to the service on October 21. Watch it below. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Here’s everything new Apple TV has coming in October",
-      "summary_en": "Apple TV has a strong current lineup headlined by hits like Slow Horses , Ted Lasso , Dark Matter , and new Matthew McConaughey comedy Brothers . But there’s a lot more coming soon. Here’s everything new Apple TV has premiering in October. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-tv-logo-fall-foliage-2.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/23/heres-everything-new-apple-tv-has-coming-in-october-2026/",
-      "published": "Wed, 23 Sep 2026 18:05:35 +0000",
-      "title_th": "Here’s everything new Apple TV has coming in October",
-      "summary_th": "Apple TV has a strong current lineup headlined by hits like Slow Horses , Ted Lasso , Dark Matter , and new Matthew McConaughey comedy Brothers . But there’s a lot more coming soon. Here’s everything new Apple TV has premiering in October. more…"
+      "title_en": "MacWhisper update brings real-time meeting transcripts, improved speaker recognition, more",
+      "summary_en": "My transcription tool of choice on the Mac, MacWhisper, got another major update today with real-time meeting transcripts, significantly improved speaker recognition, tighter integration with Apple Intelligence, and a new transcription model. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/macwhisper.webp?resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/23/macwhisper-update-brings-real-time-meeting-transcripts-improved-speaker-recognition-more/",
+      "published": "Wed, 23 Sep 2026 21:17:11 +0000",
+      "title_th": "MacWhisper update brings real-time meeting transcripts, improved speaker recognition, more",
+      "summary_th": "My transcription tool of choice on the Mac, MacWhisper, got another major update today with real-time meeting transcripts, significantly improved speaker recognition, tighter integration with Apple Intelligence, and a new transcription model. Here are the details. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "iOS 27.2: New features, release date, more",
-      "summary_en": "Apple has kicked off beta testing of iOS 27.2, and the update brings several notable changes and new features. Here’s everything you need to know about iOS 27.2, which will likely be released to iPhone users as soon as next month. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27.2-guide.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/23/ios-27-2-new-features-release-date/",
-      "published": "Wed, 23 Sep 2026 17:41:42 +0000",
-      "title_th": "iOS 27.2: New features, release date, more",
-      "summary_th": "Apple has kicked off beta testing of iOS 27.2, and the update brings several notable changes and new features. Here’s everything you need to know about iOS 27.2, which will likely be released to iPhone users as soon as next month. more…"
+      "title_en": "Apple Podcasts will soon let creators offer exclusive videos to subscribers",
+      "summary_en": "Apple announced this week that creators will soon be able to offer video through Apple Podcasts Subscriptions, “including subscriber-exclusive episodes, ad-free video, early access, and bonus content.” Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-podcasts.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/23/apple-podcasts-will-soon-let-creators-offer-exclusive-videos-to-subscribers/",
+      "published": "Wed, 23 Sep 2026 20:46:39 +0000",
+      "title_th": "Apple Podcasts will soon let creators offer exclusive videos to subscribers",
+      "summary_th": "Apple announced this week that creators will soon be able to offer video through Apple Podcasts Subscriptions, “including subscriber-exclusive episodes, ad-free video, early access, and bonus content.” Here are the details. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "OpenAI just upgraded ChatGPT Voice in three ways",
-      "summary_en": "Talking to ChatGPT is getting better in three ways starting today. OpenAI is rolling out a collection of improvements to how ChatGPT Voice mode works. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-orange.webp?resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/23/openai-just-upgraded-chatgpt-voice-in-three-ways/",
-      "published": "Wed, 23 Sep 2026 17:24:11 +0000",
-      "title_th": "OpenAI just upgraded ChatGPT Voice in three ways",
-      "summary_th": "Talking to ChatGPT is getting better in three ways starting today. OpenAI is rolling out a collection of improvements to how ChatGPT Voice mode works. more…"
+      "title_en": "Apple releases watchOS 27.0.1 to fix Apple Watch Series 12 and Ultra 4 bug",
+      "summary_en": "Apple is rolling out watchOS 27.0.1 for Apple Watch today. The company says the update fixes an issue where some Apple Watch units would unexpectedly restart. The update is available exclusively for Apple Watch Series 12 and Apple Watch Ultra 4 users. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Apple-Watch-Series-12-Aluminum-Nike-Concrete-Sport-Band-Steps-Counter-Watch-Face-Heart-Rate-.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/23/apple-releases-watchos-27-0-1-to-fix-apple-watch-series-12-and-ultra-4-bug/",
+      "published": "Wed, 23 Sep 2026 19:58:59 +0000",
+      "title_th": "Apple releases watchOS 27.0.1 to fix Apple Watch Series 12 and Ultra 4 bug",
+      "summary_th": "Apple is rolling out watchOS 27.0.1 for Apple Watch today. The company says the update fixes an issue where some Apple Watch units would unexpectedly restart. The update is available exclusively for Apple Watch Series 12 and Apple Watch Ultra 4 users. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Here’s what Siri AI looks like on HomePod, per leak",
-      "summary_en": "All signs point to Siri AI coming to HomePod soon via new hardware, and leaker pdfu today shared evidence of what the new Siri could look like on a HomePod. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai-orb-generic-wwdc.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/23/heres-what-siri-ai-looks-like-on-homepod-per-leak/",
-      "published": "Wed, 23 Sep 2026 17:17:24 +0000",
-      "title_th": "Here’s what Siri AI looks like on HomePod, per leak",
-      "summary_th": "All signs point to Siri AI coming to HomePod soon via new hardware, and leaker pdfu today shared evidence of what the new Siri could look like on a HomePod. more…"
+      "title_en": "Here’s everything new for Apple Calendar in iOS 27",
+      "summary_en": "iOS 27 is packed with new features for Apple Wallet , Messages , Notes , and other system apps—including Calendar. Here’s everything new for Apple’s Calendar app in iOS 27. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-calendar-app-icon-ios-27.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/23/heres-everything-new-for-apple-calendar-in-ios-27/",
+      "published": "Wed, 23 Sep 2026 18:57:08 +0000",
+      "title_th": "Here’s everything new for Apple Calendar in iOS 27",
+      "summary_th": "iOS 27 is packed with new features for Apple Wallet , Messages , Notes , and other system apps—including Calendar. Here’s everything new for Apple’s Calendar app in iOS 27. more…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Microsoft launches 12-inch Surface Pro with Snapdragon X2 Plus & 5G, 13-inch Surface Laptop too",
+      "summary_en": "Microsoft is rolling out refreshes to its smaller Surface Laptop and Surface Pro machines powered by Qualcomm’s Snapdragon X2 Plus starting at a price of $1,149. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/surface-pro-laptop-x2-oct-refresh.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/23/microsoft-surface-pro-12-inch-5g-laptop-13-snapdragon-x2/",
+      "published": "Wed, 23 Sep 2026 20:31:00 +0000",
+      "title_th": "Microsoft launches 12-inch Surface Pro with Snapdragon X2 Plus & 5G, 13-inch Surface Laptop too",
+      "summary_th": "Microsoft is rolling out refreshes to its smaller Surface Laptop and Surface Pro machines powered by Qualcomm’s Snapdragon X2 Plus starting at a price of $1,149. more…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Google Maps update shows traffic lights and stop signs at your next turn on Android Auto, more",
+      "summary_en": "Google Maps is rolling out a new update on Android Auto that makes it easier to know what to expect at your next turn, with a visual indicator to show upcoming traffic lights or stop signs. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/android-auto-google-maps-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/23/google-maps-traffic-lights-stop-signs-update-android-auto/",
+      "published": "Wed, 23 Sep 2026 19:55:00 +0000",
+      "title_th": "Google Maps update shows traffic lights and stop signs at your next turn on Android Auto, more",
+      "summary_th": "Google Maps is rolling out a new update on Android Auto that makes it easier to know what to expect at your next turn, with a visual indicator to show upcoming traffic lights or stop signs. more…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Qualcomm announces Snapdragon Sound Elite Gen 2 for AI ‘hearables,’ even ones with cameras",
+      "summary_en": "Qualcomm announced the Snapdragon Sound Elite Gen 2 as a substantial chipset for upcoming audio devices, with a massive focus on better AI performance for audio wearables. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/snapdragon-Sound-elite-gen-2-2.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/23/qualcomm-announces-snapdragon-sound-elite-gen-2/",
+      "published": "Wed, 23 Sep 2026 18:30:00 +0000",
+      "title_th": "Qualcomm announces Snapdragon Sound Elite Gen 2 for AI ‘hearables,’ even ones with cameras",
+      "summary_th": "Qualcomm announced the Snapdragon Sound Elite Gen 2 as a substantial chipset for upcoming audio devices, with a massive focus on better AI performance for audio wearables. more…"
     },
     {
       "source": "9to5Google",
@@ -507,40 +543,28 @@
       "summary_th": "Alongside some deep ongoing deals on Samsung Galaxy Z Fold 8 at up to $21 and a return all-time low the Nothing CMF Clip Pro, as well as Headphone (a) at 30% off . From there, we move over to the PC deals with a giant $1,051 off this Alienware 16-inch OLED gaming laptop for GeForce Week and Lenovo’s 2026 2K touchscreen IdeaPad Slim Copilot+ PC hitting a new all-time low at $620 off , not to mention new all-time lows on the latest Ring Doorbell 4K Pro models at $100 off in the now live early fall Prime Day sale. Check it out below. more…"
     },
     {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "review",
-      "title_en": "YouTube Music adding corner access to ‘Ask Music’ with Gemini",
-      "summary_en": "As part of Made on YouTube 2026 , a handful of updates to YouTube Music that are coming later this year were previewed. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/YouTube-Music-Ask-1-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/23/youtube-music-ask-gemini/",
-      "published": "Wed, 23 Sep 2026 14:30:00 +0000",
-      "title_th": "YouTube Music adding corner access to ‘Ask Music’ with Gemini",
-      "summary_th": "As part of Made on YouTube 2026 , a handful of updates to YouTube Music that are coming later this year were previewed. more…"
-    },
-    {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
       "category": "gadget",
-      "title_en": "YouTube announces Custom Feeds, GIF comments, and ’Your podcast lineup’",
-      "summary_en": "At Made on YouTube 2026 today, YouTube announced a slew of new features. We’ve highlighted the capabilities that will impact the viewer experience over the coming months. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Made-on-YouTube-2026-cover-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/23/made-on-youtube-2026/",
-      "published": "Wed, 23 Sep 2026 14:30:00 +0000",
-      "title_th": "YouTube announces Custom Feeds, GIF comments, and ’Your podcast lineup’",
-      "summary_th": "At Made on YouTube 2026 today, YouTube announced a slew of new features. We’ve highlighted the capabilities that will impact the viewer experience over the coming months. more…"
+      "title_en": "Volkswagen ID. Buzz Cargo gets a stretched version starting at about $60,000",
+      "summary_en": "Volkswagen launched the new ID. Buzz Cargo with a longer wheelbase, offering more space and updated software. Prices start at about $60,000, but a cheaper version will go on sale soon. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Volkswagen-ID-Buzz-Cargo-longer.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/23/volkswagen-id-buzz-cargo-longer-variant-60000/",
+      "published": "Wed, 23 Sep 2026 19:43:11 +0000",
+      "title_th": "Volkswagen ID. Buzz Cargo gets a stretched version starting at about $60,000",
+      "summary_th": "Volkswagen launched the new ID. Buzz Cargo with a longer wheelbase, offering more space and updated software. Prices start at about $60,000, but a cheaper version will go on sale soon. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Galaxy Tab S12 Ultra leak shows another side, confirming minimal changes",
-      "summary_en": "The Galaxy Tab S12 Ultra showed up in a leak in August, but a new one has surfaced as the October launch date gets closer. The most recent images further confirm little about the design will change. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Galaxy-Tab-S12-Ultra.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/23/galaxy-tab-s12-ultra-leak-all-sides/",
-      "published": "Wed, 23 Sep 2026 14:21:44 +0000",
-      "title_th": "Galaxy Tab S12 Ultra leak shows another side, confirming minimal changes",
-      "summary_th": "The Galaxy Tab S12 Ultra showed up in a leak in August, but a new one has surfaced as the October launch date gets closer. The most recent images further confirm little about the design will change. more…"
+      "category": "ev",
+      "title_en": "Bentley unveils Torcal, its first EV: 888 PS, 375 miles of range",
+      "summary_en": "Bentley has unveiled the Torcal, its first all-electric vehicle, at a global debut in London today. It’s an SUV with up to 888 PS (876 hp), a 113 kWh battery, and up to 375 miles (600 km WLTP) of range. The Torcal becomes Bentley’s fourth model line, alongside the Continental GT, Flying Spur, and Bentayga. It’s designed, engineered, and built in Crewe, England. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/bentley-torcal-02.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/23/bentley-torcal-first-electric-bentley-unveiled/",
+      "published": "Wed, 23 Sep 2026 19:33:17 +0000",
+      "title_th": "Bentley unveils Torcal, its first EV: 888 PS, 375 miles of range",
+      "summary_th": "Bentley has unveiled the Torcal, its first all-electric vehicle, at a global debut in London today. It’s an SUV with up to 888 PS (876 hp), a 113 kWh battery, and up to 375 miles (600 km WLTP) of range. The Torcal becomes Bentley’s fourth model line, alongside the Continental GT, Flying Spur, and Bentayga. It’s designed, engineered, and built in Crewe, England. more…"
     },
     {
       "source": "Electrek",
@@ -577,30 +601,6 @@
       "published": "Wed, 23 Sep 2026 17:41:06 +0000",
       "title_th": "Ford Fathom may have a front tailgate you can put a TV in, per patent images",
       "summary_th": "Ford has filed for a new patent showing a multi-use tailgate on the front end of a truck, with the possibility of putting a whole television inside the tailgate. It seems likely to apply to the upcoming Fathom. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Nissan reveals its newest EV, an affordable electric city cruiser with 259 km of range [Images]",
-      "summary_en": "The Pixo is back, but this time it’s an all-electric city cruiser set to become Nissan’s most affordable EV starting under $25,000. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Nissan-affordable-Pixo-EV.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/23/nissan-reveals-new-affordable-pixo-ev-259-km-range/",
-      "published": "Wed, 23 Sep 2026 14:17:29 +0000",
-      "title_th": "Nissan reveals its newest EV, an affordable electric city cruiser with 259 km of range [Images]",
-      "summary_th": "The Pixo is back, but this time it’s an all-electric city cruiser set to become Nissan’s most affordable EV starting under $25,000. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Tesla’s ‘hardcore lawyers’ went a little too hardcore",
-      "summary_en": "Tesla’s racism trial in California opened Monday with a bad day for the company’s lawyers. The first witness testified that a senior Tesla in-house attorney had called him last week and let him believe he was working for the state, according to Law360 (paywall). That same morning, Tesla’s outside counsel told the judge the N-word is a “term of respect and endearment” in the Black community. Both happened in front of Judge Peter Borkon, the one person who will decide the case. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2017/07/tesla-fremont-electrek-june-2017-021.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/23/tesla-hardcore-lawyers-misled-witness-racism-trial/",
-      "published": "Wed, 23 Sep 2026 14:15:16 +0000",
-      "title_th": "Tesla’s ‘hardcore lawyers’ went a little too hardcore",
-      "summary_th": "Tesla’s racism trial in California opened Monday with a bad day for the company’s lawyers. The first witness testified that a senior Tesla in-house attorney had called him last week and let him believe he was working for the state, according to Law360 (paywall). That same morning, Tesla’s outside counsel told the judge the N-word is a “term of respect and endearment” in the Black community. Both happened in front of Judge Peter Borkon, the one person who will decide the case. more…"
     }
   ],
   "indices": [
@@ -608,57 +608,57 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 225.4,
-      "change": -1.98,
-      "change_pct": -0.87
+      "price": 225.51,
+      "change": -3.36,
+      "change_pct": -1.47
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 379.7,
-      "change": 4.4,
-      "change_pct": 1.17
+      "price": 380.12,
+      "change": 1.22,
+      "change_pct": 0.32
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 339.29,
-      "change": -15.68,
-      "change_pct": -4.42
+      "price": 337.83,
+      "change": -13.33,
+      "change_pct": -3.8
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 500.7,
-      "change": -0.9,
-      "change_pct": -0.18
+      "price": 500.59,
+      "change": 2.59,
+      "change_pct": 0.52
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 337.14,
-      "change": -1.84,
-      "change_pct": -0.54
+      "price": 337.02,
+      "change": -2.73,
+      "change_pct": -0.8
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 249.93,
-      "change": -8.52,
-      "change_pct": -3.3
+      "price": 249.27,
+      "change": -5.71,
+      "change_pct": -2.24
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 748.76,
-      "change": 7.51,
-      "change_pct": 1.01
+      "price": 744.1,
+      "change": 7.5,
+      "change_pct": 1.02
     },
     {
       "symbol": "DELTA.BK",
@@ -733,6 +733,16 @@
     {
       "channel": "Beartai",
       "country": "TH",
+      "title_en": "ไทยไม่มีภราดร 2 เพราะ...",
+      "video_id": "aAAVPV56gfk",
+      "link": "https://www.youtube.com/shorts/aAAVPV56gfk",
+      "thumbnail": "https://i2.ytimg.com/vi/aAAVPV56gfk/hqdefault.jpg",
+      "published": "2026-09-23T23:00:06+00:00",
+      "title_th": "ไทยไม่มีภราดร 2 เพราะ..."
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
       "title_en": "การทำงานของ SIM Card และการ Roaming ข้ามประเทศ - 1SEC",
       "video_id": "HwlPGi--pHA",
       "link": "https://www.youtube.com/watch?v=HwlPGi--pHA",
@@ -749,16 +759,6 @@
       "thumbnail": "https://i1.ytimg.com/vi/0IwjIAkwBNY/hqdefault.jpg",
       "published": "2026-09-23T09:08:51+00:00",
       "title_th": "นวัตกรรมหน้าจอและเทคโนโลยี Immersive ฝีมือคนไทย"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "กระจกนิรภัยกันรอยหน้าจอ",
-      "video_id": "DPU9yEfRiag",
-      "link": "https://www.youtube.com/shorts/DPU9yEfRiag",
-      "thumbnail": "https://i1.ytimg.com/vi/DPU9yEfRiag/hqdefault.jpg",
-      "published": "2026-09-23T04:00:36+00:00",
-      "title_th": "กระจกนิรภัยกันรอยหน้าจอ"
     },
     {
       "channel": "Droidsans",
