@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-22T23:39:21.027354+00:00",
+  "generated_at": "2026-09-23T02:15:10.191592+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "summary_en": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/54657380116_66c449690d_k.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "published": "Tue, 22 Sep 2026 23:21:49 +0000",
+      "title_th": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "summary_th": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -51,16 +63,16 @@
       "summary_th": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
-      "summary_en": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/fbi-headquarters-2269711939.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
-      "published": "Tue, 22 Sep 2026 18:40:30 +0000",
-      "title_th": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
-      "summary_th": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government."
+      "category": "software",
+      "title_en": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "summary_en": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2294952541.jpg?quality=90&strip=all&crop=0%2C10.735367145048%2C100%2C78.529265709904&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "published": "2026-09-22T20:17:17-04:00",
+      "title_th": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "summary_th": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider […]"
     },
     {
       "source": "The Verge",
@@ -109,18 +121,6 @@
       "published": "2026-09-22T16:00:00-04:00",
       "title_th": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
       "summary_th": "Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video capture, and gaming performance on the Extreme model. Both Gen 6 chips […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
-      "summary_en": "Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full specs, price, and release date. Any prospective buyers will first have to get over the […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/motorola-signature-27-green-hand.jpg?quality=90&strip=all&crop=0%2C10.740572122316%2C100%2C78.518855755368&w=1200",
-      "link": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
-      "published": "2026-09-22T16:00:00-04:00",
-      "title_th": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
-      "summary_th": "Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full specs, price, and release date. Any prospective buyers will first have to get over the […]"
     },
     {
       "source": "Ars Technica",
@@ -306,6 +306,18 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "The pros and cons of using a password manager over an authenticator app",
+      "summary_en": "Deciding whether to use a password manager or an authenticator app can be confusing. Here are some things you need to consider when making your choice.",
+      "image": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-a-password-manager-over-an-authenticator-app/l-intro-1789411830.jpg",
+      "link": "https://www.engadget.com/2264763/using-password-manager-instead-of-authenticator-app-pros-cons/",
+      "published": "Wed, 23 Sep 2026 00:00:00 +0000",
+      "title_th": "The pros and cons of using a password manager over an authenticator app",
+      "summary_th": "Deciding whether to use a password manager or an authenticator app can be confusing. Here are some things you need to consider when making your choice."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "Improve your Apple CarPlay experience by doing these simple things",
       "summary_en": "CarPlay works well from the start, but you can enjoy a better driving experience by changing some options.",
       "image": "https://www.engadget.com/img/gallery/improve-your-apple-carplay-experience-by-doing-these-simple-things/l-intro-1790020049.jpg",
@@ -349,18 +361,6 @@
       "published": "Tue, 22 Sep 2026 21:53:08 +0000",
       "title_th": "DoorDash will pay $131.5 million for missing and miscalculated NYC delivery worker wages",
       "summary_th": "The company blames technical errors and a difference of opinion on how wages should be calculated for pay irregularities."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Discord rolls out its revised age verification policy",
-      "summary_en": "It will offer several privacy-focused options for users who aren't automatically confirmed as adults.",
-      "image": "https://www.engadget.com/img/gallery/discord-rolls-out-its-revised-age-verification-policy/l-intro-1790108153.jpg",
-      "link": "https://www.engadget.com/2265924/discord-rolls-out-its-revised-age-verification-policy/",
-      "published": "Tue, 22 Sep 2026 20:29:08 +0000",
-      "title_th": "Discord rolls out its revised age verification policy",
-      "summary_th": "It will offer several privacy-focused options for users who aren't automatically confirmed as adults."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,61 +426,61 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "‘Brothers,’ starring Matthew McConaughey and Woody Harrelson, premieres on Apple TV",
+      "summary_en": "The first two episodes of “ Brothers ,” Apple TV’s new comedy series starring Woody Harrelson ( Natural Born Killers ) and Matthew McConaughey ( Interstellar ), are now available to subscribers. Watch the trailer below. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/brothers-matthew-mcconaughey-woody-harrelson-hug.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/22/brothers-starring-matthew-mcconaughey-and-woody-harrelson-premieres-on-apple-tv/",
+      "published": "Wed, 23 Sep 2026 01:01:41 +0000",
+      "title_th": "‘Brothers,’ starring Matthew McConaughey and Woody Harrelson, premieres on Apple TV",
+      "summary_th": "The first two episodes of “ Brothers ,” Apple TV’s new comedy series starring Woody Harrelson ( Natural Born Killers ) and Matthew McConaughey ( Interstellar ), are now available to subscribers. Watch the trailer below. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Public beta debuts for iPadOS 27.2 and more, here’s what’s new",
+      "summary_en": "Apple has a round of new public beta updates rolling out today, including iPadOS 27.2, watchOS 27.2, and more. Here’s what’s new. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-apple-product-devices-lineup-bg.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/22/public-beta-debuts-for-ipados-27-2-and-more-heres-whats-new/",
+      "published": "Wed, 23 Sep 2026 00:32:42 +0000",
+      "title_th": "Public beta debuts for iPadOS 27.2 and more, here’s what’s new",
+      "summary_th": "Apple has a round of new public beta updates rolling out today, including iPadOS 27.2, watchOS 27.2, and more. Here’s what’s new. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple Pay just got even better with four new features and more",
+      "summary_en": "Apple Pay is a go-to feature for iPhone users when shopping in stores, online, and in apps. Apple recently announced four new features that make Apple Pay even better. Here’s how they work, plus one major expansion that’s rolling out now. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/10/apple-pay-header.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/22/apple-pay-is-getting-even-better-with-four-new-features/",
+      "published": "Tue, 22 Sep 2026 23:57:57 +0000",
+      "title_th": "Apple Pay just got even better with four new features and more",
+      "summary_th": "Apple Pay is a go-to feature for iPhone users when shopping in stores, online, and in apps. Apple recently announced four new features that make Apple Pay even better. Here’s how they work, plus one major expansion that’s rolling out now. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "U.S. government urges Supreme Court to reverse Apple contempt ruling over App Store commission",
+      "summary_en": "Several legal and business groups, in addition to the U.S. government, filed briefs with the Supreme Court this week in the Apple vs. Epic Games lawsuit, urging the justices to reverse at least part of the contempt ruling against Apple. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-generates-2.4-million-per-employee-but-is-only-third-in-the-ranking.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/22/u-s-government-urges-supreme-court-to-reverse-apple-contempt-ruling-over-app-store-commission/",
+      "published": "Tue, 22 Sep 2026 23:43:00 +0000",
+      "title_th": "U.S. government urges Supreme Court to reverse Apple contempt ruling over App Store commission",
+      "summary_th": "Several legal and business groups, in addition to the U.S. government, filed briefs with the Supreme Court this week in the Apple vs. Epic Games lawsuit, urging the justices to reverse at least part of the contempt ruling against Apple. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Apple releases first iOS 27.2 public beta with new iPhone Health app",
-      "summary_en": "Six days ago, Apple released iOS 27.2 developer beta 1, skipping over iOS 27.1 beta. Following yesterday’s developer beta 2 release, Apple has now issued the first iOS 27.2 public beta version, presumably with the new iPhone Health app included. more…",
+      "summary_en": "Six days ago, Apple released iOS 27.2 developer beta 1, skipping over iOS 27.1 beta. Following yesterday’s developer beta 2 release, Apple has now issued the first iOS 27.2 public beta version, with the new iPhone Health app included. Apple has also turned on the ability to schedule and purchase labs through Quest Diagnostics from the new Health app in iOS 27.2 beta. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iOS-27.2-public.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/09/22/apple-releases-first-ios-27-2-public-beta-with-new-iphone-health-app/",
       "published": "Tue, 22 Sep 2026 23:06:29 +0000",
       "title_th": "Apple releases first iOS 27.2 public beta with new iPhone Health app",
-      "summary_th": "Six days ago, Apple released iOS 27.2 developer beta 1, skipping over iOS 27.1 beta. Following yesterday’s developer beta 2 release, Apple has now issued the first iOS 27.2 public beta version, presumably with the new iPhone Health app included. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple rolls out second RCs for macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1 [U: Public]",
-      "summary_en": "Update September 22, 7:04 p.m.: Apple has now rolled out the corresponding public Release Candidates, with the same builds as the second developer RCs. Less than a week after releasing macOS 26.7.1 and macOS 15.8.1 RC 1, Apple is now rolling out the second release candidates ahead of their official release. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-purple.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/22/apple-rolls-out-second-release-candidates-for-macos-tahoe-26-7-1-and-macos-sequoia-15-8-1/",
-      "published": "Tue, 22 Sep 2026 23:05:25 +0000",
-      "title_th": "Apple rolls out second RCs for macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1 [U: Public]",
-      "summary_th": "Update September 22, 7:04 p.m.: Apple has now rolled out the corresponding public Release Candidates, with the same builds as the second developer RCs. Less than a week after releasing macOS 26.7.1 and macOS 15.8.1 RC 1, Apple is now rolling out the second release candidates ahead of their official release. Here are the details. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple releases macOS 27.2 Golden Gate public beta 1",
-      "summary_en": "After releasing the second developer beta for macOS 27.2 Golden Gate yesterday, Apple is now rolling out the public beta as well. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27.2-public.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/22/apple-releases-macos-27-2-golden-gate-public-beta-1/",
-      "published": "Tue, 22 Sep 2026 23:01:35 +0000",
-      "title_th": "Apple releases macOS 27.2 Golden Gate public beta 1",
-      "summary_th": "After releasing the second developer beta for macOS 27.2 Golden Gate yesterday, Apple is now rolling out the public beta as well. Here are the details. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "macOS 27 gives you more control over Liquid Glass",
-      "summary_en": "9to5Mac is brought to you by CleanMyMac by MacPaw . With the release of macOS 27 Golden Gate, use CleanMyMac first to free up space, optimize your system, and ensure your new Mac runs at 100% on day one. Learn more . macOS 27 Golden Gate is a huge upgrade over macOS 26 Tahoe, and not just because of the smarter design decisions. Just like iOS 27 for iPhone, the Mac adds a Liquid Glass appearance slider. This lets you dramatically change the look of your Mac across the system. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27-Golden-Gate-Liquid-Glass-Comparison.webp?resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/22/macos-27-gives-you-more-control-over-liquid-glass/",
-      "published": "Tue, 22 Sep 2026 22:47:12 +0000",
-      "title_th": "macOS 27 gives you more control over Liquid Glass",
-      "summary_th": "9to5Mac is brought to you by CleanMyMac by MacPaw . With the release of macOS 27 Golden Gate, use CleanMyMac first to free up space, optimize your system, and ensure your new Mac runs at 100% on day one. Learn more . macOS 27 Golden Gate is a huge upgrade over macOS 26 Tahoe, and not just because of the smarter design decisions. Just like iOS 27 for iPhone, the Mac adds a Liquid Glass appearance slider. This lets you dramatically change the look of your Mac across the system. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple expands Tap to Pay on iPhone across eight Latin American markets",
-      "summary_en": "Apple today announced that Tap to Pay on iPhone is now available in eight additional Latin American countries, with support from six payment platforms across the region. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/tap-to-pay-iphone.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/22/apple-expands-tap-to-pay-on-iphone-across-eight-latin-american-markets/",
-      "published": "Tue, 22 Sep 2026 21:50:44 +0000",
-      "title_th": "Apple expands Tap to Pay on iPhone across eight Latin American markets",
-      "summary_th": "Apple today announced that Tap to Pay on iPhone is now available in eight additional Latin American countries, with support from six payment platforms across the region. Here are the details. more…"
+      "summary_th": "Six days ago, Apple released iOS 27.2 developer beta 1, skipping over iOS 27.1 beta. Following yesterday’s developer beta 2 release, Apple has now issued the first iOS 27.2 public beta version, with the new iPhone Health app included. Apple has also turned on the ability to schedule and purchase labs through Quest Diagnostics from the new Health app in iOS 27.2 beta. more…"
     },
     {
       "source": "9to5Google",
@@ -608,57 +608,57 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 228.87,
-      "change": 1.49,
-      "change_pct": 0.66
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 378.9,
-      "change": 3.6,
-      "change_pct": 0.96
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 351.16,
-      "change": -3.81,
-      "change_pct": -1.07
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 498.0,
-      "change": -3.61,
-      "change_pct": -0.72
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 339.75,
-      "change": 0.77,
-      "change_pct": 0.23
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 254.98,
-      "change": -3.47,
-      "change_pct": -1.34
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 736.59,
-      "change": -4.66,
-      "change_pct": -0.63
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "DELTA.BK",
