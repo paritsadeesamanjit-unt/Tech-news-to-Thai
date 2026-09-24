@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-24T08:11:03.102131+00:00",
+  "generated_at": "2026-09-24T14:11:27.372586+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
+      "summary_en": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/albanese-2296078640.jpg?resize=1200,774",
+      "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "published": "Thu, 24 Sep 2026 12:54:19 +0000",
+      "title_th": "Australia to investigate if OpenAI hack of government health website broke the law",
+      "summary_th": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -31,12 +43,12 @@
       "flag": "US",
       "category": "startup",
       "title_en": "Meta is trying VR glasses (again), this time with more IMAX",
-      "summary_en": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
+      "summary_en": "Meta's return to the VR glasses realm comes with a promising combination of lightweight form factor and enhanced entertainment options.",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Meta_VR_Glasses_ProductShot_DarkBackground_16x9.png?resize=1200,677",
       "link": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
       "published": "Wed, 23 Sep 2026 23:47:35 +0000",
       "title_th": "Meta is trying VR glasses (again), this time with more IMAX",
-      "summary_th": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options."
+      "summary_th": "Meta's return to the VR glasses realm comes with a promising combination of lightweight form factor and enhanced entertainment options."
     },
     {
       "source": "TechCrunch",
@@ -51,76 +63,64 @@
       "summary_th": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
-      "summary_en": "Nothing says Italian craftsmanship like a Chinese robot doing a lasso to \"L'Amour Toujours.\"",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296638825.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
-      "published": "Wed, 23 Sep 2026 23:33:22 +0000",
-      "title_th": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
-      "summary_th": "Nothing says Italian craftsmanship like a Chinese robot doing a lasso to \"L'Amour Toujours.\""
+      "category": "gadget",
+      "title_en": "Meta’s Muse AI Charms can interact with each other",
+      "summary_en": "Meta's handheld AI gadget, called the Muse Charm, will be able to recognize and interact with other nearby Charms when it launches later this year. That's according to a report from Bloomberg, which includes more details about the device that the company teased during its Meta Connect keynote on Wednesday. The Muse Charm houses the […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-24-at-9.26.39-AM.png?quality=90&strip=all&crop=0%2C19.321471969276%2C100%2C61.357056061447&w=1200",
+      "link": "https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem",
+      "published": "2026-09-24T09:31:43-04:00",
+      "title_th": "Meta’s Muse AI Charms can interact with each other",
+      "summary_th": "Meta's handheld AI gadget, called the Muse Charm, will be able to recognize and interact with other nearby Charms when it launches later this year. That's according to a report from Bloomberg, which includes more details about the device that the company teased during its Meta Connect keynote on Wednesday. The Muse Charm houses the […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "software",
-      "title_en": "Meta is making a standalone Muse AI gadget",
-      "summary_en": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little lanyard for […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/lcimg-d4d3d179-80e9-4873-9d38-24ac84737e8d.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
-      "published": "2026-09-23T20:15:20-04:00",
-      "title_th": "Meta is making a standalone Muse AI gadget",
-      "summary_th": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little lanyard for […]"
+      "title_en": "Everything is spying on you and there’s no opting out",
+      "summary_en": "Earlier this month, Apple announced that its new Apple Watches will have the ability to continuously listen to every spoken word they detect and create summaries of whatever's going on around you. The privacy blowback was immediate and inevitable: Experts warned of the legal risks of using the features, especially in nonpublic spaces and states […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2235448062.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "link": "https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance",
+      "published": "2026-09-24T09:30:00-04:00",
+      "title_th": "Everything is spying on you and there’s no opting out",
+      "summary_th": "Earlier this month, Apple announced that its new Apple Watches will have the ability to continuously listen to every spoken word they detect and create summaries of whatever's going on around you. The privacy blowback was immediate and inevitable: Experts warned of the legal risks of using the features, especially in nonpublic spaces and states […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "gadget",
-      "title_en": "Meta Connect 2026: The 7 biggest announcements",
-      "summary_en": "Meta announced a slate of new wearables during its annual Meta Connect showcase on Wednesday. The star of the event was the new Meta VR Glasses, which pack virtual reality tech into a lightweight smart glasses-style frame with a tethered puck. Meta also announced new pairs of screen-free smart glasses, along with some new AI […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copy-of-Meta-Glasses_1.jpg?quality=90&strip=all&crop=0%2C3.4882312507002%2C100%2C93.0235374986&w=1200",
-      "link": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced",
-      "published": "2026-09-23T20:00:33-04:00",
-      "title_th": "Meta Connect 2026: The 7 biggest announcements",
-      "summary_th": "Meta announced a slate of new wearables during its annual Meta Connect showcase on Wednesday. The star of the event was the new Meta VR Glasses, which pack virtual reality tech into a lightweight smart glasses-style frame with a tethered puck. Meta also announced new pairs of screen-free smart glasses, along with some new AI […]"
+      "title_en": "Logitech’s new haptics-based gaming mouse is a little better and $20 more",
+      "summary_en": "The G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decreases latency and allows for a custom click feel (the click can be super subtle, more jolty, or turned off entirely). The tech debuted in […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/x3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price",
+      "published": "2026-09-24T09:04:27-04:00",
+      "title_th": "Logitech’s new haptics-based gaming mouse is a little better and $20 more",
+      "summary_th": "The G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decreases latency and allows for a custom click feel (the click can be super subtle, more jolty, or turned off entirely). The tech debuted in […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "OpenAI agents hacked an Australian government website in search for data",
+      "summary_en": "OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first confirmed instance of a rogue AI agent breaching a government website, adding fuel to rapidly intensifying concerns about the safety of advanced AI systems and the responsibility of the […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2296796582.jpg?quality=90&strip=all&crop=0%2C10.737549694392%2C100%2C78.524900611216&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
+      "published": "2026-09-24T07:52:32-04:00",
+      "title_th": "OpenAI agents hacked an Australian government website in search for data",
+      "summary_th": "OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first confirmed instance of a rogue AI agent breaching a government website, adding fuel to rapidly intensifying concerns about the safety of advanced AI systems and the responsibility of the […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "gadget",
-      "title_en": "Meta’s next VR device isn’t a headset — it’s glasses",
-      "summary_en": "Meta is launching new VR hardware: a pair of glasses. The new Meta VR Glasses sit on your ears like a typical pair of glasses instead of being strapped over your head, but they still have immersive displays for watching movies, playing games, and getting work done. Imagine a pair of hefty black sunglasses with […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260922_C0744.00_29_03_12.Still016.jpg?quality=90&strip=all&crop=0%2C10.741088940398%2C100%2C78.517822119203&w=1200",
-      "link": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on",
-      "published": "2026-09-23T19:42:10-04:00",
-      "title_th": "Meta’s next VR device isn’t a headset — it’s glasses",
-      "summary_th": "Meta is launching new VR hardware: a pair of glasses. The new Meta VR Glasses sit on your ears like a typical pair of glasses instead of being strapped over your head, but they still have immersive displays for watching movies, playing games, and getting work done. Imagine a pair of hefty black sunglasses with […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Muse is coming to Meta smart glasses",
-      "summary_en": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to activate Muse from their glasses by saying its name and ask it to handle tasks like guiding a workout, logging […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Copy-of-Hearing-enhancement-16x9-1.jpg?quality=90&strip=all&crop=1.55113534858%2C3.9815132855676%2C64.807523486787%2C60.321135107621&w=1200",
-      "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
-      "published": "2026-09-23T19:40:56-04:00",
-      "title_th": "Muse is coming to Meta smart glasses",
-      "summary_th": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to activate Muse from their glasses by saying its name and ask it to handle tasks like guiding a workout, logging […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Meta ditches the camera on its newest smart glasses",
-      "summary_en": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. Outside Connect, the public backlash against wearable surveillance tech - a catchall term that encompasses not just smart glasses, but also smartwatches and […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260922_C0744.00_54_59_23.Still025-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
-      "published": "2026-09-23T19:37:17-04:00",
-      "title_th": "Meta ditches the camera on its newest smart glasses",
-      "summary_th": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. Outside Connect, the public backlash against wearable surveillance tech - a catchall term that encompasses not just smart glasses, but also smartwatches and […]"
+      "title_en": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "summary_en": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google's DeepMind division, Koray Kavukcuoglu said that Gemini 4 is currently in its refinement stage, and that the company is […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+      "published": "2026-09-24T05:04:18-04:00",
+      "title_th": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "summary_th": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google's DeepMind division, Koray Kavukcuoglu said that Gemini 4 is currently in its refinement stage, and that the company is […]"
     },
     {
       "source": "Ars Technica",
@@ -186,61 +186,85 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "AirDoctor Coupon Codes: 40% Off | September 2026",
-      "summary_en": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.",
-      "image": "https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg",
-      "link": "https://www.wired.com/story/airdoctor-coupon-code/",
-      "published": "Thu, 24 Sep 2026 05:00:00 +0000",
-      "title_th": "AirDoctor Coupon Codes: 40% Off | September 2026",
-      "summary_th": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026."
+      "title_en": "Bose Ultra Open Earbuds Are $100 Off Right Now",
+      "summary_en": "Grab them on sale before they are replaced by the upcoming second-generation model.",
+      "image": "https://media.wired.com/photos/6ab441190b53a499b5f12f74/master/pass/Bose%E2%80%99s-Premium-Open-Earbuds-Are-$100-Off.jpg",
+      "link": "https://www.wired.com/story/bose-ultra-open-deal-september-2026/",
+      "published": "Thu, 24 Sep 2026 11:36:00 +0000",
+      "title_th": "Bose Ultra Open Earbuds Are $100 Off Right Now",
+      "summary_th": "Grab them on sale before they are replaced by the upcoming second-generation model."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Wayfair Coupons: Up to 80% Off September 2026",
-      "summary_en": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
-      "image": "https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png",
-      "link": "https://www.wired.com/story/wayfair-promo-code/",
-      "published": "Thu, 24 Sep 2026 05:00:00 +0000",
-      "title_th": "Wayfair Coupons: Up to 80% Off September 2026",
-      "summary_th": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "review",
-      "title_en": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
-      "summary_en": "Save over 25% when you opt for H&R Block’s free online offering, plus a tax pro review.",
-      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
-      "link": "https://www.wired.com/story/hr-block-coupon/",
-      "published": "Thu, 24 Sep 2026 05:00:00 +0000",
-      "title_th": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
-      "summary_th": "Save over 25% when you opt for H&R Block’s free online offering, plus a tax pro review."
+      "title_en": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+      "summary_en": "The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
+      "image": "https://media.wired.com/photos/6ab4f83dee18064acd928033/master/pass/092426-Canada%20Open%20AI%20Hack%20Sam.jpg",
+      "link": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+      "published": "Thu, 24 Sep 2026 10:46:56 +0000",
+      "title_th": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+      "summary_th": "The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Starz Promo Codes: $5 Off for September 2026",
-      "summary_en": "Ready to stream award-winning series, hit movies, and exclusive originals? Our comprehensive guide helps you find every active Starz coupon, free trial, and discount code to save big on your subscription this 2026.",
-      "image": "https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png",
-      "link": "https://www.wired.com/story/starz-promo-code/",
-      "published": "Thu, 24 Sep 2026 05:00:00 +0000",
-      "title_th": "Starz Promo Codes: $5 Off for September 2026",
-      "summary_th": "Ready to stream award-winning series, hit movies, and exclusive originals? Our comprehensive guide helps you find every active Starz coupon, free trial, and discount code to save big on your subscription this 2026."
+      "title_en": "Why No One Wants to Date Tech Bros",
+      "summary_en": "Once seen as nerdy but harmless innovators, men in tech are now widely regarded as red-pilled Elon Musk wannabes. It’s made getting laid a whole lot harder.",
+      "image": "https://media.wired.com/photos/6aac39f4a27fc713e217385b/master/pass/tech-bro-dating.jpg",
+      "link": "https://www.wired.com/story/tech-bros-dating-palantir-tesla/",
+      "published": "Thu, 24 Sep 2026 10:00:00 +0000",
+      "title_th": "Why No One Wants to Date Tech Bros",
+      "summary_th": "Once seen as nerdy but harmless innovators, men in tech are now widely regarded as red-pilled Elon Musk wannabes. It’s made getting laid a whole lot harder."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
-      "summary_en": "At its Meta Connect event, CEO Mark Zuckerberg announced a handful of new smart glasses, including a slimmed-down VR headset and the company’s first camera-free glasses.",
-      "image": "https://media.wired.com/photos/6ab46185974b275c73391603/master/pass/Meta-Connect-Gear-2296202855.jpg",
-      "link": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
-      "published": "Wed, 23 Sep 2026 23:42:44 +0000",
-      "title_th": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
-      "summary_th": "At its Meta Connect event, CEO Mark Zuckerberg announced a handful of new smart glasses, including a slimmed-down VR headset and the company’s first camera-free glasses."
+      "title_en": "The Best Early Prime Day Robot Vacuum Sales Are From Roborock (2026)",
+      "summary_en": "One of the best things to buy during (or leading up to) sales events is expensive home gadgets. These Roborock robot vacuums are already on markdown.",
+      "image": "https://media.wired.com/photos/6ab44ca4c5e291a8de9a910c/master/pass/Prime-Big-Deal-Days-Haven%E2%80%99t-Started,-but-These-Robot-Vacuums-Are-Already-on-Sale.jpg",
+      "link": "https://www.wired.com/story/roborock-early-prime-day-deal-sept-2026/",
+      "published": "Thu, 24 Sep 2026 09:32:00 +0000",
+      "title_th": "The Best Early Prime Day Robot Vacuum Sales Are From Roborock (2026)",
+      "summary_th": "One of the best things to buy during (or leading up to) sales events is expensive home gadgets. These Roborock robot vacuums are already on markdown."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Venus May Have Devoured Its Moon",
+      "summary_en": "One of the great mysteries in astronomy has been why Venus has no moon. Now a new theory provides a simple answer: It might have been eaten.",
+      "image": "https://media.wired.com/photos/6ab40967bd39df2bc999c8fd/master/pass/venus-from-parker-solar-probe.webp.jpeg",
+      "link": "https://www.wired.com/story/venus-may-have-devoured-its-moon/",
+      "published": "Thu, 24 Sep 2026 09:15:00 +0000",
+      "title_th": "Venus May Have Devoured Its Moon",
+      "summary_th": "One of the great mysteries in astronomy has been why Venus has no moon. Now a new theory provides a simple answer: It might have been eaten."
+    },
+    {
+      "source": "MIT Technology Review",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+      "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has announced plans to introduce legislation to terminate the surveillance tower program along…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/2026-07-22_BT_0663.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+      "published": "Thu, 24 Sep 2026 12:10:00 +0000",
+      "title_th": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+      "summary_th": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has announced plans to introduce legislation to terminate the surveillance tower program along…"
+    },
+    {
+      "source": "MIT Technology Review",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "AI is dominating the conversation at Climate Week",
+      "summary_en": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than usual. This year, the unavoidable topic is artificial intelligence.…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/AP26265505951804.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+      "published": "Thu, 24 Sep 2026 10:00:00 +0000",
+      "title_th": "AI is dominating the conversation at Climate Week",
+      "summary_th": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than usual. This year, the unavoidable topic is artificial intelligence.…"
     },
     {
       "source": "MIT Technology Review",
@@ -279,28 +303,52 @@
       "summary_th": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s…"
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "Smart glasses are already causing havoc in India",
-      "summary_en": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this spring against a bill that would have narrowed the legal recognition for transgender people in…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/260824_metaindia.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
-      "published": "Wed, 23 Sep 2026 09:00:00 +0000",
-      "title_th": "Smart glasses are already causing havoc in India",
-      "summary_th": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this spring against a bill that would have narrowed the legal recognition for transgender people in…"
+      "category": "gadget",
+      "title_en": "How to get your cut of Apple's $250 million Siri settlement",
+      "summary_en": "If you've bought an iPhone in the last couple of years, you might be eligible for a cut of the class action lawsuit. Here's how to file your claim.",
+      "image": "https://www.engadget.com/img/gallery/how-to-get-your-cut-of-apples-250-million-siri-settlement/l-intro-1790086034.jpg",
+      "link": "https://www.engadget.com/2265227/how-to-get-cut-apple-siri-ai-settlement/",
+      "published": "Thu, 24 Sep 2026 12:00:00 +0000",
+      "title_th": "How to get your cut of Apple's $250 million Siri settlement",
+      "summary_th": "If you've bought an iPhone in the last couple of years, you might be eligible for a cut of the class action lawsuit. Here's how to file your claim."
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "review",
-      "title_en": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "summary_en": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/IMG_6949.png?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "published": "Tue, 22 Sep 2026 13:42:05 +0000",
-      "title_th": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "summary_th": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who moved through areas watched by these towers…"
+      "category": "gadget",
+      "title_en": "Qualcomm's Snapdragon Sound Elite is a new AI chip for audio wearables",
+      "summary_en": "Qualcomm has launched a new chip that will enable AI features on small audio devices.",
+      "image": "https://www.engadget.com/img/gallery/qualcomms-snapdragon-sound-elite-is-a-new-ai-chip-for-audio-wearables/l-intro-1790248873.jpg",
+      "link": "https://www.engadget.com/2267407/qualcomm-snapdragon-sound-elite-ai-for-audio-wearables/",
+      "published": "Thu, 24 Sep 2026 11:23:00 +0000",
+      "title_th": "Qualcomm's Snapdragon Sound Elite is a new AI chip for audio wearables",
+      "summary_th": "Qualcomm has launched a new chip that will enable AI features on small audio devices."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Revolut is piloting facial recognition at store checkouts in the UK",
+      "summary_en": "Revolut is trialing a new facial recognition system in the UK that could be convenient but controversial.",
+      "image": "https://www.engadget.com/img/gallery/revolut-is-piloting-facial-recognition-at-store-checkouts-in-the-uk/l-intro-1790244478.jpg",
+      "link": "https://www.engadget.com/2267385/revolut-facial-recognition-checkouts-uk/",
+      "published": "Thu, 24 Sep 2026 10:09:20 +0000",
+      "title_th": "Revolut is piloting facial recognition at store checkouts in the UK",
+      "summary_th": "Revolut is trialing a new facial recognition system in the UK that could be convenient but controversial."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "OpenAI's agent hacked into an Australian government website",
+      "summary_en": "Researchers and the Prime Minister of Australia have revealed more instances of OpenAI's agents going rogue.",
+      "image": "https://www.engadget.com/img/gallery/openais-agent-hacked-into-an-australian-government-website/l-intro-1790244053.jpg",
+      "link": "https://www.engadget.com/2267381/openai-hacked-into-australias-government/",
+      "published": "Thu, 24 Sep 2026 10:01:55 +0000",
+      "title_th": "OpenAI's agent hacked into an Australian government website",
+      "summary_th": "Researchers and the Prime Minister of Australia have revealed more instances of OpenAI's agents going rogue."
     },
     {
       "source": "Engadget",
@@ -315,52 +363,28 @@
       "summary_th": "VR glasses, Aviator-style Ray-Ban Meta specs, Ace Attorney in virtual reality and much more."
     },
     {
-      "source": "Engadget",
+      "source": "IEEE Spectrum",
       "flag": "US",
-      "category": "chip",
-      "title_en": "Meta put Muse in a Tamagotchi like 'Charm' device",
-      "summary_en": "Meta's Muse Charm is a Tamagotchi-like device with Muse AI.",
-      "image": "https://www.engadget.com/img/gallery/meta-put-muse-in-a-tamagotchi-like-charm-device/l-intro-1790220070.jpg",
-      "link": "https://www.engadget.com/2267229/meta-put-muse-in-a-tamagotchi-like-charm-device/",
-      "published": "Thu, 24 Sep 2026 00:05:03 +0000",
-      "title_th": "Meta put Muse in a Tamagotchi like 'Charm' device",
-      "summary_th": "Meta's Muse Charm is a Tamagotchi-like device with Muse AI."
+      "category": "robot",
+      "title_en": "Measure Distant Asteroids With a DIY Rig",
+      "summary_en": "I’ve seen two total solar eclipses and have been duly impressed by what happens as the moon casts its shadow on Earth. But recently I’ve become even more intrigued by a similar phenomenon that doesn’t involve the sun or the moon—something called an asteroid occultation. That’s what happens when an asteroid orbits around the solar system and blocks the light of a distant star you’re viewing from Earth. Like the moon during a solar eclipse, the asteroid casts a predictable moving shadow on a swath of Earth’s surface—a small silhouette in the dim light bathing us from that one star. When such a fortuitous alignment occurs, amateur astronomers can discern things about the asteroid that professionals can’t readily measure, even with their giant telescopes on high mountains . That’s because amat",
+      "image": "https://spectrum.ieee.org/media-library/a-telescope-on-tripod-with-laptop-and-power-boxes-for-a-portable-astronomy-setup.png?id=67788039&width=980",
+      "link": "https://spectrum.ieee.org/asteroid-shadow",
+      "published": "Thu, 24 Sep 2026 13:00:04 +0000",
+      "title_th": "Measure Distant Asteroids With a DIY Rig",
+      "summary_th": "I’ve seen two total solar eclipses and have been duly impressed by what happens as the moon casts its shadow on Earth. But recently I’ve become even more intrigued by a similar phenomenon that doesn’t involve the sun or the moon—something called an asteroid occultation. That’s what happens when an asteroid orbits around the solar system and blocks the light of a distant star you’re viewing from Earth. Like the moon during a solar eclipse, the asteroid casts a predictable moving shadow on a swath of Earth’s surface—a small silhouette in the dim light bathing us from that one star. When such a fortuitous alignment occurs, amateur astronomers can discern things about the asteroid that professionals can’t readily measure, even with their giant telescopes on high mountains . That’s because amat"
     },
     {
-      "source": "Engadget",
+      "source": "IEEE Spectrum",
       "flag": "US",
-      "category": "chip",
-      "title_en": "Meta will stop training its AI on 'visual data' from its smart glasses — if you opt out",
-      "summary_en": "Somewhere, a contractor just breathed a sigh of relief.",
-      "image": "https://www.engadget.com/img/gallery/meta-will-stop-training-its-ai-on-visual-data-from-its-smart-glasses-if-you-opt-out/l-intro-1790199534.jpg",
-      "link": "https://www.engadget.com/2267227/meta-will-stop-training-its-ai-on-visual-data-from-its-smart-glasses-if-you-opt-out/",
-      "published": "Thu, 24 Sep 2026 00:00:44 +0000",
-      "title_th": "Meta will stop training its AI on 'visual data' from its smart glasses — if you opt out",
-      "summary_th": "Somewhere, a contractor just breathed a sigh of relief."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "review",
-      "title_en": "Meta VR Glasses hands-on: Hand and eye tracking is so much better than a controller",
-      "summary_en": "Instead of a new Quest headset, the company showed off a more portable but less immersive device today.",
-      "image": "https://www.engadget.com/img/gallery/meta-vr-glasses-hands-on-hand-tracking/l-intro-1790209264.jpg",
-      "link": "https://www.engadget.com/2267222/meta-vr-glasses-hands-on-hand-tracking/",
-      "published": "Thu, 24 Sep 2026 00:00:00 +0000",
-      "title_th": "Meta VR Glasses hands-on: Hand and eye tracking is so much better than a controller",
-      "summary_th": "Instead of a new Quest headset, the company showed off a more portable but less immersive device today."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Meta's $1,300 VR Glasses look like the Vision Pro sequel Apple should be making",
-      "summary_en": "Sorry Apple, it looks like Meta's VR Glasses are the real Vision Pro successor.",
-      "image": "https://www.engadget.com/img/gallery/metas-1300-vr-glasses-look-like-the-vision-pro-sequel-apple-should-be-making/l-intro-1790195523.jpg",
-      "link": "https://www.engadget.com/2267218/meta-vr-glasses-price-specs-apple-vision-pro-comparison/",
-      "published": "Wed, 23 Sep 2026 23:42:52 +0000",
-      "title_th": "Meta's $1,300 VR Glasses look like the Vision Pro sequel Apple should be making",
-      "summary_th": "Sorry Apple, it looks like Meta's VR Glasses are the real Vision Pro successor."
+      "category": "robot",
+      "title_en": "Engineering the Substation Exit for Reliability, Capacity, and Expansion",
+      "summary_en": "This white paper gives distribution engineers and utility teams a practical overview of the substation exit, the short and high-consequence section where station capacity divides into individual feeders. It explains how covered, spacer-supported overhead construction can reduce common contact-driven faults while leaving room for future circuits. What you will learn about: Why a fault near the substation exposes more customers than one farther along the feeder, and why the first spans out of the station carry so much reliability weight. How covered conductors and spacer-cable systems differ from bare overhead conductors, and why covered conductor is not treated as touch-safe insulation. Which engineering factors shape a sound exit design, including conductor rating, protection coordination,",
+      "image": "https://assets.rbl.ms/67812895/origin.png",
+      "link": "https://content.knowledgehub.wiley.com/aerial-cable-systems-for-substation-exit-construction/",
+      "published": "Thu, 24 Sep 2026 10:00:06 +0000",
+      "title_th": "Engineering the Substation Exit for Reliability, Capacity, and Expansion",
+      "summary_th": "This white paper gives distribution engineers and utility teams a practical overview of the substation exit, the short and high-consequence section where station capacity divides into individual feeders. It explains how covered, spacer-supported overhead construction can reduce common contact-driven faults while leaving room for future circuits. What you will learn about: Why a fault near the substation exposes more customers than one farther along the feeder, and why the first spans out of the station carry so much reliability weight. How covered conductors and spacer-cable systems differ from bare overhead conductors, and why covered conductor is not treated as touch-safe insulation. Which engineering factors shape a sound exit design, including conductor rating, protection coordination,"
     },
     {
       "source": "IEEE Spectrum",
@@ -399,88 +423,88 @@
       "summary_th": "Throughout her career, roboticist Barbara Mazzolai has turned to nature for inspiration. Now she wants to ensure the technology she builds gives back to the environment, too. After starting her career as a biologist, a chance opportunity saw Mazzolai switch streams to engineering and become an early pioneer of bioinspired robotics . Building on her knowledge of biology’s ability to solve a diverse set of problems, she has developed robots based on octopuses, plant roots, and even seeds . “I’ve always been fascinated by living organisms, [and] by the extraordinary variety of solutions in nature, selected by the evolutionary process,” she says. Barbara Mazzolai Employer: Italian Institute of Technology Occupation: Associate director for robotics; director of the Bioinspired Soft Robotics Lab"
     },
     {
-      "source": "IEEE Spectrum",
-      "flag": "US",
-      "category": "robot",
-      "title_en": "The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers",
-      "summary_en": "This article is brought to you by CoolIT, an Ecolab Company . Beyond 250 kW a server rack can no longer be cooled by a hybrid approach of liquid and air. At this density a 70/30 liquid-air split leaves 75 kW of air load. The air cooling system needed to move it brings cost and complexity few operators will accept. The answer is near-total heat capture. Liquid takes effectively all the heat, air falls below 1 percent of the load, allowing the server to run fanless. CoolIT builds these loops today from modular coldplate blocks proven across six generations of fanless designs. Processor thermal design power (TDP) keeps climbing generation over generation. This rising heat load is now cascading into the memory, networking, storage, and power components that once ran comfortably on air. The hea",
-      "image": "https://spectrum.ieee.org/media-library/close-up-of-copper-liquid-cooling-plates-and-heat-pipes-inside-an-electronic-device.jpg?id=67771117&width=980",
-      "link": "https://spectrum.ieee.org/fanless-liquid-cooled-ai-servers-coolit",
-      "published": "Tue, 22 Sep 2026 12:22:50 +0000",
-      "title_th": "The Future Is Fanless: 100% Heat Capture for Liquid Cooled AI Servers",
-      "summary_th": "This article is brought to you by CoolIT, an Ecolab Company . Beyond 250 kW a server rack can no longer be cooled by a hybrid approach of liquid and air. At this density a 70/30 liquid-air split leaves 75 kW of air load. The air cooling system needed to move it brings cost and complexity few operators will accept. The answer is near-total heat capture. Liquid takes effectively all the heat, air falls below 1 percent of the load, allowing the server to run fanless. CoolIT builds these loops today from modular coldplate blocks proven across six generations of fanless designs. Processor thermal design power (TDP) keeps climbing generation over generation. This rising heat load is now cascading into the memory, networking, storage, and power components that once ran comfortably on air. The hea"
-    },
-    {
-      "source": "IEEE Spectrum",
-      "flag": "US",
-      "category": "robot",
-      "title_en": "This Digital Radio Gets Messages to the World’s Remotest Locations",
-      "summary_en": "Shortwave radios offer a way to connect one location on Earth to practically anywhere else with minimal infrastructure. But these radios come with some drawbacks—a significant one being that, unlike satellite communications, their transmission rates for digital data are typically measured in just hundreds of bits per second . Peter Bloom Peter Bloom is the founder of Rhizomatica, a nonprofit that works with remote, indigenous, and off-grid communities around the world to build shortwave and cellular-communication infrastructure. Peter Bloom is the founder of Rhizomatica , a Philadelphia-based nonprofit that has open-sourced a digital shortwave-radio set called the High-frequency Emergency and Rural Multimedia Exchange System , or HERMES. The set operates in the high-frequency (HF) band fro",
-      "image": "https://spectrum.ieee.org/media-library/mans-face-framed-by-abstract-tech-graphics-antenna-towers-and-green-palm-leaves.png?id=67783301&width=980",
-      "link": "https://spectrum.ieee.org/hermes-shortwave-radio-digital-data",
-      "published": "Mon, 21 Sep 2026 13:00:04 +0000",
-      "title_th": "This Digital Radio Gets Messages to the World’s Remotest Locations",
-      "summary_th": "Shortwave radios offer a way to connect one location on Earth to practically anywhere else with minimal infrastructure. But these radios come with some drawbacks—a significant one being that, unlike satellite communications, their transmission rates for digital data are typically measured in just hundreds of bits per second . Peter Bloom Peter Bloom is the founder of Rhizomatica, a nonprofit that works with remote, indigenous, and off-grid communities around the world to build shortwave and cellular-communication infrastructure. Peter Bloom is the founder of Rhizomatica , a Philadelphia-based nonprofit that has open-sourced a digital shortwave-radio set called the High-frequency Emergency and Rural Multimedia Exchange System , or HERMES. The set operates in the high-frequency (HF) band fro"
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple TV reveals new series with Hugh Laurie as organized crime boss",
+      "summary_en": "The Wanted Man is a new Apple TV series that’s just been announced starring Hugh Laurie as an incarcerated crime boss who’s ready to make an escape. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/the-wanted-man-hugh-laurie.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/24/apple-tv-reveals-new-series-with-hugh-laurie-as-organized-crime-boss/",
+      "published": "Thu, 24 Sep 2026 13:29:47 +0000",
+      "title_th": "Apple TV reveals new series with Hugh Laurie as organized crime boss",
+      "summary_th": "The Wanted Man is a new Apple TV series that’s just been announced starring Hugh Laurie as an incarcerated crime boss who’s ready to make an escape. Here are the details. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple says software update to fix iPhone 18 Pro rebooting bug is coming next week",
-      "summary_en": "On Monday, we reported on an issue where iPhone 18 Pro and iPhone 18 Pro Max users were seeing their phone freeze and reboot following a failed Face ID attempt. To us, it appeared to be a software glitch rather than an inherent hardware fault. Apple has now confirmed to 9to5Mac that a software update to address this problem is in the works, and should be available early next week. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/mayo.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/23/apple-iphone-18-pro-rebooting-bug-software-update-fix/",
-      "published": "Thu, 24 Sep 2026 06:43:49 +0000",
-      "title_th": "Apple says software update to fix iPhone 18 Pro rebooting bug is coming next week",
-      "summary_th": "On Monday, we reported on an issue where iPhone 18 Pro and iPhone 18 Pro Max users were seeing their phone freeze and reboot following a failed Face ID attempt. To us, it appeared to be a software glitch rather than an inherent hardware fault. Apple has now confirmed to 9to5Mac that a software update to address this problem is in the works, and should be available early next week. more…"
+      "title_en": "Adobe expands creative tool access to Google Gemini, brings Acrobat to Claude",
+      "summary_en": "Adobe today announced two major expansions to its AI chatbot integrations, bringing its creative tools to Google Gemini while adding Acrobat tools to Claude. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/adobe-gemini.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/24/adobe-expands-creative-tool-access-to-google-gemini-brings-acrobat-to-claude/",
+      "published": "Thu, 24 Sep 2026 13:00:00 +0000",
+      "title_th": "Adobe expands creative tool access to Google Gemini, brings Acrobat to Claude",
+      "summary_th": "Adobe today announced two major expansions to its AI chatbot integrations, bringing its creative tools to Google Gemini while adding Acrobat tools to Claude. Here are the details. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Meta announces camera-free glasses, dedicated Muse AI gadget, more",
-      "summary_en": "Meta announced today a series of AI-powered devices, including the Muse Charm, a palm-sized gadget designed specifically for its new Muse AI assistant. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/meta-muse.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/23/meta-announces-camera-free-glasses-dedicated-muse-ai-gadget-more/",
-      "published": "Thu, 24 Sep 2026 01:24:44 +0000",
-      "title_th": "Meta announces camera-free glasses, dedicated Muse AI gadget, more",
-      "summary_th": "Meta announced today a series of AI-powered devices, including the Muse Charm, a palm-sized gadget designed specifically for its new Muse AI assistant. Here are the details. more…"
+      "title_en": "New iPad mini coming soon with these major changes",
+      "summary_en": "Apple is about to release a new iPad mini. This will mark the first update to the device in two years, and it’s expected to be a big one. Here’s everything we know so far about the new iPad mini coming as soon as next month. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ipad-mini-touch-id-button-top.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/24/new-ipad-mini-coming-soon-with-these-major-changes/",
+      "published": "Thu, 24 Sep 2026 12:49:52 +0000",
+      "title_th": "New iPad mini coming soon with these major changes",
+      "summary_th": "Apple is about to release a new iPad mini. This will mark the first update to the device in two years, and it’s expected to be a big one. Here’s everything we know so far about the new iPad mini coming as soon as next month. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "OpenAI says Apple Intelligence users showed little interest in ChatGPT integration",
-      "summary_en": "As reported by The Financial Times , new court filings show that OpenAI was disappointed by the adoption of ChatGPT through Apple Intelligence, which it says “dramatically underperformed” after launching in 2024. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/chatgpt-siri-ios182-3-2.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/23/openai-says-apple-intelligence-users-showed-little-interest-in-chatgpt-integration/",
-      "published": "Wed, 23 Sep 2026 23:58:31 +0000",
-      "title_th": "OpenAI says Apple Intelligence users showed little interest in ChatGPT integration",
-      "summary_th": "As reported by The Financial Times , new court filings show that OpenAI was disappointed by the adoption of ChatGPT through Apple Intelligence, which it says “dramatically underperformed” after launching in 2024. Here are the details. more…"
+      "title_en": "iOS 27.0.1 update likely coming soon for iPhone",
+      "summary_en": "Apple is testing iOS 27.0.1 for iPhone, according to web traffic analytics for 9to5Mac . The update will likely focus on bug fixes and performance improvements. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-12.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/24/ios-27-0-1-update-likely-coming-soon-for-iphone-users/",
+      "published": "Thu, 24 Sep 2026 11:20:28 +0000",
+      "title_th": "iOS 27.0.1 update likely coming soon for iPhone",
+      "summary_th": "Apple is testing iOS 27.0.1 for iPhone, according to web traffic analytics for 9to5Mac . The update will likely focus on bug fixes and performance improvements. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Watch the trailer for Apple TV’s ‘Where’s Wanda?’ season 2",
-      "summary_en": "Apple TV today released the trailer for the second season of “ Where’s Wanda? ,” a German-language dark comedy returning to the service on October 21. Watch it below. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/wheres-wanda.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/23/watch-the-trailer-for-apple-tvs-wheres-wanda-season-2/",
-      "published": "Wed, 23 Sep 2026 22:11:54 +0000",
-      "title_th": "Watch the trailer for Apple TV’s ‘Where’s Wanda?’ season 2",
-      "summary_th": "Apple TV today released the trailer for the second season of “ Where’s Wanda? ,” a German-language dark comedy returning to the service on October 21. Watch it below. more…"
+      "title_en": "Opera’s free built-in VPN can now turn on automatically when using public Wi-Fi",
+      "summary_en": "Opera announced today that its free, built-in VPN for desktop can now automatically activate when users connect to public or unsecured Wi-Fi networks. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/opera-wifi.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/24/operas-free-built-in-vpn-can-now-turn-on-automatically-when-using-public-wi-fi/",
+      "published": "Thu, 24 Sep 2026 08:00:00 +0000",
+      "title_th": "Opera’s free built-in VPN can now turn on automatically when using public Wi-Fi",
+      "summary_th": "Opera announced today that its free, built-in VPN for desktop can now automatically activate when users connect to public or unsecured Wi-Fi networks. Here are the details. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "MacWhisper update brings real-time meeting transcripts, improved speaker recognition, more",
-      "summary_en": "My transcription tool of choice on the Mac, MacWhisper, got another major update today with real-time meeting transcripts, significantly improved speaker recognition, tighter integration with Apple Intelligence, and a new transcription model. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/macwhisper.webp?resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/23/macwhisper-update-brings-real-time-meeting-transcripts-improved-speaker-recognition-more/",
-      "published": "Wed, 23 Sep 2026 21:17:11 +0000",
-      "title_th": "MacWhisper update brings real-time meeting transcripts, improved speaker recognition, more",
-      "summary_th": "My transcription tool of choice on the Mac, MacWhisper, got another major update today with real-time meeting transcripts, significantly improved speaker recognition, tighter integration with Apple Intelligence, and a new transcription model. Here are the details. more…"
+      "title_en": "Googlebooks will get full GeForce Now support ‘later this year’",
+      "summary_en": "Nvidia says Google’s new Gemini-infused laptops are slated to get GeForce Now support before the year is up, which is perfect because Googlebooks don’t exactly pack a ton of power. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Wide-Acer-Googlebook.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/24/nvidia-announces-googlebook-geforce-now-support/",
+      "published": "Thu, 24 Sep 2026 13:00:00 +0000",
+      "title_th": "Googlebooks will get full GeForce Now support ‘later this year’",
+      "summary_th": "Nvidia says Google’s new Gemini-infused laptops are slated to get GeForce Now support before the year is up, which is perfect because Googlebooks don’t exactly pack a ton of power. more…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "review",
+      "title_en": "Oh no, here come the AI Tamagotchis",
+      "summary_en": "Good morning. Today I’m watching yet another Fire Emblem: Fortune’s Weave review (watch this for context), getting started on my Booker Prize shortlist read-through, and reading as much as I can about Ella Langley’s “Choosin’ Texas” now that it’s the longest-running #1 hit of all time. As a reminder, Inbox is the tech newsletter that goes beyond the news cycle. We cover the most important 9to5Google stories from the last couple of days along with a few highlights from around the web. We publish every Tuesday and Thursday, and if you like what you read, please subscribe . more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/muse-charm-zuck-stage-1.png?resize=1200,628",
+      "link": "https://9to5google.com/2026/09/24/oh-no-here-come-the-ai-tamagotchis/",
+      "published": "Thu, 24 Sep 2026 11:00:00 +0000",
+      "title_th": "Oh no, here come the AI Tamagotchis",
+      "summary_th": "Good morning. Today I’m watching yet another Fire Emblem: Fortune’s Weave review (watch this for context), getting started on my Booker Prize shortlist read-through, and reading as much as I can about Ella Langley’s “Choosin’ Texas” now that it’s the longest-running #1 hit of all time. As a reminder, Inbox is the tech newsletter that goes beyond the news cycle. We cover the most important 9to5Google stories from the last couple of days along with a few highlights from around the web. We publish every Tuesday and Thursday, and if you like what you read, please subscribe . more…"
     },
     {
       "source": "9to5Google",
@@ -519,28 +543,16 @@
       "summary_th": "Microsoft is rolling out refreshes to its smaller Surface Laptop and Surface Pro machines powered by Qualcomm’s Snapdragon X2 Plus starting at a price of $1,149. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Google Maps update shows traffic lights and stop signs at your next turn on Android Auto, more",
-      "summary_en": "Google Maps is rolling out a new update on Android Auto that makes it easier to know what to expect at your next turn, with a visual indicator to show upcoming traffic lights or stop signs. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/android-auto-google-maps-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/23/google-maps-traffic-lights-stop-signs-update-android-auto/",
-      "published": "Wed, 23 Sep 2026 19:55:00 +0000",
-      "title_th": "Google Maps update shows traffic lights and stop signs at your next turn on Android Auto, more",
-      "summary_th": "Google Maps is rolling out a new update on Android Auto that makes it easier to know what to expect at your next turn, with a visual indicator to show upcoming traffic lights or stop signs. more…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Qualcomm announces Snapdragon Sound Elite Gen 2 for AI ‘hearables,’ even ones with cameras",
-      "summary_en": "Qualcomm announced the Snapdragon Sound Elite Gen 2 as a substantial chipset for upcoming audio devices, with a massive focus on better AI performance for audio wearables. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/snapdragon-Sound-elite-gen-2-2.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/23/qualcomm-announces-snapdragon-sound-elite-gen-2/",
-      "published": "Wed, 23 Sep 2026 18:30:00 +0000",
-      "title_th": "Qualcomm announces Snapdragon Sound Elite Gen 2 for AI ‘hearables,’ even ones with cameras",
-      "summary_th": "Qualcomm announced the Snapdragon Sound Elite Gen 2 as a substantial chipset for upcoming audio devices, with a massive focus on better AI performance for audio wearables. more…"
+      "category": "ev",
+      "title_en": "Waymo says it has stopped 841 injuries in 271 million autonomous miles",
+      "summary_en": "Waymo has released new crash data which claims not only an 82% reduction in crashes, but for the first time says the number of injuries that have been avoided by its robotaxi operation. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2024/10/Waymo-cities-2025.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/24/waymo-says-it-has-stopped-841-injuries-in-271-million-autonomous-miles/",
+      "published": "Thu, 24 Sep 2026 13:00:00 +0000",
+      "title_th": "Waymo says it has stopped 841 injuries in 271 million autonomous miles",
+      "summary_th": "Waymo has released new crash data which claims not only an 82% reduction in crashes, but for the first time says the number of injuries that have been avoided by its robotaxi operation. more…"
     },
     {
       "source": "Electrek",
@@ -589,18 +601,6 @@
       "published": "Wed, 23 Sep 2026 17:52:30 +0000",
       "title_th": "BYD’s new ultra-luxe EV has coach doors and may be its first with solid-state batteries",
       "summary_th": "The flagship sedan will be among BYD’s most luxurious and advanced vehicles to date, with Rolls-Royce-like coach doors, 5-minute Flash Charging, and possibly solid-state batteries. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Ford Fathom may have a front tailgate you can put a TV in, per patent images",
-      "summary_en": "Ford has filed for a new patent showing a multi-use tailgate on the front end of a truck, with the possibility of putting a whole television inside the tailgate. It seems likely to apply to the upcoming Fathom. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/ford-fathom-front-tailgate-television.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/23/ford-fathom-may-have-a-front-tailgate-you-can-put-a-tv-in-per-patent-images/",
-      "published": "Wed, 23 Sep 2026 17:41:06 +0000",
-      "title_th": "Ford Fathom may have a front tailgate you can put a TV in, per patent images",
-      "summary_th": "Ford has filed for a new patent showing a multi-use tailgate on the front end of a truck, with the possibility of putting a whole television inside the tailgate. It seems likely to apply to the upcoming Fathom. more…"
     }
   ],
   "indices": [
@@ -608,65 +608,65 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 225.51,
-      "change": -3.36,
+      "price": 222.19,
+      "change": -3.32,
       "change_pct": -1.47
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 380.12,
-      "change": 1.22,
-      "change_pct": 0.32
+      "price": 379.23,
+      "change": -0.89,
+      "change_pct": -0.23
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 337.83,
-      "change": -13.33,
-      "change_pct": -3.8
+      "price": 339.59,
+      "change": 1.76,
+      "change_pct": 0.52
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 500.59,
-      "change": 2.59,
-      "change_pct": 0.52
+      "price": 492.67,
+      "change": -7.92,
+      "change_pct": -1.58
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 337.02,
-      "change": -2.73,
-      "change_pct": -0.8
+      "price": 337.73,
+      "change": 0.71,
+      "change_pct": 0.21
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 249.27,
-      "change": -5.71,
-      "change_pct": -2.24
+      "price": 246.58,
+      "change": -2.69,
+      "change_pct": -1.08
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 744.1,
-      "change": 7.5,
-      "change_pct": 1.02
+      "price": 766.61,
+      "change": 22.51,
+      "change_pct": 3.03
     },
     {
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 258.0,
-      "change": 2.0,
-      "change_pct": 0.78
+      "price": 255.0,
+      "change": -1.0,
+      "change_pct": -0.39
     }
   ],
   "reviews": [
@@ -733,6 +733,16 @@
     {
       "channel": "Beartai",
       "country": "TH",
+      "title_en": "1 วันกับการเป็น ‘BMW Driving Instructor’ | Staff Only",
+      "video_id": "aEDus2UY_Vs",
+      "link": "https://www.youtube.com/watch?v=aEDus2UY_Vs",
+      "thumbnail": "https://i2.ytimg.com/vi/aEDus2UY_Vs/hqdefault.jpg",
+      "published": "2026-09-24T10:00:20+00:00",
+      "title_th": "1 วันกับการเป็น ‘BMW Driving Instructor’ | Staff Only"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
       "title_en": "CP AXTRA Innovation Day 2026",
       "video_id": "u7jKh3vK0qA",
       "link": "https://www.youtube.com/shorts/u7jKh3vK0qA",
@@ -751,14 +761,14 @@
       "title_th": "Home Theater เต็มรูปแบบของ Devialet แห่งแรกในโลก"
     },
     {
-      "channel": "Beartai",
+      "channel": "Droidsans",
       "country": "TH",
-      "title_en": "ไทยไม่มีภราดร 2 เพราะ...",
-      "video_id": "aAAVPV56gfk",
-      "link": "https://www.youtube.com/shorts/aAAVPV56gfk",
-      "thumbnail": "https://i2.ytimg.com/vi/aAAVPV56gfk/hqdefault.jpg",
-      "published": "2026-09-23T23:00:06+00:00",
-      "title_th": "ไทยไม่มีภราดร 2 เพราะ..."
+      "title_en": "รีวิว vivo V80 Lite 5G แบต 10,000 mAh อึดระดับโลก Guinness World Records",
+      "video_id": "IAniAPCqIr0",
+      "link": "https://www.youtube.com/watch?v=IAniAPCqIr0",
+      "thumbnail": "https://i2.ytimg.com/vi/IAniAPCqIr0/hqdefault.jpg",
+      "published": "2026-09-24T11:30:00+00:00",
+      "title_th": "รีวิว vivo V80 Lite 5G แบต 10,000 mAh อึดระดับโลก Guinness World Records"
     },
     {
       "channel": "Droidsans",
@@ -779,16 +789,6 @@
       "thumbnail": "https://i2.ytimg.com/vi/iFUN0qH6tuo/hqdefault.jpg",
       "published": "2026-09-23T12:30:21+00:00",
       "title_th": "รีวิว ASUS Zenbook A16 โน้ตบุ๊กจอใหญ่ 16 นิ้ว เบาแค่ 1.2 กก.! ชิป Snapdragon X2 Elite พร้อมลุยทุกงาน"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "เกมมือถือ ภาพโหดขนาดนี้เลยหรอ🤯  ชิปใหม่ โคตรแรง #Dimensity9600Pro #MediaTek #dimensity",
-      "video_id": "EdTzo_Sn_lU",
-      "link": "https://www.youtube.com/shorts/EdTzo_Sn_lU",
-      "thumbnail": "https://i2.ytimg.com/vi/EdTzo_Sn_lU/hqdefault.jpg",
-      "published": "2026-09-22T15:06:45+00:00",
-      "title_th": "เกมมือถือ ภาพโหดขนาดนี้เลยหรอ🤯  ชิปใหม่ โคตรแรง #Dimensity9600Pro #MediaTek #dimensity"
     }
   ]
 }
