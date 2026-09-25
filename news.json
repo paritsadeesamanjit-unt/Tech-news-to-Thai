@@ -1,18 +1,30 @@
 {
-  "generated_at": "2026-09-25T02:20:45.429655+00:00",
+  "generated_at": "2026-09-25T08:33:54.814263+00:00",
   "count": 50,
   "articles": [
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Waymo is scaling fast. Here’s what the fleet data shows.",
-      "summary_en": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
+      "title_en": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "summary_en": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/06/india-ai.jpg?w=1200",
+      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "published": "Fri, 25 Sep 2026 05:00:00 +0000",
+      "title_th": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "summary_th": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Waymo is scaling fast: Here’s what the fleet data shows",
+      "summary_en": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hot spots as well.",
       "image": "https://techcrunch.com/wp-content/uploads/2026/01/Waymo-parking-charging-getty.jpg?resize=1200,800",
       "link": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
       "published": "Thu, 24 Sep 2026 23:24:33 +0000",
-      "title_th": "Waymo is scaling fast. Here’s what the fleet data shows.",
-      "summary_th": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well."
+      "title_th": "Waymo is scaling fast: Here’s what the fleet data shows",
+      "summary_th": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hot spots as well."
     },
     {
       "source": "TechCrunch",
@@ -51,16 +63,16 @@
       "summary_th": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
-      "summary_en": "Feather is betting on a customizable, $30,000 platform built for software developers.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Feather-cropped.jpg?resize=1200,829",
-      "link": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
-      "published": "Thu, 24 Sep 2026 18:52:38 +0000",
-      "title_th": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
-      "summary_th": "Feather is betting on a customizable, $30,000 platform built for software developers."
+      "category": "ev",
+      "title_en": "Here’s the Tesla Semi… again",
+      "summary_en": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduction. On Thursday evening, the company held yet another event for the Semi to demonstrate to customers and investors that the long wait was […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Semi_77.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "link": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
+      "published": "2026-09-24T22:12:57-04:00",
+      "title_th": "Here’s the Tesla Semi… again",
+      "summary_th": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduction. On Thursday evening, the company held yet another event for the Semi to demonstrate to customers and investors that the long wait was […]"
     },
     {
       "source": "The Verge",
@@ -109,18 +121,6 @@
       "published": "2026-09-24T18:08:22-04:00",
       "title_th": "Microsoft puts Brad Smith in charge of communications",
       "summary_th": "Microsoft is moving its communications group out of marketing and into its Corporate, External, and Legal Affairs (CELA) organization. The surprise change will see Microsoft vice chair and president Brad Smith oversee communications, while the company searches for a replacement for Frank Shaw, chief communications officer, who is departing later this year. Microsoft CEO Satya […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-      "summary_en": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. As noted by Google, Live Avatar can transition between the 97 […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gemini-live-avatar-animated.png?quality=90&strip=all&crop=0%2C10.856319364173%2C94.893468926603%2C78.287361271654&w=1200",
-      "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "published": "2026-09-24T15:59:26-04:00",
-      "title_th": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-      "summary_th": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. As noted by Google, Live Avatar can transition between the 97 […]"
     },
     {
       "source": "Ars Technica",
@@ -186,61 +186,61 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "I Think I Found an AI Agent Worth the Risk",
-      "summary_en": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare.",
-      "image": "https://media.wired.com/photos/6ab4547c6d288ac352d9673f/master/pass/Model-Behavior-AI-Worth-the-Risk-Business.jpg",
-      "link": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
-      "published": "Thu, 24 Sep 2026 19:36:35 +0000",
-      "title_th": "I Think I Found an AI Agent Worth the Risk",
-      "summary_th": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
-      "summary_en": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning.",
-      "image": "https://media.wired.com/photos/6ab39bc8c5e291a8de9a8d12/master/pass/GettyImages-2289664536.jpg",
-      "link": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
-      "published": "Thu, 24 Sep 2026 16:00:00 +0000",
-      "title_th": "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
-      "summary_th": "Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning."
+      "title_en": "Therabody Promo Codes: 15% Off September 2026",
+      "summary_en": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
+      "image": "https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg",
+      "link": "https://www.wired.com/story/therabody-promo-code/",
+      "published": "Fri, 25 Sep 2026 05:00:00 +0000",
+      "title_th": "Therabody Promo Codes: 15% Off September 2026",
+      "summary_th": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Bose Ultra Open Earbuds Are $100 Off Right Now",
-      "summary_en": "Grab them on sale before they are replaced by the upcoming second-generation model.",
-      "image": "https://media.wired.com/photos/6ab441190b53a499b5f12f74/master/pass/Bose%E2%80%99s-Premium-Open-Earbuds-Are-$100-Off.jpg",
-      "link": "https://www.wired.com/story/bose-ultra-open-deal-september-2026/",
-      "published": "Thu, 24 Sep 2026 11:36:00 +0000",
-      "title_th": "Bose Ultra Open Earbuds Are $100 Off Right Now",
-      "summary_th": "Grab them on sale before they are replaced by the upcoming second-generation model."
+      "title_en": "Reebok Discount Code: 15% Off - September 2026",
+      "summary_en": "Score deep discounts on running shoes, athletic apparel, and classics with the latest verified Reebok promo codes, student discounts, and member-only savings.",
+      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
+      "link": "https://www.wired.com/story/reebok-discount-code/",
+      "published": "Fri, 25 Sep 2026 05:00:00 +0000",
+      "title_th": "Reebok Discount Code: 15% Off - September 2026",
+      "summary_th": "Score deep discounts on running shoes, athletic apparel, and classics with the latest verified Reebok promo codes, student discounts, and member-only savings."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
-      "summary_en": "The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
-      "image": "https://media.wired.com/photos/6ab4f83dee18064acd928033/master/pass/092426-Canada%20Open%20AI%20Hack%20Sam.jpg",
-      "link": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
-      "published": "Thu, 24 Sep 2026 10:46:56 +0000",
-      "title_th": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
-      "summary_th": "The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law."
+      "title_en": "Ulta Promo Codes: Up to 20% Off in September 2026",
+      "summary_en": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
+      "link": "https://www.wired.com/story/ulta-coupon/",
+      "published": "Fri, 25 Sep 2026 05:00:00 +0000",
+      "title_th": "Ulta Promo Codes: Up to 20% Off in September 2026",
+      "summary_th": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Why No One Wants to Date Tech Bros",
-      "summary_en": "Once seen as nerdy but harmless innovators, men in tech are now widely regarded as red-pilled Elon Musk wannabes. It’s made getting laid a whole lot harder.",
-      "image": "https://media.wired.com/photos/6aac39f4a27fc713e217385b/master/pass/tech-bro-dating.jpg",
-      "link": "https://www.wired.com/story/tech-bros-dating-palantir-tesla/",
-      "published": "Thu, 24 Sep 2026 10:00:00 +0000",
-      "title_th": "Why No One Wants to Date Tech Bros",
-      "summary_th": "Once seen as nerdy but harmless innovators, men in tech are now widely regarded as red-pilled Elon Musk wannabes. It’s made getting laid a whole lot harder."
+      "title_en": "Maytag Promo Codes: 15% Off Appliances",
+      "summary_en": "Upgrade your home for less with these verified Maytag discount codes, military savings, and limited-time closeout offers on washers, dryers, and more.",
+      "image": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
+      "link": "https://www.wired.com/story/maytag-promo-code/",
+      "published": "Fri, 25 Sep 2026 05:00:00 +0000",
+      "title_th": "Maytag Promo Codes: 15% Off Appliances",
+      "summary_th": "Upgrade your home for less with these verified Maytag discount codes, military savings, and limited-time closeout offers on washers, dryers, and more."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "review",
+      "title_en": "TopResume Packages",
+      "summary_en": "Discover ways to save at TopResume, including their free review service and 4-week Career Services Platform trial.",
+      "image": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
+      "link": "https://www.wired.com/story/topresume-discount-code/",
+      "published": "Fri, 25 Sep 2026 05:00:00 +0000",
+      "title_th": "TopResume Packages",
+      "summary_th": "Discover ways to save at TopResume, including their free review service and 4-week Career Services Platform trial."
     },
     {
       "source": "MIT Technology Review",
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 255.0,
-      "change": -1.0,
-      "change_pct": -0.39
+      "price": 261.0,
+      "change": 6.0,
+      "change_pct": 2.35
     }
   ],
   "reviews": [
@@ -699,6 +699,66 @@
       "thumbnail": "https://i4.ytimg.com/vi/ohqxP8EEumo/hqdefault.jpg",
       "published": "2026-09-16T12:01:27+00:00",
       "title_th": "iPhone 18 Pro Review: All About that Chip"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "I Use This Every Night...",
+      "video_id": "iV_hs6Xft1E",
+      "link": "https://www.youtube.com/shorts/iV_hs6Xft1E",
+      "thumbnail": "https://i2.ytimg.com/vi/iV_hs6Xft1E/hqdefault.jpg",
+      "published": "2026-09-23T16:38:37+00:00",
+      "title_th": "I Use This Every Night..."
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "iPhone 18 Pro Max Unboxing: Worth the Upgrade?",
+      "video_id": "I6nYySJavMg",
+      "link": "https://www.youtube.com/watch?v=I6nYySJavMg",
+      "thumbnail": "https://i2.ytimg.com/vi/I6nYySJavMg/hqdefault.jpg",
+      "published": "2026-09-19T19:45:26+00:00",
+      "title_th": "iPhone 18 Pro Max Unboxing: Worth the Upgrade?"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "iPhone 18 Pro Unboxing: A Detail Nobody Noticed...",
+      "video_id": "pJzuFc52oWk",
+      "link": "https://www.youtube.com/watch?v=pJzuFc52oWk",
+      "thumbnail": "https://i1.ytimg.com/vi/pJzuFc52oWk/hqdefault.jpg",
+      "published": "2026-09-19T18:36:59+00:00",
+      "title_th": "iPhone 18 Pro Unboxing: A Detail Nobody Noticed..."
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "แบไต๋ใช้ NAS ทำงานกันยังไง ?​",
+      "video_id": "dxm13PuQimo",
+      "link": "https://www.youtube.com/watch?v=dxm13PuQimo",
+      "thumbnail": "https://i1.ytimg.com/vi/dxm13PuQimo/hqdefault.jpg",
+      "published": "2026-09-25T08:00:11+00:00",
+      "title_th": "แบไต๋ใช้ NAS ทำงานกันยังไง ?​"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "เซลล์มะเร็งวิ่งไปไหนบ้าง ?",
+      "video_id": "VlIIQDUVQTg",
+      "link": "https://www.youtube.com/shorts/VlIIQDUVQTg",
+      "thumbnail": "https://i3.ytimg.com/vi/VlIIQDUVQTg/hqdefault.jpg",
+      "published": "2026-09-24T23:00:34+00:00",
+      "title_th": "เซลล์มะเร็งวิ่งไปไหนบ้าง ?"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "1 วันกับการเป็น ‘BMW Driving Instructor’ | Staff Only",
+      "video_id": "aEDus2UY_Vs",
+      "link": "https://www.youtube.com/watch?v=aEDus2UY_Vs",
+      "thumbnail": "https://i2.ytimg.com/vi/aEDus2UY_Vs/hqdefault.jpg",
+      "published": "2026-09-24T10:00:20+00:00",
+      "title_th": "1 วันกับการเป็น ‘BMW Driving Instructor’ | Staff Only"
     },
     {
       "channel": "Droidsans",
