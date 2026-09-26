@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T02:26:51.713207+00:00",
+  "generated_at": "2026-09-26T08:21:56.117594+00:00",
   "count": 50,
   "articles": [
     {
@@ -19,12 +19,12 @@
       "flag": "US",
       "category": "startup",
       "title_en": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "summary_en": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
+      "summary_en": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
       "image": "https://techcrunch.com/wp-content/uploads/2025/12/Boom_Superpower_Hero_Dec2025.jpg?resize=1200,675",
       "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
       "published": "Fri, 25 Sep 2026 23:11:10 +0000",
       "title_th": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "summary_th": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans."
+      "summary_th": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans."
     },
     {
       "source": "TechCrunch",
@@ -61,6 +61,18 @@
       "published": "Fri, 25 Sep 2026 19:13:38 +0000",
       "title_th": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
       "summary_th": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more."
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Can an ‘eSUV’ e-bike really go from trail to town?",
+      "summary_en": "Have you ever wanted an electric bike that easily transitions from the drudgery of urban asphalt to adventures in gravel and dirt? That's what a subclass of so-called \"electric SUV\" (eSUV) e-bikes claims to do, with their wide, all-terrain tires and front and rear suspension, plus practical accessories like fenders and racks. So, that's what […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_4650.jpeg?quality=90&strip=all&crop=0%2C21.657444371728%2C100%2C69.808027923211&w=1200",
+      "link": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
+      "published": "2026-09-26T03:00:00-04:00",
+      "title_th": "Can an ‘eSUV’ e-bike really go from trail to town?",
+      "summary_th": "Have you ever wanted an electric bike that easily transitions from the drudgery of urban asphalt to adventures in gravel and dirt? That's what a subclass of so-called \"electric SUV\" (eSUV) e-bikes claims to do, with their wide, all-terrain tires and front and rear suspension, plus practical accessories like fenders and racks. So, that's what […]"
     },
     {
       "source": "The Verge",
@@ -111,16 +123,16 @@
       "summary_th": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told people, including us, it wasn't supposed to reveal […]"
     },
     {
-      "source": "The Verge",
+      "source": "Ars Technica",
       "flag": "US",
-      "category": "gadget",
-      "title_en": "Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K",
-      "summary_en": "Apple is expected to announce more hardware before the end of the year following the debut of the iPhone 18 Pro and folding iPhone Duo earlier this month. The updated products will include a new version of the HomePod mini, the iPad mini 8, and the Apple TV 4K, according to details and images discovered […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22025413/dseifert_201107_4281_0006.0.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k",
-      "published": "2026-09-25T12:22:05-04:00",
-      "title_th": "Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K",
-      "summary_th": "Apple is expected to announce more hardware before the end of the year following the debut of the iPhone 18 Pro and folding iPhone Duo earlier this month. The updated products will include a new version of the HomePod mini, the iPad mini 8, and the Apple TV 4K, according to details and images discovered […]"
+      "category": "software",
+      "title_en": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
+      "summary_en": "Ads appearing all over the Internet are trying to scam people.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg",
+      "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+      "published": "Fri, 25 Sep 2026 19:38:59 +0000",
+      "title_th": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
+      "summary_th": "Ads appearing all over the Internet are trying to scam people."
     },
     {
       "source": "Ars Technica",
@@ -169,18 +181,6 @@
       "published": "Sun, 20 Sep 2026 11:07:00 +0000",
       "title_th": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
       "summary_th": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle."
-    },
-    {
-      "source": "Ars Technica",
-      "flag": "US",
-      "category": "software",
-      "title_en": "LLMs respond differently to harmful prompts when AI watermarking is used",
-      "summary_en": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-1152x556.jpg",
-      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-      "published": "Thu, 17 Sep 2026 18:33:13 +0000",
-      "title_th": "LLMs respond differently to harmful prompts when AI watermarking is used",
-      "summary_th": "SynthID can cause models to follow harmful instructions they would otherwise refuse."
     },
     {
       "source": "Wired",
@@ -729,6 +729,66 @@
       "thumbnail": "https://i2.ytimg.com/vi/I6nYySJavMg/hqdefault.jpg",
       "published": "2026-09-19T19:45:26+00:00",
       "title_th": "iPhone 18 Pro Max Unboxing: Worth the Upgrade?"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "เตรียมเกษียณก่อน 72",
+      "video_id": "uPomcENkVYs",
+      "link": "https://www.youtube.com/shorts/uPomcENkVYs",
+      "thumbnail": "https://i2.ytimg.com/vi/uPomcENkVYs/hqdefault.jpg",
+      "published": "2026-09-25T23:00:09+00:00",
+      "title_th": "เตรียมเกษียณก่อน 72"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "iPhone 18 Pro แพงขนาดนี้ จะขาดชุดป้องกันไปได้ยังไง ! ป้ายยา Hi-Shield Exclusive Boxset เซตเดียวจบ",
+      "video_id": "2frxxSjHuTA",
+      "link": "https://www.youtube.com/shorts/2frxxSjHuTA",
+      "thumbnail": "https://i3.ytimg.com/vi/2frxxSjHuTA/hqdefault.jpg",
+      "published": "2026-09-25T12:00:13+00:00",
+      "title_th": "iPhone 18 Pro แพงขนาดนี้ จะขาดชุดป้องกันไปได้ยังไง ! ป้ายยา Hi-Shield Exclusive Boxset เซตเดียวจบ"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "มิตรภาพกับธุรกิจ คิดยังไง? | Go with The Four",
+      "video_id": "evUceJh71iw",
+      "link": "https://www.youtube.com/watch?v=evUceJh71iw",
+      "thumbnail": "https://i2.ytimg.com/vi/evUceJh71iw/hqdefault.jpg",
+      "published": "2026-09-25T11:00:12+00:00",
+      "title_th": "มิตรภาพกับธุรกิจ คิดยังไง? | Go with The Four"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รีวิว vivo V80 Lite 5G แบต 10,000 mAh อึดระดับโลก Guinness World Records",
+      "video_id": "IAniAPCqIr0",
+      "link": "https://www.youtube.com/watch?v=IAniAPCqIr0",
+      "thumbnail": "https://i2.ytimg.com/vi/IAniAPCqIr0/hqdefault.jpg",
+      "published": "2026-09-24T11:30:00+00:00",
+      "title_th": "รีวิว vivo V80 Lite 5G แบต 10,000 mAh อึดระดับโลก Guinness World Records"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "ภาพสวยไม่ใช่แค่กล้อง แต่ชิปต้องทำถึง ! #Dimensity9600Pro #MediaTek  #vivoX500ProMax #OPPOFindX10Pro",
+      "video_id": "15kzaRVOn-U",
+      "link": "https://www.youtube.com/shorts/15kzaRVOn-U",
+      "thumbnail": "https://i2.ytimg.com/vi/15kzaRVOn-U/hqdefault.jpg",
+      "published": "2026-09-23T14:43:57+00:00",
+      "title_th": "ภาพสวยไม่ใช่แค่กล้อง แต่ชิปต้องทำถึง ! #Dimensity9600Pro #MediaTek  #vivoX500ProMax #OPPOFindX10Pro"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รีวิว ASUS Zenbook A16 โน้ตบุ๊กจอใหญ่ 16 นิ้ว เบาแค่ 1.2 กก.! ชิป Snapdragon X2 Elite พร้อมลุยทุกงาน",
+      "video_id": "iFUN0qH6tuo",
+      "link": "https://www.youtube.com/watch?v=iFUN0qH6tuo",
+      "thumbnail": "https://i2.ytimg.com/vi/iFUN0qH6tuo/hqdefault.jpg",
+      "published": "2026-09-23T12:30:21+00:00",
+      "title_th": "รีวิว ASUS Zenbook A16 โน้ตบุ๊กจอใหญ่ 16 นิ้ว เบาแค่ 1.2 กก.! ชิป Snapdragon X2 Elite พร้อมลุยทุกงาน"
     }
   ]
 }
