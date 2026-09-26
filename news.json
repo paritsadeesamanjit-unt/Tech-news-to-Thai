@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-25T23:59:55.595268+00:00",
+  "generated_at": "2026-09-26T02:26:51.713207+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "At Meta Connect, the company’s smart glasses were everywhere",
+      "summary_en": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/P1110274-rotated.jpg?resize=901,1200",
+      "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "published": "Sat, 26 Sep 2026 01:08:57 +0000",
+      "title_th": "At Meta Connect, the company’s smart glasses were everywhere",
+      "summary_th": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -20,7 +32,7 @@
       "category": "startup",
       "title_en": "Automattic has a new board after failed attempt to put CEO on leave",
       "summary_en": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-bling-watch.jpg?resize=1200,799",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Matt-Mullenweg.jpg?resize=1200,799",
       "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
       "published": "Fri, 25 Sep 2026 23:04:34 +0000",
       "title_th": "Automattic has a new board after failed attempt to put CEO on leave",
@@ -49,18 +61,6 @@
       "published": "Fri, 25 Sep 2026 19:13:38 +0000",
       "title_th": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
       "summary_th": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "summary_en": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675",
-      "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "published": "Fri, 25 Sep 2026 18:48:33 +0000",
-      "title_th": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "summary_th": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses."
     },
     {
       "source": "The Verge",
@@ -186,6 +186,18 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
+      "title_en": "Quince Luggage Is Affordable but Doesn’t Feel Cheap (2026)",
+      "summary_en": "Is Quince the Away alternative we’ve been waiting for? I tested its luggage to find out, and the price difference is hard to ignore.",
+      "image": "https://media.wired.com/photos/6ab6f36a22f26e9fe871007e/master/pass/Why-Buy-an-Away-When-Quince-Is-Half-the-Price-.jpg",
+      "link": "https://www.wired.com/story/quince-wants-to-be-your-new-away-luggage/",
+      "published": "Sat, 26 Sep 2026 00:02:00 +0000",
+      "title_th": "Quince Luggage Is Affordable but Doesn’t Feel Cheap (2026)",
+      "summary_th": "Is Quince the Away alternative we’ve been waiting for? I tested its luggage to find out, and the price difference is hard to ignore."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
       "title_en": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
       "summary_en": "They likely came for silicon—but left with silica.",
       "image": "https://media.wired.com/photos/6ab6c8393be975e24c8d9909/master/pass/_DSC5425%20(1).jpg",
@@ -229,18 +241,6 @@
       "published": "Fri, 25 Sep 2026 11:32:17 +0000",
       "title_th": "The Trump Administration Is Trying to Get Musk and X Out of a $137 Million EU Fine",
       "summary_th": "The US government filed an application to support the company’s legal challenge against a fine issued under the bloc’s Digital Services Act, which Trump has described as “overseas extortion.”"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "review",
-      "title_en": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
-      "summary_en": "I’ve been reviewing laptops for over a decade, and here’s my advice for finding the right laptop for you.",
-      "image": "https://media.wired.com/photos/69be039cf062c9cdcba42e33/master/pass/macbook-air-m5-03.JPG",
-      "link": "https://www.wired.com/story/best-laptops/",
-      "published": "Fri, 25 Sep 2026 11:30:00 +0000",
-      "title_th": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
-      "summary_th": "I’ve been reviewing laptops for over a decade, and here’s my advice for finding the right laptop for you."
     },
     {
       "source": "MIT Technology Review",
@@ -426,6 +426,18 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "OpenAI accuses Apple of improperly adding new evidence to trade secrets case",
+      "summary_en": "OpenAI and the other defendants in Apple’s trade secret misappropriation lawsuit made a new filing, asking the court to strike two expert declarations and disregard other evidence Apple recently submitted. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/25/openai-accuses-apple-of-improperly-adding-new-evidence-to-trade-secrets-case/",
+      "published": "Sat, 26 Sep 2026 01:14:20 +0000",
+      "title_th": "OpenAI accuses Apple of improperly adding new evidence to trade secrets case",
+      "summary_th": "OpenAI and the other defendants in Apple’s trade secret misappropriation lawsuit made a new filing, asking the court to strike two expert declarations and disregard other evidence Apple recently submitted. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "macOS 27 adds new Apple Intelligence features to your favorite apps",
       "summary_en": "9to5Mac is brought to you by CleanMyMac by MacPaw . With the release of macOS 27 Golden Gate, use CleanMyMac first to free up space, optimize your system, and ensure your new Mac runs at 100% on day one. Learn more . Apple has released macOS 27 Golden Gate to the public after several months of beta testing. The update is headlined by Siri AI, but there are also Apple Intelligence enhancements to many of Apple’s own Mac apps. Here are a few of my favorites. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all&resize=1200,628",
@@ -469,18 +481,6 @@
       "published": "Fri, 25 Sep 2026 21:01:42 +0000",
       "title_th": "Apple faces class action over Apple Pay fees charged to card issuers",
       "summary_th": "U.S. District Judge Jeffrey S. White has certified a class-action lawsuit accusing Apple of charging payment card issuers inflated fees for Apple Pay transactions. Here are the details. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple Music Hall confirms first eight shows, starting with Elton John",
-      "summary_en": "Apple today revealed the first eight shows coming to its new Apple Music Hall in London, with Elton John set to kick things off next week. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-music-hall_5c7713.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/25/apple-music-hall-confirms-first-eight-shows-starting-with-elton-john/",
-      "published": "Fri, 25 Sep 2026 20:08:16 +0000",
-      "title_th": "Apple Music Hall confirms first eight shows, starting with Elton John",
-      "summary_th": "Apple today revealed the first eight shows coming to its new Apple Music Hall in London, with Elton John set to kick things off next week. Here are the details. more…"
     },
     {
       "source": "9to5Google",
@@ -729,66 +729,6 @@
       "thumbnail": "https://i2.ytimg.com/vi/I6nYySJavMg/hqdefault.jpg",
       "published": "2026-09-19T19:45:26+00:00",
       "title_th": "iPhone 18 Pro Max Unboxing: Worth the Upgrade?"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "เตรียมเกษียณก่อน 72",
-      "video_id": "uPomcENkVYs",
-      "link": "https://www.youtube.com/shorts/uPomcENkVYs",
-      "thumbnail": "https://i2.ytimg.com/vi/uPomcENkVYs/hqdefault.jpg",
-      "published": "2026-09-25T23:00:09+00:00",
-      "title_th": "เตรียมเกษียณก่อน 72"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "iPhone 18 Pro แพงขนาดนี้ จะขาดชุดป้องกันไปได้ยังไง ! ป้ายยา Hi-Shield Exclusive Boxset เซตเดียวจบ",
-      "video_id": "2frxxSjHuTA",
-      "link": "https://www.youtube.com/shorts/2frxxSjHuTA",
-      "thumbnail": "https://i3.ytimg.com/vi/2frxxSjHuTA/hqdefault.jpg",
-      "published": "2026-09-25T12:00:13+00:00",
-      "title_th": "iPhone 18 Pro แพงขนาดนี้ จะขาดชุดป้องกันไปได้ยังไง ! ป้ายยา Hi-Shield Exclusive Boxset เซตเดียวจบ"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "มิตรภาพกับธุรกิจ คิดยังไง? | Go with The Four",
-      "video_id": "evUceJh71iw",
-      "link": "https://www.youtube.com/watch?v=evUceJh71iw",
-      "thumbnail": "https://i2.ytimg.com/vi/evUceJh71iw/hqdefault.jpg",
-      "published": "2026-09-25T11:00:12+00:00",
-      "title_th": "มิตรภาพกับธุรกิจ คิดยังไง? | Go with The Four"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "รีวิว vivo V80 Lite 5G แบต 10,000 mAh อึดระดับโลก Guinness World Records",
-      "video_id": "IAniAPCqIr0",
-      "link": "https://www.youtube.com/watch?v=IAniAPCqIr0",
-      "thumbnail": "https://i2.ytimg.com/vi/IAniAPCqIr0/hqdefault.jpg",
-      "published": "2026-09-24T11:30:00+00:00",
-      "title_th": "รีวิว vivo V80 Lite 5G แบต 10,000 mAh อึดระดับโลก Guinness World Records"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "ภาพสวยไม่ใช่แค่กล้อง แต่ชิปต้องทำถึง ! #Dimensity9600Pro #MediaTek  #vivoX500ProMax #OPPOFindX10Pro",
-      "video_id": "15kzaRVOn-U",
-      "link": "https://www.youtube.com/shorts/15kzaRVOn-U",
-      "thumbnail": "https://i2.ytimg.com/vi/15kzaRVOn-U/hqdefault.jpg",
-      "published": "2026-09-23T14:43:57+00:00",
-      "title_th": "ภาพสวยไม่ใช่แค่กล้อง แต่ชิปต้องทำถึง ! #Dimensity9600Pro #MediaTek  #vivoX500ProMax #OPPOFindX10Pro"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "รีวิว ASUS Zenbook A16 โน้ตบุ๊กจอใหญ่ 16 นิ้ว เบาแค่ 1.2 กก.! ชิป Snapdragon X2 Elite พร้อมลุยทุกงาน",
-      "video_id": "iFUN0qH6tuo",
-      "link": "https://www.youtube.com/watch?v=iFUN0qH6tuo",
-      "thumbnail": "https://i2.ytimg.com/vi/iFUN0qH6tuo/hqdefault.jpg",
-      "published": "2026-09-23T12:30:21+00:00",
-      "title_th": "รีวิว ASUS Zenbook A16 โน้ตบุ๊กจอใหญ่ 16 นิ้ว เบาแค่ 1.2 กก.! ชิป Snapdragon X2 Elite พร้อมลุยทุกงาน"
     }
   ]
 }
