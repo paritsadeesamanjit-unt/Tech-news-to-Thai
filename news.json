@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-27T14:40:39.638712+00:00",
+  "generated_at": "2026-09-27T19:02:25.406181+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "summary_en": "\"AI is the devil and I its maker.\"",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/saturday-night-live.jpg?resize=1200,603",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "published": "Sun, 27 Sep 2026 16:30:00 +0000",
+      "title_th": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "summary_th": "\"AI is the devil and I its maker.\""
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "TechCrunch Mobility: AV companies pick their lanes",
+      "summary_en": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/wayve-getty.jpg?resize=1200,801",
+      "link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+      "published": "Sun, 27 Sep 2026 16:02:00 +0000",
+      "title_th": "TechCrunch Mobility: AV companies pick their lanes",
+      "summary_th": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "review",
+      "title_en": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
+      "summary_en": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Senn_Black_M5_Product_KV_Full_Format_HighRes.jpeg?resize=1200,675",
+      "link": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
+      "published": "Sun, 27 Sep 2026 15:00:00 +0000",
+      "title_th": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
+      "summary_th": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -27,40 +63,16 @@
       "summary_th": "The limited test covers select products and users, with a broader rollout planned for later in October."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Insurers claim AI is already increasing healthcare costs",
-      "summary_en": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
-      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "published": "Sat, 26 Sep 2026 21:02:06 +0000",
-      "title_th": "Insurers claim AI is already increasing healthcare costs",
-      "summary_th": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
-      "summary_en": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Levoit-Vital-Pet-Pro_7.jpg?w=1200",
-      "link": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
-      "published": "Sat, 26 Sep 2026 17:00:00 +0000",
-      "title_th": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
-      "summary_th": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "I created an interactive digital avatar of myself — and you can talk to it",
-      "summary_en": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Digital-dom.png?resize=1200,667",
-      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "published": "Sat, 26 Sep 2026 14:00:00 +0000",
-      "title_th": "I created an interactive digital avatar of myself — and you can talk to it",
-      "summary_th": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves."
+      "category": "software",
+      "title_en": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "summary_en": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it's yet another concerning example of AI […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&strip=all&crop=0%2C10.736911387474%2C100%2C78.526177225052&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "published": "2026-09-27T13:21:07-04:00",
+      "title_th": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "summary_th": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it's yet another concerning example of AI […]"
     },
     {
       "source": "The Verge",
@@ -109,18 +121,6 @@
       "published": "2026-09-26T17:30:01-04:00",
       "title_th": "Apple hit with $5.7 billion in damages over haptic patents",
       "summary_th": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based, tactile transducer technology that helps users feel a […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Decap is the man behind the drums behind your favorite song",
-      "summary_en": "I don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well as many other artists, including Freddie Gibbs, Bad Bunny, Mac Miller, BTS, and even Ludwig Göransson's score […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Elysian_palms_10.jpg?quality=90&strip=all&crop=0%2C11.031430666644%2C100%2C77.937138666712&w=1200",
-      "link": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
-      "published": "2026-09-26T15:30:00-04:00",
-      "title_th": "Decap is the man behind the drums behind your favorite song",
-      "summary_th": "I don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well as many other artists, including Freddie Gibbs, Bad Bunny, Mac Miller, BTS, and even Ludwig Göransson's score […]"
     },
     {
       "source": "Ars Technica",
@@ -305,62 +305,62 @@
     {
       "source": "Engadget",
       "flag": "US",
-      "category": "chip",
-      "title_en": "Why letting Claude clean your TV's bloatware isn't the best idea",
-      "summary_en": "Don't let an AI bot potentially crash your TV.",
-      "image": "https://www.engadget.com/img/gallery/why-letting-claude-clean-your-tvs-bloatware-isnt-the-best-idea/l-intro-1790197913.jpg",
-      "link": "https://www.engadget.com/2267074/why-claude-cleaning-tv-bloatware-not-best-idea/",
-      "published": "Sun, 27 Sep 2026 14:15:00 +0000",
-      "title_th": "Why letting Claude clean your TV's bloatware isn't the best idea",
-      "summary_th": "Don't let an AI bot potentially crash your TV."
+      "category": "ev",
+      "title_en": "BYD says its new solid-state EV battery tech is nearly ready for the open road",
+      "summary_en": "The Chinese company is one of several car makers expected to adopt solid-state batteries in the next few years.",
+      "image": "https://www.engadget.com/img/gallery/byd-says-its-new-solid-state-ev-battery-tech-is-nearly-ready-for-the-open-road/l-intro-1790034826.jpg",
+      "link": "https://www.engadget.com/2265495/byd-new-solid-state-battery-ev-almost-ready-2027/",
+      "published": "Sun, 27 Sep 2026 18:30:00 +0000",
+      "title_th": "BYD says its new solid-state EV battery tech is nearly ready for the open road",
+      "summary_th": "The Chinese company is one of several car makers expected to adopt solid-state batteries in the next few years."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Gemini Live vs. ChatGPT Voice: Which AI offers a more natural conversation?",
-      "summary_en": "Speaking with an AI chatbot can be a little awkward, but companies like Google and OpenAI are working on fixing that.",
-      "image": "https://www.engadget.com/img/gallery/gemini-live-vs-chatgpt-voice-which-ai-offers-a-more-natural-conversation/l-intro-1790190080.jpg",
-      "link": "https://www.engadget.com/2266889/gemini-live-vs-gpt-live-which-offers-more-natural-conversation/",
-      "published": "Sun, 27 Sep 2026 13:45:00 +0000",
-      "title_th": "Gemini Live vs. ChatGPT Voice: Which AI offers a more natural conversation?",
-      "summary_th": "Speaking with an AI chatbot can be a little awkward, but companies like Google and OpenAI are working on fixing that."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Humanoid robots are getting even creepier (this one can cry on command)",
-      "summary_en": "Humanoid robots have improved emotional mimicry to the point of being able to cry during an emotional conversation.",
-      "image": "https://www.engadget.com/img/gallery/humanoid-robots-are-getting-even-creepier-this-one-can-cry-on-command/l-intro-1790191546.jpg",
-      "link": "https://www.engadget.com/2266933/humanoid-robot-cries-on-command/",
-      "published": "Sun, 27 Sep 2026 13:15:00 +0000",
-      "title_th": "Humanoid robots are getting even creepier (this one can cry on command)",
-      "summary_th": "Humanoid robots have improved emotional mimicry to the point of being able to cry during an emotional conversation."
+      "title_en": "The pros and cons of using a foldable phone",
+      "summary_en": "Foldable phones are gaining momentum, but have they been refined enough to make it to the mainstream? Here are some things to consider.",
+      "image": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-a-foldable-phone/l-intro-1790174331.jpg",
+      "link": "https://www.engadget.com/2266434/foldable-phone-pros-cons/",
+      "published": "Sun, 27 Sep 2026 18:00:00 +0000",
+      "title_th": "The pros and cons of using a foldable phone",
+      "summary_th": "Foldable phones are gaining momentum, but have they been refined enough to make it to the mainstream? Here are some things to consider."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "gadget",
-      "title_en": "How to use the Live Text feature on your iPhone",
-      "summary_en": "There's no need to manually type text into your iPhone that you see in the real world. Use Live Text to copy it, call phone numbers and much more.",
-      "image": "https://www.engadget.com/img/gallery/how-to-use-the-live-text-feature-on-your-iphone/l-intro-1790186990.jpg",
-      "link": "https://www.engadget.com/2266810/how-to-use-live-text-feature-iphone/",
-      "published": "Sun, 27 Sep 2026 12:45:00 +0000",
-      "title_th": "How to use the Live Text feature on your iPhone",
-      "summary_th": "There's no need to manually type text into your iPhone that you see in the real world. Use Live Text to copy it, call phone numbers and much more."
+      "title_en": "Why the iPhone Duo could be beneficial for Samsung's Galaxy Z Fold 8",
+      "summary_en": "Apple's iPhone Duo is far from the first foldable phone, but it could upset the foldable market in all-new ways.",
+      "image": "https://www.engadget.com/img/gallery/why-the-iphone-duo-could-be-beneficial-for-samsungs-galaxy-z-fold-8/l-intro-1790259728.jpg",
+      "link": "https://www.engadget.com/2267585/why-iphone-duo-benefitcial-for-samsung-galaxy-fold-8/",
+      "published": "Sun, 27 Sep 2026 16:45:00 +0000",
+      "title_th": "Why the iPhone Duo could be beneficial for Samsung's Galaxy Z Fold 8",
+      "summary_th": "Apple's iPhone Duo is far from the first foldable phone, but it could upset the foldable market in all-new ways."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "gadget",
-      "title_en": "iPhone Duo vs Microsoft Surface Duo: One name, two very different devices",
-      "summary_en": "A brief history of \"Duo\" foldables.",
-      "image": "https://www.engadget.com/img/gallery/iphone-duo-vs-microsoft-surface-duo-one-name-two-very-different-devices/l-intro-1789917060.jpg",
-      "link": "https://www.engadget.com/2267884/apple-iphone-duo-vs-microsoft-surface-duo-comparison/",
-      "published": "Sun, 27 Sep 2026 12:30:00 +0000",
-      "title_th": "iPhone Duo vs Microsoft Surface Duo: One name, two very different devices",
-      "summary_th": "A brief history of \"Duo\" foldables."
+      "title_en": "How to use Android's Desktop mode to turn your phone into a tiny PC",
+      "summary_en": "You can plug recent Pixel phones into a monitor to get a desktop-style interface.",
+      "image": "https://www.engadget.com/img/gallery/how-to-use-androids-desktop-mode-to-turn-your-phone-into-a-tiny-pc/l-intro-1790259325.jpg",
+      "link": "https://www.engadget.com/2267572/how-to-use-desktop-mode-android-phone/",
+      "published": "Sun, 27 Sep 2026 16:15:00 +0000",
+      "title_th": "How to use Android's Desktop mode to turn your phone into a tiny PC",
+      "summary_th": "You can plug recent Pixel phones into a monitor to get a desktop-style interface."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "How to use Spotify's Running Mode on iOS and Android",
+      "summary_en": "Maximize your stride with Spotify's AI-powered running features.",
+      "image": "https://www.engadget.com/img/gallery/how-to-use-spotify-running-mode-ios-android-guide/l-intro-1790266956.jpg",
+      "link": "https://www.engadget.com/2267524/how-to-use-spotify-running-mode-ios-android-guide/",
+      "published": "Sun, 27 Sep 2026 15:45:00 +0000",
+      "title_th": "How to use Spotify's Running Mode on iOS and Android",
+      "summary_th": "Maximize your stride with Spotify's AI-powered running features."
     },
     {
       "source": "IEEE Spectrum",
@@ -425,6 +425,18 @@
     {
       "source": "9to5Mac",
       "flag": "",
+      "category": "gadget",
+      "title_en": "Report: Apple working on new Vision Pro, with different form factors on the table",
+      "summary_en": "After the release of Vision Pro, everyone wanted to know how long it would be before the company could release a lighter version that isn’t so bulky on your face. For the longest time, we had been looking forward to a so-called Vision Air, codenamed N100. That project was shelved last year , though the company is working on a new project with similar aspirations, per Bloomberg . more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/vision-pro-m50001.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/27/apple-working-on-new-lighter-vision-pro-version/",
+      "published": "Sun, 27 Sep 2026 14:47:05 +0000",
+      "title_th": "Report: Apple working on new Vision Pro, with different form factors on the table",
+      "summary_th": "After the release of Vision Pro, everyone wanted to know how long it would be before the company could release a lighter version that isn’t so bulky on your face. For the longest time, we had been looking forward to a so-called Vision Air, codenamed N100. That project was shelved last year , though the company is working on a new project with similar aspirations, per Bloomberg . more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
       "category": "review",
       "title_en": "Apple hit with $5.7 billion verdict over Taptic Engine patent infringement",
       "summary_en": "Apple must pay $5.7 billion for infringing on patents held by Taction Technology, a US jury ruled on Friday. The patents relate to Apple’s Taptic Engine, which is the hardware Apple uses to provide haptic feedback for notifications, button presses, and other interactions. Taction first filed the lawsuit in 2021, alleging Apple had “infringed and continues to infringe, directly and indirectly” its patents. more…",
@@ -433,6 +445,18 @@
       "published": "Sun, 27 Sep 2026 12:49:53 +0000",
       "title_th": "Apple hit with $5.7 billion verdict over Taptic Engine patent infringement",
       "summary_th": "Apple must pay $5.7 billion for infringing on patents held by Taction Technology, a US jury ruled on Friday. The patents relate to Apple’s Taptic Engine, which is the hardware Apple uses to provide haptic feedback for notifications, button presses, and other interactions. Taction first filed the lawsuit in 2021, alleging Apple had “infringed and continues to infringe, directly and indirectly” its patents. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Best iPhone 18 Pro cases now available for purchase [Update #2]",
+      "summary_en": "It is time to take a look at the best new iPhone 18 Pro cases. Apple has a new slate of Silicone and TechWoven models in color-matched treatments, joined by loads of our favorite third-party solutions we have been using for years. From built-in stands in new burgundy colorways, ultra grippy customizable models , and some of the best leather options in the game from brands like Nomad and Burton Goods . We have some super affordable models starting from $14 from budget-friendly brands like Spigen and more. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Best-iPhone-18-Pro-case-now-available-for-purchase.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/27/best-iphone-18-pro-cases-now-available/",
+      "published": "Sun, 27 Sep 2026 08:24:00 +0000",
+      "title_th": "Best iPhone 18 Pro cases now available for purchase [Update #2]",
+      "summary_th": "It is time to take a look at the best new iPhone 18 Pro cases. Apple has a new slate of Silicone and TechWoven models in color-matched treatments, joined by loads of our favorite third-party solutions we have been using for years. From built-in stands in new burgundy colorways, ultra grippy customizable models , and some of the best leather options in the game from brands like Nomad and Burton Goods . We have some super affordable models starting from $14 from budget-friendly brands like Spigen and more. more…"
     },
     {
       "source": "9to5Mac",
@@ -459,28 +483,28 @@
       "summary_th": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . iOS 27 debuted to the public almost two weeks ago , with the flagship feature being Siri AI. While Siri AI was revolutionary compared to what existed prior, it still has some shortcomings. QuillCue aims to close one of the gaps with Siri AI by providing a custom keyboard that lets you save prompts for later. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple Watch Series 12 one week later: There’s so much more than meets the eye",
-      "summary_en": "When Apple unveiled the Apple Watch Series 12, two features stood out: the new Siri Recap feature, as well as the much improved heart rate monitor. While those two features were part of the reason I was compelled to buy the new Apple Watch, I’ve found myself delighted by much more than just those two things. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/DSC03046.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/26/apple-watch-series-12-one-week-later/",
-      "published": "Sat, 26 Sep 2026 16:59:27 +0000",
-      "title_th": "Apple Watch Series 12 one week later: There’s so much more than meets the eye",
-      "summary_th": "When Apple unveiled the Apple Watch Series 12, two features stood out: the new Siri Recap feature, as well as the much improved heart rate monitor. While those two features were part of the reason I was compelled to buy the new Apple Watch, I’ve found myself delighted by much more than just those two things. more…"
+      "title_en": "Gemini app replacing Gems with skills in November",
+      "summary_en": "In 2024, Google introduced Gems as “custom versions of Gemini.” The Gemini app will soon replace Gems with “skills.” more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-9.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/27/gemini-gems-skills/",
+      "published": "Sun, 27 Sep 2026 17:26:40 +0000",
+      "title_th": "Gemini app replacing Gems with skills in November",
+      "summary_th": "In 2024, Google introduced Gems as “custom versions of Gemini.” The Gemini app will soon replace Gems with “skills.” more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "These are my favorite iPhone 18 Pro & Pro Max cases so far [Video]",
-      "summary_en": "The new iPhone 18 Pro and 18 Pro Max have been out for a week, and they have been amazing devices to use and test. While the actual footprint and visual design remain unchanged, Apple spiced things up with new colors like Glacier, Burgundy, and a true Deep Black version. These colors are a nice new addition to the iPhone lineup, but, of course, the main question I get asked is: What case should I get to protect my new $ 1,200+ device? Luckily, there are already hundreds of case options for the new 18 Pro lineup, and I have been lucky enough to test a bunch. I know cases are purely subjective and a matter of preference, but I figured I would share some of my favorites! more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Cases.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/26/these-are-my-favorite-iphone-18-pro-pro-max-cases-so-far-video/",
-      "published": "Sat, 26 Sep 2026 14:00:00 +0000",
-      "title_th": "These are my favorite iPhone 18 Pro & Pro Max cases so far [Video]",
-      "summary_th": "The new iPhone 18 Pro and 18 Pro Max have been out for a week, and they have been amazing devices to use and test. While the actual footprint and visual design remain unchanged, Apple spiced things up with new colors like Glacier, Burgundy, and a true Deep Black version. These colors are a nice new addition to the iPhone lineup, but, of course, the main question I get asked is: What case should I get to protect my new $ 1,200+ device? Luckily, there are already hundreds of case options for the new 18 Pro lineup, and I have been lucky enough to test a bunch. I know cases are purely subjective and a matter of preference, but I figured I would share some of my favorites! more…"
+      "title_en": "What new Google Messages features are rolling out [September 2026]",
+      "summary_en": "Like other Google apps, Messages for Android A/B tests many features. It can take the RCS/SMS client a rather long time to actually launch new functionality in stable. From various reports, Google announcements , and devices we’ve checked, this is the current state of Messages. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/03/google-messages-logo-circle-2.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/27/new-google-messages-features/",
+      "published": "Sun, 27 Sep 2026 16:40:00 +0000",
+      "title_th": "What new Google Messages features are rolling out [September 2026]",
+      "summary_th": "Like other Google apps, Messages for Android A/B tests many features. It can take the RCS/SMS client a rather long time to actually launch new functionality in stable. From various reports, Google announcements , and devices we’ve checked, this is the current state of Messages. more…"
     },
     {
       "source": "9to5Google",
@@ -519,28 +543,28 @@
       "summary_th": "Welcome to Pixelated episode 118. This week, Damien and Abner share their hands-on impressions of Google’s new laptop lineup with Will. What’s it like to use an Android-powered laptop? How different is the Googlebook platform from ChromeOS? And what steps does Google need to take post-launch to give it as strong of a chance at succeeding as possible? All those questions and more and more as the Android ecosystem grows even larger. Enjoy the show? You can listen to our weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro for just $5 per month, or about $1 per episode. Sponsored by Proton Unlimited : Pixelated listeners can save 30% on an annual subscription to the company’s suite of privacy-friendly services by signing up using our link . Thanks to Proton Unlimit"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Google Health 5.09 rolling out: Cardio Load from third-party workouts, more",
-      "summary_en": "Following yesterday’s announcement , Google Health 5.09 is rolling out with support for the new Health Guardian features on the Pixel Watch. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Pixel-Watch-Health-Guardian-copy-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/25/google-health-5-09-release-notes/",
-      "published": "Fri, 25 Sep 2026 20:09:15 +0000",
-      "title_th": "Google Health 5.09 rolling out: Cardio Load from third-party workouts, more",
-      "summary_th": "Following yesterday’s announcement , Google Health 5.09 is rolling out with support for the new Health Guardian features on the Pixel Watch. more…"
+      "category": "ev",
+      "title_en": "Mazda adds LiDAR to CX-6e, rolls out “self driving” tech in China",
+      "summary_en": "Mazda’s CX-6e just got a major tech update in the form of a new LiDAR suite that makes the sporty electric SUV capable of delivering “advanced L2” autonomy, navigation on autopilot (NOA), and automated parking. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/self-drive-mazda.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/27/mazda-adds-lidar-to-cx-6e-rolls-out-self-driving-tech-in-china/",
+      "published": "Sun, 27 Sep 2026 16:40:43 +0000",
+      "title_th": "Mazda adds LiDAR to CX-6e, rolls out “self driving” tech in China",
+      "summary_th": "Mazda’s CX-6e just got a major tech update in the form of a new LiDAR suite that makes the sporty electric SUV capable of delivering “advanced L2” autonomy, navigation on autopilot (NOA), and automated parking. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Google brings back Android Dev Summit with Android 18 ‘powerful new graphics features’ tease",
-      "summary_en": "The Android Dev Summit is returning in 2026 after Google’s last focused developer conference in 2022. Additionally, the agenda comes with a mention of Android 18. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Android-Dev-Summit-2026.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/25/android-dev-summit-android-18/",
-      "published": "Fri, 25 Sep 2026 19:40:55 +0000",
-      "title_th": "Google brings back Android Dev Summit with Android 18 ‘powerful new graphics features’ tease",
-      "summary_th": "The Android Dev Summit is returning in 2026 after Google’s last focused developer conference in 2022. Additionally, the agenda comes with a mention of Android 18. more…"
+      "category": "ev",
+      "title_en": "Charge up your Christmas tree with this Hallmark Keepsake Daytona Scat Pack",
+      "summary_en": "The all-electric Dodge Charger Daytona may not have been a stunning sales success with either EV fans or the Mopar faithful, but that didn’t change the fact that it’s one of the most competent straight-line performance cars ever built – and now, Hallmark is making it easier than ever to park one under a Christmas tree. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/charger-tree.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/27/charge-up-your-christmas-tree-with-this-hallmark-keepsake-daytona-scat-pack/",
+      "published": "Sun, 27 Sep 2026 16:09:19 +0000",
+      "title_th": "Charge up your Christmas tree with this Hallmark Keepsake Daytona Scat Pack",
+      "summary_th": "The all-electric Dodge Charger Daytona may not have been a stunning sales success with either EV fans or the Mopar faithful, but that didn’t change the fact that it’s one of the most competent straight-line performance cars ever built – and now, Hallmark is making it easier than ever to park one under a Christmas tree. more…"
     },
     {
       "source": "Electrek",
@@ -577,30 +601,6 @@
       "published": "Sat, 26 Sep 2026 18:21:58 +0000",
       "title_th": "New Kempower charging deal powers up Canadian port operations",
       "summary_th": "The Finnish EV charging experts at Kempower are bringing high-speed electric vehicle charging infrastructure to all of Canada’s DP World Canadian terminal operations – and the first two sites are online NOW. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Renault 8 Gordini reborn as 270 hp electric rally retromobile",
-      "summary_en": "Renault has been dropping jaws with its all-electric retro redos in recent years , and someone over there has seem committed to keeping the party going with the launch of this all-new Renault Gordini 8 concept EV. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/renault-8-gordini-concept-2026.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/26/renault-8-gordini-reborn-as-270-hp-electric-rally-retromobile/",
-      "published": "Sat, 26 Sep 2026 12:58:45 +0000",
-      "title_th": "Renault 8 Gordini reborn as 270 hp electric rally retromobile",
-      "summary_th": "Renault has been dropping jaws with its all-electric retro redos in recent years , and someone over there has seem committed to keeping the party going with the launch of this all-new Renault Gordini 8 concept EV. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "JUNA puts more than 100 Scania electric semi trucks to work",
-      "summary_en": "You-know-who might be grabbing headlines by rolling a few trucks off the assembly line, but fleets overseas have been putting electric semi trucks to work for years – and shipping fleet JUNA just announced the deployment of its 110th (!) big BEV. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/juna_110.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/26/juna-puts-more-than-100-scania-electric-semi-trucks-to-work/",
-      "published": "Sat, 26 Sep 2026 11:55:52 +0000",
-      "title_th": "JUNA puts more than 100 Scania electric semi trucks to work",
-      "summary_th": "You-know-who might be grabbing headlines by rolling a few trucks off the assembly line, but fleets overseas have been putting electric semi trucks to work for years – and shipping fleet JUNA just announced the deployment of its 110th (!) big BEV. more…"
     }
   ],
   "indices": [
