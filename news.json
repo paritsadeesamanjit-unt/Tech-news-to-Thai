@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T02:23:04.189720+00:00",
+  "generated_at": "2026-09-28T09:19:38.891148+00:00",
   "count": 50,
   "articles": [
     {
@@ -65,6 +65,18 @@
     {
       "source": "The Verge",
       "flag": "US",
+      "category": "gadget",
+      "title_en": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery",
+      "summary_en": "Honor launches its new Magic 9 flagship phones in China today, and the 9 Pro Max features a design revamp, a capable camera, and a colossal battery. This is Honor's first flagship launch - Robot Phone aside - since it announced its collaboration with camera company Arri. The initial impact is twofold. The new camera […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/honor-magic-9-pro-3.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "link": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china",
+      "published": "2026-09-28T04:00:36-04:00",
+      "title_th": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery",
+      "summary_th": "Honor launches its new Magic 9 flagship phones in China today, and the 9 Pro Max features a design revamp, a capable camera, and a colossal battery. This is Honor's first flagship launch - Robot Phone aside - since it announced its collaboration with camera company Arri. The initial impact is twofold. The new camera […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
       "category": "software",
       "title_en": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
       "summary_en": "If you were to ask me what game or game series I've sunk the most time into, the answer would be easy: Out of the Park Baseball (OOTP). I have spent roughly 2,300 hours, according to Steam, playing various editions of the game. OOTP isn't like MLB The Show or Super Mega Baseball. It's not […]",
@@ -109,18 +121,6 @@
       "published": "2026-09-27T08:25:00-04:00",
       "title_th": "Why OLPC’s $100 laptop never stood a chance",
       "summary_th": "The idea was big, exciting, and inspiring: What if we could get every kid in the world access to a computer? For a bunch of thinkers and executives in Silicon Valley, it felt like the way to fix everything. But the One Laptop Per Child initiative, and the XO-1 laptop designed to be given away, […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Googlebooks might be the real deal",
-      "summary_en": "Hi, friends! Welcome to Installer No. 145, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm happy to be done traveling for a bit, and also you can read all the old editions at the Installer homepage.) This week, I flew to San Francisco to try out […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/installer_2eede2.jpg?quality=90&strip=all&crop=0%2C3.4168590960013%2C100%2C93.166281807997&w=1200",
-      "link": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse",
-      "published": "2026-09-27T08:00:00-04:00",
-      "title_th": "Googlebooks might be the real deal",
-      "summary_th": "Hi, friends! Welcome to Installer No. 145, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm happy to be done traveling for a bit, and also you can read all the old editions at the Installer homepage.) This week, I flew to San Francisco to try out […]"
     },
     {
       "source": "Ars Technica",
@@ -245,6 +245,18 @@
     {
       "source": "MIT Technology Review",
       "flag": "US",
+      "category": "review",
+      "title_en": "Who’s liable when AI agents go rogue?",
+      "summary_en": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_AIagentsGoingRogue.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "published": "Mon, 28 Sep 2026 08:06:22 +0000",
+      "title_th": "Who’s liable when AI agents go rogue?",
+      "summary_th": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents…"
+    },
+    {
+      "source": "MIT Technology Review",
+      "flag": "US",
       "category": "ai",
       "title_en": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
       "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next five years on an improved lie detector, according to…",
@@ -289,18 +301,6 @@
       "published": "Thu, 24 Sep 2026 12:10:00 +0000",
       "title_th": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
       "summary_th": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has announced plans to introduce legislation to terminate the surveillance tower program along…"
-    },
-    {
-      "source": "MIT Technology Review",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "AI is dominating the conversation at Climate Week",
-      "summary_en": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than usual. This year, the unavoidable topic is artificial intelligence.…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/AP26265505951804.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
-      "published": "Thu, 24 Sep 2026 10:00:00 +0000",
-      "title_th": "AI is dominating the conversation at Climate Week",
-      "summary_th": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than usual. This year, the unavoidable topic is artificial intelligence.…"
     },
     {
       "source": "Engadget",
@@ -664,10 +664,131 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 263.0,
-      "change": 8.0,
-      "change_pct": 3.14
+      "price": 258.0,
+      "change": -5.0,
+      "change_pct": -1.9
     }
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Xiaomi 18 Pro Max: They've Done It Again!",
+      "video_id": "DkUuOr21v4s",
+      "link": "https://www.youtube.com/watch?v=DkUuOr21v4s",
+      "thumbnail": "https://i1.ytimg.com/vi/DkUuOr21v4s/hqdefault.jpg",
+      "published": "2026-09-24T22:26:18+00:00",
+      "title_th": "Xiaomi 18 Pro Max: They've Done It Again!"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "The Apple Watch Has a Problem",
+      "video_id": "pOX1l1edBME",
+      "link": "https://www.youtube.com/watch?v=pOX1l1edBME",
+      "thumbnail": "https://i1.ytimg.com/vi/pOX1l1edBME/hqdefault.jpg",
+      "published": "2026-09-22T17:49:42+00:00",
+      "title_th": "The Apple Watch Has a Problem"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "iPhone 18 Pro Review: All About that Chip",
+      "video_id": "ohqxP8EEumo",
+      "link": "https://www.youtube.com/watch?v=ohqxP8EEumo",
+      "thumbnail": "https://i4.ytimg.com/vi/ohqxP8EEumo/hqdefault.jpg",
+      "published": "2026-09-16T12:01:27+00:00",
+      "title_th": "iPhone 18 Pro Review: All About that Chip"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "The 18 Pro Max Champion?",
+      "video_id": "IlAklYURF48",
+      "link": "https://www.youtube.com/shorts/IlAklYURF48",
+      "thumbnail": "https://i2.ytimg.com/vi/IlAklYURF48/hqdefault.jpg",
+      "published": "2026-09-25T15:27:12+00:00",
+      "title_th": "The 18 Pro Max Champion?"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "I Use This Every Night...",
+      "video_id": "iV_hs6Xft1E",
+      "link": "https://www.youtube.com/shorts/iV_hs6Xft1E",
+      "thumbnail": "https://i2.ytimg.com/vi/iV_hs6Xft1E/hqdefault.jpg",
+      "published": "2026-09-23T16:38:37+00:00",
+      "title_th": "I Use This Every Night..."
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "iPhone 18 Pro Max Unboxing: Worth the Upgrade?",
+      "video_id": "I6nYySJavMg",
+      "link": "https://www.youtube.com/watch?v=I6nYySJavMg",
+      "thumbnail": "https://i2.ytimg.com/vi/I6nYySJavMg/hqdefault.jpg",
+      "published": "2026-09-19T19:45:26+00:00",
+      "title_th": "iPhone 18 Pro Max Unboxing: Worth the Upgrade?"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "เกเร...แล้วไง ?",
+      "video_id": "gVfXgBprN6Y",
+      "link": "https://www.youtube.com/shorts/gVfXgBprN6Y",
+      "thumbnail": "https://i4.ytimg.com/vi/gVfXgBprN6Y/hqdefault.jpg",
+      "published": "2026-09-27T23:00:38+00:00",
+      "title_th": "เกเร...แล้วไง ?"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "'น้าเน็ก' ผมโง่มาก ที่เคยอยากตาย | หนุ่ยTalk and Chill",
+      "video_id": "po8ULBiB_IA",
+      "link": "https://www.youtube.com/watch?v=po8ULBiB_IA",
+      "thumbnail": "https://i1.ytimg.com/vi/po8ULBiB_IA/hqdefault.jpg",
+      "published": "2026-09-27T03:07:52+00:00",
+      "title_th": "'น้าเน็ก' ผมโง่มาก ที่เคยอยากตาย | หนุ่ยTalk and Chill"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "ไม้ตายสุดท้าย... \"ฝังเข็ม\"",
+      "video_id": "OT_qiJy0XJo",
+      "link": "https://www.youtube.com/shorts/OT_qiJy0XJo",
+      "thumbnail": "https://i4.ytimg.com/vi/OT_qiJy0XJo/hqdefault.jpg",
+      "published": "2026-09-26T23:00:30+00:00",
+      "title_th": "ไม้ตายสุดท้าย... \"ฝังเข็ม\""
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "ใครๆ ก็ใช้ชื่อ Pro Max เปิดตัวแล้ว vivo X500 Pro Max & Xiaomi 18 Pro Max #หิวข่าว",
+      "video_id": "04Ye2S0sQHE",
+      "link": "https://www.youtube.com/watch?v=04Ye2S0sQHE",
+      "thumbnail": "https://i1.ytimg.com/vi/04Ye2S0sQHE/hqdefault.jpg",
+      "published": "2026-09-26T13:00:14+00:00",
+      "title_th": "ใครๆ ก็ใช้ชื่อ Pro Max เปิดตัวแล้ว vivo X500 Pro Max & Xiaomi 18 Pro Max #หิวข่าว"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รีวิว vivo V80 Lite 5G มือถือแบตอึด 10,000 mAh ถึกทน IP69 คุ้มไหมในงบ 13,999 บาท",
+      "video_id": "IAniAPCqIr0",
+      "link": "https://www.youtube.com/watch?v=IAniAPCqIr0",
+      "thumbnail": "https://i2.ytimg.com/vi/IAniAPCqIr0/hqdefault.jpg",
+      "published": "2026-09-24T11:30:00+00:00",
+      "title_th": "รีวิว vivo V80 Lite 5G มือถือแบตอึด 10,000 mAh ถึกทน IP69 คุ้มไหมในงบ 13,999 บาท"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "ภาพสวยไม่ใช่แค่กล้อง แต่ชิปต้องทำถึง ! #Dimensity9600Pro #MediaTek  #vivoX500ProMax #OPPOFindX10Pro",
+      "video_id": "15kzaRVOn-U",
+      "link": "https://www.youtube.com/shorts/15kzaRVOn-U",
+      "thumbnail": "https://i2.ytimg.com/vi/15kzaRVOn-U/hqdefault.jpg",
+      "published": "2026-09-23T14:43:57+00:00",
+      "title_th": "ภาพสวยไม่ใช่แค่กล้อง แต่ชิปต้องทำถึง ! #Dimensity9600Pro #MediaTek  #vivoX500ProMax #OPPOFindX10Pro"
+    }
+  ]
 }
