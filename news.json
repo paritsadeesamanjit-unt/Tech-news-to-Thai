@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-28T23:00:20.380859+00:00",
+  "generated_at": "2026-09-29T03:09:54.536482+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "summary_en": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/rajan-anandan.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "published": "Tue, 29 Sep 2026 00:30:00 +0000",
+      "title_th": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "summary_th": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "OpenAI reportedly ditches model over safety concerns",
+      "summary_en": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "published": "Mon, 28 Sep 2026 23:39:20 +0000",
+      "title_th": "OpenAI reportedly ditches model over safety concerns",
+      "summary_th": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
+      "summary_en": "Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/Aurora-Launch-6-e1746107306339.jpg?resize=1200,886",
+      "link": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
+      "published": "Mon, 28 Sep 2026 22:58:35 +0000",
+      "title_th": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
+      "summary_th": "Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -25,42 +61,6 @@
       "published": "Mon, 28 Sep 2026 19:33:57 +0000",
       "title_th": "Shopify opens checkout to browser-based AI agents",
       "summary_th": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "ev",
-      "title_en": "Tesla delays Roadster 2 event again due to bad weather",
-      "summary_en": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/tesla-roadster-2.jpg?resize=1200,822",
-      "link": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
-      "published": "Mon, 28 Sep 2026 19:27:27 +0000",
-      "title_th": "Tesla delays Roadster 2 event again due to bad weather",
-      "summary_th": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "The AI boom took over Climate Week and not everyone is happy about it",
-      "summary_en": "Just like the rest of the U.S, data centers and AI are dividing climate tech founders and investors.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1126706015.jpg?resize=1200,856",
-      "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-      "published": "Mon, 28 Sep 2026 19:21:59 +0000",
-      "title_th": "The AI boom took over Climate Week and not everyone is happy about it",
-      "summary_th": "Just like the rest of the U.S, data centers and AI are dividing climate tech founders and investors."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Nvidia launches new platform for reining in rogue AI agents",
-      "summary_en": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to […]",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "published": "Mon, 28 Sep 2026 18:31:23 +0000",
-      "title_th": "Nvidia launches new platform for reining in rogue AI agents",
-      "summary_th": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to […]"
     },
     {
       "source": "The Verge",
@@ -306,6 +306,54 @@
       "source": "Engadget",
       "flag": "US",
       "category": "gadget",
+      "title_en": "How to get started with Shortcuts on your MacBook",
+      "summary_en": "Your Mac's Shortcuts app is a powerful way to automate tedious tasks, and you can now set up scripts using natural language.",
+      "image": "https://www.engadget.com/img/gallery/how-to-get-started-with-shortcuts-on-your-macbook/l-intro-1790363221.jpg",
+      "link": "https://www.engadget.com/2269315/how-to-use-macbook-shortcuts/",
+      "published": "Tue, 29 Sep 2026 00:30:00 +0000",
+      "title_th": "How to get started with Shortcuts on your MacBook",
+      "summary_th": "Your Mac's Shortcuts app is a powerful way to automate tedious tasks, and you can now set up scripts using natural language."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "The warning signs that your iPhone battery needs to be replaced",
+      "summary_en": "Your iPhone's battery doesn't have infinite longevity. Over time, it degrades, and you'll know that's happening when you see these signs.",
+      "image": "https://www.engadget.com/img/gallery/the-warning-signs-that-your-iphone-battery-needs-to-be-replaced/l-intro-1790359778.jpg",
+      "link": "https://www.engadget.com/2269219/warning-signs-replace-iphone-battery/",
+      "published": "Mon, 28 Sep 2026 23:30:00 +0000",
+      "title_th": "The warning signs that your iPhone battery needs to be replaced",
+      "summary_th": "Your iPhone's battery doesn't have infinite longevity. Over time, it degrades, and you'll know that's happening when you see these signs."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "How to improve your Android phone's battery life",
+      "summary_en": "Don't give up just yet on your Android. If the poor battery is your main complaint, give these usage and settings tips a try.",
+      "image": "https://www.engadget.com/img/gallery/how-to-improve-your-android-phones-battery-life/l-intro-1790358714.jpg",
+      "link": "https://www.engadget.com/2269187/android-phone-how-to-improve-battery-life/",
+      "published": "Mon, 28 Sep 2026 23:00:00 +0000",
+      "title_th": "How to improve your Android phone's battery life",
+      "summary_th": "Don't give up just yet on your Android. If the poor battery is your main complaint, give these usage and settings tips a try."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "California is banning public officials from making memecoins",
+      "summary_en": "The state has enacted several new rules around cryptocurrencies.",
+      "image": "https://www.engadget.com/img/gallery/california-is-banning-public-officials-from-making-memecoins/l-intro-1790635533.jpg",
+      "link": "https://www.engadget.com/2271475/california-is-banning-public-officials-from-making-memecoins/",
+      "published": "Mon, 28 Sep 2026 22:55:33 +0000",
+      "title_th": "California is banning public officials from making memecoins",
+      "summary_th": "The state has enacted several new rules around cryptocurrencies."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
       "title_en": "My iPhone hit 1,000 charge cycles — Here's how it's holding up",
       "summary_en": "I've had my iPhone 15 Pro Max for three years and have completed 1,000 battery charge cycles. Here's what the experience has been like.",
       "image": "https://www.engadget.com/img/gallery/my-iphone-hit-1000-charge-cycles-heres-how-its-holding-up/l-intro-1790354985.jpg",
@@ -313,54 +361,6 @@
       "published": "Mon, 28 Sep 2026 22:30:00 +0000",
       "title_th": "My iPhone hit 1,000 charge cycles — Here's how it's holding up",
       "summary_th": "I've had my iPhone 15 Pro Max for three years and have completed 1,000 battery charge cycles. Here's what the experience has been like."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "How to improve your FPS for better gaming (without buying new hardware)",
-      "summary_en": "Frame rates and graphical fidelity have an inverse relationship, so making your games look a little less beautiful runs them much better.",
-      "image": "https://www.engadget.com/img/gallery/how-to-improve-your-fps-for-better-gaming-without-buying-new-hardware/l-intro-1790352464.jpg",
-      "link": "https://www.engadget.com/2268998/how-to-improve-fps-better-gaming-no-new-hardware/",
-      "published": "Mon, 28 Sep 2026 22:00:00 +0000",
-      "title_th": "How to improve your FPS for better gaming (without buying new hardware)",
-      "summary_th": "Frame rates and graphical fidelity have an inverse relationship, so making your games look a little less beautiful runs them much better."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Google will support ChromeOS until 2034 as it shifts to Googlebook OS",
-      "summary_en": "Some recent Chromebook devices will be able to switch to the new operating system.",
-      "image": "https://www.engadget.com/img/gallery/google-will-support-chromeos-until-2034-as-it-shifts-to-googlebook-os/l-intro-1790624168.jpg",
-      "link": "https://www.engadget.com/2271249/google-will-support-chromeos-until-2034-as-it-shifts-to-googlebook-os/",
-      "published": "Mon, 28 Sep 2026 19:36:57 +0000",
-      "title_th": "Google will support ChromeOS until 2034 as it shifts to Googlebook OS",
-      "summary_th": "Some recent Chromebook devices will be able to switch to the new operating system."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Meta is starting an enterprise business to justify its massive AI spending",
-      "summary_en": "Meta wants to sell its AI products and services to other companies.",
-      "image": "https://www.engadget.com/img/gallery/meta-is-starting-an-enterprise-business-to-justify-its-massive-ai-spending/l-intro-1790620496.jpg",
-      "link": "https://www.engadget.com/2271136/meta-is-starting-an-enterprise-business-to-justify-its-massive-ai-spending/",
-      "published": "Mon, 28 Sep 2026 18:37:57 +0000",
-      "title_th": "Meta is starting an enterprise business to justify its massive AI spending",
-      "summary_th": "Meta wants to sell its AI products and services to other companies."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "This setting change can make your Android phone feel instantly faster",
-      "summary_en": "This easy Android tweak makes navigating your phone and switching apps feel almost immediate. And it's really easy to set up. Here's how.",
-      "image": "https://www.engadget.com/img/gallery/this-setting-change-can-make-your-android-phone-feel-instantly-faster/l-intro-1789400234.jpg",
-      "link": "https://www.engadget.com/2268945/simple-setting-change-make-android-phone-faster/",
-      "published": "Mon, 28 Sep 2026 18:00:00 +0000",
-      "title_th": "This setting change can make your Android phone feel instantly faster",
-      "summary_th": "This easy Android tweak makes navigating your phone and switching apps feel almost immediate. And it's really easy to set up. Here's how."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,42 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "Emmy wins and recent premieres help Apple TV reach highest weekly viewership ever",
+      "summary_en": "Deadline reports that Apple TV recently recorded its biggest week ever for viewership, fueled by its 29 Emmy wins and recent releases such as Ted Lasso and Mayday. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-intro-vibrant.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/28/emmy-wins-and-recent-premieres-help-apple-tv-reach-highest-weekly-viewership-ever/",
+      "published": "Tue, 29 Sep 2026 01:44:04 +0000",
+      "title_th": "Emmy wins and recent premieres help Apple TV reach highest weekly viewership ever",
+      "summary_th": "Deadline reports that Apple TV recently recorded its biggest week ever for viewership, fueled by its 29 Emmy wins and recent releases such as Ted Lasso and Mayday. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple and Amazon face renewed UK antitrust lawsuit",
+      "summary_en": "A UK tribunal has allowed part of a renewed antitrust lawsuit against Apple and Amazon to move forward, over allegations that the companies restricted competition for Apple and Beats products sold on Amazon. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/02/amazon-apple.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/28/apple-and-amazon-face-renewed-uk-antitrust-lawsuit/",
+      "published": "Tue, 29 Sep 2026 01:21:23 +0000",
+      "title_th": "Apple and Amazon face renewed UK antitrust lawsuit",
+      "summary_th": "A UK tribunal has allowed part of a renewed antitrust lawsuit against Apple and Amazon to move forward, over allegations that the companies restricted competition for Apple and Beats products sold on Amazon. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "This website lets you explore nearly 30 years of Apple product colors",
+      "summary_en": "The folks at sheets.works are back at it again, this time with an interactive archive of 341 Apple product colors spanning nearly three decades. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-in-colour.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/09/28/this-website-lets-you-explore-nearly-30-years-of-apple-product-colors/",
+      "published": "Tue, 29 Sep 2026 01:01:54 +0000",
+      "title_th": "This website lets you explore nearly 30 years of Apple product colors",
+      "summary_th": "The folks at sheets.works are back at it again, this time with an interactive archive of 341 Apple product colors spanning nearly three decades. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "watchOS 27.0.1 is now available for all compatible Apple Watch models",
       "summary_en": "Apple today expanded the availability of watchOS 27.0.1 to more Apple Watch models, following last week’s initial release for Apple Watch Series 12 and Apple Watch Ultra 4. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/watchOS-27-hero.jpg?quality=82&strip=all&resize=1200,628",
@@ -447,40 +483,40 @@
       "summary_th": "Shares in litigation funder Burford Capital jumped more than 9% today as a result of Apple’s $5.7 billion verdict over Taptic Engine patent infringement. Here are the details. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Siri AI is available on newer Apple devices only, here’s the full list",
-      "summary_en": "Siri AI is a major upgrade and highlight of iOS 27 and more. But only newer Apple devices support the overhauled Siri. Here’s the full list of Siri AI-compatible hardware across iPhone, iPad, Mac, Apple Watch, and Apple Vision Pro. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/28/siri-ai-is-available-on-newer-apple-devices-only-heres-the-full-list/",
-      "published": "Mon, 28 Sep 2026 19:43:11 +0000",
-      "title_th": "Siri AI is available on newer Apple devices only, here’s the full list",
-      "summary_th": "Siri AI is a major upgrade and highlight of iOS 27 and more. But only newer Apple devices support the overhauled Siri. Here’s the full list of Siri AI-compatible hardware across iPhone, iPad, Mac, Apple Watch, and Apple Vision Pro. more…"
+      "title_en": "Nothing Headphone (1) Pro are $399 with better hardware, ANC, and audio upgrades",
+      "summary_en": "Nothing is today introducing its new Headphone (1) Pro over-ear headphones which deliver hardware improvements, better ANC, and deeper control over how you can tune the final output. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/nothing-headphone-1-pro-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/28/nothing-headphone-1-pro-upgrades-price/",
+      "published": "Tue, 29 Sep 2026 01:00:00 +0000",
+      "title_th": "Nothing Headphone (1) Pro are $399 with better hardware, ANC, and audio upgrades",
+      "summary_th": "Nothing is today introducing its new Headphone (1) Pro over-ear headphones which deliver hardware improvements, better ANC, and deeper control over how you can tune the final output. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "iPhone Duo accessories: Here are five top picks for Apple’s foldable",
-      "summary_en": "iPhone Duo will be here soon , so if you want to get a head start on accessories for Apple’s new model, here are our top recommendations. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/28/iphone-duo-accessories-here-are-five-top-picks-for-apples-foldable/",
-      "published": "Mon, 28 Sep 2026 19:24:26 +0000",
-      "title_th": "iPhone Duo accessories: Here are five top picks for Apple’s foldable",
-      "summary_th": "iPhone Duo will be here soon , so if you want to get a head start on accessories for Apple’s new model, here are our top recommendations. more…"
+      "title_en": "OpenAI cancels GPT-6.1 Astra release over misbehavior & safety concerns",
+      "summary_en": "OpenAI has scrapped plans to release GPT-6.1 Astra in the next few weeks over concerns that the model is misbehaving. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/gpt-6-astra.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/28/openai-cancels-gpt-6-1-astra-release-over-misbehavior-safety-concerns/",
+      "published": "Mon, 28 Sep 2026 23:00:00 +0000",
+      "title_th": "OpenAI cancels GPT-6.1 Astra release over misbehavior & safety concerns",
+      "summary_th": "OpenAI has scrapped plans to release GPT-6.1 Astra in the next few weeks over concerns that the model is misbehaving. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Watch Elton John give the first-ever performance at Apple Music Hall",
-      "summary_en": "Elton John took the stage today for the inaugural concert at Apple Music Hall in London, with Apple Music subscribers able to watch the performance live. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/elton-john-apple-music-hall.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/09/28/watch-elton-john-give-the-first-ever-performance-at-apple-music-hall/",
-      "published": "Mon, 28 Sep 2026 19:17:47 +0000",
-      "title_th": "Watch Elton John give the first-ever performance at Apple Music Hall",
-      "summary_th": "Elton John took the stage today for the inaugural concert at Apple Music Hall in London, with Apple Music subscribers able to watch the performance live. more…"
+      "title_en": "Gemini app adding Google Wallet integration for ‘personalized insights’",
+      "summary_en": "The latest Gemini Connected App is Google Wallet for “information and personalized insights based on your saved info.” more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/03/google-wallet-logo-circle-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/09/28/google-wallet-gemini-app/",
+      "published": "Mon, 28 Sep 2026 22:47:10 +0000",
+      "title_th": "Gemini app adding Google Wallet integration for ‘personalized insights’",
+      "summary_th": "The latest Gemini Connected App is Google Wallet for “information and personalized insights based on your saved info.” more…"
     },
     {
       "source": "9to5Google",
@@ -507,40 +543,16 @@
       "summary_th": "At the start of September , the Google Assistant deprecation on mobile got underway. It now looks to be widely rolling out. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Gemini app starts rolling out big side panel simplification, settings redesign",
-      "summary_en": "The next big update to the Gemini app on Android and iOS is beginning to roll out with a focus on simplifying core navigation. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/28/gemini-side-panel-settings-redesign/",
-      "published": "Mon, 28 Sep 2026 19:38:29 +0000",
-      "title_th": "Gemini app starts rolling out big side panel simplification, settings redesign",
-      "summary_th": "The next big update to the Gemini app on Android and iOS is beginning to roll out with a focus on simplifying core navigation. more…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Even Google Search agrees that ‘Googlebook’ wasn’t a very good name choice",
-      "summary_en": "“Googlebook” is a weird name, right? That was my personal first takeaway from this new platform, and it seems even Google Search supports the idea that Google should have used something else, as you can’t actually search for “Googlebook” without getting redirected elsewhere. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Googlebook-logo.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/09/28/even-google-search-agrees-that-googlebook-wasnt-a-very-good-name-choice/",
-      "published": "Mon, 28 Sep 2026 18:25:00 +0000",
-      "title_th": "Even Google Search agrees that ‘Googlebook’ wasn’t a very good name choice",
-      "summary_th": "“Googlebook” is a weird name, right? That was my personal first takeaway from this new platform, and it seems even Google Search supports the idea that Google should have used something else, as you can’t actually search for “Googlebook” without getting redirected elsewhere. more…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Monday’s Android app deals and freebies: Last Game, Sands of Salzaar, Tokyo Debunker, more",
-      "summary_en": "Today’s best Google Play app and game deals are ready, including The Last Game, Sands of Salzaar, Candleman, Tokyo Debunker: Urban Legends, Slime Legends – Survivor, Hero of the Kingdom II, Legacy 4 – Tomb of Secrets, Empire of the Gods, and more. Just be sure to check out today’s Galaxy Z Fold 8 deals at up to $530 off as well as the new all-time low on Lenovo’s latest Tab Plus Gen 2 . Monday’s app deals await below. more…",
-      "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/09/Google-Play-collage-f4a04d.webp?resize=1200,628",
-      "link": "https://9to5toys.com/2026/09/28/todays-highlight-google-play-deals-16/",
-      "published": "Mon, 28 Sep 2026 17:50:44 +0000",
-      "title_th": "Monday’s Android app deals and freebies: Last Game, Sands of Salzaar, Tokyo Debunker, more",
-      "summary_th": "Today’s best Google Play app and game deals are ready, including The Last Game, Sands of Salzaar, Candleman, Tokyo Debunker: Urban Legends, Slime Legends – Survivor, Hero of the Kingdom II, Legacy 4 – Tomb of Secrets, Empire of the Gods, and more. Just be sure to check out today’s Galaxy Z Fold 8 deals at up to $530 off as well as the new all-time low on Lenovo’s latest Tab Plus Gen 2 . Monday’s app deals await below. more…"
+      "category": "ev",
+      "title_en": "Tesla’s two week notice, Volvo’s autonomous milestone, and fun with LEGO",
+      "summary_en": "On today’s completely predictable episode of Quick Charge , Tesla CEO Elon Musk says the weather looks like it’ll be too rough to show off his new “flying” Roadster 2.0 on October 1st, so he’s pushing the reveal back another two weeks – but after 9 years of moving goal posts and broken promises, what’s a few more weeks? more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/elon-turkey.png?resize=1200,628",
+      "link": "https://electrek.co/2026/09/28/teslas-two-week-notice-volvos-autonomous-milestone-and-fun-with-lego/",
+      "published": "Tue, 29 Sep 2026 00:20:13 +0000",
+      "title_th": "Tesla’s two week notice, Volvo’s autonomous milestone, and fun with LEGO",
+      "summary_th": "On today’s completely predictable episode of Quick Charge , Tesla CEO Elon Musk says the weather looks like it’ll be too rough to show off his new “flying” Roadster 2.0 on October 1st, so he’s pushing the reveal back another two weeks – but after 9 years of moving goal posts and broken promises, what’s a few more weeks? more…"
     },
     {
       "source": "Electrek",
@@ -589,18 +601,6 @@
       "published": "Mon, 28 Sep 2026 19:25:33 +0000",
       "title_th": "EIA: 83 GW of renewables and storage coming in 12 months as fossil fuel capacity to fall",
       "summary_th": "Renewables and battery storage are projected to add about 82.7 gigawatts (GW) of new generating capacity in the US in the next 12 months, while total fossil fuel and nuclear power capacity will fall by more than 1.4 GW, according to new data released by the US Energy Information Administration (EIA), and reviewed by the SUN DAY Campaign. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Tesla delays Roadster demo two weeks to October 15, blames weather",
-      "summary_en": "Tesla has officially pushed its Roadster demo from October 1 to October 15, blaming “severe conditions” in the forecast for central Texas. It’s the latest in a long line of delays for the next-gen Roadster, and this one moves the event back two full weeks for what Tesla describes as a weather problem. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-new-Roadster-concept-based-on-trademark-silhoutte.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/28/tesla-roadster-demo-delayed-october-15-weather/",
-      "published": "Mon, 28 Sep 2026 19:22:58 +0000",
-      "title_th": "Tesla delays Roadster demo two weeks to October 15, blames weather",
-      "summary_th": "Tesla has officially pushed its Roadster demo from October 1 to October 15, blaming “severe conditions” in the forecast for central Texas. It’s the latest in a long line of delays for the next-gen Roadster, and this one moves the event back two full weeks for what Tesla describes as a weather problem. more…"
     }
   ],
   "indices": [
@@ -669,126 +669,5 @@
       "change_pct": -1.52
     }
   ],
-  "reviews": [
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "Xiaomi 18 Pro Max: They've Done It Again!",
-      "video_id": "DkUuOr21v4s",
-      "link": "https://www.youtube.com/watch?v=DkUuOr21v4s",
-      "thumbnail": "https://i1.ytimg.com/vi/DkUuOr21v4s/hqdefault.jpg",
-      "published": "2026-09-24T22:26:18+00:00",
-      "title_th": "Xiaomi 18 Pro Max: They've Done It Again!"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "The Apple Watch Has a Problem",
-      "video_id": "pOX1l1edBME",
-      "link": "https://www.youtube.com/watch?v=pOX1l1edBME",
-      "thumbnail": "https://i1.ytimg.com/vi/pOX1l1edBME/hqdefault.jpg",
-      "published": "2026-09-22T17:49:42+00:00",
-      "title_th": "The Apple Watch Has a Problem"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "iPhone 18 Pro Review: All About that Chip",
-      "video_id": "ohqxP8EEumo",
-      "link": "https://www.youtube.com/watch?v=ohqxP8EEumo",
-      "thumbnail": "https://i4.ytimg.com/vi/ohqxP8EEumo/hqdefault.jpg",
-      "published": "2026-09-16T12:01:27+00:00",
-      "title_th": "iPhone 18 Pro Review: All About that Chip"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "The 18 Pro Max Champion?",
-      "video_id": "IlAklYURF48",
-      "link": "https://www.youtube.com/shorts/IlAklYURF48",
-      "thumbnail": "https://i2.ytimg.com/vi/IlAklYURF48/hqdefault.jpg",
-      "published": "2026-09-25T15:27:12+00:00",
-      "title_th": "The 18 Pro Max Champion?"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "I Use This Every Night...",
-      "video_id": "iV_hs6Xft1E",
-      "link": "https://www.youtube.com/shorts/iV_hs6Xft1E",
-      "thumbnail": "https://i2.ytimg.com/vi/iV_hs6Xft1E/hqdefault.jpg",
-      "published": "2026-09-23T16:38:37+00:00",
-      "title_th": "I Use This Every Night..."
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "iPhone 18 Pro Max Unboxing: Worth the Upgrade?",
-      "video_id": "I6nYySJavMg",
-      "link": "https://www.youtube.com/watch?v=I6nYySJavMg",
-      "thumbnail": "https://i2.ytimg.com/vi/I6nYySJavMg/hqdefault.jpg",
-      "published": "2026-09-19T19:45:26+00:00",
-      "title_th": "iPhone 18 Pro Max Unboxing: Worth the Upgrade?"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "เกเร...แล้วไง ?",
-      "video_id": "gVfXgBprN6Y",
-      "link": "https://www.youtube.com/shorts/gVfXgBprN6Y",
-      "thumbnail": "https://i4.ytimg.com/vi/gVfXgBprN6Y/hqdefault.jpg",
-      "published": "2026-09-27T23:00:38+00:00",
-      "title_th": "เกเร...แล้วไง ?"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "'น้าเน็ก' ผมโง่มาก ที่เคยอยากตาย | หนุ่ยTalk and Chill",
-      "video_id": "po8ULBiB_IA",
-      "link": "https://www.youtube.com/watch?v=po8ULBiB_IA",
-      "thumbnail": "https://i1.ytimg.com/vi/po8ULBiB_IA/hqdefault.jpg",
-      "published": "2026-09-27T03:07:52+00:00",
-      "title_th": "'น้าเน็ก' ผมโง่มาก ที่เคยอยากตาย | หนุ่ยTalk and Chill"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "ไม้ตายสุดท้าย... \"ฝังเข็ม\"",
-      "video_id": "OT_qiJy0XJo",
-      "link": "https://www.youtube.com/shorts/OT_qiJy0XJo",
-      "thumbnail": "https://i4.ytimg.com/vi/OT_qiJy0XJo/hqdefault.jpg",
-      "published": "2026-09-26T23:00:30+00:00",
-      "title_th": "ไม้ตายสุดท้าย... \"ฝังเข็ม\""
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "มือถือแบตยิ่งอึดขึ้นไปอีก vivo V80 Lite แบต 10,000mAh ทนน้ำฝุ่นโหดๆ #vivoV80Lite #แบตหมื่นอึดเกินคาด",
-      "video_id": "XL2VIzpQ0V0",
-      "link": "https://www.youtube.com/shorts/XL2VIzpQ0V0",
-      "thumbnail": "https://i1.ytimg.com/vi/XL2VIzpQ0V0/hqdefault.jpg",
-      "published": "2026-09-28T14:30:48+00:00",
-      "title_th": "มือถือแบตยิ่งอึดขึ้นไปอีก vivo V80 Lite แบต 10,000mAh ทนน้ำฝุ่นโหดๆ #vivoV80Lite #แบตหมื่นอึดเกินคาด"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "รีวิว OPPO A7 Pro 5G มือถือแบตอึด 8,000mAh ถึกทน IP69K กล้องหน้ากว้าง 50MP ! ได้ RAM 8GB ด้วย",
-      "video_id": "OP4pWuh7RnM",
-      "link": "https://www.youtube.com/watch?v=OP4pWuh7RnM",
-      "thumbnail": "https://i4.ytimg.com/vi/OP4pWuh7RnM/hqdefault.jpg",
-      "published": "2026-09-28T13:00:10+00:00",
-      "title_th": "รีวิว OPPO A7 Pro 5G มือถือแบตอึด 8,000mAh ถึกทน IP69K กล้องหน้ากว้าง 50MP ! ได้ RAM 8GB ด้วย"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "ใครๆ ก็ใช้ชื่อ Pro Max เปิดตัวแล้ว vivo X500 Pro Max & Xiaomi 18 Pro Max #หิวข่าว",
-      "video_id": "04Ye2S0sQHE",
-      "link": "https://www.youtube.com/watch?v=04Ye2S0sQHE",
-      "thumbnail": "https://i1.ytimg.com/vi/04Ye2S0sQHE/hqdefault.jpg",
-      "published": "2026-09-26T13:00:14+00:00",
-      "title_th": "ใครๆ ก็ใช้ชื่อ Pro Max เปิดตัวแล้ว vivo X500 Pro Max & Xiaomi 18 Pro Max #หิวข่าว"
-    }
-  ]
+  "reviews": []
 }
