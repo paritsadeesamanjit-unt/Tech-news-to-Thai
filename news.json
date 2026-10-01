@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T02:53:09.073933+00:00",
+  "generated_at": "2026-10-01T09:47:51.464291+00:00",
   "count": 50,
   "articles": [
     {
@@ -65,6 +65,18 @@
     {
       "source": "The Verge",
       "flag": "US",
+      "category": "software",
+      "title_en": "Noise from Universal’s latest ride made rich locals furious, fast",
+      "summary_en": "Universal Studios Hollywood has pledged to erect another sound barrier around its latest attraction after local residents complained about the bloodcurdling screams from riders. In a meeting attended by at least 350 people yesterday, park execs also promised that Fast & Furious: Hollywood Drift won't operate between 8AM and 9AM for the rest of the […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2295022328.jpg?quality=90&strip=all&crop=0%2C10.738315863554%2C100%2C78.523368272891&w=1200",
+      "link": "https://www.theverge.com/entertainment/1003182/universal-hollywood-fast-and-furious-rollercoaster-noise",
+      "published": "2026-10-01T05:00:04-04:00",
+      "title_th": "Noise from Universal’s latest ride made rich locals furious, fast",
+      "summary_th": "Universal Studios Hollywood has pledged to erect another sound barrier around its latest attraction after local residents complained about the bloodcurdling screams from riders. In a meeting attended by at least 350 people yesterday, park execs also promised that Fast & Furious: Hollywood Drift won't operate between 8AM and 9AM for the rest of the […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
       "category": "gadget",
       "title_en": "Vivo’s X Fold 6 accidentally feels like a throwback",
       "summary_en": "It's a quirk of the release calendar that when Vivo's X Fold 6 launched in China this June, it was just another foldable. Now that it's ready for its global release, the size and aspect ratio feel oddly old-fashioned. The X Fold 6 is much the same size as Vivo's previous foldables, and most other […]",
@@ -109,18 +121,6 @@
       "published": "2026-09-30T16:45:00-04:00",
       "title_th": "Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie",
       "summary_th": "A24 pissed off one of the internet's largest horror communities when it announced it was working on an SCP Foundation film, but apparently hadn't bothered to contact the SCP Wiki team, nor did it commit to releasing it under a Creative Commons license as required. Seeing an easy PR win, Neon is cashing in by […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-      "summary_en": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-      "published": "2026-09-30T16:41:41-04:00",
-      "title_th": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-      "summary_th": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at […]"
     },
     {
       "source": "Ars Technica",
@@ -186,61 +186,61 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "The White House Is Starting to Panic Over the Midterms",
-      "summary_en": "President Donald Trump still thinks Republicans have a shot. His aides are less convinced.",
-      "image": "https://media.wired.com/photos/6abbfbe5422fade848ea97c7/master/pass/politics_republicans_midterms_panic.jpg",
-      "link": "https://www.wired.com/story/the-white-house-is-starting-to-panic-over-the-midterms/",
-      "published": "Wed, 30 Sep 2026 21:00:00 +0000",
-      "title_th": "The White House Is Starting to Panic Over the Midterms",
-      "summary_th": "President Donald Trump still thinks Republicans have a shot. His aides are less convinced."
+      "title_en": "Casio’s Crystal G-Shock Is the Most Expensive Ever Made",
+      "summary_en": "Meet the full-blue sapphire MRG-D5000, a crazy G-Shock that costs more than a Patek Philippe or Porsche Macan.",
+      "image": "https://media.wired.com/photos/6abcfb33fa5c632be0bf2f8d/master/pass/093026_Most-Expensive-G-SHOCK.jpg",
+      "link": "https://www.wired.com/story/casio-crystal-g-shock-is-the-most-expensive-ever-made/",
+      "published": "Thu, 01 Oct 2026 09:00:00 +0000",
+      "title_th": "Casio’s Crystal G-Shock Is the Most Expensive Ever Made",
+      "summary_th": "Meet the full-blue sapphire MRG-D5000, a crazy G-Shock that costs more than a Patek Philippe or Porsche Macan."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Dell Coupon Codes: 20% Off for October 2026",
+      "summary_en": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
+      "image": "https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg",
+      "link": "https://www.wired.com/story/dell-coupon-code/",
+      "published": "Thu, 01 Oct 2026 05:00:00 +0000",
+      "title_th": "Dell Coupon Codes: 20% Off for October 2026",
+      "summary_th": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
-      "summary_en": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
-      "image": "https://media.wired.com/photos/6abd59726a04d6e6fe37da5a/master/pass/093026-ai-regulations.jpg",
-      "link": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
-      "published": "Wed, 30 Sep 2026 20:30:09 +0000",
-      "title_th": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
-      "summary_th": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters."
+      "title_en": "Mountain Hardwear Coupon Code 15% Off October",
+      "summary_en": "High-performance mountaineering and hiking apparel doesn't have to break the bank.",
+      "image": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg",
+      "link": "https://www.wired.com/story/mountain-hardwear-promo-codes/",
+      "published": "Thu, 01 Oct 2026 05:00:00 +0000",
+      "title_th": "Mountain Hardwear Coupon Code 15% Off October",
+      "summary_th": "High-performance mountaineering and hiking apparel doesn't have to break the bank."
     },
     {
       "source": "Wired",
       "flag": "US",
-      "category": "ai",
-      "title_en": "The Battle to Be Your Personal AI Agent Is Here",
-      "summary_en": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too.",
-      "image": "https://media.wired.com/photos/6abc30af03c559dbc086f308/master/pass/AI-Lab-AI-Agent-War-Business.jpg",
-      "link": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
-      "published": "Wed, 30 Sep 2026 19:30:00 +0000",
-      "title_th": "The Battle to Be Your Personal AI Agent Is Here",
-      "summary_th": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too."
+      "category": "gadget",
+      "title_en": "Newegg Promo Codes and Coupons for October 2026",
+      "summary_en": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
+      "image": "https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg",
+      "link": "https://www.wired.com/story/newegg-promo-code/",
+      "published": "Thu, 01 Oct 2026 05:00:00 +0000",
+      "title_th": "Newegg Promo Codes and Coupons for October 2026",
+      "summary_th": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts."
     },
     {
       "source": "Wired",
       "flag": "US",
-      "category": "ai",
-      "title_en": "Furry Airline Pilots Are Just Minding Their Own Business",
-      "summary_en": "“We’re furries at home, and we’re airline pilots at work, and these are two separate things,” says one member of the community in response to senator Tommy Tuberville's recent rant.",
-      "image": "https://media.wired.com/photos/6abbb04db96cb58163524730/master/pass/092926-Pilots%20are%20furries.jpg",
-      "link": "https://www.wired.com/story/furry-airline-pilots-are-just-minding-their-own-business/",
-      "published": "Wed, 30 Sep 2026 19:09:57 +0000",
-      "title_th": "Furry Airline Pilots Are Just Minding Their Own Business",
-      "summary_th": "“We’re furries at home, and we’re airline pilots at work, and these are two separate things,” says one member of the community in response to senator Tommy Tuberville's recent rant."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
-      "summary_en": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events.",
-      "image": "https://media.wired.com/photos/6abc561adcf8a088a1995737/master/pass/science_biological_weapons_ai.jpg",
-      "link": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
-      "published": "Wed, 30 Sep 2026 19:00:00 +0000",
-      "title_th": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
-      "summary_th": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events."
+      "category": "gadget",
+      "title_en": "20% Off Samsung Promo Code | October 2026",
+      "summary_en": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
+      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
+      "link": "https://www.wired.com/story/samsung-promo-codes/",
+      "published": "Thu, 01 Oct 2026 05:00:00 +0000",
+      "title_th": "20% Off Samsung Promo Code | October 2026",
+      "summary_th": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25."
     },
     {
       "source": "MIT Technology Review",
@@ -305,6 +305,30 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "chip",
+      "title_en": "California's new law bans companies from relying on AI to fire workers",
+      "summary_en": "California enacts new laws aimed at companies using AI to initiate job cuts or monitor employees.",
+      "image": "https://www.engadget.com/img/gallery/california-law-bans-companies-from-relying-on-ai-to-fire-workers/l-intro-1790845225.jpg",
+      "link": "https://www.engadget.com/2274224/california-law-bans-companies-from-relying-on-ai-to-fire-workers/",
+      "published": "Thu, 01 Oct 2026 07:36:44 +0000",
+      "title_th": "California's new law bans companies from relying on AI to fire workers",
+      "summary_th": "California enacts new laws aimed at companies using AI to initiate job cuts or monitor employees."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Apple TV is down",
+      "summary_en": "Several Apple services went down for maintenance on the afternoon of September 30. Only Apple TV remains inaccessible.",
+      "image": "https://www.engadget.com/img/gallery/apple-tv-is-down/l-intro-1790828458.jpg",
+      "link": "https://www.engadget.com/2274184/apple-tv-is-down/",
+      "published": "Thu, 01 Oct 2026 04:22:21 +0000",
+      "title_th": "Apple TV is down",
+      "summary_th": "Several Apple services went down for maintenance on the afternoon of September 30. Only Apple TV remains inaccessible."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "gadget",
       "title_en": "How to watch NASA's Crew-13 launch",
       "summary_en": "How to watch NASA's Crew-13 launch",
@@ -337,30 +361,6 @@
       "published": "Wed, 30 Sep 2026 18:37:29 +0000",
       "title_th": "Breville's new $600 coffee machine makes pour-overs from scratch",
       "summary_th": "You do still have to buy the beans though."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "An Analogue Pocket restock is coming October 2",
-      "summary_en": "It's sure to sell out fast again.",
-      "image": "https://www.engadget.com/img/gallery/an-analogue-pocket-restock-is-coming-october-2/l-intro-1790787523.jpg",
-      "link": "https://www.engadget.com/2273526/an-analogue-pocket-restock-is-coming-october-2/",
-      "published": "Wed, 30 Sep 2026 16:59:39 +0000",
-      "title_th": "An Analogue Pocket restock is coming October 2",
-      "summary_th": "It's sure to sell out fast again."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Xbox's disc-to-digital feature is now available for everyone",
-      "summary_en": "Many (if not all) Xbox Series X and Xbox One games are supported.",
-      "image": "https://www.engadget.com/img/gallery/xboxs-disc-to-digital-feature-is-now-available-for-everyone/l-intro-1790784009.jpg",
-      "link": "https://www.engadget.com/2273385/xboxs-disc-to-digital-feature-is-now-available-for-everyone/",
-      "published": "Wed, 30 Sep 2026 16:07:24 +0000",
-      "title_th": "Xbox's disc-to-digital feature is now available for everyone",
-      "summary_th": "Many (if not all) Xbox Series X and Xbox One games are supported."
     },
     {
       "source": "IEEE Spectrum",
@@ -546,6 +546,30 @@
       "source": "Electrek",
       "flag": "",
       "category": "ev",
+      "title_en": "Tesla upgrades China Model 3 with 16-inch screen and V2L, US left out",
+      "summary_en": "Tesla China is upgrading every Model 3 it sells with a larger 16-inch touchscreen and a new light gray interior option, and it’s turning on up to 2.2 kW of AC power export across its entire Model 3 and Model Y lineup in the country. The US Model 3 gets none of it. Tesla’s American Model 3 still has a 15.4-inch display, and it’s shut out of the vehicle-to-load feature Tesla launched stateside in August. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/tesla-model-3-china-update-featured.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/30/tesla-model-3-china-16-inch-screen-v2l-us/",
+      "published": "Thu, 01 Oct 2026 04:49:34 +0000",
+      "title_th": "Tesla upgrades China Model 3 with 16-inch screen and V2L, US left out",
+      "summary_th": "Tesla China is upgrading every Model 3 it sells with a larger 16-inch touchscreen and a new light gray interior option, and it’s turning on up to 2.2 kW of AC power export across its entire Model 3 and Model Y lineup in the country. The US Model 3 gets none of it. Tesla’s American Model 3 still has a 15.4-inch display, and it’s shut out of the vehicle-to-load feature Tesla launched stateside in August. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "NIO (NIO) Q3 deliveries rise 25%, but September growth slows to 7.7%",
+      "summary_en": "NIO delivered 109,178 electric vehicles in the third quarter of 2026, a 25.4% increase over last year and right inside the 108,000 to 111,000 range it guided for in September. But the quarter ended on a weak note. September deliveries grew just 7.7% year-over-year to 37,408 units, the slowest pace of 2026, as the ONVO brand fell 43%. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/05/Flagship-Executive-SUV-NIO-ES9-Launched-e1779899073369.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/09/30/nio-q3-2026-deliveries-september-growth-slows-onvo/",
+      "published": "Thu, 01 Oct 2026 04:43:53 +0000",
+      "title_th": "NIO (NIO) Q3 deliveries rise 25%, but September growth slows to 7.7%",
+      "summary_th": "NIO delivered 109,178 electric vehicles in the third quarter of 2026, a 25.4% increase over last year and right inside the 108,000 to 111,000 range it guided for in September. But the quarter ended on a weak note. September deliveries grew just 7.7% year-over-year to 37,408 units, the slowest pace of 2026, as the ONVO brand fell 43%. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
       "title_en": "Chicago Metra calls its new battery-electric locomotive a first of its kind",
       "summary_en": "Metra’s diesel-engined commuter trains are familiar sights in and around Chicago, and so is the smell of spent diesel that surrounds them – but a new battery-electric FLIRT locomotive from Stadler is about to change all that, and it’s set to arrive this week . more…",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/lasalle_metra.jpg?quality=82&strip=all&resize=1200,628",
@@ -577,30 +601,6 @@
       "published": "Wed, 30 Sep 2026 20:56:09 +0000",
       "title_th": "Ford’s $30,000 Fathom EV pickup production launch faces uncertainty",
       "summary_th": "The Ford Fathom is expected to go on sale in early 2027, starting at $28,350. Ford CEO Jim Farley admitted, “It’s going to be a heck of an effort to launch this at scale, at cost, on time.” more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Toyota dropped a 1,675 lb caravan on its electric truck, and it drove off unfazed [Video]",
-      "summary_en": "Toyota tried crushing its new electric truck with a 1,675-pound caravan to prove it’s still “the world’s toughest pick-up,” and it drove off as if nothing had happened. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Toyota-EV-pickup-caravan-drop-video.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/30/toyota-dropped-1675-lb-caravan-on-ev-truck-video/",
-      "published": "Wed, 30 Sep 2026 19:45:04 +0000",
-      "title_th": "Toyota dropped a 1,675 lb caravan on its electric truck, and it drove off unfazed [Video]",
-      "summary_th": "Toyota tried crushing its new electric truck with a 1,675-pound caravan to prove it’s still “the world’s toughest pick-up,” and it drove off as if nothing had happened. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "BYD’s cheapest EV is getting bigger and fancier",
-      "summary_en": "BYD is giving its $10,000 EV a major overhaul. New images of the second-gen Seagull reveal a larger, more upscale design with a few surprise luxury features. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/BYD-new-Seagull-EV-interior-space.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/09/30/byds-cheapest-ev-getting-bigger-fancier/",
-      "published": "Wed, 30 Sep 2026 18:04:51 +0000",
-      "title_th": "BYD’s cheapest EV is getting bigger and fancier",
-      "summary_th": "BYD is giving its $10,000 EV a major overhaul. New images of the second-gen Seagull reveal a larger, more upscale design with a few surprise luxury features. more…"
     }
   ],
   "indices": [
@@ -664,10 +664,131 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 258.0,
-      "change": -4.0,
-      "change_pct": -1.53
+      "price": 260.0,
+      "change": 2.0,
+      "change_pct": 0.78
     }
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Dear YouTube!",
+      "video_id": "e1q-TuHdc4Y",
+      "link": "https://www.youtube.com/watch?v=e1q-TuHdc4Y",
+      "thumbnail": "https://i2.ytimg.com/vi/e1q-TuHdc4Y/hqdefault.jpg",
+      "published": "2026-09-30T14:42:19+00:00",
+      "title_th": "Dear YouTube!"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Nothing Headphone 1 Pro: They Copied the Wrong Thing!",
+      "video_id": "rayrrXot17M",
+      "link": "https://www.youtube.com/watch?v=rayrrXot17M",
+      "thumbnail": "https://i3.ytimg.com/vi/rayrrXot17M/hqdefault.jpg",
+      "published": "2026-09-29T01:01:35+00:00",
+      "title_th": "Nothing Headphone 1 Pro: They Copied the Wrong Thing!"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Xiaomi 18 Pro Max: They've Done It Again!",
+      "video_id": "DkUuOr21v4s",
+      "link": "https://www.youtube.com/watch?v=DkUuOr21v4s",
+      "thumbnail": "https://i1.ytimg.com/vi/DkUuOr21v4s/hqdefault.jpg",
+      "published": "2026-09-24T22:26:18+00:00",
+      "title_th": "Xiaomi 18 Pro Max: They've Done It Again!"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Mini LED RGB Baby...",
+      "video_id": "5Qr4sKLLP4o",
+      "link": "https://www.youtube.com/shorts/5Qr4sKLLP4o",
+      "thumbnail": "https://i2.ytimg.com/vi/5Qr4sKLLP4o/hqdefault.jpg",
+      "published": "2026-09-29T16:09:38+00:00",
+      "title_th": "Mini LED RGB Baby..."
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "The 18 Pro Max Champion?",
+      "video_id": "IlAklYURF48",
+      "link": "https://www.youtube.com/shorts/IlAklYURF48",
+      "thumbnail": "https://i2.ytimg.com/vi/IlAklYURF48/hqdefault.jpg",
+      "published": "2026-09-25T15:27:12+00:00",
+      "title_th": "The 18 Pro Max Champion?"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "I Use This Every Night...",
+      "video_id": "iV_hs6Xft1E",
+      "link": "https://www.youtube.com/shorts/iV_hs6Xft1E",
+      "thumbnail": "https://i2.ytimg.com/vi/iV_hs6Xft1E/hqdefault.jpg",
+      "published": "2026-09-23T16:38:37+00:00",
+      "title_th": "I Use This Every Night..."
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "DNA File รหัสลับของชีวิต EP. 4 รหัสที่เปลี่ยนแผนที่โลก",
+      "video_id": "4X8N5xL4Edc",
+      "link": "https://www.youtube.com/watch?v=4X8N5xL4Edc",
+      "thumbnail": "https://i1.ytimg.com/vi/4X8N5xL4Edc/hqdefault.jpg",
+      "published": "2026-10-01T09:00:30+00:00",
+      "title_th": "DNA File รหัสลับของชีวิต EP. 4 รหัสที่เปลี่ยนแผนที่โลก"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "โดนถอนวีซ่าเพราะเหตุนี้",
+      "video_id": "zmeLRhIZIb4",
+      "link": "https://www.youtube.com/shorts/zmeLRhIZIb4",
+      "thumbnail": "https://i3.ytimg.com/vi/zmeLRhIZIb4/hqdefault.jpg",
+      "published": "2026-09-30T23:00:17+00:00",
+      "title_th": "โดนถอนวีซ่าเพราะเหตุนี้"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "ปั้นความฝันสู่ความสำเร็จ",
+      "video_id": "LP118jE4DWg",
+      "link": "https://www.youtube.com/shorts/LP118jE4DWg",
+      "thumbnail": "https://i1.ytimg.com/vi/LP118jE4DWg/hqdefault.jpg",
+      "published": "2026-09-29T23:00:05+00:00",
+      "title_th": "ปั้นความฝันสู่ความสำเร็จ"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "iPhone 18 Pro Max ชาร์จไร้สายกับอะไรดี? รุ่นนี้สิ UGREEN MagFlow 2 in-1 Magnetic #ugreen #gadget",
+      "video_id": "aGufdFBbpI0",
+      "link": "https://www.youtube.com/shorts/aGufdFBbpI0",
+      "thumbnail": "https://i2.ytimg.com/vi/aGufdFBbpI0/hqdefault.jpg",
+      "published": "2026-09-30T13:30:26+00:00",
+      "title_th": "iPhone 18 Pro Max ชาร์จไร้สายกับอะไรดี? รุ่นนี้สิ UGREEN MagFlow 2 in-1 Magnetic #ugreen #gadget"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รีวิว Galaxy Tab S12+ | S12 Ultra แท็บเล็ตตัวท็อป ฟีเจอร์ Galaxy AI ครบๆ มีปากกา รองรับเคสคีย์บอร์ด",
+      "video_id": "JGghodoUyLQ",
+      "link": "https://www.youtube.com/watch?v=JGghodoUyLQ",
+      "thumbnail": "https://i3.ytimg.com/vi/JGghodoUyLQ/hqdefault.jpg",
+      "published": "2026-09-30T12:21:54+00:00",
+      "title_th": "รีวิว Galaxy Tab S12+ | S12 Ultra แท็บเล็ตตัวท็อป ฟีเจอร์ Galaxy AI ครบๆ มีปากกา รองรับเคสคีย์บอร์ด"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "ทดสอบแบต vivo V80 Lite ใช้งานจริงสองวัน ใส่ซิม 5G จะเหลือเท่าไหร่? #vivoV80Lite #แบตหมื่นอึดเกินคาด",
+      "video_id": "Hhm5PYZFj-o",
+      "link": "https://www.youtube.com/shorts/Hhm5PYZFj-o",
+      "thumbnail": "https://i1.ytimg.com/vi/Hhm5PYZFj-o/hqdefault.jpg",
+      "published": "2026-09-30T10:55:46+00:00",
+      "title_th": "ทดสอบแบต vivo V80 Lite ใช้งานจริงสองวัน ใส่ซิม 5G จะเหลือเท่าไหร่? #vivoV80Lite #แบตหมื่นอึดเกินคาด"
+    }
+  ]
 }
