@@ -1,66 +1,102 @@
 {
-  "generated_at": "2026-10-01T17:52:47.188978+00:00",
+  "generated_at": "2026-10-01T22:22:50.592200+00:00",
   "count": 50,
   "articles": [
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "This startup wants to turn idle user car inventory into rental revenue",
-      "summary_en": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating, while people who only need a car for a few months are stuck paying too much for too little choice, so he built MyMonthlyCar, a platform that lets dealers rent out their idle used cars month to month (with an option to buy), and it's now one of the startups showing off at this year's TechCrunch Disrupt, running October 13 to 15 in San Francisco.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mymonthlycar-image.jpg?resize=1200,900",
-      "link": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue/",
-      "published": "Thu, 01 Oct 2026 17:09:00 +0000",
-      "title_th": "This startup wants to turn idle user car inventory into rental revenue",
-      "summary_th": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating, while people who only need a car for a few months are stuck paying too much for too little choice, so he built MyMonthlyCar, a platform that lets dealers rent out their idle used cars month to month (with an option to buy), and it's now one of the startups showing off at this year's TechCrunch Disrupt, running October 13 to 15 in San Francisco."
+      "title_en": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+      "summary_en": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+      "link": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+      "published": "Thu, 01 Oct 2026 21:55:22 +0000",
+      "title_th": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+      "summary_th": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises."
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Amazon releases its own Jev clone as decision models flood the web",
-      "summary_en": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/William_Stanley_Jevons_portrait_extract.jpg?w=726",
-      "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-      "published": "Thu, 01 Oct 2026 16:49:22 +0000",
-      "title_th": "Amazon releases its own Jev clone as decision models flood the web",
-      "summary_th": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B."
+      "title_en": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+      "summary_en": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297722687.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "published": "Thu, 01 Oct 2026 21:08:11 +0000",
+      "title_th": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+      "summary_th": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "ChatGPT can now virtually try on clothes for you",
+      "summary_en": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Virtual-Try-On.jpg?resize=1200,675",
+      "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "published": "Thu, 01 Oct 2026 19:21:53 +0000",
+      "title_th": "ChatGPT can now virtually try on clothes for you",
+      "summary_th": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library."
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "gadget",
-      "title_en": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-      "summary_en": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517",
-      "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-      "published": "Thu, 01 Oct 2026 16:44:35 +0000",
-      "title_th": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-      "summary_th": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time."
+      "title_en": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+      "summary_en": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+      "published": "Thu, 01 Oct 2026 19:18:03 +0000",
+      "title_th": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+      "summary_th": "Google launched its first advanced chip into orbit to pave the way for space data centers."
     },
     {
       "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "World’s first enhanced geothermal power plant completed in just 23 months",
+      "summary_en": "Fervo Energy completed its first power plant in less than two years. The next phases promise to connect to the grid even quicker.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/fervo-geothermal-site-at-night.jpg?resize=1200,675",
+      "link": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
+      "published": "Thu, 01 Oct 2026 18:35:55 +0000",
+      "title_th": "World’s first enhanced geothermal power plant completed in just 23 months",
+      "summary_th": "Fervo Energy completed its first power plant in less than two years. The next phases promise to connect to the grid even quicker."
+    },
+    {
+      "source": "The Verge",
       "flag": "US",
       "category": "gadget",
-      "title_en": "California governor vetoes bill banning use of ‘pervert glasses’ to secretly record people",
-      "summary_en": "The California state bill would have penalized people who secretly recorded people in public with wearables equipped with cameras and microphones.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/zuck-glasses-2173579471-e1788354102893.jpg?resize=1200,761",
-      "link": "https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/",
-      "published": "Thu, 01 Oct 2026 16:35:25 +0000",
-      "title_th": "California governor vetoes bill banning use of ‘pervert glasses’ to secretly record people",
-      "summary_th": "The California state bill would have penalized people who secretly recorded people in public with wearables equipped with cameras and microphones."
+      "title_en": "Google’s new Guided Vision feature can help you read the fine print",
+      "summary_en": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "published": "2026-10-01T15:47:51-04:00",
+      "title_th": "Google’s new Guided Vision feature can help you read the fine print",
+      "summary_th": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "ev",
-      "title_en": "One year later, Tesla and Musk still don’t have a good definition of ‘abundance’",
-      "summary_en": "The CEO promised to get more specific about his vision. But the details are still absent.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/elon-tesla-getty.jpg?resize=1200,799",
-      "link": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
-      "published": "Thu, 01 Oct 2026 15:50:10 +0000",
-      "title_th": "One year later, Tesla and Musk still don’t have a good definition of ‘abundance’",
-      "summary_th": "The CEO promised to get more specific about his vision. But the details are still absent."
+      "category": "software",
+      "title_en": "Android Central ‘will continue’ despite laying off its staff",
+      "summary_en": "Android Central, a blog focused on the Android ecosystem, laid off its staff yesterday, but owner Future confirms to The Verge that the site will continue publishing. Yesterday, four of the six staffers on Android Central's staff page posted publicly about the layoffs, including Shruti Shekar, Derrek Lee, Harish Jonnalagadda, and Nicholas Sutrich, and former […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-01-at-12.18.47-PM.jpg?quality=90&strip=all&crop=0%2C8.5258187044451%2C100%2C82.94836259111&w=1200",
+      "link": "https://www.theverge.com/tech/1003735/android-central-layoffs",
+      "published": "2026-10-01T15:20:29-04:00",
+      "title_th": "Android Central ‘will continue’ despite laying off its staff",
+      "summary_th": "Android Central, a blog focused on the Android ecosystem, laid off its staff yesterday, but owner Future confirms to The Verge that the site will continue publishing. Yesterday, four of the six staffers on Android Central's staff page posted publicly about the layoffs, including Shruti Shekar, Derrek Lee, Harish Jonnalagadda, and Nicholas Sutrich, and former […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?",
+      "summary_en": "The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and efficiency before building the sequel. There's some reason to believe that chip has now broken cover: AMD […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/53420776536_b9dede69df_k.jpg?quality=90&strip=all&crop=0%2C10.723395278369%2C100%2C78.553209443262&w=1200",
+      "link": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
+      "published": "2026-10-01T14:52:58-04:00",
+      "title_th": "Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?",
+      "summary_th": "The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and efficiency before building the sequel. There's some reason to believe that chip has now broken cover: AMD […]"
     },
     {
       "source": "The Verge",
@@ -87,40 +123,16 @@
       "summary_th": "Sony is launching a new AI upscaling technology specifically for the regular PS5. The new tech, called Quick Spectral Super Resolution (QSSR), is a \"new performance tier of AI upscaling\" that's a result of Sony's Project Amethyst work with AMD, according to a blog post. Sony says that PlayStation Spectral Super Resolution (PSSR), which is […]"
     },
     {
-      "source": "The Verge",
+      "source": "Ars Technica",
       "flag": "US",
       "category": "software",
-      "title_en": "Can VR glasses save VR?",
-      "summary_en": "I'm pretty sure I won't be buying the $1,299 Meta VR Glasses. That's too rich for my blood in today's economy, and my feelings about Meta are… conflicted. But I want you to understand that Meta just changed the game. We've had glasses, but we've never had glasses like this. The Meta VR Glasses are […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260924_130227-EDIT.jpg?quality=90&strip=all&crop=0%2C10.704986421032%2C100%2C78.590027157936&w=1200",
-      "link": "https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality",
-      "published": "2026-10-01T12:10:32-04:00",
-      "title_th": "Can VR glasses save VR?",
-      "summary_th": "I'm pretty sure I won't be buying the $1,299 Meta VR Glasses. That's too rich for my blood in today's economy, and my feelings about Meta are… conflicted. But I want you to understand that Meta just changed the game. We've had glasses, but we've never had glasses like this. The Meta VR Glasses are […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Inside Microsoft’s big Copilot rethink",
-      "summary_en": "Last week, Microsoft CEO Satya Nadella hosted an intimate, invite-only event for leaders from some of its key enterprise customers. Instead of a flashy media event, Nadella outlined the future of Copilot directly to the customers Microsoft really cares about, pitching its latest rethink of the AI assistant as the \"OS for work.\" Microsoft is […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Satya-Nadella-September-Copilot-Event.png?quality=90&strip=all&crop=0%2C10.889260556288%2C100%2C78.221478887424&w=1200",
-      "link": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
-      "published": "2026-10-01T12:00:00-04:00",
-      "title_th": "Inside Microsoft’s big Copilot rethink",
-      "summary_th": "Last week, Microsoft CEO Satya Nadella hosted an intimate, invite-only event for leaders from some of its key enterprise customers. Instead of a flashy media event, Nadella outlined the future of Copilot directly to the customers Microsoft really cares about, pitching its latest rethink of the AI assistant as the \"OS for work.\" Microsoft is […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "NYC is now the first city in America that bans sketchy subscriptions",
-      "summary_en": "New York City residents struggling to get out of recurring subscription fees can now submit complaints to the city government. As of Thursday, the city's click-to-cancel rule has taken effect, which requires businesses to make it as easy to cancel a subscription as it is to sign up. That means a gym that lets you […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2294777879.jpg?quality=90&strip=all&crop=0%2C10.735424905768%2C100%2C78.529150188464&w=1200",
-      "link": "https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule",
-      "published": "2026-10-01T10:49:25-04:00",
-      "title_th": "NYC is now the first city in America that bans sketchy subscriptions",
-      "summary_th": "New York City residents struggling to get out of recurring subscription fees can now submit complaints to the city government. As of Thursday, the city's click-to-cancel rule has taken effect, which requires businesses to make it as easy to cancel a subscription as it is to sign up. That means a gym that lets you […]"
+      "title_en": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
+      "summary_en": "It has been a bad month for federal government cybersecurity.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/data-leak-1000x648.jpeg",
+      "link": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
+      "published": "Thu, 01 Oct 2026 20:28:45 +0000",
+      "title_th": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
+      "summary_th": "It has been a bad month for federal government cybersecurity."
     },
     {
       "source": "Ars Technica",
@@ -171,16 +183,16 @@
       "summary_th": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier."
     },
     {
-      "source": "Ars Technica",
+      "source": "Wired",
       "flag": "US",
-      "category": "software",
-      "title_en": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
-      "summary_en": "The English hospitals recovered patient care data only.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2255624329-1024x648.jpg",
-      "link": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
-      "published": "Tue, 22 Sep 2026 16:55:40 +0000",
-      "title_th": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
-      "summary_th": "The English hospitals recovered patient care data only."
+      "category": "ai",
+      "title_en": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
+      "summary_en": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
+      "image": "https://media.wired.com/photos/6abd98d540aa0c6f065eedf5/master/pass/Uncanny-Valley-Morally-Bound-WH-Accord-Business-2297777029.jpg",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
+      "published": "Thu, 01 Oct 2026 19:58:31 +0000",
+      "title_th": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
+      "summary_th": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms."
     },
     {
       "source": "Wired",
@@ -229,18 +241,6 @@
       "published": "Thu, 01 Oct 2026 11:30:00 +0000",
       "title_th": "Best Wi-Fi Routers (2026): My Honest Picks After Testing 50+",
       "summary_th": "Don’t suffer the buffer. These WIRED-tested home routers will deliver reliable internet across your home, whatever your needs or budget."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "The Real Threat to the Midterms Is Regular Americans Thinking Violence Is the Answer",
-      "summary_en": "Robert A. Pape, a leading authority on political violence, wants Americans to understand that the threat is coming not from the fringes, but from the mainstream.",
-      "image": "https://media.wired.com/photos/6abd272040aa0c6f065ee4a0/master/pass/AP22158683515790%20(1).jpg",
-      "link": "https://www.wired.com/story/the-real-threat-to-the-midterms-is-regular-americans-thinking-violence-is-the-answer/",
-      "published": "Thu, 01 Oct 2026 11:30:00 +0000",
-      "title_th": "The Real Threat to the Midterms Is Regular Americans Thinking Violence Is the Answer",
-      "summary_th": "Robert A. Pape, a leading authority on political violence, wants Americans to understand that the threat is coming not from the fringes, but from the mainstream."
     },
     {
       "source": "MIT Technology Review",
@@ -305,6 +305,54 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "gadget",
+      "title_en": "Samsung launches its first clip-on earbuds in South Korea",
+      "summary_en": "A global rollout will follow, although we don't yet know the details.",
+      "image": "https://www.engadget.com/img/gallery/samsung-launches-its-first-clip-on-earbuds-in-south-korea/l-intro-1790888120.jpg",
+      "link": "https://www.engadget.com/2275187/samsung-launches-its-first-clip-on-earbuds-in-south-korea/",
+      "published": "Thu, 01 Oct 2026 20:57:39 +0000",
+      "title_th": "Samsung launches its first clip-on earbuds in South Korea",
+      "summary_th": "A global rollout will follow, although we don't yet know the details."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Police may have new ways to access data on locked iPhones",
+      "summary_en": "A training video reportedly demonstrates how police can evade an Apple security feature.",
+      "image": "https://www.engadget.com/img/gallery/police-may-have-new-ways-to-access-data-on-locked-iphones/l-intro-1790887323.jpg",
+      "link": "https://www.engadget.com/2275167/police-may-have-new-ways-to-access-data-on-locked-iphones/",
+      "published": "Thu, 01 Oct 2026 20:43:15 +0000",
+      "title_th": "Police may have new ways to access data on locked iPhones",
+      "summary_th": "A training video reportedly demonstrates how police can evade an Apple security feature."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Judge dismisses lawsuits claiming Google's AI Overviews siphon web traffic",
+      "summary_en": "Google may have a monopoly in search, but neither lawsuit made a compelling case the company was leveraging it.",
+      "image": "https://www.engadget.com/img/gallery/judge-dismisses-lawsuits-claiming-googles-ai-overviews-siphon-web-traffic/l-intro-1790882295.jpg",
+      "link": "https://www.engadget.com/2275023/judge-dismisses-lawsuits-claiming-googles-ai-overviews-siphon-web-traffic/",
+      "published": "Thu, 01 Oct 2026 19:20:32 +0000",
+      "title_th": "Judge dismisses lawsuits claiming Google's AI Overviews siphon web traffic",
+      "summary_th": "Google may have a monopoly in search, but neither lawsuit made a compelling case the company was leveraging it."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "The Steam Autumn Sale has deals on Resident Evil Requiem and 007 First Light",
+      "summary_en": "Bye-bye, money.",
+      "image": "https://www.engadget.com/img/gallery/the-steam-autumn-sale-has-deals-on-resident-evil-requiem-and-007-first-light/l-intro-1790879663.jpg",
+      "link": "https://www.engadget.com/2274933/the-steam-autumn-sale-has-deals-on-resident-evil-requiem-and-007-first-light/",
+      "published": "Thu, 01 Oct 2026 18:37:56 +0000",
+      "title_th": "The Steam Autumn Sale has deals on Resident Evil Requiem and 007 First Light",
+      "summary_th": "Bye-bye, money."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "chip",
       "title_en": "Pandora claims 'we haven't made this decision lightly' after raising prices",
       "summary_en": "The SiriusXM service joins a long list of streamers that have increased rates this year.",
@@ -313,54 +361,6 @@
       "published": "Thu, 01 Oct 2026 17:15:00 +0000",
       "title_th": "Pandora claims 'we haven't made this decision lightly' after raising prices",
       "summary_th": "The SiriusXM service joins a long list of streamers that have increased rates this year."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Sony brings AI upscaling to the base PS5",
-      "summary_en": "Marvel's Wolverine and Ghost of Yōtei are the first games to support Quick Spectral Super Resolution.",
-      "image": "https://www.engadget.com/img/gallery/sony-brings-ai-upscaling-to-the-base-ps5/l-intro-1790873905.jpg",
-      "link": "https://www.engadget.com/2274744/sony-brings-ai-upscaling-to-the-base-ps5/",
-      "published": "Thu, 01 Oct 2026 17:00:21 +0000",
-      "title_th": "Sony brings AI upscaling to the base PS5",
-      "summary_th": "Marvel's Wolverine and Ghost of Yōtei are the first games to support Quick Spectral Super Resolution."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Samsung Galaxy Tab S12 Ultra vs Galaxy Tab S11 Ultra: The difference one year can make",
-      "summary_en": "An iterative upgrade once again for Samsung's laptop-sized tablet line.",
-      "image": "https://www.engadget.com/img/gallery/samsung-galaxy-tab-s12-ultra-vs-galaxy-tab-s11-ultra-the-difference-one-year-can-make/l-intro-1790809506.jpg",
-      "link": "https://www.engadget.com/2274708/samsung-galaxy-tablet-s12-ultra-vs-tab-s11-ultra-differences/",
-      "published": "Thu, 01 Oct 2026 17:00:00 +0000",
-      "title_th": "Samsung Galaxy Tab S12 Ultra vs Galaxy Tab S11 Ultra: The difference one year can make",
-      "summary_th": "An iterative upgrade once again for Samsung's laptop-sized tablet line."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Audible thinks you want to have an AI-generated conversation with Dracula's beleaguered servant",
-      "summary_en": "The platform is rolling out \"Interactive Stories\" starting with Bram Stoker's classic.",
-      "image": "https://www.engadget.com/img/gallery/audible-thinks-you-want-to-have-an-ai-generated-conversation-with-draculas-beleaguered-servant/l-intro-1790871583.jpg",
-      "link": "https://www.engadget.com/2274668/audible-thinks-you-want-to-have-an-ai-generated-conversation-with-draculas-beleaguered-servant/",
-      "published": "Thu, 01 Oct 2026 16:21:54 +0000",
-      "title_th": "Audible thinks you want to have an AI-generated conversation with Dracula's beleaguered servant",
-      "summary_th": "The platform is rolling out \"Interactive Stories\" starting with Bram Stoker's classic."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "review",
-      "title_en": "Engadget's best of 2026",
-      "summary_en": "The highest-rated devices that we reviewed this year in a variety of categories.",
-      "image": "https://www.engadget.com/img/gallery/engadgets-best-of-2026/l-intro-1790863131.jpg",
-      "link": "https://www.engadget.com/2274600/engadgets-best-of-2026/",
-      "published": "Thu, 01 Oct 2026 16:00:00 +0000",
-      "title_th": "Engadget's best of 2026",
-      "summary_th": "The highest-rated devices that we reviewed this year in a variety of categories."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,61 +426,109 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Twelve South launches tiny new ‘Airfly Drive’ wireless CarPlay adapter",
-      "summary_en": "Twelve South, the company behind a range of premium Apple accessories, has launched a notable expansion of its Airfly brand. The company today unveiled Airfly Drive, a dongle that turns wired CarPlay into wireless CarPlay. It’s available to order starting today for $39.99. Here’s how it works. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/airfly-drive-plugged-usb-port-black-2.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/01/twelve-south-launches-tiny-new-airfly-drive-wireless-carplay-adapter/",
-      "published": "Thu, 01 Oct 2026 17:20:45 +0000",
-      "title_th": "Twelve South launches tiny new ‘Airfly Drive’ wireless CarPlay adapter",
-      "summary_th": "Twelve South, the company behind a range of premium Apple accessories, has launched a notable expansion of its Airfly brand. The company today unveiled Airfly Drive, a dongle that turns wired CarPlay into wireless CarPlay. It’s available to order starting today for $39.99. Here’s how it works. more…"
+      "title_en": "GrayKey maker can reportedly bypass the iPhone’s ‘Inactivity Reboot’ security feature",
+      "summary_en": "As reported by 404 Media , Magnet Forensics says it has found a way to bypass the iPhone security feature that automatically reboots devices if they haven’t been unlocked for 72 hours. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/how-to-get-imessage-quantum-security-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/01/graykey-maker-can-reportedly-bypass-the-iphones-inactivity-reboot-security-feature/",
+      "published": "Thu, 01 Oct 2026 21:36:16 +0000",
+      "title_th": "GrayKey maker can reportedly bypass the iPhone’s ‘Inactivity Reboot’ security feature",
+      "summary_th": "As reported by 404 Media , Magnet Forensics says it has found a way to bypass the iPhone security feature that automatically reboots devices if they haven’t been unlocked for 72 hours. Here are the details. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "ESPN app recently got big upgrade on Apple TV 4K and iPhone",
-      "summary_en": "Fall is a big season for sports fans, and ESPN recently launched a big upgrade for users of its tvOS and iOS apps: 4K HDR streaming. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/espn-streaming-service-flagship.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/01/espn-app-recently-got-big-upgrade-on-apple-tv-4k-and-iphone/",
-      "published": "Thu, 01 Oct 2026 16:04:08 +0000",
-      "title_th": "ESPN app recently got big upgrade on Apple TV 4K and iPhone",
-      "summary_th": "Fall is a big season for sports fans, and ESPN recently launched a big upgrade for users of its tvOS and iOS apps: 4K HDR streaming. more…"
+      "title_en": "Apple Arcade adds five new games, including Terraria+ and Pusheen’s Place",
+      "summary_en": "Apple Arcade subscribers got access to five new games today, as Apple had promised in early September. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-arcade.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/01/apple-arcade-adds-five-new-games-including-terraria-and-pusheens-place/",
+      "published": "Thu, 01 Oct 2026 20:44:52 +0000",
+      "title_th": "Apple Arcade adds five new games, including Terraria+ and Pusheen’s Place",
+      "summary_th": "Apple Arcade subscribers got access to five new games today, as Apple had promised in early September. Here are the details. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "HP’s MacBook Neo competitor is $699 with an OLED display and plenty of catches",
-      "summary_en": "The PC market was caught flat-footed by Apple’s MacBook Neo launch earlier this year, and while that laptop’s aggressive pricing strategy has already been forced to adapt to market conditions, it’s only months later we’re seeing Windows-based rivals announce their own respective competitors . Today, it’s HP’s turn, with a brand-new OLED-equipped laptop set to start at that same $699 price point, but not without plenty of strings attached. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/HP_20OmniBook_205_2014_Soft_20Honey_20Dew_Front-copy.png?resize=1200,628",
-      "link": "https://9to5google.com/2026/10/01/hp-omnibook-5-macbook-neo-competitor-699-oled-display-plenty-of-catches/",
-      "published": "Thu, 01 Oct 2026 15:40:02 +0000",
-      "title_th": "HP’s MacBook Neo competitor is $699 with an OLED display and plenty of catches",
-      "summary_th": "The PC market was caught flat-footed by Apple’s MacBook Neo launch earlier this year, and while that laptop’s aggressive pricing strategy has already been forced to adapt to market conditions, it’s only months later we’re seeing Windows-based rivals announce their own respective competitors . Today, it’s HP’s turn, with a brand-new OLED-equipped laptop set to start at that same $699 price point, but not without plenty of strings attached. more…"
+      "title_en": "Audible announces AI-powered character guides, interactive stories, more",
+      "summary_en": "Audible today announced three features coming to “deepen customers’ connections to their favorite stories.” Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/audible.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/01/audible-announces-ai-powered-character-guides-interactive-stories-more/",
+      "published": "Thu, 01 Oct 2026 20:06:47 +0000",
+      "title_th": "Audible announces AI-powered character guides, interactive stories, more",
+      "summary_th": "Audible today announced three features coming to “deepen customers’ connections to their favorite stories.” Here are the details. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Deals: AirTag 2, Studio Display up to $300 off, MacBook Pro, Belkin 25W MagSafe charger lows, more",
-      "summary_en": "Joining the ongoing early fall Prime Day sale at Amazon and the ongoing all-time low on the single AirTag 2 listing, today’s 9to5Toys Lunch Break is headlined by the most affordable 2026 Studio Display models at up to $300 off straight from Apple refurb. And while this M5 Pro MacBook Pro at $500 off might be the best early fall Prime Day deal yet, the Belkin holiday deals are now live from $13 with its latest 25W MagSafe chargers now at new all-time lows , alongside the official Eve fall Prime Day deals at up to 38% off – Matter/HomeKit switches, plugs, outlets, and more from $30 . We also have an extra 10% off already discounted official Apple USB-C, Thunderbolt, and MagSafe cables today from $7.50 each . Head below for a closer look. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-AirTag-2-Studio-Display-25W-MagSafe-MacBook.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/01/deals-airtag-2-studio-display-macbook-magsafe-chargers/",
-      "published": "Thu, 01 Oct 2026 15:30:56 +0000",
-      "title_th": "Deals: AirTag 2, Studio Display up to $300 off, MacBook Pro, Belkin 25W MagSafe charger lows, more",
-      "summary_th": "Joining the ongoing early fall Prime Day sale at Amazon and the ongoing all-time low on the single AirTag 2 listing, today’s 9to5Toys Lunch Break is headlined by the most affordable 2026 Studio Display models at up to $300 off straight from Apple refurb. And while this M5 Pro MacBook Pro at $500 off might be the best early fall Prime Day deal yet, the Belkin holiday deals are now live from $13 with its latest 25W MagSafe chargers now at new all-time lows , alongside the official Eve fall Prime Day deals at up to 38% off – Matter/HomeKit switches, plugs, outlets, and more from $30 . We also have an extra 10% off already discounted official Apple USB-C, Thunderbolt, and MagSafe cables today from $7.50 each . Head below for a closer look. more…"
+      "title_en": "HomePad launch nears, Apple Watch Readiness score, Ternus wants to make Apple more nimble",
+      "summary_en": "Benjamin and Chance discuss the final Apple smart display rumors with a release for the ‘HomePad’ rumored for October 13, although the small square screen form factor remains puzzling. Also, leaked photos of the iPad mini and HomePod mini suggest those long-awaited updates are also imminent, John Ternus apparently wants to make Apple more nimble, and Chance has thoughts on the new Apple Watch Readiness feature. And in Happy Hour Plus , Benjamin argues the case for adding Touch ID to the Apple TV remote. Subscribe at 9to5mac.com/join . Sponsored by Square : Get up to $200 off Square hardware when you sign up at square.com/go/happyhour . Sponsored by Notion : Learn more about how Notion can support your business, at notion.com/happyhour . Sponsored by Framer : The only free design tool that ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/01/happy-hour-610/",
+      "published": "Thu, 01 Oct 2026 19:30:28 +0000",
+      "title_th": "HomePad launch nears, Apple Watch Readiness score, Ternus wants to make Apple more nimble",
+      "summary_th": "Benjamin and Chance discuss the final Apple smart display rumors with a release for the ‘HomePad’ rumored for October 13, although the small square screen form factor remains puzzling. Also, leaked photos of the iPad mini and HomePod mini suggest those long-awaited updates are also imminent, John Ternus apparently wants to make Apple more nimble, and Chance has thoughts on the new Apple Watch Readiness feature. And in Happy Hour Plus , Benjamin argues the case for adding Touch ID to the Apple TV remote. Subscribe at 9to5mac.com/join . Sponsored by Square : Get up to $200 off Square hardware when you sign up at square.com/go/happyhour . Sponsored by Notion : Learn more about how Notion can support your business, at notion.com/happyhour . Sponsored by Framer : The only free design tool that "
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple TV just added a bunch of free classic movies, here’s everything new",
-      "summary_en": "Apple TV keeps adding new batches of classic movies to kick off each month, with 13 fresh films available free for subscribers today. Here’s everything new. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/appl-tv-icon-26.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/01/apple-tv-just-added-a-bunch-of-free-classic-movies-heres-everything-new/",
-      "published": "Thu, 01 Oct 2026 15:30:46 +0000",
-      "title_th": "Apple TV just added a bunch of free classic movies, here’s everything new",
-      "summary_th": "Apple TV keeps adding new batches of classic movies to kick off each month, with 13 fresh films available free for subscribers today. Here’s everything new. more…"
+      "title_en": "Apple says iPhone Duo has ‘replaceable’ folding display layer to minimize crease",
+      "summary_en": "Foldable displays tend to show a more visible crease over time, but Apple‘s Kate Bergeron says iPhone Duo has a replaceable cover layer on its folding screen to help mitigate that issue. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-siri-app.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/01/apple-says-iphone-duo-has-replaceable-folding-display-layer-to-minimize-crease/",
+      "published": "Thu, 01 Oct 2026 18:44:27 +0000",
+      "title_th": "Apple says iPhone Duo has ‘replaceable’ folding display layer to minimize crease",
+      "summary_th": "Foldable displays tend to show a more visible crease over time, but Apple‘s Kate Bergeron says iPhone Duo has a replaceable cover layer on its folding screen to help mitigate that issue. more…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Google Pixel 2 XL set the stage for a decade of ups and downs",
+      "summary_en": "Google Pixel’s 10-year anniversary has me taking a look back at a bunch of the milestones throughout this lineup’s history and, when picking up the Pixel 2 XL, hindsight really kicked in as to how this phone was very much a sign of the tumultuous roller coaster that would become Google Pixel. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/pixel-at-10-google-pixel-2-xl-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/10/01/google-pixel-2-xl-set-the-stage-for-a-decade-of-ups-and-downs/",
+      "published": "Thu, 01 Oct 2026 19:30:00 +0000",
+      "title_th": "Google Pixel 2 XL set the stage for a decade of ups and downs",
+      "summary_th": "Google Pixel’s 10-year anniversary has me taking a look back at a bunch of the milestones throughout this lineup’s history and, when picking up the Pixel 2 XL, hindsight really kicked in as to how this phone was very much a sign of the tumultuous roller coaster that would become Google Pixel. more…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Samsung’s open-ear Galaxy Buds On go official with late October release",
+      "summary_en": "Samsung has officially announced its first truly open-ear Galaxy Buds with the Galaxy Buds On set for a debut in late October. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/galaxy-buds-on-3.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/10/01/samsung-galaxy-buds-on-open-ear-launch/",
+      "published": "Thu, 01 Oct 2026 19:15:00 +0000",
+      "title_th": "Samsung’s open-ear Galaxy Buds On go official with late October release",
+      "summary_th": "Samsung has officially announced its first truly open-ear Galaxy Buds with the Galaxy Buds On set for a debut in late October. more…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Vivo X Fold 6 skips the wide form factor, but will launch globally with strong cameras",
+      "summary_en": "Vivo’s new X Fold 6 doesn’t join in on the wide foldable trend, but it has some pretty wild camera promises. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/vivo-X-Fold6-KV.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/10/01/vivo-x-fold-6-skips-the-wide-form-factor-but-will-launch-globally-with-strong-cameras/",
+      "published": "Thu, 01 Oct 2026 18:30:00 +0000",
+      "title_th": "Vivo X Fold 6 skips the wide form factor, but will launch globally with strong cameras",
+      "summary_th": "Vivo’s new X Fold 6 doesn’t join in on the wide foldable trend, but it has some pretty wild camera promises. more…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Google Phone app brings back Contacts bottom bar tab",
+      "summary_en": "Last year’s Material 3 Expressive redesign of the Phone by Google app removed the Contacts tab, but it’s now coming back. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/03/google-phone-logo-circle-2.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/10/01/google-phone-contacts-tab/",
+      "published": "Thu, 01 Oct 2026 18:10:29 +0000",
+      "title_th": "Google Phone app brings back Contacts bottom bar tab",
+      "summary_th": "Last year’s Material 3 Expressive redesign of the Phone by Google app removed the Contacts tab, but it’s now coming back. more…"
     },
     {
       "source": "9to5Google",
@@ -495,52 +543,52 @@
       "summary_th": "There’s a new phone in town, and like the Pixel 11 Pro, the iPhone 18 Pro looks eerily similar to what we saw last year. What can we glean from this duo? Here’s what you need to know. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Deals: Galaxy Z Fold 8 up to $546 off, Belkin magnetic charging stations from $43, up to $1,100 off TVs, more",
-      "summary_en": "As the early fall Prime day sale at Amazon rolls alongside the deals on the Moto Tag 2 item trackers, today’s 9to5Toys Lunch Break is headlined by Galaxy Z Fold 8 up to $546 off the list prices today (Best Buy open-box), alongside a host of Belkin early fall Prime Day deals now live from $13 including 25W magnetic chargers at new all-time lows. We also have a chance to upgrade your TV ahead of the GTA VI release at up to $1,100 off – LG, Samsung, Hisense, more, as well as the ongoing 50% launch deal on Amazon’s brand new Fire TV Stick 4K – it also just unleashed its next-generation Kindle readers . Head below for a closer look. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-1.webp?resize=1200,628",
-      "link": "https://9to5google.com/2026/10/01/deals-galaxy-z-fold-8-belkin-magnetic-charging-stations/",
-      "published": "Thu, 01 Oct 2026 15:47:37 +0000",
-      "title_th": "Deals: Galaxy Z Fold 8 up to $546 off, Belkin magnetic charging stations from $43, up to $1,100 off TVs, more",
-      "summary_th": "As the early fall Prime day sale at Amazon rolls alongside the deals on the Moto Tag 2 item trackers, today’s 9to5Toys Lunch Break is headlined by Galaxy Z Fold 8 up to $546 off the list prices today (Best Buy open-box), alongside a host of Belkin early fall Prime Day deals now live from $13 including 25W magnetic chargers at new all-time lows. We also have a chance to upgrade your TV ahead of the GTA VI release at up to $1,100 off – LG, Samsung, Hisense, more, as well as the ongoing 50% launch deal on Amazon’s brand new Fire TV Stick 4K – it also just unleashed its next-generation Kindle readers . Head below for a closer look. more…"
+      "category": "ev",
+      "title_en": "California gives the green light to balcony solar",
+      "summary_en": "Californians who can’t install rooftop solar are getting another way to tap into the sunshine. Governor Gavin Newsom signed a bill opening the door to small plug-in solar, also known as balcony solar, alongside two laws designed to get more out of home energy devices and the grid California already has. All three were signed on September 30. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/balconysolar-EWG.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/01/california-gives-the-green-light-to-balcony-solar/",
+      "published": "Thu, 01 Oct 2026 21:04:23 +0000",
+      "title_th": "California gives the green light to balcony solar",
+      "summary_th": "Californians who can’t install rooftop solar are getting another way to tap into the sunshine. Governor Gavin Newsom signed a bill opening the door to small plug-in solar, also known as balcony solar, alongside two laws designed to get more out of home energy devices and the grid California already has. All three were signed on September 30. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "HP’s MacBook Neo competitor is $699 with an OLED display and plenty of catches",
-      "summary_en": "The PC market was caught flat-footed by Apple’s MacBook Neo launch earlier this year, and while that laptop’s aggressive pricing strategy has already been forced to adapt to market conditions, it’s only months later we’re seeing Windows-based rivals announce their own respective competitors . Today, it’s HP’s turn, with a brand-new OLED-equipped laptop set to start at that same $699 price point, but not without plenty of strings attached. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/HP_20OmniBook_205_2014_Soft_20Honey_20Dew_Front-copy.png?resize=1200,628",
-      "link": "https://9to5google.com/2026/10/01/hp-omnibook-5-macbook-neo-competitor-699-oled-display-plenty-of-catches/",
-      "published": "Thu, 01 Oct 2026 15:36:38 +0000",
-      "title_th": "HP’s MacBook Neo competitor is $699 with an OLED display and plenty of catches",
-      "summary_th": "The PC market was caught flat-footed by Apple’s MacBook Neo launch earlier this year, and while that laptop’s aggressive pricing strategy has already been forced to adapt to market conditions, it’s only months later we’re seeing Windows-based rivals announce their own respective competitors . Today, it’s HP’s turn, with a brand-new OLED-equipped laptop set to start at that same $699 price point, but not without plenty of strings attached. more…"
+      "category": "ev",
+      "title_en": "The Hyundai IONIQ 5 is still in the EV sales mix, with 31,000+ sold in 2026",
+      "summary_en": "The Hyundai IONIQ 5 is still one of the EVs Americans are buying the most, with more than 31,000 sold through September. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/Hyundai-IONIQ-5-best-family-EV.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/01/hyundai-ioniq-5-still-in-ev-sales-mix-31000-sold/",
+      "published": "Thu, 01 Oct 2026 21:02:46 +0000",
+      "title_th": "The Hyundai IONIQ 5 is still in the EV sales mix, with 31,000+ sold in 2026",
+      "summary_th": "The Hyundai IONIQ 5 is still one of the EVs Americans are buying the most, with more than 31,000 sold through September. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Samsung officially raises Galaxy S26 prices by $100, but it hasn’t changed everywhere",
-      "summary_en": "Samsung is officially rolling out a price hike for the Galaxy S26 series, raising prices by $100 across the lineup. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Galaxy-S26-family-1-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/10/01/samsung-galaxy-s26-price-hike/",
-      "published": "Thu, 01 Oct 2026 15:35:00 +0000",
-      "title_th": "Samsung officially raises Galaxy S26 prices by $100, but it hasn’t changed everywhere",
-      "summary_th": "Samsung is officially rolling out a price hike for the Galaxy S26 series, raising prices by $100 across the lineup. more…"
+      "category": "ev",
+      "title_en": "Toyota bucks the trend as new EVs drive growth",
+      "summary_en": "Toyota’s new electric vehicles are selling surprisingly well, even as many automakers report fewer EV sales in the third quarter. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/04/Toyota-bZ-EV-range-4.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/01/toyota-bucks-trend-new-evs-drive-growth/",
+      "published": "Thu, 01 Oct 2026 19:12:24 +0000",
+      "title_th": "Toyota bucks the trend as new EVs drive growth",
+      "summary_th": "Toyota’s new electric vehicles are selling surprisingly well, even as many automakers report fewer EV sales in the third quarter. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Huawei’s Mate 90 Pro Max says ‘why not’ and just lets you add an entire camera",
-      "summary_en": "Huawei has just introduced its new Mate 90 Pro Max in China and the big feature is not the cameras built into the device, but rather the giant one you can add on. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/huawei-mate-90-pro-max-z10-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/10/01/huawei-mate-90-pro-max/",
-      "published": "Thu, 01 Oct 2026 15:20:00 +0000",
-      "title_th": "Huawei’s Mate 90 Pro Max says ‘why not’ and just lets you add an entire camera",
-      "summary_th": "Huawei has just introduced its new Mate 90 Pro Max in China and the big feature is not the cameras built into the device, but rather the giant one you can add on. more…"
+      "category": "ev",
+      "title_en": "Tenways AGO X mid-drive e-bike $905 savings, Anker SOLIX 2,048Wh C2000 Gen 2 power station $900, Hiboy EV sale, more",
+      "summary_en": "Our thursday Green Deals is led by the Tenways Holiday Season Warmup Sale with up to $905 savings, like the AGO X Mid-Drive All-Terrain e-bike with a $405 FREE bundle at $1,999 . Behind that is the Anker SOLIX C2000 Gen 2 Portable Power Station down at $900 , as well as Hiboy’s Fall Ride Event Sale with up to 44% EV discounts starting from $180 , the Greenworks 40V 12-inch Cordless Dual-Line String Trimmer down at a $90 annual low , and more early Prime Day deals. You can find the hangover deals from the last few days down at the bottom of the page, like yesterday’s EcoFlow flash sale lineup that will be ending tonight, among others. Head below for other New Green Deals we’ve found today and, of course, Electrek ’s best EV buying and leasing deals . Also, check out the new Electrek Tesla S",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Tenways-Anker-SOLIX-Hiboy-Greenworks-GDs-FI.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/01/tenways-ago-x-mid-drive-e-bike-anker-solix-2048wh-c2000-gen-2-power-station-hiboy-more/",
+      "published": "Thu, 01 Oct 2026 18:00:00 +0000",
+      "title_th": "Tenways AGO X mid-drive e-bike $905 savings, Anker SOLIX 2,048Wh C2000 Gen 2 power station $900, Hiboy EV sale, more",
+      "summary_th": "Our thursday Green Deals is led by the Tenways Holiday Season Warmup Sale with up to $905 savings, like the AGO X Mid-Drive All-Terrain e-bike with a $405 FREE bundle at $1,999 . Behind that is the Anker SOLIX C2000 Gen 2 Portable Power Station down at $900 , as well as Hiboy’s Fall Ride Event Sale with up to 44% EV discounts starting from $180 , the Greenworks 40V 12-inch Cordless Dual-Line String Trimmer down at a $90 annual low , and more early Prime Day deals. You can find the hangover deals from the last few days down at the bottom of the page, like yesterday’s EcoFlow flash sale lineup that will be ending tonight, among others. Head below for other New Green Deals we’ve found today and, of course, Electrek ’s best EV buying and leasing deals . Also, check out the new Electrek Tesla S"
     },
     {
       "source": "Electrek",
@@ -553,54 +601,6 @@
       "published": "Thu, 01 Oct 2026 17:27:10 +0000",
       "title_th": "Chevy Equinox EV sales plunge 92% as Cadillac’s SUVs suddenly take the lead",
       "summary_th": "The Chevy Equinox EV’s run as GM’s top-selling electric car is quickly coming to an end after sales dropped 92% in Q3. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "BMW is launching a smaller, more affordable EV",
-      "summary_en": "BMW joins the growing list of luxury brands planning to introduce an entry-level electric vehicle. The new model will be the most affordable Neue Klasse EV. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/BMW-more-affordable-EV.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/01/bmw-launching-smaller-more-affordable-ev/",
-      "published": "Thu, 01 Oct 2026 16:03:18 +0000",
-      "title_th": "BMW is launching a smaller, more affordable EV",
-      "summary_th": "BMW joins the growing list of luxury brands planning to introduce an entry-level electric vehicle. The new model will be the most affordable Neue Klasse EV. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Ford’s $30,000 Fathom EV pickup production launch faces uncertainty [Update]",
-      "summary_en": "The Ford Fathom is expected to go on sale in early 2027, starting at $28,350. Ford CEO Jim Farley admitted, “It’s going to be a heck of an effort to launch this at scale, at cost, on time.” more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/09/Ford-Fathom-EV-closer-look.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/01/fords-30000-ev-pickup-production-launch-faces-uncertainty/",
-      "published": "Thu, 01 Oct 2026 14:37:03 +0000",
-      "title_th": "Ford’s $30,000 Fathom EV pickup production launch faces uncertainty [Update]",
-      "summary_th": "The Ford Fathom is expected to go on sale in early 2027, starting at $28,350. Ford CEO Jim Farley admitted, “It’s going to be a heck of an effort to launch this at scale, at cost, on time.” more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Aptera (SEV) now says it needs $25M to start production, stock drops 15%",
-      "summary_en": "Aptera (SEV) now says it needs only about $25 million to start production of its Solar EV, down from the $40 to $45 million it quoted just seven weeks ago. It’s good news on paper. But the market didn’t buy it: Aptera’s stock fell about 15% on the announcement, leaving the solar car startup with a market cap of roughly $69 million. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/03/Aptera-Warrant-exercise.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/01/aptera-sev-cuts-production-capital-25-million-stock-drops/",
-      "published": "Thu, 01 Oct 2026 14:19:12 +0000",
-      "title_th": "Aptera (SEV) now says it needs $25M to start production, stock drops 15%",
-      "summary_th": "Aptera (SEV) now says it needs only about $25 million to start production of its Solar EV, down from the $40 to $45 million it quoted just seven weeks ago. It’s good news on paper. But the market didn’t buy it: Aptera’s stock fell about 15% on the announcement, leaving the solar car startup with a market cap of roughly $69 million. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Kia’s new EV3 is just getting started after 500+ first-month sales",
-      "summary_en": "With the 2027 EV3 now on sale and another record sales quarter, Kia said it’s “the brand to watch” in 2027. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Kia-EV3-prices-US-Canada.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/01/kias-new-ev3-just-getting-started-500-first-month-sales/",
-      "published": "Thu, 01 Oct 2026 14:15:21 +0000",
-      "title_th": "Kia’s new EV3 is just getting started after 500+ first-month sales",
-      "summary_th": "With the 2027 EV3 now on sale and another record sales quarter, Kia said it’s “the brand to watch” in 2027. more…"
     }
   ],
   "indices": [
@@ -608,65 +608,65 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 231.28,
-      "change": 2.9,
-      "change_pct": 1.27
+      "price": 230.86,
+      "change": 2.48,
+      "change_pct": 1.09
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 356.43,
-      "change": 1.62,
-      "change_pct": 0.46
+      "price": 354.11,
+      "change": -0.7,
+      "change_pct": -0.2
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 339.56,
-      "change": -4.52,
-      "change_pct": -1.31
+      "price": 338.24,
+      "change": -5.84,
+      "change_pct": -1.7
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 515.79,
-      "change": 2.89,
-      "change_pct": 0.56
+      "price": 512.8,
+      "change": -0.1,
+      "change_pct": -0.02
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 329.17,
-      "change": -3.85,
-      "change_pct": -1.16
+      "price": 330.32,
+      "change": -2.7,
+      "change_pct": -0.81
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 249.24,
-      "change": 0.09,
-      "change_pct": 0.04
+      "price": 248.23,
+      "change": -0.92,
+      "change_pct": -0.37
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 729.53,
-      "change": 4.35,
-      "change_pct": 0.6
+      "price": 725.93,
+      "change": 0.75,
+      "change_pct": 0.1
     },
     {
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 263.0,
+      "change": 5.0,
+      "change_pct": 1.94
     }
   ],
   "reviews": [
