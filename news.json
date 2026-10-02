@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T02:58:53.205928+00:00",
+  "generated_at": "2026-10-02T09:24:02.828750+00:00",
   "count": 50,
   "articles": [
     {
@@ -186,6 +186,30 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
+      "title_en": "Wayfair Coupons: Up to 80% Off October 2026",
+      "summary_en": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+      "image": "https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png",
+      "link": "https://www.wired.com/story/wayfair-promo-code/",
+      "published": "Fri, 02 Oct 2026 05:00:00 +0000",
+      "title_th": "Wayfair Coupons: Up to 80% Off October 2026",
+      "summary_th": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Columbia Promo Codes: 15% Off | October 2026",
+      "summary_en": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
+      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
+      "link": "https://www.wired.com/story/columbia-promo-code/",
+      "published": "Fri, 02 Oct 2026 05:00:00 +0000",
+      "title_th": "Columbia Promo Codes: 15% Off | October 2026",
+      "summary_th": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
       "title_en": "Whatever AI Safety Is, It’s Not This",
       "summary_en": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
       "image": "https://media.wired.com/photos/6abd667878587a545496ec2f/master/pass/Model-Behavior-Trump-AI-Business.jpg",
@@ -217,30 +241,6 @@
       "published": "Thu, 01 Oct 2026 13:00:00 +0000",
       "title_th": "What’s the Best Kindle of 2026 (So Far)?",
       "summary_th": "I’ve tested every single Kindle. Here’s how Amazon’s ebook readers stack up."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "The Best Early Amazon Echo Deals (and the Worst) Ahead of Prime Big Deal Days",
-      "summary_en": "Amazon raised prices across its devices in August. Here are the early device deals ahead of Prime Day that are still worth it—and which aren’t.",
-      "image": "https://media.wired.com/photos/6abd58106f8c64341c3fc8f7/master/pass/Best%20Early%20Amazon%20Device%20Deals%20092026%20top%20art%20SOURCE%20Amazon.jpg",
-      "link": "https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day/",
-      "published": "Thu, 01 Oct 2026 13:00:00 +0000",
-      "title_th": "The Best Early Amazon Echo Deals (and the Worst) Ahead of Prime Big Deal Days",
-      "summary_th": "Amazon raised prices across its devices in August. Here are the early device deals ahead of Prime Day that are still worth it—and which aren’t."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "2 Driverless Cars Crashed Going 155 mph. That Could Be a Good Thing",
-      "summary_en": "Only two of five vehicles finished the race around a notoriously difficult Formula 1 track, exposing what happens when autonomous systems meet blind corners, sensor failures, and physics.",
-      "image": "https://media.wired.com/photos/6abc22142195c6db9de4ac33/master/pass/Imola_lead.jpg",
-      "link": "https://www.wired.com/story/2-driverless-cars-crashed-going-155-mph-that-could-be-a-good-thing/",
-      "published": "Thu, 01 Oct 2026 12:15:00 +0000",
-      "title_th": "2 Driverless Cars Crashed Going 155 mph. That Could Be a Good Thing",
-      "summary_th": "Only two of five vehicles finished the race around a notoriously difficult Formula 1 track, exposing what happens when autonomous systems meet blind corners, sensor failures, and physics."
     },
     {
       "source": "MIT Technology Review",
@@ -664,10 +664,131 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 263.0,
-      "change": 5.0,
-      "change_pct": 1.94
+      "price": 261.0,
+      "change": -2.0,
+      "change_pct": -0.76
     }
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Dear YouTube!",
+      "video_id": "e1q-TuHdc4Y",
+      "link": "https://www.youtube.com/watch?v=e1q-TuHdc4Y",
+      "thumbnail": "https://i2.ytimg.com/vi/e1q-TuHdc4Y/hqdefault.jpg",
+      "published": "2026-09-30T14:42:19+00:00",
+      "title_th": "Dear YouTube!"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Nothing Headphone 1 Pro: They Copied the Wrong Thing!",
+      "video_id": "rayrrXot17M",
+      "link": "https://www.youtube.com/watch?v=rayrrXot17M",
+      "thumbnail": "https://i3.ytimg.com/vi/rayrrXot17M/hqdefault.jpg",
+      "published": "2026-09-29T01:01:35+00:00",
+      "title_th": "Nothing Headphone 1 Pro: They Copied the Wrong Thing!"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Xiaomi 18 Pro Max: They've Done It Again!",
+      "video_id": "DkUuOr21v4s",
+      "link": "https://www.youtube.com/watch?v=DkUuOr21v4s",
+      "thumbnail": "https://i1.ytimg.com/vi/DkUuOr21v4s/hqdefault.jpg",
+      "published": "2026-09-24T22:26:18+00:00",
+      "title_th": "Xiaomi 18 Pro Max: They've Done It Again!"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Mini LED RGB Baby...",
+      "video_id": "5Qr4sKLLP4o",
+      "link": "https://www.youtube.com/shorts/5Qr4sKLLP4o",
+      "thumbnail": "https://i2.ytimg.com/vi/5Qr4sKLLP4o/hqdefault.jpg",
+      "published": "2026-09-29T16:09:38+00:00",
+      "title_th": "Mini LED RGB Baby..."
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "The 18 Pro Max Champion?",
+      "video_id": "IlAklYURF48",
+      "link": "https://www.youtube.com/shorts/IlAklYURF48",
+      "thumbnail": "https://i2.ytimg.com/vi/IlAklYURF48/hqdefault.jpg",
+      "published": "2026-09-25T15:27:12+00:00",
+      "title_th": "The 18 Pro Max Champion?"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "I Use This Every Night...",
+      "video_id": "iV_hs6Xft1E",
+      "link": "https://www.youtube.com/shorts/iV_hs6Xft1E",
+      "thumbnail": "https://i2.ytimg.com/vi/iV_hs6Xft1E/hqdefault.jpg",
+      "published": "2026-09-23T16:38:37+00:00",
+      "title_th": "I Use This Every Night..."
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "เที่ยวจีนแล้วเล่น TikTok ไม่ได้?",
+      "video_id": "AL4NdfmTUkY",
+      "link": "https://www.youtube.com/shorts/AL4NdfmTUkY",
+      "thumbnail": "https://i2.ytimg.com/vi/AL4NdfmTUkY/hqdefault.jpg",
+      "published": "2026-10-02T04:00:02+00:00",
+      "title_th": "เที่ยวจีนแล้วเล่น TikTok ไม่ได้?"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "วันนี้ อาจเป็นวันสุดท้ายที่มีคนจ้างผม",
+      "video_id": "mJKzij5Szi4",
+      "link": "https://www.youtube.com/shorts/mJKzij5Szi4",
+      "thumbnail": "https://i2.ytimg.com/vi/mJKzij5Szi4/hqdefault.jpg",
+      "published": "2026-10-01T23:00:18+00:00",
+      "title_th": "วันนี้ อาจเป็นวันสุดท้ายที่มีคนจ้างผม"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "รีวิว iPhone 18 Pro Max เรารู้อะไรบ้าง",
+      "video_id": "_DCe7pJzr44",
+      "link": "https://www.youtube.com/watch?v=_DCe7pJzr44",
+      "thumbnail": "https://i4.ytimg.com/vi/_DCe7pJzr44/hqdefault.jpg",
+      "published": "2026-10-01T11:00:25+00:00",
+      "title_th": "รีวิว iPhone 18 Pro Max เรารู้อะไรบ้าง"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "iPhone 18 Pro Max vs OPPO Find X9 Ultra - Xiaomi 17 Ultra - vivo X300 Ultra #phonecamera #compare",
+      "video_id": "ITD57YBJOiY",
+      "link": "https://www.youtube.com/shorts/ITD57YBJOiY",
+      "thumbnail": "https://i2.ytimg.com/vi/ITD57YBJOiY/hqdefault.jpg",
+      "published": "2026-10-01T12:42:50+00:00",
+      "title_th": "iPhone 18 Pro Max vs OPPO Find X9 Ultra - Xiaomi 17 Ultra - vivo X300 Ultra #phonecamera #compare"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "iPhone 18 Pro Max ชาร์จไร้สายกับอะไรดี? รุ่นนี้สิ UGREEN MagFlow 2 in-1 Magnetic #ugreen #gadget",
+      "video_id": "aGufdFBbpI0",
+      "link": "https://www.youtube.com/shorts/aGufdFBbpI0",
+      "thumbnail": "https://i2.ytimg.com/vi/aGufdFBbpI0/hqdefault.jpg",
+      "published": "2026-09-30T13:30:26+00:00",
+      "title_th": "iPhone 18 Pro Max ชาร์จไร้สายกับอะไรดี? รุ่นนี้สิ UGREEN MagFlow 2 in-1 Magnetic #ugreen #gadget"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รีวิว Galaxy Tab S12+ | S12 Ultra แท็บเล็ตตัวท็อป ฟีเจอร์ Galaxy AI ครบๆ มีปากกา รองรับเคสคีย์บอร์ด",
+      "video_id": "JGghodoUyLQ",
+      "link": "https://www.youtube.com/watch?v=JGghodoUyLQ",
+      "thumbnail": "https://i3.ytimg.com/vi/JGghodoUyLQ/hqdefault.jpg",
+      "published": "2026-09-30T12:21:54+00:00",
+      "title_th": "รีวิว Galaxy Tab S12+ | S12 Ultra แท็บเล็ตตัวท็อป ฟีเจอร์ Galaxy AI ครบๆ มีปากกา รองรับเคสคีย์บอร์ด"
+    }
+  ]
 }
