@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T21:48:27.253544+00:00",
+  "generated_at": "2026-10-03T02:46:10.925260+00:00",
   "count": 50,
   "articles": [
     {
@@ -126,6 +126,18 @@
       "source": "Ars Technica",
       "flag": "US",
       "category": "software",
+      "title_en": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "summary_en": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+      "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "published": "Fri, 02 Oct 2026 23:03:16 +0000",
+      "title_th": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "summary_th": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ."
+    },
+    {
+      "source": "Ars Technica",
+      "flag": "US",
+      "category": "software",
       "title_en": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
       "summary_en": "It has been a bad month for federal government cybersecurity.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/data-leak-1000x648.jpeg",
@@ -169,18 +181,6 @@
       "published": "Fri, 25 Sep 2026 19:38:59 +0000",
       "title_th": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
       "summary_th": "Ads appearing all over the Internet are trying to scam people."
-    },
-    {
-      "source": "Ars Technica",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-      "summary_en": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-automation-1152x648.jpg",
-      "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-      "published": "Tue, 22 Sep 2026 19:45:47 +0000",
-      "title_th": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-      "summary_th": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier."
     },
     {
       "source": "Wired",
@@ -305,6 +305,18 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "gadget",
+      "title_en": "Apple acknowledges AT&T network bug on iPhone 18 Pro Max",
+      "summary_en": "Experiencing SOS mode on your iPhone 18 Pro Max with AT&T? Apple confirms a hardware issue and details who needs a replacement.",
+      "image": "https://www.engadget.com/img/gallery/apple-acknowledges-att-network-bug-on-iphone-18-pro-max/l-intro-1790992714.jpg",
+      "link": "https://www.engadget.com/2276489/apple-att-network-bug-iphone-18-pro-max/",
+      "published": "Sat, 03 Oct 2026 02:10:16 +0000",
+      "title_th": "Apple acknowledges AT&T network bug on iPhone 18 Pro Max",
+      "summary_th": "Experiencing SOS mode on your iPhone 18 Pro Max with AT&T? Apple confirms a hardware issue and details who needs a replacement."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "chip",
       "title_en": "Meta wants people to build their own Muse gadgets, too",
       "summary_en": "The company also created its own smart home device, the Muse Home Link",
@@ -349,18 +361,6 @@
       "published": "Fri, 02 Oct 2026 17:48:32 +0000",
       "title_th": "iPhone 18 Pro vs iPhone 18 Pro Max: Comparing their displays and batteries",
       "summary_th": "Not much else differentiates them, which isn't a bad thing."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Samsung Galaxy Tab S12 Ultra vs Apple iPad Pro: Here's how they stack up",
-      "summary_en": "Choosing between these two powerhouse tablets is probably simpler than you think.",
-      "image": "https://www.engadget.com/img/gallery/samsung-galaxy-tab-s12-ultra-vs-apple-ipad-pro-heres-how-they-stack-up/l-intro-1790961738.jpg",
-      "link": "https://www.engadget.com/2275982/samsung-galaxy-tab-s12-ultra-vs-apple-ipad-pro-comparison/",
-      "published": "Fri, 02 Oct 2026 17:27:45 +0000",
-      "title_th": "Samsung Galaxy Tab S12 Ultra vs Apple iPad Pro: Here's how they stack up",
-      "summary_th": "Choosing between these two powerhouse tablets is probably simpler than you think."
     },
     {
       "source": "IEEE Spectrum",
@@ -439,12 +439,12 @@
       "flag": "",
       "category": "gadget",
       "title_en": "Apple confirms iPhone 18 Pro Max AT&T cellular issues, affected devices require hardware replacement",
-      "summary_en": "Apple has confirmed an issue causing a “small number” of iPhone 18 Pro Max devices on AT&T to lose cellular service. Apple released software and carrier updates to prevent the issue from affecting additional users, but the company tells 9to5Mac that affected devices that have already lost service will require a hardware replacement. more…",
+      "summary_en": "Apple has confirmed an issue causing a “small number” of iPhone 18 Pro Max devices on AT&T to lose cellular service. Apple released software and carrier updates to prevent the issue from affecting additional users, but the company tells 9to5Mac that devices that have already lost service will require a hardware replacement. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-21.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/",
       "published": "Fri, 02 Oct 2026 20:47:02 +0000",
       "title_th": "Apple confirms iPhone 18 Pro Max AT&T cellular issues, affected devices require hardware replacement",
-      "summary_th": "Apple has confirmed an issue causing a “small number” of iPhone 18 Pro Max devices on AT&T to lose cellular service. Apple released software and carrier updates to prevent the issue from affecting additional users, but the company tells 9to5Mac that affected devices that have already lost service will require a hardware replacement. more…"
+      "summary_th": "Apple has confirmed an issue causing a “small number” of iPhone 18 Pro Max devices on AT&T to lose cellular service. Apple released software and carrier updates to prevent the issue from affecting additional users, but the company tells 9to5Mac that devices that have already lost service will require a hardware replacement. more…"
     },
     {
       "source": "9to5Mac",
@@ -481,6 +481,18 @@
       "published": "Fri, 02 Oct 2026 19:26:34 +0000",
       "title_th": "iOS 27’s Siri gets one thing very right that other AI assistants get wrong",
       "summary_th": "Siri AI is a major upgrade to Apple’s assistant that’s now available in iOS 27. And there’s one standout area I’ve noticed where it differs greatly from other AI assistants—for the better. more…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "review",
+      "title_en": "Here’s everything new in Android 17 QPR3 Beta 1 [Gallery]",
+      "summary_en": "Google today rolled out Android 17 QPR3 Beta 1 in quick succession to start a new preview cycle ahead of an expected March 2027 stable launch. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-3.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/10/02/android-17-qpr3-beta-1-everything-new/",
+      "published": "Fri, 02 Oct 2026 21:39:55 +0000",
+      "title_th": "Here’s everything new in Android 17 QPR3 Beta 1 [Gallery]",
+      "summary_th": "Google today rolled out Android 17 QPR3 Beta 1 in quick succession to start a new preview cycle ahead of an expected March 2027 stable launch. more…"
     },
     {
       "source": "9to5Google",
@@ -529,18 +541,6 @@
       "published": "Fri, 02 Oct 2026 19:30:00 +0000",
       "title_th": "The Pixel 4 is still my favorite Google smartphone hardware, and it holds up",
       "summary_th": "Google Pixel has evolved tremendously over the years, with some radically different designs showing up between generations. As the lineup turns 10, the Pixel 4 remains the one that stands out as my favorite smartphone hardware Google has made yet, and it’s not just about the looks. more…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Friday’s Android app deals and freebies: ISLANDERS, Newtro Boxing, Planescape, more",
-      "summary_en": "Alongside the early fall Prime Day deals at Amazon, all of the best Google Play app and game deals are now ready, including ISLANDERS: Mobile, Cell Clone Wars:Pro, Minabo: A walk through life, Unreal Life, Planescape: Torment: Enhanced, Kero Blaster, Newtro Boxing, and more. Just be sure to dive into the new $40 Airfly Drive wireless Android Auto adapter from Twelve South, and a chance to score the 45mm Pixel Watch 5 at $138 off . The apps await below. more…",
-      "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/10/Google-Play-collage-4a3d95.webp?resize=1200,628",
-      "link": "https://9to5toys.com/2026/10/02/todays-highlight-google-play-deals-20/",
-      "published": "Fri, 02 Oct 2026 18:33:07 +0000",
-      "title_th": "Friday’s Android app deals and freebies: ISLANDERS, Newtro Boxing, Planescape, more",
-      "summary_th": "Alongside the early fall Prime Day deals at Amazon, all of the best Google Play app and game deals are now ready, including ISLANDERS: Mobile, Cell Clone Wars:Pro, Minabo: A walk through life, Unreal Life, Planescape: Torment: Enhanced, Kero Blaster, Newtro Boxing, and more. Just be sure to dive into the new $40 Airfly Drive wireless Android Auto adapter from Twelve South, and a chance to score the 45mm Pixel Watch 5 at $138 off . The apps await below. more…"
     },
     {
       "source": "Electrek",
@@ -669,126 +669,5 @@
       "change_pct": -0.76
     }
   ],
-  "reviews": [
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "Xiaomi 18 Fold: How Does This Happen?",
-      "video_id": "3iRUwVzRDZQ",
-      "link": "https://www.youtube.com/watch?v=3iRUwVzRDZQ",
-      "thumbnail": "https://i4.ytimg.com/vi/3iRUwVzRDZQ/hqdefault.jpg",
-      "published": "2026-10-02T20:50:25+00:00",
-      "title_th": "Xiaomi 18 Fold: How Does This Happen?"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "Dear YouTube!",
-      "video_id": "e1q-TuHdc4Y",
-      "link": "https://www.youtube.com/watch?v=e1q-TuHdc4Y",
-      "thumbnail": "https://i2.ytimg.com/vi/e1q-TuHdc4Y/hqdefault.jpg",
-      "published": "2026-09-30T14:42:19+00:00",
-      "title_th": "Dear YouTube!"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "Nothing Headphone 1 Pro: They Copied the Wrong Thing!",
-      "video_id": "rayrrXot17M",
-      "link": "https://www.youtube.com/watch?v=rayrrXot17M",
-      "thumbnail": "https://i3.ytimg.com/vi/rayrrXot17M/hqdefault.jpg",
-      "published": "2026-09-29T01:01:35+00:00",
-      "title_th": "Nothing Headphone 1 Pro: They Copied the Wrong Thing!"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "Mini LED RGB Baby...",
-      "video_id": "5Qr4sKLLP4o",
-      "link": "https://www.youtube.com/shorts/5Qr4sKLLP4o",
-      "thumbnail": "https://i2.ytimg.com/vi/5Qr4sKLLP4o/hqdefault.jpg",
-      "published": "2026-09-29T16:09:38+00:00",
-      "title_th": "Mini LED RGB Baby..."
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "The 18 Pro Max Champion?",
-      "video_id": "IlAklYURF48",
-      "link": "https://www.youtube.com/shorts/IlAklYURF48",
-      "thumbnail": "https://i2.ytimg.com/vi/IlAklYURF48/hqdefault.jpg",
-      "published": "2026-09-25T15:27:12+00:00",
-      "title_th": "The 18 Pro Max Champion?"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "I Use This Every Night...",
-      "video_id": "iV_hs6Xft1E",
-      "link": "https://www.youtube.com/shorts/iV_hs6Xft1E",
-      "thumbnail": "https://i2.ytimg.com/vi/iV_hs6Xft1E/hqdefault.jpg",
-      "published": "2026-09-23T16:38:37+00:00",
-      "title_th": "I Use This Every Night..."
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "พูดไม่เข้าใจ คือไทยแท้ ! | Go with The Four",
-      "video_id": "u--NoU48S9w",
-      "link": "https://www.youtube.com/watch?v=u--NoU48S9w",
-      "thumbnail": "https://i2.ytimg.com/vi/u--NoU48S9w/hqdefault.jpg",
-      "published": "2026-10-02T11:01:05+00:00",
-      "title_th": "พูดไม่เข้าใจ คือไทยแท้ ! | Go with The Four"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "เที่ยวจีนแล้วเล่น TikTok ไม่ได้?",
-      "video_id": "AL4NdfmTUkY",
-      "link": "https://www.youtube.com/shorts/AL4NdfmTUkY",
-      "thumbnail": "https://i2.ytimg.com/vi/AL4NdfmTUkY/hqdefault.jpg",
-      "published": "2026-10-02T04:00:02+00:00",
-      "title_th": "เที่ยวจีนแล้วเล่น TikTok ไม่ได้?"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "วันนี้ อาจเป็นวันสุดท้ายที่มีคนจ้างผม",
-      "video_id": "mJKzij5Szi4",
-      "link": "https://www.youtube.com/shorts/mJKzij5Szi4",
-      "thumbnail": "https://i2.ytimg.com/vi/mJKzij5Szi4/hqdefault.jpg",
-      "published": "2026-10-01T23:00:18+00:00",
-      "title_th": "วันนี้ อาจเป็นวันสุดท้ายที่มีคนจ้างผม"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "ชี้เป้า iPhone รุ่นเก่ายังน่าซื้อ หลังเปิดตัว iPhone 18 Pro | ลดสูงสุด 15,000 บาท",
-      "video_id": "wQdmKIiNjGU",
-      "link": "https://www.youtube.com/watch?v=wQdmKIiNjGU",
-      "thumbnail": "https://i4.ytimg.com/vi/wQdmKIiNjGU/hqdefault.jpg",
-      "published": "2026-10-02T13:30:13+00:00",
-      "title_th": "ชี้เป้า iPhone รุ่นเก่ายังน่าซื้อ หลังเปิดตัว iPhone 18 Pro | ลดสูงสุด 15,000 บาท"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "iPhone 18 Pro Max vs OPPO Find X9 Ultra - Xiaomi 17 Ultra - vivo X300 Ultra #phonecamera #compare",
-      "video_id": "ITD57YBJOiY",
-      "link": "https://www.youtube.com/shorts/ITD57YBJOiY",
-      "thumbnail": "https://i2.ytimg.com/vi/ITD57YBJOiY/hqdefault.jpg",
-      "published": "2026-10-01T12:42:50+00:00",
-      "title_th": "iPhone 18 Pro Max vs OPPO Find X9 Ultra - Xiaomi 17 Ultra - vivo X300 Ultra #phonecamera #compare"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "iPhone 18 Pro Max ชาร์จไร้สายกับอะไรดี? รุ่นนี้สิ UGREEN MagFlow 2 in-1 Magnetic #ugreen #gadget",
-      "video_id": "aGufdFBbpI0",
-      "link": "https://www.youtube.com/shorts/aGufdFBbpI0",
-      "thumbnail": "https://i2.ytimg.com/vi/aGufdFBbpI0/hqdefault.jpg",
-      "published": "2026-09-30T13:30:26+00:00",
-      "title_th": "iPhone 18 Pro Max ชาร์จไร้สายกับอะไรดี? รุ่นนี้สิ UGREEN MagFlow 2 in-1 Magnetic #ugreen #gadget"
-    }
-  ]
+  "reviews": []
 }
