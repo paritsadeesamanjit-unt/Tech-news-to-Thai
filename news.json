@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-03T18:42:03.714378+00:00",
+  "generated_at": "2026-10-03T23:43:37.163933+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "summary_en": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "published": "Sat, 03 Oct 2026 18:43:57 +0000",
+      "title_th": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "summary_th": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -49,18 +61,6 @@
       "published": "Sat, 03 Oct 2026 14:00:00 +0000",
       "title_th": "All the AI agents that can live in your text messages",
       "summary_th": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Spotify billionaire’s body scan startup has come to America",
-      "summary_en": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/09/Neko-Health-Marylebone-3.jpg?resize=1200,900",
-      "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
-      "published": "Sat, 03 Oct 2026 14:00:00 +0000",
-      "title_th": "Spotify billionaire’s body scan startup has come to America",
-      "summary_th": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it."
     },
     {
       "source": "The Verge",
@@ -306,61 +306,61 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "The original PlayStation 2 security chip has been reverse engineered",
-      "summary_en": "A long‑hidden PS2 security component has finally been decoded, revealing surprising design choices and opening the door to fresh hardware insights.",
-      "image": "https://www.engadget.com/img/gallery/the-original-playstation-2-security-chip-has-been-reverse-engineered/l-intro-1790702902.jpg",
-      "link": "https://www.engadget.com/2273354/playstation-2-security-chip-reverse-engineered/",
-      "published": "Sat, 03 Oct 2026 18:00:00 +0000",
-      "title_th": "The original PlayStation 2 security chip has been reverse engineered",
-      "summary_th": "A long‑hidden PS2 security component has finally been decoded, revealing surprising design choices and opening the door to fresh hardware insights."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "How to customize Camera Control on your iPhone",
-      "summary_en": "Take a closer look at the iPhone's Camera Control feature and why tweaking it can change the way you shoot, even if you've never touched it before.",
-      "image": "https://www.engadget.com/img/gallery/how-to-customize-camera-control-on-your-iphone/l-intro-1790705296.jpg",
-      "link": "https://www.engadget.com/2273351/how-to-customize-iphone-camera-control/",
-      "published": "Sat, 03 Oct 2026 16:30:00 +0000",
-      "title_th": "How to customize Camera Control on your iPhone",
-      "summary_th": "Take a closer look at the iPhone's Camera Control feature and why tweaking it can change the way you shoot, even if you've never touched it before."
+      "title_en": "This little-known app lets you display song lyrics on Apple CarPlay",
+      "summary_en": "You can host your own episode of Carpool Karaoke with the Dynamic Lyrics CarPlay widget.",
+      "image": "https://www.engadget.com/img/gallery/this-little-known-app-lets-you-display-song-lyrics-on-apple-carplay/l-intro-1790792332.jpg",
+      "link": "https://www.engadget.com/2273743/little-known-app-display-song-lyrics-apple-carplay/",
+      "published": "Sat, 03 Oct 2026 23:00:00 +0000",
+      "title_th": "This little-known app lets you display song lyrics on Apple CarPlay",
+      "summary_th": "You can host your own episode of Carpool Karaoke with the Dynamic Lyrics CarPlay widget."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Former OpenAI employee says AI should be regulated like nuclear power plants",
-      "summary_en": "The company's former safety lead said frontier AI model releases should have \"layers of redundancy and careful, time-consuming planning.\"",
-      "image": "https://www.engadget.com/img/gallery/former-openai-employee-says-ai-should-be-regulated-like-nuclear-power-plants/l-intro-1791044463.jpg",
-      "link": "https://www.engadget.com/2276577/former-openai-employee-says-ai-should-be-regulated-like-nuclear-power-plants/",
-      "published": "Sat, 03 Oct 2026 16:25:15 +0000",
-      "title_th": "Former OpenAI employee says AI should be regulated like nuclear power plants",
-      "summary_th": "The company's former safety lead said frontier AI model releases should have \"layers of redundancy and careful, time-consuming planning.\""
+      "title_en": "Why this ancient cable still connects to modern TVs with a simple adapter",
+      "summary_en": "DVI to HDMI adapters are a cheap and simple way to connect up old hardware, but don't expect miracles.",
+      "image": "https://www.engadget.com/img/gallery/why-this-ancient-cable-still-connects-to-modern-tvs-with-a-simple-adapter/l-intro-1790791400.jpg",
+      "link": "https://www.engadget.com/2273698/dvi-cable-why-still-connects-modern-tv-simple-adapter/",
+      "published": "Sat, 03 Oct 2026 22:45:00 +0000",
+      "title_th": "Why this ancient cable still connects to modern TVs with a simple adapter",
+      "summary_th": "DVI to HDMI adapters are a cheap and simple way to connect up old hardware, but don't expect miracles."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "gadget",
-      "title_en": "iPhone Duo vs. iPad Mini: Which Apple device is right for you?",
-      "summary_en": "Apple's iPhone Duo provides a tablet-like experience with its inside screen, but this might not be better than a dedicated iPad for you.",
-      "image": "https://www.engadget.com/img/gallery/iphone-duo-vs-ipad-mini-which-apple-device-is-right-for-you/l-intro-1790697064.jpg",
-      "link": "https://www.engadget.com/2273344/iphone-duo-vs-ipad-mini-which-right-comparison/",
-      "published": "Sat, 03 Oct 2026 15:30:00 +0000",
-      "title_th": "iPhone Duo vs. iPad Mini: Which Apple device is right for you?",
-      "summary_th": "Apple's iPhone Duo provides a tablet-like experience with its inside screen, but this might not be better than a dedicated iPad for you."
+      "title_en": "How to improve your laptop's webcam quality",
+      "summary_en": "Laptop webcams are often budget devices, but with some better light and the right settings, you can make them look way better.",
+      "image": "https://www.engadget.com/img/gallery/how-to-improve-your-laptops-webcam-quality/l-intro-1790790673.jpg",
+      "link": "https://www.engadget.com/2273684/how-to-improve-laptop-webcam-quality/",
+      "published": "Sat, 03 Oct 2026 22:30:00 +0000",
+      "title_th": "How to improve your laptop's webcam quality",
+      "summary_th": "Laptop webcams are often budget devices, but with some better light and the right settings, you can make them look way better."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "One missing Google Docs feature has a pretty easy workaround",
-      "summary_en": "Dark mode is available on the Google Docs mobile app, but not the web version. Luckily, there are some ways to achieve dark mode on the web anyway.",
-      "image": "https://www.engadget.com/img/gallery/one-missing-google-docs-feature-has-a-pretty-easy-workaround/l-intro-1790686896.jpg",
-      "link": "https://www.engadget.com/2273343/missing-feature-google-docs-easy-workaround-dark-mode-extension/",
-      "published": "Sat, 03 Oct 2026 15:00:00 +0000",
-      "title_th": "One missing Google Docs feature has a pretty easy workaround",
-      "summary_th": "Dark mode is available on the Google Docs mobile app, but not the web version. Luckily, there are some ways to achieve dark mode on the web anyway."
+      "title_en": "Online retailers that don't support digital wallets are losing Gen Z customers",
+      "summary_en": "A study suggests younger people are more likely to walk away if their preferred payment option isn't supported.",
+      "image": "https://www.engadget.com/img/gallery/online-retailers-that-dont-support-digital-wallets-are-losing-gen-z-customers/l-intro-1790786612.jpg",
+      "link": "https://www.engadget.com/2273492/online-retailers-dont-support-digital-wallets-losing-gen-z-customers/",
+      "published": "Sat, 03 Oct 2026 22:00:00 +0000",
+      "title_th": "Online retailers that don't support digital wallets are losing Gen Z customers",
+      "summary_th": "A study suggests younger people are more likely to walk away if their preferred payment option isn't supported."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "ICE is reportedly using a Palantir database to compile dossiers on protestors",
+      "summary_en": "An attorney representing protestors said this infringes on First Amendment rights.",
+      "image": "https://www.engadget.com/img/gallery/ice-is-reportedly-using-a-palantir-database-to-compile-dossiers-on-protestors/l-intro-1791057828.jpg",
+      "link": "https://www.engadget.com/2276609/ice-is-reportedly-using-a-palantir-database-to-compile-dossiers-on-protestors/",
+      "published": "Sat, 03 Oct 2026 20:08:20 +0000",
+      "title_th": "ICE is reportedly using a Palantir database to compile dossiers on protestors",
+      "summary_th": "An attorney representing protestors said this infringes on First Amendment rights."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,54 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think",
+      "summary_en": "Following the compute-based usage change in May, Google will soon introduce limits on which Gemini models free users and AI Plus subscribers can access. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/gemini-logo.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/",
+      "published": "Sat, 03 Oct 2026 21:26:32 +0000",
+      "title_th": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think",
+      "summary_th": "Following the compute-based usage change in May, Google will soon introduce limits on which Gemini models free users and AI Plus subscribers can access. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Watch F1 on Apple TV tonight, free for everyone in the US",
+      "summary_en": "The Bahrain Grand Prix is streaming for free on Apple TV this weekend, subscription not required. Rather amusingly, the location of the Bahrain Grand Prix is actually in Sepang, Malaysia. Usually, F1 on Apple TV requires a paid subscription. But this weekend, it’s free for everyone to tune in. You can catch up on qualifying in preparation to stream the live race tonight, which kicks off at 3 AM Eastern Time. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-tv-bahrain-grand-prix.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/03/watch-f1-on-apple-tv-tonight-free-bahrain-gp/",
+      "published": "Sat, 03 Oct 2026 19:44:04 +0000",
+      "title_th": "Watch F1 on Apple TV tonight, free for everyone in the US",
+      "summary_th": "The Bahrain Grand Prix is streaming for free on Apple TV this weekend, subscription not required. Rather amusingly, the location of the Bahrain Grand Prix is actually in Sepang, Malaysia. Usually, F1 on Apple TV requires a paid subscription. But this weekend, it’s free for everyone to tune in. You can catch up on qualifying in preparation to stream the live race tonight, which kicks off at 3 AM Eastern Time. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Indie App Spotlight: ‘HEVCut’ helps you trim your photo library without deleting anything",
+      "summary_en": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . Everyone has issues with iPhone storage. Even if you use iCloud, Apple has a large gap between tiers, with it immediately jumping from 200GB at $3 to 2TB at $10. If you just want a little bit more than 200GB, it can be hard to justify that upgrade. HEVCut aims to fix this by optimizing your photo library, without needing to delete anything. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/HEVCut.png?resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/03/indie-app-spotlight-hevcut-iphone-photo-storage/",
+      "published": "Sat, 03 Oct 2026 19:30:00 +0000",
+      "title_th": "Indie App Spotlight: ‘HEVCut’ helps you trim your photo library without deleting anything",
+      "summary_th": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . Everyone has issues with iPhone storage. Even if you use iCloud, Apple has a large gap between tiers, with it immediately jumping from 200GB at $3 to 2TB at $10. If you just want a little bit more than 200GB, it can be hard to justify that upgrade. HEVCut aims to fix this by optimizing your photo library, without needing to delete anything. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Here’s why I upgraded from the Apple Watch Series 10 to Series 12",
+      "summary_en": "I’m someone who doesn’t often upgrade my Apple Watch right when a new one comes out. The Apple Watch Series 10 I owned prior was only purchased this January, despite initially coming out in September 2024. That said, Apple Watch Series 12 was a highly compelling purchase, despite the fact that the two largely share the same design language. Here’s why I took the leap. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-siri-ai.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/03/heres-why-i-upgraded-from-the-apple-watch-series-10-to-series-12/",
+      "published": "Sat, 03 Oct 2026 18:48:22 +0000",
+      "title_th": "Here’s why I upgraded from the Apple Watch Series 10 to Series 12",
+      "summary_th": "I’m someone who doesn’t often upgrade my Apple Watch right when a new one comes out. The Apple Watch Series 10 I owned prior was only purchased this January, despite initially coming out in September 2024. That said, Apple Watch Series 12 was a highly compelling purchase, despite the fact that the two largely share the same design language. Here’s why I took the leap. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Here’s everything we know so far about Apple’s next entry-level iPad: A19 chip, more",
       "summary_en": "Apple’s current iPad, the A16 model, has gone untouched for well over a year. It remains the only device in Apple’s core product lineup without support for Apple Intelligence. Rumors had swirled for quite some time about an A18 model coming this year . Now, it’s sounding like Apple has an even bigger plan. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/Apple-iPad-10th-gen-hero-221018_Full-Bleed-Image.jpg.xlarge_2x.jpg?quality=82&strip=all&resize=1200,628",
@@ -435,52 +483,28 @@
       "summary_th": "Apple’s current iPad, the A16 model, has gone untouched for well over a year. It remains the only device in Apple’s core product lineup without support for Apple Intelligence. Rumors had swirled for quite some time about an A18 model coming this year . Now, it’s sounding like Apple has an even bigger plan. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple @ Work: The numbers on AI trust for IT are not great, and one company is trying to fix it",
-      "summary_en": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . MacPaw spent nearly two decades building consumer software for Mac users. CleanMyMac is one of the Mac utilities on the market, and it’s my go-to when I need to free up hard drive space, uninstall apps, etc. The company is making a different kind of bet with Leebry , a Work AI platform ",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/03/macpaw-leebry/",
-      "published": "Sat, 03 Oct 2026 13:45:00 +0000",
-      "title_th": "Apple @ Work: The numbers on AI trust for IT are not great, and one company is trying to fix it",
-      "summary_th": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . MacPaw spent nearly two decades building consumer software for Mac users. CleanMyMac is one of the Mac utilities on the market, and it’s my go-to when I need to free up hard drive space, uninstall apps, etc. The company is making a different kind of bet with Leebry , a Work AI platform "
+      "title_en": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think",
+      "summary_en": "Following the compute-based usage change in May, Google will soon introduce limits on which Gemini models free users and AI Plus subscribers can access. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/gemini-logo.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/",
+      "published": "Sat, 03 Oct 2026 20:57:47 +0000",
+      "title_th": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think",
+      "summary_th": "Following the compute-based usage change in May, Google will soon introduce limits on which Gemini models free users and AI Plus subscribers can access. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple weekend deals: MacBook Pro $500 off, AirTag 2, Prime Day HomeKit discounts, MagSafe chargers, more",
-      "summary_en": "While we are still awaiting some of the big fall Prime Day deals on some Apple products, there are already notable discounts up for grabs right now like the $500 price drop on this 2TB M5 Pro MacBook Pro, the new Beats 360 with 80% off the Cushion Kits, and Amazon low pricing on AirTag 2. We are also already tracking the official fall Prime Day price drops on some of our favorite HomeKit smart home brands like ecobee and a sizable collection of Eve smart plugs, outlets, switches and more, not to mention new all-time lows on many of the latest Belkin 25W MagSafe charging stations. Just be sure to check out the popular new Twelve South Airfly Drive wireless CarPlay adapter at $40 on your way down. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-weekend-deals-October-2026.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/03/apple-weekend-deals-macbook-discounts/",
-      "published": "Sat, 03 Oct 2026 12:21:42 +0000",
-      "title_th": "Apple weekend deals: MacBook Pro $500 off, AirTag 2, Prime Day HomeKit discounts, MagSafe chargers, more",
-      "summary_th": "While we are still awaiting some of the big fall Prime Day deals on some Apple products, there are already notable discounts up for grabs right now like the $500 price drop on this 2TB M5 Pro MacBook Pro, the new Beats 360 with 80% off the Cushion Kits, and Amazon low pricing on AirTag 2. We are also already tracking the official fall Prime Day price drops on some of our favorite HomeKit smart home brands like ecobee and a sizable collection of Eve smart plugs, outlets, switches and more, not to mention new all-time lows on many of the latest Belkin 25W MagSafe charging stations. Just be sure to check out the popular new Twelve South Airfly Drive wireless CarPlay adapter at $40 on your way down. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple TV releases ‘The Sisters Grimm’ season 2 in full",
-      "summary_en": "Apple TV today released the second season of its animated fantasy adventure series “ The Sisters Grimm ,” with all six new episodes now available to stream. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/sisters-grimm.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/02/apple-tv-releases-the-sisters-grimm-season-2-in-full/",
-      "published": "Fri, 02 Oct 2026 21:05:13 +0000",
-      "title_th": "Apple TV releases ‘The Sisters Grimm’ season 2 in full",
-      "summary_th": "Apple TV today released the second season of its animated fantasy adventure series “ The Sisters Grimm ,” with all six new episodes now available to stream. Here are the details. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple confirms iPhone 18 Pro Max AT&T cellular issues, affected devices require hardware replacement",
-      "summary_en": "Apple has confirmed an issue causing a “small number” of iPhone 18 Pro Max devices on AT&T to lose cellular service. Apple released software and carrier updates to prevent the issue from affecting additional users, but the company tells 9to5Mac that devices that have already lost service will require a hardware replacement. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-21.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/",
-      "published": "Fri, 02 Oct 2026 20:47:02 +0000",
-      "title_th": "Apple confirms iPhone 18 Pro Max AT&T cellular issues, affected devices require hardware replacement",
-      "summary_th": "Apple has confirmed an issue causing a “small number” of iPhone 18 Pro Max devices on AT&T to lose cellular service. Apple released software and carrier updates to prevent the issue from affecting additional users, but the company tells 9to5Mac that devices that have already lost service will require a hardware replacement. more…"
+      "title_en": "Google’s original Pixel Fold was the right idea years ahead of its time",
+      "summary_en": "Google’s original Pixel Fold was inherently flawed but also fundamentally way better than I expected and, thanks to recent arrivals, also way ahead of its time. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/pixel-at-10-google-pixel-fold.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/10/03/googles-original-pixel-fold-was-the-right-idea-years-ahead-of-its-time/",
+      "published": "Sat, 03 Oct 2026 19:30:00 +0000",
+      "title_th": "Google’s original Pixel Fold was the right idea years ahead of its time",
+      "summary_th": "Google’s original Pixel Fold was inherently flawed but also fundamentally way better than I expected and, thanks to recent arrivals, also way ahead of its time. more…"
     },
     {
       "source": "9to5Google",
@@ -519,28 +543,16 @@
       "summary_th": "Following a QPR2 release earlier this week, Google today is rolling out Android 17 QPR3 Beta 1. This should see a stable release in March 2027. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Pixelated 119: 50 days later, it’s still a phone",
-      "summary_en": "Welcome to Pixelated episode 119. This week, Ben Schoon fills in for Damien as we discuss our first Pixel 11a leak and the first 50 days of the flagship Pixel 11 series. We also dive into our thoughts on Amazon’s new $80 button-equipped Kindle case, and Abner’s love of remotes. Enjoy the show? You can listen to our weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro for just $5 per month, or about $1 per episode. Sponsored by Proton Unlimited : Pixelated listeners can save 30% on an annual subscription to the company’s suite of privacy-friendly services by signing up using our link . Thanks to Proton Unlimited for sponsoring the podcast. Subscribe YouTube Podcasts Pocket Casts Spotify Amazon Music Apple Podcasts Overcast more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/10/02/pixelated-119-50-days-later-its-still-a-phone/",
-      "published": "Fri, 02 Oct 2026 20:30:00 +0000",
-      "title_th": "Pixelated 119: 50 days later, it’s still a phone",
-      "summary_th": "Welcome to Pixelated episode 119. This week, Ben Schoon fills in for Damien as we discuss our first Pixel 11a leak and the first 50 days of the flagship Pixel 11 series. We also dive into our thoughts on Amazon’s new $80 button-equipped Kindle case, and Abner’s love of remotes. Enjoy the show? You can listen to our weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro for just $5 per month, or about $1 per episode. Sponsored by Proton Unlimited : Pixelated listeners can save 30% on an annual subscription to the company’s suite of privacy-friendly services by signing up using our link . Thanks to Proton Unlimited for sponsoring the podcast. Subscribe YouTube Podcasts Pocket Casts Spotify Amazon Music Apple Podcasts Overcast more…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Gemini for Android Auto is just giving up on answers for some drivers",
-      "summary_en": "The promise of Gemini for Android Auto is huge, as the AI assistant is theoretically more capable than Assistant was. But, as it’s now becoming the only option, a weird issue is leaving Gemini for Android Auto perhaps less than useless, as it just gives up on answers from drivers. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/Ask-Gemini-on-Android-Auto.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/10/02/gemini-for-android-auto-is-just-giving-up-on-answers-for-some-drivers/",
-      "published": "Fri, 02 Oct 2026 19:45:00 +0000",
-      "title_th": "Gemini for Android Auto is just giving up on answers for some drivers",
-      "summary_th": "The promise of Gemini for Android Auto is huge, as the AI assistant is theoretically more capable than Assistant was. But, as it’s now becoming the only option, a weird issue is leaving Gemini for Android Auto perhaps less than useless, as it just gives up on answers from drivers. more…"
+      "category": "ev",
+      "title_en": "Hasta la vista, baby – Figure F.02 humanoid robots decommissioned, T2-style",
+      "summary_en": "Decommissioning humanoid robots that are packed with proprietary tech is a tricky thing – you want to make sure none of the expensive raw material goes to waste, but you also need to make sure no one else gets a hold of your tech. The solution? Have your robots hurl themselves into a vat of molten steel, Terminator 2-style. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/figure-terminator-style.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/03/hasta-la-vista-baby-figure-f-02-humanoid-robots-decommissioned-t2-style/",
+      "published": "Sat, 03 Oct 2026 19:31:13 +0000",
+      "title_th": "Hasta la vista, baby – Figure F.02 humanoid robots decommissioned, T2-style",
+      "summary_th": "Decommissioning humanoid robots that are packed with proprietary tech is a tricky thing – you want to make sure none of the expensive raw material goes to waste, but you also need to make sure no one else gets a hold of your tech. The solution? Have your robots hurl themselves into a vat of molten steel, Terminator 2-style. more…"
     },
     {
       "source": "Electrek",
@@ -589,18 +601,6 @@
       "published": "Sat, 03 Oct 2026 11:58:43 +0000",
       "title_th": "Watt’s up, doc? Huddig hybrid loader gets a big battery boost [video]",
       "summary_th": "Swedish heavy equipment brand HUDDIG has given its 1370 hybrid wheel loader platform a major battery upgrade for the new model year, boosting its battery capacity from 44 kWh to fully 61 kWh – an impressive, 40% upgrade! more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Kia sweetens EV deals with up to $10,000 off",
-      "summary_en": "With the new EV3 now arriving at dealerships, Kia is throwing some extra savings into the mix with up to $10,000 off in customer cash on select EVs. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Kia-EV-offers-10000.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/02/kia-sweetens-ev-deals-10000-off/",
-      "published": "Fri, 02 Oct 2026 21:06:34 +0000",
-      "title_th": "Kia sweetens EV deals with up to $10,000 off",
-      "summary_th": "With the new EV3 now arriving at dealerships, Kia is throwing some extra savings into the mix with up to $10,000 off in customer cash on select EVs. more…"
     }
   ],
   "indices": [
@@ -733,6 +733,16 @@
     {
       "channel": "Beartai",
       "country": "TH",
+      "title_en": "ไม่อยากร้องเพลงต่อหน้าใครอีกเลย",
+      "video_id": "oi06_fM3WgQ",
+      "link": "https://www.youtube.com/shorts/oi06_fM3WgQ",
+      "thumbnail": "https://i4.ytimg.com/vi/oi06_fM3WgQ/hqdefault.jpg",
+      "published": "2026-10-03T23:00:29+00:00",
+      "title_th": "ไม่อยากร้องเพลงต่อหน้าใครอีกเลย"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
       "title_en": "'ปู Blackhead' ต้องอยู่ต่อไป แม้ใจสลาย | บุคคลล้มละลุก",
       "video_id": "kIDFuxhQ_-s",
       "link": "https://www.youtube.com/watch?v=kIDFuxhQ_-s",
@@ -749,16 +759,6 @@
       "thumbnail": "https://i2.ytimg.com/vi/5awtBq4vhwU/hqdefault.jpg",
       "published": "2026-10-02T23:00:23+00:00",
       "title_th": "อาชีพเดียว อันตราย ?"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "พูดไม่เข้าใจ คือไทยแท้ ! | Go with The Four",
-      "video_id": "u--NoU48S9w",
-      "link": "https://www.youtube.com/watch?v=u--NoU48S9w",
-      "thumbnail": "https://i2.ytimg.com/vi/u--NoU48S9w/hqdefault.jpg",
-      "published": "2026-10-02T11:01:05+00:00",
-      "title_th": "พูดไม่เข้าใจ คือไทยแท้ ! | Go with The Four"
     },
     {
       "channel": "Droidsans",
