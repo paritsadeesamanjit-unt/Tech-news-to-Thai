@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T23:58:40.536063+00:00",
+  "generated_at": "2026-10-05T02:50:38.521146+00:00",
   "count": 50,
   "articles": [
     {
@@ -305,6 +305,42 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "chip",
+      "title_en": "What are the benefits of having a second monitor?",
+      "summary_en": "Adding a second monitor is a huge upgrade, even if you aren't doing intensive work like editing video or accounting. More screen space is always helpful.",
+      "image": "https://www.engadget.com/img/gallery/what-are-the-benefits-of-having-a-second-monitor/l-intro-1790876033.jpg",
+      "link": "https://www.engadget.com/2274822/benefits-of-second-monitor-explained/",
+      "published": "Mon, 05 Oct 2026 00:30:00 +0000",
+      "title_th": "What are the benefits of having a second monitor?",
+      "summary_th": "Adding a second monitor is a huge upgrade, even if you aren't doing intensive work like editing video or accounting. More screen space is always helpful."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "How did retro consoles handle graphics before modern GPUs?",
+      "summary_en": "Graphics chips could draw but not compute, until the Xbox arrived.",
+      "image": "https://www.engadget.com/img/gallery/how-did-retro-consoles-handle-graphics-before-modern-gpus/l-intro-1790873864.jpg",
+      "link": "https://www.engadget.com/2274743/how-retro-consoles-handled-graphics-before-modern-gpu/",
+      "published": "Mon, 05 Oct 2026 00:00:00 +0000",
+      "title_th": "How did retro consoles handle graphics before modern GPUs?",
+      "summary_th": "Graphics chips could draw but not compute, until the Xbox arrived."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "The reason the Mac mini is cheaper than a MacBook",
+      "summary_en": "If you're trying to decide between a MacBook and a Mac mini, you might be interested to know why there's a price difference.",
+      "image": "https://www.engadget.com/img/gallery/the-reason-the-mac-mini-is-cheaper-than-a-macbook/l-intro-1790868171.jpg",
+      "link": "https://www.engadget.com/2274707/mac-mini-cheaper-than-macbook-reason/",
+      "published": "Sun, 04 Oct 2026 23:45:00 +0000",
+      "title_th": "The reason the Mac mini is cheaper than a MacBook",
+      "summary_th": "If you're trying to decide between a MacBook and a Mac mini, you might be interested to know why there's a price difference."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "gadget",
       "title_en": "You should avoid using a screen protector on your MacBook — here's why",
       "summary_en": "Screen protectors can do more harm than good.",
@@ -325,42 +361,6 @@
       "published": "Sun, 04 Oct 2026 23:15:00 +0000",
       "title_th": "Every Starlink Dish Available: How To Know Which Setup May Be Right For You",
       "summary_th": "Everyone has different needs when it comes to internet connectivity, and Starlink's dish selection caters to a many applications, from stationary to mobile."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "The popular Apple features you won't be getting with the iPhone Duo",
-      "summary_en": "The iPhone Duo lacks a few features we're used to seeing on other iPhones.",
-      "image": "https://www.engadget.com/img/gallery/the-popular-apple-features-you-wont-be-getting-with-the-iphone-duo/l-intro-1790443535.jpg",
-      "link": "https://www.engadget.com/2274700/iphone-duo-apple-popular-features-wont-come-with/",
-      "published": "Sun, 04 Oct 2026 22:45:00 +0000",
-      "title_th": "The popular Apple features you won't be getting with the iPhone Duo",
-      "summary_th": "The iPhone Duo lacks a few features we're used to seeing on other iPhones."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "How the iPhone Duo will improve your group selfies",
-      "summary_en": "The iPhone Duo's foldable form factor allows for more placement options, but there are also new camera features you should know about.",
-      "image": "https://www.engadget.com/img/gallery/how-the-iphone-duo-will-improve-your-group-selfies/l-intro-1790799711.jpg",
-      "link": "https://www.engadget.com/2274699/iphone-duo-smart-take-ai-photo-capturing-feature-improve-group-selfies/",
-      "published": "Sun, 04 Oct 2026 22:30:00 +0000",
-      "title_th": "How the iPhone Duo will improve your group selfies",
-      "summary_th": "The iPhone Duo's foldable form factor allows for more placement options, but there are also new camera features you should know about."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "How to improve your iPhone's call quality",
-      "summary_en": "Your iPhone should handle calls reliably, but if you can't hear the other person or calls aren't stable, it's time to run through a few fixes.",
-      "image": "https://www.engadget.com/img/gallery/how-to-improve-your-iphones-call-quality/l-intro-1790872478.jpg",
-      "link": "https://www.engadget.com/2274693/how-to-improve-iphone-call-quality-voice-isolation/",
-      "published": "Sun, 04 Oct 2026 22:00:00 +0000",
-      "title_th": "How to improve your iPhone's call quality",
-      "summary_th": "Your iPhone should handle calls reliably, but if you can't hear the other person or calls aren't stable, it's time to run through a few fixes."
     },
     {
       "source": "IEEE Spectrum",
@@ -729,66 +729,6 @@
       "thumbnail": "https://i2.ytimg.com/vi/iV_hs6Xft1E/hqdefault.jpg",
       "published": "2026-09-23T16:38:37+00:00",
       "title_th": "I Use This Every Night..."
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "มืออาชีพยุคนี้ต้องเก่งแค่ไหน?",
-      "video_id": "7hm1625mfOU",
-      "link": "https://www.youtube.com/shorts/7hm1625mfOU",
-      "thumbnail": "https://i4.ytimg.com/vi/7hm1625mfOU/hqdefault.jpg",
-      "published": "2026-10-04T23:00:54+00:00",
-      "title_th": "มืออาชีพยุคนี้ต้องเก่งแค่ไหน?"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "ไม่อยากร้องเพลงต่อหน้าใครอีกเลย",
-      "video_id": "oi06_fM3WgQ",
-      "link": "https://www.youtube.com/shorts/oi06_fM3WgQ",
-      "thumbnail": "https://i4.ytimg.com/vi/oi06_fM3WgQ/hqdefault.jpg",
-      "published": "2026-10-03T23:00:29+00:00",
-      "title_th": "ไม่อยากร้องเพลงต่อหน้าใครอีกเลย"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "'ปู Blackhead' ต้องอยู่ต่อไป แม้ใจสลาย | บุคคลล้มละลุก",
-      "video_id": "kIDFuxhQ_-s",
-      "link": "https://www.youtube.com/watch?v=kIDFuxhQ_-s",
-      "thumbnail": "https://i4.ytimg.com/vi/kIDFuxhQ_-s/hqdefault.jpg",
-      "published": "2026-10-03T06:00:31+00:00",
-      "title_th": "'ปู Blackhead' ต้องอยู่ต่อไป แม้ใจสลาย | บุคคลล้มละลุก"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "iPhone 15 ไอโฟนที่ราคาถูกสุดในตอนนี้ มือ 1 ร้านออนไลน์ ยังน่าใช้อยู่มั้ยตอนนี้? #iPhone15 #ไอโฟน",
-      "video_id": "x8E4svPosuo",
-      "link": "https://www.youtube.com/shorts/x8E4svPosuo",
-      "thumbnail": "https://i1.ytimg.com/vi/x8E4svPosuo/hqdefault.jpg",
-      "published": "2026-10-04T13:44:16+00:00",
-      "title_th": "iPhone 15 ไอโฟนที่ราคาถูกสุดในตอนนี้ มือ 1 ร้านออนไลน์ ยังน่าใช้อยู่มั้ยตอนนี้? #iPhone15 #ไอโฟน"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "Samsung Galaxy S25 Ultra เหลือ 25,000+ ต่อไปไม่มีราคานี้แล้วนะ #Samsung #GalaxyS25Ultra #ซัมซุง",
-      "video_id": "bIJGRE7Njmc",
-      "link": "https://www.youtube.com/shorts/bIJGRE7Njmc",
-      "thumbnail": "https://i3.ytimg.com/vi/bIJGRE7Njmc/hqdefault.jpg",
-      "published": "2026-10-03T14:00:36+00:00",
-      "title_th": "Samsung Galaxy S25 Ultra เหลือ 25,000+ ต่อไปไม่มีราคานี้แล้วนะ #Samsung #GalaxyS25Ultra #ซัมซุง"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "Galaxy S27 Ultra อาจไม่มี Tele 3X ? / เรนเดอร์ Motorola razr flex / Honor Magic 9 Pro Max | หิวข่าว",
-      "video_id": "OiujZE77jQo",
-      "link": "https://www.youtube.com/watch?v=OiujZE77jQo",
-      "thumbnail": "https://i4.ytimg.com/vi/OiujZE77jQo/hqdefault.jpg",
-      "published": "2026-10-03T13:04:32+00:00",
-      "title_th": "Galaxy S27 Ultra อาจไม่มี Tele 3X ? / เรนเดอร์ Motorola razr flex / Honor Magic 9 Pro Max | หิวข่าว"
     }
   ]
 }
