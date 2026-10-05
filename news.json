@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T02:50:38.521146+00:00",
+  "generated_at": "2026-10-05T09:59:15.907510+00:00",
   "count": 50,
   "articles": [
     {
@@ -185,6 +185,30 @@
     {
       "source": "Wired",
       "flag": "US",
+      "category": "ai",
+      "title_en": "A Prediction Market About the Past? Sure, Why Not!",
+      "summary_en": "As prediction markets surge in popularity, a new platform called Verifact Markets is pushing the concept even further, letting users trade on “disputed facts.”",
+      "image": "https://media.wired.com/photos/6abe92d983ce388ebf1665d3/master/pass/Business_The%20Dumbest%20Prediction%20Market%20Yet%20Is%20Here,%20and%20It%20Lets%20You%20Bet%20on%20Things%20That%20Have%20Already%20Happened_v1.jpg",
+      "link": "https://www.wired.com/story/a-prediction-market-about-the-past-sure-why-not/",
+      "published": "Mon, 05 Oct 2026 09:30:00 +0000",
+      "title_th": "A Prediction Market About the Past? Sure, Why Not!",
+      "summary_th": "As prediction markets surge in popularity, a new platform called Verifact Markets is pushing the concept even further, letting users trade on “disputed facts.”"
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "review",
+      "title_en": "Staples Print and Marketing Services Review: Fast Holiday Gifts",
+      "summary_en": "Staples’s printing service offers fast pickup and in-store experts who can help you get your family photos, novelty gifts, and business documents looking exactly how you want.",
+      "image": "https://media.wired.com/photos/6abd5e2a48a41f7dfebad371/master/pass/Staples-Brings-Digital-Media-Into-the-Real-World,-Usually-in-One-Day.jpg",
+      "link": "https://www.wired.com/story/staples-print-and-marketing-services/",
+      "published": "Mon, 05 Oct 2026 09:00:00 +0000",
+      "title_th": "Staples Print and Marketing Services Review: Fast Holiday Gifts",
+      "summary_th": "Staples’s printing service offers fast pickup and in-store experts who can help you get your family photos, novelty gifts, and business documents looking exactly how you want."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
       "category": "review",
       "title_en": "15 Best Office Chairs of 2026—We Tested 70 to Pick Them",
       "summary_en": "Sitting at a desk for hours? Upgrade your WFH setup and work in style with these comfy WIRED-tested seats.",
@@ -209,18 +233,6 @@
     {
       "source": "Wired",
       "flag": "US",
-      "category": "ai",
-      "title_en": "The Best Online Gift Cards and Digital Gift Ideas (2026)",
-      "summary_en": "Forget the wrapping paper and shipping. Go digital this year with subscriptions, ebooks, apps, and more.",
-      "image": "https://media.wired.com/photos/672938b755735f182d5c87d6/master/pass/Digital-Giftcards-Presents-GEAR-2M7H85F.jpg",
-      "link": "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/",
-      "published": "Sun, 04 Oct 2026 10:30:00 +0000",
-      "title_th": "The Best Online Gift Cards and Digital Gift Ideas (2026)",
-      "summary_th": "Forget the wrapping paper and shipping. Go digital this year with subscriptions, ebooks, apps, and more."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
       "category": "review",
       "title_en": "Meta Glasses Nova (Gen 3) Review: Not Much New",
       "summary_en": "Meta and Ray-Ban’s new smart glasses have slightly better batteries and mics. And yes, they still have cameras.",
@@ -231,16 +243,28 @@
       "summary_th": "Meta and Ray-Ban’s new smart glasses have slightly better batteries and mics. And yes, they still have cameras."
     },
     {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
       "category": "ai",
-      "title_en": "Rural Data Centers Are in for a Big Federal Tax Break",
-      "summary_en": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
-      "image": "https://media.wired.com/photos/6abfbb7863cea41649272752/master/pass/100226-Power%20Play.jpg",
-      "link": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
-      "published": "Sun, 04 Oct 2026 10:00:00 +0000",
-      "title_th": "Rural Data Centers Are in for a Big Federal Tax Break",
-      "summary_th": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash."
+      "title_en": "People really hate AI, so why can’t they get enough?",
+      "summary_en": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/ai-relationship3.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "published": "Mon, 05 Oct 2026 08:00:00 +0000",
+      "title_th": "People really hate AI, so why can’t they get enough?",
+      "summary_th": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI…"
+    },
+    {
+      "source": "MIT Technology Review",
+      "flag": "US",
+      "category": "review",
+      "title_en": "EmTech Future 2026: When AI Meets Everything",
+      "summary_en": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches…",
+      "image": "",
+      "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "published": "Mon, 05 Oct 2026 04:00:00 +0000",
+      "title_th": "EmTech Future 2026: When AI Meets Everything",
+      "summary_th": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches…"
     },
     {
       "source": "MIT Technology Review",
@@ -279,28 +303,16 @@
       "summary_th": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors’ biological ages—figures that are meant to provide a better way to measure…"
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "The Download: AI “mind-reading” and creative uses for small batteries",
-      "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzing your brain scans—and…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/brain-image-output.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
-      "published": "Thu, 01 Oct 2026 12:10:00 +0000",
-      "title_th": "The Download: AI “mind-reading” and creative uses for small batteries",
-      "summary_th": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzing your brain scans—and…"
-    },
-    {
-      "source": "MIT Technology Review",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
-      "summary_en": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way, too, and predict a person’s brain activity based on what they’re looking at. In the image above, for example, the left-hand image of each pair is what…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/brain-image-output.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-      "published": "Thu, 01 Oct 2026 10:32:24 +0000",
-      "title_th": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
-      "summary_th": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way, too, and predict a person’s brain activity based on what they’re looking at. In the image above, for example, the left-hand image of each pair is what…"
+      "category": "gadget",
+      "title_en": "Google's Fitbit Edge leaks out with a screen and Pixel 11 colors",
+      "summary_en": "The upcoming Fitbit Edge looks like a replacement for the Fitbit Charge last seen in 2023.",
+      "image": "https://www.engadget.com/img/gallery/googles-fitbit-edge-leaks-out-with-a-screen-and-pixel-11-colors/l-intro-1791188150.jpg",
+      "link": "https://www.engadget.com/2276917/google-fitbit-edge-leaks-out-with-a-screen-and-pixel-11-colors/",
+      "published": "Mon, 05 Oct 2026 08:18:13 +0000",
+      "title_th": "Google's Fitbit Edge leaks out with a screen and Pixel 11 colors",
+      "summary_th": "The upcoming Fitbit Edge looks like a replacement for the Fitbit Charge last seen in 2023."
     },
     {
       "source": "Engadget",
@@ -349,18 +361,6 @@
       "published": "Sun, 04 Oct 2026 23:30:00 +0000",
       "title_th": "You should avoid using a screen protector on your MacBook — here's why",
       "summary_th": "Screen protectors can do more harm than good."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Every Starlink Dish Available: How To Know Which Setup May Be Right For You",
-      "summary_en": "Everyone has different needs when it comes to internet connectivity, and Starlink's dish selection caters to a many applications, from stationary to mobile.",
-      "image": "https://www.engadget.com/img/gallery/every-starlink-dish-available-how-to-know-which-setup-may-be-right-for-you/l-intro-1789072161.jpg",
-      "link": "https://www.engadget.com/2276417/every-starlink-dish-available-which-setup-right/",
-      "published": "Sun, 04 Oct 2026 23:15:00 +0000",
-      "title_th": "Every Starlink Dish Available: How To Know Which Setup May Be Right For You",
-      "summary_th": "Everyone has different needs when it comes to internet connectivity, and Starlink's dish selection caters to a many applications, from stationary to mobile."
     },
     {
       "source": "IEEE Spectrum",
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 261.0,
-      "change": -2.0,
-      "change_pct": -0.76
+      "price": 264.0,
+      "change": 3.0,
+      "change_pct": 1.15
     }
   ],
   "reviews": [
@@ -729,6 +729,66 @@
       "thumbnail": "https://i2.ytimg.com/vi/iV_hs6Xft1E/hqdefault.jpg",
       "published": "2026-09-23T16:38:37+00:00",
       "title_th": "I Use This Every Night..."
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "'เฮียวิทย์' ขอโชว์มือถือปีลึก ! #GowithTheFour #btbeartai #Woody #เฮียวิทย์ #CKCheong",
+      "video_id": "C7iCSERx7_U",
+      "link": "https://www.youtube.com/shorts/C7iCSERx7_U",
+      "thumbnail": "https://i4.ytimg.com/vi/C7iCSERx7_U/hqdefault.jpg",
+      "published": "2026-10-05T08:54:33+00:00",
+      "title_th": "'เฮียวิทย์' ขอโชว์มือถือปีลึก ! #GowithTheFour #btbeartai #Woody #เฮียวิทย์ #CKCheong"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "มืออาชีพยุคนี้ต้องเก่งแค่ไหน?",
+      "video_id": "7hm1625mfOU",
+      "link": "https://www.youtube.com/shorts/7hm1625mfOU",
+      "thumbnail": "https://i4.ytimg.com/vi/7hm1625mfOU/hqdefault.jpg",
+      "published": "2026-10-04T23:00:54+00:00",
+      "title_th": "มืออาชีพยุคนี้ต้องเก่งแค่ไหน?"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "ไม่อยากร้องเพลงต่อหน้าใครอีกเลย",
+      "video_id": "oi06_fM3WgQ",
+      "link": "https://www.youtube.com/shorts/oi06_fM3WgQ",
+      "thumbnail": "https://i4.ytimg.com/vi/oi06_fM3WgQ/hqdefault.jpg",
+      "published": "2026-10-03T23:00:29+00:00",
+      "title_th": "ไม่อยากร้องเพลงต่อหน้าใครอีกเลย"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "iPhone 15 ไอโฟนที่ราคาถูกสุดในตอนนี้ มือ 1 ร้านออนไลน์ ยังน่าใช้อยู่มั้ยตอนนี้? #iPhone15 #ไอโฟน",
+      "video_id": "x8E4svPosuo",
+      "link": "https://www.youtube.com/shorts/x8E4svPosuo",
+      "thumbnail": "https://i1.ytimg.com/vi/x8E4svPosuo/hqdefault.jpg",
+      "published": "2026-10-04T13:44:16+00:00",
+      "title_th": "iPhone 15 ไอโฟนที่ราคาถูกสุดในตอนนี้ มือ 1 ร้านออนไลน์ ยังน่าใช้อยู่มั้ยตอนนี้? #iPhone15 #ไอโฟน"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "Samsung Galaxy S25 Ultra เหลือ 25,000+ ต่อไปไม่มีราคานี้แล้วนะ #Samsung #GalaxyS25Ultra #ซัมซุง",
+      "video_id": "bIJGRE7Njmc",
+      "link": "https://www.youtube.com/shorts/bIJGRE7Njmc",
+      "thumbnail": "https://i3.ytimg.com/vi/bIJGRE7Njmc/hqdefault.jpg",
+      "published": "2026-10-03T14:00:36+00:00",
+      "title_th": "Samsung Galaxy S25 Ultra เหลือ 25,000+ ต่อไปไม่มีราคานี้แล้วนะ #Samsung #GalaxyS25Ultra #ซัมซุง"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "Galaxy S27 Ultra อาจไม่มี Tele 3X ? / เรนเดอร์ Motorola razr flex / Honor Magic 9 Pro Max | หิวข่าว",
+      "video_id": "OiujZE77jQo",
+      "link": "https://www.youtube.com/watch?v=OiujZE77jQo",
+      "thumbnail": "https://i4.ytimg.com/vi/OiujZE77jQo/hqdefault.jpg",
+      "published": "2026-10-03T13:04:32+00:00",
+      "title_th": "Galaxy S27 Ultra อาจไม่มี Tele 3X ? / เรนเดอร์ Motorola razr flex / Honor Magic 9 Pro Max | หิวข่าว"
     }
   ]
 }
