@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T01:53:09.812212+00:00",
+  "generated_at": "2026-10-06T09:48:40.226072+00:00",
   "count": 50,
   "articles": [
     {
@@ -65,6 +65,18 @@
     {
       "source": "The Verge",
       "flag": "US",
+      "category": "review",
+      "title_en": "This remote-controlled wagon is silly but so very useful",
+      "summary_en": "Confession: When BougeRV told me about its remote-controlled wagon with animated lighting, I called it in for a laugh, expecting to eviscerate it in a review. It's ridiculous, to be sure. But the DuneRover also proved very capable, with enough torque to flatten hills even when carrying over 200 pounds of gear. It can also […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5043.jpeg?quality=90&strip=all&crop=0%2C25.737652705061%2C100%2C69.808027923211&w=1200",
+      "link": "https://www.theverge.com/tech/1004820/this-remote-controlled-wagon-is-silly-but-useful",
+      "published": "2026-10-06T04:00:00-04:00",
+      "title_th": "This remote-controlled wagon is silly but so very useful",
+      "summary_th": "Confession: When BougeRV told me about its remote-controlled wagon with animated lighting, I called it in for a laugh, expecting to eviscerate it in a review. It's ridiculous, to be sure. But the DuneRover also proved very capable, with enough torque to flatten hills even when carrying over 200 pounds of gear. It can also […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
       "category": "software",
       "title_en": "Gemini Call for Me might tell your mom you’re running late",
       "summary_en": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call […]",
@@ -109,18 +121,6 @@
       "published": "2026-10-05T16:14:57-04:00",
       "title_th": "This startup is issuing AI-generated acne prescriptions",
       "summary_th": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloomberg. The service is launching […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "All the drama around AI’s takeover of mathematics",
-      "summary_en": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268684_OpenAI_claims_to_revolutionize_maths_CVirginia2-1.webp?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-      "published": "2026-10-05T15:28:59-04:00",
-      "title_th": "All the drama around AI’s takeover of mathematics",
-      "summary_th": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, […]"
     },
     {
       "source": "Ars Technica",
@@ -186,61 +186,61 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Elon Musk’s Exes Are the Most Damning Part of a Massive New Documentary",
-      "summary_en": "Interviews with Justine Wilson and Ashley St. Clair in the nearly four-hour-long Musk paint the world’s richest man as capricious and cruel even toward those closest to him.",
-      "image": "https://media.wired.com/photos/6ac02c7cf11859774e123e07/master/pass/culture_musk_exes_damning_documentary.jpg",
-      "link": "https://www.wired.com/story/elon-musks-exes-are-the-most-damning-part-of-a-massive-new-documentary/",
-      "published": "Mon, 05 Oct 2026 19:58:38 +0000",
-      "title_th": "Elon Musk’s Exes Are the Most Damning Part of a Massive New Documentary",
-      "summary_th": "Interviews with Justine Wilson and Ashley St. Clair in the nearly four-hour-long Musk paint the world’s richest man as capricious and cruel even toward those closest to him."
+      "title_en": "The Best Prime Day TV Deals (2026)",
+      "summary_en": "Never pay full price for a TV. Upgrade your entertainment setup with these WIRED-tested screens and streaming devices.",
+      "image": "https://media.wired.com/photos/6ac1f3de04cf6419f26a6dc2/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20October%20Prime%20Day%20TV%20Deals%20(updated)%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+      "link": "https://www.wired.com/story/best-prime-day-tv-deals-10-06-2026/",
+      "published": "Tue, 06 Oct 2026 09:19:34 +0000",
+      "title_th": "The Best Prime Day TV Deals (2026)",
+      "summary_th": "Never pay full price for a TV. Upgrade your entertainment setup with these WIRED-tested screens and streaming devices."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Astronomers Confirm Discovery of the Youngest Known Exoplanet Ever",
-      "summary_en": "Under 1 million years old, “Elias 2-24b” is now the youngest exoplanet ever observed, and it may force researchers to reevaluate theories about how planets are formed.",
-      "image": "https://media.wired.com/photos/6ac38637362e6c978908ac0b/master/pass/GettyImages-976979300.jpg",
-      "link": "https://www.wired.com/story/astronomers-confirm-discovery-of-youngest-known-exoplanet-ever/",
-      "published": "Mon, 05 Oct 2026 18:15:16 +0000",
-      "title_th": "Astronomers Confirm Discovery of the Youngest Known Exoplanet Ever",
-      "summary_th": "Under 1 million years old, “Elias 2-24b” is now the youngest exoplanet ever observed, and it may force researchers to reevaluate theories about how planets are formed."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Best Power Banks (2026): My Picks After Testing Over 100",
-      "summary_en": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.",
-      "image": "https://media.wired.com/photos/6ac03e8a3c662ead2b64eb3c/master/pass/Best%20Power%20Banks%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "link": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
-      "published": "Mon, 05 Oct 2026 11:00:00 +0000",
-      "title_th": "Best Power Banks (2026): My Picks After Testing Over 100",
-      "summary_th": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "review",
-      "title_en": "Withings BodyScan 2 Review: Worth Its Weight",
-      "summary_en": "After months of testing, this high-end smart scale has made me rethink how much a bathroom weigh-in can tell me.",
-      "image": "https://media.wired.com/photos/6ac00b2fa18993c6adb83faa/master/pass/Review%20Withings%20BodyScan%202%20102026%20top%20art%20SOURCE%20Writhings.jpg",
-      "link": "https://www.wired.com/review/withings-bodyscan-2/",
-      "published": "Mon, 05 Oct 2026 10:36:00 +0000",
-      "title_th": "Withings BodyScan 2 Review: Worth Its Weight",
-      "summary_th": "After months of testing, this high-end smart scale has made me rethink how much a bathroom weigh-in can tell me."
+      "title_en": "Amazon Prime Day Deals Under $50 in October 2026",
+      "summary_en": "Everything is expensive. Treat yourself to one of these WIRED-approved Prime Day picks under $50.",
+      "image": "https://media.wired.com/photos/6abe70e983ce388ebf1661e9/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Prime%20Day%20Deals%20Under%20$50%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+      "link": "https://www.wired.com/story/best-amazon-prime-day-deals-under-50-10-06-2026/",
+      "published": "Tue, 06 Oct 2026 09:17:08 +0000",
+      "title_th": "Amazon Prime Day Deals Under $50 in October 2026",
+      "summary_th": "Everything is expensive. Treat yourself to one of these WIRED-approved Prime Day picks under $50."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Omega Has New Bond Watches Even if There Isn’t a New James Bond",
-      "summary_en": "With no new 007 actor named and no film in the near future, Omega has had to get creative to keep its lucrative spy-watch train running.",
-      "image": "https://media.wired.com/photos/6abf8143511796ab69fb457a/master/pass/SE%20_BondSpectre_ADV_Family_Duo_16_9_RVB.jpg",
-      "link": "https://www.wired.com/story/omega-has-new-bond-watches-even-if-we-dont-have-a-new-bond/",
-      "published": "Mon, 05 Oct 2026 10:00:00 +0000",
-      "title_th": "Omega Has New Bond Watches Even if There Isn’t a New James Bond",
-      "summary_th": "With no new 007 actor named and no film in the near future, Omega has had to get creative to keep its lucrative spy-watch train running."
+      "title_en": "The 13 Amazon Device Deals Actually Worth Snagging This Prime Day",
+      "summary_en": "Prime Day deals on Amazon devices aren’t as attractive as they were before the August price hike, but these discounts are still worth grabbing.",
+      "image": "https://media.wired.com/photos/6abd58106f8c64341c3fc8f7/master/pass/Best%20Early%20Amazon%20Device%20Deals%20092026%20top%20art%20SOURCE%20Amazon.jpg",
+      "link": "https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day-10-06-2026/",
+      "published": "Tue, 06 Oct 2026 09:10:19 +0000",
+      "title_th": "The 13 Amazon Device Deals Actually Worth Snagging This Prime Day",
+      "summary_th": "Prime Day deals on Amazon devices aren’t as attractive as they were before the August price hike, but these discounts are still worth grabbing."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "The Best Prime Day Deals on Our Favorite Apple Products (October 2026)",
+      "summary_en": "We’re already seeing some discounts on our favorite Apple tech, whether its devices or third-party accessories.",
+      "image": "https://media.wired.com/photos/6ac4103af80731d681cbbef5/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Prime%20Day%20Apple%20Deals%20(updated)%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+      "link": "https://www.wired.com/story/best-prime-day-apple-deals-10-06-2026/",
+      "published": "Tue, 06 Oct 2026 09:04:03 +0000",
+      "title_th": "The Best Prime Day Deals on Our Favorite Apple Products (October 2026)",
+      "summary_th": "We’re already seeing some discounts on our favorite Apple tech, whether its devices or third-party accessories."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "I Found the 16 Best Prime Day Tech and Gadget Deals (October 2026)",
+      "summary_en": "Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets.",
+      "image": "https://media.wired.com/photos/6abed71a8fdae86eaab61be4/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Prime%20Day%20Tech%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+      "link": "https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/",
+      "published": "Tue, 06 Oct 2026 08:37:23 +0000",
+      "title_th": "I Found the 16 Best Prime Day Tech and Gadget Deals (October 2026)",
+      "summary_th": "Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets."
     },
     {
       "source": "MIT Technology Review",
@@ -366,6 +366,18 @@
       "source": "IEEE Spectrum",
       "flag": "US",
       "category": "robot",
+      "title_en": "Happy IEEE Day!",
+      "summary_en": "Happy IEEE Day 2026! IEEE Day is an annual event that celebrates the first time in history when engineers worldwide gathered to share their technical ideas in 1884. One of the IEEE Day’s objectives is to show the ways IEEE members, in local communities, join together to collaborate on ideas that leverage technology for a better tomorrow. IEEE Day 2026 - October 6, 2026. Stay tuned as we continue this journey of innovation, connection, and global celebration. IEEE Celebrate IEEE Day with colleagues from IEEE Sections, Student Branches, Affinity groups, and Society Chapters. Events happen both virtually and in person all around the world. IEEE Day 2026 Events Explore IEEE Day 2026 events taking place around the world from 4 - 17 October 2026. The event listing is dynamically updated as new e",
+      "image": "https://spectrum.ieee.org/media-library/ieee-day-logo.jpg?id=48111342&width=980",
+      "link": "https://spectrum.ieee.org/ieee-day",
+      "published": "Tue, 06 Oct 2026 09:21:18 +0000",
+      "title_th": "Happy IEEE Day!",
+      "summary_th": "Happy IEEE Day 2026! IEEE Day is an annual event that celebrates the first time in history when engineers worldwide gathered to share their technical ideas in 1884. One of the IEEE Day’s objectives is to show the ways IEEE members, in local communities, join together to collaborate on ideas that leverage technology for a better tomorrow. IEEE Day 2026 - October 6, 2026. Stay tuned as we continue this journey of innovation, connection, and global celebration. IEEE Celebrate IEEE Day with colleagues from IEEE Sections, Student Branches, Affinity groups, and Society Chapters. Events happen both virtually and in person all around the world. IEEE Day 2026 Events Explore IEEE Day 2026 events taking place around the world from 4 - 17 October 2026. The event listing is dynamically updated as new e"
+    },
+    {
+      "source": "IEEE Spectrum",
+      "flag": "US",
+      "category": "robot",
       "title_en": "6 Guidelines for Governing AI",
       "summary_en": "For the first 10 years of my career, I worked in product management and data analytics by myself. I wrote database queries that pulled numbers out of corporate systems, built statistical models to predict what customers would buy, and shipped data pipelines that moved information between business systems. I built and scaled analytics teams at Best Buy and Target , studying how customers shop and what stores should stock. Today I lead enterprise AI transformation at Lowe’s , the Fortune 100 home improvement retailer. The goal is not to sell artificial intelligence ; it is to use it to deliver useful expertise at the moment a customer needs it. In retail and other customer-facing industries, virtual assistants can help people address everyday questions—such as how to repair a leaky faucet—wh",
       "image": "https://spectrum.ieee.org/media-library/illustration-of-floating-hands-rearranging-various-ai-chat-boxes-and-tasks.jpg?id=68052366&width=980",
@@ -411,16 +423,28 @@
       "summary_th": "It’s disheartening how much power gets generated and then promptly lost as it travels through grid networks. Th is leaking of electricity happens when it vanishes as heat as w ell as whe n it is pilfered by thieves and nonpaying customers. More than half of the countries that track these metrics lost at least 10 percent of the ir electricity in 2023, according to the World Bank. Losses topped 20 percent for 24 of those nations. Two countries lost more than half of what they generated . With numbers this high, c utting down on losses makes sense . Electricity demand is rising beyond what many grid operators can supply ; reducing waste would help meet some of that demand without having to build new power plants . Plus, when the power comes from fossil fuels , any loss means emitting even mor"
     },
     {
-      "source": "IEEE Spectrum",
-      "flag": "US",
-      "category": "robot",
-      "title_en": "IEEE Celebrates Innovators Shaping the Future",
-      "summary_en": "Every year, IEEE recognizes individual researchers, innovators, and collaborative teams whose technical achievements and leadership have made a lasting impact on technology, engineering, and society worldwide with its Technical Field Awards . The honorees are selected by the IEEE Awards Board based on their extraordinary technical achievements, societal impact, and leadership in specialized engineering disciplines and are approved by the IEEE Board of Directors . “The 2027 IEEE Technical Field Award recipients embody the relentless spirit of innovation and ingenuity that defines our global community,” said Mary Ellen Randall , 2026 IEEE president and CEO in a news release . “Across microelectronics, artificial intelligence, medical robotics, wireless networks, energy conversion, and techni",
-      "image": "https://spectrum.ieee.org/media-library/photo-of-several-ieee-medals.jpg?id=25592000&width=980",
-      "link": "https://spectrum.ieee.org/ieee-technical-field-awards-2027",
-      "published": "Wed, 30 Sep 2026 18:00:02 +0000",
-      "title_th": "IEEE Celebrates Innovators Shaping the Future",
-      "summary_th": "Every year, IEEE recognizes individual researchers, innovators, and collaborative teams whose technical achievements and leadership have made a lasting impact on technology, engineering, and society worldwide with its Technical Field Awards . The honorees are selected by the IEEE Awards Board based on their extraordinary technical achievements, societal impact, and leadership in specialized engineering disciplines and are approved by the IEEE Board of Directors . “The 2027 IEEE Technical Field Award recipients embody the relentless spirit of innovation and ingenuity that defines our global community,” said Mary Ellen Randall , 2026 IEEE president and CEO in a news release . “Across microelectronics, artificial intelligence, medical robotics, wireless networks, energy conversion, and techni"
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple reportedly planning second wave of product announcements later this month",
+      "summary_en": "MacRumors reports that in addition to Apple’s expected event on October 13, the company is planning to unveil another batch of new products in the final week of the month. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-sep-2026-keynote.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/05/apple-reportedly-planning-second-wave-of-product-announcements-later-this-month/",
+      "published": "Tue, 06 Oct 2026 03:25:14 +0000",
+      "title_th": "Apple reportedly planning second wave of product announcements later this month",
+      "summary_th": "MacRumors reports that in addition to Apple’s expected event on October 13, the company is planning to unveil another batch of new products in the final week of the month. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple accuses OpenAI of improperly adding new arguments to trade secrets case",
+      "summary_en": "A few days ago, OpenAI accused Apple of improperly adding new evidence to its trade secrets case. Today, Apple fired back with its own accusation that OpenAI went beyond what court rules permit in its response. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/05/apple-accuses-openai-of-improperly-adding-new-arguments-to-trade-secrets-case/",
+      "published": "Tue, 06 Oct 2026 01:43:32 +0000",
+      "title_th": "Apple accuses OpenAI of improperly adding new arguments to trade secrets case",
+      "summary_th": "A few days ago, OpenAI accused Apple of improperly adding new evidence to its trade secrets case. Today, Apple fired back with its own accusation that OpenAI went beyond what court rules permit in its response. Here are the details. more…"
     },
     {
       "source": "9to5Mac",
@@ -459,28 +483,16 @@
       "summary_th": "A new open-source tool is going viral over its promise to let users who aren’t interested in Apple Intelligence reclaim 12GB or more of storage on their Macs. Here are the details. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "9to5Mac Daily: October 5, 2026 – macOS privacy changes, more",
-      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff :Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. A simple to-do list for iPhone, iPad, and Mac, with powerful tools that make organizing, tracking, and checking off your tasks a whole lot more satisfying. Get Stuff done. Sponsored by Roborock: Fall Prime Day is here—with up to $1,600 off Roborock’s smartest cleaning lineup, plus exclusive limited-time deals and gifts. Find the right cleaner for your home and save starting now. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/05/daily-october-5-2026/",
-      "published": "Mon, 05 Oct 2026 22:39:59 +0000",
-      "title_th": "9to5Mac Daily: October 5, 2026 – macOS privacy changes, more",
-      "summary_th": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff :Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. A simple to-do list for iPhone, iPad, and Mac, with powerful tools that make organizing, tracking, and checking off your tasks a whole lot more satisfying. Get Stuff done. Sponsored by Roborock: Fall Prime Day is here—with up to $1,600 off Roborock’s smartest cleaning lineup, plus exclusive limited-time deals and gifts. Find the right cleaner for your home and save starting now. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "HeyPolo gives parents real-time visibility into how their teen is driving, all inside one app",
-      "summary_en": "Do you remember the first time you backed out of the driveway on your own? It was pure freedom. For your parents? It was probably one of the most terrifying times of their life. When you were a teenager, your parents had no way to know how fast you were driving, when you arrived at your location, how safe you drove, etc. No news was good news, and hope was the only real tool available until you checked in with them. If you have teenage drivers today, rejoice in the fact that the fear of the unknown your parents had is not the world you have to live in today. There’s a lot of negatives with 2026 technology, but HeyPolo is a clear example of where technology has made life better and safer for teenage drivers. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/HeyPolo-2.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/05/heypolo-gives-parents-real-time-visibility-how-their-teen-driving/",
-      "published": "Mon, 05 Oct 2026 22:30:00 +0000",
-      "title_th": "HeyPolo gives parents real-time visibility into how their teen is driving, all inside one app",
-      "summary_th": "Do you remember the first time you backed out of the driveway on your own? It was pure freedom. For your parents? It was probably one of the most terrifying times of their life. When you were a teenager, your parents had no way to know how fast you were driving, when you arrived at your location, how safe you drove, etc. No news was good news, and hope was the only real tool available until you checked in with them. If you have teenage drivers today, rejoice in the fact that the fear of the unknown your parents had is not the world you have to live in today. There’s a lot of negatives with 2026 technology, but HeyPolo is a clear example of where technology has made life better and safer for teenage drivers. more…"
+      "title_en": "Google Docs and Drive now support markdown files natively",
+      "summary_en": "Spurred by the use of markdown files in the AI age, Google Drive and Google Docs are adding full, native support for markdown (.md) files. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/google-drive-markdown-docs.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/10/05/google-docs-drive-markdown-support/",
+      "published": "Tue, 06 Oct 2026 01:55:00 +0000",
+      "title_th": "Google Docs and Drive now support markdown files natively",
+      "summary_th": "Spurred by the use of markdown files in the AI age, Google Drive and Google Docs are adding full, native support for markdown (.md) files. more…"
     },
     {
       "source": "9to5Google",
@@ -529,18 +541,6 @@
       "published": "Mon, 05 Oct 2026 20:35:00 +0000",
       "title_th": "You can unlock a Googlebook’s bootloader, Magisk support in the works",
       "summary_th": "Googlebook is an Android-based platform and, with that, comes the potential to do a bit more with it. Google has confirmed you can unlock the bootloader on a Googlebook, and now Magisk root support is already in the works. more…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Samsung rolling out Android 17 for more Galaxy devices in the US",
-      "summary_en": "Samsung’s Android 17 rollout is speeding up, with more last-gen Galaxy devices now getting One UI 9 updates in the US. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-7-rereview-2.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/10/05/samsung-android-17-galaxy-s25-fold-7-us-rollout/",
-      "published": "Mon, 05 Oct 2026 20:05:00 +0000",
-      "title_th": "Samsung rolling out Android 17 for more Galaxy devices in the US",
-      "summary_th": "Samsung’s Android 17 rollout is speeding up, with more last-gen Galaxy devices now getting One UI 9 updates in the US. more…"
     },
     {
       "source": "Electrek",
@@ -664,10 +664,131 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 265.0,
-      "change": 4.0,
-      "change_pct": 1.53
+      "price": 271.0,
+      "change": 6.0,
+      "change_pct": 2.26
     }
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Xiaomi 18 Fold: How Does This Happen?",
+      "video_id": "3iRUwVzRDZQ",
+      "link": "https://www.youtube.com/watch?v=3iRUwVzRDZQ",
+      "thumbnail": "https://i4.ytimg.com/vi/3iRUwVzRDZQ/hqdefault.jpg",
+      "published": "2026-10-02T20:50:25+00:00",
+      "title_th": "Xiaomi 18 Fold: How Does This Happen?"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Dear YouTube!",
+      "video_id": "e1q-TuHdc4Y",
+      "link": "https://www.youtube.com/watch?v=e1q-TuHdc4Y",
+      "thumbnail": "https://i2.ytimg.com/vi/e1q-TuHdc4Y/hqdefault.jpg",
+      "published": "2026-09-30T14:42:19+00:00",
+      "title_th": "Dear YouTube!"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Nothing Headphone 1 Pro: They Copied the Wrong Thing!",
+      "video_id": "rayrrXot17M",
+      "link": "https://www.youtube.com/watch?v=rayrrXot17M",
+      "thumbnail": "https://i3.ytimg.com/vi/rayrrXot17M/hqdefault.jpg",
+      "published": "2026-09-29T01:01:35+00:00",
+      "title_th": "Nothing Headphone 1 Pro: They Copied the Wrong Thing!"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "It Remembers Everything...",
+      "video_id": "lrKjRRtoPG0",
+      "link": "https://www.youtube.com/shorts/lrKjRRtoPG0",
+      "thumbnail": "https://i1.ytimg.com/vi/lrKjRRtoPG0/hqdefault.jpg",
+      "published": "2026-10-05T14:46:34+00:00",
+      "title_th": "It Remembers Everything..."
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Mini LED RGB Baby...",
+      "video_id": "5Qr4sKLLP4o",
+      "link": "https://www.youtube.com/shorts/5Qr4sKLLP4o",
+      "thumbnail": "https://i2.ytimg.com/vi/5Qr4sKLLP4o/hqdefault.jpg",
+      "published": "2026-09-29T16:09:38+00:00",
+      "title_th": "Mini LED RGB Baby..."
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "The 18 Pro Max Champion?",
+      "video_id": "IlAklYURF48",
+      "link": "https://www.youtube.com/shorts/IlAklYURF48",
+      "thumbnail": "https://i2.ytimg.com/vi/IlAklYURF48/hqdefault.jpg",
+      "published": "2026-09-25T15:27:12+00:00",
+      "title_th": "The 18 Pro Max Champion?"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "ซื้อมือถือใหม่ จำเป็นหรือ FOMO ?",
+      "video_id": "r7aqZ0nbuZo",
+      "link": "https://www.youtube.com/shorts/r7aqZ0nbuZo",
+      "thumbnail": "https://i3.ytimg.com/vi/r7aqZ0nbuZo/hqdefault.jpg",
+      "published": "2026-10-05T23:00:15+00:00",
+      "title_th": "ซื้อมือถือใหม่ จำเป็นหรือ FOMO ?"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "'เฮียวิทย์' ขอโชว์มือถือปีลึก ! #GowithTheFour #btbeartai #Woody #เฮียวิทย์ #CKCheong",
+      "video_id": "C7iCSERx7_U",
+      "link": "https://www.youtube.com/shorts/C7iCSERx7_U",
+      "thumbnail": "https://i4.ytimg.com/vi/C7iCSERx7_U/hqdefault.jpg",
+      "published": "2026-10-05T08:54:33+00:00",
+      "title_th": "'เฮียวิทย์' ขอโชว์มือถือปีลึก ! #GowithTheFour #btbeartai #Woody #เฮียวิทย์ #CKCheong"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "มืออาชีพยุคนี้ต้องเก่งแค่ไหน?",
+      "video_id": "7hm1625mfOU",
+      "link": "https://www.youtube.com/shorts/7hm1625mfOU",
+      "thumbnail": "https://i4.ytimg.com/vi/7hm1625mfOU/hqdefault.jpg",
+      "published": "2026-10-04T23:00:54+00:00",
+      "title_th": "มืออาชีพยุคนี้ต้องเก่งแค่ไหน?"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "iPhone 15 ไอโฟนที่ราคาถูกสุดในตอนนี้ มือ 1 ร้านออนไลน์ ยังน่าใช้อยู่มั้ยตอนนี้? #iPhone15 #ไอโฟน",
+      "video_id": "x8E4svPosuo",
+      "link": "https://www.youtube.com/shorts/x8E4svPosuo",
+      "thumbnail": "https://i1.ytimg.com/vi/x8E4svPosuo/hqdefault.jpg",
+      "published": "2026-10-04T13:44:16+00:00",
+      "title_th": "iPhone 15 ไอโฟนที่ราคาถูกสุดในตอนนี้ มือ 1 ร้านออนไลน์ ยังน่าใช้อยู่มั้ยตอนนี้? #iPhone15 #ไอโฟน"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "Samsung Galaxy S25 Ultra เหลือ 25,000+ ต่อไปไม่มีราคานี้แล้วนะ #Samsung #GalaxyS25Ultra #ซัมซุง",
+      "video_id": "bIJGRE7Njmc",
+      "link": "https://www.youtube.com/shorts/bIJGRE7Njmc",
+      "thumbnail": "https://i3.ytimg.com/vi/bIJGRE7Njmc/hqdefault.jpg",
+      "published": "2026-10-03T14:00:36+00:00",
+      "title_th": "Samsung Galaxy S25 Ultra เหลือ 25,000+ ต่อไปไม่มีราคานี้แล้วนะ #Samsung #GalaxyS25Ultra #ซัมซุง"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "Galaxy S27 Ultra อาจไม่มี Tele 3X ? / เรนเดอร์ Motorola razr flex / Honor Magic 9 Pro Max | หิวข่าว",
+      "video_id": "OiujZE77jQo",
+      "link": "https://www.youtube.com/watch?v=OiujZE77jQo",
+      "thumbnail": "https://i4.ytimg.com/vi/OiujZE77jQo/hqdefault.jpg",
+      "published": "2026-10-03T13:04:32+00:00",
+      "title_th": "Galaxy S27 Ultra อาจไม่มี Tele 3X ? / เรนเดอร์ Motorola razr flex / Honor Magic 9 Pro Max | หิวข่าว"
+    }
+  ]
 }
