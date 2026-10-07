@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-07T03:07:49.755843+00:00",
+  "generated_at": "2026-10-07T09:44:48.979056+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Spotify expands audiobooks to over 180 markets",
+      "summary_en": "Spotify will make 350,000 titles available in over 120 languages for this expansion",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+      "published": "Wed, 07 Oct 2026 07:00:00 +0000",
+      "title_th": "Spotify expands audiobooks to over 180 markets",
+      "summary_th": "Spotify will make 350,000 titles available in over 120 languages for this expansion"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -51,16 +63,16 @@
       "summary_th": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "summary_en": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1148109686.jpg?resize=1200,687",
-      "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "published": "Tue, 06 Oct 2026 20:00:30 +0000",
-      "title_th": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "summary_th": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone."
+      "category": "review",
+      "title_en": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+      "summary_en": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help students learn, but Common Sense Media says that the teen […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25461999/STK155_OPEN_AI_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+      "published": "2026-10-07T05:00:00-04:00",
+      "title_th": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+      "summary_th": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help students learn, but Common Sense Media says that the teen […]"
     },
     {
       "source": "The Verge",
@@ -109,18 +121,6 @@
       "published": "2026-10-06T17:10:13-04:00",
       "title_th": "Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say",
       "summary_th": "Comedian Sebastian Maniscalco is facing backlash from fellow comics who claim his takeover of SiriusXM's Raw Comedy channel is harming up-and-coming talent, as reported earlier by Deadline. Many established comics, including Patton Oswalt and Margaret Cho, have posted videos online calling on Maniscalco to carry on Raw Comedy's legacy by highlighting newer comedians on his […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "ev",
-      "title_en": "Tesla’s Model 3 and Model Y can be a backup battery for your house",
-      "summary_en": "Some Tesla Model 3 and Model Y owners can use their EV battery to keep the lights on longer during a power outage, now that Tesla's expanding the Powershare Home Backup feature. It was previously only available on the Cybertruck, and also requires owning Tesla's Powerwall 3. However, support for the Powerwall 2 and Powerwall […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Powershare-Hero-Desktop-US-PR.jpg?quality=90&strip=all&crop=16.299072265625%2C21.997873544188%2C76.581811523438%2C68.656397166394&w=1200",
-      "link": "https://www.theverge.com/transportation/1006193/tesla-model-3-model-y-powershare-home-backup",
-      "published": "2026-10-06T16:37:54-04:00",
-      "title_th": "Tesla’s Model 3 and Model Y can be a backup battery for your house",
-      "summary_th": "Some Tesla Model 3 and Model Y owners can use their EV battery to keep the lights on longer during a power outage, now that Tesla's expanding the Powershare Home Backup feature. It was previously only available on the Cybertruck, and also requires owning Tesla's Powerwall 3. However, support for the Powerwall 2 and Powerwall […]"
     },
     {
       "source": "Ars Technica",
@@ -186,61 +186,61 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "I Found the 20 Best Prime Day Tech and Gadget Deals (October 2026)",
-      "summary_en": "Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets.",
-      "image": "https://media.wired.com/photos/6abed71a8fdae86eaab61be4/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Prime%20Day%20Tech%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
-      "link": "https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/",
-      "published": "Wed, 07 Oct 2026 00:34:56 +0000",
-      "title_th": "I Found the 20 Best Prime Day Tech and Gadget Deals (October 2026)",
-      "summary_th": "Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ev",
-      "title_en": "Jaguar Finally Reveals Its Biggest Gamble: the Type 01",
-      "summary_en": "Following a viral rebrand and two years without selling a new vehicle, the British marque takes the covers off the most divisive electric car yet seen.",
-      "image": "https://media.wired.com/photos/6ac4bca7d1f8ebf1980afc09/master/pass/Design_Front%2034.jpg",
-      "link": "https://www.wired.com/story/jaguar-finally-reveals-its-biggest-gamble-the-type-01/",
-      "published": "Wed, 07 Oct 2026 00:00:00 +0000",
-      "title_th": "Jaguar Finally Reveals Its Biggest Gamble: the Type 01",
-      "summary_th": "Following a viral rebrand and two years without selling a new vehicle, the British marque takes the covers off the most divisive electric car yet seen."
+      "title_en": "The 30 Best Prime Day Deals Under $100 (2026)",
+      "summary_en": "Everything is so expensive in 2026, but these October Prime Day Deals are all under $100 on gadgets we recommend.",
+      "image": "https://media.wired.com/photos/6abeeb9c10b6b4f5a562908c/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Best%20Prime%20Day%20Deals%20Under%20$100%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+      "link": "https://www.wired.com/story/best-prime-day-deals-under-100-10-07-2026/",
+      "published": "Wed, 07 Oct 2026 09:08:10 +0000",
+      "title_th": "The 30 Best Prime Day Deals Under $100 (2026)",
+      "summary_th": "Everything is so expensive in 2026, but these October Prime Day Deals are all under $100 on gadgets we recommend."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "You Probably Aren’t Going to Get the Plague",
-      "summary_en": "The death of a lab worker in Russia has authorities looking at whether plague played a role. Even if it did, though, the odds of it spreading are very low.",
-      "image": "https://media.wired.com/photos/6ac4f365faca1c452d82d19b/master/pass/100626-Russia%20Plague.jpg",
-      "link": "https://www.wired.com/story/what-we-know-about-plague-russia/",
-      "published": "Tue, 06 Oct 2026 23:09:20 +0000",
-      "title_th": "You Probably Aren’t Going to Get the Plague",
-      "summary_th": "The death of a lab worker in Russia has authorities looking at whether plague played a role. Even if it did, though, the odds of it spreading are very low."
+      "title_en": "Elon Musk’s America PAC Is Spending Big on the Midterms. We’re Tracking It Daily",
+      "summary_en": "To follow Elon Musk’s America PAC money, WIRED created a live-updating tracker that highlights the trillionaire’s overall influence on November’s elections.",
+      "image": "https://media.wired.com/photos/6abe8365d0f41fb32fb0af00/master/pass/Elon%20final.jpg",
+      "link": "https://www.wired.com/story/elon-musks-america-pac-is-spending-big-on-the-midterms-were-tracking-it-daily/",
+      "published": "Wed, 07 Oct 2026 09:00:00 +0000",
+      "title_th": "Elon Musk’s America PAC Is Spending Big on the Midterms. We’re Tracking It Daily",
+      "summary_th": "To follow Elon Musk’s America PAC money, WIRED created a live-updating tracker that highlights the trillionaire’s overall influence on November’s elections."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Best Prime Day Digital Wall Calendar Deals: Skylight, Everblog, Apolosign (2026)",
-      "summary_en": "Digital wall calendars can organize multiple family calendars, meal plans, chores, and to-do lists, and even double as a digital photo frame. And best of all, they’re on sale.",
-      "image": "https://media.wired.com/photos/6ac41b9288bf390af63b2c8c/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Standalone%20Family%20Tech%20Digital%20Calendars%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
-      "link": "https://www.wired.com/story/prime-day-digital-wall-calendar-deals-10-06-2026/",
-      "published": "Tue, 06 Oct 2026 21:30:41 +0000",
-      "title_th": "Best Prime Day Digital Wall Calendar Deals: Skylight, Everblog, Apolosign (2026)",
-      "summary_th": "Digital wall calendars can organize multiple family calendars, meal plans, chores, and to-do lists, and even double as a digital photo frame. And best of all, they’re on sale."
+      "title_en": "Your Next Great Read Might Be Certified ‘Organic’",
+      "summary_en": "Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers to pick out books authored by real, corn-fed, free-range humans.",
+      "image": "https://media.wired.com/photos/6abfd3ec63cea41649272758/master/pass/Business_Plagued%20By%20AI%20Scandals,%20Publishers%20Are%20Starting%20To%20Sell%20%E2%80%98Organic%20Literature%E2%80%99_v1.jpg",
+      "link": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
+      "published": "Wed, 07 Oct 2026 08:30:00 +0000",
+      "title_th": "Your Next Great Read Might Be Certified ‘Organic’",
+      "summary_th": "Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers to pick out books authored by real, corn-fed, free-range humans."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "The Best Anti–Prime Day Deals for Amazon Haters",
-      "summary_en": "Want to save money without supporting Amazon? This roundup is full of deals on WIRED-approved favorites.",
-      "image": "https://media.wired.com/photos/6ac41edd197e00069ce2bbcd/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Anti%20Prime%20Day%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
-      "link": "https://www.wired.com/story/anti-prime-day-deals-october-2026/",
-      "published": "Tue, 06 Oct 2026 21:17:39 +0000",
-      "title_th": "The Best Anti–Prime Day Deals for Amazon Haters",
-      "summary_th": "Want to save money without supporting Amazon? This roundup is full of deals on WIRED-approved favorites."
+      "title_en": "The 13 Amazon Device Deals Actually Worth Snagging This Prime Day (2026)",
+      "summary_en": "Prime Day deals on Amazon devices aren’t as attractive as they were before the August price hike, but these discounts are still worth grabbing.",
+      "image": "https://media.wired.com/photos/6abd58106f8c64341c3fc8f7/master/pass/Best%20Early%20Amazon%20Device%20Deals%20092026%20top%20art%20SOURCE%20Amazon.jpg",
+      "link": "https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day-10-07-2026/",
+      "published": "Wed, 07 Oct 2026 07:50:08 +0000",
+      "title_th": "The 13 Amazon Device Deals Actually Worth Snagging This Prime Day (2026)",
+      "summary_th": "Prime Day deals on Amazon devices aren’t as attractive as they were before the August price hike, but these discounts are still worth grabbing."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "7 Best Prime Day Kindle Deals (2026): Save Up to $150",
+      "summary_en": "Amazon raised Kindle prices across the board, but Prime Day is still the best time to buy.",
+      "image": "https://media.wired.com/photos/6abed9836b5b4074ce828a91/master/pass/Amazon%20Prime%20Day%20Top%20Art%20102026%20Standalone%20Kindle%20Deals%20ILLUSTRATION%20Isadora-Ayesa%20Lima%20SOURCE%20Amazon.jpg",
+      "link": "https://www.wired.com/story/best-kindle-prime-day-deals-10-07-2026/",
+      "published": "Wed, 07 Oct 2026 07:34:54 +0000",
+      "title_th": "7 Best Prime Day Kindle Deals (2026): Save Up to $150",
+      "summary_th": "Amazon raised Kindle prices across the board, but Prime Day is still the best time to buy."
     },
     {
       "source": "MIT Technology Review",
@@ -305,6 +305,18 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "chip",
+      "title_en": "Apple TV's F1 coverage will now support Dolby Atmos",
+      "summary_en": "Apple TV's F1 coverage will feature Dolby Atmos support, starting with the US Grand Prix in Texas later this month.",
+      "image": "https://www.engadget.com/img/gallery/apple-tv-adds-dolby-atmos-support-to-its-formula-1-coverage/l-intro-1791362515.jpg",
+      "link": "https://www.engadget.com/2279712/apple-tv-dolby-atmos-support-formula-1/",
+      "published": "Wed, 07 Oct 2026 08:58:55 +0000",
+      "title_th": "Apple TV's F1 coverage will now support Dolby Atmos",
+      "summary_th": "Apple TV's F1 coverage will feature Dolby Atmos support, starting with the US Grand Prix in Texas later this month."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "gadget",
       "title_en": "How to help stop spam calls on iPhone and Android",
       "summary_en": "Spam calls don't have to grab your attention and waste your time. Use these built-in options to silence and block them without having to pay.",
@@ -349,18 +361,6 @@
       "published": "Tue, 06 Oct 2026 18:30:00 +0000",
       "title_th": "Google Photos vs. Gallery app: What's the difference and which should you use?",
       "summary_th": "We compare Google's Photos and Gallery apps, so you can decide which one to use."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Asos hit by extortion hack that may have compromised some customer data",
-      "summary_en": "The attackers sent a push notification to Asos shoppers announcing their activity.",
-      "image": "https://www.engadget.com/img/gallery/asos-hit-by-extortion-hack-that-may-have-compromised-some-customer-data/l-intro-1791309798.jpg",
-      "link": "https://www.engadget.com/2279150/asos-hit-by-extortion-hack-that-may-have-compromised-some-customer-data/",
-      "published": "Tue, 06 Oct 2026 18:04:56 +0000",
-      "title_th": "Asos hit by extortion hack that may have compromised some customer data",
-      "summary_th": "The attackers sent a push notification to Asos shoppers announcing their activity."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,18 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "Formula 1 on Apple TV is getting Dolby Atmos, starting this month",
+      "summary_en": "Beginning with the U.S. Grand Prix weekend on Friday, October 23, Apple TV will offer Formula 1 coverage in Dolby Atmos on supported devices. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Speculation-that-Apples-March-event-could-include-immersive-F1-on-Vision-Pro.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/06/formula-1-on-apple-tv-is-getting-dolby-atmos-starting-this-month/",
+      "published": "Wed, 07 Oct 2026 03:05:17 +0000",
+      "title_th": "Formula 1 on Apple TV is getting Dolby Atmos, starting this month",
+      "summary_th": "Beginning with the U.S. Grand Prix weekend on Friday, October 23, Apple TV will offer Formula 1 coverage in Dolby Atmos on supported devices. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Apple overtakes Samsung to lead European carrier smartphone sales in Q2, per report",
       "summary_en": "A new report from Counterpoint Research shows that Apple overtook Samsung during the second quarter of 2026 to become the leading smartphone brand in Europe’s carrier channel, as operator sales held up better than the broader market. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/02/apple-europe.jpg?quality=82&strip=all&resize=1200,628",
@@ -469,18 +481,6 @@
       "published": "Tue, 06 Oct 2026 22:09:49 +0000",
       "title_th": "iFixit tears down Apple Watch Series 12 and Ultra 4, finds mixed repairability results",
       "summary_th": "Concluding iFixit’s teardown sequence for Apple’s September launches, iFixit today published the teardown of the new Apple Watch Series 12 and Ultra 4. Here’s what they found. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Report: Apple’s smart home push includes LG-made doorbell, lock, thermostat, more",
-      "summary_en": "Bloomberg reports that Apple’s plans for smart home products include devices, sensors, and cameras codeveloped in partnership with LG. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-home-app-icon-ios-27.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/06/report-apples-smart-home-push-includes-lg-made-doorbell-lock-thermostat-more/",
-      "published": "Tue, 06 Oct 2026 21:38:00 +0000",
-      "title_th": "Report: Apple’s smart home push includes LG-made doorbell, lock, thermostat, more",
-      "summary_th": "Bloomberg reports that Apple’s plans for smart home products include devices, sensors, and cameras codeveloped in partnership with LG. Here are the details. more…"
     },
     {
       "source": "9to5Google",
@@ -546,6 +546,18 @@
       "source": "Electrek",
       "flag": "",
       "category": "ev",
+      "title_en": "Jaguar’s controversial Type 01 EV looks like a comic book villain would drive it",
+      "summary_en": "Jaguar has unveiled the final version of its new Type 01 EV, the first car as part of its controversial rebrand, and it’s a 1,016 horsepower, four-door, 1930s-comic-book-mobster-style doozy. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Side-View.min_-e1791345281197.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/06/jaguars-controversial-type-01-ev-looks-like-a-comic-book-villain-would-drive-it/",
+      "published": "Wed, 07 Oct 2026 03:55:31 +0000",
+      "title_th": "Jaguar’s controversial Type 01 EV looks like a comic book villain would drive it",
+      "summary_th": "Jaguar has unveiled the final version of its new Type 01 EV, the first car as part of its controversial rebrand, and it’s a 1,016 horsepower, four-door, 1930s-comic-book-mobster-style doozy. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
       "title_en": "Fall Prime Day 2026 Green Deals: EVs, power stations, electric tools, smart devices, and much more",
       "summary_en": "Amazon’s Prime Big Deal Days are finally here, and we’ve already been reveling the last week in all the early savings, but things are ramping up even further for the rest of this week. You’ll find a massive collection of deals across all our favorite Green Deal brands – both at Amazon and from direct websites – giving you a great chance at savings on EVs, power stations, electric tools, robots, and much more. It’s all been rounded up together and curated for you below, giving you a one-stop shopping hub for all your needs. Head on down and keep checking back throughout the week as we update this hub. more…",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Amazon_prime_big_deal_days_october_2026.png?resize=1200,628",
@@ -589,18 +601,6 @@
       "published": "Tue, 06 Oct 2026 17:48:22 +0000",
       "title_th": "Prime Day-1 Green Deals: Increased savings on Anker SOLIX and EcoFlow power stations, Segway e-scooters up to 37% off, ENGWE, more",
       "summary_th": "It’s the very first day of Amazon’s Prime Big Deal Days event, and we’ve got a jam-packed edition of Green Deals for you, with the many other deals we couldn’t fit here collected into our Fall Prime Day Green Deals hub here . To start, we’re getting some increased savings from Anker’s SOLIX Fall Prime Day Sale , with options like the 3,840Wh F3800 Portable Power Station down at an exclusive $1,710 , among many others. Likewise, there’s EcoFlow’s Prime Big Deal Days Sale with major savings, including the 3,072Wh DELTA 3 Ultra Plus Power Station down at $1,438 . From there, we have Segway’s e-scooter deals with up to 37% savings starting from $142 , as well as ENGWE’s electric dirt bikes and e-bikes at up to 43% off starting from $599 . There’s also the roundups of EGO Power+ tools, Greenwor"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Mitsubishi’s new EV costs nearly $8,000 more than the Nissan LEAF",
-      "summary_en": "The 2027 Mitsubishi Eclipse Sportback starts at $37,745, or nearly $8,000 more than its twin, the Nissan LEAF. 2027 Mitsubishi...",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Mitsubishi-Eclipse-EV-price.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/06/mitsubishis-new-ev-costs-8000-more-than-nissan-leaf/",
-      "published": "Tue, 06 Oct 2026 17:03:31 +0000",
-      "title_th": "Mitsubishi’s new EV costs nearly $8,000 more than the Nissan LEAF",
-      "summary_th": "The 2027 Mitsubishi Eclipse Sportback starts at $37,745, or nearly $8,000 more than its twin, the Nissan LEAF. 2027 Mitsubishi..."
     }
   ],
   "indices": [
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 272.0,
-      "change": 7.0,
-      "change_pct": 2.64
+      "price": 270.0,
+      "change": -2.0,
+      "change_pct": -0.74
     }
   ],
   "reviews": [
@@ -699,6 +699,96 @@
       "thumbnail": "https://i3.ytimg.com/vi/rayrrXot17M/hqdefault.jpg",
       "published": "2026-09-29T01:01:35+00:00",
       "title_th": "Nothing Headphone 1 Pro: They Copied the Wrong Thing!"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "It Remembers Everything...",
+      "video_id": "lrKjRRtoPG0",
+      "link": "https://www.youtube.com/shorts/lrKjRRtoPG0",
+      "thumbnail": "https://i1.ytimg.com/vi/lrKjRRtoPG0/hqdefault.jpg",
+      "published": "2026-10-05T14:46:34+00:00",
+      "title_th": "It Remembers Everything..."
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Mini LED RGB Baby...",
+      "video_id": "5Qr4sKLLP4o",
+      "link": "https://www.youtube.com/shorts/5Qr4sKLLP4o",
+      "thumbnail": "https://i2.ytimg.com/vi/5Qr4sKLLP4o/hqdefault.jpg",
+      "published": "2026-09-29T16:09:38+00:00",
+      "title_th": "Mini LED RGB Baby..."
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "The 18 Pro Max Champion?",
+      "video_id": "IlAklYURF48",
+      "link": "https://www.youtube.com/shorts/IlAklYURF48",
+      "thumbnail": "https://i2.ytimg.com/vi/IlAklYURF48/hqdefault.jpg",
+      "published": "2026-09-25T15:27:12+00:00",
+      "title_th": "The 18 Pro Max Champion?"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "AI Buddy คืออะไร? ผู้ช่วยที่ทำให้บ้านง่ายขึ้น",
+      "video_id": "gjvDi_djWmQ",
+      "link": "https://www.youtube.com/watch?v=gjvDi_djWmQ",
+      "thumbnail": "https://i4.ytimg.com/vi/gjvDi_djWmQ/hqdefault.jpg",
+      "published": "2026-10-07T04:00:00+00:00",
+      "title_th": "AI Buddy คืออะไร? ผู้ช่วยที่ทำให้บ้านง่ายขึ้น"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "#Huawei #WatchGT7 Series เด่นอะไรบ้าง",
+      "video_id": "azA24VnCCzE",
+      "link": "https://www.youtube.com/shorts/azA24VnCCzE",
+      "thumbnail": "https://i2.ytimg.com/vi/azA24VnCCzE/hqdefault.jpg",
+      "published": "2026-10-07T03:42:10+00:00",
+      "title_th": "#Huawei #WatchGT7 Series เด่นอะไรบ้าง"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "เรื่องที่เราจะตายตอนไหน ไม่ใช่เรื่องของเรา",
+      "video_id": "wMuTeTpoSCY",
+      "link": "https://www.youtube.com/shorts/wMuTeTpoSCY",
+      "thumbnail": "https://i4.ytimg.com/vi/wMuTeTpoSCY/hqdefault.jpg",
+      "published": "2026-10-06T23:00:00+00:00",
+      "title_th": "เรื่องที่เราจะตายตอนไหน ไม่ใช่เรื่องของเรา"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รีวิว Hisense UR8S ทีวี RGB MiniLED พาเนลใหม่ ดียังไง? คุ้มไหมที่จะซื้อ!",
+      "video_id": "M-Z_4poG6Yc",
+      "link": "https://www.youtube.com/watch?v=M-Z_4poG6Yc",
+      "thumbnail": "https://i2.ytimg.com/vi/M-Z_4poG6Yc/hqdefault.jpg",
+      "published": "2026-10-06T13:59:14+00:00",
+      "title_th": "รีวิว Hisense UR8S ทีวี RGB MiniLED พาเนลใหม่ ดียังไง? คุ้มไหมที่จะซื้อ!"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "iPhone 15 ไอโฟนที่ราคาถูกสุดในตอนนี้ มือ 1 ร้านออนไลน์ ยังน่าใช้อยู่มั้ยตอนนี้? #iPhone15 #ไอโฟน",
+      "video_id": "x8E4svPosuo",
+      "link": "https://www.youtube.com/shorts/x8E4svPosuo",
+      "thumbnail": "https://i1.ytimg.com/vi/x8E4svPosuo/hqdefault.jpg",
+      "published": "2026-10-04T13:44:16+00:00",
+      "title_th": "iPhone 15 ไอโฟนที่ราคาถูกสุดในตอนนี้ มือ 1 ร้านออนไลน์ ยังน่าใช้อยู่มั้ยตอนนี้? #iPhone15 #ไอโฟน"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "Samsung Galaxy S25 Ultra เหลือ 25,000+ ต่อไปไม่มีราคานี้แล้วนะ #Samsung #GalaxyS25Ultra #ซัมซุง",
+      "video_id": "bIJGRE7Njmc",
+      "link": "https://www.youtube.com/shorts/bIJGRE7Njmc",
+      "thumbnail": "https://i3.ytimg.com/vi/bIJGRE7Njmc/hqdefault.jpg",
+      "published": "2026-10-03T14:00:36+00:00",
+      "title_th": "Samsung Galaxy S25 Ultra เหลือ 25,000+ ต่อไปไม่มีราคานี้แล้วนะ #Samsung #GalaxyS25Ultra #ซัมซุง"
     }
   ]
 }
