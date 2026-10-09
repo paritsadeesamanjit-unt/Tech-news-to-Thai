@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T01:03:24.163763+00:00",
+  "generated_at": "2026-10-09T10:02:00.668296+00:00",
   "count": 50,
   "articles": [
     {
@@ -65,6 +65,18 @@
     {
       "source": "The Verge",
       "flag": "US",
+      "category": "software",
+      "title_en": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
+      "summary_en": "Microsoft bundled its AI-powered Office features into Microsoft 365 Personal and Family subscriptions last year, but it only allowed the primary account holder to access the AI benefits. Now, Microsoft is about to let Microsoft 365 Family and Premium subscribers share Copilot and AI usage features, alongside access to Office apps and OneDrive storage, with […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/m365premium.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
+      "published": "2026-10-09T03:14:32-04:00",
+      "title_th": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
+      "summary_th": "Microsoft bundled its AI-powered Office features into Microsoft 365 Personal and Family subscriptions last year, but it only allowed the primary account holder to access the AI benefits. Now, Microsoft is about to let Microsoft 365 Family and Premium subscribers share Copilot and AI usage features, alongside access to Office apps and OneDrive storage, with […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
       "category": "gadget",
       "title_en": "Anthropic launches free AI security scans for open-source projects",
       "summary_en": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's […]",
@@ -109,18 +121,6 @@
       "published": "2026-10-08T16:32:21-04:00",
       "title_th": "Apple will reportedly debut its first touchscreen MacBook in three weeks",
       "summary_th": "Apple is set to introduce a new MacBook Pro with a touchscreen and an updated iPad Mini \"on or around\" October 27th, Bloomberg reports. If true, that would put the event just two weeks after the October 13th event Apple announced today, which is rumored to focus on smart home products. Bloomberg says that the […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "California is trying to shut down robot vs. human cage matches",
-      "summary_en": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-4.18.11-PM.png?quality=90&strip=all&crop=0%2C6.5996142187931%2C100%2C86.800771562414&w=1200",
-      "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
-      "published": "2026-10-08T16:06:56-04:00",
-      "title_th": "California is trying to shut down robot vs. human cage matches",
-      "summary_th": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that […]"
     },
     {
       "source": "Ars Technica",
@@ -186,61 +186,85 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "ICE Emails Discuss Using Palantir-Supported Tool to Investigate Voter Fraud",
-      "summary_en": "Documents obtained by Democracy Forward show that ICE looked into feeding voter roll data into the ELITE tool, normally used to identify targets for deportation.",
-      "image": "https://media.wired.com/photos/6ac7c810d785fb1d34f54ca9/master/pass/GettyImages-2287296268.jpg",
-      "link": "https://www.wired.com/story/ice-emails-discuss-using-palantir-supported-tool-to-investigate-voter-fraud/",
-      "published": "Thu, 08 Oct 2026 22:40:11 +0000",
-      "title_th": "ICE Emails Discuss Using Palantir-Supported Tool to Investigate Voter Fraud",
-      "summary_th": "Documents obtained by Democracy Forward show that ICE looked into feeding voter roll data into the ELITE tool, normally used to identify targets for deportation."
+      "title_en": "A New Mexico Community Was a Place to Build a Life. Then a Hypersonic Missile Factory Showed Up",
+      "summary_en": "Castelion—a next-generation defense tech company—is building a facility in Rio Rancho Estates that documents show could pose a major fire and chemical hazard to neighboring communities.",
+      "image": "https://media.wired.com/photos/6abd1e80dae3985b8f0ee44b/master/pass/093926-New%20Mexico%20Missle.jpg",
+      "link": "https://www.wired.com/story/a-new-mexico-community-was-a-place-to-build-a-life-then-a-hypersonic-missile-factory-showed-up/",
+      "published": "Fri, 09 Oct 2026 09:30:00 +0000",
+      "title_th": "A New Mexico Community Was a Place to Build a Life. Then a Hypersonic Missile Factory Showed Up",
+      "summary_th": "Castelion—a next-generation defense tech company—is building a facility in Rio Rancho Estates that documents show could pose a major fire and chemical hazard to neighboring communities."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Inside Elon Musk’s Midterm Spending Spree",
-      "summary_en": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
-      "image": "https://media.wired.com/photos/6ac6cf6962b0c903a0cf2363/master/pass/Uncanny-Valley-Elon-Spending-Business-2297775036.jpg",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
-      "published": "Thu, 08 Oct 2026 21:14:12 +0000",
-      "title_th": "Inside Elon Musk’s Midterm Spending Spree",
-      "summary_th": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo."
+      "title_en": "Ulta Promo Codes: Up to 20% Off in October 2026",
+      "summary_en": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
+      "link": "https://www.wired.com/story/ulta-coupon/",
+      "published": "Fri, 09 Oct 2026 05:00:00 +0000",
+      "title_th": "Ulta Promo Codes: Up to 20% Off in October 2026",
+      "summary_th": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "She Designed Meta’s New AI Logo. Then Came the Hate",
-      "summary_en": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
-      "image": "https://media.wired.com/photos/6ac690e71275a2452d67fafd/master/pass/Model-Behavior-Artist-Behind-Meta-Muse-Logo-Business.jpg",
-      "link": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
-      "published": "Thu, 08 Oct 2026 19:30:00 +0000",
-      "title_th": "She Designed Meta’s New AI Logo. Then Came the Hate",
-      "summary_th": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get."
+      "title_en": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
+      "summary_en": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
+      "image": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
+      "link": "https://www.wired.com/story/lowes-promo-code/",
+      "published": "Fri, 09 Oct 2026 05:00:00 +0000",
+      "title_th": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
+      "summary_th": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Trump Administration Cuts Off Access to a Major Immigration Program for Workers at Microsoft and Adobe",
-      "summary_en": "“There has been no company in the United States, unfortunately, that has abused this system more than Microsoft,” Vice President JD Vance said on Thursday.",
-      "image": "https://media.wired.com/photos/6ac7bc49ff9fe01c2a428b56/master/pass/Trump-Cuts-Microsoft-Immigration-Business-2298462056.jpg",
-      "link": "https://www.wired.com/story/trump-administration-crackdown-microsoft-adobe-immigration/",
-      "published": "Thu, 08 Oct 2026 19:11:45 +0000",
-      "title_th": "Trump Administration Cuts Off Access to a Major Immigration Program for Workers at Microsoft and Adobe",
-      "summary_th": "“There has been no company in the United States, unfortunately, that has abused this system more than Microsoft,” Vice President JD Vance said on Thursday."
+      "title_en": "Valvoline Coupons and Promo Codes for October 2026",
+      "summary_en": "We've gathered all the top Valvoline coupons and promo codes for October 2026, including deals on full synthetic oil changes and other essential maintenance.",
+      "image": "https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png",
+      "link": "https://www.wired.com/story/valvoline-coupons/",
+      "published": "Fri, 09 Oct 2026 05:00:00 +0000",
+      "title_th": "Valvoline Coupons and Promo Codes for October 2026",
+      "summary_th": "We've gathered all the top Valvoline coupons and promo codes for October 2026, including deals on full synthetic oil changes and other essential maintenance."
     },
     {
       "source": "Wired",
       "flag": "US",
-      "category": "gadget",
-      "title_en": "The New Alexa Tablets Feel Like a Blueprint for an Amazon Phone",
-      "summary_en": "Amazon is rumored to be making a smartphone, and the Alexa-powered experiences on its new tablets give us a taste of what might come if that happens.",
-      "image": "https://media.wired.com/photos/6ac61ed08eeaec50812f97eb/master/pass/DSC_9810.jpg",
-      "link": "https://www.wired.com/story/alexa-tablets-blueprint-for-upcoming-amazon-phone/",
-      "published": "Thu, 08 Oct 2026 13:00:00 +0000",
-      "title_th": "The New Alexa Tablets Feel Like a Blueprint for an Amazon Phone",
-      "summary_th": "Amazon is rumored to be making a smartphone, and the Alexa-powered experiences on its new tablets give us a taste of what might come if that happens."
+      "category": "ai",
+      "title_en": "We-Vibe Discount Codes and Deals: Up to 60% Off",
+      "summary_en": "Save on We-Vibe, including app-controlled bestsellers and popular gift sets designed for couples, connection, and shared pleasure.",
+      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
+      "link": "https://www.wired.com/story/we-vibe-discount-code/",
+      "published": "Fri, 09 Oct 2026 05:00:00 +0000",
+      "title_th": "We-Vibe Discount Codes and Deals: Up to 60% Off",
+      "summary_th": "Save on We-Vibe, including app-controlled bestsellers and popular gift sets designed for couples, connection, and shared pleasure."
+    },
+    {
+      "source": "MIT Technology Review",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "We’re putting too much faith in AI’s ability to say no",
+      "summary_en": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary. But recently, the idea that AI shouldn’t…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/0924OP.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "published": "Fri, 09 Oct 2026 09:00:00 +0000",
+      "title_th": "We’re putting too much faith in AI’s ability to say no",
+      "summary_th": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary. But recently, the idea that AI shouldn’t…"
+    },
+    {
+      "source": "MIT Technology Review",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Job titles of the future: Delivery drone air traffic controller",
+      "summary_en": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wischnewsky is now an RPIC, or “remote pilot in command,” at a company called FlyTrex. An RPIC is…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/job-thumb.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+      "published": "Fri, 09 Oct 2026 09:00:00 +0000",
+      "title_th": "Job titles of the future: Delivery drone air traffic controller",
+      "summary_th": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wischnewsky is now an RPIC, or “remote pilot in command,” at a company called FlyTrex. An RPIC is…"
     },
     {
       "source": "MIT Technology Review",
@@ -279,28 +303,28 @@
       "summary_th": "This week, we released our 2026 version of our Climate Tech Companies to Watch list. It’s an annual project that the MIT Technology Review team puts together. Our goal is to highlight some of the promising, interesting advances and firms we think are worth paying attention to in the world of climate and energy technology. …"
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "review",
-      "title_en": "AI breakthroughs in robotics won’t change your life any time soon",
-      "summary_en": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/fin1a_updated.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "published": "Thu, 08 Oct 2026 09:00:00 +0000",
-      "title_th": "AI breakthroughs in robotics won’t change your life any time soon",
-      "summary_th": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or…"
+      "category": "chip",
+      "title_en": "SpaceX wants to become a 'major mobile carrier' with low-band spectrum acquisition",
+      "summary_en": "SpaceX has revealed its plans to become a major mobile carrier.",
+      "image": "https://www.engadget.com/img/gallery/spacex-wants-to-become-a-major-mobile-carrier-with-low-band-spectrum-acquisition/l-intro-1791534538.jpg",
+      "link": "https://www.engadget.com/2281967/spacex-major-mobile-carrier-low-band-spectrum-acquisition/",
+      "published": "Fri, 09 Oct 2026 08:30:18 +0000",
+      "title_th": "SpaceX wants to become a 'major mobile carrier' with low-band spectrum acquisition",
+      "summary_th": "SpaceX has revealed its plans to become a major mobile carrier."
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "Building a safer path to autonomous industrial AI",
-      "summary_en": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-AVEVA-podcast-social-card-v2-1.png?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-      "published": "Thu, 08 Oct 2026 08:17:32 +0000",
-      "title_th": "Building a safer path to autonomous industrial AI",
-      "summary_th": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,…"
+      "category": "chip",
+      "title_en": "Fired OpenAI safety researchers dispute their dismissals in open letter",
+      "summary_en": "Three OpenAI researchers said their firings may have a 'chilling' effect on employees.",
+      "image": "https://www.engadget.com/img/gallery/fired-openai-safety-researchers-dispute-their-dismissals-in-open-letter/l-intro-1791534127.jpg",
+      "link": "https://www.engadget.com/2281966/fired-openai-safety-researchers-dispute-their-dismissals-in-open-letter/",
+      "published": "Fri, 09 Oct 2026 08:25:18 +0000",
+      "title_th": "Fired OpenAI safety researchers dispute their dismissals in open letter",
+      "summary_th": "Three OpenAI researchers said their firings may have a 'chilling' effect on employees."
     },
     {
       "source": "Engadget",
@@ -337,30 +361,6 @@
       "published": "Thu, 08 Oct 2026 21:17:24 +0000",
       "title_th": "Anthropic bans 'sustained and needless abusive or cruel behavior' toward its AI models",
       "summary_th": "The company is also tightening its election policy ahead of the midterms."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Child safety group calls ChatGPT for Teens an unacceptable risk",
-      "summary_en": "After extensive testing, Common Sense Media found the chatbot failed in five key areas.",
-      "image": "https://www.engadget.com/img/gallery/child-safety-group-calls-chatgpt-for-teens-an-unacceptable-risk/l-intro-1791491675.jpg",
-      "link": "https://www.engadget.com/2281719/child-safety-group-calls-chatgpt-for-teens-an-unacceptable-risk/",
-      "published": "Thu, 08 Oct 2026 20:36:46 +0000",
-      "title_th": "Child safety group calls ChatGPT for Teens an unacceptable risk",
-      "summary_th": "After extensive testing, Common Sense Media found the chatbot failed in five key areas."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Cyberpunk 2077 is the latest video game to get the movie treatment",
-      "summary_en": "Paramount Pictures will develop the film and CD Projekt Red will produce.",
-      "image": "https://www.engadget.com/img/gallery/cyberpunk-2077-is-the-latest-video-game-to-get-the-movie-treatment/l-intro-1791490448.jpg",
-      "link": "https://www.engadget.com/2281714/cyberpunk-2077-is-the-latest-video-game-to-get-the-movie-treatment/",
-      "published": "Thu, 08 Oct 2026 20:30:26 +0000",
-      "title_th": "Cyberpunk 2077 is the latest video game to get the movie treatment",
-      "summary_th": "Paramount Pictures will develop the film and CD Projekt Red will produce."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,42 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "OLED MacBook Pro to help boost premium display shipments, per report",
+      "summary_en": "A new Counterpoint Research report says Apple’s next-generation MacBook Pro will help drive a 50% increase in OLED notebook display shipments in 2026 alone. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/macbook-pro-touch-bar-gold-glow.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/08/oled-macbook-pro-to-help-boost-premium-display-shipments-per-report/",
+      "published": "Fri, 09 Oct 2026 02:21:43 +0000",
+      "title_th": "OLED MacBook Pro to help boost premium display shipments, per report",
+      "summary_th": "A new Counterpoint Research report says Apple’s next-generation MacBook Pro will help drive a 50% increase in OLED notebook display shipments in 2026 alone. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple rolls out AT&T carrier update for iPhone 18 Pro Max on iOS 27.2 beta",
+      "summary_en": "After releasing a carrier settings update last week to address cellular issues affecting some iPhone 18 Pro Max users on AT&T, Apple is now rolling out a different carrier bundle update for devices running the iOS 27.2 beta. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-color-lineup-official.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/08/apple-rolls-out-att-carrier-update-for-iphone-18-pro-max-on-ios-27-2-beta/",
+      "published": "Fri, 09 Oct 2026 02:11:17 +0000",
+      "title_th": "Apple rolls out AT&T carrier update for iPhone 18 Pro Max on iOS 27.2 beta",
+      "summary_th": "After releasing a carrier settings update last week to address cellular issues affecting some iPhone 18 Pro Max users on AT&T, Apple is now rolling out a different carrier bundle update for devices running the iOS 27.2 beta. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "‘Matchbox The Movie’ starring John Cena premieres on Apple TV",
+      "summary_en": "Apple TV subscribers can now watch Apple TV’s “ Matchbox The Movie ,” the platform’s new action-packed comedy inspired by the iconic Mattel toys. Watch the trailer below. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/matchbox.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/08/matchbox-the-movie-starring-john-cena-premieres-on-apple-tv/",
+      "published": "Fri, 09 Oct 2026 01:00:23 +0000",
+      "title_th": "‘Matchbox The Movie’ starring John Cena premieres on Apple TV",
+      "summary_th": "Apple TV subscribers can now watch Apple TV’s “ Matchbox The Movie ,” the platform’s new action-packed comedy inspired by the iconic Mattel toys. Watch the trailer below. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Researchers uncover new DarkSword spyware variant affecting unpatched iPhones",
       "summary_en": "iVerify released a report today detailing P7 DarkSword, a new variant of the malware associated with the DarkSword iPhone exploit chain uncovered earlier this year. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&strip=all&resize=1200,628",
@@ -445,42 +481,6 @@
       "published": "Thu, 08 Oct 2026 21:38:06 +0000",
       "title_th": "You can now use TextExpander for free across Mac, iPhone, iPad, and more",
       "summary_th": "Incredibly useful keyboard shortcut utility TextExpander now offers a free plan, letting users access its core Snippets feature on the Mac, iPhone, iPad, Windows, and Chrome. Here are the details. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple home event imminent, OLED MacBook Pro details, Full Disk Access changes",
-      "summary_en": "Benjamin and Chance talk about this week’s Apple news, ahead of a bevy of product announcements coming later this month. Apple is reportedly partnering with LG on a range of smart home accessories, and changes are coming to Full Disk Access permissions. Note: This episode was recorded before Apple officially announced its ‘Welcome home’ event. And in Happy Hour Plus , our family members get new phones. Subscribe at 9to5mac.com/join . Sponsored by Roborock: Fall Prime Day is here—with up to $1,600 off Roborock’s smartest cleaning lineup, plus exclusive limited-time deals and gifts. Find the right cleaner for your home and save starting now. Sponsored by Framer : The only free design tool that brings your ideas to the web. Visit framer.com/happyhour for 30% off a Framer Pro annual plan. Spon",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/08/happy-hour-611/",
-      "published": "Thu, 08 Oct 2026 21:36:56 +0000",
-      "title_th": "Apple home event imminent, OLED MacBook Pro details, Full Disk Access changes",
-      "summary_th": "Benjamin and Chance talk about this week’s Apple news, ahead of a bevy of product announcements coming later this month. Apple is reportedly partnering with LG on a range of smart home accessories, and changes are coming to Full Disk Access permissions. Note: This episode was recorded before Apple officially announced its ‘Welcome home’ event. And in Happy Hour Plus , our family members get new phones. Subscribe at 9to5mac.com/join . Sponsored by Roborock: Fall Prime Day is here—with up to $1,600 off Roborock’s smartest cleaning lineup, plus exclusive limited-time deals and gifts. Find the right cleaner for your home and save starting now. Sponsored by Framer : The only free design tool that brings your ideas to the web. Visit framer.com/happyhour for 30% off a Framer Pro annual plan. Spon"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple, Prosser, and Ramacciotti trade blame over delays in trade secret lawsuit",
-      "summary_en": "In a joint status report made public earlier today, Apple said it is still waiting on additional documents from Jon Prosser and wants to depose Michael Ramacciotti again, while both defendants pushed back on the company’s handling of the case. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/joe-prosser.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/08/apple-prosser-and-ramacciotti-trade-blame-over-delays-in-trade-secret-lawsuit/",
-      "published": "Thu, 08 Oct 2026 21:14:29 +0000",
-      "title_th": "Apple, Prosser, and Ramacciotti trade blame over delays in trade secret lawsuit",
-      "summary_th": "In a joint status report made public earlier today, Apple said it is still waiting on additional documents from Jon Prosser and wants to depose Michael Ramacciotti again, while both defendants pushed back on the company’s handling of the case. Here are the details. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple to launch touchscreen MacBook Pro and more on October 27: report",
-      "summary_en": "Apple just announced a “Welcome home” special event for next week, but the fun doesn’t stop there. Bloomberg now reports that Apple is set to launch its first touchscreen MacBook Pros, a new iPad mini, and more “on or around Tuesday, October 27.” The report says the launch will include “an online video presentation and in-person component for the press.” more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/john-ternus-product-launch.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/08/apple-to-launch-touchscreen-macbook-pro-and-more-on-october-27-report/",
-      "published": "Thu, 08 Oct 2026 20:28:30 +0000",
-      "title_th": "Apple to launch touchscreen MacBook Pro and more on October 27: report",
-      "summary_th": "Apple just announced a “Welcome home” special event for next week, but the fun doesn’t stop there. Bloomberg now reports that Apple is set to launch its first touchscreen MacBook Pros, a new iPad mini, and more “on or around Tuesday, October 27.” The report says the launch will include “an online video presentation and in-person component for the press.” more…"
     },
     {
       "source": "9to5Google",
@@ -546,6 +546,18 @@
       "source": "Electrek",
       "flag": "",
       "category": "ev",
+      "title_en": "Max stupid: EU may loosen EV rules for third time in two years, aiding China",
+      "summary_en": "During multiple historic fuel crises and a climate crisis that left tens of thousands dead across Europe this summer, the bloc is reportedly close to striking a deal to allow its automakers to produce more of the vehicles that directly caused each of those problems. In doing so, it would only ensure that its automakers are unprepared to compete against the country that actually is providing solutions to those problems: China. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2023/03/EU-Combustion-ban-flag.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/09/max-stupid-eu-may-loosen-ev-rules-for-third-time-in-two-years-aiding-china/",
+      "published": "Fri, 09 Oct 2026 09:05:24 +0000",
+      "title_th": "Max stupid: EU may loosen EV rules for third time in two years, aiding China",
+      "summary_th": "During multiple historic fuel crises and a climate crisis that left tens of thousands dead across Europe this summer, the bloc is reportedly close to striking a deal to allow its automakers to produce more of the vehicles that directly caused each of those problems. In doing so, it would only ensure that its automakers are unprepared to compete against the country that actually is providing solutions to those problems: China. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
       "title_en": "The Hyundai IONIQ 7 is coming as a big sibling to the IONIQ 5",
       "summary_en": "If the IONIQ 5 isn’t big enough, Hyundai is preparing to introduce the IONIQ 7, set to fill the gap between the IONIQ 5 and IONIQ 9. more…",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Hyundai-IONIQ-7.jpeg?quality=82&strip=all&resize=1200,628",
@@ -589,18 +601,6 @@
       "published": "Thu, 08 Oct 2026 18:00:00 +0000",
       "title_th": "EcoFlow 2x 1,024Wh DELTA 3 Classic power stations $889, Segway extended 50% off e-scooter sale, Anker SOLIX, EGO, much more",
       "summary_th": "Amazon’s Fall Prime Day Sale event is over, but that doesn’t mean the savings are slowing down, and we’re keeping all the ongoing deals in our updated Fall Prime Day Green Deals hub here for the rest of the week. Leading today’s edition of Green Deals is the latest and final EcoFlow Prime Day flash sale running for 72 hours , with offers like the 2x 1,024Wh DELTA 3 Classic power station bundle down at $889 , alongside some other notable units from $599. Right behind that we have collected all the ongoing Segway Fall Deals Deals Day Sale savings on e-scooters, with continuing options like the ZT3 Pro Off-Road Electric Scooter down at $800 . We also have Anker’s SOLIX Prime Deals Encore Sale offering the 2,048Wh C2000 Gen 2 Portable Power Station with a 400W solar panel at an exclusive $1,33"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Volkswagen recalls more than 22,500 ID.4 EVs and tells owners to charge to just 80%",
-      "summary_en": "Volkswagen issued another recall affecting more than 22,500 ID.4 models. Until a fix is ready, it recommends owners charge the battery to no more than 80%. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Volkswagen-ID.4-recall-battery.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/08/volkswagen-recalls-22500-id-4-evs-tells-owners-charge-to-80/",
-      "published": "Thu, 08 Oct 2026 17:59:54 +0000",
-      "title_th": "Volkswagen recalls more than 22,500 ID.4 EVs and tells owners to charge to just 80%",
-      "summary_th": "Volkswagen issued another recall affecting more than 22,500 ID.4 models. Until a fix is ready, it recommends owners charge the battery to no more than 80%. more…"
     }
   ],
   "indices": [
@@ -608,65 +608,65 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 230.48,
+      "change": -6.99,
+      "change_pct": -2.94
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 375.0,
+      "change": -2.81,
+      "change_pct": -0.74
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 348.29,
+      "change": -2.21,
+      "change_pct": -0.63
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 522.61,
+      "change": -7.15,
+      "change_pct": -1.35
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 340.42,
+      "change": 3.75,
+      "change_pct": 1.11
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 254.06,
+      "change": -5.86,
+      "change_pct": -2.25
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 720.89,
+      "change": -0.42,
+      "change_pct": -0.06
     },
     {
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 268.0,
-      "change": 0.0,
-      "change_pct": 0.0
+      "price": 267.0,
+      "change": -1.0,
+      "change_pct": -0.37
     }
   ],
   "reviews": [
