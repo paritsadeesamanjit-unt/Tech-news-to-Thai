@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-10-08T20:36:10.018025+00:00",
+  "generated_at": "2026-10-09T01:03:24.163763+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "President Trump awards Big Tech donors with nation’s highest science prizes",
+      "summary_en": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2299252091.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+      "published": "Thu, 08 Oct 2026 22:33:59 +0000",
+      "title_th": "President Trump awards Big Tech donors with nation’s highest science prizes",
+      "summary_th": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "summary_en": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1158861262.jpg?resize=1200,832",
+      "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "published": "Thu, 08 Oct 2026 21:00:00 +0000",
+      "title_th": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "summary_th": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -39,28 +63,52 @@
       "summary_th": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "summary_en": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
-      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "published": "Thu, 08 Oct 2026 18:19:45 +0000",
-      "title_th": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "summary_th": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying."
+      "category": "gadget",
+      "title_en": "Anthropic launches free AI security scans for open-source projects",
+      "summary_en": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "published": "2026-10-08T17:53:51-04:00",
+      "title_th": "Anthropic launches free AI security scans for open-source projects",
+      "summary_th": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-      "summary_en": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-      "published": "Thu, 08 Oct 2026 18:19:42 +0000",
-      "title_th": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-      "summary_th": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that."
+      "category": "gadget",
+      "title_en": "SpaceX announces plan to become a ‘major mobile carrier’",
+      "summary_en": "SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says \"will pave the way\" for its Starlink Mobile service to become a \"major\" US carrier. When the Federal Communications Commission signs off on the deal, SpaceX says it will deploy its new architecture that combines its satellite-to-mobile constellation with a […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "link": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
+      "published": "2026-10-08T17:23:31-04:00",
+      "title_th": "SpaceX announces plan to become a ‘major mobile carrier’",
+      "summary_th": "SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says \"will pave the way\" for its Starlink Mobile service to become a \"major\" US carrier. When the Federal Communications Commission signs off on the deal, SpaceX says it will deploy its new architecture that combines its satellite-to-mobile constellation with a […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "AMD will bring FSR 4 to handhelds by the end of 2026",
+      "summary_en": "It's already possible to get AMD's framerate-enhancing FSR 4 boost on handhelds as old as the Steam Deck - but in June, AMD reserved the right to disappoint handheld gamers by not officially bringing FSR 4 to older handhelds. Now, AMD consumer chip boss Jack Huynh says he will bring the tech to some handhelds […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0127.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026",
+      "published": "2026-10-08T17:01:18-04:00",
+      "title_th": "AMD will bring FSR 4 to handhelds by the end of 2026",
+      "summary_th": "It's already possible to get AMD's framerate-enhancing FSR 4 boost on handhelds as old as the Steam Deck - but in June, AMD reserved the right to disappoint handheld gamers by not officially bringing FSR 4 to older handhelds. Now, AMD consumer chip boss Jack Huynh says he will bring the tech to some handhelds […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Apple will reportedly debut its first touchscreen MacBook in three weeks",
+      "summary_en": "Apple is set to introduce a new MacBook Pro with a touchscreen and an updated iPad Mini \"on or around\" October 27th, Bloomberg reports. If true, that would put the event just two weeks after the October 13th event Apple announced today, which is rumored to focus on smart home products. Bloomberg says that the […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268395_Apple_MacBook_Pro_16_M5_Max_ADiBenedetto_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor",
+      "published": "2026-10-08T16:32:21-04:00",
+      "title_th": "Apple will reportedly debut its first touchscreen MacBook in three weeks",
+      "summary_th": "Apple is set to introduce a new MacBook Pro with a touchscreen and an updated iPad Mini \"on or around\" October 27th, Bloomberg reports. If true, that would put the event just two weeks after the October 13th event Apple announced today, which is rumored to focus on smart home products. Bloomberg says that the […]"
     },
     {
       "source": "The Verge",
@@ -68,59 +116,11 @@
       "category": "software",
       "title_en": "California is trying to shut down robot vs. human cage matches",
       "summary_en": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK_414_AI_J-copy.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-4.18.11-PM.png?quality=90&strip=all&crop=0%2C6.5996142187931%2C100%2C86.800771562414&w=1200",
       "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
       "published": "2026-10-08T16:06:56-04:00",
       "title_th": "California is trying to shut down robot vs. human cage matches",
       "summary_th": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "ICE detainees in Georgia used the facility’s video calling software to expose the conditions inside",
-      "summary_en": "Four men detained at an ICE detention center in rural Georgia used the facility's video conferencing software to expose both the conditions inside and President Donald Trump's hostile takeover of the immigration courts. In the five-minute video, the men describe an intentionally dysfunctional legal system designed to keep them trapped in federal custody for months […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2233996808.jpg?quality=90&strip=all&crop=0%2C3.2557194251151%2C100%2C93.48856114977&w=1200",
-      "link": "https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video",
-      "published": "2026-10-08T15:45:00-04:00",
-      "title_th": "ICE detainees in Georgia used the facility’s video calling software to expose the conditions inside",
-      "summary_th": "Four men detained at an ICE detention center in rural Georgia used the facility's video conferencing software to expose both the conditions inside and President Donald Trump's hostile takeover of the immigration courts. In the five-minute video, the men describe an intentionally dysfunctional legal system designed to keep them trapped in federal custody for months […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Paramount is making a Cyberpunk 2077 film",
-      "summary_en": "Cyberpunk 2077 is heading to the big screen. Deadline reports that CD Projekt Red's popular sci-fi video game franchise is being adapted into a live-action film by Paramount Pictures. There's no details just yet on when the film might premiere. But Deadline says that Lorenzo di Bonaventura, who is known for producing the Transformers films, […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/cyberpunk2077screenshot.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "link": "https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie",
-      "published": "2026-10-08T15:14:03-04:00",
-      "title_th": "Paramount is making a Cyberpunk 2077 film",
-      "summary_th": "Cyberpunk 2077 is heading to the big screen. Deadline reports that CD Projekt Red's popular sci-fi video game franchise is being adapted into a live-action film by Paramount Pictures. There's no details just yet on when the film might premiere. But Deadline says that Lorenzo di Bonaventura, who is known for producing the Transformers films, […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Tim Cook says ‘I’m not meddling’ in the new Apple CEO’s business",
-      "summary_en": "Tim Cook stepped down as Apple CEO in September, handing over the top job to former hardware chief John Ternus and taking an executive chairman role. Cook's still a visible representative of the company, having been recently photographed attending a state dinner at the White House. But in an interview with The Independent, Cook says […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo",
-      "published": "2026-10-08T14:48:36-04:00",
-      "title_th": "Tim Cook says ‘I’m not meddling’ in the new Apple CEO’s business",
-      "summary_th": "Tim Cook stepped down as Apple CEO in September, handing over the top job to former hardware chief John Ternus and taking an executive chairman role. Cook's still a visible representative of the company, having been recently photographed attending a state dinner at the White House. But in an interview with The Independent, Cook says […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "I only bought Pokémon Legends: Z-A during Prime Day, and it’s still on sale",
-      "summary_en": "After covering Amazon’s October sale for the last few days, only one item found its way into my shopping cart, and, lucky for you, it’s still on sale after the event’s conclusion. Pokémon Legends: Z-A for the Nintendo Switch or Switch 2 is $39.88 (usually $59.99 for Switch or $69.99 for Switch 2) at Amazon. […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_0107.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "link": "https://www.theverge.com/gadgets/1008212/pokemon-legends-z-a-switch-deal-sale",
-      "published": "2026-10-08T14:48:11-04:00",
-      "title_th": "I only bought Pokémon Legends: Z-A during Prime Day, and it’s still on sale",
-      "summary_th": "After covering Amazon’s October sale for the last few days, only one item found its way into my shopping cart, and, lucky for you, it’s still on sale after the event’s conclusion. Pokémon Legends: Z-A for the Nintendo Switch or Switch 2 is $39.88 (usually $59.99 for Switch or $69.99 for Switch 2) at Amazon. […]"
     },
     {
       "source": "Ars Technica",
@@ -186,6 +186,30 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
+      "title_en": "ICE Emails Discuss Using Palantir-Supported Tool to Investigate Voter Fraud",
+      "summary_en": "Documents obtained by Democracy Forward show that ICE looked into feeding voter roll data into the ELITE tool, normally used to identify targets for deportation.",
+      "image": "https://media.wired.com/photos/6ac7c810d785fb1d34f54ca9/master/pass/GettyImages-2287296268.jpg",
+      "link": "https://www.wired.com/story/ice-emails-discuss-using-palantir-supported-tool-to-investigate-voter-fraud/",
+      "published": "Thu, 08 Oct 2026 22:40:11 +0000",
+      "title_th": "ICE Emails Discuss Using Palantir-Supported Tool to Investigate Voter Fraud",
+      "summary_th": "Documents obtained by Democracy Forward show that ICE looked into feeding voter roll data into the ELITE tool, normally used to identify targets for deportation."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Inside Elon Musk’s Midterm Spending Spree",
+      "summary_en": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
+      "image": "https://media.wired.com/photos/6ac6cf6962b0c903a0cf2363/master/pass/Uncanny-Valley-Elon-Spending-Business-2297775036.jpg",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
+      "published": "Thu, 08 Oct 2026 21:14:12 +0000",
+      "title_th": "Inside Elon Musk’s Midterm Spending Spree",
+      "summary_th": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
       "title_en": "She Designed Meta’s New AI Logo. Then Came the Hate",
       "summary_en": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
       "image": "https://media.wired.com/photos/6ac690e71275a2452d67fafd/master/pass/Model-Behavior-Artist-Behind-Meta-Muse-Logo-Business.jpg",
@@ -209,18 +233,6 @@
     {
       "source": "Wired",
       "flag": "US",
-      "category": "ai",
-      "title_en": "Amazon Alexa Tablet 12 Pro, Alexa Tablet 11, Alexa Tablet 8: Specs, Features, Price",
-      "summary_en": "The three new aluminum Alexa Tablets now run Android with full access to the Google Play Store. There are versions for kids too.",
-      "image": "https://media.wired.com/photos/6ac61e4b2ab0bbd59ca811da/master/pass/DSC_9820.jpg",
-      "link": "https://www.wired.com/story/amazon-alexa-tablets-2026/",
-      "published": "Thu, 08 Oct 2026 13:00:00 +0000",
-      "title_th": "Amazon Alexa Tablet 12 Pro, Alexa Tablet 11, Alexa Tablet 8: Specs, Features, Price",
-      "summary_th": "The three new aluminum Alexa Tablets now run Android with full access to the Google Play Store. There are versions for kids too."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
       "category": "gadget",
       "title_en": "The New Alexa Tablets Feel Like a Blueprint for an Amazon Phone",
       "summary_en": "Amazon is rumored to be making a smartphone, and the Alexa-powered experiences on its new tablets give us a taste of what might come if that happens.",
@@ -231,16 +243,16 @@
       "summary_th": "Amazon is rumored to be making a smartphone, and the Alexa-powered experiences on its new tablets give us a taste of what might come if that happens."
     },
     {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
       "category": "ai",
-      "title_en": "Life Is Asymmetric. The Scientists Who Figured Out Why Won the 2026 Nobel Prize in Chemistry",
-      "summary_en": "Henri Kagan and Kensō Soai designed chemical reactions producing only one of the two mirror-image forms of a molecule—an important finding for the synthesis of pharmaceuticals and other biological substances.",
-      "image": "https://media.wired.com/photos/6ac6c83462b0c903a0cf2360/master/pass/Premio%20Nobel%20Qu%C3%ADmica%202026%202298426505.jpg",
-      "link": "https://www.wired.com/story/life-is-asymmetric-the-scientists-who-figured-out-why-won-the-2026-nobel-prize-in-chemistry/",
-      "published": "Thu, 08 Oct 2026 10:30:00 +0000",
-      "title_th": "Life Is Asymmetric. The Scientists Who Figured Out Why Won the 2026 Nobel Prize in Chemistry",
-      "summary_th": "Henri Kagan and Kensō Soai designed chemical reactions producing only one of the two mirror-image forms of a molecule—an important finding for the synthesis of pharmaceuticals and other biological substances."
+      "title_en": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "summary_en": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "published": "Fri, 09 Oct 2026 00:08:24 +0000",
+      "title_th": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "summary_th": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter…"
     },
     {
       "source": "MIT Technology Review",
@@ -291,76 +303,64 @@
       "summary_th": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,…"
     },
     {
-      "source": "MIT Technology Review",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
-      "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds. They might also slow the aging process. Drugmakers Eli Lilly…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/silo-clock2.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
-      "published": "Wed, 07 Oct 2026 12:10:00 +0000",
-      "title_th": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
-      "summary_th": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds. They might also slow the aging process. Drugmakers Eli Lilly…"
-    },
-    {
       "source": "Engadget",
       "flag": "US",
-      "category": "chip",
-      "title_en": "Forza Horizon 6 is coming to PS5 on January 26",
-      "summary_en": "The racing game's first expansion will also be available early next year.",
-      "image": "https://www.engadget.com/img/gallery/forza-horizon-6-is-coming-to-ps5-on-january-26/l-intro-1791490042.jpg",
-      "link": "https://www.engadget.com/2281683/forza-horizon-6-is-coming-to-ps5-on-january-26/",
-      "published": "Thu, 08 Oct 2026 20:08:45 +0000",
-      "title_th": "Forza Horizon 6 is coming to PS5 on January 26",
-      "summary_th": "The racing game's first expansion will also be available early next year."
+      "category": "review",
+      "title_en": "Apple reportedly plans touchscreen MacBook and iPad Mini launch for this month",
+      "summary_en": "The wait to (literally) get your hands on the tech may almost be over.",
+      "image": "https://www.engadget.com/img/gallery/apple-reportedly-plans-touchscreen-macbook-and-ipad-mini-launch-for-this-month/l-intro-1791501544.jpg",
+      "link": "https://www.engadget.com/2281839/apple-reportedly-plans-touchscreen-macbook-and-ipad-mini-launch-for-this-month/",
+      "published": "Thu, 08 Oct 2026 23:26:35 +0000",
+      "title_th": "Apple reportedly plans touchscreen MacBook and iPad Mini launch for this month",
+      "summary_th": "The wait to (literally) get your hands on the tech may almost be over."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "gadget",
-      "title_en": "Google is doing away with Safety Signal on Pixel Watch",
-      "summary_en": "Access to the emergency feature for LTE-connected wearables will end by December.",
-      "image": "https://www.engadget.com/img/gallery/google-is-doing-away-with-safety-signal-on-pixel-watch/l-intro-1791486727.jpg",
-      "link": "https://www.engadget.com/2281591/google-is-doing-away-with-safety-signal-on-pixel-watch/",
-      "published": "Thu, 08 Oct 2026 19:16:12 +0000",
-      "title_th": "Google is doing away with Safety Signal on Pixel Watch",
-      "summary_th": "Access to the emergency feature for LTE-connected wearables will end by December."
+      "title_en": "Alexa Tablet vs iPad Pro: How Amazon is keeping up with Apple",
+      "summary_en": "Amazon's latest and greatest tablet shares some key similarities to Apple's high-end iPads, but the devil is in the details.",
+      "image": "https://www.engadget.com/img/gallery/alexa-tablet-vs-ipad-pro-how-amazon-is-keeping-up-with-apple/l-intro-1791495275.jpg",
+      "link": "https://www.engadget.com/2281782/alexa-tablet-vs-ipad-pro-amazon-apple-tablet-comparison/",
+      "published": "Thu, 08 Oct 2026 21:40:59 +0000",
+      "title_th": "Alexa Tablet vs iPad Pro: How Amazon is keeping up with Apple",
+      "summary_th": "Amazon's latest and greatest tablet shares some key similarities to Apple's high-end iPads, but the devil is in the details."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "US suspends permanent residency program for Microsoft, Adobe and other tech companies",
-      "summary_en": "Seven companies have been accused of fraud regarding the H-1B worker visas.",
-      "image": "https://www.engadget.com/img/gallery/us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies/l-intro-1791483571.jpg",
-      "link": "https://www.engadget.com/2281503/us-suspends-permanent-residency-program-for-microsoft-adobe-and-other-tech-companies/",
-      "published": "Thu, 08 Oct 2026 18:23:00 +0000",
-      "title_th": "US suspends permanent residency program for Microsoft, Adobe and other tech companies",
-      "summary_th": "Seven companies have been accused of fraud regarding the H-1B worker visas."
+      "title_en": "Anthropic bans 'sustained and needless abusive or cruel behavior' toward its AI models",
+      "summary_en": "The company is also tightening its election policy ahead of the midterms.",
+      "image": "https://www.engadget.com/img/gallery/anthropic-bans-sustained-and-needless-abusive-or-cruel-behavior-toward-its-ai-models/l-intro-1791494139.jpg",
+      "link": "https://www.engadget.com/2281765/anthropic-bans-sustained-and-needless-abusive-or-cruel-behavior-toward-its-ai-models/",
+      "published": "Thu, 08 Oct 2026 21:17:24 +0000",
+      "title_th": "Anthropic bans 'sustained and needless abusive or cruel behavior' toward its AI models",
+      "summary_th": "The company is also tightening its election policy ahead of the midterms."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Razer's Basilisk V4 Pro gaming mouse features a new tilt wheel and up to 275 hours of battery life",
-      "summary_en": "The company also released the V4 Hyperspeed and a charging dock.",
-      "image": "https://www.engadget.com/img/gallery/razers-basilisk-v4-pro-gaming-mouse-features-a-new-tilt-wheel-and-up-to-275-hours-of-battery-life/l-intro-1791480509.jpg",
-      "link": "https://www.engadget.com/2281382/razers-basilisk-v4-pro-gaming-mouse-features-a-new-tilt-wheel-and-up-to-275-hours-of-battery-life/",
-      "published": "Thu, 08 Oct 2026 17:40:00 +0000",
-      "title_th": "Razer's Basilisk V4 Pro gaming mouse features a new tilt wheel and up to 275 hours of battery life",
-      "summary_th": "The company also released the V4 Hyperspeed and a charging dock."
+      "title_en": "Child safety group calls ChatGPT for Teens an unacceptable risk",
+      "summary_en": "After extensive testing, Common Sense Media found the chatbot failed in five key areas.",
+      "image": "https://www.engadget.com/img/gallery/child-safety-group-calls-chatgpt-for-teens-an-unacceptable-risk/l-intro-1791491675.jpg",
+      "link": "https://www.engadget.com/2281719/child-safety-group-calls-chatgpt-for-teens-an-unacceptable-risk/",
+      "published": "Thu, 08 Oct 2026 20:36:46 +0000",
+      "title_th": "Child safety group calls ChatGPT for Teens an unacceptable risk",
+      "summary_th": "After extensive testing, Common Sense Media found the chatbot failed in five key areas."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Everything Amazon has announced so far in October 2026",
-      "summary_en": "Every week, the company has been introducing new devices and products. So here's a nifty roundup.",
-      "image": "https://www.engadget.com/img/gallery/everything-amazon-has-announced-so-far-in-october-2026/l-intro-1791478864.jpg",
-      "link": "https://www.engadget.com/2281378/everything-amazon-announced-october-2026-alexa-tablet-kindle-fire-tv-ring-lock/",
-      "published": "Thu, 08 Oct 2026 17:30:00 +0000",
-      "title_th": "Everything Amazon has announced so far in October 2026",
-      "summary_th": "Every week, the company has been introducing new devices and products. So here's a nifty roundup."
+      "title_en": "Cyberpunk 2077 is the latest video game to get the movie treatment",
+      "summary_en": "Paramount Pictures will develop the film and CD Projekt Red will produce.",
+      "image": "https://www.engadget.com/img/gallery/cyberpunk-2077-is-the-latest-video-game-to-get-the-movie-treatment/l-intro-1791490448.jpg",
+      "link": "https://www.engadget.com/2281714/cyberpunk-2077-is-the-latest-video-game-to-get-the-movie-treatment/",
+      "published": "Thu, 08 Oct 2026 20:30:26 +0000",
+      "title_th": "Cyberpunk 2077 is the latest video game to get the movie treatment",
+      "summary_th": "Paramount Pictures will develop the film and CD Projekt Red will produce."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,61 +426,61 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "IDC: Mac shipments drop 11% in Q3 as global PC market slides 20%",
-      "summary_en": "Despite seeing an 11% drop in Mac shipments during Q3 2026, Apple’s market share rose from 8.5% to 9.5%, as the broader market saw shipments plunge 20.1%, according to a new report from IDC. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/mac-mini.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/08/idc-mac-shipments-drop-11-in-q3-as-global-pc-market-slides-20/",
-      "published": "Thu, 08 Oct 2026 20:09:47 +0000",
-      "title_th": "IDC: Mac shipments drop 11% in Q3 as global PC market slides 20%",
-      "summary_th": "Despite seeing an 11% drop in Mac shipments during Q3 2026, Apple’s market share rose from 8.5% to 9.5%, as the broader market saw shipments plunge 20.1%, according to a new report from IDC. Here are the details. more…"
+      "title_en": "Researchers uncover new DarkSword spyware variant affecting unpatched iPhones",
+      "summary_en": "iVerify released a report today detailing P7 DarkSword, a new variant of the malware associated with the DarkSword iPhone exploit chain uncovered earlier this year. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/08/researchers-uncover-new-darksword-spyware-variant-affecting-unpatched-iphones/",
+      "published": "Thu, 08 Oct 2026 23:08:18 +0000",
+      "title_th": "Researchers uncover new DarkSword spyware variant affecting unpatched iPhones",
+      "summary_th": "iVerify released a report today detailing P7 DarkSword, a new variant of the malware associated with the DarkSword iPhone exploit chain uncovered earlier this year. Here are the details. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple Home adds two powerful new features in iOS 27",
-      "summary_en": "Apple is launching several new Home products next week , so it’s no surprise that iOS 27 includes big upgrades in the Home app. Here are two powerful new Home features in iOS 27. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-home-app-icon-ios-27.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/08/heres-everything-new-for-apples-home-app-in-ios-27/",
-      "published": "Thu, 08 Oct 2026 19:11:19 +0000",
-      "title_th": "Apple Home adds two powerful new features in iOS 27",
-      "summary_th": "Apple is launching several new Home products next week , so it’s no surprise that iOS 27 includes big upgrades in the Home app. Here are two powerful new Home features in iOS 27. more…"
+      "title_en": "You can now use TextExpander for free across Mac, iPhone, iPad, and more",
+      "summary_en": "Incredibly useful keyboard shortcut utility TextExpander now offers a free plan, letting users access its core Snippets feature on the Mac, iPhone, iPad, Windows, and Chrome. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/text-expander.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/08/you-can-now-use-textexpander-for-free-across-mac-iphone-ipad-and-more/",
+      "published": "Thu, 08 Oct 2026 21:38:06 +0000",
+      "title_th": "You can now use TextExpander for free across Mac, iPhone, iPad, and more",
+      "summary_th": "Incredibly useful keyboard shortcut utility TextExpander now offers a free plan, letting users access its core Snippets feature on the Mac, iPhone, iPad, Windows, and Chrome. Here are the details. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "9to5Mac Daily: October 8, 2026 – iPad mini rumors, iCloud+",
-      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff :Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. A simple to-do list for iPhone, iPad, and Mac, with powerful tools that make organizing, tracking, and checking off your tasks a whole lot more satisfying. Get Stuff done. Sponsored by Roborock: Fall Prime Day is here—with up to $1,600 off Roborock’s smartest cleaning lineup, plus exclusive limited-time deals and gifts. Find the right cleaner for your home and save starting now. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/08/daily-october-8-2026/",
-      "published": "Thu, 08 Oct 2026 19:00:11 +0000",
-      "title_th": "9to5Mac Daily: October 8, 2026 – iPad mini rumors, iCloud+",
-      "summary_th": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff :Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. A simple to-do list for iPhone, iPad, and Mac, with powerful tools that make organizing, tracking, and checking off your tasks a whole lot more satisfying. Get Stuff done. Sponsored by Roborock: Fall Prime Day is here—with up to $1,600 off Roborock’s smartest cleaning lineup, plus exclusive limited-time deals and gifts. Find the right cleaner for your home and save starting now. more…"
+      "title_en": "Apple home event imminent, OLED MacBook Pro details, Full Disk Access changes",
+      "summary_en": "Benjamin and Chance talk about this week’s Apple news, ahead of a bevy of product announcements coming later this month. Apple is reportedly partnering with LG on a range of smart home accessories, and changes are coming to Full Disk Access permissions. Note: This episode was recorded before Apple officially announced its ‘Welcome home’ event. And in Happy Hour Plus , our family members get new phones. Subscribe at 9to5mac.com/join . Sponsored by Roborock: Fall Prime Day is here—with up to $1,600 off Roborock’s smartest cleaning lineup, plus exclusive limited-time deals and gifts. Find the right cleaner for your home and save starting now. Sponsored by Framer : The only free design tool that brings your ideas to the web. Visit framer.com/happyhour for 30% off a Framer Pro annual plan. Spon",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/08/happy-hour-611/",
+      "published": "Thu, 08 Oct 2026 21:36:56 +0000",
+      "title_th": "Apple home event imminent, OLED MacBook Pro details, Full Disk Access changes",
+      "summary_th": "Benjamin and Chance talk about this week’s Apple news, ahead of a bevy of product announcements coming later this month. Apple is reportedly partnering with LG on a range of smart home accessories, and changes are coming to Full Disk Access permissions. Note: This episode was recorded before Apple officially announced its ‘Welcome home’ event. And in Happy Hour Plus , our family members get new phones. Subscribe at 9to5mac.com/join . Sponsored by Roborock: Fall Prime Day is here—with up to $1,600 off Roborock’s smartest cleaning lineup, plus exclusive limited-time deals and gifts. Find the right cleaner for your home and save starting now. Sponsored by Framer : The only free design tool that brings your ideas to the web. Visit framer.com/happyhour for 30% off a Framer Pro annual plan. Spon"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Tim Cook on his first month after Apple CEO transition: ‘I’m not meddling’",
-      "summary_en": "Tim Cook visited Apple’s Battersea campus in London this week, mingling with King Charles as part of the company’s new partnership with The King’s Trust . At Apple’s Battersea headquarters, Cook also sat down with The Independent for an in-depth interview on the partnership and his first month as Apple’s executive chairman. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/john-ternus-tim-cook-ceo-apple.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/08/tim-cook-on-his-first-month-after-apple-ceo-transition-im-not-meddling/",
-      "published": "Thu, 08 Oct 2026 18:29:33 +0000",
-      "title_th": "Tim Cook on his first month after Apple CEO transition: ‘I’m not meddling’",
-      "summary_th": "Tim Cook visited Apple’s Battersea campus in London this week, mingling with King Charles as part of the company’s new partnership with The King’s Trust . At Apple’s Battersea headquarters, Cook also sat down with The Independent for an in-depth interview on the partnership and his first month as Apple’s executive chairman. more…"
+      "title_en": "Apple, Prosser, and Ramacciotti trade blame over delays in trade secret lawsuit",
+      "summary_en": "In a joint status report made public earlier today, Apple said it is still waiting on additional documents from Jon Prosser and wants to depose Michael Ramacciotti again, while both defendants pushed back on the company’s handling of the case. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/joe-prosser.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/08/apple-prosser-and-ramacciotti-trade-blame-over-delays-in-trade-secret-lawsuit/",
+      "published": "Thu, 08 Oct 2026 21:14:29 +0000",
+      "title_th": "Apple, Prosser, and Ramacciotti trade blame over delays in trade secret lawsuit",
+      "summary_th": "In a joint status report made public earlier today, Apple said it is still waiting on additional documents from Jon Prosser and wants to depose Michael Ramacciotti again, while both defendants pushed back on the company’s handling of the case. Here are the details. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple names new head of mergers and acquisitions, per report",
-      "summary_en": "Apple is making more leadership changes as the John Ternus era gets underway. A new Bloomberg report today says Apple has named a new mergers and acquisitions chief and a new vice president of the App Store. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-park-steve-jobs-theater-sep-9-2026.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/08/apple-names-new-head-of-mergers-and-acquisitions-per-report/",
-      "published": "Thu, 08 Oct 2026 18:03:00 +0000",
-      "title_th": "Apple names new head of mergers and acquisitions, per report",
-      "summary_th": "Apple is making more leadership changes as the John Ternus era gets underway. A new Bloomberg report today says Apple has named a new mergers and acquisitions chief and a new vice president of the App Store. more…"
+      "title_en": "Apple to launch touchscreen MacBook Pro and more on October 27: report",
+      "summary_en": "Apple just announced a “Welcome home” special event for next week, but the fun doesn’t stop there. Bloomberg now reports that Apple is set to launch its first touchscreen MacBook Pros, a new iPad mini, and more “on or around Tuesday, October 27.” The report says the launch will include “an online video presentation and in-person component for the press.” more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/john-ternus-product-launch.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/08/apple-to-launch-touchscreen-macbook-pro-and-more-on-october-27-report/",
+      "published": "Thu, 08 Oct 2026 20:28:30 +0000",
+      "title_th": "Apple to launch touchscreen MacBook Pro and more on October 27: report",
+      "summary_th": "Apple just announced a “Welcome home” special event for next week, but the fun doesn’t stop there. Bloomberg now reports that Apple is set to launch its first touchscreen MacBook Pros, a new iPad mini, and more “on or around Tuesday, October 27.” The report says the launch will include “an online video presentation and in-person component for the press.” more…"
     },
     {
       "source": "9to5Google",
@@ -546,6 +546,18 @@
       "source": "Electrek",
       "flag": "",
       "category": "ev",
+      "title_en": "The Hyundai IONIQ 7 is coming as a big sibling to the IONIQ 5",
+      "summary_en": "If the IONIQ 5 isn’t big enough, Hyundai is preparing to introduce the IONIQ 7, set to fill the gap between the IONIQ 5 and IONIQ 9. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Hyundai-IONIQ-7.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/08/hyundai-ioniq-7-coming-big-sibling-to-ioniq-5/",
+      "published": "Thu, 08 Oct 2026 21:14:45 +0000",
+      "title_th": "The Hyundai IONIQ 7 is coming as a big sibling to the IONIQ 5",
+      "summary_th": "If the IONIQ 5 isn’t big enough, Hyundai is preparing to introduce the IONIQ 7, set to fill the gap between the IONIQ 5 and IONIQ 9. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
       "title_en": "Rivian brings Ghostbusters to its vehicles in 2026 Halloween update",
       "summary_en": "Rivian is back with another Halloween update, and once again it’s another classic-movie-themed one with a new celebrity cameo. more…",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/2026-HS-GHOSTBUSTERS-ECTO-R1-DRIVING-2-e1791328568714.jpg?quality=82&strip=all&resize=1200,628",
@@ -589,18 +601,6 @@
       "published": "Thu, 08 Oct 2026 17:59:54 +0000",
       "title_th": "Volkswagen recalls more than 22,500 ID.4 EVs and tells owners to charge to just 80%",
       "summary_th": "Volkswagen issued another recall affecting more than 22,500 ID.4 models. Until a fix is ready, it recommends owners charge the battery to no more than 80%. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "BMW adds new iX3 M60 xDrive with 603 hp and ‘extensive’ M upgrades",
-      "summary_en": "BMW’s new electric SUV just got the M treatment. The new BMW iX3 M60 “raises the stakes,” packing a combined 603 hp and plenty of standard M upgrades. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/BMW-iX3-M60-rear.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/08/bmw-adds-ix3-m60-xdrive-603-hp-extensive-m-upgrades/",
-      "published": "Thu, 08 Oct 2026 17:07:22 +0000",
-      "title_th": "BMW adds new iX3 M60 xDrive with 603 hp and ‘extensive’ M upgrades",
-      "summary_th": "BMW’s new electric SUV just got the M treatment. The new BMW iX3 M60 “raises the stakes,” packing a combined 603 hp and plenty of standard M upgrades. more…"
     }
   ],
   "indices": [
@@ -608,57 +608,57 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 230.48,
-      "change": -6.99,
-      "change_pct": -2.94
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 375.0,
-      "change": -2.81,
-      "change_pct": -0.74
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 348.29,
-      "change": -2.21,
-      "change_pct": -0.63
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 522.61,
-      "change": -7.15,
-      "change_pct": -1.35
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 340.42,
-      "change": 3.75,
-      "change_pct": 1.11
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 254.06,
-      "change": -5.86,
-      "change_pct": -2.25
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 720.89,
-      "change": -0.42,
-      "change_pct": -0.06
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "DELTA.BK",
@@ -670,6 +670,16 @@
     }
   ],
   "reviews": [
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "WTF is a Googlebook?",
+      "video_id": "_0G4OG39XjI",
+      "link": "https://www.youtube.com/watch?v=_0G4OG39XjI",
+      "thumbnail": "https://i4.ytimg.com/vi/_0G4OG39XjI/hqdefault.jpg",
+      "published": "2026-10-08T21:00:40+00:00",
+      "title_th": "WTF is a Googlebook?"
+    },
     {
       "channel": "MKBHD",
       "country": "US",
@@ -689,16 +699,6 @@
       "thumbnail": "https://i2.ytimg.com/vi/e1q-TuHdc4Y/hqdefault.jpg",
       "published": "2026-09-30T14:42:19+00:00",
       "title_th": "Dear YouTube!"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "Nothing Headphone 1 Pro: They Copied the Wrong Thing!",
-      "video_id": "rayrrXot17M",
-      "link": "https://www.youtube.com/watch?v=rayrrXot17M",
-      "thumbnail": "https://i3.ytimg.com/vi/rayrrXot17M/hqdefault.jpg",
-      "published": "2026-09-29T01:01:35+00:00",
-      "title_th": "Nothing Headphone 1 Pro: They Copied the Wrong Thing!"
     },
     {
       "channel": "Unbox Therapy",
@@ -733,6 +733,16 @@
     {
       "channel": "Beartai",
       "country": "TH",
+      "title_en": "วิธีเลือกซื้อมือถือ",
+      "video_id": "kXju41MGviY",
+      "link": "https://www.youtube.com/shorts/kXju41MGviY",
+      "thumbnail": "https://i4.ytimg.com/vi/kXju41MGviY/hqdefault.jpg",
+      "published": "2026-10-08T23:00:29+00:00",
+      "title_th": "วิธีเลือกซื้อมือถือ"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
       "title_en": "DNA File รหัสลับของชีวิต EP. 5 ทางเลือกของมนุษย์",
       "video_id": "yrM_SZeTz5Q",
       "link": "https://www.youtube.com/watch?v=yrM_SZeTz5Q",
@@ -749,16 +759,6 @@
       "thumbnail": "https://i4.ytimg.com/vi/oSEPvRQ8F4w/hqdefault.jpg",
       "published": "2026-10-07T23:00:44+00:00",
       "title_th": "สะบักสะบอม แต่พร้อมลุยต่อ"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "AI Buddy คืออะไร? ผู้ช่วยที่ทำให้บ้านง่ายขึ้น",
-      "video_id": "gjvDi_djWmQ",
-      "link": "https://www.youtube.com/watch?v=gjvDi_djWmQ",
-      "thumbnail": "https://i4.ytimg.com/vi/gjvDi_djWmQ/hqdefault.jpg",
-      "published": "2026-10-07T04:00:00+00:00",
-      "title_th": "AI Buddy คืออะไร? ผู้ช่วยที่ทำให้บ้านง่ายขึ้น"
     },
     {
       "channel": "Droidsans",
