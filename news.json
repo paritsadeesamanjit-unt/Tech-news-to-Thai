@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-10T16:45:23.863720+00:00",
+  "generated_at": "2026-10-10T21:05:47.806929+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "summary_en": "Is Apple hoping to get into the AI-generated podcast business?",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/01/apple-podcasts-1.jpg?w=1200",
+      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "published": "Sat, 10 Oct 2026 19:50:00 +0000",
+      "title_th": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "summary_th": "Is Apple hoping to get into the AI-generated podcast business?"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Petra Power looks to modernize energy for data centers and defense vehicles",
+      "summary_en": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_6289.HEIC.jpg?resize=900,1200",
+      "link": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+      "published": "Sat, 10 Oct 2026 17:00:00 +0000",
+      "title_th": "Petra Power looks to modernize energy for data centers and defense vehicles",
+      "summary_th": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Cloudflare acquires Deno to improve its Workers programming model",
+      "summary_en": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1186369127.jpeg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+      "published": "Sat, 10 Oct 2026 16:25:42 +0000",
+      "title_th": "Cloudflare acquires Deno to improve its Workers programming model",
+      "summary_th": "Cloudflare will use this acquisition to improve its Workers programming model and platform."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -27,40 +63,28 @@
       "summary_th": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "gadget",
-      "title_en": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-      "summary_en": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275575484.jpg?resize=1200,815",
-      "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-      "published": "Sat, 10 Oct 2026 03:10:06 +0000",
-      "title_th": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-      "summary_th": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition."
+      "category": "software",
+      "title_en": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "summary_en": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\" Artists are saying that […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&strip=all&crop=0,24.460477589069,100,51.079044821862",
+      "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "published": "2026-10-10T14:52:07-04:00",
+      "title_th": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "summary_th": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\" Artists are saying that […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "summary_en": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
-      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "published": "Sat, 10 Oct 2026 00:18:32 +0000",
-      "title_th": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-      "summary_th": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Long live the mechanical keyboard",
-      "summary_en": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4970.jpeg?resize=1200,900",
-      "link": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
-      "published": "Fri, 09 Oct 2026 22:08:24 +0000",
-      "title_th": "Long live the mechanical keyboard",
-      "summary_th": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body."
+      "category": "software",
+      "title_en": "Ledger wallet tampering suspected after reports of crypto thefts",
+      "summary_en": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that \"one of the impacted users' devices contained […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
+      "published": "2026-10-10T12:36:44-04:00",
+      "title_th": "Ledger wallet tampering suspected after reports of crypto thefts",
+      "summary_th": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that \"one of the impacted users' devices contained […]"
     },
     {
       "source": "The Verge",
@@ -97,30 +121,6 @@
       "published": "2026-10-10T09:00:00-04:00",
       "title_th": "LG’s RGB LED TV is good for certain situations, but an OLED is better",
       "summary_th": "When it comes to TVs, the LG name has long been synonymous with OLEDs, continually leading Samsung and Sony as the top OLED manufacturer. But 2026 is all about RGB LED TVs. Almost every major company has released models with the new technology - including LG and its $3,600 75-inch Micro RGB evo MRGB95B that […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "AI agent makers are promising privacy — will they deliver?",
-      "summary_en": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-      "published": "2026-10-10T09:00:00-04:00",
-      "title_th": "AI agent makers are promising privacy — will they deliver?",
-      "summary_th": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "The techlash has gone Hollywood",
-      "summary_en": "Hi, friends! Welcome to Installer No. 147, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I missed you all, and also you can read all the old editions at the Installer homepage.) I'm back from parental leave! Part time, anyway. Thanks to everyone who sent well wishes […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-147.jpg?quality=90&strip=all&crop=0%2C3.4987011938249%2C100%2C93.00259761235&w=1200",
-      "link": "https://www.theverge.com/tech/1008836/social-reckoning-cupertino-techlash-installer",
-      "published": "2026-10-10T08:00:00-04:00",
-      "title_th": "The techlash has gone Hollywood",
-      "summary_th": "Hi, friends! Welcome to Installer No. 147, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I missed you all, and also you can read all the old editions at the Installer homepage.) I'm back from parental leave! Part time, anyway. Thanks to everyone who sent well wishes […]"
     },
     {
       "source": "Ars Technica",
@@ -305,62 +305,62 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "chip",
+      "title_en": "This Android Auto problem is affecting calls on foldable phones",
+      "summary_en": "Gemini might be causing some issues with Android Auto.",
+      "image": "https://www.engadget.com/img/gallery/this-android-auto-problem-is-affecting-calls-on-foldable-phones/l-intro-1791386416.jpg",
+      "link": "https://www.engadget.com/2280033/android-auto-bug-affecting-foldable-phones-calling/",
+      "published": "Sat, 10 Oct 2026 18:45:00 +0000",
+      "title_th": "This Android Auto problem is affecting calls on foldable phones",
+      "summary_th": "Gemini might be causing some issues with Android Auto."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "gadget",
-      "title_en": "How Xiaomi, Oppo and other non-US brands are challenging the iPhone Duo",
-      "summary_en": "Apple's foldable phone has everyone talking, but competitors have their own offerings in different ways.",
-      "image": "https://www.engadget.com/img/gallery/how-xiaomi-oppo-and-other-non-us-brands-are-challenging-the-iphone-duo/l-intro-1791313734.jpg",
-      "link": "https://www.engadget.com/2279277/how-xiaomi-oppo-other-non-us-brands-challenging-iphone-duo/",
-      "published": "Sat, 10 Oct 2026 15:30:00 +0000",
-      "title_th": "How Xiaomi, Oppo and other non-US brands are challenging the iPhone Duo",
-      "summary_th": "Apple's foldable phone has everyone talking, but competitors have their own offerings in different ways."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "5 Samsung Galaxy features you should be using after updating to One UI 9",
-      "summary_en": "Samsung Galaxy phones that have upgraded to Android 17 and One UI 9 have a slew of new features - some more helpful than others.",
-      "image": "https://www.engadget.com/img/gallery/5-samsung-galaxy-features-you-should-be-using-after-updating-to-one-ui-9/l-intro-1791310035.jpg",
-      "link": "https://www.engadget.com/2279220/samsung-galaxy-one-ui-9-features-you-should-use/",
-      "published": "Sat, 10 Oct 2026 15:00:00 +0000",
-      "title_th": "5 Samsung Galaxy features you should be using after updating to One UI 9",
-      "summary_th": "Samsung Galaxy phones that have upgraded to Android 17 and One UI 9 have a slew of new features - some more helpful than others."
+      "title_en": "How to quickly check your Samsung Galaxy's warranty info",
+      "summary_en": "You don't have to guess how long is left on your Samsung device's warranty; the company makes it easy to confirm.",
+      "image": "https://www.engadget.com/img/gallery/how-to-quickly-check-your-samsung-galaxys-warranty-info/l-intro-1791385758.jpg",
+      "link": "https://www.engadget.com/2280016/how-to-check-warranty-samsung-galaxy/",
+      "published": "Sat, 10 Oct 2026 18:30:00 +0000",
+      "title_th": "How to quickly check your Samsung Galaxy's warranty info",
+      "summary_th": "You don't have to guess how long is left on your Samsung device's warranty; the company makes it easy to confirm."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Google Japan created one of the strangest keyboards ever, and we're dying to try it",
-      "summary_en": "Google Japan created an assembly line-inspired keyboard you can use with one hand.",
-      "image": "https://www.engadget.com/img/gallery/google-japan-created-one-of-the-strangest-keyboards-ever-and-were-dying-to-try-it/l-intro-1791585732.jpg",
-      "link": "https://www.engadget.com/2282903/google-japan-gboard-conveyor-belt-keyboard-dying-to-try/",
-      "published": "Sat, 10 Oct 2026 13:15:00 +0000",
-      "title_th": "Google Japan created one of the strangest keyboards ever, and we're dying to try it",
-      "summary_th": "Google Japan created an assembly line-inspired keyboard you can use with one hand."
+      "title_en": "What is ray tracing in gaming and does it really make a difference?",
+      "summary_en": "Ray tracing makes light's behavior more realistic in supported games, but your PC has to use a lot of horsepower to make that happen.",
+      "image": "https://www.engadget.com/img/gallery/what-is-ray-tracing-in-gaming-and-does-it-really-make-a-difference/l-intro-1791383266.jpg",
+      "link": "https://www.engadget.com/2279929/what-is-ray-tracing-gaming-does-it-make-difference/",
+      "published": "Sat, 10 Oct 2026 18:00:00 +0000",
+      "title_th": "What is ray tracing in gaming and does it really make a difference?",
+      "summary_th": "Ray tracing makes light's behavior more realistic in supported games, but your PC has to use a lot of horsepower to make that happen."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "How to drop a pin on Google Maps",
-      "summary_en": "Google Maps makes it easy to save and share any location, even if it's not officially on the map. Dropping pins is a great way to do that.",
-      "image": "https://www.engadget.com/img/gallery/how-to-drop-a-pin-on-google-maps/l-intro-1791292518.jpg",
-      "link": "https://www.engadget.com/2278593/how-to-drop-pin-google-maps/",
-      "published": "Sat, 10 Oct 2026 13:00:00 +0000",
-      "title_th": "How to drop a pin on Google Maps",
-      "summary_th": "Google Maps makes it easy to save and share any location, even if it's not officially on the map. Dropping pins is a great way to do that."
+      "title_en": "Anthropic says its AI agents tried to break into government websites",
+      "summary_en": "In its latest report, Anthropic has revealed that its AI agents meddled with government websites during testing.",
+      "image": "https://www.engadget.com/img/gallery/anthropic-says-its-ai-agents-tried-to-break-into-government-websites/l-intro-1791654243.jpg",
+      "link": "https://www.engadget.com/2283091/anthropic-says-its-ai-agents-tried-to-break-into-government-websites/",
+      "published": "Sat, 10 Oct 2026 17:49:49 +0000",
+      "title_th": "Anthropic says its AI agents tried to break into government websites",
+      "summary_th": "In its latest report, Anthropic has revealed that its AI agents meddled with government websites during testing."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "What's the difference between RAM and ROM memory?",
-      "summary_en": "RAM and ROM are two core types of memory used in every computing device, but their meanings haven't stayed the same since their inception.",
-      "image": "https://www.engadget.com/img/gallery/whats-the-difference-between-ram-and-rom-memory/l-intro-1791288857.jpg",
-      "link": "https://www.engadget.com/2278535/ram-vs-rom-difference-between-memory-types/",
-      "published": "Sat, 10 Oct 2026 12:30:00 +0000",
-      "title_th": "What's the difference between RAM and ROM memory?",
-      "summary_th": "RAM and ROM are two core types of memory used in every computing device, but their meanings haven't stayed the same since their inception."
+      "title_en": "How to reset your Samsung TV",
+      "summary_en": "If you have a Frame TV or one of the other Samsung models, you may occasionally need to reboot or factory reset it.",
+      "image": "https://www.engadget.com/img/gallery/how-to-reset-your-samsung-tv/l-intro-1791380081.jpg",
+      "link": "https://www.engadget.com/2279855/how-to-reset-samsung-tv/",
+      "published": "Sat, 10 Oct 2026 16:30:00 +0000",
+      "title_th": "How to reset your Samsung TV",
+      "summary_th": "If you have a Frame TV or one of the other Samsung models, you may occasionally need to reboot or factory reset it."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,18 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "Indie App Spotlight: ‘Milepost’ is a driving journal that saves your memories on the road",
+      "summary_en": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . Milepost turns your roadtrips into more of a journey. It lets you record all of your drives, and journal all of the key moments that happened along the route, so your roadtrips become a lot more memorable – rather than just a blip of time. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/054bf01c078a6735d3bf124bbc67454bc58ec0364994c02b0a66b5d9c10a9ec0.png?resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/10/indie-app-spotlight-milepost-is-a-driving-journal-that-saves-your-memories-on-the-road/",
+      "published": "Sat, 10 Oct 2026 19:30:00 +0000",
+      "title_th": "Indie App Spotlight: ‘Milepost’ is a driving journal that saves your memories on the road",
+      "summary_th": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . Milepost turns your roadtrips into more of a journey. It lets you record all of your drives, and journal all of the key moments that happened along the route, so your roadtrips become a lot more memorable – rather than just a blip of time. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Amazon’s new Alexa Tablet finally gives the iPad lineup some much needed competition",
       "summary_en": "This week, Amazon unveiled a new lineup of Alexa Tablets. They no longer run a proprietary OS with a custom App Store, and instead embrace Android with a stock feel – while offering the Play Store. It’s a big shift in direction for Amazon. The tablets also look quite beautiful, while previous Fire tablets have felt cheap. I think these have the opportunity to do quite well. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Alexa-tablets.jpg?quality=82&strip=all&resize=1200,628",
@@ -471,16 +483,16 @@
       "summary_th": "TrendForce projects that global notebook shipments could decline by a high-single-digit percentage in 2027, depending on how manufacturers respond to rising component costs. Here are the details. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "iPhone Duo buyers to get a special surprise at U.S. Apple Stores, Gurman says",
-      "summary_en": "According to Bloomberg’s Mark Gurman, iPhone Duo buyers who purchase their device at an Apple Store in the US will be treated to a nice little surprise when they turn it on for the first time. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/09/iphone-duo-buyers-to-get-a-special-surprise-at-u-s-apple-stores-gurman-says/",
-      "published": "Fri, 09 Oct 2026 22:29:17 +0000",
-      "title_th": "iPhone Duo buyers to get a special surprise at U.S. Apple Stores, Gurman says",
-      "summary_th": "According to Bloomberg’s Mark Gurman, iPhone Duo buyers who purchase their device at an Apple Store in the US will be treated to a nice little surprise when they turn it on for the first time. Here are the details. more…"
+      "title_en": "Where Google Wallet state IDs are available on Android",
+      "summary_en": "States across the US are slowly rolling out support for adding your driver’s license or ID to the Google Wallet app on Android. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/03/google-wallet-logo-circle-2.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/10/10/google-wallet-state-ids/",
+      "published": "Sat, 10 Oct 2026 19:20:00 +0000",
+      "title_th": "Where Google Wallet state IDs are available on Android",
+      "summary_th": "States across the US are slowly rolling out support for adding your driver’s license or ID to the Google Wallet app on Android. more…"
     },
     {
       "source": "9to5Google",
@@ -529,18 +541,6 @@
       "published": "Fri, 09 Oct 2026 20:30:00 +0000",
       "title_th": "Next-gen Google TV Streamer in the works with microphones, presence sensing, & new remote",
       "summary_th": "9to5Google can report that development on a next-generation Google TV Streamer is underway. According to a source familiar with the matter..."
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Star Wars: Galactic Racer is free to play on Amazon Luna",
-      "summary_en": "The long-awaited Star Wars: Galactic Racer launched earlier this week on consoles and PC, and is also free to play on Amazon Luna. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/amazon-luna-galactic-racer.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/10/09/star-wars-galactic-racer-free-amazon-luna/",
-      "published": "Fri, 09 Oct 2026 20:10:00 +0000",
-      "title_th": "Star Wars: Galactic Racer is free to play on Amazon Luna",
-      "summary_th": "The long-awaited Star Wars: Galactic Racer launched earlier this week on consoles and PC, and is also free to play on Amazon Luna. more…"
     },
     {
       "source": "Electrek",
