@@ -1,18 +1,42 @@
 {
-  "generated_at": "2026-10-09T22:16:18.396637+00:00",
+  "generated_at": "2026-10-10T03:11:08.544164+00:00",
   "count": 50,
   "articles": [
     {
       "source": "TechCrunch",
       "flag": "US",
+      "category": "startup",
+      "title_en": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "summary_en": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
+      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "published": "Sat, 10 Oct 2026 00:18:32 +0000",
+      "title_th": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "summary_th": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Long live the mechanical keyboard",
+      "summary_en": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4970.jpeg?resize=1200,900",
+      "link": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
+      "published": "Fri, 09 Oct 2026 22:08:24 +0000",
+      "title_th": "Long live the mechanical keyboard",
+      "summary_th": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
       "category": "gadget",
       "title_en": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "summary_en": "TypeSafe AI raised $870 million in a round led by a16Z.",
+      "summary_en": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200",
       "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
       "published": "Fri, 09 Oct 2026 21:41:29 +0000",
       "title_th": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "summary_th": "TypeSafe AI raised $870 million in a round led by a16Z."
+      "summary_th": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs."
     },
     {
       "source": "TechCrunch",
@@ -37,30 +61,6 @@
       "published": "Fri, 09 Oct 2026 18:57:58 +0000",
       "title_th": "Batteries are now cheaper than natural gas turbines used at many data centers",
       "summary_th": "Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
-      "summary_en": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/TCD26_3-Huang-Wallen-Lee_16x9-Dark.png?resize=1200,675",
-      "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
-      "published": "Fri, 09 Oct 2026 18:57:06 +0000",
-      "title_th": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
-      "summary_th": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "LumenUs helps automate tedious paperwork in times of grief",
-      "summary_en": "\"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about,\" said founder Sara Tashakorinia.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1337608378.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
-      "published": "Fri, 09 Oct 2026 17:00:00 +0000",
-      "title_th": "LumenUs helps automate tedious paperwork in times of grief",
-      "summary_th": "\"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about,\" said founder Sara Tashakorinia."
     },
     {
       "source": "The Verge",
@@ -305,6 +305,18 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "gadget",
+      "title_en": "Google teases its new 'Fitbit Edge' wearable ahead of an October 12 reveal",
+      "summary_en": "Google has seemingly confirmed the rumored \"Fitbit Edge\" with social media posts teasing a new wearable coming October 12.",
+      "image": "https://www.engadget.com/img/gallery/google-teases-its-new-fitbit-edge-wearable-ahead-of-an-october-12-reveal/l-intro-1791584869.jpg",
+      "link": "https://www.engadget.com/2282887/google-teases-its-new-fitbit-edge-wearable-ahead-of-an-october-12-reveal/",
+      "published": "Fri, 09 Oct 2026 22:28:43 +0000",
+      "title_th": "Google teases its new 'Fitbit Edge' wearable ahead of an October 12 reveal",
+      "summary_th": "Google has seemingly confirmed the rumored \"Fitbit Edge\" with social media posts teasing a new wearable coming October 12."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "chip",
       "title_en": "Flock Safety is reportedly planning major layoffs now that everyone hates it",
       "summary_en": "Morale at one of the most reviled companies in America appears to be at an all time low.",
@@ -349,18 +361,6 @@
       "published": "Fri, 09 Oct 2026 17:01:36 +0000",
       "title_th": "Intel is reportedly launching new CPUs on old sockets that support DDR4 memory",
       "summary_th": "If you guessed the RAMpocalypse is involved..."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "ev",
-      "title_en": "What it's like to spend a night in a Pebble Flow EV RV",
-      "summary_en": "Staying in the tech-infused trailer can kind of feel like being in a spaceship - in a good way.",
-      "image": "https://www.engadget.com/img/gallery/pebble-flow-ev-rv-review/l-intro-1791573544.jpg",
-      "link": "https://www.engadget.com/2282389/pebble-flow-ev-rv-review/",
-      "published": "Fri, 09 Oct 2026 17:00:00 +0000",
-      "title_th": "What it's like to spend a night in a Pebble Flow EV RV",
-      "summary_th": "Staying in the tech-infused trailer can kind of feel like being in a spaceship - in a good way."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,30 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "TrendForce warns of higher notebook prices and weaker demand in 2027",
+      "summary_en": "TrendForce projects that global notebook shipments could decline by a high-single-digit percentage in 2027, depending on how manufacturers respond to rising component costs. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/A-serious-Mac-screen-sharing-vulnerability-is-being-actively-exploited.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/09/trendforce-warns-of-higher-notebook-prices-and-weaker-demand-in-2027/",
+      "published": "Fri, 09 Oct 2026 23:13:19 +0000",
+      "title_th": "TrendForce warns of higher notebook prices and weaker demand in 2027",
+      "summary_th": "TrendForce projects that global notebook shipments could decline by a high-single-digit percentage in 2027, depending on how manufacturers respond to rising component costs. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "iPhone Duo buyers to get a special surprise at U.S. Apple Stores, Gurman says",
+      "summary_en": "According to Bloomberg’s Mark Gurman, iPhone Duo buyers who purchase their device at an Apple Store in the US will be treated to a nice little surprise when they turn it on for the first time. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/09/iphone-duo-buyers-to-get-a-special-surprise-at-u-s-apple-stores-gurman-says/",
+      "published": "Fri, 09 Oct 2026 22:29:17 +0000",
+      "title_th": "iPhone Duo buyers to get a special surprise at U.S. Apple Stores, Gurman says",
+      "summary_th": "According to Bloomberg’s Mark Gurman, iPhone Duo buyers who purchase their device at an Apple Store in the US will be treated to a nice little surprise when they turn it on for the first time. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Apple acqui-hires AI startup founded by former NotebookLM developers",
       "summary_en": "The European Union’s Digital Markets Act transparency website lists Huxe as Apple’s newest acqui-hire, and at least the fourth AI-related deal disclosed this year. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/06/apple-park@0.5x.jpg?quality=82&strip=all&resize=1200,628",
@@ -459,28 +483,28 @@
       "summary_th": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Stuff :Stuff helps you get everything out of your head and into a simple, elegant system—closing open loops and reducing mental stress. A simple to-do list for iPhone, iPad, and Mac, with powerful tools that make organizing, tracking, and checking off your tasks a whole lot more satisfying. Get Stuff done. Sponsored by Roborock: Fall Prime Day is here—with up to $1,600 off Roborock’s smartest cleaning lineup, plus exclusive limited-time deals and gifts. Find the right cleaner for your home and save starting now. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "‘HomePad’ is coming next week, with three features I’ve long wanted",
-      "summary_en": "Apple’s long-rumored ‘HomePad’ product is finally set to be unveiled next Tuesday at the ‘Welcome home’ event. Here are three HomePad features I’ve been waiting a long time for. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/homepad-white-hello-homepod.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/09/homepad-is-coming-next-week-with-three-features-ive-long-wanted/",
-      "published": "Fri, 09 Oct 2026 19:02:07 +0000",
-      "title_th": "‘HomePad’ is coming next week, with three features I’ve long wanted",
-      "summary_th": "Apple’s long-rumored ‘HomePad’ product is finally set to be unveiled next Tuesday at the ‘Welcome home’ event. Here are three HomePad features I’ve been waiting a long time for. more…"
+      "title_en": "Free Gemini users now on ‘Auto’ models as app adds thinking levels",
+      "summary_en": "As announced last week , Google is rolling out a big change to the Gemini app experience for users on the free plan. Additionally, everyone is getting access to thinking or “effort” levels. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Gemini-app-on-Pixel-11-Pro.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/10/09/gemini-auto-free-users/",
+      "published": "Sat, 10 Oct 2026 01:24:00 +0000",
+      "title_th": "Free Gemini users now on ‘Auto’ models as app adds thinking levels",
+      "summary_th": "As announced last week , Google is rolling out a big change to the Gemini app experience for users on the free plan. Additionally, everyone is getting access to thinking or “effort” levels. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "HomeKit Weekly: Onvis releases a Matter over Thread outdoor smart plug with energy monitoring",
-      "summary_en": "Onvis has released a new outdoor smart plug that checks all the boxes you’d want in an outdoor smart plug: Matter over Thread, real-time energy monitoring, and IP65 weather resistance. If you’ve been looking for an outdoor plug that works natively with Apple Home without a hub of its own, this is a great option as you think outdoor lighting for Christmas, etc. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/plug.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/09/homekit-weekly-onvis-releases-a-matter-over-thread-outdoor-smart-plug-with-energy-monitoring/",
-      "published": "Fri, 09 Oct 2026 18:19:00 +0000",
-      "title_th": "HomeKit Weekly: Onvis releases a Matter over Thread outdoor smart plug with energy monitoring",
-      "summary_th": "Onvis has released a new outdoor smart plug that checks all the boxes you’d want in an outdoor smart plug: Matter over Thread, real-time energy monitoring, and IP65 weather resistance. If you’ve been looking for an outdoor plug that works natively with Apple Home without a hub of its own, this is a great option as you think outdoor lighting for Christmas, etc. more…"
+      "title_en": "Google Health 5.10 rolling out for Android, iOS",
+      "summary_en": "Google Health 5.10 is rolling out as a smaller update this week with a trio of new features across the app. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-health-logo-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/10/09/google-health-5-10-release-notes/",
+      "published": "Fri, 09 Oct 2026 23:01:01 +0000",
+      "title_th": "Google Health 5.10 rolling out for Android, iOS",
+      "summary_th": "Google Health 5.10 is rolling out as a smaller update this week with a trio of new features across the app. more…"
     },
     {
       "source": "9to5Google",
@@ -519,28 +543,16 @@
       "summary_th": "The long-awaited Star Wars: Galactic Racer launched earlier this week on consoles and PC, and is also free to play on Amazon Luna. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Google officially teases Fitbit Edge tracker, confirms October 12 launch",
-      "summary_en": "Google has dropped an official teaser for its Fitbit Edge tracker and confirmed an October 12 launch, just a few days away. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/fitbit-edge-teaser-1-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/10/09/google-officially-teases-fitbit-edge-tracker-confirms-october-12-launch/",
-      "published": "Fri, 09 Oct 2026 19:45:00 +0000",
-      "title_th": "Google officially teases Fitbit Edge tracker, confirms October 12 launch",
-      "summary_th": "Google has dropped an official teaser for its Fitbit Edge tracker and confirmed an October 12 launch, just a few days away. more…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Googlebook’s app situation is a mess, and not just because things are missing",
-      "summary_en": "Having been using a Googlebook for the better part of a week, there are any number of headaches I could talk about, but easily the biggest problem I’m running into thus far is the app situation. Frankly, it’s a mess. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/10/09/googlebook-app-situation-messy/",
-      "published": "Fri, 09 Oct 2026 18:45:00 +0000",
-      "title_th": "Googlebook’s app situation is a mess, and not just because things are missing",
-      "summary_th": "Having been using a Googlebook for the better part of a week, there are any number of headaches I could talk about, but easily the biggest problem I’m running into thus far is the app situation. Frankly, it’s a mess. more…"
+      "category": "ev",
+      "title_en": "Tesla’s next big clean energy source is rising in the Arizona desert",
+      "summary_en": "A 450-megawatt (MW) solar farm with a massive battery system is now under construction in Arizona – and Tesla has already lined up about 90% of its expected electricity output. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/CG-Project-Sterling.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/09/teslas-next-big-clean-energy-source-is-rising-in-the-arizona-desert/",
+      "published": "Sat, 10 Oct 2026 00:05:22 +0000",
+      "title_th": "Tesla’s next big clean energy source is rising in the Arizona desert",
+      "summary_th": "A 450-megawatt (MW) solar farm with a massive battery system is now under construction in Arizona – and Tesla has already lined up about 90% of its expected electricity output. more…"
     },
     {
       "source": "Electrek",
@@ -589,18 +601,6 @@
       "published": "Fri, 09 Oct 2026 19:12:42 +0000",
       "title_th": "BMW iX5 spotted ahead of US launch, sporting its new Double-X headlights",
       "summary_th": "You can’t miss BMW’s new “Double-X” lights, which debut on the all-electric iX5 and X5. The new iX5 was spotted testing ahead of its upcoming US launch, giving us a look at the new lighting signature in real life. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Bluetti Na(Sodium) 900Wh power station at exclusive $665 low in Encore Sale, Anker solar multi-cam kits $310 off, Navee EVs, more",
-      "summary_en": "We’re closing out this week’s Green Deals led by the Bluetti Encore Sale that is completely switching up its power station deals, including bringing back the winter-ready 900Wh Pioneer Na(Sodium) Portable Power Station at an exclusive $665 low . Right behind that, we have three exclusive deals on Anker solar multi-cam kits with HomeBase 3 that end tonight, starting from $290 . There’s also the Navee Fall EV Sale that is offering a nice array of bonus extra savings (up to 65% off total) on e-scooters, like the premium UT5 Ultra X Electric SuperScooter down at a new $1,600 low at $900 off. You’ll also find lows for an EGO carbon fiber string trimmer kit, a compact Greenworks chainsaw, a Linkind Matter outdoor smart plug, and more. Don’t forget, we also have all the lasting Prime Day deals co",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Bluetti-Anker-eufy-Navee-EGO-Linkind-GDs-FI.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/09/bluetti-nasodium-900wh-power-station-anker-solar-multi-cam-kits-navee-evs-more/",
-      "published": "Fri, 09 Oct 2026 18:00:00 +0000",
-      "title_th": "Bluetti Na(Sodium) 900Wh power station at exclusive $665 low in Encore Sale, Anker solar multi-cam kits $310 off, Navee EVs, more",
-      "summary_th": "We’re closing out this week’s Green Deals led by the Bluetti Encore Sale that is completely switching up its power station deals, including bringing back the winter-ready 900Wh Pioneer Na(Sodium) Portable Power Station at an exclusive $665 low . Right behind that, we have three exclusive deals on Anker solar multi-cam kits with HomeBase 3 that end tonight, starting from $290 . There’s also the Navee Fall EV Sale that is offering a nice array of bonus extra savings (up to 65% off total) on e-scooters, like the premium UT5 Ultra X Electric SuperScooter down at a new $1,600 low at $900 off. You’ll also find lows for an EGO carbon fiber string trimmer kit, a compact Greenworks chainsaw, a Linkind Matter outdoor smart plug, and more. Don’t forget, we also have all the lasting Prime Day deals co"
     }
   ],
   "indices": [
@@ -671,36 +671,6 @@
   ],
   "reviews": [
     {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "WTF is a Googlebook?",
-      "video_id": "_0G4OG39XjI",
-      "link": "https://www.youtube.com/watch?v=_0G4OG39XjI",
-      "thumbnail": "https://i4.ytimg.com/vi/_0G4OG39XjI/hqdefault.jpg",
-      "published": "2026-10-08T21:00:40+00:00",
-      "title_th": "WTF is a Googlebook?"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "Xiaomi 18 Fold: How Does This Happen?",
-      "video_id": "3iRUwVzRDZQ",
-      "link": "https://www.youtube.com/watch?v=3iRUwVzRDZQ",
-      "thumbnail": "https://i4.ytimg.com/vi/3iRUwVzRDZQ/hqdefault.jpg",
-      "published": "2026-10-02T20:50:25+00:00",
-      "title_th": "Xiaomi 18 Fold: How Does This Happen?"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "Dear YouTube!",
-      "video_id": "e1q-TuHdc4Y",
-      "link": "https://www.youtube.com/watch?v=e1q-TuHdc4Y",
-      "thumbnail": "https://i2.ytimg.com/vi/e1q-TuHdc4Y/hqdefault.jpg",
-      "published": "2026-09-30T14:42:19+00:00",
-      "title_th": "Dear YouTube!"
-    },
-    {
       "channel": "Unbox Therapy",
       "country": "US",
       "title_en": "The Ultimate All-In-One Workstation",
@@ -729,66 +699,6 @@
       "thumbnail": "https://i2.ytimg.com/vi/5Qr4sKLLP4o/hqdefault.jpg",
       "published": "2026-09-29T16:09:38+00:00",
       "title_th": "Mini LED RGB Baby..."
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "เจ๋งจริง ! ต้องขิงด้วยสุขภาพ | Go with The Four",
-      "video_id": "fK-KA-bVqY0",
-      "link": "https://www.youtube.com/watch?v=fK-KA-bVqY0",
-      "thumbnail": "https://i3.ytimg.com/vi/fK-KA-bVqY0/hqdefault.jpg",
-      "published": "2026-10-09T10:55:28+00:00",
-      "title_th": "เจ๋งจริง ! ต้องขิงด้วยสุขภาพ | Go with The Four"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "วิธีเลือกซื้อมือถือ",
-      "video_id": "kXju41MGviY",
-      "link": "https://www.youtube.com/shorts/kXju41MGviY",
-      "thumbnail": "https://i4.ytimg.com/vi/kXju41MGviY/hqdefault.jpg",
-      "published": "2026-10-08T23:00:29+00:00",
-      "title_th": "วิธีเลือกซื้อมือถือ"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "DNA File รหัสลับของชีวิต EP. 5 ทางเลือกของมนุษย์",
-      "video_id": "yrM_SZeTz5Q",
-      "link": "https://www.youtube.com/watch?v=yrM_SZeTz5Q",
-      "thumbnail": "https://i2.ytimg.com/vi/yrM_SZeTz5Q/hqdefault.jpg",
-      "published": "2026-10-08T09:00:35+00:00",
-      "title_th": "DNA File รหัสลับของชีวิต EP. 5 ทางเลือกของมนุษย์"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "OPPO Find X10 Pro Max กับกล้อง 200MP สามตัว เครื่องจริงสเปคขายจีนครับ #OPPO #OPPOFindX10ProMax",
-      "video_id": "N989LBAI_tU",
-      "link": "https://www.youtube.com/shorts/N989LBAI_tU",
-      "thumbnail": "https://i3.ytimg.com/vi/N989LBAI_tU/hqdefault.jpg",
-      "published": "2026-10-08T13:52:35+00:00",
-      "title_th": "OPPO Find X10 Pro Max กับกล้อง 200MP สามตัว เครื่องจริงสเปคขายจีนครับ #OPPO #OPPOFindX10ProMax"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "ลองจับ OPPO Find X10 Pro Max กล้องโหด Hasselblad 200MP ทุกตัว ชิปตัวเทพ",
-      "video_id": "cl1H_kWnUhY",
-      "link": "https://www.youtube.com/watch?v=cl1H_kWnUhY",
-      "thumbnail": "https://i4.ytimg.com/vi/cl1H_kWnUhY/hqdefault.jpg",
-      "published": "2026-10-08T12:00:29+00:00",
-      "title_th": "ลองจับ OPPO Find X10 Pro Max กล้องโหด Hasselblad 200MP ทุกตัว ชิปตัวเทพ"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "ลองเล่น Xiaomi 18 Pro Max มีอะไรอัปเกรดบ้าง? น่าใช้กว่ารุ่นก่อนแค่ไหน",
-      "video_id": "YpGduel21JM",
-      "link": "https://www.youtube.com/watch?v=YpGduel21JM",
-      "thumbnail": "https://i2.ytimg.com/vi/YpGduel21JM/hqdefault.jpg",
-      "published": "2026-10-07T13:00:01+00:00",
-      "title_th": "ลองเล่น Xiaomi 18 Pro Max มีอะไรอัปเกรดบ้าง? น่าใช้กว่ารุ่นก่อนแค่ไหน"
     }
   ]
 }
