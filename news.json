@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-10T21:05:47.806929+00:00",
+  "generated_at": "2026-10-11T00:14:51.435681+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "summary_en": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
+      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "published": "Sat, 10 Oct 2026 21:47:51 +0000",
+      "title_th": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "summary_th": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -51,16 +63,16 @@
       "summary_th": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Here are the top AI agents that can live in your text messages",
-      "summary_en": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
-      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "published": "Sat, 10 Oct 2026 14:00:00 +0000",
-      "title_th": "Here are the top AI agents that can live in your text messages",
-      "summary_th": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+      "category": "software",
+      "title_en": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "summary_en": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "published": "2026-10-10T18:10:17-04:00",
+      "title_th": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "summary_th": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or […]"
     },
     {
       "source": "The Verge",
@@ -109,18 +121,6 @@
       "published": "2026-10-10T10:41:16-04:00",
       "title_th": "Anthropic is cutting off its internal evaluations from the internet",
       "summary_th": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "LG’s RGB LED TV is good for certain situations, but an OLED is better",
-      "summary_en": "When it comes to TVs, the LG name has long been synonymous with OLEDs, continually leading Samsung and Sony as the top OLED manufacturer. But 2026 is all about RGB LED TVs. Almost every major company has released models with the new technology - including LG and its $3,600 75-inch Micro RGB evo MRGB95B that […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268807_LG_MRGB95B_RGB_LED_TV_review_JHIGGINS_3.jpg?quality=90&strip=all&crop=0%2C9.7825788181082%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review",
-      "published": "2026-10-10T09:00:00-04:00",
-      "title_th": "LG’s RGB LED TV is good for certain situations, but an OLED is better",
-      "summary_th": "When it comes to TVs, the LG name has long been synonymous with OLEDs, continually leading Samsung and Sony as the top OLED manufacturer. But 2026 is all about RGB LED TVs. Almost every major company has released models with the new technology - including LG and its $3,600 75-inch Micro RGB evo MRGB95B that […]"
     },
     {
       "source": "Ars Technica",
@@ -306,61 +306,61 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "This Android Auto problem is affecting calls on foldable phones",
-      "summary_en": "Gemini might be causing some issues with Android Auto.",
-      "image": "https://www.engadget.com/img/gallery/this-android-auto-problem-is-affecting-calls-on-foldable-phones/l-intro-1791386416.jpg",
-      "link": "https://www.engadget.com/2280033/android-auto-bug-affecting-foldable-phones-calling/",
-      "published": "Sat, 10 Oct 2026 18:45:00 +0000",
-      "title_th": "This Android Auto problem is affecting calls on foldable phones",
-      "summary_th": "Gemini might be causing some issues with Android Auto."
+      "title_en": "How to use the parental controls on iOS 27",
+      "summary_en": "Screen Time has new features to help parents manage their children's Apple devices, as well as refinements to existing controls.",
+      "image": "https://www.engadget.com/img/gallery/how-to-use-the-parental-controls-on-ios-27/l-intro-1791393975.jpg",
+      "link": "https://www.engadget.com/2280277/how-to-use-ios-27-parental-controls/",
+      "published": "Sat, 10 Oct 2026 23:45:00 +0000",
+      "title_th": "How to use the parental controls on iOS 27",
+      "summary_th": "Screen Time has new features to help parents manage their children's Apple devices, as well as refinements to existing controls."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "gadget",
-      "title_en": "How to quickly check your Samsung Galaxy's warranty info",
-      "summary_en": "You don't have to guess how long is left on your Samsung device's warranty; the company makes it easy to confirm.",
-      "image": "https://www.engadget.com/img/gallery/how-to-quickly-check-your-samsung-galaxys-warranty-info/l-intro-1791385758.jpg",
-      "link": "https://www.engadget.com/2280016/how-to-check-warranty-samsung-galaxy/",
-      "published": "Sat, 10 Oct 2026 18:30:00 +0000",
-      "title_th": "How to quickly check your Samsung Galaxy's warranty info",
-      "summary_th": "You don't have to guess how long is left on your Samsung device's warranty; the company makes it easy to confirm."
+      "title_en": "How to reduce mobile data usage on your iPhone",
+      "summary_en": "Data Saver settings, restricting downloads to Wi-Fi, streaming in lower resolutions and downloading media for offline use can save you quite a bit of data.",
+      "image": "https://www.engadget.com/img/gallery/how-to-reduce-mobile-data-usage-on-your-iphone/l-intro-1791391598.jpg",
+      "link": "https://www.engadget.com/2280214/how-to-reduce-mobile-data-usage-iphone/",
+      "published": "Sat, 10 Oct 2026 23:30:00 +0000",
+      "title_th": "How to reduce mobile data usage on your iPhone",
+      "summary_th": "Data Saver settings, restricting downloads to Wi-Fi, streaming in lower resolutions and downloading media for offline use can save you quite a bit of data."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "What is ray tracing in gaming and does it really make a difference?",
-      "summary_en": "Ray tracing makes light's behavior more realistic in supported games, but your PC has to use a lot of horsepower to make that happen.",
-      "image": "https://www.engadget.com/img/gallery/what-is-ray-tracing-in-gaming-and-does-it-really-make-a-difference/l-intro-1791383266.jpg",
-      "link": "https://www.engadget.com/2279929/what-is-ray-tracing-gaming-does-it-make-difference/",
-      "published": "Sat, 10 Oct 2026 18:00:00 +0000",
-      "title_th": "What is ray tracing in gaming and does it really make a difference?",
-      "summary_th": "Ray tracing makes light's behavior more realistic in supported games, but your PC has to use a lot of horsepower to make that happen."
+      "title_en": "Simple tweaks to improve your 4K TV's picture quality",
+      "summary_en": "Even if your TV looks great as-is, some tweaks to its modes and sliders, as well as the room it's in, will make it look much better.",
+      "image": "https://www.engadget.com/img/gallery/simple-tweaks-to-improve-your-4k-tvs-picture-quality/l-intro-1791390273.jpg",
+      "link": "https://www.engadget.com/2280162/improve-picture-quality-4k-tv-simple-tweaks/",
+      "published": "Sat, 10 Oct 2026 23:00:00 +0000",
+      "title_th": "Simple tweaks to improve your 4K TV's picture quality",
+      "summary_th": "Even if your TV looks great as-is, some tweaks to its modes and sliders, as well as the room it's in, will make it look much better."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "How to lock apps on your Samsung Galaxy phone",
+      "summary_en": "Samsung phones have a couple of features that can keep sensitive apps and files private. One locks your chosen apps, and the other restricts all but one app.",
+      "image": "https://www.engadget.com/img/gallery/how-to-lock-apps-on-your-samsung-galaxy-phone/l-intro-1791388722.jpg",
+      "link": "https://www.engadget.com/2280136/how-to-lock-app-samsung-galaxy-phone/",
+      "published": "Sat, 10 Oct 2026 22:45:00 +0000",
+      "title_th": "How to lock apps on your Samsung Galaxy phone",
+      "summary_th": "Samsung phones have a couple of features that can keep sensitive apps and files private. One locks your chosen apps, and the other restricts all but one app."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Anthropic says its AI agents tried to break into government websites",
-      "summary_en": "In its latest report, Anthropic has revealed that its AI agents meddled with government websites during testing.",
-      "image": "https://www.engadget.com/img/gallery/anthropic-says-its-ai-agents-tried-to-break-into-government-websites/l-intro-1791654243.jpg",
-      "link": "https://www.engadget.com/2283091/anthropic-says-its-ai-agents-tried-to-break-into-government-websites/",
-      "published": "Sat, 10 Oct 2026 17:49:49 +0000",
-      "title_th": "Anthropic says its AI agents tried to break into government websites",
-      "summary_th": "In its latest report, Anthropic has revealed that its AI agents meddled with government websites during testing."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "How to reset your Samsung TV",
-      "summary_en": "If you have a Frame TV or one of the other Samsung models, you may occasionally need to reboot or factory reset it.",
-      "image": "https://www.engadget.com/img/gallery/how-to-reset-your-samsung-tv/l-intro-1791380081.jpg",
-      "link": "https://www.engadget.com/2279855/how-to-reset-samsung-tv/",
-      "published": "Sat, 10 Oct 2026 16:30:00 +0000",
-      "title_th": "How to reset your Samsung TV",
-      "summary_th": "If you have a Frame TV or one of the other Samsung models, you may occasionally need to reboot or factory reset it."
+      "title_en": "What is the 3-2-1 rule for backing up your data?",
+      "summary_en": "Make sure your files are safe in the event of a hard drive disaster.",
+      "image": "https://www.engadget.com/img/gallery/what-is-the-3-2-1-rule-for-backing-up-your-data/l-intro-1791388945.jpg",
+      "link": "https://www.engadget.com/2280127/backing-up-data-3-2-1-rule-explained/",
+      "published": "Sat, 10 Oct 2026 22:30:00 +0000",
+      "title_th": "What is the 3-2-1 rule for backing up your data?",
+      "summary_th": "Make sure your files are safe in the event of a hard drive disaster."
     },
     {
       "source": "IEEE Spectrum",
@@ -486,6 +486,18 @@
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
+      "title_en": "Samsung has updated these Galaxy devices to Android 17",
+      "summary_en": "Samsung is now rolling out its Android 17-based update, One UI 9, to its collection of supported Galaxy smartphones and tablets. Here’s the full list of devices that have been updated so far, and what you should know about the update. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Welcome-to-One-UI-9.0-on-Galaxy-S26-device-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/10/10/samsung-galaxy-android-17-update-list/",
+      "published": "Sat, 10 Oct 2026 20:58:26 +0000",
+      "title_th": "Samsung has updated these Galaxy devices to Android 17",
+      "summary_th": "Samsung is now rolling out its Android 17-based update, One UI 9, to its collection of supported Galaxy smartphones and tablets. Here’s the full list of devices that have been updated so far, and what you should know about the update. more…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Where Google Wallet state IDs are available on Android",
       "summary_en": "States across the US are slowly rolling out support for adding your driver’s license or ID to the Google Wallet app on Android. more…",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/03/google-wallet-logo-circle-2.jpg?quality=82&strip=all&resize=1200,628",
@@ -529,18 +541,6 @@
       "published": "Fri, 09 Oct 2026 21:08:33 +0000",
       "title_th": "Pixelated 120: The definitive Pixel tier list",
       "summary_th": "Welcome to Pixelated episode 120. This week, Abner, Damien, and Will celebrate 10 years of Pixel by ranking all of Google’s smartphones released over the past decade. Also, we finally make the jump over to video! Enjoy the show? You can listen to our weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro for just $5 per month, or about $1 per episode. Sponsored by Proton Unlimited : Pixelated listeners can save 30% on an annual subscription to the company’s suite of privacy-friendly services by signing up using our link . Thanks to Proton Unlimited for sponsoring the podcast. Subscribe YouTube Podcasts Pocket Casts Spotify Amazon Music Apple Podcasts Overcast more…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Next-gen Google TV Streamer in the works with microphones, presence sensing, & new remote",
-      "summary_en": "9to5Google can report that development on a next-generation Google TV Streamer is underway. According to a source familiar with the matter...",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/09/Google-TV-Streamer-design-and-hardware-12.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/10/09/next-gen-google-tv-streamer/",
-      "published": "Fri, 09 Oct 2026 20:30:00 +0000",
-      "title_th": "Next-gen Google TV Streamer in the works with microphones, presence sensing, & new remote",
-      "summary_th": "9to5Google can report that development on a next-generation Google TV Streamer is underway. According to a source familiar with the matter..."
     },
     {
       "source": "Electrek",
@@ -669,126 +669,5 @@
       "change_pct": 0.0
     }
   ],
-  "reviews": [
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "WTF is a Googlebook?",
-      "video_id": "_0G4OG39XjI",
-      "link": "https://www.youtube.com/watch?v=_0G4OG39XjI",
-      "thumbnail": "https://i4.ytimg.com/vi/_0G4OG39XjI/hqdefault.jpg",
-      "published": "2026-10-08T21:00:40+00:00",
-      "title_th": "WTF is a Googlebook?"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "Xiaomi 18 Fold: How Does This Happen?",
-      "video_id": "3iRUwVzRDZQ",
-      "link": "https://www.youtube.com/watch?v=3iRUwVzRDZQ",
-      "thumbnail": "https://i4.ytimg.com/vi/3iRUwVzRDZQ/hqdefault.jpg",
-      "published": "2026-10-02T20:50:25+00:00",
-      "title_th": "Xiaomi 18 Fold: How Does This Happen?"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "Dear YouTube!",
-      "video_id": "e1q-TuHdc4Y",
-      "link": "https://www.youtube.com/watch?v=e1q-TuHdc4Y",
-      "thumbnail": "https://i2.ytimg.com/vi/e1q-TuHdc4Y/hqdefault.jpg",
-      "published": "2026-09-30T14:42:19+00:00",
-      "title_th": "Dear YouTube!"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "The Ultimate All-In-One Workstation",
-      "video_id": "6NLHltCsTsQ",
-      "link": "https://www.youtube.com/watch?v=6NLHltCsTsQ",
-      "thumbnail": "https://i3.ytimg.com/vi/6NLHltCsTsQ/hqdefault.jpg",
-      "published": "2026-10-08T17:36:19+00:00",
-      "title_th": "The Ultimate All-In-One Workstation"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "It Remembers Everything...",
-      "video_id": "lrKjRRtoPG0",
-      "link": "https://www.youtube.com/shorts/lrKjRRtoPG0",
-      "thumbnail": "https://i1.ytimg.com/vi/lrKjRRtoPG0/hqdefault.jpg",
-      "published": "2026-10-05T14:46:34+00:00",
-      "title_th": "It Remembers Everything..."
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "Mini LED RGB Baby...",
-      "video_id": "5Qr4sKLLP4o",
-      "link": "https://www.youtube.com/shorts/5Qr4sKLLP4o",
-      "thumbnail": "https://i2.ytimg.com/vi/5Qr4sKLLP4o/hqdefault.jpg",
-      "published": "2026-09-29T16:09:38+00:00",
-      "title_th": "Mini LED RGB Baby..."
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "เมื่อทุกชีวิตต้อง Landing จะอยู่อย่างไรเพื่อจากไปอย่างสวยงาม",
-      "video_id": "vviRcg_wPzs",
-      "link": "https://www.youtube.com/watch?v=vviRcg_wPzs",
-      "thumbnail": "https://i3.ytimg.com/vi/vviRcg_wPzs/hqdefault.jpg",
-      "published": "2026-10-10T07:00:35+00:00",
-      "title_th": "เมื่อทุกชีวิตต้อง Landing จะอยู่อย่างไรเพื่อจากไปอย่างสวยงาม"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "The Making of 'The Biggest Dream Revision 2026' | gamescom asia x Thailand Game Show",
-      "video_id": "TVNnquB0Z3M",
-      "link": "https://www.youtube.com/watch?v=TVNnquB0Z3M",
-      "thumbnail": "https://i1.ytimg.com/vi/TVNnquB0Z3M/hqdefault.jpg",
-      "published": "2026-10-10T06:11:41+00:00",
-      "title_th": "The Making of 'The Biggest Dream Revision 2026' | gamescom asia x Thailand Game Show"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "ทำความรู้จัก Palliative Care",
-      "video_id": "F1g1I3lneg8",
-      "link": "https://www.youtube.com/shorts/F1g1I3lneg8",
-      "thumbnail": "https://i3.ytimg.com/vi/F1g1I3lneg8/hqdefault.jpg",
-      "published": "2026-10-09T23:00:27+00:00",
-      "title_th": "ทำความรู้จัก Palliative Care"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "อัพเดตมือถือใหม่ๆเข้าไทยช่วงนี้/ ใกล้แล้ว iPad mini OLED / เรือธง Pro Max เริ่มมีปัญหาเรื่องชิป",
-      "video_id": "87XInM1WIzs",
-      "link": "https://www.youtube.com/watch?v=87XInM1WIzs",
-      "thumbnail": "https://i1.ytimg.com/vi/87XInM1WIzs/hqdefault.jpg",
-      "published": "2026-10-10T13:21:42+00:00",
-      "title_th": "อัพเดตมือถือใหม่ๆเข้าไทยช่วงนี้/ ใกล้แล้ว iPad mini OLED / เรือธง Pro Max เริ่มมีปัญหาเรื่องชิป"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "OPPO Find X10 Pro Max กับกล้อง 200MP สามตัว เครื่องจริงสเปคขายจีนครับ #OPPO #OPPOFindX10ProMax",
-      "video_id": "N989LBAI_tU",
-      "link": "https://www.youtube.com/shorts/N989LBAI_tU",
-      "thumbnail": "https://i3.ytimg.com/vi/N989LBAI_tU/hqdefault.jpg",
-      "published": "2026-10-08T13:52:35+00:00",
-      "title_th": "OPPO Find X10 Pro Max กับกล้อง 200MP สามตัว เครื่องจริงสเปคขายจีนครับ #OPPO #OPPOFindX10ProMax"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "ลองจับ OPPO Find X10 Pro Max กล้องโหด Hasselblad 200MP ทุกตัว ชิปตัวเทพ",
-      "video_id": "cl1H_kWnUhY",
-      "link": "https://www.youtube.com/watch?v=cl1H_kWnUhY",
-      "thumbnail": "https://i4.ytimg.com/vi/cl1H_kWnUhY/hqdefault.jpg",
-      "published": "2026-10-08T12:00:29+00:00",
-      "title_th": "ลองจับ OPPO Find X10 Pro Max กล้องโหด Hasselblad 200MP ทุกตัว ชิปตัวเทพ"
-    }
-  ]
+  "reviews": []
 }
