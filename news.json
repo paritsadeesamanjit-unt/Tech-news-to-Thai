@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T20:48:08.768754+00:00",
+  "generated_at": "2026-10-13T02:37:17.410077+00:00",
   "count": 50,
   "articles": [
     {
@@ -65,6 +65,18 @@
     {
       "source": "The Verge",
       "flag": "US",
+      "category": "software",
+      "title_en": "The Social Reckoning is flopping at the box office",
+      "summary_en": "As important as some of the messages in The Social Reckoning are, the movie has been drastically underperforming at the box office. Per Variety, Aaron's Sorkin's follow up to The Social Network only grossed a measly $5.5 million this past weekend against a budget that's somewhere within the $30-42 million range. That would make it […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DF-04750_r.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+      "link": "https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy",
+      "published": "2026-10-12T17:20:57-04:00",
+      "title_th": "The Social Reckoning is flopping at the box office",
+      "summary_th": "As important as some of the messages in The Social Reckoning are, the movie has been drastically underperforming at the box office. Per Variety, Aaron's Sorkin's follow up to The Social Network only grossed a measly $5.5 million this past weekend against a budget that's somewhere within the $30-42 million range. That would make it […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
       "category": "gadget",
       "title_en": "Meta has some Wonder Full new AI models",
       "summary_en": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder Full, are available […]",
@@ -109,18 +121,6 @@
       "published": "2026-10-12T10:00:00-04:00",
       "title_th": "Android is the best and worst thing about Googlebooks",
       "summary_th": "My first week with the new Android-powered laptops has been about as rocky as anyone's, but I've slowly learned to like them, even if love still feels a ways off. Every moment that's impressed me has been thanks to Android, whether I've been accessing a native version of a useful app or quickly checking my […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "No Man’s Sky is coming to the iPhone and iPad",
-      "summary_en": "The No Man's Sky universe is about to get a little bit smaller - but in a good way. Hello Games announced that its long-running sci-fi exploration game will be coming to iOS, with versions for both the iPhone and iPad available starting on October 28th. According to Hello's Sean Murray, the mobile version of […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/No-Mans-Sky-iPhone-Screen-1.png?quality=90&strip=all&crop=6.0743707093822%2C0%2C87.851258581236%2C100&w=1200",
-      "link": "https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date",
-      "published": "2026-10-12T10:00:00-04:00",
-      "title_th": "No Man’s Sky is coming to the iPhone and iPad",
-      "summary_th": "The No Man's Sky universe is about to get a little bit smaller - but in a good way. Hello Games announced that its long-running sci-fi exploration game will be coming to iOS, with versions for both the iPhone and iPad available starting on October 28th. According to Hello's Sean Murray, the mobile version of […]"
     },
     {
       "source": "Ars Technica",
@@ -306,61 +306,61 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Meta says it's caught up to the frontier with its latest Wonder AI models",
-      "summary_en": "The models add \"active memory\" and \"active focus\" abilities.",
-      "image": "https://www.engadget.com/img/gallery/meta-says-its-caught-up-to-the-frontier-with-its-latest-wonder-ai-models/l-intro-1791830967.jpg",
-      "link": "https://www.engadget.com/2284478/meta-says-its-caught-up-to-the-frontier-with-its-latest-wonder-ai-models/",
-      "published": "Mon, 12 Oct 2026 18:51:52 +0000",
-      "title_th": "Meta says it's caught up to the frontier with its latest Wonder AI models",
-      "summary_th": "The models add \"active memory\" and \"active focus\" abilities."
+      "title_en": "Don't buy a cheap Android phone without these non-negotiable features",
+      "summary_en": "Android phones can be had at many different price points, but the most important features aren't always found in the cheapest available devices.",
+      "image": "https://www.engadget.com/img/gallery/dont-buy-a-cheap-android-phone-without-these-non-negotiable-features/l-intro-1791485064.jpg",
+      "link": "https://www.engadget.com/2281663/android-phone-dont-buy-cheap-without-non-negotiable-features/",
+      "published": "Tue, 13 Oct 2026 00:30:00 +0000",
+      "title_th": "Don't buy a cheap Android phone without these non-negotiable features",
+      "summary_th": "Android phones can be had at many different price points, but the most important features aren't always found in the cheapest available devices."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Norway fined a Microsoft subsidiary $9.6 million for allegedly misusing Grindr user data",
-      "summary_en": "Xandr has three weeks to appeal the record penalty.",
-      "image": "https://www.engadget.com/img/gallery/norway-fined-a-microsoft-subsidiary-9-6-million-for-allegedly-misusing-grindr-user-data/l-intro-1791828674.jpg",
-      "link": "https://www.engadget.com/2284434/norway-fined-a-microsoft-subsidiary-96-million-for-allegedly-misusing-grindr-user-data/",
-      "published": "Mon, 12 Oct 2026 18:34:57 +0000",
-      "title_th": "Norway fined a Microsoft subsidiary $9.6 million for allegedly misusing Grindr user data",
-      "summary_th": "Xandr has three weeks to appeal the record penalty."
+      "title_en": "How to turn your old hard drives into a RAID array",
+      "summary_en": "Your old hard drives still have some live left in them.",
+      "image": "https://www.engadget.com/img/gallery/how-to-turn-your-old-hard-drives-into-a-raid-array/l-intro-1791486769.jpg",
+      "link": "https://www.engadget.com/2281587/how-to-create-raid-array-your-old-hard-drives/",
+      "published": "Mon, 12 Oct 2026 23:00:00 +0000",
+      "title_th": "How to turn your old hard drives into a RAID array",
+      "summary_th": "Your old hard drives still have some live left in them."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "What's the difference between alkaline and lithium-ion batteries?",
-      "summary_en": "Alkaline and lithium-ion batteries serve very different purposes. Here's how they compare on lifespan, cost, rechargeability, and everyday use.",
-      "image": "https://www.engadget.com/img/gallery/whats-the-difference-between-alkaline-and-lithium-ion-batteries/l-intro-1791482220.jpg",
-      "link": "https://www.engadget.com/2281493/alkaline-vs-lithium-ion-batteries-difference-between/",
-      "published": "Mon, 12 Oct 2026 18:00:00 +0000",
-      "title_th": "What's the difference between alkaline and lithium-ion batteries?",
-      "summary_th": "Alkaline and lithium-ion batteries serve very different purposes. Here's how they compare on lifespan, cost, rechargeability, and everyday use."
+      "title_en": "How to use Google Gemini to automate tasks",
+      "summary_en": "Spark is Google's AI tool that can perform tasks on your behalf.",
+      "image": "https://www.engadget.com/img/gallery/how-to-use-google-gemini-to-automate-tasks/l-intro-1791484788.jpg",
+      "link": "https://www.engadget.com/2281539/how-to-use-google-gemini-automate-tasks/",
+      "published": "Mon, 12 Oct 2026 22:30:00 +0000",
+      "title_th": "How to use Google Gemini to automate tasks",
+      "summary_th": "Spark is Google's AI tool that can perform tasks on your behalf."
     },
     {
       "source": "Engadget",
       "flag": "US",
-      "category": "review",
-      "title_en": "2027 Rivian R2 review: The Goldilocks electric SUV",
-      "summary_en": "It's not too big, it's not too small and it's not too expensive. It's just right.",
-      "image": "https://www.engadget.com/img/gallery/rivian-r2-review-the-goldilocks-electric-suv/l-intro-1791826082.jpg",
-      "link": "https://www.engadget.com/2284218/2027-rivian-r2-review/",
-      "published": "Mon, 12 Oct 2026 17:39:22 +0000",
-      "title_th": "2027 Rivian R2 review: The Goldilocks electric SUV",
-      "summary_th": "It's not too big, it's not too small and it's not too expensive. It's just right."
+      "category": "gadget",
+      "title_en": "Why are your iPhone photos so blurry (and how to improve it)",
+      "summary_en": "Blurry iPhone photos can come down to more than just a dirty lens. Here's how to expertly sharpen your shots and fine-tune your camera settings.",
+      "image": "https://www.engadget.com/img/gallery/why-are-your-iphone-photos-so-blurry-and-how-to-improve-it/l-intro-1791414815.jpg",
+      "link": "https://www.engadget.com/2281499/how-to-improve-blurry-iphone-photo/",
+      "published": "Mon, 12 Oct 2026 22:00:00 +0000",
+      "title_th": "Why are your iPhone photos so blurry (and how to improve it)",
+      "summary_th": "Blurry iPhone photos can come down to more than just a dirty lens. Here's how to expertly sharpen your shots and fine-tune your camera settings."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Beats is collaborating with Pokémon for a Pikachu-themed Pill speaker",
-      "summary_en": "The collab we've all been waiting for ever since Tim Cook met up with Pikachu.",
-      "image": "https://www.engadget.com/img/gallery/beats-is-collaborating-with-pokmon-for-a-pikachu-themed-pill-speaker/l-intro-1791825144.jpg",
-      "link": "https://www.engadget.com/2284137/beats-is-collaborating-with-pokmon-for-a-pikachu-themed-pill-speaker/",
-      "published": "Mon, 12 Oct 2026 17:11:30 +0000",
-      "title_th": "Beats is collaborating with Pokémon for a Pikachu-themed Pill speaker",
-      "summary_th": "The collab we've all been waiting for ever since Tim Cook met up with Pikachu."
+      "title_en": "Epic reportedly delays its Disney video game so it can be made using more AI",
+      "summary_en": "Developers were apparently ordered to use AI for both code and asset creation.",
+      "image": "https://www.engadget.com/img/gallery/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/l-intro-1791837940.jpg",
+      "link": "https://www.engadget.com/2284680/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/",
+      "published": "Mon, 12 Oct 2026 20:48:19 +0000",
+      "title_th": "Epic reportedly delays its Disney video game so it can be made using more AI",
+      "summary_th": "Developers were apparently ordered to use AI for both code and asset creation."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,61 +426,73 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "iPhone hits record Q3 shipment share as global smartphone market plunges 20%, per report",
-      "summary_en": "According to Counterpoint Research , Apple saw its share of global smartphone shipments cross 20% for the first time in a third quarter, despite an industry-wide decline. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-pro-max-hand.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/12/iphone-hits-record-q3-shipment-share-as-global-smartphone-market-plunges-20-per-report/",
-      "published": "Mon, 12 Oct 2026 20:25:16 +0000",
-      "title_th": "iPhone hits record Q3 shipment share as global smartphone market plunges 20%, per report",
-      "summary_th": "According to Counterpoint Research , Apple saw its share of global smartphone shipments cross 20% for the first time in a third quarter, despite an industry-wide decline. Here are the details. more…"
+      "title_en": "The iPhone Duo’s cooling system hides a clever trick inside its hinge",
+      "summary_en": "While a folding iPhone posed a new challenge for Apple’s thermal engineering team, they came up with a creative way to leverage the device’s hinge to their advantage. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-hinge-closeup.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/12/the-iphone-duos-cooling-system-hides-a-clever-trick-inside-its-hinge/",
+      "published": "Tue, 13 Oct 2026 01:34:29 +0000",
+      "title_th": "The iPhone Duo’s cooling system hides a clever trick inside its hinge",
+      "summary_th": "While a folding iPhone posed a new challenge for Apple’s thermal engineering team, they came up with a creative way to leverage the device’s hinge to their advantage. Here are the details. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "M6 MacBook Pro: Three new upgrades launching later this month",
-      "summary_en": "Apple has a new M6 MacBook Pro launching later this month with a 14-inch screen and the current industrial design. And with its M6 chip, there are three upgrades we can expect from the new MacBook Pro. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/m6-macbook-pro-angle.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/12/m6-macbook-pro-three-new-upgrades-launching-this-fall/",
-      "published": "Mon, 12 Oct 2026 20:23:21 +0000",
-      "title_th": "M6 MacBook Pro: Three new upgrades launching later this month",
-      "summary_th": "Apple has a new M6 MacBook Pro launching later this month with a 14-inch screen and the current industrial design. And with its M6 chip, there are three upgrades we can expect from the new MacBook Pro. more…"
+      "title_en": "Watch the trailer for Apple TV’s ‘Being Heumann’",
+      "summary_en": "Apple TV today released the official trailer for “ Being Heumann ,” an Apple Original Films release from “ CODA ” director Siân Heder. Watch it below. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/being-heumann.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/12/watch-the-trailer-for-apple-tvs-being-heumann/",
+      "published": "Tue, 13 Oct 2026 00:05:58 +0000",
+      "title_th": "Watch the trailer for Apple TV’s ‘Being Heumann’",
+      "summary_th": "Apple TV today released the official trailer for “ Being Heumann ,” an Apple Original Films release from “ CODA ” director Siân Heder. Watch it below. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple TV’s new podcast explores haunting true story involving a heart transplant",
-      "summary_en": "Apple TV today announced “ Heart ,” an original eight-episode true-crime podcast involving two men linked by a donated heart and the same terrible demise. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-podcasts-heart-2.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/12/apple-tvs-new-podcast-explores-haunting-true-story-involving-a-heart-transplant/",
-      "published": "Mon, 12 Oct 2026 19:58:17 +0000",
-      "title_th": "Apple TV’s new podcast explores haunting true story involving a heart transplant",
-      "summary_th": "Apple TV today announced “ Heart ,” an original eight-episode true-crime podcast involving two men linked by a donated heart and the same terrible demise. Here are the details. more…"
+      "title_en": "Apple ‘Welcome home’ event: Three new products are coming tomorrow",
+      "summary_en": "Apple officially confirmed that it will hold a product launch event tomorrow, October 13. With a “Welcome home” tagline, the launch is expected to focus on new smart home products. Here’s everything to expect at tomorrow’s Apple event. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-welcome-home.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/12/apple-welcome-home-event-three-new-products/",
+      "published": "Mon, 12 Oct 2026 23:39:16 +0000",
+      "title_th": "Apple ‘Welcome home’ event: Three new products are coming tomorrow",
+      "summary_th": "Apple officially confirmed that it will hold a product launch event tomorrow, October 13. With a “Welcome home” tagline, the launch is expected to focus on new smart home products. Here’s everything to expect at tomorrow’s Apple event. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "iCloud+ keeps getting better, here’s what’s new for subscribers",
-      "summary_en": "iCloud+ is best known for adding iCloud storage, but Apple keeps improving and expanding its suite of benefits for subscribers. Here’s everything new for iCloud+ added in the last few weeks. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/12/icloud-keeps-getting-better-heres-whats-new-for-subscribers/",
-      "published": "Mon, 12 Oct 2026 18:56:33 +0000",
-      "title_th": "iCloud+ keeps getting better, here’s what’s new for subscribers",
-      "summary_th": "iCloud+ is best known for adding iCloud storage, but Apple keeps improving and expanding its suite of benefits for subscribers. Here’s everything new for iCloud+ added in the last few weeks. more…"
+      "title_en": "Apple gets a $360 price target from JP Morgan despite iPhone demand concerns",
+      "summary_en": "Just days after Apple’s stock took a hit over reports of iPhone 18 Pro production cuts, JP Morgan has raised its AAPL price target by $20. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-stock-up.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/12/apple-gets-a-360-price-target-from-jp-morgan-despite-iphone-demand-concerns/",
+      "published": "Mon, 12 Oct 2026 22:23:50 +0000",
+      "title_th": "Apple gets a $360 price target from JP Morgan despite iPhone demand concerns",
+      "summary_th": "Just days after Apple’s stock took a hit over reports of iPhone 18 Pro production cuts, JP Morgan has raised its AAPL price target by $20. Here are the details. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "MagSafe Monday: This aluminum MagSafe wallet ejects your credit card with one click",
-      "summary_en": "My biggest annoyance with all types of wallets is when it This aluminum MagSafe card wallet takes a different approach with a side-mounted eject button that fans your cards up with a single press, so you can grab the one you need one-handed without pulling them all out. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/bradley.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/12/magsafe-monday-this-aluminum-magsafe-wallet-ejects-your-credit-card-with-one-click/",
-      "published": "Mon, 12 Oct 2026 18:18:00 +0000",
-      "title_th": "MagSafe Monday: This aluminum MagSafe wallet ejects your credit card with one click",
-      "summary_th": "My biggest annoyance with all types of wallets is when it This aluminum MagSafe card wallet takes a different approach with a side-mounted eject button that fans your cards up with a single press, so you can grab the one you need one-handed without pulling them all out. more…"
+      "title_en": "9to5Mac Daily: October 12, 2026 – Last-minute Apple event rumors",
+      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/12/daily-october-12-2026/",
+      "published": "Mon, 12 Oct 2026 21:57:21 +0000",
+      "title_th": "9to5Mac Daily: October 12, 2026 – Last-minute Apple event rumors",
+      "summary_th": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "What’s new in Android’s October 2026 Google System Updates [U]",
+      "summary_en": "The monthly “ Google System Release Notes ” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at developers. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-3.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/10/12/october-2026-google-system-updates/",
+      "published": "Mon, 12 Oct 2026 21:53:00 +0000",
+      "title_th": "What’s new in Android’s October 2026 Google System Updates [U]",
+      "summary_th": "The monthly “ Google System Release Notes ” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at developers. more…"
     },
     {
       "source": "9to5Google",
@@ -529,18 +541,6 @@
       "published": "Mon, 12 Oct 2026 16:00:00 +0000",
       "title_th": "Googlebook OS review: A post-smartphone PC, if Google can keep it",
       "summary_th": "All attempts to bring the lessons and benefits of the touch era to PCs have failed, from Windows 8 to the era after the iPad when the Mac gained fullscreen apps. From an experience perspective, the iPad came closest because it was built on iOS, but it still failed due to the locked-down limitations at its core. After using Googlebook OS for over a week, I think Google has the beginnings of a desktop OS for the Android smartphone generation, but the inherent strategy reset makes for a rough first take. more…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Deals: Samsung Galaxy Tab S12 + $200 Amazon gift card, Nothing Ear (3a), LG TVs up to $1,200 off w/ 10% back, more",
-      "summary_en": "Today’s 9to5Toys Lunch Break is headlined by a chance to score a FREE $200 Amazon gift card with your new Samsung Galaxy Tab S12+ alongside the trade options straight from Samsung at up to $650 off . We also have loads of hangover Nothing Prime Day deals still live from $25 , including all-time lows on Ear (3a) and CMF Clip Pro, discounts on Headphone (a), and more. Just be sure to scope out the LG Deal Days sale with up to $1,200 off its latest mini LED and OLED TVs alongside $200 gift cards and 10% back on select models . Head below for a closer look at the details. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/9to5Google-Oct-12.webp?resize=1200,628",
-      "link": "https://9to5google.com/2026/10/12/deals-samsung-galaxy-tab-s12-noting-ear-3a-lg-tv/",
-      "published": "Mon, 12 Oct 2026 15:46:47 +0000",
-      "title_th": "Deals: Samsung Galaxy Tab S12 + $200 Amazon gift card, Nothing Ear (3a), LG TVs up to $1,200 off w/ 10% back, more",
-      "summary_th": "Today’s 9to5Toys Lunch Break is headlined by a chance to score a FREE $200 Amazon gift card with your new Samsung Galaxy Tab S12+ alongside the trade options straight from Samsung at up to $650 off . We also have loads of hangover Nothing Prime Day deals still live from $25 , including all-time lows on Ear (3a) and CMF Clip Pro, discounts on Headphone (a), and more. Just be sure to scope out the LG Deal Days sale with up to $1,200 off its latest mini LED and OLED TVs alongside $200 gift cards and 10% back on select models . Head below for a closer look at the details. more…"
     },
     {
       "source": "Electrek",
@@ -733,6 +733,16 @@
     {
       "channel": "Beartai",
       "country": "TH",
+      "title_en": "แสงที่ดี มีการบอกต่อ",
+      "video_id": "Jp7xTyVVtGA",
+      "link": "https://www.youtube.com/shorts/Jp7xTyVVtGA",
+      "thumbnail": "https://i3.ytimg.com/vi/Jp7xTyVVtGA/hqdefault.jpg",
+      "published": "2026-10-12T23:00:22+00:00",
+      "title_th": "แสงที่ดี มีการบอกต่อ"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
       "title_en": "โรงงานติดแบตฯ โซลาร์เซลล์คุ้มไหม ?",
       "video_id": "gmxmnfGIW0A",
       "link": "https://www.youtube.com/watch?v=gmxmnfGIW0A",
@@ -749,16 +759,6 @@
       "thumbnail": "https://i3.ytimg.com/vi/VZAnnZgIbn0/hqdefault.jpg",
       "published": "2026-10-11T23:00:32+00:00",
       "title_th": "เริ่มรักษาแบบประคับประคองเมื่อไหร่ดี ?"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "Shopee ชวนลุย 2 ภารกิจ YouTube Shopping เดือนตุลาคม โบนัสรวมกว่า 1.2 แสน",
-      "video_id": "kiKCpUInriA",
-      "link": "https://www.youtube.com/shorts/kiKCpUInriA",
-      "thumbnail": "https://i4.ytimg.com/vi/kiKCpUInriA/hqdefault.jpg",
-      "published": "2026-10-11T05:00:36+00:00",
-      "title_th": "Shopee ชวนลุย 2 ภารกิจ YouTube Shopping เดือนตุลาคม โบนัสรวมกว่า 1.2 แสน"
     },
     {
       "channel": "Droidsans",
