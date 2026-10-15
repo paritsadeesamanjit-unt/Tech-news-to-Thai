@@ -1,66 +1,102 @@
 {
-  "generated_at": "2026-10-14T21:21:20.515497+00:00",
+  "generated_at": "2026-10-15T02:16:43.802021+00:00",
   "count": 50,
   "articles": [
     {
       "source": "TechCrunch",
       "flag": "US",
+      "category": "startup",
+      "title_en": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "summary_en": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "published": "Thu, 15 Oct 2026 01:01:32 +0000",
+      "title_th": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "summary_th": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+      "summary_en": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300215073.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+      "published": "Thu, 15 Oct 2026 00:49:31 +0000",
+      "title_th": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+      "summary_th": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
       "category": "gadget",
-      "title_en": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
-      "summary_en": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Colossal-Labs-2.png?resize=1200,691",
-      "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
-      "published": "Wed, 14 Oct 2026 21:00:00 +0000",
-      "title_th": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
-      "summary_th": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it."
+      "title_en": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+      "summary_en": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
+      "image": "https://techcrunch.com/wp-content/uploads/2015/08/9726191699_6ba4b89744_o.jpg?resize=1200,798",
+      "link": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
+      "published": "Thu, 15 Oct 2026 00:30:00 +0000",
+      "title_th": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+      "summary_th": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals."
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
-      "summary_en": "Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/garrett-langley-disrupt.jpg?resize=1200,900",
-      "link": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
-      "published": "Wed, 14 Oct 2026 20:26:25 +0000",
-      "title_th": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
-      "summary_th": "Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "ev",
-      "title_en": "Electric vehicle sales in the US are showing signs of life",
-      "summary_en": "The electric vehicle market in the U.S. has been growing for the last three consecutive quarters.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/EV-charging-Getty.jpg?resize=1200,830",
-      "link": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/",
-      "published": "Wed, 14 Oct 2026 20:12:07 +0000",
-      "title_th": "Electric vehicle sales in the US are showing signs of life",
-      "summary_th": "The electric vehicle market in the U.S. has been growing for the last three consecutive quarters."
+      "title_en": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "summary_en": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” […]",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?resize=1200,843",
+      "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "published": "Thu, 15 Oct 2026 00:00:00 +0000",
+      "title_th": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "summary_th": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” […]"
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "TimeTeller puts our internal clocks at the center of personalized medicine",
-      "summary_en": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Benjamin-Dose-and-Angela-Relogio-TimeTeller.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
-      "published": "Wed, 14 Oct 2026 20:00:00 +0000",
-      "title_th": "TimeTeller puts our internal clocks at the center of personalized medicine",
-      "summary_th": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments."
+      "title_en": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+      "summary_en": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/2DOrganoidSlice_greynuclei_pinksmoothmuslce_blueepithelium_INTEROBIO.jpg?w=864",
+      "link": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+      "published": "Wed, 14 Oct 2026 23:00:00 +0000",
+      "title_th": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+      "summary_th": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
-      "summary_en": "Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels, creating a round-the-clock clean power plant.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Austin-Factory-150000-sqft.jpg?resize=1200,900",
-      "link": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/",
-      "published": "Wed, 14 Oct 2026 19:51:34 +0000",
-      "title_th": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
-      "summary_th": "Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels, creating a round-the-clock clean power plant."
+      "category": "software",
+      "title_en": "McKinsey is making job applicants spar with a fake AI client",
+      "summary_en": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,\" the […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "published": "2026-10-14T18:53:31-04:00",
+      "title_th": "McKinsey is making job applicants spar with a fake AI client",
+      "summary_th": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,\" the […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "The best feature of Apple’s HomeView might be its simplicity",
+      "summary_en": "I'm just going to come right out and say it. I love the approach Apple has taken with the HomeView. I think it's the shared, always-available household interface that my family might finally use. Is Apple's first smart display my dream smart home dashboard? No. But is it the right product for Apple Home at […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6079.jpeg?quality=90&strip=all&crop=0%2C8.520875627738%2C100%2C82.958248744524&w=1200",
+      "link": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
+      "published": "2026-10-14T18:00:02-04:00",
+      "title_th": "The best feature of Apple’s HomeView might be its simplicity",
+      "summary_th": "I'm just going to come right out and say it. I love the approach Apple has taken with the HomeView. I think it's the shared, always-available household interface that my family might finally use. Is Apple's first smart display my dream smart home dashboard? No. But is it the right product for Apple Home at […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+      "summary_en": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "published": "2026-10-14T17:11:28-04:00",
+      "title_th": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+      "summary_th": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when […]"
     },
     {
       "source": "The Verge",
@@ -68,7 +104,7 @@
       "category": "software",
       "title_en": "The AI race is back on",
       "summary_en": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2296206566.jpg?quality=90&strip=all&crop=0%2C10.669135487166%2C100%2C78.661729025667&w=1200",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
       "published": "2026-10-14T15:06:03-04:00",
       "title_th": "The AI race is back on",
@@ -87,40 +123,16 @@
       "summary_th": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a notice of interest in Character.AI's bankruptcy case \"to put all parties on notice of the regulatory issues that […]"
     },
     {
-      "source": "The Verge",
+      "source": "Ars Technica",
       "flag": "US",
       "category": "software",
-      "title_en": "As a TV enthusiast, I was hoping for more from the Apple TV 4K",
-      "summary_en": "It's been four long years since the last Apple TV 4K was released, and in that time there have been lots of hopes and dreams for features in whatever comes next. A new chip, 4K/120Hz support, audio passthrough, a remote locator, better home control integration - the 2022 Apple TV 4K is a great box, […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple-tv-4k-2026-event.jpg?quality=90&strip=all&crop=0%2C13.267789524525%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features",
-      "published": "2026-10-14T14:38:59-04:00",
-      "title_th": "As a TV enthusiast, I was hoping for more from the Apple TV 4K",
-      "summary_th": "It's been four long years since the last Apple TV 4K was released, and in that time there have been lots of hopes and dreams for features in whatever comes next. A new chip, 4K/120Hz support, audio passthrough, a remote locator, better home control integration - the 2022 Apple TV 4K is a great box, […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "YouTube sticks new labels on AI-generated songs",
-      "summary_en": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound like this will apply to any and all use of AI tools in making music, but according to YouTube, it […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/youtube-music-gen-ai-labels.width-1200.format-webp.webp?quality=90&strip=all&crop=4,48.489005235602,89.6,46.910994764398",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
-      "published": "2026-10-14T14:22:56-04:00",
-      "title_th": "YouTube sticks new labels on AI-generated songs",
-      "summary_th": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound like this will apply to any and all use of AI tools in making music, but according to YouTube, it […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Save up to 20 percent on gift cards for REI, Barnes & Noble, and more",
-      "summary_en": "While we cover a lot of deals on specific products, it’s rare that we find worthwhile savings on gift cards that let you save on essentially anything the store sells. However, until October 19th, you can save up to twenty percent on gift cards when you buy them through the Google Play store. There are […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK460_googlePlay_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/gadgets/1010749/google-play-gift-card-deal-sale",
-      "published": "2026-10-14T14:20:55-04:00",
-      "title_th": "Save up to 20 percent on gift cards for REI, Barnes & Noble, and more",
-      "summary_th": "While we cover a lot of deals on specific products, it’s rare that we find worthwhile savings on gift cards that let you save on essentially anything the store sells. However, until October 19th, you can save up to twenty percent on gift cards when you buy them through the Google Play store. There are […]"
+      "title_en": "Fridge hack costing millions and sparking fires stemmed from poor security",
+      "summary_en": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg",
+      "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+      "published": "Wed, 14 Oct 2026 21:35:09 +0000",
+      "title_th": "Fridge hack costing millions and sparking fires stemmed from poor security",
+      "summary_th": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet."
     },
     {
       "source": "Ars Technica",
@@ -171,16 +183,16 @@
       "summary_th": "Trust gaps in the new protocol spread malicious prompts from one agent to another."
     },
     {
-      "source": "Ars Technica",
+      "source": "Wired",
       "flag": "US",
-      "category": "software",
-      "title_en": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "summary_en": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
-      "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-      "published": "Fri, 02 Oct 2026 23:03:16 +0000",
-      "title_th": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "summary_th": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ."
+      "category": "ai",
+      "title_en": "Trump Aides Admit the House Is a Lost Cause",
+      "summary_en": "With the midterm elections just a few weeks away, the White House knows it has to go all in on Senate races—while virtually forfeiting the House.",
+      "image": "https://media.wired.com/photos/6ace7cf375ef8eec0d5b4a47/master/pass/politics_white_house_midterms_trump.jpg",
+      "link": "https://www.wired.com/story/trump-aides-admit-the-house-is-a-lost-cause/",
+      "published": "Wed, 14 Oct 2026 21:00:00 +0000",
+      "title_th": "Trump Aides Admit the House Is a Lost Cause",
+      "summary_th": "With the midterm elections just a few weeks away, the White House knows it has to go all in on Senate races—while virtually forfeiting the House."
     },
     {
       "source": "Wired",
@@ -229,18 +241,6 @@
       "published": "Wed, 14 Oct 2026 11:00:00 +0000",
       "title_th": "My Friend Has No Soul",
       "summary_th": "The second iteration of the viral Friend AI necklace is louder and less interesting."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "review",
-      "title_en": "Breville Eye Q Toaster Review: Neat Sensors, but Less-Than-Perfect Toast",
-      "summary_en": "The Breville Eye Q uses optical sensors to measure the darkness of your toast. Cool tech, but the toasting quality needs improvement.",
-      "image": "https://media.wired.com/photos/6ace56e6d9cd42daf5a15def/master/pass/Review%20Breville%20Eye%20Q%20Toaster%20102026%20top%20art%20SOURCE%20Breville.jpg",
-      "link": "https://www.wired.com/review/breville-eye-q-toaster/",
-      "published": "Wed, 14 Oct 2026 11:00:00 +0000",
-      "title_th": "Breville Eye Q Toaster Review: Neat Sensors, but Less-Than-Perfect Toast",
-      "summary_th": "The Breville Eye Q uses optical sensors to measure the darkness of your toast. Cool tech, but the toasting quality needs improvement."
     },
     {
       "source": "MIT Technology Review",
@@ -305,6 +305,18 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "chip",
+      "title_en": "Iowa, Nebraska and six other states are suing OpenAI for endangering children",
+      "summary_en": "The lawsuits cover everything from the design of ChatGPT to the company's recent issues with rogue agents.",
+      "image": "https://www.engadget.com/img/gallery/iowa-nebraska-and-six-other-states-are-suing-openai-for-endangering-children/l-intro-1792012940.jpg",
+      "link": "https://www.engadget.com/2287111/iowa-nebraska-and-six-other-states-are-suing-openai-for-endangering-children/",
+      "published": "Wed, 14 Oct 2026 21:23:27 +0000",
+      "title_th": "Iowa, Nebraska and six other states are suing OpenAI for endangering children",
+      "summary_th": "The lawsuits cover everything from the design of ChatGPT to the company's recent issues with rogue agents."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "gadget",
       "title_en": "Fitbit Edge vs Fitbit Air: The differences beyond a screen",
       "summary_en": "Google's latest wearable seems like a Fitbit Air with a screen, but the two actually have less in common than you might think.",
@@ -349,18 +361,6 @@
       "published": "Wed, 14 Oct 2026 17:01:12 +0000",
       "title_th": "YouTube Music adds new labels for AI-generated content",
       "summary_th": "Now please let us hide all of it."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Epic thinks you'll love its new vibe coded game launcher",
-      "summary_en": "Gross, Tim. Gross.",
-      "image": "https://www.engadget.com/img/gallery/epic-thinks-youll-love-its-new-vibe-coded-game-launcher/l-intro-1791998893.jpg",
-      "link": "https://www.engadget.com/2286721/epic-thinks-youll-love-its-new-vibe-coded-game-launcher/",
-      "published": "Wed, 14 Oct 2026 16:46:59 +0000",
-      "title_th": "Epic thinks you'll love its new vibe coded game launcher",
-      "summary_th": "Gross, Tim. Gross."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,61 +426,97 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "iOS 27 adds brand new widgets for your iPhone’s Home Screen",
-      "summary_en": "iOS 27 expands the available options to customize your Home Screen with new extra-large widgets that will be especially useful on iPhone Duo. Here’s the full list of 15+ pre-installed widgets iOS 27 introduces. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/shortcuts-widget-ios-27-extra-large.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/14/ios-27-adds-brand-new-widgets-for-your-iphones-home-screen/",
-      "published": "Wed, 14 Oct 2026 20:36:16 +0000",
-      "title_th": "iOS 27 adds brand new widgets for your iPhone’s Home Screen",
-      "summary_th": "iOS 27 expands the available options to customize your Home Screen with new extra-large widgets that will be especially useful on iPhone Duo. Here’s the full list of 15+ pre-installed widgets iOS 27 introduces. more…"
+      "title_en": "OpenAI agrees not to use alleged Apple trade secrets amid ongoing lawsuit",
+      "summary_en": "Bloomberg reports that during a hearing today, OpenAI voluntarily agreed not to use Apple’s alleged trade secrets while the legal battle between the two companies plays out. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/chatgpt-red.webp?resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/14/openai-agrees-not-to-use-alleged-apple-trade-secrets-amid-ongoing-lawsuit/",
+      "published": "Wed, 14 Oct 2026 23:12:59 +0000",
+      "title_th": "OpenAI agrees not to use alleged Apple trade secrets amid ongoing lawsuit",
+      "summary_th": "Bloomberg reports that during a hearing today, OpenAI voluntarily agreed not to use Apple’s alleged trade secrets while the legal battle between the two companies plays out. Here are the details. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple Intelligence reportedly coming to China in December, but without Siri AI",
-      "summary_en": "Bloomberg reports that Apple plans to finally launch Apple Intelligence in China in December, although some important features could still be missing. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-macOS-27.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/14/apple-intelligence-reportedly-coming-to-china-in-december-but-without-siri-ai/",
-      "published": "Wed, 14 Oct 2026 20:20:14 +0000",
-      "title_th": "Apple Intelligence reportedly coming to China in December, but without Siri AI",
-      "summary_th": "Bloomberg reports that Apple plans to finally launch Apple Intelligence in China in December, although some important features could still be missing. Here are the details. more…"
+      "title_en": "Apple Maps launches Detailed City Experience in Austin, Texas",
+      "summary_en": "Apple is rolling out its stunning Detailed City Experience in Apple Maps for users in Austin, TX. This marks a robust overhaul of Apple Maps in Austin, similar to what we’ve seen in other markets like San Francisco, Chicago, and London. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-maps-austin.webp?resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/14/apple-maps-launches-detailed-city-experience-in-austin-texas/",
+      "published": "Wed, 14 Oct 2026 23:03:45 +0000",
+      "title_th": "Apple Maps launches Detailed City Experience in Austin, Texas",
+      "summary_th": "Apple is rolling out its stunning Detailed City Experience in Apple Maps for users in Austin, TX. This marks a robust overhaul of Apple Maps in Austin, similar to what we’ve seen in other markets like San Francisco, Chicago, and London. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "ElevationLab pulls AirTag Silencer after backlash over stalking concerns",
-      "summary_en": "Following intense criticism over the obvious fact that its AirTag Silencer could facilitate stalking and other forms of misuse of Apple’s AirTag, ElevationLab has now pulled the accessory. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/airtag-2-radiating-sound.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/14/elevationlab-pulls-airtag-silencer-after-backlash-over-stalking-concerns/",
-      "published": "Wed, 14 Oct 2026 19:55:29 +0000",
-      "title_th": "ElevationLab pulls AirTag Silencer after backlash over stalking concerns",
-      "summary_th": "Following intense criticism over the obvious fact that its AirTag Silencer could facilitate stalking and other forms of misuse of Apple’s AirTag, ElevationLab has now pulled the accessory. Here are the details. more…"
+      "title_en": "WhatsApp takes on Zoom and Google Meet with guest calling",
+      "summary_en": "WhatsApp users can now invite others to join group and one-on-one calls even if they don’t have an account. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-guest-calling.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/14/whatsapp-takes-on-zoom-and-google-meet-with-guest-calling/",
+      "published": "Wed, 14 Oct 2026 22:39:29 +0000",
+      "title_th": "WhatsApp takes on Zoom and Google Meet with guest calling",
+      "summary_th": "WhatsApp users can now invite others to join group and one-on-one calls even if they don’t have an account. Here are the details. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple TV just confirmed a new season for one of my favorite shows this year",
-      "summary_en": "Apple has announced that Maximum Pleasure Guaranteed , the acclaimed thriller that premiered this spring, will return for season 2. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/maximum-pleasure-guaranteed-s1-tatiana.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/14/apple-tv-just-confirmed-a-new-season-for-one-of-my-favorite-shows-this-year/",
-      "published": "Wed, 14 Oct 2026 19:19:03 +0000",
-      "title_th": "Apple TV just confirmed a new season for one of my favorite shows this year",
-      "summary_th": "Apple has announced that Maximum Pleasure Guaranteed , the acclaimed thriller that premiered this spring, will return for season 2. more…"
+      "title_en": "Apple just closed the day above $5 trillion for the first time",
+      "summary_en": "Apple today became the second company ever to close with a market valuation north of $5 trillion, following NVIDIA’s landmark achievement in October 2025. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-sep-2026-keynote.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/14/apple-just-closed-the-day-above-5-trillion-for-the-first-time/",
+      "published": "Wed, 14 Oct 2026 21:47:28 +0000",
+      "title_th": "Apple just closed the day above $5 trillion for the first time",
+      "summary_th": "Apple today became the second company ever to close with a market valuation north of $5 trillion, following NVIDIA’s landmark achievement in October 2025. Here are the details. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Here’s how much iPhone Duo costs to repair out-of-warranty",
-      "summary_en": "iPhone Duo pre-orders kick off this Friday ahead of shipping next week. If you’re wondering whether to get AppleCare+ or not, here are the iPhone Duo’s out-of-warranty repair costs. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-repairs-damaged.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/14/heres-how-much-iphone-duo-costs-to-repair-out-of-warranty/",
-      "published": "Wed, 14 Oct 2026 18:11:00 +0000",
-      "title_th": "Here’s how much iPhone Duo costs to repair out-of-warranty",
-      "summary_th": "iPhone Duo pre-orders kick off this Friday ahead of shipping next week. If you’re wondering whether to get AppleCare+ or not, here are the iPhone Duo’s out-of-warranty repair costs. more…"
+      "title_en": "9to5Mac Daily: October 14, 2026 – Apple Home Collection, iOS 27.2 beta 4",
+      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/14/daily-october-14-2026/",
+      "published": "Wed, 14 Oct 2026 21:17:25 +0000",
+      "title_th": "9to5Mac Daily: October 14, 2026 – Apple Home Collection, iOS 27.2 beta 4",
+      "summary_th": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "YouTube begins rolling out GIF support for comments very slowly; it’s for a reason",
+      "summary_en": "It’s been less than a month since YouTube said it planned to let users post GIFs in the comments section. The time has come, and this is just the beginning of a gradual rollout. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/01/YouTube-Logo-App-3.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/10/14/youtube-begins-rolling-out-gif-support/",
+      "published": "Wed, 14 Oct 2026 22:06:45 +0000",
+      "title_th": "YouTube begins rolling out GIF support for comments very slowly; it’s for a reason",
+      "summary_th": "It’s been less than a month since YouTube said it planned to let users post GIFs in the comments section. The time has come, and this is just the beginning of a gradual rollout. more…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Google Home app gets local Matter control over Philips Hue lights",
+      "summary_en": "The latest Google Home app is improving support for local network control over Matter devices, including Philips Hue lights. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/12/philips-hue-wall-washer-6.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/10/14/google-home-app-gets-local-matter-control-over-philips-hue-lights/",
+      "published": "Wed, 14 Oct 2026 22:05:00 +0000",
+      "title_th": "Google Home app gets local Matter control over Philips Hue lights",
+      "summary_th": "The latest Google Home app is improving support for local network control over Matter devices, including Philips Hue lights. more…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Gemini AI Plus subscribers will lose access to Pro models next month",
+      "summary_en": "Google has begun emailing Gemini AI Plus members to inform them when their Gemini subscription will no longer include access to the advanced models – just Flash. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Gemini-Flash-Prompt.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/10/14/gemini-ai-plus-loses-pro-november/",
+      "published": "Wed, 14 Oct 2026 21:34:22 +0000",
+      "title_th": "Gemini AI Plus subscribers will lose access to Pro models next month",
+      "summary_th": "Google has begun emailing Gemini AI Plus members to inform them when their Gemini subscription will no longer include access to the advanced models – just Flash. more…"
     },
     {
       "source": "9to5Google",
@@ -507,40 +543,16 @@
       "summary_th": "In response to more AI-generated content appearing on streaming services, YouTube Music is adding a new AI label directly to the player. more…"
     },
     {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "review",
-      "title_en": "Google Fitbit Edge hands-on: Pixel Watch Lite, take two",
-      "summary_en": "Google’s new Fitbit Edge tracker launches later this month and, as we get our review together, here’s a quick hands-on look at the new middle child of Google’s wearable lineup. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/fitbit-edge-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/10/14/google-fitbit-edge-hands-on-pixel-watch-lite-take-two/",
-      "published": "Wed, 14 Oct 2026 19:30:00 +0000",
-      "title_th": "Google Fitbit Edge hands-on: Pixel Watch Lite, take two",
-      "summary_th": "Google’s new Fitbit Edge tracker launches later this month and, as we get our review together, here’s a quick hands-on look at the new middle child of Google’s wearable lineup. more…"
-    },
-    {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
       "category": "gadget",
-      "title_en": "Mid-week Android app deals and freebies: Lia, Star Wars, Florescue, more",
-      "summary_en": "Your mid-week Google Play app and game deals are ready, including Lia: Hacking Destiny, STAR WARS: KOTOR II, Meridian 157: Chapter 1, Florescue, Mini Restaurant Premium, INKS, and more. Just be sure to dive into these Pixel Watch 5 deals and one of the best prices to date on Anker’s all-new Nano 10-in-1 Smart Display Hub . The apps await below. more…",
-      "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/10/Google-Play-collage-7de1f8.webp?resize=1200,628",
-      "link": "https://9to5toys.com/2026/10/14/todays-highlight-google-play-deals-28/",
-      "published": "Wed, 14 Oct 2026 19:01:07 +0000",
-      "title_th": "Mid-week Android app deals and freebies: Lia, Star Wars, Florescue, more",
-      "summary_th": "Your mid-week Google Play app and game deals are ready, including Lia: Hacking Destiny, STAR WARS: KOTOR II, Meridian 157: Chapter 1, Florescue, Mini Restaurant Premium, INKS, and more. Just be sure to dive into these Pixel Watch 5 deals and one of the best prices to date on Anker’s all-new Nano 10-in-1 Smart Display Hub . The apps await below. more…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "You can now join a WhatsApp call without an account",
-      "summary_en": "WhatsApp is making it easier to makes calls with everyone by introducing the ability for non-WhatsApp users to join a call without needing an account. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/whatsapp-link-calls-1.webp?resize=1200,628",
-      "link": "https://9to5google.com/2026/10/14/you-can-now-join-a-whatsapp-call-without-an-account/",
-      "published": "Wed, 14 Oct 2026 17:25:00 +0000",
-      "title_th": "You can now join a WhatsApp call without an account",
-      "summary_th": "WhatsApp is making it easier to makes calls with everyone by introducing the ability for non-WhatsApp users to join a call without needing an account. more…"
+      "title_en": "Apple and Schneider’s new smart thermostat could help cut your electric bill",
+      "summary_en": "A new smart thermostat from Apple and Schneider Electric could soon use your iPhone to figure out when you’re home – and help move heating and cooling to times when electricity is cleaner and/or cheaper. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Schneider-Electric-Apple-smart-thermostat.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/14/apple-and-schneiders-new-smart-thermostat-could-help-cut-your-electric-bill/",
+      "published": "Wed, 14 Oct 2026 22:06:30 +0000",
+      "title_th": "Apple and Schneider’s new smart thermostat could help cut your electric bill",
+      "summary_th": "A new smart thermostat from Apple and Schneider Electric could soon use your iPhone to figure out when you’re home – and help move heating and cooling to times when electricity is cleaner and/or cheaper. more…"
     },
     {
       "source": "Electrek",
@@ -589,18 +601,6 @@
       "published": "Wed, 14 Oct 2026 18:36:08 +0000",
       "title_th": "Orange is the new green as University of Tennessee electrifies its garbage fleet",
       "summary_th": "Orange is the new green at the University of Tennessee, which deployed a new McNeilus Volterra ZFL electric garbage truck at its Knoxville campus this week, bringing together advanced, battery-electric waste collection technology and Made-in-Tennessee manufacturing. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Lectric XPress Lite e-bike $1,099 + XPress2 FREE $336 bundle, EcoFlow 572Wh RIVER 3 Max new $303 low, snow blower lows, more",
-      "summary_en": "Our midweek Green Deals edition is being led by Lectric’s newest 46-pound Xpress Lite e-bike that just launched at $1,099 , which coincides with the bundle for $336 in FREE gear on the XPress2 Cruiser/Commuter e-bikes at $1,299 continuing over from the Better-Than-Prime sale. Right behind that we have two options for EcoFlow’s 572Wh RIVER 3 Max Expanded Power Station at a new $303 low or getting a FREE $40 tool pegboard at Amazon for $319. From there, we have two cordless electric snow blower deals on EGO’s 21-inch model with 2x 6.0Ah batteries at an $899 annual low , or the 80V Greenworks 20-inch model at a new $450 low . There’s also Worx’s newest 40V 3-in-1 Trivac Cordless Leaf Blower/Vacuum/Mulcher with either 2x or 4x battery bundles starting from $260 , as well as more deals to get y",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Lectric-EcoFlow-EGO-Worx-Greenworks-GDs-FI.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/14/lectric-xpress-lite-e-bike-ecoflow-572wh-river-3-max-snow-blower-more/",
-      "published": "Wed, 14 Oct 2026 18:00:00 +0000",
-      "title_th": "Lectric XPress Lite e-bike $1,099 + XPress2 FREE $336 bundle, EcoFlow 572Wh RIVER 3 Max new $303 low, snow blower lows, more",
-      "summary_th": "Our midweek Green Deals edition is being led by Lectric’s newest 46-pound Xpress Lite e-bike that just launched at $1,099 , which coincides with the bundle for $336 in FREE gear on the XPress2 Cruiser/Commuter e-bikes at $1,299 continuing over from the Better-Than-Prime sale. Right behind that we have two options for EcoFlow’s 572Wh RIVER 3 Max Expanded Power Station at a new $303 low or getting a FREE $40 tool pegboard at Amazon for $319. From there, we have two cordless electric snow blower deals on EGO’s 21-inch model with 2x 6.0Ah batteries at an $899 annual low , or the 80V Greenworks 20-inch model at a new $450 low . There’s also Worx’s newest 40V 3-in-1 Trivac Cordless Leaf Blower/Vacuum/Mulcher with either 2x or 4x battery bundles starting from $260 , as well as more deals to get y"
     }
   ],
   "indices": [
@@ -669,126 +669,5 @@
       "change_pct": -0.76
     }
   ],
-  "reviews": [
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "Apple Homeview Impressions: Not Convinced!",
-      "video_id": "QVv3mQzlrN0",
-      "link": "https://www.youtube.com/watch?v=QVv3mQzlrN0",
-      "thumbnail": "https://i2.ytimg.com/vi/QVv3mQzlrN0/hqdefault.jpg",
-      "published": "2026-10-13T22:42:38+00:00",
-      "title_th": "Apple Homeview Impressions: Not Convinced!"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "WTF is a Googlebook?",
-      "video_id": "_0G4OG39XjI",
-      "link": "https://www.youtube.com/watch?v=_0G4OG39XjI",
-      "thumbnail": "https://i4.ytimg.com/vi/_0G4OG39XjI/hqdefault.jpg",
-      "published": "2026-10-08T21:00:40+00:00",
-      "title_th": "WTF is a Googlebook?"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "Xiaomi 18 Fold: How Does This Happen?",
-      "video_id": "3iRUwVzRDZQ",
-      "link": "https://www.youtube.com/watch?v=3iRUwVzRDZQ",
-      "thumbnail": "https://i4.ytimg.com/vi/3iRUwVzRDZQ/hqdefault.jpg",
-      "published": "2026-10-02T20:50:25+00:00",
-      "title_th": "Xiaomi 18 Fold: How Does This Happen?"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "The Ultimate All-In-One Workstation",
-      "video_id": "6NLHltCsTsQ",
-      "link": "https://www.youtube.com/watch?v=6NLHltCsTsQ",
-      "thumbnail": "https://i3.ytimg.com/vi/6NLHltCsTsQ/hqdefault.jpg",
-      "published": "2026-10-08T17:36:19+00:00",
-      "title_th": "The Ultimate All-In-One Workstation"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "It Remembers Everything...",
-      "video_id": "lrKjRRtoPG0",
-      "link": "https://www.youtube.com/shorts/lrKjRRtoPG0",
-      "thumbnail": "https://i1.ytimg.com/vi/lrKjRRtoPG0/hqdefault.jpg",
-      "published": "2026-10-05T14:46:34+00:00",
-      "title_th": "It Remembers Everything..."
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "Mini LED RGB Baby...",
-      "video_id": "5Qr4sKLLP4o",
-      "link": "https://www.youtube.com/shorts/5Qr4sKLLP4o",
-      "thumbnail": "https://i2.ytimg.com/vi/5Qr4sKLLP4o/hqdefault.jpg",
-      "published": "2026-09-29T16:09:38+00:00",
-      "title_th": "Mini LED RGB Baby..."
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "ตรรกะวิบัติ",
-      "video_id": "DcfIhWH2MR8",
-      "link": "https://www.youtube.com/shorts/DcfIhWH2MR8",
-      "thumbnail": "https://i1.ytimg.com/vi/DcfIhWH2MR8/hqdefault.jpg",
-      "published": "2026-10-13T23:00:36+00:00",
-      "title_th": "ตรรกะวิบัติ"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "รีวิว Marshall Bromley 150 ลำโพงไร้สายสุดเท่",
-      "video_id": "dDNa103D5kA",
-      "link": "https://www.youtube.com/shorts/dDNa103D5kA",
-      "thumbnail": "https://i1.ytimg.com/vi/dDNa103D5kA/hqdefault.jpg",
-      "published": "2026-10-13T08:00:21+00:00",
-      "title_th": "รีวิว Marshall Bromley 150 ลำโพงไร้สายสุดเท่"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "แสงที่ดี มีการบอกต่อ",
-      "video_id": "Jp7xTyVVtGA",
-      "link": "https://www.youtube.com/shorts/Jp7xTyVVtGA",
-      "thumbnail": "https://i3.ytimg.com/vi/Jp7xTyVVtGA/hqdefault.jpg",
-      "published": "2026-10-12T23:00:22+00:00",
-      "title_th": "แสงที่ดี มีการบอกต่อ"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "ประชันกล้อง Pro Max ทุกรุ่น (มี Ultra ด้วย) | iPhone, Samsung, vivo, OPPO, Xiaomi",
-      "video_id": "pK7IKMwJG2w",
-      "link": "https://www.youtube.com/watch?v=pK7IKMwJG2w",
-      "thumbnail": "https://i1.ytimg.com/vi/pK7IKMwJG2w/hqdefault.jpg",
-      "published": "2026-10-13T11:00:31+00:00",
-      "title_th": "ประชันกล้อง Pro Max ทุกรุ่น (มี Ultra ด้วย) | iPhone, Samsung, vivo, OPPO, Xiaomi"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "มือถือมีจอหลังเครื่อง Xiaomi 18 Pro Max เครื่องจีน รอหน่อยเดี๋ยวมาขายไทยแล้ว #Xiaomi #Xiaomi18ProMax",
-      "video_id": "upE9VuJS7Z8",
-      "link": "https://www.youtube.com/shorts/upE9VuJS7Z8",
-      "thumbnail": "https://i2.ytimg.com/vi/upE9VuJS7Z8/hqdefault.jpg",
-      "published": "2026-10-11T14:15:33+00:00",
-      "title_th": "มือถือมีจอหลังเครื่อง Xiaomi 18 Pro Max เครื่องจีน รอหน่อยเดี๋ยวมาขายไทยแล้ว #Xiaomi #Xiaomi18ProMax"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "อัพเดตมือถือใหม่ๆเข้าไทยช่วงนี้/ ใกล้แล้ว iPad mini OLED / เรือธง Pro Max เริ่มมีปัญหาเรื่องชิป",
-      "video_id": "87XInM1WIzs",
-      "link": "https://www.youtube.com/watch?v=87XInM1WIzs",
-      "thumbnail": "https://i1.ytimg.com/vi/87XInM1WIzs/hqdefault.jpg",
-      "published": "2026-10-10T13:21:42+00:00",
-      "title_th": "อัพเดตมือถือใหม่ๆเข้าไทยช่วงนี้/ ใกล้แล้ว iPad mini OLED / เรือธง Pro Max เริ่มมีปัญหาเรื่องชิป"
-    }
-  ]
+  "reviews": []
 }
