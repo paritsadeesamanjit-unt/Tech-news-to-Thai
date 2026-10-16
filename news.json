@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-10-16T18:48:14.382728+00:00",
+  "generated_at": "2026-10-16T23:24:54.885721+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Replit is no longer working with Anthropic, CEO says",
+      "summary_en": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "published": "Fri, 16 Oct 2026 21:22:28 +0000",
+      "title_th": "Replit is no longer working with Anthropic, CEO says",
+      "summary_th": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "ev",
+      "title_en": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+      "summary_en": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/porsche-macan-turbo-front-three-quarter.jpeg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+      "published": "Fri, 16 Oct 2026 19:40:00 +0000",
+      "title_th": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+      "summary_th": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -39,28 +63,40 @@
       "summary_th": "The company will start off by testing its self-driving vehicles on Toronto's streets."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Elorian’s first AI model wants to reason with images, not just about them",
-      "summary_en": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/image-1.png?resize=1200,675",
-      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "published": "Fri, 16 Oct 2026 16:01:37 +0000",
-      "title_th": "Elorian’s first AI model wants to reason with images, not just about them",
-      "summary_th": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks."
+      "category": "software",
+      "title_en": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
+      "summary_en": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn't pull X or Grok from the App […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "published": "2026-10-16T18:51:22-04:00",
+      "title_th": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
+      "summary_th": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn't pull X or Grok from the App […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
-      "summary_en": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2066870225.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
-      "published": "Fri, 16 Oct 2026 16:00:00 +0000",
-      "title_th": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
-      "summary_th": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins."
+      "category": "ev",
+      "title_en": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "summary_en": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely operate their vehicles.\" Video released by CHP shows the Tesla speeding […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-16-at-4.42.00-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C93.077370564282&w=1200",
+      "link": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+      "published": "2026-10-16T16:49:04-04:00",
+      "title_th": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "summary_th": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely operate their vehicles.\" Video released by CHP shows the Tesla speeding […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Why Apple is finally making its own smart home devices",
+      "summary_en": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneider Electric. They arrive alongside HomeView, […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0432-1.jpeg?quality=90&strip=all&crop=0%2C13.682116815382%2C100%2C46.727917872554&w=1200",
+      "link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+      "published": "2026-10-16T14:30:27-04:00",
+      "title_th": "Why Apple is finally making its own smart home devices",
+      "summary_th": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneider Electric. They arrive alongside HomeView, […]"
     },
     {
       "source": "The Verge",
@@ -87,40 +123,16 @@
       "summary_th": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always connected to power, and looks like a perfect place to run a bunch of apps. And […]"
     },
     {
-      "source": "The Verge",
+      "source": "Ars Technica",
       "flag": "US",
       "category": "software",
-      "title_en": "A fake WhatsApp clone is showing up before the real version on the Play Store",
-      "summary_en": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version. As reported earlier by Android Authority, the WhatsApp dupe has racked up over 500,000 downloads and, at the time of writing, its […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK460_googlePlay_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android",
-      "published": "2026-10-16T11:02:23-04:00",
-      "title_th": "A fake WhatsApp clone is showing up before the real version on the Play Store",
-      "summary_th": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version. As reported earlier by Android Authority, the WhatsApp dupe has racked up over 500,000 downloads and, at the time of writing, its […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "summary_en": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-      "published": "2026-10-16T11:00:00-04:00",
-      "title_th": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "summary_th": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "ev",
-      "title_en": "The incredible flying Tesla Roadster is just for show",
-      "summary_en": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. That's what the people want, right? \"We were promised flying cars,\" sure, but isn't the operative word in that […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUuw-rwXoAAQf9r.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
-      "published": "2026-10-16T10:15:29-04:00",
-      "title_th": "The incredible flying Tesla Roadster is just for show",
-      "summary_th": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. That's what the people want, right? \"We were promised flying cars,\" sure, but isn't the operative word in that […]"
+      "title_en": "OpenAI models hacked a crypto wallet and breached more websites",
+      "summary_en": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg",
+      "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "published": "Fri, 16 Oct 2026 20:59:01 +0000",
+      "title_th": "OpenAI models hacked a crypto wallet and breached more websites",
+      "summary_th": "The actions could have resulted in criminal charges had humans been behind the keyboard."
     },
     {
       "source": "Ars Technica",
@@ -171,16 +183,16 @@
       "summary_th": "The reports of OpenAI agents harming third-party sites keep coming."
     },
     {
-      "source": "Ars Technica",
+      "source": "Wired",
       "flag": "US",
-      "category": "software",
-      "title_en": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-      "summary_en": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg",
-      "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
-      "published": "Mon, 05 Oct 2026 22:26:35 +0000",
-      "title_th": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-      "summary_th": "Trust gaps in the new protocol spread malicious prompts from one agent to another."
+      "category": "ai",
+      "title_en": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+      "summary_en": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
+      "image": "https://media.wired.com/photos/6ad24f19ed303ecbe8441980/master/pass/GettyImages-2299989251.jpg",
+      "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+      "published": "Fri, 16 Oct 2026 20:05:08 +0000",
+      "title_th": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+      "summary_th": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there."
     },
     {
       "source": "Wired",
@@ -231,16 +243,16 @@
       "summary_th": "Elon Musk has assembled a presidential-level field operation this midterm cycle, underscoring the extent to which he has taken over the get-out-the-vote effort for the Republican party."
     },
     {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
-      "category": "review",
-      "title_en": "Microsoft Surface Laptop Ultra Review: The First Real AI PC",
-      "summary_en": "The Surface Laptop Ultra is a true MacBook Pro competitor for Windows, and Microsoft has never been so close to dethroning Apple—if only it weren't for the lack of battery life.",
-      "image": "https://media.wired.com/photos/6ad13db2947d3d6c92ec6bb7/master/pass/Review%20Surface%20Laptop%20Ultra%20102026%20top%20art%20SOURCE%20BH%20Photo.jpg",
-      "link": "https://www.wired.com/review/microsoft-surface-laptop-ultra/",
-      "published": "Fri, 16 Oct 2026 13:00:00 +0000",
-      "title_th": "Microsoft Surface Laptop Ultra Review: The First Real AI PC",
-      "summary_th": "The Surface Laptop Ultra is a true MacBook Pro competitor for Windows, and Microsoft has never been so close to dethroning Apple—if only it weren't for the lack of battery life."
+      "category": "ai",
+      "title_en": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "summary_en": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "published": "Fri, 16 Oct 2026 18:00:00 +0000",
+      "title_th": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "summary_th": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch…"
     },
     {
       "source": "MIT Technology Review",
@@ -259,12 +271,12 @@
       "flag": "US",
       "category": "ai",
       "title_en": "This implant can restore sight for patients with macular degeneration",
-      "summary_en": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal implant with camera-­equipped eyeglasses to improve sight in patients…",
+      "summary_en": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal implant with camera-­equipped eyeglasses…",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/prima-implant-2026.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
       "published": "Fri, 16 Oct 2026 09:00:00 +0000",
       "title_th": "This implant can restore sight for patients with macular degeneration",
-      "summary_th": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal implant with camera-­equipped eyeglasses to improve sight in patients…"
+      "summary_th": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal implant with camera-­equipped eyeglasses…"
     },
     {
       "source": "MIT Technology Review",
@@ -291,16 +303,16 @@
       "summary_th": "I don’t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time she pooed in my baby sister’s cot. That’s about it. What I do vividly…"
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
-      "summary_en": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the country’s top court on human rights grounds. The UK aims to forbid kids under 16 from accessing Facebook, TikTok, and other platforms in early…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2250456863.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
-      "published": "Fri, 16 Oct 2026 07:56:32 +0000",
-      "title_th": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
-      "summary_th": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the country’s top court on human rights grounds. The UK aims to forbid kids under 16 from accessing Facebook, TikTok, and other platforms in early…"
+      "category": "ev",
+      "title_en": "A 'flying' Tesla Roadster sounds impossible, until you see what Lockheed Martin built decades ago",
+      "summary_en": "Thrusters are as good at flipping cars as they are at hunting ballistic missiles.",
+      "image": "https://www.engadget.com/img/gallery/flying-tesla-roadster-lockheed-martin-mokv-technology-comparison/l-intro-1792184255.jpg",
+      "link": "https://www.engadget.com/2289307/flying-tesla-roadster-lockheed-martin-mokv-technology-comparison/",
+      "published": "Fri, 16 Oct 2026 20:50:28 +0000",
+      "title_th": "A 'flying' Tesla Roadster sounds impossible, until you see what Lockheed Martin built decades ago",
+      "summary_th": "Thrusters are as good at flipping cars as they are at hunting ballistic missiles."
     },
     {
       "source": "Engadget",
@@ -349,18 +361,6 @@
       "published": "Fri, 16 Oct 2026 12:50:24 +0000",
       "title_th": "An OpenAI research agent 'stole' test Ethereum to finish a coding task",
       "summary_th": "An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Steam Achievement Sets will stop DLCs from ruining your 100 percent record",
-      "summary_en": "Steam has launched Achievement Sets in beta.",
-      "image": "https://www.engadget.com/img/gallery/steam-achievement-sets-will-stop-dlcs-from-ruining-your-100-percent-record/l-intro-1792151622.jpg",
-      "link": "https://www.engadget.com/2288624/steam-achievement-sets-protect-100-percent-record-from-dlcs/",
-      "published": "Fri, 16 Oct 2026 11:54:54 +0000",
-      "title_th": "Steam Achievement Sets will stop DLCs from ruining your 100 percent record",
-      "summary_th": "Steam has launched Achievement Sets in beta."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,61 +426,109 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "iOS 27.2 has three new changes just added this week",
-      "summary_en": "iOS 27.2 is launching soon for all users, but Apple keeps introducing new updates with each beta release. Here are three changes added to iOS 27.2 this week. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-2-apple-music-app-icon-new.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/16/ios-27-2-has-three-new-changes-just-added-this-week/",
-      "published": "Fri, 16 Oct 2026 17:45:58 +0000",
-      "title_th": "iOS 27.2 has three new changes just added this week",
-      "summary_th": "iOS 27.2 is launching soon for all users, but Apple keeps introducing new updates with each beta release. Here are three changes added to iOS 27.2 this week. more…"
+      "title_en": "Apple poaches longtime Meta executive to lead global litigation",
+      "summary_en": "Bloomberg reports that Apple has hired Scott Tucker, who spent nearly six years as Meta’s vice president and deputy general counsel for global litigation. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-logo-aluminum-shadow-fi.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/16/apple-poaches-longtime-meta-executive-to-lead-global-litigation/",
+      "published": "Fri, 16 Oct 2026 22:53:24 +0000",
+      "title_th": "Apple poaches longtime Meta executive to lead global litigation",
+      "summary_th": "Bloomberg reports that Apple has hired Scott Tucker, who spent nearly six years as Meta’s vice president and deputy general counsel for global litigation. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "review",
+      "title_en": "Apple’s new App Store rules crack down on AI nudification and ‘bait-and-switch’ apps",
+      "summary_en": "Apple updated its App Review Guidelines today with a series of changes meant to strengthen protections against harmful content and deceptive app review practices. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-developer-11.webp?resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/16/apples-new-app-store-rules-crack-down-on-ai-nudification-and-bait-and-switch-apps/",
+      "published": "Fri, 16 Oct 2026 22:17:07 +0000",
+      "title_th": "Apple’s new App Store rules crack down on AI nudification and ‘bait-and-switch’ apps",
+      "summary_th": "Apple updated its App Review Guidelines today with a series of changes meant to strengthen protections against harmful content and deceptive app review practices. Here are the details. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Here’s the difference the variable aperture of the iPhone 18 Pro makes at night",
-      "summary_en": "I previously tested the difference the wider aperture of the iPhone 18 Pro makes when it comes to depth of field . The executive summary is that the difference is small, but definitely present. I said at the time that I’d intended to test the difference it made to Night mode shots when an unmissable night video opportunity had me write about that instead. So belatedly, let me turn my attention to Night mode photos … more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iPhone-18-Pro-night-shot.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/16/heres-the-difference-the-variable-aperture-of-the-iphone-18-pro-makes-at-night/",
-      "published": "Fri, 16 Oct 2026 16:00:00 +0000",
-      "title_th": "Here’s the difference the variable aperture of the iPhone 18 Pro makes at night",
-      "summary_th": "I previously tested the difference the wider aperture of the iPhone 18 Pro makes when it comes to depth of field . The executive summary is that the difference is small, but definitely present. I said at the time that I’d intended to test the difference it made to Night mode shots when an unmissable night video opportunity had me write about that instead. So belatedly, let me turn my attention to Night mode photos … more…"
+      "title_en": "9to5Mac Daily: October 16, 2026 – iPhone Duo pre-orders, more",
+      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/16/daily-october-16-2026/",
+      "published": "Fri, 16 Oct 2026 21:56:25 +0000",
+      "title_th": "9to5Mac Daily: October 16, 2026 – iPhone Duo pre-orders, more",
+      "summary_th": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "HomePod is about to get free upgrade with these new features",
-      "summary_en": "Apple unveiled three new Home products this week: HomeView , HomePod mini 2 , and a new Apple TV 4K . While there’s no new full-size HomePod launching, Apple did announce three features coming to the existing HomePod 2 via a free software update. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/10/homepod-2-sale.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/16/homepod-is-about-to-get-free-upgrade-with-these-new-features/",
-      "published": "Fri, 16 Oct 2026 15:49:06 +0000",
-      "title_th": "HomePod is about to get free upgrade with these new features",
-      "summary_th": "Apple unveiled three new Home products this week: HomeView , HomePod mini 2 , and a new Apple TV 4K . While there’s no new full-size HomePod launching, Apple did announce three features coming to the existing HomePod 2 via a free software update. more…"
+      "title_en": "Apple calls iPhone Duo pre-order demand ‘extraordinary’ as shipping dates slip",
+      "summary_en": "Apple has issued a short statement following strong initial demand for the iPhone Duo, with shipping estimates already slipping into next year. Here’s what the company said. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-duo-event.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/16/apple-calls-iphone-duo-pre-order-demand-extraordinary-as-shipping-dates-slip/",
+      "published": "Fri, 16 Oct 2026 21:33:28 +0000",
+      "title_th": "Apple calls iPhone Duo pre-order demand ‘extraordinary’ as shipping dates slip",
+      "summary_th": "Apple has issued a short statement following strong initial demand for the iPhone Duo, with shipping estimates already slipping into next year. Here’s what the company said. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Deals: New Apple TV 4K first discount, HomeView, iPhone Duo trade offers, AirPods Pro 3, more",
-      "summary_en": "Joining the $50 price drop on AirPods Pro 3 to pair with your new Duo, we are now tracking the very first discount on the next-generation Apple TV 4K – Amazon will also ship it to you much faster than Apple can. Those offers join ongoing HomeView deals (you’ll want to get in there quick as they are starting to sell out), the best price in months on Apple’s 24GB/1TB M5 Pro MacBook Pro at $430 off, and what might be the only iPhone Duo pre-order deals you can still lock-in. Scope it all out below. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-iPhone-Duo-AirPods-Pro-3.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/16/deals-new-apple-tv-4k-homeview-iphone-duo-airpods/",
-      "published": "Fri, 16 Oct 2026 15:29:01 +0000",
-      "title_th": "Deals: New Apple TV 4K first discount, HomeView, iPhone Duo trade offers, AirPods Pro 3, more",
-      "summary_th": "Joining the $50 price drop on AirPods Pro 3 to pair with your new Duo, we are now tracking the very first discount on the next-generation Apple TV 4K – Amazon will also ship it to you much faster than Apple can. Those offers join ongoing HomeView deals (you’ll want to get in there quick as they are starting to sell out), the best price in months on Apple’s 24GB/1TB M5 Pro MacBook Pro at $430 off, and what might be the only iPhone Duo pre-order deals you can still lock-in. Scope it all out below. more…"
+      "title_en": "Report: Apple gains ground on rivals, but iPhone 18 Pro and iPhone Duo face challenges",
+      "summary_en": "In a new investor note sent out this week, GF Securities’ Jeff Pu and Henry Huang project that Apple will be the only major smartphone manufacturer to grow shipments in 2026, even as the global market is expected to shrink by more than 14%. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-color-lineup-official.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/16/report-apple-gains-ground-on-rivals-but-iphone-18-pro-and-iphone-duo-face-challenges/",
+      "published": "Fri, 16 Oct 2026 21:06:13 +0000",
+      "title_th": "Report: Apple gains ground on rivals, but iPhone 18 Pro and iPhone Duo face challenges",
+      "summary_th": "In a new investor note sent out this week, GF Securities’ Jeff Pu and Henry Huang project that Apple will be the only major smartphone manufacturer to grow shipments in 2026, even as the global market is expected to shrink by more than 14%. Here are the details. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
+      "flag": "",
+      "category": "review",
+      "title_en": "Pixelated 121: Is Googlebook the first real post-smartphone PC?",
+      "summary_en": "Welcome to Pixelated episode 121. This week, Abner, Damien, and Will dive deep into Google’s new laptop platform, Googlebook. From hardware impressions across review units to making sense of the earliest days of desktop Android, there’s a ton of ground to cover. What sort of future awaits Googlebook, and is it right for what you want out of a laptop? You’ll need to listen to find out. Enjoy the show? You can listen to our weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro for just $5 per month, or about $1 per episode. Sponsored by Proton Unlimited : Pixelated listeners can save 30% on an annual subscription to the company’s suite of privacy-friendly services by signing up using our link . Thanks to Proton Unlimited for sponsoring the podcast. Subscribe YouTub",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/10/16/pixelated-121-is-googlebook-the-first-real-post-smartphone-pc/",
+      "published": "Fri, 16 Oct 2026 21:00:00 +0000",
+      "title_th": "Pixelated 121: Is Googlebook the first real post-smartphone PC?",
+      "summary_th": "Welcome to Pixelated episode 121. This week, Abner, Damien, and Will dive deep into Google’s new laptop platform, Googlebook. From hardware impressions across review units to making sense of the earliest days of desktop Android, there’s a ton of ground to cover. What sort of future awaits Googlebook, and is it right for what you want out of a laptop? You’ll need to listen to find out. Enjoy the show? You can listen to our weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro for just $5 per month, or about $1 per episode. Sponsored by Proton Unlimited : Pixelated listeners can save 30% on an annual subscription to the company’s suite of privacy-friendly services by signing up using our link . Thanks to Proton Unlimited for sponsoring the podcast. Subscribe YouTub"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "review",
+      "title_en": "Android 17 QPR2 Beta 7.1 rolling out for Pixel",
+      "summary_en": "Google is rolling out Android 17 QPR2 Beta 7.1 today a week after the last preview for Pixel devices, which did not feature major user-facing changes. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/Android-17-logo-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/10/16/android-17-qpr2-beta-7-1-pixel/",
+      "published": "Fri, 16 Oct 2026 20:25:06 +0000",
+      "title_th": "Android 17 QPR2 Beta 7.1 rolling out for Pixel",
+      "summary_th": "Google is rolling out Android 17 QPR2 Beta 7.1 today a week after the last preview for Pixel devices, which did not feature major user-facing changes. more…"
+    },
+    {
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "iPhone Duo launch is a massive success, but Apple has a problem",
-      "summary_en": "iPhone Duo pre-orders opened today, but if you weren’t there right at the start, you likely now can’t get one before 2027 . That makes the iPhone Duo launch a massive success, but also reflects a missed opportunity for Apple. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-duo-introduction.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/16/iphone-duo-launch-is-a-massive-success-but-apple-has-a-problem/",
-      "published": "Fri, 16 Oct 2026 15:10:55 +0000",
-      "title_th": "iPhone Duo launch is a massive success, but Apple has a problem",
-      "summary_th": "iPhone Duo pre-orders opened today, but if you weren’t there right at the start, you likely now can’t get one before 2027 . That makes the iPhone Duo launch a massive success, but also reflects a missed opportunity for Apple. more…"
+      "title_en": "Google’s Universal Cart puts a shopping cart everywhere, including Search homepage, Chrome",
+      "summary_en": "Yesterday, Google started rolling out its Universal Cart, and the company is very prominently placing it in Search, AI Mode, Chrome, and the Gemini app. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-Universal-Cart-icon-2.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/10/16/google-universal-cart-shopping-icon/",
+      "published": "Fri, 16 Oct 2026 19:47:01 +0000",
+      "title_th": "Google’s Universal Cart puts a shopping cart everywhere, including Search homepage, Chrome",
+      "summary_th": "Yesterday, Google started rolling out its Universal Cart, and the company is very prominently placing it in Search, AI Mode, Chrome, and the Gemini app. more…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Friday’s Android app deals and freebies: Majesty, Boxville 2, Dungeon Defense, Mythic Trials 2, more",
+      "summary_en": "Friday’s best Google Play app and game deals are ready, including Majesty: The Fantasy Kingdom, Majesty－The Northern Expansion, Boxville 2, Dungeon Defense, Mythic Trials 2, Tempest: Pirate RPG Premium, The Tiny Bang Story: Premium, MiniChess by Kasparov, and more. Just be sure to dive into Nothing’s Glyph Matrix-equipped Phone (3) at up to $300 off and Best Buy’s 1-day Windows Copilot+ PC flash sale at up to $500 off . The apps await below. more…",
+      "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/10/Google-Play-collage-d25fd0.webp?resize=1200,628",
+      "link": "https://9to5toys.com/2026/10/16/todays-highlight-google-play-deals-30/",
+      "published": "Fri, 16 Oct 2026 18:57:23 +0000",
+      "title_th": "Friday’s Android app deals and freebies: Majesty, Boxville 2, Dungeon Defense, Mythic Trials 2, more",
+      "summary_th": "Friday’s best Google Play app and game deals are ready, including Majesty: The Fantasy Kingdom, Majesty－The Northern Expansion, Boxville 2, Dungeon Defense, Mythic Trials 2, Tempest: Pirate RPG Premium, The Tiny Bang Story: Premium, MiniChess by Kasparov, and more. Just be sure to dive into Nothing’s Glyph Matrix-equipped Phone (3) at up to $300 off and Best Buy’s 1-day Windows Copilot+ PC flash sale at up to $500 off . The apps await below. more…"
     },
     {
       "source": "9to5Google",
@@ -495,52 +543,40 @@
       "summary_th": "OpenAI this week announced deeper integration between ChatGPT and Google Chrome, including the ability to hand control over your tabs to the AI assistant. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Galaxy S26 Ultra is one of the ‘best inventions of 2026’ thanks to its Privacy Display",
-      "summary_en": "A new 2026 roundup has the Galaxy S26 Ultra included in a list of best inventions for the year, all thanks to what it doesn’t display. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Privacy-Screen-angled-Galaxy-S26-Ultra-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/10/16/galaxy-s26-ultra-privacy-display-gets-it-on-best-inventions-list/",
-      "published": "Fri, 16 Oct 2026 17:42:53 +0000",
-      "title_th": "Galaxy S26 Ultra is one of the ‘best inventions of 2026’ thanks to its Privacy Display",
-      "summary_th": "A new 2026 roundup has the Galaxy S26 Ultra included in a list of best inventions for the year, all thanks to what it doesn’t display. more…"
+      "category": "ev",
+      "title_en": "This Montréal airport now has 120 EV chargers, with 48 more on the way",
+      "summary_en": "Montréal Metropolitan Airport has 120 Wallbox EV chargers up and running, with 48 more planned as the airport continues to expand.",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/1024-Pulsar-Pro-EV-Charger.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/16/montreal-airport-120-ev-chargers-with-48-more-coming/",
+      "published": "Fri, 16 Oct 2026 20:42:51 +0000",
+      "title_th": "This Montréal airport now has 120 EV chargers, with 48 more on the way",
+      "summary_th": "Montréal Metropolitan Airport has 120 Wallbox EV chargers up and running, with 48 more planned as the airport continues to expand."
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Galaxy S27 reportedly skips Snapdragon 8 Elite Extreme Gen 6 due to overheating",
-      "summary_en": "According to a new report, Samsung’s Galaxy S27 series might not use the latest Snapdragon chipset due to overheating problems. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Snapdragon-8-Elite-Extreme-Gen-6.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/10/16/samsung-galaxy-s27-snapdragon-overheating-report/",
-      "published": "Fri, 16 Oct 2026 16:50:00 +0000",
-      "title_th": "Galaxy S27 reportedly skips Snapdragon 8 Elite Extreme Gen 6 due to overheating",
-      "summary_th": "According to a new report, Samsung’s Galaxy S27 series might not use the latest Snapdragon chipset due to overheating problems. more…"
+      "category": "ev",
+      "title_en": "Podcast: The Tesla Roadster episode",
+      "summary_en": "In the Electrek Podcast , we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we’ll focus on the Tesla Roadster unveiling, but we may also cover a few other topics. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Tesla-Roadster-kick-flips-through-the-air.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/16/podcast-the-tesla-roadster-episode/",
+      "published": "Fri, 16 Oct 2026 19:51:39 +0000",
+      "title_th": "Podcast: The Tesla Roadster episode",
+      "summary_th": "In the Electrek Podcast , we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we’ll focus on the Tesla Roadster unveiling, but we may also cover a few other topics. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "iPhone Duo orders are delayed into 2027; here are the Android foldables you should try instead",
-      "summary_en": "The iPhone Duo is already delayed for months just hours after pre-orders have opened, leaving those interested in foldables unable to get Apple’s take anytime soon. If you’re seriously interested in a foldable, though, may I interest you in some Android alternatives? more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/iphone-duo-10.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/10/16/iphone-duo-pre-order-delay-android-foldable-alternatives/",
-      "published": "Fri, 16 Oct 2026 16:10:00 +0000",
-      "title_th": "iPhone Duo orders are delayed into 2027; here are the Android foldables you should try instead",
-      "summary_th": "The iPhone Duo is already delayed for months just hours after pre-orders have opened, leaving those interested in foldables unable to get Apple’s take anytime soon. If you’re seriously interested in a foldable, though, may I interest you in some Android alternatives? more…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Nest’s Halloween doorbell chimes are live now through November 1",
-      "summary_en": "With Halloween just a couple of weeks away, it’s the perfect time to make sure you’re ready for trick-or-treaters. It’s not enough just to buy candy in bulk, of course; you’ll also need to make sure your home feels appropriately spooky, and with Nest’s annual Halloween doorbell chimes now available, the hardest part is already done for you. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/10/nest-doorbell-wired-2k-3.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/10/16/nests-halloween-doorbell-chimes-are-live-now-through-november-1/",
-      "published": "Fri, 16 Oct 2026 16:10:00 +0000",
-      "title_th": "Nest’s Halloween doorbell chimes are live now through November 1",
-      "summary_th": "With Halloween just a couple of weeks away, it’s the perfect time to make sure you’re ready for trick-or-treaters. It’s not enough just to buy candy in bulk, of course; you’ll also need to make sure your home feels appropriately spooky, and with Nest’s annual Halloween doorbell chimes now available, the hardest part is already done for you. more…"
+      "category": "ev",
+      "title_en": "Trouble: buyers would rather wait for Chinese EVs than buy Western ones",
+      "summary_en": "Canadian EV customers are delaying buying decisions while they wait for more Chinese EVs to reach their shores, according to a new survey, suggesting widespread awareness of China’s EV dominance is causing EV buyers to ignore Western automakers’ offerings entirely. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/07/lotus-canada.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/16/trouble-buyers-would-rather-wait-for-chinese-evs-than-buy-western-ones/",
+      "published": "Fri, 16 Oct 2026 19:26:48 +0000",
+      "title_th": "Trouble: buyers would rather wait for Chinese EVs than buy Western ones",
+      "summary_th": "Canadian EV customers are delaying buying decisions while they wait for more Chinese EVs to reach their shores, according to a new survey, suggesting widespread awareness of China’s EV dominance is causing EV buyers to ignore Western automakers’ offerings entirely. more…"
     },
     {
       "source": "Electrek",
@@ -565,42 +601,6 @@
       "published": "Fri, 16 Oct 2026 17:14:43 +0000",
       "title_th": "Tesla driver says he was asleep on FSD when he hit CHP car, 2 officers hurt",
       "summary_th": "Two California Highway Patrol officers are recovering from serious injuries after a Tesla drove into their patrol car at a crash scene on Interstate 80 in Fairfield. The 22-year-old driver told investigators he was asleep with Tesla’s “Full Self-Driving” engaged. CHP released dashcam video of the impact on Thursday. It’s the latest Tesla to plow into an emergency scene, a failure federal regulators started investigating five years ago. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Volkswagen is recalling ‘several thousand’ EVs, including the ID.4, and not just in the US",
-      "summary_en": "Volkswagen is set to recall “several thousand” electric vehicles, including the ID.4 and ID. Buzz. The company is urging owners to limit charging to 80% until a fix is available. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Volkswagen-recall-EVs-1.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/16/volkswagen-is-recalling-thousands-of-evs-including-the-id-4/",
-      "published": "Fri, 16 Oct 2026 17:06:03 +0000",
-      "title_th": "Volkswagen is recalling ‘several thousand’ EVs, including the ID.4, and not just in the US",
-      "summary_th": "Volkswagen is set to recall “several thousand” electric vehicles, including the ID.4 and ID. Buzz. The company is urging owners to limit charging to 80% until a fix is available. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Kia launches first-of-its-kind remote driving car-sharing service with the PV5 EV van",
-      "summary_en": "Kia launched a first-of-its-kind remote car-sharing program in Korea using the PV5 electric van. Kia is using the PV5 EV...",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Kia-PV5-remote-car-sharing.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/16/kia-launches-first-remote-driving-car-sharing-service-with-pv5/",
-      "published": "Fri, 16 Oct 2026 15:15:59 +0000",
-      "title_th": "Kia launches first-of-its-kind remote driving car-sharing service with the PV5 EV van",
-      "summary_th": "Kia launched a first-of-its-kind remote car-sharing program in Korea using the PV5 electric van. Kia is using the PV5 EV..."
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Solar panels are bringing idle cranberry bogs back to life",
-      "summary_en": "Two Massachusetts cranberry bogs that had stopped making financial sense to farm are growing berries again – with solar panels overhead helping pay the bills. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/DEI-cranberry-bog-solar-agrivoltaics.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/16/solar-panels-are-bringing-idle-cranberry-bogs-back-to-life/",
-      "published": "Fri, 16 Oct 2026 15:02:06 +0000",
-      "title_th": "Solar panels are bringing idle cranberry bogs back to life",
-      "summary_th": "Two Massachusetts cranberry bogs that had stopped making financial sense to farm are growing berries again – with solar panels overhead helping pay the bills. more…"
     }
   ],
   "indices": [
@@ -608,57 +608,57 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 214.88,
-      "change": -2.35,
-      "change_pct": -1.08
+      "price": 214.13,
+      "change": -3.1,
+      "change_pct": -1.43
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 351.02,
-      "change": -11.42,
-      "change_pct": -3.15
+      "price": 354.72,
+      "change": -7.72,
+      "change_pct": -2.13
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 340.13,
-      "change": -9.09,
-      "change_pct": -2.6
+      "price": 340.59,
+      "change": -8.63,
+      "change_pct": -2.47
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 526.28,
-      "change": -13.16,
-      "change_pct": -2.44
+      "price": 529.05,
+      "change": -10.39,
+      "change_pct": -1.93
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 341.21,
-      "change": -0.79,
-      "change_pct": -0.23
+      "price": 343.46,
+      "change": 1.46,
+      "change_pct": 0.43
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 249.01,
-      "change": -5.74,
-      "change_pct": -2.26
+      "price": 250.0,
+      "change": -4.76,
+      "change_pct": -1.87
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 706.28,
-      "change": -30.44,
-      "change_pct": -4.13
+      "price": 709.33,
+      "change": -27.39,
+      "change_pct": -3.72
     },
     {
       "symbol": "DELTA.BK",
@@ -733,6 +733,16 @@
     {
       "channel": "Beartai",
       "country": "TH",
+      "title_en": "ร็อกเกอร์ที่เริ่มจากระนาดเอก",
+      "video_id": "-iXC2VqF9Uk",
+      "link": "https://www.youtube.com/shorts/-iXC2VqF9Uk",
+      "thumbnail": "https://i2.ytimg.com/vi/-iXC2VqF9Uk/hqdefault.jpg",
+      "published": "2026-10-16T23:00:14+00:00",
+      "title_th": "ร็อกเกอร์ที่เริ่มจากระนาดเอก"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
       "title_en": "Bangkok Blueprint จะแก้ภัยการเงินได้อย่างไร? คุยกับ วิทัย รัตนากร ผู้ว่าฯ แบงก์ชาติ",
       "video_id": "Voz4ct_XfRM",
       "link": "https://www.youtube.com/watch?v=Voz4ct_XfRM",
@@ -749,16 +759,6 @@
       "thumbnail": "https://i2.ytimg.com/vi/QbaZJzCE88s/hqdefault.jpg",
       "published": "2026-10-15T23:00:23+00:00",
       "title_th": "อยากให้ลูกมีชีวิตเป็นของตนเอง"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "ศูนย์สิริกิติ์กับเวทีการเงินโลก ย้อนเส้นทางเจ้าภาพประชุม IMF–World Bank ถึง 2 ครั้ง",
-      "video_id": "0pfYA_AEz6Q",
-      "link": "https://www.youtube.com/watch?v=0pfYA_AEz6Q",
-      "thumbnail": "https://i1.ytimg.com/vi/0pfYA_AEz6Q/hqdefault.jpg",
-      "published": "2026-10-15T08:00:08+00:00",
-      "title_th": "ศูนย์สิริกิติ์กับเวทีการเงินโลก ย้อนเส้นทางเจ้าภาพประชุม IMF–World Bank ถึง 2 ครั้ง"
     },
     {
       "channel": "Droidsans",
