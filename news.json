@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-16T02:06:06.825219+00:00",
+  "generated_at": "2026-10-16T07:53:45.571616+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+      "summary_en": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Benchmark.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+      "published": "Fri, 16 Oct 2026 05:16:46 +0000",
+      "title_th": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+      "summary_th": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -51,24 +63,12 @@
       "summary_th": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products."
     },
     {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Meta launches an open-weight AI model that runs on Macs",
-      "summary_en": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
-      "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-      "published": "Thu, 15 Oct 2026 20:04:53 +0000",
-      "title_th": "Meta launches an open-weight AI model that runs on Macs",
-      "summary_th": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon."
-    },
-    {
       "source": "The Verge",
       "flag": "US",
       "category": "ev",
       "title_en": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
       "summary_en": "Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and accelerated to 60mph in under a second. It was an impressive demonstration of a car that likely will come with some […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUtthGyaMAEkD-g.jpeg?quality=90&strip=all&crop=1.7172636523782%2C0%2C96.565472695244%2C100&w=1200",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Roadster_94.jpg?quality=90&strip=all&crop=0%2C5.1234106207928%2C100%2C89.753178758414&w=1200",
       "link": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
       "published": "2026-10-15T21:28:27-04:00",
       "title_th": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
@@ -185,6 +185,42 @@
     {
       "source": "Wired",
       "flag": "US",
+      "category": "ai",
+      "title_en": "Skechers Coupon Codes 20% Off",
+      "summary_en": "Learn how to find, compare, and apply the best Skechers online discounts to save on comfortable sneakers, athletic apparel, and accessories.",
+      "image": "https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png",
+      "link": "https://www.wired.com/story/skechers-coupon-codes/",
+      "published": "Fri, 16 Oct 2026 05:00:00 +0000",
+      "title_th": "Skechers Coupon Codes 20% Off",
+      "summary_th": "Learn how to find, compare, and apply the best Skechers online discounts to save on comfortable sneakers, athletic apparel, and accessories."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "HP Coupon Codes and Deals October 2026",
+      "summary_en": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
+      "image": "https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png",
+      "link": "https://www.wired.com/story/hp-coupon-code/",
+      "published": "Fri, 16 Oct 2026 05:00:00 +0000",
+      "title_th": "HP Coupon Codes and Deals October 2026",
+      "summary_th": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ev",
+      "title_en": "A Tesla Flying Car? I Don’t Know, Man",
+      "summary_en": "The Federal Aviation Administration will likely have thoughts about the Tesla Roadster 2’s ability to leave the ground.",
+      "image": "https://media.wired.com/photos/6ad1968199a5946045809beb/master/pass/Flying-Tesla-Gear.jpg",
+      "link": "https://www.wired.com/story/tesla-flying-car-faa/",
+      "published": "Fri, 16 Oct 2026 03:18:30 +0000",
+      "title_th": "A Tesla Flying Car? I Don’t Know, Man",
+      "summary_th": "The Federal Aviation Administration will likely have thoughts about the Tesla Roadster 2’s ability to leave the ground."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
       "category": "ev",
       "title_en": "The Tesla Roadster 2 Is Here—and It Flies",
       "summary_en": "The automaker unveiled its next luxury sports car at an event in Texas. It has thrusters on it that can send it airborne.",
@@ -205,42 +241,6 @@
       "published": "Thu, 15 Oct 2026 21:18:15 +0000",
       "title_th": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
       "summary_th": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
-      "summary_en": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
-      "image": "https://media.wired.com/photos/6ad00a8917414371d605a797/master/pass/Model-Behavior-Cybersecurity-Experts-Discuss-AI-Threats-Business.jpg",
-      "link": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
-      "published": "Thu, 15 Oct 2026 21:00:28 +0000",
-      "title_th": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
-      "summary_th": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Upgrade Your Thermostat for Winter With This Ecobee Deal for $120",
-      "summary_en": "You don’t need the fanciest model to make your heating routine smarter. A refurbished Ecobee we love is just $120 through October 21.",
-      "image": "https://media.wired.com/photos/6ad12208409b08718ac6feae/master/pass/Ecobee3%20Lite%20top%20art%20SOURCE%20Ecobee.jpg",
-      "link": "https://www.wired.com/story/ecobee-fall-sale-2026/",
-      "published": "Thu, 15 Oct 2026 19:00:49 +0000",
-      "title_th": "Upgrade Your Thermostat for Winter With This Ecobee Deal for $120",
-      "summary_th": "You don’t need the fanciest model to make your heating routine smarter. A refurbished Ecobee we love is just $120 through October 21."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "review",
-      "title_en": "Junji Ito’s Manga Horrors Hit Harder as Live-Action TV",
-      "summary_en": "The artist’s macabre short works have been adapted into eerily freaky 30-minute bites for television. We got a sneak preview of the next episode airing on HBO Max.",
-      "image": "https://media.wired.com/photos/6acec4974eea6509d95be967/master/pass/Junji-Ito-Manga-Horrors-Culture-2276601648.jpg",
-      "link": "https://www.wired.com/story/new-york-comic-con-panel-2/",
-      "published": "Thu, 15 Oct 2026 13:30:00 +0000",
-      "title_th": "Junji Ito’s Manga Horrors Hit Harder as Live-Action TV",
-      "summary_th": "The artist’s macabre short works have been adapted into eerily freaky 30-minute bites for television. We got a sneak preview of the next episode airing on HBO Max."
     },
     {
       "source": "MIT Technology Review",
@@ -305,6 +305,30 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "ev",
+      "title_en": "Relive Tesla's ridiculous(ly fun) Roadster stunt show",
+      "summary_en": "Tesla's Roadster event was pretty exciting, to say the least.",
+      "image": "https://www.engadget.com/img/gallery/relive-teslas-ridiculously-fun-roadster-stunt-show/l-intro-1792117283.jpg",
+      "link": "https://www.engadget.com/2288448/relive-tesla-ridiculously-fun-roadster-stunt-show/",
+      "published": "Fri, 16 Oct 2026 02:24:52 +0000",
+      "title_th": "Relive Tesla's ridiculous(ly fun) Roadster stunt show",
+      "summary_th": "Tesla's Roadster event was pretty exciting, to say the least."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "ev",
+      "title_en": "Tesla's redesigned Roadster has a cold-gas thruster option, but you'll need $250,000 just to reserve it",
+      "summary_en": "Tesla has finally unveiled the next-generation Roadster.",
+      "image": "https://www.engadget.com/img/gallery/teslas-redesigned-roadster-cold-gas-thruster-option-reservation/l-intro-1792115458.jpg",
+      "link": "https://www.engadget.com/2288437/teslas-redesigned-roadster-cold-gas-thruster-option-reservation/",
+      "published": "Fri, 16 Oct 2026 01:48:05 +0000",
+      "title_th": "Tesla's redesigned Roadster has a cold-gas thruster option, but you'll need $250,000 just to reserve it",
+      "summary_th": "Tesla has finally unveiled the next-generation Roadster."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "chip",
       "title_en": "Withings wants new users to pay $100 a year to sync with Apple Health",
       "summary_en": "The smart health company is gating third-party app syncing to its own subscription plan for new users.",
@@ -337,30 +361,6 @@
       "published": "Thu, 15 Oct 2026 19:28:53 +0000",
       "title_th": "FTC subpoenas OpenAI and Anthropic following safety failures",
       "summary_th": "The FTC is investigating possible consumer harms at two major AI companies."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "E Ink's new Kaleido 4 could inch us closer to the perfect color e-reader",
-      "summary_en": "E Ink's new display tech offers improved color reproduction and refresh rates.",
-      "image": "https://www.engadget.com/img/gallery/e-inks-new-kaleido-4-could-inch-us-closer-to-the-perfect-color-e-reader/l-intro-1792089646.jpg",
-      "link": "https://www.engadget.com/2288006/e-ink-kaleido-4-could-inch-us-closer-to-the-perfect-color-e-reader/",
-      "published": "Thu, 15 Oct 2026 18:41:58 +0000",
-      "title_th": "E Ink's new Kaleido 4 could inch us closer to the perfect color e-reader",
-      "summary_th": "E Ink's new display tech offers improved color reproduction and refresh rates."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Riot will sunset League of Legends Classic in January 2027",
-      "summary_en": "The throwback League of Legends Classic mode may reappear as a limited-time event in the future.",
-      "image": "https://www.engadget.com/img/gallery/riot-will-sunset-league-of-legends-classic-in-january-2027/l-intro-1792088892.jpg",
-      "link": "https://www.engadget.com/2287985/riot-will-sunset-league-of-legends-classic-in-january-2027/",
-      "published": "Thu, 15 Oct 2026 18:30:08 +0000",
-      "title_th": "Riot will sunset League of Legends Classic in January 2027",
-      "summary_th": "The throwback League of Legends Classic mode may reappear as a limited-time event in the future."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,12 +426,24 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "‘Tenzing’ premieres on Apple TV, starring Tom Hiddleston and Willem Dafoe",
+      "title_en": "Apple Store is down ahead of iPhone Duo preorder rush",
+      "summary_en": "In keeping with tradition, Apple has taken down the Apple Store this morning ahead of the iPhone Duo going up for preorder. If you are waiting to buy the new Apple foldable, be sure to log on at 5 AM Eastern Time. All reports point to constrained supply and relatively high demand, so everyone is anticipating that Apple will run out of launch day stock very quickly indeed. If you want a Duo for launch day, on October 23, you need to be ready to buy at 5 AM. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-preorders.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/16/apple-store-is-down-ahead-of-iphone-duo-preorder-rush/",
+      "published": "Fri, 16 Oct 2026 07:02:48 +0000",
+      "title_th": "Apple Store is down ahead of iPhone Duo preorder rush",
+      "summary_th": "In keeping with tradition, Apple has taken down the Apple Store this morning ahead of the iPhone Duo going up for preorder. If you are waiting to buy the new Apple foldable, be sure to log on at 5 AM Eastern Time. All reports point to constrained supply and relatively high demand, so everyone is anticipating that Apple will run out of launch day stock very quickly indeed. If you want a Duo for launch day, on October 23, you need to be ready to buy at 5 AM. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "‘Tenzing’ premieres on Apple TV, starring Genden Phuntsok, Tom Hiddleston and Willem Dafoe",
       "summary_en": "The newest Apple Original Films feature, “ Tenzing ,” is now available to Apple TV subscribers. Watch the trailer below. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/tenzing-leads.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/10/15/tenzing-premieres-on-apple-tv-starring-tom-hiddleston-and-willem-dafoe/",
       "published": "Fri, 16 Oct 2026 01:00:14 +0000",
-      "title_th": "‘Tenzing’ premieres on Apple TV, starring Tom Hiddleston and Willem Dafoe",
+      "title_th": "‘Tenzing’ premieres on Apple TV, starring Genden Phuntsok, Tom Hiddleston and Willem Dafoe",
       "summary_th": "The newest Apple Original Films feature, “ Tenzing ,” is now available to Apple TV subscribers. Watch the trailer below. more…"
     },
     {
@@ -469,18 +481,6 @@
       "published": "Thu, 15 Oct 2026 21:25:15 +0000",
       "title_th": "9to5Mac Daily: October 15, 2026 – OpenAI vs Apple, iPhone Duo details",
       "summary_th": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "WaPo: Apple revealed as one of the top donors to Trump’s White House ballroom",
-      "summary_en": "A new investigation by The Washington Post reveals that Apple and Nvidia each pledged $25 million toward Trump’s new White House ballroom, making them two of the project’s largest donors. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-generates-2.4-million-per-employee-but-is-only-third-in-the-ranking.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/15/wapo-apple-revealed-as-one-of-the-top-donors-to-trumps-white-house-ballroom/",
-      "published": "Thu, 15 Oct 2026 21:22:49 +0000",
-      "title_th": "WaPo: Apple revealed as one of the top donors to Trump’s White House ballroom",
-      "summary_th": "A new investigation by The Washington Post reveals that Apple and Nvidia each pledged $25 million toward Trump’s new White House ballroom, making them two of the project’s largest donors. Here are the details. more…"
     },
     {
       "source": "9to5Google",
@@ -546,6 +546,18 @@
       "source": "Electrek",
       "flag": "",
       "category": "ev",
+      "title_en": "Are Tesla’s claims for its new ‘flying’ Roadster real, or is it just full of cold gas?",
+      "summary_en": "Tesla has finally re-unveiled its next-generation Roadster , originally unveiled in quite different form back in 2017. So since I did a technical breakdown of how it would work last time, I thought I’d give a quick update with what we know about the new version. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Screenshot-2026-10-15-at-8.59.16-PM-e1792123240916.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/15/an-updated-technical-look-at-teslas-kick-flipping-0-60-in-1s-next-gen-roadster/",
+      "published": "Fri, 16 Oct 2026 03:36:34 +0000",
+      "title_th": "Are Tesla’s claims for its new ‘flying’ Roadster real, or is it just full of cold gas?",
+      "summary_th": "Tesla has finally re-unveiled its next-generation Roadster , originally unveiled in quite different form back in 2017. So since I did a technical breakdown of how it would work last time, I thought I’d give a quick update with what we know about the new version. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
       "title_en": "Tesla unveils Cyberfied new Roadster that can kickflip",
       "summary_en": "Tesla has unveiled a new version of its next-generation Roadster. As expected, it received Tesla’s latest design “cyberfication” and cold-gas thrusters to allow it to jump and flip through the air. The livestream featured impressive stunts but offered few details. Tesla released more information on X after the event, but there’s still no price and no production date. more…",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Tesla-Roadster-kick-flips-through-the-air.jpeg?quality=82&strip=all&resize=1200,628",
@@ -589,18 +601,6 @@
       "published": "Thu, 15 Oct 2026 21:26:12 +0000",
       "title_th": "Company that put gas engines in Teslas goes bankrupt owing $37 million",
       "summary_th": "Obrist, the Austrian engineering firm famous for ripping battery cells out of a Tesla Model 3 and bolting a gas engine into the frunk, is bankrupt. Three companies in the Obrist Group are insolvent with combined debts of about €31.8 million, or roughly $37 million. The company spent over a decade pitching its “HyperHybrid” range extender as the smarter alternative to battery-electric cars. It never got a single production vehicle out of it. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Rivian limits point-to-point driving to invite-only testers under NDA",
-      "summary_en": "Rivian’s point-to-point driving feature will first reach owners through an invitation-only “Autonomy Early Access Program,” and the owners it picks will have to sign a non-disclosure agreement to get in. The program, laid out on a new Rivian support page , covers US R1 Gen 2 and R2 owners who pay for Autonomy+. Rivian says point-to-point launches to that group in late 2026 and won’t expand broadly until 2027. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2025/12/Rivian-autonomy-R2D2-side.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/15/rivian-point-to-point-early-access-program-nda/",
-      "published": "Thu, 15 Oct 2026 18:42:28 +0000",
-      "title_th": "Rivian limits point-to-point driving to invite-only testers under NDA",
-      "summary_th": "Rivian’s point-to-point driving feature will first reach owners through an invitation-only “Autonomy Early Access Program,” and the owners it picks will have to sign a non-disclosure agreement to get in. The program, laid out on a new Rivian support page , covers US R1 Gen 2 and R2 owners who pay for Autonomy+. Rivian says point-to-point launches to that group in late 2026 and won’t expand broadly until 2027. more…"
     }
   ],
   "indices": [
@@ -669,5 +669,126 @@
       "change_pct": -3.46
     }
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Apple Homeview Impressions: Not Convinced!",
+      "video_id": "QVv3mQzlrN0",
+      "link": "https://www.youtube.com/watch?v=QVv3mQzlrN0",
+      "thumbnail": "https://i2.ytimg.com/vi/QVv3mQzlrN0/hqdefault.jpg",
+      "published": "2026-10-13T22:42:38+00:00",
+      "title_th": "Apple Homeview Impressions: Not Convinced!"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "WTF is a Googlebook?",
+      "video_id": "_0G4OG39XjI",
+      "link": "https://www.youtube.com/watch?v=_0G4OG39XjI",
+      "thumbnail": "https://i4.ytimg.com/vi/_0G4OG39XjI/hqdefault.jpg",
+      "published": "2026-10-08T21:00:40+00:00",
+      "title_th": "WTF is a Googlebook?"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Xiaomi 18 Fold: How Does This Happen?",
+      "video_id": "3iRUwVzRDZQ",
+      "link": "https://www.youtube.com/watch?v=3iRUwVzRDZQ",
+      "thumbnail": "https://i4.ytimg.com/vi/3iRUwVzRDZQ/hqdefault.jpg",
+      "published": "2026-10-02T20:50:25+00:00",
+      "title_th": "Xiaomi 18 Fold: How Does This Happen?"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "The best sleep tech is finally made for one person...",
+      "video_id": "dWUkvk0Dsc0",
+      "link": "https://www.youtube.com/shorts/dWUkvk0Dsc0",
+      "thumbnail": "https://i1.ytimg.com/vi/dWUkvk0Dsc0/hqdefault.jpg",
+      "published": "2026-10-15T15:01:50+00:00",
+      "title_th": "The best sleep tech is finally made for one person..."
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "The Ultimate All-In-One Workstation",
+      "video_id": "6NLHltCsTsQ",
+      "link": "https://www.youtube.com/watch?v=6NLHltCsTsQ",
+      "thumbnail": "https://i3.ytimg.com/vi/6NLHltCsTsQ/hqdefault.jpg",
+      "published": "2026-10-08T17:36:19+00:00",
+      "title_th": "The Ultimate All-In-One Workstation"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "It Remembers Everything...",
+      "video_id": "lrKjRRtoPG0",
+      "link": "https://www.youtube.com/shorts/lrKjRRtoPG0",
+      "thumbnail": "https://i1.ytimg.com/vi/lrKjRRtoPG0/hqdefault.jpg",
+      "published": "2026-10-05T14:46:34+00:00",
+      "title_th": "It Remembers Everything..."
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "อยากให้ลูกมีชีวิตเป็นของตนเอง",
+      "video_id": "QbaZJzCE88s",
+      "link": "https://www.youtube.com/shorts/QbaZJzCE88s",
+      "thumbnail": "https://i2.ytimg.com/vi/QbaZJzCE88s/hqdefault.jpg",
+      "published": "2026-10-15T23:00:23+00:00",
+      "title_th": "อยากให้ลูกมีชีวิตเป็นของตนเอง"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "ศูนย์สิริกิติ์กับเวทีการเงินโลก ย้อนเส้นทางเจ้าภาพประชุม IMF–World Bank ถึง 2 ครั้ง",
+      "video_id": "0pfYA_AEz6Q",
+      "link": "https://www.youtube.com/watch?v=0pfYA_AEz6Q",
+      "thumbnail": "https://i1.ytimg.com/vi/0pfYA_AEz6Q/hqdefault.jpg",
+      "published": "2026-10-15T08:00:08+00:00",
+      "title_th": "ศูนย์สิริกิติ์กับเวทีการเงินโลก ย้อนเส้นทางเจ้าภาพประชุม IMF–World Bank ถึง 2 ครั้ง"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "อนาคตคนทำงานจะเปลี่ยนไปแค่ไหน ?",
+      "video_id": "PM1vaG24KwA",
+      "link": "https://www.youtube.com/shorts/PM1vaG24KwA",
+      "thumbnail": "https://i1.ytimg.com/vi/PM1vaG24KwA/hqdefault.jpg",
+      "published": "2026-10-15T07:25:08+00:00",
+      "title_th": "อนาคตคนทำงานจะเปลี่ยนไปแค่ไหน ?"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "ประชันกล้อง Pro Max ทุกรุ่น (มี Ultra ด้วย) | iPhone, Samsung, vivo, OPPO, Xiaomi",
+      "video_id": "pK7IKMwJG2w",
+      "link": "https://www.youtube.com/watch?v=pK7IKMwJG2w",
+      "thumbnail": "https://i1.ytimg.com/vi/pK7IKMwJG2w/hqdefault.jpg",
+      "published": "2026-10-13T11:00:31+00:00",
+      "title_th": "ประชันกล้อง Pro Max ทุกรุ่น (มี Ultra ด้วย) | iPhone, Samsung, vivo, OPPO, Xiaomi"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "มือถือมีจอหลังเครื่อง Xiaomi 18 Pro Max เครื่องจีน รอหน่อยเดี๋ยวมาขายไทยแล้ว #Xiaomi #Xiaomi18ProMax",
+      "video_id": "upE9VuJS7Z8",
+      "link": "https://www.youtube.com/shorts/upE9VuJS7Z8",
+      "thumbnail": "https://i2.ytimg.com/vi/upE9VuJS7Z8/hqdefault.jpg",
+      "published": "2026-10-11T14:15:33+00:00",
+      "title_th": "มือถือมีจอหลังเครื่อง Xiaomi 18 Pro Max เครื่องจีน รอหน่อยเดี๋ยวมาขายไทยแล้ว #Xiaomi #Xiaomi18ProMax"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "อัพเดตมือถือใหม่ๆเข้าไทยช่วงนี้/ ใกล้แล้ว iPad mini OLED / เรือธง Pro Max เริ่มมีปัญหาเรื่องชิป",
+      "video_id": "87XInM1WIzs",
+      "link": "https://www.youtube.com/watch?v=87XInM1WIzs",
+      "thumbnail": "https://i1.ytimg.com/vi/87XInM1WIzs/hqdefault.jpg",
+      "published": "2026-10-10T13:21:42+00:00",
+      "title_th": "อัพเดตมือถือใหม่ๆเข้าไทยช่วงนี้/ ใกล้แล้ว iPad mini OLED / เรือธง Pro Max เริ่มมีปัญหาเรื่องชิป"
+    }
+  ]
 }
