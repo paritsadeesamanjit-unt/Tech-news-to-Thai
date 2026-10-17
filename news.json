@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-17T02:01:38.224962+00:00",
+  "generated_at": "2026-10-17T07:33:35.089068+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+      "summary_en": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Mark-Wahlberg.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+      "published": "Sat, 17 Oct 2026 02:36:18 +0000",
+      "title_th": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+      "summary_th": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -49,18 +61,6 @@
       "published": "Fri, 16 Oct 2026 16:30:00 +0000",
       "title_th": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
       "summary_th": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Waymo’s robotaxis are headed to Canada",
-      "summary_en": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?resize=1200,675",
-      "link": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
-      "published": "Fri, 16 Oct 2026 16:06:38 +0000",
-      "title_th": "Waymo’s robotaxis are headed to Canada",
-      "summary_th": "The company will start off by testing its self-driving vehicles on Toronto's streets."
     },
     {
       "source": "The Verge",
@@ -306,6 +306,18 @@
       "source": "Engadget",
       "flag": "US",
       "category": "ev",
+      "title_en": "The Tesla Roadster should go into production in 2028, but don't get your hopes up",
+      "summary_en": "I drive upside down on the boulevard of broken dreams.",
+      "image": "https://www.engadget.com/img/gallery/the-tesla-roadster-should-go-into-production-in-2028-but-dont-get-your-hopes-up/l-intro-1792201617.jpg",
+      "link": "https://www.engadget.com/2289475/tesla-roadster-2028-production-dont-get-hopes-up/",
+      "published": "Sat, 17 Oct 2026 01:50:50 +0000",
+      "title_th": "The Tesla Roadster should go into production in 2028, but don't get your hopes up",
+      "summary_th": "I drive upside down on the boulevard of broken dreams."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "ev",
       "title_en": "A 'flying' Tesla Roadster sounds impossible, until you see what Lockheed Martin built decades ago",
       "summary_en": "Thrusters are as good at flipping cars as they are at hunting ballistic missiles.",
       "image": "https://www.engadget.com/img/gallery/flying-tesla-roadster-lockheed-martin-mokv-technology-comparison/l-intro-1792184255.jpg",
@@ -349,18 +361,6 @@
       "published": "Fri, 16 Oct 2026 13:00:00 +0000",
       "title_th": "Technics EAH-A1000 review: Superior sound and excellent ANC in a premium package",
       "summary_th": "Technics' flagship over-ear wireless headphones are light on compromises, but enter a competitive market."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "An OpenAI research agent 'stole' test Ethereum to finish a coding task",
-      "summary_en": "An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens.",
-      "image": "https://www.engadget.com/img/gallery/an-openai-research-agent-stole-test-ethereum-to-finish-a-coding-task/l-intro-1792154835.jpg",
-      "link": "https://www.engadget.com/2288645/an-openai-test-agent-stole-test-ethereum-to-finish-a-coding-task/",
-      "published": "Fri, 16 Oct 2026 12:50:24 +0000",
-      "title_th": "An OpenAI research agent 'stole' test Ethereum to finish a coding task",
-      "summary_th": "An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens."
     },
     {
       "source": "IEEE Spectrum",
@@ -673,6 +673,16 @@
     {
       "channel": "MKBHD",
       "country": "US",
+      "title_en": "The NEW Tesla Roadster: My Honest Reaction",
+      "video_id": "scwlR0QHGOk",
+      "link": "https://www.youtube.com/watch?v=scwlR0QHGOk",
+      "thumbnail": "https://i4.ytimg.com/vi/scwlR0QHGOk/hqdefault.jpg",
+      "published": "2026-10-17T02:09:23+00:00",
+      "title_th": "The NEW Tesla Roadster: My Honest Reaction"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
       "title_en": "Apple Homeview Impressions: Not Convinced!",
       "video_id": "QVv3mQzlrN0",
       "link": "https://www.youtube.com/watch?v=QVv3mQzlrN0",
@@ -691,14 +701,94 @@
       "title_th": "WTF is a Googlebook?"
     },
     {
-      "channel": "MKBHD",
+      "channel": "Unbox Therapy",
       "country": "US",
-      "title_en": "Xiaomi 18 Fold: How Does This Happen?",
-      "video_id": "3iRUwVzRDZQ",
-      "link": "https://www.youtube.com/watch?v=3iRUwVzRDZQ",
-      "thumbnail": "https://i4.ytimg.com/vi/3iRUwVzRDZQ/hqdefault.jpg",
-      "published": "2026-10-02T20:50:25+00:00",
-      "title_th": "Xiaomi 18 Fold: How Does This Happen?"
+      "title_en": "Xiaomi 18 Pro Max Unboxing: The REAL Pro Max?",
+      "video_id": "LiQGoDnv2EQ",
+      "link": "https://www.youtube.com/watch?v=LiQGoDnv2EQ",
+      "thumbnail": "https://i1.ytimg.com/vi/LiQGoDnv2EQ/hqdefault.jpg",
+      "published": "2026-10-16T15:26:17+00:00",
+      "title_th": "Xiaomi 18 Pro Max Unboxing: The REAL Pro Max?"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Made for One Person...",
+      "video_id": "dWUkvk0Dsc0",
+      "link": "https://www.youtube.com/shorts/dWUkvk0Dsc0",
+      "thumbnail": "https://i1.ytimg.com/vi/dWUkvk0Dsc0/hqdefault.jpg",
+      "published": "2026-10-15T15:01:50+00:00",
+      "title_th": "Made for One Person..."
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "The Ultimate All-In-One Workstation",
+      "video_id": "6NLHltCsTsQ",
+      "link": "https://www.youtube.com/watch?v=6NLHltCsTsQ",
+      "thumbnail": "https://i3.ytimg.com/vi/6NLHltCsTsQ/hqdefault.jpg",
+      "published": "2026-10-08T17:36:19+00:00",
+      "title_th": "The Ultimate All-In-One Workstation"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "ร็อกเกอร์ที่เริ่มจากระนาดเอก",
+      "video_id": "-iXC2VqF9Uk",
+      "link": "https://www.youtube.com/shorts/-iXC2VqF9Uk",
+      "thumbnail": "https://i2.ytimg.com/vi/-iXC2VqF9Uk/hqdefault.jpg",
+      "published": "2026-10-16T23:00:14+00:00",
+      "title_th": "ร็อกเกอร์ที่เริ่มจากระนาดเอก"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "Bangkok Blueprint จะแก้ภัยการเงินได้อย่างไร? คุยกับ วิทัย รัตนากร ผู้ว่าฯ แบงก์ชาติ",
+      "video_id": "Voz4ct_XfRM",
+      "link": "https://www.youtube.com/watch?v=Voz4ct_XfRM",
+      "thumbnail": "https://i3.ytimg.com/vi/Voz4ct_XfRM/hqdefault.jpg",
+      "published": "2026-10-16T13:08:18+00:00",
+      "title_th": "Bangkok Blueprint จะแก้ภัยการเงินได้อย่างไร? คุยกับ วิทัย รัตนากร ผู้ว่าฯ แบงก์ชาติ"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "อยากให้ลูกมีชีวิตเป็นของตนเอง",
+      "video_id": "QbaZJzCE88s",
+      "link": "https://www.youtube.com/shorts/QbaZJzCE88s",
+      "thumbnail": "https://i2.ytimg.com/vi/QbaZJzCE88s/hqdefault.jpg",
+      "published": "2026-10-15T23:00:23+00:00",
+      "title_th": "อยากให้ลูกมีชีวิตเป็นของตนเอง"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "ประชันกล้อง Pro Max ทุกรุ่น (มี Ultra ด้วย) | iPhone, Samsung, vivo, OPPO, Xiaomi",
+      "video_id": "pK7IKMwJG2w",
+      "link": "https://www.youtube.com/watch?v=pK7IKMwJG2w",
+      "thumbnail": "https://i1.ytimg.com/vi/pK7IKMwJG2w/hqdefault.jpg",
+      "published": "2026-10-13T11:00:31+00:00",
+      "title_th": "ประชันกล้อง Pro Max ทุกรุ่น (มี Ultra ด้วย) | iPhone, Samsung, vivo, OPPO, Xiaomi"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "มือถือมีจอหลังเครื่อง Xiaomi 18 Pro Max เครื่องจีน รอหน่อยเดี๋ยวมาขายไทยแล้ว #Xiaomi #Xiaomi18ProMax",
+      "video_id": "upE9VuJS7Z8",
+      "link": "https://www.youtube.com/shorts/upE9VuJS7Z8",
+      "thumbnail": "https://i2.ytimg.com/vi/upE9VuJS7Z8/hqdefault.jpg",
+      "published": "2026-10-11T14:15:33+00:00",
+      "title_th": "มือถือมีจอหลังเครื่อง Xiaomi 18 Pro Max เครื่องจีน รอหน่อยเดี๋ยวมาขายไทยแล้ว #Xiaomi #Xiaomi18ProMax"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "อัพเดตมือถือใหม่ๆเข้าไทยช่วงนี้/ ใกล้แล้ว iPad mini OLED / เรือธง Pro Max เริ่มมีปัญหาเรื่องชิป",
+      "video_id": "87XInM1WIzs",
+      "link": "https://www.youtube.com/watch?v=87XInM1WIzs",
+      "thumbnail": "https://i1.ytimg.com/vi/87XInM1WIzs/hqdefault.jpg",
+      "published": "2026-10-10T13:21:42+00:00",
+      "title_th": "อัพเดตมือถือใหม่ๆเข้าไทยช่วงนี้/ ใกล้แล้ว iPad mini OLED / เรือธง Pro Max เริ่มมีปัญหาเรื่องชิป"
     }
   ]
 }
