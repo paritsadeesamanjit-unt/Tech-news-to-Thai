@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-17T17:54:18.080930+00:00",
+  "generated_at": "2026-10-17T20:04:40.316993+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Replit is no longer working with Anthropic, CEO says",
+      "summary_en": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "published": "Sat, 17 Oct 2026 18:48:08 +0000",
+      "title_th": "Replit is no longer working with Anthropic, CEO says",
+      "summary_th": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -25,18 +37,6 @@
       "published": "Sat, 17 Oct 2026 02:36:18 +0000",
       "title_th": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
       "summary_th": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Replit is no longer working with Anthropic, CEO says",
-      "summary_en": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "published": "Fri, 16 Oct 2026 21:22:28 +0000",
-      "title_th": "Replit is no longer working with Anthropic, CEO says",
-      "summary_th": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic."
     },
     {
       "source": "TechCrunch",
@@ -306,6 +306,42 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "Android Auto can be used outside of your car: Here's how",
+      "summary_en": "Running Android Auto on a spare tablet outside your car gives you a low-distraction interface you can take anywhere.",
+      "image": "https://www.engadget.com/img/gallery/android-auto-can-be-used-outside-of-your-car-heres-how/l-intro-1791824287.jpg",
+      "link": "https://www.engadget.com/2284102/how-android-auto-used-outside-of-car/",
+      "published": "Sat, 17 Oct 2026 18:45:00 +0000",
+      "title_th": "Android Auto can be used outside of your car: Here's how",
+      "summary_th": "Running Android Auto on a spare tablet outside your car gives you a low-distraction interface you can take anywhere."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "What's actually eating all the storage space on your Android Phone?",
+      "summary_en": "Android phone running out of space? Here's why and what you can do to get rid of old files.",
+      "image": "https://www.engadget.com/img/gallery/whats-actually-eating-all-the-storage-space-on-your-android-phone/l-intro-1791468108.jpg",
+      "link": "https://www.engadget.com/2283986/whats-actually-eating-all-the-storage-space-on-your-android-phone/",
+      "published": "Sat, 17 Oct 2026 18:30:00 +0000",
+      "title_th": "What's actually eating all the storage space on your Android Phone?",
+      "summary_th": "Android phone running out of space? Here's why and what you can do to get rid of old files."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "iPhone Duo shipping estimates have already been pushed back to 2027",
+      "summary_en": "Apple called the early demand \"nothing short of extraordinary.\"",
+      "image": "https://www.engadget.com/img/gallery/iphone-duo-shipping-estimates-have-already-been-pushed-back-to-2027/l-intro-1792260615.jpg",
+      "link": "https://www.engadget.com/2289629/iphone-duo-shipping-estimates-have-already-been-pushed-back-to-2027/",
+      "published": "Sat, 17 Oct 2026 18:12:35 +0000",
+      "title_th": "iPhone Duo shipping estimates have already been pushed back to 2027",
+      "summary_th": "Apple called the early demand \"nothing short of extraordinary.\""
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "What does the yellow light on your Alexa device mean and how do you clear it?",
       "summary_en": "Don't panic if your Amazon Echo is flashing a yellow light. Here's what that color means, how to clear it and how to tweak your Alexa notification settings.",
       "image": "https://www.engadget.com/img/gallery/what-does-the-yellow-light-on-your-alexa-device-mean-and-how-do-you-clear-it/l-intro-1791547994.jpg",
@@ -325,42 +361,6 @@
       "published": "Sat, 17 Oct 2026 16:00:00 +0000",
       "title_th": "This Samsung Galaxy feature can protect you from untrustworthy apps",
       "summary_th": "Samsung's Auto Blocker protects your Galaxy phone from security threats, but it does have drawbacks. Here's what it does and when you might want to turn it off."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Why are some locations blurred out on Google Maps?",
-      "summary_en": "When using Google Maps, it isn't rare to see blurred locations. Why does this happen? The answer is simple, and it has everything to do with security.",
-      "image": "https://www.engadget.com/img/gallery/why-are-some-locations-blurred-out-on-google-maps/l-intro-1791496081.jpg",
-      "link": "https://www.engadget.com/2284032/why-some-places-blurry-google-maps/",
-      "published": "Sat, 17 Oct 2026 15:30:00 +0000",
-      "title_th": "Why are some locations blurred out on Google Maps?",
-      "summary_th": "When using Google Maps, it isn't rare to see blurred locations. Why does this happen? The answer is simple, and it has everything to do with security."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Should you have both Ethernet and Wi-Fi for your home?",
-      "summary_en": "Ethernet will keep your devices connecting online in record time, while Wi-Fi keeps them untethered. But how well can they both work together?",
-      "image": "https://www.engadget.com/img/gallery/should-you-have-both-ethernet-and-wi-fi-for-your-home/l-intro-1791494132.jpg",
-      "link": "https://www.engadget.com/2284029/both-ethernet-and-wifi-for-home/",
-      "published": "Sat, 17 Oct 2026 14:30:00 +0000",
-      "title_th": "Should you have both Ethernet and Wi-Fi for your home?",
-      "summary_th": "Ethernet will keep your devices connecting online in record time, while Wi-Fi keeps them untethered. But how well can they both work together?"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Verizon will charge you $10 a month for iPhone Handoff",
-      "summary_en": "iPhone Handoff, which lets you share the same number on two devices, will cost you $10 a month on Verizon.",
-      "image": "https://www.engadget.com/img/gallery/verizon-will-charge-you-10-a-month-for-iphone-handoff/l-intro-1792244603.jpg",
-      "link": "https://www.engadget.com/2289578/verizon-10-a-month-iphone-handoff/",
-      "published": "Sat, 17 Oct 2026 13:45:16 +0000",
-      "title_th": "Verizon will charge you $10 a month for iPhone Handoff",
-      "summary_th": "iPhone Handoff, which lets you share the same number on two devices, will cost you $10 a month on Verizon."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,30 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "Indie App Spotlight: ‘Hoardware’ makes it easy to track your Apple device collection",
+      "summary_en": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . If you’re someone who collects tons of varying Apple products, Hoardware is your one-stop shop for keeping track of it all. Hoardware lets you track all of your hardware, as well as the software versions, model numbers, and anything else that might be relevant. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Hoardware.png?resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/17/indie-app-spotlight-hoardware-makes-it-easy-to-track-your-apple-device-collection/",
+      "published": "Sat, 17 Oct 2026 19:30:00 +0000",
+      "title_th": "Indie App Spotlight: ‘Hoardware’ makes it easy to track your Apple device collection",
+      "summary_th": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . If you’re someone who collects tons of varying Apple products, Hoardware is your one-stop shop for keeping track of it all. Hoardware lets you track all of your hardware, as well as the software versions, model numbers, and anything else that might be relevant. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "review",
+      "title_en": "Hands-on: UGREEN’s new 25W MagSafe battery for iPhone features liquid cooling",
+      "summary_en": "Last month, UGREEN introduced a new Qi2.2 25W 10000mAh MagSafe battery bank for iPhone. There have been plenty of these, but this one has an interesting new twist: liquid cooling. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC03213.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/17/ugreen-25w-magsafe-liquid-cooling-battery-bank/",
+      "published": "Sat, 17 Oct 2026 17:52:00 +0000",
+      "title_th": "Hands-on: UGREEN’s new 25W MagSafe battery for iPhone features liquid cooling",
+      "summary_th": "Last month, UGREEN introduced a new Qi2.2 25W 10000mAh MagSafe battery bank for iPhone. There have been plenty of these, but this one has an interesting new twist: liquid cooling. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "EE announces iPhone Handoff pricing details for UK customers",
       "summary_en": "As part of its iPhone Duo preorder announcement, UK carrier EE has announced pricing details for iPhone Handoff – making it the first carrier in the UK to do so. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-burgundy-rc.jpg?quality=82&strip=all&resize=1200,628",
@@ -457,30 +481,6 @@
       "published": "Sat, 17 Oct 2026 13:00:00 +0000",
       "title_th": "Apple @ Work: How I’m preparing my fleet for Rosetta’s removal in macOS 27",
       "summary_th": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . When installing macOS 27 (Golden Gate), Rosetta is automatically removed. If you manage a fleet with any legacy Intel-only software still in use, you need a plan in place before your users start experiencing issues. Here is what I’m doing, and I have some thoughts on vendors who are wai"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple weekend deals: HomeView, new Apple TV 4K, AirPods, MacBook, mini, more",
-      "summary_en": "Alongside the ongoing $50 price drop on AirPods Pro 3, this weekend’s Apple deals are headlined by pre-order discounts on the new HomeView (if you’re quick about it) and the first deal on the next-gen Apple TV 4K (or just grab the new Apple TV Siri Remote to upgrade your existing setup for a whole lot less). Beyond that, the all-time low on AirTag 2 carries through alongside some seriously notable Mac deals – M6 Mac mini at up to $150 off and giant price drops on various M5 Pro MacBook models at up to $600 off . Head below for a closer look as well some accessory offers as well as discounts on cases and Apple Pencil USB-C for your new iPhone Duo more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-weekend-deals-HomeView-Apple-TV-4K-iPhone-Duo-AirPods.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/17/apple-weekend-deals-homeview-new-apple-tv-airpods/",
-      "published": "Sat, 17 Oct 2026 12:18:24 +0000",
-      "title_th": "Apple weekend deals: HomeView, new Apple TV 4K, AirPods, MacBook, mini, more",
-      "summary_th": "Alongside the ongoing $50 price drop on AirPods Pro 3, this weekend’s Apple deals are headlined by pre-order discounts on the new HomeView (if you’re quick about it) and the first deal on the next-gen Apple TV 4K (or just grab the new Apple TV Siri Remote to upgrade your existing setup for a whole lot less). Beyond that, the all-time low on AirTag 2 carries through alongside some seriously notable Mac deals – M6 Mac mini at up to $150 off and giant price drops on various M5 Pro MacBook models at up to $600 off . Head below for a closer look as well some accessory offers as well as discounts on cases and Apple Pencil USB-C for your new iPhone Duo more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Verizon confirms $10 monthly fee for new iPhone Handoff feature",
-      "summary_en": "Following T-Mobile and Deutsche Telekom, Verizon has now confirmed how much it will charge customers to use Apple’s new iPhone Handoff feature. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-hand-off.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/16/verizon-confirms-10-monthly-fee-for-new-iphone-handoff-feature/",
-      "published": "Sat, 17 Oct 2026 00:01:38 +0000",
-      "title_th": "Verizon confirms $10 monthly fee for new iPhone Handoff feature",
-      "summary_th": "Following T-Mobile and Deutsche Telekom, Verizon has now confirmed how much it will charge customers to use Apple’s new iPhone Handoff feature. Here are the details. more…"
     },
     {
       "source": "9to5Google",
