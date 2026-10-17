@@ -1,17 +1,29 @@
 {
-  "generated_at": "2026-10-17T20:04:40.316993+00:00",
+  "generated_at": "2026-10-17T23:04:18.550275+00:00",
   "count": 50,
   "articles": [
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Replit is no longer working with Anthropic, CEO says",
+      "title_en": "Meta removes language that raised scraping and AI training concerns",
+      "summary_en": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "published": "Sat, 17 Oct 2026 21:31:32 +0000",
+      "title_th": "Meta removes language that raised scraping and AI training concerns",
+      "summary_th": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Replit makes OpenAI its default over Anthropic, CEO says",
       "summary_en": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
       "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "published": "Sat, 17 Oct 2026 18:48:08 +0000",
-      "title_th": "Replit is no longer working with Anthropic, CEO says",
+      "title_th": "Replit makes OpenAI its default over Anthropic, CEO says",
       "summary_th": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform."
     },
     {
@@ -49,18 +61,6 @@
       "published": "Fri, 16 Oct 2026 19:40:00 +0000",
       "title_th": "Porsche’s electric Macan Turbo is an automotive existential crisis",
       "summary_th": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "India becomes the latest country to report rogue AI agent activity",
-      "summary_en": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612",
-      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "published": "Fri, 16 Oct 2026 17:52:24 +0000",
-      "title_th": "India becomes the latest country to report rogue AI agent activity",
-      "summary_th": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
     },
     {
       "source": "The Verge",
@@ -271,12 +271,12 @@
       "flag": "US",
       "category": "ai",
       "title_en": "This implant can restore sight for patients with macular degeneration",
-      "summary_en": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal implant with camera-­equipped eyeglasses…",
+      "summary_en": "More than 5 million people around the world have an advanced form of age-related macular degeneration (AMD) called geographic atrophy, in which cells in the retinas die off. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US,…",
       "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/prima-implant-2026.jpg?resize=1200,600",
       "link": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
       "published": "Fri, 16 Oct 2026 09:00:00 +0000",
       "title_th": "This implant can restore sight for patients with macular degeneration",
-      "summary_th": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal implant with camera-­equipped eyeglasses…"
+      "summary_th": "More than 5 million people around the world have an advanced form of age-related macular degeneration (AMD) called geographic atrophy, in which cells in the retinas die off. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US,…"
     },
     {
       "source": "MIT Technology Review",
@@ -306,6 +306,42 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "Why it's important to monitor your PC's background processes",
+      "summary_en": "What your PC is doing in the background doesn't need to be a mystery. Learn about what's happening and how to spot when something looks wrong.",
+      "image": "https://www.engadget.com/img/gallery/why-its-important-to-monitor-your-pcs-background-processes/l-intro-1791830732.jpg",
+      "link": "https://www.engadget.com/2284465/why-its-important-to-monitor-pc-background-processes/",
+      "published": "Sat, 17 Oct 2026 22:30:00 +0000",
+      "title_th": "Why it's important to monitor your PC's background processes",
+      "summary_th": "What your PC is doing in the background doesn't need to be a mystery. Learn about what's happening and how to spot when something looks wrong."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Don't throw away your old PlayStation — Do this instead",
+      "summary_en": "Older PlayStations, PS2, PS3 and PS4, can be media hubs, make you money through resale and even be donated to kids in hospitals. Better options than the trash.",
+      "image": "https://www.engadget.com/img/gallery/dont-throw-away-your-old-playstation-do-this-instead/l-intro-1791829152.jpg",
+      "link": "https://www.engadget.com/2284423/dont-throw-away-old-playstation-do-this-instead/",
+      "published": "Sat, 17 Oct 2026 22:00:00 +0000",
+      "title_th": "Don't throw away your old PlayStation — Do this instead",
+      "summary_th": "Older PlayStations, PS2, PS3 and PS4, can be media hubs, make you money through resale and even be donated to kids in hospitals. Better options than the trash."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "ev",
+      "title_en": "The Tesla Roadster is far from the first car to use fans for downforce",
+      "summary_en": "Here are some of the other, older vehicles that use fans for downforce like the Tesla Roadster does.",
+      "image": "https://www.engadget.com/img/gallery/the-tesla-roadster-is-far-from-the-first-car-to-use-fans-for-downforce/l-intro-1792267762.jpg",
+      "link": "https://www.engadget.com/2289646/tesla-roadster-not-first-car-use-fans-for-downforce/",
+      "published": "Sat, 17 Oct 2026 21:20:21 +0000",
+      "title_th": "The Tesla Roadster is far from the first car to use fans for downforce",
+      "summary_th": "Here are some of the other, older vehicles that use fans for downforce like the Tesla Roadster does."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "Android Auto can be used outside of your car: Here's how",
       "summary_en": "Running Android Auto on a spare tablet outside your car gives you a low-distraction interface you can take anywhere.",
       "image": "https://www.engadget.com/img/gallery/android-auto-can-be-used-outside-of-your-car-heres-how/l-intro-1791824287.jpg",
@@ -325,42 +361,6 @@
       "published": "Sat, 17 Oct 2026 18:30:00 +0000",
       "title_th": "What's actually eating all the storage space on your Android Phone?",
       "summary_th": "Android phone running out of space? Here's why and what you can do to get rid of old files."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "iPhone Duo shipping estimates have already been pushed back to 2027",
-      "summary_en": "Apple called the early demand \"nothing short of extraordinary.\"",
-      "image": "https://www.engadget.com/img/gallery/iphone-duo-shipping-estimates-have-already-been-pushed-back-to-2027/l-intro-1792260615.jpg",
-      "link": "https://www.engadget.com/2289629/iphone-duo-shipping-estimates-have-already-been-pushed-back-to-2027/",
-      "published": "Sat, 17 Oct 2026 18:12:35 +0000",
-      "title_th": "iPhone Duo shipping estimates have already been pushed back to 2027",
-      "summary_th": "Apple called the early demand \"nothing short of extraordinary.\""
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "What does the yellow light on your Alexa device mean and how do you clear it?",
-      "summary_en": "Don't panic if your Amazon Echo is flashing a yellow light. Here's what that color means, how to clear it and how to tweak your Alexa notification settings.",
-      "image": "https://www.engadget.com/img/gallery/what-does-the-yellow-light-on-your-alexa-device-mean-and-how-do-you-clear-it/l-intro-1791547994.jpg",
-      "link": "https://www.engadget.com/2284036/amazon-alexa-device-yellow-light-meaning/",
-      "published": "Sat, 17 Oct 2026 16:30:00 +0000",
-      "title_th": "What does the yellow light on your Alexa device mean and how do you clear it?",
-      "summary_th": "Don't panic if your Amazon Echo is flashing a yellow light. Here's what that color means, how to clear it and how to tweak your Alexa notification settings."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "This Samsung Galaxy feature can protect you from untrustworthy apps",
-      "summary_en": "Samsung's Auto Blocker protects your Galaxy phone from security threats, but it does have drawbacks. Here's what it does and when you might want to turn it off.",
-      "image": "https://www.engadget.com/img/gallery/this-samsung-galaxy-feature-can-protect-you-from-untrustworthy-apps/l-intro-1791578177.jpg",
-      "link": "https://www.engadget.com/2284034/samsung-galaxy-feature-protects-from-untrustworth-apps-auto-blocker/",
-      "published": "Sat, 17 Oct 2026 16:00:00 +0000",
-      "title_th": "This Samsung Galaxy feature can protect you from untrustworthy apps",
-      "summary_th": "Samsung's Auto Blocker protects your Galaxy phone from security threats, but it does have drawbacks. Here's what it does and when you might want to turn it off."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,18 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "iPhone Duo walk-in purchases might be challenging at launch, per report",
+      "summary_en": "According to a new report from MacRumors , Apple employees are being told to warn customers that iPhone Duo likely won’t be available for purchase on launch day if you didn’t already place a pre-order. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-star-white-front-back.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/17/iphone-duo-walk-in-purchases-challenging-report/",
+      "published": "Sat, 17 Oct 2026 22:21:41 +0000",
+      "title_th": "iPhone Duo walk-in purchases might be challenging at launch, per report",
+      "summary_th": "According to a new report from MacRumors , Apple employees are being told to warn customers that iPhone Duo likely won’t be available for purchase on launch day if you didn’t already place a pre-order. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Indie App Spotlight: ‘Hoardware’ makes it easy to track your Apple device collection",
       "summary_en": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . If you’re someone who collects tons of varying Apple products, Hoardware is your one-stop shop for keeping track of it all. Hoardware lets you track all of your hardware, as well as the software versions, model numbers, and anything else that might be relevant. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Hoardware.png?resize=1200,628",
@@ -469,18 +481,6 @@
       "published": "Sat, 17 Oct 2026 13:45:00 +0000",
       "title_th": "PSA: Apple’s official silicone iPhone Duo case will require adhesive to stick",
       "summary_th": "iPhone Duo is just about a week away from launching, and now that preorders have opened, Apple’s official iPhone Duo accessories have started to hit stores for early purchases. After purchasing, some users have noticed that the silicone case has a little bit of a caveat. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple @ Work: How I’m preparing my fleet for Rosetta’s removal in macOS 27",
-      "summary_en": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . When installing macOS 27 (Golden Gate), Rosetta is automatically removed. If you manage a fleet with any legacy Intel-only software still in use, you need a plan in place before your users start experiencing issues. Here is what I’m doing, and I have some thoughts on vendors who are wai",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/17/how-im-preparing-my-fleet-for-rosettas-removal-in-macos-27/",
-      "published": "Sat, 17 Oct 2026 13:00:00 +0000",
-      "title_th": "Apple @ Work: How I’m preparing my fleet for Rosetta’s removal in macOS 27",
-      "summary_th": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . When installing macOS 27 (Golden Gate), Rosetta is automatically removed. If you manage a fleet with any legacy Intel-only software still in use, you need a plan in place before your users start experiencing issues. Here is what I’m doing, and I have some thoughts on vendors who are wai"
     },
     {
       "source": "9to5Google",
@@ -545,6 +545,18 @@
     {
       "source": "Electrek",
       "flag": "",
+      "category": "gadget",
+      "title_en": "Electric Mercedes-AMG GT SUV unveiled with 1,153 hp and 710 kW charging",
+      "summary_en": "Mercedes-AMG has unveiled the GT SUV, an all-electric performance SUV with up to 1,153 hp from three axial-flux motors and DC fast charging at up to 710 kW. It’s AMG’s answer to the Porsche Cayenne Electric, and on paper, it may be more impressive. The first units hit US dealerships in summer 2027. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/mercedes-amg-gt-suv-electric-yellow-driving.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/17/mercedes-amg-gt-suv-electric-1153-hp-710-kw-charging/",
+      "published": "Sat, 17 Oct 2026 20:37:19 +0000",
+      "title_th": "Electric Mercedes-AMG GT SUV unveiled with 1,153 hp and 710 kW charging",
+      "summary_th": "Mercedes-AMG has unveiled the GT SUV, an all-electric performance SUV with up to 1,153 hp from three axial-flux motors and DC fast charging at up to 710 kW. It’s AMG’s answer to the Porsche Cayenne Electric, and on paper, it may be more impressive. The first units hit US dealerships in summer 2027. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
       "category": "review",
       "title_en": "Here are the best electric bikes you can buy at every price level in October 2026",
       "summary_en": "I’ve spent countless hours here at Electrek doing detailed hands-on testing of hundreds of electric bikes. Through thousands of miles of riding, I’ve been fortunate to learn these e-bikes inside and out, top to bottom and front to back. That long-term experience with real-world e-bike testing has helped me find the best electric bicycles on the market for just about any budget. Below are some of the top e-bikes I’ve hand-tested for every price range, current as of October 2026. Fall weather is upon us, bringing cooler temps and beautiful views, so it’s a great time to hop in the saddle and get out there riding! Check out the awesome e-bikes below, any one of which could become your next electric bike. more…",
@@ -589,18 +601,6 @@
       "published": "Fri, 16 Oct 2026 19:26:48 +0000",
       "title_th": "Trouble: buyers would rather wait for Chinese EVs than buy Western ones",
       "summary_th": "Canadian EV customers are delaying buying decisions while they wait for more Chinese EVs to reach their shores, according to a new survey, suggesting widespread awareness of China’s EV dominance is causing EV buyers to ignore Western automakers’ offerings entirely. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Lectric treats riders with up to $762 e-bike savings in spooky sale, Worx snow blower, Jackery 1,024Wh V2 power station, more",
-      "summary_en": "Closing out this week’s Green Deals is Lectric’s freshly launched Spooky Sale with up to $762 e-bike bundle savings (that include two FREE mystery gifts) starting from $999 . Right behind that group of treats is the Worx 40V 20-inch Cordless Electric Snow Thrower with 2x 6.0Ah batteries down at $395 , as well as the Jackery HomePower 1000 V2 1,024Wh Portable Power Station for $549 that is part of the brand’s Power Outage Ready Sale lineup. We also rounded up a bunch of Greenworks chainsaw deals, like the 24V 6-inch Cordless Electric Mini Chainsaw at $95 , and spotted the first Amazon deal on BougeRV’s Lightweight Foldable Electric Wagon with a 360-pound payload capacity. All these and more wait for you below, including the hangover deals from this week at the bottom of the page, like the y",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Lectric-Worx-Greenworks-Jackery-BougeRV-GDs-FI.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/16/lectric-e-bike-spooky-sale-worx-snow-blower-jackery-1024wh-v2-power-station-more/",
-      "published": "Fri, 16 Oct 2026 18:00:00 +0000",
-      "title_th": "Lectric treats riders with up to $762 e-bike savings in spooky sale, Worx snow blower, Jackery 1,024Wh V2 power station, more",
-      "summary_th": "Closing out this week’s Green Deals is Lectric’s freshly launched Spooky Sale with up to $762 e-bike bundle savings (that include two FREE mystery gifts) starting from $999 . Right behind that group of treats is the Worx 40V 20-inch Cordless Electric Snow Thrower with 2x 6.0Ah batteries down at $395 , as well as the Jackery HomePower 1000 V2 1,024Wh Portable Power Station for $549 that is part of the brand’s Power Outage Ready Sale lineup. We also rounded up a bunch of Greenworks chainsaw deals, like the 24V 6-inch Cordless Electric Mini Chainsaw at $95 , and spotted the first Amazon deal on BougeRV’s Lightweight Foldable Electric Wagon with a 360-pound payload capacity. All these and more wait for you below, including the hangover deals from this week at the bottom of the page, like the y"
     }
   ],
   "indices": [
@@ -733,6 +733,16 @@
     {
       "channel": "Beartai",
       "country": "TH",
+      "title_en": "ความสุขในใจคืออำนาจของเรา",
+      "video_id": "h3FH6HiQJnU",
+      "link": "https://www.youtube.com/shorts/h3FH6HiQJnU",
+      "thumbnail": "https://i1.ytimg.com/vi/h3FH6HiQJnU/hqdefault.jpg",
+      "published": "2026-10-17T23:00:08+00:00",
+      "title_th": "ความสุขในใจคืออำนาจของเรา"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
       "title_en": "ร็อกเกอร์ที่เริ่มจากระนาดเอก",
       "video_id": "-iXC2VqF9Uk",
       "link": "https://www.youtube.com/shorts/-iXC2VqF9Uk",
@@ -751,16 +761,6 @@
       "title_th": "Bangkok Blueprint จะแก้ภัยการเงินได้อย่างไร? คุยกับ วิทัย รัตนากร ผู้ว่าฯ แบงก์ชาติ"
     },
     {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "อยากให้ลูกมีชีวิตเป็นของตนเอง",
-      "video_id": "QbaZJzCE88s",
-      "link": "https://www.youtube.com/shorts/QbaZJzCE88s",
-      "thumbnail": "https://i2.ytimg.com/vi/QbaZJzCE88s/hqdefault.jpg",
-      "published": "2026-10-15T23:00:23+00:00",
-      "title_th": "อยากให้ลูกมีชีวิตเป็นของตนเอง"
-    },
-    {
       "channel": "Droidsans",
       "country": "TH",
       "title_en": "OPPO Find X10 เปิดจองในไทย/ Xiaomi 18 Fold มือถือแรงที่สุดในโลก/ ArtCraft แอพร่างโคลน adobe ใช้ฟรี?",
@@ -773,12 +773,12 @@
     {
       "channel": "Droidsans",
       "country": "TH",
-      "title_en": "ประชันกล้อง Pro Max ทุกรุ่น (มี Ultra ด้วย) | iPhone, Samsung, vivo, OPPO, Xiaomi",
+      "title_en": "เรือธงรุ่นไหน ถ่ายสวยสุด​ ? | vivo X500, OPPO Find X10, Xiaomi 18, iPhone 18 Pro Max, S26 Ultra",
       "video_id": "pK7IKMwJG2w",
       "link": "https://www.youtube.com/watch?v=pK7IKMwJG2w",
       "thumbnail": "https://i1.ytimg.com/vi/pK7IKMwJG2w/hqdefault.jpg",
       "published": "2026-10-13T11:00:31+00:00",
-      "title_th": "ประชันกล้อง Pro Max ทุกรุ่น (มี Ultra ด้วย) | iPhone, Samsung, vivo, OPPO, Xiaomi"
+      "title_th": "เรือธงรุ่นไหน ถ่ายสวยสุด​ ? | vivo X500, OPPO Find X10, Xiaomi 18, iPhone 18 Pro Max, S26 Ultra"
     },
     {
       "channel": "Droidsans",
