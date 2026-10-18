@@ -1,18 +1,30 @@
 {
-  "generated_at": "2026-10-18T17:56:38.627337+00:00",
+  "generated_at": "2026-10-18T20:03:38.883705+00:00",
   "count": 50,
   "articles": [
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
+      "title_en": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+      "summary_en": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
+      "link": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+      "published": "Sun, 18 Oct 2026 19:03:38 +0000",
+      "title_th": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+      "summary_th": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
       "title_en": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "summary_en": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to acquire some of its assets for $20 million. A legal […]",
+      "summary_en": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
       "image": "https://techcrunch.com/wp-content/uploads/2024/01/character-ai-alexa.jpg?resize=1200,675",
       "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "published": "Sun, 18 Oct 2026 16:30:00 +0000",
       "title_th": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "summary_th": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to acquire some of its assets for $20 million. A legal […]"
+      "summary_th": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer."
     },
     {
       "source": "TechCrunch",
@@ -51,16 +63,28 @@
       "summary_th": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
-      "summary_en": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ember_Table-with-Phone-Dark-Black-10oz_030326.png?w=1200",
-      "link": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
-      "published": "Sat, 17 Oct 2026 15:30:00 +0000",
-      "title_th": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
-      "summary_th": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature."
+      "category": "software",
+      "title_en": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
+      "summary_en": "Mister Organ doesn't reach the level of societal horror of The Act of Killing or the creepypasta-meets-true-crime gruesomeness of Beware the Slenderman, but there's something deeply unsettling about Michael Organ and his intimate campaign of terror against everyone who enters his life. Mister Organ is a documentary by David Farrier, an Auckland, New Zealand journalist. […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Mister-Organ-poster.jpg?quality=90&strip=all&crop=2.25%2C0%2C95.5%2C100&w=1200",
+      "link": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
+      "published": "2026-10-18T15:30:00-04:00",
+      "title_th": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
+      "summary_th": "Mister Organ doesn't reach the level of societal horror of The Act of Killing or the creepypasta-meets-true-crime gruesomeness of Beware the Slenderman, but there's something deeply unsettling about Michael Organ and his intimate campaign of terror against everyone who enters his life. Mister Organ is a documentary by David Farrier, an Auckland, New Zealand journalist. […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "A woman was arrested in Philly for blocking a delivery robot",
+      "summary_en": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&strip=all&crop=0%2C10.718955348675%2C100%2C78.562089302649&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "published": "2026-10-18T14:28:10-04:00",
+      "title_th": "A woman was arrested in Philly for blocking a delivery robot",
+      "summary_th": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front […]"
     },
     {
       "source": "The Verge",
@@ -97,30 +121,6 @@
       "published": "2026-10-18T08:55:01-04:00",
       "title_th": "How overhead projectors took over your classroom",
       "summary_th": "It used to be so easy to get away with things in school. The teacher, after all, was always turned around writing at the chalkboard! But then came a bit of technology, previously mostly used for military purposes, called the overhead projector. It would change far more than just the disciplinary record of students everywhere. […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Cities want to put the boot on robotaxis",
-      "summary_en": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The first state to pass a law […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2270749481.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-      "link": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
-      "published": "2026-10-18T08:00:00-04:00",
-      "title_th": "Cities want to put the boot on robotaxis",
-      "summary_th": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The first state to pass a law […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
-      "summary_en": "Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT SUV, an equally powerful, ultra-fast-charging electric people-hauler. The AMG GT SUV (say that five times fast) marks […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/26C0332_071.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
-      "published": "2026-10-17T13:00:00-04:00",
-      "title_th": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
-      "summary_th": "Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT SUV, an equally powerful, ultra-fast-charging electric people-hauler. The AMG GT SUV (say that five times fast) marks […]"
     },
     {
       "source": "Ars Technica",
@@ -222,18 +222,6 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Magnesium May Not Reach Your Brain, Despite Supplement Label Promises",
-      "summary_en": "Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.",
-      "image": "https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg",
-      "link": "https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises/",
-      "published": "Sun, 18 Oct 2026 09:00:00 +0000",
-      "title_th": "Magnesium May Not Reach Your Brain, Despite Supplement Label Promises",
-      "summary_th": "Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
       "title_en": "The Best AirPods Cases We’ve Used In Our Day-to-Day Lives (2026)",
       "summary_en": "These accessories add personality to your Apple headphones case, make them easy to find, and offer some protection, too.",
       "image": "https://media.wired.com/photos/6ad29851414b688b51c43c42/master/pass/Best%20AirPods%20Cases%20102026%20top%20art%20SOURCE%20Bandolier.jpg",
@@ -241,6 +229,18 @@
       "published": "Sun, 18 Oct 2026 09:00:00 +0000",
       "title_th": "The Best AirPods Cases We’ve Used In Our Day-to-Day Lives (2026)",
       "summary_th": "These accessories add personality to your Apple headphones case, make them easy to find, and offer some protection, too."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Magnesium May Not Reach Your Brain, Despite Supplement Label Promises",
+      "summary_en": "Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.",
+      "image": "https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg",
+      "link": "https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises/",
+      "published": "Sun, 18 Oct 2026 09:00:00 +0000",
+      "title_th": "Magnesium May Not Reach Your Brain, Despite Supplement Label Promises",
+      "summary_th": "Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations."
     },
     {
       "source": "MIT Technology Review",
@@ -306,6 +306,30 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "Here's how the Slate truck gets software updates without built-in infotainment",
+      "summary_en": "Basically, it's on you.",
+      "image": "https://www.engadget.com/img/gallery/heres-how-the-slate-truck-gets-software-updates-without-built-in-infotainment/l-intro-1791571931.jpg",
+      "link": "https://www.engadget.com/2283988/slate-truck-no-infotainment-over-the-air-sofware-updates/",
+      "published": "Sun, 18 Oct 2026 18:30:00 +0000",
+      "title_th": "Here's how the Slate truck gets software updates without built-in infotainment",
+      "summary_th": "Basically, it's on you."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved",
+      "summary_en": "Apple's iPhone Duo likely forecasts a shift in the market toward foldables becoming more common. But it took a while to get here.",
+      "image": "https://www.engadget.com/img/gallery/from-the-royole-flexpai-to-the-iphone-duo-how-the-modern-foldable-phone-has-evolved/l-intro-1791988871.jpg",
+      "link": "https://www.engadget.com/2286505/how-modern-foldable-phone-evolved-from-royole-flexpai-to-iphone-duo/",
+      "published": "Sun, 18 Oct 2026 18:00:00 +0000",
+      "title_th": "From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved",
+      "summary_th": "Apple's iPhone Duo likely forecasts a shift in the market toward foldables becoming more common. But it took a while to get here."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "TikTok reportedly bans ads for Musk documentary before its wider US release",
       "summary_en": "The platform attributed the decision to \"political content that goes against its policy.\"",
       "image": "https://www.engadget.com/img/gallery/tiktok-reportedly-bans-ads-for-musk-documentary-before-its-wider-us-release/l-intro-1792341551.jpg",
@@ -337,30 +361,6 @@
       "published": "Sun, 18 Oct 2026 15:15:00 +0000",
       "title_th": "The reason why your drive shows less storage than you paid for",
       "summary_th": "Despite showing the storage amount on the box or the spec sheet, your new device might not actually hold as much as it states. Here are the reasons why."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "iOS 27's new CarPlay features are great, but only these iPhones can actually use them",
-      "summary_en": "With the release of iOS 27, car owners with CarPlay support can enjoy lots of cool new features. However, not all iPhone models are able to support them all.",
-      "image": "https://www.engadget.com/img/gallery/ios-27s-new-carplay-features-are-great-but-only-these-iphones-can-actually-use-them/l-intro-1791964323.jpg",
-      "link": "https://www.engadget.com/2286246/ios-27-carplay-features-not-available-older-iphones/",
-      "published": "Sun, 18 Oct 2026 14:45:00 +0000",
-      "title_th": "iOS 27's new CarPlay features are great, but only these iPhones can actually use them",
-      "summary_th": "With the release of iOS 27, car owners with CarPlay support can enjoy lots of cool new features. However, not all iPhone models are able to support them all."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "The reason your Amazon Alexa devices are always listening",
-      "summary_en": "Alexa devices have microphones that are always listening, but what does Amazon do with that data? It's up to you.",
-      "image": "https://www.engadget.com/img/gallery/the-reason-your-amazon-alexa-devices-are-always-listening/l-intro-1791919400.jpg",
-      "link": "https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/",
-      "published": "Sun, 18 Oct 2026 14:15:00 +0000",
-      "title_th": "The reason your Amazon Alexa devices are always listening",
-      "summary_th": "Alexa devices have microphones that are always listening, but what does Amazon do with that data? It's up to you."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,18 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "Apple Watch Series 12 is excellent, but I find myself missing this one software feature",
+      "summary_en": "Apple Watch Series 12 has been a marvel of an upgrade, at least for me. I’ve written about it WHOOP. That said, in my past month testing it, there’s one WHOOP feature I’ve found myself missing. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12.webp?resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/18/apple-redesigned-health-app-one-suggestion-series-12/",
+      "published": "Sun, 18 Oct 2026 17:56:43 +0000",
+      "title_th": "Apple Watch Series 12 is excellent, but I find myself missing this one software feature",
+      "summary_th": "Apple Watch Series 12 has been a marvel of an upgrade, at least for me. I’ve written about it WHOOP. That said, in my past month testing it, there’s one WHOOP feature I’ve found myself missing. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Apple’s first touchscreen MacBook could debut on November 6: Here’s what to expect",
       "summary_en": "After over a decade of not adopting touch displays on its Mac notebook lineup, Apple will finally be releasing its first touchscreen MacBook as early as November 6th, after announcing it as early as October 27th . more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/touchscreen-macbook.jpg?quality=82&strip=all&resize=1200,628",
@@ -469,18 +481,6 @@
       "published": "Sat, 17 Oct 2026 19:30:00 +0000",
       "title_th": "Indie App Spotlight: ‘Hoardware’ makes it easy to track your Apple device collection",
       "summary_th": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . If you’re someone who collects tons of varying Apple products, Hoardware is your one-stop shop for keeping track of it all. Hoardware lets you track all of your hardware, as well as the software versions, model numbers, and anything else that might be relevant. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "review",
-      "title_en": "Hands-on: UGREEN’s new 25W MagSafe battery for iPhone features liquid cooling",
-      "summary_en": "Last month, UGREEN introduced a new Qi2.2 25W 10000mAh MagSafe battery bank for iPhone. There have been plenty of these, but this one has an interesting new twist: liquid cooling. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC03213.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/17/ugreen-25w-magsafe-liquid-cooling-battery-bank/",
-      "published": "Sat, 17 Oct 2026 17:52:00 +0000",
-      "title_th": "Hands-on: UGREEN’s new 25W MagSafe battery for iPhone features liquid cooling",
-      "summary_th": "Last month, UGREEN introduced a new Qi2.2 25W 10000mAh MagSafe battery bank for iPhone. There have been plenty of these, but this one has an interesting new twist: liquid cooling. more…"
     },
     {
       "source": "9to5Google",
@@ -547,12 +547,12 @@
       "flag": "",
       "category": "ev",
       "title_en": "PGE gets it: electric semi trucks provide HEAVY DUTY backup for the grid [video]",
-      "summary_en": "Oregon utility Pacific General Electric (“PGE”) is highlighting the environmental, health, and grid benefits to electrifying medium- and heavy-duty commercial trucks, calling the battery-backed big rigs “batteries on wheels.” more…",
+      "summary_en": "Oregon utility Portland General Electric (“PGE”) is highlighting the environmental, health, and grid benefits to electrifying medium- and heavy-duty commercial trucks, calling the battery-backed big rigs “batteries on wheels.” more…",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2025/04/windrose_joyride.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://electrek.co/2026/10/18/pge-gets-it-electric-semi-trucks-provide-heavy-duty-backup-for-the-grid-video/",
       "published": "Sun, 18 Oct 2026 15:17:46 +0000",
       "title_th": "PGE gets it: electric semi trucks provide HEAVY DUTY backup for the grid [video]",
-      "summary_th": "Oregon utility Pacific General Electric (“PGE”) is highlighting the environmental, health, and grid benefits to electrifying medium- and heavy-duty commercial trucks, calling the battery-backed big rigs “batteries on wheels.” more…"
+      "summary_th": "Oregon utility Portland General Electric (“PGE”) is highlighting the environmental, health, and grid benefits to electrifying medium- and heavy-duty commercial trucks, calling the battery-backed big rigs “batteries on wheels.” more…"
     },
     {
       "source": "Electrek",
