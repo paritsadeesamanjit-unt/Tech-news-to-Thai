@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T02:27:26.830398+00:00",
+  "generated_at": "2026-10-21T08:21:45.547284+00:00",
   "count": 50,
   "articles": [
     {
@@ -7,12 +7,12 @@
       "flag": "US",
       "category": "startup",
       "title_en": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "summary_en": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "summary_en": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
       "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
       "published": "Tue, 20 Oct 2026 23:01:23 +0000",
       "title_th": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "summary_th": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
+      "summary_th": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
     },
     {
       "source": "TechCrunch",
@@ -31,12 +31,12 @@
       "flag": "US",
       "category": "startup",
       "title_en": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "summary_en": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "summary_en": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
       "image": "https://techcrunch.com/wp-content/uploads/2025/11/clem-delangue.png?resize=1200,789",
       "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
       "published": "Tue, 20 Oct 2026 22:24:02 +0000",
       "title_th": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "summary_th": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
+      "summary_th": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
     },
     {
       "source": "TechCrunch",
@@ -55,12 +55,12 @@
       "flag": "US",
       "category": "startup",
       "title_en": "SpaceX’s AI business is beating expectations",
-      "summary_en": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "summary_en": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM.png?resize=1130,1200",
       "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
       "published": "Tue, 20 Oct 2026 20:40:41 +0000",
       "title_th": "SpaceX’s AI business is beating expectations",
-      "summary_th": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine."
+      "summary_th": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine."
     },
     {
       "source": "The Verge",
@@ -126,6 +126,18 @@
       "source": "Ars Technica",
       "flag": "US",
       "category": "software",
+      "title_en": "PHP warns it plans to release 2 emergency patches imminently",
+      "summary_en": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
+      "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+      "published": "Wed, 21 Oct 2026 02:12:18 +0000",
+      "title_th": "PHP warns it plans to release 2 emergency patches imminently",
+      "summary_th": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites."
+    },
+    {
+      "source": "Ars Technica",
+      "flag": "US",
+      "category": "software",
       "title_en": "PSA: Patch your Plex media server before someone hacks it",
       "summary_en": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/plex-media-server-1152x648.webp",
@@ -171,16 +183,52 @@
       "summary_th": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet."
     },
     {
-      "source": "Ars Technica",
+      "source": "Wired",
       "flag": "US",
-      "category": "software",
-      "title_en": "Anthropic warns small AI models could self-replicate through IoT devices",
-      "summary_en": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-1152x648.jpg",
-      "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-      "published": "Wed, 14 Oct 2026 12:55:06 +0000",
-      "title_th": "Anthropic warns small AI models could self-replicate through IoT devices",
-      "summary_th": "\"Small weight-based replicators\" could usher in a new generation of computer worms."
+      "category": "ai",
+      "title_en": "LG Promo Codes and Coupons for October 2026",
+      "summary_en": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
+      "link": "https://www.wired.com/story/lg-promo-code/",
+      "published": "Wed, 21 Oct 2026 05:00:00 +0000",
+      "title_th": "LG Promo Codes and Coupons for October 2026",
+      "summary_th": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Ulta Promo Codes: Up to 20% Off in October 2026",
+      "summary_en": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
+      "link": "https://www.wired.com/story/ulta-coupon/",
+      "published": "Wed, 21 Oct 2026 05:00:00 +0000",
+      "title_th": "Ulta Promo Codes: Up to 20% Off in October 2026",
+      "summary_th": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Home Depot Promo Codes: 30% Off in October 2026",
+      "summary_en": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.",
+      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
+      "link": "https://www.wired.com/story/home-depot-promo-code/",
+      "published": "Wed, 21 Oct 2026 05:00:00 +0000",
+      "title_th": "Home Depot Promo Codes: 30% Off in October 2026",
+      "summary_th": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Udemy Coupon Codes: 20% Off October 2026",
+      "summary_en": "Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.",
+      "image": "https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png",
+      "link": "https://www.wired.com/story/udemy-promo-code/",
+      "published": "Wed, 21 Oct 2026 05:00:00 +0000",
+      "title_th": "Udemy Coupon Codes: 20% Off October 2026",
+      "summary_th": "Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development."
     },
     {
       "source": "Wired",
@@ -193,54 +241,6 @@
       "published": "Tue, 20 Oct 2026 17:41:58 +0000",
       "title_th": "French Government Calls Emergency Meetings With Platforms Over Protests",
       "summary_th": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "review",
-      "title_en": "Hatch Sleep Clock Review: A Contactless Sleep Tracker (2026)",
-      "summary_en": "I’m obsessed with sleep data, but I don’t love wearing a smartwatch to bed. Can the Hatch Sleep Clock give me the best of both worlds at an affordable price?",
-      "image": "https://media.wired.com/photos/6ad67177f85dfee471db0a6b/master/pass/Review%20Hatch%20Sleep%20Clock%20102026%20top%20art%20SOURCE%20Hatch.jpg",
-      "link": "https://www.wired.com/review/review-hatch-sleep-clock/",
-      "published": "Tue, 20 Oct 2026 16:03:17 +0000",
-      "title_th": "Hatch Sleep Clock Review: A Contactless Sleep Tracker (2026)",
-      "summary_th": "I’m obsessed with sleep data, but I don’t love wearing a smartwatch to bed. Can the Hatch Sleep Clock give me the best of both worlds at an affordable price?"
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
-      "summary_en": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
-      "image": "https://media.wired.com/photos/6ad2cc7064b24534a6bc5044/master/pass/culture_ai_agent_internet_research_listserv.jpg",
-      "link": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
-      "published": "Tue, 20 Oct 2026 15:07:43 +0000",
-      "title_th": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
-      "summary_th": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Sony Party Speaker Deal: Save $100 Off the ULT Tower 7",
-      "summary_en": "The Sony ULT Tower 7 is one of our top party speaker picks and is at its lowest-ever price. Grab this or one of its sibling models before your next fete.",
-      "image": "https://media.wired.com/photos/6ad67b40b1e2ce8d04a898c4/master/pass/Sony%20ULT%20Tower%207%20Speaker%20Deal%20102026%20top%20art%20SOURCE%20Sony.jpg",
-      "link": "https://www.wired.com/story/sony-party-speaker-deals-october-2026/",
-      "published": "Tue, 20 Oct 2026 11:00:00 +0000",
-      "title_th": "Sony Party Speaker Deal: Save $100 Off the ULT Tower 7",
-      "summary_th": "The Sony ULT Tower 7 is one of our top party speaker picks and is at its lowest-ever price. Grab this or one of its sibling models before your next fete."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ev",
-      "title_en": "The Physics Behind Tesla’s Flying Roadster",
-      "summary_en": "To understand how Elon’s new car hops, glides, and sticks upside down, we need to talk about friction and force.",
-      "image": "https://media.wired.com/photos/6ad667a256bcd06aa1190eb2/master/pass/Roadster_56.jpg",
-      "link": "https://www.wired.com/story/physics-behind-tesla-flying-roadster/",
-      "published": "Tue, 20 Oct 2026 10:45:00 +0000",
-      "title_th": "The Physics Behind Tesla’s Flying Roadster",
-      "summary_th": "To understand how Elon’s new car hops, glides, and sticks upside down, we need to talk about friction and force."
     },
     {
       "source": "MIT Technology Review",
@@ -545,6 +545,30 @@
     {
       "source": "Electrek",
       "flag": "",
+      "category": "gadget",
+      "title_en": "Segway launches the $1,999 Xyber Air, bringing its futuristic moped-style e-bike to the masses",
+      "summary_en": "When Segway launched the original Xyber last year , it was one of those e-bikes that immediately turned heads. With its futuristic styling, oversized frame, and high-performance off-road ambitions, it looked more like a concept vehicle than something you could actually buy. Now the company is hoping to capture a much wider audience with the new Segway Xyber Air, a lighter, street-legal version that keeps much of the original’s aggressive styling while fitting neatly into the familiar Class 1, 2, and 3 e-bike categories. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/segway-xyber-air-cute-girl-e-bike-header-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/20/segway-launches-the-1799-xyber-air-bringing-its-futuristic-moped-style-e-bike-to-the-masses/",
+      "published": "Wed, 21 Oct 2026 06:45:00 +0000",
+      "title_th": "Segway launches the $1,999 Xyber Air, bringing its futuristic moped-style e-bike to the masses",
+      "summary_th": "When Segway launched the original Xyber last year , it was one of those e-bikes that immediately turned heads. With its futuristic styling, oversized frame, and high-performance off-road ambitions, it looked more like a concept vehicle than something you could actually buy. Now the company is hoping to capture a much wider audience with the new Segway Xyber Air, a lighter, street-legal version that keeps much of the original’s aggressive styling while fitting neatly into the familiar Class 1, 2, and 3 e-bike categories. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Tesla and SpaceX take first step towards merger, would dilute all shareholders",
+      "summary_en": "Tesla and SpaceX have both formed special committees within their corporate boards to explore the possibility of merging the two companies according to Elon Musk, who is CEO of both companies. The merger could have big consequences not just for Tesla and SpaceX shareholders, but could dilute the retirement savings of everyone with exposure to major stock indices. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2024/11/Elon-Musk-Game-of-Thrones.webp?resize=1200,628",
+      "link": "https://electrek.co/2026/10/20/tesla-and-spacex-take-first-step-towards-merger-would-dilute-all-shareholders/",
+      "published": "Wed, 21 Oct 2026 03:14:40 +0000",
+      "title_th": "Tesla and SpaceX take first step towards merger, would dilute all shareholders",
+      "summary_th": "Tesla and SpaceX have both formed special committees within their corporate boards to explore the possibility of merging the two companies according to Elon Musk, who is CEO of both companies. The merger could have big consequences not just for Tesla and SpaceX shareholders, but could dilute the retirement savings of everyone with exposure to major stock indices. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
       "category": "ev",
       "title_en": "Mercedes’ new GLC 400 EV crushes range estimates, driving nearly 400 miles",
       "summary_en": "The new 2027 Mercedes-Benz GLC 400 4Matic EV has an EPA-estimated range of up to 331 miles, but in the real world, it will likely go even farther. more…",
@@ -577,30 +601,6 @@
       "published": "Tue, 20 Oct 2026 20:13:48 +0000",
       "title_th": "Tesla (TSLA) Q3 2026 earnings preview: flat revenue, falling profits",
       "summary_th": "Tesla reports its third-quarter 2026 financial results tomorrow, October 21, after the market closes. The earnings call follows at 5:30 p.m. ET. Wall Street expects revenue to come in flat and earnings per share to drop 10% from a year ago, even though Tesla just beat its own delivery consensus by more than 24,000 vehicles. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Rivian now #2 US EV brand, up from #10, as Big Auto marginalizes itself",
-      "summary_en": "Rivian is now the #2 EV brand in the US, up from 10th last year, taking Chevrolet’s spot as almost every other automaker tries to slow down the inevitable transition to electric cars. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/rivian-r2-exterior.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/20/rivian-now-2-us-ev-brand-up-from-10-as-big-auto-marginalizes-itself/",
-      "published": "Tue, 20 Oct 2026 20:12:41 +0000",
-      "title_th": "Rivian now #2 US EV brand, up from #10, as Big Auto marginalizes itself",
-      "summary_th": "Rivian is now the #2 EV brand in the US, up from 10th last year, taking Chevrolet’s spot as almost every other automaker tries to slow down the inevitable transition to electric cars. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "BMW iX5 hits up to 460 kW during first public fast-charging demo",
-      "summary_en": "With up to 460 kW DC fast charging, the new BMW iX5 can add up to 170 miles in just 10 minutes. BMW proved it during a live public event for the first time. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/BMW-iX5-fast-charging.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/20/bmw-ix5-hits-460-kw-first-public-fast-charging-demo/",
-      "published": "Tue, 20 Oct 2026 20:05:56 +0000",
-      "title_th": "BMW iX5 hits up to 460 kW during first public fast-charging demo",
-      "summary_th": "With up to 460 kW DC fast charging, the new BMW iX5 can add up to 170 miles in just 10 minutes. BMW proved it during a live public event for the first time. more…"
     }
   ],
   "indices": [
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 245.0,
-      "change": -7.0,
-      "change_pct": -2.78
+      "price": 235.0,
+      "change": -10.0,
+      "change_pct": -4.08
     }
   ],
   "reviews": [
