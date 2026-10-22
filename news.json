@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T02:20:16.788723+00:00",
+  "generated_at": "2026-10-22T08:20:40.261558+00:00",
   "count": 50,
   "articles": [
     {
@@ -186,6 +186,18 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
+      "title_en": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+      "summary_en": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
+      "image": "https://media.wired.com/photos/6ad971de90e0d6636d239398/master/pass/Security_HackersExploitingPHPBugsforDays-ezgif.com-video-to-gif-converter.gif",
+      "link": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+      "published": "Thu, 22 Oct 2026 02:24:17 +0000",
+      "title_th": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+      "summary_th": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
       "title_en": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
       "summary_en": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
       "image": "https://media.wired.com/photos/6ad9408768bf72427a051c89/master/pass/WIRED_Business_Mark-Z_CA.jpg",
@@ -229,18 +241,6 @@
       "published": "Wed, 21 Oct 2026 16:00:00 +0000",
       "title_th": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
       "summary_th": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
-      "summary_en": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
-      "image": "https://media.wired.com/photos/6ad8c8882adb51db52e1a235/master/pass/GettyImages-2301295306.jpg",
-      "link": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
-      "published": "Wed, 21 Oct 2026 15:02:15 +0000",
-      "title_th": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
-      "summary_th": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics."
     },
     {
       "source": "MIT Technology Review",
@@ -426,6 +426,18 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "Apple must open iPhone to alternative app stores in Australia after Epic Games ruling",
+      "summary_en": "An Australian federal judge has ordered Apple to make sweeping changes to its App Store rules following a years-long antitrust battle with Epic Games. Apple has confirmed that it plans to appeal. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/app-store.webp?resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/21/apple-must-open-iphone-to-alternative-app-stores-in-australia-after-epic-games-ruling/",
+      "published": "Thu, 22 Oct 2026 03:57:58 +0000",
+      "title_th": "Apple must open iPhone to alternative app stores in Australia after Epic Games ruling",
+      "summary_th": "An Australian federal judge has ordered Apple to make sweeping changes to its App Store rules following a years-long antitrust battle with Epic Games. Apple has confirmed that it plans to appeal. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Giant iPhone Duo installations spotted at Apple Fifth Avenue ahead of Friday launch",
       "summary_en": "While the iPhone Duo doesn’t launch until Friday, preparations are already underway at Apple’s flagship Fifth Avenue store in New York for the big day. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-fifth-avenue-iphone-launch-day.jpg?quality=82&strip=all&resize=1200,628",
@@ -469,18 +481,6 @@
       "published": "Wed, 21 Oct 2026 20:05:13 +0000",
       "title_th": "iOS 27.2 reveals Apple’s Messages app could soon get highly requested change",
       "summary_th": "iOS 27.2 launches next week , and the update includes code that points to a forthcoming Messages app change: the ability to exclude muted conversations from the unread badge count. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Anthropic takes on ChatGPT Dots and Meta Muse with Claude Duet",
-      "summary_en": "Anthropic is introducing a new AI assistant that can proactively manage tasks across connected apps, keep track of emails and calendars, and continue working even when the app is closed. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/claude-duet.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/21/anthropic-takes-on-chatgpt-dots-and-meta-muse-with-claude-duet/",
-      "published": "Wed, 21 Oct 2026 19:39:25 +0000",
-      "title_th": "Anthropic takes on ChatGPT Dots and Meta Muse with Claude Duet",
-      "summary_th": "Anthropic is introducing a new AI assistant that can proactively manage tasks across connected apps, keep track of emails and calendars, and continue working even when the app is closed. Here are the details. more…"
     },
     {
       "source": "9to5Google",
@@ -558,12 +558,12 @@
       "source": "Electrek",
       "flag": "",
       "category": "ev",
-      "title_en": "Tesla wants to sell you a useless car with no steering wheel this year",
+      "title_en": "Tesla wants to sell you an unusable car with no steering wheel this year",
       "summary_en": "Tesla said today it will sell Cybercab to consumers by the end of this year, raising questions of what end users would do with a vehicle with no steering wheel and no self-driving software. more…",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2024/11/img_3082.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://electrek.co/2026/10/21/tesla-wants-to-sell-you-a-useless-car-with-no-steering-wheel-this-year/",
       "published": "Wed, 21 Oct 2026 22:32:50 +0000",
-      "title_th": "Tesla wants to sell you a useless car with no steering wheel this year",
+      "title_th": "Tesla wants to sell you an unusable car with no steering wheel this year",
       "summary_th": "Tesla said today it will sell Cybercab to consumers by the end of this year, raising questions of what end users would do with a vehicle with no steering wheel and no self-driving software. more…"
     },
     {
@@ -664,10 +664,131 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 239.0,
-      "change": -6.0,
-      "change_pct": -2.45
+      "price": 235.0,
+      "change": -4.0,
+      "change_pct": -1.67
     }
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "ASMR iPhone Duo Unboxing",
+      "video_id": "_4ELeWAgMwo",
+      "link": "https://www.youtube.com/shorts/_4ELeWAgMwo",
+      "thumbnail": "https://i4.ytimg.com/vi/_4ELeWAgMwo/hqdefault.jpg",
+      "published": "2026-10-21T14:00:33+00:00",
+      "title_th": "ASMR iPhone Duo Unboxing"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "iPhone Duo Review: First Generation Fun!",
+      "video_id": "ESABTN4VtrA",
+      "link": "https://www.youtube.com/watch?v=ESABTN4VtrA",
+      "thumbnail": "https://i2.ytimg.com/vi/ESABTN4VtrA/hqdefault.jpg",
+      "published": "2026-10-21T12:00:52+00:00",
+      "title_th": "iPhone Duo Review: First Generation Fun!"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "The NEW Tesla Roadster: My Honest Reaction",
+      "video_id": "scwlR0QHGOk",
+      "link": "https://www.youtube.com/watch?v=scwlR0QHGOk",
+      "thumbnail": "https://i4.ytimg.com/vi/scwlR0QHGOk/hqdefault.jpg",
+      "published": "2026-10-17T02:09:23+00:00",
+      "title_th": "The NEW Tesla Roadster: My Honest Reaction"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Xiaomi 18 Pro Max Unboxing: The REAL Pro Max?",
+      "video_id": "LiQGoDnv2EQ",
+      "link": "https://www.youtube.com/watch?v=LiQGoDnv2EQ",
+      "thumbnail": "https://i1.ytimg.com/vi/LiQGoDnv2EQ/hqdefault.jpg",
+      "published": "2026-10-16T15:26:17+00:00",
+      "title_th": "Xiaomi 18 Pro Max Unboxing: The REAL Pro Max?"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Made for One Person...",
+      "video_id": "dWUkvk0Dsc0",
+      "link": "https://www.youtube.com/shorts/dWUkvk0Dsc0",
+      "thumbnail": "https://i1.ytimg.com/vi/dWUkvk0Dsc0/hqdefault.jpg",
+      "published": "2026-10-15T15:01:50+00:00",
+      "title_th": "Made for One Person..."
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "The Ultimate All-In-One Workstation",
+      "video_id": "6NLHltCsTsQ",
+      "link": "https://www.youtube.com/watch?v=6NLHltCsTsQ",
+      "thumbnail": "https://i3.ytimg.com/vi/6NLHltCsTsQ/hqdefault.jpg",
+      "published": "2026-10-08T17:36:19+00:00",
+      "title_th": "The Ultimate All-In-One Workstation"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "AI กวาดชิปทั้งโลก แรมจะแพงอีกนานแค่ไหน?",
+      "video_id": "B3IhZ132PjY",
+      "link": "https://www.youtube.com/watch?v=B3IhZ132PjY",
+      "thumbnail": "https://i3.ytimg.com/vi/B3IhZ132PjY/hqdefault.jpg",
+      "published": "2026-10-22T05:35:56+00:00",
+      "title_th": "AI กวาดชิปทั้งโลก แรมจะแพงอีกนานแค่ไหน?"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "iPhone Duo แกะกล่องจับจริง!",
+      "video_id": "T02i5bcPaLs",
+      "link": "https://www.youtube.com/shorts/T02i5bcPaLs",
+      "thumbnail": "https://i1.ytimg.com/vi/T02i5bcPaLs/hqdefault.jpg",
+      "published": "2026-10-22T00:07:16+00:00",
+      "title_th": "iPhone Duo แกะกล่องจับจริง!"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "วาระสุดท้าย เราเลือกได้ ?",
+      "video_id": "nGiOBn4i5Nk",
+      "link": "https://www.youtube.com/shorts/nGiOBn4i5Nk",
+      "thumbnail": "https://i3.ytimg.com/vi/nGiOBn4i5Nk/hqdefault.jpg",
+      "published": "2026-10-21T23:00:19+00:00",
+      "title_th": "วาระสุดท้าย เราเลือกได้ ?"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "ทรงมันได้ แอป Foldman ได้ฟีล Walkman เล่นเพลงด้วยเทปคาสเซ็ท #Foldman #Walkman #GalaxyZFold8",
+      "video_id": "c2KxqMjhFx0",
+      "link": "https://www.youtube.com/shorts/c2KxqMjhFx0",
+      "thumbnail": "https://i4.ytimg.com/vi/c2KxqMjhFx0/hqdefault.jpg",
+      "published": "2026-10-20T15:10:19+00:00",
+      "title_th": "ทรงมันได้ แอป Foldman ได้ฟีล Walkman เล่นเพลงด้วยเทปคาสเซ็ท #Foldman #Walkman #GalaxyZFold8"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รีวิว Samsung Galaxy A18 สายเน้นใช้งาน ปลอดภัย มี Auto Blocker การันตีอัปเดต 6 ปี!",
+      "video_id": "v6NrjyokGgk",
+      "link": "https://www.youtube.com/watch?v=v6NrjyokGgk",
+      "thumbnail": "https://i3.ytimg.com/vi/v6NrjyokGgk/hqdefault.jpg",
+      "published": "2026-10-19T10:51:44+00:00",
+      "title_th": "รีวิว Samsung Galaxy A18 สายเน้นใช้งาน ปลอดภัย มี Auto Blocker การันตีอัปเดต 6 ปี!"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "OPPO Find X10 เปิดจองในไทย/ Xiaomi 18 Fold มือถือแรงที่สุดในโลก/ ArtCraft แอพร่างโคลน adobe ใช้ฟรี?",
+      "video_id": "n5elK8WMwmo",
+      "link": "https://www.youtube.com/watch?v=n5elK8WMwmo",
+      "thumbnail": "https://i3.ytimg.com/vi/n5elK8WMwmo/hqdefault.jpg",
+      "published": "2026-10-17T13:00:27+00:00",
+      "title_th": "OPPO Find X10 เปิดจองในไทย/ Xiaomi 18 Fold มือถือแรงที่สุดในโลก/ ArtCraft แอพร่างโคลน adobe ใช้ฟรี?"
+    }
+  ]
 }
