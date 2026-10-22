@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-22T00:06:19.285093+00:00",
+  "generated_at": "2026-10-22T02:20:16.788723+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "ev",
+      "title_en": "Tesla says it will start selling Cybercabs by end of year",
+      "summary_en": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company’s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, […]",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cybercab_76.jpg?resize=1200,675",
+      "link": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+      "published": "Thu, 22 Oct 2026 00:17:54 +0000",
+      "title_th": "Tesla says it will start selling Cybercabs by end of year",
+      "summary_th": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company’s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, […]"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -51,16 +63,16 @@
       "summary_th": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Meta says Muse has over 10M users, with shopping a top activity",
-      "summary_en": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "published": "Wed, 21 Oct 2026 21:14:19 +0000",
-      "title_th": "Meta says Muse has over 10M users, with shopping a top activity",
-      "summary_th": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users."
+      "category": "software",
+      "title_en": "YouTube says it isn’t testing hiding the dislike button",
+      "summary_en": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a YouTube spokesperson, in a Wednesday statement to The Verge, confirmed that YouTube is \"not testing hiding […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK092_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
+      "published": "2026-10-21T19:46:45-04:00",
+      "title_th": "YouTube says it isn’t testing hiding the dislike button",
+      "summary_th": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a YouTube spokesperson, in a Wednesday statement to The Verge, confirmed that YouTube is \"not testing hiding […]"
     },
     {
       "source": "The Verge",
@@ -109,18 +121,6 @@
       "published": "2026-10-21T16:49:07-04:00",
       "title_th": "New York’s first microdrama film festival searches for its audience",
       "summary_th": "It remains to be seen if people really want to watch vertical content on horizontal TV screens, but many filmmakers and creators were confident that their latest projects would play well at Alza - New York City's first microdrama film festival. Founded by former Tribeca Festival chief operating officer Pete Torres, Alza, which took place […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "PHP: The three letters that shut down sites all over the internet today",
-      "summary_en": "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The \"critical vulnerabilities\" were discovered in the PHP programming language, which underpins much of the internet, including any site built on WordPress. But it's far bigger than […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
-      "published": "2026-10-21T16:36:56-04:00",
-      "title_th": "PHP: The three letters that shut down sites all over the internet today",
-      "summary_th": "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The \"critical vulnerabilities\" were discovered in the PHP programming language, which underpins much of the internet, including any site built on WordPress. But it's far bigger than […]"
     },
     {
       "source": "Ars Technica",
@@ -608,57 +608,57 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 221.97,
+      "change": 5.5,
+      "change_pct": 2.54
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 386.47,
+      "change": 12.76,
+      "change_pct": 3.41
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 334.76,
+      "change": -5.52,
+      "change_pct": -1.62
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 532.95,
+      "change": 1.08,
+      "change_pct": 0.2
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 343.99,
+      "change": 4.49,
+      "change_pct": 1.32
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 262.37,
+      "change": -0.26,
+      "change_pct": -0.1
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 697.52,
+      "change": 3.27,
+      "change_pct": 0.47
     },
     {
       "symbol": "DELTA.BK",
@@ -669,36 +669,5 @@
       "change_pct": -2.45
     }
   ],
-  "reviews": [
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "ASMR iPhone Duo Unboxing",
-      "video_id": "_4ELeWAgMwo",
-      "link": "https://www.youtube.com/shorts/_4ELeWAgMwo",
-      "thumbnail": "https://i4.ytimg.com/vi/_4ELeWAgMwo/hqdefault.jpg",
-      "published": "2026-10-21T14:00:33+00:00",
-      "title_th": "ASMR iPhone Duo Unboxing"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "iPhone Duo Review: First Generation Fun!",
-      "video_id": "ESABTN4VtrA",
-      "link": "https://www.youtube.com/watch?v=ESABTN4VtrA",
-      "thumbnail": "https://i2.ytimg.com/vi/ESABTN4VtrA/hqdefault.jpg",
-      "published": "2026-10-21T12:00:52+00:00",
-      "title_th": "iPhone Duo Review: First Generation Fun!"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "The NEW Tesla Roadster: My Honest Reaction",
-      "video_id": "scwlR0QHGOk",
-      "link": "https://www.youtube.com/watch?v=scwlR0QHGOk",
-      "thumbnail": "https://i4.ytimg.com/vi/scwlR0QHGOk/hqdefault.jpg",
-      "published": "2026-10-17T02:09:23+00:00",
-      "title_th": "The NEW Tesla Roadster: My Honest Reaction"
-    }
-  ]
+  "reviews": []
 }
