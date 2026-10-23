@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-10-23T02:24:54.179072+00:00",
+  "generated_at": "2026-10-23T08:18:55.448720+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+      "summary_en": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+      "published": "Fri, 23 Oct 2026 04:22:57 +0000",
+      "title_th": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+      "summary_th": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "summary_en": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "published": "Fri, 23 Oct 2026 04:00:00 +0000",
+      "title_th": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "summary_th": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -37,30 +61,6 @@
       "published": "Thu, 22 Oct 2026 23:15:00 +0000",
       "title_th": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
       "summary_th": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
-      "summary_en": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/10/tc-disrupt-2022-chris-dixon-8.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
-      "published": "Thu, 22 Oct 2026 22:34:54 +0000",
-      "title_th": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
-      "summary_th": "The digital asset unit, helmed by Chris Dixon, broadens its scope."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "summary_en": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
-      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "published": "Thu, 22 Oct 2026 22:08:24 +0000",
-      "title_th": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "summary_th": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
     },
     {
       "source": "The Verge",
@@ -426,6 +426,18 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "Greg Joswiak talks iPhone Duo in-store availability and demand ahead of launch",
+      "summary_en": "Friday is iPhone Duo launch day, and there are a lot of eager customers hoping to walk into an Apple Store and get one after a messy pre-order launch . In a new interview with TechRadar , Apple marketing SVP Greg Joswiak offered insight into demand and in-store availability for the first foldable iPhone. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/greg-joz-joswiak-event-sep-2026-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/22/greg-joswiak-talks-iphone-duo-in-store-availability-and-demand-ahead-of-launch/",
+      "published": "Fri, 23 Oct 2026 03:15:09 +0000",
+      "title_th": "Greg Joswiak talks iPhone Duo in-store availability and demand ahead of launch",
+      "summary_th": "Friday is iPhone Duo launch day, and there are a lot of eager customers hoping to walk into an Apple Store and get one after a messy pre-order launch . In a new interview with TechRadar , Apple marketing SVP Greg Joswiak offered insight into demand and in-store availability for the first foldable iPhone. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Apple is finally catching up with Siri, but the goalposts are moving again",
       "summary_en": "9to5Mac is brought to you by Memoket : Memoket Gem is a 0.4 oz AI wearable that slots beside your Apple Watch. One press captures a conversation, and KITE memory connects it to what you said weeks ago. 20-hour battery. Available now from $168.99 on memoket.ai and Amazon. While it is great that Siri AI can finally deliver Apple’s promise of an actually useful, personal assistant for the age of AI, expectations surrounding agentic assistants are quickly shifting. But Apple is showing it might not watch from the sidelines again. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&resize=1200,628",
@@ -469,18 +481,6 @@
       "published": "Thu, 22 Oct 2026 23:29:15 +0000",
       "title_th": "Strava revamps route discovery with smarter search, offline improvements, more",
       "summary_th": "Strava today announced a set of new features aimed at improving route planning and discovery for runs, hikes, and rides. Here are the details. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Retro game emulator Delta looks great on the iPhone Duo",
-      "summary_en": "The popular retro game emulator Delta has today launched a big new 2.0 version, most notably featuring a refreshed Liquid Glass interface and support for the iPhone Duo. The app now has specially-designed controller skins that are optimized for all the different iPhone Duo poses, including some beautiful Nintendo DS layouts that use the full size of the inner display, and cleverly spans the crease when partially folded in book mode in portrait. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-delta-game-emulator.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/22/retro-game-emulator-delta-looks-great-on-the-iphone-duo/",
-      "published": "Thu, 22 Oct 2026 23:23:32 +0000",
-      "title_th": "Retro game emulator Delta looks great on the iPhone Duo",
-      "summary_th": "The popular retro game emulator Delta has today launched a big new 2.0 version, most notably featuring a refreshed Liquid Glass interface and support for the iPhone Duo. The app now has specially-designed controller skins that are optimized for all the different iPhone Duo poses, including some beautiful Nintendo DS layouts that use the full size of the inner display, and cleverly spans the crease when partially folded in book mode in portrait. more…"
     },
     {
       "source": "9to5Google",
@@ -669,5 +669,126 @@
       "change_pct": -2.09
     }
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "ASMR iPhone Duo Unboxing",
+      "video_id": "_4ELeWAgMwo",
+      "link": "https://www.youtube.com/shorts/_4ELeWAgMwo",
+      "thumbnail": "https://i4.ytimg.com/vi/_4ELeWAgMwo/hqdefault.jpg",
+      "published": "2026-10-21T14:00:33+00:00",
+      "title_th": "ASMR iPhone Duo Unboxing"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "iPhone Duo Review: First Generation Fun!",
+      "video_id": "ESABTN4VtrA",
+      "link": "https://www.youtube.com/watch?v=ESABTN4VtrA",
+      "thumbnail": "https://i2.ytimg.com/vi/ESABTN4VtrA/hqdefault.jpg",
+      "published": "2026-10-21T12:00:52+00:00",
+      "title_th": "iPhone Duo Review: First Generation Fun!"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "The NEW Tesla Roadster: My Honest Reaction",
+      "video_id": "scwlR0QHGOk",
+      "link": "https://www.youtube.com/watch?v=scwlR0QHGOk",
+      "thumbnail": "https://i4.ytimg.com/vi/scwlR0QHGOk/hqdefault.jpg",
+      "published": "2026-10-17T02:09:23+00:00",
+      "title_th": "The NEW Tesla Roadster: My Honest Reaction"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Xiaomi 18 Pro Max Unboxing: The REAL Pro Max?",
+      "video_id": "LiQGoDnv2EQ",
+      "link": "https://www.youtube.com/watch?v=LiQGoDnv2EQ",
+      "thumbnail": "https://i1.ytimg.com/vi/LiQGoDnv2EQ/hqdefault.jpg",
+      "published": "2026-10-16T15:26:17+00:00",
+      "title_th": "Xiaomi 18 Pro Max Unboxing: The REAL Pro Max?"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Made for One Person...",
+      "video_id": "dWUkvk0Dsc0",
+      "link": "https://www.youtube.com/shorts/dWUkvk0Dsc0",
+      "thumbnail": "https://i1.ytimg.com/vi/dWUkvk0Dsc0/hqdefault.jpg",
+      "published": "2026-10-15T15:01:50+00:00",
+      "title_th": "Made for One Person..."
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "The Ultimate All-In-One Workstation",
+      "video_id": "6NLHltCsTsQ",
+      "link": "https://www.youtube.com/watch?v=6NLHltCsTsQ",
+      "thumbnail": "https://i3.ytimg.com/vi/6NLHltCsTsQ/hqdefault.jpg",
+      "published": "2026-10-08T17:36:19+00:00",
+      "title_th": "The Ultimate All-In-One Workstation"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "ทรงผมยัง FOMO!",
+      "video_id": "Vz5e82wBED8",
+      "link": "https://www.youtube.com/shorts/Vz5e82wBED8",
+      "thumbnail": "https://i3.ytimg.com/vi/Vz5e82wBED8/hqdefault.jpg",
+      "published": "2026-10-22T23:00:05+00:00",
+      "title_th": "ทรงผมยัง FOMO!"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "ยื่นเช็คเปล่าซื้อแรมล่วงหน้าข้ามปี",
+      "video_id": "crUm1Siag1U",
+      "link": "https://www.youtube.com/shorts/crUm1Siag1U",
+      "thumbnail": "https://i4.ytimg.com/vi/crUm1Siag1U/hqdefault.jpg",
+      "published": "2026-10-22T11:45:22+00:00",
+      "title_th": "ยื่นเช็คเปล่าซื้อแรมล่วงหน้าข้ามปี"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "AI กวาดชิปทั้งโลก แรมจะแพงอีกนานแค่ไหน?",
+      "video_id": "B3IhZ132PjY",
+      "link": "https://www.youtube.com/watch?v=B3IhZ132PjY",
+      "thumbnail": "https://i3.ytimg.com/vi/B3IhZ132PjY/hqdefault.jpg",
+      "published": "2026-10-22T05:35:56+00:00",
+      "title_th": "AI กวาดชิปทั้งโลก แรมจะแพงอีกนานแค่ไหน?"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รีวิว iPhone Duo พับครั้งแรก ไม่สมบูรณ์แบบ แต่น่าใช้พอตัว",
+      "video_id": "EfVjSH-S6qU",
+      "link": "https://www.youtube.com/watch?v=EfVjSH-S6qU",
+      "thumbnail": "https://i2.ytimg.com/vi/EfVjSH-S6qU/hqdefault.jpg",
+      "published": "2026-10-23T04:56:07+00:00",
+      "title_th": "รีวิว iPhone Duo พับครั้งแรก ไม่สมบูรณ์แบบ แต่น่าใช้พอตัว"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "ทรงมันได้ แอป Foldman ได้ฟีล Walkman เล่นเพลงด้วยเทปคาสเซ็ท #Foldman #Walkman #GalaxyZFold8",
+      "video_id": "c2KxqMjhFx0",
+      "link": "https://www.youtube.com/shorts/c2KxqMjhFx0",
+      "thumbnail": "https://i4.ytimg.com/vi/c2KxqMjhFx0/hqdefault.jpg",
+      "published": "2026-10-20T15:10:19+00:00",
+      "title_th": "ทรงมันได้ แอป Foldman ได้ฟีล Walkman เล่นเพลงด้วยเทปคาสเซ็ท #Foldman #Walkman #GalaxyZFold8"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รีวิว Samsung Galaxy A18 สายเน้นใช้งาน ปลอดภัย มี Auto Blocker การันตีอัปเดต 6 ปี!",
+      "video_id": "v6NrjyokGgk",
+      "link": "https://www.youtube.com/watch?v=v6NrjyokGgk",
+      "thumbnail": "https://i3.ytimg.com/vi/v6NrjyokGgk/hqdefault.jpg",
+      "published": "2026-10-19T10:51:44+00:00",
+      "title_th": "รีวิว Samsung Galaxy A18 สายเน้นใช้งาน ปลอดภัย มี Auto Blocker การันตีอัปเดต 6 ปี!"
+    }
+  ]
 }
