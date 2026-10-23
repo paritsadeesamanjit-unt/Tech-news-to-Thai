@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-10-23T00:00:54.805678+00:00",
+  "generated_at": "2026-10-23T02:24:54.179072+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Left alone with nothing to do, AI agents started playing",
+      "summary_en": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590",
+      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "published": "Fri, 23 Oct 2026 00:45:37 +0000",
+      "title_th": "Left alone with nothing to do, AI agents started playing",
+      "summary_th": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+      "summary_en": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799",
+      "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+      "published": "Thu, 22 Oct 2026 23:50:41 +0000",
+      "title_th": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+      "summary_th": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -39,28 +63,16 @@
       "summary_th": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Rivian buys world model startup to accelerate self-driving ambitions",
-      "summary_en": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/Rivian-Universal-Hands-Free.jpg?resize=1200,900",
-      "link": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
-      "published": "Thu, 22 Oct 2026 21:05:05 +0000",
-      "title_th": "Rivian buys world model startup to accelerate self-driving ambitions",
-      "summary_th": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
-      "summary_en": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/05/arc-search-call.png?resize=1200,675",
-      "link": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
-      "published": "Thu, 22 Oct 2026 20:01:51 +0000",
-      "title_th": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
-      "summary_th": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned."
+      "category": "software",
+      "title_en": "Etsy is cracking down on AI slop listings",
+      "summary_en": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are \"concerned about your work appearing alongside items that use […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-5.03.44-PM.png?quality=90&strip=all&crop=0%2C7.8921063654804%2C100%2C66.941443560245&w=1200",
+      "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+      "published": "2026-10-22T20:09:58-04:00",
+      "title_th": "Etsy is cracking down on AI slop listings",
+      "summary_th": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are \"concerned about your work appearing alongside items that use […]"
     },
     {
       "source": "The Verge",
@@ -109,18 +121,6 @@
       "published": "2026-10-22T17:15:16-04:00",
       "title_th": "Fall 2026 earnings watch",
       "summary_th": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies go next."
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Meta’s AI could still scrape news sites, legal experts say",
-      "summary_en": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-      "published": "2026-10-22T16:32:05-04:00",
-      "title_th": "Meta’s AI could still scrape news sites, legal experts say",
-      "summary_th": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape […]"
     },
     {
       "source": "Ars Technica",
@@ -426,6 +426,42 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "Apple is finally catching up with Siri, but the goalposts are moving again",
+      "summary_en": "9to5Mac is brought to you by Memoket : Memoket Gem is a 0.4 oz AI wearable that slots beside your Apple Watch. One press captures a conversation, and KITE memory connects it to what you said weeks ago. 20-hour battery. Available now from $168.99 on memoket.ai and Amazon. While it is great that Siri AI can finally deliver Apple’s promise of an actually useful, personal assistant for the age of AI, expectations surrounding agentic assistants are quickly shifting. But Apple is showing it might not watch from the sidelines again. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/22/apple-is-finally-catching-up-with-siri-but-the-goalposts-are-moving-again/",
+      "published": "Fri, 23 Oct 2026 01:42:38 +0000",
+      "title_th": "Apple is finally catching up with Siri, but the goalposts are moving again",
+      "summary_th": "9to5Mac is brought to you by Memoket : Memoket Gem is a 0.4 oz AI wearable that slots beside your Apple Watch. One press captures a conversation, and KITE memory connects it to what you said weeks ago. 20-hour battery. Available now from $168.99 on memoket.ai and Amazon. While it is great that Siri AI can finally deliver Apple’s promise of an actually useful, personal assistant for the age of AI, expectations surrounding agentic assistants are quickly shifting. But Apple is showing it might not watch from the sidelines again. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "WhatsApp starts testing long-awaited scheduled messages on iPhone",
+      "summary_en": "After years of waiting, WhatsApp is finally making one of its most-requested messaging features available to select iPhone beta testers. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-05.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/22/whatsapp-starts-testing-long-awaited-scheduled-messages-on-iphone/",
+      "published": "Fri, 23 Oct 2026 01:22:37 +0000",
+      "title_th": "WhatsApp starts testing long-awaited scheduled messages on iPhone",
+      "summary_th": "After years of waiting, WhatsApp is finally making one of its most-requested messaging features available to select iPhone beta testers. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "review",
+      "title_en": "Apple wins again in copyright infringement battle over Apple TV thriller series",
+      "summary_en": "The United States Court of Appeals for the Ninth Circuit today upheld a verdict from early last year that cleared Apple of allegations that one of its hit thriller series was copied from an independent film. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-tv-logo-black.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/22/apple-wins-again-in-copyright-infringement-battle-over-apple-tv-thriller-series/",
+      "published": "Fri, 23 Oct 2026 00:30:41 +0000",
+      "title_th": "Apple wins again in copyright infringement battle over Apple TV thriller series",
+      "summary_th": "The United States Court of Appeals for the Ninth Circuit today upheld a verdict from early last year that cleared Apple of allegations that one of its hit thriller series was copied from an independent film. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Strava revamps route discovery with smarter search, offline improvements, more",
       "summary_en": "Strava today announced a set of new features aimed at improving route planning and discovery for runs, hikes, and rides. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-routes.jpg?quality=82&strip=all&resize=1200,628",
@@ -445,42 +481,6 @@
       "published": "Thu, 22 Oct 2026 23:23:32 +0000",
       "title_th": "Retro game emulator Delta looks great on the iPhone Duo",
       "summary_th": "The popular retro game emulator Delta has today launched a big new 2.0 version, most notably featuring a refreshed Liquid Glass interface and support for the iPhone Duo. The app now has specially-designed controller skins that are optimized for all the different iPhone Duo poses, including some beautiful Nintendo DS layouts that use the full size of the inner display, and cleverly spans the crease when partially folded in book mode in portrait. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "MacBook Neo helps Apple soften the blow of global PC market downturn, per report",
-      "summary_en": "A new Counterpoint Research report on global PC shipments for Q3 2026 shows Apple outperforming the broader market, with the MacBook Neo helping cushion the impact of declining demand. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo_eaaffa.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/22/macbook-neo-helps-apple-soften-the-blow-of-global-pc-market-downturn-per-report/",
-      "published": "Thu, 22 Oct 2026 22:35:38 +0000",
-      "title_th": "MacBook Neo helps Apple soften the blow of global PC market downturn, per report",
-      "summary_th": "A new Counterpoint Research report on global PC shipments for Q3 2026 shows Apple outperforming the broader market, with the MacBook Neo helping cushion the impact of declining demand. Here are the details. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "9to5Mac Daily: October 22, 2026 – iOS 27.2 features, Apple Music rebrand",
-      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/22/daily-october-22-2026/",
-      "published": "Thu, 22 Oct 2026 22:23:46 +0000",
-      "title_th": "9to5Mac Daily: October 22, 2026 – iOS 27.2 features, Apple Music rebrand",
-      "summary_th": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "YouTube removing ‘Subscriptions’ bottom bar tab on Android, iOS after nearly a decade",
-      "summary_en": "YouTube is making a number of changes to its Android and iOS apps with the launch of custom feeds , including moving Subscriptions out of the bottom bar. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/YouTube-Subscriptions-move-cover.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/10/22/youtube-subscriptions-android-ios/",
-      "published": "Thu, 22 Oct 2026 22:07:34 +0000",
-      "title_th": "YouTube removing ‘Subscriptions’ bottom bar tab on Android, iOS after nearly a decade",
-      "summary_th": "YouTube is making a number of changes to its Android and iOS apps with the launch of custom feeds , including moving Subscriptions out of the bottom bar. more…"
     },
     {
       "source": "9to5Google",
@@ -546,6 +546,30 @@
       "source": "Electrek",
       "flag": "",
       "category": "ev",
+      "title_en": "Tesla Q4 numbers, more product delays, and some REAL EV charging innovation",
+      "summary_en": "On today’s numerically-infused episode of Quick Charge , we take a look at all the latest product and delivery delays from Tesla’s Q3 earnings call before changing lanes and recapping some of the biggest developments in the world of EV charging innovation. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Tesla-HW3-overheat-fsd-v14-lite.webp.png?resize=1200,628",
+      "link": "https://electrek.co/2026/10/22/tesla-q4-numbers-more-product-delays-and-some-real-ev-charging-innovation/",
+      "published": "Fri, 23 Oct 2026 00:11:04 +0000",
+      "title_th": "Tesla Q4 numbers, more product delays, and some REAL EV charging innovation",
+      "summary_th": "On today’s numerically-infused episode of Quick Charge , we take a look at all the latest product and delivery delays from Tesla’s Q3 earnings call before changing lanes and recapping some of the biggest developments in the world of EV charging innovation. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Another megawatt-level charger enters China: 300 miles in 5 minutes",
+      "summary_en": "Chery has announced a 1.44 megawatt charging system, able to deliver 500km (311 miles) in 5 minutes. And it’s not even the fastest system available in China. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/cherycharge_f-scaled-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/22/another-megawatt-level-charger-enters-china-300-miles-in-5-minutes/",
+      "published": "Fri, 23 Oct 2026 00:06:23 +0000",
+      "title_th": "Another megawatt-level charger enters China: 300 miles in 5 minutes",
+      "summary_th": "Chery has announced a 1.44 megawatt charging system, able to deliver 500km (311 miles) in 5 minutes. And it’s not even the fastest system available in China. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
       "title_en": "sonnen files for insolvency in Germany as US sales double",
       "summary_en": "Residential battery storage maker sonnen is reporting two very different stories today: Its German business has filed for insolvency, while sonnen USA says sales have doubled and it’s preparing to expand. more…",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/sonnenCore-bicycle-2-units-1-scaled-1-2048x1366-1.jpg?quality=82&strip=all&resize=1200,628",
@@ -577,30 +601,6 @@
       "published": "Thu, 22 Oct 2026 21:18:11 +0000",
       "title_th": "BYD is about to launch this luxury electric SUV with 623 miles of range",
       "summary_th": "BYD will open pre-orders for the Denza N8 EV next week, a large five-seat luxury electric SUV with a CLTC range of over 623 miles (1,000 km). more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Seattle plans 200 curbside EV charging stations – and you can request one",
-      "summary_en": "Seattle plans to add up to 200 public curbside Level 2 EV charging stations by 2030, and residents can now request one near their home or apartment. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/CurbsideL2GroundCharger.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/22/seattle-plans-200-curbside-ev-charging-stations-and-you-can-request-one/",
-      "published": "Thu, 22 Oct 2026 20:57:03 +0000",
-      "title_th": "Seattle plans 200 curbside EV charging stations – and you can request one",
-      "summary_th": "Seattle plans to add up to 200 public curbside Level 2 EV charging stations by 2030, and residents can now request one near their home or apartment. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Tesla now says it needs its own maps for FSD after years of dismissing maps",
-      "summary_en": "Tesla says it’s building its own maps to fix some of the most common problems with its “Full Self-Driving” system, including reading speed limits, parking, and choosing routes. The company’s head of AI described the effort on Tesla’s Q3 2026 earnings call. It’s a notable shift for a company whose CEO spent years arguing that self-driving systems relying on maps are brittle. And it shows Tesla’s fleet is now doing the same job Waymo’s cars do: mapping the roads so the self-driving system knows what it can’t reliably figure out on its own. Tesla fans argue that Waymo’s approach differs because it creates HD maps with lidar, but ultimately both are creating their own maps; if your argument is that Tesla’s maps are less well-defined and needed for driving for different reasons than Waymo’s, yo",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2021/11/Tesla-Software-Update-Interior-2.0.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/22/tesla-building-own-maps-fsd-after-mocking-maps/",
-      "published": "Thu, 22 Oct 2026 20:03:18 +0000",
-      "title_th": "Tesla now says it needs its own maps for FSD after years of dismissing maps",
-      "summary_th": "Tesla says it’s building its own maps to fix some of the most common problems with its “Full Self-Driving” system, including reading speed limits, parking, and choosing routes. The company’s head of AI described the effort on Tesla’s Q3 2026 earnings call. It’s a notable shift for a company whose CEO spent years arguing that self-driving systems relying on maps are brittle. And it shows Tesla’s fleet is now doing the same job Waymo’s cars do: mapping the roads so the self-driving system knows what it can’t reliably figure out on its own. Tesla fans argue that Waymo’s approach differs because it creates HD maps with lidar, but ultimately both are creating their own maps; if your argument is that Tesla’s maps are less well-defined and needed for driving for different reasons than Waymo’s, yo"
     }
   ],
   "indices": [
@@ -608,57 +608,57 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 212.21,
+      "change": -9.76,
+      "change_pct": -4.4
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 374.58,
+      "change": -11.89,
+      "change_pct": -3.08
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 324.22,
+      "change": -10.54,
+      "change_pct": -3.15
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 521.08,
+      "change": -11.87,
+      "change_pct": -2.23
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 348.22,
+      "change": 4.23,
+      "change_pct": 1.23
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 250.38,
+      "change": -11.99,
+      "change_pct": -4.57
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 648.85,
+      "change": -48.67,
+      "change_pct": -6.98
     },
     {
       "symbol": "DELTA.BK",
