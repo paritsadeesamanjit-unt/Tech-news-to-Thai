@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-10-24T20:12:38.642043+00:00",
+  "generated_at": "2026-10-24T23:06:36.105879+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Starlink seems to be working normally again in Ukraine",
+      "summary_en": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "published": "Sat, 24 Oct 2026 20:46:34 +0000",
+      "title_th": "Starlink seems to be working normally again in Ukraine",
+      "summary_th": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Will AI expose the rickety infrastructure of the internet?",
+      "summary_en": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1195574782.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "published": "Sat, 24 Oct 2026 20:15:33 +0000",
+      "title_th": "Will AI expose the rickety infrastructure of the internet?",
+      "summary_th": "The moment you realize the internet is \"held together by glue and dreams.\""
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -39,28 +63,16 @@
       "summary_th": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "gadget",
-      "title_en": "These clever apps show off the iPhone Duo’s potential",
-      "summary_en": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
-      "link": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-      "published": "Sat, 24 Oct 2026 15:00:00 +0000",
-      "title_th": "These clever apps show off the iPhone Duo’s potential",
-      "summary_th": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "summary_en": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900",
-      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "published": "Sat, 24 Oct 2026 15:00:00 +0000",
-      "title_th": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "summary_th": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
+      "category": "software",
+      "title_en": "Blue Planet III is keeping the rough edges in the age of AI",
+      "summary_en": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&strip=all&crop=0%2C3.4695867913185%2C100%2C93.060826417363&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "published": "2026-10-24T17:29:12-04:00",
+      "title_th": "Blue Planet III is keeping the rough edges in the age of AI",
+      "summary_th": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]"
     },
     {
       "source": "The Verge",
@@ -109,18 +121,6 @@
       "published": "2026-10-24T10:00:00-04:00",
       "title_th": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
       "summary_th": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook. Like the Apple silicon in modern MacBook Pros, RTX Spark is […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Lee Chang Dong ponders the ethics of the camera",
-      "summary_en": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the latest in a long line of Lee movies that engage with themes of class or labor […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Possible-Love_NYFF64_03.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
-      "published": "2026-10-24T08:30:00-04:00",
-      "title_th": "Lee Chang Dong ponders the ethics of the camera",
-      "summary_th": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the latest in a long line of Lee movies that engage with themes of class or labor […]"
     },
     {
       "source": "Ars Technica",
@@ -306,6 +306,18 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "What are the different types of digital wallets?",
+      "summary_en": "Digital wallets can completely remove the need to carry cards and cash, but there's a lot more to them than just your usual Apple, Samsung and Google offerings.",
+      "image": "https://www.engadget.com/img/gallery/what-are-the-different-types-of-digital-wallets/l-intro-1792568656.jpg",
+      "link": "https://www.engadget.com/2292582/different-types-digital-wallet-explained/",
+      "published": "Sat, 24 Oct 2026 22:30:00 +0000",
+      "title_th": "What are the different types of digital wallets?",
+      "summary_th": "Digital wallets can completely remove the need to carry cards and cash, but there's a lot more to them than just your usual Apple, Samsung and Google offerings."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "Google is quietly linking your phone number to other Android accounts",
       "summary_en": "Adding a new SIM to your phone links it to all Google accounts, and any new Google accounts you add all inherit your phone number.",
       "image": "https://www.engadget.com/img/gallery/google-is-quietly-linking-your-phone-number-to-other-android-accounts/l-intro-1792517776.jpg",
@@ -349,18 +361,6 @@
       "published": "Sat, 24 Oct 2026 16:00:00 +0000",
       "title_th": "Your smart TV's Wi-Fi is probably faster than its Ethernet, but speed isn't everything",
       "summary_th": "You might have never thought to use Ethernet with your TV, but it's not speed that's worth connecting for."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "What is Theater Mode on your Apple Watch and when should you use it?",
-      "summary_en": "There are various ways to silence your Apple Watch when you need to lock in. Theater Mode doesn't quite go as far as Do Not Disturb, but it's still very useful.",
-      "image": "https://www.engadget.com/img/gallery/what-is-theater-mode-on-your-apple-watch-and-when-should-you-use-it/l-intro-1792501458.jpg",
-      "link": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
-      "published": "Sat, 24 Oct 2026 15:30:00 +0000",
-      "title_th": "What is Theater Mode on your Apple Watch and when should you use it?",
-      "summary_th": "There are various ways to silence your Apple Watch when you need to lock in. Theater Mode doesn't quite go as far as Do Not Disturb, but it's still very useful."
     },
     {
       "source": "IEEE Spectrum",
@@ -425,6 +425,18 @@
     {
       "source": "9to5Mac",
       "flag": "",
+      "category": "review",
+      "title_en": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry",
+      "summary_en": "Belkin is now offering two new semi solid state batteries for your iPhone. There’s one 10,000mAh offering with a USB-C port for charging. The second is a 5,000mAh MagSafe offering , which offers 15W Qi2 charging. Both come in much lighter than you’d expect, and both offer premium aluminum builds that are cold to the touch. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC03234.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone/",
+      "published": "Sat, 24 Oct 2026 21:46:33 +0000",
+      "title_th": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry",
+      "summary_th": "Belkin is now offering two new semi solid state batteries for your iPhone. There’s one 10,000mAh offering with a USB-C port for charging. The second is a 5,000mAh MagSafe offering , which offers 15W Qi2 charging. Both come in much lighter than you’d expect, and both offer premium aluminum builds that are cold to the touch. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
       "category": "gadget",
       "title_en": "Indie App Spotlight: ‘Flipcorder’ lets you shoot retro footage on your iPhone Duo",
       "summary_en": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . If you want more of a nostalgic video feel from your iPhone footage, Flipcorder is a great app to check out. It’s optimized for iPhone Duo, though the app also works on all other iPhone models. more…",
@@ -469,18 +481,6 @@
       "published": "Sat, 24 Oct 2026 13:00:00 +0000",
       "title_th": "Apple @ Work: The browser is the biggest gap in your AI governance strategy",
       "summary_th": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . Most IT teams have a reasonable handle on what AI apps are installed across their Mac environment. Your device management vendor can show you what’s running; policies can block which apps shouldn’t be there; and vendors have been adding AI visibility features over the past year. The app"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple weekend deals: Apple TV 4K, MacBook Pro $900 off, Pencil (USB-C), AirPods Pro 3, more",
-      "summary_en": "The early discount on the new Apple Pencil (USB-C) for your new Duo, not to mention an ongoing all-time low on AirTag 2. On the Mac side of things we have a gigantic $900 price drop on this high-end MacBook Pro config , $200 off M5 MacBook Air models, and ongoing all-time lows at as much as $200 off the new M6 Mac mini and the latest Mac Studio . Hit the jump for everything, including a host of discounts on iPhone Duo cases and accessories. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Best-Apple-weekend-deals-Apple-TV-4K-AirPods.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/24/apple-weekend-deals-apple-tv-4k-macbook-pencil-airpods/",
-      "published": "Sat, 24 Oct 2026 12:15:32 +0000",
-      "title_th": "Apple weekend deals: Apple TV 4K, MacBook Pro $900 off, Pencil (USB-C), AirPods Pro 3, more",
-      "summary_th": "The early discount on the new Apple Pencil (USB-C) for your new Duo, not to mention an ongoing all-time low on AirTag 2. On the Mac side of things we have a gigantic $900 price drop on this high-end MacBook Pro config , $200 off M5 MacBook Air models, and ongoing all-time lows at as much as $200 off the new M6 Mac mini and the latest Mac Studio . Hit the jump for everything, including a host of discounts on iPhone Duo cases and accessories. more…"
     },
     {
       "source": "9to5Google",
