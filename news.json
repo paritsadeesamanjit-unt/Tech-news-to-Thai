@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T18:14:32.462610+00:00",
+  "generated_at": "2026-10-25T20:22:36.184969+00:00",
   "count": 50,
   "articles": [
     {
@@ -66,6 +66,18 @@
       "source": "The Verge",
       "flag": "US",
       "category": "software",
+      "title_en": "Zen Browser is the Arc replacement I was looking for",
+      "summary_en": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even more AI-focused browser. And […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_4433.png?quality=90&strip=all&crop=0%2C11.023851076207%2C100%2C77.952297847586&w=1200",
+      "link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+      "published": "2026-10-25T15:24:50-04:00",
+      "title_th": "Zen Browser is the Arc replacement I was looking for",
+      "summary_th": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even more AI-focused browser. And […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
       "title_en": "This Switch 2 sequel accessory was a few millimeters away from being good",
       "summary_en": "The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The Nitro Deck 2, made for both the original Switch and the larger Switch 2, continues the tradition of […]",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_56c540.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
@@ -109,18 +121,6 @@
       "published": "2026-10-25T08:00:00-04:00",
       "title_th": "Google’s AI search changes upended online publishing",
       "summary_th": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Blue Planet III is keeping the rough edges in the age of AI",
-      "summary_en": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&strip=all&crop=0%2C3.4695867913185%2C100%2C93.060826417363&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "published": "2026-10-24T17:29:12-04:00",
-      "title_th": "Blue Planet III is keeping the rough edges in the age of AI",
-      "summary_th": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]"
     },
     {
       "source": "Ars Technica",
@@ -305,6 +305,42 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "chip",
+      "title_en": "What does the bell icon mean on your CarPlay screen?",
+      "summary_en": "Even as a simplified interface, CarPlay has a few icons that aren't so obvious, like its bell that appears on the app switcher.",
+      "image": "https://www.engadget.com/img/gallery/what-does-the-bell-icon-mean-on-your-carplay-screen/l-intro-1792672048.jpg",
+      "link": "https://www.engadget.com/2293911/what-bell-icon-means-carplay-announce-notifications-feature/",
+      "published": "Sun, 25 Oct 2026 18:45:00 +0000",
+      "title_th": "What does the bell icon mean on your CarPlay screen?",
+      "summary_th": "Even as a simplified interface, CarPlay has a few icons that aren't so obvious, like its bell that appears on the app switcher."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "The most unexpected everyday tool can be found on your phone",
+      "summary_en": "If you have an iPhone, that is.",
+      "image": "https://www.engadget.com/img/gallery/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/l-intro-1792514406.jpg",
+      "link": "https://www.engadget.com/2294275/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/",
+      "published": "Sun, 25 Oct 2026 18:30:00 +0000",
+      "title_th": "The most unexpected everyday tool can be found on your phone",
+      "summary_th": "If you have an iPhone, that is."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Even the best mesh Wi-Fi system can be easily improved with a simple cable",
+      "summary_en": "Mesh systems generally provide better Wi-Fi coverage than standalone routers, but you can make the mesh signal even stronger.",
+      "image": "https://www.engadget.com/img/gallery/even-the-best-mesh-wi-fi-system-can-be-easily-improved-with-a-simple-cable/l-intro-1792611196.jpg",
+      "link": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+      "published": "Sun, 25 Oct 2026 18:00:00 +0000",
+      "title_th": "Even the best mesh Wi-Fi system can be easily improved with a simple cable",
+      "summary_th": "Mesh systems generally provide better Wi-Fi coverage than standalone routers, but you can make the mesh signal even stronger."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "gadget",
       "title_en": "What features do you lose if you use Apple AirPods with a Samsung Galaxy phone?",
       "summary_en": "AirPods work with any Bluetooth device, but they lose almost all of Apple's fancy features.",
@@ -325,42 +361,6 @@
       "published": "Sun, 25 Oct 2026 16:15:00 +0000",
       "title_th": "The internet needs IPv6 and so does your home network",
       "summary_th": "IPv6 has more available addresses than we could ever hope to use, but not all devices are taking advantage yet."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Get the ultimate security for your MacBook by changing these privacy settings",
-      "summary_en": "Your Mac comes with a fairly robust suite of built-in privacy tools.",
-      "image": "https://www.engadget.com/img/gallery/get-the-ultimate-security-for-your-macbook-by-changing-these-privacy-settings/l-intro-1792599428.jpg",
-      "link": "https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/",
-      "published": "Sun, 25 Oct 2026 14:45:00 +0000",
-      "title_th": "Get the ultimate security for your MacBook by changing these privacy settings",
-      "summary_th": "Your Mac comes with a fairly robust suite of built-in privacy tools."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Samsung probably isn't rebranding One UI as Galaxy OS",
-      "summary_en": "A bunch of recent rumors have suggested Samsung has some changes in store for its smartphone interface.",
-      "image": "https://www.engadget.com/img/gallery/samsung-probably-isnt-rebranding-one-ui-as-galaxy-os/l-intro-1792594756.jpg",
-      "link": "https://www.engadget.com/2292973/samsung-probably-not-rebranding-one-ui-as-galaxy-os/",
-      "published": "Sun, 25 Oct 2026 13:45:00 +0000",
-      "title_th": "Samsung probably isn't rebranding One UI as Galaxy OS",
-      "summary_th": "A bunch of recent rumors have suggested Samsung has some changes in store for its smartphone interface."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Quantum computers can get colder than deep space — Here's how they stay running",
-      "summary_en": "Heat disrupts the accuracy of a quantum computer, so the computer needs to be kept as cold as possible. Which is extremely cold, it turns out.",
-      "image": "https://www.engadget.com/img/gallery/quantum-computers-can-get-colder-than-deep-space-heres-how-they-stay-running/l-intro-1792594079.jpg",
-      "link": "https://www.engadget.com/2292950/how-quantum-computer-stays-running-extreme-cold/",
-      "published": "Sun, 25 Oct 2026 13:30:00 +0000",
-      "title_th": "Quantum computers can get colder than deep space — Here's how they stay running",
-      "summary_th": "Heat disrupts the accuracy of a quantum computer, so the computer needs to be kept as cold as possible. Which is extremely cold, it turns out."
     },
     {
       "source": "IEEE Spectrum",
@@ -545,6 +545,18 @@
     {
       "source": "Electrek",
       "flag": "",
+      "category": "gadget",
+      "title_en": "XCMG debuts new, fully autonomous electric terminal tractor [video]",
+      "summary_en": "The new XCMG SDA411 concept terminal truck is fully electric, has no cabin, and an L4 autonomous tech stack that’s purpose-built for unmanned logistics – and, if XCMG get their way, it looks like the future of drayage truck operations. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/xcmg_autonomous-hauler.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/25/xcmg-debuts-new-fully-autonomous-electric-terminal-tractor-video/",
+      "published": "Sun, 25 Oct 2026 18:34:53 +0000",
+      "title_th": "XCMG debuts new, fully autonomous electric terminal tractor [video]",
+      "summary_th": "The new XCMG SDA411 concept terminal truck is fully electric, has no cabin, and an L4 autonomous tech stack that’s purpose-built for unmanned logistics – and, if XCMG get their way, it looks like the future of drayage truck operations. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
       "category": "ev",
       "title_en": "Battery electric, solar-powered reefer units reach their first customers",
       "summary_en": "The first regular production solar-powered electric trailer refrigeration unit (TRU) in Australia has hit the road with a real customer. Family-owned transport giant Wickham Freight Lines took delivery of the revolutionary reefer just this week. more…",
@@ -589,18 +601,6 @@
       "published": "Sat, 24 Oct 2026 13:00:00 +0000",
       "title_th": "NHTSA proposes cyan lights for robotaxis, following Mercedes/China",
       "summary_th": "The NHTSA has proposed using cyan-colored lights to identify vehicles operating autonomously, along with other additions to get ready for autonomous vehicles. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "EGO Commercial expands ZTR line with mowers, blowers, and trimmers",
-      "summary_en": "EGO Power’s commercial group showed up at this week’s EQUIP Expo with a trio of new zero-turn riding mowers, a commercial-grade 780 CFM leaf blower , and a heavy-duty 16.5″ trimmer built for the 56V PGX battery system. And, with incentive programs designed to help landscapers make the switch to electric popping up all over , the timing couldn’t be better. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/eg0_MAIN.png?resize=1200,628",
-      "link": "https://electrek.co/2026/10/24/ego-commercial-expands-ztr-line-with-mowers-blowers-and-trimmers/",
-      "published": "Sat, 24 Oct 2026 11:59:07 +0000",
-      "title_th": "EGO Commercial expands ZTR line with mowers, blowers, and trimmers",
-      "summary_th": "EGO Power’s commercial group showed up at this week’s EQUIP Expo with a trio of new zero-turn riding mowers, a commercial-grade 780 CFM leaf blower , and a heavy-duty 16.5″ trimmer built for the 56V PGX battery system. And, with incentive programs designed to help landscapers make the switch to electric popping up all over , the timing couldn’t be better. more…"
     }
   ],
   "indices": [
