@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T08:10:46.822234+00:00",
+  "generated_at": "2026-10-25T13:44:05.376604+00:00",
   "count": 50,
   "articles": [
     {
@@ -66,6 +66,18 @@
       "source": "The Verge",
       "flag": "US",
       "category": "software",
+      "title_en": "Google’s AI search changes upended online publishing",
+      "summary_en": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "published": "2026-10-25T08:00:00-04:00",
+      "title_th": "Google’s AI search changes upended online publishing",
+      "summary_th": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
       "title_en": "Blue Planet III is keeping the rough edges in the age of AI",
       "summary_en": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&strip=all&crop=0%2C3.4695867913185%2C100%2C93.060826417363&w=1200",
@@ -109,18 +121,6 @@
       "published": "2026-10-24T10:15:00-04:00",
       "title_th": "What to expect from Apple’s ‘Pro and tell’ event",
       "summary_th": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" event is scheduled for October 28th at 1PM ET in Los Angeles. […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
-      "summary_en": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook. Like the Apple silicon in modern MacBook Pros, RTX Spark is […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
-      "published": "2026-10-24T10:00:00-04:00",
-      "title_th": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
-      "summary_th": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook. Like the Apple silicon in modern MacBook Pros, RTX Spark is […]"
     },
     {
       "source": "Ars Technica",
@@ -185,62 +185,62 @@
     {
       "source": "Wired",
       "flag": "US",
+      "category": "review",
+      "title_en": "Wallhack M-001 Review: When Fun Overrides Specs",
+      "summary_en": "With a tactile dongle for on-the-fly customization and a metal chassis, the Wallhack M-001 is the most fun I've had reviewing a gaming mouse in a long time.",
+      "image": "https://media.wired.com/photos/6adbbc51f337c510e207c213/master/pass/Review%20Wallhack%20M-001%20Gaming%20Mouse%20102026%20top%20art%20SOURCE%20Wallhack.jpg",
+      "link": "https://www.wired.com/review/wallhack-m-001/",
+      "published": "Sun, 25 Oct 2026 12:30:00 +0000",
+      "title_th": "Wallhack M-001 Review: When Fun Overrides Specs",
+      "summary_th": "With a tactile dongle for on-the-fly customization and a metal chassis, the Wallhack M-001 is the most fun I've had reviewing a gaming mouse in a long time."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
       "category": "ai",
-      "title_en": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
-      "summary_en": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
-      "image": "https://media.wired.com/photos/6adbb8a7e6d0c133525c3e7c/master/pass/KernelPanic_The%20PHP%20Meltdown%20Shows%20How%20AI%20Makes%20Bugs%20More%20Exploitable.jpg",
-      "link": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
-      "published": "Sat, 24 Oct 2026 12:00:00 +0000",
-      "title_th": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
-      "summary_th": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began."
+      "title_en": "Scientists Trapped an Antimatter Particle for Months to Study Its Secrets",
+      "summary_en": "These elusive and reactive particles have been challenging to hold on to and even more challenging to study, but a new method paves the way for tests on the differences between matter and antimatter.",
+      "image": "https://media.wired.com/photos/6adaaa0519e924cf3288639a/master/pass/1344013114",
+      "link": "https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/",
+      "published": "Sun, 25 Oct 2026 12:00:00 +0000",
+      "title_th": "Scientists Trapped an Antimatter Particle for Months to Study Its Secrets",
+      "summary_th": "These elusive and reactive particles have been challenging to hold on to and even more challenging to study, but a new method paves the way for tests on the differences between matter and antimatter."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "gadget",
-      "title_en": "9 Unique Apps to Try on the iPhone Duo",
-      "summary_en": "Apple’s first folding phone is inspiring indie developers to create fun, quirky apps that take advantage of the screen and the hinge. Here are a few to try as you explore the Duo.",
-      "image": "https://media.wired.com/photos/6adb699efc34ba9fae2279b4/master/pass/Top%20Art%20SOURCE%20Julian%20Chokkattu.jpg",
-      "link": "https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/",
-      "published": "Sat, 24 Oct 2026 10:45:00 +0000",
-      "title_th": "9 Unique Apps to Try on the iPhone Duo",
-      "summary_th": "Apple’s first folding phone is inspiring indie developers to create fun, quirky apps that take advantage of the screen and the hinge. Here are a few to try as you explore the Duo."
+      "title_en": "6 Best Folding Phones (2026): Samsung, Apple, Google, Motorola",
+      "summary_en": "Ready to move on from the traditional glass slab? Introduce a hinge into your life with these folding smartphones.",
+      "image": "https://media.wired.com/photos/6adb855058fe17d926e68364/master/pass/Best%20Folding%20Phones%20iPhone%20Duo%20102026%20top%20art%20SOURCE%20Samsung-Apple.jpg",
+      "link": "https://www.wired.com/gallery/best-folding-phones/",
+      "published": "Sun, 25 Oct 2026 11:30:00 +0000",
+      "title_th": "6 Best Folding Phones (2026): Samsung, Apple, Google, Motorola",
+      "summary_th": "Ready to move on from the traditional glass slab? Introduce a hinge into your life with these folding smartphones."
     },
     {
       "source": "Wired",
       "flag": "US",
-      "category": "review",
-      "title_en": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
-      "summary_en": "I’ve been reviewing laptops for over a decade, and here’s my advice for finding the right laptop for you.",
-      "image": "https://media.wired.com/photos/6adb93924c15513ff5ac298b/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Best%20Buy-Walmart.jpg",
-      "link": "https://www.wired.com/story/best-laptops/",
-      "published": "Sat, 24 Oct 2026 10:00:00 +0000",
-      "title_th": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
-      "summary_th": "I’ve been reviewing laptops for over a decade, and here’s my advice for finding the right laptop for you."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "review",
-      "title_en": "Ray-Ban Meta Audio Review: The Best Smart Glasses",
-      "summary_en": "No cameras? No problem. Ditching the surveillance baggage makes Meta’s audio-only frames surprisingly easy to live with.",
-      "image": "https://media.wired.com/photos/6adb65de4cb8f4b09a1af178/master/pass/Ray-Ban%20Meta%20Audio%20-%20Lifestyle2.jpg",
-      "link": "https://www.wired.com/review/ray-ban-meta-audio/",
-      "published": "Sat, 24 Oct 2026 09:15:00 +0000",
-      "title_th": "Ray-Ban Meta Audio Review: The Best Smart Glasses",
-      "summary_th": "No cameras? No problem. Ditching the surveillance baggage makes Meta’s audio-only frames surprisingly easy to live with."
+      "category": "gadget",
+      "title_en": "The MacBook Pro Max Just Dropped to Its Lowest Price Ever",
+      "summary_en": "Apple will reportedly launch an innovative new MacBook next week, which means existing options have their largest discount yet.",
+      "image": "https://media.wired.com/photos/6adbb2adc29fe197e2045863/master/pass/MacBook%20Pro%20Prices%20Drop%20to%20All-Time%20Low%20deals%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "link": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+      "published": "Sun, 25 Oct 2026 11:00:00 +0000",
+      "title_th": "The MacBook Pro Max Just Dropped to Its Lowest Price Ever",
+      "summary_th": "Apple will reportedly launch an innovative new MacBook next week, which means existing options have their largest discount yet."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Garmin Vivoactive 5 and Forerunner 165 Are up to 30 Percent Off (2026)",
-      "summary_en": "The Vivoactive 5, Forerunner 165, and Venu 3 have plenty to offer—and their current prices sweeten the deal.",
-      "image": "https://media.wired.com/photos/6adba70ca15e7091703dcd90/master/pass/Garmin%20Deals%20October%202026%20top%20art%20SOURCE%20Amazon.jpg",
-      "link": "https://www.wired.com/story/garmin-deals-october-2026/",
-      "published": "Sat, 24 Oct 2026 09:06:00 +0000",
-      "title_th": "Garmin Vivoactive 5 and Forerunner 165 Are up to 30 Percent Off (2026)",
-      "summary_th": "The Vivoactive 5, Forerunner 165, and Venu 3 have plenty to offer—and their current prices sweeten the deal."
+      "title_en": "Oil Spills Wreak Havoc on the Bottom of the Ocean, Even a Decade Later",
+      "summary_en": "While oil is known to float, new research finds that over time it can permeate even extremely deep marine habitats, with animal populations declining by as much as 80 percent.",
+      "image": "https://media.wired.com/photos/6ad9cf0216c3bcd306bcde9c/master/pass/GettyImages-99306371.jpg",
+      "link": "https://www.wired.com/story/oil-spills-wreak-havoc-on-the-bottom-of-the-ocean-even-a-decade-later/",
+      "published": "Sun, 25 Oct 2026 10:30:00 +0000",
+      "title_th": "Oil Spills Wreak Havoc on the Bottom of the Ocean, Even a Decade Later",
+      "summary_th": "While oil is known to float, new research finds that over time it can permeate even extremely deep marine habitats, with animal populations declining by as much as 80 percent."
     },
     {
       "source": "MIT Technology Review",
@@ -306,6 +306,54 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "Don't throw away your old Chromebook (even if you're getting a Googlebook)",
+      "summary_en": "There's plenty an old Chromebook can do, even if it's not your main computer.",
+      "image": "https://www.engadget.com/img/gallery/dont-throw-away-your-old-chromebook-even-if-youre-getting-a-googlebook/l-intro-1792593842.jpg",
+      "link": "https://www.engadget.com/2292939/dont-throw-away-old-chromebook-even-if-getting-googlebook/",
+      "published": "Sun, 25 Oct 2026 13:15:00 +0000",
+      "title_th": "Don't throw away your old Chromebook (even if you're getting a Googlebook)",
+      "summary_th": "There's plenty an old Chromebook can do, even if it's not your main computer."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "When AI glasses could be a worthy headphones replacement",
+      "summary_en": "Smart AI glasses like Ray-Ban Meta smart glasses can be used as headphones for calls, notifications and music. But are they as good as headphones? Probably not.",
+      "image": "https://www.engadget.com/img/gallery/when-ai-glasses-could-be-a-worthy-headphones-replacement/l-intro-1792519044.jpg",
+      "link": "https://www.engadget.com/2292076/when-ai-glasses-worth-headphones-replacement/",
+      "published": "Sun, 25 Oct 2026 12:45:00 +0000",
+      "title_th": "When AI glasses could be a worthy headphones replacement",
+      "summary_th": "Smart AI glasses like Ray-Ban Meta smart glasses can be used as headphones for calls, notifications and music. But are they as good as headphones? Probably not."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Don't throw away your old speakers — Use them for your TV instead",
+      "summary_en": "Old speakers often get set aside alongside the device they were used with, but you may still be able to use them with your current tech.",
+      "image": "https://www.engadget.com/img/gallery/dont-throw-away-your-old-speakers-use-them-for-your-tv-instead/l-intro-1792506662.jpg",
+      "link": "https://www.engadget.com/2291638/dont-throw-away-old-speakers-use-for-tv-instead/",
+      "published": "Sun, 25 Oct 2026 12:30:00 +0000",
+      "title_th": "Don't throw away your old speakers — Use them for your TV instead",
+      "summary_th": "Old speakers often get set aside alongside the device they were used with, but you may still be able to use them with your current tech."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Smart bulbs are easy to install, but this smart home upgrade is more inclusive",
+      "summary_en": "Smart bulbs are convenient until someone turns off the wall switch or your home loses power. Some bulbs activate at full brightness when power is restored.",
+      "image": "https://www.engadget.com/img/gallery/smart-bulbs-are-easy-to-install-but-this-smart-home-upgrade-is-more-inclusive/l-intro-1792502749.jpg",
+      "link": "https://www.engadget.com/2291551/smart-bulbs-easy-install-smart-switch-home-upgrade-more-inclusive/",
+      "published": "Sun, 25 Oct 2026 12:15:00 +0000",
+      "title_th": "Smart bulbs are easy to install, but this smart home upgrade is more inclusive",
+      "summary_th": "Smart bulbs are convenient until someone turns off the wall switch or your home loses power. Some bulbs activate at full brightness when power is restored."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "What is the cheapest new gaming console you can buy in 2026?",
       "summary_en": "A cheap console can become expensive in the long run if its games never go on sale, so it depends on what you want to play.",
       "image": "https://www.engadget.com/img/gallery/what-is-the-cheapest-new-gaming-console-you-can-buy-in-2026/l-intro-1792596898.jpg",
@@ -313,54 +361,6 @@
       "published": "Sun, 25 Oct 2026 00:00:00 +0000",
       "title_th": "What is the cheapest new gaming console you can buy in 2026?",
       "summary_th": "A cheap console can become expensive in the long run if its games never go on sale, so it depends on what you want to play."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "How to extend the battery life of your Apple AirTags",
-      "summary_en": "An AirTag's battery is easy to replace, but you don't want it to run low at a critical moment.",
-      "image": "https://www.engadget.com/img/gallery/how-to-extend-the-battery-life-of-your-apple-airtags/l-intro-1792593493.jpg",
-      "link": "https://www.engadget.com/2292921/how-to-extend-battery-life-apple-airtags/",
-      "published": "Sat, 24 Oct 2026 23:45:00 +0000",
-      "title_th": "How to extend the battery life of your Apple AirTags",
-      "summary_th": "An AirTag's battery is easy to replace, but you don't want it to run low at a critical moment."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "ev",
-      "title_en": "Why your EV battery still loses charge while it's parked",
-      "summary_en": "Electric vehicles lose battery when they're left unused for long periods. There are a number of reasons why, and some might be totally out of your control.",
-      "image": "https://www.engadget.com/img/gallery/why-your-ev-battery-still-loses-charge-while-its-parked/l-intro-1792579754.jpg",
-      "link": "https://www.engadget.com/2292646/ev-battery-why-it-loses-charge-when-parked/",
-      "published": "Sat, 24 Oct 2026 23:00:00 +0000",
-      "title_th": "Why your EV battery still loses charge while it's parked",
-      "summary_th": "Electric vehicles lose battery when they're left unused for long periods. There are a number of reasons why, and some might be totally out of your control."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "ev",
-      "title_en": "What kind of cooling system do EV batteries use and how does it work?",
-      "summary_en": "Electric cars need incredibly large batteries that offer long driving ranges and charge quickly, but remain cool when under load. This is how they do so.",
-      "image": "https://www.engadget.com/img/gallery/what-kind-of-cooling-system-do-ev-batteries-use-and-how-does-it-work/l-intro-1792571941.jpg",
-      "link": "https://www.engadget.com/2292606/ev-battery-cooling-system-how-works/",
-      "published": "Sat, 24 Oct 2026 22:45:00 +0000",
-      "title_th": "What kind of cooling system do EV batteries use and how does it work?",
-      "summary_th": "Electric cars need incredibly large batteries that offer long driving ranges and charge quickly, but remain cool when under load. This is how they do so."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "What are the different types of digital wallets?",
-      "summary_en": "Digital wallets can completely remove the need to carry cards and cash, but there's a lot more to them than just your usual Apple, Samsung and Google offerings.",
-      "image": "https://www.engadget.com/img/gallery/what-are-the-different-types-of-digital-wallets/l-intro-1792568656.jpg",
-      "link": "https://www.engadget.com/2292582/different-types-digital-wallet-explained/",
-      "published": "Sat, 24 Oct 2026 22:30:00 +0000",
-      "title_th": "What are the different types of digital wallets?",
-      "summary_th": "Digital wallets can completely remove the need to carry cards and cash, but there's a lot more to them than just your usual Apple, Samsung and Google offerings."
     },
     {
       "source": "IEEE Spectrum",
@@ -425,6 +425,18 @@
     {
       "source": "9to5Mac",
       "flag": "",
+      "category": "gadget",
+      "title_en": "Some iPhone Duo displays are cracking, seemingly all in the same way",
+      "summary_en": "Following the iPhone Duo launch on Friday, a number of owners are reporting that their inner screens have cracked and broken on their own (top image via scary_duck23 on Reddit ). The affected units all seem to break in the same way. The screen cracks down the center line of the hinge, and a horizontal block of pixels on the screen is then stuck glowing white. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-display-crack-issue.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/25/iphone-duo-displays-cracking/",
+      "published": "Sun, 25 Oct 2026 10:45:33 +0000",
+      "title_th": "Some iPhone Duo displays are cracking, seemingly all in the same way",
+      "summary_th": "Following the iPhone Duo launch on Friday, a number of owners are reporting that their inner screens have cracked and broken on their own (top image via scary_duck23 on Reddit ). The affected units all seem to break in the same way. The screen cracks down the center line of the hinge, and a horizontal block of pixels on the screen is then stuck glowing white. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
       "category": "review",
       "title_en": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry",
       "summary_en": "Belkin is now offering two new semi solid state batteries for your iPhone. There’s one 10,000mAh offering with a USB-C port for charging. The second is a 5,000mAh MagSafe offering , which offers 15W Qi2 charging. Both come in much lighter than you’d expect, and both offer premium aluminum builds that are cold to the touch. more…",
@@ -469,18 +481,6 @@
       "published": "Sat, 24 Oct 2026 16:00:00 +0000",
       "title_th": "Cybersecurity Awareness Week: How to remove your personal data from the internet, and why Apple’s tools alone aren’t enough",
       "summary_th": "It actually seems like an episode of Black Mirror that it’s legal for a company to buy and sell our personal data without our consent, but that’s the reality in the US. Apple has built some really useful tools to limit future tracking, including App Tracking Transparency, Hide My Email, and iCloud Private Relay, but this doesn’t solve your actual problem, though. What they can’t do is remove the data that has already been collected, bought, and spread across hundreds of broker databases over the past decade. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple @ Work: The browser is the biggest gap in your AI governance strategy",
-      "summary_en": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . Most IT teams have a reasonable handle on what AI apps are installed across their Mac environment. Your device management vendor can show you what’s running; policies can block which apps shouldn’t be there; and vendors have been adding AI visibility features over the past year. The app",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/24/apple-work-the-browser-is-the-biggest-gap-in-your-ai-governance-strategy/",
-      "published": "Sat, 24 Oct 2026 13:00:00 +0000",
-      "title_th": "Apple @ Work: The browser is the biggest gap in your AI governance strategy",
-      "summary_th": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . Most IT teams have a reasonable handle on what AI apps are installed across their Mac environment. Your device management vendor can show you what’s running; policies can block which apps shouldn’t be there; and vendors have been adding AI visibility features over the past year. The app"
     },
     {
       "source": "9to5Google",
