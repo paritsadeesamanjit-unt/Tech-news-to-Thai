@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T02:12:04.634126+00:00",
+  "generated_at": "2026-10-26T08:30:15.687267+00:00",
   "count": 50,
   "articles": [
     {
@@ -305,18 +305,6 @@
     {
       "source": "Engadget",
       "flag": "US",
-      "category": "chip",
-      "title_en": "Fitbit Air vs. Whoop: Which screenless fitness tracker is better for you?",
-      "summary_en": "How locked in do you want to be?",
-      "image": "https://www.engadget.com/img/gallery/fitbit-air-vs-whoop-which-screenless-fitness-tracker-is-better-for-you/l-intro-1792526649.jpg",
-      "link": "https://www.engadget.com/2294284/fitbit-air-vs-whoop-which-better-fitness-tracking-wearable-screen-less/",
-      "published": "Mon, 26 Oct 2026 00:30:00 +0000",
-      "title_th": "Fitbit Air vs. Whoop: Which screenless fitness tracker is better for you?",
-      "summary_th": "How locked in do you want to be?"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
       "category": "gadget",
       "title_en": "Which Android phone is the closest equivalent to the iPhone Duo?",
       "summary_en": "Can we find the iPhone Duo's perfect Android match?",
@@ -361,6 +349,30 @@
       "published": "Sun, 25 Oct 2026 18:45:00 +0000",
       "title_th": "What does the bell icon mean on your CarPlay screen?",
       "summary_th": "Even as a simplified interface, CarPlay has a few icons that aren't so obvious, like its bell that appears on the app switcher."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "The most unexpected everyday tool can be found on your phone",
+      "summary_en": "If you have an iPhone, that is.",
+      "image": "https://www.engadget.com/img/gallery/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/l-intro-1792514406.jpg",
+      "link": "https://www.engadget.com/2294275/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/",
+      "published": "Sun, 25 Oct 2026 18:30:00 +0000",
+      "title_th": "The most unexpected everyday tool can be found on your phone",
+      "summary_th": "If you have an iPhone, that is."
+    },
+    {
+      "source": "IEEE Spectrum",
+      "flag": "US",
+      "category": "robot",
+      "title_en": "Poetry for Engineers: Of Code and Shortleaf Pine",
+      "summary_en": "I step into the warm moist air among the columns of the pines, their net of twigs and roots complex as any lines of code. The trees purify and anchor. Their branches balance my restlessness. Their calling is to be present, mine to develop apps. Our tasks verge toward a common logic: living filaments of root, of interface.",
+      "image": "https://spectrum.ieee.org/media-library/abstract-illustration-showing-two-beams-of-soft-pink-light-swimming-amidst-rows-of-dark-green-columns-patterned-like-wood-grain.png?id=68487080&width=980",
+      "link": "https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine",
+      "published": "Sun, 25 Oct 2026 12:00:02 +0000",
+      "title_th": "Poetry for Engineers: Of Code and Shortleaf Pine",
+      "summary_th": "I step into the warm moist air among the columns of the pines, their net of twigs and roots complex as any lines of code. The trees purify and anchor. Their branches balance my restlessness. Their calling is to be present, mine to develop apps. Our tasks verge toward a common logic: living filaments of root, of interface."
     },
     {
       "source": "IEEE Spectrum",
@@ -411,16 +423,16 @@
       "summary_th": "IEEE Life Fellow Manfred “Fred” J. Schindler has been elected as the 2027 IEEE president-elect . He will begin serving as president on 1 January 2028. Schindler, who was nominated by the IEEE Board of Directors , received 16,421 votes in the election. Senior Member David Alan Koehler received 13,874 votes. Schindler’s Top 3 Goals as President-Elect Strengthen IEEE’s connection with industry by coordinating events across geography, industry, and technology to revitalize professional activities, especially ones for young professionals. Champion the improvement of IEEE’s digital infrastructure to eliminate manual processes and modernize interfaces. Prioritize the advancement of technology to benefit future generations by expanding and supporting IEEE initiatives and programs. At press time, t"
     },
     {
-      "source": "IEEE Spectrum",
-      "flag": "US",
+      "source": "9to5Mac",
+      "flag": "",
       "category": "gadget",
-      "title_en": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
-      "summary_en": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup , a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the website’s guidelines. When the cleanup began, AI writing was often betrayed by conspicuous clichés. Today, the project’s volunteers are developing tools to detect subtler forms of machine-generated content and debating AI’s role in the world’s most widely used encyclopedia. When did you realize Wikipedia had a problem with AI-generated material? Ellia Lebleu: It was around December 2023. A few other editors and I were chatting on Wikipedia’s Discord server, and we had all seen very strange articles with the same odd characteristics. They repeated phrases like “stands as a testament” or “rich cultural heritage.” They so",
-      "image": "https://spectrum.ieee.org/media-library/surreal-collage-of-a-womans-face-with-geometric-shapes-pencil-and-wikipedia-globe.png?id=68486571&width=980",
-      "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "published": "Wed, 21 Oct 2026 13:00:02 +0000",
-      "title_th": "How Wikipedia’s Editors Keep the Online Encyclopedia Human-Written",
-      "summary_th": "Ellia Lebleu is a founding member of the WikiProject AI Cleanup , a volunteer effort launched in 2023 to find and remove AI-generated material from Wikipedia that breaks the website’s guidelines. When the cleanup began, AI writing was often betrayed by conspicuous clichés. Today, the project’s volunteers are developing tools to detect subtler forms of machine-generated content and debating AI’s role in the world’s most widely used encyclopedia. When did you realize Wikipedia had a problem with AI-generated material? Ellia Lebleu: It was around December 2023. A few other editors and I were chatting on Wikipedia’s Discord server, and we had all seen very strange articles with the same odd characteristics. They repeated phrases like “stands as a testament” or “rich cultural heritage.” They so"
+      "title_en": "Will Apple’s overhauled MacBook Pro finally offer 5G cellular support?",
+      "summary_en": "This week, Apple will be overhauling the MacBook Pro for the first time since 2021. OLED, touch support, and a significantly lighter design are expected. Another rumor for the new MacBook Pros has been cellular support, though it’s been unclear if that’s actually going to ship. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/touchscreen-cellular-mac.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/25/macbook-pro-overhaul-cellular-support-touchscreen/",
+      "published": "Mon, 26 Oct 2026 05:16:58 +0000",
+      "title_th": "Will Apple’s overhauled MacBook Pro finally offer 5G cellular support?",
+      "summary_th": "This week, Apple will be overhauling the MacBook Pro for the first time since 2021. OLED, touch support, and a significantly lighter design are expected. Another rumor for the new MacBook Pros has been cellular support, though it’s been unclear if that’s actually going to ship. more…"
     },
     {
       "source": "9to5Mac",
@@ -469,18 +481,6 @@
       "published": "Sun, 25 Oct 2026 10:45:33 +0000",
       "title_th": "Some iPhone Duo displays are cracking, seemingly all in the same way",
       "summary_th": "Following the iPhone Duo launch on Friday, a number of owners are reporting that their inner screens have cracked and broken on their own (top image via scary_duck23 on Reddit ). The affected units all seem to break in the same way. The screen cracks down the center line of the hinge, and a horizontal block of pixels on the screen is then stuck glowing white. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "review",
-      "title_en": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry",
-      "summary_en": "Belkin is now offering two new semi solid state batteries for your iPhone. There’s one 10,000mAh offering with a USB-C port for charging. The second is a 5,000mAh MagSafe offering , which offers 15W Qi2 charging. Both come in much lighter than you’d expect, and both offer premium aluminum builds that are cold to the touch. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC03234.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone/",
-      "published": "Sat, 24 Oct 2026 21:46:33 +0000",
-      "title_th": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry",
-      "summary_th": "Belkin is now offering two new semi solid state batteries for your iPhone. There’s one 10,000mAh offering with a USB-C port for charging. The second is a 5,000mAh MagSafe offering , which offers 15W Qi2 charging. Both come in much lighter than you’d expect, and both offer premium aluminum builds that are cold to the touch. more…"
     },
     {
       "source": "9to5Google",
@@ -546,6 +546,18 @@
       "source": "Electrek",
       "flag": "",
       "category": "gadget",
+      "title_en": "Amflow launches two powerful new electric bikes, including its first SUV-style e-bike",
+      "summary_en": "Amflow, the electric bicycle brand that burst onto the scene with some of the most powerful and lightweight electric mountain bikes on the market, is expanding its lineup with two major releases. The company has announced global availability of its new Amflow TL Carbon, while also bringing its removable-battery Amflow PR Carbon series to the US for the first time. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/amflow-electric-mountain-bikes-emtb-header.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/26/amflow-launches-two-powerful-new-electric-bikes-including-its-first-suv-style-e-bike/",
+      "published": "Mon, 26 Oct 2026 08:01:59 +0000",
+      "title_th": "Amflow launches two powerful new electric bikes, including its first SUV-style e-bike",
+      "summary_th": "Amflow, the electric bicycle brand that burst onto the scene with some of the most powerful and lightweight electric mountain bikes on the market, is expanding its lineup with two major releases. The company has announced global availability of its new Amflow TL Carbon, while also bringing its removable-battery Amflow PR Carbon series to the US for the first time. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "gadget",
       "title_en": "XCMG debuts new, fully autonomous electric terminal tractor [video]",
       "summary_en": "The new XCMG SDA411 concept terminal truck is fully electric, has no cabin, and an L4 autonomous tech stack that’s purpose-built for unmanned logistics – and, if XCMG get their way, it looks like the future of drayage truck operations. more…",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/xcmg_autonomous-hauler.jpg?quality=82&strip=all&resize=1200,628",
@@ -589,18 +601,6 @@
       "published": "Sat, 24 Oct 2026 14:04:51 +0000",
       "title_th": "Chinese EVs found back door into Western car markets – at 40% off MSRP",
       "summary_th": "The dumb oil war in Iran is driving up the cost of just about everything , including new cars. That’s giving Chinese EVs a huge advantage over Western “legacy” car brands already lagging in tech and struggling with affordability – and those legacy brands about to have a whole new to them problem on their hands: USED Chinese EVs . more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "NHTSA proposes cyan lights for robotaxis, following Mercedes/China",
-      "summary_en": "The NHTSA has proposed using cyan-colored lights to identify vehicles operating autonomously, along with other additions to get ready for autonomous vehicles. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2023/09/P1021888.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/24/nhtsa-proposes-cyan-lights-for-robotaxis-following-mercedes-china/",
-      "published": "Sat, 24 Oct 2026 13:00:00 +0000",
-      "title_th": "NHTSA proposes cyan lights for robotaxis, following Mercedes/China",
-      "summary_th": "The NHTSA has proposed using cyan-colored lights to identify vehicles operating autonomously, along with other additions to get ready for autonomous vehicles. more…"
     }
   ],
   "indices": [
@@ -664,10 +664,131 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 234.0,
-      "change": -5.0,
-      "change_pct": -2.09
+      "price": 241.0,
+      "change": 7.0,
+      "change_pct": 2.99
     }
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "ASMR iPhone Duo Unboxing",
+      "video_id": "_4ELeWAgMwo",
+      "link": "https://www.youtube.com/shorts/_4ELeWAgMwo",
+      "thumbnail": "https://i4.ytimg.com/vi/_4ELeWAgMwo/hqdefault.jpg",
+      "published": "2026-10-21T14:00:33+00:00",
+      "title_th": "ASMR iPhone Duo Unboxing"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "iPhone Duo Review: First Generation Fun!",
+      "video_id": "ESABTN4VtrA",
+      "link": "https://www.youtube.com/watch?v=ESABTN4VtrA",
+      "thumbnail": "https://i2.ytimg.com/vi/ESABTN4VtrA/hqdefault.jpg",
+      "published": "2026-10-21T12:00:52+00:00",
+      "title_th": "iPhone Duo Review: First Generation Fun!"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "The NEW Tesla Roadster: My Honest Reaction",
+      "video_id": "scwlR0QHGOk",
+      "link": "https://www.youtube.com/watch?v=scwlR0QHGOk",
+      "thumbnail": "https://i4.ytimg.com/vi/scwlR0QHGOk/hqdefault.jpg",
+      "published": "2026-10-17T02:09:23+00:00",
+      "title_th": "The NEW Tesla Roadster: My Honest Reaction"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Apple iPhone Duo Unboxing and First Impressions",
+      "video_id": "gyUqMHDSn2I",
+      "link": "https://www.youtube.com/watch?v=gyUqMHDSn2I",
+      "thumbnail": "https://i4.ytimg.com/vi/gyUqMHDSn2I/hqdefault.jpg",
+      "published": "2026-10-24T16:30:22+00:00",
+      "title_th": "Apple iPhone Duo Unboxing and First Impressions"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Xiaomi 18 Pro Max Unboxing: The REAL Pro Max?",
+      "video_id": "LiQGoDnv2EQ",
+      "link": "https://www.youtube.com/watch?v=LiQGoDnv2EQ",
+      "thumbnail": "https://i1.ytimg.com/vi/LiQGoDnv2EQ/hqdefault.jpg",
+      "published": "2026-10-16T15:26:17+00:00",
+      "title_th": "Xiaomi 18 Pro Max Unboxing: The REAL Pro Max?"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Made for One Person...",
+      "video_id": "dWUkvk0Dsc0",
+      "link": "https://www.youtube.com/shorts/dWUkvk0Dsc0",
+      "thumbnail": "https://i1.ytimg.com/vi/dWUkvk0Dsc0/hqdefault.jpg",
+      "published": "2026-10-15T15:01:50+00:00",
+      "title_th": "Made for One Person..."
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "การระงับความทุกข์ประคับประคอง (Palliative Sedation)",
+      "video_id": "jEat1HRTNSQ",
+      "link": "https://www.youtube.com/shorts/jEat1HRTNSQ",
+      "thumbnail": "https://i3.ytimg.com/vi/jEat1HRTNSQ/hqdefault.jpg",
+      "published": "2026-10-25T23:00:31+00:00",
+      "title_th": "การระงับความทุกข์ประคับประคอง (Palliative Sedation)"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "รู้จักแผนที่ #EqualEarth ลบภาพจำว่ากรีนแลนด์ใหญ่กว่าทวีปแอฟริกา! #btbeartai",
+      "video_id": "6inozdpKmkM",
+      "link": "https://www.youtube.com/shorts/6inozdpKmkM",
+      "thumbnail": "https://i3.ytimg.com/vi/6inozdpKmkM/hqdefault.jpg",
+      "published": "2026-10-25T04:56:22+00:00",
+      "title_th": "รู้จักแผนที่ #EqualEarth ลบภาพจำว่ากรีนแลนด์ใหญ่กว่าทวีปแอฟริกา! #btbeartai"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "เมื่อเมียใช้ iOS แต่สามีแอบซนกับ Android!",
+      "video_id": "xvHMB2sFsJI",
+      "link": "https://www.youtube.com/shorts/xvHMB2sFsJI",
+      "thumbnail": "https://i1.ytimg.com/vi/xvHMB2sFsJI/hqdefault.jpg",
+      "published": "2026-10-24T23:00:26+00:00",
+      "title_th": "เมื่อเมียใช้ iOS แต่สามีแอบซนกับ Android!"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "สิ่งที่ Samsung เลิกทำ แต่ iPhone Duo เอากลับมาทำ (และดีด้วย) #Samsung #iPhoneDuo",
+      "video_id": "FDyAgLAVvh8",
+      "link": "https://www.youtube.com/shorts/FDyAgLAVvh8",
+      "thumbnail": "https://i3.ytimg.com/vi/FDyAgLAVvh8/hqdefault.jpg",
+      "published": "2026-10-25T15:02:53+00:00",
+      "title_th": "สิ่งที่ Samsung เลิกทำ แต่ iPhone Duo เอากลับมาทำ (และดีด้วย) #Samsung #iPhoneDuo"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "ยอดขายมือถือเริ่มดิ่ง ไร้วี่แววจะราคาลง/ มือถือ Samsung แตะจ่าย BTS ไ้ด้แล้ว/ ฮือฮา รถTesla บินได้",
+      "video_id": "vGJJ915Kz88",
+      "link": "https://www.youtube.com/watch?v=vGJJ915Kz88",
+      "thumbnail": "https://i3.ytimg.com/vi/vGJJ915Kz88/hqdefault.jpg",
+      "published": "2026-10-24T13:00:08+00:00",
+      "title_th": "ยอดขายมือถือเริ่มดิ่ง ไร้วี่แววจะราคาลง/ มือถือ Samsung แตะจ่าย BTS ไ้ด้แล้ว/ ฮือฮา รถTesla บินได้"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "#ขิงขำขัน Galaxy Z Fold8 VS iPhone Duo ต้อนรับน้องใหม่วงการพับ จะไหวมั้ยน้อ~",
+      "video_id": "cv0a37VHEIM",
+      "link": "https://www.youtube.com/watch?v=cv0a37VHEIM",
+      "thumbnail": "https://i4.ytimg.com/vi/cv0a37VHEIM/hqdefault.jpg",
+      "published": "2026-10-23T12:53:34+00:00",
+      "title_th": "#ขิงขำขัน Galaxy Z Fold8 VS iPhone Duo ต้อนรับน้องใหม่วงการพับ จะไหวมั้ยน้อ~"
+    }
+  ]
 }
