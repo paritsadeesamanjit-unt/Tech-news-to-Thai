@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-25T23:11:23.293447+00:00",
+  "generated_at": "2026-10-26T02:12:04.634126+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "The best apps for tracking your reading and discovering new books",
+      "summary_en": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/12/Screenshot-2026-10-22-at-2.48.45-PM.png?resize=1200,831",
+      "link": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+      "published": "Mon, 26 Oct 2026 01:10:00 +0000",
+      "title_th": "The best apps for tracking your reading and discovering new books",
+      "summary_th": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -49,18 +61,6 @@
       "published": "Sun, 25 Oct 2026 16:05:00 +0000",
       "title_th": "TechCrunch Mobility: Blue-green is the color of autonomy",
       "summary_th": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "The hottest AI wearables and gadgets you should know about",
-      "summary_en": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-      "image": "https://techcrunch.com/wp-content/uploads/2016/09/robocash.jpg?resize=1200,849",
-      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-      "published": "Sun, 25 Oct 2026 14:10:00 +0000",
-      "title_th": "The hottest AI wearables and gadgets you should know about",
-      "summary_th": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
     },
     {
       "source": "The Verge",
@@ -306,6 +306,30 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "Fitbit Air vs. Whoop: Which screenless fitness tracker is better for you?",
+      "summary_en": "How locked in do you want to be?",
+      "image": "https://www.engadget.com/img/gallery/fitbit-air-vs-whoop-which-screenless-fitness-tracker-is-better-for-you/l-intro-1792526649.jpg",
+      "link": "https://www.engadget.com/2294284/fitbit-air-vs-whoop-which-better-fitness-tracking-wearable-screen-less/",
+      "published": "Mon, 26 Oct 2026 00:30:00 +0000",
+      "title_th": "Fitbit Air vs. Whoop: Which screenless fitness tracker is better for you?",
+      "summary_th": "How locked in do you want to be?"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Which Android phone is the closest equivalent to the iPhone Duo?",
+      "summary_en": "Can we find the iPhone Duo's perfect Android match?",
+      "image": "https://www.engadget.com/img/gallery/which-android-phone-is-the-closest-equivalent-to-the-iphone-duo/l-intro-1791823946.jpg",
+      "link": "https://www.engadget.com/2294282/android-phone-closest-equivalent-to-iphone-duo/",
+      "published": "Sun, 25 Oct 2026 23:45:00 +0000",
+      "title_th": "Which Android phone is the closest equivalent to the iPhone Duo?",
+      "summary_th": "Can we find the iPhone Duo's perfect Android match?"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "Does TSA actually allow AirTags in your luggage? Here's what the rules say",
       "summary_en": "Airlines don't want you to put batteries in your checked luggage, but how does this affect tiny batteries like those in AirTags?",
       "image": "https://www.engadget.com/img/gallery/does-tsa-actually-allow-airtags-in-your-luggage-heres-what-the-rules-say/l-intro-1792679956.jpg",
@@ -337,30 +361,6 @@
       "published": "Sun, 25 Oct 2026 18:45:00 +0000",
       "title_th": "What does the bell icon mean on your CarPlay screen?",
       "summary_th": "Even as a simplified interface, CarPlay has a few icons that aren't so obvious, like its bell that appears on the app switcher."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "The most unexpected everyday tool can be found on your phone",
-      "summary_en": "If you have an iPhone, that is.",
-      "image": "https://www.engadget.com/img/gallery/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/l-intro-1792514406.jpg",
-      "link": "https://www.engadget.com/2294275/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/",
-      "published": "Sun, 25 Oct 2026 18:30:00 +0000",
-      "title_th": "The most unexpected everyday tool can be found on your phone",
-      "summary_th": "If you have an iPhone, that is."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Even the best mesh Wi-Fi system can be easily improved with a simple cable",
-      "summary_en": "Mesh systems generally provide better Wi-Fi coverage than standalone routers, but you can make the mesh signal even stronger.",
-      "image": "https://www.engadget.com/img/gallery/even-the-best-mesh-wi-fi-system-can-be-easily-improved-with-a-simple-cable/l-intro-1792611196.jpg",
-      "link": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
-      "published": "Sun, 25 Oct 2026 18:00:00 +0000",
-      "title_th": "Even the best mesh Wi-Fi system can be easily improved with a simple cable",
-      "summary_th": "Mesh systems generally provide better Wi-Fi coverage than standalone routers, but you can make the mesh signal even stronger."
     },
     {
       "source": "IEEE Spectrum",
@@ -669,126 +669,5 @@
       "change_pct": -2.09
     }
   ],
-  "reviews": [
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "ASMR iPhone Duo Unboxing",
-      "video_id": "_4ELeWAgMwo",
-      "link": "https://www.youtube.com/shorts/_4ELeWAgMwo",
-      "thumbnail": "https://i4.ytimg.com/vi/_4ELeWAgMwo/hqdefault.jpg",
-      "published": "2026-10-21T14:00:33+00:00",
-      "title_th": "ASMR iPhone Duo Unboxing"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "iPhone Duo Review: First Generation Fun!",
-      "video_id": "ESABTN4VtrA",
-      "link": "https://www.youtube.com/watch?v=ESABTN4VtrA",
-      "thumbnail": "https://i2.ytimg.com/vi/ESABTN4VtrA/hqdefault.jpg",
-      "published": "2026-10-21T12:00:52+00:00",
-      "title_th": "iPhone Duo Review: First Generation Fun!"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "The NEW Tesla Roadster: My Honest Reaction",
-      "video_id": "scwlR0QHGOk",
-      "link": "https://www.youtube.com/watch?v=scwlR0QHGOk",
-      "thumbnail": "https://i4.ytimg.com/vi/scwlR0QHGOk/hqdefault.jpg",
-      "published": "2026-10-17T02:09:23+00:00",
-      "title_th": "The NEW Tesla Roadster: My Honest Reaction"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "Apple iPhone Duo Unboxing and First Impressions",
-      "video_id": "gyUqMHDSn2I",
-      "link": "https://www.youtube.com/watch?v=gyUqMHDSn2I",
-      "thumbnail": "https://i4.ytimg.com/vi/gyUqMHDSn2I/hqdefault.jpg",
-      "published": "2026-10-24T16:30:22+00:00",
-      "title_th": "Apple iPhone Duo Unboxing and First Impressions"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "Xiaomi 18 Pro Max Unboxing: The REAL Pro Max?",
-      "video_id": "LiQGoDnv2EQ",
-      "link": "https://www.youtube.com/watch?v=LiQGoDnv2EQ",
-      "thumbnail": "https://i1.ytimg.com/vi/LiQGoDnv2EQ/hqdefault.jpg",
-      "published": "2026-10-16T15:26:17+00:00",
-      "title_th": "Xiaomi 18 Pro Max Unboxing: The REAL Pro Max?"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "Made for One Person...",
-      "video_id": "dWUkvk0Dsc0",
-      "link": "https://www.youtube.com/shorts/dWUkvk0Dsc0",
-      "thumbnail": "https://i1.ytimg.com/vi/dWUkvk0Dsc0/hqdefault.jpg",
-      "published": "2026-10-15T15:01:50+00:00",
-      "title_th": "Made for One Person..."
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "การระงับความทุกข์ประคับประคอง (Palliative Sedation)",
-      "video_id": "jEat1HRTNSQ",
-      "link": "https://www.youtube.com/shorts/jEat1HRTNSQ",
-      "thumbnail": "https://i3.ytimg.com/vi/jEat1HRTNSQ/hqdefault.jpg",
-      "published": "2026-10-25T23:00:31+00:00",
-      "title_th": "การระงับความทุกข์ประคับประคอง (Palliative Sedation)"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "รู้จักแผนที่ #EqualEarth ลบภาพจำว่ากรีนแลนด์ใหญ่กว่าทวีปแอฟริกา! #btbeartai",
-      "video_id": "6inozdpKmkM",
-      "link": "https://www.youtube.com/shorts/6inozdpKmkM",
-      "thumbnail": "https://i3.ytimg.com/vi/6inozdpKmkM/hqdefault.jpg",
-      "published": "2026-10-25T04:56:22+00:00",
-      "title_th": "รู้จักแผนที่ #EqualEarth ลบภาพจำว่ากรีนแลนด์ใหญ่กว่าทวีปแอฟริกา! #btbeartai"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "เมื่อเมียใช้ iOS แต่สามีแอบซนกับ Android!",
-      "video_id": "xvHMB2sFsJI",
-      "link": "https://www.youtube.com/shorts/xvHMB2sFsJI",
-      "thumbnail": "https://i1.ytimg.com/vi/xvHMB2sFsJI/hqdefault.jpg",
-      "published": "2026-10-24T23:00:26+00:00",
-      "title_th": "เมื่อเมียใช้ iOS แต่สามีแอบซนกับ Android!"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "สิ่งที่ Samsung เลิกทำ แต่ iPhone Duo เอากลับมาทำ (และดีด้วย) #Samsung #iPhoneDuo",
-      "video_id": "FDyAgLAVvh8",
-      "link": "https://www.youtube.com/shorts/FDyAgLAVvh8",
-      "thumbnail": "https://i3.ytimg.com/vi/FDyAgLAVvh8/hqdefault.jpg",
-      "published": "2026-10-25T15:02:53+00:00",
-      "title_th": "สิ่งที่ Samsung เลิกทำ แต่ iPhone Duo เอากลับมาทำ (และดีด้วย) #Samsung #iPhoneDuo"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "ยอดขายมือถือเริ่มดิ่ง ไร้วี่แววจะราคาลง/ มือถือ Samsung แตะจ่าย BTS ไ้ด้แล้ว/ ฮือฮา รถTesla บินได้",
-      "video_id": "vGJJ915Kz88",
-      "link": "https://www.youtube.com/watch?v=vGJJ915Kz88",
-      "thumbnail": "https://i3.ytimg.com/vi/vGJJ915Kz88/hqdefault.jpg",
-      "published": "2026-10-24T13:00:08+00:00",
-      "title_th": "ยอดขายมือถือเริ่มดิ่ง ไร้วี่แววจะราคาลง/ มือถือ Samsung แตะจ่าย BTS ไ้ด้แล้ว/ ฮือฮา รถTesla บินได้"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "#ขิงขำขัน Galaxy Z Fold8 VS iPhone Duo ต้อนรับน้องใหม่วงการพับ จะไหวมั้ยน้อ~",
-      "video_id": "cv0a37VHEIM",
-      "link": "https://www.youtube.com/watch?v=cv0a37VHEIM",
-      "thumbnail": "https://i4.ytimg.com/vi/cv0a37VHEIM/hqdefault.jpg",
-      "published": "2026-10-23T12:53:34+00:00",
-      "title_th": "#ขิงขำขัน Galaxy Z Fold8 VS iPhone Duo ต้อนรับน้องใหม่วงการพับ จะไหวมั้ยน้อ~"
-    }
-  ]
+  "reviews": []
 }
