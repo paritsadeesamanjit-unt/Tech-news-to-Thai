@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T02:51:26.086809+00:00",
+  "generated_at": "2026-10-27T08:45:13.673496+00:00",
   "count": 50,
   "articles": [
     {
@@ -306,6 +306,18 @@
       "source": "Engadget",
       "flag": "US",
       "category": "gadget",
+      "title_en": "OpenAI announces new discoveries in mathematics, computer science and physics",
+      "summary_en": "OpenAI said its models generated proof that the Exponential Time Hypothesis is false. It also released new results for math and physics problems.",
+      "image": "https://www.engadget.com/img/gallery/openai-announces-new-discoveries-in-mathematics-computer-science-and-physics/l-intro-1793089035.jpg",
+      "link": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
+      "published": "Tue, 27 Oct 2026 08:18:16 +0000",
+      "title_th": "OpenAI announces new discoveries in mathematics, computer science and physics",
+      "summary_th": "OpenAI said its models generated proof that the Exponential Time Hypothesis is false. It also released new results for math and physics problems."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
       "title_en": "iPhone Lockdown Mode: The pros and cons of enabling Apple's security feature",
       "summary_en": "Lockdown Mode enables extreme protections for those most at risk, but it's overkill for most people.",
       "image": "https://www.engadget.com/img/gallery/iphone-lockdown-mode-the-pros-and-cons-of-enabling-apples-security-feature/l-intro-1792766868.jpg",
@@ -349,18 +361,6 @@
       "published": "Mon, 26 Oct 2026 22:00:00 +0000",
       "title_th": "The mistake iPhone Duo buyers can easily avoid",
       "summary_th": "An iPhone Duo can become even more expensive if you have to repair it, so it's vital to plan for that ahead of time."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Apple adds more Siri AI tools in its 27.2 system updates, out today",
-      "summary_en": "Apple has rolled out software updates for all its platforms today.",
-      "image": "https://www.engadget.com/img/gallery/apple-adds-more-siri-ai-tools-in-its-27-2-system-updates-out-today/l-intro-1793044016.jpg",
-      "link": "https://www.engadget.com/2297577/apple-adds-more-siri-ai-tools-in-27-2-system-updates-out-today/",
-      "published": "Mon, 26 Oct 2026 19:47:56 +0000",
-      "title_th": "Apple adds more Siri AI tools in its 27.2 system updates, out today",
-      "summary_th": "Apple has rolled out software updates for all its platforms today."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,18 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "JAŸ-Z confirmed as headliner for Apple Music’s 2027 Super Bowl Halftime Show",
+      "summary_en": "The NFL and Apple Music announced today that JAŸ-Z will headline the Apple Music Super Bowl LXI Halftime Show on February 14, 2027. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/super-bowl-jay-z.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/26/jay-z-confirmed-as-headliner-for-apple-musics-2027-super-bowl-halftime-show/",
+      "published": "Tue, 27 Oct 2026 03:30:59 +0000",
+      "title_th": "JAŸ-Z confirmed as headliner for Apple Music’s 2027 Super Bowl Halftime Show",
+      "summary_th": "The NFL and Apple Music announced today that JAŸ-Z will headline the Apple Music Super Bowl LXI Halftime Show on February 14, 2027. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "9to5Mac Daily: October 26, 2026 – Apple unveils new iPad mini",
       "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&resize=1200,628",
@@ -469,18 +481,6 @@
       "published": "Mon, 26 Oct 2026 22:06:38 +0000",
       "title_th": "Instagram takes on YouTube with new 90-minute horizontal video format",
       "summary_th": "According to The Hollywood Reporter , Instagram today began testing a new long-form horizontal video format with select creators in the U.S. Here are the details. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple addressed at least 329 unique security vulnerabilities across today’s system updates",
-      "summary_en": "Apple has updated its security releases page with details of the vulnerabilities addressed in today’s updates to iOS , iPadOS , macOS , watchOS , tvOS , visionOS, and Safari. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/26/apple-addressed-at-least-329-unique-security-vulnerabilities-across-todays-system-updates/",
-      "published": "Mon, 26 Oct 2026 20:56:15 +0000",
-      "title_th": "Apple addressed at least 329 unique security vulnerabilities across today’s system updates",
-      "summary_th": "Apple has updated its security releases page with details of the vulnerabilities addressed in today’s updates to iOS , iPadOS , macOS , watchOS , tvOS , visionOS, and Safari. Here are the details. more…"
     },
     {
       "source": "9to5Google",
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 241.0,
-      "change": 7.0,
-      "change_pct": 2.99
+      "price": 235.0,
+      "change": -6.0,
+      "change_pct": -2.49
     }
   ],
   "reviews": [
@@ -759,6 +759,36 @@
       "thumbnail": "https://i3.ytimg.com/vi/jEat1HRTNSQ/hqdefault.jpg",
       "published": "2026-10-25T23:00:31+00:00",
       "title_th": "การระงับความทุกข์ประคับประคอง (Palliative Sedation)"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "สิ่งที่ Samsung เลิกทำ แต่ iPhone Duo เอากลับมาทำ (และดีด้วย) #Samsung #iPhoneDuo",
+      "video_id": "FDyAgLAVvh8",
+      "link": "https://www.youtube.com/shorts/FDyAgLAVvh8",
+      "thumbnail": "https://i3.ytimg.com/vi/FDyAgLAVvh8/hqdefault.jpg",
+      "published": "2026-10-25T15:02:53+00:00",
+      "title_th": "สิ่งที่ Samsung เลิกทำ แต่ iPhone Duo เอากลับมาทำ (และดีด้วย) #Samsung #iPhoneDuo"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "ยอดขายมือถือเริ่มดิ่ง ไร้วี่แววจะราคาลง/ มือถือ Samsung แตะจ่าย BTS ไ้ด้แล้ว/ ฮือฮา รถTesla บินได้",
+      "video_id": "vGJJ915Kz88",
+      "link": "https://www.youtube.com/watch?v=vGJJ915Kz88",
+      "thumbnail": "https://i3.ytimg.com/vi/vGJJ915Kz88/hqdefault.jpg",
+      "published": "2026-10-24T13:00:08+00:00",
+      "title_th": "ยอดขายมือถือเริ่มดิ่ง ไร้วี่แววจะราคาลง/ มือถือ Samsung แตะจ่าย BTS ไ้ด้แล้ว/ ฮือฮา รถTesla บินได้"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "#ขิงขำขัน Galaxy Z Fold8 VS iPhone Duo ต้อนรับน้องใหม่วงการพับ จะไหวมั้ยน้อ~",
+      "video_id": "cv0a37VHEIM",
+      "link": "https://www.youtube.com/watch?v=cv0a37VHEIM",
+      "thumbnail": "https://i4.ytimg.com/vi/cv0a37VHEIM/hqdefault.jpg",
+      "published": "2026-10-23T12:53:34+00:00",
+      "title_th": "#ขิงขำขัน Galaxy Z Fold8 VS iPhone Duo ต้อนรับน้องใหม่วงการพับ จะไหวมั้ยน้อ~"
     }
   ]
 }
