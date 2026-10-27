@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-10-26T22:17:35.139815+00:00",
+  "generated_at": "2026-10-27T02:51:26.086809+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "summary_en": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55593495974_7bfdac6a15_k.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "published": "Tue, 27 Oct 2026 02:00:00 +0000",
+      "title_th": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "summary_th": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "summary_en": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/gettyimages-2295204296-2048x2048-1.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "published": "Tue, 27 Oct 2026 01:12:21 +0000",
+      "title_th": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "summary_th": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Databricks co-founder shares his secrets for winning big enterprise customers",
+      "summary_en": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Databricks-co-founder-Arsalan-Tavakoli-Shiraji.jpg?resize=1200,901",
+      "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
+      "published": "Mon, 26 Oct 2026 22:00:00 +0000",
+      "title_th": "Databricks co-founder shares his secrets for winning big enterprise customers",
+      "summary_th": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+      "summary_en": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/adam-mosseri-at-bloomberg-screentime.png?resize=1200,675",
+      "link": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
+      "published": "Mon, 26 Oct 2026 21:05:11 +0000",
+      "title_th": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+      "summary_th": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -15,52 +63,40 @@
       "summary_th": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
-      "summary_en": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/cfs-sparc-digital-twin.jpeg?resize=1200,676",
-      "link": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
-      "published": "Mon, 26 Oct 2026 18:59:52 +0000",
-      "title_th": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
-      "summary_th": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?"
+      "category": "gadget",
+      "title_en": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "summary_en": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "published": "2026-10-26T19:34:58-04:00",
+      "title_th": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "summary_th": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "This startup’s self-driving excavators help dig up $600M in new funding",
-      "summary_en": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/bedrock-robotics-excavators.jpg?resize=1200,675",
-      "link": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
-      "published": "Mon, 26 Oct 2026 17:45:00 +0000",
-      "title_th": "This startup’s self-driving excavators help dig up $600M in new funding",
-      "summary_th": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators."
+      "category": "software",
+      "title_en": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
+      "summary_en": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&H Photo) and the 512GB version $99 (Amazon, B&H Photo). The smaller card typically sells for around $80, and the larger option usually sells between $150 and […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Samsung-P9-MicroSD-Express-Card.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
+      "published": "2026-10-26T17:56:36-04:00",
+      "title_th": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
+      "summary_th": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&H Photo) and the 512GB version $99 (Amazon, B&H Photo). The smaller card typically sells for around $80, and the larger option usually sells between $150 and […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "summary_en": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2278152325.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-      "published": "Mon, 26 Oct 2026 16:49:42 +0000",
-      "title_th": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "summary_th": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "summary_en": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM-e1793033116950.png?resize=1200,911",
-      "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-      "published": "Mon, 26 Oct 2026 16:46:36 +0000",
-      "title_th": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "summary_th": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets."
+      "category": "software",
+      "title_en": "Anthropic is burning gas to feed the AI boom",
+      "summary_en": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "published": "2026-10-26T17:45:31-04:00",
+      "title_th": "Anthropic is burning gas to feed the AI boom",
+      "summary_th": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" […]"
     },
     {
       "source": "The Verge",
@@ -85,42 +121,6 @@
       "published": "2026-10-26T13:30:55-04:00",
       "title_th": "The RealReal won’t let AI agents hog designer clothing",
       "summary_th": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website, […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Apple acknowledges iPhone Duo display ‘issue’ after reports of cracked screens",
-      "summary_en": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of \"an issue impacting the inner display\" on a \"small number of iPhone Duo units.\" If your iPhone Duo […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1230.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
-      "published": "2026-10-26T13:28:07-04:00",
-      "title_th": "Apple acknowledges iPhone Duo display ‘issue’ after reports of cracked screens",
-      "summary_th": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of \"an issue impacting the inner display\" on a \"small number of iPhone Duo units.\" If your iPhone Duo […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Nothing’s eye-catching Ear 3A earbuds are matching their best price to date",
-      "summary_en": "If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better value now that all four colors are on sale at Amazon, Walmart, and Best Buy for $79 ($20 off), matching […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268654_Nothing_Ear_3A_JHiggins_0014.jpg?quality=90&strip=all&crop=0%2C14.488902354413%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
-      "published": "2026-10-26T13:25:34-04:00",
-      "title_th": "Nothing’s eye-catching Ear 3A earbuds are matching their best price to date",
-      "summary_th": "If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better value now that all four colors are on sale at Amazon, Walmart, and Best Buy for $79 ($20 off), matching […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Five weird details from Anthropic’s IPO filing",
-      "summary_en": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK202_DARIO_AMODEI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-      "published": "2026-10-26T13:10:23-04:00",
-      "title_th": "Five weird details from Anthropic’s IPO filing",
-      "summary_th": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to […]"
     },
     {
       "source": "Ars Technica",
@@ -186,6 +186,18 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
+      "title_en": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
+      "summary_en": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic, the bot itself admitted defeat.",
+      "image": "https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/master/pass/MCDODYS_UV008.jpg",
+      "link": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
+      "published": "Mon, 26 Oct 2026 22:40:37 +0000",
+      "title_th": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
+      "summary_th": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic, the bot itself admitted defeat."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
       "title_en": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
       "summary_en": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
       "image": "https://media.wired.com/photos/6adf8a425d1e509438fb58ec/master/pass/Anthropic3.jpg",
@@ -229,18 +241,6 @@
       "published": "Mon, 26 Oct 2026 18:49:49 +0000",
       "title_th": "Google Fitbit Edge Review: I Still Prefer the Air (2026)",
       "summary_th": "The Fitbit Edge is a real upgrade over the Charge 6. So why am I still team Fitbit Air? Here’s my review of Google’s latest wearable."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
-      "summary_en": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
-      "image": "https://media.wired.com/photos/6adf6d7844b1eb496ab79957/master/pass/Business_The%20Anthropic%20IPO%20Is%20Also%20a%20Doomsday%20Primer_v1.jpg",
-      "link": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
-      "published": "Mon, 26 Oct 2026 16:01:55 +0000",
-      "title_th": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
-      "summary_th": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity."
     },
     {
       "source": "MIT Technology Review",
@@ -305,6 +305,54 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "gadget",
+      "title_en": "iPhone Lockdown Mode: The pros and cons of enabling Apple's security feature",
+      "summary_en": "Lockdown Mode enables extreme protections for those most at risk, but it's overkill for most people.",
+      "image": "https://www.engadget.com/img/gallery/iphone-lockdown-mode-the-pros-and-cons-of-enabling-apples-security-feature/l-intro-1792766868.jpg",
+      "link": "https://www.engadget.com/2295333/iphone-lockdown-mode-pros-cons/",
+      "published": "Tue, 27 Oct 2026 00:30:00 +0000",
+      "title_th": "iPhone Lockdown Mode: The pros and cons of enabling Apple's security feature",
+      "summary_th": "Lockdown Mode enables extreme protections for those most at risk, but it's overkill for most people."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Halide releases its first batch of updates for the iPhone Duo",
+      "summary_en": "Camera app Halide released a new update for the iPhone Duo that adds three different shooting modes based on what position the foldable is in.",
+      "image": "https://www.engadget.com/img/gallery/halide-releases-its-first-batch-of-updates-for-the-iphone-duo/l-intro-1793055082.jpg",
+      "link": "https://www.engadget.com/2297806/halide-releases-its-first-batch-of-updates-for-the-iphone-duo/",
+      "published": "Mon, 26 Oct 2026 22:51:46 +0000",
+      "title_th": "Halide releases its first batch of updates for the iPhone Duo",
+      "summary_th": "Camera app Halide released a new update for the iPhone Duo that adds three different shooting modes based on what position the foldable is in."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "ev",
+      "title_en": "What are the leading causes of EV battery damage?",
+      "summary_en": "Charging behaviors and heat are the things to pay attention to.",
+      "image": "https://www.engadget.com/img/engadget-meta-image-1280x720.png",
+      "link": "https://www.engadget.com/2290322/leading-causing-ev-battery-damage/",
+      "published": "Mon, 26 Oct 2026 22:30:00 +0000",
+      "title_th": "What are the leading causes of EV battery damage?",
+      "summary_th": "Charging behaviors and heat are the things to pay attention to."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "The mistake iPhone Duo buyers can easily avoid",
+      "summary_en": "An iPhone Duo can become even more expensive if you have to repair it, so it's vital to plan for that ahead of time.",
+      "image": "https://www.engadget.com/img/gallery/the-mistake-iphone-duo-buyers-can-easily-avoid/l-intro-1792692793.jpg",
+      "link": "https://www.engadget.com/2294592/mistake-iphone-duo-buyers-can-avoid/",
+      "published": "Mon, 26 Oct 2026 22:00:00 +0000",
+      "title_th": "The mistake iPhone Duo buyers can easily avoid",
+      "summary_th": "An iPhone Duo can become even more expensive if you have to repair it, so it's vital to plan for that ahead of time."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "chip",
       "title_en": "Apple adds more Siri AI tools in its 27.2 system updates, out today",
       "summary_en": "Apple has rolled out software updates for all its platforms today.",
@@ -313,54 +361,6 @@
       "published": "Mon, 26 Oct 2026 19:47:56 +0000",
       "title_th": "Apple adds more Siri AI tools in its 27.2 system updates, out today",
       "summary_th": "Apple has rolled out software updates for all its platforms today."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Ghost of Yōtei studio Sucker Punch reportedly lays off 24 workers",
-      "summary_en": "Developer Sucker Punch just released a well-received expansion for Ghost of Yōtei a few weeks ago.",
-      "image": "https://www.engadget.com/img/gallery/ghost-of-ytei-studio-sucker-punch-lays-off-24-workers/l-intro-1793042059.jpg",
-      "link": "https://www.engadget.com/2297486/ghost-of-yotei-studio-sucker-punch-lays-off-24-workers/",
-      "published": "Mon, 26 Oct 2026 19:15:34 +0000",
-      "title_th": "Ghost of Yōtei studio Sucker Punch reportedly lays off 24 workers",
-      "summary_th": "Developer Sucker Punch just released a well-received expansion for Ghost of Yōtei a few weeks ago."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Apple responds to reports of the iPhone Duo's inner display cracking",
-      "summary_en": "Impacted users can contact AppleCare for a replacement.",
-      "image": "https://www.engadget.com/img/gallery/apple-responds-to-reports-of-the-iphone-duo-inner-display-cracking/l-intro-1793044721.jpg",
-      "link": "https://www.engadget.com/2297433/apple-responds-to-reports-of-the-iphone-duo-inner-display-cracking/",
-      "published": "Mon, 26 Oct 2026 18:52:02 +0000",
-      "title_th": "Apple responds to reports of the iPhone Duo's inner display cracking",
-      "summary_th": "Impacted users can contact AppleCare for a replacement."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Your Apple TV remote has handy shortcuts most people never use",
-      "summary_en": "Getting to know your remote a little better makes it a lot easier to navigate the Apple TV menus.",
-      "image": "https://www.engadget.com/img/gallery/your-apple-tv-remote-has-handy-shortcuts-most-people-never-use/l-intro-1792761117.jpg",
-      "link": "https://www.engadget.com/2295146/handy-apple-tv-remote-shortcuts/",
-      "published": "Mon, 26 Oct 2026 18:30:00 +0000",
-      "title_th": "Your Apple TV remote has handy shortcuts most people never use",
-      "summary_th": "Getting to know your remote a little better makes it a lot easier to navigate the Apple TV menus."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "How to use your Samsung Galaxy phone to wirelessly charge other devices",
-      "summary_en": "If you're in desperate need of power, lots of newer Samsung phones can wirelessly charge other devices.",
-      "image": "https://www.engadget.com/img/gallery/how-to-use-your-samsung-galaxy-phone-to-wirelessly-charge-other-devices/l-intro-1792690102.jpg",
-      "link": "https://www.engadget.com/2294444/how-to-use-samsung-galaxy-phone-wireless-powershare-charging/",
-      "published": "Mon, 26 Oct 2026 18:00:00 +0000",
-      "title_th": "How to use your Samsung Galaxy phone to wirelessly charge other devices",
-      "summary_th": "If you're in desperate need of power, lots of newer Samsung phones can wirelessly charge other devices."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,54 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "9to5Mac Daily: October 26, 2026 – Apple unveils new iPad mini",
+      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/26/daily-october-26-2026/",
+      "published": "Tue, 27 Oct 2026 00:16:31 +0000",
+      "title_th": "9to5Mac Daily: October 26, 2026 – Apple unveils new iPad mini",
+      "summary_th": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "T-Mobile’s new plans let users swap between Apple TV and other subscriptions",
+      "summary_en": "T-Mobile’s new “T-Mix” plans let users choose from subscriptions like Apple TV , Netflix, and YouTube Premium, and switch between them several times a year without changing their monthly bill. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-t-mobile-discount.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/26/t-mobiles-new-plans-let-users-swap-between-apple-tv-and-other-subscriptions/",
+      "published": "Mon, 26 Oct 2026 23:51:19 +0000",
+      "title_th": "T-Mobile’s new plans let users swap between Apple TV and other subscriptions",
+      "summary_th": "T-Mobile’s new “T-Mix” plans let users choose from subscriptions like Apple TV , Netflix, and YouTube Premium, and switch between them several times a year without changing their monthly bill. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Ollama for Mac gains support for local text-to-speech models",
+      "summary_en": "Ollama, the popular app for running AI models locally, announced that its Mac app now supports text-to-speech generation, with Windows and Linux support coming soon. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ollama-macos27.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/26/ollama-for-mac-gains-support-for-local-text-to-speech-models/",
+      "published": "Mon, 26 Oct 2026 22:49:25 +0000",
+      "title_th": "Ollama for Mac gains support for local text-to-speech models",
+      "summary_th": "Ollama, the popular app for running AI models locally, announced that its Mac app now supports text-to-speech generation, with Windows and Linux support coming soon. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Instagram takes on YouTube with new 90-minute horizontal video format",
+      "summary_en": "According to The Hollywood Reporter , Instagram today began testing a new long-form horizontal video format with select creators in the U.S. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/instagram-app-icon-new.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/26/instagram-takes-on-youtube-with-new-90-minute-horizontal-video-format/",
+      "published": "Mon, 26 Oct 2026 22:06:38 +0000",
+      "title_th": "Instagram takes on YouTube with new 90-minute horizontal video format",
+      "summary_th": "According to The Hollywood Reporter , Instagram today began testing a new long-form horizontal video format with select creators in the U.S. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Apple addressed at least 329 unique security vulnerabilities across today’s system updates",
       "summary_en": "Apple has updated its security releases page with details of the vulnerabilities addressed in today’s updates to iOS , iPadOS , macOS , watchOS , tvOS , visionOS, and Safari. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&strip=all&resize=1200,628",
@@ -435,52 +483,28 @@
       "summary_th": "Apple has updated its security releases page with details of the vulnerabilities addressed in today’s updates to iOS , iPadOS , macOS , watchOS , tvOS , visionOS, and Safari. Here are the details. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "From iPhone Duo to Mac, Craft shows what a native productivity app can do",
-      "summary_en": "It’s been a busy fall for Apple. iOS and macOS 27 arrived in September, iPhone Duo went on sale just a few days ago, and more Mac announcements are expected later this week. Between the new software and hardware, there’s plenty for Apple users to explore. Of all these announcements, the iPhone Duo has arguably attracted the most attention. As the first iPhone with a fundamentally different form factor, it introduces new possibilities for how we use our phones. But new hardware is only part of the story. Just as important is how apps take advantage of it. For an app like Craft , which brings notes, tasks, and documents together in one place, the larger display and new multitasking capabilities open up interesting new ways to work. Craft is ready for iPhone Duo from day one, with an interfac",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/craft.webp?resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/26/from-iphone-duo-to-mac-craft-shows-what-a-native-productivity-app-can-do/",
-      "published": "Mon, 26 Oct 2026 20:26:07 +0000",
-      "title_th": "From iPhone Duo to Mac, Craft shows what a native productivity app can do",
-      "summary_th": "It’s been a busy fall for Apple. iOS and macOS 27 arrived in September, iPhone Duo went on sale just a few days ago, and more Mac announcements are expected later this week. Between the new software and hardware, there’s plenty for Apple users to explore. Of all these announcements, the iPhone Duo has arguably attracted the most attention. As the first iPhone with a fundamentally different form factor, it introduces new possibilities for how we use our phones. But new hardware is only part of the story. Just as important is how apps take advantage of it. For an app like Craft , which brings notes, tasks, and documents together in one place, the larger display and new multitasking capabilities open up interesting new ways to work. Craft is ready for iPhone Duo from day one, with an interfac"
+      "title_en": "Google Photos rolls out customizable redesign of your ‘Collections’ tab",
+      "summary_en": "Following the floating navigation bar in July, Google Photos for Android is rolling out a big redesign that lets you customize the Collections tab. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/google-photos-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/10/26/google-photos-collections-redesign/",
+      "published": "Tue, 27 Oct 2026 01:18:33 +0000",
+      "title_th": "Google Photos rolls out customizable redesign of your ‘Collections’ tab",
+      "summary_th": "Following the floating navigation bar in July, Google Photos for Android is rolling out a big redesign that lets you customize the Collections tab. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple raises trade-in values for iPads and Macs, with increases of up to $365",
-      "summary_en": "Apple today updated its trade-in values for iPads and Macs, marking the second time in two months that the company has increased payouts for both product categories. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-ipad.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/26/apple-raises-trade-in-values-for-ipads-and-macs-with-increases-of-up-to-365/",
-      "published": "Mon, 26 Oct 2026 19:32:18 +0000",
-      "title_th": "Apple raises trade-in values for iPads and Macs, with increases of up to $365",
-      "summary_th": "Apple today updated its trade-in values for iPads and Macs, marking the second time in two months that the company has increased payouts for both product categories. Here are the details. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple announces Siri AI will expand to these new languages soon",
-      "summary_en": "Today in iOS 27.2, Siri AI added several new features and expanded to five new languages . And alongside the launch, Apple announced four more Siri AI languages coming soon. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai-orb-generic-wwdc.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/26/apple-announces-siri-ai-will-expand-to-these-new-languages-soon/",
-      "published": "Mon, 26 Oct 2026 19:30:57 +0000",
-      "title_th": "Apple announces Siri AI will expand to these new languages soon",
-      "summary_th": "Today in iOS 27.2, Siri AI added several new features and expanded to five new languages . And alongside the launch, Apple announced four more Siri AI languages coming soon. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "iPhone Duo just got two new features in iOS 27.2",
-      "summary_en": "iOS 27.2 is officially here , with additions that include upgraded Siri AI powers and new features for Messages , Apple TV , and more . And if you’re an iPhone Duo owner, iOS 27.2 includes two exclusive features for your new device. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/26/iphone-duo-just-got-two-new-features-in-ios-27-2/",
-      "published": "Mon, 26 Oct 2026 19:18:19 +0000",
-      "title_th": "iPhone Duo just got two new features in iOS 27.2",
-      "summary_th": "iOS 27.2 is officially here , with additions that include upgraded Siri AI powers and new features for Messages , Apple TV , and more . And if you’re an iPhone Duo owner, iOS 27.2 includes two exclusive features for your new device. more…"
+      "title_en": "Google says Gemini 4 Argon ranks well behind Claude and GPT-6 for Android coding",
+      "summary_en": "Google has updated its Android Bench list for showing how good AI models are at Android coding assistance, with Gemini 4 Argon ranking way behind that of the latest Claude and GPT models. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/android-figures-mwc-2026-2.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/10/26/android-bench-rankings-gemini-4-argon/",
+      "published": "Mon, 26 Oct 2026 22:00:00 +0000",
+      "title_th": "Google says Gemini 4 Argon ranks well behind Claude and GPT-6 for Android coding",
+      "summary_th": "Google has updated its Android Bench list for showing how good AI models are at Android coding assistance, with Gemini 4 Argon ranking way behind that of the latest Claude and GPT models. more…"
     },
     {
       "source": "9to5Google",
@@ -519,28 +543,16 @@
       "summary_th": "Apple has just released a new iPad Mini with an OLED display and it looks great, but I’ve spent the past few months with Android’s equivalent in the Redmagic Astra 2, and it’s well worth your attention. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Gemini Live redesign makes it easier to add context to chats",
-      "summary_en": "Following the other big interface updates this month, Google is rolling out a small ‘plus’ redesign to Gemini Live on Android that lets you more easily add photos and files. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-live-2.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/10/26/gemini-live-plus-redesign/",
-      "published": "Mon, 26 Oct 2026 19:00:50 +0000",
-      "title_th": "Gemini Live redesign makes it easier to add context to chats",
-      "summary_th": "Following the other big interface updates this month, Google is rolling out a small ‘plus’ redesign to Gemini Live on Android that lets you more easily add photos and files. more…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Monday’s Android app deals and freebies: War of Mine, Siralim Ultimate, 20 Minutes Till Dawn, more",
-      "summary_en": "Today’s best Google Play app and game deals are ready, including This War of Mine, Siralim Ultimate, The Last Warlord, Anodyne, 20 Minutes Till Dawn:Premium, TLOTS: Gold Edition, and more. On your way down, scope out the new all-time low available in Lenovo’s early Black Friday sale on its new 4K Yoga Tab Gen 2 stylus/keyboard bundle as well as Nothing’s ultra-affordable CMF Buds Neo down at just $20 , and these TCL Android tablets up to 35% off . The apps await below. more…",
-      "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/10/Google-Play-collage-9ca2cf.png?resize=1200,628",
-      "link": "https://9to5toys.com/2026/10/26/todays-highlight-google-play-deals-36/",
-      "published": "Mon, 26 Oct 2026 18:45:36 +0000",
-      "title_th": "Monday’s Android app deals and freebies: War of Mine, Siralim Ultimate, 20 Minutes Till Dawn, more",
-      "summary_th": "Today’s best Google Play app and game deals are ready, including This War of Mine, Siralim Ultimate, The Last Warlord, Anodyne, 20 Minutes Till Dawn:Premium, TLOTS: Gold Edition, and more. On your way down, scope out the new all-time low available in Lenovo’s early Black Friday sale on its new 4K Yoga Tab Gen 2 stylus/keyboard bundle as well as Nothing’s ultra-affordable CMF Buds Neo down at just $20 , and these TCL Android tablets up to 35% off . The apps await below. more…"
+      "category": "ev",
+      "title_en": "The 2027 Kia EV6 is over $8,000 more than the new EV3",
+      "summary_en": "Kia announced that 2027 EV6 prices start at about $38,000, or $8,000 more than the new EV3. 2027 Kia EV6...",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/2027-Kia-EV6-prices.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/26/2027-kia-ev6-over-8000-more-than-new-ev3/",
+      "published": "Tue, 27 Oct 2026 00:39:22 +0000",
+      "title_th": "The 2027 Kia EV6 is over $8,000 more than the new EV3",
+      "summary_th": "Kia announced that 2027 EV6 prices start at about $38,000, or $8,000 more than the new EV3. 2027 Kia EV6..."
     },
     {
       "source": "Electrek",
@@ -589,18 +601,6 @@
       "published": "Mon, 26 Oct 2026 18:00:00 +0000",
       "title_th": "Bluetti Elite 300 3,014Wh power station $600 off, EGO Select Cut + Touch Drive mower with 10.0Ah battery $909 low, more",
       "summary_th": "We’ve got power station sales and tool lows filling this week’s Green Deals kickstart, starting with Bluetti’s fresh Halloween Sale lineup that has deals like the 2026 Elite 300 3,014Wh Portable Power Station down at $1,099 , as well as larger Anker SOLIX E10 Whole-Home Backup System deals starting from an exclusive $3,799 low . From there, we have EGO’s highly advanced 22-inch Select Cut and Touch Drive mower with a 10.0Ah battery back at its best 2026 price with $390 savings, next to the brand’s 880 CFM Cordless Leaf Blower with 2x batteries at its $307 low . There’s also the 60V Greenworks 20-inch Cordless Snow Blower at a new low price, and all the hangover deals from last week rounded up in our latest Electrified Weekly edition . Head below for other New Green Deals we’ve found today "
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Tesla makes another joke of its Robotaxi geofence expansion",
-      "summary_en": "Tesla expanded its Robotaxi service area in Houston today, and it shaped the new geofence like a rocket. Plenty of people on X see something else in it, which is fair given the phallic Austin map Tesla posted in 2025. It’s a cute nod to Houston’s space history. It’s also a service area drawn for a meme, and Robotaxi Tracker counts only 34 driverless Model Ys to cover it. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/tesla-robotaxi-houston-geofence-rocket-map.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/26/tesla-robotaxi-houston-geofence-expansion-shape/",
-      "published": "Mon, 26 Oct 2026 17:23:44 +0000",
-      "title_th": "Tesla makes another joke of its Robotaxi geofence expansion",
-      "summary_th": "Tesla expanded its Robotaxi service area in Houston today, and it shaped the new geofence like a rocket. Plenty of people on X see something else in it, which is fair given the phallic Austin map Tesla posted in 2025. It’s a cute nod to Houston’s space history. It’s also a service area drawn for a meme, and Robotaxi Tracker counts only 34 driverless Model Ys to cover it. more…"
     }
   ],
   "indices": [
@@ -703,16 +703,6 @@
     {
       "channel": "Unbox Therapy",
       "country": "US",
-      "title_en": "Samsung Z Fold8 Ultra: The Evolution of Folding Phones",
-      "video_id": "3EVdxel81Q8",
-      "link": "https://www.youtube.com/watch?v=3EVdxel81Q8",
-      "thumbnail": "https://i4.ytimg.com/vi/3EVdxel81Q8/hqdefault.jpg",
-      "published": "2026-10-26T18:28:47+00:00",
-      "title_th": "Samsung Z Fold8 Ultra: The Evolution of Folding Phones"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
       "title_en": "Apple iPhone Duo Unboxing and First Impressions",
       "video_id": "gyUqMHDSn2I",
       "link": "https://www.youtube.com/watch?v=gyUqMHDSn2I",
@@ -729,6 +719,26 @@
       "thumbnail": "https://i1.ytimg.com/vi/LiQGoDnv2EQ/hqdefault.jpg",
       "published": "2026-10-16T15:26:17+00:00",
       "title_th": "Xiaomi 18 Pro Max Unboxing: The REAL Pro Max?"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Made for One Person...",
+      "video_id": "dWUkvk0Dsc0",
+      "link": "https://www.youtube.com/shorts/dWUkvk0Dsc0",
+      "thumbnail": "https://i1.ytimg.com/vi/dWUkvk0Dsc0/hqdefault.jpg",
+      "published": "2026-10-15T15:01:50+00:00",
+      "title_th": "Made for One Person..."
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "แรมคอมแพงขึ้น 400%",
+      "video_id": "C41wmk3maRs",
+      "link": "https://www.youtube.com/shorts/C41wmk3maRs",
+      "thumbnail": "https://i4.ytimg.com/vi/C41wmk3maRs/hqdefault.jpg",
+      "published": "2026-10-26T23:00:17+00:00",
+      "title_th": "แรมคอมแพงขึ้น 400%"
     },
     {
       "channel": "Beartai",
@@ -749,46 +759,6 @@
       "thumbnail": "https://i3.ytimg.com/vi/jEat1HRTNSQ/hqdefault.jpg",
       "published": "2026-10-25T23:00:31+00:00",
       "title_th": "การระงับความทุกข์ประคับประคอง (Palliative Sedation)"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "รู้จักแผนที่ #EqualEarth ลบภาพจำว่ากรีนแลนด์ใหญ่กว่าทวีปแอฟริกา! #btbeartai",
-      "video_id": "6inozdpKmkM",
-      "link": "https://www.youtube.com/shorts/6inozdpKmkM",
-      "thumbnail": "https://i3.ytimg.com/vi/6inozdpKmkM/hqdefault.jpg",
-      "published": "2026-10-25T04:56:22+00:00",
-      "title_th": "รู้จักแผนที่ #EqualEarth ลบภาพจำว่ากรีนแลนด์ใหญ่กว่าทวีปแอฟริกา! #btbeartai"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "สิ่งที่ Samsung เลิกทำ แต่ iPhone Duo เอากลับมาทำ (และดีด้วย) #Samsung #iPhoneDuo",
-      "video_id": "FDyAgLAVvh8",
-      "link": "https://www.youtube.com/shorts/FDyAgLAVvh8",
-      "thumbnail": "https://i3.ytimg.com/vi/FDyAgLAVvh8/hqdefault.jpg",
-      "published": "2026-10-25T15:02:53+00:00",
-      "title_th": "สิ่งที่ Samsung เลิกทำ แต่ iPhone Duo เอากลับมาทำ (และดีด้วย) #Samsung #iPhoneDuo"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "ยอดขายมือถือเริ่มดิ่ง ไร้วี่แววจะราคาลง/ มือถือ Samsung แตะจ่าย BTS ไ้ด้แล้ว/ ฮือฮา รถTesla บินได้",
-      "video_id": "vGJJ915Kz88",
-      "link": "https://www.youtube.com/watch?v=vGJJ915Kz88",
-      "thumbnail": "https://i3.ytimg.com/vi/vGJJ915Kz88/hqdefault.jpg",
-      "published": "2026-10-24T13:00:08+00:00",
-      "title_th": "ยอดขายมือถือเริ่มดิ่ง ไร้วี่แววจะราคาลง/ มือถือ Samsung แตะจ่าย BTS ไ้ด้แล้ว/ ฮือฮา รถTesla บินได้"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "#ขิงขำขัน Galaxy Z Fold8 VS iPhone Duo ต้อนรับน้องใหม่วงการพับ จะไหวมั้ยน้อ~",
-      "video_id": "cv0a37VHEIM",
-      "link": "https://www.youtube.com/watch?v=cv0a37VHEIM",
-      "thumbnail": "https://i4.ytimg.com/vi/cv0a37VHEIM/hqdefault.jpg",
-      "published": "2026-10-23T12:53:34+00:00",
-      "title_th": "#ขิงขำขัน Galaxy Z Fold8 VS iPhone Duo ต้อนรับน้องใหม่วงการพับ จะไหวมั้ยน้อ~"
     }
   ]
 }
