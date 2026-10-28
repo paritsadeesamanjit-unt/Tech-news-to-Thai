@@ -1,66 +1,90 @@
 {
-  "generated_at": "2026-10-27T20:06:14.232528+00:00",
+  "generated_at": "2026-10-28T00:26:05.782003+00:00",
   "count": 50,
   "articles": [
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-      "summary_en": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1191380440.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-      "published": "Tue, 27 Oct 2026 18:55:35 +0000",
-      "title_th": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-      "summary_th": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs."
+      "title_en": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "summary_en": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "published": "Tue, 27 Oct 2026 23:34:27 +0000",
+      "title_th": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "summary_th": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February."
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "summary_en": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783",
-      "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-      "published": "Tue, 27 Oct 2026 17:08:08 +0000",
-      "title_th": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "summary_th": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery."
+      "title_en": "The data center boom has an upside: innovation for the US grid",
+      "summary_en": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589499263_7ac8a28eb3_k.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "published": "Tue, 27 Oct 2026 22:55:41 +0000",
+      "title_th": "The data center boom has an upside: innovation for the US grid",
+      "summary_th": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say."
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "summary_en": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Genie-4-blog-header.png?resize=1200,675",
-      "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-      "published": "Tue, 27 Oct 2026 16:30:57 +0000",
-      "title_th": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "summary_th": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters."
+      "title_en": "Guidewire buys Hyperexponential for $1.7B in cash",
+      "summary_en": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Golden-AI-finance-collage.png?resize=1200,600",
+      "link": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+      "published": "Tue, 27 Oct 2026 22:26:03 +0000",
+      "title_th": "Guidewire buys Hyperexponential for $1.7B in cash",
+      "summary_th": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions."
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "summary_en": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/rohit-5.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "published": "Tue, 27 Oct 2026 14:59:09 +0000",
-      "title_th": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "summary_th": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite."
+      "title_en": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
+      "summary_en": "A whole crop of venture capital firms are raising significant new funds.",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1650189797.jpg?resize=1200,900",
+      "link": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+      "published": "Tue, 27 Oct 2026 22:17:18 +0000",
+      "title_th": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
+      "summary_th": "A whole crop of venture capital firms are raising significant new funds."
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "ev",
-      "title_en": "Ford Fathom will be the cheapest American EV capable of powering a house",
-      "summary_en": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Home-Power-Station_1920x1080.jpg?resize=1200,675",
-      "link": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
-      "published": "Tue, 27 Oct 2026 14:51:33 +0000",
-      "title_th": "Ford Fathom will be the cheapest American EV capable of powering a house",
-      "summary_th": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability."
+      "title_en": "GM is embracing hybrids now",
+      "summary_en": "GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs.",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/01/2024-chevrolet-corvette-e-ray-3lz-010.jpg?resize=1200,899",
+      "link": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
+      "published": "Tue, 27 Oct 2026 21:47:02 +0000",
+      "title_th": "GM is embracing hybrids now",
+      "summary_th": "GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs."
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
+      "summary_en": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen above the hinge, with lines appearing […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo_208.jpg?quality=90&strip=all&crop=0%2C3.5651957117926%2C100%2C92.869608576415&w=1200",
+      "link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
+      "published": "2026-10-27T18:55:05-04:00",
+      "title_th": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
+      "summary_th": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen above the hinge, with lines appearing […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "summary_en": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "published": "2026-10-27T16:48:58-04:00",
+      "title_th": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "summary_th": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI […]"
     },
     {
       "source": "The Verge",
@@ -97,30 +121,6 @@
       "published": "2026-10-27T13:30:00-04:00",
       "title_th": "VisionQuest is what happens when AI really goes rogue",
       "summary_th": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "The Super Mouse puts a touchscreen macro pad under your hand",
-      "summary_en": "A company called Arctic Fox Technologies has announced a new multifunction mouse that forgoes a myriad of customizable shortcut buttons peppered across its surface for a compact touchscreen sitting beneath your hand. The Super Mouse may not prioritize ergonomics with its boxy design, but it can replace other peripherals on your desk, like a trackpad, […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/supermouse1.jpg?quality=90&strip=all&crop=0%2C10.719133494003%2C100%2C78.561733011995&w=1200",
-      "link": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter",
-      "published": "2026-10-27T13:00:00-04:00",
-      "title_th": "The Super Mouse puts a touchscreen macro pad under your hand",
-      "summary_th": "A company called Arctic Fox Technologies has announced a new multifunction mouse that forgoes a myriad of customizable shortcut buttons peppered across its surface for a compact touchscreen sitting beneath your hand. The Super Mouse may not prioritize ergonomics with its boxy design, but it can replace other peripherals on your desk, like a trackpad, […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Anthropic’s elaborate plan to keep Wall Street at bay",
-      "summary_en": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2280291188.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "published": "2026-10-27T12:51:22-04:00",
-      "title_th": "Anthropic’s elaborate plan to keep Wall Street at bay",
-      "summary_th": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […]"
     },
     {
       "source": "Ars Technica",
@@ -306,61 +306,61 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "This old Nokia phone got an AI Upgrade it was never designed for",
-      "summary_en": "The GOAT of dumb phones gets a new lease on life.",
-      "image": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/l-intro-1792779965.jpg",
-      "link": "https://www.engadget.com/2295625/old-nokia-phone-ai-upgrade-never-designed-for/",
-      "published": "Tue, 27 Oct 2026 18:30:00 +0000",
-      "title_th": "This old Nokia phone got an AI Upgrade it was never designed for",
-      "summary_th": "The GOAT of dumb phones gets a new lease on life."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Why buying a Mac mini over a MacBook might be the smarter move",
-      "summary_en": "Apple's smallest desktop delivers better performance and value for those willing to leave the laptop behind.",
-      "image": "https://www.engadget.com/img/gallery/why-buying-a-mac-mini-over-a-macbook-might-be-the-smarter-move/l-intro-1792413302.jpg",
-      "link": "https://www.engadget.com/2296036/why-buying-mac-mini-over-macbook-smarter-move/",
-      "published": "Tue, 27 Oct 2026 18:00:00 +0000",
-      "title_th": "Why buying a Mac mini over a MacBook might be the smarter move",
-      "summary_th": "Apple's smallest desktop delivers better performance and value for those willing to leave the laptop behind."
+      "title_en": "This one missing feature from the Slate truck might be a dealbreaker for truck enthusiasts",
+      "summary_en": "The Slate Truck is known for offering hundreds of customization options, but one common truck option isn't available (yet.)",
+      "image": "https://www.engadget.com/img/gallery/this-one-missing-feature-from-the-slate-truck-might-be-a-dealbreaker-for-truck-enthusiasts/l-intro-1792419663.jpg",
+      "link": "https://www.engadget.com/2296050/slate-truck-missing-4wd-feature-possible-dealbreaker/",
+      "published": "Tue, 27 Oct 2026 23:30:00 +0000",
+      "title_th": "This one missing feature from the Slate truck might be a dealbreaker for truck enthusiasts",
+      "summary_th": "The Slate Truck is known for offering hundreds of customization options, but one common truck option isn't available (yet.)"
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Apple Creator Studio update adds MotionVFX to Final Cut, and AI to everywhere",
-      "summary_en": "Final Cut clips can finally be unlocked from the primary timeline - hallelujah.",
-      "image": "https://www.engadget.com/img/gallery/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/l-intro-1793118031.jpg",
-      "link": "https://www.engadget.com/2298428/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/",
-      "published": "Tue, 27 Oct 2026 16:21:44 +0000",
-      "title_th": "Apple Creator Studio update adds MotionVFX to Final Cut, and AI to everywhere",
-      "summary_th": "Final Cut clips can finally be unlocked from the primary timeline - hallelujah."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Apple iPhone Duo vs Google Pixel 11 Pro Fold: The differences beyond foldable style",
-      "summary_en": "With the iPhone Duo now in people's hands, how does it compare to Google's Pixel 11 Pro Fold?",
-      "image": "https://www.engadget.com/img/gallery/apple-iphone-duo-vs-google-pixel-11-pro-fold-the-differences-beyond-foldable-style/l-intro-1792405273.jpg",
-      "link": "https://www.engadget.com/2296032/apple-iphone-duo-vs-google-pixel-11-pro-fold/",
-      "published": "Tue, 27 Oct 2026 16:15:00 +0000",
-      "title_th": "Apple iPhone Duo vs Google Pixel 11 Pro Fold: The differences beyond foldable style",
-      "summary_th": "With the iPhone Duo now in people's hands, how does it compare to Google's Pixel 11 Pro Fold?"
+      "title_en": "How to change and customize your Android Auto display",
+      "summary_en": "Tailor your tech to fit your daily drive seamlessly.",
+      "image": "https://www.engadget.com/img/gallery/how-to-change-and-customize-your-android-auto-display/l-intro-1792678996.jpg",
+      "link": "https://www.engadget.com/2296047/how-to-change-customize-android-auto-display/",
+      "published": "Tue, 27 Oct 2026 23:00:00 +0000",
+      "title_th": "How to change and customize your Android Auto display",
+      "summary_th": "Tailor your tech to fit your daily drive seamlessly."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "You can finally see who's talking in voice chat on PlayStation 5 — here's how",
-      "summary_en": "You don't have to guess who's loudly eating chips in your PlayStation 5 party anymore - now you can see who's speaking in real-time.",
-      "image": "https://www.engadget.com/img/gallery/you-can-finally-see-whos-talking-in-voice-chat-on-playstation-5-heres-how/l-intro-1791817383.jpg",
-      "link": "https://www.engadget.com/2284038/playstation-5-display-whos-speaking-party-voice-feature/",
-      "published": "Tue, 27 Oct 2026 15:45:00 +0000",
-      "title_th": "You can finally see who's talking in voice chat on PlayStation 5 — here's how",
-      "summary_th": "You don't have to guess who's loudly eating chips in your PlayStation 5 party anymore - now you can see who's speaking in real-time."
+      "title_en": "The best ways to tell if someone is using AI glasses",
+      "summary_en": "While it can be jarring to discover that your companion is using AI glasses, there are some steps you can take to recognize them ASAP.",
+      "image": "https://www.engadget.com/img/gallery/the-best-ways-to-tell-if-someone-is-using-ai-glasses/l-intro-1792775168.jpg",
+      "link": "https://www.engadget.com/2296049/best-ways-tell-if-someone-wearing-ai-glasses/",
+      "published": "Tue, 27 Oct 2026 22:30:00 +0000",
+      "title_th": "The best ways to tell if someone is using AI glasses",
+      "summary_th": "While it can be jarring to discover that your companion is using AI glasses, there are some steps you can take to recognize them ASAP."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "iPhone 18e reportedly comes with 2nm A20 chip and 60Hz screen",
+      "summary_en": "The leaks suggest the front camera could also see a boost.",
+      "image": "https://www.engadget.com/img/gallery/iphone-18e-reportedly-comes-with-2nm-a20-chip-and-60hz-screen/l-intro-1793135835.jpg",
+      "link": "https://www.engadget.com/2299043/iphone-18e-reportedly-comes-with-2nm-a20-chip-and-60hz-screen/",
+      "published": "Tue, 27 Oct 2026 21:26:20 +0000",
+      "title_th": "iPhone 18e reportedly comes with 2nm A20 chip and 60Hz screen",
+      "summary_th": "The leaks suggest the front camera could also see a boost."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "ChatGPT can work with your iCloud Mail and Calendar thanks to new plugin support",
+      "summary_en": "You can use the AI assistant to update calendar events and search your inbox, among other things.",
+      "image": "https://www.engadget.com/img/gallery/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/l-intro-1793135485.jpg",
+      "link": "https://www.engadget.com/2299026/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/",
+      "published": "Tue, 27 Oct 2026 21:13:59 +0000",
+      "title_th": "ChatGPT can work with your iCloud Mail and Calendar thanks to new plugin support",
+      "summary_th": "You can use the AI assistant to update calendar events and search your inbox, among other things."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,61 +426,85 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Report: iPhone 18 Pro sales down 4% in the US, but China drives 3.1% global growth",
-      "summary_en": "Counterpoint Research’s latest report offers a look at global iPhone 18 Pro sales during the first three weeks of availability. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-18pro.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/27/report-iphone-18-pro-sales-down-4-in-the-us-but-china-drives-3-1-global-growth/",
-      "published": "Tue, 27 Oct 2026 19:44:07 +0000",
-      "title_th": "Report: iPhone 18 Pro sales down 4% in the US, but China drives 3.1% global growth",
-      "summary_th": "Counterpoint Research’s latest report offers a look at global iPhone 18 Pro sales during the first three weeks of availability. Here are the details. more…"
+      "title_en": "9to5Mac Daily: October 27, 2026 – Apple announces new iMac, MacBook Pro with M6",
+      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/27/daily-october-27-2026/",
+      "published": "Wed, 28 Oct 2026 00:01:52 +0000",
+      "title_th": "9to5Mac Daily: October 27, 2026 – Apple announces new iMac, MacBook Pro with M6",
+      "summary_th": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple’s low-cost iPhone 18 details revealed by leaker",
-      "summary_en": "Apple reportedly plans to introduce a low-cost iPhone 18e next spring alongside iPhone 18 and iPhone Air 2. Here are the details on what to expect from iPhone 18e, per a new leak. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/iphone-18-mockup-red.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/27/apples-low-cost-iphone-18-details-revealed-by-leaker/",
-      "published": "Tue, 27 Oct 2026 19:28:53 +0000",
-      "title_th": "Apple’s low-cost iPhone 18 details revealed by leaker",
-      "summary_th": "Apple reportedly plans to introduce a low-cost iPhone 18e next spring alongside iPhone 18 and iPhone Air 2. Here are the details on what to expect from iPhone 18e, per a new leak. more…"
+      "title_en": "Last-minute leak reveals new touchscreen MacBook Pro details: pricing, new cooling system, more",
+      "summary_en": "In a roundup of what to expect from tomorrow’s “Pro and Tell” event , Bloomberg ’s Mark Gurman shared new details about the upcoming OLED touchscreen MacBook Pro models. Here’s what to expect. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/macbook-pro-touchscreen-mockup.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/27/last-minute-leak-reveals-new-touchscreen-macbook-pro-details-pricing-new-cooling-system-more/",
+      "published": "Tue, 27 Oct 2026 22:50:54 +0000",
+      "title_th": "Last-minute leak reveals new touchscreen MacBook Pro details: pricing, new cooling system, more",
+      "summary_th": "In a roundup of what to expect from tomorrow’s “Pro and Tell” event , Bloomberg ’s Mark Gurman shared new details about the upcoming OLED touchscreen MacBook Pro models. Here’s what to expect. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Copilot Money gets even better with new AI-powered Money Assistant",
-      "summary_en": "Copilot Money, the award-winning personal finance app, is getting even better this week with the launch of Money Assistant: an AI financial agent built into every part of the app. It tells you what you need to know, makes changes for you, and answers anything about your money. Copilot Money is exclusively offering 9to5Mac readers an extended two-month free trial with code 9TO5MAC. Get started today by visiting the Copilot Money website . more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/header_85a24f.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/27/copilot-money-gets-even-better-with-new-ai-powered-money-assistant/",
-      "published": "Tue, 27 Oct 2026 19:00:35 +0000",
-      "title_th": "Copilot Money gets even better with new AI-powered Money Assistant",
-      "summary_th": "Copilot Money, the award-winning personal finance app, is getting even better this week with the launch of Money Assistant: an AI financial agent built into every part of the app. It tells you what you need to know, makes changes for you, and answers anything about your money. Copilot Money is exclusively offering 9to5Mac readers an extended two-month free trial with code 9TO5MAC. Get started today by visiting the Copilot Money website . more…"
+      "title_en": "Firefox’s AI-powered Smart Window gets form autofill and website monitoring",
+      "summary_en": "Mozilla today announced two new features for Smart Window, its opt-in AI-powered browsing experience in Firefox. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/firefox-smart-window.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/27/firefoxs-ai-powered-smart-window-gets-form-autofill-and-website-monitoring/",
+      "published": "Tue, 27 Oct 2026 21:43:14 +0000",
+      "title_th": "Firefox’s AI-powered Smart Window gets form autofill and website monitoring",
+      "summary_th": "Mozilla today announced two new features for Smart Window, its opt-in AI-powered browsing experience in Firefox. Here are the details. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Astropad Workbench 1.4 adds terminal access, iPhone Duo support, and more",
-      "summary_en": "Astropad is out today with Workbench 1.4, the latest update to its remote desktop app for Mac. The release adds a built-in terminal, native iPhone Duo support, and a new way to transfer files between Macs. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/astropad-workbench-update-duo.webp?resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/27/astropad-workbench-1-4-adds-terminal-access-iphone-duo-support-and-more/",
-      "published": "Tue, 27 Oct 2026 18:29:50 +0000",
-      "title_th": "Astropad Workbench 1.4 adds terminal access, iPhone Duo support, and more",
-      "summary_th": "Astropad is out today with Workbench 1.4, the latest update to its remote desktop app for Mac. The release adds a built-in terminal, native iPhone Duo support, and a new way to transfer files between Macs. more…"
+      "title_en": "Apple’s European government affairs chief to speak at Web Summit 2026",
+      "summary_en": "Apple’s Director of European Government Affairs, Sébastien Gros, will speak at this year’s Web Summit in Lisbon, Portugal, taking place November 9–12. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/02/apple-europe.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/27/apples-european-government-affairs-chief-to-speak-at-web-summit-2026/",
+      "published": "Tue, 27 Oct 2026 21:03:16 +0000",
+      "title_th": "Apple’s European government affairs chief to speak at Web Summit 2026",
+      "summary_th": "Apple’s Director of European Government Affairs, Sébastien Gros, will speak at this year’s Web Summit in Lisbon, Portugal, taking place November 9–12. Here are the details. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "iOS 27.2 has two CarPlay improvements, here’s what’s new",
-      "summary_en": "iOS 27.2 arrived this week with new features for Messages , Apple TV , and more, plus two improvements for CarPlay. Here’s what’s new for CarPlay users. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/carplay-ios-27-home-screen-car.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/27/ios-27-2-has-two-carplay-improvements-heres-whats-new/",
-      "published": "Tue, 27 Oct 2026 18:20:40 +0000",
-      "title_th": "iOS 27.2 has two CarPlay improvements, here’s what’s new",
-      "summary_th": "iOS 27.2 arrived this week with new features for Messages , Apple TV , and more, plus two improvements for CarPlay. Here’s what’s new for CarPlay users. more…"
+      "title_en": "iOS 27.2 adds new app icon for Apple Music, more design updates",
+      "summary_en": "iOS 27.2 launched this week , and the update includes a new app icon for Apple Music alongside other small design changes in the Music app. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-2-apple-music-app-icon-new.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/27/ios-27-2-adds-new-app-icon-for-apple-music-more-design-updates/",
+      "published": "Tue, 27 Oct 2026 20:57:05 +0000",
+      "title_th": "iOS 27.2 adds new app icon for Apple Music, more design updates",
+      "summary_th": "iOS 27.2 launched this week , and the update includes a new app icon for Apple Music alongside other small design changes in the Music app. more…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Gemini Notebook for Android, iOS adds built-in audio recorder",
+      "summary_en": "After introducing Connected App integration last week, Gemini Notebook has rolled out an audio recorder on Android and iOS. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-notebook-fold-8-5.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/10/27/gemini-notebook-recorder/",
+      "published": "Tue, 27 Oct 2026 22:44:07 +0000",
+      "title_th": "Gemini Notebook for Android, iOS adds built-in audio recorder",
+      "summary_th": "After introducing Connected App integration last week, Gemini Notebook has rolled out an audio recorder on Android and iOS. more…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "The Sideload 049: The death of the browser",
+      "summary_en": "Welcome to episode 49 of The Sideload, a 9to5Google podcast. This week, Will is once again joined by Daniel Bader — now in a more permanent co-host position, listen to the episode to find out more — as they discuss the state of browsers outside of Chrome, what we’re even looking for in a browser in 2026, and how agentic use cases might completely shape the web as we know it. Sponsored by NordVPN : Listeners to The Sideload can save up to 76% on a two-year subscription alongside four extra months for absolutely free by signing up for NordVPN using this link . Thanks to NordVPN for sponsoring this week’s episode. Subscribe YouTube Podcasts Pocket Casts Spotify Apple Podcasts Amazon Music Subscribe to 9to5Google Pro for exclusive bonus content, podcast episodes, and more. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/08/sideload-podcast-wider-copy-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/10/27/the-sideload-049-the-death-of-the-browser/",
+      "published": "Tue, 27 Oct 2026 20:30:00 +0000",
+      "title_th": "The Sideload 049: The death of the browser",
+      "summary_th": "Welcome to episode 49 of The Sideload, a 9to5Google podcast. This week, Will is once again joined by Daniel Bader — now in a more permanent co-host position, listen to the episode to find out more — as they discuss the state of browsers outside of Chrome, what we’re even looking for in a browser in 2026, and how agentic use cases might completely shape the web as we know it. Sponsored by NordVPN : Listeners to The Sideload can save up to 76% on a two-year subscription alongside four extra months for absolutely free by signing up for NordVPN using this link . Thanks to NordVPN for sponsoring this week’s episode. Subscribe YouTube Podcasts Pocket Casts Spotify Apple Podcasts Amazon Music Subscribe to 9to5Google Pro for exclusive bonus content, podcast episodes, and more. more…"
     },
     {
       "source": "9to5Google",
@@ -519,88 +543,64 @@
       "summary_th": "One UI 9 is in its late-stage rollout phase, and a bunch of Galaxy phones have been added to the Android 17 availability list within the last few days. more…"
     },
     {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "The Galaxy Z Fold 8 still feels refreshing in all the best ways [Video]",
-      "summary_en": "With the iPhone Duo now a thing, it puts the Z Fold 8 in an even more interesting position. Yes, it’s an attempt by Samsung to get ahead of the curve, but, in truth, it really has worked. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Galaxy-Z-Fold-8-fully-open-rear.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/10/27/the-galaxy-z-fold-8-still-feels-refreshing/",
-      "published": "Tue, 27 Oct 2026 16:00:00 +0000",
-      "title_th": "The Galaxy Z Fold 8 still feels refreshing in all the best ways [Video]",
-      "summary_th": "With the iPhone Duo now a thing, it puts the Z Fold 8 in an even more interesting position. Yes, it’s an attempt by Samsung to get ahead of the curve, but, in truth, it really has worked. more…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Android 17-based Redmagic OS 12 gets closer to a global release",
-      "summary_en": "The global rollout schedule is still a bit of a mystery, but we at least know which Redmagic devices are getting the Redmagic OS 12 Android 17 upgrade. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/02/Redmagic-8-Pro-5.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/10/27/android-17-based-redmagic-os-12-gets-closer-to-a-global-release/",
-      "published": "Tue, 27 Oct 2026 15:50:37 +0000",
-      "title_th": "Android 17-based Redmagic OS 12 gets closer to a global release",
-      "summary_th": "The global rollout schedule is still a bit of a mystery, but we at least know which Redmagic devices are getting the Redmagic OS 12 Android 17 upgrade. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "BMW is going upscale with its first 3-row EV, the iX7",
-      "summary_en": "BMW’s next electric SUV won’t just be bigger. The iX7 will sit at the top of the brand’s EV lineup when it debuts in 2027, bringing a more luxurious option to the mix. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/BMW-iX7-EV.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/27/bmw-going-upscale-with-first-3-row-ev-ix7/",
-      "published": "Tue, 27 Oct 2026 18:10:26 +0000",
-      "title_th": "BMW is going upscale with its first 3-row EV, the iX7",
-      "summary_th": "BMW’s next electric SUV won’t just be bigger. The iX7 will sit at the top of the brand’s EV lineup when it debuts in 2027, bringing a more luxurious option to the mix. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Anker launches ‘world’s longest lasting’ 5,024Wh power station with $2,150 exclusive savings, Lectric XP Lite3 e-bike launch, more",
-      "summary_en": "We’ve got an exciting Tuesday Green Deals edition with two new launches and a first-time discount. Leading the pack is the official launch of Anker’s SOLIX S5000 Portable Power Station + bundles that our readers can get up to $2,150 exclusive savings on starting from $2,375 . Right behind that is the all-new XP Lite3 Lightweight Folding e-bikes from Lectric with up to $356 FREE bundled gear starting from $799 . There’s also a major first-time discount ($130 off) on the Baseus U2 Pro 3K Dual-Lens AI Solar Outdoor Security Camera for $150 , as well as an Autel 50A Level 2 EV Charger at $143 off. Of course, you can also find yesterday’s hangover deals at the bottom of the page, including the Bluetti Halloween Sale lineup with exclusive savings, the premium EGO 22-inch Select Cut + Touch Drive",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Anker-SOLIX-Lectric-Baseus-Autel-GDs-FI.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/27/anker-s5000-5024wh-power-station-exclusive-lectric-xp-lite3-e-bike-more/",
-      "published": "Tue, 27 Oct 2026 18:00:00 +0000",
-      "title_th": "Anker launches ‘world’s longest lasting’ 5,024Wh power station with $2,150 exclusive savings, Lectric XP Lite3 e-bike launch, more",
-      "summary_th": "We’ve got an exciting Tuesday Green Deals edition with two new launches and a first-time discount. Leading the pack is the official launch of Anker’s SOLIX S5000 Portable Power Station + bundles that our readers can get up to $2,150 exclusive savings on starting from $2,375 . Right behind that is the all-new XP Lite3 Lightweight Folding e-bikes from Lectric with up to $356 FREE bundled gear starting from $799 . There’s also a major first-time discount ($130 off) on the Baseus U2 Pro 3K Dual-Lens AI Solar Outdoor Security Camera for $150 , as well as an Autel 50A Level 2 EV Charger at $143 off. Of course, you can also find yesterday’s hangover deals at the bottom of the page, including the Bluetti Halloween Sale lineup with exclusive savings, the premium EGO 22-inch Select Cut + Touch Drive"
-    },
-    {
       "source": "Electrek",
       "flag": "",
       "category": "review",
-      "title_en": "Sykeruns X7 electric dirt bike review: A lot of power for surprisingly little money",
-      "summary_en": "The mini electric dirt bike market has exploded over the last few years, with seemingly countless new brands offering everything from pint-sized electric pit bikes to surprisingly powerful off-road machines. The Sykeruns X7 falls somewhere in the middle, offering enough power to get into some serious trouble while keeping the price relatively approachable. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/sykeruns-e-moto-header.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/27/sykeruns-x7-electric-dirt-bike-review-a-lot-of-power-for-surprisingly-little-money/",
-      "published": "Tue, 27 Oct 2026 15:56:00 +0000",
-      "title_th": "Sykeruns X7 electric dirt bike review: A lot of power for surprisingly little money",
-      "summary_th": "The mini electric dirt bike market has exploded over the last few years, with seemingly countless new brands offering everything from pint-sized electric pit bikes to surprisingly powerful off-road machines. The Sykeruns X7 falls somewhere in the middle, offering enough power to get into some serious trouble while keeping the price relatively approachable. more…"
+      "title_en": "Renewables to reach 40% of total generating capacity, beat gas within a year – EIA",
+      "summary_en": "Over the coming year, renewables’ share of total generating capacity will grow from 37.7% to 40.4%, surpassing that of natural gas and outstripping nuclear capacity fivefold, according to new data released by the US Energy Information Administration (EIA) and reviewed by the SUN DAY Campaign. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2025/09/Orsted-Revolution-Wind.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/27/renewables-to-reach-40-of-total-generating-capacity-beat-gas-within-a-year-eia/",
+      "published": "Tue, 27 Oct 2026 22:24:38 +0000",
+      "title_th": "Renewables to reach 40% of total generating capacity, beat gas within a year – EIA",
+      "summary_th": "Over the coming year, renewables’ share of total generating capacity will grow from 37.7% to 40.4%, surpassing that of natural gas and outstripping nuclear capacity fivefold, according to new data released by the US Energy Information Administration (EIA) and reviewed by the SUN DAY Campaign. more…"
     },
     {
       "source": "Electrek",
       "flag": "",
       "category": "ev",
-      "title_en": "Korean police book 80 Tesla drivers over illegal FSD unlock devices",
-      "summary_en": "Seoul police have booked 80 people for using aftermarket devices to switch on Tesla’s “Full Self-Driving” in cars that aren’t allowed to run it in South Korea. Officers also seized 21 of the devices. The Seoul Metropolitan Police Agency announced the case on Tuesday. It’s the largest enforcement action yet against the FSD “jailbreak” hardware that has spread through China, Europe, and Korea over the past year. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2022/04/Tesla-Full-Self-Driving-ad-e1650418988158.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/27/tesla-fsd-south-korea-police-80-illegal-unlock-devices/",
-      "published": "Tue, 27 Oct 2026 15:43:32 +0000",
-      "title_th": "Korean police book 80 Tesla drivers over illegal FSD unlock devices",
-      "summary_th": "Seoul police have booked 80 people for using aftermarket devices to switch on Tesla’s “Full Self-Driving” in cars that aren’t allowed to run it in South Korea. Officers also seized 21 of the devices. The Seoul Metropolitan Police Agency announced the case on Tuesday. It’s the largest enforcement action yet against the FSD “jailbreak” hardware that has spread through China, Europe, and Korea over the past year. more…"
+      "title_en": "BYD’s $10,000 EV blows a tire at nearly 90 mph — Watch what happens",
+      "summary_en": "BYD updated its lowest-priced electric car, the Seagull, which starts at around $10,000 in China, with a few extras, including a high-speed tire blowout system that stabilizes the vehicle at nearly 90 mph. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-Seagull-high-speed-tire-blowout.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/27/byds-10k-ev-blows-tire-nearly-90-mph-watch-what-happens/",
+      "published": "Tue, 27 Oct 2026 21:30:58 +0000",
+      "title_th": "BYD’s $10,000 EV blows a tire at nearly 90 mph — Watch what happens",
+      "summary_th": "BYD updated its lowest-priced electric car, the Seagull, which starts at around $10,000 in China, with a few extras, including a high-speed tire blowout system that stabilizes the vehicle at nearly 90 mph. more…"
     },
     {
       "source": "Electrek",
       "flag": "",
       "category": "ev",
-      "title_en": "The 2027 Kia EV9 costs $90 more, but at least you get a few extras",
-      "summary_en": "Kia barely touched the 2027 EV9’s price, raising it by only $90 while sneaking in a few extra standard features on select trims. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/2027-Kia-EV9-prices.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/27/2027-kia-ev9-costs-90-more-gains-few-extras/",
-      "published": "Tue, 27 Oct 2026 15:20:46 +0000",
-      "title_th": "The 2027 Kia EV9 costs $90 more, but at least you get a few extras",
-      "summary_th": "Kia barely touched the 2027 EV9’s price, raising it by only $90 while sneaking in a few extra standard features on select trims. more…"
+      "title_en": "Rivian electric van spotted in Walmart+ livery, hinting at a fleet deal",
+      "summary_en": "A Rivian electric delivery van wrapped in Walmart+ branding was photographed on a car hauler on I-94 in northwest Indiana today. It’s the first public sign that Walmart could become Rivian’s next big van customer after Amazon. Neither company has announced a deal. But Walmart’s last two electric van suppliers are out of the business, and Rivian is one of the few companies still building a purpose-built electric delivery van in the US. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/rivian-walmart-plus-van-featured.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/27/rivian-electric-van-walmart-plus-livery-spotted/",
+      "published": "Tue, 27 Oct 2026 21:08:01 +0000",
+      "title_th": "Rivian electric van spotted in Walmart+ livery, hinting at a fleet deal",
+      "summary_th": "A Rivian electric delivery van wrapped in Walmart+ branding was photographed on a car hauler on I-94 in northwest Indiana today. It’s the first public sign that Walmart could become Rivian’s next big van customer after Amazon. Neither company has announced a deal. But Walmart’s last two electric van suppliers are out of the business, and Rivian is one of the few companies still building a purpose-built electric delivery van in the US. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Volkswagen’s EV recall spreads to Audi, and owners are told to stop at 80% charge",
+      "summary_en": "Volkswagen’s latest recall now extends to Audi, affecting more than 9,000 Q4 E-Tron and Q4 Sportback E-Tron vehicles. And just like with the ID.4, owners are being told to limit charging to 80% of the battery’s capacity. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Volkswagen-EV-recall-Audi.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/27/vws-ev-recall-spreads-to-audi-owners-told-stop-at-80-charge/",
+      "published": "Tue, 27 Oct 2026 20:09:36 +0000",
+      "title_th": "Volkswagen’s EV recall spreads to Audi, and owners are told to stop at 80% charge",
+      "summary_th": "Volkswagen’s latest recall now extends to Audi, affecting more than 9,000 Q4 E-Tron and Q4 Sportback E-Tron vehicles. And just like with the ID.4, owners are being told to limit charging to 80% of the battery’s capacity. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Waymo adds nearly 250 square miles of robotaxi coverage in 5 cities",
+      "summary_en": "Waymo is growing its driverless service area by nearly 250 square miles over the next week, spread across Los Angeles, Nashville, Orlando, San Diego, and the San Francisco Bay Area. That’s about as big as Tesla’s entire Houston Robotaxi geofence after this week’s expansion, and Waymo is adding it in cities where it already runs with nobody in the driver’s seat. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/waymo-250-square-miles-five-cities-expansion.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/27/waymo-expansion-250-square-miles-five-cities/",
+      "published": "Tue, 27 Oct 2026 19:55:12 +0000",
+      "title_th": "Waymo adds nearly 250 square miles of robotaxi coverage in 5 cities",
+      "summary_th": "Waymo is growing its driverless service area by nearly 250 square miles over the next week, spread across Los Angeles, Nashville, Orlando, San Diego, and the San Francisco Bay Area. That’s about as big as Tesla’s entire Houston Robotaxi geofence after this week’s expansion, and Waymo is adding it in cities where it already runs with nobody in the driver’s seat. more…"
     }
   ],
   "indices": [
@@ -608,57 +608,57 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 217.94,
-      "change": 1.94,
-      "change_pct": 0.9
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 407.46,
-      "change": 15.84,
-      "change_pct": 4.04
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 320.58,
-      "change": 3.78,
-      "change_pct": 1.19
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 531.33,
-      "change": -1.27,
-      "change_pct": -0.24
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 347.1,
-      "change": 3.19,
-      "change_pct": 0.93
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 253.1,
-      "change": 4.01,
-      "change_pct": 1.61
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 620.19,
-      "change": -10.37,
-      "change_pct": -1.64
+      "price": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "symbol": "DELTA.BK",
@@ -669,126 +669,5 @@
       "change_pct": -2.49
     }
   ],
-  "reviews": [
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "ASMR iPhone Duo Unboxing",
-      "video_id": "_4ELeWAgMwo",
-      "link": "https://www.youtube.com/shorts/_4ELeWAgMwo",
-      "thumbnail": "https://i4.ytimg.com/vi/_4ELeWAgMwo/hqdefault.jpg",
-      "published": "2026-10-21T14:00:33+00:00",
-      "title_th": "ASMR iPhone Duo Unboxing"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "iPhone Duo Review: First Generation Fun!",
-      "video_id": "ESABTN4VtrA",
-      "link": "https://www.youtube.com/watch?v=ESABTN4VtrA",
-      "thumbnail": "https://i2.ytimg.com/vi/ESABTN4VtrA/hqdefault.jpg",
-      "published": "2026-10-21T12:00:52+00:00",
-      "title_th": "iPhone Duo Review: First Generation Fun!"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "The NEW Tesla Roadster: My Honest Reaction",
-      "video_id": "scwlR0QHGOk",
-      "link": "https://www.youtube.com/watch?v=scwlR0QHGOk",
-      "thumbnail": "https://i4.ytimg.com/vi/scwlR0QHGOk/hqdefault.jpg",
-      "published": "2026-10-17T02:09:23+00:00",
-      "title_th": "The NEW Tesla Roadster: My Honest Reaction"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "Samsung Z Fold8 Ultra: The Evolution of Folding Phones",
-      "video_id": "3EVdxel81Q8",
-      "link": "https://www.youtube.com/watch?v=3EVdxel81Q8",
-      "thumbnail": "https://i4.ytimg.com/vi/3EVdxel81Q8/hqdefault.jpg",
-      "published": "2026-10-26T18:28:47+00:00",
-      "title_th": "Samsung Z Fold8 Ultra: The Evolution of Folding Phones"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "Apple iPhone Duo Unboxing and First Impressions",
-      "video_id": "gyUqMHDSn2I",
-      "link": "https://www.youtube.com/watch?v=gyUqMHDSn2I",
-      "thumbnail": "https://i4.ytimg.com/vi/gyUqMHDSn2I/hqdefault.jpg",
-      "published": "2026-10-24T16:30:22+00:00",
-      "title_th": "Apple iPhone Duo Unboxing and First Impressions"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "Xiaomi 18 Pro Max Unboxing: The REAL Pro Max?",
-      "video_id": "LiQGoDnv2EQ",
-      "link": "https://www.youtube.com/watch?v=LiQGoDnv2EQ",
-      "thumbnail": "https://i1.ytimg.com/vi/LiQGoDnv2EQ/hqdefault.jpg",
-      "published": "2026-10-16T15:26:17+00:00",
-      "title_th": "Xiaomi 18 Pro Max Unboxing: The REAL Pro Max?"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "'วันชีจรรย์' อาณาจักรของ ตัน ภาสกรนที",
-      "video_id": "XSFIk4P7UEY",
-      "link": "https://www.youtube.com/watch?v=XSFIk4P7UEY",
-      "thumbnail": "https://i1.ytimg.com/vi/XSFIk4P7UEY/hqdefault.jpg",
-      "published": "2026-10-27T10:00:28+00:00",
-      "title_th": "'วันชีจรรย์' อาณาจักรของ ตัน ภาสกรนที"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "แรมคอมแพงขึ้น 400%",
-      "video_id": "C41wmk3maRs",
-      "link": "https://www.youtube.com/shorts/C41wmk3maRs",
-      "thumbnail": "https://i4.ytimg.com/vi/C41wmk3maRs/hqdefault.jpg",
-      "published": "2026-10-26T23:00:17+00:00",
-      "title_th": "แรมคอมแพงขึ้น 400%"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "รีวิว Sherman Volcano 12 & 15 ลำโพงสายแบก กระหึ่มโดนใจ สาดไปสมาชิกก !",
-      "video_id": "BnXdvf-04go",
-      "link": "https://www.youtube.com/watch?v=BnXdvf-04go",
-      "thumbnail": "https://i3.ytimg.com/vi/BnXdvf-04go/hqdefault.jpg",
-      "published": "2026-10-26T11:00:03+00:00",
-      "title_th": "รีวิว Sherman Volcano 12 & 15 ลำโพงสายแบก กระหึ่มโดนใจ สาดไปสมาชิกก !"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "รีวิว OPPO Find X10 Pro Max มือถือกล้องเทพ ซูมชัด พร้อมเลนส์เสริม Hasselblad",
-      "video_id": "XR3ySds6X9g",
-      "link": "https://www.youtube.com/watch?v=XR3ySds6X9g",
-      "thumbnail": "https://i1.ytimg.com/vi/XR3ySds6X9g/hqdefault.jpg",
-      "published": "2026-10-27T12:09:56+00:00",
-      "title_th": "รีวิว OPPO Find X10 Pro Max มือถือกล้องเทพ ซูมชัด พร้อมเลนส์เสริม Hasselblad"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "สิ่งที่ Samsung เลิกทำ แต่ iPhone Duo เอากลับมาทำ (และดีด้วย) #Samsung #iPhoneDuo",
-      "video_id": "FDyAgLAVvh8",
-      "link": "https://www.youtube.com/shorts/FDyAgLAVvh8",
-      "thumbnail": "https://i3.ytimg.com/vi/FDyAgLAVvh8/hqdefault.jpg",
-      "published": "2026-10-25T15:02:53+00:00",
-      "title_th": "สิ่งที่ Samsung เลิกทำ แต่ iPhone Duo เอากลับมาทำ (และดีด้วย) #Samsung #iPhoneDuo"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "ยอดขายมือถือเริ่มดิ่ง ไร้วี่แววจะราคาลง/ มือถือ Samsung แตะจ่าย BTS ไ้ด้แล้ว/ ฮือฮา รถTesla บินได้",
-      "video_id": "vGJJ915Kz88",
-      "link": "https://www.youtube.com/watch?v=vGJJ915Kz88",
-      "thumbnail": "https://i3.ytimg.com/vi/vGJJ915Kz88/hqdefault.jpg",
-      "published": "2026-10-24T13:00:08+00:00",
-      "title_th": "ยอดขายมือถือเริ่มดิ่ง ไร้วี่แววจะราคาลง/ มือถือ Samsung แตะจ่าย BTS ไ้ด้แล้ว/ ฮือฮา รถTesla บินได้"
-    }
-  ]
+  "reviews": []
 }
