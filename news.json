@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-10-28T00:26:05.782003+00:00",
+  "generated_at": "2026-10-28T09:22:20.758930+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Jio shares surge 21% in market debut after blockbuster India IPO",
+      "summary_en": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/jio-akash-ambani.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+      "published": "Wed, 28 Oct 2026 05:20:32 +0000",
+      "title_th": "Jio shares surge 21% in market debut after blockbuster India IPO",
+      "summary_th": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "summary_en": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "published": "Wed, 28 Oct 2026 01:15:28 +0000",
+      "title_th": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "summary_th": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -37,30 +61,6 @@
       "published": "Tue, 27 Oct 2026 22:26:03 +0000",
       "title_th": "Guidewire buys Hyperexponential for $1.7B in cash",
       "summary_th": "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
-      "summary_en": "A whole crop of venture capital firms are raising significant new funds.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1650189797.jpg?resize=1200,900",
-      "link": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
-      "published": "Tue, 27 Oct 2026 22:17:18 +0000",
-      "title_th": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
-      "summary_th": "A whole crop of venture capital firms are raising significant new funds."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "ev",
-      "title_en": "GM is embracing hybrids now",
-      "summary_en": "GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs.",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/01/2024-chevrolet-corvette-e-ray-3lz-010.jpg?resize=1200,899",
-      "link": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
-      "published": "Tue, 27 Oct 2026 21:47:02 +0000",
-      "title_th": "GM is embracing hybrids now",
-      "summary_th": "GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs."
     },
     {
       "source": "The Verge",
@@ -186,61 +186,61 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Anthropic Says It Will Revolutionize Biology—Some Day",
-      "summary_en": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
-      "image": "https://media.wired.com/photos/6ae0b0627e979e34b657973e/master/pass/102726-Anthropic%20Bio.jpg",
-      "link": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-      "published": "Tue, 27 Oct 2026 19:39:04 +0000",
-      "title_th": "Anthropic Says It Will Revolutionize Biology—Some Day",
-      "summary_th": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries."
+      "title_en": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+      "summary_en": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
+      "image": "https://media.wired.com/photos/6ae1120223d445186a16d911/master/pass/ai-weather-alerts-emergency.jpg",
+      "link": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+      "published": "Wed, 28 Oct 2026 08:30:00 +0000",
+      "title_th": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+      "summary_th": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Best Skylight Calendar Alternative on Sale: Save $100 on Everblog HomeCal (2026)",
-      "summary_en": "The Everblog HomeCal delivers a similar experience, including a digital photo frame and meal planning at no extra cost.",
-      "image": "https://media.wired.com/photos/6a35a476fb39402b67c3b903/master/pass/Are-Digital-Wall-Calendars-Worth-It-.jpg",
-      "link": "https://www.wired.com/story/everblog-homecal-deal-october-2026/",
-      "published": "Tue, 27 Oct 2026 18:51:17 +0000",
-      "title_th": "Best Skylight Calendar Alternative on Sale: Save $100 on Everblog HomeCal (2026)",
-      "summary_th": "The Everblog HomeCal delivers a similar experience, including a digital photo frame and meal planning at no extra cost."
+      "title_en": "Should AI Decide Your Court Case? This Judge Says Yes",
+      "summary_en": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
+      "image": "https://media.wired.com/photos/6ae127707e979e34b6579966/master/pass/Business_Should%20AI%20Decide%20Your%20Court%20Case_%20ThisJudgeSaysYes.gif",
+      "link": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
+      "published": "Wed, 28 Oct 2026 06:00:00 +0000",
+      "title_th": "Should AI Decide Your Court Case? This Judge Says Yes",
+      "summary_th": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks",
-      "summary_en": "The data center buildout could cause a massive increase in gas prices as companies scramble for limited supplies and infrastructure fails to meet demand.",
-      "image": "https://media.wired.com/photos/6ae0a917b092bac6ae652e82/master/pass/102626_Anthropic%20Gas%20S1.jpg",
-      "link": "https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/",
-      "published": "Tue, 27 Oct 2026 18:20:28 +0000",
-      "title_th": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks",
-      "summary_th": "The data center buildout could cause a massive increase in gas prices as companies scramble for limited supplies and infrastructure fails to meet demand."
+      "title_en": "LG Promo Codes and Coupons for October 2026",
+      "summary_en": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
+      "link": "https://www.wired.com/story/lg-promo-code/",
+      "published": "Wed, 28 Oct 2026 05:00:00 +0000",
+      "title_th": "LG Promo Codes and Coupons for October 2026",
+      "summary_th": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
-      "summary_en": "Despite the agency's human resources department saying he hadn’t even been onboarded, Jeremy Lewin oversaw the destruction of USAID. It’s not clear he had the legal authority to do so.",
-      "image": "https://media.wired.com/photos/6acf8c83ca8681083870745e/master/pass/GettyImages-2253183585.jpg",
-      "link": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/",
-      "published": "Tue, 27 Oct 2026 16:24:34 +0000",
-      "title_th": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
-      "summary_th": "Despite the agency's human resources department saying he hadn’t even been onboarded, Jeremy Lewin oversaw the destruction of USAID. It’s not clear he had the legal authority to do so."
+      "title_en": "Dyson Promo Codes: 25% Off in October 2026",
+      "summary_en": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
+      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png",
+      "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+      "published": "Wed, 28 Oct 2026 05:00:00 +0000",
+      "title_th": "Dyson Promo Codes: 25% Off in October 2026",
+      "summary_th": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more."
     },
     {
       "source": "Wired",
       "flag": "US",
-      "category": "ai",
-      "title_en": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
-      "summary_en": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
-      "image": "https://media.wired.com/photos/6ada70c6eb086323489423af/master/pass/GettyImages-2275955534.jpg",
-      "link": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
-      "published": "Tue, 27 Oct 2026 15:10:26 +0000",
-      "title_th": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
-      "summary_th": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use."
+      "category": "gadget",
+      "title_en": "20% Off Samsung Promo Code | October 2026",
+      "summary_en": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
+      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
+      "link": "https://www.wired.com/story/samsung-promo-codes/",
+      "published": "Wed, 28 Oct 2026 05:00:00 +0000",
+      "title_th": "20% Off Samsung Promo Code | October 2026",
+      "summary_th": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25."
     },
     {
       "source": "MIT Technology Review",
@@ -306,6 +306,30 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "Meta's Waddle World is a Tamagotchi-like AI pet app",
+      "summary_en": "Meta describes Waddle World as a 'daily journal disguised as a pet.'",
+      "image": "https://www.engadget.com/img/gallery/metas-waddle-world-is-a-tamagotchi-like-ai-digital-pet-app/l-intro-1793176733.jpg",
+      "link": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/",
+      "published": "Wed, 28 Oct 2026 08:40:19 +0000",
+      "title_th": "Meta's Waddle World is a Tamagotchi-like AI pet app",
+      "summary_th": "Meta describes Waddle World as a 'daily journal disguised as a pet.'"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "iOS 27.2 brings two new features to Apple's CarPlay",
+      "summary_en": "iOS 27.2 comes with some changes for Apple CarPlay, too.",
+      "image": "https://www.engadget.com/img/gallery/ios-27-2-brings-two-new-features-to-apples-carplay/l-intro-1793159234.jpg",
+      "link": "https://www.engadget.com/2299185/ios-27-2-two-new-features-apple-carplay/",
+      "published": "Wed, 28 Oct 2026 03:51:54 +0000",
+      "title_th": "iOS 27.2 brings two new features to Apple's CarPlay",
+      "summary_th": "iOS 27.2 comes with some changes for Apple CarPlay, too."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "This one missing feature from the Slate truck might be a dealbreaker for truck enthusiasts",
       "summary_en": "The Slate Truck is known for offering hundreds of customization options, but one common truck option isn't available (yet.)",
       "image": "https://www.engadget.com/img/gallery/this-one-missing-feature-from-the-slate-truck-might-be-a-dealbreaker-for-truck-enthusiasts/l-intro-1792419663.jpg",
@@ -337,30 +361,6 @@
       "published": "Tue, 27 Oct 2026 22:30:00 +0000",
       "title_th": "The best ways to tell if someone is using AI glasses",
       "summary_th": "While it can be jarring to discover that your companion is using AI glasses, there are some steps you can take to recognize them ASAP."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "iPhone 18e reportedly comes with 2nm A20 chip and 60Hz screen",
-      "summary_en": "The leaks suggest the front camera could also see a boost.",
-      "image": "https://www.engadget.com/img/gallery/iphone-18e-reportedly-comes-with-2nm-a20-chip-and-60hz-screen/l-intro-1793135835.jpg",
-      "link": "https://www.engadget.com/2299043/iphone-18e-reportedly-comes-with-2nm-a20-chip-and-60hz-screen/",
-      "published": "Tue, 27 Oct 2026 21:26:20 +0000",
-      "title_th": "iPhone 18e reportedly comes with 2nm A20 chip and 60Hz screen",
-      "summary_th": "The leaks suggest the front camera could also see a boost."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "ChatGPT can work with your iCloud Mail and Calendar thanks to new plugin support",
-      "summary_en": "You can use the AI assistant to update calendar events and search your inbox, among other things.",
-      "image": "https://www.engadget.com/img/gallery/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/l-intro-1793135485.jpg",
-      "link": "https://www.engadget.com/2299026/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/",
-      "published": "Tue, 27 Oct 2026 21:13:59 +0000",
-      "title_th": "ChatGPT can work with your iCloud Mail and Calendar thanks to new plugin support",
-      "summary_th": "You can use the AI assistant to update calendar events and search your inbox, among other things."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,42 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "New M6 Macs buck Apple’s second wave of price hikes",
+      "summary_en": "In addition to the spec bumps, today’s M6-powered iMac and 14-inch MacBook Pro announcements came with an extra piece of good news: prices remained unchanged from the previous generations, unlike several other recent Apple product launches that brought another round of increases. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/27/new-m6-macs-buck-apples-second-wave-of-price-hikes/",
+      "published": "Wed, 28 Oct 2026 02:09:46 +0000",
+      "title_th": "New M6 Macs buck Apple’s second wave of price hikes",
+      "summary_th": "In addition to the spec bumps, today’s M6-powered iMac and 14-inch MacBook Pro announcements came with an extra piece of good news: prices remained unchanged from the previous generations, unlike several other recent Apple product launches that brought another round of increases. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple wins expanded access to evidence in OpenAI trade secrets lawsuit",
+      "summary_en": "Apple has scored another win in its trade secrets misappropriation lawsuit against two former employees, OpenAI, and io Products. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-vs-openai-01.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/27/apple-wins-expanded-access-to-evidence-in-openai-trade-secrets-lawsuit/",
+      "published": "Wed, 28 Oct 2026 00:54:43 +0000",
+      "title_th": "Apple wins expanded access to evidence in OpenAI trade secrets lawsuit",
+      "summary_th": "Apple has scored another win in its trade secrets misappropriation lawsuit against two former employees, OpenAI, and io Products. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple releases two new real-life Apple Watch stories, including a life-saving alert",
+      "summary_en": "Apple’s YouTube channel shared two new videos today from its “True Apple Watch Story” series, highlighting how the device helped save one woman’s life and transform another person’s fitness journey. Watch them below. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-heart-health-sensing.webp?resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/27/apple-releases-two-new-real-life-apple-watch-stories-including-a-life-saving-alert/",
+      "published": "Wed, 28 Oct 2026 00:10:09 +0000",
+      "title_th": "Apple releases two new real-life Apple Watch stories, including a life-saving alert",
+      "summary_th": "Apple’s YouTube channel shared two new videos today from its “True Apple Watch Story” series, highlighting how the device helped save one woman’s life and transform another person’s fitness journey. Watch them below. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "9to5Mac Daily: October 27, 2026 – Apple announces new iMac, MacBook Pro with M6",
       "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&resize=1200,628",
@@ -445,42 +481,6 @@
       "published": "Tue, 27 Oct 2026 22:50:54 +0000",
       "title_th": "Last-minute leak reveals new touchscreen MacBook Pro details: pricing, new cooling system, more",
       "summary_th": "In a roundup of what to expect from tomorrow’s “Pro and Tell” event , Bloomberg ’s Mark Gurman shared new details about the upcoming OLED touchscreen MacBook Pro models. Here’s what to expect. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Firefox’s AI-powered Smart Window gets form autofill and website monitoring",
-      "summary_en": "Mozilla today announced two new features for Smart Window, its opt-in AI-powered browsing experience in Firefox. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/firefox-smart-window.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/27/firefoxs-ai-powered-smart-window-gets-form-autofill-and-website-monitoring/",
-      "published": "Tue, 27 Oct 2026 21:43:14 +0000",
-      "title_th": "Firefox’s AI-powered Smart Window gets form autofill and website monitoring",
-      "summary_th": "Mozilla today announced two new features for Smart Window, its opt-in AI-powered browsing experience in Firefox. Here are the details. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple’s European government affairs chief to speak at Web Summit 2026",
-      "summary_en": "Apple’s Director of European Government Affairs, Sébastien Gros, will speak at this year’s Web Summit in Lisbon, Portugal, taking place November 9–12. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/02/apple-europe.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/27/apples-european-government-affairs-chief-to-speak-at-web-summit-2026/",
-      "published": "Tue, 27 Oct 2026 21:03:16 +0000",
-      "title_th": "Apple’s European government affairs chief to speak at Web Summit 2026",
-      "summary_th": "Apple’s Director of European Government Affairs, Sébastien Gros, will speak at this year’s Web Summit in Lisbon, Portugal, taking place November 9–12. Here are the details. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "iOS 27.2 adds new app icon for Apple Music, more design updates",
-      "summary_en": "iOS 27.2 launched this week , and the update includes a new app icon for Apple Music alongside other small design changes in the Music app. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-2-apple-music-app-icon-new.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/27/ios-27-2-adds-new-app-icon-for-apple-music-more-design-updates/",
-      "published": "Tue, 27 Oct 2026 20:57:05 +0000",
-      "title_th": "iOS 27.2 adds new app icon for Apple Music, more design updates",
-      "summary_th": "iOS 27.2 launched this week , and the update includes a new app icon for Apple Music alongside other small design changes in the Music app. more…"
     },
     {
       "source": "9to5Google",
@@ -545,6 +545,18 @@
     {
       "source": "Electrek",
       "flag": "",
+      "category": "gadget",
+      "title_en": "Bosch’s popular e-bike motor just got upgraded with more power and less weight",
+      "summary_en": "Bosch has unveiled the latest generation of its popular Active Line Plus electric bicycle motor, bringing more power, less weight, and a significantly smaller footprint to one of the company’s most widely used drive systems. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/bosch-active-line-e-bike-header.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/28/boschs-popular-e-bike-motor-just-got-upgraded-with-more-power-and-less-weight/",
+      "published": "Wed, 28 Oct 2026 07:32:46 +0000",
+      "title_th": "Bosch’s popular e-bike motor just got upgraded with more power and less weight",
+      "summary_th": "Bosch has unveiled the latest generation of its popular Active Line Plus electric bicycle motor, bringing more power, less weight, and a significantly smaller footprint to one of the company’s most widely used drive systems. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
       "category": "review",
       "title_en": "Renewables to reach 40% of total generating capacity, beat gas within a year – EIA",
       "summary_en": "Over the coming year, renewables’ share of total generating capacity will grow from 37.7% to 40.4%, surpassing that of natural gas and outstripping nuclear capacity fivefold, according to new data released by the US Energy Information Administration (EIA) and reviewed by the SUN DAY Campaign. more…",
@@ -589,18 +601,6 @@
       "published": "Tue, 27 Oct 2026 20:09:36 +0000",
       "title_th": "Volkswagen’s EV recall spreads to Audi, and owners are told to stop at 80% charge",
       "summary_th": "Volkswagen’s latest recall now extends to Audi, affecting more than 9,000 Q4 E-Tron and Q4 Sportback E-Tron vehicles. And just like with the ID.4, owners are being told to limit charging to 80% of the battery’s capacity. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Waymo adds nearly 250 square miles of robotaxi coverage in 5 cities",
-      "summary_en": "Waymo is growing its driverless service area by nearly 250 square miles over the next week, spread across Los Angeles, Nashville, Orlando, San Diego, and the San Francisco Bay Area. That’s about as big as Tesla’s entire Houston Robotaxi geofence after this week’s expansion, and Waymo is adding it in cities where it already runs with nobody in the driver’s seat. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/waymo-250-square-miles-five-cities-expansion.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/27/waymo-expansion-250-square-miles-five-cities/",
-      "published": "Tue, 27 Oct 2026 19:55:12 +0000",
-      "title_th": "Waymo adds nearly 250 square miles of robotaxi coverage in 5 cities",
-      "summary_th": "Waymo is growing its driverless service area by nearly 250 square miles over the next week, spread across Los Angeles, Nashville, Orlando, San Diego, and the San Francisco Bay Area. That’s about as big as Tesla’s entire Houston Robotaxi geofence after this week’s expansion, and Waymo is adding it in cities where it already runs with nobody in the driver’s seat. more…"
     }
   ],
   "indices": [
@@ -608,66 +608,187 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 217.94,
+      "change": 1.94,
+      "change_pct": 0.9
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 407.46,
+      "change": 15.84,
+      "change_pct": 4.04
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 320.58,
+      "change": 3.78,
+      "change_pct": 1.19
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 531.33,
+      "change": -1.27,
+      "change_pct": -0.24
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 347.1,
+      "change": 3.19,
+      "change_pct": 0.93
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 253.1,
+      "change": 4.01,
+      "change_pct": 1.61
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 620.19,
+      "change": -10.37,
+      "change_pct": -1.64
     },
     {
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 235.0,
-      "change": -6.0,
-      "change_pct": -2.49
+      "price": 234.0,
+      "change": -1.0,
+      "change_pct": -0.43
     }
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "This can SEE Sound!",
+      "video_id": "ai1gIWacf0I",
+      "link": "https://www.youtube.com/shorts/ai1gIWacf0I",
+      "thumbnail": "https://i2.ytimg.com/vi/ai1gIWacf0I/hqdefault.jpg",
+      "published": "2026-10-27T20:14:55+00:00",
+      "title_th": "This can SEE Sound!"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "ASMR iPhone Duo Unboxing",
+      "video_id": "_4ELeWAgMwo",
+      "link": "https://www.youtube.com/shorts/_4ELeWAgMwo",
+      "thumbnail": "https://i4.ytimg.com/vi/_4ELeWAgMwo/hqdefault.jpg",
+      "published": "2026-10-21T14:00:33+00:00",
+      "title_th": "ASMR iPhone Duo Unboxing"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "iPhone Duo Review: First Generation Fun!",
+      "video_id": "ESABTN4VtrA",
+      "link": "https://www.youtube.com/watch?v=ESABTN4VtrA",
+      "thumbnail": "https://i2.ytimg.com/vi/ESABTN4VtrA/hqdefault.jpg",
+      "published": "2026-10-21T12:00:52+00:00",
+      "title_th": "iPhone Duo Review: First Generation Fun!"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Samsung Z Fold8 Ultra: The Evolution of Folding Phones",
+      "video_id": "3EVdxel81Q8",
+      "link": "https://www.youtube.com/watch?v=3EVdxel81Q8",
+      "thumbnail": "https://i4.ytimg.com/vi/3EVdxel81Q8/hqdefault.jpg",
+      "published": "2026-10-26T18:28:47+00:00",
+      "title_th": "Samsung Z Fold8 Ultra: The Evolution of Folding Phones"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Apple iPhone Duo Unboxing and First Impressions",
+      "video_id": "gyUqMHDSn2I",
+      "link": "https://www.youtube.com/watch?v=gyUqMHDSn2I",
+      "thumbnail": "https://i4.ytimg.com/vi/gyUqMHDSn2I/hqdefault.jpg",
+      "published": "2026-10-24T16:30:22+00:00",
+      "title_th": "Apple iPhone Duo Unboxing and First Impressions"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Xiaomi 18 Pro Max Unboxing: The REAL Pro Max?",
+      "video_id": "LiQGoDnv2EQ",
+      "link": "https://www.youtube.com/watch?v=LiQGoDnv2EQ",
+      "thumbnail": "https://i1.ytimg.com/vi/LiQGoDnv2EQ/hqdefault.jpg",
+      "published": "2026-10-16T15:26:17+00:00",
+      "title_th": "Xiaomi 18 Pro Max Unboxing: The REAL Pro Max?"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "gamescom asia x Thailand Game Show 2026 ขยายเต็ม 4 ฮอลล์!",
+      "video_id": "MwWj8dbkK48",
+      "link": "https://www.youtube.com/shorts/MwWj8dbkK48",
+      "thumbnail": "https://i2.ytimg.com/vi/MwWj8dbkK48/hqdefault.jpg",
+      "published": "2026-10-28T03:41:22+00:00",
+      "title_th": "gamescom asia x Thailand Game Show 2026 ขยายเต็ม 4 ฮอลล์!"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "รีวิว OPPO Find X10 Pro Max กล้องตัวท็อป พร้อมชุดเลนส์เสริม OPPO Hasselblad",
+      "video_id": "Y-aGl_7WhFI",
+      "link": "https://www.youtube.com/watch?v=Y-aGl_7WhFI",
+      "thumbnail": "https://i2.ytimg.com/vi/Y-aGl_7WhFI/hqdefault.jpg",
+      "published": "2026-10-28T03:00:01+00:00",
+      "title_th": "รีวิว OPPO Find X10 Pro Max กล้องตัวท็อป พร้อมชุดเลนส์เสริม OPPO Hasselblad"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "ฟรีแลนซ์ : นายตัวเอง หรือทาสลูกค้า ?",
+      "video_id": "mtBpH2n_28w",
+      "link": "https://www.youtube.com/shorts/mtBpH2n_28w",
+      "thumbnail": "https://i2.ytimg.com/vi/mtBpH2n_28w/hqdefault.jpg",
+      "published": "2026-10-27T23:00:01+00:00",
+      "title_th": "ฟรีแลนซ์ : นายตัวเอง หรือทาสลูกค้า ?"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รีวิว OPPO Find X10 Pro Max มือถือกล้องเทพ ซูมชัด พร้อมเลนส์เสริม Hasselblad",
+      "video_id": "XR3ySds6X9g",
+      "link": "https://www.youtube.com/watch?v=XR3ySds6X9g",
+      "thumbnail": "https://i1.ytimg.com/vi/XR3ySds6X9g/hqdefault.jpg",
+      "published": "2026-10-27T12:09:56+00:00",
+      "title_th": "รีวิว OPPO Find X10 Pro Max มือถือกล้องเทพ ซูมชัด พร้อมเลนส์เสริม Hasselblad"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "สิ่งที่ Samsung เลิกทำ แต่ iPhone Duo เอากลับมาทำ (และดีด้วย) #Samsung #iPhoneDuo",
+      "video_id": "FDyAgLAVvh8",
+      "link": "https://www.youtube.com/shorts/FDyAgLAVvh8",
+      "thumbnail": "https://i3.ytimg.com/vi/FDyAgLAVvh8/hqdefault.jpg",
+      "published": "2026-10-25T15:02:53+00:00",
+      "title_th": "สิ่งที่ Samsung เลิกทำ แต่ iPhone Duo เอากลับมาทำ (และดีด้วย) #Samsung #iPhoneDuo"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "ยอดขายมือถือเริ่มดิ่ง ไร้วี่แววจะราคาลง/ มือถือ Samsung แตะจ่าย BTS ไ้ด้แล้ว/ ฮือฮา รถTesla บินได้",
+      "video_id": "vGJJ915Kz88",
+      "link": "https://www.youtube.com/watch?v=vGJJ915Kz88",
+      "thumbnail": "https://i3.ytimg.com/vi/vGJJ915Kz88/hqdefault.jpg",
+      "published": "2026-10-24T13:00:08+00:00",
+      "title_th": "ยอดขายมือถือเริ่มดิ่ง ไร้วี่แววจะราคาลง/ มือถือ Samsung แตะจ่าย BTS ไ้ด้แล้ว/ ฮือฮา รถTesla บินได้"
+    }
+  ]
 }
