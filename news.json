@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-28T22:15:53.925888+00:00",
+  "generated_at": "2026-10-29T03:18:20.968517+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Upwind raises $400M after walking away from Datadog acquisition offer",
+      "summary_en": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1197780051.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+      "published": "Wed, 28 Oct 2026 23:15:00 +0000",
+      "title_th": "Upwind raises $400M after walking away from Datadog acquisition offer",
+      "summary_th": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+      "summary_en": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-lifestyle-travel-261028_big.jpg.large_2x.jpg?w=1200",
+      "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+      "published": "Wed, 28 Oct 2026 22:47:50 +0000",
+      "title_th": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+      "summary_th": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "summary_en": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
+      "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "published": "Wed, 28 Oct 2026 21:58:32 +0000",
+      "title_th": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "summary_th": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -27,40 +63,52 @@
       "summary_th": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership."
     },
     {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Microsoft hits 10 quarters of record- breaking revenue in a row",
-      "summary_en": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Satya-Nadella.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-      "published": "Wed, 28 Oct 2026 21:25:30 +0000",
-      "title_th": "Microsoft hits 10 quarters of record- breaking revenue in a row",
-      "summary_th": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
-      "summary_en": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/dhs-2255143488.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
-      "published": "Wed, 28 Oct 2026 20:01:00 +0000",
-      "title_th": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
-      "summary_th": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online."
-    },
-    {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
       "category": "gadget",
-      "title_en": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "summary_en": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/claude-enterprise-social-smartreports-five-beats-gray200-animated-1080x608-v032.gif?w=1080",
-      "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "published": "Wed, 28 Oct 2026 19:19:58 +0000",
-      "title_th": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "summary_th": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO."
+      "title_en": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+      "summary_en": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a single Made-in-USA laptop would be a surprise, because no […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-BlueChip-InField-5-Web.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+      "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+      "published": "2026-10-28T22:22:46-04:00",
+      "title_th": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+      "summary_th": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a single Made-in-USA laptop would be a surprise, because no […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "summary_en": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&strip=all&crop=0%2C10.634570719994%2C100%2C78.730858560013&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "published": "2026-10-28T19:05:39-04:00",
+      "title_th": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "summary_th": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "A hacker stole more than 40,000 DHS employee records",
+      "summary_en": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees, including those in US Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP), according to TechCrunch and Wired. The […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2200388904.jpg?quality=90&strip=all&crop=0%2C2.8462472714856%2C100%2C78.524215886627&w=1200",
+      "link": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+      "published": "2026-10-28T17:57:45-04:00",
+      "title_th": "A hacker stole more than 40,000 DHS employee records",
+      "summary_th": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees, including those in US Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP), according to TechCrunch and Wired. The […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "summary_en": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&strip=all&crop=0,20.395548367643,100,59.208903264713",
+      "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "published": "2026-10-28T17:34:04-04:00",
+      "title_th": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "summary_th": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run […]"
     },
     {
       "source": "The Verge",
@@ -73,54 +121,6 @@
       "published": "2026-10-28T17:16:18-04:00",
       "title_th": "Readwise is taking on Kindle and Kobo for ebook supremacy",
       "summary_th": "For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help you remember what you've read. There's Readwise Reader, an app for reading newsletters, PDFs, and web articles you've saved for later. And now there's Readwise Books, a full-fledged […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Google says its investments in AI are driving more searches",
-      "summary_en": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, including commercial queries,\" CEO Sundar Pichai says in a statement. \"In fact, our year-over-year query growth rate is the highest […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
-      "published": "2026-10-28T16:22:26-04:00",
-      "title_th": "Google says its investments in AI are driving more searches",
-      "summary_th": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, including commercial queries,\" CEO Sundar Pichai says in a statement. \"In fact, our year-over-year query growth rate is the highest […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
-      "summary_en": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a new financial year for Microsoft, so the company is changing up […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
-      "published": "2026-10-28T16:20:00-04:00",
-      "title_th": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
-      "summary_th": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a new financial year for Microsoft, so the company is changing up […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
-      "summary_en": "With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year. But upgrading the base models that start at $2,899 for the 14-inch, and $3,399 for the 16-inch, with every premium hardware option that Apple offers pushes those […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/mbp2.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-      "link": "https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced",
-      "published": "2026-10-28T16:12:44-04:00",
-      "title_th": "Apple charges $14,549 for a fully specced touchscreen MacBook Pro",
-      "summary_th": "With an OLED display and touchscreen capabilities, it's no surprise that the new MacBook Pro Apple announced today is more expensive than the MBP announced earlier this year. But upgrading the base models that start at $2,899 for the 14-inch, and $3,399 for the 16-inch, with every premium hardware option that Apple offers pushes those […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-      "summary_en": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-      "published": "2026-10-28T16:03:00-04:00",
-      "title_th": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
-      "summary_th": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over […]"
     },
     {
       "source": "Ars Technica",
@@ -185,6 +185,18 @@
     {
       "source": "Wired",
       "flag": "US",
+      "category": "gadget",
+      "title_en": "The 2,000-Nit OLED in Apple’s New MacBook Is a Big Deal",
+      "summary_en": "The touchscreen in the new MacBook Pro is crazily bright with very deep blacks. Here’s why it’s unlike anything else you can currently buy.",
+      "image": "https://media.wired.com/photos/6ae27b1cbef604c6ee2089e7/master/pass/APPLE_OLED.jpg",
+      "link": "https://www.wired.com/story/the-2000-nit-oled-in-apples-new-macbook-pro-is-a-big-deal/",
+      "published": "Wed, 28 Oct 2026 22:54:16 +0000",
+      "title_th": "The 2,000-Nit OLED in Apple’s New MacBook Is a Big Deal",
+      "summary_th": "The touchscreen in the new MacBook Pro is crazily bright with very deep blacks. Here’s why it’s unlike anything else you can currently buy."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
       "category": "ai",
       "title_en": "This Is What the GOP’s Final Midterms Push Looks Like",
       "summary_en": "Republicans are spending their time and money on Senate races in historically red states—a sign they’re more nervous than ever as Election Day looms.",
@@ -229,18 +241,6 @@
       "published": "Wed, 28 Oct 2026 18:57:22 +0000",
       "title_th": "The New M6 MacBook Pro Has a Serious Price Problem",
       "summary_th": "For $1,999, you could own an M6 Mac Mini and an M5 MacBook Air instead, both of which are on sale right now."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
-      "summary_en": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
-      "image": "https://media.wired.com/photos/6ae108712ec9b10c531020d9/master/pass/business_ai_predict_future.jpg",
-      "link": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
-      "published": "Wed, 28 Oct 2026 18:30:00 +0000",
-      "title_th": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
-      "summary_th": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways."
     },
     {
       "source": "MIT Technology Review",
@@ -305,6 +305,18 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "chip",
+      "title_en": "FCC chair wants to let prisons jam illegal cellphones",
+      "summary_en": "The agency will vote next month on relaxing its long-standing opposition to jammers.",
+      "image": "https://www.engadget.com/img/gallery/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones/l-intro-1793228522.jpg",
+      "link": "https://www.engadget.com/2300569/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones/",
+      "published": "Wed, 28 Oct 2026 23:09:22 +0000",
+      "title_th": "FCC chair wants to let prisons jam illegal cellphones",
+      "summary_th": "The agency will vote next month on relaxing its long-standing opposition to jammers."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "gadget",
       "title_en": "Apple's PROLED XDR Display has a cringy name but incredible specs",
       "summary_en": "With all the fuss about Apple finally releasing a touchscreen MacBook Pro, you may have forgotten about the OLED part.",
@@ -349,18 +361,6 @@
       "published": "Wed, 28 Oct 2026 17:43:10 +0000",
       "title_th": "Apple's first touchscreen MacBook Pro feels both familiar and radically improved",
       "summary_th": "It's thinner, lighter and has a better screen - but it's still a MacBook Pro."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Here's how the touchscreen on the MacBook Pro with PROLED display works",
-      "summary_en": "The touch sensor isn't a separate layer of the screen.",
-      "image": "https://www.engadget.com/img/gallery/heres-how-the-touchscreen-on-the-macbook-pro-with-proled-display-works/l-intro-1793213611.jpg",
-      "link": "https://www.engadget.com/2300009/heres-how-the-touchscreen-on-the-macbook-pro-with-proled-display-works/",
-      "published": "Wed, 28 Oct 2026 17:35:24 +0000",
-      "title_th": "Here's how the touchscreen on the MacBook Pro with PROLED display works",
-      "summary_th": "The touch sensor isn't a separate layer of the screen."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,54 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "Russia now requires Apple to store user communications and hand them over if requested",
+      "summary_en": "As Bloomberg reported today, Apple and Microsoft are now subject to Russian regulations requiring companies to store users’ communications and provide them to security agencies if requested. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/Trump-says-Apple-will-invest-a-further-100B-in-US-production.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/28/russia-now-requires-apple-to-store-user-communications-and-hand-them-over-if-requested/",
+      "published": "Thu, 29 Oct 2026 01:24:17 +0000",
+      "title_th": "Russia now requires Apple to store user communications and hand them over if requested",
+      "summary_th": "As Bloomberg reported today, Apple and Microsoft are now subject to Russian regulations requiring companies to store users’ communications and provide them to security agencies if requested. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple and OpenAI trade secrets lawsuit now has an official trial date",
+      "summary_en": "Judge Edward Davila today formally established the schedule for Apple’s trade secrets misappropriation lawsuit against two former employees, OpenAI, and io Products, including a trial date. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-vs-openai-02.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/28/apple-and-openai-trade-secrets-lawsuit-now-has-an-official-trial-date/",
+      "published": "Thu, 29 Oct 2026 00:17:48 +0000",
+      "title_th": "Apple and OpenAI trade secrets lawsuit now has an official trial date",
+      "summary_th": "Judge Edward Davila today formally established the schedule for Apple’s trade secrets misappropriation lawsuit against two former employees, OpenAI, and io Products, including a trial date. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "iPhone Duo could capture nearly 30% of foldable market in 2027, per report",
+      "summary_en": "In a report released today, TrendForce says that with strong demand for the iPhone Duo out of the gate, Apple is poised to capture nearly 30% of the global foldable smartphone market by 2027. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Craig-Federighi-on-how-Apple-helps-developers-make-the-most-of-the-iPhone-Duo.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/28/iphone-duo-could-capture-nearly-30-of-foldable-market-in-2027-per-report/",
+      "published": "Wed, 28 Oct 2026 22:40:45 +0000",
+      "title_th": "iPhone Duo could capture nearly 30% of foldable market in 2027, per report",
+      "summary_th": "In a report released today, TrendForce says that with strong demand for the iPhone Duo out of the gate, Apple is poised to capture nearly 30% of the global foldable smartphone market by 2027. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "New MacBook Pro, iPad mini, and more now available for pre-order on Amazon",
+      "summary_en": "Apple this week unveiled a range of new products, including a new iPad mini, M6 updates for the iMac and MacBook Pro, and the first-ever MacBook Pro with a touchscreen. Those products are now available to pre-order on Amazon: iPad mini M6 MacBook Pro M6 iMac MacBook Pro with PROLED XDR Display and Touch more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/new-macbook-pro-proled-xdr-glow-logo-apple-glow.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/28/new-macbook-pro-ipad-mini-and-more-now-available-for-pre-order-on-amazon/",
+      "published": "Wed, 28 Oct 2026 22:12:39 +0000",
+      "title_th": "New MacBook Pro, iPad mini, and more now available for pre-order on Amazon",
+      "summary_th": "Apple this week unveiled a range of new products, including a new iPad mini, M6 updates for the iMac and MacBook Pro, and the first-ever MacBook Pro with a touchscreen. Those products are now available to pre-order on Amazon: iPad mini M6 MacBook Pro M6 iMac MacBook Pro with PROLED XDR Display and Touch more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Apple fined $15.5 million as South Korea orders changes to App Store rules",
       "summary_en": "Apple and Google were fined today in South Korea over their app payment practices, with regulators also ordering both companies to change several policies. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?quality=82&strip=all&resize=1200,628",
@@ -433,54 +481,6 @@
       "published": "Wed, 28 Oct 2026 21:44:56 +0000",
       "title_th": "Apple fined $15.5 million as South Korea orders changes to App Store rules",
       "summary_th": "Apple and Google were fined today in South Korea over their app payment practices, with regulators also ordering both companies to change several policies. Here are the details. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "The new MacBook Pro has everything I wanted, minus one thing",
-      "summary_en": "Apple’s new MacBook Pro with PROLED XDR is an exciting upgrade that delivers nearly every feature I was hoping for, with just one exception. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-proled-xdr-glow.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/28/the-new-macbook-pro-has-everything-i-wanted-minus-one-thing/",
-      "published": "Wed, 28 Oct 2026 20:59:42 +0000",
-      "title_th": "The new MacBook Pro has everything I wanted, minus one thing",
-      "summary_th": "Apple’s new MacBook Pro with PROLED XDR is an exciting upgrade that delivers nearly every feature I was hoping for, with just one exception. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Ternus addresses Apple breaking touchscreen Mac taboo: ‘Who knew?’",
-      "summary_en": "In an interview with WIRED , Apple executives including CEO John Ternus, hardware chief Johny Srouji, and marketing chief Greg “Joz” Joswiak discussed the company’s decision to bring touch to the Mac . Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-clique-interview.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/28/ternus-addresses-apple-breaking-touchscreen-mac-taboo-who-knew/",
-      "published": "Wed, 28 Oct 2026 20:33:05 +0000",
-      "title_th": "Ternus addresses Apple breaking touchscreen Mac taboo: ‘Who knew?’",
-      "summary_th": "In an interview with WIRED , Apple executives including CEO John Ternus, hardware chief Johny Srouji, and marketing chief Greg “Joz” Joswiak discussed the company’s decision to bring touch to the Mac . Here are the details. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple introduces new power adapters for Mac, plus extension cable, travel kit",
-      "summary_en": "Today alongside the launch of the MacBook Pro with PROLED XDR, Apple has introduced four new accessories for Mac: two updated power adapters, a power extension cable, and a travel adapter kit. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-power-adapter-extension-cable.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/28/apple-introduces-new-power-adapters-for-mac-plus-extension-cable-travel-kit/",
-      "published": "Wed, 28 Oct 2026 19:50:59 +0000",
-      "title_th": "Apple introduces new power adapters for Mac, plus extension cable, travel kit",
-      "summary_th": "Today alongside the launch of the MacBook Pro with PROLED XDR, Apple has introduced four new accessories for Mac: two updated power adapters, a power extension cable, and a travel adapter kit. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple releases touchscreen Mac developer videos, with live sessions coming in November",
-      "summary_en": "Apple has announced a series of videos and upcoming live sessions to help developers optimize their apps for touchscreen Macs. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/touch-mac-apps.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/28/apple-releases-touchscreen-mac-developer-videos-with-live-sessions-coming-in-november/",
-      "published": "Wed, 28 Oct 2026 19:27:35 +0000",
-      "title_th": "Apple releases touchscreen Mac developer videos, with live sessions coming in November",
-      "summary_th": "Apple has announced a series of videos and upcoming live sessions to help developers optimize their apps for touchscreen Macs. Here are the details. more…"
     },
     {
       "source": "9to5Google",
@@ -546,6 +546,42 @@
       "source": "Electrek",
       "flag": "",
       "category": "ev",
+      "title_en": "When one door closes: Polestar 2 production ends, and what might come next",
+      "summary_en": "Forget about the 600+ hp hybrid-powered Polestar 1 supercoupe; the car that established Polestar as a standalone brand was the 2. As the brand pulls out of the US and shifts its focus to the rest of the world, it’s time to look back at the EV that helped define Polestar, along with a look around at some of the best EV deals of all time. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/polestar_2_MAIN.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/28/when-one-door-closes-polestar-2-production-ends-and-what-might-come-next/",
+      "published": "Thu, 29 Oct 2026 01:20:27 +0000",
+      "title_th": "When one door closes: Polestar 2 production ends, and what might come next",
+      "summary_th": "Forget about the 600+ hp hybrid-powered Polestar 1 supercoupe; the car that established Polestar as a standalone brand was the 2. As the brand pulls out of the US and shifts its focus to the rest of the world, it’s time to look back at the EV that helped define Polestar, along with a look around at some of the best EV deals of all time. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined",
+      "summary_en": "BYD now has more than 1.02 million employees, according to chairman Wang Chuanfu. That’s more people than Toyota, GM, Ford, and Tesla employ combined. And it’s a big jump from the start of the year. BYD reported about 869,600 employees at the end of 2025, which means the Chinese automaker has added roughly 150,000 people in 10 months while its vehicle sales are down. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/03/BYD-EV-demand-gas-prices-1.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/28/byd-1-million-employees-more-than-toyota-gm-ford-tesla/",
+      "published": "Thu, 29 Oct 2026 00:41:17 +0000",
+      "title_th": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined",
+      "summary_th": "BYD now has more than 1.02 million employees, according to chairman Wang Chuanfu. That’s more people than Toyota, GM, Ford, and Tesla employ combined. And it’s a big jump from the start of the year. BYD reported about 869,600 employees at the end of 2025, which means the Chinese automaker has added roughly 150,000 people in 10 months while its vehicle sales are down. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Dutch startup Elysian says electric flight may be closer than you think",
+      "summary_en": "They day you get to book an all-electric flight may be closer than you think if Dutch startup Elysian Aircraft gets its way. Their new E9X commercial airliner promises flights that are a whole lot quieter, and at prices that are whole lot less dependent on dumb oil wars . more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/elysian_MAIN.png?resize=1200,628",
+      "link": "https://electrek.co/2026/10/28/dutch-startup-elysian-says-electric-flight-may-be-closer-than-you-think/",
+      "published": "Wed, 28 Oct 2026 22:34:30 +0000",
+      "title_th": "Dutch startup Elysian says electric flight may be closer than you think",
+      "summary_th": "They day you get to book an all-electric flight may be closer than you think if Dutch startup Elysian Aircraft gets its way. Their new E9X commercial airliner promises flights that are a whole lot quieter, and at prices that are whole lot less dependent on dumb oil wars . more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
       "title_en": "Used EVs are suddenly hot sellers — Here are the top SUVs for under $25,000",
       "summary_en": "Don’t want to pay full price? Used EVs with low miles, like the Hyundai IONIQ 5 and Ford Mustang Mach-E, are selling on the secondhand market for $25,000 or less. more…",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Used-EVs-under-25000.jpeg?quality=82&strip=all&resize=1200,628",
@@ -565,42 +601,6 @@
       "published": "Wed, 28 Oct 2026 19:38:37 +0000",
       "title_th": "Dems introduce new $15,000 EV tax credit bill that has no chance — and that’s a problem",
       "summary_th": "Rep. Greg Landsman (D-OH) wants to bring back the federal EV tax credit and double it. His new bill, the “21st Century Vehicle Choice Act” (H.R. 10881), would offer up to $15,000 on a new electric vehicle and $8,000 on a used one, and it would make both credits permanent. The problem is that the bill has virtually no chance of becoming law anytime soon. And if EV shoppers start holding out for it, it could end up hurting the market it’s trying to help. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Volkswagen’s EV battery recall reaches over 85,000, with Audi now included",
-      "summary_en": "Volkswagen’s latest recall now extends to Audi, affecting nearly 13,000 Q4 E-Tron and Q4 Sportback E-Tron vehicles globally. And just like with the ID.4, owners are being told to limit charging to 80% of the battery’s capacity. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Volkswagen-EV-recall-Audi-1.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/28/volkswagens-ev-battery-recall-reaches-over-85000-with-audi/",
-      "published": "Wed, 28 Oct 2026 18:09:59 +0000",
-      "title_th": "Volkswagen’s EV battery recall reaches over 85,000, with Audi now included",
-      "summary_th": "Volkswagen’s latest recall now extends to Audi, affecting nearly 13,000 Q4 E-Tron and Q4 Sportback E-Tron vehicles globally. And just like with the ID.4, owners are being told to limit charging to 80% of the battery’s capacity. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Jackery sale drops HomePower 2000 Plus v2 400W solar bundle to $1,479, Yozma IN 11 electric dirt bike exclusive $1,399 low, more",
-      "summary_en": "Leading our midweek edition is the Halloween Sale from Jackery with up to $2,060 off discounts on power stations that is running for a few days into November and even has extra savings in the form of an online crossword game. One notable bundle here is the HomePower 2000 Plus v2 2,048Wh Power Station with 2x 200W solar panels at $1,479 , while other deals start from $199. We also have Yozma’s latest IN 11 Electric Dirt Bike that just released getting a FREE $299 gift box and exclusive savings down to a new $1,399 low , as well as Tenways’ Early Black Friday sale that has returned the CGO600 Pro Lightweight Chain-Drive e-bike back to its $1,499 low for the second time this year. There’s also a 40V Greenworks pole saw kit deal, and our hangover deals from yesterday at the bottom of the page,",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Jackery-Yozma-Tenways-Greenworks-GDs-FI.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/28/jackery-homepower-2000-plus-v2-power-station-yozma-in-11-electric-dirt-bike-more/",
-      "published": "Wed, 28 Oct 2026 18:00:00 +0000",
-      "title_th": "Jackery sale drops HomePower 2000 Plus v2 400W solar bundle to $1,479, Yozma IN 11 electric dirt bike exclusive $1,399 low, more",
-      "summary_th": "Leading our midweek edition is the Halloween Sale from Jackery with up to $2,060 off discounts on power stations that is running for a few days into November and even has extra savings in the form of an online crossword game. One notable bundle here is the HomePower 2000 Plus v2 2,048Wh Power Station with 2x 200W solar panels at $1,479 , while other deals start from $199. We also have Yozma’s latest IN 11 Electric Dirt Bike that just released getting a FREE $299 gift box and exclusive savings down to a new $1,399 low , as well as Tenways’ Early Black Friday sale that has returned the CGO600 Pro Lightweight Chain-Drive e-bike back to its $1,499 low for the second time this year. There’s also a 40V Greenworks pole saw kit deal, and our hangover deals from yesterday at the bottom of the page,"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Tesla’s rocket-shaped Robotaxi map in Houston is partly ‘fake’",
-      "summary_en": "Tesla’s new rocket-shaped Robotaxi service area in Houston includes parts of downtown where the service won’t actually pick you up, according to Ethan McKanna, the creator of Robotaxi Tracker and former Tesla employee. McKanna rode the service after Monday’s expansion and called Houston “by far the most egregious ‘fake’ AV service area” he has seen. One trip quote had him spending about 40 minutes in a Robotaxi to go two blocks. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/tesla-robotaxi-houston-geofence-rocket-map.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/28/tesla-robotaxi-houston-rocket-service-area-fake/",
-      "published": "Wed, 28 Oct 2026 15:18:25 +0000",
-      "title_th": "Tesla’s rocket-shaped Robotaxi map in Houston is partly ‘fake’",
-      "summary_th": "Tesla’s new rocket-shaped Robotaxi service area in Houston includes parts of downtown where the service won’t actually pick you up, according to Ethan McKanna, the creator of Robotaxi Tracker and former Tesla employee. McKanna rode the service after Monday’s expansion and called Houston “by far the most egregious ‘fake’ AV service area” he has seen. One trip quote had him spending about 40 minutes in a Robotaxi to go two blocks. more…"
     }
   ],
   "indices": [
@@ -669,126 +669,5 @@
       "change_pct": -1.28
     }
   ],
-  "reviews": [
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "This can SEE Sound!",
-      "video_id": "ai1gIWacf0I",
-      "link": "https://www.youtube.com/shorts/ai1gIWacf0I",
-      "thumbnail": "https://i2.ytimg.com/vi/ai1gIWacf0I/hqdefault.jpg",
-      "published": "2026-10-27T20:14:55+00:00",
-      "title_th": "This can SEE Sound!"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "ASMR iPhone Duo Unboxing",
-      "video_id": "_4ELeWAgMwo",
-      "link": "https://www.youtube.com/shorts/_4ELeWAgMwo",
-      "thumbnail": "https://i4.ytimg.com/vi/_4ELeWAgMwo/hqdefault.jpg",
-      "published": "2026-10-21T14:00:33+00:00",
-      "title_th": "ASMR iPhone Duo Unboxing"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "iPhone Duo Review: First Generation Fun!",
-      "video_id": "ESABTN4VtrA",
-      "link": "https://www.youtube.com/watch?v=ESABTN4VtrA",
-      "thumbnail": "https://i2.ytimg.com/vi/ESABTN4VtrA/hqdefault.jpg",
-      "published": "2026-10-21T12:00:52+00:00",
-      "title_th": "iPhone Duo Review: First Generation Fun!"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "Smartphones Are Getting OUT of Control…",
-      "video_id": "8ULFcCPEBAM",
-      "link": "https://www.youtube.com/watch?v=8ULFcCPEBAM",
-      "thumbnail": "https://i1.ytimg.com/vi/8ULFcCPEBAM/hqdefault.jpg",
-      "published": "2026-10-28T14:44:56+00:00",
-      "title_th": "Smartphones Are Getting OUT of Control…"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "Samsung Z Fold8 Ultra: The Evolution of Folding Phones",
-      "video_id": "3EVdxel81Q8",
-      "link": "https://www.youtube.com/watch?v=3EVdxel81Q8",
-      "thumbnail": "https://i4.ytimg.com/vi/3EVdxel81Q8/hqdefault.jpg",
-      "published": "2026-10-26T18:28:47+00:00",
-      "title_th": "Samsung Z Fold8 Ultra: The Evolution of Folding Phones"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "Apple iPhone Duo Unboxing and First Impressions",
-      "video_id": "gyUqMHDSn2I",
-      "link": "https://www.youtube.com/watch?v=gyUqMHDSn2I",
-      "thumbnail": "https://i4.ytimg.com/vi/gyUqMHDSn2I/hqdefault.jpg",
-      "published": "2026-10-24T16:30:22+00:00",
-      "title_th": "Apple iPhone Duo Unboxing and First Impressions"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "gamescom asia x Thailand Game Show 2026 ขยายเต็ม 4 ฮอลล์!",
-      "video_id": "MwWj8dbkK48",
-      "link": "https://www.youtube.com/shorts/MwWj8dbkK48",
-      "thumbnail": "https://i2.ytimg.com/vi/MwWj8dbkK48/hqdefault.jpg",
-      "published": "2026-10-28T03:41:22+00:00",
-      "title_th": "gamescom asia x Thailand Game Show 2026 ขยายเต็ม 4 ฮอลล์!"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "รีวิว OPPO Find X10 Pro Max กล้องตัวท็อป พร้อมชุดเลนส์เสริม OPPO Hasselblad",
-      "video_id": "Y-aGl_7WhFI",
-      "link": "https://www.youtube.com/watch?v=Y-aGl_7WhFI",
-      "thumbnail": "https://i2.ytimg.com/vi/Y-aGl_7WhFI/hqdefault.jpg",
-      "published": "2026-10-28T03:00:01+00:00",
-      "title_th": "รีวิว OPPO Find X10 Pro Max กล้องตัวท็อป พร้อมชุดเลนส์เสริม OPPO Hasselblad"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "ฟรีแลนซ์ : นายตัวเอง หรือทาสลูกค้า ?",
-      "video_id": "mtBpH2n_28w",
-      "link": "https://www.youtube.com/shorts/mtBpH2n_28w",
-      "thumbnail": "https://i2.ytimg.com/vi/mtBpH2n_28w/hqdefault.jpg",
-      "published": "2026-10-27T23:00:01+00:00",
-      "title_th": "ฟรีแลนซ์ : นายตัวเอง หรือทาสลูกค้า ?"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "รีวิว vivo V80 กล้อง ZEISS Portrait ถ่ายคนสวย ! AI เสกโทนสวย สไตล์ฟิล์ม CCD Flash",
-      "video_id": "vFQeCzK7L6E",
-      "link": "https://www.youtube.com/watch?v=vFQeCzK7L6E",
-      "thumbnail": "https://i3.ytimg.com/vi/vFQeCzK7L6E/hqdefault.jpg",
-      "published": "2026-10-28T10:30:47+00:00",
-      "title_th": "รีวิว vivo V80 กล้อง ZEISS Portrait ถ่ายคนสวย ! AI เสกโทนสวย สไตล์ฟิล์ม CCD Flash"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "รีวิว OPPO Find X10 Pro Max มือถือกล้องเทพ ซูมชัด พร้อมเลนส์เสริม Hasselblad",
-      "video_id": "XR3ySds6X9g",
-      "link": "https://www.youtube.com/watch?v=XR3ySds6X9g",
-      "thumbnail": "https://i1.ytimg.com/vi/XR3ySds6X9g/hqdefault.jpg",
-      "published": "2026-10-27T12:09:56+00:00",
-      "title_th": "รีวิว OPPO Find X10 Pro Max มือถือกล้องเทพ ซูมชัด พร้อมเลนส์เสริม Hasselblad"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "สิ่งที่ Samsung เลิกทำ แต่ iPhone Duo เอากลับมาทำ (และดีด้วย) #Samsung #iPhoneDuo",
-      "video_id": "FDyAgLAVvh8",
-      "link": "https://www.youtube.com/shorts/FDyAgLAVvh8",
-      "thumbnail": "https://i3.ytimg.com/vi/FDyAgLAVvh8/hqdefault.jpg",
-      "published": "2026-10-25T15:02:53+00:00",
-      "title_th": "สิ่งที่ Samsung เลิกทำ แต่ iPhone Duo เอากลับมาทำ (และดีด้วย) #Samsung #iPhoneDuo"
-    }
-  ]
+  "reviews": []
 }
