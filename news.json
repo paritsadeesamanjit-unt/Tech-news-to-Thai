@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-30T03:22:44.301564+00:00",
+  "generated_at": "2026-10-30T12:03:23.246261+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+      "summary_en": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Waymo_Toyota_bZ4X.jpg?resize=1200,675",
+      "link": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+      "published": "Fri, 30 Oct 2026 07:01:00 +0000",
+      "title_th": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+      "summary_th": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -19,23 +31,23 @@
       "flag": "US",
       "category": "startup",
       "title_en": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
-      "summary_en": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+      "summary_en": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says.",
       "image": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242123707.jpg?resize=1200,767",
       "link": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
       "published": "Thu, 29 Oct 2026 23:44:56 +0000",
       "title_th": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
-      "summary_th": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says."
+      "summary_th": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says."
     },
     {
       "source": "TechCrunch",
       "flag": "US",
       "category": "startup",
-      "title_en": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "title_en": "AWS will be a $1T business, Jassy says — but first, it will spend big",
       "summary_en": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
       "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
       "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
       "published": "Thu, 29 Oct 2026 23:42:22 +0000",
-      "title_th": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "title_th": "AWS will be a $1T business, Jassy says — but first, it will spend big",
       "summary_th": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday."
     },
     {
@@ -51,16 +63,28 @@
       "summary_th": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Amazon reported booming cloud revenue but otherwise missed expectations",
-      "summary_en": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1252468735.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
-      "published": "Thu, 29 Oct 2026 21:20:47 +0000",
-      "title_th": "Amazon reported booming cloud revenue but otherwise missed expectations",
-      "summary_th": "The biggest ouch of the report was its negative free cash flow of $2.4 billion."
+      "category": "software",
+      "title_en": "Maine’s data center revolt will decide who controls the Senate",
+      "summary_en": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins brushed off the outburst, tying the man to her Democratic challenger, […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_MAINE_DATA_CENTERS_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+      "published": "2026-10-30T07:00:00-04:00",
+      "title_th": "Maine’s data center revolt will decide who controls the Senate",
+      "summary_th": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins brushed off the outburst, tying the man to her Democratic challenger, […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "summary_en": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
+      "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "published": "2026-10-30T05:00:00-04:00",
+      "title_th": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "summary_th": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger […]"
     },
     {
       "source": "The Verge",
@@ -97,30 +121,6 @@
       "published": "2026-10-29T18:19:32-04:00",
       "title_th": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
       "summary_th": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnings, Reddit revealed that search traffic in October has \"dropped by more than 1 million referrals on average per […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Reddit will force everyone to log in",
-      "summary_en": "Reddit is announcing a huge shift: It's going to start requiring users to log in. Right now, you can browse Reddit without having an account, and the site is generally a great resource for crowdsourced information on a whole range of topics. I know I'm not the only person who appends \"reddit\" to a lot […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK115_Reddit_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
-      "published": "2026-10-29T16:07:00-04:00",
-      "title_th": "Reddit will force everyone to log in",
-      "summary_th": "Reddit is announcing a huge shift: It's going to start requiring users to log in. Right now, you can browse Reddit without having an account, and the site is generally a great resource for crowdsourced information on a whole range of topics. I know I'm not the only person who appends \"reddit\" to a lot […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "ev",
-      "title_en": "Rivian’s R2 is officially its best-selling vehicle",
-      "summary_en": "Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first time, outselling all of Rivian's other EVs. Rivian said it brought in $2.155 billion in revenue, a 38 percent […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268434_Rivian_Factory_ATahlier_0015.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software",
-      "published": "2026-10-29T16:02:00-04:00",
-      "title_th": "Rivian’s R2 is officially its best-selling vehicle",
-      "summary_th": "Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first time, outselling all of Rivian's other EVs. Rivian said it brought in $2.155 billion in revenue, a 38 percent […]"
     },
     {
       "source": "Ars Technica",
@@ -186,61 +186,73 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "What to Know About China’s Top-Secret Spaceplane",
-      "summary_en": "This week, the Pentagon released a full-resolution image of the vehicle, the capabilities of which remain rather mysterious.",
-      "image": "https://media.wired.com/photos/6ae3aab21b78b1068035e643/master/pass/PRC%20Space%20Plane_Vantor.jpg",
-      "link": "https://www.wired.com/story/what-to-know-about-chinas-top-secret-spaceplane/",
-      "published": "Thu, 29 Oct 2026 20:45:36 +0000",
-      "title_th": "What to Know About China’s Top-Secret Spaceplane",
-      "summary_th": "This week, the Pentagon released a full-resolution image of the vehicle, the capabilities of which remain rather mysterious."
+      "title_en": "The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes",
+      "summary_en": "Multiple crypto-tracing firms say notorious North Korean hackers TraderTraitor may be behind the largest digital heist in history—with billions of crypto likely gone for good.",
+      "image": "https://media.wired.com/photos/6ae463bdc091c8b8d1ec019e/master/pass/102026-Binance%20Hacked.jpg",
+      "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "published": "Fri, 30 Oct 2026 11:36:52 +0000",
+      "title_th": "The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes",
+      "summary_th": "Multiple crypto-tracing firms say notorious North Korean hackers TraderTraitor may be behind the largest digital heist in history—with billions of crypto likely gone for good."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Polymarket Halted International Trading After Hackers Drained Accounts",
-      "summary_en": "The company says an unnamed third-party provider was compromised. Trading has resumed, and Polymarket says affected traders will be made whole.",
-      "image": "https://media.wired.com/photos/6ae3a1d0b3ee5efdf6d00c9f/master/pass/GettyImages-2259602081.jpg",
-      "link": "https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/",
-      "published": "Thu, 29 Oct 2026 19:51:56 +0000",
-      "title_th": "Polymarket Halted International Trading After Hackers Drained Accounts",
-      "summary_th": "The company says an unnamed third-party provider was compromised. Trading has resumed, and Polymarket says affected traders will be made whole."
+      "title_en": "This App Brutally Shames You by Tracking How Many Hours You’ve Lost to Scrolling",
+      "summary_en": "The iOS app Oh My Hours takes a new approach to curbing screen time. It splits up your day into hour-long blocks, then shows which ones you wasted on Instagram and TikTok.",
+      "image": "https://media.wired.com/photos/6ae098c55eba24f851ec7cf8/master/pass/GettyImages-2240550047.jpg",
+      "link": "https://www.wired.com/story/oh-my-hours-ios-app/",
+      "published": "Fri, 30 Oct 2026 11:00:00 +0000",
+      "title_th": "This App Brutally Shames You by Tracking How Many Hours You’ve Lost to Scrolling",
+      "summary_th": "The iOS app Oh My Hours takes a new approach to curbing screen time. It splits up your day into hour-long blocks, then shows which ones you wasted on Instagram and TikTok."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Nothing Headphones Sale: Stylish and Up to 41% Off",
-      "summary_en": "Some of the brand’s best styles, including the Nothing Headphone (1) and CMF Headphone Pro, are at the lowest prices I’ve ever seen ahead of Black Friday.",
-      "image": "https://media.wired.com/photos/6ae36f07feb0012f49429412/master/pass/Nothing%20Headphone%20Deals%20October%20102026%20top%20art%20SOURCE%20Shop.com.jpg",
-      "link": "https://www.wired.com/story/nothing-cmf-deals-october-2026/",
-      "published": "Thu, 29 Oct 2026 19:41:36 +0000",
-      "title_th": "Nothing Headphones Sale: Stylish and Up to 41% Off",
-      "summary_th": "Some of the brand’s best styles, including the Nothing Headphone (1) and CMF Headphone Pro, are at the lowest prices I’ve ever seen ahead of Black Friday."
+      "title_en": "Elon Musk’s Ties to Texas Republicans Go Much Deeper Than the Midterms",
+      "summary_en": "As Election Day approaches, the billionaire’s longstanding relationships with GOP leaders in Texas are under scrutiny.",
+      "image": "https://media.wired.com/photos/6ae0c75290b99bca949001fd/master/pass/102726-ken-paxton-elon-musk.jpg",
+      "link": "https://www.wired.com/story/elon-musks-ties-to-texas-republicans-go-much-deeper-than-the-midterms/",
+      "published": "Fri, 30 Oct 2026 10:45:00 +0000",
+      "title_th": "Elon Musk’s Ties to Texas Republicans Go Much Deeper Than the Midterms",
+      "summary_th": "As Election Day approaches, the billionaire’s longstanding relationships with GOP leaders in Texas are under scrutiny."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-      "summary_en": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
-      "image": "https://media.wired.com/photos/6ae113db6239096998a832f8/master/pass/102726-department-of-defense-ai-agent.gif",
-      "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-      "published": "Thu, 29 Oct 2026 18:39:43 +0000",
-      "title_th": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-      "summary_th": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched."
+      "title_en": "The Best Handheld Translators for Work and Travel (2026)",
+      "summary_en": "Your cell phone can handle basic language translation, but dedicated translator devices can offer a much more immersive, versatile experience.",
+      "image": "https://media.wired.com/photos/69fe53b7692a9d3fda8bda4c/master/pass/AFK%20Portable%20Translators%20Can%20Help%20You%20Speak%20Like%20a%20Local%20When%20Traveling%20Abroad%20top%20art%20052026%20SOURCE%20Amazon-iFlyTek.jpg",
+      "link": "https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/",
+      "published": "Fri, 30 Oct 2026 10:30:00 +0000",
+      "title_th": "The Best Handheld Translators for Work and Travel (2026)",
+      "summary_th": "Your cell phone can handle basic language translation, but dedicated translator devices can offer a much more immersive, versatile experience."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
-      "summary_en": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
-      "image": "https://media.wired.com/photos/6ae2968f0262809bad6615e8/master/pass/Untitled-6.gif",
-      "link": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
-      "published": "Thu, 29 Oct 2026 15:00:00 +0000",
-      "title_th": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
-      "summary_th": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended."
+      "title_en": "It Sure Looks Like the Department of Education Is Promoting a Right-Wing ‘Harry Potter’ Meme",
+      "summary_en": "The meme appeared to reference gender-swapping “Malfoid” fan fiction, a term with incel roots. When asked about it, the DOE responded by quoting Dumbledore.",
+      "image": "https://media.wired.com/photos/6ae3a2964c40b236572925e2/master/pass/Culture_It%20Sure%20Looks%20Like%20the%20Department%20of%20Education%20Is%20Promoting%20a%20Right-Wing%20Harry%20Potter%20Meme_v1.jpg",
+      "link": "https://www.wired.com/story/it-sure-looks-like-the-department-of-education-is-promoting-a-right-wing-harry-potter-meme/",
+      "published": "Fri, 30 Oct 2026 10:15:00 +0000",
+      "title_th": "It Sure Looks Like the Department of Education Is Promoting a Right-Wing ‘Harry Potter’ Meme",
+      "summary_th": "The meme appeared to reference gender-swapping “Malfoid” fan fiction, a term with incel roots. When asked about it, the DOE responded by quoting Dumbledore."
+    },
+    {
+      "source": "MIT Technology Review",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Eating disorders are on the rise. GLP-1s could make things worse.",
+      "summary_en": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa shot up between 1990 and 2023—by a whopping 71%. By 2023,…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_GLP1EatingDisorder.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+      "published": "Fri, 30 Oct 2026 09:00:00 +0000",
+      "title_th": "Eating disorders are on the rise. GLP-1s could make things worse.",
+      "summary_th": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa shot up between 1990 and 2023—by a whopping 71%. By 2023,…"
     },
     {
       "source": "MIT Technology Review",
@@ -291,16 +303,40 @@
       "summary_th": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a…"
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "The Download: dead startups fueling AI and interspecies communication",
-      "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much. But he’s…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AI-Death_Redamonti_MIT-thumb.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-      "published": "Wed, 28 Oct 2026 12:10:00 +0000",
-      "title_th": "The Download: dead startups fueling AI and interspecies communication",
-      "summary_th": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much. But he’s…"
+      "category": "chip",
+      "title_en": "Waymo and Toyota will soon start testing their robotaxis in Japan",
+      "summary_en": "Waymo and Toyota will start testing autonomous bZ4X vehicles in Japan next year. (edited)",
+      "image": "https://www.engadget.com/img/gallery/waymo-and-toyota-will-soon-start-testing-their-robotaxis-japan/l-intro-1793355754.jpg",
+      "link": "https://www.engadget.com/2301972/waymo-toyota-soon-start-testing-bz4x-robotaxis-japan/",
+      "published": "Fri, 30 Oct 2026 10:23:52 +0000",
+      "title_th": "Waymo and Toyota will soon start testing their robotaxis in Japan",
+      "summary_th": "Waymo and Toyota will start testing autonomous bZ4X vehicles in Japan next year. (edited)"
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Senators are looking into 'serious privacy risks' with Meta's AI glasses",
+      "summary_en": "US senators have asked Meta to explain how it's mitigating 'serious' privacy risks with its AI glasses.",
+      "image": "https://www.engadget.com/img/gallery/senators-are-looking-into-serious-privacy-risks-with-metas-ai-glasses/l-intro-1793354694.jpg",
+      "link": "https://www.engadget.com/2301968/senators-looking-into-serious-privacy-risks-with-meta-ai-glasses/",
+      "published": "Fri, 30 Oct 2026 10:08:13 +0000",
+      "title_th": "Senators are looking into 'serious privacy risks' with Meta's AI glasses",
+      "summary_th": "US senators have asked Meta to explain how it's mitigating 'serious' privacy risks with its AI glasses."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "General Motors agrees to pay $220 million to settle multi-state data privacy lawsuit",
+      "summary_en": "GM has settled the Smart Driver program lawsuit brought by 35 attorneys general.",
+      "image": "https://www.engadget.com/img/gallery/general-motors-agrees-to-pay-220-million-to-settle-multi-state-data-privacy-lawsuit/l-intro-1793345961.jpg",
+      "link": "https://www.engadget.com/2301934/general-motors-220-million-settle-multi-state-data-privacy-lawsuit/",
+      "published": "Fri, 30 Oct 2026 07:44:26 +0000",
+      "title_th": "General Motors agrees to pay $220 million to settle multi-state data privacy lawsuit",
+      "summary_th": "GM has settled the Smart Driver program lawsuit brought by 35 attorneys general."
     },
     {
       "source": "Engadget",
@@ -325,42 +361,6 @@
       "published": "Thu, 29 Oct 2026 21:18:22 +0000",
       "title_th": "Fan fiction website AO3 is down, and it could take weeks to recover",
       "summary_th": "The site's data is reportedly intact, but the cause of the outage is still unknown."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Reddit will force users to log in as AI is killing search traffic",
-      "summary_en": "The company is starting with tests outside of the US.",
-      "image": "https://www.engadget.com/img/gallery/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/l-intro-1793310425.jpg",
-      "link": "https://www.engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/",
-      "published": "Thu, 29 Oct 2026 20:32:49 +0000",
-      "title_th": "Reddit will force users to log in as AI is killing search traffic",
-      "summary_th": "The company is starting with tests outside of the US."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Google fixes an annoying Photos bug that hid edited images from other apps",
-      "summary_en": "Hey, that's not what Magic Eraser is supposed to do!",
-      "image": "https://www.engadget.com/img/gallery/google-fixes-an-annoying-photos-bug-that-hid-edited-images-from-other-apps/l-intro-1793305492.jpg",
-      "link": "https://www.engadget.com/2301675/google-fixes-an-annoying-photos-bug-that-hid-edited-images-from-other-apps/",
-      "published": "Thu, 29 Oct 2026 20:26:24 +0000",
-      "title_th": "Google fixes an annoying Photos bug that hid edited images from other apps",
-      "summary_th": "Hey, that's not what Magic Eraser is supposed to do!"
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Google brings AI Mode advertisements to more countries",
-      "summary_en": "Adding sponsored content in more markets could make the feature profitable.",
-      "image": "https://www.engadget.com/img/gallery/google-brings-ai-mode-advertisements-to-more-countries/l-intro-1793305012.jpg",
-      "link": "https://www.engadget.com/2301660/google-brings-ai-mode-advertisements-to-more-countries/",
-      "published": "Thu, 29 Oct 2026 20:18:24 +0000",
-      "title_th": "Google brings AI Mode advertisements to more countries",
-      "summary_th": "Adding sponsored content in more markets could make the feature profitable."
     },
     {
       "source": "IEEE Spectrum",
@@ -486,6 +486,18 @@
       "source": "9to5Google",
       "flag": "",
       "category": "gadget",
+      "title_en": "Google rolling out software updates for these Nest Cam and Doorbell models",
+      "summary_en": "Alongside updates to several of its other smart home devices, Google is rolling out software updates to several Nest Cam and Doorbell models. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2020/07/google_nest_cam_iq_indoor_2.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/10/30/google-nest-cam-doorbell-updates-2026/",
+      "published": "Fri, 30 Oct 2026 11:00:00 +0000",
+      "title_th": "Google rolling out software updates for these Nest Cam and Doorbell models",
+      "summary_th": "Alongside updates to several of its other smart home devices, Google is rolling out software updates to several Nest Cam and Doorbell models. more…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Latest Gemini design comes to all Android devices, app upgrades file generation",
       "summary_en": "A pair of Gemini app updates today brings the latest design to all Android devices, while file generation sees a big upgrade. more…",
       "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Gemini-Overlay.jpg?quality=82&strip=all&resize=1200,628",
@@ -531,16 +543,16 @@
       "summary_th": "Following last week’s release, Google is rolling out Android 17 QPR3 Beta 3 to Pixel devices today. It’s another big bug fixer. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Google stock drops amid AI fears; AI Mode has ‘lower monetization,’ getting more ads",
-      "summary_en": "Google is bringing ads to AI Mode globally as it admits that the new take on Search brings “lower monetization,” all while $GOOG stock is seeing a fairly major drop. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/01/google-logo-ces-2024-2-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/10/29/google-stock-drop-ai-mode-ad-expansion/",
-      "published": "Thu, 29 Oct 2026 19:05:00 +0000",
-      "title_th": "Google stock drops amid AI fears; AI Mode has ‘lower monetization,’ getting more ads",
-      "summary_th": "Google is bringing ads to AI Mode globally as it admits that the new take on Search brings “lower monetization,” all while $GOOG stock is seeing a fairly major drop. more…"
+      "category": "ev",
+      "title_en": "Someone ran Rivian’s pedal-by-wire e-bike out of battery and things got weird",
+      "summary_en": "The ALSO TM-B is one of the most technologically interesting new e-bikes to hit the road in years, largely because it does away with one of the most fundamental parts of a bicycle: the mechanical connection between the pedals and rear wheel. With only copper wires connecting the pedals to the rear wheel, the TM-B is one of the most revolutionary new e-bikes in years. But that raises an obvious question. What happens when the battery dies? more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/also-ebike-low-battery-head.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/10/29/someone-ran-rivians-pedal-by-wire-e-bike-out-of-battery-and-things-got-weird/",
+      "published": "Fri, 30 Oct 2026 06:51:21 +0000",
+      "title_th": "Someone ran Rivian’s pedal-by-wire e-bike out of battery and things got weird",
+      "summary_th": "The ALSO TM-B is one of the most technologically interesting new e-bikes to hit the road in years, largely because it does away with one of the most fundamental parts of a bicycle: the mechanical connection between the pedals and rear wheel. With only copper wires connecting the pedals to the rear wheel, the TM-B is one of the most revolutionary new e-bikes in years. But that raises an obvious question. What happens when the battery dies? more…"
     },
     {
       "source": "Electrek",
@@ -589,18 +601,6 @@
       "published": "Thu, 29 Oct 2026 20:02:00 +0000",
       "title_th": "Rivian (RIVN) Q3 2026 earnings: revenue up 38%, R2 now its best-seller",
       "summary_th": "Rivian (RIVN) just released its Q3 2026 earnings, with revenue up 38% year-over-year to $2.155 billion. The R2, in its first full quarter of deliveries, is already the company’s best-selling vehicle, ahead of both the R1 and the Amazon van. The results beat Wall Street’s expectations, and Rivian is raising its 2026 guidance on every metric. But the car business is still losing money, and the R2 ramp made the automotive margin worse this quarter. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Hyundai hints at IONIQ P as the name for its new entry-level EV",
-      "summary_en": "Hyundai is launching a new mass-market electric SUV to be made in India, expected to go on sale as the IONIQ P. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Hyundai-IONIQ-1-EV-front.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/10/29/hyundai-ioniq-p-name-new-entry-level-ev/",
-      "published": "Thu, 29 Oct 2026 17:08:23 +0000",
-      "title_th": "Hyundai hints at IONIQ P as the name for its new entry-level EV",
-      "summary_th": "Hyundai is launching a new mass-market electric SUV to be made in India, expected to go on sale as the IONIQ P. more…"
     }
   ],
   "indices": [
@@ -664,10 +664,131 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 221.0,
-      "change": -11.0,
-      "change_pct": -4.74
+      "price": 203.0,
+      "change": -18.0,
+      "change_pct": -8.14
     }
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Macbook PROLED XDR Impressions: They Said They Wouldn't!",
+      "video_id": "2reQut8WNGc",
+      "link": "https://www.youtube.com/watch?v=2reQut8WNGc",
+      "thumbnail": "https://i3.ytimg.com/vi/2reQut8WNGc/hqdefault.jpg",
+      "published": "2026-10-29T02:50:34+00:00",
+      "title_th": "Macbook PROLED XDR Impressions: They Said They Wouldn't!"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "This can SEE Sound!",
+      "video_id": "ai1gIWacf0I",
+      "link": "https://www.youtube.com/shorts/ai1gIWacf0I",
+      "thumbnail": "https://i2.ytimg.com/vi/ai1gIWacf0I/hqdefault.jpg",
+      "published": "2026-10-27T20:14:55+00:00",
+      "title_th": "This can SEE Sound!"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "ASMR iPhone Duo Unboxing",
+      "video_id": "_4ELeWAgMwo",
+      "link": "https://www.youtube.com/shorts/_4ELeWAgMwo",
+      "thumbnail": "https://i4.ytimg.com/vi/_4ELeWAgMwo/hqdefault.jpg",
+      "published": "2026-10-21T14:00:33+00:00",
+      "title_th": "ASMR iPhone Duo Unboxing"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Smartphones Are Getting OUT of Control…",
+      "video_id": "8ULFcCPEBAM",
+      "link": "https://www.youtube.com/watch?v=8ULFcCPEBAM",
+      "thumbnail": "https://i1.ytimg.com/vi/8ULFcCPEBAM/hqdefault.jpg",
+      "published": "2026-10-28T14:44:56+00:00",
+      "title_th": "Smartphones Are Getting OUT of Control…"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Samsung Z Fold8 Ultra: The Evolution of Folding Phones",
+      "video_id": "3EVdxel81Q8",
+      "link": "https://www.youtube.com/watch?v=3EVdxel81Q8",
+      "thumbnail": "https://i4.ytimg.com/vi/3EVdxel81Q8/hqdefault.jpg",
+      "published": "2026-10-26T18:28:47+00:00",
+      "title_th": "Samsung Z Fold8 Ultra: The Evolution of Folding Phones"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Apple iPhone Duo Unboxing and First Impressions",
+      "video_id": "gyUqMHDSn2I",
+      "link": "https://www.youtube.com/watch?v=gyUqMHDSn2I",
+      "thumbnail": "https://i4.ytimg.com/vi/gyUqMHDSn2I/hqdefault.jpg",
+      "published": "2026-10-24T16:30:22+00:00",
+      "title_th": "Apple iPhone Duo Unboxing and First Impressions"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "เทียบเต็ม ๆ iPhone Duo ต่างจาก Samsung Galaxy Z Fold 8 ยังไงบ้าง",
+      "video_id": "Tg02SuaGEAE",
+      "link": "https://www.youtube.com/watch?v=Tg02SuaGEAE",
+      "thumbnail": "https://i1.ytimg.com/vi/Tg02SuaGEAE/hqdefault.jpg",
+      "published": "2026-10-30T11:00:10+00:00",
+      "title_th": "เทียบเต็ม ๆ iPhone Duo ต่างจาก Samsung Galaxy Z Fold 8 ยังไงบ้าง"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "[LIVE] Opening Ceremony gamescom asia x Thailand Game Show 2026 : The Heart of Gaming (DAY 1)",
+      "video_id": "dditwXP2Gvw",
+      "link": "https://www.youtube.com/watch?v=dditwXP2Gvw",
+      "thumbnail": "https://i1.ytimg.com/vi/dditwXP2Gvw/hqdefault.jpg",
+      "published": "2026-10-30T03:58:16+00:00",
+      "title_th": "[LIVE] Opening Ceremony gamescom asia x Thailand Game Show 2026 : The Heart of Gaming (DAY 1)"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "ครั้งแรกบนเวที! THE BIGGEST DREAM โดยเฌอปราง x เนเน่",
+      "video_id": "1vCwwoscDz8",
+      "link": "https://www.youtube.com/watch?v=1vCwwoscDz8",
+      "thumbnail": "https://i2.ytimg.com/vi/1vCwwoscDz8/hqdefault.jpg",
+      "published": "2026-10-30T04:57:22+00:00",
+      "title_th": "ครั้งแรกบนเวที! THE BIGGEST DREAM โดยเฌอปราง x เนเน่"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "🔴 รีวิว Honor Pad 20 รุ่นใหม่ล่าสุด พร้อมของแจกในไลฟ์",
+      "video_id": "2iZrzQTjqnw",
+      "link": "https://www.youtube.com/watch?v=2iZrzQTjqnw",
+      "thumbnail": "https://i3.ytimg.com/vi/2iZrzQTjqnw/hqdefault.jpg",
+      "published": "2026-10-30T07:15:00+00:00",
+      "title_th": "🔴 รีวิว Honor Pad 20 รุ่นใหม่ล่าสุด พร้อมของแจกในไลฟ์"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รีวิว vivo V80 กล้อง ZEISS Portrait ถ่ายคนสวย ! AI เสกโทนสวย สไตล์ฟิล์ม CCD Flash",
+      "video_id": "vFQeCzK7L6E",
+      "link": "https://www.youtube.com/watch?v=vFQeCzK7L6E",
+      "thumbnail": "https://i3.ytimg.com/vi/vFQeCzK7L6E/hqdefault.jpg",
+      "published": "2026-10-28T10:30:47+00:00",
+      "title_th": "รีวิว vivo V80 กล้อง ZEISS Portrait ถ่ายคนสวย ! AI เสกโทนสวย สไตล์ฟิล์ม CCD Flash"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รีวิว OPPO Find X10 Pro Max มือถือกล้องเทพ ซูมชัด พร้อมเลนส์เสริม Hasselblad",
+      "video_id": "XR3ySds6X9g",
+      "link": "https://www.youtube.com/watch?v=XR3ySds6X9g",
+      "thumbnail": "https://i1.ytimg.com/vi/XR3ySds6X9g/hqdefault.jpg",
+      "published": "2026-10-27T12:09:56+00:00",
+      "title_th": "รีวิว OPPO Find X10 Pro Max มือถือกล้องเทพ ซูมชัด พร้อมเลนส์เสริม Hasselblad"
+    }
+  ]
 }
