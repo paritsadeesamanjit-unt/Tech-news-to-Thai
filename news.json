@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T03:10:30.325181+00:00",
+  "generated_at": "2026-10-31T09:19:25.297633+00:00",
   "count": 50,
   "articles": [
     {
@@ -185,6 +185,18 @@
     {
       "source": "Wired",
       "flag": "US",
+      "category": "ai",
+      "title_en": "Wayfair Coupons: Up to 80% Off November 2026",
+      "summary_en": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
+      "image": "https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png",
+      "link": "https://www.wired.com/story/wayfair-promo-code/",
+      "published": "Sat, 31 Oct 2026 05:00:00 +0000",
+      "title_th": "Wayfair Coupons: Up to 80% Off November 2026",
+      "summary_th": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
       "category": "gadget",
       "title_en": "Google Pixel Watch 5 Sale: Its Lowest Price Yet (2026)",
       "summary_en": "Forget waiting until Black Friday. Google’s Pixel Watch 5 is at its lowest price ever—and we don’t know for how much longer.",
@@ -229,18 +241,6 @@
       "published": "Fri, 30 Oct 2026 13:34:00 +0000",
       "title_th": "Mattress Deals: Save Over $600 Before Black Friday 2026",
       "summary_th": "Even though Black Friday isn’t for a few more weeks, we’ve found early discounts on our favorite WIRED-tested mattresses and sleep accessories."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes",
-      "summary_en": "Multiple crypto-tracing firms say notorious North Korean hackers TraderTraitor may be behind the largest digital heist in history—with billions of crypto likely gone for good.",
-      "image": "https://media.wired.com/photos/6ae463bdc091c8b8d1ec019e/master/pass/102026-Binance%20Hacked.jpg",
-      "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-      "published": "Fri, 30 Oct 2026 11:36:52 +0000",
-      "title_th": "The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes",
-      "summary_th": "Multiple crypto-tracing firms say notorious North Korean hackers TraderTraitor may be behind the largest digital heist in history—with billions of crypto likely gone for good."
     },
     {
       "source": "MIT Technology Review",
@@ -699,6 +699,96 @@
       "thumbnail": "https://i4.ytimg.com/vi/_4ELeWAgMwo/hqdefault.jpg",
       "published": "2026-10-21T14:00:33+00:00",
       "title_th": "ASMR iPhone Duo Unboxing"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Smartphones Are Getting OUT of Control…",
+      "video_id": "8ULFcCPEBAM",
+      "link": "https://www.youtube.com/watch?v=8ULFcCPEBAM",
+      "thumbnail": "https://i1.ytimg.com/vi/8ULFcCPEBAM/hqdefault.jpg",
+      "published": "2026-10-28T14:44:56+00:00",
+      "title_th": "Smartphones Are Getting OUT of Control…"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Samsung Z Fold8 Ultra: The Evolution of Folding Phones",
+      "video_id": "3EVdxel81Q8",
+      "link": "https://www.youtube.com/watch?v=3EVdxel81Q8",
+      "thumbnail": "https://i4.ytimg.com/vi/3EVdxel81Q8/hqdefault.jpg",
+      "published": "2026-10-26T18:28:47+00:00",
+      "title_th": "Samsung Z Fold8 Ultra: The Evolution of Folding Phones"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Apple iPhone Duo Unboxing and First Impressions",
+      "video_id": "gyUqMHDSn2I",
+      "link": "https://www.youtube.com/watch?v=gyUqMHDSn2I",
+      "thumbnail": "https://i4.ytimg.com/vi/gyUqMHDSn2I/hqdefault.jpg",
+      "published": "2026-10-24T16:30:22+00:00",
+      "title_th": "Apple iPhone Duo Unboxing and First Impressions"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "อยากให้ลอง! SONOS Ace Ultra หูฟังตัวท็อปจูนเสียงฟังสนุก!",
+      "video_id": "qf5BE7PYpig",
+      "link": "https://www.youtube.com/shorts/qf5BE7PYpig",
+      "thumbnail": "https://i2.ytimg.com/vi/qf5BE7PYpig/hqdefault.jpg",
+      "published": "2026-10-31T07:27:39+00:00",
+      "title_th": "อยากให้ลอง! SONOS Ace Ultra หูฟังตัวท็อปจูนเสียงฟังสนุก!"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "'เชื้อดื้อยา' โรคคนจน ทำคนตาย ? | bt Originals Life Series",
+      "video_id": "6VXx9ZS_sxo",
+      "link": "https://www.youtube.com/watch?v=6VXx9ZS_sxo",
+      "thumbnail": "https://i3.ytimg.com/vi/6VXx9ZS_sxo/hqdefault.jpg",
+      "published": "2026-10-31T01:42:55+00:00",
+      "title_th": "'เชื้อดื้อยา' โรคคนจน ทำคนตาย ? | bt Originals Life Series"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "สิ่งที่ดีที่สุด ยังทำให้ดีกว่าเดิมได้",
+      "video_id": "ka2uqSw42Ys",
+      "link": "https://www.youtube.com/shorts/ka2uqSw42Ys",
+      "thumbnail": "https://i4.ytimg.com/vi/ka2uqSw42Ys/hqdefault.jpg",
+      "published": "2026-10-30T23:00:27+00:00",
+      "title_th": "สิ่งที่ดีที่สุด ยังทำให้ดีกว่าเดิมได้"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "🔴 รีวิว Honor Pad 20 รุ่นใหม่ล่าสุด พร้อมของแจกในไลฟ์",
+      "video_id": "2iZrzQTjqnw",
+      "link": "https://www.youtube.com/watch?v=2iZrzQTjqnw",
+      "thumbnail": "https://i3.ytimg.com/vi/2iZrzQTjqnw/hqdefault.jpg",
+      "published": "2026-10-30T22:13:41+00:00",
+      "title_th": "🔴 รีวิว Honor Pad 20 รุ่นใหม่ล่าสุด พร้อมของแจกในไลฟ์"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รีวิว vivo V80 กล้อง ZEISS Portrait ถ่ายคนสวย ! AI เสกโทนสวย สไตล์ฟิล์ม CCD Flash",
+      "video_id": "vFQeCzK7L6E",
+      "link": "https://www.youtube.com/watch?v=vFQeCzK7L6E",
+      "thumbnail": "https://i3.ytimg.com/vi/vFQeCzK7L6E/hqdefault.jpg",
+      "published": "2026-10-28T10:30:47+00:00",
+      "title_th": "รีวิว vivo V80 กล้อง ZEISS Portrait ถ่ายคนสวย ! AI เสกโทนสวย สไตล์ฟิล์ม CCD Flash"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รีวิว OPPO Find X10 Pro Max มือถือกล้องเทพ ซูมชัด พร้อมเลนส์เสริม Hasselblad",
+      "video_id": "XR3ySds6X9g",
+      "link": "https://www.youtube.com/watch?v=XR3ySds6X9g",
+      "thumbnail": "https://i1.ytimg.com/vi/XR3ySds6X9g/hqdefault.jpg",
+      "published": "2026-10-27T12:09:56+00:00",
+      "title_th": "รีวิว OPPO Find X10 Pro Max มือถือกล้องเทพ ซูมชัด พร้อมเลนส์เสริม Hasselblad"
     }
   ]
 }
