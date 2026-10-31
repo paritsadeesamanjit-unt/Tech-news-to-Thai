@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-31T09:19:25.297633+00:00",
+  "generated_at": "2026-10-31T15:19:39.682153+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "I took two iPhones on vacation. The Duo won me over.",
+      "summary_en": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
+      "link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+      "published": "Sat, 31 Oct 2026 14:00:00 +0000",
+      "title_th": "I took two iPhones on vacation. The Duo won me over.",
+      "summary_th": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -51,16 +63,28 @@
       "summary_th": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "summary_en": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "published": "Fri, 30 Oct 2026 21:52:03 +0000",
-      "title_th": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "summary_th": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business."
+      "category": "software",
+      "title_en": "Touchscreens everywhere!",
+      "summary_en": "Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the Installer homepage.) This week, I was in the Smoky Mountains in Tennessee on a family vacation. It was delightful […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-150.jpg?quality=90&strip=all&crop=0%2C3.4987011938249%2C100%2C93.00259761235&w=1200",
+      "link": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
+      "published": "2026-10-31T08:00:00-04:00",
+      "title_th": "Touchscreens everywhere!",
+      "summary_th": "Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the Installer homepage.) This week, I was in the Smoky Mountains in Tennessee on a family vacation. It was delightful […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Here’s why you can’t shake those unhinged political texts",
+      "summary_en": "\"Its James Talarico. Can you please please please please pretty pretty please rush in even just $1?\" \"Who's working to elect James Talarico? Marxists.\" \"Wow! Wow! Wow! Mark Kelly just made a HUGE announcement!\" \"We asked Ben Verlander, MLB analyst and former Tigers prospect, to record a quick video about the election this Tuesday, November […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS4.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
+      "published": "2026-10-31T08:00:00-04:00",
+      "title_th": "Here’s why you can’t shake those unhinged political texts",
+      "summary_th": "\"Its James Talarico. Can you please please please please pretty pretty please rush in even just $1?\" \"Who's working to elect James Talarico? Marxists.\" \"Wow! Wow! Wow! Mark Kelly just made a HUGE announcement!\" \"We asked Ben Verlander, MLB analyst and former Tigers prospect, to record a quick video about the election this Tuesday, November […]"
     },
     {
       "source": "The Verge",
@@ -97,30 +121,6 @@
       "published": "2026-10-30T16:48:43-04:00",
       "title_th": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
       "summary_th": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "The biggest names in AI are backing a new way to opt out of scraping",
-      "summary_en": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "published": "2026-10-30T16:26:10-04:00",
-      "title_th": "The biggest names in AI are backing a new way to opt out of scraping",
-      "summary_th": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Google’s satellite AI server transmits its first response to Earth",
-      "summary_en": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&strip=all&crop=0%2C1.4420367390612%2C100%2C97.115926521878&w=1200",
-      "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-      "published": "2026-10-30T14:21:38-04:00",
-      "title_th": "Google’s satellite AI server transmits its first response to Earth",
-      "summary_th": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in […]"
     },
     {
       "source": "Ars Technica",
@@ -186,61 +186,61 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Wayfair Coupons: Up to 80% Off November 2026",
-      "summary_en": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
-      "image": "https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png",
-      "link": "https://www.wired.com/story/wayfair-promo-code/",
-      "published": "Sat, 31 Oct 2026 05:00:00 +0000",
-      "title_th": "Wayfair Coupons: Up to 80% Off November 2026",
-      "summary_th": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Google Pixel Watch 5 Sale: Its Lowest Price Yet (2026)",
-      "summary_en": "Forget waiting until Black Friday. Google’s Pixel Watch 5 is at its lowest price ever—and we don’t know for how much longer.",
-      "image": "https://media.wired.com/photos/6ae50ed40af6dcf295d6abe7/master/pass/Google%20Pixel%20Watch%205%20Deals%20Post%2010206%20top%20art%20SOURCE%20Amazon.jpg",
-      "link": "https://www.wired.com/story/googles-pixel-watch-5-is-down-to-its-lowest-price-yet/",
-      "published": "Fri, 30 Oct 2026 22:15:06 +0000",
-      "title_th": "Google Pixel Watch 5 Sale: Its Lowest Price Yet (2026)",
-      "summary_th": "Forget waiting until Black Friday. Google’s Pixel Watch 5 is at its lowest price ever—and we don’t know for how much longer."
+      "title_en": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "summary_en": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+      "image": "https://media.wired.com/photos/6ae4e9f503c2c36f4cfc913c/master/pass/KernelPanic_10312026_v1.jpg",
+      "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "published": "Sat, 31 Oct 2026 12:00:00 +0000",
+      "title_th": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "summary_th": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
-      "summary_en": "Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines.",
-      "image": "https://media.wired.com/photos/6ae4bfbc8b1b5cec21132f41/master/pass/103026-HACK_.jpg",
-      "link": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
-      "published": "Fri, 30 Oct 2026 20:38:46 +0000",
-      "title_th": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
-      "summary_th": "Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines."
+      "title_en": "There’s a Completely New Type of Whisky. It’s French and Made in Concrete Eggs",
+      "summary_en": "The founders of Maison Lineti are, in a world first, making single malt whisky as if it were wine—and the spirit world is mighty impressed.",
+      "image": "https://media.wired.com/photos/6ae3636efade877474b75a13/master/pass/102926-Egg%20Whisky.jpg",
+      "link": "https://www.wired.com/story/theres-a-completely-new-type-of-whisky-its-french-and-made-in-concrete-eggs/",
+      "published": "Sat, 31 Oct 2026 11:00:00 +0000",
+      "title_th": "There’s a Completely New Type of Whisky. It’s French and Made in Concrete Eggs",
+      "summary_th": "The founders of Maison Lineti are, in a world first, making single malt whisky as if it were wine—and the spirit world is mighty impressed."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "review",
+      "title_en": "Backup by Biolite Review: A Cool Idea",
+      "summary_en": "Backup by BioLite is designed to power your fridge when the grid goes down. It works, but protecting your ice cream doesn’t come cheap.",
+      "image": "https://media.wired.com/photos/6ae2c94850875d11b16a4a53/master/pass/Review%20Backup%20by%20BioLite%20102026%20top%20art%20SOURCE%20BioLite.jpg",
+      "link": "https://www.wired.com/review/backup-by-biolite/",
+      "published": "Sat, 31 Oct 2026 10:33:00 +0000",
+      "title_th": "Backup by Biolite Review: A Cool Idea",
+      "summary_th": "Backup by BioLite is designed to power your fridge when the grid goes down. It works, but protecting your ice cream doesn’t come cheap."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
-      "summary_en": "Apple doesn’t need fixing, and it doesn’t want drama. Its new leader is a “product guy” who bleeds six colors.",
-      "image": "https://media.wired.com/photos/6ae3a32037c72c5b8eae6889/master/pass/Backchannel-Top-Art-10302026.jpg",
-      "link": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
-      "published": "Fri, 30 Oct 2026 15:00:00 +0000",
-      "title_th": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
-      "summary_th": "Apple doesn’t need fixing, and it doesn’t want drama. Its new leader is a “product guy” who bleeds six colors."
+      "title_en": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "summary_en": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+      "image": "https://media.wired.com/photos/6ae513e3393ae92e17e66a04/master/pass/Business_Everyone%E2%80%99s%20Questioning%20Meta%E2%80%99s%20Hype%20About%20Muse%20Meta%20Says%20Muse%20Is%20Already%20a%20Big%20Shopper_v1.jpg",
+      "link": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+      "published": "Sat, 31 Oct 2026 10:30:00 +0000",
+      "title_th": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "summary_th": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Mattress Deals: Save Over $600 Before Black Friday 2026",
-      "summary_en": "Even though Black Friday isn’t for a few more weeks, we’ve found early discounts on our favorite WIRED-tested mattresses and sleep accessories.",
-      "image": "https://media.wired.com/photos/6a96089130fad2f3a55f8e20/master/pass/The-Best-Early-Labor-Day-Mattress-Deals.jpg",
-      "link": "https://www.wired.com/story/best-early-bfcm-mattress-deals-10-30-2026/",
-      "published": "Fri, 30 Oct 2026 13:34:00 +0000",
-      "title_th": "Mattress Deals: Save Over $600 Before Black Friday 2026",
-      "summary_th": "Even though Black Friday isn’t for a few more weeks, we’ve found early discounts on our favorite WIRED-tested mattresses and sleep accessories."
+      "title_en": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "summary_en": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+      "image": "https://media.wired.com/photos/6ae4d6bbd55a0e2bc0a8d990/master/pass/103026-AI%20Mouse%2002.jpg",
+      "link": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "published": "Sat, 31 Oct 2026 10:00:00 +0000",
+      "title_th": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "summary_th": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs."
     },
     {
       "source": "MIT Technology Review",
@@ -306,61 +306,73 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Everything you need to know about Googlebooks",
-      "summary_en": "Despite good initial hardware, the Googlebook OS still needs a lot of work.",
-      "image": "https://www.engadget.com/img/gallery/despite-good-initial-hardware-the-googlebook-os-is-holding-the-platform-back/l-intro-1793383802.jpg",
-      "link": "https://www.engadget.com/2302681/everything-you-need-to-know-about-googlebooks/",
-      "published": "Fri, 30 Oct 2026 19:00:00 +0000",
-      "title_th": "Everything you need to know about Googlebooks",
-      "summary_th": "Despite good initial hardware, the Googlebook OS still needs a lot of work."
+      "title_en": "5 Samsung One UI features you won't get with other Android phones",
+      "summary_en": "Samsung doesn't just make great phone and tablet hardware; its One UI is also a standout, offering many features you just can't get elsewhere.",
+      "image": "https://www.engadget.com/img/gallery/5-samsung-one-ui-features-you-wont-get-with-other-android-phones/l-intro-1793169184.jpg",
+      "link": "https://www.engadget.com/2299207/one-ui-features-not-on-other-androids/",
+      "published": "Sat, 31 Oct 2026 14:30:00 +0000",
+      "title_th": "5 Samsung One UI features you won't get with other Android phones",
+      "summary_th": "Samsung doesn't just make great phone and tablet hardware; its One UI is also a standout, offering many features you just can't get elsewhere."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "New tvOS 27.2 features to try for an upgraded Apple TV experience",
-      "summary_en": "Apple's tvOS 27.2 update isn't a particularly transformative one, but it still introduces a handful of new features that are worth checking out.",
-      "image": "https://www.engadget.com/img/gallery/new-tvos-27-2-features-to-try-for-an-upgraded-apple-tv-experience/l-intro-1793349181.jpg",
-      "link": "https://www.engadget.com/2302449/tvos-27-2-features-try-upgraded-apple-tv-experience/",
-      "published": "Fri, 30 Oct 2026 16:22:49 +0000",
-      "title_th": "New tvOS 27.2 features to try for an upgraded Apple TV experience",
-      "summary_th": "Apple's tvOS 27.2 update isn't a particularly transformative one, but it still introduces a handful of new features that are worth checking out."
+      "title_en": "CDs are back, but they come with a modern problem",
+      "summary_en": "With CD sales on the rise again, collectors are finding that enjoying their favorite tunes is more challenging than ever in the modern audio landscape.",
+      "image": "https://www.engadget.com/img/gallery/cds-are-back-but-they-come-with-a-modern-problem/l-intro-1793122691.jpg",
+      "link": "https://www.engadget.com/2298767/cds-are-back-modern-listening-complicated/",
+      "published": "Sat, 31 Oct 2026 13:45:00 +0000",
+      "title_th": "CDs are back, but they come with a modern problem",
+      "summary_th": "With CD sales on the rise again, collectors are finding that enjoying their favorite tunes is more challenging than ever in the modern audio landscape."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Here's how much the iPhone Pro cost in 2019 vs. 2026",
+      "summary_en": "The iPhone Pro has changed plenty since it was released in 2019, but how do the 2026 iPhone Pro prices fare in comparison with its original price?",
+      "image": "https://www.engadget.com/img/gallery/heres-how-much-the-iphone-pro-cost-in-2019-vs-2026/l-intro-1793120601.jpg",
+      "link": "https://www.engadget.com/2300201/how-much-iphone-pro-cost-2021-vs-2026/",
+      "published": "Sat, 31 Oct 2026 13:30:00 +0000",
+      "title_th": "Here's how much the iPhone Pro cost in 2019 vs. 2026",
+      "summary_th": "The iPhone Pro has changed plenty since it was released in 2019, but how do the 2026 iPhone Pro prices fare in comparison with its original price?"
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "The Wikimedia Foundation weighs in on the NYT's case against OpenAI",
-      "summary_en": "The folks behind Wikipedia say that an extreme decision in either direction could threaten the open web.",
-      "image": "https://www.engadget.com/img/gallery/the-wikimedia-foundation-weighs-in-on-the-nyts-case-against-openai/l-intro-1793374984.jpg",
-      "link": "https://www.engadget.com/2302374/the-wikimedia-foundation-weighs-in-on-the-nyts-case-against-openai/",
-      "published": "Fri, 30 Oct 2026 15:47:12 +0000",
-      "title_th": "The Wikimedia Foundation weighs in on the NYT's case against OpenAI",
-      "summary_th": "The folks behind Wikipedia say that an extreme decision in either direction could threaten the open web."
+      "title_en": "Why you should never point a laser pointer at any aircraft",
+      "summary_en": "Unfortunately, some people need to hear this.",
+      "image": "https://www.engadget.com/img/gallery/why-you-should-never-point-a-laser-pointer-at-any-aircraft/l-intro-1793289097.jpg",
+      "link": "https://www.engadget.com/2301206/why-you-should-never-point-a-laser-pointer-at-any-aircraft/",
+      "published": "Sat, 31 Oct 2026 13:15:00 +0000",
+      "title_th": "Why you should never point a laser pointer at any aircraft",
+      "summary_th": "Unfortunately, some people need to hear this."
     },
     {
       "source": "Engadget",
       "flag": "US",
-      "category": "gadget",
-      "title_en": "The Death Stranding anime's first teaser trailer arrives ahead of its Disney+ debut",
-      "summary_en": "The adaptation has a fittingly strange tagline: \"My mom became a crater.\"",
-      "image": "https://www.engadget.com/img/gallery/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/l-intro-1793372769.jpg",
-      "link": "https://www.engadget.com/2302296/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/",
-      "published": "Fri, 30 Oct 2026 15:07:09 +0000",
-      "title_th": "The Death Stranding anime's first teaser trailer arrives ahead of its Disney+ debut",
-      "summary_th": "The adaptation has a fittingly strange tagline: \"My mom became a crater.\""
+      "category": "chip",
+      "title_en": "Why your games take up way more drive space than expected (even when uninstalled)",
+      "summary_en": "Even after uninstalling a game, there are often remnants of data left in your storage. Some you may want to leave, and some you should delete manually.",
+      "image": "https://www.engadget.com/img/gallery/why-your-games-take-up-way-more-drive-space-than-expected-even-when-uninstalled/l-intro-1793197497.jpg",
+      "link": "https://www.engadget.com/2299478/games-take-up-more-drive-space-expected/",
+      "published": "Sat, 31 Oct 2026 13:00:00 +0000",
+      "title_th": "Why your games take up way more drive space than expected (even when uninstalled)",
+      "summary_th": "Even after uninstalling a game, there are often remnants of data left in your storage. Some you may want to leave, and some you should delete manually."
     },
     {
-      "source": "Engadget",
+      "source": "IEEE Spectrum",
       "flag": "US",
-      "category": "gadget",
-      "title_en": "Meta quietly launches an AI fashion app for virtually trying on clothes",
-      "summary_en": "Meta has launched an AI fashion app called Style Sketch in Indonesia, Singapore and Thailand.",
-      "image": "https://www.engadget.com/img/gallery/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes/l-intro-1793361850.jpg",
-      "link": "https://www.engadget.com/2302003/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes/",
-      "published": "Fri, 30 Oct 2026 12:05:36 +0000",
-      "title_th": "Meta quietly launches an AI fashion app for virtually trying on clothes",
-      "summary_th": "Meta has launched an AI fashion app called Style Sketch in Indonesia, Singapore and Thailand."
+      "category": "ev",
+      "title_en": "When Electric Cars Were for Women",
+      "summary_en": "At the turn of the last century, the automobile industry was still new and evolving rapidly. In 1898, there were about 50 carmakers in the United States. A decade later, that number had increased fivefold. In 1901, the companies produced 7,000 vehicles. By 1910, production had reached 181,000. For several decades, electric cars vied with those powered by steam and internal combustion, and nobody was sure which technology would come out on top. Steam had the legacy of locomotive technology behind it but came with a risk of fire. Steam-powered vehicles could also become exceedingly hot, depending on the placement of the boiler and the steam piping. Both gasoline and electric cars faced logistical challenges: How far could you travel without refueling or charging? You could always throw an ex",
+      "image": "https://spectrum.ieee.org/media-library/black-and-white-photo-of-a-woman-standing-in-an-early-20th-century-car-next-to-an-upright-electrical-apparatus.jpg?id=68537019&width=980",
+      "link": "https://spectrum.ieee.org/early-electric-vehicles",
+      "published": "Sat, 31 Oct 2026 13:00:02 +0000",
+      "title_th": "When Electric Cars Were for Women",
+      "summary_th": "At the turn of the last century, the automobile industry was still new and evolving rapidly. In 1898, there were about 50 carmakers in the United States. A decade later, that number had increased fivefold. In 1901, the companies produced 7,000 vehicles. By 1910, production had reached 181,000. For several decades, electric cars vied with those powered by steam and internal combustion, and nobody was sure which technology would come out on top. Steam had the legacy of locomotive technology behind it but came with a risk of fire. Steam-powered vehicles could also become exceedingly hot, depending on the placement of the boiler and the steam piping. Both gasoline and electric cars faced logistical challenges: How far could you travel without refueling or charging? You could always throw an ex"
     },
     {
       "source": "IEEE Spectrum",
@@ -411,16 +423,16 @@
       "summary_th": "This article is brought to you by VicOne . A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on information about the robot or its surroundings: a distance reading, a position estimate, or a stop signal. But what happens when one of those inputs is wrong, and the robot still responds exactly as designed? The mobile robot reads the hallway as clear while someone is still there. The arm estimates that the worker is farther away. The humanoid does not receive a stop signal as a person crosses its path. In each case, a fault could cause that mismatch. So could deliberate manipulation . At VicOne LAB R7 , we examine how manipulated inputs can change robot behavior — and what"
     },
     {
-      "source": "IEEE Spectrum",
-      "flag": "US",
-      "category": "review",
-      "title_en": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
-      "summary_en": "Science has a spam problem. And the spam filter is getting clogged up. According to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced content generated with AI. By 2025, an estimated 57 percent of all published academic articles exhibited detectable evidence of large language model (LLM) influence, a massive jump from 12 percent in 2023. What’s more, over 12 percent of Nature Communications reviews were found to be completely AI-generated in 2025. Given that for every 40 papers showing statistical evidence of AI usage in 2025, only one formally disclosed it , these figures likely grossly underestimate LLM involvement today. Of course, evidence of AI use doesn’t necessarily mean a paper is slop. But some estimates suggest that hun",
-      "image": "https://spectrum.ieee.org/media-library/man-in-glasses-at-night-his-face-reflected-in-a-window-beside-him.jpg?id=68515605&width=980",
-      "link": "https://spectrum.ieee.org/ai-generated-scientific-papers",
-      "published": "Tue, 27 Oct 2026 13:00:03 +0000",
-      "title_th": "I Used AI to Fake a Scientific Paper. Here’s What Happened",
-      "summary_th": "Science has a spam problem. And the spam filter is getting clogged up. According to all reports, academic publishing is drowning in what has come to be called AI slop: low-quality, mass-produced content generated with AI. By 2025, an estimated 57 percent of all published academic articles exhibited detectable evidence of large language model (LLM) influence, a massive jump from 12 percent in 2023. What’s more, over 12 percent of Nature Communications reviews were found to be completely AI-generated in 2025. Given that for every 40 papers showing statistical evidence of AI usage in 2025, only one formally disclosed it , these figures likely grossly underestimate LLM involvement today. Of course, evidence of AI use doesn’t necessarily mean a paper is slop. But some estimates suggest that hun"
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "9to5Mac Overtime 088: Finally, a touchscreen MacBook",
+      "summary_en": "Jeff and Fernando discuss everything from Apple’s big week of new hardware releases, including the M6 MacBook Pro, iPad mini 8 with OLED, and, of course, Apple’s new MacBook Pro w/ PROLED XDR Display. Is finally having a touchscreen Mac resonating with the Overtime crew? Tune in for a spirited discussion about it and the rest of Apple’s final new hardware releases for 2026. Sponsored by Rokform : Get your iPhone 18 Pro and iPhone Duo cases today for 20% off when using code MAC2026. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/9to5Mac-Overtime-088.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/10/31/9to5mac-overtime-088-finally-a-touchscreen-macbook/",
+      "published": "Sat, 31 Oct 2026 14:17:15 +0000",
+      "title_th": "9to5Mac Overtime 088: Finally, a touchscreen MacBook",
+      "summary_th": "Jeff and Fernando discuss everything from Apple’s big week of new hardware releases, including the M6 MacBook Pro, iPad mini 8 with OLED, and, of course, Apple’s new MacBook Pro w/ PROLED XDR Display. Is finally having a touchscreen Mac resonating with the Overtime crew? Tune in for a spirited discussion about it and the rest of Apple’s final new hardware releases for 2026. Sponsored by Rokform : Get your iPhone 18 Pro and iPhone Duo cases today for 20% off when using code MAC2026. more…"
     },
     {
       "source": "9to5Mac",
@@ -471,16 +483,16 @@
       "summary_th": "Apple today took the unusual step of confirming when its next iOS developer beta is expected to arrive, as part of an announcement detailing the upcoming launch of Apple Intelligence in China. Here are the details. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "‘Pluribus’ season 2 reportedly begins filming tomorrow",
-      "summary_en": "According to a report published earlier this month, the second season of Apple TV’s acclaimed sci-fi drama ‘ Pluribus ’ is scheduled to begin filming tomorrow, October 31, in Albuquerque, New Mexico. Here’s what we know. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/pluribus-s1-rhea-seehorn-dark.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/30/pluribus-season-2-reportedly-begins-filming-tomorrow/",
-      "published": "Fri, 30 Oct 2026 21:44:44 +0000",
-      "title_th": "‘Pluribus’ season 2 reportedly begins filming tomorrow",
-      "summary_th": "According to a report published earlier this month, the second season of Apple TV’s acclaimed sci-fi drama ‘ Pluribus ’ is scheduled to begin filming tomorrow, October 31, in Albuquerque, New Mexico. Here’s what we know. more…"
+      "title_en": "Motorola Signature 27 specs detailed in new video, including Tandem OLED display",
+      "summary_en": "Ahead of its launch next week, a new video offers a closer look at the Motorola Signature 27 as well as confirming some key specs. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/motorola-signature-27-hands-on-2.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/10/31/motorola-signature-27-specs-hands-on/",
+      "published": "Sat, 31 Oct 2026 12:00:00 +0000",
+      "title_th": "Motorola Signature 27 specs detailed in new video, including Tandem OLED display",
+      "summary_th": "Ahead of its launch next week, a new video offers a closer look at the Motorola Signature 27 as well as confirming some key specs. more…"
     },
     {
       "source": "9to5Google",
@@ -529,18 +541,6 @@
       "published": "Fri, 30 Oct 2026 17:58:04 +0000",
       "title_th": "Friday’s Android app deals and freebies: Thronefall, Demon Castle Story, Pocket Academy 3, Dungeon Village 2, more",
       "summary_th": "Friday’s best Google Play app and game deals are ready, including Thronefall, Demon Castle Story, Pocket Academy 3, Dungeon Village 2, RPG Silver Nornir, Witchcraft!, Lovecraft’s Untold Stories, Angelo and Deemon (Full), and more. The Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold , as well as Pixel Watch 5 hitting all-time lows at $100 off , and Pixel Buds Pro 2 at over 25% off , but your app deals await below. more…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple Music 7.0 for Android rolls out with Liquid Glass redesign",
-      "summary_en": "Following a month of beta testing , Apple Music 7.0 is rolling out with a Liquid Glass redesign for Android, as well as the new icon for the streaming service. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Apple-Music-7-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/10/30/apple-music-7-0-redesign/",
-      "published": "Fri, 30 Oct 2026 17:26:48 +0000",
-      "title_th": "Apple Music 7.0 for Android rolls out with Liquid Glass redesign",
-      "summary_th": "Following a month of beta testing , Apple Music 7.0 is rolling out with a Liquid Glass redesign for Android, as well as the new icon for the streaming service. more…"
     },
     {
       "source": "Electrek",
@@ -763,6 +763,16 @@
     {
       "channel": "Droidsans",
       "country": "TH",
+      "title_en": "ขายไทยแล้ว OPPO Find X10 + Pad Mini / iPhone Duo ทยอยเกิดปัญหา/ Macbook Pro อะไรใหม่ๆ โลโก้มีไฟด้วย",
+      "video_id": "Jj8T3lQJB3w",
+      "link": "https://www.youtube.com/watch?v=Jj8T3lQJB3w",
+      "thumbnail": "https://i3.ytimg.com/vi/Jj8T3lQJB3w/hqdefault.jpg",
+      "published": "2026-10-31T13:00:33+00:00",
+      "title_th": "ขายไทยแล้ว OPPO Find X10 + Pad Mini / iPhone Duo ทยอยเกิดปัญหา/ Macbook Pro อะไรใหม่ๆ โลโก้มีไฟด้วย"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
       "title_en": "🔴 รีวิว Honor Pad 20 รุ่นใหม่ล่าสุด พร้อมของแจกในไลฟ์",
       "video_id": "2iZrzQTjqnw",
       "link": "https://www.youtube.com/watch?v=2iZrzQTjqnw",
@@ -779,16 +789,6 @@
       "thumbnail": "https://i3.ytimg.com/vi/vFQeCzK7L6E/hqdefault.jpg",
       "published": "2026-10-28T10:30:47+00:00",
       "title_th": "รีวิว vivo V80 กล้อง ZEISS Portrait ถ่ายคนสวย ! AI เสกโทนสวย สไตล์ฟิล์ม CCD Flash"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "รีวิว OPPO Find X10 Pro Max มือถือกล้องเทพ ซูมชัด พร้อมเลนส์เสริม Hasselblad",
-      "video_id": "XR3ySds6X9g",
-      "link": "https://www.youtube.com/watch?v=XR3ySds6X9g",
-      "thumbnail": "https://i1.ytimg.com/vi/XR3ySds6X9g/hqdefault.jpg",
-      "published": "2026-10-27T12:09:56+00:00",
-      "title_th": "รีวิว OPPO Find X10 Pro Max มือถือกล้องเทพ ซูมชัด พร้อมเลนส์เสริม Hasselblad"
     }
   ]
 }
