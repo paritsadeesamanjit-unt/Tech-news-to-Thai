@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-01T00:07:39.273806+00:00",
+  "generated_at": "2026-11-01T03:02:16.623034+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Data centers are now a midterm issue, even in Brooklyn",
+      "summary_en": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Newsreel-Midterm-Madness-22.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "published": "Sun, 01 Nov 2026 02:22:10 +0000",
+      "title_th": "Data centers are now a midterm issue, even in Brooklyn",
+      "summary_th": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -49,18 +61,6 @@
       "published": "Sat, 31 Oct 2026 16:12:55 +0000",
       "title_th": "OpenAI reportedly lowers funding target for new round",
       "summary_th": "OpenAI’s latest funding round doesn't seem to be living up to expectations."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "From restaurant guides to payments, here’s how TikTok is building a super app",
-      "summary_en": "TikTok may be working to become the app that people use for most of their digital activities.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801",
-      "link": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
-      "published": "Sat, 31 Oct 2026 15:41:57 +0000",
-      "title_th": "From restaurant guides to payments, here’s how TikTok is building a super app",
-      "summary_th": "TikTok may be working to become the app that people use for most of their digital activities."
     },
     {
       "source": "The Verge",
@@ -306,6 +306,30 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "5 expensive hobbies where owning a 3D printer actually saves you money",
+      "summary_en": "While a personal 3D printer is certainly an investment, if you regularly engage with an expensive hobby, it might actually save you some cash.",
+      "image": "https://www.engadget.com/img/gallery/5-expensive-hobbies-where-owning-a-3d-printer-actually-saves-you-money/l-intro-1793110234.jpg",
+      "link": "https://www.engadget.com/2300213/3d-printer-expensive-hobbies-where-it-saves-money/",
+      "published": "Sun, 01 Nov 2026 00:30:00 +0000",
+      "title_th": "5 expensive hobbies where owning a 3D printer actually saves you money",
+      "summary_th": "While a personal 3D printer is certainly an investment, if you regularly engage with an expensive hobby, it might actually save you some cash."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Amazon made the AUX input on older Alexa devices less useful",
+      "summary_en": "Amazon has made a quiet change to older Echo speakers that will leave owners rethinking how they use their devices and manage their home audio setups.",
+      "image": "https://www.engadget.com/img/gallery/amazon-made-the-aux-input-on-older-alexa-devices-less-useful/l-intro-1793052674.jpg",
+      "link": "https://www.engadget.com/2300219/amazon-made-alexa-devices-aux-port-less-useful/",
+      "published": "Sun, 01 Nov 2026 00:00:00 +0000",
+      "title_th": "Amazon made the AUX input on older Alexa devices less useful",
+      "summary_th": "Amazon has made a quiet change to older Echo speakers that will leave owners rethinking how they use their devices and manage their home audio setups."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "Why your Apple AirPods' battery drains so fast and how to make it last longer",
       "summary_en": "It's annoying when your Apple AirPods run out of juice, but the culprit might not be what you think. Here's what's going on and what you can do about it.",
       "image": "https://www.engadget.com/img/gallery/why-your-apple-airpods-battery-drains-so-fast-and-how-to-make-it-last-longer/l-intro-1793108793.jpg",
@@ -337,30 +361,6 @@
       "published": "Sat, 31 Oct 2026 22:45:00 +0000",
       "title_th": "4 important features you should know if you use Microsoft Teams",
       "summary_th": "A wealth of not-so-well-known features on Microsoft Teams make the experience easier and more stress-free than you may have previously thought."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "The reason most electrical plug prongs have holes in them",
-      "summary_en": "If you've ever looked at the end of a plug, you've probably wondered why some have holes, and some don't - and no, it's not actually a big conspiracy theory.",
-      "image": "https://www.engadget.com/img/gallery/the-reason-most-electrical-plug-prongs-have-holes-in-them/l-intro-1792780954.jpg",
-      "link": "https://www.engadget.com/2300248/reason-most-electrical-plug-prongs-have-holes/",
-      "published": "Sat, 31 Oct 2026 22:30:00 +0000",
-      "title_th": "The reason most electrical plug prongs have holes in them",
-      "summary_th": "If you've ever looked at the end of a plug, you've probably wondered why some have holes, and some don't - and no, it's not actually a big conspiracy theory."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "5 Netflix tips we all wish we knew sooner",
-      "summary_en": "If there are aspects of Netflix streaming that aren't to your liking, there are several changes you can make to optimize your viewing experience.",
-      "image": "https://www.engadget.com/img/gallery/5-netflix-tips-we-all-wish-we-knew-sooner/l-intro-1792783972.jpg",
-      "link": "https://www.engadget.com/2300249/netflix-download-speeds-offline-tricks-wish-knew-sooner/",
-      "published": "Sat, 31 Oct 2026 22:00:00 +0000",
-      "title_th": "5 Netflix tips we all wish we knew sooner",
-      "summary_th": "If there are aspects of Netflix streaming that aren't to your liking, there are several changes you can make to optimize your viewing experience."
     },
     {
       "source": "IEEE Spectrum",
