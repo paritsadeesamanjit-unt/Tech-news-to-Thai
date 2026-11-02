@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T03:11:21.374071+00:00",
+  "generated_at": "2026-11-02T10:28:21.608492+00:00",
   "count": 50,
   "articles": [
     {
@@ -66,6 +66,18 @@
       "source": "The Verge",
       "flag": "US",
       "category": "software",
+      "title_en": "Jackery made its portable power stations even smaller",
+      "summary_en": "Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 100D stand out is that it's Jackery's smallest power station to date, measuring only 4.6 by 3.4 by 3.4 inches and weighing just 1.87 pounds. […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/jackery1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+      "link": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
+      "published": "2026-11-02T00:00:00-05:00",
+      "title_th": "Jackery made its portable power stations even smaller",
+      "summary_th": "Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 100D stand out is that it's Jackery's smallest power station to date, measuring only 4.6 by 3.4 by 3.4 inches and weighing just 1.87 pounds. […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
       "title_en": "NASA hopes the commercial space industry can help save Hubble",
       "summary_en": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA is taking proposals from […]",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13237317/PIA18165_large.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
@@ -109,18 +121,6 @@
       "published": "2026-11-01T11:19:21-05:00",
       "title_th": "A fully playable version of Portal prequel F-Stop leaked",
       "summary_th": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces apparently hit the Valve Cut Content Discord this week, allowing a nearly complete version […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "North Korea linked to massive Binance crypto heist",
-      "summary_en": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. The agency offered few other […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK428_CRYPTO_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
-      "published": "2026-11-01T09:33:11-05:00",
-      "title_th": "North Korea linked to massive Binance crypto heist",
-      "summary_th": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. The agency offered few other […]"
     },
     {
       "source": "Ars Technica",
@@ -186,6 +186,18 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
+      "title_en": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+      "summary_en": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
+      "image": "https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/pass/Security_ChinaAppsBehindDeepFakes_v1.jpg",
+      "link": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+      "published": "Mon, 02 Nov 2026 10:00:00 +0000",
+      "title_th": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+      "summary_th": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
       "title_en": "There’s a Free Video Editor Inside Google Drive That Anyone Can Use",
       "summary_en": "You may not have noticed everything Google’s free software suite offers—especially a web app called Google Vids.",
       "image": "https://media.wired.com/photos/6adf47c4094d0f0ff2dda226/master/pass/102626-Google%20Vids.jpg",
@@ -231,16 +243,16 @@
       "summary_th": "With a number of anti-data-center candidates poised to win on Tuesday, New York provides a glimpse at the tensions around actually having to do something about the digital infrastructure."
     },
     {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
       "category": "ai",
-      "title_en": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
-      "summary_en": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
-      "image": "https://media.wired.com/photos/6ae22d8856ee4dcb93f11713/master/pass/HCN406-scaled.jpg",
-      "link": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
-      "published": "Sun, 01 Nov 2026 10:30:00 +0000",
-      "title_th": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
-      "summary_th": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry."
+      "title_en": "The agentic web is here",
+      "summary_en": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MAIN-top.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "published": "Mon, 02 Nov 2026 09:35:19 +0000",
+      "title_th": "The agentic web is here",
+      "summary_th": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every…"
     },
     {
       "source": "MIT Technology Review",
@@ -289,18 +301,6 @@
       "published": "Thu, 29 Oct 2026 10:11:12 +0000",
       "title_th": "We urgently need to monitor AI agents’ actions in real time",
       "summary_th": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem…"
-    },
-    {
-      "source": "MIT Technology Review",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Our climate models have a big, dangerous blind spot",
-      "summary_en": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists have long warned that warming would propel further warming in various ways, but a growing number of…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AdobeStock_305388930.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
-      "published": "Thu, 29 Oct 2026 10:00:00 +0000",
-      "title_th": "Our climate models have a big, dangerous blind spot",
-      "summary_th": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists have long warned that warming would propel further warming in various ways, but a growing number of…"
     },
     {
       "source": "Engadget",
@@ -426,6 +426,30 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "These are the best MacBook deals right now: November 2026 Buyer’s Guide",
+      "summary_en": "In recent years, Macs had been getting more and more affordable. Cheaper starting points, more memory and storage per dollar, and the introduction of MacBook Neo. For the first time, Apple had started to become one of the best values on the market. While Apple did drastically increase its prices earlier this year as a result of the ongoing memory shortage, we’re starting to finally see some pricing improvements, down from the initial sting. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-macbook-generic-fi.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/01/best-macbook-discounts-november-2026-edition/",
+      "published": "Mon, 02 Nov 2026 05:01:57 +0000",
+      "title_th": "These are the best MacBook deals right now: November 2026 Buyer’s Guide",
+      "summary_th": "In recent years, Macs had been getting more and more affordable. Cheaper starting points, more memory and storage per dollar, and the introduction of MacBook Neo. For the first time, Apple had started to become one of the best values on the market. While Apple did drastically increase its prices earlier this year as a result of the ongoing memory shortage, we’re starting to finally see some pricing improvements, down from the initial sting. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "review",
+      "title_en": "Hands-on: ESR’s 45W Xtend charger is an excellent iPhone fast charger on the go",
+      "summary_en": "Last month, ESR released a new set of chargers under the xtend branding – all of which offer built-in retractable cables. They have a 45W wall charger that supports up to 60W with AVS, as well as a 100W car charger with two cables. I’ll largely be touching on the 45W charger here, as that’s the one I’ve been utilizing the most. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04217-2048x1024.jpg.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/01/esr-45w-fast-charger-with-retractable-cable-for-iphone-hands-on/",
+      "published": "Mon, 02 Nov 2026 03:32:37 +0000",
+      "title_th": "Hands-on: ESR’s 45W Xtend charger is an excellent iPhone fast charger on the go",
+      "summary_th": "Last month, ESR released a new set of chargers under the xtend branding – all of which offer built-in retractable cables. They have a 45W wall charger that supports up to 60W with AVS, as well as a 100W car charger with two cables. I’ll largely be touching on the 45W charger here, as that’s the one I’ve been utilizing the most. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Three new iPad models are reportedly launching early next year, here’s what’s coming",
       "summary_en": "After debuting the refreshed iPad mini with OLED this past week, Apple still has more in the pipeline for the rest of the iPad lineup in the first half of next year. That includes a new iPad Air , a new base iPad , and a new iPad Pro , according to Bloomberg’s Mark Gurman . more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/ipad-guide.jpg?quality=82&strip=all&resize=1200,628",
@@ -457,30 +481,6 @@
       "published": "Sun, 01 Nov 2026 16:16:29 +0000",
       "title_th": "This 140W power station might be the ultimate charger for Apple users [Video]",
       "summary_th": "I have tested and used countless charging stations over the years, and while many of them get the job done, I feel like there is always some sort of compromise. Whether it’s not enough power, lack of a certain port that I need, or slow wireless charging, I have yet to find one that truly checks every box for me. But over the last month, I have been using CUKTECH’s new 140W Powerstation, and it has nailed everything. It is a six-in-one desktop charger with a built-in retractable cable, magnetic wireless charging, and a dedicated diagnostic display, all in an aesthetic, compact package. Here is everything you need to know and why I think it’s worth considering. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Weekend Apple deals: Apple Watch Ultra 4, AirTag 2, MacBooks, AirPods, more",
-      "summary_en": "The early Black Friday Doorbusters have officially arrived for week 1 of the biggest deal season of the year alongside the ongoing pre-order price drop on the next-gen Apple TV 4K and $17.50 a pop, and nearly $100 off the new Apple Watch Ultra 4 . Moving over to the Mac, the latest M6 Mac mini is $150 off, the M5 MacBook Air has returned to the lowest prices in months at $200 off , and we have pre-order offers on the new M6 MacBook Pro , M6 iMac , and the MacBook Pro with PROLED XDR Display . All of that joins Apple’s new OLED iPad mini and the next-gen World Travel Kit , as well as this deal on Apple Pencil USB-C for iPhone Duo users. Check it all out below. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-weekend-deals-early-black-friday.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/01/black-friday-weekend-apple-doorbuster-deals-watch-macbook-airpods/",
-      "published": "Sun, 01 Nov 2026 12:49:54 +0000",
-      "title_th": "Weekend Apple deals: Apple Watch Ultra 4, AirTag 2, MacBooks, AirPods, more",
-      "summary_th": "The early Black Friday Doorbusters have officially arrived for week 1 of the biggest deal season of the year alongside the ongoing pre-order price drop on the next-gen Apple TV 4K and $17.50 a pop, and nearly $100 off the new Apple Watch Ultra 4 . Moving over to the Mac, the latest M6 Mac mini is $150 off, the M5 MacBook Air has returned to the lowest prices in months at $200 off , and we have pre-order offers on the new M6 MacBook Pro , M6 iMac , and the MacBook Pro with PROLED XDR Display . All of that joins Apple’s new OLED iPad mini and the next-gen World Travel Kit , as well as this deal on Apple Pencil USB-C for iPhone Duo users. Check it all out below. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Here’s how the new MacBook Pro and macOS 27 are optimized for touch",
-      "summary_en": "Apple just unveiled the new MacBook Pro with PROLED XDR , its first MacBook with a touch display. While Apple already added a handful of touch optimizations to macOS 27 Golden Gate earlier this year, there’s also a number of new optimizations that were unveiled alongside the new MacBook Pro. Here’s what Apple worked on. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-touch-hand.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/31/macbook-pro-touch-optimizations-macos-27-golden-gate/",
-      "published": "Sat, 31 Oct 2026 19:49:44 +0000",
-      "title_th": "Here’s how the new MacBook Pro and macOS 27 are optimized for touch",
-      "summary_th": "Apple just unveiled the new MacBook Pro with PROLED XDR , its first MacBook with a touch display. While Apple already added a handful of touch optimizations to macOS 27 Golden Gate earlier this year, there’s also a number of new optimizations that were unveiled alongside the new MacBook Pro. Here’s what Apple worked on. more…"
     },
     {
       "source": "9to5Google",
@@ -546,6 +546,18 @@
       "source": "Electrek",
       "flag": "",
       "category": "ev",
+      "title_en": "How Europe’s battery passport could have a big impact on US e-bikes",
+      "summary_en": "Europe is preparing to introduce a new requirement that could change how electric bicycle batteries are tracked, repaired, recycled, and potentially even resold. Starting in February 2027, new e-bike batteries sold in the European Union will be required to carry a digital battery passport, giving each battery its own digital identity and making important information about its origins and characteristics accessible throughout its lifetime. And while the rules are European, their impact could eventually reach American e-bike riders, too. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2024/04/velotric-battery-e-bike-header.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/11/02/how-europes-battery-passport-could-have-a-big-impact-on-us-e-bikes/",
+      "published": "Mon, 02 Nov 2026 09:21:00 +0000",
+      "title_th": "How Europe’s battery passport could have a big impact on US e-bikes",
+      "summary_th": "Europe is preparing to introduce a new requirement that could change how electric bicycle batteries are tracked, repaired, recycled, and potentially even resold. Starting in February 2027, new e-bike batteries sold in the European Union will be required to carry a digital battery passport, giving each battery its own digital identity and making important information about its origins and characteristics accessible throughout its lifetime. And while the rules are European, their impact could eventually reach American e-bike riders, too. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
       "title_en": "Eli teases the launch of a much faster electric microcar",
       "summary_en": "Eli Electric Vehicles is getting ready to reveal a new version of its tiny electric microcar, and this one could expand its usefulness beyond the slow lane. more…",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2024/05/eli-zero-microcar-header.jpg?quality=82&strip=all&resize=1200,628",
@@ -589,18 +601,6 @@
       "published": "Sun, 01 Nov 2026 16:50:51 +0000",
       "title_th": "Bigger, badder Section 179 tax deduction could POWER UP fleet electrification [update]",
       "summary_th": "With national diesel prices inching towards $7/gallon and Tesla’s $290,000 Semi trucks finally making their way to paying customers , it’s worth revisiting how Trump’s One Big, Beautiful Bill Act (OBBA) helped beef up the Section 179 deduction, and look again at how it could help your fleet ditch diesel sooner rather than later. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Speeders just got lucky: the new Chevy police Silverado is NOT electric",
-      "summary_en": "Say what you will about America’s police forces, but they are loyal – often to each other, and always to their preferred brand of pursuit vehicle . And if the thin blue line of Chevy faithful won’t embrace the 750 hp electric Silverado because it’s powered by batteries, that can really only be called a win for the scofflaws they’re pursuing. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/chevy_silevrado_ev.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/11/01/speeders-just-got-lucky-the-new-chevy-police-silverado-is-not-electric/",
-      "published": "Sun, 01 Nov 2026 15:57:33 +0000",
-      "title_th": "Speeders just got lucky: the new Chevy police Silverado is NOT electric",
-      "summary_th": "Say what you will about America’s police forces, but they are loyal – often to each other, and always to their preferred brand of pursuit vehicle . And if the thin blue line of Chevy faithful won’t embrace the 750 hp electric Silverado because it’s powered by batteries, that can really only be called a win for the scofflaws they’re pursuing. more…"
     }
   ],
   "indices": [
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 203.0,
-      "change": -18.0,
-      "change_pct": -8.14
+      "price": 199.5,
+      "change": -3.5,
+      "change_pct": -1.72
     }
   ],
   "reviews": [
@@ -699,6 +699,96 @@
       "thumbnail": "https://i4.ytimg.com/vi/_4ELeWAgMwo/hqdefault.jpg",
       "published": "2026-10-21T14:00:33+00:00",
       "title_th": "ASMR iPhone Duo Unboxing"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Smartphones Are Getting OUT of Control…",
+      "video_id": "8ULFcCPEBAM",
+      "link": "https://www.youtube.com/watch?v=8ULFcCPEBAM",
+      "thumbnail": "https://i1.ytimg.com/vi/8ULFcCPEBAM/hqdefault.jpg",
+      "published": "2026-10-28T14:44:56+00:00",
+      "title_th": "Smartphones Are Getting OUT of Control…"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Samsung Z Fold8 Ultra: The Evolution of Folding Phones",
+      "video_id": "3EVdxel81Q8",
+      "link": "https://www.youtube.com/watch?v=3EVdxel81Q8",
+      "thumbnail": "https://i4.ytimg.com/vi/3EVdxel81Q8/hqdefault.jpg",
+      "published": "2026-10-26T18:28:47+00:00",
+      "title_th": "Samsung Z Fold8 Ultra: The Evolution of Folding Phones"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Apple iPhone Duo Unboxing and First Impressions",
+      "video_id": "gyUqMHDSn2I",
+      "link": "https://www.youtube.com/watch?v=gyUqMHDSn2I",
+      "thumbnail": "https://i4.ytimg.com/vi/gyUqMHDSn2I/hqdefault.jpg",
+      "published": "2026-10-24T16:30:22+00:00",
+      "title_th": "Apple iPhone Duo Unboxing and First Impressions"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "Gatekeeper วงการบันเทิงสมัยก่อน",
+      "video_id": "O6RtAMG4vRo",
+      "link": "https://www.youtube.com/shorts/O6RtAMG4vRo",
+      "thumbnail": "https://i4.ytimg.com/vi/O6RtAMG4vRo/hqdefault.jpg",
+      "published": "2026-11-01T23:00:18+00:00",
+      "title_th": "Gatekeeper วงการบันเทิงสมัยก่อน"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "แรมแพงเป็นความผิดใคร ?",
+      "video_id": "xgGTQcSppqM",
+      "link": "https://www.youtube.com/shorts/xgGTQcSppqM",
+      "thumbnail": "https://i1.ytimg.com/vi/xgGTQcSppqM/hqdefault.jpg",
+      "published": "2026-10-31T23:00:23+00:00",
+      "title_th": "แรมแพงเป็นความผิดใคร ?"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "'ป๋าเต๊ด' คุยยังไง ให้ทัชใจคน | หนุ่ยTalk & Chill",
+      "video_id": "qmZRZKKyjwc",
+      "link": "https://www.youtube.com/watch?v=qmZRZKKyjwc",
+      "thumbnail": "https://i2.ytimg.com/vi/qmZRZKKyjwc/hqdefault.jpg",
+      "published": "2026-10-31T16:49:54+00:00",
+      "title_th": "'ป๋าเต๊ด' คุยยังไง ให้ทัชใจคน | หนุ่ยTalk & Chill"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "ขายไทยแล้ว OPPO Find X10 + Pad Mini / iPhone Duo ทยอยเกิดปัญหา/ Macbook Pro อะไรใหม่ๆ โลโก้มีไฟด้วย",
+      "video_id": "Jj8T3lQJB3w",
+      "link": "https://www.youtube.com/watch?v=Jj8T3lQJB3w",
+      "thumbnail": "https://i3.ytimg.com/vi/Jj8T3lQJB3w/hqdefault.jpg",
+      "published": "2026-10-31T13:00:33+00:00",
+      "title_th": "ขายไทยแล้ว OPPO Find X10 + Pad Mini / iPhone Duo ทยอยเกิดปัญหา/ Macbook Pro อะไรใหม่ๆ โลโก้มีไฟด้วย"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "🔴 รีวิว Honor Pad 20 รุ่นใหม่ล่าสุด พร้อมของแจกในไลฟ์",
+      "video_id": "2iZrzQTjqnw",
+      "link": "https://www.youtube.com/watch?v=2iZrzQTjqnw",
+      "thumbnail": "https://i3.ytimg.com/vi/2iZrzQTjqnw/hqdefault.jpg",
+      "published": "2026-10-30T22:13:41+00:00",
+      "title_th": "🔴 รีวิว Honor Pad 20 รุ่นใหม่ล่าสุด พร้อมของแจกในไลฟ์"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รีวิว vivo V80 กล้อง ZEISS Portrait ถ่ายคนสวย ! AI เสกโทนสวย สไตล์ฟิล์ม CCD Flash",
+      "video_id": "vFQeCzK7L6E",
+      "link": "https://www.youtube.com/watch?v=vFQeCzK7L6E",
+      "thumbnail": "https://i3.ytimg.com/vi/vFQeCzK7L6E/hqdefault.jpg",
+      "published": "2026-10-28T10:30:47+00:00",
+      "title_th": "รีวิว vivo V80 กล้อง ZEISS Portrait ถ่ายคนสวย ! AI เสกโทนสวย สไตล์ฟิล์ม CCD Flash"
     }
   ]
 }
