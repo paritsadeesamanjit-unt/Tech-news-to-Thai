@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-01T21:43:51.689576+00:00",
+  "generated_at": "2026-11-02T03:11:21.374071+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "summary_en": "Data centers are deeply unpopular. But what if we called them something else?",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "published": "Sun, 01 Nov 2026 21:55:23 +0000",
+      "title_th": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "summary_th": "Data centers are deeply unpopular. But what if we called them something else?"
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -49,18 +61,6 @@
       "published": "Sun, 01 Nov 2026 15:00:00 +0000",
       "title_th": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
       "summary_th": "Google made a sturdy phone, but there is increasing competition in the foldable world."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
-      "summary_en": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_6045.jpeg?resize=1200,900",
-      "link": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
-      "published": "Sun, 01 Nov 2026 14:00:00 +0000",
-      "title_th": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
-      "summary_th": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar."
     },
     {
       "source": "The Verge",
@@ -305,62 +305,62 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "chip",
+      "title_en": "How long is a new Apple TV actually supposed to last?",
+      "summary_en": "Past Apple TV models have seen excellent support from Apple compared to some other product lines, but it's not a guarantee.",
+      "image": "https://www.engadget.com/img/gallery/how-long-is-a-new-apple-tv-actually-supposed-to-last/l-intro-1793037978.jpg",
+      "link": "https://www.engadget.com/2300332/how-long-new-apple-tv-last-lifespan/",
+      "published": "Mon, 02 Nov 2026 01:30:00 +0000",
+      "title_th": "How long is a new Apple TV actually supposed to last?",
+      "summary_th": "Past Apple TV models have seen excellent support from Apple compared to some other product lines, but it's not a guarantee."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "6 Google Maps features that work better on Android Auto vs. CarPlay",
+      "summary_en": "You would think that Maps would be the same regardless of your phone's brand, but there are some differences between the Android Auto and CarPlay experiences.",
+      "image": "https://www.engadget.com/img/gallery/6-google-maps-features-that-work-better-on-android-auto-vs-carplay/l-intro-1793216852.jpg",
+      "link": "https://www.engadget.com/2300327/google-maps-features-work-better-android-auto-vs-carplay/",
+      "published": "Mon, 02 Nov 2026 01:00:00 +0000",
+      "title_th": "6 Google Maps features that work better on Android Auto vs. CarPlay",
+      "summary_th": "You would think that Maps would be the same regardless of your phone's brand, but there are some differences between the Android Auto and CarPlay experiences."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "How to add and rearrange apps on your Samsung smart TV",
+      "summary_en": "Though your Samsung smart TV comes pre-loaded with the most popular streaming apps, you may want to add others and do some reorganizing while you're at it.",
+      "image": "https://www.engadget.com/img/gallery/how-to-add-and-rearrange-apps-on-your-samsung-smart-tv/l-intro-1792793521.jpg",
+      "link": "https://www.engadget.com/2300335/how-to-add-rearrange-apps-samsung-smart-tv/",
+      "published": "Mon, 02 Nov 2026 00:45:00 +0000",
+      "title_th": "How to add and rearrange apps on your Samsung smart TV",
+      "summary_th": "Though your Samsung smart TV comes pre-loaded with the most popular streaming apps, you may want to add others and do some reorganizing while you're at it."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Android Auto could upset your work-life balance with its next update",
+      "summary_en": "A hidden toggle buried in the Android Auto app's code isn't functional yet. Here's what it could do, what it might not, and what Google hasn't said so far.",
+      "image": "https://www.engadget.com/img/gallery/android-auto-could-upset-your-work-life-balance-with-its-next-update/l-intro-1793021238.jpg",
+      "link": "https://www.engadget.com/2300324/android-auto-next-update-could-upset-work-life-balance/",
+      "published": "Mon, 02 Nov 2026 00:30:00 +0000",
+      "title_th": "Android Auto could upset your work-life balance with its next update",
+      "summary_th": "A hidden toggle buried in the Android Auto app's code isn't functional yet. Here's what it could do, what it might not, and what Google hasn't said so far."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "gadget",
-      "title_en": "Ceramic vs Titanium Apple Watch: Which material is better for overall durability?",
-      "summary_en": "An Apple Watch is a handy accessory for your iPhone, but choosing the most durable material can be challenging. This one is better suited to your needs.",
-      "image": "https://www.engadget.com/img/gallery/ceramic-vs-titanium-apple-watch-which-material-is-better-for-overall-durability/l-intro-1793034841.jpg",
-      "link": "https://www.engadget.com/2300397/apple-watch-ceramic-vs-titanium-which-is-better-material-overall-durability/",
-      "published": "Sun, 01 Nov 2026 21:00:00 +0000",
-      "title_th": "Ceramic vs Titanium Apple Watch: Which material is better for overall durability?",
-      "summary_th": "An Apple Watch is a handy accessory for your iPhone, but choosing the most durable material can be challenging. This one is better suited to your needs."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "How to turn on the flashlight on your Android phone without unlocking it",
-      "summary_en": "You can easily access your flashlight on Samsung Galaxy and Google Pixel devices - here's how.",
-      "image": "https://www.engadget.com/img/gallery/how-to-turn-on-the-flashlight-on-your-android-phone-without-unlocking-it/l-intro-1792959825.jpg",
-      "link": "https://www.engadget.com/2300305/how-to-turn-on-andoird-phone-flashlight-without-unlocking/",
-      "published": "Sun, 01 Nov 2026 19:30:00 +0000",
-      "title_th": "How to turn on the flashlight on your Android phone without unlocking it",
-      "summary_th": "You can easily access your flashlight on Samsung Galaxy and Google Pixel devices - here's how."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Judge says xAI must face NAACP lawsuit on data center pollution",
-      "summary_en": "The legal battle revolves around the AI company's operations in southern Memphis.",
-      "image": "https://www.engadget.com/img/gallery/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution/l-intro-1793560530.jpg",
-      "link": "https://www.engadget.com/2303462/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution/",
-      "published": "Sun, 01 Nov 2026 19:19:22 +0000",
-      "title_th": "Judge says xAI must face NAACP lawsuit on data center pollution",
-      "summary_th": "The legal battle revolves around the AI company's operations in southern Memphis."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "This hidden Windows 11 menu can save you valuable time when troubleshooting",
-      "summary_en": "Windows 11 has a sneaky menu that connects you with Settings, Task Manager, Event Viewer, and more in one place.",
-      "image": "https://www.engadget.com/img/gallery/this-hidden-windows-11-menu-can-save-you-valuable-time-when-troubleshooting/l-intro-1792876075.jpg",
-      "link": "https://www.engadget.com/2300300/hidden-windows-11-menu-saves-time-troubleshooting/",
-      "published": "Sun, 01 Nov 2026 19:00:00 +0000",
-      "title_th": "This hidden Windows 11 menu can save you valuable time when troubleshooting",
-      "summary_th": "Windows 11 has a sneaky menu that connects you with Settings, Task Manager, Event Viewer, and more in one place."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "The biggest problem with trying to directly power EVs with solar roofs",
-      "summary_en": "Solar roofs promise a future where EVs rarely need plugging in, but turning that vision into reality presents some surprisingly difficult challenges.",
-      "image": "https://www.engadget.com/img/gallery/the-biggest-problem-with-trying-to-directly-power-evs-with-solar-roofs/l-intro-1793119475.jpg",
-      "link": "https://www.engadget.com/2300413/biggest-problem-directly-powering-evs-with-solar-roofs/",
-      "published": "Sun, 01 Nov 2026 18:30:00 +0000",
-      "title_th": "The biggest problem with trying to directly power EVs with solar roofs",
-      "summary_th": "Solar roofs promise a future where EVs rarely need plugging in, but turning that vision into reality presents some surprisingly difficult challenges."
+      "title_en": "10 iPad widgets you probably didn't realize existed",
+      "summary_en": "Widgets take advantage of your iPad's large screen, and some of the best ones are often overlooked.",
+      "image": "https://www.engadget.com/img/gallery/10-ipad-widgets-you-probably-didnt-realize-existed/l-intro-1793198901.jpg",
+      "link": "https://www.engadget.com/2299525/ipad-widgets-didnt-realize-existed/",
+      "published": "Mon, 02 Nov 2026 00:15:00 +0000",
+      "title_th": "10 iPad widgets you probably didn't realize existed",
+      "summary_th": "Widgets take advantage of your iPad's large screen, and some of the best ones are often overlooked."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,18 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "Three new iPad models are reportedly launching early next year, here’s what’s coming",
+      "summary_en": "After debuting the refreshed iPad mini with OLED this past week, Apple still has more in the pipeline for the rest of the iPad lineup in the first half of next year. That includes a new iPad Air , a new base iPad , and a new iPad Pro , according to Bloomberg’s Mark Gurman . more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/ipad-guide.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/01/three-new-ipad-models-are-reportedly-launching-early-next-year-heres-whats-coming/",
+      "published": "Mon, 02 Nov 2026 02:12:39 +0000",
+      "title_th": "Three new iPad models are reportedly launching early next year, here’s what’s coming",
+      "summary_th": "After debuting the refreshed iPad mini with OLED this past week, Apple still has more in the pipeline for the rest of the iPad lineup in the first half of next year. That includes a new iPad Air , a new base iPad , and a new iPad Pro , according to Bloomberg’s Mark Gurman . more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Here’s how I’m solving the iPhone Duo kickstand problem, without any bulk",
       "summary_en": "If you’re like me and bought an iPhone Duo, you’re likely a bit disappointed by the options on the market to prop it up on a table. Apple’s official $129 folio with kickstand is expensive, flimsy, and gets in the way of the outer display. MagSafe wallets that turn into kickstands are too tall for the back of the phone, and there aren’t many good third party cases yet. That said, the perfect option for an iPhone Duo kickstand might’ve actually been hiding in plain sight all along. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/JPEG-image-3.jpeg?quality=82&strip=all&resize=1200,628",
@@ -469,18 +481,6 @@
       "published": "Sat, 31 Oct 2026 19:49:44 +0000",
       "title_th": "Here’s how the new MacBook Pro and macOS 27 are optimized for touch",
       "summary_th": "Apple just unveiled the new MacBook Pro with PROLED XDR , its first MacBook with a touch display. While Apple already added a handful of touch optimizations to macOS 27 Golden Gate earlier this year, there’s also a number of new optimizations that were unveiled alongside the new MacBook Pro. Here’s what Apple worked on. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Indie App Spotlight: ‘Pumpkin Lights’ adds a fun jack-o-lantern to your Mac’s menu bar",
-      "summary_en": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . Pumpkin Lights is a nifty little menu bar app for Mac that lets you quickly toggle between light mode and dark mode with a ray-traced jack-o-lantern that drops down from the top of your screen. It’s completely free, and very fun to utilize. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/halloween.png?resize=1200,628",
-      "link": "https://9to5mac.com/2026/10/31/pumpkin-lights-adds-a-fun-jack-o-lantern-to-your-macs-menu-bar/",
-      "published": "Sat, 31 Oct 2026 19:30:00 +0000",
-      "title_th": "Indie App Spotlight: ‘Pumpkin Lights’ adds a fun jack-o-lantern to your Mac’s menu bar",
-      "summary_th": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . Pumpkin Lights is a nifty little menu bar app for Mac that lets you quickly toggle between light mode and dark mode with a ray-traced jack-o-lantern that drops down from the top of your screen. It’s completely free, and very fun to utilize. more…"
     },
     {
       "source": "9to5Google",
@@ -699,96 +699,6 @@
       "thumbnail": "https://i4.ytimg.com/vi/_4ELeWAgMwo/hqdefault.jpg",
       "published": "2026-10-21T14:00:33+00:00",
       "title_th": "ASMR iPhone Duo Unboxing"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "Smartphones Are Getting OUT of Control…",
-      "video_id": "8ULFcCPEBAM",
-      "link": "https://www.youtube.com/watch?v=8ULFcCPEBAM",
-      "thumbnail": "https://i1.ytimg.com/vi/8ULFcCPEBAM/hqdefault.jpg",
-      "published": "2026-10-28T14:44:56+00:00",
-      "title_th": "Smartphones Are Getting OUT of Control…"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "Samsung Z Fold8 Ultra: The Evolution of Folding Phones",
-      "video_id": "3EVdxel81Q8",
-      "link": "https://www.youtube.com/watch?v=3EVdxel81Q8",
-      "thumbnail": "https://i4.ytimg.com/vi/3EVdxel81Q8/hqdefault.jpg",
-      "published": "2026-10-26T18:28:47+00:00",
-      "title_th": "Samsung Z Fold8 Ultra: The Evolution of Folding Phones"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "Apple iPhone Duo Unboxing and First Impressions",
-      "video_id": "gyUqMHDSn2I",
-      "link": "https://www.youtube.com/watch?v=gyUqMHDSn2I",
-      "thumbnail": "https://i4.ytimg.com/vi/gyUqMHDSn2I/hqdefault.jpg",
-      "published": "2026-10-24T16:30:22+00:00",
-      "title_th": "Apple iPhone Duo Unboxing and First Impressions"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "แรมแพงเป็นความผิดใคร ?",
-      "video_id": "xgGTQcSppqM",
-      "link": "https://www.youtube.com/shorts/xgGTQcSppqM",
-      "thumbnail": "https://i1.ytimg.com/vi/xgGTQcSppqM/hqdefault.jpg",
-      "published": "2026-10-31T23:00:23+00:00",
-      "title_th": "แรมแพงเป็นความผิดใคร ?"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "'ป๋าเต๊ด' คุยยังไง ให้ทัชใจคน | หนุ่ยTalk & Chill",
-      "video_id": "qmZRZKKyjwc",
-      "link": "https://www.youtube.com/watch?v=qmZRZKKyjwc",
-      "thumbnail": "https://i2.ytimg.com/vi/qmZRZKKyjwc/hqdefault.jpg",
-      "published": "2026-10-31T16:49:54+00:00",
-      "title_th": "'ป๋าเต๊ด' คุยยังไง ให้ทัชใจคน | หนุ่ยTalk & Chill"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "อยากให้ลอง! SONOS Ace Ultra หูฟังตัวท็อปจูนเสียงฟังสนุก!",
-      "video_id": "qf5BE7PYpig",
-      "link": "https://www.youtube.com/shorts/qf5BE7PYpig",
-      "thumbnail": "https://i2.ytimg.com/vi/qf5BE7PYpig/hqdefault.jpg",
-      "published": "2026-10-31T07:27:39+00:00",
-      "title_th": "อยากให้ลอง! SONOS Ace Ultra หูฟังตัวท็อปจูนเสียงฟังสนุก!"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "ขายไทยแล้ว OPPO Find X10 + Pad Mini / iPhone Duo ทยอยเกิดปัญหา/ Macbook Pro อะไรใหม่ๆ โลโก้มีไฟด้วย",
-      "video_id": "Jj8T3lQJB3w",
-      "link": "https://www.youtube.com/watch?v=Jj8T3lQJB3w",
-      "thumbnail": "https://i3.ytimg.com/vi/Jj8T3lQJB3w/hqdefault.jpg",
-      "published": "2026-10-31T13:00:33+00:00",
-      "title_th": "ขายไทยแล้ว OPPO Find X10 + Pad Mini / iPhone Duo ทยอยเกิดปัญหา/ Macbook Pro อะไรใหม่ๆ โลโก้มีไฟด้วย"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "🔴 รีวิว Honor Pad 20 รุ่นใหม่ล่าสุด พร้อมของแจกในไลฟ์",
-      "video_id": "2iZrzQTjqnw",
-      "link": "https://www.youtube.com/watch?v=2iZrzQTjqnw",
-      "thumbnail": "https://i3.ytimg.com/vi/2iZrzQTjqnw/hqdefault.jpg",
-      "published": "2026-10-30T22:13:41+00:00",
-      "title_th": "🔴 รีวิว Honor Pad 20 รุ่นใหม่ล่าสุด พร้อมของแจกในไลฟ์"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "รีวิว vivo V80 กล้อง ZEISS Portrait ถ่ายคนสวย ! AI เสกโทนสวย สไตล์ฟิล์ม CCD Flash",
-      "video_id": "vFQeCzK7L6E",
-      "link": "https://www.youtube.com/watch?v=vFQeCzK7L6E",
-      "thumbnail": "https://i3.ytimg.com/vi/vFQeCzK7L6E/hqdefault.jpg",
-      "published": "2026-10-28T10:30:47+00:00",
-      "title_th": "รีวิว vivo V80 กล้อง ZEISS Portrait ถ่ายคนสวย ! AI เสกโทนสวย สไตล์ฟิล์ม CCD Flash"
     }
   ]
 }
