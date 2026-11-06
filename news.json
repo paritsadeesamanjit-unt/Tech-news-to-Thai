@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-06T01:31:26.144592+00:00",
+  "generated_at": "2026-11-06T10:19:31.690773+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
+      "summary_en": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1463816688.jpg?resize=973,1200",
+      "link": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
+      "published": "Fri, 06 Nov 2026 07:18:44 +0000",
+      "title_th": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
+      "summary_th": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "summary_en": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "published": "Fri, 06 Nov 2026 06:28:32 +0000",
+      "title_th": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "summary_th": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -37,30 +61,6 @@
       "published": "Thu, 05 Nov 2026 19:48:28 +0000",
       "title_th": "Meta says US users can now video chat with their Muse AI avatar",
       "summary_th": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "summary_en": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/data-center-2.jpg?resize=1200,899",
-      "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-      "published": "Thu, 05 Nov 2026 19:12:39 +0000",
-      "title_th": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "summary_th": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "OpenAI released a new cybersecurity model. Is that enough?",
-      "summary_en": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798",
-      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "published": "Thu, 05 Nov 2026 19:06:12 +0000",
-      "title_th": "OpenAI released a new cybersecurity model. Is that enough?",
-      "summary_th": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure."
     },
     {
       "source": "The Verge",
@@ -306,6 +306,18 @@
       "source": "Engadget",
       "flag": "US",
       "category": "gadget",
+      "title_en": "Airbnb is threatening to launch an AI travel agent next year",
+      "summary_en": "Airbnb is developing an AI travel agent that it says will eventually be able to help plan your whole trip.",
+      "image": "https://www.engadget.com/img/gallery/airbnb-is-threatening-to-launch-an-ai-travel-agent-next-year/l-intro-1793951259.jpg",
+      "link": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
+      "published": "Fri, 06 Nov 2026 07:51:42 +0000",
+      "title_th": "Airbnb is threatening to launch an AI travel agent next year",
+      "summary_th": "Airbnb is developing an AI travel agent that it says will eventually be able to help plan your whole trip."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
       "title_en": "Blue Origin's New Glenn launch delay will continue into 2027",
       "summary_en": "Repairs have been slow after an explosion earlier this year.",
       "image": "https://www.engadget.com/img/gallery/blue-origins-new-glenn-launch-delay-will-continue-into-2027/l-intro-1793916473.jpg",
@@ -349,18 +361,6 @@
       "published": "Thu, 05 Nov 2026 19:58:23 +0000",
       "title_th": "TikTok just released a standalone Shop app, but it's not in America just yet",
       "summary_th": "It offers exclusive deals and other goodies."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "The Xbox PC app is getting a speed boost",
-      "summary_en": "The updated app, rolling out to Xbox Insiders first, launches up to 60 percent faster.",
-      "image": "https://www.engadget.com/img/gallery/the-xbox-pc-app-is-getting-a-speed-boost/l-intro-1793908196.jpg",
-      "link": "https://www.engadget.com/2308407/the-xbox-pc-app-is-getting-a-speed-boost/",
-      "published": "Thu, 05 Nov 2026 19:52:39 +0000",
-      "title_th": "The Xbox PC app is getting a speed boost",
-      "summary_th": "The updated app, rolling out to Xbox Insiders first, launches up to 60 percent faster."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,42 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "‘Awkwafina: The Unlikely Cook’ premieres on Apple TV",
+      "summary_en": "Apple TV subscribers can now stream the first two episodes of the platform’s new unscripted food series, ‘ Awkwafina: The Unlikely Cook .’ Watch the trailer below. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/awkwafina.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/05/awkwafina-the-unlikely-cook-premieres-on-apple-tv/",
+      "published": "Fri, 06 Nov 2026 02:10:07 +0000",
+      "title_th": "‘Awkwafina: The Unlikely Cook’ premieres on Apple TV",
+      "summary_th": "Apple TV subscribers can now stream the first two episodes of the platform’s new unscripted food series, ‘ Awkwafina: The Unlikely Cook .’ Watch the trailer below. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple explains how to turn off the new MacBook Pro’s glowing logo",
+      "summary_en": "While the illuminated Apple logo on the new MacBook Pro drew one of the biggest cheers during last week’s announcement, Apple knows that not everyone will want to keep it on. Here’s the company’s official guide to turning it off. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/macbook-pro-proled-xdr-touch-07.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/05/apple-explains-how-to-turn-off-the-new-macbook-pros-glowing-logo/",
+      "published": "Fri, 06 Nov 2026 01:48:42 +0000",
+      "title_th": "Apple explains how to turn off the new MacBook Pro’s glowing logo",
+      "summary_th": "While the illuminated Apple logo on the new MacBook Pro drew one of the biggest cheers during last week’s announcement, Apple knows that not everyone will want to keep it on. Here’s the company’s official guide to turning it off. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "WhatsApp’s AI-powered photo expansion tool starts rolling out on iOS",
+      "summary_en": "Select WhatsApp users on TestFlight and in the main app are now seeing the option to expand an image in the app’s photo editor. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-03.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/05/whatsapps-ai-powered-photo-expansion-tool-starts-rolling-out-on-ios/",
+      "published": "Fri, 06 Nov 2026 01:24:45 +0000",
+      "title_th": "WhatsApp’s AI-powered photo expansion tool starts rolling out on iOS",
+      "summary_th": "Select WhatsApp users on TestFlight and in the main app are now seeing the option to expand an image in the app’s photo editor. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Report: iPad shipments drop 27.5% as global tablet market plunges in Q3",
       "summary_en": "Despite global iPad shipments dropping 27.5% year-over-year in the third calendar quarter, Apple maintained its lead in the tablet market, according to a new report released today. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/ipad-pro-ipados-26-5-lock-screen.jpg?quality=82&strip=all&resize=1200,628",
@@ -445,42 +481,6 @@
       "published": "Fri, 06 Nov 2026 00:36:46 +0000",
       "title_th": "Apple expected to bid for F1 streaming rights in more countries, says Formula 1 CEO",
       "summary_th": "Starting this year, Apple has exclusive streaming rights for Formula 1 racing in the United States, which sees every race stream on Apple TV . Both Apple and the league have proudly reported a very positive response in terms of viewership and subscriber acquisition, although they do not publish exact viewing figures. On the latest earnings call for F1’s parent company Liberty Media, the CEO of Formula 1 Stefano Domenicali said that both parties are happy with the US deal, and he expects that Apple will bid for rights in more countries as the opportunities become available. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Report: Apple captured half of global smartphone revenue in Q3",
-      "summary_en": "According to a new report from Counterpoint Research , Apple just recorded its highest-ever global smartphone revenue for a third calendar quarter. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-glacier-apple-watch-airpods-5.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/05/report-apple-captured-half-of-global-smartphone-revenue-in-q3/",
-      "published": "Thu, 05 Nov 2026 22:22:49 +0000",
-      "title_th": "Report: Apple captured half of global smartphone revenue in Q3",
-      "summary_th": "According to a new report from Counterpoint Research , Apple just recorded its highest-ever global smartphone revenue for a third calendar quarter. Here are the details. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "CleanMyMac now helps you clean up Gmail and manage Chrome tabs",
-      "summary_en": "MacPaw today announced an expansion of CleanMyMac’s capabilities beyond the app’s traditional Mac maintenance and optimization tools. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/clean-mac-gmail.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/05/cleanmymac-now-helps-you-clean-up-gmail-and-manage-chrome-tabs/",
-      "published": "Thu, 05 Nov 2026 21:48:20 +0000",
-      "title_th": "CleanMyMac now helps you clean up Gmail and manage Chrome tabs",
-      "summary_th": "MacPaw today announced an expansion of CleanMyMac’s capabilities beyond the app’s traditional Mac maintenance and optimization tools. Here are the details. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "9to5Mac Daily: November 5, 2026 – MacBook Neo 2 rumors, watchOS 27.3",
-      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/05/daily-november-5-2026/",
-      "published": "Thu, 05 Nov 2026 21:31:08 +0000",
-      "title_th": "9to5Mac Daily: November 5, 2026 – MacBook Neo 2 rumors, watchOS 27.3",
-      "summary_th": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…"
     },
     {
       "source": "9to5Google",
@@ -546,6 +546,18 @@
       "source": "Electrek",
       "flag": "",
       "category": "ev",
+      "title_en": "Energica rises from the ashes with plans for cheaper electric motorcycles",
+      "summary_en": "Energica is officially back. The Italian electric motorcycle maker, which ceased operations in 2024 after entering judicial liquidation, has announced a major revival under new international ownership. And while the Energica name is returning, the company behind it is going to look quite different this time around. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/energica-revival-header-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/11/06/energica-rises-from-the-ashes-with-plans-for-cheaper-electric-motorcycles/",
+      "published": "Fri, 06 Nov 2026 09:50:19 +0000",
+      "title_th": "Energica rises from the ashes with plans for cheaper electric motorcycles",
+      "summary_th": "Energica is officially back. The Italian electric motorcycle maker, which ceased operations in 2024 after entering judicial liquidation, has announced a major revival under new international ownership. And while the Energica name is returning, the company behind it is going to look quite different this time around. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
       "title_en": "Janus Electric secures battery supply deal for its battery-swap semi truck",
       "summary_en": "Australian conversion specialists Janus Electric have been celebrating a growing slate of orders for their Class 8 electric truck conversions, which ditch diesel in favor of advanced battery-swap electric power – but exactly how they’d deliver all those trucks was still a question. Now, we have an answer: Electrovaya will supply the batteries . more…",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Janus-Electric-MAIN_2.jpg?quality=82&strip=all&resize=1200,628",
@@ -589,18 +601,6 @@
       "published": "Thu, 05 Nov 2026 19:00:00 +0000",
       "title_th": "EcoFlow DELTA Gen4 Series power stations launch at up to $1,435 off, Segway Myon e-bike $400 off, Lectric Black Friday Sale, more",
       "summary_th": "EcoFlow is once again leading our Green Deals with the launch of its DELTA 3000 Gen4 and DELTA 3800 Gen4 Power Stations and bundles at up to $1,435 off, not to mention the brand has launched another 48-hour flash sale with options like the DELTA 2 Max 2,048Wh Power Station, 2x 220W solar panels , a free bag, and a free TRAIL 200 DC station at $1,529 + others from $659. We also have three Black Friday deals from Segway, like the Myon Smart Electric Bike down at $1,600 , and Lectric’s official full Black Friday e-bike sale with up to $822 in savings (including price cuts). At the very bottom of the page, you’ll also find all the deals and sales from across this week collected together. Head below for other New Green Deals we’ve found today and, of course, Electrek ’s best EV buying and leasi"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Hyundai is recalling nearly 30,000 Kona Electric vehicles due to an airbag software defect",
-      "summary_en": "Hyundai issued a recall affecting nearly 30,000 Kona Electric vehicles due to a software error that could cause the airbag to fail to deploy in a crash. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Hyundai-Kona-Electric-recall-airbag.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/11/05/hyundai-recalling-nearly-30000-kona-evs-airbag-defect/",
-      "published": "Thu, 05 Nov 2026 18:45:25 +0000",
-      "title_th": "Hyundai is recalling nearly 30,000 Kona Electric vehicles due to an airbag software defect",
-      "summary_th": "Hyundai issued a recall affecting nearly 30,000 Kona Electric vehicles due to a software error that could cause the airbag to fail to deploy in a crash. more…"
     }
   ],
   "indices": [
@@ -608,65 +608,65 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 181.6,
+      "change": -18.53,
+      "change_pct": -9.26
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 343.69,
+      "change": -41.5,
+      "change_pct": -10.77
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 282.57,
+      "change": -6.36,
+      "change_pct": -2.2
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 535.93,
+      "change": -19.87,
+      "change_pct": -3.58
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 344.17,
+      "change": -5.34,
+      "change_pct": -1.53
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 260.21,
+      "change": -5.82,
+      "change_pct": -2.19
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 605.08,
+      "change": -24.92,
+      "change_pct": -3.96
     },
     {
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 187.0,
-      "change": -8.0,
-      "change_pct": -4.1
+      "price": 177.0,
+      "change": -10.0,
+      "change_pct": -5.35
     }
   ],
   "reviews": [
@@ -699,6 +699,96 @@
       "thumbnail": "https://i2.ytimg.com/vi/ai1gIWacf0I/hqdefault.jpg",
       "published": "2026-10-27T20:14:55+00:00",
       "title_th": "This can SEE Sound!"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "You need this new power brick…",
+      "video_id": "eP7lsIoSTMU",
+      "link": "https://www.youtube.com/shorts/eP7lsIoSTMU",
+      "thumbnail": "https://i2.ytimg.com/vi/eP7lsIoSTMU/hqdefault.jpg",
+      "published": "2026-11-04T17:46:18+00:00",
+      "title_th": "You need this new power brick…"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "This Thing Runs On Android?",
+      "video_id": "Qw6UAdGL14s",
+      "link": "https://www.youtube.com/watch?v=Qw6UAdGL14s",
+      "thumbnail": "https://i2.ytimg.com/vi/Qw6UAdGL14s/hqdefault.jpg",
+      "published": "2026-11-02T18:33:27+00:00",
+      "title_th": "This Thing Runs On Android?"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Smartphones Are Getting OUT of Control…",
+      "video_id": "8ULFcCPEBAM",
+      "link": "https://www.youtube.com/watch?v=8ULFcCPEBAM",
+      "thumbnail": "https://i1.ytimg.com/vi/8ULFcCPEBAM/hqdefault.jpg",
+      "published": "2026-10-28T14:44:56+00:00",
+      "title_th": "Smartphones Are Getting OUT of Control…"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "เรื่องจริงของ \"ก๊าซธรรมชาติ\" ใต้พื้นโลก",
+      "video_id": "XphMncRgrmk",
+      "link": "https://www.youtube.com/shorts/XphMncRgrmk",
+      "thumbnail": "https://i1.ytimg.com/vi/XphMncRgrmk/hqdefault.jpg",
+      "published": "2026-11-06T04:00:15+00:00",
+      "title_th": "เรื่องจริงของ \"ก๊าซธรรมชาติ\" ใต้พื้นโลก"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "เหตุหันหลังให้วงการ",
+      "video_id": "1hUt14lpfoA",
+      "link": "https://www.youtube.com/shorts/1hUt14lpfoA",
+      "thumbnail": "https://i2.ytimg.com/vi/1hUt14lpfoA/hqdefault.jpg",
+      "published": "2026-11-05T23:00:07+00:00",
+      "title_th": "เหตุหันหลังให้วงการ"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "เทรนด์อวดสุขภาพ",
+      "video_id": "GQ8HsSc_hpg",
+      "link": "https://www.youtube.com/shorts/GQ8HsSc_hpg",
+      "thumbnail": "https://i4.ytimg.com/vi/GQ8HsSc_hpg/hqdefault.jpg",
+      "published": "2026-11-05T00:44:16+00:00",
+      "title_th": "เทรนด์อวดสุขภาพ"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "Galaxy Z Fold8 อยู่ดี ๆ ก็น่าใช้ขึ้นมาเฉยเลย... #Samsung #Galaxy #ZFold8",
+      "video_id": "mdKBShCjzRI",
+      "link": "https://www.youtube.com/shorts/mdKBShCjzRI",
+      "thumbnail": "https://i2.ytimg.com/vi/mdKBShCjzRI/hqdefault.jpg",
+      "published": "2026-11-05T14:51:11+00:00",
+      "title_th": "Galaxy Z Fold8 อยู่ดี ๆ ก็น่าใช้ขึ้นมาเฉยเลย... #Samsung #Galaxy #ZFold8"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "ผู้ชายคนนี้ข้ามกาลเวลามายุคโชซอน ก่อนพบความจริงอันน่าตกใจ #GalaxyZFold8 #พับมาตั้งแต่สมัยโชซอน",
+      "video_id": "v2TZOep9A54",
+      "link": "https://www.youtube.com/shorts/v2TZOep9A54",
+      "thumbnail": "https://i3.ytimg.com/vi/v2TZOep9A54/hqdefault.jpg",
+      "published": "2026-11-04T05:20:03+00:00",
+      "title_th": "ผู้ชายคนนี้ข้ามกาลเวลามายุคโชซอน ก่อนพบความจริงอันน่าตกใจ #GalaxyZFold8 #พับมาตั้งแต่สมัยโชซอน"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รีวิว TECNO Camon Slim 5G ดีไซน์บาง สเปกครบ แบต 6000mAh ในงบ 14,999.-",
+      "video_id": "znuiVygGkAc",
+      "link": "https://www.youtube.com/watch?v=znuiVygGkAc",
+      "thumbnail": "https://i3.ytimg.com/vi/znuiVygGkAc/hqdefault.jpg",
+      "published": "2026-11-02T11:30:21+00:00",
+      "title_th": "รีวิว TECNO Camon Slim 5G ดีไซน์บาง สเปกครบ แบต 6000mAh ในงบ 14,999.-"
     }
   ]
 }
