@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-11-09T03:27:03.842454+00:00",
+  "generated_at": "2026-11-09T14:47:27.803384+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
+      "summary_en": "The new music discovery app lets users scroll through 10-to-30-second snippets of songs, comment, and share with friends.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Drops-app.png?w=1200",
+      "link": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/",
+      "published": "Mon, 09 Nov 2026 14:00:00 +0000",
+      "title_th": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
+      "summary_th": "The new music discovery app lets users scroll through 10-to-30-second snippets of songs, comment, and share with friends."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+      "summary_en": "Automattic aims to compete with likes of Lovable with Spacefast",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Spacefast-feat.jpg?resize=1200,675",
+      "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "published": "Mon, 09 Nov 2026 14:00:00 +0000",
+      "title_th": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+      "summary_th": "Automattic aims to compete with likes of Lovable with Spacefast"
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "ev",
+      "title_en": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
+      "summary_en": "Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around 8 months.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/tesla-cybertruck-fleet.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+      "published": "Mon, 09 Nov 2026 13:43:28 +0000",
+      "title_th": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
+      "summary_th": "Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around 8 months."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "ev",
+      "title_en": "Tesla expands robotaxi service to San Antonio",
+      "summary_en": "This will be the fourth Texas city in which Tesla will launch robotaxis.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1200,801",
+      "link": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
+      "published": "Mon, 09 Nov 2026 11:30:24 +0000",
+      "title_th": "Tesla expands robotaxi service to San Antonio",
+      "summary_th": "This will be the fourth Texas city in which Tesla will launch robotaxis."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -15,52 +63,28 @@
       "summary_th": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "summary_en": "In a memo to the company, Huang admitted that he had an affair.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-      "published": "Sun, 08 Nov 2026 21:00:11 +0000",
-      "title_th": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "summary_th": "In a memo to the company, Huang admitted that he had an affair."
+      "category": "software",
+      "title_en": "Pomera’s sleek distraction-free writing machine is just too small",
+      "summary_en": "Pomera's digital typewriters are a cult hit with those craving a distraction-free writing experience. Dedicated word processor devices never caught on in the US the way they did in Japan. And the ones available in the US, like the AlphaSmart Neo, just weren't as sleek and portable as the tiny foldable devices from Pomera. Until […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Pomera-DM250-DSCF1434-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/gadgets/1029603/pomeras-dm25us-distraction-free-writing-review",
+      "published": "2026-11-09T09:00:00-05:00",
+      "title_th": "Pomera’s sleek distraction-free writing machine is just too small",
+      "summary_th": "Pomera's digital typewriters are a cult hit with those craving a distraction-free writing experience. Dedicated word processor devices never caught on in the US the way they did in Japan. And the ones available in the US, like the AlphaSmart Neo, just weren't as sleek and portable as the tiny foldable devices from Pomera. Until […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
-      "summary_en": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/SPECS27_52_Front_View81.png?resize=1200,675",
-      "link": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
-      "published": "Sun, 08 Nov 2026 21:00:00 +0000",
-      "title_th": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
-      "summary_th": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?"
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
-      "summary_en": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
-      "published": "Sun, 08 Nov 2026 19:51:30 +0000",
-      "title_th": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
-      "summary_th": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
-      "summary_en": "SNL seems to have its knives out for tech executives.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/elon-musk-snl.jpg?resize=1200,595",
-      "link": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
-      "published": "Sun, 08 Nov 2026 18:00:04 +0000",
-      "title_th": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
-      "summary_th": "SNL seems to have its knives out for tech executives."
+      "category": "gadget",
+      "title_en": "Instagram’s AI age detection is expanding globally",
+      "summary_en": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven't correctly disclosed their age. The rollout will automatically place \"millions more teens on Instagram into Teen Account protections,\" according to Meta's announcement, after launching the AI-powered age assurance updates in the US, EU, and Brazil last year. The […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK070_INSTAGRAM__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
+      "published": "2026-11-09T07:00:00-05:00",
+      "title_th": "Instagram’s AI age detection is expanding globally",
+      "summary_th": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven't correctly disclosed their age. The rollout will automatically place \"millions more teens on Instagram into Teen Account protections,\" according to Meta's announcement, after launching the AI-powered age assurance updates in the US, EU, and Brazil last year. The […]"
     },
     {
       "source": "The Verge",
@@ -97,30 +121,6 @@
       "published": "2026-11-08T15:52:05-05:00",
       "title_th": "Epic Games Launcher is coming to SteamOS",
       "summary_th": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibility, along with a handful of other distros, to GamingOnLinux. In response […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Apple is racing to make Siri more agentic",
-      "summary_en": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&strip=all&crop=0%2C10.727837220746%2C100%2C78.544325558509&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-      "published": "2026-11-08T14:18:19-05:00",
-      "title_th": "Apple is racing to make Siri more agentic",
-      "summary_th": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Elvis and Eminem rights holders are suing Suno",
-      "summary_en": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22202367/517216004.jpg?quality=90&strip=all&crop=0%2C3.4730210448443%2C100%2C41.13900448979&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-      "published": "2026-11-08T12:23:19-05:00",
-      "title_th": "Elvis and Eminem rights holders are suing Suno",
-      "summary_th": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's […]"
     },
     {
       "source": "Ars Technica",
@@ -185,62 +185,98 @@
     {
       "source": "Wired",
       "flag": "US",
-      "category": "ai",
-      "title_en": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
-      "summary_en": "After testing 30 pairs of computer speakers, these are the best computer speakers—from stereo speakers to subwoofers to surround sound systems.",
-      "image": "https://media.wired.com/photos/6aea49805aac4b5e71c0c066/master/pass/Best%20Computer%20Speakers%20112026%20top%20art%20SOURCE%20Amazon.jpg",
-      "link": "https://www.wired.com/gallery/best-computer-speakers/",
-      "published": "Sun, 08 Nov 2026 12:00:00 +0000",
-      "title_th": "8 Best Computer Speakers (2026) After Testing 30 Pairs",
-      "summary_th": "After testing 30 pairs of computer speakers, these are the best computer speakers—from stereo speakers to subwoofers to surround sound systems."
+      "category": "review",
+      "title_en": "King Arthur Baking Sourdough Sidekick Review: Rising to the Occasion",
+      "summary_en": "King Arthur Baking’s Sourdough Sidekick has some quirks, but it ended my yearlong sourdough slump.",
+      "image": "https://media.wired.com/photos/6af017c637aad9e5c7a8f002/master/pass/Review--King-Arthur-Baking-Sourdough-Sidekick.jpg",
+      "link": "https://www.wired.com/review/king-arthur-baking-sourdough-sidekick/",
+      "published": "Mon, 09 Nov 2026 12:00:00 +0000",
+      "title_th": "King Arthur Baking Sourdough Sidekick Review: Rising to the Occasion",
+      "summary_th": "King Arthur Baking’s Sourdough Sidekick has some quirks, but it ended my yearlong sourdough slump."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
-      "summary_en": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
-      "image": "https://media.wired.com/photos/6aee77f4ece1c19963602401/master/pass/gear-nyt-cooking-ai-assistant.jpg",
-      "link": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-      "published": "Sun, 08 Nov 2026 12:00:00 +0000",
-      "title_th": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
-      "summary_th": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark."
+      "title_en": "New Hulu Doc ‘Get Huge’ Shows the Deadly Toll of Looksmaxxing",
+      "summary_en": "The new Hulu docuseries Get Huge: Looksmaxxing to Death shines a light on the mysterious deaths and disappearances of a group of male influencers in Thailand—and the leader at the center of it all.",
+      "image": "https://media.wired.com/photos/6aeb9a04783d1e73bbb7b189/master/pass/bk_press_still_1.282.1.png",
+      "link": "https://www.wired.com/story/hulu-doc-get-huge-shows-the-deadly-toll-of-looksmaxxing/",
+      "published": "Mon, 09 Nov 2026 12:00:00 +0000",
+      "title_th": "New Hulu Doc ‘Get Huge’ Shows the Deadly Toll of Looksmaxxing",
+      "summary_th": "The new Hulu docuseries Get Huge: Looksmaxxing to Death shines a light on the mysterious deaths and disappearances of a group of male influencers in Thailand—and the leader at the center of it all."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory",
-      "summary_en": "More evidence that magnets are magical.",
-      "image": "https://media.wired.com/photos/6aee3d12f8a94dfe58ce6d81/master/pass/SM_MagneticCameraStrap30mm_WANDRD%20SOURCE%20Wandrd.jpg",
-      "link": "https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/",
-      "published": "Sun, 08 Nov 2026 11:30:00 +0000",
-      "title_th": "Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory",
-      "summary_th": "More evidence that magnets are magical."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "How to Remind Your Boss of Your PTO Without Pissing Them Off",
-      "summary_en": "The next time you take paid time off, your boss and coworkers will remember if you follow this advice.",
-      "image": "https://media.wired.com/photos/6aee6acf106dc5c6dc0c08d0/master/pass/gear-remind-boss-work-pto.jpg",
-      "link": "https://www.wired.com/story/how-to-remind-your-boss-about-your-vacation/",
-      "published": "Sun, 08 Nov 2026 11:00:00 +0000",
-      "title_th": "How to Remind Your Boss of Your PTO Without Pissing Them Off",
-      "summary_th": "The next time you take paid time off, your boss and coworkers will remember if you follow this advice."
+      "title_en": "The Midterms Were a Pretty Good Sign for the Right-to-Repair Movement",
+      "summary_en": "A shifting political landscape gives right-to-repair advocates their best shot yet at meaningful federal reform.",
+      "image": "https://media.wired.com/photos/6aedfe0f80b2626fa065567c/master/pass/GettyImages-2302892700.jpg",
+      "link": "https://www.wired.com/story/the-midterms-were-a-pretty-good-sign-for-right-to-repair/",
+      "published": "Mon, 09 Nov 2026 11:30:00 +0000",
+      "title_th": "The Midterms Were a Pretty Good Sign for the Right-to-Repair Movement",
+      "summary_th": "A shifting political landscape gives right-to-repair advocates their best shot yet at meaningful federal reform."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "gadget",
-      "title_en": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
-      "summary_en": "We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?",
-      "image": "https://media.wired.com/photos/6aee72371d8c716d0f5e527c/master/pass/The-Best-Touchscreen-Gloves.jpg",
-      "link": "https://www.wired.com/gallery/best-touchscreen-gloves/",
-      "published": "Sun, 08 Nov 2026 10:00:00 +0000",
-      "title_th": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
-      "summary_th": "We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?"
+      "title_en": "Scientists May Have Discovered a Massive Starless Galaxy",
+      "summary_en": "The promising candidate contains roughly 2 billion times the sun’s mass in hydrogen, yet appears to have no stars. Studying it could help answer questions that have vexed astronomers for years.",
+      "image": "https://media.wired.com/photos/6ae4b0b9fafa122d7f6143a0/master/pass/103016-Starless%20Galaxy.jpg",
+      "link": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
+      "published": "Mon, 09 Nov 2026 11:15:00 +0000",
+      "title_th": "Scientists May Have Discovered a Massive Starless Galaxy",
+      "summary_th": "The promising candidate contains roughly 2 billion times the sun’s mass in hydrogen, yet appears to have no stars. Studying it could help answer questions that have vexed astronomers for years."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "review",
+      "title_en": "Audioengine Color of the Year Kit Review: Bright Look, Good Sound",
+      "summary_en": "The canary-yellow set is equal parts design and audio performance, and includes speakers, speaker stands, a turntable, and a subwoofer.",
+      "image": "https://media.wired.com/photos/6ae7d3cff069d9b77251ba31/master/pass/Review%20Audioengine%20Color%20of%20the%20Year%20Kit%20102026%20top%20art%20SOURCE%20Audioengine.jpg",
+      "link": "https://www.wired.com/review/audioengine-2026-color-of-the-year-kit/",
+      "published": "Mon, 09 Nov 2026 11:00:00 +0000",
+      "title_th": "Audioengine Color of the Year Kit Review: Bright Look, Good Sound",
+      "summary_th": "The canary-yellow set is equal parts design and audio performance, and includes speakers, speaker stands, a turntable, and a subwoofer."
+    },
+    {
+      "source": "MIT Technology Review",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "The Download: empty AI climate claims, and an Nvidia investigation",
+      "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The climate case for AI has not been made —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air Resources Board,…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/hands.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+      "published": "Mon, 09 Nov 2026 13:15:00 +0000",
+      "title_th": "The Download: empty AI climate claims, and an Nvidia investigation",
+      "summary_th": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The climate case for AI has not been made —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air Resources Board,…"
+    },
+    {
+      "source": "MIT Technology Review",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Innovating with AI in the special chemicals industry",
+      "summary_en": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/MITTRInfoysLubrizol-open-card-v3.png?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "published": "Mon, 09 Nov 2026 13:00:00 +0000",
+      "title_th": "Innovating with AI in the special chemicals industry",
+      "summary_th": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed…"
+    },
+    {
+      "source": "MIT Technology Review",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "The climate case for AI has not been made",
+      "summary_en": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate action. But so far, industries around the world…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/hands.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+      "published": "Mon, 09 Nov 2026 10:00:00 +0000",
+      "title_th": "The climate case for AI has not been made",
+      "summary_th": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate action. But so far, industries around the world…"
     },
     {
       "source": "MIT Technology Review",
@@ -267,40 +303,52 @@
       "summary_th": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…"
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "The Download: Texas’s fragile AI boom and energy policy shifts",
-      "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2303431102.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
-      "published": "Thu, 05 Nov 2026 13:10:00 +0000",
-      "title_th": "The Download: Texas’s fragile AI boom and energy policy shifts",
-      "summary_th": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s…"
+      "category": "chip",
+      "title_en": "What hardware does your PC need to run a local AI model?",
+      "summary_en": "The kind of AI models you can run depends on your machine's power. Let's unpack what your everyday PC will need, and how much it will cost you.",
+      "image": "https://www.engadget.com/img/gallery/what-hardware-does-your-pc-need-to-run-a-local-ai-model/l-intro-1793763392.jpg",
+      "link": "https://www.engadget.com/2307701/pc-hardware-needed-run-local-ai-model/",
+      "published": "Mon, 09 Nov 2026 13:45:00 +0000",
+      "title_th": "What hardware does your PC need to run a local AI model?",
+      "summary_th": "The kind of AI models you can run depends on your machine's power. Let's unpack what your everyday PC will need, and how much it will cost you."
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "summary_en": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/GettyImages-2303431102.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "published": "Wed, 04 Nov 2026 18:50:55 +0000",
-      "title_th": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "summary_th": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,…"
+      "category": "chip",
+      "title_en": "Coinbase receives approval to become a chartered trust bank",
+      "summary_en": "Coinbase has received approval from the US Office of the Comptroller of Currency to become a nationally chartered trust bank.",
+      "image": "https://www.engadget.com/img/gallery/coinbase-receives-approval-to-become-a-chartered-trust-bank/l-intro-1794231576.jpg",
+      "link": "https://www.engadget.com/2310531/coinbase-receives-approval-to-become-a-chartered-trust-bank/",
+      "published": "Mon, 09 Nov 2026 13:40:54 +0000",
+      "title_th": "Coinbase receives approval to become a chartered trust bank",
+      "summary_th": "Coinbase has received approval from the US Office of the Comptroller of Currency to become a nationally chartered trust bank."
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "summary_en": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring possible paths to keep your mind going, including gradual…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/MITTR-Roundtables-Nov26-With-border.png?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-      "published": "Wed, 04 Nov 2026 18:21:40 +0000",
-      "title_th": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "summary_th": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring possible paths to keep your mind going, including gradual…"
+      "category": "gadget",
+      "title_en": "How to tell if your phone supports eSIM",
+      "summary_en": "An eSIM can save you money on international trips if your phone supports it. See how to check eSIM compatibility on iPhone and Android in a few steps.",
+      "image": "https://www.engadget.com/img/gallery/how-to-tell-if-your-phone-supports-esim/l-intro-1793730307.jpg",
+      "link": "https://www.engadget.com/2306210/how-to-check-esim-compatibility-phone/",
+      "published": "Mon, 09 Nov 2026 13:15:00 +0000",
+      "title_th": "How to tell if your phone supports eSIM",
+      "summary_th": "An eSIM can save you money on international trips if your phone supports it. See how to check eSIM compatibility on iPhone and Android in a few steps."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "review",
+      "title_en": "Nacon Revolution 5 Unlimited controller review: More customization than I can handle",
+      "summary_en": "Nacon's new controller aims to rival Sony's own DualSense Edge.",
+      "image": "https://www.engadget.com/img/gallery/nacons-revolution-5-unlimited-controller-review-more-customization-than-i-can-handle/l-intro-1793967751.jpg",
+      "link": "https://www.engadget.com/2308886/nacon-revolution-5-unlimited-controller-review/",
+      "published": "Mon, 09 Nov 2026 13:00:00 +0000",
+      "title_th": "Nacon Revolution 5 Unlimited controller review: More customization than I can handle",
+      "summary_th": "Nacon's new controller aims to rival Sony's own DualSense Edge."
     },
     {
       "source": "Engadget",
@@ -313,54 +361,6 @@
       "published": "Mon, 09 Nov 2026 01:30:00 +0000",
       "title_th": "How to use your laptop as a second monitor",
       "summary_th": "If you have an extra laptop lying around, you can connect it to your primary laptop with a wireless or wired connection for a free dual monitor set up."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Why your USB device isn't showing up on your MacBook and how you can fix it",
-      "summary_en": "If your USB device isn't showing up on your MacBook, the issue could be anything from a damaged cord to software troubles. Find out how to fix these problems.",
-      "image": "https://www.engadget.com/img/gallery/why-your-usb-device-isnt-showing-up-on-your-macbook-and-how-you-can-fix-it/l-intro-1793975296.jpg",
-      "link": "https://www.engadget.com/2309279/why-usb-device-not-showing-up-macbook-fixes/",
-      "published": "Mon, 09 Nov 2026 01:00:00 +0000",
-      "title_th": "Why your USB device isn't showing up on your MacBook and how you can fix it",
-      "summary_th": "If your USB device isn't showing up on your MacBook, the issue could be anything from a damaged cord to software troubles. Find out how to fix these problems."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Which Canon Cameras Are Compatible With Its Free 3D Photo Software?",
-      "summary_en": "Canon cameras are often known for their versatility and compatibility with software programs. These cameras are best used with the free 3D photo software.",
-      "image": "https://www.engadget.com/img/gallery/which-canon-cameras-are-compatible-with-its-free-3d-photo-software/l-intro-1793981282.jpg",
-      "link": "https://www.engadget.com/2309282/which-canon-cameras-compatible-with-free-3d-software/",
-      "published": "Mon, 09 Nov 2026 00:45:00 +0000",
-      "title_th": "Which Canon Cameras Are Compatible With Its Free 3D Photo Software?",
-      "summary_th": "Canon cameras are often known for their versatility and compatibility with software programs. These cameras are best used with the free 3D photo software."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "The disadvantages of buying tech from other countries",
-      "summary_en": "Importing a phone or a laptop can be appealing, especially if you can get a product you wouldn't otherwise have access to, but it has downsides.",
-      "image": "https://www.engadget.com/img/gallery/the-disadvantages-of-buying-tech-from-other-countries/l-intro-1793957706.jpg",
-      "link": "https://www.engadget.com/2309284/disadvantages-buying-tech-from-other-countries/",
-      "published": "Mon, 09 Nov 2026 00:30:00 +0000",
-      "title_th": "The disadvantages of buying tech from other countries",
-      "summary_th": "Importing a phone or a laptop can be appealing, especially if you can get a product you wouldn't otherwise have access to, but it has downsides."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "10 Apple products and features that transformed under Tim Cook's leadership",
-      "summary_en": "Tim Cook led Apple for 15 years, during which time the company's offerings expanded and went through all kinds of changes.",
-      "image": "https://www.engadget.com/img/gallery/10-apple-products-and-features-that-transformed-under-tim-cooks-leadership/l-intro-1793207854.jpg",
-      "link": "https://www.engadget.com/2305273/apple-products-features-transformed-under-tim-cook-leadership/",
-      "published": "Mon, 09 Nov 2026 00:15:00 +0000",
-      "title_th": "10 Apple products and features that transformed under Tim Cook's leadership",
-      "summary_th": "Tim Cook led Apple for 15 years, during which time the company's offerings expanded and went through all kinds of changes."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,42 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "Teens and parents can expect Instagram notifications about AI age estimation",
+      "summary_en": "Meta says it’s expanding its AI age estimation globally to automatically extend Instagram account protections to millions more teenagers. It says parents in the US can also expect to receive notifications later this month … more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Parents-in-the-US-can-expect-Instagram-notifications-about-their-teens.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/09/teens-and-parents-can-expect-instagram-notifications-about-ai-age-estimation/",
+      "published": "Mon, 09 Nov 2026 12:53:40 +0000",
+      "title_th": "Teens and parents can expect Instagram notifications about AI age estimation",
+      "summary_th": "Meta says it’s expanding its AI age estimation globally to automatically extend Instagram account protections to millions more teenagers. It says parents in the US can also expect to receive notifications later this month … more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple staff accused of signing up customers to subscriptions without consent; company responds",
+      "summary_en": "Repair technician turned consumer rights advocate Louis Rossmann recently accused Apple store staff of signing up customers to the company’s services subscriptions without their consent. Apple has not yet commented, but has taken two steps indicating that the company takes the accusations seriously … more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-staff-accused-of-signing-up-customers-to-subscriptions-without-consent.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/09/apple-staff-accused-of-signing-up-customers-to-subscriptions-without-consent-company-responds/",
+      "published": "Mon, 09 Nov 2026 12:14:40 +0000",
+      "title_th": "Apple staff accused of signing up customers to subscriptions without consent; company responds",
+      "summary_th": "Repair technician turned consumer rights advocate Louis Rossmann recently accused Apple store staff of signing up customers to the company’s services subscriptions without their consent. Apple has not yet commented, but has taken two steps indicating that the company takes the accusations seriously … more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Security Bite Podcast: Mac malware likely helped pull off the record $6.3B Binance hack",
+      "summary_en": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform . Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening & Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . This week, Christopher Lopez (@L0Psec) ret",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/09/security-bite-podcast-mac-malware-likely-helped-pull-off-the-record-6-3b-binance-hack/",
+      "published": "Mon, 09 Nov 2026 11:00:00 +0000",
+      "title_th": "Security Bite Podcast: Mac malware likely helped pull off the record $6.3B Binance hack",
+      "summary_th": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform . Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening & Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . This week, Christopher Lopez (@L0Psec) ret"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "macOS 27.3 could change how you grant AI agents Full Disk Access, here’s how",
       "summary_en": "Last month, Apple announced it’d be tightening privacy controls in a future macOS update, in response to AI agents requesting Full Disk Access then going rogue with users data without them being fully aware. Now, we have an idea of how the changes might look. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macOS-27.3-hero.jpg?quality=82&strip=all&resize=1200,628",
@@ -447,40 +483,16 @@
       "summary_th": "In the past few years, a major Apple story (especially in the age of AI) has been that the company isn’t moving fast enough in the space to keep up with competitors. According to Bloomberg’s Mark Gurman , new Apple CEO John Ternus is reportedly pushing on software chief Craig Federighi to ‘accelerate’ Apple’s roadmap for software. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple aiming to make Siri ‘more like an agent’ as soon as next year: report",
-      "summary_en": "Apple finally shipped its long awaited personalized Siri with iOS 27. The company lived up to its promises, and delivered on its hefty goals that it set out back in 2024. That said, Siri still lacks in terms of proactively taking actions for you, a feature that many AI companies are actively working towards. Apple might come around on that next year, per Bloomberg’s Mark Gurman . The company is also experimenting with a new engineering pipeline that might make faster development possible. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-app-ios-27-new.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/",
-      "published": "Sun, 08 Nov 2026 15:30:36 +0000",
-      "title_th": "Apple aiming to make Siri ‘more like an agent’ as soon as next year: report",
-      "summary_th": "Apple finally shipped its long awaited personalized Siri with iOS 27. The company lived up to its promises, and delivered on its hefty goals that it set out back in 2024. That said, Siri still lacks in terms of proactively taking actions for you, a feature that many AI companies are actively working towards. Apple might come around on that next year, per Bloomberg’s Mark Gurman . The company is also experimenting with a new engineering pipeline that might make faster development possible. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Chromagraph Camera is exactly the camera app I’ve been looking for on iPhone",
-      "summary_en": "Last week, movie director Rian Johnson announced a surprise new camera app for iPhone that reimagines what a smartphone photo should look like. Many people would agree that Apple’s iPhone photos are a tad bit overprocessed. iPhone 18 Pro and iPhone Duo introduced a new film texture option, but in my view, it’s a bit too exaggerated. Chromagraph Camera , on the other hand, feels pretty perfect. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/rian-camera-app.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/07/chromagraph-camera-is-exactly-the-camera-app-ive-been-looking-for-on-iphone/",
-      "published": "Sat, 07 Nov 2026 22:30:00 +0000",
-      "title_th": "Chromagraph Camera is exactly the camera app I’ve been looking for on iPhone",
-      "summary_th": "Last week, movie director Rian Johnson announced a surprise new camera app for iPhone that reimagines what a smartphone photo should look like. Many people would agree that Apple’s iPhone photos are a tad bit overprocessed. iPhone 18 Pro and iPhone Duo introduced a new film texture option, but in my view, it’s a bit too exaggerated. Chromagraph Camera , on the other hand, feels pretty perfect. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Indie App Spotlight: ‘CueFlip’ automatically turns the page for your sheet music",
-      "summary_en": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . If you find yourself playing an instrument with sheet music, flipping the page often requires you to stop playing to turn the page. CueFlip solves that. You can teach it how you play a song, then it can turn the page for you whilst listening. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/CueFlip.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/07/indie-app-spotlight-cueflip-automatically-turns-the-page-for-your-sheet-music/",
-      "published": "Sat, 07 Nov 2026 20:30:00 +0000",
-      "title_th": "Indie App Spotlight: ‘CueFlip’ automatically turns the page for your sheet music",
-      "summary_th": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . If you find yourself playing an instrument with sheet music, flipping the page often requires you to stop playing to turn the page. CueFlip solves that. You can teach it how you play a song, then it can turn the page for you whilst listening. more…"
+      "title_en": "Android Auto cutting off older devices, now requires Android 11 or newer",
+      "summary_en": "Google has officially dropped support for some older Android versions in Android Auto, now requiring Android 11 or newer to function. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/android-auto-google-maps-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/11/09/android-auto-minimum-requirements-android-11/",
+      "published": "Mon, 09 Nov 2026 14:20:00 +0000",
+      "title_th": "Android Auto cutting off older devices, now requires Android 11 or newer",
+      "summary_th": "Google has officially dropped support for some older Android versions in Android Auto, now requiring Android 11 or newer to function. more…"
     },
     {
       "source": "9to5Google",
@@ -531,16 +543,28 @@
       "summary_th": "Following a pre-order date announcement earlier this week, Google’s other Android XR launch partner has now confirmed a December release date for this first batch of glasses. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Pixelated 124: Is it time for a Nest Hub comeback?",
-      "summary_en": "Welcome to Pixelated episode 124. This week, Damien, Abner, and Will dive into the announcement of Motorola’s flagship return in North America, the Signature 27. Is a $1,600 non-foldable the comeback everyone hoped for, or is this device doomed by rising component costs? Then, with Apple’s HomeView smart display set to launch next week, the gang examines Google’s lack of a modernized competitor and wonder what they’d want to see from a relaunch in 2027. Enjoy the show? You can listen to our weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro for just $5 per month, or about $1 per episode. Sponsored by Proton Unlimited : Pixelated listeners can save 30% on an annual subscription to the company’s suite of privacy-friendly services by signing up using our link . T",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/11/06/pixelated-124-is-it-time-for-a-nest-hub-comeback/",
-      "published": "Fri, 06 Nov 2026 22:00:00 +0000",
-      "title_th": "Pixelated 124: Is it time for a Nest Hub comeback?",
-      "summary_th": "Welcome to Pixelated episode 124. This week, Damien, Abner, and Will dive into the announcement of Motorola’s flagship return in North America, the Signature 27. Is a $1,600 non-foldable the comeback everyone hoped for, or is this device doomed by rising component costs? Then, with Apple’s HomeView smart display set to launch next week, the gang examines Google’s lack of a modernized competitor and wonder what they’d want to see from a relaunch in 2027. Enjoy the show? You can listen to our weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro for just $5 per month, or about $1 per episode. Sponsored by Proton Unlimited : Pixelated listeners can save 30% on an annual subscription to the company’s suite of privacy-friendly services by signing up using our link . T"
+      "category": "ev",
+      "title_en": "Musk says Cybertruck isn’t dying from weak sales — the numbers disagree",
+      "summary_en": "Elon Musk now claims Cybertruck orders “far exceed” Tesla’s production rate, and that the truck isn’t being killed because it’s unprofitable. It’s his second explanation in three days for ending the pickup. The problem is that Tesla’s own numbers say the opposite. The Cybertruck line has been running at roughly a quarter of its installed capacity, and Tesla spent all of 2026 discounting, re-trimming, and repricing the truck to find buyers. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2024/04/Tesla-Cybertruck-production-April-2024.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/11/09/musk-cybertruck-demand-claim-data/",
+      "published": "Mon, 09 Nov 2026 13:56:47 +0000",
+      "title_th": "Musk says Cybertruck isn’t dying from weak sales — the numbers disagree",
+      "summary_th": "Elon Musk now claims Cybertruck orders “far exceed” Tesla’s production rate, and that the truck isn’t being killed because it’s unprofitable. It’s his second explanation in three days for ending the pickup. The problem is that Tesla’s own numbers say the opposite. The Cybertruck line has been running at roughly a quarter of its installed capacity, and Tesla spent all of 2026 discounting, re-trimming, and repricing the truck to find buyers. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "Going the distance: these electric semi trucks cover over 600 miles EVERY DAY",
+      "summary_en": "“Sure, diesel is high, but electric trucks don’t work.” It’s a common refrain these days – especially from people selling diesel trucks. Perception lags reality, however, and the reality is that these electric semi trucks are covering more than 600 miles per day, seven days a week. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/1000km_mercedes.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/11/09/going-the-distance-these-electric-semi-trucks-cover-over-600-miles-every-day/",
+      "published": "Mon, 09 Nov 2026 12:33:13 +0000",
+      "title_th": "Going the distance: these electric semi trucks cover over 600 miles EVERY DAY",
+      "summary_th": "“Sure, diesel is high, but electric trucks don’t work.” It’s a common refrain these days – especially from people selling diesel trucks. Perception lags reality, however, and the reality is that these electric semi trucks are covering more than 600 miles per day, seven days a week. more…"
     },
     {
       "source": "Electrek",
@@ -577,30 +601,6 @@
       "published": "Sun, 08 Nov 2026 13:42:16 +0000",
       "title_th": "New ID. AURA is the mainstream EV VW needs – but its software is the real story",
       "summary_th": "Volkswagen built its global empire on the promise of affordable, accessible transportation, embodied by the iconic Type 1 Beetle. Now facing an existential crisis after a decades-long push upmarket , the automaker faces a reckoning – and a retreat back into affordable, mass-market electric sedans like the new FAW-VW ID. AURA L5 (and the software that powers it) might be exactly what VW needs to reach a new generation of buyers. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Everyone wants an electric pickup truck. I want more electric 125cc motorcycles",
-      "summary_en": "If you follow the EV industry in North America, you’d be forgiven for thinking that the future of transportation revolves around electric SUVs and pickups. Every week seems to bring another teaser from a startup promising to reinvent the family car or truck. The latest electric SUVs, “coming soon” tiny trucks, lifestyle trucks, modular trucks, etc. Companies like Slate, TELO, and countless others have generated plenty of excitement, even if many of them still have everything left to prove. Don’t get me wrong – I hope they succeed. We need more affordable electric vehicles. But after spending nearly two decades covering a specific part of the electric-vehicle space and a good chunk of that time traveling around the world to see how people actually get around, I can’t help but wonder if we’r",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/motorcycle-vs-truck-header-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/11/08/everyone-wants-an-electric-pickup-truck-i-want-more-electric-125cc-motorcycles/",
-      "published": "Sun, 08 Nov 2026 09:37:36 +0000",
-      "title_th": "Everyone wants an electric pickup truck. I want more electric 125cc motorcycles",
-      "summary_th": "If you follow the EV industry in North America, you’d be forgiven for thinking that the future of transportation revolves around electric SUVs and pickups. Every week seems to bring another teaser from a startup promising to reinvent the family car or truck. The latest electric SUVs, “coming soon” tiny trucks, lifestyle trucks, modular trucks, etc. Companies like Slate, TELO, and countless others have generated plenty of excitement, even if many of them still have everything left to prove. Don’t get me wrong – I hope they succeed. We need more affordable electric vehicles. But after spending nearly two decades covering a specific part of the electric-vehicle space and a good chunk of that time traveling around the world to see how people actually get around, I can’t help but wonder if we’r"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Tesla deemed liable for fraud after Solar Roof ‘experiment’ on a home",
-      "summary_en": "A California judge has deemed Tesla liable for fraud in a Solar Roof lawsuit, after the company repeatedly failed to hand over evidence. Tesla had already admitted it breached the contract, broke its warranty, and was negligent on the job. The homeowner says fixing the damage will cost “well over $2.5 million.” Tesla once offered him $5,000. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2019/08/Tesla-Solar-Roof-quote.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/11/07/tesla-solar-roof-fraud-liable-experiment-lawsuit/",
-      "published": "Sat, 07 Nov 2026 16:01:23 +0000",
-      "title_th": "Tesla deemed liable for fraud after Solar Roof ‘experiment’ on a home",
-      "summary_th": "A California judge has deemed Tesla liable for fraud in a Solar Roof lawsuit, after the company repeatedly failed to hand over evidence. Tesla had already admitted it breached the contract, broke its warranty, and was negligent on the job. The homeowner says fixing the damage will cost “well over $2.5 million.” Tesla once offered him $5,000. more…"
     }
   ],
   "indices": [
@@ -608,66 +608,187 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 186.64,
-      "change": 5.04,
-      "change_pct": 2.78
+      "price": 175.35,
+      "change": -11.29,
+      "change_pct": -6.05
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 358.22,
-      "change": 14.53,
-      "change_pct": 4.23
+      "price": 375.48,
+      "change": 17.26,
+      "change_pct": 4.82
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 284.78,
-      "change": 2.21,
-      "change_pct": 0.78
+      "price": 294.48,
+      "change": 9.7,
+      "change_pct": 3.41
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 530.61,
-      "change": -5.32,
-      "change_pct": -0.99
+      "price": 543.49,
+      "change": 12.88,
+      "change_pct": 2.43
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 342.37,
-      "change": -1.8,
-      "change_pct": -0.52
+      "price": 349.19,
+      "change": 6.82,
+      "change_pct": 1.99
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 259.3,
-      "change": -0.91,
-      "change_pct": -0.35
+      "price": 273.63,
+      "change": 14.33,
+      "change_pct": 5.53
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": 610.15,
-      "change": 5.07,
-      "change_pct": 0.84
+      "price": 642.21,
+      "change": 32.06,
+      "change_pct": 5.25
     },
     {
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 177.0,
-      "change": -10.0,
-      "change_pct": -5.35
+      "price": 182.0,
+      "change": 5.0,
+      "change_pct": 2.82
     }
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Meta VR Glasses: What Vision Pro 2 COULD Have Been!",
+      "video_id": "_x58r9TBois",
+      "link": "https://www.youtube.com/watch?v=_x58r9TBois",
+      "thumbnail": "https://i4.ytimg.com/vi/_x58r9TBois/hqdefault.jpg",
+      "published": "2026-11-06T21:29:30+00:00",
+      "title_th": "Meta VR Glasses: What Vision Pro 2 COULD Have Been!"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "OLED iPad Mini is The Most Apple Product They've Ever Appled",
+      "video_id": "g6Die8gVFn0",
+      "link": "https://www.youtube.com/watch?v=g6Die8gVFn0",
+      "thumbnail": "https://i4.ytimg.com/vi/g6Die8gVFn0/hqdefault.jpg",
+      "published": "2026-11-03T14:01:31+00:00",
+      "title_th": "OLED iPad Mini is The Most Apple Product They've Ever Appled"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Macbook PROLED XDR Impressions: They Said They Wouldn't!",
+      "video_id": "2reQut8WNGc",
+      "link": "https://www.youtube.com/watch?v=2reQut8WNGc",
+      "thumbnail": "https://i3.ytimg.com/vi/2reQut8WNGc/hqdefault.jpg",
+      "published": "2026-10-29T02:50:34+00:00",
+      "title_th": "Macbook PROLED XDR Impressions: They Said They Wouldn't!"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "You need this new power brick…",
+      "video_id": "eP7lsIoSTMU",
+      "link": "https://www.youtube.com/shorts/eP7lsIoSTMU",
+      "thumbnail": "https://i2.ytimg.com/vi/eP7lsIoSTMU/hqdefault.jpg",
+      "published": "2026-11-04T17:46:18+00:00",
+      "title_th": "You need this new power brick…"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "This Thing Runs On Android?",
+      "video_id": "Qw6UAdGL14s",
+      "link": "https://www.youtube.com/watch?v=Qw6UAdGL14s",
+      "thumbnail": "https://i2.ytimg.com/vi/Qw6UAdGL14s/hqdefault.jpg",
+      "published": "2026-11-02T18:33:27+00:00",
+      "title_th": "This Thing Runs On Android?"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "Smartphones Are Getting OUT of Control…",
+      "video_id": "8ULFcCPEBAM",
+      "link": "https://www.youtube.com/watch?v=8ULFcCPEBAM",
+      "thumbnail": "https://i1.ytimg.com/vi/8ULFcCPEBAM/hqdefault.jpg",
+      "published": "2026-10-28T14:44:56+00:00",
+      "title_th": "Smartphones Are Getting OUT of Control…"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "Anker จัดงานใหญ่ในไทย ดึง \"ซี-ทวินันท์\" เป็นพรีเซนเตอร์ Anker soundcore",
+      "video_id": "y3QoydsotNQ",
+      "link": "https://www.youtube.com/shorts/y3QoydsotNQ",
+      "thumbnail": "https://i2.ytimg.com/vi/y3QoydsotNQ/hqdefault.jpg",
+      "published": "2026-11-09T09:00:38+00:00",
+      "title_th": "Anker จัดงานใหญ่ในไทย ดึง \"ซี-ทวินันท์\" เป็นพรีเซนเตอร์ Anker soundcore"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "AI กำลังเปลี่ยนอนาคตการแพทย์ แล้วไทยพร้อมแค่ไหน?",
+      "video_id": "BMgzZTtRguY",
+      "link": "https://www.youtube.com/shorts/BMgzZTtRguY",
+      "thumbnail": "https://i3.ytimg.com/vi/BMgzZTtRguY/hqdefault.jpg",
+      "published": "2026-11-09T06:58:38+00:00",
+      "title_th": "AI กำลังเปลี่ยนอนาคตการแพทย์ แล้วไทยพร้อมแค่ไหน?"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "กรีดเลือดออกมาเป็นศิลปิน ?",
+      "video_id": "cWX6L73yqQI",
+      "link": "https://www.youtube.com/shorts/cWX6L73yqQI",
+      "thumbnail": "https://i4.ytimg.com/vi/cWX6L73yqQI/hqdefault.jpg",
+      "published": "2026-11-08T23:00:36+00:00",
+      "title_th": "กรีดเลือดออกมาเป็นศิลปิน ?"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "เทียบชิป 3 ค่าย บนมือถือเรือธง รุ่นไหนแรงสุด ? | vivo, OPPO, iPhone, Xiaomi",
+      "video_id": "dRZdss7ii2s",
+      "link": "https://www.youtube.com/watch?v=dRZdss7ii2s",
+      "thumbnail": "https://i1.ytimg.com/vi/dRZdss7ii2s/hqdefault.jpg",
+      "published": "2026-11-08T12:00:34+00:00",
+      "title_th": "เทียบชิป 3 ค่าย บนมือถือเรือธง รุ่นไหนแรงสุด ? | vivo, OPPO, iPhone, Xiaomi"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "ส่องดีไซน์ Galaxy S27 Ultra / xiaomi เช็คชื่อรุ่นได้ใช้ HyperOS4 / pegasus พุ่งเป้านักการเมืองไทย",
+      "video_id": "5tbat59H6cU",
+      "link": "https://www.youtube.com/watch?v=5tbat59H6cU",
+      "thumbnail": "https://i2.ytimg.com/vi/5tbat59H6cU/hqdefault.jpg",
+      "published": "2026-11-07T13:00:37+00:00",
+      "title_th": "ส่องดีไซน์ Galaxy S27 Ultra / xiaomi เช็คชื่อรุ่นได้ใช้ HyperOS4 / pegasus พุ่งเป้านักการเมืองไทย"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "Galaxy Z Fold8 อยู่ดี ๆ ก็น่าใช้ขึ้นมาเฉยเลย... #Samsung #Galaxy #ZFold8",
+      "video_id": "mdKBShCjzRI",
+      "link": "https://www.youtube.com/shorts/mdKBShCjzRI",
+      "thumbnail": "https://i2.ytimg.com/vi/mdKBShCjzRI/hqdefault.jpg",
+      "published": "2026-11-05T14:51:11+00:00",
+      "title_th": "Galaxy Z Fold8 อยู่ดี ๆ ก็น่าใช้ขึ้นมาเฉยเลย... #Samsung #Galaxy #ZFold8"
+    }
+  ]
 }
