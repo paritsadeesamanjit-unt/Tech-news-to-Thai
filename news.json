@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-09T23:56:19.082564+00:00",
+  "generated_at": "2026-11-10T05:10:57.022697+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Anthropic reportedly plans to move forward with IPO plans",
+      "summary_en": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Dario-Amodei.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "published": "Tue, 10 Nov 2026 01:27:12 +0000",
+      "title_th": "Anthropic reportedly plans to move forward with IPO plans",
+      "summary_th": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -51,16 +63,40 @@
       "summary_th": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-      "summary_en": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2279025960.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-      "published": "Mon, 09 Nov 2026 19:24:51 +0000",
-      "title_th": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-      "summary_th": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users."
+      "category": "software",
+      "title_en": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "summary_en": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2274329497.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+      "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "published": "2026-11-09T19:28:49-05:00",
+      "title_th": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "summary_th": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "What could China get from Jensen Huang?",
+      "summary_en": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "published": "2026-11-09T18:51:58-05:00",
+      "title_th": "What could China get from Jensen Huang?",
+      "summary_th": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Here’s what Trump said he knew about Jensen Huang",
+      "summary_en": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the company has opened an investigation into Huang. Recent articles from The New […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&strip=all&crop=0%2C12.22929670334%2C100%2C75.541406593319&w=1200",
+      "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "published": "2026-11-09T18:47:46-05:00",
+      "title_th": "Here’s what Trump said he knew about Jensen Huang",
+      "summary_th": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the company has opened an investigation into Huang. Recent articles from The New […]"
     },
     {
       "source": "The Verge",
@@ -85,42 +121,6 @@
       "published": "2026-11-09T16:13:16-05:00",
       "title_th": "The global pledge to use AI for climate good is a cruel joke",
       "summary_th": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer and our planet enough to give it a whirl - and hey, why not try a […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-      "summary_en": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/logicpro.jpg?quality=90&strip=all&crop=0%2C10.742998834307%2C100%2C78.514002331385&w=1200",
-      "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-      "published": "2026-11-09T14:09:58-05:00",
-      "title_th": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-      "summary_th": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-      "summary_en": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-      "published": "2026-11-09T14:00:00-05:00",
-      "title_th": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-      "summary_th": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Instagram’s Effect Builder makes new filters from AI prompts",
-      "summary_en": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-effect-builder-launch-2.jpeg?quality=90&strip=all&crop=0%2C10.193943950862%2C100%2C79.612112098277&w=1200",
-      "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-      "published": "2026-11-09T13:07:23-05:00",
-      "title_th": "Instagram’s Effect Builder makes new filters from AI prompts",
-      "summary_th": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style […]"
     },
     {
       "source": "Ars Technica",
@@ -186,6 +186,18 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
+      "title_en": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+      "summary_en": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+      "image": "https://media.wired.com/photos/6af20d5c5d3e4adc0dc34622/master/pass/What-Jensen-Huangs-Spy-Scandal-Means-For-AI-Industry-Business-2219673294.jpg",
+      "link": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+      "published": "Tue, 10 Nov 2026 00:18:19 +0000",
+      "title_th": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+      "summary_th": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
       "title_en": "Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work",
       "summary_en": "Last year, Waymo recalled its software after several of its autonomous cars drove around stopped buses. But the problems remained. Now the feds want to know more.",
       "image": "https://media.wired.com/photos/6af23b015b42cb1a21fe56e5/master/pass/Waymo-Said-It-Fixed-School-Bus-Problem-Gear-2220531171.jpg",
@@ -229,18 +241,6 @@
       "published": "Mon, 09 Nov 2026 12:00:00 +0000",
       "title_th": "New Hulu Doc ‘Get Huge’ Shows the Deadly Toll of Looksmaxxing",
       "summary_th": "The new Hulu docuseries Get Huge: Looksmaxxing to Death shines a light on the mysterious deaths and disappearances of a group of male influencers in Thailand—and the leader at the center of it all."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "The Midterms Were a Pretty Good Sign for the Right-to-Repair Movement",
-      "summary_en": "A shifting political landscape gives right-to-repair advocates their best shot yet at meaningful federal reform.",
-      "image": "https://media.wired.com/photos/6aedfe0f80b2626fa065567c/master/pass/GettyImages-2302892700.jpg",
-      "link": "https://www.wired.com/story/the-midterms-were-a-pretty-good-sign-for-right-to-repair/",
-      "published": "Mon, 09 Nov 2026 11:30:00 +0000",
-      "title_th": "The Midterms Were a Pretty Good Sign for the Right-to-Repair Movement",
-      "summary_th": "A shifting political landscape gives right-to-repair advocates their best shot yet at meaningful federal reform."
     },
     {
       "source": "MIT Technology Review",
@@ -306,6 +306,54 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "Every senior with an Apple Watch should set up these 5 health alerts",
+      "summary_en": "Seniors, especially those who live alone, could benefit from a number of Apple Watch health alerts, including medication reminders and fall detection.",
+      "image": "https://www.engadget.com/img/gallery/every-senior-with-an-apple-watch-should-set-up-these-5-health-alerts/l-intro-1793800673.jpg",
+      "link": "https://www.engadget.com/2307756/apple-watch-health-alerts-setup-seniors/",
+      "published": "Tue, 10 Nov 2026 01:30:00 +0000",
+      "title_th": "Every senior with an Apple Watch should set up these 5 health alerts",
+      "summary_th": "Seniors, especially those who live alone, could benefit from a number of Apple Watch health alerts, including medication reminders and fall detection."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "How to turn on personal results on your Google Home",
+      "summary_en": "Every member of the family can have their own assistant with personal results on Google Home. Find out how to set this feature up.",
+      "image": "https://www.engadget.com/img/gallery/how-to-turn-on-personal-results-on-your-google-home/l-intro-1793815000.jpg",
+      "link": "https://www.engadget.com/2307753/how-to-turn-on-personal-results-google-home/",
+      "published": "Tue, 10 Nov 2026 00:30:00 +0000",
+      "title_th": "How to turn on personal results on your Google Home",
+      "summary_th": "Every member of the family can have their own assistant with personal results on Google Home. Find out how to set this feature up."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "The safety reason TSA might ask you to turn on your phone",
+      "summary_en": "While traveling through the airport, TSA may ask you to power up your phone. Border agents can conduct a more thorough search as well.",
+      "image": "https://www.engadget.com/img/gallery/the-safety-reason-tsa-might-ask-you-to-turn-on-your-phone/l-intro-1793805495.jpg",
+      "link": "https://www.engadget.com/2307751/why-tsa-ask-turn-on-phone-safety-reason/",
+      "published": "Tue, 10 Nov 2026 00:00:00 +0000",
+      "title_th": "The safety reason TSA might ask you to turn on your phone",
+      "summary_th": "While traveling through the airport, TSA may ask you to power up your phone. Border agents can conduct a more thorough search as well."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Why you probably shouldn't buy gadgets with micro USB ports",
+      "summary_en": "USB-C has largely taken over where micro USB used to reign, but you'll still spot (and should skip using) some devices using the older connector.",
+      "image": "https://www.engadget.com/img/gallery/why-you-probably-shouldnt-buy-gadgets-with-micro-usb-ports/l-intro-1793654155.jpg",
+      "link": "https://www.engadget.com/2307748/why-avoid-buying-micro-usb-gadgets/",
+      "published": "Mon, 09 Nov 2026 23:30:00 +0000",
+      "title_th": "Why you probably shouldn't buy gadgets with micro USB ports",
+      "summary_th": "USB-C has largely taken over where micro USB used to reign, but you'll still spot (and should skip using) some devices using the older connector."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "YouTube will once again be part of Billboard chart calculations in 2027",
       "summary_en": "Billboard will give more weight to free, ad-supported listening in its methodology.",
       "image": "https://www.engadget.com/img/gallery/youtube-will-once-again-be-part-of-billboard-chart-calculations-in-2027/l-intro-1794258544.jpg",
@@ -313,54 +361,6 @@
       "published": "Mon, 09 Nov 2026 21:09:51 +0000",
       "title_th": "YouTube will once again be part of Billboard chart calculations in 2027",
       "summary_th": "Billboard will give more weight to free, ad-supported listening in its methodology."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "5 Nintendo Switch 2 features everyone should know about",
-      "summary_en": "From finding hidden controllers to sharing games with others, improve your gaming experience on the Nintendo Switch 2 with these useful features.",
-      "image": "https://www.engadget.com/img/gallery/5-nintendo-switch-2-features-everyone-should-know-about/l-intro-1793628827.jpg",
-      "link": "https://www.engadget.com/2307744/nintendo-switch-2-features-everyone-should-know/",
-      "published": "Mon, 09 Nov 2026 21:00:00 +0000",
-      "title_th": "5 Nintendo Switch 2 features everyone should know about",
-      "summary_th": "From finding hidden controllers to sharing games with others, improve your gaming experience on the Nintendo Switch 2 with these useful features."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Apple starts offering $50 extended usage packs for AI features in Creator Studio",
-      "summary_en": "It'll cost you to access Logic Pro's AI assistant after you reach the monthly usage limit.",
-      "image": "https://www.engadget.com/img/gallery/apple-starts-offering-50-extended-usage-packs-for-ai-features-in-creator-studio/l-intro-1794257746.jpg",
-      "link": "https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/",
-      "published": "Mon, 09 Nov 2026 20:56:51 +0000",
-      "title_th": "Apple starts offering $50 extended usage packs for AI features in Creator Studio",
-      "summary_th": "It'll cost you to access Logic Pro's AI assistant after you reach the monthly usage limit."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "How to use your iPhone to take the best picture of the Moon",
-      "summary_en": "We explain how to take the best photos of the Moon with your iPhone, regardless of which model.",
-      "image": "https://www.engadget.com/img/gallery/how-to-use-your-iphone-to-take-the-best-picture-of-the-moon/l-intro-1793619969.jpg",
-      "link": "https://www.engadget.com/2307830/how-to-use-iphone-take-best-picture-of-moon-guide/",
-      "published": "Mon, 09 Nov 2026 19:30:00 +0000",
-      "title_th": "How to use your iPhone to take the best picture of the Moon",
-      "summary_th": "We explain how to take the best photos of the Moon with your iPhone, regardless of which model."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Gmail users should know about this little-noticed feature",
-      "summary_en": "Gmail's unsend feature will delay it from dispatching your message. Here's how to extend the amount of time you have to use it.",
-      "image": "https://www.engadget.com/img/gallery/gmail-users-should-know-about-this-little-noticed-feature/l-intro-1793819117.jpg",
-      "link": "https://www.engadget.com/2307742/gmail-unsend-feature/",
-      "published": "Mon, 09 Nov 2026 19:00:00 +0000",
-      "title_th": "Gmail users should know about this little-noticed feature",
-      "summary_th": "Gmail's unsend feature will delay it from dispatching your message. Here's how to extend the amount of time you have to use it."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,30 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "Canadian court certifies class action against Apple over Google search deal",
+      "summary_en": "A British Columbia Supreme Court judge has certified a class action against Apple over allegations that its search agreement with Google stifled competition and inflated advertising prices. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/05/Apple-Google-partner-industry-specification-hero.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/09/canadian-court-certifies-class-action-against-apple-over-google-search-deal/",
+      "published": "Tue, 10 Nov 2026 02:20:07 +0000",
+      "title_th": "Canadian court certifies class action against Apple over Google search deal",
+      "summary_th": "A British Columbia Supreme Court judge has certified a class action against Apple over allegations that its search agreement with Google stifled competition and inflated advertising prices. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "9to5Mac Daily: November 9, 2026 – Apple software development, iOS 28",
+      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/09/daily-november-9-2026/",
+      "published": "Tue, 10 Nov 2026 00:49:31 +0000",
+      "title_th": "9to5Mac Daily: November 9, 2026 – Apple software development, iOS 28",
+      "summary_th": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Apple Intelligence completes regulatory registration for iPad and Mac in China",
       "summary_en": "Apple has completed an important regulatory step ahead of Apple Intelligence’s expected launch in China this December. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-macOS-27.jpg?quality=82&strip=all&resize=1200,628",
@@ -457,30 +481,6 @@
       "published": "Mon, 09 Nov 2026 21:30:57 +0000",
       "title_th": "Edgar Wright directs Apple’s hilarious new Apple Pay action ad",
       "summary_th": "Apple has once again turned to cinematic action to promote Apple Pay, in a new ad directed by Edgar Wright ( Baby Driver , Shaun of the Dead ). Watch the new ad below. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "How to customize or disable the touchscreen on the new MacBook Pro",
-      "summary_en": "A headlining feature of Apple’s new MacBook Pro with PROLED XDR Display is the long-awaited addition of a touchscreen. However, not everyone has been so thrilled about this addition. Here’s how you can turn it off. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Disable-MacBook-Touch-Display-FI.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/09/how-to-customize-or-disable-the-touchscreen-on-the-new-macbook-pro-and-sidecar/",
-      "published": "Mon, 09 Nov 2026 21:11:30 +0000",
-      "title_th": "How to customize or disable the touchscreen on the new MacBook Pro",
-      "summary_th": "A headlining feature of Apple’s new MacBook Pro with PROLED XDR Display is the long-awaited addition of a touchscreen. However, not everyone has been so thrilled about this addition. Here’s how you can turn it off. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Report: Apple saved over $5 billion in taxes through Singapore and Ireland in 2026",
-      "summary_en": "A new Financial Times report reveals how Apple saved billions in taxes in 2026 by shifting profits through Singapore and Ireland. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/06/apple-park@0.5x.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/09/report-apple-saved-over-5-billion-in-taxes-through-singapore-and-ireland-in-2026/",
-      "published": "Mon, 09 Nov 2026 20:47:38 +0000",
-      "title_th": "Report: Apple saved over $5 billion in taxes through Singapore and Ireland in 2026",
-      "summary_th": "A new Financial Times report reveals how Apple saved billions in taxes in 2026 by shifting profits through Singapore and Ireland. Here are the details. more…"
     },
     {
       "source": "9to5Google",
@@ -546,6 +546,30 @@
       "source": "Electrek",
       "flag": "",
       "category": "ev",
+      "title_en": "Humble Hauler autonomous trailer takes the truck out of trucking [update]",
+      "summary_en": "Less than a year after its founding, truckless trucking brand Humble Robotics has secured more than $75 million after a $51 million Series A funding round that will fuel the company’s transition from prototype to preproduction. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/05/Humble-1200_MAIN.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/11/09/humble-hauler-autonomous-trailer-takes-the-truck-out-of-trucking/",
+      "published": "Tue, 10 Nov 2026 01:05:00 +0000",
+      "title_th": "Humble Hauler autonomous trailer takes the truck out of trucking [update]",
+      "summary_th": "Less than a year after its founding, truckless trucking brand Humble Robotics has secured more than $75 million after a $51 million Series A funding round that will fuel the company’s transition from prototype to preproduction. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "PlugShare finally adds dark mode, and there’s more for EV drivers",
+      "summary_en": "PlugShare is giving its EV charging app a big overhaul. Version 8.0 arrives worldwide for iPhone on November 10, with dark mode, a trip planner that shows how far apart charging stops are, and a rebuilt Apple Watch app that can point you to a charger compatible with your EV. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/PlugShare_Card_iPad_4x3_0bbcd8.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/11/09/plugshare-finally-adds-dark-mode-and-theres-more-for-ev-drivers/",
+      "published": "Tue, 10 Nov 2026 00:37:02 +0000",
+      "title_th": "PlugShare finally adds dark mode, and there’s more for EV drivers",
+      "summary_th": "PlugShare is giving its EV charging app a big overhaul. Version 8.0 arrives worldwide for iPhone on November 10, with dark mode, a trip planner that shows how far apart charging stops are, and a rebuilt Apple Watch app that can point you to a charger compatible with your EV. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
       "title_en": "Yozma IN 10 Pro e-dirt bike hits exclusive new $1,614 low, Anker early Black Friday security sale $1,100 off, EcoFlow, more",
       "summary_en": "We’re kicking off week two of early Black Friday Green Deals with a jam-packed edition, led by Yozma’s official event that is offering up to $935 savings, including the deal for the popular IN 10 Pro Electric Dirt Bike with a FREE $150 bundle at an exclusive new $1,614 low . Right behind that is Anker’s massive eufy Black Friday Sale with up to $1,100 security savings, like the new bundle for the eufyCam S4 4K Triple-Lens Bullet-PTZ Solar Security Camera 4-Cam Kit with the latest HomeBase Professional S1 hub down at $1,200 , and more top picks starting from $120. We also have EcoFlow’s latest 48-hour flash sale with up to $549 savings starting from $899 , tool deals on Worx’s Nitro 40V cordless snow shovel, Greenworks’ 80V cordless pole saw, and much more down below. As always on a Monday,",
       "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Yozma-Anker-eufy-EcoFlow-Worx-Greenworks-GDs-FI.jpg?quality=82&strip=all&resize=1200,628",
@@ -577,30 +601,6 @@
       "published": "Mon, 09 Nov 2026 17:12:53 +0000",
       "title_th": "Ford’s EV batteries retain more than 90% health after 100,000 miles",
       "summary_th": "Your electric vehicle battery may last longer than you think. Ford says its EV batteries retain greater than 90% health on average after 100,000 miles. Here are a few tips to keep yours healthy. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Musk admits Tesla doesn’t have enough talent to build more than one car at a time after exodus",
-      "summary_en": "Elon Musk now says Tesla can’t build the Cybertruck and the Cybercab at the same time because there are only so many “smart, dedicated people” to go around. Half the executives he showed off in 2023 as proof of Tesla’s “bench strength” have since left the company. It’s the most honest explanation yet for how Tesla went from five consumer vehicle programs at the start of 2026 to a single platform, Model 3 and Model Y, by the middle of 2027. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/tesla-lineup-2024-crossed-out-question-marks.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/11/09/tesla-deep-bench-gone-musk-admits-talent-shortage/",
-      "published": "Mon, 09 Nov 2026 16:41:29 +0000",
-      "title_th": "Musk admits Tesla doesn’t have enough talent to build more than one car at a time after exodus",
-      "summary_th": "Elon Musk now says Tesla can’t build the Cybertruck and the Cybercab at the same time because there are only so many “smart, dedicated people” to go around. Half the executives he showed off in 2023 as proof of Tesla’s “bench strength” have since left the company. It’s the most honest explanation yet for how Tesla went from five consumer vehicle programs at the start of 2026 to a single platform, Model 3 and Model Y, by the middle of 2027. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "BYD is going all out on its ultra-luxury EV with coach doors and 1,000+ km of range [Images]",
-      "summary_en": "BYD unveiled the Yangwang Altior, its new ultra-luxury EV with coach doors, over 1,000 km of CTLC range, a 1,000V fast-charging platform, and plenty of premium extras. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-Yangwang-Altior-debut.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/11/09/byds-ultra-luxury-ev-coach-doors-1000-km-range/",
-      "published": "Mon, 09 Nov 2026 15:32:57 +0000",
-      "title_th": "BYD is going all out on its ultra-luxury EV with coach doors and 1,000+ km of range [Images]",
-      "summary_th": "BYD unveiled the Yangwang Altior, its new ultra-luxury EV with coach doors, over 1,000 km of CTLC range, a 1,000V fast-charging platform, and plenty of premium extras. more…"
     }
   ],
   "indices": [
@@ -664,10 +664,41 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 182.0,
-      "change": 5.0,
-      "change_pct": 2.82
+      "price": 193.5,
+      "change": 11.5,
+      "change_pct": 6.32
     }
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Meta VR Glasses: What Vision Pro 2 COULD Have Been!",
+      "video_id": "_x58r9TBois",
+      "link": "https://www.youtube.com/watch?v=_x58r9TBois",
+      "thumbnail": "https://i4.ytimg.com/vi/_x58r9TBois/hqdefault.jpg",
+      "published": "2026-11-06T21:29:30+00:00",
+      "title_th": "Meta VR Glasses: What Vision Pro 2 COULD Have Been!"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "OLED iPad Mini is The Most Apple Product They've Ever Appled",
+      "video_id": "g6Die8gVFn0",
+      "link": "https://www.youtube.com/watch?v=g6Die8gVFn0",
+      "thumbnail": "https://i4.ytimg.com/vi/g6Die8gVFn0/hqdefault.jpg",
+      "published": "2026-11-03T14:01:31+00:00",
+      "title_th": "OLED iPad Mini is The Most Apple Product They've Ever Appled"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Macbook PROLED XDR Impressions: They Said They Wouldn't!",
+      "video_id": "2reQut8WNGc",
+      "link": "https://www.youtube.com/watch?v=2reQut8WNGc",
+      "thumbnail": "https://i3.ytimg.com/vi/2reQut8WNGc/hqdefault.jpg",
+      "published": "2026-10-29T02:50:34+00:00",
+      "title_th": "Macbook PROLED XDR Impressions: They Said They Wouldn't!"
+    }
+  ]
 }
