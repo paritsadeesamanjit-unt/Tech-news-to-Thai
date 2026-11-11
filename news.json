@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T03:34:51.284742+00:00",
+  "generated_at": "2026-11-11T13:20:18.031166+00:00",
   "count": 50,
   "articles": [
     {
@@ -65,6 +65,30 @@
     {
       "source": "The Verge",
       "flag": "US",
+      "category": "gadget",
+      "title_en": "Serve Robotics wants to democratize sidewalk delivery robots",
+      "summary_en": "Serve Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Portal, enabling third-party software engineers, independent businesses, and even autonomous AI agents to access its fleet of 2,000 sidewalk robots. With this new capability, […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2231498899.jpg?quality=90&strip=all&crop=0%2C10.727816900681%2C100%2C78.544366198639&w=1200",
+      "link": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
+      "published": "2026-11-11T07:30:00-05:00",
+      "title_th": "Serve Robotics wants to democratize sidewalk delivery robots",
+      "summary_th": "Serve Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Portal, enabling third-party software engineers, independent businesses, and even autonomous AI agents to access its fleet of 2,000 sidewalk robots. With this new capability, […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Apple is killing its Support Community forum next week",
+      "summary_en": "It's the end of the road for the Apple Support Community. The dedicated discussion forum, which gave Apple users a place to exchange advice, troubleshoot, and generally chat about Apple products, has been placed into read-only mode, with a message from the company announcing that the Support Community will shut down for good on November […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Apple-Support-Community-forum.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+      "published": "2026-11-11T07:19:10-05:00",
+      "title_th": "Apple is killing its Support Community forum next week",
+      "summary_th": "It's the end of the road for the Apple Support Community. The dedicated discussion forum, which gave Apple users a place to exchange advice, troubleshoot, and generally chat about Apple products, has been placed into read-only mode, with a message from the company announcing that the Support Community will shut down for good on November […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
       "category": "software",
       "title_en": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
       "summary_en": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new features alongside this official release. In April, Microsoft started testing Auto SR […]",
@@ -97,30 +121,6 @@
       "published": "2026-11-10T16:40:31-05:00",
       "title_th": "Oura is acquiring medical AI chatbot startup Counsel Health",
       "summary_th": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to deliver AI-generated responses and insights based on users' health data reported from their […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Sony cancels live-service shooter Fairgames",
-      "summary_en": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some planned live service titles, including in the God of War and The Last of Us franchises, and it shut down […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK097_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
-      "published": "2026-11-10T16:06:12-05:00",
-      "title_th": "Sony cancels live-service shooter Fairgames",
-      "summary_th": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some planned live service titles, including in the God of War and The Last of Us franchises, and it shut down […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "The PlayStation Plus PC app is shutting down next month",
-      "summary_en": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, not many people are using that perk: With a very small number of eligible PlayStation Plus […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23426446/playstation_plus_logo_blog.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
-      "published": "2026-11-10T14:40:52-05:00",
-      "title_th": "The PlayStation Plus PC app is shutting down next month",
-      "summary_th": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, not many people are using that perk: With a very small number of eligible PlayStation Plus […]"
     },
     {
       "source": "Ars Technica",
@@ -185,62 +185,62 @@
     {
       "source": "Wired",
       "flag": "US",
-      "category": "ai",
-      "title_en": "Best Early Amazon Black Friday Deals (2026)",
-      "summary_en": "For die-hard Amazon shoppers, the retail giant starts Black Friday deals on November 19. But you can already stock up on early deals now.",
-      "image": "https://media.wired.com/photos/6af39cc2b435cf5927e355e7/master/pass/Amazon%E2%80%99s-Black-Friday-Sale-Starts-Next-Week,-but-Deals-Are-Already-Live.jpg",
-      "link": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
-      "published": "Tue, 10 Nov 2026 22:42:06 +0000",
-      "title_th": "Best Early Amazon Black Friday Deals (2026)",
-      "summary_th": "For die-hard Amazon shoppers, the retail giant starts Black Friday deals on November 19. But you can already stock up on early deals now."
+      "category": "gadget",
+      "title_en": "Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech",
+      "summary_en": "Metalenz just acquired PxE to ditch the 50-year-old color filter that has held back smartphone night photography.",
+      "image": "https://media.wired.com/photos/6ae9b7ae1f18bdac7b5ae8bf/master/pass/Samsung%20SOURCE%20Julian%20Chokkattu.jpg",
+      "link": "https://www.wired.com/story/your-smartphone-camera-could-get-a-big-upgrade-with-this-tech/",
+      "published": "Wed, 11 Nov 2026 12:00:00 +0000",
+      "title_th": "Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech",
+      "summary_th": "Metalenz just acquired PxE to ditch the 50-year-old color filter that has held back smartphone night photography."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "‘We Have to Take Over’: Far-Right Extremists Want to Seize Control of the GOP",
-      "summary_en": "MAGA failed because it didn’t go far enough, right-wing extremists say—and following devastating midterm losses, they see an opportunity to take over.",
-      "image": "https://media.wired.com/photos/6af27c52c8e55d123d396247/master/pass/White-Supremacists-Extremists-Finally-Get-Election-Results-Politics.jpg",
-      "link": "https://www.wired.com/story/we-have-to-take-over-far-right-extremists-want-to-seize-control-of-the-gop/",
-      "published": "Tue, 10 Nov 2026 16:40:19 +0000",
-      "title_th": "‘We Have to Take Over’: Far-Right Extremists Want to Seize Control of the GOP",
-      "summary_th": "MAGA failed because it didn’t go far enough, right-wing extremists say—and following devastating midterm losses, they see an opportunity to take over."
+      "title_en": "Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing",
+      "summary_en": "Amid rising electricity costs, Michiganders decisively voted for a ballot proposition to curtail the ability of utilities to spend on elections—a move utilities say limits their freedom of speech.",
+      "image": "https://media.wired.com/photos/6af3bec02dbfcb3b37437f4a/master/pass/science_michigan_utilities_money_politics2.jpg",
+      "link": "https://www.wired.com/story/michigan-voters-want-utility-money-out-of-politics-lawsuit/",
+      "published": "Wed, 11 Nov 2026 11:15:00 +0000",
+      "title_th": "Michigan Residents Voted to Get Corporate Money Out of Politics. Now Utilities Are Suing",
+      "summary_th": "Amid rising electricity costs, Michiganders decisively voted for a ballot proposition to curtail the ability of utilities to spend on elections—a move utilities say limits their freedom of speech."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "4DX Movies Are Entering Their Thirsty Romance Era",
-      "summary_en": "From Heated Rivalry to Wicker, the movie format that embraces thrusting chairs and splashing the crowd is catering to those who want a horny communal theatergoing experience.",
-      "image": "https://media.wired.com/photos/6af2567ae8695dca9334016b/master/pass/4DX-is-For-Horny-Girlies-Now-Culture.jpg",
-      "link": "https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/",
-      "published": "Tue, 10 Nov 2026 14:00:00 +0000",
-      "title_th": "4DX Movies Are Entering Their Thirsty Romance Era",
-      "summary_th": "From Heated Rivalry to Wicker, the movie format that embraces thrusting chairs and splashing the crowd is catering to those who want a horny communal theatergoing experience."
+      "title_en": "Best Air Purifiers (2026): Tested Picks for Every Room",
+      "summary_en": "Protect your home against dust, pets, allergens, and more with the best air purifiers, tested firsthand.",
+      "image": "https://media.wired.com/photos/6af3adacbfc3066f2c783dc5/master/pass/I-Filled-a-Tent-With-Smoke-to-Find-the-Best-Air-Purifiers.jpg",
+      "link": "https://www.wired.com/gallery/best-air-purifiers/",
+      "published": "Wed, 11 Nov 2026 11:02:00 +0000",
+      "title_th": "Best Air Purifiers (2026): Tested Picks for Every Room",
+      "summary_th": "Protect your home against dust, pets, allergens, and more with the best air purifiers, tested firsthand."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
+      "summary_en": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
+      "image": "https://media.wired.com/photos/6aee70f5276d9711716c9d02/master/pass/Gemini-AI-Coached-Teen-Suicide-Business.jpg",
+      "link": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+      "published": "Wed, 11 Nov 2026 11:00:00 +0000",
+      "title_th": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
+      "summary_th": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
-      "summary_en": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
-      "image": "https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/pass/gear_ai_operating_system_nerdy.jpg",
-      "link": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
-      "published": "Tue, 10 Nov 2026 14:00:00 +0000",
-      "title_th": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
-      "summary_th": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI",
-      "summary_en": "This $250 Drone Cam flies around your home to monitor threats. There’s also the Rover Cam for businesses, featuring the guts of Amazon’s former Astro robot.",
-      "image": "https://media.wired.com/photos/6af233321b32910f5c003593/master/pass/Ring-Drone-Cam-Gear-DSC_0211.jpg",
-      "link": "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/",
-      "published": "Tue, 10 Nov 2026 13:30:00 +0000",
-      "title_th": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI",
-      "summary_th": "This $250 Drone Cam flies around your home to monitor threats. There’s also the Rover Cam for businesses, featuring the guts of Amazon’s former Astro robot."
+      "title_en": "A New Benchmark for De-Aging Comes From Slowly Turning Back Cells’ Clocks",
+      "summary_en": "Researchers in Germany gradually reversed human cells’ ages by decades. By doing so, they could track the de-aging process in a way previous rejuvenation experiments could not.",
+      "image": "https://media.wired.com/photos/6ae0fe13b1846b1aa519246b/master/pass/leadimagesize.jpg",
+      "link": "https://www.wired.com/story/a-new-benchmark-for-de-aging-comes-from-slowly-turning-back-cells-clocks/",
+      "published": "Wed, 11 Nov 2026 10:30:00 +0000",
+      "title_th": "A New Benchmark for De-Aging Comes From Slowly Turning Back Cells’ Clocks",
+      "summary_th": "Researchers in Germany gradually reversed human cells’ ages by decades. By doing so, they could track the de-aging process in a way previous rejuvenation experiments could not."
     },
     {
       "source": "MIT Technology Review",
@@ -305,62 +305,62 @@
     {
       "source": "Engadget",
       "flag": "US",
-      "category": "gadget",
-      "title_en": "iFixit teardown shows how Apple's glowing PROLED MacBook logo works",
-      "summary_en": "The new laptop goes the extra mile to recreate the iconic feature.",
-      "image": "https://www.engadget.com/img/gallery/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/l-intro-1794354248.jpg",
-      "link": "https://www.engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works/",
-      "published": "Wed, 11 Nov 2026 00:03:54 +0000",
-      "title_th": "iFixit teardown shows how Apple's glowing PROLED MacBook logo works",
-      "summary_th": "The new laptop goes the extra mile to recreate the iconic feature."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "How to get this Siri camera upgrade for your iPad before its public release",
-      "summary_en": "You'll be able to access Visual Intelligence from a new tab in the tablet's Camera app.",
-      "image": "https://www.engadget.com/img/gallery/how-to-get-this-siri-camera-upgrade-for-your-ipad-before-its-public-release/l-intro-1794345704.jpg",
-      "link": "https://www.engadget.com/2312808/how-to-get-ipad-siri-camera-upgrade-early/",
-      "published": "Wed, 11 Nov 2026 00:00:00 +0000",
-      "title_th": "How to get this Siri camera upgrade for your iPad before its public release",
-      "summary_th": "You'll be able to access Visual Intelligence from a new tab in the tablet's Camera app."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
       "category": "chip",
-      "title_en": "NVIDIA shareholders are suing the company and CEO Jensen Huang",
-      "summary_en": "The company's shares have plummeted in response to the exec's affair with an alleged Chinese spy.",
-      "image": "https://www.engadget.com/img/gallery/nvidia-shareholders-are-suing-the-company-and-ceo-jensen-huang/l-intro-1794353889.jpg",
-      "link": "https://www.engadget.com/2312947/nvidia-shareholders-are-suing-the-company-and-ceo-jensen-huang/",
-      "published": "Tue, 10 Nov 2026 23:42:04 +0000",
-      "title_th": "NVIDIA shareholders are suing the company and CEO Jensen Huang",
-      "summary_th": "The company's shares have plummeted in response to the exec's affair with an alleged Chinese spy."
+      "title_en": "A Grok vibe-coding agent leaked sensitive SpaceXSI data",
+      "summary_en": "A flaw in SpaceXSI's Grok Build vibe-coding agent allowed sensitive data to leak from thousands of users including... SpaceXSI.",
+      "image": "https://www.engadget.com/img/gallery/a-grok-vibe-coding-agent-leaked-sensitive-spacexsi-data/l-intro-1794400413.jpg",
+      "link": "https://www.engadget.com/2313187/grok-build-leaked-sensitive-spacexsi-data/",
+      "published": "Wed, 11 Nov 2026 12:35:10 +0000",
+      "title_th": "A Grok vibe-coding agent leaked sensitive SpaceXSI data",
+      "summary_th": "A flaw in SpaceXSI's Grok Build vibe-coding agent allowed sensitive data to leak from thousands of users including... SpaceXSI."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "review",
-      "title_en": "How SCSKiller is trying to fix shader stuttering in PC games",
-      "summary_en": "This free app claims to defeat shader compilation in modern PC titles, but does it deliver? We tested it on games that are notorious for stuttering,",
-      "image": "https://www.engadget.com/img/gallery/how-scskiller-is-trying-to-fix-shader-stuttering-in-pc-games/l-intro-1793806351.jpg",
-      "link": "https://www.engadget.com/2307815/scskiller-fix-shader-stuttering-pc-games/",
-      "published": "Tue, 10 Nov 2026 23:30:00 +0000",
-      "title_th": "How SCSKiller is trying to fix shader stuttering in PC games",
-      "summary_th": "This free app claims to defeat shader compilation in modern PC titles, but does it deliver? We tested it on games that are notorious for stuttering,"
+      "title_en": "2027 Chevrolet Bolt Review: RIP to the GOAT of low-cost electric motoring",
+      "summary_en": "Like a budget-minded phoenix, the Bolt is back - but not for long.",
+      "image": "https://www.engadget.com/img/gallery/2027-chevrolet-bolt-review-rip-to-the-goat-of-low-cost-electric-motoring/l-intro-1794352074.jpg",
+      "link": "https://www.engadget.com/2312913/2027-chevrolet-bolt-review/",
+      "published": "Wed, 11 Nov 2026 12:00:00 +0000",
+      "title_th": "2027 Chevrolet Bolt Review: RIP to the GOAT of low-cost electric motoring",
+      "summary_th": "Like a budget-minded phoenix, the Bolt is back - but not for long."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "These Xiaomi phones are no longer getting support with the latest HyperOS 4 update",
-      "summary_en": "Xiaomi's HyperOS 4 update includes intriguing new features like Soft Light Glass, memory improvements and more, but the not everyone will get the perks.",
-      "image": "https://www.engadget.com/img/gallery/these-xiaomi-phones-are-no-longer-getting-support-with-octobers-hyperos-4-update/l-intro-1793733962.jpg",
-      "link": "https://www.engadget.com/2307810/xiaomi-phones-no-longer-supported-hyper-os-4-update/",
-      "published": "Tue, 10 Nov 2026 23:00:00 +0000",
-      "title_th": "These Xiaomi phones are no longer getting support with the latest HyperOS 4 update",
-      "summary_th": "Xiaomi's HyperOS 4 update includes intriguing new features like Soft Light Glass, memory improvements and more, but the not everyone will get the perks."
+      "title_en": "Apple is shutting down its online Support Community on November 20",
+      "summary_en": "Apple's Support Community is permanently closing in a few days.",
+      "image": "https://www.engadget.com/img/gallery/apple-is-shutting-down-its-online-support-community-on-november-20/l-intro-1794394269.jpg",
+      "link": "https://www.engadget.com/2313147/apple-shuts-down-support-community-forum/",
+      "published": "Wed, 11 Nov 2026 10:52:59 +0000",
+      "title_th": "Apple is shutting down its online Support Community on November 20",
+      "summary_th": "Apple's Support Community is permanently closing in a few days."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "ev",
+      "title_en": "Lucid CEO says the company didn't know where its own cars were",
+      "summary_en": "Tesla rival Lucid has an interesting excuse for its third quarter earnings underperformance.",
+      "image": "https://www.engadget.com/img/gallery/lucid-ceo-says-the-company-didnt-know-where-its-own-cars-were/l-intro-1794390872.jpg",
+      "link": "https://www.engadget.com/2313113/lucid-q3-2026-losing-cars/",
+      "published": "Wed, 11 Nov 2026 09:56:03 +0000",
+      "title_th": "Lucid CEO says the company didn't know where its own cars were",
+      "summary_th": "Tesla rival Lucid has an interesting excuse for its third quarter earnings underperformance."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Samsung Gallery now syncs with Google to back up your photos",
+      "summary_en": "You can now sync your photos and videos on select Samsung devices to your Google account.",
+      "image": "https://www.engadget.com/img/gallery/samsung-gallery-now-syncs-with-google-to-back-up-your-photos/l-intro-1794379370.jpg",
+      "link": "https://www.engadget.com/2313059/samsung-gallery-syncs-with-google/",
+      "published": "Wed, 11 Nov 2026 06:47:17 +0000",
+      "title_th": "Samsung Gallery now syncs with Google to back up your photos",
+      "summary_th": "You can now sync your photos and videos on select Samsung devices to your Google account."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,42 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "This video lets you actually see the ‘incredible’ new MacBook Pro cooling system",
+      "summary_en": "When Apple launched the new MacBook Pro with PROLED XDR display, the company said that it had completely redesigned the cooling system for “incredible sustained performance.” That could sound like marketing hype, but a YouTuber has found a great way to let us actually see the new system living up to Apple’s claims … more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/This-video-lets-you-actually-see-the-incredible-new-MacBook-Pro-cooling-system.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/11/this-video-lets-you-actually-see-the-incredible-new-macbook-pro-cooling-system/",
+      "published": "Wed, 11 Nov 2026 12:47:32 +0000",
+      "title_th": "This video lets you actually see the ‘incredible’ new MacBook Pro cooling system",
+      "summary_th": "When Apple launched the new MacBook Pro with PROLED XDR display, the company said that it had completely redesigned the cooling system for “incredible sustained performance.” That could sound like marketing hype, but a YouTuber has found a great way to let us actually see the new system living up to Apple’s claims … more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Early Black Friday deals now live on official Apple Magic accessories, AirTag 2, Pencil, more",
+      "summary_en": "Amazon’s early Black Friday sale is now live , and it includes a number of official Apple accessory deals starting this morning. Alongside some big-ticket deals on AirPods Pro 3 at $50 off , the $250 price drop on M5 MacBook Air , and Apple Watch Ultra 4 at nearly $100 off , there are some serious Apple add-on offers going live today. We have the return of all-time low pricing on AirTag 2 at $17.50 each , some rare discounts on the latest Magic Mouse in black and the classic white/silver livery, the ongoing low on its 2026 Magic Keyboard , and the lowest price around for the iPhone Duo-ready Apple Pencil USB-C. All of that joins as much as 40% off Apple’s iPhone 18 Pro case lineup (several models have hit new all-time lows as of this morning), and even more waiting down below. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Black-Friday-Apple-accessorry-deals.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/11/black-friday-deals-live-apple-magic-airtag-pencil/",
+      "published": "Wed, 11 Nov 2026 12:31:23 +0000",
+      "title_th": "Early Black Friday deals now live on official Apple Magic accessories, AirTag 2, Pencil, more",
+      "summary_th": "Amazon’s early Black Friday sale is now live , and it includes a number of official Apple accessory deals starting this morning. Alongside some big-ticket deals on AirPods Pro 3 at $50 off , the $250 price drop on M5 MacBook Air , and Apple Watch Ultra 4 at nearly $100 off , there are some serious Apple add-on offers going live today. We have the return of all-time low pricing on AirTag 2 at $17.50 each , some rare discounts on the latest Magic Mouse in black and the classic white/silver livery, the ongoing low on its 2026 Magic Keyboard , and the lowest price around for the iPhone Duo-ready Apple Pencil USB-C. All of that joins as much as 40% off Apple’s iPhone 18 Pro case lineup (several models have hit new all-time lows as of this morning), and even more waiting down below. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "review",
+      "title_en": "Reddit Reviews goes against the whole philosophy of the platform, say users",
+      "summary_en": "Many Redditors have expressed dismay at the launch of Reddit Reviews, a new AI-powered feature which aims to summarise posts about particular products. Reddit is positioning the feature as a way to save time and effort when researching a potential purchase, but many Redditors say that replacing human interaction with AI summaries is antithetical to the whole philosophy of the platform – and is going to make the existing spam problem massively worse … more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Reddit-Reviews-goes-against-the-whole-philosophy-of-the-platform-say-users.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/11/reddit-reviews-goes-against-the-whole-philosophy-of-the-platform-say-users/",
+      "published": "Wed, 11 Nov 2026 12:18:14 +0000",
+      "title_th": "Reddit Reviews goes against the whole philosophy of the platform, say users",
+      "summary_th": "Many Redditors have expressed dismay at the launch of Reddit Reviews, a new AI-powered feature which aims to summarise posts about particular products. Reddit is positioning the feature as a way to save time and effort when researching a potential purchase, but many Redditors say that replacing human interaction with AI summaries is antithetical to the whole philosophy of the platform – and is going to make the existing spam problem massively worse … more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "End of an era: Apple Support Community forums will permanently close on November 20",
       "summary_en": "Users visiting the Apple Support Community tonight were greeted with a message informing them that the platform will permanently shut down on November 20. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-support-forums.jpg?quality=82&strip=all&resize=1200,628",
@@ -447,40 +483,16 @@
       "summary_th": "Following last week’s livestream , when Labrinth composed and recorded a song overnight at Apple Tower Theatre in Los Angeles on the new touchscreen MacBook Pro , the single is now available on Apple Music. Here are the details. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "9to5Mac Daily: November 10, 2026 – iOS 27.2.1, HomeView rumors",
-      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/10/daily-november-10-2026/",
-      "published": "Wed, 11 Nov 2026 00:00:34 +0000",
-      "title_th": "9to5Mac Daily: November 10, 2026 – iOS 27.2.1, HomeView rumors",
-      "summary_th": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple confirms ongoing outage affecting iCloud and more [U]",
-      "summary_en": "Update, 5:18 p.m. PT: Apple says all outages have now been resolved. If you’re having problems accessing iCloud and other Apple services this evening, you’re not alone. Apple has confirmed an ongoing outage affecting iCloud, Find My, and more. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/10/apple-confirms-ongoing-outage-affecting-icloud-and-more/",
-      "published": "Tue, 10 Nov 2026 23:48:49 +0000",
-      "title_th": "Apple confirms ongoing outage affecting iCloud and more [U]",
-      "summary_th": "Update, 5:18 p.m. PT: Apple says all outages have now been resolved. If you’re having problems accessing iCloud and other Apple services this evening, you’re not alone. Apple has confirmed an ongoing outage affecting iCloud, Find My, and more. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "iFixit tears down touchscreen MacBook Pro, reveals light-up Apple logo details",
-      "summary_en": "iFixit published its teardown of the new MacBook Pro with PROLED XDR Display today, revealing interesting details about how Apple brought back its illuminated logo on the lid. Watch it below. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/ifixit-mbp-touch-teardown.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/10/ifixit-tears-down-touchscreen-macbook-pro-reveals-light-up-apple-logo-details/",
-      "published": "Tue, 10 Nov 2026 23:14:49 +0000",
-      "title_th": "iFixit tears down touchscreen MacBook Pro, reveals light-up Apple logo details",
-      "summary_th": "iFixit published its teardown of the new MacBook Pro with PROLED XDR Display today, revealing interesting details about how Apple brought back its illuminated logo on the lid. Watch it below. more…"
+      "title_en": "Even Realities glasses are coming to a job site near you",
+      "summary_en": "Even Realities is getting into the business world with its first Enterprise SDK, enabling companies to make their own glasses software",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/even-realities-g2-in-charging-case-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/11/11/even-realities-enterprise-sdk/",
+      "published": "Wed, 11 Nov 2026 11:03:00 +0000",
+      "title_th": "Even Realities glasses are coming to a job site near you",
+      "summary_th": "Even Realities is getting into the business world with its first Enterprise SDK, enabling companies to make their own glasses software"
     },
     {
       "source": "9to5Google",
@@ -531,16 +543,16 @@
       "summary_th": "Android 17 QPR2 is rolling out a month early with the November 2026 Feature Drop and security patch. The update is available for the Pixel 6a, 7, 7 Pro, 7a, Tablet, Fold, 8, 8 Pro, 8a, 9, 9 Pro, 9 Pro XL, 9 Pro Fold, 9a, 10, 10 Pro, 10 Pro XL, 10a, 11, 11 Pro, 11 Pro XL, and 11 Pro Fold. There are Pixel fixes across Apps, Audio, Battery & Charging, Bluetooth, Camera, Connectivity, Display & Graphics, Framework, Performance, Sensors, System, Telephony, and User Interface. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "No, the Pixel Tag is not available today",
-      "summary_en": "Our first impressions on Google’s new Pixel Tag are live, but orders are not. There appears to be some confusion running around the web, but the Pixel Tag is not available for purchase today. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-pixel-tag-7_5babc3.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/11/10/no-the-pixel-tag-is-not-available-today/",
-      "published": "Tue, 10 Nov 2026 20:00:00 +0000",
-      "title_th": "No, the Pixel Tag is not available today",
-      "summary_th": "Our first impressions on Google’s new Pixel Tag are live, but orders are not. There appears to be some confusion running around the web, but the Pixel Tag is not available for purchase today. more…"
+      "category": "ev",
+      "title_en": "It’s that time again – Honda needs to roll out an electric Super Cub",
+      "summary_en": "Every few years, I apparently feel compelled to remind Honda that it is sitting on what could be one of the easiest home runs in the electric motorcycle industry: just make an electric Super Cub already. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/honda-super-cub-header.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/11/11/its-that-time-again-honda-needs-to-roll-out-an-electric-super-cub/",
+      "published": "Wed, 11 Nov 2026 11:40:00 +0000",
+      "title_th": "It’s that time again – Honda needs to roll out an electric Super Cub",
+      "summary_th": "Every few years, I apparently feel compelled to remind Honda that it is sitting on what could be one of the easiest home runs in the electric motorcycle industry: just make an electric Super Cub already. more…"
     },
     {
       "source": "Electrek",
@@ -589,18 +601,6 @@
       "published": "Tue, 10 Nov 2026 20:45:45 +0000",
       "title_th": "Tesla Cybertruck had its best month in over a year. It’s still going away",
       "summary_th": "New EV prices edged up in October, but buyers still paid less than they did a year ago. The average transaction price for a new EV in the US was $56,220, up 1% from September and down 2.7% from October 2025, according to Kelley Blue Book, a Cox Automotive brand. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Watch BYD’s robotic charging arm plug itself in and charge EVs in 5 minutes [Video]",
-      "summary_en": "BYD’s Flash Charging tech can charge an EV in as little as five minutes. Now, BYD is taking things a step further with integrated solar power and a robotic arm that plugs itself in. See how it all works in action. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-robotic-EV-charging-arm.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/11/10/byds-robot-charger-plugs-itself-in-charges-evs-5-mins-video/",
-      "published": "Tue, 10 Nov 2026 20:43:51 +0000",
-      "title_th": "Watch BYD’s robotic charging arm plug itself in and charge EVs in 5 minutes [Video]",
-      "summary_th": "BYD’s Flash Charging tech can charge an EV in as little as five minutes. Now, BYD is taking things a step further with integrated solar power and a robotic arm that plugs itself in. See how it all works in action. more…"
     }
   ],
   "indices": [
@@ -664,10 +664,131 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 191.0,
-      "change": -2.0,
-      "change_pct": -1.04
+      "price": 194.5,
+      "change": 1.5,
+      "change_pct": 0.78
     }
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Meta VR Glasses: What Vision Pro 2 COULD Have Been!",
+      "video_id": "_x58r9TBois",
+      "link": "https://www.youtube.com/watch?v=_x58r9TBois",
+      "thumbnail": "https://i4.ytimg.com/vi/_x58r9TBois/hqdefault.jpg",
+      "published": "2026-11-06T21:29:30+00:00",
+      "title_th": "Meta VR Glasses: What Vision Pro 2 COULD Have Been!"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "OLED iPad Mini is The Most Apple Product They've Ever Appled",
+      "video_id": "g6Die8gVFn0",
+      "link": "https://www.youtube.com/watch?v=g6Die8gVFn0",
+      "thumbnail": "https://i4.ytimg.com/vi/g6Die8gVFn0/hqdefault.jpg",
+      "published": "2026-11-03T14:01:31+00:00",
+      "title_th": "OLED iPad Mini is The Most Apple Product They've Ever Appled"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Macbook PROLED XDR Impressions: They Said They Wouldn't!",
+      "video_id": "2reQut8WNGc",
+      "link": "https://www.youtube.com/watch?v=2reQut8WNGc",
+      "thumbnail": "https://i3.ytimg.com/vi/2reQut8WNGc/hqdefault.jpg",
+      "published": "2026-10-29T02:50:34+00:00",
+      "title_th": "Macbook PROLED XDR Impressions: They Said They Wouldn't!"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "The first folding phone vs now…",
+      "video_id": "IeqkzKGfMX0",
+      "link": "https://www.youtube.com/shorts/IeqkzKGfMX0",
+      "thumbnail": "https://i2.ytimg.com/vi/IeqkzKGfMX0/hqdefault.jpg",
+      "published": "2026-11-10T15:41:58+00:00",
+      "title_th": "The first folding phone vs now…"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "You need this new power brick…",
+      "video_id": "eP7lsIoSTMU",
+      "link": "https://www.youtube.com/shorts/eP7lsIoSTMU",
+      "thumbnail": "https://i2.ytimg.com/vi/eP7lsIoSTMU/hqdefault.jpg",
+      "published": "2026-11-04T17:46:18+00:00",
+      "title_th": "You need this new power brick…"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "This Thing Runs On Android?",
+      "video_id": "Qw6UAdGL14s",
+      "link": "https://www.youtube.com/watch?v=Qw6UAdGL14s",
+      "thumbnail": "https://i2.ytimg.com/vi/Qw6UAdGL14s/hqdefault.jpg",
+      "published": "2026-11-02T18:33:27+00:00",
+      "title_th": "This Thing Runs On Android?"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "Garnix Fenix 9 Pro ฟีเจอร์ใหม่ โหมดใหม่ เอาใจสาย HYROX",
+      "video_id": "rEiNB2Ii9T4",
+      "link": "https://www.youtube.com/shorts/rEiNB2Ii9T4",
+      "thumbnail": "https://i3.ytimg.com/vi/rEiNB2Ii9T4/hqdefault.jpg",
+      "published": "2026-11-11T07:10:19+00:00",
+      "title_th": "Garnix Fenix 9 Pro ฟีเจอร์ใหม่ โหมดใหม่ เอาใจสาย HYROX"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "ตามไฟ ไม่ตามกรอบ",
+      "video_id": "o5eHoV3e8bs",
+      "link": "https://www.youtube.com/shorts/o5eHoV3e8bs",
+      "thumbnail": "https://i4.ytimg.com/vi/o5eHoV3e8bs/hqdefault.jpg",
+      "published": "2026-11-10T23:00:30+00:00",
+      "title_th": "ตามไฟ ไม่ตามกรอบ"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "'ปักปากกา' ผอมสั่งได้ แต่ไม่ใช่สุขภาพดี | bt Life Series x HITAP",
+      "video_id": "eTM6ikTcSxk",
+      "link": "https://www.youtube.com/watch?v=eTM6ikTcSxk",
+      "thumbnail": "https://i2.ytimg.com/vi/eTM6ikTcSxk/hqdefault.jpg",
+      "published": "2026-11-10T01:00:23+00:00",
+      "title_th": "'ปักปากกา' ผอมสั่งได้ แต่ไม่ใช่สุขภาพดี | bt Life Series x HITAP"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "จอหลังมือถือ ใช้ทำอะไรได้? เจอใน Xiaomi 18 Pro Series เปิดตัว 18 พ.ย 2569 #Xiaomi18ProSeries #Xiaomi",
+      "video_id": "2iuLIDZOj8A",
+      "link": "https://www.youtube.com/shorts/2iuLIDZOj8A",
+      "thumbnail": "https://i3.ytimg.com/vi/2iuLIDZOj8A/hqdefault.jpg",
+      "published": "2026-11-10T13:05:07+00:00",
+      "title_th": "จอหลังมือถือ ใช้ทำอะไรได้? เจอใน Xiaomi 18 Pro Series เปิดตัว 18 พ.ย 2569 #Xiaomi18ProSeries #Xiaomi"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รีวิว OPPO Pad Mini แท็บเล็ตไซส์เล็กที่น่าใช้ตั้งแต่แรกเห็น",
+      "video_id": "YhseZYlLH58",
+      "link": "https://www.youtube.com/watch?v=YhseZYlLH58",
+      "thumbnail": "https://i2.ytimg.com/vi/YhseZYlLH58/hqdefault.jpg",
+      "published": "2026-11-10T13:00:22+00:00",
+      "title_th": "รีวิว OPPO Pad Mini แท็บเล็ตไซส์เล็กที่น่าใช้ตั้งแต่แรกเห็น"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รวมแท็บเล็ตจอเล็ก ไซส์มินิ งบเริ่มต้น 4,000 - 20,000 บาท | iPad, Samsung, OPPO, Xiaomi, HUAWEI",
+      "video_id": "tka6EZJRd80",
+      "link": "https://www.youtube.com/watch?v=tka6EZJRd80",
+      "thumbnail": "https://i1.ytimg.com/vi/tka6EZJRd80/hqdefault.jpg",
+      "published": "2026-11-10T11:00:32+00:00",
+      "title_th": "รวมแท็บเล็ตจอเล็ก ไซส์มินิ งบเริ่มต้น 4,000 - 20,000 บาท | iPad, Samsung, OPPO, Xiaomi, HUAWEI"
+    }
+  ]
 }
