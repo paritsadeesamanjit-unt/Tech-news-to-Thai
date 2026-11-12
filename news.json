@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-12T04:46:42.985909+00:00",
+  "generated_at": "2026-11-12T14:21:45.320039+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+      "summary_en": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-613254398.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+      "published": "Thu, 12 Nov 2026 13:26:25 +0000",
+      "title_th": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+      "summary_th": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -51,28 +63,40 @@
       "summary_th": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
-      "summary_en": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-10.05.34-AM.png?resize=1200,842",
-      "link": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
-      "published": "Wed, 11 Nov 2026 20:04:28 +0000",
-      "title_th": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
-      "summary_th": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible."
+      "category": "software",
+      "title_en": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+      "summary_en": "Nvidia's board has ousted Jensen Huang, its longtime co-founder, president, and CEO, after reports of two extramarital affairs - one with an alleged Chinese spy and one with an Nvidia executive who reported to Huang. A press release published Thursday morning announced Huang's resignation, effective immediately, as current CFO Colette Kress has been appointed interim […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301620664.jpg?quality=90&strip=all&crop=0%2C14.751764993408%2C100%2C70.496470013184&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-fired-nvidia",
+      "published": "2026-11-12T08:53:16-05:00",
+      "title_th": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+      "summary_th": "Nvidia's board has ousted Jensen Huang, its longtime co-founder, president, and CEO, after reports of two extramarital affairs - one with an alleged Chinese spy and one with an Nvidia executive who reported to Huang. A press release published Thursday morning announced Huang's resignation, effective immediately, as current CFO Colette Kress has been appointed interim […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
+      "summary_en": "When (or if) Ring's security camera drone flies into our homes in January, you won't get the option to pilot it yourself. The Ring Drone Cam relies entirely on an \"AI Pilot\" system to follow pre-programmed routes and navigate autonomously around obstacles, with no manual control option available - and an embarrassing demonstration with CBS […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC01040.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
+      "published": "2026-11-12T06:12:32-05:00",
+      "title_th": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
+      "summary_th": "When (or if) Ring's security camera drone flies into our homes in January, you won't get the option to pilot it yourself. The Ring Drone Cam relies entirely on an \"AI Pilot\" system to follow pre-programmed routes and navigate autonomously around obstacles, with no manual control option available - and an embarrassing demonstration with CBS […]"
     },
     {
       "source": "The Verge",
       "flag": "US",
       "category": "software",
       "title_en": "Nvidia is reportedly preparing to fire Jensen Huang",
-      "summary_en": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who […]",
+      "summary_en": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who […]",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824934/2192224191.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
       "published": "2026-11-11T17:44:36-05:00",
       "title_th": "Nvidia is reportedly preparing to fire Jensen Huang",
-      "summary_th": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who […]"
+      "summary_th": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who […]"
     },
     {
       "source": "The Verge",
@@ -97,30 +121,6 @@
       "published": "2026-11-11T16:54:21-05:00",
       "title_th": "United won’t let your AI agent book your flight",
       "summary_th": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Loot boxes, influencers, and addictive features face an EU crackdown",
-      "summary_en": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers into spending more of their time and money online, […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319789/STK450_EU_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-      "link": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
-      "published": "2026-11-11T13:13:52-05:00",
-      "title_th": "Loot boxes, influencers, and addictive features face an EU crackdown",
-      "summary_th": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers into spending more of their time and money online, […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-      "summary_en": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-      "published": "2026-11-11T11:00:00-05:00",
-      "title_th": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-      "summary_th": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing […]"
     },
     {
       "source": "Ars Technica",
@@ -185,62 +185,74 @@
     {
       "source": "Wired",
       "flag": "US",
+      "category": "ai",
+      "title_en": "Jensen Huang Resigns as Nvidia CEO",
+      "summary_en": "Nvidia’s cofounder and chief executive resigned on Thursday after the company opened an investigation into his affair with an alleged Chinese intelligence asset.",
+      "image": "https://media.wired.com/photos/65d7b086f26d21f1968601c6/master/pass/JensenHuang_BigInterview_Photo_RyanYoun_Inline.jpg",
+      "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
+      "published": "Thu, 12 Nov 2026 13:58:06 +0000",
+      "title_th": "Jensen Huang Resigns as Nvidia CEO",
+      "summary_th": "Nvidia’s cofounder and chief executive resigned on Thursday after the company opened an investigation into his affair with an alleged Chinese intelligence asset."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
       "category": "gadget",
-      "title_en": "The Best Early Black Friday MacBook Air Deal: $200 Off",
-      "summary_en": "The holiday is still two weeks out, but this MacBook Air discount may be the must-buy laptop deal of the season.",
-      "image": "https://media.wired.com/photos/6af51c9e7a2daea6b751d279/master/pass/Take-$200-Off-the-MacBook-Air-With-This-Early-Black-Friday-Deal.jpg",
-      "link": "https://www.wired.com/story/early-black-friday-macbook-air-deal/",
-      "published": "Thu, 12 Nov 2026 02:33:02 +0000",
-      "title_th": "The Best Early Black Friday MacBook Air Deal: $200 Off",
-      "summary_th": "The holiday is still two weeks out, but this MacBook Air discount may be the must-buy laptop deal of the season."
+      "title_en": "Exclusive: Fairphone Lands Its First US Carrier Partner in Boost Mobile",
+      "summary_en": "The sustainable phone maker is teaming up with its first US carrier to sell wireless plans alongside its fully repairable smartphone.",
+      "image": "https://media.wired.com/photos/6af47a78c0a9fcf888a7377a/master/pass/DSC_9316.jpg",
+      "link": "https://www.wired.com/story/exclusive-fairphone-lands-its-first-us-carrier-partner-in-boost-mobile/",
+      "published": "Thu, 12 Nov 2026 13:30:00 +0000",
+      "title_th": "Exclusive: Fairphone Lands Its First US Carrier Partner in Boost Mobile",
+      "summary_th": "The sustainable phone maker is teaming up with its first US carrier to sell wireless plans alongside its fully repairable smartphone."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Pete Hegseth Is About to Get His Ass Kicked",
-      "summary_en": "House Democrats are already planning to make their impeachment case against the defense secretary as airtight—and appealing to Republicans—as possible.",
-      "image": "https://media.wired.com/photos/6af4b41c996b256982d289fd/master/pass/politics_hegseth_impeach.jpg",
-      "link": "https://www.wired.com/story/pete-hegseth-is-about-to-get-his-ass-kicked/",
-      "published": "Wed, 11 Nov 2026 22:00:00 +0000",
-      "title_th": "Pete Hegseth Is About to Get His Ass Kicked",
-      "summary_th": "House Democrats are already planning to make their impeachment case against the defense secretary as airtight—and appealing to Republicans—as possible."
+      "title_en": "You Can Buy T-Shirts Glorifying Mass Shootings Almost Anywhere Online",
+      "summary_en": "A new report finds that a digital community obsessed with Columbine and similar attacks is promoting apparel modeled after clothing worn by the perpetrators.",
+      "image": "https://media.wired.com/photos/6af506e0a24d95692f3ed1c0/master/pass/Kids-Buying-Columbine-Merch-Culture.jpg",
+      "link": "https://www.wired.com/story/you-can-buy-t-shirts-glorifying-mass-shootings-almost-anywhere-online/",
+      "published": "Thu, 12 Nov 2026 11:30:00 +0000",
+      "title_th": "You Can Buy T-Shirts Glorifying Mass Shootings Almost Anywhere Online",
+      "summary_th": "A new report finds that a digital community obsessed with Columbine and similar attacks is promoting apparel modeled after clothing worn by the perpetrators."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
-      "summary_en": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
-      "image": "https://media.wired.com/photos/6af37240c46e83fb6f2598a7/master/pass/AI-Lab-I-Trained-Simulated-Microduck-to-Dance-and-Do-Other-Fun-Things-Business.jpg",
-      "link": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
-      "published": "Wed, 11 Nov 2026 19:55:54 +0000",
-      "title_th": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
-      "summary_th": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler."
+      "title_en": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
+      "summary_en": "The Palantir CEO touted his “progressive” worldview in a recent interview. Let’s see how that lines up with his comments during the company’s earnings call two weeks ago.",
+      "image": "https://media.wired.com/photos/6af4c862c4fc953ed4f6f19b/master/pass/Palantir-Progressive-Company-Business-2297745126.jpg",
+      "link": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
+      "published": "Thu, 12 Nov 2026 10:30:00 +0000",
+      "title_th": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
+      "summary_th": "The Palantir CEO touted his “progressive” worldview in a recent interview. Let’s see how that lines up with his comments during the company’s earnings call two weeks ago."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "A Startup Wants to Fight AI Bioweapons With AI",
-      "summary_en": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
-      "image": "https://media.wired.com/photos/6af2619c5a9cd51895c4c0be/master/pass/science_ai_fight_bioweapon.jpg",
-      "link": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
-      "published": "Wed, 11 Nov 2026 17:00:00 +0000",
-      "title_th": "A Startup Wants to Fight AI Bioweapons With AI",
-      "summary_th": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection."
+      "title_en": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
+      "summary_en": "The union representing flight attendants for the defunct airline struck a deal with Google to scrub sensitive employee records from a $10 million data sale.",
+      "image": "https://media.wired.com/photos/6af4b673c0570edc6c14ee5b/master/pass/GettyImages-1392875153.jpg",
+      "link": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
+      "published": "Thu, 12 Nov 2026 10:15:00 +0000",
+      "title_th": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
+      "summary_th": "The union representing flight attendants for the defunct airline struck a deal with Google to scrub sensitive employee records from a $10 million data sale."
     },
     {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
       "category": "ai",
-      "title_en": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
-      "summary_en": "“It has left a sour taste in my mouth,” says a Heated Rivalry fanfic author who found her work uploaded to AO3 mirror sites without her consent.",
-      "image": "https://media.wired.com/photos/6af3b082973df10f7a2af251/master/pass/culture_fanfic_authors_replace_ao3.jpg",
-      "link": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/",
-      "published": "Wed, 11 Nov 2026 16:13:03 +0000",
-      "title_th": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
-      "summary_th": "“It has left a sour taste in my mouth,” says a Heated Rivalry fanfic author who found her work uploaded to AO3 mirror sites without her consent."
+      "title_en": "The Download: COP31’s climate challenge and the quest for immortality",
+      "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks. But this year’s negotiations…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP26314112526132.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+      "published": "Thu, 12 Nov 2026 13:10:00 +0000",
+      "title_th": "The Download: COP31’s climate challenge and the quest for immortality",
+      "summary_th": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks. But this year’s negotiations…"
     },
     {
       "source": "MIT Technology Review",
@@ -291,16 +303,52 @@
       "summary_th": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familiar to metallurgists from generations ago. Processes have become larger and control systems…"
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "The backlash about data centers might really just be about electricity",
-      "summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP23200525499640.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-      "published": "Mon, 09 Nov 2026 19:35:33 +0000",
-      "title_th": "The backlash about data centers might really just be about electricity",
-      "summary_th": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where…"
+      "category": "chip",
+      "title_en": "The first batch of Android XR smartglasses made me rethink my stance on specs without displays",
+      "summary_en": "Google's first run of intelligent eyewear has a lot to offer.",
+      "image": "https://www.engadget.com/img/gallery/the-first-batch-of-android-xr-smartglasses-made-me-rethink-my-stance-on-specs-without-displays/l-intro-1794430561.jpg",
+      "link": "https://www.engadget.com/2314258/android-xr-smartglasses-hands-on/",
+      "published": "Thu, 12 Nov 2026 14:00:00 +0000",
+      "title_th": "The first batch of Android XR smartglasses made me rethink my stance on specs without displays",
+      "summary_th": "Google's first run of intelligent eyewear has a lot to offer."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "review",
+      "title_en": "Apple HomeView review: A versatile smart display and Siri-powered home hub",
+      "summary_en": "With its first smart display, Apple provides a lot of convenience for a variety of tasks in your home.",
+      "image": "https://www.engadget.com/img/gallery/apple-homeview-review-a-versatile-smart-display-and-siri-powered-home-hub/l-intro-1794423451.jpg",
+      "link": "https://www.engadget.com/2313999/apple-homeview-review/",
+      "published": "Thu, 12 Nov 2026 14:00:00 +0000",
+      "title_th": "Apple HomeView review: A versatile smart display and Siri-powered home hub",
+      "summary_th": "With its first smart display, Apple provides a lot of convenience for a variety of tasks in your home."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "review",
+      "title_en": "Apple TV 4K (4th gen) review: Still great, but drastically more expensive",
+      "summary_en": "The Apple TV 4K remains the best premium streaming box you can buy, but the higher price makes it harder to recommend.",
+      "image": "https://www.engadget.com/img/gallery/apple-tv-4k-4th-gen-review-still-great-but-drastically-more-expensive/l-intro-1794447707.jpg",
+      "link": "https://www.engadget.com/2314410/apple-tv-4k-4th-gen-review/",
+      "published": "Thu, 12 Nov 2026 14:00:00 +0000",
+      "title_th": "Apple TV 4K (4th gen) review: Still great, but drastically more expensive",
+      "summary_th": "The Apple TV 4K remains the best premium streaming box you can buy, but the higher price makes it harder to recommend."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Nintendo is ending Google and Apple sign-ins early next year",
+      "summary_en": "You'll soon no longer be able to use Google and Apple log-ins to access Nintendo.",
+      "image": "https://www.engadget.com/img/gallery/nintendo-is-ending-google-and-apple-sign-ins-early-next-year/l-intro-1794482262.jpg",
+      "link": "https://www.engadget.com/2314515/nintendo-is-ending-google-and-apple-sign-ins-early-next-year/",
+      "published": "Thu, 12 Nov 2026 11:19:46 +0000",
+      "title_th": "Nintendo is ending Google and Apple sign-ins early next year",
+      "summary_th": "You'll soon no longer be able to use Google and Apple log-ins to access Nintendo."
     },
     {
       "source": "Engadget",
@@ -313,54 +361,6 @@
       "published": "Wed, 11 Nov 2026 22:46:07 +0000",
       "title_th": "New York is forcing T-Mobile to stop putting data caps on low-income home internet plans",
       "summary_th": "The company was throttling speeds for plans offered under the Affordable Broadband Act."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "United is restricting AI agents from booking flights",
-      "summary_en": "The airline believes AI poses security risks and may violate DOT and FAA rules.",
-      "image": "https://www.engadget.com/img/gallery/united-is-restricting-ai-agents-from-booking-flights/l-intro-1794427706.jpg",
-      "link": "https://www.engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights/",
-      "published": "Wed, 11 Nov 2026 20:09:44 +0000",
-      "title_th": "United is restricting AI agents from booking flights",
-      "summary_th": "The airline believes AI poses security risks and may violate DOT and FAA rules."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Google brings the Gemini app to Apple CarPlay",
-      "summary_en": "The chatbot was already available through the Google Maps app.",
-      "image": "https://www.engadget.com/img/gallery/google-brings-the-gemini-app-to-apple-carplay/l-intro-1794426857.jpg",
-      "link": "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/",
-      "published": "Wed, 11 Nov 2026 19:54:55 +0000",
-      "title_th": "Google brings the Gemini app to Apple CarPlay",
-      "summary_th": "The chatbot was already available through the Google Maps app."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "ByteDance is reportedly working on its own AI agent",
-      "summary_en": "The Chinese company wants to compete with Meta's Muse.",
-      "image": "https://www.engadget.com/img/gallery/bytedance-is-reportedly-working-on-its-own-ai-agent/l-intro-1794426101.jpg",
-      "link": "https://www.engadget.com/2314064/bytedance-is-reportedly-working-on-its-own-ai-agent/",
-      "published": "Wed, 11 Nov 2026 19:42:19 +0000",
-      "title_th": "ByteDance is reportedly working on its own AI agent",
-      "summary_th": "The Chinese company wants to compete with Meta's Muse."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "How many SpaceX Starship rocket tests have failed?",
-      "summary_en": "Thanks to SpaceX's unique approach to testing, the answer isn't so clear-cut.",
-      "image": "https://www.engadget.com/img/gallery/how-many-spacex-starship-rocket-tests-have-failed/l-intro-1794424186.jpg",
-      "link": "https://www.engadget.com/2314045/how-many-spacex-starship-rocket-tests-failed/",
-      "published": "Wed, 11 Nov 2026 19:27:00 +0000",
-      "title_th": "How many SpaceX Starship rocket tests have failed?",
-      "summary_th": "Thanks to SpaceX's unique approach to testing, the answer isn't so clear-cut."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,61 +426,109 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "9to5Mac Daily: November 11, 2026 – New Apple TV feature, more",
-      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/11/daily-november-11-2026/",
-      "published": "Thu, 12 Nov 2026 04:01:11 +0000",
-      "title_th": "9to5Mac Daily: November 11, 2026 – New Apple TV feature, more",
-      "summary_th": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…"
+      "title_en": "Jensen Huang resigns as CEO of Nvidia",
+      "summary_en": "Jensen Huang has resigned as the CEO of Nvidia following recent reports of extramarital affairs, including one involving a woman suspected of spying for China. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/jensen-huang-nvidia.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/12/jensen-huang-resigns-as-ceo-of-nvidia/",
+      "published": "Thu, 12 Nov 2026 14:01:24 +0000",
+      "title_th": "Jensen Huang resigns as CEO of Nvidia",
+      "summary_th": "Jensen Huang has resigned as the CEO of Nvidia following recent reports of extramarital affairs, including one involving a woman suspected of spying for China. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "review",
+      "title_en": "Apple HomeView review: An adorable smart display that earns its place",
+      "summary_en": "Apple’s HomeView smart display is here. It combines a 7-inch display with Siri AI and an all-new software experience that actually feels really familiar. I’ve spent the last ten days living with HomeView in my kitchen. Here’s everything you need to know. Pre-order HomeView now (save $10) more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/homeview-09.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/12/apple-homeview-review-an-adorable-smart-display-that-earns-its-place/",
+      "published": "Thu, 12 Nov 2026 14:00:33 +0000",
+      "title_th": "Apple HomeView review: An adorable smart display that earns its place",
+      "summary_th": "Apple’s HomeView smart display is here. It combines a 7-inch display with Siri AI and an all-new software experience that actually feels really familiar. I’ve spent the last ten days living with HomeView in my kitchen. Here’s everything you need to know. Pre-order HomeView now (save $10) more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "review",
+      "title_en": "Apple TV 4K review: The best streamer comes at a cost",
+      "summary_en": "It’s been four years since Apple last updated the Apple TV 4K, but a new version is here. There’s Siri AI support, a faster chip, an improved remote, and more. Here’s everything that’s changed, what’s better, and whether the new Apple TV 4K justifies its new $299 price. Pre-order the new Apple TV 4K Pre-order the new Siri Remote more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-tv-4k-4th-gen-color-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/12/apple-tv-4k-review-the-best-streamer-comes-at-a-cost/",
+      "published": "Thu, 12 Nov 2026 14:00:13 +0000",
+      "title_th": "Apple TV 4K review: The best streamer comes at a cost",
+      "summary_th": "It’s been four years since Apple last updated the Apple TV 4K, but a new version is here. There’s Siri AI support, a faster chip, an improved remote, and more. Here’s everything that’s changed, what’s better, and whether the new Apple TV 4K justifies its new $299 price. Pre-order the new Apple TV 4K Pre-order the new Siri Remote more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "iPhone Duo one week later: The future, or not for me?",
-      "summary_en": "My iPhone Duo arrived last Thursday, so I’ve had a week to use it as my daily carry. My early experience has been mixed, so I keep asking myself an important question: is this the iPhone’s future and I just need to adapt, or is the Duo simply not for everyone? more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-23.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/11/iphone-duo-one-week-later-the-future-or-not-for-me/",
-      "published": "Wed, 11 Nov 2026 21:33:21 +0000",
-      "title_th": "iPhone Duo one week later: The future, or not for me?",
-      "summary_th": "My iPhone Duo arrived last Thursday, so I’ve had a week to use it as my daily carry. My early experience has been mixed, so I keep asking myself an important question: is this the iPhone’s future and I just need to adapt, or is the Duo simply not for everyone? more…"
+      "title_en": "Mount Thor raises $45 million to build Mac data centers for AI agents",
+      "summary_en": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . Mount Thor , a Bay Area startup building cloud infrastructure on Apple silicon, announced today that it has raised $45 million across Seed and Series A rounds. The pitch to its investors was simple: AI agents are incredible on Apple silicon, and nobody is renting them at data-center scale.",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/AI-Apple-2.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/12/mount-thor-raises-45-million-to-build-mac-data-centers-for-ai-agents/",
+      "published": "Thu, 12 Nov 2026 14:00:00 +0000",
+      "title_th": "Mount Thor raises $45 million to build Mac data centers for AI agents",
+      "summary_th": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . Mount Thor , a Bay Area startup building cloud infrastructure on Apple silicon, announced today that it has raised $45 million across Seed and Series A rounds. The pitch to its investors was simple: AI agents are incredible on Apple silicon, and nobody is renting them at data-center scale."
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "Binance warns iPhone crypto holders of security flaw researchers say remains unpatched",
-      "summary_en": "Crypto exchange Binance has warned iPhone users about an iOS vulnerability that could allow malicious apps to access sensitive data stored by other apps. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/11/binance-warns-iphone-crypto-holders-of-security-flaw-researchers-say-remains-unpatched/",
-      "published": "Wed, 11 Nov 2026 21:17:30 +0000",
-      "title_th": "Binance warns iPhone crypto holders of security flaw researchers say remains unpatched",
-      "summary_th": "Crypto exchange Binance has warned iPhone users about an iOS vulnerability that could allow malicious apps to access sensitive data stored by other apps. Here are the details. more…"
+      "title_en": "Apple adjusts iPhone and Apple Watch trade-in values, adds Samsung foldables",
+      "summary_en": "Apple has once again adjusted the trade-in values for some of its devices, while adding several Samsung foldables to the list. Here are the new values. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/iphone-7-plus-trade-in-value.png?resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/12/apple-adjusts-iphone-and-apple-watch-trade-in-values-adds-samsung-foldables/",
+      "published": "Thu, 12 Nov 2026 13:51:55 +0000",
+      "title_th": "Apple adjusts iPhone and Apple Watch trade-in values, adds Samsung foldables",
+      "summary_th": "Apple has once again adjusted the trade-in values for some of its devices, while adding several Samsung foldables to the list. Here are the new values. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Apple Invites app now lets hosts poll guests, plus new emoji effect added",
-      "summary_en": "Apple Invites, an iCloud+ feature, just added two new features in this month’s update. Invites is Apple’s digital event planning...",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-invites-app.webp?resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/11/apple-invites-app-now-lets-hosts-poll-guests-plus-new-emoji-effect-added/",
-      "published": "Wed, 11 Nov 2026 21:08:46 +0000",
-      "title_th": "Apple Invites app now lets hosts poll guests, plus new emoji effect added",
-      "summary_th": "Apple Invites, an iCloud+ feature, just added two new features in this month’s update. Invites is Apple’s digital event planning..."
+      "category": "review",
+      "title_en": "Hands-on: Google and Samsung’s vision for Android XR glasses is 20/20",
+      "summary_en": "While I acknowledge Meta’s role in bringing smart glasses to a mainstream audience, it has proven to be an irresponsible steward. Its “growth at all costs” mindset has actively poisoned people’s perception of the form factor. Under Meta’s watch, glasses have gained a creepy connotation before their utility has been fully realized. Google’s second take on smart glasses is the exact opposite of what Meta has done. Every single aspect has been considered, and the result is worthy of being most people’s introduction to the form factor. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/android-xr-intelligent-eyewear-warby-parker-22.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/11/12/google-glasses-hands-on/",
+      "published": "Thu, 12 Nov 2026 14:01:00 +0000",
+      "title_th": "Hands-on: Google and Samsung’s vision for Android XR glasses is 20/20",
+      "summary_th": "While I acknowledge Meta’s role in bringing smart glasses to a mainstream audience, it has proven to be an irresponsible steward. Its “growth at all costs” mindset has actively poisoned people’s perception of the form factor. Under Meta’s watch, glasses have gained a creepy connotation before their utility has been fully realized. Google’s second take on smart glasses is the exact opposite of what Meta has done. Every single aspect has been considered, and the result is worthy of being most people’s introduction to the form factor. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Apple reportedly met with Thai officials over spyware alerts sent to politicians",
-      "summary_en": "Bloomberg reports that Apple has met with Thai government officials in the wake of its recent wave of iPhone alerts about mercenary spyware attacks. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/mercenary-alert-2.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/11/apple-reportedly-met-with-thai-officials-over-spyware-alerts-sent-to-politicians/",
-      "published": "Wed, 11 Nov 2026 20:18:07 +0000",
-      "title_th": "Apple reportedly met with Thai officials over spyware alerts sent to politicians",
-      "summary_th": "Bloomberg reports that Apple has met with Thai government officials in the wake of its recent wave of iPhone alerts about mercenary spyware attacks. Here are the details. more…"
+      "title_en": "Google launches Intelligent Eyewear glasses: $395+, pre-order today, ships Dec. 10",
+      "summary_en": "After years of development, Google is launching its second foray into smart glasses with Intelligent Eyewear that supports Android and iOS. Pre-orders start today at Gentle Monster and Warby Parker, with the audio glasses shipping on December 10. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/android-xr-intelligent-eyewear-warby-parker-9.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/11/12/google-intelligent-eyewear-glasses/",
+      "published": "Thu, 12 Nov 2026 14:00:00 +0000",
+      "title_th": "Google launches Intelligent Eyewear glasses: $395+, pre-order today, ships Dec. 10",
+      "summary_th": "After years of development, Google is launching its second foray into smart glasses with Intelligent Eyewear that supports Android and iOS. Pre-orders start today at Gentle Monster and Warby Parker, with the audio glasses shipping on December 10. more…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Disney just launched 3D movies on the Meta Quest ahead of Meta VR Glasses’ release",
+      "summary_en": "All available 3D movies are included with your Disney+ subscription and come with extras you can only experience in VR. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/monsters-inc-scare-floor-meta-quest-3d.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/11/12/disney-just-launched-3d-movies-on-the-meta-quest-ahead-of-meta-vr-glasses-release/",
+      "published": "Thu, 12 Nov 2026 13:50:57 +0000",
+      "title_th": "Disney just launched 3D movies on the Meta Quest ahead of Meta VR Glasses’ release",
+      "summary_th": "All available 3D movies are included with your Disney+ subscription and come with extras you can only experience in VR. more…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "The iPhone Duo’s rocky launch is a reminder of how far Android foldables have come",
+      "summary_en": "Good morning. Today I’m finding open source alternatives to all of my apps , poring through Pitchfork’s list of the 100 best indie rock albums to find ones I haven’t listened to, and preparing my body for November 19th by pre-loading GTA VI (and replaying GTA IV in the meantime). Inbox is the tech newsletter that goes beyond the news cycle. We cover the most important 9to5Google stories from the last couple of days along with a few highlights from around the web. We publish every Tuesday and Thursday, and if you like what you read, please subscribe . more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/galaxy-z-fold-8-iphone-duo-4.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/11/12/the-iphone-duos-rocky-launch-is-a-reminder-of-how-far-android-foldables-have-come/",
+      "published": "Thu, 12 Nov 2026 12:00:00 +0000",
+      "title_th": "The iPhone Duo’s rocky launch is a reminder of how far Android foldables have come",
+      "summary_th": "Good morning. Today I’m finding open source alternatives to all of my apps , poring through Pitchfork’s list of the 100 best indie rock albums to find ones I haven’t listened to, and preparing my body for November 19th by pre-loading GTA VI (and replaying GTA IV in the meantime). Inbox is the tech newsletter that goes beyond the news cycle. We cover the most important 9to5Google stories from the last couple of days along with a few highlights from around the web. We publish every Tuesday and Thursday, and if you like what you read, please subscribe . more…"
     },
     {
       "source": "9to5Google",
@@ -495,52 +543,28 @@
       "summary_th": "For every Android-powered slate I’ve used, only Nvidia’s Shield Tablet really stands out in my memory. Part of the company’s occasional ( and all-but-dead ) dip into hardware products, the Shield Tablet — and its revitalized K1 follow-up, which I also owned through a recall program on the original — carried me through the back half of college, frequently keeping my Chromebook in my backpack in lieu of a mini Bluetooth keyboard or the Shield Tablet’s built-in stylus. Its front-firing speakers made it great for movie-watching, and while I’m not much of a mobile gamer, I did find it to be a great device for emulation, especially when paired with an external controller. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Google Home update fixes Nest ‘Live View’ issues, improves Nest Hub and Gemini for speakers",
-      "summary_en": "A new Google Home update is rolling out with a fix for “Live View” issues affecting Nest Cam devices, improvements for the Nest Hub, upgrades for Gemini, and more. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/04/Voice-controls-from-Nest-Hub-Photo-frame-view.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/11/11/google-home-update-nest-hub-gemini-cameras/",
-      "published": "Wed, 11 Nov 2026 19:30:00 +0000",
-      "title_th": "Google Home update fixes Nest ‘Live View’ issues, improves Nest Hub and Gemini for speakers",
-      "summary_th": "A new Google Home update is rolling out with a fix for “Live View” issues affecting Nest Cam devices, improvements for the Nest Hub, upgrades for Gemini, and more. more…"
+      "category": "ev",
+      "title_en": "Latest Canadian budget packs funding for 55,000 new EV chargers",
+      "summary_en": "Canada’s government wants to make it easier for citizens to drive electric, and they’re putting more than $4 billion in funding for electricity infrastructure and grid modernization that includes more than 55,000 new EV chargers. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/bchydro_main.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/11/12/latest-canadian-budget-packs-funding-for-55000-new-ev-chargers/",
+      "published": "Thu, 12 Nov 2026 12:53:50 +0000",
+      "title_th": "Latest Canadian budget packs funding for 55,000 new EV chargers",
+      "summary_th": "Canada’s government wants to make it easier for citizens to drive electric, and they’re putting more than $4 billion in funding for electricity infrastructure and grid modernization that includes more than 55,000 new EV chargers. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Google Wallet rolling out digital Google Home keys with supported locks on Android",
-      "summary_en": "Google Wallet for Android is rolling out support for digital home keys if you have a compatible smart lock in Google Home. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Wallet-Home-key.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/11/11/google-wallet-home-key/",
-      "published": "Wed, 11 Nov 2026 18:58:06 +0000",
-      "title_th": "Google Wallet rolling out digital Google Home keys with supported locks on Android",
-      "summary_th": "Google Wallet for Android is rolling out support for digital home keys if you have a compatible smart lock in Google Home. more…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Mid-week Android app deals and freebies: Wind Peaks, Box Head, 9th Dawn, more",
-      "summary_en": "Alongside Amazon’s early Black Friday sale , we still have an all-time low on the Google Home Speaker , the official launch of Google Pixel Tag Find Hub tracker (now available for purchase), and a fresh batch of the best Google Play app and game deals. Highlights include WINCH IT OUT, 9th Dawn Remake RPG, 9th Dawn III RPG, Box Head: Roguelike Premium, Wind Peaks, and more. Be sure to check out these new Googlebook models for as low as $680 and the Pixel Watch 5 Black Friday price now live at $100 off . The apps await below. more…",
-      "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/11/Google-Play-collage-fd7ec6.webp?resize=1200,628",
-      "link": "https://9to5toys.com/2026/11/11/todays-highlight-google-play-deals-47/",
-      "published": "Wed, 11 Nov 2026 18:55:25 +0000",
-      "title_th": "Mid-week Android app deals and freebies: Wind Peaks, Box Head, 9th Dawn, more",
-      "summary_th": "Alongside Amazon’s early Black Friday sale , we still have an all-time low on the Google Home Speaker , the official launch of Google Pixel Tag Find Hub tracker (now available for purchase), and a fresh batch of the best Google Play app and game deals. Highlights include WINCH IT OUT, 9th Dawn Remake RPG, 9th Dawn III RPG, Box Head: Roguelike Premium, Wind Peaks, and more. Be sure to check out these new Googlebook models for as low as $680 and the Pixel Watch 5 Black Friday price now live at $100 off . The apps await below. more…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Google Voice appears to finally be working on RCS support",
-      "summary_en": "It might finally be happening. A new Google Voice update plants seeds of RCS support, though the exact details remain unclear. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-voice-1.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/11/11/google-voice-rcs-support-teardown/",
-      "published": "Wed, 11 Nov 2026 18:30:00 +0000",
-      "title_th": "Google Voice appears to finally be working on RCS support",
-      "summary_th": "It might finally be happening. A new Google Voice update plants seeds of RCS support, though the exact details remain unclear. more…"
+      "category": "review",
+      "title_en": "Honda’s $2,000 electric moped is a winner. So why can’t Americans buy it?",
+      "summary_en": "Honda has been steadily expanding its electric motorcycle lineup , but one of its most interesting new models isn’t a flashy high-performance machine. It’s a modest little electric scooter called the Honda UC3, and with prices now dipping close to $2,000 in local markets, it’s the kind of affordable electric two-wheeler that many Americans would probably love to get their hands on. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/01/honda-uc3-head.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/11/12/hondas-2000-electric-moped-is-a-winner-so-why-cant-americans-buy-it/",
+      "published": "Thu, 12 Nov 2026 12:28:02 +0000",
+      "title_th": "Honda’s $2,000 electric moped is a winner. So why can’t Americans buy it?",
+      "summary_th": "Honda has been steadily expanding its electric motorcycle lineup , but one of its most interesting new models isn’t a flashy high-performance machine. It’s a modest little electric scooter called the Honda UC3, and with prices now dipping close to $2,000 in local markets, it’s the kind of affordable electric two-wheeler that many Americans would probably love to get their hands on. more…"
     },
     {
       "source": "Electrek",
@@ -577,30 +601,6 @@
       "published": "Wed, 11 Nov 2026 19:00:00 +0000",
       "title_th": "Segway MUXI cargo e-bike $200 off in expanded Black Friday sale + Navimow robot deals, Anker eufy S340 4-cam kit $580, more",
       "summary_th": "Our midweek Green Deals edition is being led by Segway. The brand just expanded its EV Early Black Friday deal lineup for members, which includes the first discount on the 2026 MUXI Cargo Smart e-bike , while its Navimow Early Black Friday lineup has offers like the i215 LiDAR Robot Lawn Mower down at $1,399 , with other deals starting from $899. We also spotted a one-day-only chance to pick up Anker’s eufy SoloCam S340 Solar Security 4-Cam Kit with HomeBase 3 down at $580 (as well as an option to upgrade to 1TB of storage), the Aventon Aventure M Mid-Drive All-Terrain Smart e-bike with a foldable lock at $2,699 , some Worx deals on a 2-in-1 cordless chain/polesaw and the Cube portable vaccum, and more. There’s also the deals from the last two days at the bottom of the page below our best "
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "BYD’s full-size luxury SUV has a wheel problem, and it’s fixing it for free",
-      "summary_en": "BYD is apologizing after a supplier error left some owners of its new full-size flagship SUV with the wrong wheels. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-flagship-SUV-wheel.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/11/11/byds-flagship-suv-wheel-problem-fixing-for-free/",
-      "published": "Wed, 11 Nov 2026 18:58:08 +0000",
-      "title_th": "BYD’s full-size luxury SUV has a wheel problem, and it’s fixing it for free",
-      "summary_th": "BYD is apologizing after a supplier error left some owners of its new full-size flagship SUV with the wrong wheels. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Tesla extends Cybertruck production to late summer 2027 amid fan backlash",
-      "summary_en": "Elon Musk now says Tesla will keep building the Cybertruck “through the end of summer 2027” to “work through more of the Cybertruck order backlog.” That buys the electric pickup roughly two to three more months, five days after Tesla first announced it was killing it. The reprieve lands as a growing number of Tesla’s own fans push back on the decision, and on what it says about Tesla’s future as a company that sells cars to people. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Cybertruck_34-e1793032990825.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/11/11/tesla-extends-cybertruck-production-summer-2027-fan-backlash/",
-      "published": "Wed, 11 Nov 2026 18:24:50 +0000",
-      "title_th": "Tesla extends Cybertruck production to late summer 2027 amid fan backlash",
-      "summary_th": "Elon Musk now says Tesla will keep building the Cybertruck “through the end of summer 2027” to “work through more of the Cybertruck order backlog.” That buys the electric pickup roughly two to three more months, five days after Tesla first announced it was killing it. The reprieve lands as a growing number of Tesla’s own fans push back on the decision, and on what it says about Tesla’s future as a company that sells cars to people. more…"
     }
   ],
   "indices": [
@@ -664,10 +664,131 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 193.0,
-      "change": -1.5,
-      "change_pct": -0.77
+      "price": 190.0,
+      "change": -4.5,
+      "change_pct": -2.31
     }
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Macbook PROLED Review: It's Not About That",
+      "video_id": "hdMszZ2ah5Q",
+      "link": "https://www.youtube.com/watch?v=hdMszZ2ah5Q",
+      "thumbnail": "https://i1.ytimg.com/vi/hdMszZ2ah5Q/hqdefault.jpg",
+      "published": "2026-11-11T18:43:56+00:00",
+      "title_th": "Macbook PROLED Review: It's Not About That"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "Meta VR Glasses: What Vision Pro 2 COULD Have Been!",
+      "video_id": "_x58r9TBois",
+      "link": "https://www.youtube.com/watch?v=_x58r9TBois",
+      "thumbnail": "https://i4.ytimg.com/vi/_x58r9TBois/hqdefault.jpg",
+      "published": "2026-11-06T21:29:30+00:00",
+      "title_th": "Meta VR Glasses: What Vision Pro 2 COULD Have Been!"
+    },
+    {
+      "channel": "MKBHD",
+      "country": "US",
+      "title_en": "OLED iPad Mini is The Most Apple Product They've Ever Appled",
+      "video_id": "g6Die8gVFn0",
+      "link": "https://www.youtube.com/watch?v=g6Die8gVFn0",
+      "thumbnail": "https://i4.ytimg.com/vi/g6Die8gVFn0/hqdefault.jpg",
+      "published": "2026-11-03T14:01:31+00:00",
+      "title_th": "OLED iPad Mini is The Most Apple Product They've Ever Appled"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "The first folding phone vs now…",
+      "video_id": "IeqkzKGfMX0",
+      "link": "https://www.youtube.com/shorts/IeqkzKGfMX0",
+      "thumbnail": "https://i2.ytimg.com/vi/IeqkzKGfMX0/hqdefault.jpg",
+      "published": "2026-11-10T15:41:58+00:00",
+      "title_th": "The first folding phone vs now…"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "You need this new power brick…",
+      "video_id": "eP7lsIoSTMU",
+      "link": "https://www.youtube.com/shorts/eP7lsIoSTMU",
+      "thumbnail": "https://i2.ytimg.com/vi/eP7lsIoSTMU/hqdefault.jpg",
+      "published": "2026-11-04T17:46:18+00:00",
+      "title_th": "You need this new power brick…"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "This Thing Runs On Android?",
+      "video_id": "Qw6UAdGL14s",
+      "link": "https://www.youtube.com/watch?v=Qw6UAdGL14s",
+      "thumbnail": "https://i2.ytimg.com/vi/Qw6UAdGL14s/hqdefault.jpg",
+      "published": "2026-11-02T18:33:27+00:00",
+      "title_th": "This Thing Runs On Android?"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "3 แอปใน #iPhoneDuo ที่น่าใช้",
+      "video_id": "DlKFP84zG_0",
+      "link": "https://www.youtube.com/shorts/DlKFP84zG_0",
+      "thumbnail": "https://i1.ytimg.com/vi/DlKFP84zG_0/hqdefault.jpg",
+      "published": "2026-11-12T02:34:29+00:00",
+      "title_th": "3 แอปใน #iPhoneDuo ที่น่าใช้"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "เชื้อดื้อยาฆ่าได้ไหม ?",
+      "video_id": "Q2i0-QVRXkk",
+      "link": "https://www.youtube.com/shorts/Q2i0-QVRXkk",
+      "thumbnail": "https://i2.ytimg.com/vi/Q2i0-QVRXkk/hqdefault.jpg",
+      "published": "2026-11-11T23:00:28+00:00",
+      "title_th": "เชื้อดื้อยาฆ่าได้ไหม ?"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "Garnix Fenix 9 Pro ฟีเจอร์ใหม่ โหมดใหม่ เอาใจสาย HYROX",
+      "video_id": "rEiNB2Ii9T4",
+      "link": "https://www.youtube.com/shorts/rEiNB2Ii9T4",
+      "thumbnail": "https://i3.ytimg.com/vi/rEiNB2Ii9T4/hqdefault.jpg",
+      "published": "2026-11-11T07:10:19+00:00",
+      "title_th": "Garnix Fenix 9 Pro ฟีเจอร์ใหม่ โหมดใหม่ เอาใจสาย HYROX"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "จอหลังมือถือ ใช้ทำอะไรได้? เจอใน Xiaomi 18 Pro Series เปิดตัว 18 พ.ย 2569 #Xiaomi18ProSeries #Xiaomi",
+      "video_id": "2iuLIDZOj8A",
+      "link": "https://www.youtube.com/shorts/2iuLIDZOj8A",
+      "thumbnail": "https://i3.ytimg.com/vi/2iuLIDZOj8A/hqdefault.jpg",
+      "published": "2026-11-10T13:05:07+00:00",
+      "title_th": "จอหลังมือถือ ใช้ทำอะไรได้? เจอใน Xiaomi 18 Pro Series เปิดตัว 18 พ.ย 2569 #Xiaomi18ProSeries #Xiaomi"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รีวิว OPPO Pad Mini แท็บเล็ตไซส์เล็กที่น่าใช้ตั้งแต่แรกเห็น",
+      "video_id": "YhseZYlLH58",
+      "link": "https://www.youtube.com/watch?v=YhseZYlLH58",
+      "thumbnail": "https://i2.ytimg.com/vi/YhseZYlLH58/hqdefault.jpg",
+      "published": "2026-11-10T13:00:22+00:00",
+      "title_th": "รีวิว OPPO Pad Mini แท็บเล็ตไซส์เล็กที่น่าใช้ตั้งแต่แรกเห็น"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รวมแท็บเล็ตจอเล็ก ไซส์มินิ งบเริ่มต้น 4,000 - 20,000 บาท | iPad, Samsung, OPPO, Xiaomi, HUAWEI",
+      "video_id": "tka6EZJRd80",
+      "link": "https://www.youtube.com/watch?v=tka6EZJRd80",
+      "thumbnail": "https://i1.ytimg.com/vi/tka6EZJRd80/hqdefault.jpg",
+      "published": "2026-11-10T11:00:32+00:00",
+      "title_th": "รวมแท็บเล็ตจอเล็ก ไซส์มินิ งบเริ่มต้น 4,000 - 20,000 บาท | iPad, Samsung, OPPO, Xiaomi, HUAWEI"
+    }
+  ]
 }
