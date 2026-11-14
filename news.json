@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-13T21:22:05.935864+00:00",
+  "generated_at": "2026-11-14T03:59:56.587329+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "summary_en": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3403.jpg?resize=1200,925",
+      "link": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+      "published": "Fri, 13 Nov 2026 23:00:00 +0000",
+      "title_th": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "summary_th": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "summary_en": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "published": "Fri, 13 Nov 2026 22:43:00 +0000",
+      "title_th": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "summary_th": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+      "summary_en": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/alaska-airlines-san-francisco-Getty.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+      "published": "Fri, 13 Nov 2026 21:44:38 +0000",
+      "title_th": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+      "summary_th": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -27,40 +63,28 @@
       "summary_th": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
-      "summary_en": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301327883.jpg?resize=1200,795",
-      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "published": "Fri, 13 Nov 2026 18:40:30 +0000",
-      "title_th": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
-      "summary_th": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
+      "category": "software",
+      "title_en": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+      "summary_en": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a temporary telecommunications outage […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304493507.jpg?quality=90&strip=all&crop=0%2C10.654918655606%2C100%2C78.690162688789&w=1200",
+      "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "published": "2026-11-13T20:53:04-05:00",
+      "title_th": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+      "summary_th": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a temporary telecommunications outage […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "summary_en": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/chatgpt-wallet.jpg?resize=1200,729",
-      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "published": "Fri, 13 Nov 2026 16:00:12 +0000",
-      "title_th": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "summary_th": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "The unfolding Jensen Huang scandal: a timeline",
-      "summary_en": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "published": "Fri, 13 Nov 2026 15:58:00 +0000",
-      "title_th": "The unfolding Jensen Huang scandal: a timeline",
-      "summary_th": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+      "category": "software",
+      "title_en": "Amazon has a plan to index the world’s online shopping data",
+      "summary_en": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "published": "2026-11-13T18:49:11-05:00",
+      "title_th": "Amazon has a plan to index the world’s online shopping data",
+      "summary_th": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their […]"
     },
     {
       "source": "The Verge",
@@ -97,30 +121,6 @@
       "published": "2026-11-13T14:14:38-05:00",
       "title_th": "Here’s how you can save on your GTA VI preorder ahead of launch",
       "summary_th": "The long-awaited launch of GTA VI is around the corner, happening next Friday, November 19th. While discounts on the game itself will be rare for some time, there’s a clever workaround to save you a few bucks on your digital copy. We found discounts on gift cards for both Sony PlayStation and Microsoft Xbox Series […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
-      "summary_en": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like other trackball mice already available from companies like Logitech and Kensington with a 34mm ball positioned […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/keychron1.jpg?quality=90&strip=all&crop=0,10.696524668582,100,78.606950662836",
-      "link": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
-      "published": "2026-11-13T13:10:41-05:00",
-      "title_th": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
-      "summary_th": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like other trackball mice already available from companies like Logitech and Kensington with a 34mm ball positioned […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Jensen Huang was reckless with the environment, too",
-      "summary_en": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power grids from inside massive data centers, and set the stage for a looming e-waste problem. Under Huang's […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301295182.jpg?quality=90&strip=all&crop=0%2C12.121468677824%2C100%2C75.757062644352&w=1200",
-      "link": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
-      "published": "2026-11-13T12:44:22-05:00",
-      "title_th": "Jensen Huang was reckless with the environment, too",
-      "summary_th": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power grids from inside massive data centers, and set the stage for a looming e-waste problem. Under Huang's […]"
     },
     {
       "source": "Ars Technica",
@@ -186,6 +186,42 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
+      "title_en": "The FAA Nationwide Ground Stop Is Over",
+      "summary_en": "The five-hour ordeal ended Friday evening. Planes will be allowed to fly again, but the effects of the stoppage will be felt throughout the weekend.",
+      "image": "https://media.wired.com/photos/6af796575e4ca9026ac50e15/master/pass/Air-Traffic-Outage-Wasnt-AI-Gear-2239205748.jpg",
+      "link": "https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/",
+      "published": "Sat, 14 Nov 2026 01:46:40 +0000",
+      "title_th": "The FAA Nationwide Ground Stop Is Over",
+      "summary_th": "The five-hour ordeal ended Friday evening. Planes will be allowed to fly again, but the effects of the stoppage will be felt throughout the weekend."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Best Early Black Friday AirPods Deals (2026)",
+      "summary_en": "Waiting to buy Apple’s flagship AirPods or headphones while they’re on sale? Now’s your chance.",
+      "image": "https://media.wired.com/photos/6a6a501f4a743f1551e95445/master/pass/If-You%E2%80%99ve-Been-Waiting-to-Upgrade-Your-AirPods,-This-Is-Your-Chance.jpg",
+      "link": "https://www.wired.com/story/best-early-black-friday-airpods-deals-11-13-2026/",
+      "published": "Fri, 13 Nov 2026 22:30:29 +0000",
+      "title_th": "Best Early Black Friday AirPods Deals (2026)",
+      "summary_th": "Waiting to buy Apple’s flagship AirPods or headphones while they’re on sale? Now’s your chance."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "FAA Grounds All US Flights Until Further Notice",
+      "summary_en": "The government cited a nationwide communications failure among air traffic control systems as the reason for the sudden grounding on Friday.",
+      "image": "https://media.wired.com/photos/6af77f75b0613b392083fb37/master/pass/FAA-Grounds-All-Flights-Gear-970624408.jpg",
+      "link": "https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/",
+      "published": "Fri, 13 Nov 2026 21:42:57 +0000",
+      "title_th": "FAA Grounds All US Flights Until Further Notice",
+      "summary_th": "The government cited a nationwide communications failure among air traffic control systems as the reason for the sudden grounding on Friday."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
       "title_en": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
       "summary_en": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
       "image": "https://media.wired.com/photos/6af75c7bac6958eb8481a5e6/master/pass/Security_MicrosoftBackOnline_v1.jpg",
@@ -205,42 +241,6 @@
       "published": "Fri, 13 Nov 2026 17:15:54 +0000",
       "title_th": "The Microsoft Outage Is a Warning for the World",
       "summary_th": "Countless businesses, schools, hospitals, and governments have found out the hard way what it means to rely on a single company’s systems to get things done. And next time could be even worse."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Jensen Huang and the End of the Founder Fairy Tale",
-      "summary_en": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
-      "image": "https://media.wired.com/photos/6af64d55d057d0b5e841f091/master/pass/Backchannel-Jensen-Business.jpg",
-      "link": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
-      "published": "Fri, 13 Nov 2026 16:00:00 +0000",
-      "title_th": "Jensen Huang and the End of the Founder Fairy Tale",
-      "summary_th": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "review",
-      "title_en": "TCL QM7L Mini-LED TV Review (2026)",
-      "summary_en": "$1,500 buys you vibrant color, deep blacks, and a fast screen fit for just about anything. Just be sure the wide pedestal fits your setup.",
-      "image": "https://media.wired.com/photos/6af64cc07d3b549f19bbdcc7/master/pass/Review--TCL-QM7L-Mini-LED-TV.jpg",
-      "link": "https://www.wired.com/review/tcl-qm7l/",
-      "published": "Fri, 13 Nov 2026 12:00:00 +0000",
-      "title_th": "TCL QM7L Mini-LED TV Review (2026)",
-      "summary_th": "$1,500 buys you vibrant color, deep blacks, and a fast screen fit for just about anything. Just be sure the wide pedestal fits your setup."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
-      "summary_en": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
-      "image": "https://media.wired.com/photos/6af65ba58bac4203b57b5ba0/master/pass/Startup-Betting-on-AI-Microdramas-Culture.jpg",
-      "link": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
-      "published": "Fri, 13 Nov 2026 11:45:00 +0000",
-      "title_th": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
-      "summary_th": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out."
     },
     {
       "source": "MIT Technology Review",
@@ -426,6 +426,30 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "Tired of paying for cloud storage every month? pCloud’s Black Friday Lifetime deal is the cure for subscription fatigue",
+      "summary_en": "Software used to be a one-time purchase, but over time, with the addition of cloud storage and services, everything has become a subscription. One company even tried to make your car seat heaters a subscription . Count the subscriptions you’re paying for right now: iCloud, a password manager, a couple of streaming services, a music service, maybe a VPN, and whatever other app decided this year that it needed to be $4.99 per month for something that used to be a one-time purchase. Everything is a service now, and a lot of people are hitting the point where one more monthly charge is one too many on principle alone. Cloud storage is the one that’s hardest to cancel, because your photos and files are in it. That’s exactly why pCloud’s Lifetime plans are worth a look this Black Friday: you pay",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/pCloud-2.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/13/tired-paying-cloud-storage-every-month-pclouds-black-friday-lifetime-deal-cure-subscription-fatigue/",
+      "published": "Fri, 13 Nov 2026 23:00:00 +0000",
+      "title_th": "Tired of paying for cloud storage every month? pCloud’s Black Friday Lifetime deal is the cure for subscription fatigue",
+      "summary_th": "Software used to be a one-time purchase, but over time, with the addition of cloud storage and services, everything has become a subscription. One company even tried to make your car seat heaters a subscription . Count the subscriptions you’re paying for right now: iCloud, a password manager, a couple of streaming services, a music service, maybe a VPN, and whatever other app decided this year that it needed to be $4.99 per month for something that used to be a one-time purchase. Everything is a service now, and a lot of people are hitting the point where one more monthly charge is one too many on principle alone. Cloud storage is the one that’s hardest to cancel, because your photos and files are in it. That’s exactly why pCloud’s Lifetime plans are worth a look this Black Friday: you pay"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Apple details HomeView facial recognition, repair options, and more in new support guides",
+      "summary_en": "Coinciding with the launch of Apple HomeView, the company has been updating its support website with new guides covering everything from facial recognition and user profiles to troubleshooting and repairs. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/homeview-hand-touch.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/13/apple-details-homeview-facial-recognition-repair-options-and-more-in-new-support-guides/",
+      "published": "Fri, 13 Nov 2026 21:59:21 +0000",
+      "title_th": "Apple details HomeView facial recognition, repair options, and more in new support guides",
+      "summary_th": "Coinciding with the launch of Apple HomeView, the company has been updating its support website with new guides covering everything from facial recognition and user profiles to troubleshooting and repairs. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "9to5Mac Overtime 090: iPhone Duo honeymoon",
       "summary_en": "The Overtime crew revisits the iPhone Duo after prolonged usage. Is it still worth it without a telephoto lens or Face ID? We dig into its multitasking chops, standout FaceTime features, and how it stacks up against the Galaxy Z Fold 8. Plus, we break down Apple’s unprecedented product blitz and rumors of a second-gen MacBook Neo. Sponsored by Memoket : Memoket Gem is an AI wearable that slots beside your Apple Watch. One press captures a conversation, and KITE memory connects it to what you said weeks ago. Save 10% with code LL86MDO6 on Amazon and Memoket’s websit e. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/9to5Mac-Overtime-90.jpg?quality=82&strip=all&resize=1200,628",
@@ -459,28 +483,40 @@
       "summary_th": "Apple has just released tvOS 27.2.1 for Apple TV 4K and HomePod 27.2.1 for HomePod models, here’s what’s new. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Perplexity brings AI agents feature called Teammates to the Mac",
-      "summary_en": "This week, Perplexity has deployed its new proactive agentic AI feature called Teammates to the Mac. Perplexity Teammates were previously limited to iOS and the web. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/perplexity-mac-app.webp?resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/13/perplexity-brings-ai-agents-feature-called-teammates-to-the-mac/",
-      "published": "Fri, 13 Nov 2026 19:31:05 +0000",
-      "title_th": "Perplexity brings AI agents feature called Teammates to the Mac",
-      "summary_th": "This week, Perplexity has deployed its new proactive agentic AI feature called Teammates to the Mac. Perplexity Teammates were previously limited to iOS and the web. more…"
+      "title_en": "Pixel 11 Pro’s HiLight feature also now works on WhatsApp messages",
+      "summary_en": "After being barebones at launch, Google is improving on Pixel 11 Pro’s Hilight feature with message support, now including WhatsApp. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Hilight-Phone-Call.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/11/13/pixel-11-pro-hilight-whatsapp/",
+      "published": "Sat, 14 Nov 2026 01:15:00 +0000",
+      "title_th": "Pixel 11 Pro’s HiLight feature also now works on WhatsApp messages",
+      "summary_th": "After being barebones at launch, Google is improving on Pixel 11 Pro’s Hilight feature with message support, now including WhatsApp. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "iOS 27.3 adds three new features I’ve used almost every day",
-      "summary_en": "iOS 27.3 is coming next month , and during the beta so far there are three new features I’ve been using almost every day. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-3-iphone-fi.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/13/ios-27-3-adds-three-new-features-ive-used-almost-every-day/",
-      "published": "Fri, 13 Nov 2026 18:56:41 +0000",
-      "title_th": "iOS 27.3 adds three new features I’ve used almost every day",
-      "summary_th": "iOS 27.3 is coming next month , and during the beta so far there are three new features I’ve been using almost every day. more…"
+      "title_en": "Pixelated 125: Google’s glasses, Meta’s baggage",
+      "summary_en": "Welcome to Pixelated episode 125. This week, Abner has tried out Google’s new lineup of “Intelligent Eyewear,” and he’s got plenty to share with Damien and Will. Can Google nail the smart glasses experience while digging itself out of a privacy hole Meta first dug? For as much work as the company’s doing, only time might tell. Enjoy the show? You can listen to our weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro for just $5 per month, or about $1 per episode. Sponsored by Proton Unlimited : Pixelated listeners can save 30% on an annual subscription to the company’s suite of privacy-friendly services by signing up using our link . Thanks to Proton Unlimited for sponsoring the podcast. Subscribe YouTube Podcasts Pocket Casts Spotify Amazon Music Apple Podcasts",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2024/03/Pixelated-cover.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/11/13/pixelated-125-googles-glasses-metas-baggage/",
+      "published": "Fri, 13 Nov 2026 22:00:00 +0000",
+      "title_th": "Pixelated 125: Google’s glasses, Meta’s baggage",
+      "summary_th": "Welcome to Pixelated episode 125. This week, Abner has tried out Google’s new lineup of “Intelligent Eyewear,” and he’s got plenty to share with Damien and Will. Can Google nail the smart glasses experience while digging itself out of a privacy hole Meta first dug? For as much work as the company’s doing, only time might tell. Enjoy the show? You can listen to our weekly members-only Pixelated Pro bonus episode by signing up for 9to5Google Pro for just $5 per month, or about $1 per episode. Sponsored by Proton Unlimited : Pixelated listeners can save 30% on an annual subscription to the company’s suite of privacy-friendly services by signing up using our link . Thanks to Proton Unlimited for sponsoring the podcast. Subscribe YouTube Podcasts Pocket Casts Spotify Amazon Music Apple Podcasts"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "The UGREEN HomeAgent is a ‘local-first’ way to make your smart home even smarter",
+      "summary_en": "Smart home tech often relies solely on cloud connections and pricey AI subscriptions, but UGREEN is delivering a local-first solution in its new HomeAgent collection , delivering cameras, speakers, and more that bring the bulk of the functionality and processing directly to your home. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/ugreen-homeagent-1.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/11/13/the-ugreen-homeagent-is-a-local-first-way-to-make-your-smart-home-even-smarter/",
+      "published": "Fri, 13 Nov 2026 21:23:59 +0000",
+      "title_th": "The UGREEN HomeAgent is a ‘local-first’ way to make your smart home even smarter",
+      "summary_th": "Smart home tech often relies solely on cloud connections and pricey AI subscriptions, but UGREEN is delivering a local-first solution in its new HomeAgent collection , delivering cameras, speakers, and more that bring the bulk of the functionality and processing directly to your home. more…"
     },
     {
       "source": "9to5Google",
@@ -507,40 +543,52 @@
       "summary_th": "The early Black Friday sales are in full swing at Amazon , Walmart , and Best Buy has now launched a suite of new Doorbusters , but we also have Friday’s Google Play app and game deals: Echoes of Vatheria, Raiders of the North Sea, MEGA MAN X DiVE Offline, Streets of Rage 4, Ace Attorney Trilogy, Legend of Keepers, [Premium] RPG Onigo Hunter, Premium-RPG Wizards of Brandel, and more. Alongside the all-time low on the Google Home Speaker and the now available Google Pixel Tag , the Nothing early Black Friday deals exploded today with new all-time lows Headphone (a) , the brand new Nothing CMF milk carton speakers , and the Nothing CMF Buds Neo at just just $17 , among a whole lot more. The apps await below. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "You can now set up Gemini’s Google Wallet integration for ‘personal finance insights’",
-      "summary_en": "As we spotted in September , the Gemini app is adding Google Wallet integration in the US that makes possible “responses informed by your spending habits.” more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-Google-Wallet-cover.png?resize=1200,628",
-      "link": "https://9to5google.com/2026/11/13/gemini-google-wallet/",
-      "published": "Fri, 13 Nov 2026 17:51:44 +0000",
-      "title_th": "You can now set up Gemini’s Google Wallet integration for ‘personal finance insights’",
-      "summary_th": "As we spotted in September , the Gemini app is adding Google Wallet integration in the US that makes possible “responses informed by your spending habits.” more…"
+      "category": "ev",
+      "title_en": "Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones",
+      "summary_en": "Tesla is now inviting “select customers” to buy a Cybercab for personal use at $29,990, but the car won’t move unless you also pay $299 a month for an “Autonomy Subscription.” And it only works inside Tesla’s Robotaxi service areas in Texas and Florida, the same geofences that have turned out to be significantly smaller than what Tesla advertises. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Cybercab-orders.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/",
+      "published": "Sat, 14 Nov 2026 02:11:39 +0000",
+      "title_th": "Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones",
+      "summary_th": "Tesla is now inviting “select customers” to buy a Cybercab for personal use at $29,990, but the car won’t move unless you also pay $299 a month for an “Autonomy Subscription.” And it only works inside Tesla’s Robotaxi service areas in Texas and Florida, the same geofences that have turned out to be significantly smaller than what Tesla advertises. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
       "category": "gadget",
-      "title_en": "The Xiaomi 18 Pro’s rear displays support Google apps, Spotify, and custom GenAI apps",
-      "summary_en": "The Xiaomi 18 Pro series' rear display is looking a lot more useful than initially thought, thanks to some clever apps.",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/xiaomi-18-pro-2.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/11/13/the-xiaomi-18-pros-rear-displays-support-google-apps-spotify-and-custom-genai-apps/",
-      "published": "Fri, 13 Nov 2026 16:45:47 +0000",
-      "title_th": "The Xiaomi 18 Pro’s rear displays support Google apps, Spotify, and custom GenAI apps",
-      "summary_th": "The Xiaomi 18 Pro series' rear display is looking a lot more useful than initially thought, thanks to some clever apps."
+      "title_en": "Rinnai’s new heat pump water heaters get smarter – and easier to install",
+      "summary_en": "Rinnai has launched a new lineup of electric heat pump water heaters that adds wifi controls and more installation options to an appliance that can cut the energy needed for hot showers. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/3583_Rinnai_REHP_Storage_0000.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/11/13/rinnai-new-heat-pump-water-heaters-get-smarter-and-easier-to-install/",
+      "published": "Sat, 14 Nov 2026 00:53:37 +0000",
+      "title_th": "Rinnai’s new heat pump water heaters get smarter – and easier to install",
+      "summary_th": "Rinnai has launched a new lineup of electric heat pump water heaters that adds wifi controls and more installation options to an appliance that can cut the energy needed for hot showers. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Android Auto 18.2 update starts rolling out with more light mode teases",
-      "summary_en": "Google has started rolling out the Android Auto 18.2 update, but don’t expect much to change on your car’s display. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/Android-Auto-Immersive-View-2.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/11/13/android-auto-18-2-update-beta-release/",
-      "published": "Fri, 13 Nov 2026 16:45:00 +0000",
-      "title_th": "Android Auto 18.2 update starts rolling out with more light mode teases",
-      "summary_th": "Google has started rolling out the Android Auto 18.2 update, but don’t expect much to change on your car’s display. more…"
+      "category": "ev",
+      "title_en": "Volkswagen may have just hinted at the name of its next affordable EV",
+      "summary_en": "Volkswagen is getting ready to launch a new electric car starting at about €20,000 ($22,000) in 2027, and it looks like the entry-level EV may no longer be nameless. A newly filed trademark could have just given away what VW plans to call it. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-E20000-EV.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/11/13/volkswagen-trademark-name-next-affordable-ev/",
+      "published": "Fri, 13 Nov 2026 22:14:38 +0000",
+      "title_th": "Volkswagen may have just hinted at the name of its next affordable EV",
+      "summary_th": "Volkswagen is getting ready to launch a new electric car starting at about €20,000 ($22,000) in 2027, and it looks like the entry-level EV may no longer be nameless. A newly filed trademark could have just given away what VW plans to call it. more…"
+    },
+    {
+      "source": "Electrek",
+      "flag": "",
+      "category": "ev",
+      "title_en": "BYD’s new flagship Tang SUV starts at about $34,000 with two enormous screens",
+      "summary_en": "BYD opened pre-orders for the third-generation Tang starting at about $34,000 in China. This five-seat flagship SUV packs more than you’d expect for the money, with two massive 30-inch-plus screens inside and up to 850 km (528 miles) of CLTC range. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-Tang-EV.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/11/13/byd-opens-tang-ev-orders-two-enormous-screens-for-34000/",
+      "published": "Fri, 13 Nov 2026 21:38:04 +0000",
+      "title_th": "BYD’s new flagship Tang SUV starts at about $34,000 with two enormous screens",
+      "summary_th": "BYD opened pre-orders for the third-generation Tang starting at about $34,000 in China. This five-seat flagship SUV packs more than you’d expect for the money, with two massive 30-inch-plus screens inside and up to 850 km (528 miles) of CLTC range. more…"
     },
     {
       "source": "Electrek",
@@ -553,54 +601,6 @@
       "published": "Fri, 13 Nov 2026 20:49:15 +0000",
       "title_th": "Podcast: Tesla trims are falling like flies, Hyundai 2027 lineup, and BYD’s Rolls-Royce",
       "summary_th": "In the Electrek Podcast , we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we’ll discuss Tesla trims falling like flies, Hyundai’s 2027 lineup, and BYD’s Rolls-Royce. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Volkswagen is delaying another EV based on the SSP",
-      "summary_en": "After delaying development of the long-awaited electric Golf, Volkswagen is delaying another EV based on its SSP platform. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Volkswagen-delaying-Audi-A4-EV.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/11/13/volkswagen-delaying-another-ev-ssp/",
-      "published": "Fri, 13 Nov 2026 19:03:28 +0000",
-      "title_th": "Volkswagen is delaying another EV based on the SSP",
-      "summary_th": "After delaying development of the long-awaited electric Golf, Volkswagen is delaying another EV based on its SSP platform. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Velotric Discover M mid-drive multi-terrain e-bike new $2,399 low + expanded Aventon sale, EcoFlow power station flash sale, more",
-      "summary_en": "We’re closing out our second week of early Black Friday Green Deals with the headlining Velotric Discover M Mid-Drive Multi-Terrain e-bike (and a FREE rack top bag) down at a new $2,399 low , which is followed by Aventon’s expanded sale lineup that has added models like the Pace 5 REC Smart Cruiser e-bike at its $1,599 low , among others. We’ve also got another 48-hour EcoFlow flash sale with 2x DELTA 3 Classic, 2x DELTA 3 Ultra, and a refurbished DELTA Pro Ultra deal starting from $899 , as well as a spotlight on the bundle for Anker’s SoloCam S340 Solar Security 4-Cam Kit + 1TB storage at $510 off, an EGO 530 CFM cordless leaf blower low, and more. There’s also the deals from the last four days at the bottom of the page, like the Ride1Up Black Friday e-bike lineup , the best prices of th",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Velotric-EcoFlow-Anker-eufy-Aventon-GDs-FI.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/11/13/velotric-discover-m-mid-drive-multi-terrain-e-bike-aventon-ecoflow-power-station/",
-      "published": "Fri, 13 Nov 2026 19:00:00 +0000",
-      "title_th": "Velotric Discover M mid-drive multi-terrain e-bike new $2,399 low + expanded Aventon sale, EcoFlow power station flash sale, more",
-      "summary_th": "We’re closing out our second week of early Black Friday Green Deals with the headlining Velotric Discover M Mid-Drive Multi-Terrain e-bike (and a FREE rack top bag) down at a new $2,399 low , which is followed by Aventon’s expanded sale lineup that has added models like the Pace 5 REC Smart Cruiser e-bike at its $1,599 low , among others. We’ve also got another 48-hour EcoFlow flash sale with 2x DELTA 3 Classic, 2x DELTA 3 Ultra, and a refurbished DELTA Pro Ultra deal starting from $899 , as well as a spotlight on the bundle for Anker’s SoloCam S340 Solar Security 4-Cam Kit + 1TB storage at $510 off, an EGO 530 CFM cordless leaf blower low, and more. There’s also the deals from the last four days at the bottom of the page, like the Ride1Up Black Friday e-bike lineup , the best prices of th"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Tesla stops selling every Cybertruck except the $109,990 Cyberbeast",
-      "summary_en": "Tesla is now only selling one version of the Cybertruck in the US: the tri-motor Cyberbeast, which just got another $7,500 price hike to $109,990. The Dual Motor and Premium AWD trims are still listed on Tesla’s configurator, but both are greyed out and can’t be selected. So the cheapest Cybertruck you can order today costs $109,990, up 57% from $69,990 in early August. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/image_7594a0.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/11/13/tesla-only-sells-cybertruck-cyberbeast-109990/",
-      "published": "Fri, 13 Nov 2026 18:13:44 +0000",
-      "title_th": "Tesla stops selling every Cybertruck except the $109,990 Cyberbeast",
-      "summary_th": "Tesla is now only selling one version of the Cybertruck in the US: the tri-motor Cyberbeast, which just got another $7,500 price hike to $109,990. The Dual Motor and Premium AWD trims are still listed on Tesla’s configurator, but both are greyed out and can’t be selected. So the cheapest Cybertruck you can order today costs $109,990, up 57% from $69,990 in early August. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Hyundai is overhauling the Kona, and it looks like it may still be offered as an EV after all",
-      "summary_en": "Hyundai is skipping the typical mid-cycle refresh and plans to launch a completely redesigned Kona, with a sleek new style and an updated high-tech interior. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/07/Hyundai-new-Kona-leaks.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/11/13/hyundai-overhauling-kona-ev/",
-      "published": "Fri, 13 Nov 2026 17:47:19 +0000",
-      "title_th": "Hyundai is overhauling the Kona, and it looks like it may still be offered as an EV after all",
-      "summary_th": "Hyundai is skipping the typical mid-cycle refresh and plans to launch a completely redesigned Kona, with a sleek new style and an updated high-tech interior. more…"
     }
   ],
   "indices": [
@@ -664,131 +664,10 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 190.0,
+      "change": 0.0,
+      "change_pct": 0.0
     }
   ],
-  "reviews": [
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "Macbook PROLED Review: It's Not About That",
-      "video_id": "hdMszZ2ah5Q",
-      "link": "https://www.youtube.com/watch?v=hdMszZ2ah5Q",
-      "thumbnail": "https://i1.ytimg.com/vi/hdMszZ2ah5Q/hqdefault.jpg",
-      "published": "2026-11-11T18:43:56+00:00",
-      "title_th": "Macbook PROLED Review: It's Not About That"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "Meta VR Glasses: What Vision Pro 2 COULD Have Been!",
-      "video_id": "_x58r9TBois",
-      "link": "https://www.youtube.com/watch?v=_x58r9TBois",
-      "thumbnail": "https://i4.ytimg.com/vi/_x58r9TBois/hqdefault.jpg",
-      "published": "2026-11-06T21:29:30+00:00",
-      "title_th": "Meta VR Glasses: What Vision Pro 2 COULD Have Been!"
-    },
-    {
-      "channel": "MKBHD",
-      "country": "US",
-      "title_en": "OLED iPad Mini is The Most Apple Product They've Ever Appled",
-      "video_id": "g6Die8gVFn0",
-      "link": "https://www.youtube.com/watch?v=g6Die8gVFn0",
-      "thumbnail": "https://i4.ytimg.com/vi/g6Die8gVFn0/hqdefault.jpg",
-      "published": "2026-11-03T14:01:31+00:00",
-      "title_th": "OLED iPad Mini is The Most Apple Product They've Ever Appled"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "The first folding phone vs now…",
-      "video_id": "IeqkzKGfMX0",
-      "link": "https://www.youtube.com/shorts/IeqkzKGfMX0",
-      "thumbnail": "https://i2.ytimg.com/vi/IeqkzKGfMX0/hqdefault.jpg",
-      "published": "2026-11-10T15:41:58+00:00",
-      "title_th": "The first folding phone vs now…"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "You need this new power brick…",
-      "video_id": "eP7lsIoSTMU",
-      "link": "https://www.youtube.com/shorts/eP7lsIoSTMU",
-      "thumbnail": "https://i2.ytimg.com/vi/eP7lsIoSTMU/hqdefault.jpg",
-      "published": "2026-11-04T17:46:18+00:00",
-      "title_th": "You need this new power brick…"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "This Thing Runs On Android?",
-      "video_id": "Qw6UAdGL14s",
-      "link": "https://www.youtube.com/watch?v=Qw6UAdGL14s",
-      "thumbnail": "https://i2.ytimg.com/vi/Qw6UAdGL14s/hqdefault.jpg",
-      "published": "2026-11-02T18:33:27+00:00",
-      "title_th": "This Thing Runs On Android?"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "พนักงานส่งแก๊ส นอกจากยกไปส่ง ต้องทำอะไรบ้าง?",
-      "video_id": "jMtcC6S6LQY",
-      "link": "https://www.youtube.com/watch?v=jMtcC6S6LQY",
-      "thumbnail": "https://i3.ytimg.com/vi/jMtcC6S6LQY/hqdefault.jpg",
-      "published": "2026-11-13T10:00:28+00:00",
-      "title_th": "พนักงานส่งแก๊ส นอกจากยกไปส่ง ต้องทำอะไรบ้าง?"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "หนุ่ย พงศ์สุข บุกบูท MEA ในงาน Sustainability Expo 2026 ดูเทรนด์ Solar และโครงข่ายไฟฟ้าสุดล้ำ",
-      "video_id": "IVcYOe_OHrw",
-      "link": "https://www.youtube.com/shorts/IVcYOe_OHrw",
-      "thumbnail": "https://i2.ytimg.com/vi/IVcYOe_OHrw/hqdefault.jpg",
-      "published": "2026-11-13T07:43:13+00:00",
-      "title_th": "หนุ่ย พงศ์สุข บุกบูท MEA ในงาน Sustainability Expo 2026 ดูเทรนด์ Solar และโครงข่ายไฟฟ้าสุดล้ำ"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "Advance Care Planning คือ ?",
-      "video_id": "a8Wu4iXR2jI",
-      "link": "https://www.youtube.com/shorts/a8Wu4iXR2jI",
-      "thumbnail": "https://i2.ytimg.com/vi/a8Wu4iXR2jI/hqdefault.jpg",
-      "published": "2026-11-12T23:00:32+00:00",
-      "title_th": "Advance Care Planning คือ ?"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "13 November BE 2569",
-      "video_id": "bWG125nMZDo",
-      "link": "https://www.youtube.com/shorts/bWG125nMZDo",
-      "thumbnail": "https://i3.ytimg.com/vi/bWG125nMZDo/hqdefault.jpg",
-      "published": "2026-11-13T09:06:48+00:00",
-      "title_th": "13 November BE 2569"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "ราคาต่างกัน 0 บาท จะเลือก vivo V80 หรือ OPPO Reno16 5G งบ 21,999 บาท #OPPO #vivo",
-      "video_id": "99eCV3m2LWQ",
-      "link": "https://www.youtube.com/shorts/99eCV3m2LWQ",
-      "thumbnail": "https://i2.ytimg.com/vi/99eCV3m2LWQ/hqdefault.jpg",
-      "published": "2026-11-12T15:41:57+00:00",
-      "title_th": "ราคาต่างกัน 0 บาท จะเลือก vivo V80 หรือ OPPO Reno16 5G งบ 21,999 บาท #OPPO #vivo"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "จอหลังมือถือ ใช้ทำอะไรได้? เจอใน Xiaomi 18 Pro Series เปิดตัว 18 พ.ย 2569 #Xiaomi18ProSeries #Xiaomi",
-      "video_id": "2iuLIDZOj8A",
-      "link": "https://www.youtube.com/shorts/2iuLIDZOj8A",
-      "thumbnail": "https://i3.ytimg.com/vi/2iuLIDZOj8A/hqdefault.jpg",
-      "published": "2026-11-10T13:05:07+00:00",
-      "title_th": "จอหลังมือถือ ใช้ทำอะไรได้? เจอใน Xiaomi 18 Pro Series เปิดตัว 18 พ.ย 2569 #Xiaomi18ProSeries #Xiaomi"
-    }
-  ]
+  "reviews": []
 }
