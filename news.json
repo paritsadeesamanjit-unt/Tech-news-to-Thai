@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T00:47:01.085747+00:00",
+  "generated_at": "2026-11-15T10:19:32.362088+00:00",
   "count": 50,
   "articles": [
     {
@@ -65,6 +65,18 @@
     {
       "source": "The Verge",
       "flag": "US",
+      "category": "gadget",
+      "title_en": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "summary_en": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself. SpaceX CEO Elon […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&strip=all&crop=0%2C13.419374014038%2C100%2C73.161251971924&w=1200",
+      "link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "published": "2026-11-14T16:44:44-05:00",
+      "title_th": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "summary_th": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself. SpaceX CEO Elon […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
       "category": "software",
       "title_en": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
       "summary_en": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first teased back in 2019 with Joe and Anthony Russo at […]",
@@ -109,18 +121,6 @@
       "published": "2026-11-14T10:00:00-05:00",
       "title_th": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
       "summary_th": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "ev",
-      "title_en": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
-      "summary_en": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"only be available in supported service areas\" - meaning you'll only be able to buy one if you live in one […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25670862/Robotaxi_89.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
-      "published": "2026-11-14T09:18:36-05:00",
-      "title_th": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
-      "summary_th": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"only be available in supported service areas\" - meaning you'll only be able to buy one if you live in one […]"
     },
     {
       "source": "Ars Technica",
@@ -306,6 +306,42 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "This Sony patent would add a credit card reader to your PlayStation controller",
+      "summary_en": "As Sony and PlayStation head into a digital-only era, new tech on its upcoming controllers could help make online purchases even more convenient for gaming.",
+      "image": "https://www.engadget.com/img/gallery/this-sony-patent-would-add-a-credit-card-reader-to-your-playstation-controller/l-intro-1793989603.jpg",
+      "link": "https://www.engadget.com/2313652/sony-patent-playstation-controller-adds-credit-card-reader/",
+      "published": "Sun, 15 Nov 2026 00:45:00 +0000",
+      "title_th": "This Sony patent would add a credit card reader to your PlayStation controller",
+      "summary_th": "As Sony and PlayStation head into a digital-only era, new tech on its upcoming controllers could help make online purchases even more convenient for gaming."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "What are the limitations of eGPUs vs onboard graphics cards for laptops?",
+      "summary_en": "Is it worth it to use an eGPU with your laptop? That depends. Let's take a closer look at the most important factors you should consider.",
+      "image": "https://www.engadget.com/img/gallery/what-are-the-limitations-of-egpus-vs-onboard-graphics-cards-for-laptops/l-intro-1794329161.jpg",
+      "link": "https://www.engadget.com/2313636/limitations-egpu-vs-onboard-graphics-card-laptop-pc/",
+      "published": "Sun, 15 Nov 2026 00:30:00 +0000",
+      "title_th": "What are the limitations of eGPUs vs onboard graphics cards for laptops?",
+      "summary_th": "Is it worth it to use an eGPU with your laptop? That depends. Let's take a closer look at the most important factors you should consider."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "11 gadgets under $10 that solve everyday problems",
+      "summary_en": "Lots of tech purchases run into the hundreds of dollars, but you don't have to spend a lot to make some upgrades.",
+      "image": "https://www.engadget.com/img/gallery/11-gadgets-under-10-that-solve-everyday-problems/l-intro-1793998678.jpg",
+      "link": "https://www.engadget.com/2310535/affordable-gadgets-under-10-dollars/",
+      "published": "Sun, 15 Nov 2026 00:15:00 +0000",
+      "title_th": "11 gadgets under $10 that solve everyday problems",
+      "summary_th": "Lots of tech purchases run into the hundreds of dollars, but you don't have to spend a lot to make some upgrades."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "There's a hidden way you can check which services are running on your Android phone",
       "summary_en": "Want to see what's draining your Android phone's memory? Here's how to unlock the hidden Running Services menu to monitor background apps.",
       "image": "https://www.engadget.com/img/gallery/theres-a-hidden-way-you-can-check-which-services-are-running-on-your-android-phone/l-intro-1794382909.jpg",
@@ -325,42 +361,6 @@
       "published": "Sat, 14 Nov 2026 22:30:00 +0000",
       "title_th": "This underrated Google Health app feature can make food tracking less annoying",
       "summary_th": "There's a suite of features with Google's Health app, but you've likely overlooked the intuitive food tracking function that helps keep your diet in check."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "The reasons why your TV soundbar has an audio delay",
-      "summary_en": "Audio delays are really irritating, especially when watching sports and live events. We've got several possible causes and what you can do about them.",
-      "image": "https://www.engadget.com/img/gallery/the-reasons-why-your-tv-soundbar-has-an-audio-delay/l-intro-1794341678.jpg",
-      "link": "https://www.engadget.com/2312648/reasons-why-tv-soundbar-audio-delay/",
-      "published": "Sat, 14 Nov 2026 21:30:00 +0000",
-      "title_th": "The reasons why your TV soundbar has an audio delay",
-      "summary_th": "Audio delays are really irritating, especially when watching sports and live events. We've got several possible causes and what you can do about them."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Why some USB ports are yellow (and less common than others)",
-      "summary_en": "Not every USB port color means what you think. Learn why yellow ports are so uncommon and what to check before you plug in anything important.",
-      "image": "https://www.engadget.com/img/gallery/why-some-usb-ports-are-yellow-and-less-common-than-others/l-intro-1794332281.jpg",
-      "link": "https://www.engadget.com/2312464/why-some-usb-ports-yellow-less-common/",
-      "published": "Sat, 14 Nov 2026 21:15:00 +0000",
-      "title_th": "Why some USB ports are yellow (and less common than others)",
-      "summary_th": "Not every USB port color means what you think. Learn why yellow ports are so uncommon and what to check before you plug in anything important."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "SpaceX successfully catches Starship after launch for the first time",
-      "summary_en": "While the company has pulled off this trick a few times with Super Heavy boosters, it was a first for the Ship.",
-      "image": "https://www.engadget.com/img/gallery/watch-spacex-attempt-to-catch-the-starship-upper-stage-for-the-first-time/l-intro-1794693469.jpg",
-      "link": "https://www.engadget.com/2316926/watch-spacex-attempt-to-catch-the-starship-upper-stage-for-the-first-time/",
-      "published": "Sat, 14 Nov 2026 20:54:14 +0000",
-      "title_th": "SpaceX successfully catches Starship after launch for the first time",
-      "summary_th": "While the company has pulled off this trick a few times with Super Heavy boosters, it was a first for the Ship."
     },
     {
       "source": "IEEE Spectrum",
@@ -425,6 +425,18 @@
     {
       "source": "9to5Mac",
       "flag": "",
+      "category": "review",
+      "title_en": "Hands-on: ESR’s MagSafe kickstand charger solves two key iPhone Duo shortcomings",
+      "summary_en": "iPhone Duo, because it offers a much larger inside display, means theres all tons of new use cases that you wouldn’t normally come across with your iPhone. Of course, one of them is the fact that you might want to prop up your iPhone Duo to watch a video on the larger display. A couple weeks ago, I wrote about one accessory that solves the kickstand problem. That said, what if you want to charge and prop up your phone at the same time? more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04326-2616x1308.jpg.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/14/hands-on-esrs-magsafe-kickstand-charger-solves-two-key-iphone-duo-shortcomings/",
+      "published": "Sun, 15 Nov 2026 00:42:21 +0000",
+      "title_th": "Hands-on: ESR’s MagSafe kickstand charger solves two key iPhone Duo shortcomings",
+      "summary_th": "iPhone Duo, because it offers a much larger inside display, means theres all tons of new use cases that you wouldn’t normally come across with your iPhone. Of course, one of them is the fact that you might want to prop up your iPhone Duo to watch a video on the larger display. A couple weeks ago, I wrote about one accessory that solves the kickstand problem. That said, what if you want to charge and prop up your phone at the same time? more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
       "category": "gadget",
       "title_en": "Beats 360 vs Studio Pro: Here’s which Beats headphones you should buy",
       "summary_en": "In September, Apple introduced the new Beats 360 headphones, the first overears from Beats since the Beats Studio Pro in 2023. That said, the older Beats Studio Pro still remain on sale at a lower price point – so it begs the question, which Beats headphones are more worthwhile? more…",
@@ -469,18 +481,6 @@
       "published": "Sat, 14 Nov 2026 14:00:00 +0000",
       "title_th": "Apple @ Work: The spiritual successor to the Xserve is here, thanks to Apple silicon and MLX",
       "summary_th": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . I’ve spent the past few weeks thinking about how Apple built up the best deal in enterprise AI. Two things happened that make me think Apple knew that all along (or maybe they didn’t and got lucky). Meta released its most capable open-weight model yet and optimized it to run on a Mac St"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Early Black Friday Apple deals: AirPods, AirTag 2, MacBook Air, Apple Pencil, Mac mini, more",
-      "summary_en": "Alongside the release of the new Apple TV 4K , we also have loads of the early Black Friday offers flying with the lowest prices to date on AirTag 2 at $17.50 , rare discounts on Magic Mouse , the lowest price yet on the 2026 Magic Keyboard and more, alongside the $50 price drop on AirPods Pro 3 . This week’s impressive $250 price drops on M5 MacBook Air are also joined by M6 Mac mini at up to $150 off , the best prices to date on Apple Watch Ultra 4 at nearly $100 off , the iPhone Duo-ready Apple Pencil USB-C, chargers, official Apple iPhone 18 Pro cases, and more. Check it all out below. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Early-Black-Friday-Apple-deals-Apple-TV-4K-AirPods.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/14/early-black-friday-apple-deals-apple-tv-4k-airpods/",
-      "published": "Sat, 14 Nov 2026 13:05:05 +0000",
-      "title_th": "Early Black Friday Apple deals: AirPods, AirTag 2, MacBook Air, Apple Pencil, Mac mini, more",
-      "summary_th": "Alongside the release of the new Apple TV 4K , we also have loads of the early Black Friday offers flying with the lowest prices to date on AirTag 2 at $17.50 , rare discounts on Magic Mouse , the lowest price yet on the 2026 Magic Keyboard and more, alongside the $50 price drop on AirPods Pro 3 . This week’s impressive $250 price drops on M5 MacBook Air are also joined by M6 Mac mini at up to $150 off , the best prices to date on Apple Watch Ultra 4 at nearly $100 off , the iPhone Duo-ready Apple Pencil USB-C, chargers, official Apple iPhone 18 Pro cases, and more. Check it all out below. more…"
     },
     {
       "source": "9to5Google",
@@ -699,6 +699,96 @@
       "thumbnail": "https://i4.ytimg.com/vi/g6Die8gVFn0/hqdefault.jpg",
       "published": "2026-11-03T14:01:31+00:00",
       "title_th": "OLED iPad Mini is The Most Apple Product They've Ever Appled"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "The first folding phone vs now…",
+      "video_id": "IeqkzKGfMX0",
+      "link": "https://www.youtube.com/shorts/IeqkzKGfMX0",
+      "thumbnail": "https://i2.ytimg.com/vi/IeqkzKGfMX0/hqdefault.jpg",
+      "published": "2026-11-10T15:41:58+00:00",
+      "title_th": "The first folding phone vs now…"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "You need this new power brick…",
+      "video_id": "eP7lsIoSTMU",
+      "link": "https://www.youtube.com/shorts/eP7lsIoSTMU",
+      "thumbnail": "https://i2.ytimg.com/vi/eP7lsIoSTMU/hqdefault.jpg",
+      "published": "2026-11-04T17:46:18+00:00",
+      "title_th": "You need this new power brick…"
+    },
+    {
+      "channel": "Unbox Therapy",
+      "country": "US",
+      "title_en": "This Thing Runs On Android?",
+      "video_id": "Qw6UAdGL14s",
+      "link": "https://www.youtube.com/watch?v=Qw6UAdGL14s",
+      "thumbnail": "https://i2.ytimg.com/vi/Qw6UAdGL14s/hqdefault.jpg",
+      "published": "2026-11-02T18:33:27+00:00",
+      "title_th": "This Thing Runs On Android?"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "รวยแน่ ! ถ้าไม่แพ้เสียงในหัว | หนุ่ยTalk and Chill x โช๊ค โชกุล",
+      "video_id": "6qwBrYpynOc",
+      "link": "https://www.youtube.com/watch?v=6qwBrYpynOc",
+      "thumbnail": "https://i3.ytimg.com/vi/6qwBrYpynOc/hqdefault.jpg",
+      "published": "2026-11-15T07:33:21+00:00",
+      "title_th": "รวยแน่ ! ถ้าไม่แพ้เสียงในหัว | หนุ่ยTalk and Chill x โช๊ค โชกุล"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "จะรบชนะเชื้อโรคกี่โมง ?",
+      "video_id": "82kMgsYmY4Q",
+      "link": "https://www.youtube.com/shorts/82kMgsYmY4Q",
+      "thumbnail": "https://i1.ytimg.com/vi/82kMgsYmY4Q/hqdefault.jpg",
+      "published": "2026-11-14T23:00:34+00:00",
+      "title_th": "จะรบชนะเชื้อโรคกี่โมง ?"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "คลาร่า โกห์ พูดถึงการร่วมมือของ Meta กับรัฐบาลไทยในการดูแลนโยบาย Teen Account",
+      "video_id": "junfy7GS3io",
+      "link": "https://www.youtube.com/shorts/junfy7GS3io",
+      "thumbnail": "https://i3.ytimg.com/vi/junfy7GS3io/hqdefault.jpg",
+      "published": "2026-11-14T03:00:09+00:00",
+      "title_th": "คลาร่า โกห์ พูดถึงการร่วมมือของ Meta กับรัฐบาลไทยในการดูแลนโยบาย Teen Account"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "Galaxy S27 อาจไปเน้นรุ่นท็อป/ แฮกเกอร์จีนใช้ AI แฮกทั้วโลก /ภาคต่อ iPhone Air 2 | #หิวข่าว",
+      "video_id": "ROUYLiMCrQY",
+      "link": "https://www.youtube.com/watch?v=ROUYLiMCrQY",
+      "thumbnail": "https://i3.ytimg.com/vi/ROUYLiMCrQY/hqdefault.jpg",
+      "published": "2026-11-14T13:00:03+00:00",
+      "title_th": "Galaxy S27 อาจไปเน้นรุ่นท็อป/ แฮกเกอร์จีนใช้ AI แฮกทั้วโลก /ภาคต่อ iPhone Air 2 | #หิวข่าว"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "ระวังแอปเงินกู้เถื่อน ดอกแพงเกินกฎหมาย หลอกหักเงินไม่รู้จบ #แอปเงินกู้ #ความรู้ไอที #ประเทศไทย",
+      "video_id": "bWG125nMZDo",
+      "link": "https://www.youtube.com/shorts/bWG125nMZDo",
+      "thumbnail": "https://i3.ytimg.com/vi/bWG125nMZDo/hqdefault.jpg",
+      "published": "2026-11-13T09:06:48+00:00",
+      "title_th": "ระวังแอปเงินกู้เถื่อน ดอกแพงเกินกฎหมาย หลอกหักเงินไม่รู้จบ #แอปเงินกู้ #ความรู้ไอที #ประเทศไทย"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "ราคาต่างกัน 0 บาท จะเลือก vivo V80 หรือ OPPO Reno16 5G งบ 21,999 บาท #OPPO #vivo",
+      "video_id": "99eCV3m2LWQ",
+      "link": "https://www.youtube.com/shorts/99eCV3m2LWQ",
+      "thumbnail": "https://i2.ytimg.com/vi/99eCV3m2LWQ/hqdefault.jpg",
+      "published": "2026-11-12T15:41:57+00:00",
+      "title_th": "ราคาต่างกัน 0 บาท จะเลือก vivo V80 หรือ OPPO Reno16 5G งบ 21,999 บาท #OPPO #vivo"
     }
   ]
 }
