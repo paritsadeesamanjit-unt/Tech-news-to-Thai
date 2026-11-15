@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-14T19:51:08.356163+00:00",
+  "generated_at": "2026-11-15T00:47:01.085747+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Where was Nvidia’s security team?",
+      "summary_en": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "published": "Sun, 15 Nov 2026 00:08:07 +0000",
+      "title_th": "Where was Nvidia’s security team?",
+      "summary_th": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summary_en": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
+      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "published": "Sat, 14 Nov 2026 21:41:22 +0000",
+      "title_th": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summary_th": "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "ev",
+      "title_en": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "summary_en": "Even Elon Musk said the monthly fee is \"too high.\"",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834",
+      "link": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+      "published": "Sat, 14 Nov 2026 20:04:44 +0000",
+      "title_th": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "summary_th": "Even Elon Musk said the monthly fee is \"too high.\""
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -27,40 +63,16 @@
       "summary_th": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\""
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "gadget",
-      "title_en": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary_en": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
-      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "published": "Sat, 14 Nov 2026 17:30:00 +0000",
-      "title_th": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary_th": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "summary_en": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024",
-      "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "published": "Sat, 14 Nov 2026 16:34:15 +0000",
-      "title_th": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "summary_th": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-      "summary_en": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3403.jpg?resize=1200,925",
-      "link": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
-      "published": "Fri, 13 Nov 2026 23:00:00 +0000",
-      "title_th": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-      "summary_th": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade."
+      "category": "software",
+      "title_en": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+      "summary_en": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first teased back in 2019 with Joe and Anthony Russo at […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IefaLy5uPLc-HD.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "link": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+      "published": "2026-11-14T14:47:40-05:00",
+      "title_th": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+      "summary_th": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first teased back in 2019 with Joe and Anthony Russo at […]"
     },
     {
       "source": "The Verge",
@@ -109,18 +121,6 @@
       "published": "2026-11-14T09:18:36-05:00",
       "title_th": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
       "summary_th": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"only be available in supported service areas\" - meaning you'll only be able to buy one if you live in one […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
-      "summary_en": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one full-size gamepad, plus a couple of 8BitDo's Zero 2 controllers for games that don't use analog thumbsticks. […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_d836b8.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-      "link": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
-      "published": "2026-11-14T09:00:00-05:00",
-      "title_th": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
-      "summary_th": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one full-size gamepad, plus a couple of 8BitDo's Zero 2 controllers for games that don't use analog thumbsticks. […]"
     },
     {
       "source": "Ars Technica",
@@ -306,61 +306,61 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "How to make your Nintendo Switch 2 battery last longer",
-      "summary_en": "The Switch 2's battery life varies depending on what game you're playing, but changing some settings can also help you maximize how long it lasts.",
-      "image": "https://www.engadget.com/img/gallery/how-to-make-your-nintendo-switch-2-battery-last-longer/l-intro-1794324925.jpg",
-      "link": "https://www.engadget.com/2312052/how-to-make-switch-2-battery-last-longer/",
-      "published": "Sat, 14 Nov 2026 19:15:00 +0000",
-      "title_th": "How to make your Nintendo Switch 2 battery last longer",
-      "summary_th": "The Switch 2's battery life varies depending on what game you're playing, but changing some settings can also help you maximize how long it lasts."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "5 excellent free Apple Watch apps every owner should know about",
-      "summary_en": "Many iPhone apps charge a subscription for their Apple Watch component, but not all do if you know where to look.",
-      "image": "https://www.engadget.com/img/gallery/5-excellent-free-apple-watch-apps-every-owner-should-know-about/l-intro-1794320819.jpg",
-      "link": "https://www.engadget.com/2311959/free-apple-watch-apps/",
-      "published": "Sat, 14 Nov 2026 19:00:00 +0000",
-      "title_th": "5 excellent free Apple Watch apps every owner should know about",
-      "summary_th": "Many iPhone apps charge a subscription for their Apple Watch component, but not all do if you know where to look."
+      "title_en": "There's a hidden way you can check which services are running on your Android phone",
+      "summary_en": "Want to see what's draining your Android phone's memory? Here's how to unlock the hidden Running Services menu to monitor background apps.",
+      "image": "https://www.engadget.com/img/gallery/theres-a-hidden-way-you-can-check-which-services-are-running-on-your-android-phone/l-intro-1794382909.jpg",
+      "link": "https://www.engadget.com/2313576/hidden-way-check-which-services-running-on-android-phone/",
+      "published": "Sun, 15 Nov 2026 00:00:00 +0000",
+      "title_th": "There's a hidden way you can check which services are running on your Android phone",
+      "summary_th": "Want to see what's draining your Android phone's memory? Here's how to unlock the hidden Running Services menu to monitor background apps."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Your Apple AirPods Pro can test your hearing in five minutes, but are they accurate?",
-      "summary_en": "Apple AirPods use an industry-recognized standard when testing a user's hearing, but there are various factors that can give inaccurate results.",
-      "image": "https://www.engadget.com/img/gallery/your-apple-airpods-pro-can-test-your-hearing-in-five-minutes-but-are-they-accurate/l-intro-1794220922.jpg",
-      "link": "https://www.engadget.com/2311946/apple-airpods-pro-test-hearing-five-minutes-accuracy/",
-      "published": "Sat, 14 Nov 2026 18:45:00 +0000",
-      "title_th": "Your Apple AirPods Pro can test your hearing in five minutes, but are they accurate?",
-      "summary_th": "Apple AirPods use an industry-recognized standard when testing a user's hearing, but there are various factors that can give inaccurate results."
+      "title_en": "This underrated Google Health app feature can make food tracking less annoying",
+      "summary_en": "There's a suite of features with Google's Health app, but you've likely overlooked the intuitive food tracking function that helps keep your diet in check.",
+      "image": "https://www.engadget.com/img/gallery/this-underrated-google-health-app-feature-can-make-food-tracking-less-annoying/l-intro-1794352256.jpg",
+      "link": "https://www.engadget.com/2312924/underrated-google-health-app-food-tracker/",
+      "published": "Sat, 14 Nov 2026 22:30:00 +0000",
+      "title_th": "This underrated Google Health app feature can make food tracking less annoying",
+      "summary_th": "There's a suite of features with Google's Health app, but you've likely overlooked the intuitive food tracking function that helps keep your diet in check."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Common reasons your PC's camera and microphone aren't working",
-      "summary_en": "There's nothing worse than having camera or mic problems right before a video call or meeting. Luckily, the fixes are usually pretty straightforward.",
-      "image": "https://www.engadget.com/img/gallery/common-reasons-your-pcs-camera-and-microphone-arent-working/l-intro-1794311288.jpg",
-      "link": "https://www.engadget.com/2311859/pc-camera-microphone-not-working-common-reasons/",
-      "published": "Sat, 14 Nov 2026 18:30:00 +0000",
-      "title_th": "Common reasons your PC's camera and microphone aren't working",
-      "summary_th": "There's nothing worse than having camera or mic problems right before a video call or meeting. Luckily, the fixes are usually pretty straightforward."
+      "title_en": "The reasons why your TV soundbar has an audio delay",
+      "summary_en": "Audio delays are really irritating, especially when watching sports and live events. We've got several possible causes and what you can do about them.",
+      "image": "https://www.engadget.com/img/gallery/the-reasons-why-your-tv-soundbar-has-an-audio-delay/l-intro-1794341678.jpg",
+      "link": "https://www.engadget.com/2312648/reasons-why-tv-soundbar-audio-delay/",
+      "published": "Sat, 14 Nov 2026 21:30:00 +0000",
+      "title_th": "The reasons why your TV soundbar has an audio delay",
+      "summary_th": "Audio delays are really irritating, especially when watching sports and live events. We've got several possible causes and what you can do about them."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "Why some USB ports are yellow (and less common than others)",
+      "summary_en": "Not every USB port color means what you think. Learn why yellow ports are so uncommon and what to check before you plug in anything important.",
+      "image": "https://www.engadget.com/img/gallery/why-some-usb-ports-are-yellow-and-less-common-than-others/l-intro-1794332281.jpg",
+      "link": "https://www.engadget.com/2312464/why-some-usb-ports-yellow-less-common/",
+      "published": "Sat, 14 Nov 2026 21:15:00 +0000",
+      "title_th": "Why some USB ports are yellow (and less common than others)",
+      "summary_th": "Not every USB port color means what you think. Learn why yellow ports are so uncommon and what to check before you plug in anything important."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "gadget",
-      "title_en": "How to check which iOS version your iPhone is running",
-      "summary_en": "Not every version of iOS is a home run, but keeping your iPhone up to date is generally a good idea anyway. Here's how to check whether yours is.",
-      "image": "https://www.engadget.com/img/gallery/how-to-check-which-ios-version-your-iphone-is-running/l-intro-1794192074.jpg",
-      "link": "https://www.engadget.com/2311762/how-to-check-iphone-ios-version/",
-      "published": "Sat, 14 Nov 2026 18:15:00 +0000",
-      "title_th": "How to check which iOS version your iPhone is running",
-      "summary_th": "Not every version of iOS is a home run, but keeping your iPhone up to date is generally a good idea anyway. Here's how to check whether yours is."
+      "title_en": "SpaceX successfully catches Starship after launch for the first time",
+      "summary_en": "While the company has pulled off this trick a few times with Super Heavy boosters, it was a first for the Ship.",
+      "image": "https://www.engadget.com/img/gallery/watch-spacex-attempt-to-catch-the-starship-upper-stage-for-the-first-time/l-intro-1794693469.jpg",
+      "link": "https://www.engadget.com/2316926/watch-spacex-attempt-to-catch-the-starship-upper-stage-for-the-first-time/",
+      "published": "Sat, 14 Nov 2026 20:54:14 +0000",
+      "title_th": "SpaceX successfully catches Starship after launch for the first time",
+      "summary_th": "While the company has pulled off this trick a few times with Super Heavy boosters, it was a first for the Ship."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,30 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "Beats 360 vs Studio Pro: Here’s which Beats headphones you should buy",
+      "summary_en": "In September, Apple introduced the new Beats 360 headphones, the first overears from Beats since the Beats Studio Pro in 2023. That said, the older Beats Studio Pro still remain on sale at a lower price point – so it begs the question, which Beats headphones are more worthwhile? more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04319-2278x1139.jpg.jpeg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/14/apple-beats-studio-pro-vs-beats-360-comparison/",
+      "published": "Sat, 14 Nov 2026 22:02:41 +0000",
+      "title_th": "Beats 360 vs Studio Pro: Here’s which Beats headphones you should buy",
+      "summary_th": "In September, Apple introduced the new Beats 360 headphones, the first overears from Beats since the Beats Studio Pro in 2023. That said, the older Beats Studio Pro still remain on sale at a lower price point – so it begs the question, which Beats headphones are more worthwhile? more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Indie App Spotlight: ‘Milton’ lets you turn your old iPad into a home dashboard",
+      "summary_en": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . Apple finally released its new HomeView this week, a smart display that serves at the center of your home. What if you don’t want to buy a new product though? Milton is an app for older iPads running iPadOS 17 and later that can serve a similar purpose. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/37256650cdc1b8807ed7cf263170dc6288a29c048d7fe757a47beb047fd38757.png?resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/14/indie-app-spotlight-milton-lets-you-turn-your-old-ipad-into-a-home-dashboard/",
+      "published": "Sat, 14 Nov 2026 20:30:00 +0000",
+      "title_th": "Indie App Spotlight: ‘Milton’ lets you turn your old iPad into a home dashboard",
+      "summary_th": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . Apple finally released its new HomeView this week, a smart display that serves at the center of your home. What if you don’t want to buy a new product though? Milton is an app for older iPads running iPadOS 17 and later that can serve a similar purpose. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Here’s a HomeView feature that should come to every Apple device",
       "summary_en": "This week, Apple started shipping the HomeView , its first display made for the smart home. On the HomeView , there’s one particularly nice feature that I’d love to see make its way to all Apple platforms: Ambient Dark Mode. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-faces-grid.jpg?quality=82&strip=all&resize=1200,628",
@@ -459,28 +483,16 @@
       "summary_th": "Alongside the release of the new Apple TV 4K , we also have loads of the early Black Friday offers flying with the lowest prices to date on AirTag 2 at $17.50 , rare discounts on Magic Mouse , the lowest price yet on the 2026 Magic Keyboard and more, alongside the $50 price drop on AirPods Pro 3 . This week’s impressive $250 price drops on M5 MacBook Air are also joined by M6 Mac mini at up to $150 off , the best prices to date on Apple Watch Ultra 4 at nearly $100 off , the iPhone Duo-ready Apple Pencil USB-C, chargers, official Apple iPhone 18 Pro cases, and more. Check it all out below. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "Tired of paying for cloud storage every month? pCloud’s Black Friday Lifetime deal is the cure for subscription fatigue",
-      "summary_en": "Software used to be a one-time purchase, but over time, with the addition of cloud storage and services, everything has become a subscription. One company even tried to make your car seat heaters a subscription . Count the subscriptions you’re paying for right now: iCloud, a password manager, a couple of streaming services, a music service, maybe a VPN, and whatever other app decided this year that it needed to be $4.99 per month for something that used to be a one-time purchase. Everything is a service now, and a lot of people are hitting the point where one more monthly charge is one too many on principle alone. Cloud storage is the one that’s hardest to cancel, because your photos and files are in it. That’s exactly why pCloud’s Lifetime plans are worth a look this Black Friday: you pay",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/pCloud-2.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/13/tired-paying-cloud-storage-every-month-pclouds-black-friday-lifetime-deal-cure-subscription-fatigue/",
-      "published": "Fri, 13 Nov 2026 23:00:00 +0000",
-      "title_th": "Tired of paying for cloud storage every month? pCloud’s Black Friday Lifetime deal is the cure for subscription fatigue",
-      "summary_th": "Software used to be a one-time purchase, but over time, with the addition of cloud storage and services, everything has become a subscription. One company even tried to make your car seat heaters a subscription . Count the subscriptions you’re paying for right now: iCloud, a password manager, a couple of streaming services, a music service, maybe a VPN, and whatever other app decided this year that it needed to be $4.99 per month for something that used to be a one-time purchase. Everything is a service now, and a lot of people are hitting the point where one more monthly charge is one too many on principle alone. Cloud storage is the one that’s hardest to cancel, because your photos and files are in it. That’s exactly why pCloud’s Lifetime plans are worth a look this Black Friday: you pay"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple details HomeView facial recognition, repair options, and more in new support guides",
-      "summary_en": "Coinciding with the launch of Apple HomeView, the company has been updating its support website with new guides covering everything from facial recognition and user profiles to troubleshooting and repairs. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/homeview-hand-touch.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/13/apple-details-homeview-facial-recognition-repair-options-and-more-in-new-support-guides/",
-      "published": "Fri, 13 Nov 2026 21:59:21 +0000",
-      "title_th": "Apple details HomeView facial recognition, repair options, and more in new support guides",
-      "summary_th": "Coinciding with the launch of Apple HomeView, the company has been updating its support website with new guides covering everything from facial recognition and user profiles to troubleshooting and repairs. Here are the details. more…"
+      "title_en": "Google Pixel rolls out new ‘Family Hub’ feature with useful controls [Gallery]",
+      "summary_en": "First appearing earlier this month, Google Pixel phones are rolling out a handy new Family feature in the Settings menu. Here’s what it can do. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Pixel-11-Pro-camera-close-up.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/11/14/google-pixel-family-hub-feature-rolled-out/",
+      "published": "Sat, 14 Nov 2026 23:00:00 +0000",
+      "title_th": "Google Pixel rolls out new ‘Family Hub’ feature with useful controls [Gallery]",
+      "summary_th": "First appearing earlier this month, Google Pixel phones are rolling out a handy new Family feature in the Settings menu. Here’s what it can do. more…"
     },
     {
       "source": "9to5Google",
@@ -531,16 +543,16 @@
       "summary_th": "The long-awaited Motorola MA2 wireless Android Auto adapter is gone just days after it went on sale. Motorola MA2 is..."
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Friday’s Android game and app deals: Echoes of Vatheria, Raiders of the North Sea, MEGA MAN, more",
-      "summary_en": "The early Black Friday sales are in full swing at Amazon , Walmart , and Best Buy has now launched a suite of new Doorbusters , but we also have Friday’s Google Play app and game deals: Echoes of Vatheria, Raiders of the North Sea, MEGA MAN X DiVE Offline, Streets of Rage 4, Ace Attorney Trilogy, Legend of Keepers, [Premium] RPG Onigo Hunter, Premium-RPG Wizards of Brandel, and more. Alongside the all-time low on the Google Home Speaker and the now available Google Pixel Tag , the Nothing early Black Friday deals exploded today with new all-time lows Headphone (a) , the brand new Nothing CMF milk carton speakers , and the Nothing CMF Buds Neo at just just $17 , among a whole lot more. The apps await below. more…",
-      "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/11/Google-Play-collage-508a5e.webp?resize=1200,628",
-      "link": "https://9to5toys.com/2026/11/13/todays-highlight-google-play-deals-49/",
-      "published": "Fri, 13 Nov 2026 18:53:06 +0000",
-      "title_th": "Friday’s Android game and app deals: Echoes of Vatheria, Raiders of the North Sea, MEGA MAN, more",
-      "summary_th": "The early Black Friday sales are in full swing at Amazon , Walmart , and Best Buy has now launched a suite of new Doorbusters , but we also have Friday’s Google Play app and game deals: Echoes of Vatheria, Raiders of the North Sea, MEGA MAN X DiVE Offline, Streets of Rage 4, Ace Attorney Trilogy, Legend of Keepers, [Premium] RPG Onigo Hunter, Premium-RPG Wizards of Brandel, and more. Alongside the all-time low on the Google Home Speaker and the now available Google Pixel Tag , the Nothing early Black Friday deals exploded today with new all-time lows Headphone (a) , the brand new Nothing CMF milk carton speakers , and the Nothing CMF Buds Neo at just just $17 , among a whole lot more. The apps await below. more…"
+      "category": "ev",
+      "title_en": "$20K Nissan NX7 PHEV goes on sale with nearly 200 miles of electric range",
+      "summary_en": "Dongfeng Nissan officially opened the early order book on its new NX7 hybrid yesterday, promising up to 320 km (~198 miles) of all-electric range from a 40 kWh lithium iron phosphate (LFP) battery and a $20,000 price tag. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/nissan_nx7.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/11/14/20k-nissan-nx7-phev-goes-on-sale-with-nearly-200-miles-of-electric-range/",
+      "published": "Sat, 14 Nov 2026 21:26:03 +0000",
+      "title_th": "$20K Nissan NX7 PHEV goes on sale with nearly 200 miles of electric range",
+      "summary_th": "Dongfeng Nissan officially opened the early order book on its new NX7 hybrid yesterday, promising up to 320 km (~198 miles) of all-electric range from a 40 kWh lithium iron phosphate (LFP) battery and a $20,000 price tag. more…"
     },
     {
       "source": "Electrek",
@@ -589,18 +601,6 @@
       "published": "Sat, 14 Nov 2026 13:02:00 +0000",
       "title_th": "I finally got a USB-C charging e-bike, and it costs 75% less than Rivian’s bike",
       "summary_th": "I’ve been waiting years for electric bikes to finally embrace USB-C charging. We’ve already standardized much of our lives around the convenient little connector, from phones and laptops to tablets and countless other gadgets. But for some reason, electric bikes have largely missed the memo. Now, though, I’m finally riding an e-bike that charges with USB-C, and the best part is that it doesn’t cost an arm and a leg. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones",
-      "summary_en": "Tesla is now inviting “select customers” to buy a Cybercab for personal use at $29,990, but the car won’t move unless you also pay $299 a month for an “Autonomy Subscription.” And it only works inside Tesla’s Robotaxi service areas in Texas and Florida, the same geofences that have turned out to be significantly smaller than what Tesla advertises. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Cybercab-orders.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/",
-      "published": "Sat, 14 Nov 2026 02:11:39 +0000",
-      "title_th": "Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones",
-      "summary_th": "Tesla is now inviting “select customers” to buy a Cybercab for personal use at $29,990, but the car won’t move unless you also pay $299 a month for an “Autonomy Subscription.” And it only works inside Tesla’s Robotaxi service areas in Texas and Florida, the same geofences that have turned out to be significantly smaller than what Tesla advertises. more…"
     }
   ],
   "indices": [
@@ -699,96 +699,6 @@
       "thumbnail": "https://i4.ytimg.com/vi/g6Die8gVFn0/hqdefault.jpg",
       "published": "2026-11-03T14:01:31+00:00",
       "title_th": "OLED iPad Mini is The Most Apple Product They've Ever Appled"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "The first folding phone vs now…",
-      "video_id": "IeqkzKGfMX0",
-      "link": "https://www.youtube.com/shorts/IeqkzKGfMX0",
-      "thumbnail": "https://i2.ytimg.com/vi/IeqkzKGfMX0/hqdefault.jpg",
-      "published": "2026-11-10T15:41:58+00:00",
-      "title_th": "The first folding phone vs now…"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "You need this new power brick…",
-      "video_id": "eP7lsIoSTMU",
-      "link": "https://www.youtube.com/shorts/eP7lsIoSTMU",
-      "thumbnail": "https://i2.ytimg.com/vi/eP7lsIoSTMU/hqdefault.jpg",
-      "published": "2026-11-04T17:46:18+00:00",
-      "title_th": "You need this new power brick…"
-    },
-    {
-      "channel": "Unbox Therapy",
-      "country": "US",
-      "title_en": "This Thing Runs On Android?",
-      "video_id": "Qw6UAdGL14s",
-      "link": "https://www.youtube.com/watch?v=Qw6UAdGL14s",
-      "thumbnail": "https://i2.ytimg.com/vi/Qw6UAdGL14s/hqdefault.jpg",
-      "published": "2026-11-02T18:33:27+00:00",
-      "title_th": "This Thing Runs On Android?"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "คลาร่า โกห์ พูดถึงการร่วมมือของ Meta กับรัฐบาลไทยในการดูแลนโยบาย Teen Account",
-      "video_id": "junfy7GS3io",
-      "link": "https://www.youtube.com/shorts/junfy7GS3io",
-      "thumbnail": "https://i3.ytimg.com/vi/junfy7GS3io/hqdefault.jpg",
-      "published": "2026-11-14T03:00:09+00:00",
-      "title_th": "คลาร่า โกห์ พูดถึงการร่วมมือของ Meta กับรัฐบาลไทยในการดูแลนโยบาย Teen Account"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "สายดื่มลดลง สายเฮลตี้พุ่ง",
-      "video_id": "_KvjpUsIAhg",
-      "link": "https://www.youtube.com/shorts/_KvjpUsIAhg",
-      "thumbnail": "https://i4.ytimg.com/vi/_KvjpUsIAhg/hqdefault.jpg",
-      "published": "2026-11-13T23:00:36+00:00",
-      "title_th": "สายดื่มลดลง สายเฮลตี้พุ่ง"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "พนักงานส่งแก๊ส นอกจากยกไปส่ง ต้องทำอะไรบ้าง?",
-      "video_id": "jMtcC6S6LQY",
-      "link": "https://www.youtube.com/watch?v=jMtcC6S6LQY",
-      "thumbnail": "https://i3.ytimg.com/vi/jMtcC6S6LQY/hqdefault.jpg",
-      "published": "2026-11-13T10:00:28+00:00",
-      "title_th": "พนักงานส่งแก๊ส นอกจากยกไปส่ง ต้องทำอะไรบ้าง?"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "Galaxy S27 อาจไปเน้นรุ่นท็อป/ แฮกเกอร์จีนใช้ AI แฮกทั้วโลก /ภาคต่อ iPhone Air 2 | #หิวข่าว",
-      "video_id": "ROUYLiMCrQY",
-      "link": "https://www.youtube.com/watch?v=ROUYLiMCrQY",
-      "thumbnail": "https://i3.ytimg.com/vi/ROUYLiMCrQY/hqdefault.jpg",
-      "published": "2026-11-14T13:00:03+00:00",
-      "title_th": "Galaxy S27 อาจไปเน้นรุ่นท็อป/ แฮกเกอร์จีนใช้ AI แฮกทั้วโลก /ภาคต่อ iPhone Air 2 | #หิวข่าว"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "ระวังแอปเงินกู้เถื่อน ดอกแพงเกินกฎหมาย หลอกหักเงินไม่รู้จบ #แอปเงินกู้ #ความรู้ไอที #ประเทศไทย",
-      "video_id": "bWG125nMZDo",
-      "link": "https://www.youtube.com/shorts/bWG125nMZDo",
-      "thumbnail": "https://i3.ytimg.com/vi/bWG125nMZDo/hqdefault.jpg",
-      "published": "2026-11-13T09:06:48+00:00",
-      "title_th": "ระวังแอปเงินกู้เถื่อน ดอกแพงเกินกฎหมาย หลอกหักเงินไม่รู้จบ #แอปเงินกู้ #ความรู้ไอที #ประเทศไทย"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "ราคาต่างกัน 0 บาท จะเลือก vivo V80 หรือ OPPO Reno16 5G งบ 21,999 บาท #OPPO #vivo",
-      "video_id": "99eCV3m2LWQ",
-      "link": "https://www.youtube.com/shorts/99eCV3m2LWQ",
-      "thumbnail": "https://i2.ytimg.com/vi/99eCV3m2LWQ/hqdefault.jpg",
-      "published": "2026-11-12T15:41:57+00:00",
-      "title_th": "ราคาต่างกัน 0 บาท จะเลือก vivo V80 หรือ OPPO Reno16 5G งบ 21,999 บาท #OPPO #vivo"
     }
   ]
 }
