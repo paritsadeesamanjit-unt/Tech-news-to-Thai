@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-11-20T04:49:12.423354+00:00",
+  "generated_at": "2026-11-20T14:46:15.225421+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Six AI-powered gadgets that could make your home office smarter",
+      "summary_en": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1348850409.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "published": "Fri, 20 Nov 2026 14:00:00 +0000",
+      "title_th": "Six AI-powered gadgets that could make your home office smarter",
+      "summary_th": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+      "summary_en": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266464474.jpg?resize=1200,774",
+      "link": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+      "published": "Fri, 20 Nov 2026 13:25:00 +0000",
+      "title_th": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+      "summary_th": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+      "summary_en": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/nemoclaw.jpg?resize=1200,675",
+      "link": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+      "published": "Fri, 20 Nov 2026 13:21:11 +0000",
+      "title_th": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+      "summary_th": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "The U.S. national cyber director is stepping down",
+      "summary_en": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2264911748.jpg?resize=1200,705",
+      "link": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+      "published": "Fri, 20 Nov 2026 09:14:19 +0000",
+      "title_th": "The U.S. national cyber director is stepping down",
+      "summary_th": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -15,52 +63,40 @@
       "summary_th": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "summary_en": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "published": "Fri, 20 Nov 2026 00:43:50 +0000",
-      "title_th": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "summary_th": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
+      "category": "software",
+      "title_en": "The week everything fell apart",
+      "summary_en": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of something even bigger. On […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111926_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+      "published": "2026-11-20T09:06:59-05:00",
+      "title_th": "The week everything fell apart",
+      "summary_th": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of something even bigger. On […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Anthropic rival says companies can (mostly) skip the pricey models",
-      "summary_en": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-12.43.24-AM.png?resize=1200,601",
-      "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
-      "published": "Fri, 20 Nov 2026 00:26:03 +0000",
-      "title_th": "Anthropic rival says companies can (mostly) skip the pricey models",
-      "summary_th": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust."
+      "category": "software",
+      "title_en": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "summary_en": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&strip=all&crop=0%2C3.8035109331691%2C100%2C92.392978133662&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "published": "2026-11-20T07:30:47-05:00",
+      "title_th": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "summary_th": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president […]"
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
-      "summary_en": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
-      "published": "Thu, 19 Nov 2026 23:37:56 +0000",
-      "title_th": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
-      "summary_th": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
-      "summary_en": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IconSwapper-Key-Art.jpg?resize=1200,630",
-      "link": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
-      "published": "Thu, 19 Nov 2026 22:33:26 +0000",
-      "title_th": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
-      "summary_th": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun."
+      "category": "software",
+      "title_en": "Why the robots are ditching Uber",
+      "summary_en": "In a late August earnings call, Uber CEO Dara Khosrowshahi sounded optimistic about his company's \"very strong\" partnership with Waymo, the global leader in autonomous robotaxis. The two companies had been working together for years in several cities - including exclusively in Austin and Atlanta - and things were going swimmingly, according to Khosrowshahi. \"We […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Waymo_Uber_Kristen_Radtke_e68b56.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
+      "published": "2026-11-20T07:00:00-05:00",
+      "title_th": "Why the robots are ditching Uber",
+      "summary_th": "In a late August earnings call, Uber CEO Dara Khosrowshahi sounded optimistic about his company's \"very strong\" partnership with Waymo, the global leader in autonomous robotaxis. The two companies had been working together for years in several cities - including exclusively in Austin and Atlanta - and things were going swimmingly, according to Khosrowshahi. \"We […]"
     },
     {
       "source": "The Verge",
@@ -85,42 +121,6 @@
       "published": "2026-11-19T16:59:35-05:00",
       "title_th": "A brief history of Nvidia’s recent stock fluctuations",
       "summary_th": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Meta now sells 3D movies on Quest VR headsets",
-      "summary_en": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spider-Man: Far From Home, Jurassic World Rebirth, Wicked: For Good, and a Billie […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24951506/236805_Quest_3_and_Ray_Ban_meta_glasses_BFarsace_0016.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
-      "published": "2026-11-19T16:12:06-05:00",
-      "title_th": "Meta now sells 3D movies on Quest VR headsets",
-      "summary_th": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spider-Man: Far From Home, Jurassic World Rebirth, Wicked: For Good, and a Billie […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Meta’s Muse Charm might cost $300",
-      "summary_en": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "published": "2026-11-19T15:22:17-05:00",
-      "title_th": "Meta’s Muse Charm might cost $300",
-      "summary_th": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Google is putting AI chats right on the homepage",
-      "summary_en": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-      "published": "2026-11-19T15:05:06-05:00",
-      "title_th": "Google is putting AI chats right on the homepage",
-      "summary_th": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the […]"
     },
     {
       "source": "Ars Technica",
@@ -186,61 +186,73 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Fiona the Hippo Died After Eating a Hat. But How Does a Hat Kill a Hippo?",
-      "summary_en": "The beloved 9-year-old hippo at the Cincinnati Zoo was famous for surviving premature birth. Veterinary experts explain how a 2,500-pound animal can succumb to a knit hat.",
-      "image": "https://media.wired.com/photos/6aff6de3747e1608ed3c9a9a/master/pass/RIP-Fiona-the-Hippo-Business-1230298782.jpg",
-      "link": "https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo/",
-      "published": "Fri, 20 Nov 2026 02:39:47 +0000",
-      "title_th": "Fiona the Hippo Died After Eating a Hat. But How Does a Hat Kill a Hippo?",
-      "summary_th": "The beloved 9-year-old hippo at the Cincinnati Zoo was famous for surviving premature birth. Veterinary experts explain how a 2,500-pound animal can succumb to a knit hat."
+      "title_en": "The Best Pura Deals for Cyber Week (2026)",
+      "summary_en": "Pura fragrances are 20% off, and diffusers are 30% off through December 6. Here’s what I’d buy after having tested three generations of Pura devices.",
+      "image": "https://media.wired.com/photos/6affa74456c5e41772b72229/master/pass/Pura%E2%80%99s-Smart-Diffusers-Are-on-Sale-for-Cyber-Week.jpg",
+      "link": "https://www.wired.com/story/pura-black-friday-2026/",
+      "published": "Fri, 20 Nov 2026 13:30:00 +0000",
+      "title_th": "The Best Pura Deals for Cyber Week (2026)",
+      "summary_th": "Pura fragrances are 20% off, and diffusers are 30% off through December 6. Here’s what I’d buy after having tested three generations of Pura devices."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Best Amazon Black Friday Deals (2026)",
-      "summary_en": "For die-hard Amazon shoppers, the retailer is starting Black Friday early. You can shop the deals from now until November 30.",
-      "image": "https://media.wired.com/photos/6af39cc2b435cf5927e355e7/master/pass/Amazon%E2%80%99s-Black-Friday-Sale-Starts-Next-Week,-but-Deals-Are-Already-Live.jpg",
-      "link": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals/",
-      "published": "Thu, 19 Nov 2026 22:02:12 +0000",
-      "title_th": "Best Amazon Black Friday Deals (2026)",
-      "summary_th": "For die-hard Amazon shoppers, the retailer is starting Black Friday early. You can shop the deals from now until November 30."
+      "title_en": "The Birdfy Gifts I’d Buy for Backyard Birders",
+      "summary_en": "After more than two years of testing smart bird feeders, these are the picks I’d give others, including a simple camera feeder and a nest box that let me watch chickadees raise their young.",
+      "image": "https://media.wired.com/photos/6affa5f18893fa526fe4be1e/master/pass/The-Birdfy-Gifts-I%E2%80%99d-Buy-for-Backyard-Birders.jpg",
+      "link": "https://www.wired.com/story/best-birdfy-gifts-2026/",
+      "published": "Fri, 20 Nov 2026 13:00:00 +0000",
+      "title_th": "The Birdfy Gifts I’d Buy for Backyard Birders",
+      "summary_th": "After more than two years of testing smart bird feeders, these are the picks I’d give others, including a simple camera feeder and a nest box that let me watch chickadees raise their young."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "What’s With All These Outages?",
-      "summary_en": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
-      "image": "https://media.wired.com/photos/6afe24032a6a9296f65dbfa1/master/pass/Uncanny-Valley-FAA-Outage-Business.jpg",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
-      "published": "Thu, 19 Nov 2026 21:57:01 +0000",
-      "title_th": "What’s With All These Outages?",
-      "summary_th": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang."
+      "title_en": "Best Robot Vacuum Early Black Friday Deals from Roborock (2026)",
+      "summary_en": "A few of the best robot vacuums I’ve tested from the brand are at their lowest prices ever.",
+      "image": "https://media.wired.com/photos/6affa2c5fc894cda63c23f38/master/pass/Roborock%E2%80%99s-Early-Black-Friday-Sale-Isn%E2%80%99t-One-to-Miss.jpg",
+      "link": "https://www.wired.com/story/best-early-black-friday-robot-vacuum-deals-roborock-2026/",
+      "published": "Fri, 20 Nov 2026 12:15:00 +0000",
+      "title_th": "Best Robot Vacuum Early Black Friday Deals from Roborock (2026)",
+      "summary_th": "A few of the best robot vacuums I’ve tested from the brand are at their lowest prices ever."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Which MacBook to Buy (2026): Here’s Which Laptop Is Right for You",
+      "summary_en": "With the introduction of the OLED MacBook Pro and MacBook Neo, there are now more Apple laptops than ever to choose from.",
+      "image": "https://media.wired.com/photos/69cbff9493b7298932e00d65/master/pass/IMG_3324.JPG",
+      "link": "https://www.wired.com/story/which-macbook-should-you-buy/",
+      "published": "Fri, 20 Nov 2026 12:00:00 +0000",
+      "title_th": "Which MacBook to Buy (2026): Here’s Which Laptop Is Right for You",
+      "summary_th": "With the introduction of the OLED MacBook Pro and MacBook Neo, there are now more Apple laptops than ever to choose from."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
-      "summary_en": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
-      "image": "https://media.wired.com/photos/6afe3efb681d658b6618bff6/master/pass/Model-Behavior-Jensen-Taiwanes-Restaurants-Business.jpg",
-      "link": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
-      "published": "Thu, 19 Nov 2026 20:34:17 +0000",
-      "title_th": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
-      "summary_th": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner."
+      "title_en": "Muse Is Unleashing a World of Pettiness on Instagram",
+      "summary_en": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
+      "image": "https://media.wired.com/photos/6aff9abb37d7793ac7889730/master/pass/Meta-Muse-Pettiness-Culture.jpg",
+      "link": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+      "published": "Fri, 20 Nov 2026 12:00:00 +0000",
+      "title_th": "Muse Is Unleashing a World of Pettiness on Instagram",
+      "summary_th": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage."
     },
     {
-      "source": "Wired",
+      "source": "MIT Technology Review",
       "flag": "US",
       "category": "ai",
-      "title_en": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-      "summary_en": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
-      "image": "https://media.wired.com/photos/6aff303dd91b5ce0f67d7c99/master/pass/security_chrome_mirror_browser_ai_agent.jpg",
-      "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
-      "published": "Thu, 19 Nov 2026 17:00:00 +0000",
-      "title_th": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-      "summary_th": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue."
+      "title_en": "The Download: inside the quest to make our minds immortal",
+      "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/eye-brains.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+      "published": "Fri, 20 Nov 2026 13:10:00 +0000",
+      "title_th": "The Download: inside the quest to make our minds immortal",
+      "summary_th": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To preserve our sense of self, some scientists are working on ways to keep our brains going—even beyond…"
     },
     {
       "source": "MIT Technology Review",
@@ -291,76 +303,76 @@
       "summary_th": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and…"
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "The Download: AI learns to smell and hydropower struggles",
-      "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,” “peachy,”…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/osmo-nose2.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
-      "published": "Wed, 18 Nov 2026 13:10:00 +0000",
-      "title_th": "The Download: AI learns to smell and hydropower struggles",
-      "summary_th": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,” “peachy,”…"
+      "category": "chip",
+      "title_en": "Google boosts Gemini's ability to do 'repetitive tasks' on its Mac app",
+      "summary_en": "Google's Gemini app for Mac can now use your computer to list items on eBay, speed up creative tasks and fill out forms for you.",
+      "image": "https://www.engadget.com/img/gallery/google-boosts-geminis-ability-to-do-repetitive-tasks-on-its-mac-app/l-intro-1795178098.jpg",
+      "link": "https://www.engadget.com/2322728/google-boosts-geminis-ability-to-do-repetitive-tasks-on-its-mac-app/",
+      "published": "Fri, 20 Nov 2026 12:36:11 +0000",
+      "title_th": "Google boosts Gemini's ability to do 'repetitive tasks' on its Mac app",
+      "summary_th": "Google's Gemini app for Mac can now use your computer to list items on eBay, speed up creative tasks and fill out forms for you."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Job posting seemingly confirms Apple is working on its own AI agent for coding and other tasks",
-      "summary_en": "Apple is is hiring a senior engineering manager to build \"capable, reliable and safe\" agentic tools.",
-      "image": "https://www.engadget.com/img/gallery/job-posting-seemingly-confirms-apple-is-working-on-its-own-ai-agent-for-coding-and-other-tasks/l-intro-1795132872.jpg",
-      "link": "https://www.engadget.com/2322586/job-posting-seemingly-confirms-apple-is-working-on-its-own-ai-agent-for-coding-and-other-tasks/",
-      "published": "Fri, 20 Nov 2026 00:03:22 +0000",
-      "title_th": "Job posting seemingly confirms Apple is working on its own AI agent for coding and other tasks",
-      "summary_th": "Apple is is hiring a senior engineering manager to build \"capable, reliable and safe\" agentic tools."
+      "title_en": "WhatsApp's group chats can now have up to 1,500 members",
+      "summary_en": "WhatsApp is giving users the ability to create even bigger group chats with up to 1,500 participants.",
+      "image": "https://www.engadget.com/img/gallery/whatsapps-group-chats-can-now-have-up-to-1500-members/l-intro-1795174992.jpg",
+      "link": "https://www.engadget.com/2322717/whatsapps-group-chats-can-now-have-up-to-1500-members/",
+      "published": "Fri, 20 Nov 2026 11:48:37 +0000",
+      "title_th": "WhatsApp's group chats can now have up to 1,500 members",
+      "summary_th": "WhatsApp is giving users the ability to create even bigger group chats with up to 1,500 participants."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "The GTA 6 star system says a lot more than just your Wanted level",
-      "summary_en": "Just committing a robbery doesn't necessarily mean your Wanted level will rise.",
-      "image": "https://www.engadget.com/img/gallery/the-gta-6-star-system-says-a-lot-more-than-just-your-wanted-level/l-intro-1795130347.jpg",
-      "link": "https://www.engadget.com/2322564/gta-6-wanted-level-star-system-details/",
-      "published": "Thu, 19 Nov 2026 23:28:22 +0000",
-      "title_th": "The GTA 6 star system says a lot more than just your Wanted level",
-      "summary_th": "Just committing a robbery doesn't necessarily mean your Wanted level will rise."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Leaked images may show Motorola's answer to the iPhone Duo",
-      "summary_en": "We may have our best look yet at Motorola's upcoming foldable.",
-      "image": "https://www.engadget.com/img/gallery/leaked-images-may-show-motorolas-answer-to-the-iphone-duo/l-intro-1795129766.jpg",
-      "link": "https://www.engadget.com/2322557/leaked-images-may-show-motorolas-answer-to-the-iphone-duo/",
-      "published": "Thu, 19 Nov 2026 23:13:40 +0000",
-      "title_th": "Leaked images may show Motorola's answer to the iPhone Duo",
-      "summary_th": "We may have our best look yet at Motorola's upcoming foldable."
+      "title_en": "The Trump administration has replaced its cybersecurity chief",
+      "summary_en": "The White House has replaced cybersecurity chief Sean Cairncross with the Pentagon's Kirsten Davies.",
+      "image": "https://www.engadget.com/img/gallery/the-trump-administration-has-replaced-its-cybersecurity-chief/l-intro-1795171923.jpg",
+      "link": "https://www.engadget.com/2322705/the-trump-administration-has-replaced-its-cybersecurity-chief/",
+      "published": "Fri, 20 Nov 2026 10:53:36 +0000",
+      "title_th": "The Trump administration has replaced its cybersecurity chief",
+      "summary_th": "The White House has replaced cybersecurity chief Sean Cairncross with the Pentagon's Kirsten Davies."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Meta's Muse Charm will reportedly cost $300 and come with free Verizon 5G",
-      "summary_en": "Meta's standalone AI gadget won't be cheap, but it might come with a free data plan.",
-      "image": "https://www.engadget.com/img/gallery/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/l-intro-1795128747.jpg",
-      "link": "https://www.engadget.com/2322541/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/",
-      "published": "Thu, 19 Nov 2026 22:56:42 +0000",
-      "title_th": "Meta's Muse Charm will reportedly cost $300 and come with free Verizon 5G",
-      "summary_th": "Meta's standalone AI gadget won't be cheap, but it might come with a free data plan."
+      "title_en": "OpenAI is testing Dots personal agents on its $20 per month Plus tier",
+      "summary_en": "OpenAI is expanding access to Dots, the proactive AI agents that can work for you without any supervision or assistance.",
+      "image": "https://www.engadget.com/img/gallery/openai-is-testing-dots-personal-agents-on-its-20-per-month-plus-tier/l-intro-1795158872.jpg",
+      "link": "https://www.engadget.com/2322656/openai-is-testing-dots-personal-agents-on-its-20-per-month-plus-tier/",
+      "published": "Fri, 20 Nov 2026 07:31:25 +0000",
+      "title_th": "OpenAI is testing Dots personal agents on its $20 per month Plus tier",
+      "summary_th": "OpenAI is expanding access to Dots, the proactive AI agents that can work for you without any supervision or assistance."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Meta Quest adds 3D movie purchases and rentals to its TV app",
-      "summary_en": "The headlining film is a Billie Eilish 3D concert experience co-directed by James Cameron.",
-      "image": "https://www.engadget.com/img/gallery/meta-quest-adds-3d-movie-purchases-and-rentals-to-its-tv-app/l-intro-1795122255.jpg",
-      "link": "https://www.engadget.com/2322428/meta-quest-adds-3d-movie-purchases-and-rentals-to-its-tv-app/",
-      "published": "Thu, 19 Nov 2026 21:06:58 +0000",
-      "title_th": "Meta Quest adds 3D movie purchases and rentals to its TV app",
-      "summary_th": "The headlining film is a Billie Eilish 3D concert experience co-directed by James Cameron."
+      "title_en": "Google's latest home page redesign makes Gemini even more prominent",
+      "summary_en": "Google is doubling down on Gemini AI in its desktop search, despite complaints from users and employees alike.",
+      "image": "https://www.engadget.com/img/gallery/googles-latest-home-page-redesign-makes-gemini-even-more-prominent/l-intro-1795153348.jpg",
+      "link": "https://www.engadget.com/2322647/google-latest-home-page-redesign-makes-gemini-even-more-prominent/",
+      "published": "Fri, 20 Nov 2026 05:45:38 +0000",
+      "title_th": "Google's latest home page redesign makes Gemini even more prominent",
+      "summary_th": "Google is doubling down on Gemini AI in its desktop search, despite complaints from users and employees alike."
+    },
+    {
+      "source": "IEEE Spectrum",
+      "flag": "US",
+      "category": "robot",
+      "title_en": "I Don’t Trust Visual Recordings Anymore. But One Day I Will Again",
+      "summary_en": "In March of this year, a flurry of emails and text messages from a half dozen reporters around the world disrupted my quiet Saturday morning. An Iranian news agency had aired a week-old video of what appeared to be a U.S.-made Tomahawk missile hitting a school. News reports claimed that the strike killed more than 175 people, most of them children. The U.S. president and military denied responsibility. In the age of generative AI and all things deepfake, everyone—including me—was skeptical of the video’s authenticity. I get this type of request a lot. For the past three decades, I’ve been developing mathematical and computational techniques to analyze and detect manipulation in digital media. Over this time, I think it’s fair to say that I, like most people, have approached visual recordin",
+      "image": "https://spectrum.ieee.org/media-library/photo-collage-of-a-mans-face-featuring-glitched-distortions-and-abstract-shapes.jpg?id=68721975&width=980",
+      "link": "https://spectrum.ieee.org/fighting-back-against-deep-fakes",
+      "published": "Fri, 20 Nov 2026 14:00:03 +0000",
+      "title_th": "I Don’t Trust Visual Recordings Anymore. But One Day I Will Again",
+      "summary_th": "In March of this year, a flurry of emails and text messages from a half dozen reporters around the world disrupted my quiet Saturday morning. An Iranian news agency had aired a week-old video of what appeared to be a U.S.-made Tomahawk missile hitting a school. News reports claimed that the strike killed more than 175 people, most of them children. The U.S. president and military denied responsibility. In the age of generative AI and all things deepfake, everyone—including me—was skeptical of the video’s authenticity. I get this type of request a lot. For the past three decades, I’ve been developing mathematical and computational techniques to analyze and detect manipulation in digital media. Over this time, I think it’s fair to say that I, like most people, have approached visual recordin"
     },
     {
       "source": "IEEE Spectrum",
@@ -411,76 +423,100 @@
       "summary_th": "Policymakers, technologists, and members of the public have raised concerns about the harm AI’s rapid advancement might cause to society. Their concerns include bias, data privacy violations, the spread of misinformation, and losing control of AI agents. Those issues are relatively new to many people, but the IEEE Standards Association has been working for the past decade on ways to prioritize the responsible development of AI systems. In 2016 IEEE SA launched the IEEE Global Initiative for Ethical Considerations in Autonomous and Intelligent Systems (A/IS) and published the Ethically Aligned Design report. EAD ’s mission is to encourage everyone involved in designing autonomous and intelligent systems to prioritize human well-being by applying ethical considerations for the benefit of hum"
     },
     {
-      "source": "IEEE Spectrum",
-      "flag": "US",
-      "category": "robot",
-      "title_en": "AI Is Giving Optical Computing Another Shot",
-      "summary_en": "The idea of computing with light has been around for over 70 years, but until recently it’s remained largely in the realm of research. Over the past few years, though, optical computing has emerged as a fast-growing industry: Market valuation of companies in this sector now totals US $2.22 billion, up from $0.4 billion in 2022. One projection suggests that the market will continue to grow exponentially in the coming years. The reason for this sudden surge will surprise no one: AI. In particular, AI inference—the process of using AI models to respond to user queries—has driven much of the construction of huge, power-hungry data centers, and relatively energy-efficient optical systems are seen as a potential way forward. “Most of the interest in [photonics] is driven by the fact that AI infe",
-      "image": "https://spectrum.ieee.org/media-library/close-up-of-a-green-circuit-board-with-a-central-microchip-and-intricate-traces.jpg?id=68692424&width=980",
-      "link": "https://spectrum.ieee.org/optical-computing-ai",
-      "published": "Tue, 17 Nov 2026 14:00:03 +0000",
-      "title_th": "AI Is Giving Optical Computing Another Shot",
-      "summary_th": "The idea of computing with light has been around for over 70 years, but until recently it’s remained largely in the realm of research. Over the past few years, though, optical computing has emerged as a fast-growing industry: Market valuation of companies in this sector now totals US $2.22 billion, up from $0.4 billion in 2022. One projection suggests that the market will continue to grow exponentially in the coming years. The reason for this sudden surge will surprise no one: AI. In particular, AI inference—the process of using AI models to respond to user queries—has driven much of the construction of huge, power-hungry data centers, and relatively energy-efficient optical systems are seen as a potential way forward. “Most of the interest in [photonics] is driven by the fact that AI infe"
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "The water upgrade you’ve been waiting for: Waterdrop Filter’s Black Friday deals",
+      "summary_en": "The kitchen tap gets a workout over the holidays. There’s coffee to brew before everyone’s up, a pot of soup on the stove, and a pitcher that always seems to need refilling right as dinner hits the table. Whether you’re paying closer attention to family health or simply want better-tasting water for coffee and cooking, Waterdrop Filter has options for different kitchens and budgets. Its Black Friday & Cyber Monday deals run November 19 through November 30 , with savings of up to $700 on premium RO water filtration and more affordable everyday filters. Use code 9TO5MBF26 for an extra 5% off the five systems featured below, on top of their listed sale prices. From a Waterdrop reverse osmosis system for a busy family kitchen to a countertop dispenser for a smaller apartment, here’s how to fin",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/WD_M6CG冬季管道用水教育PR物料_20261029_V1-16_6deaa7.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/20/waterdrop-filter-black-friday-deals-2026/",
+      "published": "Fri, 20 Nov 2026 14:15:00 +0000",
+      "title_th": "The water upgrade you’ve been waiting for: Waterdrop Filter’s Black Friday deals",
+      "summary_th": "The kitchen tap gets a workout over the holidays. There’s coffee to brew before everyone’s up, a pot of soup on the stove, and a pitcher that always seems to need refilling right as dinner hits the table. Whether you’re paying closer attention to family health or simply want better-tasting water for coffee and cooking, Waterdrop Filter has options for different kitchens and budgets. Its Black Friday & Cyber Monday deals run November 19 through November 30 , with savings of up to $700 on premium RO water filtration and more affordable everyday filters. Use code 9TO5MBF26 for an extra 5% off the five systems featured below, on top of their listed sale prices. From a Waterdrop reverse osmosis system for a busy family kitchen to a countertop dispenser for a smaller apartment, here’s how to fin"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "WhatsApp is raising group chat limit to 1,500 participants",
-      "summary_en": "WhatsApp is gradually rolling out an increase to its group chat limit, allowing up to 1,500 participants to join in, instead of the previous 1,024 cap. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-05.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/19/whatsapp-is-raising-group-chat-limit-to-1500-participants/",
-      "published": "Fri, 20 Nov 2026 01:54:39 +0000",
-      "title_th": "WhatsApp is raising group chat limit to 1,500 participants",
-      "summary_th": "WhatsApp is gradually rolling out an increase to its group chat limit, allowing up to 1,500 participants to join in, instead of the previous 1,024 cap. Here are the details. more…"
+      "title_en": "iOS 27.3: New features, release date, more",
+      "summary_en": "iOS 27.3 is currently in beta testing with developers and public beta users. The update includes multiple new features for iPhone users, including the redesigned Health app, iPhone Duo updates, and much more. Here’s everything you need to know about what’s new in iOS 27.3 … 9to5Mac is supported by Sony : Score Sony’s ULT Field 1 Bluetooth speaker for 51% off . Powerful bass, room-filling sound, up to 12 hours of battery life, IP67 durability, stereo pairing support, and much more. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iOS-27-Guide-LG.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/20/ios-27-3-new-features-release-date-more/",
+      "published": "Fri, 20 Nov 2026 13:44:23 +0000",
+      "title_th": "iOS 27.3: New features, release date, more",
+      "summary_th": "iOS 27.3 is currently in beta testing with developers and public beta users. The update includes multiple new features for iPhone users, including the redesigned Health app, iPhone Duo updates, and much more. Here’s everything you need to know about what’s new in iOS 27.3 … 9to5Mac is supported by Sony : Score Sony’s ULT Field 1 Bluetooth speaker for 51% off . Powerful bass, room-filling sound, up to 12 hours of battery life, IP67 durability, stereo pairing support, and much more. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "LiberNovo’s Black Friday sale takes up to 42% off ergonomic chairs",
-      "summary_en": "You can spend plenty of time getting your Mac, display, and desk just right. But what about the chair you use every day? Between typing, taking video calls, and leaning back to watch something, your position changes throughout the day. Your chair should be able to keep up. That’s the idea behind LiberNovo’s ergonomic chairs , which combine support that moves with you and a choice of sizes, including the Maxis range for bigger and taller users. For Black Friday, LiberNovo is taking up to 42% off in the U.S. , with chairs starting at $609 and offers running November 19–30. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Black-Friday-Sale-Chair-Lineup-US-UK-1920x1080-2.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/19/libernovos-black-friday-sale-takes-up-to-42-off-ergonomic-chairs/",
-      "published": "Fri, 20 Nov 2026 00:00:00 +0000",
-      "title_th": "LiberNovo’s Black Friday sale takes up to 42% off ergonomic chairs",
-      "summary_th": "You can spend plenty of time getting your Mac, display, and desk just right. But what about the chair you use every day? Between typing, taking video calls, and leaning back to watch something, your position changes throughout the day. Your chair should be able to keep up. That’s the idea behind LiberNovo’s ergonomic chairs , which combine support that moves with you and a choice of sizes, including the Maxis range for bigger and taller users. For Black Friday, LiberNovo is taking up to 42% off in the U.S. , with chairs starting at $609 and offers running November 19–30. more…"
+      "title_en": "iPhone Air 2 dummy unit shows off new dual-camera design",
+      "summary_en": "Apple is expected to release the iPhone 18 and iPhone Air 2 sometime next spring. Ahead of that launch, new dummy units posted to social media today give us a closer look at the devices, including a big update to the iPhone Air 2. 9to5Mac is supported by Sony : Score Sony’s ULT Field 1 Bluetooth speaker for 51% off . Powerful bass, room-filling sound, up to 12 hours of battery life, IP67 durability, stereo pairing support, and much more. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-air-2-camera-concept-blue.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/20/iphone-air-2-dual-camera-system/",
+      "published": "Fri, 20 Nov 2026 12:56:31 +0000",
+      "title_th": "iPhone Air 2 dummy unit shows off new dual-camera design",
+      "summary_th": "Apple is expected to release the iPhone 18 and iPhone Air 2 sometime next spring. Ahead of that launch, new dummy units posted to social media today give us a closer look at the devices, including a big update to the iPhone Air 2. 9to5Mac is supported by Sony : Score Sony’s ULT Field 1 Bluetooth speaker for 51% off . Powerful bass, room-filling sound, up to 12 hours of battery life, IP67 durability, stereo pairing support, and much more. more…"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "OpenAI begins testing dots with ChatGPT Plus users, expands Business access",
-      "summary_en": "Following its launch for ChatGPT Pro, Business Premium, and Enterprise users, OpenAI is now beginning to test ChatGPT dot with a small number of ChatGPT Plus subscribers. Here are the details. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-blue.webp?resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/19/openai-begins-testing-dots-with-chatgpt-plus-users-expands-business-access/",
-      "published": "Thu, 19 Nov 2026 23:47:30 +0000",
-      "title_th": "OpenAI begins testing dots with ChatGPT Plus users, expands Business access",
-      "summary_th": "Following its launch for ChatGPT Pro, Business Premium, and Enterprise users, OpenAI is now beginning to test ChatGPT dot with a small number of ChatGPT Plus subscribers. Here are the details. more…"
+      "title_en": "Best Apple Black Friday deals now live: AirPods, MacBook Neo, Series 12, M6 MacBook Pro, more [Updated]",
+      "summary_en": "The official Amazon Black Friday sale is officially underway and we have now collected all of the best Apple deals – there’s a ton of them. Alongside AirPods Pro 3 at $70 off and AirPods Max 2 now at $120 off $130 off , the new Beats 360 modular ANC headphones are now $100 off (all-time low) and the entire Apple Watch Series 12 lineup is at the lowest prices ever. On the Mac side of things, we are tracking a wildly rare $50 price drop on MacBook Neo from $649 , the best prices in months on M5 MacBook Air at $250 off , and the very first deals on Apple’s brand new M6 MacBook Pro and PROLED XDR MacBook Pro at up to $250 off . All of that joins a host of accessories, loads of price drops on chargers, and even the very first deal on the super popular new Twelve South’s AirFly Drive Wireless Ca",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/9to5toys_black_friday_02-02.png?resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/20/best-apple-black-friday-deals-now-live/",
+      "published": "Fri, 20 Nov 2026 12:28:00 +0000",
+      "title_th": "Best Apple Black Friday deals now live: AirPods, MacBook Neo, Series 12, M6 MacBook Pro, more [Updated]",
+      "summary_th": "The official Amazon Black Friday sale is officially underway and we have now collected all of the best Apple deals – there’s a ton of them. Alongside AirPods Pro 3 at $70 off and AirPods Max 2 now at $120 off $130 off , the new Beats 360 modular ANC headphones are now $100 off (all-time low) and the entire Apple Watch Series 12 lineup is at the lowest prices ever. On the Mac side of things, we are tracking a wildly rare $50 price drop on MacBook Neo from $649 , the best prices in months on M5 MacBook Air at $250 off , and the very first deals on Apple’s brand new M6 MacBook Pro and PROLED XDR MacBook Pro at up to $250 off . All of that joins a host of accessories, loads of price drops on chargers, and even the very first deal on the super popular new Twelve South’s AirFly Drive Wireless Ca"
     },
     {
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "macOS 27.3 public beta 2 now available, here’s everything new",
-      "summary_en": "After releasing developer beta 2 of macOS 27.3 earlier this week, the company is now rolling out the public beta for users looking to try the new features ahead of next month’s official release. Here’s what’s coming. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macOS-27.3-public.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/19/macos-27-3-public-beta-2-now-available-heres-everything-new/",
-      "published": "Thu, 19 Nov 2026 23:01:25 +0000",
-      "title_th": "macOS 27.3 public beta 2 now available, here’s everything new",
-      "summary_th": "After releasing developer beta 2 of macOS 27.3 earlier this week, the company is now rolling out the public beta for users looking to try the new features ahead of next month’s official release. Here’s what’s coming. more…"
+      "title_en": "Security Bite Podcast: Not amused, two months of Meta Muse privacy problems",
+      "summary_en": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform . Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening & Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . Meta’s Muse AI agent has well surpassed a ",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/20/security-bite-podcast-not-amused-two-months-of-meta-muse-privacy-problems/",
+      "published": "Fri, 20 Nov 2026 11:00:00 +0000",
+      "title_th": "Security Bite Podcast: Not amused, two months of Meta Muse privacy problems",
+      "summary_th": "9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform . Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening & Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . Meta’s Muse AI agent has well surpassed a "
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "ChatGPT Health feature now works with Mac app, Dots, more",
-      "summary_en": "OpenAI relaunched its ChatGPT Health feature over the summer after piloting earlier in the year. Next, ChatGPT Health is set to expand to more platforms, including the Mac app and more. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-health-chatgpt.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/19/chatgpt-health-feature-will-soon-work-with-mac-app-dots-more/",
-      "published": "Thu, 19 Nov 2026 22:43:20 +0000",
-      "title_th": "ChatGPT Health feature now works with Mac app, Dots, more",
-      "summary_th": "OpenAI relaunched its ChatGPT Health feature over the summer after piloting earlier in the year. Next, ChatGPT Health is set to expand to more platforms, including the Mac app and more. more…"
+      "title_en": "The Galaxy Watch 8 is a steal at just $200 right now on Amazon",
+      "summary_en": "Amazon has lowered the price of the Samsung Galaxy Watch 8 into the “steal” category right now, as the Wear OS smartwatch starts at just $199 as part of the extended Black Friday deals. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/07/Galaxy-Watch-8-with-sport-face.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/11/20/the-galaxy-watch-8-is-a-steal-at-just-200-right-now-on-amazon/",
+      "published": "Fri, 20 Nov 2026 14:09:12 +0000",
+      "title_th": "The Galaxy Watch 8 is a steal at just $200 right now on Amazon",
+      "summary_th": "Amazon has lowered the price of the Samsung Galaxy Watch 8 into the “steal” category right now, as the Wear OS smartwatch starts at just $199 as part of the extended Black Friday deals. more…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Moto Tag 2 hits its lowest price ever at $18.99, undercutting the Pixel Tag",
+      "summary_en": "Motorola’s Moto Tag 2 is the only Find Hub tracker for Android with UWB support besides the new Google Pixel Tag, and the former is currently at its lowest price ever for Black Friday at just $19. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-pixel-tag-moto-tag-2.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/11/20/moto-tag-2-black-friday/",
+      "published": "Fri, 20 Nov 2026 13:30:00 +0000",
+      "title_th": "Moto Tag 2 hits its lowest price ever at $18.99, undercutting the Pixel Tag",
+      "summary_th": "Motorola’s Moto Tag 2 is the only Find Hub tracker for Android with UWB support besides the new Google Pixel Tag, and the former is currently at its lowest price ever for Black Friday at just $19. more…"
+    },
+    {
+      "source": "9to5Google",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Google Search adds a clever Easter egg for Robert Pattinson’s James Bond casting [Video]",
+      "summary_en": "Following this week’s casting of Robert Pattinson as the next James Bond, Google Search has already added a clever little Easter egg to celebrate the announcement. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/robert-pattinson-james-bond.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/11/20/google-search-easter-egg-robert-pattinson-james-bond/",
+      "published": "Fri, 20 Nov 2026 13:00:00 +0000",
+      "title_th": "Google Search adds a clever Easter egg for Robert Pattinson’s James Bond casting [Video]",
+      "summary_th": "Following this week’s casting of Robert Pattinson as the next James Bond, Google Search has already added a clever little Easter egg to celebrate the announcement. more…"
     },
     {
       "source": "9to5Google",
@@ -507,40 +543,28 @@
       "summary_th": "Google introduced 3D emoji on Pixel this year, and has just detailed the minimum specifications required to get them on your Android phone. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Google homepage rolling out AI-focused redesign that includes your Gemini chats [Video]",
-      "summary_en": "The Google Search homepage is embracing Gemini in a big way, with a new sidebar redesign that puts your chat history just a click away. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-search-gemini-homepage.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/11/19/google-search-homepage-gemini-sidebar-update/",
-      "published": "Thu, 19 Nov 2026 22:25:00 +0000",
-      "title_th": "Google homepage rolling out AI-focused redesign that includes your Gemini chats [Video]",
-      "summary_th": "The Google Search homepage is embracing Gemini in a big way, with a new sidebar redesign that puts your chat history just a click away. more…"
+      "category": "ev",
+      "title_en": "Black Friday 2026 Green Deals Hub: e-bikes, EVs, power stations, tools, appliances, and more",
+      "summary_en": "It’s time for the biggest shopping event of the year! With Amazon’s full Black Friday Sale in swing, so to are all our favorite Green Deal brands. After weeks of early access savings, things have ticked up to their biggest deals of the season across EVs, power stations, tools, and plenty more. We’re seeing quite the extensive lineup of deals despite ongoing tariffs causing general prices to rise, with this being the opportune time to start crossing items off your Christmas list. We’ve collected all the best ongoing Green Deals into this one-stop shopping hub, and will continue to update it as we spot more chances to save – all the way through Cyber Monday. Head below to browse the lineup. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/9to5Toys-Black-Friday-electrek-2025.webp?resize=1200,628",
+      "link": "https://electrek.co/2026/11/20/black-friday-2026-green-deals-hub-e-bikes-evs-power-stations-tools-appliances-and-more/",
+      "published": "Fri, 20 Nov 2026 12:41:23 +0000",
+      "title_th": "Black Friday 2026 Green Deals Hub: e-bikes, EVs, power stations, tools, appliances, and more",
+      "summary_th": "It’s time for the biggest shopping event of the year! With Amazon’s full Black Friday Sale in swing, so to are all our favorite Green Deal brands. After weeks of early access savings, things have ticked up to their biggest deals of the season across EVs, power stations, tools, and plenty more. We’re seeing quite the extensive lineup of deals despite ongoing tariffs causing general prices to rise, with this being the opportune time to start crossing items off your Christmas list. We’ve collected all the best ongoing Green Deals into this one-stop shopping hub, and will continue to update it as we spot more chances to save – all the way through Cyber Monday. Head below to browse the lineup. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Quit worrying about storage and get a UGREEN NAS for up to $160 off right now",
-      "summary_en": "Early Black Friday deals on UGREEN NAS units have already started, and we’ve picked three of the most popular models you’ll want to consider. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/ugreen-homeagent-nas-with-hdd.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/11/19/ugreen-nas-early-black-friday-deals/",
-      "published": "Thu, 19 Nov 2026 22:08:15 +0000",
-      "title_th": "Quit worrying about storage and get a UGREEN NAS for up to $160 off right now",
-      "summary_th": "Early Black Friday deals on UGREEN NAS units have already started, and we’ve picked three of the most popular models you’ll want to consider. more…"
-    },
-    {
-      "source": "9to5Google",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Just $161 reclaims all that space GTA VI stole on your PS5 with this M2 SSD deal",
-      "summary_en": "If your PS5 is already full because of GTA VI and Call of Duty: Modern Warfare 4, this 1TB M2 SSD deal is what you’ve been waiting for. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/gta-vi-acer-predator-ssd.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/11/19/just-161-reclaims-all-that-space-gta-vi-stole-on-your-ps5-with-this-m2-ssd-deal/",
-      "published": "Thu, 19 Nov 2026 21:17:24 +0000",
-      "title_th": "Just $161 reclaims all that space GTA VI stole on your PS5 with this M2 SSD deal",
-      "summary_th": "If your PS5 is already full because of GTA VI and Call of Duty: Modern Warfare 4, this 1TB M2 SSD deal is what you’ve been waiting for. more…"
+      "category": "ev",
+      "title_en": "Double guns: ultra-class haul truck packs dual-gun MCS charging, 4 MWh battery",
+      "summary_en": "NHL may not be a household name, but its all-new, all-electric NTE240E ultra-class haul track could change that with a 240 ton payload, over 4.1 MWh of battery, advanced regenerative braking, and a world’s first double-gun MCS charging setup. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/NHL_double-guns.png?resize=1200,628",
+      "link": "https://electrek.co/2026/11/20/double-guns-ultra-class-haul-truck-packs-dual-gun-mcs-charging-4-mwh-battery/",
+      "published": "Fri, 20 Nov 2026 11:55:00 +0000",
+      "title_th": "Double guns: ultra-class haul truck packs dual-gun MCS charging, 4 MWh battery",
+      "summary_th": "NHL may not be a household name, but its all-new, all-electric NTE240E ultra-class haul track could change that with a 240 ton payload, over 4.1 MWh of battery, advanced regenerative braking, and a world’s first double-gun MCS charging setup. more…"
     },
     {
       "source": "Electrek",
@@ -577,30 +601,6 @@
       "published": "Thu, 19 Nov 2026 22:21:09 +0000",
       "title_th": "BYD’s new Han EV spotted without camo, showing off its sleek fastback design",
       "summary_th": "Who doesn’t love a good fastback? BYD’s new Han was spotted completely undisguised, giving us an early look at its sleek design and interior ahead of its expected debut next week. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Kia’s cheapest EV is coming next year, and it could cost under $25,000",
-      "summary_en": "Kia’s EV lineup covers just about every size and price point, but it believes one thing is still missing: a truly cheap electric car. That’s about to change in 2027, when Kia plans to unveil a new EV that could start at around $22,000 to $24,000. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Kia-cheapest-EV-EV1.jpeg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/11/19/kias-cheapest-ev-coming-2027-under-25k/",
-      "published": "Thu, 19 Nov 2026 20:08:29 +0000",
-      "title_th": "Kia’s cheapest EV is coming next year, and it could cost under $25,000",
-      "summary_th": "Kia’s EV lineup covers just about every size and price point, but it believes one thing is still missing: a truly cheap electric car. That’s about to change in 2027, when Kia plans to unveil a new EV that could start at around $22,000 to $24,000. more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "EcoFlow Black Friday Sale + flash deals drop DELTA 3800 Gen4 to $1,614 low, Segway Xyber Air e-bike $1,800 low in sale, more",
-      "summary_en": "With Amazon’s full Black Friday event in motion, we’re seeing expanded and increased Green Deal savings following suit. Our headliner for today is EcoFlow’s newly expanded Black Friday Sale starting from $459 , with up to 52% initial discounts on power stations alongside a bonus extra savings code. Right beside that is the brand’s 72-hour flash sale, with up to $1,100 discounts across new models, like the DELTA 3800 Gen4 Power Station at a $1,614 low , among others. That’s not all, as Segway has finally expanded to its full Black Friday EV Sale , with increased savings, new lows, and first-time offers, like the latest Xyber Air Smart Electric Bike at a new $1,800 low . We also have expanded savings from Velotric on e-bikes at up to $740 off, a returning EGO Multi-Head 15-inch String Trimme",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/EcoFlow-BF-flash-Segway-Velotric-GDs-FI.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/11/19/ecoflow-black-friday-sale-delta-3800-gen4-segway-xyber-air-e-bike-more/",
-      "published": "Thu, 19 Nov 2026 19:00:00 +0000",
-      "title_th": "EcoFlow Black Friday Sale + flash deals drop DELTA 3800 Gen4 to $1,614 low, Segway Xyber Air e-bike $1,800 low in sale, more",
-      "summary_th": "With Amazon’s full Black Friday event in motion, we’re seeing expanded and increased Green Deal savings following suit. Our headliner for today is EcoFlow’s newly expanded Black Friday Sale starting from $459 , with up to 52% initial discounts on power stations alongside a bonus extra savings code. Right beside that is the brand’s 72-hour flash sale, with up to $1,100 discounts across new models, like the DELTA 3800 Gen4 Power Station at a $1,614 low , among others. That’s not all, as Segway has finally expanded to its full Black Friday EV Sale , with increased savings, new lows, and first-time offers, like the latest Xyber Air Smart Electric Bike at a new $1,800 low . We also have expanded savings from Velotric on e-bikes at up to $740 off, a returning EGO Multi-Head 15-inch String Trimme"
     }
   ],
   "indices": [
@@ -608,65 +608,65 @@
       "symbol": "NVDA",
       "name": "Nvidia",
       "market": "US",
-      "price": 145.98,
-      "change": -4.98,
-      "change_pct": -3.3
+      "price": 139.49,
+      "change": -6.49,
+      "change_pct": -4.45
     },
     {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US",
-      "price": 374.41,
-      "change": -9.31,
-      "change_pct": -2.43
+      "price": 368.16,
+      "change": -6.25,
+      "change_pct": -1.67
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet",
       "market": "US",
-      "price": 272.66,
-      "change": -9.78,
-      "change_pct": -3.46
+      "price": 279.04,
+      "change": 6.38,
+      "change_pct": 2.34
     },
     {
       "symbol": "MSFT",
       "name": "Microsoft",
       "market": "US",
-      "price": 498.3,
-      "change": -9.01,
-      "change_pct": -1.78
+      "price": 496.66,
+      "change": -1.64,
+      "change_pct": -0.33
     },
     {
       "symbol": "AAPL",
       "name": "Apple",
       "market": "US",
-      "price": 349.21,
-      "change": -3.24,
-      "change_pct": -0.92
+      "price": 350.61,
+      "change": 1.4,
+      "change_pct": 0.4
     },
     {
       "symbol": "AMZN",
       "name": "Amazon",
       "market": "US",
-      "price": 257.37,
-      "change": -10.37,
-      "change_pct": -3.87
+      "price": 254.61,
+      "change": -2.76,
+      "change_pct": -1.07
     },
     {
       "symbol": "META",
       "name": "Meta",
       "market": "US",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 583.25,
+      "change": -12.97,
+      "change_pct": -2.18
     },
     {
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 170.5,
-      "change": -10.0,
-      "change_pct": -5.54
+      "price": 173.5,
+      "change": -7.0,
+      "change_pct": -3.88
     }
   ],
   "reviews": [
@@ -733,32 +733,42 @@
     {
       "channel": "Beartai",
       "country": "TH",
-      "title_en": "GTA VI ถึงไม่ใช่แฟนตัวยง ก็ต้องลอง",
-      "video_id": "9RGEbKkf4VM",
-      "link": "https://www.youtube.com/shorts/9RGEbKkf4VM",
-      "thumbnail": "https://i2.ytimg.com/vi/9RGEbKkf4VM/hqdefault.jpg",
-      "published": "2026-11-20T03:58:37+00:00",
-      "title_th": "GTA VI ถึงไม่ใช่แฟนตัวยง ก็ต้องลอง"
+      "title_en": "โลกกำลังแตก แบบที่เราไม่รู้ตัว ! | Go with The Four",
+      "video_id": "FdFSO71lFjg",
+      "link": "https://www.youtube.com/watch?v=FdFSO71lFjg",
+      "thumbnail": "https://i3.ytimg.com/vi/FdFSO71lFjg/hqdefault.jpg",
+      "published": "2026-11-20T11:56:59+00:00",
+      "title_th": "โลกกำลังแตก แบบที่เราไม่รู้ตัว ! | Go with The Four"
     },
     {
       "channel": "Beartai",
       "country": "TH",
-      "title_en": "หนังสือแสดงเจตนา \"e-Living Will\"",
-      "video_id": "Sw6kB29AOFs",
-      "link": "https://www.youtube.com/shorts/Sw6kB29AOFs",
-      "thumbnail": "https://i4.ytimg.com/vi/Sw6kB29AOFs/hqdefault.jpg",
-      "published": "2026-11-19T23:00:08+00:00",
-      "title_th": "หนังสือแสดงเจตนา \"e-Living Will\""
+      "title_en": "เปิดการมองเห็น ! พา อ. ศุภเดช ทำเลสิค PRESBYOND ที่สมิติเวช ไชน่าทาวน์",
+      "video_id": "vz1l9du5QRs",
+      "link": "https://www.youtube.com/watch?v=vz1l9du5QRs",
+      "thumbnail": "https://i3.ytimg.com/vi/vz1l9du5QRs/hqdefault.jpg",
+      "published": "2026-11-20T06:00:22+00:00",
+      "title_th": "เปิดการมองเห็น ! พา อ. ศุภเดช ทำเลสิค PRESBYOND ที่สมิติเวช ไชน่าทาวน์"
     },
     {
       "channel": "Beartai",
       "country": "TH",
-      "title_en": "AI จะเก่งไปถึงขั้นไหน มันจะครองโลกมั้ย?",
-      "video_id": "KDVocoMgHVs",
-      "link": "https://www.youtube.com/watch?v=KDVocoMgHVs",
-      "thumbnail": "https://i4.ytimg.com/vi/KDVocoMgHVs/hqdefault.jpg",
-      "published": "2026-11-19T02:25:54+00:00",
-      "title_th": "AI จะเก่งไปถึงขั้นไหน มันจะครองโลกมั้ย?"
+      "title_en": "มือถือเพื่อ Fancam เลยต้องเต้นเพื่อเทสต์ !",
+      "video_id": "PB_Urbm0lEI",
+      "link": "https://www.youtube.com/shorts/PB_Urbm0lEI",
+      "thumbnail": "https://i1.ytimg.com/vi/PB_Urbm0lEI/hqdefault.jpg",
+      "published": "2026-11-20T06:00:05+00:00",
+      "title_th": "มือถือเพื่อ Fancam เลยต้องเต้นเพื่อเทสต์ !"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "รีวิว ASUS ExpertBook Ultra X9 โน้ตบุ๊กตัวท็อปสายทำงาน รัน Local AI ออฟไลน์ได้ ครบ จบในเครื่องเดียว",
+      "video_id": "VGw7oMyN5_0",
+      "link": "https://www.youtube.com/watch?v=VGw7oMyN5_0",
+      "thumbnail": "https://i3.ytimg.com/vi/VGw7oMyN5_0/hqdefault.jpg",
+      "published": "2026-11-20T11:00:10+00:00",
+      "title_th": "รีวิว ASUS ExpertBook Ultra X9 โน้ตบุ๊กตัวท็อปสายทำงาน รัน Local AI ออฟไลน์ได้ ครบ จบในเครื่องเดียว"
     },
     {
       "channel": "Droidsans",
@@ -779,16 +789,6 @@
       "thumbnail": "https://i1.ytimg.com/vi/ho4r691zUVk/hqdefault.jpg",
       "published": "2026-11-19T11:52:36+00:00",
       "title_th": "รุ่นเก่ายังใช้ดีอยู่มั้ย เทียบ Galaxy A34 5G กับ Galaxy A37 5G รุ่นล่าสุด #GalaxyA37 #GalaxyA34"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "รีวิว Xiaomi 18 Pro Max พลิกเกมเรือธง! จอหลัง + กล้อง Leica 200MP ใช้จริงเวิร์กแค่ไหน",
-      "video_id": "wVKs_qVwguQ",
-      "link": "https://www.youtube.com/watch?v=wVKs_qVwguQ",
-      "thumbnail": "https://i4.ytimg.com/vi/wVKs_qVwguQ/hqdefault.jpg",
-      "published": "2026-11-18T12:00:39+00:00",
-      "title_th": "รีวิว Xiaomi 18 Pro Max พลิกเกมเรือธง! จอหลัง + กล้อง Leica 200MP ใช้จริงเวิร์กแค่ไหน"
     }
   ]
 }
