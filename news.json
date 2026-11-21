@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T04:42:57.434701+00:00",
+  "generated_at": "2026-11-21T14:05:22.109328+00:00",
   "count": 50,
   "articles": [
     {
@@ -65,6 +65,18 @@
     {
       "source": "The Verge",
       "flag": "US",
+      "category": "ev",
+      "title_en": "Harbinger is building the unsexy EVs that keep the economy moving",
+      "summary_en": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner stretch that includes a $300 million order from FedEx and a new defense contract with the US military. Harbinger is stacking up […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gang-shot-7.jpg?quality=90&strip=all&crop=0%2C10.656236394691%2C100%2C78.687527210619&w=1200",
+      "link": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
+      "published": "2026-11-21T07:00:00-05:00",
+      "title_th": "Harbinger is building the unsexy EVs that keep the economy moving",
+      "summary_th": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner stretch that includes a $300 million order from FedEx and a new defense contract with the US military. Harbinger is stacking up […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
       "category": "software",
       "title_en": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
       "summary_en": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and that the deal would also include new safeguards for teens. The settlement would allow Google to avoid a wave […]",
@@ -109,18 +121,6 @@
       "published": "2026-11-20T13:50:19-05:00",
       "title_th": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
       "summary_th": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Multiplying your Switch 2’s storage costs less than usual right now",
-      "summary_en": "Expanding your Nintendo Switch 2’s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo’s original console. That’s because microSD Express cards, while physically identical to ones you might have lying around, have faster read and write speeds. Thankfully, Samsung’s 256GB model has dropped to $44.99 at Amazon ahead of […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Samsung-P9-MicroSD-Express-Card.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
-      "published": "2026-11-20T13:15:00-05:00",
-      "title_th": "Multiplying your Switch 2’s storage costs less than usual right now",
-      "summary_th": "Expanding your Nintendo Switch 2’s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo’s original console. That’s because microSD Express cards, while physically identical to ones you might have lying around, have faster read and write speeds. Thankfully, Samsung’s 256GB model has dropped to $44.99 at Amazon ahead of […]"
     },
     {
       "source": "Ars Technica",
@@ -186,61 +186,61 @@
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
-      "summary_en": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.",
-      "image": "https://media.wired.com/photos/6b008734209518b1b255d3f5/master/pass/Law-Enforcement-GTA-Recruitment-Culture-Lucia_Caminos_05.jpg",
-      "link": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
-      "published": "Fri, 20 Nov 2026 23:24:02 +0000",
-      "title_th": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
-      "summary_th": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo."
+      "title_en": "The Outages Are Just Getting Started",
+      "summary_en": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+      "image": "https://media.wired.com/photos/6b00ba06fb286bb31d23be2b/master/pass/Kernel-Panic-Brace-for-More-Outages-Security.jpg",
+      "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "published": "Sat, 21 Nov 2026 13:00:00 +0000",
+      "title_th": "The Outages Are Just Getting Started",
+      "summary_th": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "gadget",
+      "title_en": "Best Power Banks (2026): My Picks After Testing Over 100",
+      "summary_en": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.",
+      "image": "https://media.wired.com/photos/6ac03e8a3c662ead2b64eb3c/master/pass/Best%20Power%20Banks%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+      "link": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
+      "published": "Sat, 21 Nov 2026 12:01:00 +0000",
+      "title_th": "Best Power Banks (2026): My Picks After Testing Over 100",
+      "summary_th": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks."
     },
     {
       "source": "Wired",
       "flag": "US",
       "category": "ai",
-      "title_en": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
-      "summary_en": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
-      "image": "https://media.wired.com/photos/6b007b4f6873ef9746910ee1/master/pass/GettyImages-2298479100.jpg",
-      "link": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
-      "published": "Fri, 20 Nov 2026 19:52:21 +0000",
-      "title_th": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
-      "summary_th": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”"
+      "title_en": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems",
+      "summary_en": "Several years ago, NASA tested systems for deterring dangerous space rocks. Now, a probe from the European Space Agency is returning to the scene to investigate.",
+      "image": "https://media.wired.com/photos/6b0013b54b02437d9d07344e/master/pass/Hera_her_CubeSats_and_their_rocky_target.png",
+      "link": "https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/",
+      "published": "Sat, 21 Nov 2026 12:00:00 +0000",
+      "title_th": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems",
+      "summary_th": "Several years ago, NASA tested systems for deterring dangerous space rocks. Now, a probe from the European Space Agency is returning to the scene to investigate."
     },
     {
       "source": "Wired",
       "flag": "US",
-      "category": "ai",
-      "title_en": "Don’t Bring Jensen Back",
-      "summary_en": "A mob of tech bros is clamoring for Nvidia to reinstate Jensen Huang as CEO. It’s a bad idea.",
-      "image": "https://media.wired.com/photos/6aff6b595608d6b32a9beb56/master/pass/Backchannel-Backchannel-Silicon-Valley-Psychosis-Business.jpg",
-      "link": "https://www.wired.com/story/dont-bring-jensen-back/",
-      "published": "Fri, 20 Nov 2026 16:00:00 +0000",
-      "title_th": "Don’t Bring Jensen Back",
-      "summary_th": "A mob of tech bros is clamoring for Nvidia to reinstate Jensen Huang as CEO. It’s a bad idea."
+      "category": "review",
+      "title_en": "Sony Bravia 9 II Review (2026): Adjustable and Bright",
+      "summary_en": "The premium flagship RGB television, the Bravia 9 II, comes at a premium cost, but offers excellent sound, brightness, and picture quality.",
+      "image": "https://media.wired.com/photos/6b0138f3d9699de6f24482d6/master/pass/Review--Sony-Bravia-9-II-TV.jpg",
+      "link": "https://www.wired.com/review/sony-bravia-9-ii/",
+      "published": "Sat, 21 Nov 2026 11:30:00 +0000",
+      "title_th": "Sony Bravia 9 II Review (2026): Adjustable and Bright",
+      "summary_th": "The premium flagship RGB television, the Bravia 9 II, comes at a premium cost, but offers excellent sound, brightness, and picture quality."
     },
     {
       "source": "Wired",
       "flag": "US",
-      "category": "ai",
-      "title_en": "The Best Pura Deals for Cyber Week (2026)",
-      "summary_en": "Pura fragrances are 20 percent off, and diffusers are 30 percent off through December 6. Here’s what I’d buy after having tested three generations of Pura devices.",
-      "image": "https://media.wired.com/photos/6affa74456c5e41772b72229/master/pass/Pura%E2%80%99s-Smart-Diffusers-Are-on-Sale-for-Cyber-Week.jpg",
-      "link": "https://www.wired.com/story/pura-black-friday-2026/",
-      "published": "Fri, 20 Nov 2026 13:30:00 +0000",
-      "title_th": "The Best Pura Deals for Cyber Week (2026)",
-      "summary_th": "Pura fragrances are 20 percent off, and diffusers are 30 percent off through December 6. Here’s what I’d buy after having tested three generations of Pura devices."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "The Birdfy Gifts I’d Buy for Backyard Birders",
-      "summary_en": "After more than two years of testing smart bird feeders, these are the picks I’d give others, including a simple camera feeder and a nest box that let me watch chickadees raise their young.",
-      "image": "https://media.wired.com/photos/6affa5f18893fa526fe4be1e/master/pass/The-Birdfy-Gifts-I%E2%80%99d-Buy-for-Backyard-Birders.jpg",
-      "link": "https://www.wired.com/story/best-birdfy-gifts-2026/",
-      "published": "Fri, 20 Nov 2026 13:00:00 +0000",
-      "title_th": "The Birdfy Gifts I’d Buy for Backyard Birders",
-      "summary_th": "After more than two years of testing smart bird feeders, these are the picks I’d give others, including a simple camera feeder and a nest box that let me watch chickadees raise their young."
+      "category": "gadget",
+      "title_en": "Best Laptops for Travel (2026): Which to Take on the Road",
+      "summary_en": "Having brought many different laptops on work trips, I can say these are the best portable computers for travel, based on my personal testing.",
+      "image": "https://media.wired.com/photos/6aff4b9df2cbbbfa7d0cf100/master/pass/GettyImages-2160884480.jpg",
+      "link": "https://www.wired.com/story/best-laptops-for-travel/",
+      "published": "Sat, 21 Nov 2026 11:00:00 +0000",
+      "title_th": "Best Laptops for Travel (2026): Which to Take on the Road",
+      "summary_th": "Having brought many different laptops on work trips, I can say these are the best portable computers for travel, based on my personal testing."
     },
     {
       "source": "MIT Technology Review",
@@ -305,6 +305,18 @@
     {
       "source": "Engadget",
       "flag": "US",
+      "category": "review",
+      "title_en": "Engadget review recap: Apple HomeView, Ray-Ban Meta (Gen 3) and more",
+      "summary_en": "A roundup of recent reviews from Engadget.",
+      "image": "https://www.engadget.com/img/gallery/engadget-review-recap-apple-homeview-ray-ban-meta-gen-3-and-more/l-intro-1795209130.jpg",
+      "link": "https://www.engadget.com/2323697/engadget-review-recap-apple-homeview-ray-ban-meta-gen-3-and-more/",
+      "published": "Sat, 21 Nov 2026 12:30:00 +0000",
+      "title_th": "Engadget review recap: Apple HomeView, Ray-Ban Meta (Gen 3) and more",
+      "summary_th": "A roundup of recent reviews from Engadget."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
       "category": "chip",
       "title_en": "Why you shouldn't depend on GTA 6 to auto-save",
       "summary_en": "We explain how GTA 6's auto-save system works, so you don't accidentally lose progress in the massive game.",
@@ -349,18 +361,6 @@
       "published": "Fri, 20 Nov 2026 21:02:54 +0000",
       "title_th": "GTA 6 made $3.79 billion in its first day, but Rockstar's workers still lack job security",
       "summary_th": "The historic launch is happening while Rockstar workers vote on union recognition."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Signal now blocks screenshots by default to stymie AI agents",
-      "summary_en": "It describes the fix as incomplete and calls for a simple way for developers to opt out of AI snooping.",
-      "image": "https://www.engadget.com/img/gallery/signal-now-blocks-screenshots-by-default-to-stymie-ai-agents/l-intro-1795205811.jpg",
-      "link": "https://www.engadget.com/2323574/signal-now-blocks-screenshots-by-default-to-stymie-ai-agents/",
-      "published": "Fri, 20 Nov 2026 20:18:09 +0000",
-      "title_th": "Signal now blocks screenshots by default to stymie AI agents",
-      "summary_th": "It describes the fix as incomplete and calls for a simple way for developers to opt out of AI snooping."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,18 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "Weekend Black Friday Apple deals: MacBooks from $649, Series 12, AirPods $130 off, new iPad mini, more",
+      "summary_en": "Black Friday is already in full force with Amazon’s massive official sale event and there is absolutely no shortage of Apple deals. Alongside the lowest prices ever on every Apple Watch Series 12 config , the Mac deals are wild this week with as much as $250 off the brand new M6 MacBook Pro and PROLED XDR MacBook Pro , while, perhaps even more universally exciting, the most affordable M5 MacBook Air is $250 off and MacBook Neo is down at just $649 . Joining the very first discounts on Apple’s brand new OLED iPad mini , the Beats discounts are overflowing and headlined by the all-new Beats 360 with $100 price drop , but we also have AirPods Pro 3 at $70 off and AirPods Max 2 down even lower at $130 off . Just be sure to scope out the popular new Twelve South AirFly Drive Wireless CarPlay Ad",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-Black-Friday-deals.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/21/official-black-friday-apple-deals-now-live/",
+      "published": "Sat, 21 Nov 2026 12:59:00 +0000",
+      "title_th": "Weekend Black Friday Apple deals: MacBooks from $649, Series 12, AirPods $130 off, new iPad mini, more",
+      "summary_th": "Black Friday is already in full force with Amazon’s massive official sale event and there is absolutely no shortage of Apple deals. Alongside the lowest prices ever on every Apple Watch Series 12 config , the Mac deals are wild this week with as much as $250 off the brand new M6 MacBook Pro and PROLED XDR MacBook Pro , while, perhaps even more universally exciting, the most affordable M5 MacBook Air is $250 off and MacBook Neo is down at just $649 . Joining the very first discounts on Apple’s brand new OLED iPad mini , the Beats discounts are overflowing and headlined by the all-new Beats 360 with $100 price drop , but we also have AirPods Pro 3 at $70 off and AirPods Max 2 down even lower at $130 off . Just be sure to scope out the popular new Twelve South AirFly Drive Wireless CarPlay Ad"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "ESR Black Friday gift guide: Premium accessories for iPhone Duo, iPhone 18 Pro, iPad, AirPods, and Apple Watch",
       "summary_en": "If you picked up a new iPhone 18 Pro or iPhone Duo this fall, or you’re shopping for someone with an iPad, AirPods, or Apple Watch, there’s a good chance you’ve been holding out on purchasing accessories until all of the Black Friday deals started. We’ve got you covered with some great deals on premium accessories for nearly every Apple device on your list. ESR has been making Apple accessories since 2009, and that track record has made it a trustworthy name for the more than 123 million people who use its products to protect their Apple devices and make them more versatile. Here’s a look at what’s included in ESR’s Black Friday lineup and who each one is for. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/00-KV.jpg?quality=82&strip=all&resize=1200,628",
@@ -469,18 +481,6 @@
       "published": "Fri, 20 Nov 2026 21:58:47 +0000",
       "title_th": "9to5Mac Overtime 091: Kicking the tires and seeing what works",
       "summary_th": "Fernando and Jeff are back to talk about the iPhone Duo after a month of use, including the new face unlock and close-to-lock toggle in iOS 27.3 beta 2. They also dig into Siri AI’s Health app access and its quirks, the HomePod mini stereo pair on Mac, the M6 Mac mini, the new iPad mini, and Apple’s upsell-heavy configurations. 9to5Mac Overtime is a weekly video-first podcast exploring fun and interesting observations in the Apple ecosystem, featuring 9to5Mac’s Fernando Silva & Jeff Benjamin. Subscribe to Overtime via Apple Podcasts and our YouTube channel for more. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "Apple Watch Series 12: Four standout features make me glad I upgraded",
-      "summary_en": "I upgraded to an Apple Watch Series 12 this fall ( now $329 on Amazon ), and there are four main features that make me especially glad I did. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-pearl-white-ceramic.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/20/apple-watch-series-12-four-standout-features-glad-i-upgraded/",
-      "published": "Fri, 20 Nov 2026 20:25:35 +0000",
-      "title_th": "Apple Watch Series 12: Four standout features make me glad I upgraded",
-      "summary_th": "I upgraded to an Apple Watch Series 12 this fall ( now $329 on Amazon ), and there are four main features that make me especially glad I did. more…"
     },
     {
       "source": "9to5Google",
@@ -733,32 +733,42 @@
     {
       "channel": "Beartai",
       "country": "TH",
-      "title_en": "Tinglish คืออะไร? รู้จัก Content ใหม่ bt Tinglish คุยข้าม Gen เด็กอินเตอร์ x เด็กไทย",
-      "video_id": "I1CFno0nq6g",
-      "link": "https://www.youtube.com/watch?v=I1CFno0nq6g",
-      "thumbnail": "https://i2.ytimg.com/vi/I1CFno0nq6g/hqdefault.jpg",
-      "published": "2026-11-21T02:00:10+00:00",
-      "title_th": "Tinglish คืออะไร? รู้จัก Content ใหม่ bt Tinglish คุยข้าม Gen เด็กอินเตอร์ x เด็กไทย"
+      "title_en": "แกะกล่องหูฟังแบบคลิปหนีบ #BOSE Ultra Open Earbuds (2ND GEN) และตัวสายกีฬา BOSE Sport #OpenEarbuds",
+      "video_id": "C-F3YQ34QaE",
+      "link": "https://www.youtube.com/shorts/C-F3YQ34QaE",
+      "thumbnail": "https://i4.ytimg.com/vi/C-F3YQ34QaE/hqdefault.jpg",
+      "published": "2026-11-21T11:00:26+00:00",
+      "title_th": "แกะกล่องหูฟังแบบคลิปหนีบ #BOSE Ultra Open Earbuds (2ND GEN) และตัวสายกีฬา BOSE Sport #OpenEarbuds"
     },
     {
       "channel": "Beartai",
       "country": "TH",
-      "title_en": "น้ำตาล ไม่ใช่ตัวร้าย ?",
-      "video_id": "SvzpJqK_b_Y",
-      "link": "https://www.youtube.com/shorts/SvzpJqK_b_Y",
-      "thumbnail": "https://i4.ytimg.com/vi/SvzpJqK_b_Y/hqdefault.jpg",
-      "published": "2026-11-20T23:00:28+00:00",
-      "title_th": "น้ำตาล ไม่ใช่ตัวร้าย ?"
+      "title_en": "‘วัคซีน’ ฉีดแล้วช่วย หรือป่วยกว่าเดิม ? | bt Originals Life Series x @DrTany",
+      "video_id": "ZNrOYrqG0Gw",
+      "link": "https://www.youtube.com/watch?v=ZNrOYrqG0Gw",
+      "thumbnail": "https://i3.ytimg.com/vi/ZNrOYrqG0Gw/hqdefault.jpg",
+      "published": "2026-11-21T08:00:24+00:00",
+      "title_th": "‘วัคซีน’ ฉีดแล้วช่วย หรือป่วยกว่าเดิม ? | bt Originals Life Series x @DrTany"
     },
     {
       "channel": "Beartai",
       "country": "TH",
-      "title_en": "โลกกำลังแตก แบบที่เราไม่รู้ตัว ! | Go with The Four",
-      "video_id": "FdFSO71lFjg",
-      "link": "https://www.youtube.com/watch?v=FdFSO71lFjg",
-      "thumbnail": "https://i3.ytimg.com/vi/FdFSO71lFjg/hqdefault.jpg",
-      "published": "2026-11-20T11:56:59+00:00",
-      "title_th": "โลกกำลังแตก แบบที่เราไม่รู้ตัว ! | Go with The Four"
+      "title_en": "คนรักหมา-แมว ต้องไม่พลาด PetPals ในมือถือ vivo !คนรักหมา-แมว ต้องไม่พลาด PetPals ในมือถือ vivo !",
+      "video_id": "K58MYrj-Lbg",
+      "link": "https://www.youtube.com/shorts/K58MYrj-Lbg",
+      "thumbnail": "https://i4.ytimg.com/vi/K58MYrj-Lbg/hqdefault.jpg",
+      "published": "2026-11-21T06:00:20+00:00",
+      "title_th": "คนรักหมา-แมว ต้องไม่พลาด PetPals ในมือถือ vivo !คนรักหมา-แมว ต้องไม่พลาด PetPals ในมือถือ vivo !"
+    },
+    {
+      "channel": "Droidsans",
+      "country": "TH",
+      "title_en": "iPhone DUO  ฟื้นตลาดจอพับ กระแส iPhone 20 Pro จอโค้ง/ ย้อนร้อย Microsoft ล่มครั้งใหญ่เพราะอะไร",
+      "video_id": "dlnbeaz30Uk",
+      "link": "https://www.youtube.com/watch?v=dlnbeaz30Uk",
+      "thumbnail": "https://i1.ytimg.com/vi/dlnbeaz30Uk/hqdefault.jpg",
+      "published": "2026-11-21T13:22:24+00:00",
+      "title_th": "iPhone DUO  ฟื้นตลาดจอพับ กระแส iPhone 20 Pro จอโค้ง/ ย้อนร้อย Microsoft ล่มครั้งใหญ่เพราะอะไร"
     },
     {
       "channel": "Droidsans",
@@ -779,16 +789,6 @@
       "thumbnail": "https://i1.ytimg.com/vi/XVyoJP4wopc/hqdefault.jpg",
       "published": "2026-11-20T03:07:25+00:00",
       "title_th": "ถ่ายแบบนี้ พลิกดีกว่า สวยทุกระยะด้วย Xiaomi 18 Pro Max ตัวเดียวจบ #Xiaomi18ProSeries #Xiaomi #Leica"
-    },
-    {
-      "channel": "Droidsans",
-      "country": "TH",
-      "title_en": "รุ่นเก่ายังใช้ดีอยู่มั้ย เทียบ Galaxy A34 5G กับ Galaxy A37 5G รุ่นล่าสุด #GalaxyA37 #GalaxyA34",
-      "video_id": "ho4r691zUVk",
-      "link": "https://www.youtube.com/shorts/ho4r691zUVk",
-      "thumbnail": "https://i1.ytimg.com/vi/ho4r691zUVk/hqdefault.jpg",
-      "published": "2026-11-19T11:52:36+00:00",
-      "title_th": "รุ่นเก่ายังใช้ดีอยู่มั้ย เทียบ Galaxy A34 5G กับ Galaxy A37 5G รุ่นล่าสุด #GalaxyA37 #GalaxyA34"
     }
   ]
 }
