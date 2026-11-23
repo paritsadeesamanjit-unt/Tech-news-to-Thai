@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-22T19:03:19.186882+00:00",
+  "generated_at": "2026-11-23T01:30:39.077357+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "‘You Can See Everything’ has made more than $100M worldwide",
+      "summary_en": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
+      "link": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+      "published": "Sun, 22 Nov 2026 21:42:48 +0000",
+      "title_th": "‘You Can See Everything’ has made more than $100M worldwide",
+      "summary_th": "The new Elizabeth Holmes documentary is just beginning to roll out internationally."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "summary_en": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "published": "Sun, 22 Nov 2026 21:14:07 +0000",
+      "title_th": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "summary_th": "To establish a speed limit on AI development, you need to agree on how to measure speed."
+    },
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "The best apps to make new friends right now",
+      "summary_en": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-596631439.jpg?resize=1200,800",
+      "link": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+      "published": "Sun, 22 Nov 2026 21:00:00 +0000",
+      "title_th": "The best apps to make new friends right now",
+      "summary_th": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -27,40 +63,16 @@
       "summary_th": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it."
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "summary_en": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/signal-app-icon-phone.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "published": "Sat, 21 Nov 2026 21:37:10 +0000",
-      "title_th": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "summary_th": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "A tale of two Nvidias",
-      "summary_en": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-      "published": "Sat, 21 Nov 2026 21:07:42 +0000",
-      "title_th": "A tale of two Nvidias",
-      "summary_th": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return."
-    },
-    {
-      "source": "TechCrunch",
-      "flag": "US",
-      "category": "startup",
-      "title_en": "Trump says reported FBI database hack is ‘not good’",
-      "summary_en": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/fbi-edgar-hoover-building-2288940613.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
-      "published": "Sat, 21 Nov 2026 18:44:53 +0000",
-      "title_th": "Trump says reported FBI database hack is ‘not good’",
-      "summary_th": "The FBI is reportedly investigating a hack of the National Crime Information Center."
+      "category": "software",
+      "title_en": "We haven’t seen the last of the major tech outages",
+      "summary_en": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should be […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "published": "2026-11-22T17:48:02-05:00",
+      "title_th": "We haven’t seen the last of the major tech outages",
+      "summary_th": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should be […]"
     },
     {
       "source": "The Verge",
@@ -109,18 +121,6 @@
       "published": "2026-11-22T11:33:29-05:00",
       "title_th": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
       "summary_th": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-noir debut LP that's primarily sung in Urdu. The instrumentation on Khudgarzi draws on traditional South Asian music, including Carnatic and Hindustani styles, […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Protesters storm Meta offices in India",
-      "summary_en": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of party leaders and warned of more protests to come. The Congress party has criticized Meta […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
-      "published": "2026-11-22T10:15:07-05:00",
-      "title_th": "Protesters storm Meta offices in India",
-      "summary_th": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of party leaders and warned of more protests to come. The Congress party has criticized Meta […]"
     },
     {
       "source": "Ars Technica",
@@ -306,61 +306,61 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "11 types of smart gadgets to consider pairing with your Ring doorbell",
-      "summary_en": "Your Ring app can connect to smart lights, plugs, sensors, water valves, garage openers and many more smart home devices. Here are some you might find useful.",
-      "image": "https://www.engadget.com/img/gallery/11-types-of-smart-gadgets-to-consider-pairing-with-your-ring-doorbell/l-intro-1794591638.jpg",
-      "link": "https://www.engadget.com/2319422/ring-doorbell-smart-gadget-pairings/",
-      "published": "Sun, 22 Nov 2026 18:15:00 +0000",
-      "title_th": "11 types of smart gadgets to consider pairing with your Ring doorbell",
-      "summary_th": "Your Ring app can connect to smart lights, plugs, sensors, water valves, garage openers and many more smart home devices. Here are some you might find useful."
+      "title_en": "This free 'Swiss Army Knife' for macOS can replace your utility apps",
+      "summary_en": "Vorssaint is a powerful, modular utility suite, provided permissions are carefully managed.",
+      "image": "https://www.engadget.com/img/gallery/this-free-swiss-army-knife-for-macos-can-replace-your-utility-apps/l-intro-1794595062.jpg",
+      "link": "https://www.engadget.com/2319565/vorssaint-free-swiss-army-knife-macos-replace-utility-apps/",
+      "published": "Mon, 23 Nov 2026 00:45:00 +0000",
+      "title_th": "This free 'Swiss Army Knife' for macOS can replace your utility apps",
+      "summary_th": "Vorssaint is a powerful, modular utility suite, provided permissions are carefully managed."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "You can mass-delete all of your emails on Gmail in only a few clicks",
-      "summary_en": "If you have thousands of emails piling up in Gmail, you can delete them in bulk without losing the important ones.",
-      "image": "https://www.engadget.com/img/gallery/you-can-mass-delete-all-of-your-emails-on-gmail-in-only-a-few-clicks/l-intro-1794781970.jpg",
-      "link": "https://www.engadget.com/2319403/how-to-mass-delete-all-emails-gmail/",
-      "published": "Sun, 22 Nov 2026 17:45:00 +0000",
-      "title_th": "You can mass-delete all of your emails on Gmail in only a few clicks",
-      "summary_th": "If you have thousands of emails piling up in Gmail, you can delete them in bulk without losing the important ones."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "5 iOS 27.3 changes coming to your Apple devices by 2027",
-      "summary_en": "iOS 27.3's first developer beta is out ahead of a possible December 2026 launch, and it brings with it a handful of notable changes and new features.",
-      "image": "https://www.engadget.com/img/gallery/5-ios-27-3-changes-coming-to-your-apple-devices-by-2027/l-intro-1794567265.jpg",
-      "link": "https://www.engadget.com/2319400/apple-ios-27-3-changes-by-2027/",
-      "published": "Sun, 22 Nov 2026 17:15:00 +0000",
-      "title_th": "5 iOS 27.3 changes coming to your Apple devices by 2027",
-      "summary_th": "iOS 27.3's first developer beta is out ahead of a possible December 2026 launch, and it brings with it a handful of notable changes and new features."
+      "title_en": "8 Windows apps you should probably remove from your PC",
+      "summary_en": "From pre-installed junk to popular apps that have better alternatives, these are the apps you should clean off your PC if they're present.",
+      "image": "https://www.engadget.com/img/gallery/8-windows-apps-you-should-probably-remove-from-your-pc/l-intro-1794237490.jpg",
+      "link": "https://www.engadget.com/2317781/windows-apps-remove-from-pc/",
+      "published": "Mon, 23 Nov 2026 00:15:00 +0000",
+      "title_th": "8 Windows apps you should probably remove from your PC",
+      "summary_th": "From pre-installed junk to popular apps that have better alternatives, these are the apps you should clean off your PC if they're present."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "Here's how to properly test your USB speed",
-      "summary_en": "Your USB ports and devices are all rated for certain speeds, but how do you know everything's performing as it should? It's actually not that hard.",
-      "image": "https://www.engadget.com/img/gallery/heres-how-to-properly-test-your-usb-speed/l-intro-1794562926.jpg",
-      "link": "https://www.engadget.com/2319388/how-to-test-usb-speed/",
-      "published": "Sun, 22 Nov 2026 16:45:00 +0000",
-      "title_th": "Here's how to properly test your USB speed",
-      "summary_th": "Your USB ports and devices are all rated for certain speeds, but how do you know everything's performing as it should? It's actually not that hard."
+      "title_en": "Public vs. private IP addresses: what's the difference?",
+      "summary_en": "One identifies your network, the other identifies the devices using your network.",
+      "image": "https://www.engadget.com/img/gallery/public-vs-private-ip-addresses-whats-the-difference/l-intro-1794236251.jpg",
+      "link": "https://www.engadget.com/2310692/public-vs-private-ip-addresses-differences/",
+      "published": "Mon, 23 Nov 2026 00:00:00 +0000",
+      "title_th": "Public vs. private IP addresses: what's the difference?",
+      "summary_th": "One identifies your network, the other identifies the devices using your network."
     },
     {
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
-      "title_en": "4 random apps you might not realize work with Android Auto",
-      "summary_en": "From deciding where to fuel up to joining meetings from your car, there are many convenient apps that work with Android Auto.",
-      "image": "https://www.engadget.com/img/gallery/4-random-apps-you-might-not-realize-work-with-android-auto/l-intro-1794585620.jpg",
-      "link": "https://www.engadget.com/2319383/random-apps-that-work-with-android-auto/",
-      "published": "Sun, 22 Nov 2026 16:15:00 +0000",
-      "title_th": "4 random apps you might not realize work with Android Auto",
-      "summary_th": "From deciding where to fuel up to joining meetings from your car, there are many convenient apps that work with Android Auto."
+      "title_en": "How to use AI glasses as a teleprompter",
+      "summary_en": "If you have the right type of smart glasses, this is an easy feature to enable.",
+      "image": "https://www.engadget.com/img/gallery/how-to-use-ai-glasses-as-a-teleprompter/l-intro-1794839468.jpg",
+      "link": "https://www.engadget.com/2319553/how-to-use-ai-glasses-as-teleprompter/",
+      "published": "Sun, 22 Nov 2026 23:30:00 +0000",
+      "title_th": "How to use AI glasses as a teleprompter",
+      "summary_th": "If you have the right type of smart glasses, this is an easy feature to enable."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
+      "title_en": "The pros and cons of sharing your location",
+      "summary_en": "Location sharing has perks from tracking lost gear to staying safe on a night out. Learn what you gain and what you give up before you share.",
+      "image": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-sharing-your-location/l-intro-1794603681.jpg",
+      "link": "https://www.engadget.com/2319550/pros-and-cons-sharing-your-location/",
+      "published": "Sun, 22 Nov 2026 23:00:00 +0000",
+      "title_th": "The pros and cons of sharing your location",
+      "summary_th": "Location sharing has perks from tracking lost gear to staying safe on a night out. Learn what you gain and what you give up before you share."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,18 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "iOS 27 has a clever fix for unreliable Wi-Fi connections",
+      "summary_en": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, or an unlimited plan for just $25 a month, all on America’s largest 5G network. See all of the available plans at tello.com . iOS 27 includes a really clever new feature that aims to solve the awkward middle ground between cellular and Wi-Fi connectivity. Here’s how it works and how you can turn it on. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-rose.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/22/ios-27-has-a-clever-fix-for-unreliable-wi-fi-connections/",
+      "published": "Sun, 22 Nov 2026 22:02:43 +0000",
+      "title_th": "iOS 27 has a clever fix for unreliable Wi-Fi connections",
+      "summary_th": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, or an unlimited plan for just $25 a month, all on America’s largest 5G network. See all of the available plans at tello.com . iOS 27 includes a really clever new feature that aims to solve the awkward middle ground between cellular and Wi-Fi connectivity. Here’s how it works and how you can turn it on. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Apple tested a ‘complication column’ for the iPhone Duo Lock Screen, per leak",
       "summary_en": "Apple made a bunch of changes to iOS to optimize it for the iPhone Duo’s form factor, including revamping the Lock Screen. According to a new leak today, the company has tested another change, referred to as a “complication column.” Here’s what it looks like. 9to5Mac is supported by Sony : Score Sony’s ULT Field 1 Bluetooth speaker for 51% off . Powerful bass, room-filling sound, up to 12 hours of battery life, IP67 durability, stereo pairing support, and much more. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-23.jpg?quality=82&strip=all&resize=1200,628",
@@ -471,16 +483,16 @@
       "summary_th": "Apple’s AirPods Pro 3 have now dropped even lower for Black Friday, with a solid $80 discount to $169.99 shipped – within $1 of the best price ever. Amazon’s Black Friday sale officially started a few days ago, but the deals are heating up again this weekend with the first discount on Apple’s brand new OLED iPad mini , the 2026 AirPods Max 2 down again at $130 off , even deeper discounts on the current-generation Apple Watch SE 3 from $179 , and now, an even lower price on the world’s greatest buds. more…"
     },
     {
-      "source": "9to5Mac",
+      "source": "9to5Google",
       "flag": "",
       "category": "gadget",
-      "title_en": "iOS 27: My favorite new iPhone features (other than AI)",
-      "summary_en": "When Apple released iOS 27 in September, Siri Ai stole a lot of the headline. However, the update also includes plenty of non-AI features that I’ve come to really enjoy. Here are a few of my favorite iOS 27 features (other than Siri and AI). 9to5Mac is supported by Sony : Score Sony’s ULT Field 1 Bluetooth speaker for 51% off . Powerful bass, room-filling sound, up to 12 hours of battery life, IP67 durability, stereo pairing support, and much more. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-lock-screen-clock-small.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/21/ios-27-my-favorite-new-iphone-features-other-than-ai/",
-      "published": "Sat, 21 Nov 2026 22:22:26 +0000",
-      "title_th": "iOS 27: My favorite new iPhone features (other than AI)",
-      "summary_th": "When Apple released iOS 27 in September, Siri Ai stole a lot of the headline. However, the update also includes plenty of non-AI features that I’ve come to really enjoy. Here are a few of my favorite iOS 27 features (other than Siri and AI). 9to5Mac is supported by Sony : Score Sony’s ULT Field 1 Bluetooth speaker for 51% off . Powerful bass, room-filling sound, up to 12 hours of battery life, IP67 durability, stereo pairing support, and much more. more…"
+      "title_en": "Pixel Weather rolls out ‘Report current weather’ to ‘improve local forecasts’",
+      "summary_en": "Google this weekend rolled out the latest update to Pixel Weather with a new reporting feature and small interface tweaks. more…",
+      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Pixel-11-Pro-Weather-App.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5google.com/2026/11/22/pixel-weather-report/",
+      "published": "Sun, 22 Nov 2026 21:12:41 +0000",
+      "title_th": "Pixel Weather rolls out ‘Report current weather’ to ‘improve local forecasts’",
+      "summary_th": "Google this weekend rolled out the latest update to Pixel Weather with a new reporting feature and small interface tweaks. more…"
     },
     {
       "source": "9to5Google",
@@ -531,16 +543,16 @@
       "summary_th": "Folding phones have come in numerous variations over the years as the concept has evolved. The Galaxy Z Fold 8 is the latest evolution that introduces a form factor that fits every user. Its unique design makes it a foldable most people can actually use – which makes it a perfect gift. You might be surprised by what it can do. more…"
     },
     {
-      "source": "9to5Google",
+      "source": "Electrek",
       "flag": "",
-      "category": "gadget",
-      "title_en": "Samsung might copy the iPhone’s Dynamic Island soon, but it actually looks good [Video]",
-      "summary_en": "A new leak suggests that Samsung is preparing to copy the iPhone’s Dynamic Island feature in the not-too-distant future, to an extent that not many other Android brands have even done thus far. more…",
-      "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-privacy-display-20.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5google.com/2026/11/20/samsung-iphone-dynamic-island-feature-leak/",
-      "published": "Sat, 21 Nov 2026 02:45:00 +0000",
-      "title_th": "Samsung might copy the iPhone’s Dynamic Island soon, but it actually looks good [Video]",
-      "summary_th": "A new leak suggests that Samsung is preparing to copy the iPhone’s Dynamic Island feature in the not-too-distant future, to an extent that not many other Android brands have even done thus far. more…"
+      "category": "ev",
+      "title_en": "11-term House rep who mocked a kid’s letter about EVs has lost her seat (Upd.)",
+      "summary_en": "An 83 year old Congressional representative who sent an embarrassing letter to a well-meaning 10 year old constituent on the topic of electric cars and climate change, where she seems to brag about saddling his generation with debt through a recent climate rollback she voted for, has lost her seat. Update: This article was originally posted on May 14, but we wanted to update it with news of the election result. After a recount, Chuck Hubbard has defeated Virginia Foxx by 330 votes, and will go on to represent NC-5 in Congress. more…",
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/05/20200211-OSEC-LSC-0188_49523463572-e1778741712185.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://electrek.co/2026/11/22/this-boomer-rep-mocked-a-child-about-the-4-trillion-debt-she-saddled-him-with/",
+      "published": "Sun, 22 Nov 2026 19:44:00 +0000",
+      "title_th": "11-term House rep who mocked a kid’s letter about EVs has lost her seat (Upd.)",
+      "summary_th": "An 83 year old Congressional representative who sent an embarrassing letter to a well-meaning 10 year old constituent on the topic of electric cars and climate change, where she seems to brag about saddling his generation with debt through a recent climate rollback she voted for, has lost her seat. Update: This article was originally posted on May 14, but we wanted to update it with news of the election result. After a recount, Chuck Hubbard has defeated Virginia Foxx by 330 votes, and will go on to represent NC-5 in Congress. more…"
     },
     {
       "source": "Electrek",
@@ -589,18 +601,6 @@
       "published": "Sun, 22 Nov 2026 02:13:24 +0000",
       "title_th": "Rumor: Hyundai is getting ready to roll out an all-new, all-electric work truck",
       "summary_th": "The last time Hyundai announced a new work truck was 22 years ago, and the Hyundai Porter has proven itself as a dependable workhorse throughout Korea and Southeast Asia – but only the pyramids and the Chevy Express can last forever. Hyundai is reportedly getting ready to pull the wraps off an all-new Porter pickup. This time, it’s electric . more…"
-    },
-    {
-      "source": "Electrek",
-      "flag": "",
-      "category": "ev",
-      "title_en": "Xiaomi’s 1,548 hp electric supercar is going global, starting in the UAE",
-      "summary_en": "As a red wave of Chinese-built electric vehicles breaks over Europe and Canada, Xiaomi is selling its electric cars outside of China for the first time ever – and its starting its push for global growth with the UAE in 2027. more…",
-      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/XIAOMI_MAIN.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://electrek.co/2026/11/21/red-wave-xiaomi-goes-global-with-first-overseas-ev-sales/",
-      "published": "Sun, 22 Nov 2026 01:02:38 +0000",
-      "title_th": "Xiaomi’s 1,548 hp electric supercar is going global, starting in the UAE",
-      "summary_th": "As a red wave of Chinese-built electric vehicles breaks over Europe and Canada, Xiaomi is selling its electric cars outside of China for the first time ever – and its starting its push for global growth with the UAE in 2027. more…"
     }
   ],
   "indices": [
@@ -733,32 +733,32 @@
     {
       "channel": "Beartai",
       "country": "TH",
+      "title_en": "\"อย่ามาเนียน\" ภาษาอังกฤษพูดว่าอะไร? ให้เวลาแค่ 3 วิ!#BTTinglish #Tinglish #btbeartai",
+      "video_id": "2RMbRhx_F18",
+      "link": "https://www.youtube.com/shorts/2RMbRhx_F18",
+      "thumbnail": "https://i3.ytimg.com/vi/2RMbRhx_F18/hqdefault.jpg",
+      "published": "2026-11-23T00:24:49+00:00",
+      "title_th": "\"อย่ามาเนียน\" ภาษาอังกฤษพูดว่าอะไร? ให้เวลาแค่ 3 วิ!#BTTinglish #Tinglish #btbeartai"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "คนส่วนใหญ่ นอนไม่หลับเพราะ ?",
+      "video_id": "uEPW-WWf5kY",
+      "link": "https://www.youtube.com/shorts/uEPW-WWf5kY",
+      "thumbnail": "https://i2.ytimg.com/vi/uEPW-WWf5kY/hqdefault.jpg",
+      "published": "2026-11-22T23:00:22+00:00",
+      "title_th": "คนส่วนใหญ่ นอนไม่หลับเพราะ ?"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
       "title_en": "กดประมูลทีวีทีละ 2 ล้าน แล้ว Facebook ไลฟ์ได้",
       "video_id": "7aTXttNSIVc",
       "link": "https://www.youtube.com/shorts/7aTXttNSIVc",
       "thumbnail": "https://i4.ytimg.com/vi/7aTXttNSIVc/hqdefault.jpg",
       "published": "2026-11-22T06:00:10+00:00",
       "title_th": "กดประมูลทีวีทีละ 2 ล้าน แล้ว Facebook ไลฟ์ได้"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "รีวิว B&W Pi8 หูฟังตัวเล็กรุ่นท็อปแบรนด์อังกฤษ เสียงอิ่มแน่นไฮโซ #BowersWilkins #TWS #Pi8 #btbeartai",
-      "video_id": "9aQMH4QHDA4",
-      "link": "https://www.youtube.com/shorts/9aQMH4QHDA4",
-      "thumbnail": "https://i2.ytimg.com/vi/9aQMH4QHDA4/hqdefault.jpg",
-      "published": "2026-11-22T03:00:38+00:00",
-      "title_th": "รีวิว B&W Pi8 หูฟังตัวเล็กรุ่นท็อปแบรนด์อังกฤษ เสียงอิ่มแน่นไฮโซ #BowersWilkins #TWS #Pi8 #btbeartai"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "ใครปักปากกาได้บ้าง ?",
-      "video_id": "Sprl1EIsBMo",
-      "link": "https://www.youtube.com/shorts/Sprl1EIsBMo",
-      "thumbnail": "https://i4.ytimg.com/vi/Sprl1EIsBMo/hqdefault.jpg",
-      "published": "2026-11-21T23:00:03+00:00",
-      "title_th": "ใครปักปากกาได้บ้าง ?"
     },
     {
       "channel": "Droidsans",
