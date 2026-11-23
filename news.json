@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-23T01:30:39.077357+00:00",
+  "generated_at": "2026-11-23T11:43:28.764987+00:00",
   "count": 50,
   "articles": [
+    {
+      "source": "TechCrunch",
+      "flag": "US",
+      "category": "startup",
+      "title_en": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "summary_en": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
+      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "published": "Mon, 23 Nov 2026 01:25:53 +0000",
+      "title_th": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "summary_th": "Three significant backers share what gave them conviction to bet billions on Anthropic."
+    },
     {
       "source": "TechCrunch",
       "flag": "US",
@@ -51,16 +63,28 @@
       "summary_th": "Journalist Paris Marx unpacks his new book \"Hyperscale.\""
     },
     {
-      "source": "TechCrunch",
+      "source": "The Verge",
       "flag": "US",
-      "category": "startup",
-      "title_en": "TechCrunch Mobility: A/B testing robots vs. humans",
-      "summary_en": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/zoox-las-vegas-Getty.jpg?resize=1200,800",
-      "link": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
-      "published": "Sun, 22 Nov 2026 17:06:00 +0000",
-      "title_th": "TechCrunch Mobility: A/B testing robots vs. humans",
-      "summary_th": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it."
+      "category": "software",
+      "title_en": "Meta Muse can now do your Black Friday shopping at Walmart",
+      "summary_en": "Walmart will now let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without sharing your purchase history, […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Walmart-Meta-Muse-Agent-Gateway.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "published": "2026-11-23T06:00:00-05:00",
+      "title_th": "Meta Muse can now do your Black Friday shopping at Walmart",
+      "summary_th": "Walmart will now let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without sharing your purchase history, […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
+      "category": "software",
+      "title_en": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+      "summary_en": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots. But while the Charmera's usefulness stopped at snapping grainy photos and terrible videos, the Kodak SlideTag goes one step […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/kodak1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+      "link": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+      "published": "2026-11-22T22:00:00-05:00",
+      "title_th": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+      "summary_th": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots. But while the Charmera's usefulness stopped at snapping grainy photos and terrible videos, the Kodak SlideTag goes one step […]"
     },
     {
       "source": "The Verge",
@@ -97,30 +121,6 @@
       "published": "2026-11-22T12:25:20-05:00",
       "title_th": "Binding of Isaac developer removes AI music from Repentance Plus",
       "summary_th": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "software",
-      "title_en": "Some of our favorite Switch 2 games are cheaper through Black Friday",
-      "summary_en": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a $50 off sale on one of its console bundles, Nintendo is also knocking $20 off some of […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/NS2_DonkeyKongBananza_SCRN_25.jpg?quality=90&strip=all&crop=0%2C3.453144302606%2C100%2C93.093711394788&w=1200",
-      "link": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
-      "published": "2026-11-22T12:00:00-05:00",
-      "title_th": "Some of our favorite Switch 2 games are cheaper through Black Friday",
-      "summary_th": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a $50 off sale on one of its console bundles, Nintendo is also knocking $20 off some of […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "gadget",
-      "title_en": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
-      "summary_en": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-noir debut LP that's primarily sung in Urdu. The instrumentation on Khudgarzi draws on traditional South Asian music, including Carnatic and Hindustani styles, […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/a3127600889_10.jpg?quality=90&strip=all&crop=0,23.821989528796,100,52.356020942408",
-      "link": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
-      "published": "2026-11-22T11:33:29-05:00",
-      "title_th": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
-      "summary_th": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-noir debut LP that's primarily sung in Urdu. The instrumentation on Khudgarzi draws on traditional South Asian music, including Carnatic and Hindustani styles, […]"
     },
     {
       "source": "Ars Technica",
@@ -185,62 +185,74 @@
     {
       "source": "Wired",
       "flag": "US",
-      "category": "ai",
-      "title_en": "8 Best Travel Adapters (2026): 20+ Models Tested",
-      "summary_en": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers that I’ve tested myself.",
-      "image": "https://media.wired.com/photos/69f5039cd2f33f723151e0ca/master/pass/The-Best-Travel-Adapters.jpg",
-      "link": "https://www.wired.com/gallery/best-travel-adapters/",
-      "published": "Sun, 22 Nov 2026 12:00:00 +0000",
-      "title_th": "8 Best Travel Adapters (2026): 20+ Models Tested",
-      "summary_th": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers that I’ve tested myself."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "Banks Have Had It Up to Here With Your AI Agent",
-      "summary_en": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
-      "image": "https://media.wired.com/photos/6b0080a25f35c47a5c116087/master/pass/GettyImages-2285133719.jpg",
-      "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
-      "published": "Sun, 22 Nov 2026 11:00:00 +0000",
-      "title_th": "Banks Have Had It Up to Here With Your AI Agent",
-      "summary_th": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "How This Year’s Super El Niño Will Worsen Global Hunger",
-      "summary_en": "While some regions get wetter, others face massive drought. On top of wars and cuts to foreign aid, the weather phenomenon could leave millions of people in vulnerable countries without enough to eat.",
-      "image": "https://media.wired.com/photos/6b00ddb2631c13f3e234776c/master/pass/How-This-Years-Super-El-Nino-Will-Worsen-Global-Hunger-Science-2297395830.jpg",
-      "link": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
-      "published": "Sun, 22 Nov 2026 10:00:00 +0000",
-      "title_th": "How This Year’s Super El Niño Will Worsen Global Hunger",
-      "summary_th": "While some regions get wetter, others face massive drought. On top of wars and cuts to foreign aid, the weather phenomenon could leave millions of people in vulnerable countries without enough to eat."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
-      "category": "ai",
-      "title_en": "The Outages Are Just Getting Started",
-      "summary_en": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
-      "image": "https://media.wired.com/photos/6b00ba06fb286bb31d23be2b/master/pass/Kernel-Panic-Brace-for-More-Outages-Security.jpg",
-      "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
-      "published": "Sat, 21 Nov 2026 13:00:00 +0000",
-      "title_th": "The Outages Are Just Getting Started",
-      "summary_th": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell."
-    },
-    {
-      "source": "Wired",
-      "flag": "US",
       "category": "gadget",
-      "title_en": "Best Power Banks (2026): My Picks After Testing Over 100",
-      "summary_en": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.",
-      "image": "https://media.wired.com/photos/6ac03e8a3c662ead2b64eb3c/master/pass/Best%20Power%20Banks%20102026%20top%20art%20SOURCE%20Amazon.jpg",
-      "link": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
-      "published": "Sat, 21 Nov 2026 12:01:00 +0000",
-      "title_th": "Best Power Banks (2026): My Picks After Testing Over 100",
-      "summary_th": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks."
+      "title_en": "Early Black Friday iPad Deals Already Worth Shopping (2026)",
+      "summary_en": "You might be tempted to wait for Black Friday proper, but some of these early iPad deals are already worth considering.",
+      "image": "https://media.wired.com/photos/6b013bd535cb0e2956884b15/master/pass/The-Best-Early-Black-Friday-iPad-Deals.jpg",
+      "link": "https://www.wired.com/story/best-black-friday-ipad-deals-2026/",
+      "published": "Mon, 23 Nov 2026 11:00:00 +0000",
+      "title_th": "Early Black Friday iPad Deals Already Worth Shopping (2026)",
+      "summary_th": "You might be tempted to wait for Black Friday proper, but some of these early iPad deals are already worth considering."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "States Sue SpaceX Over Grok Deepfakes",
+      "summary_en": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children.",
+      "image": "https://media.wired.com/photos/6b00c213fb286bb31d23bec0/master/pass/Security_Virginia%20and%20Oregon%20Sue%20Grok%20Over%20Nonconsensual%20Intimate%20Imagery_v1.jpg",
+      "link": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+      "published": "Mon, 23 Nov 2026 11:00:00 +0000",
+      "title_th": "States Sue SpaceX Over Grok Deepfakes",
+      "summary_th": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Inside Google’s Failure to Make Google Maps Work for Palestinians",
+      "summary_en": "One product manager made it his mission to accurately map Israeli checkpoints in the West Bank on the world’s most popular navigation app. Then the company undid his work.",
+      "image": "https://media.wired.com/photos/6afcd9e7dd75ebb0e0f145e2/master/pass/business_west_bank_google_maps.jpg",
+      "link": "https://www.wired.com/story/inside-googles-failure-to-make-google-maps-work-for-palestinians/",
+      "published": "Mon, 23 Nov 2026 10:30:00 +0000",
+      "title_th": "Inside Google’s Failure to Make Google Maps Work for Palestinians",
+      "summary_th": "One product manager made it his mission to accurately map Israeli checkpoints in the West Bank on the world’s most popular navigation app. Then the company undid his work."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "A Power Provider for Meta Urged Regulators to Exempt Data Center Plants From Acid Rain Rules",
+      "summary_en": "Before the EPA recommended waiving acid rain regulations for certain data-center power plants, it met with industry players—including Williams, a gas power provider for Meta data centers.",
+      "image": "https://media.wired.com/photos/6b00d5965a6f50dee6f4c70d/master/pass/Gas-Company-Lobbied-EPA-Science-2197414117.jpg",
+      "link": "https://www.wired.com/story/a-power-provider-for-meta-urged-regulators-to-exempt-data-center-plants-from-acid-rain-rules/",
+      "published": "Mon, 23 Nov 2026 10:15:00 +0000",
+      "title_th": "A Power Provider for Meta Urged Regulators to Exempt Data Center Plants From Acid Rain Rules",
+      "summary_th": "Before the EPA recommended waiving acid rain regulations for certain data-center power plants, it met with industry players—including Williams, a gas power provider for Meta data centers."
+    },
+    {
+      "source": "Wired",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Goodbye, World: The End of Programmers",
+      "summary_en": "The last thing you should ever read—and the last thing I may ever write—about the craft of coding.",
+      "image": "https://media.wired.com/photos/6afb501c3f280c58f990fcf3/master/pass/WIRED-MREnglish-AaronFernandez-01.png",
+      "link": "https://www.wired.com/story/goodbye-world-the-end-of-programmers/",
+      "published": "Mon, 23 Nov 2026 10:00:00 +0000",
+      "title_th": "Goodbye, World: The End of Programmers",
+      "summary_th": "The last thing you should ever read—and the last thing I may ever write—about the craft of coding."
+    },
+    {
+      "source": "MIT Technology Review",
+      "flag": "US",
+      "category": "ai",
+      "title_en": "Why using rocks for carbon removal could eventually reduce crop growth",
+      "summary_en": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A number of influential models…",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Drone-Rice-Fields-3.jpg?resize=1200,600",
+      "link": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+      "published": "Mon, 23 Nov 2026 11:00:00 +0000",
+      "title_th": "Why using rocks for carbon removal could eventually reduce crop growth",
+      "summary_th": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A number of influential models…"
     },
     {
       "source": "MIT Technology Review",
@@ -291,16 +303,16 @@
       "summary_th": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor Carlo Pulitano connected a donated liver to a…"
     },
     {
-      "source": "MIT Technology Review",
+      "source": "Engadget",
       "flag": "US",
-      "category": "ai",
-      "title_en": "What a billion-dollar deal says about the US battery market",
-      "summary_en": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than…",
-      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Moses-Lake-Facility_.jpg?resize=1200,600",
-      "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
-      "published": "Thu, 19 Nov 2026 11:00:00 +0000",
-      "title_th": "What a billion-dollar deal says about the US battery market",
-      "summary_th": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than…"
+      "category": "chip",
+      "title_en": "Amazon resorts to package stickers in its fight against NYC's proposed delivery law",
+      "summary_en": "In its latest salvo against New York City's Delivery Protection Act, Amazon is trying to win over residents with a new tactic.",
+      "image": "https://www.engadget.com/img/gallery/amazon-resorts-to-package-stickers-in-its-fight-against-nycs-proposed-delivery-law/l-intro-1795426294.jpg",
+      "link": "https://www.engadget.com/2324629/amazon-resorts-to-package-stickers-in-its-fight-against-nyc-proposed-delivery-law/",
+      "published": "Mon, 23 Nov 2026 09:35:53 +0000",
+      "title_th": "Amazon resorts to package stickers in its fight against NYC's proposed delivery law",
+      "summary_th": "In its latest salvo against New York City's Delivery Protection Act, Amazon is trying to win over residents with a new tactic."
     },
     {
       "source": "Engadget",
@@ -349,18 +361,6 @@
       "published": "Sun, 22 Nov 2026 23:30:00 +0000",
       "title_th": "How to use AI glasses as a teleprompter",
       "summary_th": "If you have the right type of smart glasses, this is an easy feature to enable."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "The pros and cons of sharing your location",
-      "summary_en": "Location sharing has perks from tracking lost gear to staying safe on a night out. Learn what you gain and what you give up before you share.",
-      "image": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-sharing-your-location/l-intro-1794603681.jpg",
-      "link": "https://www.engadget.com/2319550/pros-and-cons-sharing-your-location/",
-      "published": "Sun, 22 Nov 2026 23:00:00 +0000",
-      "title_th": "The pros and cons of sharing your location",
-      "summary_th": "Location sharing has perks from tracking lost gear to staying safe on a night out. Learn what you gain and what you give up before you share."
     },
     {
       "source": "IEEE Spectrum",
@@ -474,13 +474,13 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
-      "title_en": "AirPods Pro 3 just got even cheaper, now $169 ($80 off)",
-      "summary_en": "Apple’s AirPods Pro 3 have now dropped even lower for Black Friday, with a solid $80 discount to $169.99 shipped – within $1 of the best price ever. Amazon’s Black Friday sale officially started a few days ago, but the deals are heating up again this weekend with the first discount on Apple’s brand new OLED iPad mini , the 2026 AirPods Max 2 down again at $130 off , even deeper discounts on the current-generation Apple Watch SE 3 from $179 , and now, an even lower price on the world’s greatest buds. more…",
+      "title_en": "AirPods Pro 3 just got even cheaper, now $149 ($100 off)",
+      "summary_en": "Update 11/23: Amazon just dropped the price on AirPods Pro 3 again to an incredible $149 shipped – that’s the Amazon all-time low at $100 off. Apple’s AirPods Pro 3 have now dropped even lower for Black Friday, with a solid $80 discount to $169.99 shipped – within $1 of the best price ever. Amazon’s Black Friday sale officially started a few days ago, but the deals are heating up again this weekend with the first discount on Apple’s brand new OLED iPad mini , the 2026 AirPods Max 2 down again at $130 off , even deeper discounts on the current-generation Apple Watch SE 3 from $179 , and now, an even lower price on the world’s greatest buds. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/airpods-pro3-holiday.jpg?quality=82&strip=all&resize=1200,628",
       "link": "https://9to5mac.com/2026/11/22/airpods-pro-3-just-got-even-cheaper-now-169-80-off/",
       "published": "Sun, 22 Nov 2026 10:15:48 +0000",
-      "title_th": "AirPods Pro 3 just got even cheaper, now $169 ($80 off)",
-      "summary_th": "Apple’s AirPods Pro 3 have now dropped even lower for Black Friday, with a solid $80 discount to $169.99 shipped – within $1 of the best price ever. Amazon’s Black Friday sale officially started a few days ago, but the deals are heating up again this weekend with the first discount on Apple’s brand new OLED iPad mini , the 2026 AirPods Max 2 down again at $130 off , even deeper discounts on the current-generation Apple Watch SE 3 from $179 , and now, an even lower price on the world’s greatest buds. more…"
+      "title_th": "AirPods Pro 3 just got even cheaper, now $149 ($100 off)",
+      "summary_th": "Update 11/23: Amazon just dropped the price on AirPods Pro 3 again to an incredible $149 shipped – that’s the Amazon all-time low at $100 off. Apple’s AirPods Pro 3 have now dropped even lower for Black Friday, with a solid $80 discount to $169.99 shipped – within $1 of the best price ever. Amazon’s Black Friday sale officially started a few days ago, but the deals are heating up again this weekend with the first discount on Apple’s brand new OLED iPad mini , the 2026 AirPods Max 2 down again at $130 off , even deeper discounts on the current-generation Apple Watch SE 3 from $179 , and now, an even lower price on the world’s greatest buds. more…"
     },
     {
       "source": "9to5Google",
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": 173.5,
-      "change": -7.0,
-      "change_pct": -3.88
+      "price": 176.0,
+      "change": 2.5,
+      "change_pct": 1.44
     }
   ],
   "reviews": [
@@ -733,32 +733,32 @@
     {
       "channel": "Beartai",
       "country": "TH",
+      "title_en": "ไม่ได้จบการเงิน แต่เป็นนักลงทุนระดับโลก",
+      "video_id": "9yNC-_OTm58",
+      "link": "https://www.youtube.com/shorts/9yNC-_OTm58",
+      "thumbnail": "https://i2.ytimg.com/vi/9yNC-_OTm58/hqdefault.jpg",
+      "published": "2026-11-23T06:00:18+00:00",
+      "title_th": "ไม่ได้จบการเงิน แต่เป็นนักลงทุนระดับโลก"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
+      "title_en": "Oakley Meta HSTN  ทำอะไรได้บ้าง?",
+      "video_id": "OhzSRGZZYFI",
+      "link": "https://www.youtube.com/shorts/OhzSRGZZYFI",
+      "thumbnail": "https://i4.ytimg.com/vi/OhzSRGZZYFI/hqdefault.jpg",
+      "published": "2026-11-23T04:00:26+00:00",
+      "title_th": "Oakley Meta HSTN  ทำอะไรได้บ้าง?"
+    },
+    {
+      "channel": "Beartai",
+      "country": "TH",
       "title_en": "\"อย่ามาเนียน\" ภาษาอังกฤษพูดว่าอะไร? ให้เวลาแค่ 3 วิ!#BTTinglish #Tinglish #btbeartai",
       "video_id": "2RMbRhx_F18",
       "link": "https://www.youtube.com/shorts/2RMbRhx_F18",
       "thumbnail": "https://i3.ytimg.com/vi/2RMbRhx_F18/hqdefault.jpg",
       "published": "2026-11-23T00:24:49+00:00",
       "title_th": "\"อย่ามาเนียน\" ภาษาอังกฤษพูดว่าอะไร? ให้เวลาแค่ 3 วิ!#BTTinglish #Tinglish #btbeartai"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "คนส่วนใหญ่ นอนไม่หลับเพราะ ?",
-      "video_id": "uEPW-WWf5kY",
-      "link": "https://www.youtube.com/shorts/uEPW-WWf5kY",
-      "thumbnail": "https://i2.ytimg.com/vi/uEPW-WWf5kY/hqdefault.jpg",
-      "published": "2026-11-22T23:00:22+00:00",
-      "title_th": "คนส่วนใหญ่ นอนไม่หลับเพราะ ?"
-    },
-    {
-      "channel": "Beartai",
-      "country": "TH",
-      "title_en": "กดประมูลทีวีทีละ 2 ล้าน แล้ว Facebook ไลฟ์ได้",
-      "video_id": "7aTXttNSIVc",
-      "link": "https://www.youtube.com/shorts/7aTXttNSIVc",
-      "thumbnail": "https://i4.ytimg.com/vi/7aTXttNSIVc/hqdefault.jpg",
-      "published": "2026-11-22T06:00:10+00:00",
-      "title_th": "กดประมูลทีวีทีละ 2 ล้าน แล้ว Facebook ไลฟ์ได้"
     },
     {
       "channel": "Droidsans",
