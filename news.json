@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T20:55:22.303992+00:00",
+  "generated_at": "2026-11-27T03:39:08.457788+00:00",
   "count": 50,
   "articles": [
     {
@@ -65,6 +65,18 @@
     {
       "source": "The Verge",
       "flag": "US",
+      "category": "software",
+      "title_en": "Netflix’s coziest show has made a very quiet return",
+      "summary_en": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-programming, and even games. It makes it easy for some of the best […]",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-26-at-3.34.34-PM.png?quality=90&strip=all&crop=0%2C3.2347601883764%2C100%2C93.530479623247&w=1200",
+      "link": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+      "published": "2026-11-26T16:00:00-05:00",
+      "title_th": "Netflix’s coziest show has made a very quiet return",
+      "summary_th": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-programming, and even games. It makes it easy for some of the best […]"
+    },
+    {
+      "source": "The Verge",
+      "flag": "US",
       "category": "review",
       "title_en": "The Garmin Forerunner 265S is down to $300, its best price of the year",
       "summary_en": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its OLED touchscreen. When I reviewed it a few years ago, I called it the Goldilocks […]",
@@ -109,18 +121,6 @@
       "published": "2026-11-26T11:55:00-05:00",
       "title_th": "The best Black Friday deals we’ve already found",
       "summary_th": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t necessarily mean you’re getting a historically low price. […]"
-    },
-    {
-      "source": "The Verge",
-      "flag": "US",
-      "category": "review",
-      "title_en": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
-      "summary_en": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First Amendment lawsuit. ABC has accused the FCC of violating its free speech rights and claims the agency \"waged a retaliatory campaign\" against the […]",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25840497/STKP211_BRENDAN_CARR_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "link": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
-      "published": "2026-11-26T11:38:00-05:00",
-      "title_th": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
-      "summary_th": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First Amendment lawsuit. ABC has accused the FCC of violating its free speech rights and claims the agency \"waged a retaliatory campaign\" against the […]"
     },
     {
       "source": "Ars Technica",
@@ -306,6 +306,18 @@
       "source": "Engadget",
       "flag": "US",
       "category": "chip",
+      "title_en": "Backloggd urges users to change their passwords after a breach",
+      "summary_en": "If you use Backloggd, you might need to log in again and reset your password.",
+      "image": "https://www.engadget.com/img/gallery/backloggd-urges-users-to-change-their-passwords-after-a-breach/l-intro-1795728014.jpg",
+      "link": "https://www.engadget.com/2329256/backloggd-breach-november-2026-password-reset/",
+      "published": "Thu, 26 Nov 2026 21:26:47 +0000",
+      "title_th": "Backloggd urges users to change their passwords after a breach",
+      "summary_th": "If you use Backloggd, you might need to log in again and reset your password."
+    },
+    {
+      "source": "Engadget",
+      "flag": "US",
+      "category": "chip",
       "title_en": "1Password says it was hacked but users' vaults are safe",
       "summary_en": "1Password assures customers that their logins and other sensitive information were not compromised in a recent data breach.",
       "image": "https://www.engadget.com/img/gallery/1password-says-it-was-hacked-but-users-vaults-are-safe/l-intro-1795678680.jpg",
@@ -320,7 +332,7 @@
       "category": "chip",
       "title_en": "Amazon workers around the world plan strikes and protests on Black Friday and Cyber Monday",
       "summary_en": "A campaign demanding that Amazon recognize and bargain with unions will see workers in more than 20 countries mobilize.",
-      "image": "https://www.engadget.com/img/gallery/amazon-workers-around-the-world-plan-strikes-and-protests-on-black-friday-and-cyber-monday/l-intro-1795722145.jpg",
+      "image": "https://www.engadget.com/img/gallery/amazon-workers-around-the-world-plan-strikes-and-protests-on-black-friday-and-cyber-monday/l-intro-1795728490.jpg",
       "link": "https://www.engadget.com/2329231/amazon-workers-plan-protests-on-black-friday-and-cyber-monday/",
       "published": "Thu, 26 Nov 2026 19:44:49 +0000",
       "title_th": "Amazon workers around the world plan strikes and protests on Black Friday and Cyber Monday",
@@ -349,18 +361,6 @@
       "published": "Thu, 26 Nov 2026 16:53:58 +0000",
       "title_th": "Workers at GTA 6 studio Rockstar Games vote overwhelmingly against union recognition",
       "summary_th": "The IWGB Rockstar Game Workers Union will continue to organize after only a quarter of workers voted in favor of a formal deal with the studio."
-    },
-    {
-      "source": "Engadget",
-      "flag": "US",
-      "category": "chip",
-      "title_en": "Man sentenced to 47 months in prison after using AI to impersonate streamer N3on",
-      "summary_en": "David Anthony Sanchez, the man who impersonated N3on, scammed victims out of $260,000 worth of cryptocurrency.",
-      "image": "https://www.engadget.com/img/gallery/man-sentenced-to-47-months-in-prison-after-using-ai-to-impersonate-streamer-n3on/l-intro-1795707863.jpg",
-      "link": "https://www.engadget.com/2329150/man-sentenced-to-47-month-prison-sentence-after-using-ai-impersonate-streamer/",
-      "published": "Thu, 26 Nov 2026 15:50:37 +0000",
-      "title_th": "Man sentenced to 47 months in prison after using AI to impersonate streamer N3on",
-      "summary_th": "David Anthony Sanchez, the man who impersonated N3on, scammed victims out of $260,000 worth of cryptocurrency."
     },
     {
       "source": "IEEE Spectrum",
@@ -426,6 +426,30 @@
       "source": "9to5Mac",
       "flag": "",
       "category": "gadget",
+      "title_en": "South Korea proceeds with case over allegedly misleading Apple Intelligence ads",
+      "summary_en": "South Korea’s Fair Trade Commission (KFTC) announced today that it has opened formal proceedings against Apple over its advertising of Apple Intelligence features for the iPhone 16 lineup. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-intelligence-iphone-16.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/26/south-korea-proceeds-with-case-over-allegedly-misleading-apple-intelligence-ads/",
+      "published": "Thu, 26 Nov 2026 22:56:12 +0000",
+      "title_th": "South Korea proceeds with case over allegedly misleading Apple Intelligence ads",
+      "summary_th": "South Korea’s Fair Trade Commission (KFTC) announced today that it has opened formal proceedings against Apple over its advertising of Apple Intelligence features for the iPhone 16 lineup. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
+      "title_en": "Report: Apple accounted for 57% of US smartphone shipments in Q3",
+      "summary_en": "Apple’s share of US smartphone shipments jumped from 50% to 57% year over year last quarter, with the company being the only major smartphone maker to buck the broader trend of declining shipments. Here are the details. more…",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-color-lineup-official.jpg?quality=82&strip=all&resize=1200,628",
+      "link": "https://9to5mac.com/2026/11/26/report-apple-accounted-for-57-of-us-smartphone-shipments-in-q3/",
+      "published": "Thu, 26 Nov 2026 21:09:36 +0000",
+      "title_th": "Report: Apple accounted for 57% of US smartphone shipments in Q3",
+      "summary_th": "Apple’s share of US smartphone shipments jumped from 50% to 57% year over year last quarter, with the company being the only major smartphone maker to buck the broader trend of declining shipments. Here are the details. more…"
+    },
+    {
+      "source": "9to5Mac",
+      "flag": "",
+      "category": "gadget",
       "title_en": "Readdle’s Documents app adds voice recording with transcripts, summaries, more",
       "summary_en": "Readdle updated its Documents app for iPhone and iPad this week with Voice Notes, a new AI-powered feature that lets users record conversations and automatically generate transcripts, summaries, and follow-up notes. Here are the details. more…",
       "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/readdle-documents-voice-notes.jpg?quality=82&strip=all&resize=1200,628",
@@ -457,30 +481,6 @@
       "published": "Thu, 26 Nov 2026 19:52:24 +0000",
       "title_th": "Judge orders Apple to produce 3,200 documents in Epic Games dispute",
       "summary_th": "A federal judge has ordered Apple to produce a random sample of 3,200 documents for Epic Games to review, following Epic’s allegations that Apple improperly withheld more than 122,000 documents related to its proposed App Store commissions. Here are the details. more…"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "9to5Mac Daily: November 26, 2026 – Tech we’re thankful for",
-      "summary_en": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by LiberNovo : If you spend hours at your desk, LiberNovo’s dynamic ergonomic chairs are worth a look. The brand’s Black Friday and Cyber Monday campaign is its biggest promotion of the year, featuring its strongest public pricing of 2026. Sponsored by Roborock. This Black Friday, discover smarter cleaning with Roborock’s 2026 lineup! From the intelligent flagship Saros 20 and powerful Qrevo Edge 3 Pro to the affordable Qrevo S Pro and versatile F25 Steam and F25 XT, there’s a perfect cleaning solution for every home. Enjoy exclusive Black Friday de",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/26/daily-november-26-2026/",
-      "published": "Thu, 26 Nov 2026 18:06:20 +0000",
-      "title_th": "9to5Mac Daily: November 26, 2026 – Tech we’re thankful for",
-      "summary_th": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by LiberNovo : If you spend hours at your desk, LiberNovo’s dynamic ergonomic chairs are worth a look. The brand’s Black Friday and Cyber Monday campaign is its biggest promotion of the year, featuring its strongest public pricing of 2026. Sponsored by Roborock. This Black Friday, discover smarter cleaning with Roborock’s 2026 lineup! From the intelligent flagship Saros 20 and powerful Qrevo Edge 3 Pro to the affordable Qrevo S Pro and versatile F25 Steam and F25 XT, there’s a perfect cleaning solution for every home. Enjoy exclusive Black Friday de"
-    },
-    {
-      "source": "9to5Mac",
-      "flag": "",
-      "category": "gadget",
-      "title_en": "iOS 28 to ‘revamp’ iPhone notifications, per report",
-      "summary_en": "iOS 28 is coming next year, and a new rumor says the update will “revamp the iPhone’s notification system.” This comes as Android has introduced features like “Notification Organizer” to help users sort notifications into different categories. 9to5Mac is sponsored by Sony : Score Sony’s INZONE noise-canceling earbuds for 38% off . These deliver immersive 360 Spatial Sound, active noise canceling, low-latency wireless connectivity, and much more. more…",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/01/ios183-summarize-notifications.jpg?quality=82&strip=all&resize=1200,628",
-      "link": "https://9to5mac.com/2026/11/26/ios-28-to-revamp-iphone-notifications-per-report/",
-      "published": "Thu, 26 Nov 2026 18:04:57 +0000",
-      "title_th": "iOS 28 to ‘revamp’ iPhone notifications, per report",
-      "summary_th": "iOS 28 is coming next year, and a new rumor says the update will “revamp the iPhone’s notification system.” This comes as Android has introduced features like “Notification Organizer” to help users sort notifications into different categories. 9to5Mac is sponsored by Sony : Score Sony’s INZONE noise-canceling earbuds for 38% off . These deliver immersive 360 Spatial Sound, active noise canceling, low-latency wireless connectivity, and much more. more…"
     },
     {
       "source": "9to5Google",
@@ -664,9 +664,9 @@
       "symbol": "DELTA.BK",
       "name": "Delta Electronics",
       "market": "TH",
-      "price": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "price": 172.0,
+      "change": 3.0,
+      "change_pct": 1.78
     }
   ],
   "reviews": [
@@ -733,32 +733,32 @@
     {
       "channel": "Beartai",
       "country": "TH",
-      "title_en": "เกิดมารวย สุดท้ายหมดตัว",
-      "video_id": "mdSif17XH7M",
-      "link": "https://www.youtube.com/shorts/mdSif17XH7M",
-      "thumbnail": "https://i2.ytimg.com/vi/mdSif17XH7M/hqdefault.jpg",
-      "published": "2026-11-26T13:00:30+00:00",
-      "title_th": "เกิดมารวย สุดท้ายหมดตัว"
+      "title_en": "Nvidia เบรกส่งเซิร์ฟเวอร์ AI เข้าไทย 🚫",
+      "video_id": "tkuRR7eQy10",
+      "link": "https://www.youtube.com/shorts/tkuRR7eQy10",
+      "thumbnail": "https://i1.ytimg.com/vi/tkuRR7eQy10/hqdefault.jpg",
+      "published": "2026-11-27T01:00:09+00:00",
+      "title_th": "Nvidia เบรกส่งเซิร์ฟเวอร์ AI เข้าไทย 🚫"
     },
     {
       "channel": "Beartai",
       "country": "TH",
-      "title_en": "ไฟไหม้โรงกลั่นน้ำมันบางจาก ทำไมคุมได้ในราว 30 นาที?",
-      "video_id": "L5uShAz_WtE",
-      "link": "https://www.youtube.com/shorts/L5uShAz_WtE",
-      "thumbnail": "https://i1.ytimg.com/vi/L5uShAz_WtE/hqdefault.jpg",
-      "published": "2026-11-26T12:14:51+00:00",
-      "title_th": "ไฟไหม้โรงกลั่นน้ำมันบางจาก ทำไมคุมได้ในราว 30 นาที?"
+      "title_en": "ข้อนี้รู้ แต่ตอบทันไหม? มีเวลาแค่ 3 วิ คนดูลองตอบไปด้วยนะ!",
+      "video_id": "KPwqyk_S05c",
+      "link": "https://www.youtube.com/shorts/KPwqyk_S05c",
+      "thumbnail": "https://i4.ytimg.com/vi/KPwqyk_S05c/hqdefault.jpg",
+      "published": "2026-11-27T01:00:08+00:00",
+      "title_th": "ข้อนี้รู้ แต่ตอบทันไหม? มีเวลาแค่ 3 วิ คนดูลองตอบไปด้วยนะ!"
     },
     {
       "channel": "Beartai",
       "country": "TH",
-      "title_en": "ไม่มีพายุ แต่น้ำทะเลท่วมเมือง คิงไทด์ทำสถิติแคลิฟอร์เนีย",
-      "video_id": "mhm9vuHAhaI",
-      "link": "https://www.youtube.com/shorts/mhm9vuHAhaI",
-      "thumbnail": "https://i2.ytimg.com/vi/mhm9vuHAhaI/hqdefault.jpg",
-      "published": "2026-11-26T10:04:56+00:00",
-      "title_th": "ไม่มีพายุ แต่น้ำทะเลท่วมเมือง คิงไทด์ทำสถิติแคลิฟอร์เนีย"
+      "title_en": "AI ที่ดี ไม่ได้แปลว่าผู้ป่วยจะได้รับการดูแลที่ดีขึ้น",
+      "video_id": "FbQ4saxRzPA",
+      "link": "https://www.youtube.com/shorts/FbQ4saxRzPA",
+      "thumbnail": "https://i3.ytimg.com/vi/FbQ4saxRzPA/hqdefault.jpg",
+      "published": "2026-11-26T23:00:10+00:00",
+      "title_th": "AI ที่ดี ไม่ได้แปลว่าผู้ป่วยจะได้รับการดูแลที่ดีขึ้น"
     },
     {
       "channel": "Droidsans",
